@@ -1,0 +1,467 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.58-8.77: Good morning and welcome to the Spire Second Quarter Earnings Call. 
+asr:0: OUTPUT 9.39-19.18: All participants will be in listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. 
+asr:0: OUTPUT 20.10-24.56: After today's presentation, there will be an opportunity to ask questions. 
+asr:0: OUTPUT 24.58-33.27: To ask a question, you may press star then one on your telephone keypad. To withdraw your question, please press star then two. 
+asr:0: OUTPUT 33.87-36.56: Please note this event is being recorded. 
+asr:0: OUTPUT 37.16-44.34: I would now like to turn the conference over to Scott Dudley, Managing Director, Investor Relations. Please go ahead. 
+asr:0: OUTPUT 46.77-49.99: Thank you. Good morning and welcome to our second quarter earnings call. 
+asr:0: OUTPUT 50.99-57.26: We issued our earnings news release this morning and you may access it on our website at spireenergy.com under newsroom. 
+asr:0: OUTPUT 58.62-61.26: Here's a slide presentation that accompanies our webcast. 
+asr:0: OUTPUT 61.34-69.85: And you may download it either from the webcast site or from our website under investors and then events and presentations. 
+asr:0: OUTPUT 73.41-76.72: Presenting on the call today are Suzanne Sitherwood, President and CEO. 
+asr:0: OUTPUT 77.42-84.28: Steve Lindsey, Executive Vice President and Chief Operating Officer, and Steve Rasche, Executive Vice President and CFO. 
+asr:0: OUTPUT 87.09-91.27: Before we begin, let me cover our Safe Harbor Statement and use of non-GAAP earnings measures. 
+asr:0: OUTPUT 92.17-101.00: Today's call, including responses to questions, may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. 
+asr:0: OUTPUT 102.08-105.43: Although our forward-looking statements are based on reasonable assumptions,. 
+asr:0: OUTPUT 105.63-112.13: There are various uncertainties and risk factors that may cause future performance or results to be different than those anticipated. 
+asr:0: OUTPUT 112.97-117.50: These risks and uncertainties are outlined in our quarterly and annual filings with the SEC. 
+asr:0: OUTPUT 118.78-127.13: In our comments, we will be discussing net economic earnings, contribution margin, adjusted EBITDA, and adjusted long-term capitalization. 
+asr:0: OUTPUT 127.15-132.85: Which are all non-GAAP measures used by management when evaluating our performance and results of operations. 
+asr:0: OUTPUT 133.89-140.64: Explanations and reconciliations of these measures to their GAP counterparts are contained in our news release and the slide presentation. 
+asr:0: OUTPUT 141.60-144.04: So with that, I will turn the call over to Suzanne. 
+asr:0: OUTPUT 145.11-149.71: Thank you, Scott, and good morning to everyone joining us for our second quarter update. 
+asr:0: OUTPUT 150.39-154.47: I'd like to begin by acknowledging that we're all adjusting to a new normal. 
+asr:0: OUTPUT 155.01-158.66: As we focus on staying safe and healthy during the coronavirus. 
+asr:0: OUTPUT 158.68-167.75: We're living in a world of video calls, FaceTime, webcasts, working from home, wearing face masks, and washing our hands a lot. 
+asr:0: OUTPUT 168.63-176.30: And we're connecting in new ways. Like you, many of us aren't in our offices and aren't able to see one another face to face. 
+asr:0: OUTPUT 177.20-183.94: In fact, today is the second time in nearly two months that Steve Rashi, Steve Lindsey, and I have been in the same location. 
+asr:0: OUTPUT 184.66-189.87: Rest assured that we're distancing and disinfecting and getting the job done. 
+asr:0: OUTPUT 191.33-198.64: It's not easy to stay connected in times like this. At the fire, connecting with us should feel like a handshake at the front door. 
+asr:0: OUTPUT 199.62-207.03: But without the ability to actually shake someone's hand, we found ourselves leaning into other expressions of caring and friendship. 
+asr:0: OUTPUT 207.91-214.31: Like how we listen, how we check on our elderly neighbors, how we smile and wave hello to strangers. 
+asr:0: OUTPUT 215.40-222.04: It's how our crews stop work, take off their hats, and put their hands over their heart when a funeral procession drives by. 
+asr:0: OUTPUT 223.16-230.71: These moments of connection and curing inspire the good in all of us and provide the energy it takes to walk through a time like this. 
+asr:0: OUTPUT 231.63-237.16: A time when some communities are impacted more than others, but none go untouched. 
+asr:0: OUTPUT 238.24-244.44: A time when we understand how essential our service is and how people count on us to deliver. 
+asr:0: OUTPUT 245.53-252.81: A time when safety has an expanded meaning and personal protective equipment becomes an everyday necessity. 
+asr:0: OUTPUT 253.79-259.66: But it's FHIR, it's easier for us to pivot. We have a very clear mission that guides us. 
+asr:0: OUTPUT 260.48-266.75: Answer every challenge, advance every community, and enrich every life through the strength of our energy. 
+asr:0: OUTPUT 268.35-273.27: You see, we believe we are called to answer this and every challenge that arises. 
+asr:0: OUTPUT 273.97-278.58: We know that people rely on our energy every day and that we are an essential service. 
+asr:0: OUTPUT 279.42-289.27: We know that we cannot let our customers and communities down. And we know that safety is a core value, a value at the heart of every decision. 
+asr:0: OUTPUT 290.99-298.40: It's because of this deeply held belief that we set in motion a broad range of protective steps to address the coronavirus health crisis. 
+asr:0: OUTPUT 298.42-301.20: And its economic impact on our customers. 
+asr:0: OUTPUT 301.22-305.27: While passionately protecting the health and safety of our employees and communities. 
+asr:0: OUTPUT 306.59-316.54: We began in early March by activating our Incident Support Team, or the IST, a cross-functional team of 25 leaders from operations and all our shared services. 
+asr:0: OUTPUT 317.70-324.10: The IST has been meeting nearly every morning to discuss challenges, solve issues, and coordinate actions. 
+asr:0: OUTPUT 324.70-332.03: HR policies to supply chain access to PPE and impact to employees, customers, and operations. 
+asr:0: OUTPUT 333.15-341.76: By the middle of March, we activated the highest level of our crisis response plan by convening our Crisis Management Team, or CMT. 
+asr:0: OUTPUT 343.16-347.55: I ask Steve Lindsey to lead this team as Fire Inc's Chief Operating Officer. 
+asr:0: OUTPUT 348.49-356.30: We've immediately gathered all of our chief officers and business unit presidents to quickly make executive decisions around broad ranging challenges. 
+asr:0: OUTPUT 356.94-358.72: Steve will talk more about this in a moment. 
+asr:0: OUTPUT 360.12-365.39: From my perspective, I'd like to say that it's been inspiring to watch the IST and CMT work. 
+asr:0: OUTPUT 366.23-373.29: Together, we bring a collection of expertise to our conversations from the very professional perspective of FIRE's leadership. 
+asr:0: OUTPUT 373.31-380.02: To our external involvement with the American Gas Association and our first-hand conversations with medical experts. 
+asr:0: OUTPUT 380.42-382.50: Yet that many hospital boards we serve on. 
+asr:0: OUTPUT 383.86-388.71: Together, we are careful to balance the needs of our many stakeholders, including you. 
+asr:0: OUTPUT 389.47-393.37: We are communicating early and often with all employees and customers. 
+asr:0: OUTPUT 394.05-400.56: We are connecting regularly with our board and keeping our governors, legislators, and regulators informed every step of the way. 
+asr:0: OUTPUT 401.82-407.05: Most importantly, the CMT is keenly aware of the impact our decisions have on people. 
+asr:0: OUTPUT 408.05-413.81: In everything we do, our goal is to flatten the curve and help control the spread of coronavirus. 
+asr:0: OUTPUT 413.83-418.44: While safely and reliably providing energy for our customers and communities. 
+asr:0: OUTPUT 419.80-427.53: Thank goodness our largest operations are in Missouri and Alabama, areas of the country that have been minimally impacted by the pandemic. 
+asr:0: OUTPUT 428.07-436.02: In fact, only 11 of our 3,500 employees have tested positive for the coronavirus, and all but one person is back to work. 
+asr:0: OUTPUT 437.12-445.19: So, as we work to meet the challenges created by the coronavirus, we remain focused on our strategy to deliver growth and value. 
+asr:0: OUTPUT 445.43-451.43: By growing organically, investing in infrastructure, and advancing through innovation. 
+asr:0: OUTPUT 452.43-458.94: We continue to take steps to ensure that we remain strong, both financially and from an operations perspective. 
+asr:0: OUTPUT 460.00-467.61: We'll hear more on that from Steve and Steve when they discuss our capital spending, including investments in new business and infrastructure upgrades. 
+asr:0: OUTPUT 467.63-472.81: As well as our updated CAPEX forecast that supports our long-term growth outlook. 
+asr:0: OUTPUT 474.71-483.56: As reported in our earnings announcement this morning, our second quarter net economic earnings per share was below last year and our FY20 plan. 
+asr:0: OUTPUT 484.26-491.55: As Steve Rasche will discuss in more detail, the results were driven by lower margins due to warmer weather across our slip print. 
+asr:0: OUTPUT 492.19-495.34: Margins that were not fully mitigated by a regulatory mechanism. 
+asr:0: OUTPUT 496.10-499.96: However, our results were minimally impacted by the coronavirus. 
+asr:0: OUTPUT 501.04-511.77: And finally, we'll spend some time updating you on our process as we continue to pursue favorable regulatory outcomes across our jurisdictions, with a focus on the Ishris case and filings in Missouri. 
+asr:0: OUTPUT 512.47-518.46: With that, I'll turn the call over to Steve Lindsey to discuss our results and coronavirus responses in more detail. 
+asr:0: OUTPUT 519.90-528.37: Thank you, Suzanne. I want to begin by acknowledging the outstanding efforts of our employees during the difficult times brought on by the coronavirus and the resulting economic shutdown. 
+asr:0: OUTPUT 529.19-535.74: You're providing great service for our customers while taking extra care to ensure their health, safety, and well-being, as well as your own. 
+asr:0: OUTPUT 535.76-539.56: And helping support our communities in this time of need. And we all thank you very much. 
+asr:0: OUTPUT 540.60-545.13: Suzanne mentioned we quickly activated the CMT with 10 primary areas of focus. 
+asr:0: OUTPUT 545.83-554.71: Morning, I'd like to take a moment to outline the steps we've taken to address the coronavirus, limit its impact on three of those areas, our employees, customers, and communities. 
+asr:0: OUTPUT 555.56-561.94: Keeping these stakeholders healthy, safe, and supported is more than a priority for us, it's a core value. It's who we are at SPIRE. 
+asr:0: OUTPUT 562.96-571.91: For our employees, we have educated everyone on healthy practices and encouraged people to follow the advice of the experts, including the CDC and other public health organizations. 
+asr:0: OUTPUT 572.71-578.98: Our guidelines include staying home when not feeling well, frequent hand washing, social distancing, and other best practices. 
+asr:0: OUTPUT 580.16-588.09: We implemented policies to help employees handle the impacts of the coronavirus, including taking care of family members or dealing with children being home from school. 
+asr:0: OUTPUT 588.59-591.73: Example of this is the implementation of our emergency leave program. 
+asr:0: OUTPUT 592.79-597.74: For our field workers and technicians, we have taken extra safety precautions to protect them and our customers. 
+asr:0: OUTPUT 598.40-608.15: We pre-screen a customer's premise to ensure that no one is sick or symptomatic before we allow our workers to enter a home or business. And we equip our employees with personal protective equipment. 
+asr:0: OUTPUT 609.91-614.85: For our office-based employees, we implemented a work-from-home policy starting in March and extending through May. 
+asr:0: OUTPUT 615.66-623.48: Along with work from home and social distancing, we've also implemented related policies to eliminate all non-essential travel as well as group meetings and gatherings. 
+asr:0: OUTPUT 624.14-628.57: And across our company, we stepped up the frequency of cleaning and sanitizing our work locations. 
+asr:0: OUTPUT 629.43-634.67: Currently, we're developing work transition plans that include reopening offices and facilities. 
+asr:0: OUTPUT 636.16-647.61: For our customers, we are first and foremost focused on making sure they're well served and that we continue to provide safe and reliable energy that they've come to rely on, regardless of the situation at hand. 
+asr:0: OUTPUT 648.85-652.29: Help reduce customer contact and limit the potential for spreading the illness. 
+asr:0: OUTPUT 653.31-655.74: Postpone work that wasn't time critical or urgent. 
+asr:0: OUTPUT 656.16-664.84: And to help our customers through what is surely a difficult time financially, we work with our regulators to suspend involuntary disconnections and late fees through the end of May. 
+asr:0: OUTPUT 664.86-667.73: While also expanding customer bill assistance programs. 
+asr:0: OUTPUT 668.65-677.22: As a company, we have pledged $500,000 matching gift to augment the contributions made by customers and employees into our Dollar Help program. 
+asr:0: OUTPUT 678.12-683.98: Thousands of customers have already signed up to give and their match gifts total more than $300,000 so far. 
+asr:0: OUTPUT 684.99-690.23: Similarly, we have donated $250,000 to local area food pantries and meal programs. 
+asr:0: OUTPUT 690.85-697.82: From Alabama to Wyoming, we're helping provide about 650,000 meals for families struggling to make ends meet during this time. 
+asr:0: OUTPUT 698.76-705.29: We also led an effort with other companies to donate and set up laptops for children in limited income schools so they're able to learn from home. 
+asr:0: OUTPUT 706.31-712.53: Since we're all in this together, we've been coordinating and staying in close communications with various state and local government bodies. 
+asr:0: OUTPUT 712.55-719.10: Healthcare organizations and industry groups to ensure that we are doing most good by leveraging our collective energy and resources. 
+asr:0: OUTPUT 720.72-728.77: While we've been hard at work to address the impacts of the coronavirus and serve our customers well, we've also remained focused on our business objectives centered on growing our company. 
+asr:0: OUTPUT 729.81-733.69: We continue to invest in organic growth and infrastructure upgrades across our utilities. 
+asr:0: OUTPUT 734.45-744.10: For the first half of fiscal 2020, we invested $53 million in new business, keeping pace with last year's record levels of investment and new premise activations. 
+asr:0: OUTPUT 744.80-748.51: As you can see, our investment in our utilities is expanding. 
+asr:0: OUTPUT 749.37-754.75: Year to date, we've invested $279 million focused on new business and pipeline replacement. 
+asr:0: OUTPUT 755.24-759.74: That's up $24 million or nearly 10% over the first half of last year. 
+asr:0: OUTPUT 761.14-768.13: On the gas related business side, our spend is actually down year over year, largely reflecting the completion of the SPIRE STL pipeline. 
+asr:0: OUTPUT 769.65-778.48: For the full year of fiscal 2020, we've increased our planned capital spend to $640 million, up $30 million from our prior forecasted investment. 
+asr:0: OUTPUT 779.10-788.69: About 88% of our 2020 spend will be on our gas utilities, with two-thirds of the increase, or about $20 million, attributable to utility investment. 
+asr:0: OUTPUT 789.57-793.41: We also plan to invest $10 million in the third quarter at Spire Storage. 
+asr:0: OUTPUT 795.76-808.79: Regulatory mechanisms we have, including incentives to accelerate system upgrades in Missouri and Alabama and real-time rate-making in Alabama, are key to timely recovery and support infrastructure modernization, earnings growth,. 
+asr:0: OUTPUT 808.81-811.99: And better environmental performance through reduced methane emissions. 
+asr:0: OUTPUT 812.93-814.83: As you know from our discussion last quarter,. 
+asr:0: OUTPUT 814.96-820.00: In Missouri, we have been working through a number of ISFRS cases decided by the Missouri Public Service Commission. 
+asr:0: OUTPUT 820.06-828.23: Going back to 2016 that have been challenged and appealed by the Office of Public Counsel and resulted in adverse appellate court rulings late last year. 
+asr:0: OUTPUT 829.17-833.29: At the time of the appeal, court orders, we say we would pursue all avenues. 
+asr:0: OUTPUT 833.55-842.32: Legislative, judicial, and regulatory to preserve the ability to continue investing in the safety, reliability, and environmental performance of our pipeline system. 
+asr:0: OUTPUT 842.88-844.50: While achieving timely recovery. 
+asr:0: OUTPUT 845.95-857.34: At the start of the Missouri legislative session in January, we worked to introduce bills in both the House and Senate to clarify the ISFRA statute as it relates to the eligibility of infrastructure upgrade spend for accelerated recovery. 
+asr:0: OUTPUT 858.14-863.62: The Senate bill passed early March. On May 6th, the House passed the substitution of the Senate bill. 
+asr:0: OUTPUT 864.54-871.27: Given the differences between the versions passed in each chamber, the legislation will now go to conference committee to reconcile the two versions. 
+asr:0: OUTPUT 872.47-876.76: Meanwhile, we have continued to file new interest requests, including one in early February. 
+asr:0: OUTPUT 877.62-884.90: Late last month, we, the staff of the Missouri Public Service Commission and the Office of Public Counsel reached a unanimous stipulation and agreement. 
+asr:0: OUTPUT 885.35-891.93: Subject to Missouri PSC approval that would result in an $11 million annualized increase in interest revenue. 
+asr:0: OUTPUT 893.33-895.96: Regarding the cases subject to the appeals court ruling,. 
+asr:0: OUTPUT 896.28-905.07: These have been remanded back to the Missouri Public Service Commission for final resolution following the denial of our request for the Missouri Supreme Court review in mid-March. 
+asr:0: OUTPUT 905.79-911.71: The Commission has 120 days or until the middle of July to render a decision including whether any refund is required. 
+asr:0: OUTPUT 912.91-918.22: For anyone who would like more detail on the various ISRS cases, there's a table in the appendix of our slide presentation today. 
+asr:0: OUTPUT 920.04-926.23: Finally, in Alabama, we have been implementing new off-system sales and capacity release program that went into effect December 1st. 
+asr:0: OUTPUT 926.89-932.47: We're also continuing to pursue the benefits of the Accelerated Infrastructure Modernization Rider, or AIM,. 
+asr:0: OUTPUT 932.49-940.74: And are on track to achieve the threshold number of miles replaced this year in order to qualify for the ROE Adder in 2021 like we received this past year. 
+asr:0: OUTPUT 941.50-945.11: With that, I'll turn the call over to Steve Rasche for a financial review and update. 
+asr:0: OUTPUT 947.03-950.59: Good morning and let me add my wishes for good health and safety to everyone. 
+asr:0: OUTPUT 950.83-957.88: And a huge shout out to all of our first responders, healthcare workers, and our own team who continue to serve bravely every day. 
+asr:0: OUTPUT 959.28-966.99: Let me cover our quarterly results, the financial impact of coronavirus, and an update to our targets for the second half of our fiscal 2020. 
+asr:0: OUTPUT 968.45-977.36: Turning to our results for the quarter, we delivered consolidated net economic earnings of $144 million, down $3.9 million from last year. 
+asr:0: OUTPUT 978.62-988.47: Our gas utility posted earnings of just over $144 million, down $2.4 million from last year as a result of warmer weather and losses on investments. 
+asr:0: OUTPUT 989.83-992.71: As marketing deliver earnings of just over $5 million. 
+asr:0: OUTPUT 992.89-1000.78: Down just over $1 million from last year as higher volumes from our expansion were offset by less favorable market conditions and higher costs. 
+asr:0: OUTPUT 1002.36-1006.65: And we saw higher earnings from the Spire STL pipeline, which entered service last quarter. 
+asr:0: OUTPUT 1007.37-1014.77: A lower loss from FOSFIRE storage, reflecting the benefits of our operational improvements, and slightly higher corporate costs. 
+asr:0: OUTPUT 1016.50-1023.80: Looking at our per share results, current year earnings of $2.75 per share were down 15 cents from last year. 
+asr:0: OUTPUT 1024.10-1029.73: Reflecting lower earnings as well as the impact of preferred and common stock issued over the last 12 months. 
+asr:0: OUTPUT 1031.47-1039.06: I'd offer two additional comments. First, as Suzanne mentioned, we saw limited financial impact from the coronavirus this quarter. 
+asr:0: OUTPUT 1039.64-1043.36: Since it really didn't hit our service territories until mid-March. 
+asr:0: OUTPUT 1044.12-1046.55: More on the forward impact in a few minutes. 
+asr:0: OUTPUT 1047.83-1057.46: And secondly, as reflected here, net economic earnings continues to include all ISFRS revenues, or saying it another way, excluding the provision we book for gap purposes. 
+asr:0: OUTPUT 1058.10-1064.08: For this quarter, interest revenues subject to a provision were $2.2 million including interest. 
+asr:0: OUTPUT 1064.10-1068.71: Bringing the cumulative provision at March 31 to $16.9 million. 
+asr:0: OUTPUT 1071.13-1077.62: Overall, weather this quarter was warmer than normal by 11% in Missouri and by 26% in Alabama. 
+asr:0: OUTPUT 1078.72-1080.38: Compared to last year's colder weather,. 
+asr:0: OUTPUT 1080.82-1089.73: We saw margins in Missouri decline by $3 million, as slightly lower residential volumetric margins were offset by higher net interest revenues. 
+asr:0: OUTPUT 1090.09-1092.39: Combined with a significant drop in commercial markets. 
+asr:0: OUTPUT 1093.69-1098.28: Our southern utilities showed margin growth as lower demand was offset by annual rate increases. 
+asr:0: OUTPUT 1099.74-1107.27: Margins were also significantly below our expectations of normal weather and mitigation mechanisms that offset that exposure. 
+asr:0: OUTPUT 1108.53-1112.39: Again, in our southern service territories, the mechanisms largely worked as planned. 
+asr:0: OUTPUT 1113.17-1118.90: In Missouri, however, we saw a $7 million negative impact margins against normal weather. 
+asr:0: OUTPUT 1119.80-1121.14: Consisting of two components. 
+asr:0: OUTPUT 1122.10-1123.82: First, WNAR. 
+asr:0: OUTPUT 1124.20-1133.35: This new weather normalization tool was introduced in our last rate proceeding and should ensure that we get the right recovery of the residential volumetric charge. 
+asr:0: OUTPUT 1133.89-1137.62: Not over collecting in cold periods, not under collecting in warmer ones. 
+asr:0: OUTPUT 1138.68-1147.47: While the mechanism did address a portion of our weather deficiencies this quarter, we estimate that it was ineffective by 6%, or roughly $5 million. 
+asr:0: OUTPUT 1149.09-1157.74: Secondly, we saw a shortfall in commercial and industrial margins that do not have weather mitigation in Missouri, even for smaller, more weather-sensitive customers. 
+asr:0: OUTPUT 1158.60-1161.38: Total impact here was about $2 million. 
+asr:0: OUTPUT 1162.86-1164.24: We clearly have some work to do. 
+asr:0: OUTPUT 1165.01-1170.83: Both working with our regulators to improve the effectiveness of our weather mitigation and our next Missouri rate proceeding. 
+asr:0: OUTPUT 1171.19-1176.42: And two, generating earnings from other sources in the back half of 2020 to offset some of this headwind. 
+asr:0: OUTPUT 1178.58-1184.88: There were two other key variances this quarter, O&M expenses and other expenses as outlined here on slide 13. 
+asr:0: OUTPUT 1186.25-1192.67: Total O&M expenses, as reported, were down $12.6 million. And although we have a history of cost control,. 
+asr:0: OUTPUT 1193.23-1197.92: This reduction reflects the benefit of a regulatory deferral of a pension remeasurement charge. 
+asr:0: OUTPUT 1198.66-1202.18: With the offsetting expense recorded in other expenses, as shown here. 
+asr:0: OUTPUT 1202.86-1212.11: Excluding this adjustment, our run rate utility O&M was up $2.9 million or 2.6% due to higher operations and employee costs. 
+asr:0: OUTPUT 1213.65-1221.26: The remaining O&M expenses represent higher marketing costs due to our business growth and the cost of the SPAR STL pipeline, which is now in operations. 
+asr:0: OUTPUT 1223.32-1232.47: The other key variance is in other expenses, with a run rate increase after the adjustment for the pension remeasurement of $6.5 million, reflecting two items. 
+asr:0: OUTPUT 1233.61-1241.24: First, prior years by our STL pipeline AFUDC, which no longer exists and is now in our operating numbers. 
+asr:0: OUTPUT 1241.86-1248.65: And secondly, a $3.6 million swing in returns on investments held to support our non-qualified benefit plans. 
+asr:0: OUTPUT 1249.59-1256.86: Not surprisingly, this year we saw unrealized losses this quarter compared to a much stronger earning stream in the first quarter. 
+asr:0: OUTPUT 1259.80-1269.33: I would note that the explanation of all cost variances, contribution margins, as well as our review of our year-to-date results are included in the appendix to this presentation for your reference. 
+asr:0: OUTPUT 1272.11-1276.74: Since the health crisis began, we've been focused on our liquidity position. 
+asr:0: OUTPUT 1277.40-1287.33: Harkening back to our playbook from the Great Recession, we moved aggressively with the assistance of our bank group to draw on our credit facility in mid-March as the commercial paper market became uneconomic. 
+asr:0: OUTPUT 1288.29-1292.95: In late March, we secured a $150 million term loan to provide additional liquidity. 
+asr:0: OUTPUT 1293.49-1300.48: And we stand in a strong financial position with total available liquidity at March 31 of $661 million. 
+asr:0: OUTPUT 1301.46-1304.02: And a solid long-term capitalization as well. 
+asr:0: OUTPUT 1305.13-1309.77: In fact, we issued equity early in the quarter with proceeds of just under $10 million. 
+asr:0: OUTPUT 1311.79-1319.88: As we turn to the coronavirus impacts on our operating results, a bit of perspective. Roughly 70% of our earnings and margins are residential. 
+asr:0: OUTPUT 1320.84-1326.81: And the current health crisis hit near the end of the winter heating season where we earned a majority of our returns. 
+asr:0: OUTPUT 1327.81-1332.75: As a result, we've been relatively insulated so far from the economic downturn. 
+asr:0: OUTPUT 1333.51-1340.62: We are watching closely our commercial and industrial customers, especially the smaller firms who are bearing the brunt of the current shutdown. 
+asr:0: OUTPUT 1341.30-1346.01: And we are tracking the incremental cost of the actions that Steve and Suzanne touched on a few minutes ago. 
+asr:0: OUTPUT 1347.37-1350.89: Now, none of us have a crystal ball to predict how this situation will play out. 
+asr:0: OUTPUT 1351.79-1361.62: Based on what we know today, including data and regional economic projections, we've constructed a forecast of key impacts based upon the following assumptions. 
+asr:0: OUTPUT 1362.74-1372.55: From an economic standpoint, continuation of the downturn through this quarter, and then a slow ramp-up in activity that will stretch at least through the rest of calendar 2020. 
+asr:0: OUTPUT 1373.89-1381.54: From an operational standpoint, normal weather, a return of normal collection activities, disconnection and late payment fees,. 
+asr:0: OUTPUT 1381.56-1385.05: As well as minimal disruption for our construction crews. 
+asr:0: OUTPUT 1387.05-1390.81: Based on these assumptions, we have estimated the following financial impacts. 
+asr:0: OUTPUT 1392.61-1399.02: As a result of our moratorium on fees, we anticipate losing fee revenue of roughly $1.9 million. 
+asr:0: OUTPUT 1400.96-1409.59: We have seen some decline in our commercial and industrial margins, reflecting both the temporary shutdowns of large manufacturers. 
+asr:0: OUTPUT 1409.61-1413.05: And the anticipated lower demand from our smart commercial accounts. 
+asr:0: OUTPUT 1414.05-1417.98: We estimate that impact to be approximately $2.2 million. 
+asr:0: OUTPUT 1419.88-1425.41: We have not yet seen any appreciable change in our residential margins and we will continue to monitor that closely. 
+asr:0: OUTPUT 1426.49-1431.03: However, we are anticipating a significant increase in bad debts in the coming quarters. 
+asr:0: OUTPUT 1431.91-1436.48: To estimate our exposure, we went back to our records for the last recession in 2008. 
+asr:0: OUTPUT 1437.32-1443.52: When we saw bad debt expense as a percentage of revenue increase about 20 basis points over normal levels. 
+asr:0: OUTPUT 1444.36-1451.15: Applying that experience to our current book of business results, and an estimated exposure of three and a half million dollars. 
+asr:0: OUTPUT 1452.71-1461.28: And of course, we're tracking other direct costs, including the cost of PP&E, enhanced facility cleaning, employee costs for lost time, among others. 
+asr:0: OUTPUT 1463.20-1471.49: We are pursuing opportunities to offset these headwinds, including identifying those costs that would naturally be lower as a result of stay-at-home orders such as travel. 
+asr:0: OUTPUT 1472.47-1474.77: And we're finding additional operating efficiencies. 
+asr:0: OUTPUT 1475.98-1478.98: We're also working with our regulators, as Steve mentioned. 
+asr:0: OUTPUT 1479.32-1485.97: Both as we have been to deal with the immediate impacts to our customers and our business,. 
+asr:0: OUTPUT 1485.99-1491.21: During the quarter and now discussing potential regulatory treatment of the increased cost. 
+asr:0: OUTPUT 1491.23-1497.30: Including bad debts and the cost of responding to the health crisis and helping our customers recover. 
+asr:0: OUTPUT 1499.06-1503.44: Stepping back, our estimates are based upon a current view of the economic recovery. 
+asr:0: OUTPUT 1503.56-1511.87: And as you can see, we have provided sensitivities on each of these key exposures to gauge the impact under a different set of assumptions. 
+asr:0: OUTPUT 1514.27-1519.28: Looking forward, we remain on solid ground and are focused on growth. 
+asr:0: OUTPUT 1519.52-1524.74: As Steve mentioned, we've upgraded our capital investment target for the year to $640 million. 
+asr:0: OUTPUT 1525.47-1532.39: In addition, we've updated our five-year capital investment target now through 2024 to $2.8 billion. 
+asr:0: OUTPUT 1533.13-1541.62: That level of investment is driven by utility infrastructure upgrades and should drive rate-based growth of between 7 and 8 percent for the forecast period. 
+asr:0: OUTPUT 1543.26-1549.57: In addition, we reaffirm our long-term net economics per share growth target of 4% to 7%. 
+asr:0: OUTPUT 1550.99-1559.14: And given the current uncertainty surrounding the resolution of our Missouri interest recovery, we'll continue to refrain from EPS guidance for fiscal year 2020 at this time. 
+asr:0: OUTPUT 1560.58-1566.63: And finally, our financing plans remain on track, with only modest equity needs for the remainder of 2020. 
+asr:0: OUTPUT 1568.01-1576.56: So in summary, we're in solid shape and remain focused on delivering for all of our stakeholders. With that, let me turn it back over to you, Suzanne. 
+asr:0: OUTPUT 1578.14-1586.47: Thank you, Steve and Steve. As we close today's presentation, I think it's important to take a moment to acknowledge the strength of our collective energy. 
+asr:0: OUTPUT 1587.33-1591.07: Fires utilities have been operating for more than 160 years. 
+asr:0: OUTPUT 1591.61-1597.82: Thanks to great leadership, great partnership, and a legacy of hardworking, caring employees,. 
+asr:0: OUTPUT 1597.86-1604.70: We have survived wars, the Great Depression, weather disasters, and the 1918 influenza pandemic. 
+asr:0: OUTPUT 1605.97-1615.16: With a long, successful history and with the support of our investors, our communities and our public policy leaders, we will work our way through the impact of the coronavirus. 
+asr:0: OUTPUT 1615.70-1623.66: We'll do it together, and we'll do it in a way that brings sustained long-term value for our shareholders, customers, and the communities we serve. 
+asr:0: OUTPUT 1624.90-1630.63: Before we open for questions, I'd like to thank SPIRE's employees, many of whom are listening to this webcast. 
+asr:0: OUTPUT 1632.33-1639.98: I know how hard you work and I know how much you care about one another, our customers and the communities that we live and work in. 
+asr:0: OUTPUT 1640.64-1646.37: You make me proud every day and I am forever grateful for the way you rally to answer challenges. 
+asr:0: OUTPUT 1646.77-1651.57: You are leaders, you are conveners, you are helpers, you are heroes. 
+asr:0: OUTPUT 1652.55-1661.52: You understand that fundamentally energy exists to help people and you give your all to deliver energy safely, reliably, and with all your heart. 
+asr:0: OUTPUT 1662.62-1669.39: To the investors and analysts on the call today. We'd like to thank you for your investment and the trust you place in us. 
+asr:0: OUTPUT 1670.15-1679.20: On behalf of our board of directors, our executive team, and our employees, we take that trust very seriously, especially during these uncertain times. 
+asr:0: OUTPUT 1680.16-1689.11: We look forward to seeing you again soon, either as part of the upcoming virtual AGA financial forum or other virtual conferences and roadshows in the months ahead. 
+asr:0: OUTPUT 1689.95-1698.88: Of course, we look forward to the time when we can once again meet face to face. Until then, we wish you well and trust that you will stay safe and healthy. 
+asr:0: OUTPUT 1699.22-1700.64: Now we'll take your questions. 
+asr:0: OUTPUT 1703.48-1711.27: We will now begin the question and answer session. To ask a question, you may press star, then one on your telephone keypad. 
+asr:0: OUTPUT 1711.83-1721.14: If you are using a speakerphone, please pick up your handset before pressing the keys. To withdraw your question, please press star, then two. 
+asr:0: OUTPUT 1721.84-1725.83: At this time, we will pause momentarily to assemble our roster. 
+asr:0: OUTPUT 1730.51-1737.66: The first question comes from Richie Cicirelli with B of A Securities. Please go ahead. 
+asr:0: OUTPUT 1740.00-1744.78: Good morning. Hope everyone's healthy and safe today. Appreciate you taking my question. 
+asr:0: OUTPUT 1747.05-1749.63: We just had a couple here on Izris. 
+asr:0: OUTPUT 1750.49-1755.06: Can you just go over the difference between the two versions of the house and Senate bill? 
+asr:0: OUTPUT 1755.08-1763.18: And where you ultimately expect that to land once it gets reconciled. And then on the recent settlement,. 
+asr:0: OUTPUT 1763.74-1771.51: With the IZRAS filing, what changed this time around with OBC where you were able to garner a settlement there? 
+asr:0: OUTPUT 1774.41-1777.38: Richie, this is Steve Lindsey and I appreciate you calling in as well. 
+asr:0: OUTPUT 1778.90-1781.22: Your first question relative to the legislation. 
+asr:0: OUTPUT 1781.48-1789.81: In terms of the content of our portion, there's really not that much difference between the House and Senate bills. What you have are some things that get attached. 
+asr:0: OUTPUT 1790.01-1792.09: As they go through the process. And so really... 
+asr:0: OUTPUT 1792.75-1796.80: We're fairly consistent with those bills. And again, if you go back to what they're trying to accomplish. 
+asr:0: OUTPUT 1797.42-1803.06: It's to really reinforce what the intent of the statute was when it was put in place over 15 years ago, which is. 
+asr:0: OUTPUT 1803.10-1811.23: Around infrastructure upgrades, particularly around bare steel and cast iron, and to really just kind of codify some of that in terms of the language. 
+asr:0: OUTPUT 1811.59-1819.92: I don't think there's a lot of difference between those two, and that's why when it goes back to the Committee for Reconciliation, there'll be some cleanup relative to the things that are attached there. 
+asr:0: OUTPUT 1820.60-1825.47: Relative to your second part of the question in terms of the stipulation, I think we've just been working collectively. 
+asr:0: OUTPUT 1826.33-1831.33: And again, we felt this way all along that the pipe that we've been replacing. 
+asr:0: OUTPUT 1831.35-1837.12: Meets all the requirements relative to what needs to be part of the infrastructure upgrades included in the ISRS program. 
+asr:0: OUTPUT 1837.76-1843.62: Even to the fact that we still agree that the plastics that we've been replacing are a much more efficient way to upgrade our system. 
+asr:0: OUTPUT 1844.12-1848.43: But this primarily focused on the bare steel and cast iron and did they meet those criteria. 
+asr:0: OUTPUT 1848.45-1852.93: We're providing additional evidence, but I think in terms of the reason that we've got to this,. 
+asr:0: OUTPUT 1852.95-1861.04: Is because we continue to work together to strongly support, again, the intent of why we've been replacing this pipe around safety reliability. 
+asr:0: OUTPUT 1861.06-1863.86: And efficiency of operating our system. So I think it's progress. 
+asr:0: OUTPUT 1864.02-1871.41: If you want to look at it that way and again, even with the cases that are still there, we'll continue to present evidence and hopefully make our case around. 
+asr:0: OUTPUT 1871.57-1876.20: The pipe that had been replaced in previous years is the same criteria that we're using going forward. 
+asr:0: OUTPUT 1878.94-1883.60: Thank you, that's very helpful. And then just around your CapEx profile. 
+asr:0: OUTPUT 1884.40-1889.13: I think you might have been one of the few companies to raise your spending this year for 2020. 
+asr:0: OUTPUT 1890.65-1897.68: Just curious, what's given you the increased confidence to execute on the plan this year, given the. 
+asr:0: OUTPUT 1897.70-1900.84: The headwinds with COVID-related pressures. 
+asr:0: OUTPUT 1903.02-1904.84: Hey Richie, this is Steve, great question. 
+asr:0: OUTPUT 1905.79-1908.75: Couple things, first of all, I guess the downside. 
+asr:0: OUTPUT 1909.33-1919.48: The warmer weather that has impacted our margins is it does give us a little bit better working conditions on our capital spend. And as Steve talked about, we had a strong. 
+asr:0: OUTPUT 1919.64-1923.66: Winter season and now we're heading into the heart of our capitals Fed. 
+asr:0: OUTPUT 1924.04-1925.79: So I think that point number one. 
+asr:0: OUTPUT 1925.87-1938.46: And then number two, playbook for utilities as we look at how we can best try to offset both the headwinds from weather and also the headwinds from coronavirus that we talked about. 
+asr:0: OUTPUT 1938.48-1941.80: Wrapping up our capital spend is one of those activities. 
+asr:0: OUTPUT 1941.84-1944.32: Clearly something that helps get us back to work. 
+asr:0: OUTPUT 1944.44-1960.20: And we're doing it with the cooperation and understanding of all the leaders throughout our states and our jurisdictions. And I think it's just helping us to ensure that not only are we doing the right thing by upgrading our infrastructure, but we're also doing it in a way that's going to make us even more resilient as we go forward. 
+asr:0: OUTPUT 1960.94-1969.91: So I think that it's really just an evolution of all those things. And again, you've seen us ramp up and ramp down in the past, and we think this is an opportunity for us to ramp up a little bit. 
+asr:0: OUTPUT 1970.23-1974.37: And Richie, this is the other Steve. Let me follow up from an operational perspective. 
+asr:0: OUTPUT 1974.55-1981.80: I would like to reinforce that as we, and again, while this past quarter was only really several weeks in terms of the measurement period,. 
+asr:0: OUTPUT 1982.52-1983.82: We never stopped working. 
+asr:0: OUTPUT 1984.28-1991.29: And you'll hear some businesses talk about return to work. We talk about it more as a transition. And if you think about it from a construction and capital perspective,. 
+asr:0: OUTPUT 1991.93-1993.61: We really didn't take our foot off the gas. 
+asr:0: OUTPUT 1993.73-1996.46: We obviously changed some of our processes and procedures. 
+asr:0: OUTPUT 1996.76-2004.72: Relative to personal protective equipment. And to be quite honest, we've limited going into customers' homes to do service tie-overs and change-overs. 
+asr:0: OUTPUT 2005.07-2009.79: We'll go back and do that, but again, in terms of the infrastructure that we've been working on and will continue to. 
+asr:0: OUTPUT 2009.99-2013.17: That really didn't slow down and that's a great tribute to our. 
+asr:0: OUTPUT 2013.19-2024.60: Our frontline employees, the management that's out there that really pull together, if you think about our three strategic areas of focus, one of those is innovation. And we got innovative in the way we're continuing to think about our work. 
+asr:0: OUTPUT 2024.98-2027.43: The other part I would just want to reinforce is that. 
+asr:0: OUTPUT 2027.45-2036.30: Our capital for these type programs is fairly evenly distributed across our three major operating areas in terms of the east side of Missouri, west, and Alabama. 
+asr:0: OUTPUT 2036.76-2041.86: And so we're not just impacted in one area in terms of ratcheting up or back. We're fairly evenly spread. 
+asr:0: OUTPUT 2041.94-2048.73: Even with the new business as well. So if you think about that increase that we saw year to date of nearly 10% that I referenced. 
+asr:0: OUTPUT 2048.89-2054.35: That's pretty evenly spread across all of our operating companies, which I think gives us a good balance as well. 
+asr:0: OUTPUT 2057.04-2059.56: You got it. Thank you very much. I appreciate the color. That's all I had. 
+asr:0: OUTPUT 2063.16-2070.25: The next question comes from Michael Weinstein with Credit Suisse. Please go ahead. Hi. Good morning. 
+asr:0: OUTPUT 2072.51-2081.66: I was wondering if you guys have a better sense at all how whether legislation would preclude the need for a ruling at the Supreme Court or not. 
+asr:0: OUTPUT 2081.78-2084.48: You know at this point i have to confirm with your lawyers. 
+asr:0: OUTPUT 2085.13-2086.35: Maybe outside counsel. 
+asr:0: OUTPUT 2089.41-2098.02: Michael, this is Steve. The Supreme Court opportunity, at least for the rulings that came out of the appellate court, has already passed. 
+asr:0: OUTPUT 2098.18-2101.14: They opted not to take the. 
+asr:0: OUTPUT 2101.52-2112.69: The appeal that we and the Public Service Commission put forth. So really the legislation that Steve Lindsey talked about is the best opportunity for a longer term fix. 
+asr:0: OUTPUT 2112.77-2124.62: We obviously are continuing to work with the Missouri Public Service Commission, the staff, the OPC, and the other intervenors to not only crispen up the support for our filings,. 
+asr:0: OUTPUT 2124.84-2130.19: But then also to get to a more unified view going forward of what makes sense for a customer. 
+asr:0: OUTPUT 2130.65-2137.50: I would just say too that it's all consistent. When we started this journey, we pursued a regulatory, legislative, and judicial. 
+asr:0: OUTPUT 2137.72-2145.65: Outcome and all three of those paths, so we're on track with what we strategically set out to begin with. 
+asr:0: OUTPUT 2147.17-2150.63: What's the July 16th decision that we're waiting on? 
+asr:0: OUTPUT 2152.09-2154.03: Okay, so this would be. 
+asr:0: OUTPUT 2154.25-2159.48: This is on the cases that were remanded back to the commission. So once they go back to the Public Service Commission. 
+asr:0: OUTPUT 2159.50-2166.01: They, in essence, have 120 days to make a decision based on those cases that did not go through to the Supreme Court. 
+asr:0: OUTPUT 2166.43-2175.40: So you got several moving parts that are going on here from the legislative perspective and regulatory, but that is on the cases that were under appeal that have been remanded back to the commission. 
+asr:0: OUTPUT 2175.66-2180.64: Although the decision you're referencing there is a decision by the regulators on the remand. 
+asr:0: OUTPUT 2183.36-2185.17: Been remanded back to the Missouri Commission. 
+asr:0: OUTPUT 2185.75-2194.73: I got it. Okay. And on the guidance, the long-term guidance, the base year is still 2019. 
+asr:0: OUTPUT 2196.32-2200.70: You know, I chuckle, Michael. 
+asr:0: OUTPUT 2201.26-2209.57: I think the answer is if you look at our capital spend program over five years and driving rate basically up to 7 to 8 percent,. 
+asr:0: OUTPUT 2209.61-2214.25: We expect that we should be able to drive the kind of growth that we talked about in the long term over the bottom line. 
+asr:0: OUTPUT 2214.65-2220.08: I chuckle because we're all dealing with and we've spent a lot of time and I know our peers are because you've been on those calls. 
+asr:0: OUTPUT 2220.36-2222.74: A lot of time dealing with the current situation. 
+asr:0: OUTPUT 2223.06-2231.79: In the fullness of time, as we understand what's happening in the current year 2020, we'll find a way to rebase and make sure everybody understands. But right now,. 
+asr:0: OUTPUT 2231.87-2238.58: We're just trying to make sure that we and our customers get through this year and we do it in a fashion that we feel good about so that. 
+asr:0: OUTPUT 2238.80-2243.98: When we hit 2021 and beyond, we're hitting it at full steam with our customers coming along for the ride. 
+asr:0: OUTPUT 2244.46-2253.25: Yeah that would be my understanding i mean i i think a lot of people are trying to look through twenty twenty as a abnormal year so just wanted to see what that's actually. 
+asr:0: OUTPUT 2255.03-2256.76: I think a lot of people would like to look through this year. 
+asr:0: OUTPUT 2257.72-2259.76: Thank you very much guys and stay safe and healthy. 
+asr:0: OUTPUT 2264.12-2268.19: Again, if you have any questions, please press star then 1. 
+asr:0: OUTPUT 2269.25-2277.12: The next question comes from Brian Russo with Zidati. Please go ahead. Hi. Good morning. 
+asr:0: OUTPUT 2280.12-2285.65: Hey, just curious on the weather normalization mechanism in. 
+asr:0: OUTPUT 2285.67-2290.83: Missouri that was quote-unquote ineffective. 
+asr:0: OUTPUT 2291.35-2300.74: What, you know, structurally, what made it ineffective? And what would you need to do in so far as, you know,. 
+asr:0: OUTPUT 2300.76-2307.69: You know, further discussions with regulators and or during your next rate case. 
+asr:0: OUTPUT 2307.71-2311.41: To fix it or can it ever be perfect? 
+asr:0: OUTPUT 2313.67-2320.96: Alright, well good morning. This is Steve Lindsey. Thanks for the question and I wish I knew all the answers to that because it's a very complex formula. 
+asr:0: OUTPUT 2321.52-2326.33: I think the one thing I would say is we have something in place now that we didn't have before, which is positive. 
+asr:0: OUTPUT 2326.97-2334.83: It did help, but it didn't completely address the differences between weather, obviously, and the volumes and the revenues. 
+asr:0: OUTPUT 2335.28-2339.24: So I think there's a couple pieces to it. One is, and I think Steve even mentioned this,. 
+asr:0: OUTPUT 2339.74-2347.97: First of all, it does not even include the small commercial class and some of those others that are really weather sensitive and look and behave a lot like the residential class. 
+asr:0: OUTPUT 2347.99-2353.53: I think that's one opportunity that if you look at other weather normalization mechanisms in the country, they do include that. 
+asr:0: OUTPUT 2353.63-2354.91: So that's clearly an opportunity. 
+asr:0: OUTPUT 2355.34-2362.10: The other is that it's not linear, and what I mean by that is every day isn't the same, every week isn't the same as you go through the month. 
+asr:0: OUTPUT 2362.16-2369.71: So you could have some outcomes that show results of degree days that didn't really translate to the way gas flowed from a customer's perspective. 
+asr:0: OUTPUT 2370.01-2373.57: I think there's opportunity as we move forward and again, it's a start. 
+asr:0: OUTPUT 2373.77-2382.94: It's not perfect, we recognize that and we think we'll be able to make a pretty strong presentation as to where the deficiencies are because again, the program is intended to mitigate risk. 
+asr:0: OUTPUT 2383.12-2392.05: As Steve indicated, if it's too cold, we shouldn't benefit. If it's too warm, we shouldn't be harmed. And it's really to try to tighten that band. And what we would look to do going forward. 
+asr:0: OUTPUT 2392.07-2394.77: Is to tighten the band even closer than what it is now. 
+asr:0: OUTPUT 2396.28-2401.80: Got it. And remind me, what percent of the overall bill is a fixed charge? 
+asr:0: OUTPUT 2405.01-2407.11: And that roughly depends on. 
+asr:0: OUTPUT 2407.17-2415.20: The type of year that you're having, but it could be 25%, 20 to 25% I think, based on a residential customer. 
+asr:0: OUTPUT 2415.22-2421.04: That has variability obviously based on the type of winter that you have because that's where most of the volumetric piece comes in. 
+asr:0: OUTPUT 2423.46-2431.23: Okay, great. And just on the Supreme Court denial of your request for rehearing,. 
+asr:0: OUTPUT 2431.77-2443.44: Remind me how many millions of dollars of revenues is that and when might that impact net economic earnings? 
+asr:0: OUTPUT 2443.46-2445.89: Is it after a commission decision? 
+asr:0: OUTPUT 2446.01-2448.19: So the middle part of July. 
+asr:0: OUTPUT 2448.29-2460.24: Or, you know, from a legal perspective, do you now have, I don't know, more clarity as to, you know, the recovery of those costs? 
+asr:0: OUTPUT 2460.84-2465.35: I'm curious to when a provision might be taken against net economic earnings. 
+asr:0: OUTPUT 2467.17-2469.35: Yeah, Brian, this is Steve Raschi. There's a... 
+asr:0: OUTPUT 2469.37-2479.24: There's a detailed chart in the appendix to our presentation that you can take a look at which really outlines the various layers of ISRIS. 
+asr:0: OUTPUT 2479.98-2482.08: The total provision. 
+asr:0: OUTPUT 2482.10-2490.51: That is the total of all the collections that are included in the rulings that are part of the appellate court. 
+asr:0: OUTPUT 2490.53-2496.36: Decision and then the Supreme Court's decision not to take an order $16.9 million and that. 
+asr:0: OUTPUT 2497.16-2503.26: We continue to collect on those and we're collecting at 2 million and change every quarter. 
+asr:0: OUTPUT 2504.16-2512.81: So up until the time that the Missouri Public Service Commission makes a final determination, we will continue to collect those funds. 
+asr:0: OUTPUT 2513.19-2519.76: I would point out there are various components of that 16.9 million. Part of it has to do with. 
+asr:0: OUTPUT 2519.78-2525.99: The conclusion whether cast iron bare steel is worn out and deteriorated. 
+asr:0: OUTPUT 2526.25-2533.61: And another component about incidental plastic that are replaced along with longer lines of the cast iron bare steel. 
+asr:0: OUTPUT 2534.07-2540.38: And the Public Service Commission is going to have to weigh in based upon the remand from the appellate court on each one of those. 
+asr:0: OUTPUT 2541.08-2546.31: When they reach their decision, and that's that July 15th date that we've been talking about. 
+asr:0: OUTPUT 2546.71-2560.78: Then the commission will not only decide on how to handle each of those individual ISFRS determinations, but it will also determine whether or not. 
+asr:0: OUTPUT 2562.44-2572.13: Determine whether or not the amounts will be refunded to the extent they determine there's a refund or if the amounts will be used in some other fashion. 
+asr:0: OUTPUT 2572.21-2576.70: And the Commission has full right to be able to decide how they want to handle that. 
+asr:0: OUTPUT 2576.98-2598.88: So again, at that point, once we have determination from the Public Service Commission, then I think we're obviously obligated to take a look at our net economic earnings calculation and to the extent that those revenues are now not going to be earned revenues or earnings, then we would adjust our net economics measure at that point. 
+asr:0: OUTPUT 2599.14-2605.51: And just to keep it in perspective, the 16.9, a little over $4 million of that impacts our current year. 
+asr:0: OUTPUT 2605.53-2611.51: The vast majority of it was the initial provision that we booked for the last fiscal year. 
+asr:0: OUTPUT 2613.63-2617.56: Okay, got it. Understood. And then just on the equity. 
+asr:0: OUTPUT 2617.58-2626.93: If I heard you correctly, you issued $10 million of equity in the fiscal second quarter, and that satisfied your needs for the entire year? 
+asr:0: OUTPUT 2628.81-2637.80: No, I mean if you go to our guidance page you can see that we have a guided range of equity of 50 to 100 million dollars. 
+asr:0: OUTPUT 2637.96-2644.02: As our total need for the year. So in the first quarter, we knocked out roughly $10 million of that at the low end. 
+asr:0: OUTPUT 2644.80-2651.33: And the beauty of where we stand is we do have an ongoing discussions with our rating agencies. 
+asr:0: OUTPUT 2651.35-2659.48: We do have some leverage and some cushion in our credit metrics, which are the ones that everybody's always looking at. 
+asr:0: OUTPUT 2659.98-2668.35: We do believe that we will be in the equity markets later this year as long as the markets continue to rebound in an orderly fashion. 
+asr:0: OUTPUT 2668.45-2669.53: But it's not. 
+asr:0: OUTPUT 2669.55-2671.21: Anything we have to do. 
+asr:0: OUTPUT 2671.25-2682.76: But I think our preference is, in order to maintain strong credit metrics and a balanced capital structure, that it would be appropriate for us to get in the range of the equity that we've guided in our long-term guidance. 
+asr:0: OUTPUT 2684.94-2693.23: Okay, and then the February stipulation on 11.1 million revenues under ISRS, is that what you filed for? 
+asr:0: OUTPUT 2696.90-2700.00: Boy, we filed for. 
+asr:0: OUTPUT 2700.38-2712.29: The reason why I'm struggling, Brian, is that we filed for a lot of different numbers because we filed for amounts that had not been awarded for plastics in prior filings. 
+asr:0: OUTPUT 2713.51-2716.68: I think the best number to think about. 
+asr:0: OUTPUT 2716.70-2723.28: I'm in terms of what was our net expectation in terms of what we were going to get out of the filing. It was probably enough. 
+asr:0: OUTPUT 2723.30-2727.79: I don't have it off the top of my head. It was in the high 11s or low $12 million range. 
+asr:0: OUTPUT 2728.03-2737.58: And there's always some difference between what we expect and what we actually get because our interest filings generally include 45 to 60 days worth of work. 
+asr:0: OUTPUT 2737.60-2739.04: Forecasted capital spend. 
+asr:0: OUTPUT 2739.50-2746.93: And so that always gets true up in a rape case and that is clearly what happened in this violent forest. I'm sorry. 
+asr:0: OUTPUT 2748.97-2751.57: And when does the Missouri Legislature end this year? 
+asr:0: OUTPUT 2754.55-2763.74: Well, you know, we're kind of writing the playbook as we go right now. There's probably at least another couple weeks of session. 
+asr:0: OUTPUT 2764.46-2773.83: I know that again, this is not a special session. This was just to start up again and we were very pleased to be included as part of the legislation as being considered. 
+asr:0: OUTPUT 2774.45-2780.16: We came out, or as we talked about, we're out of both chambers and now we're in reconciliation. 
+asr:0: OUTPUT 2780.60-2785.25: So we view that ours is moving forward at a pace that at least we're pleased so far. 
+asr:0: OUTPUT 2787.45-2788.71: Okay, got it. Thank you very much. 
+asr:0: OUTPUT 2792.45-2798.34: The next question comes from Selman Ackul with Stifel. Please go ahead. 
+asr:0: OUTPUT 2799.80-2805.73: Thank you. Good morning. A lot's been asked and answered, so just a few follow-ups and clarifications, if I could. 
+asr:0: OUTPUT 2807.27-2815.58: Just following up on that last question, so we'll get a legislative response one way or another by the end of the month. 
+asr:0: OUTPUT 2816.70-2823.18: If that's successful, then can you, does that have any impact on sort of the July outcome, in your opinion? 
+asr:0: OUTPUT 2825.25-2832.45: Well, I would say that it doesn't directly because it is a looking forward, but I think what it does is give some. 
+asr:0: OUTPUT 2832.47-2840.16: Hopefully guidance to the Commission that what we've been again operating under the assumptions of for over 15 years has been validated. 
+asr:0: OUTPUT 2840.76-2850.29: And has been cleaned up, if you will, in this legislation. Again, we think that everything we've been doing from this point forward, from when the program went into place, has met those requirements. 
+asr:0: OUTPUT 2850.33-2855.06: I think this reinforces that, so hopefully from the Commission's perspective they can use that as. 
+asr:0: OUTPUT 2855.24-2860.48: As part of their decision making in that the infrastructure that we've been upgrading does meet these requirements. 
+asr:0: OUTPUT 2861.76-2866.87: I'm sure everyone on the phone is aware of it, but it's not unusual for a house to produce a bill. 
+asr:0: OUTPUT 2867.29-2872.43: And then the Senate is sent over to the other chamber, in this case the Senate. 
+asr:0: OUTPUT 2872.53-2880.92: They pretty much write it the same way, but not exactly the same way. So then the committees are created and as Steve said, it goes to conference so that they can settle those. 
+asr:0: OUTPUT 2881.46-2885.97: Differences so that's not unusual at all in the legislative process. 
+asr:0: OUTPUT 2887.33-2894.61: Right. Let me just ask this. Your bill is not attached or it doesn't include other things that would be controversial. 
+asr:0: OUTPUT 2894.69-2898.00: Per se, so if it could get to the governor's desk. 
+asr:0: OUTPUT 2899.14-2900.82: I wouldn't call it a. 
+asr:0: OUTPUT 2901.02-2903.96: I wouldn't call it controversial, but like a lot of bills... 
+asr:0: OUTPUT 2903.98-2913.01: They're written in one chamber for a specific need and then it goes to the other chamber and the other chamber adds other elements, which is what happened in this instance. 
+asr:0: OUTPUT 2913.03-2917.62: That's when the two committees come together in conference and sort of clean the bill up. 
+asr:0: OUTPUT 2917.76-2920.88: And that's where we are, and again, that's not uncommon. 
+asr:0: OUTPUT 2924.64-2932.57: I think you referenced additional investment in storage for 10 million. How much more is to go there? 
+asr:0: OUTPUT 2934.79-2942.82: Yeah, this is Steve. We're still in the process of figuring out what our long-term development plan is, obviously given some of the things we've been focused on. 
+asr:0: OUTPUT 2943.18-2950.91: We're clearly very pleased with the operational performance of the storage field this winter and you saw that in the improved operating results. 
+asr:0: OUTPUT 2951.27-2959.48: And we, but we haven't yet come up with the longer range plan, but what our commitment to to our investors and to you all is that. 
+asr:0: OUTPUT 2959.50-2966.73: We'll continue to bring you along for the journey. And so as we think about the amount that we are going to spend between now and the next call,. 
+asr:0: OUTPUT 2966.91-2973.17: That's the ten million dollars that we increased in our in our capital spend target for this year. 
+asr:0: OUTPUT 2974.41-2982.06: And then just kind of going back to the effectiveness of the weather mitigation, and I know you guys are looking at ways to improve that. 
+asr:0: OUTPUT 2982.44-2991.31: Does that, will that have to wait really until you go through your next rate case in order to be improved or could it be improved before then? 
+asr:0: OUTPUT 2993.25-3001.00: That would be, yes, so your question basically answered itself. It is part of the overall rate. 
+asr:0: OUTPUT 3001.02-3003.80: Right structure and so that will be part of our next right filing. 
+asr:0: OUTPUT 3004.94-3019.46: I would say again that's not unusual. The two requirements of a rate case are set revenue requirement and rate design. It's very rare for commissions to take up either rate design or revenue requirement outside of a rate case. 
+asr:0: OUTPUT 3019.60-3022.32: It does occur, but it's very rare. 
+asr:0: OUTPUT 3022.74-3025.61: And I would just add on, I've got a little bit of the floor here. 
+asr:0: OUTPUT 3025.75-3033.11: It's not unusual either for these mitigation mechanisms to be in place as a starting point because they are complex. 
+asr:0: OUTPUT 3033.15-3039.82: And there are different classes of customers and even when in those classes people use energy in different ways, either all heating or. 
+asr:0: OUTPUT 3040.00-3043.18: Summer and more year-round and those sorts of things. 
+asr:0: OUTPUT 3043.40-3045.11: They are a bit complex, so I've... 
+asr:0: OUTPUT 3045.13-3054.31: Like Steve mentioned, I was glad to see the Commission work with us and start and will continue to refine as we file cases over time. 
+asr:0: OUTPUT 3056.50-3065.21: All right, I appreciate it. Thank you very much. Again, if you have a question, please press star then one. 
+asr:0: OUTPUT 3066.05-3071.59: The next question comes from Richard Sunderland with JP Morgan. Please go ahead. 
+asr:0: OUTPUT 3074.75-3082.16: Hi, good morning. Just one from me today. Thanks for taking the time. 
+asr:0: OUTPUT 3082.18-3086.35: The STL pipeline additional capacity. 
+asr:0: OUTPUT 3086.65-3091.63: If I missed this earlier, apologies, but any update on discussions around. 
+asr:0: OUTPUT 3091.65-3099.70: Contracting that and I would imagine there have been some impacts from COVID, so maybe expectations at this point, if any. 
+asr:0: OUTPUT 3102.50-3106.53: Yeah, thank you for the question. We'll continue to look for opportunities, but right now. 
+asr:0: OUTPUT 3106.97-3114.65: First of all, I want to confirm that it did go into service and served this side of the state very well as we went through the winter. 
+asr:0: OUTPUT 3115.24-3122.08: We'll continue to operate that pipeline the way it was designed to do and access gas from the northeast to bring to this side for our customers here. 
+asr:0: OUTPUT 3122.64-3131.75: Again, as opportunities emerge, but I think a lot of those opportunities have probably been put on standstill right now as we're going through some of these challenges. But. 
+asr:0: OUTPUT 3131.83-3136.30: As those opportunities are out there, we'll continue to pursue those with the additional capacity. 
+asr:0: OUTPUT 3138.38-3140.12: Just to follow up real quick. 
+asr:0: OUTPUT 3140.14-3143.64: The opportunities as you see them, would those potentially be. 
+asr:0: OUTPUT 3143.72-3150.21: As soon as say 2021, or is this more of a long dated opportunity to. 
+asr:0: OUTPUT 3150.31-3153.97: Put additional contracts in place and then I guess eventually add compression. 
+asr:0: OUTPUT 3160.22-3163.98: Shared with you in the past, we absolutely can add compression to the pipeline. 
+asr:0: OUTPUT 3165.15-3172.55: And again, I want to echo Steve's comment from an operational perspective. The pipeline has performed very well this past winter. 
+asr:0: OUTPUT 3172.91-3182.60: It's against the backdrop of a warmer winter, but we were able to exercise that pipe pretty well. From pressure and flows and so forth, it operated again very well. 
+asr:0: OUTPUT 3183.10-3191.51: There is additional capacity and we can add compression and there is a market and I suspect some of that will. 
+asr:0: OUTPUT 3191.53-3203.58: Depend on how the natural gas and industry plays out over time. There's been a lot going on in our industry as far as wells and lock-ins and supply sources and those kinds of things. 
+asr:0: OUTPUT 3203.60-3208.89: We'll sort that over time, the pipeline operationally, and there is the market sitting behind it. 
+asr:0: OUTPUT 3209.15-3210.45: We'll see how that plays out. 
+asr:0: OUTPUT 3212.51-3221.52: Thanks for the update. Yeah, thank you. Thank you. Again, if you have a question, please press star, then. 
+asr:0: OUTPUT 3240.46-3245.65: At this time, there are no further questions, so this concludes our question and answer session. 
+asr:0: OUTPUT 3246.73-3251.69: I would like to turn the conference back over to Scott Dudley for any closing remarks. 
+asr:0: OUTPUT 3253.61-3260.00: Well, thank you all for joining us. I know it's a busy earnings day. We're going to be around throughout the rest of the day and we'll look forward to catching up. 
+asr:0: OUTPUT 3265.79-3271.97: The conference is now concluded. Thank you for attending today's presentation. You may now disconnect. 
+asr:0: END

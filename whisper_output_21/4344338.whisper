@@ -1,0 +1,381 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.14-3.56: My name is Christelle, and I will be your conference facilitator this morning. 
+asr:0: OUTPUT 3.98-11.07: At this time, I would like to welcome everyone to Danaher Corporation's first quarter 2020 earnings conference call. 
+asr:0: OUTPUT 11.99-19.58: All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. 
+asr:0: OUTPUT 20.04-24.88: If you would like to ask a question during this time, please press star 1 on your touchtone phone. 
+asr:0: OUTPUT 25.59-30.61: If you would like to withdraw your question, please press the pound key on your telephone keypad. 
+asr:0: OUTPUT 31.19-38.94: I will now turn the call over to Mr. Matt Cogino, Vice President of Investor Relations. Mr. Cogino, please go ahead. 
+asr:0: OUTPUT 40.46-44.64: Thanks, Tristell. Good morning, everyone, and thanks for joining us on the call. 
+asr:0: OUTPUT 44.78-51.91: With us today are Tom Joyce, our President and Chief Executive Officer, and Matt McGrew, our Executive Vice President and Chief Financial Officer. 
+asr:0: OUTPUT 53.07-58.90: I'd like to point out that our earnings release, the slide presentation supplementing today's call, our first quarter. 
+asr:0: OUTPUT 58.92-72.71: 2020 Form 10-Q and the reconciliations and other information required by SEC Regulation G relating to any non-GAAP financial measures provided during the call are all available on the investor section of our website. 
+asr:0: OUTPUT 72.73-76.66: Www.danaher.com under the heading quarterly earnings. 
+asr:0: OUTPUT 78.36-87.43: The audio portion of this call will be archived on the Investor section of our website later today under the heading Events and Presentations and will remain archived until our next quarterly call. 
+asr:0: OUTPUT 88.19-91.91: A replay of this call will also be available until May 21, 2020. 
+asr:0: OUTPUT 93.05-102.76: During the presentation, we will describe certain of the more significant factors that impacted year-over-year performance. The supplemental materials describe additional factors that impacted year-over-year performance. 
+asr:0: OUTPUT 103.68-110.31: Unless otherwise noted, all references in these remarks and supplemental materials to company-specific financial metrics. 
+asr:0: OUTPUT 110.33-114.95: Refer to results from continuing operations that relate to the first quarter of 2020. 
+asr:0: OUTPUT 115.68-120.60: And all references to period-to-period increases or decreases in financial metrics are year-over-year. 
+asr:0: OUTPUT 121.82-129.73: We may also describe certain products and devices which have applications submitted and pending for certain regulatory approvals or are available only in certain markets. 
+asr:0: OUTPUT 131.67-140.22: During the call, we will make forward-looking statements within the meaning of the federal securities laws, including statements regarding events or developments that we believe or anticipate will or may occur in the future. 
+asr:0: OUTPUT 140.94-146.71: These forward-looking statements are subject to a number of risks and uncertainties, including those set forth in our SEC filings. 
+asr:0: OUTPUT 146.73-151.33: And actual results might differ materially from any forward-looking statements that we make today. 
+asr:0: OUTPUT 152.05-160.52: These forward-looking statements speak only as of the date that they are made, and we do not assume any obligation to update any forward-looking statements except as required by law. 
+asr:0: OUTPUT 161.68-165.69: As a result of the size of the Scytiva acquisition and its impact on Danner's overall cork. 
+asr:0: OUTPUT 165.71-169.25: Revenue growth profile starting with the second quarter of 2020. 
+asr:0: OUTPUT 169.27-176.98: We intend to present core revenue growth on a basis that includes CITIVA as if the business had been owned for the current period and a comparable prior year period. 
+asr:0: OUTPUT 178.20-180.00: With that, I'd like to turn the call over to Tom. 
+asr:0: OUTPUT 182.68-185.07: Thanks Matt and good morning everyone. 
+asr:0: OUTPUT 186.61-191.99: I'd like to start off today by recognizing our associates around the world. 
+asr:0: OUTPUT 192.01-197.06: For their dedication and invaluable contributions during this unprecedented time. 
+asr:0: OUTPUT 198.18-203.32: Their response to the COVID-19 pandemic has been humbling and inspiring. 
+asr:0: OUTPUT 204.36-208.39: They're working tirelessly to ensure our facilities are up and running. 
+asr:0: OUTPUT 209.05-215.08: So that we can continue to provide customers with the tools necessary to carry out their essential work. 
+asr:0: OUTPUT 216.16-220.66: Our suppliers have also been incredibly supportive as this crisis has unfolded. 
+asr:0: OUTPUT 221.38-229.81: Every one of our associates, customers, and business partners is making a difference today, and I'm incredibly grateful for their collective efforts. 
+asr:0: OUTPUT 231.23-237.74: Given how top of mind the impact of the virus is, we thought we would structure the call a little differently this quarter. 
+asr:0: OUTPUT 238.50-241.02: Before we run through our first quarter results. 
+asr:0: OUTPUT 241.32-248.59: I'll highlight a number of our innovative solutions that are part of the direct response helping to fight COVID-19. 
+asr:0: OUTPUT 249.51-255.46: I'll provide a recap of the trends we saw across our end markets through the month of April. 
+asr:0: OUTPUT 256.18-261.88: And I'll wrap up with a few words on our announcement about the upcoming CEO transition. 
+asr:0: OUTPUT 263.60-271.67: At Danaher, we are incredibly fortunate to navigate these turbulent times from a position of strength. 
+asr:0: OUTPUT 271.69-279.26: With a resilient portfolio of businesses, an extremely talented team, and the Danaher Business System as our driving force. 
+asr:0: OUTPUT 280.22-285.31: These recent events have certainly presented a number of unforeseen challenges across our businesses. 
+asr:0: OUTPUT 286.07-294.47: But they've also created opportunities for us to support our customers and the global community in the unprecedented fight against COVID-19. 
+asr:0: OUTPUT 295.68-301.88: We're proud to support frontline health care providers with much needed diagnostic testing capabilities today. 
+asr:0: OUTPUT 302.74-307.71: And to support the pursuit of new treatments and vaccines for the future. 
+asr:0: OUTPUT 309.21-321.42: As we collectively strive to contain this novel virus, diagnostic testing provides essential information to help us better understand and ultimately curb the spread of COVID-19. 
+asr:0: OUTPUT 322.44-333.07: IDT was an early leader in this effort as their primer and probe kits provide a key detection component in COVID-19 diagnostic tests. 
+asr:0: OUTPUT 333.89-341.24: To date, IDT has shipped kits to enable more than 30 million diagnostic tests for the virus. 
+asr:0: OUTPUT 342.64-353.25: In March, Cepheid launched the first rapid molecular test related to COVID-19 that provides highly accurate results within 45 minutes. 
+asr:0: OUTPUT 354.45-362.90: With a leading global installed base of more than 23,000 molecular diagnostic instruments, including 5,000 in the US. 
+asr:0: OUTPUT 363.68-370.05: SEVIUS tests are being deployed on the front lines to test patients and protect health care workers. 
+asr:0: OUTPUT 371.25-377.70: Since Cepheid's test became available, the team has shipped approximately 2 million test cartridges. 
+asr:0: OUTPUT 378.28-387.85: And going forward, we now expect to be able to ship approximately 6 million tests per quarter, greatly exceeding our initial expectations. 
+asr:0: OUTPUT 388.93-398.44: Recently published independent studies indicate that Cepheid's test performance is best in class versus other point of care platforms on the market today. 
+asr:0: OUTPUT 398.62-403.92: Providing superior virus detection with one of the fastest time to results. 
+asr:0: OUTPUT 405.09-417.14: The market-leading caliber of Cepheid's test, combined with their significant production ramp-up, is a testament to this innovative team's commitment to tackle this global health crisis head-on. 
+asr:0: OUTPUT 418.86-426.33: At Beckman Coulter Diagnostics, the team announced that it is developing assays to identify antibodies to the virus. 
+asr:0: OUTPUT 427.07-436.80: We expect these antibody assays will play a critical role in understanding immunity and in turn, improving the world's ability to manage COVID-19 going forward. 
+asr:0: OUTPUT 437.96-445.19: Beckman will be launching one of these assays shortly, a high sensitivity automated IgG serology test. 
+asr:0: OUTPUT 446.03-454.77: The team plans to ramp production capability to more than 2 million tests in May and over 30 million tests per month by the end of June. 
+asr:0: OUTPUT 455.86-462.96: This assay will be able to run on Beckman's global installed base of more than 16,000 immunoassay analyzers. 
+asr:0: OUTPUT 464.74-470.25: As we look ahead toward potential new therapeutics and vaccines for COVID-19,. 
+asr:0: OUTPUT 470.31-478.76: Paul and Saiteva are supporting biotech researchers and manufacturers around the world who are working tirelessly to find a cure. 
+asr:0: OUTPUT 479.74-486.27: Polish filtration solutions are designed into the bioproduction process of multiple leading vaccine candidates. 
+asr:0: OUTPUT 487.09-491.17: And Cyteva is supporting numerous vaccine programs in development. 
+asr:0: OUTPUT 491.19-497.98: Providing specific prototype affinity resins, and helping them prepare to scale up production volumes. 
+asr:0: OUTPUT 498.94-510.23: These are just a few examples of how we're helping to accelerate our customers' important pursuit of COVID-19 testing, treatment, prevention, and ultimately a cure. 
+asr:0: OUTPUT 511.47-518.70: Speaking of Cyteva, I want to take this opportunity to officially welcome the team to Danaher. We're thrilled to have them on board. 
+asr:0: OUTPUT 519.68-535.16: With the addition of Cytiva, we've doubled our annual revenue in the highly attractive biopharmaceutical end market to more than $5 billion, which represents approximately 50% of our Life Science Platform's annual revenue. 
+asr:0: OUTPUT 535.92-540.42: With a more comprehensive offering across the entire bioproduction workflow. 
+asr:0: OUTPUT 540.64-548.29: We're better able to support our customers who are working to deliver more life-saving drugs faster and at a lower cost. 
+asr:0: OUTPUT 548.37-553.39: An important endeavor that's certainly accentuated by today's global health crisis. 
+asr:0: OUTPUT 554.49-561.38: Sateva is off to a great start here in 2020 and achieved approximately 10% revenue growth in its first quarter. 
+asr:0: OUTPUT 562.46-566.55: Given the significance of the acquisition to our operating results,. 
+asr:0: OUTPUT 566.57-574.35: We will include CITIBA's performance as part of our overall core growth revenue metric beginning in the second quarter. 
+asr:0: OUTPUT 575.88-577.80: So now let's take a look at our first quarter results. 
+asr:0: OUTPUT 578.78-586.07: Sales grew 3% to $4.3 billion, driven by 4.5% core revenue growth. 
+asr:0: OUTPUT 586.95-592.03: The impact of foreign currency translation decreased revenues by 1.5%. 
+asr:0: OUTPUT 593.35-603.26: Geographically, high single-digit revenue growth in the developed markets was partially offset by high single-digit declines in high-growth markets. 
+asr:0: OUTPUT 604.34-611.43: Revenue in China was down more than 25% as a result of extensive shutdowns related to COVID-19. 
+asr:0: OUTPUT 612.57-623.72: While January and February were solid across North America and Western Europe, we saw a downturn in demand toward the end of the quarter when the pandemic became more severe across these regions. 
+asr:0: OUTPUT 625.37-633.09: Gross profit margin for the first quarter was 56.2% and operating profit margin was 16.1%. 
+asr:0: OUTPUT 634.11-639.52: Adjusted diluted net earnings per common share were $1.05. 
+asr:0: OUTPUT 641.04-651.39: We generated $694 million of free cash flow, a 21% increase year over year, helping to support our strong financial position. 
+asr:0: OUTPUT 653.13-656.28: Now we'll take a more detailed look at the results across the portfolio. 
+asr:0: OUTPUT 657.32-664.90: Life Science reported revenue increased 1.5%, with core revenue growth of 2.5%. 
+asr:0: OUTPUT 664.92-672.69: Led by high single-digit or better core revenue growth at Paul, IDT, and Beckman Life Sciences. 
+asr:0: OUTPUT 673.99-682.74: The global effort to develop COVID-19 related testing and treatments drove demand for our bioprocessing, genomic, and automation solutions. 
+asr:0: OUTPUT 683.80-692.21: That strong performance was partially offset by declines in our more instrument-oriented businesses, like Microsystems and Cyax. 
+asr:0: OUTPUT 692.23-697.16: Which were negatively impacted by deferrals of large capital equipment purchases. 
+asr:0: OUTPUT 698.00-707.69: This dynamic was particularly acute in academic research, as most of these labs around the world remained closed due to COVID-19 related shutdowns. 
+asr:0: OUTPUT 709.69-713.81: Moving to diagnostics, reported revenue was up 6%. 
+asr:0: OUTPUT 713.83-721.32: With 8% core revenue growth led by very strong results at our point of care businesses, Cepheid and Radiometer. 
+asr:0: OUTPUT 722.40-730.09: Cepheid achieved more than 40% core revenue growth with broad-based strength across all major product lines and geographies. 
+asr:0: OUTPUT 731.07-740.80: Particular strength in Cepheid's flu assay was driven by the combination of a more severe flu season and increased testing during the coronavirus outbreak. 
+asr:0: OUTPUT 741.86-751.83: We also saw early strong demand for Cepheid's COVID-19 test, which received US FDA emergency use authorization at the end of March. 
+asr:0: OUTPUT 753.53-757.20: Our radiometer business achieved high teens core revenue growth. 
+asr:0: OUTPUT 757.96-769.63: Surges in hospitalized patients being treated for COVID-19 drove demand for radiometers, blood gas instruments, and tests, a key parameter to monitor in critically ill patients. 
+asr:0: OUTPUT 770.55-777.72: With the largest global installed base of blood gas instruments, radiometers well positioned to support clinicians and patients. 
+asr:0: OUTPUT 777.74-781.34: Through this unprecedented healthcare challenge and beyond. 
+asr:0: OUTPUT 783.36-787.53: Beckman Coulter Diagnostics Core Revenue decreased mid-single digits. 
+asr:0: OUTPUT 788.17-797.90: Solid performance in North America and Western Europe was offset by significant declines in China as a result of the extensive shutdowns initiated in January. 
+asr:0: OUTPUT 798.72-808.11: These containment measures resulted in very few patients going to hospitals for treatments or procedures that were not COVID, not related to COVID-19. 
+asr:0: OUTPUT 808.21-811.79: Which greatly reduced core laboratory testing volumes. 
+asr:0: OUTPUT 813.83-821.94: Moving to our environmental and applied solutions segment, reported revenue increased 1% with 2.5% core revenue growth. 
+asr:0: OUTPUT 822.94-830.67: In our water quality platform, mid-single-digit core revenue growth was led by double-digit core revenue growth at Chemtree. 
+asr:0: OUTPUT 831.37-840.94: Our water businesses provide essential products and solutions used to test and treat water around the world. A mission critical service in any economic environment. 
+asr:0: OUTPUT 841.90-856.14: Good demand for our consumables and chemistries continued, while equipment sales declined toward the end of the quarter, as the broader macro uncertainty prompted many customers and municipalities to postpone larger expenditures. 
+asr:0: OUTPUT 857.74-868.43: Core revenue at our product identification platform was down low single digits, with growth in marking and coding offset by declines in our packaging solutions businesses. 
+asr:0: OUTPUT 869.39-872.37: At Video Jet, equipment sales were down. 
+asr:0: OUTPUT 872.49-885.49: But we saw strong demand for consumables across consumer packaged goods, medical, and food and beverage end markets as widespread shelter-in-place orders drove a surge in consumer purchases. 
+asr:0: OUTPUT 887.47-889.91: So the first quarter was challenging on many fronts. 
+asr:0: OUTPUT 890.39-900.90: But we believe that the combination of our outstanding team's DBS-driven execution and differentiated portfolio enabled Danaher to outperform on a relative basis. 
+asr:0: OUTPUT 903.04-904.96: So moving on to what we saw in April. 
+asr:0: OUTPUT 906.03-914.91: The trends across our end markets through the month were largely a continuation of the dynamics that began to take hold during the last few weeks of March. 
+asr:0: OUTPUT 915.90-920.06: We continue to see a bifurcation across our life science and markets. 
+asr:0: OUTPUT 920.82-929.89: COVID-19 related research and development increased significantly over the last 60 days among our pharmaceutical and biotech customers. 
+asr:0: OUTPUT 929.91-937.26: Particularly in areas like antiviral therapies, vaccine development, and immune response research and testing. 
+asr:0: OUTPUT 938.30-944.20: In turn, this generates strong demand for our bioprocessing, genomic, and automation solutions. 
+asr:0: OUTPUT 945.33-950.69: Good momentum also continued for other non-COVID-19 related bioprocessing. 
+asr:0: OUTPUT 950.71-957.32: Driving demand for filtration, chromatography, single use, and cell and gene therapy products. 
+asr:0: OUTPUT 958.66-967.55: However, most academic research labs in the US and Europe remain closed and labs in China have only recently started to reopen. 
+asr:0: OUTPUT 968.73-974.51: These closures have resulted in significant installation delays for existing instrument orders. 
+asr:0: OUTPUT 974.73-981.76: And it appears that customers are holding off on new capital purchases until the labs reopen and they fully return to work. 
+asr:0: OUTPUT 983.54-993.25: Looking across clinical diagnostics, we continued to see very strong demand through April for molecular point of care and acute care testing. 
+asr:0: OUTPUT 993.27-997.08: Which is also driving increased instrument placements globally. 
+asr:0: OUTPUT 998.24-1003.22: This contrasted with lower activity in hospital labs and reference labs. 
+asr:0: OUTPUT 1003.24-1012.35: Where the significant declines in elective procedures, emergency department visits, and wellness checks continue to negatively impact testing volumes. 
+asr:0: OUTPUT 1013.31-1019.64: We also saw delayed orders and deferred new spending on larger capital equipment in these labs. 
+asr:0: OUTPUT 1021.36-1027.61: In the applied markets, the divergence of demand between consumables and equipment persisted through April. 
+asr:0: OUTPUT 1028.25-1037.58: Consumables remain solid as customers sustain essential business operations like testing and treating water and safely packaging consumer product goods and medicine. 
+asr:0: OUTPUT 1038.30-1046.19: But equipment purchases are being delayed as mission critical operating expenses are prioritized over larger capital investment. 
+asr:0: OUTPUT 1047.95-1057.34: The cadence of these end market dynamics appears to be consistent with the spread of the virus, with the negative impact in North America and Western Europe trailing that of China. 
+asr:0: OUTPUT 1058.42-1060.66: China gradually improved in April. 
+asr:0: OUTPUT 1060.96-1069.67: As lockdowns were lifted and businesses started to reopen, and revenue growth was slightly better than initial expectations heading into the quarter. 
+asr:0: OUTPUT 1070.73-1079.74: In North America and Western Europe, we believe that the clients are beginning to stabilize and expect modest sequential improvements over the next few months. 
+asr:0: OUTPUT 1079.76-1083.12: As these regions begin to gradually reopen. 
+asr:0: OUTPUT 1084.48-1094.39: In light of these recent trends, we expect second quarter core revenue growth, including CITIVA, to be in the range of flat to down 10%. 
+asr:0: OUTPUT 1096.44-1100.28: So to wrap up, as I reflect on the events of the last few months,. 
+asr:0: OUTPUT 1100.56-1106.65: I am humbled by our team's dedication and innovative response to this unprecedented crisis. 
+asr:0: OUTPUT 1107.45-1114.99: True to our core values, our associates are listening to our customers and innovating to help address their toughest challenges. 
+asr:0: OUTPUT 1115.82-1124.44: Never before have these challenges been more collectively urgent and abundant, and I'm so proud of how our associates have risen to the occasion. 
+asr:0: OUTPUT 1125.55-1130.77: Looking ahead, we feel very well positioned to navigate through this uncertain environment. 
+asr:0: OUTPUT 1131.63-1142.66: We believe that the combination of our outstanding portfolio, exceptional team, and DBS-driven execution will continue to differentiate Danaher in 2020 and beyond. 
+asr:0: OUTPUT 1144.66-1151.33: Now before we go to Q&A, I want to address the press release that went out last night regarding our upcoming CEO transition. 
+asr:0: OUTPUT 1152.61-1160.90: After more than 30 years at Danaher, including the last six as CEO, I've decided to begin the transition to retirement. 
+asr:0: OUTPUT 1161.90-1165.71: I do this knowing that Danaher has never been stronger. 
+asr:0: OUTPUT 1166.65-1175.46: The combination of our portfolio, enhanced execution around innovation, and our seasoned leadership team driven by the Dan Hurt Business System. 
+asr:0: OUTPUT 1175.48-1178.62: Create a strong foundation for continued outperformance. 
+asr:0: OUTPUT 1180.00-1189.51: I have loved every day of the past three decades. And throughout my entire day in her career, I've been privileged to be part of an incredible team. 
+asr:0: OUTPUT 1190.85-1199.92: I've always considered the primary responsibilities of my current role to be focused on deploying capital efficiency, enhancing the portfolio,. 
+asr:0: OUTPUT 1199.94-1203.48: Driving innovation and developing talent. 
+asr:0: OUTPUT 1205.07-1210.77: And I can now look back fondly on the tremendous progress we've made on all these fronts. 
+asr:0: OUTPUT 1211.93-1215.52: I plan to see the Corporation through the challenges of the next few months. 
+asr:0: OUTPUT 1215.84-1222.58: And I'm confident that our portfolio and the team are both in a fantastic position to thrive in the years to come. 
+asr:0: OUTPUT 1224.06-1232.87: Many of you know Rainer Blair well, from his days as president of SciX and more recently as our EVP leading the evolution of our life science platform. 
+asr:0: OUTPUT 1233.09-1242.76: Enhancing the platform's growth and margin profile, while leading the acquisitions of Paul, IDT, and Cytiva, to name just a few. 
+asr:0: OUTPUT 1243.76-1247.93: There is no question that Reiner is the right person to lead us into the future. 
+asr:0: OUTPUT 1248.77-1251.55: With the support of our senior leadership team and our board. 
+asr:0: OUTPUT 1251.57-1260.22: I'm confident that Reiner is well prepared to execute our strategic priorities and continue creating significant value for our shareholders. 
+asr:0: OUTPUT 1261.64-1267.57: So what's next for me? Well, first off, that question is one for several months from now. 
+asr:0: OUTPUT 1268.39-1276.96: But I'm looking forward to spending more time with my family, and I'll continue to serve on the boards of MedStar Health and the College of the Holy Cross. 
+asr:0: OUTPUT 1278.00-1285.49: I'll remain in the CEO role through September 1st of this year, and I'll be around into 2021 in an advisory role. 
+asr:0: OUTPUT 1286.29-1294.47: But for now, and as soon as we finish this call, we will be right back to work because we have a lot to do in the coming months. 
+asr:0: OUTPUT 1295.12-1299.02: With that, I'll turn the call back over to Matt so we can start taking your questions. 
+asr:0: OUTPUT 1301.12-1305.83: Thanks, Tom. That concludes our formal comments. Christelle, we're now ready for questions. 
+asr:0: OUTPUT 1307.39-1316.34: Thank you. Once again, to ask a question, please press star 1. Your first question comes from the line of Derek DeBruin with Bank of America. 
+asr:0: OUTPUT 1318.44-1319.68: Hi good morning. 
+asr:0: OUTPUT 1319.98-1321.72: Hey, Derek. Hey. 
+asr:0: OUTPUT 1322.70-1330.31: So a couple of questions and then I'll congratulate you on the retirement. I'm jealous by the way. 
+asr:0: OUTPUT 1333.09-1334.59: So to start off,. 
+asr:0: OUTPUT 1334.81-1344.18: So, can you tell us what you're embedding into the guide in the 2Q for COVID-related contributions. 
+asr:0: OUTPUT 1344.28-1349.55: Mean you're producing a lot of sepia test you know the serology's ramping. 
+asr:0: OUTPUT 1350.63-1355.54: I guess, are all those tests going to be used, are they all spoken for? 
+asr:0: OUTPUT 1356.12-1361.16: I'm just curious in terms of what you think about utilization and sort of what's embedded into the guide. Thanks. 
+asr:0: OUTPUT 1361.80-1367.25: Sure, okay, thanks, thanks Derek. Happy to walk you through that a bit. 
+asr:0: OUTPUT 1367.51-1380.32: So let's go right to the COVID impact in Q2. And I would think about it as largely a tailwind that probably represents. 
+asr:0: OUTPUT 1380.76-1391.77: 500 basis points of improvement or growth that's associated predominantly with Cepheid, Radiometer, and IDT. 
+asr:0: OUTPUT 1392.39-1401.72: And in terms of the related question about what's spoken for, you know, Cepheid, we're flat out at Cepheid. 
+asr:0: OUTPUT 1402.46-1405.27: We are continuing to expand our capacity. 
+asr:0: OUTPUT 1406.31-1412.93: But every test that we produce every single day gets shipped and the demand is continuing to build. 
+asr:0: OUTPUT 1414.29-1417.06: Radiometer also running flat out. 
+asr:0: OUTPUT 1417.66-1425.25: Not quite the need for expanded capacity. We had the surge capacity we needed there, but they're doing exceptionally well. 
+asr:0: OUTPUT 1425.83-1428.19: And IDT holding its own as well. 
+asr:0: OUTPUT 1428.21-1435.92: I think overall you'd consider Cepheid, Radiometer, and IDT certainly contributors on the positive side. 
+asr:0: OUTPUT 1437.22-1445.00: What that really means is that the rest of the portfolio is potentially down anywhere from 5 to 15%. 
+asr:0: OUTPUT 1445.05-1449.99: And those heavier headwinds are going to come in businesses like Betman Diagnostics. 
+asr:0: OUTPUT 1450.01-1454.41: Like the biosystems a bit that are more patient volume dependent. 
+asr:0: OUTPUT 1454.43-1460.74: We'll have to see whether that patient volume coming from loosening up of elective procedures starts to return. 
+asr:0: OUTPUT 1460.80-1468.81: But certainly the greater bit of headwind is in the equipment oriented business like LMS and CyX and a bit of PID, no doubt. 
+asr:0: OUTPUT 1468.83-1480.58: Now, putting all that together, you then partially offset that with probably a bit of positive from Paul and Saitiba that are showing positive growth that's not exclusively COVID related. 
+asr:0: OUTPUT 1480.84-1486.21: But certainly related to the future developments around therapies and vaccines. 
+asr:0: OUTPUT 1486.27-1493.67: I think that's the way I'd sort of generally frame up the pluses and the minuses around the COVID impact in Q2. 
+asr:0: OUTPUT 1495.44-1498.70: It's Matt. Hey Derek, it's Matt. I just want to make sure also. 
+asr:0: OUTPUT 1498.78-1507.91: You kind of, we mentioned serology. We are not assuming anything here in the quarter for serology, even though we're ramping up with FACMN and we're going to have some capacity here. 
+asr:0: OUTPUT 1508.49-1511.69: Our view is that it's just a little too early to really kind of tell. 
+asr:0: OUTPUT 1512.85-1519.36: What the volumes might look like, what a national testing program or any other kind of local testing programs might look like. 
+asr:0: OUTPUT 1519.76-1523.54: So that COVID tailwind does not include serology, just to be clear. 
+asr:0: OUTPUT 1524.28-1526.09: Oh, great. That's really helpful. 
+asr:0: OUTPUT 1527.31-1542.70: I guess just one question on Siteiva in general. Did you see any stocking in the first quarter? And I'm just curious, what are you assuming for organic revenue growth in the Siteiva standalone business for the second quarter? 
+asr:0: OUTPUT 1545.69-1551.71: Derek, we saw very little. It's always hard to tell when it's... 
+asr:0: OUTPUT 1551.73-1557.06: On the margins as to whether or not there was stocking going on there. 
+asr:0: OUTPUT 1558.10-1561.18: You know, generally we don't think it was particularly material. 
+asr:0: OUTPUT 1561.54-1568.57: But I tell you, Saitivo is off to a great start. As I mentioned, 10% core growth in the first quarter. 
+asr:0: OUTPUT 1568.59-1577.30: Really strong momentum in the core bioprocessing business, and that's really driven by folks working on solutions to COVID-19. 
+asr:0: OUTPUT 1578.46-1588.43: But as we look forward, I think we have really, as you can imagine, given we just closed the end of March, the 1st of April,. 
+asr:0: OUTPUT 1589.19-1593.01: We're just getting in there to really understand what that funnel looks like. 
+asr:0: OUTPUT 1593.41-1603.32: And, you know, there's plenty of uncertainties about how much that volume will build over time, depending on the progression of therapies and vaccines. 
+asr:0: OUTPUT 1603.34-1605.77: I think we've got an outstanding start here. 
+asr:0: OUTPUT 1606.07-1615.86: But in terms of where we are from a guide perspective on Cytiva, we're still trying to size up what that backlog is starting to look like. 
+asr:0: OUTPUT 1616.28-1624.68: Obviously, we haven't even gotten face-to-face with the team yet from an operating review standpoint given the limitations we have here on travel. 
+asr:0: OUTPUT 1624.92-1629.59: Right now we're going to focus on a good deal of rebranding work that we need to do. 
+asr:0: OUTPUT 1630.25-1637.38: We're going to stand it up as a standalone operating company, execute on the TSA, and exit those TSA work streams and costs. 
+asr:0: OUTPUT 1637.74-1644.28: And make sure that we're embedding DBS into the business and working on opportunities to continue to improve its performance. 
+asr:0: OUTPUT 1644.74-1650.47: We'll come back and give you a better sense of what Siteva looks like in the balance of the year. 
+asr:0: OUTPUT 1650.81-1657.34: Once we get a little bit more stability here in terms of how the bookings trends look. 
+asr:0: OUTPUT 1657.52-1660.90: We round the corner here coming into the second half of the year. 
+asr:0: OUTPUT 1662.04-1664.34: Great, thank you. Thanks, Derek. 
+asr:0: OUTPUT 1666.59-1671.85: Your next question comes from the line of Tycho Peterson with JP Morgan. 
+asr:0: OUTPUT 1673.35-1675.32: Morning Tyco. Thanks. Good morning. 
+asr:0: OUTPUT 1675.64-1684.28: Tom, I'll start with congrats on the transition. I think it might be helpful to hear from you why now is the right time. I know you plan these things out well in advance, but. 
+asr:0: OUTPUT 1684.74-1693.27: You know, I think people were caught a little bit off guard in the middle of a pandemic after closing your largest deal. So, could you maybe just talk a little bit about, you know, how long this transition had been planned and why now is the right time? 
+asr:0: OUTPUT 1693.97-1696.32: Sure, absolutely Tycho, I'd be happy to. 
+asr:0: OUTPUT 1697.88-1700.02: You know i i can honestly. 
+asr:0: OUTPUT 1700.44-1707.61: You would have to go all the way back to my very first year in the role. 
+asr:0: OUTPUT 1707.63-1716.48: Where we along with the board made sure that we talked about talent development. 
+asr:0: OUTPUT 1716.50-1739.36: About ensuring that we are progressing in various ways through our leadership ranks to get to the point where we are today and had an outstanding choice in Reiner Blair to succeed me. So this has very much been the culmination of a succession planning process. 
+asr:0: OUTPUT 1739.38-1743.18: That really has gone on over the last five or six years. 
+asr:0: OUTPUT 1744.62-1754.07: We always want to do something like this when we're in a position of strength. I think the combination of where we are with the portfolio and our performance. 
+asr:0: OUTPUT 1754.13-1758.56: Where we are around driving innovation and growth and the strength of our team and talent. 
+asr:0: OUTPUT 1758.58-1766.27: Really is what I think makes us very comfortable that this is certainly a good time to turn the reins over. 
+asr:0: OUTPUT 1766.77-1771.19: It was super important that we got Cytiva closed. 
+asr:0: OUTPUT 1771.29-1785.75: And that we gave ourselves time to ensure that the transition here of the role allows for both Rainer and I to contribute to ensuring that Cytiva comes into the organization smoothly. 
+asr:0: OUTPUT 1786.67-1789.43: I think it's really a combination of all those things. 
+asr:0: OUTPUT 1790.63-1799.84: You know, I think the Danaher board was incredibly supportive and constructive around this all along. 
+asr:0: OUTPUT 1799.96-1812.21: I am really excited about Reiner and the talent and the capabilities that he brings to this role. He's just going to do a fantastic job. 
+asr:0: OUTPUT 1812.45-1814.79: We all feel great about it. 
+asr:0: OUTPUT 1816.22-1822.72: Okay, thanks. And then for the follow up, just a question on some of the longer term COVID related tailwinds. 
+asr:0: OUTPUT 1823.00-1829.71: For Cepheid, there will presumably be less rule in, rule out flu testing tied to COVID going forward. So I'm curious how you think about that. 
+asr:0: OUTPUT 1829.73-1833.37: How you think about durability of that test once there is a vaccine on the market. 
+asr:0: OUTPUT 1833.85-1840.00: For Beck being curious if he can put anything around pricing for serology, and then lastly for Saiteva and Paul, just... 
+asr:0: OUTPUT 1840.28-1845.95: Here's how meaningful you think vaccine and therapy development could be for those businesses on a multi-year basis. Thanks. 
+asr:0: OUTPUT 1846.71-1848.09: Sure, thanks Tycho. 
+asr:0: OUTPUT 1849.77-1860.18: You know, there's we've got a lot going on as it as it relates to the future impacts of coven and I think in many respects we're pretty uniquely positioned. 
+asr:0: OUTPUT 1860.20-1862.24: Both on the short term and the long term. 
+asr:0: OUTPUT 1863.10-1867.01: I think if you start with, from a diagnostic testing perspective. 
+asr:0: OUTPUT 1868.43-1875.38: Sepiids impact along with IDT, radiometer in terms of treatment on the front line,. 
+asr:0: OUTPUT 1875.40-1879.52: As well as Beckman in serology and IgG testing. 
+asr:0: OUTPUT 1879.80-1883.16: I think that's a pretty unique combination of capabilities. 
+asr:0: OUTPUT 1883.22-1887.45: Now you asked about the durability of the Cepheid test. 
+asr:0: OUTPUT 1887.71-1891.89: You know, as you know well, we are one of the world leaders in flu testing. 
+asr:0: OUTPUT 1892.35-1894.69: And I think as we see the future here. 
+asr:0: OUTPUT 1894.77-1902.90: You're going to look, clinicians are going to be looking for the opportunity in doing flu testing to also be doing COVID testing. 
+asr:0: OUTPUT 1903.00-1908.01: Testing. And I think the ability to run those tests on the same platform in the same. 
+asr:0: OUTPUT 1908.11-1915.60: Cartridge configuration is a real advantage and a real opportunity we have for Cepheid. 
+asr:0: OUTPUT 1915.94-1922.10: Of course, as this surge in demand now is happening, we're seeing that not only in terms of the test cartridges themselves,. 
+asr:0: OUTPUT 1922.14-1926.31: But it's driving a significant increase in our install base. 
+asr:0: OUTPUT 1926.53-1928.61: And so as that install base has grown. 
+asr:0: OUTPUT 1928.77-1934.97: You're also going to see that installed based driving not only COVID-19 testing but continuing to support. 
+asr:0: OUTPUT 1934.99-1940.58: Expanded flu testing and market share gains perceptive over time. 
+asr:0: OUTPUT 1940.84-1946.49: And obviously there's a broader suite of tests that run on the Cepheid architecture, and so that's going to benefit as well. 
+asr:0: OUTPUT 1946.51-1960.82: So we think there's exceptional durability to the Cepheid architecture in an environment, even in one where we have, and God willing we will have, both therapies as well as vaccines. 
+asr:0: OUTPUT 1962.34-1965.83: In terms of your question about Beckman and serology,. 
+asr:0: OUTPUT 1965.85-1974.95: I think the way we see serology evolving over time is it's going to be primarily driven obviously with a blood draw. 
+asr:0: OUTPUT 1975.08-1983.96: You are going to see the serology test, the IgG test, integrated into more routine testing. 
+asr:0: OUTPUT 1984.12-1987.13: The cost per test is going to be quite reasonable. 
+asr:0: OUTPUT 1987.77-1990.69: And it's going to be in line with other immunoassay tests. 
+asr:0: OUTPUT 1990.79-1995.22: And so while we talk about the capacity to have 30 million tests. 
+asr:0: OUTPUT 1995.32-1996.92: As I think Matt said earlier. 
+asr:0: OUTPUT 1996.94-1999.48: I wouldn't build that into any models, but I think it. 
+asr:0: OUTPUT 1999.50-2010.77: It's representative of the fact that serology testing, that IgG test, is going to become more of a standard in basic testing when it comes to immunoassay. 
+asr:0: OUTPUT 2010.79-2019.20: I think a lot of terrific potential there, particularly as it relates to advances in public health and population testing. 
+asr:0: OUTPUT 2019.22-2024.86: And some of the work that's being done by public health authorities to look for hotspots over time. 
+asr:0: OUTPUT 2025.73-2034.31: In terms of your question about Cyteva and work around therapies and vaccines, I'd say both Paul and Cyteva. 
+asr:0: OUTPUT 2034.33-2040.20: Are uniquely positioned to provide pretty critical inputs, meaning filtration and resins. 
+asr:0: OUTPUT 2040.22-2042.46: To both vaccine and therapeutic candidates. 
+asr:0: OUTPUT 2043.46-2050.85: Right now, we would estimate that there are greater than 150 therapeutic and vaccine candidates today. 
+asr:0: OUTPUT 2051.53-2058.48: And Paul and Saiteva are working with a majority of those in some capacity. 
+asr:0: OUTPUT 2058.82-2072.89: So obviously there'll be winners and losers, but we think we have a number of exceptional positions there with folks that are likely going to be part of the future therapy and or vaccine answers. 
+asr:0: OUTPUT 2073.13-2075.44: I think good spot to be in. 
+asr:0: OUTPUT 2076.62-2078.96: Great, I appreciate it and congrats again on the retirement. 
+asr:0: OUTPUT 2079.76-2087.33: Thanks, Tycho. Your next question comes from the line of Vijay Kumar with Evercore ISI. 
+asr:0: OUTPUT 2088.49-2094.77: Morning, Vijay. Morning, guys. And Tom, congrats on a well-earned brass. 
+asr:0: OUTPUT 2095.66-2100.48: I think maybe starting with the leadership question here, Tom, you mentioned. 
+asr:0: OUTPUT 2100.66-2107.65: Rainer, he's known to the street, but perhaps not everyone knows him well. 
+asr:0: OUTPUT 2107.99-2109.95: And you did mention that he was the right person. 
+asr:0: OUTPUT 2110.35-2114.89: Maybe contrast your leadership style with the brainer's leadership style. 
+asr:0: OUTPUT 2115.60-2123.32: What does Rainer bring here and what should investors look forward to under this transition? 
+asr:0: OUTPUT 2123.94-2124.98: Well, um... 
+asr:0: OUTPUT 2125.01-2135.20: I'd start, Vijay, with the fact that Reiner and I have worked together closely for virtually all of his 10 years. 
+asr:0: OUTPUT 2136.42-2142.86: I don't know if everybody knows that when Reiner was first hired at Danaher,. 
+asr:0: OUTPUT 2143.40-2146.79: He came in initially as the president of Video Jet. 
+asr:0: OUTPUT 2147.37-2152.95: And i'm not sure writer and it's like a lady actually unpacked their bags when i. 
+asr:0: OUTPUT 2152.99-2160.02: We had we were looking to succeed me at Cyax after the Cyax acquisition. I was headed off to Beckman and. 
+asr:0: OUTPUT 2160.44-2163.60: And we had this outstanding leader. 
+asr:0: OUTPUT 2163.70-2166.85: I've just come into Videojet and a real need at Cyax. 
+asr:0: OUTPUT 2167.13-2174.51: And uh... Writer every packet and and and moved to boston and and let side for for a number of years. 
+asr:0: OUTPUT 2174.53-2179.78: And just did an exceptional job and he and I have worked together literally every day since then. 
+asr:0: OUTPUT 2180.66-2186.17: Through the work at SIAC, through the acquisitions of Paul and IDT. 
+asr:0: OUTPUT 2186.47-2194.39: Obviously, throughout the tremendous work that he did identifying the opportunity that has become Cytiva, our largest acquisition ever. 
+asr:0: OUTPUT 2195.70-2203.58: And so, you know, when you work together for as long as we have, I guess there do tend to be quite a number of similarities. 
+asr:0: OUTPUT 2203.96-2213.27: About the two of us, but you know, BJ, you're going to have plenty of time to ask Reiner that question, and he'll probably have a more thoughtful contrast between the two of us than. 
+asr:0: OUTPUT 2213.29-2214.35: Then I will. 
+asr:0: OUTPUT 2214.87-2224.76: He's an outstanding individual. He is super smart. He is steeped in the domains, not only in life science, but across Danaher. 
+asr:0: OUTPUT 2225.73-2241.50: He's unbelievably well respected across Danaher as a DBS leader, a great teacher, a DBS practitioner, and somebody who lives and breathes the Danaher core values and our shared purpose of helping realize life's potential every single day. 
+asr:0: OUTPUT 2242.50-2251.47: You know, his track record relative to M&A and his bias towards driving innovation by being willing to place bets. 
+asr:0: OUTPUT 2251.49-2258.50: Both early stage bets as well as more mature bets to drive innovation is unparalleled. 
+asr:0: OUTPUT 2258.80-2266.63: I hope and believe that you'll probably see a lot of similarities between the two of us in terms of what we value. 
+asr:0: OUTPUT 2267.51-2271.37: But, you know, Reiner will put his own mark on Danaher. 
+asr:0: OUTPUT 2271.67-2277.62: And I am supremely confident that that mark on Danaher is going to be an outstanding one and an indelible one. 
+asr:0: OUTPUT 2279.00-2280.64: That's helpful, perspective time. 
+asr:0: OUTPUT 2281.04-2290.45: Just maybe one housekeeping question perhaps for Matt. Matt, I think the press release had a couple of hundred basis points that contributed from Cyteva. 
+asr:0: OUTPUT 2291.53-2296.10: That perhaps implies double digits, maybe even low teens growth in the business. 
+asr:0: OUTPUT 2296.40-2303.12: I just want to make sure with the business doing 10% I think in Q1, continuing to double. 
+asr:0: OUTPUT 2303.68-2311.19: Is that just the business growth as usual or was there any contribution perhaps from. 
+asr:0: OUTPUT 2311.21-2317.76: In a COVID-related business, and then perhaps also address that, you know, detrimental margins here for Tukyo. Thanks, guys. 
+asr:0: OUTPUT 2317.96-2321.08: Yeah, sure. So from a perspective of perspective. 
+asr:0: OUTPUT 2321.54-2324.18: I think it grew 10% there in Q1. 
+asr:0: OUTPUT 2324.60-2331.85: I think that probably a reasonable place you know for the business to be here in the second quarter as well so i think your your math on that is is pretty correct. 
+asr:0: OUTPUT 2333.01-2340.92: As far as decremental margins go, I think the place that I'd start is probably about 40% decrementals. 
+asr:0: OUTPUT 2341.42-2346.33: It can vary you know quite a bit depending on the fact that i think starting with forty is a good place to start. 
+asr:0: OUTPUT 2347.15-2352.57: I will tell you that probably in Q2 in diagnostics though,. 
+asr:0: OUTPUT 2352.89-2360.54: Probably need to be more like 50 or 60% decrementals, and that's all related to FX. So that delta will be because of FX here in the quarter. 
+asr:0: OUTPUT 2360.96-2363.84: 40 overall, maybe a touch higher here in Q2 and in. 
+asr:0: OUTPUT 2367.23-2373.43: Thanks, Vijay. We have reached the allotted time for questions. 
+asr:0: OUTPUT 2373.81-2378.16: Your last question comes from the line of Scott Davis with Melius Research. 
+asr:0: OUTPUT 2380.00-2383.88: Good morning, guys, and congrats, Tom. Thanks, Scott. Good morning. 
+asr:0: OUTPUT 2384.82-2393.19: It's been a great six years. I'm a little surprised you're gone, but I don't blame you. Retirement sounds pretty interesting right now. 
+asr:0: OUTPUT 2397.28-2405.15: It was not informed by the current economic uncertainties. It was very much part of the plan. 
+asr:0: OUTPUT 2405.93-2407.55: Yeah, sure, sure, I believe. 
+asr:0: OUTPUT 2409.79-2415.62: I wish you the best. I know we'll see you before you go. Thank you. It's been a great run. 
+asr:0: OUTPUT 2416.70-2419.34: But just switching to business. 
+asr:0: OUTPUT 2419.58-2429.49: What are the challenges of integrating Cytiva here in this kind of new world? Can you really teach DBS and do Kaizens and all that stuff on a Zoom video? 
+asr:0: OUTPUT 2430.49-2432.97: Yeah, thanks for the question, Scott. 
+asr:0: OUTPUT 2434.05-2435.28: I. 
+asr:0: OUTPUT 2435.54-2445.05: Yes is the answer to that. Why would that be the case given how important being at, you know we use that term being at Gemba, being in the real place. 
+asr:0: OUTPUT 2445.37-2448.17: You know how important we talk about that being. 
+asr:0: OUTPUT 2448.55-2456.08: Well, we actually kicked off DBS training, what we call ECO, Executive Champion Orientation,. 
+asr:0: OUTPUT 2456.42-2463.40: We kicked that off virtually using Microsoft Teams just two weeks ago. 
+asr:0: OUTPUT 2464.60-2471.47: I kicked it off, Reiner was on the call, John Sikowski, who you know from our DBS office, led the effort. 
+asr:0: OUTPUT 2471.67-2481.04: We probably touched, we got more people through that ECO over that day, day and a half, I forget the full duration. 
+asr:0: OUTPUT 2482.34-2487.29: Because of actually being able to use a virtual tool, a digital tool. 
+asr:0: OUTPUT 2488.17-2494.29: The answer is we're working, we're doing our best, we're off to a good start, we've got to get creative. 
+asr:0: OUTPUT 2494.85-2498.06: We've got to invent new ways to get things done. 
+asr:0: OUTPUT 2498.50-2507.25: Interestingly, our existing businesses outside of Siteva are in fact doing multi-day Kaizens. 
+asr:0: OUTPUT 2508.13-2512.31: Using virtual tools, using Zoom, using Microsoft Teams. 
+asr:0: OUTPUT 2512.59-2515.64: And it's not the same, it's different. 
+asr:0: OUTPUT 2516.68-2519.48: We wouldn't use that as a standard going forward. 
+asr:0: OUTPUT 2519.62-2522.44: We absolutely value being face to face. 
+asr:0: OUTPUT 2522.74-2529.75: But we've challenged our teams to get creative and continue to drive continuous improvement, even in this environment. 
+asr:0: OUTPUT 2531.45-2532.85: Okay, that's encouraging. 
+asr:0: OUTPUT 2534.31-2539.44: Just switching gears, I know there have been a lot of questions around Tritium Cepheid and Beckman, as there should be. 
+asr:0: OUTPUT 2539.54-2546.99: If you go down to environmental and applied solutions, you've got some interesting businesses of different cyclicalities. 
+asr:0: OUTPUT 2547.17-2552.65: Is there kind of a range of outcomes in 2Q that we can start to think about for those. 
+asr:0: OUTPUT 2552.79-2557.78: I know you made some encouraging comments on video, Jeff. 
+asr:0: OUTPUT 2558.02-2560.00: And actually just water to but. 
+asr:0: OUTPUT 2560.32-2563.62: On an overall basis, at least, Tom, is there any color you can give us? 
+asr:0: OUTPUT 2564.72-2572.95: Yeah, you know Scott, these are fantastic businesses even in a challenging economic environment. 
+asr:0: OUTPUT 2573.81-2582.24: You know, HAWQS leadership position in water quality analytics, you know, 4 to 5X its nearest competitor. VideoJet. 
+asr:0: OUTPUT 2582.42-2589.53: A leader from a shared perspective as well, both obviously heavily skewed towards. 
+asr:0: OUTPUT 2589.63-2592.55: Their balance of sales skewed towards consumables. 
+asr:0: OUTPUT 2593.71-2597.70: North of 70-75% in those businesses being. 
+asr:0: OUTPUT 2597.86-2600.38: Aftermarket consumables and service. 
+asr:0: OUTPUT 2600.56-2609.39: When water quality testing has to be done every single day in municipalities around the world, when consumer packaged goods have to be marked and shipped every single day around the world,. 
+asr:0: OUTPUT 2610.33-2615.84: Those consumables continue to underpin reasonably steady performance. 
+asr:0: OUTPUT 2615.86-2621.46: They are a safety net under the revenue structures of those businesses. 
+asr:0: OUTPUT 2621.50-2630.15: While there be some other dimensions, like the equipment side in water quality, for example, or even in PID and some of the. 
+asr:0: OUTPUT 2630.17-2633.45: Some of the software businesses, it'll be a little bit more pressured here. 
+asr:0: OUTPUT 2634.63-2640.00: You know, I think those are still really solid businesses even in these challenging times. 
+asr:0: OUTPUT 2640.58-2645.55: I wouldn't trade those businesses for any in their markets. 
+asr:0: OUTPUT 2647.45-2652.35: I should have asked it differently, I guess. Will this segment be down more than your corporate average? 
+asr:0: OUTPUT 2654.93-2660.00: I think they would be down a bit more. 
+asr:0: OUTPUT 2660.22-2667.63: Only because they're not buoyed by the terrific performance that we continue to see at Cepheid. 
+asr:0: OUTPUT 2667.65-2676.16: And IDT as well as radiometer and even with what we think is going to be pretty solid performance at SITIVA and PAL. 
+asr:0: OUTPUT 2676.72-2691.45: Yes, I think these businesses would be at the lower end of the core growth component. You could potentially see the segment, EAS, down potentially mid to high teens inside of the guide. 
+asr:0: OUTPUT 2692.49-2697.42: Okay, perfect. Thank you and congrats again, Tom. Thanks, Scott. Good to hear from you today. 
+asr:0: OUTPUT 2703.02-2708.33: Crystal, that concludes our questions. Did you want to give any final remarks? 
+asr:0: OUTPUT 2711.61-2720.70: Well, thanks everyone for joining us today. We're around all day for questions. This concludes today's conference call. You may now disconnect. 
+asr:0: END

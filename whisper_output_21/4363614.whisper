@@ -1,0 +1,820 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.64-5.71: Good day everyone and welcome to Banco Santa Luz, Mexico, second quarter 2020 earnings conference call. 
+asr:0: OUTPUT 6.23-10.89: Today's call is being recorded. Following the speaker's remarks, there will be a question and answer session. 
+asr:0: OUTPUT 11.31-20.80: I'd now like to turn the conference over to Mr. Hector Chavez, Managing Director and Head of Investor Relations, to make some opening remarks and introduce today's other speakers. Please go ahead. 
+asr:0: OUTPUT 22.42-29.37: Thank you. Good morning and welcome to our second quarter 2020 earnings conference call. We appreciate everyone's participation today. 
+asr:0: OUTPUT 30.01-38.46: And by now, everyone should have access to our earnings press release and the presentation for today's call, both of which were distributed before the market opened today. 
+asr:0: OUTPUT 38.52-41.08: And can be found in our investor relations website. 
+asr:0: OUTPUT 41.86-51.69: Presenting on our call today will be Ed Dorglisi, Executive President and CEO, Lidia Hermena, our CFO, and Rodrigo Brand, Executive General Director of Public Affairs. 
+asr:0: OUTPUT 52.35-59.16: We will review our second quarter results as well as provide an update on how we are operating under the health and safety protocols. 
+asr:0: OUTPUT 59.18-64.64: That are designed to help mitigate the risks related to the COVID-19 pandemic. 
+asr:0: OUTPUT 65.63-68.99: Then we will be happy to answer your questions during the Q&A session. 
+asr:0: OUTPUT 69.51-76.64: Before we begin our formal remarks, allow me to remind you that certain statements made during the course of this discussion. 
+asr:0: OUTPUT 76.68-85.11: They constitute forward-looking statements which are based on management's current expectations and beliefs and are subject to a number of risks, uncertainties,. 
+asr:0: OUTPUT 85.75-93.75: And including COVID-19, that could cause actual results to materially differ, including factors that could be beyond the company control. 
+asr:0: OUTPUT 94.61-101.44: For an explanation of this risk, please refer to our filings with the SEC and the Mexicans Stock Exchange. Hector, please go ahead. 
+asr:0: OUTPUT 104.60-107.87: Thank you, Hector. Good morning, everyone, and good afternoon to those in Europe. 
+asr:0: OUTPUT 108.71-113.81: Thank you for joining our earnings call today. I hope you and your families are healthy and safe. 
+asr:0: OUTPUT 115.00-124.68: As we discussed last quarter, mitigating the effects of the pandemic on the health and the well-being of our employees and customers has remained our utmost priority. 
+asr:0: OUTPUT 125.51-131.33: Before giving you an update on the measures that we implemented in this regard, let me begin a review by providing context. 
+asr:0: OUTPUT 132.37-133.71: Just a squirrel. 
+asr:0: OUTPUT 133.73-143.06: Has been quite challenging as we started seeing the impact of the pandemic on the Mexican economy, on our business, and of course, on our results. 
+asr:0: OUTPUT 143.40-147.19: Despite the impact, let me assure you that our bank remains strong and focused. 
+asr:0: OUTPUT 148.71-153.73: First, our capital and liquidity levels are solid and well above the minimum regulatory levels. 
+asr:0: OUTPUT 154.25-161.50: Second, we have a clear strategy, which we are executing to support our customers and minimize the impact on the pandemic. 
+asr:0: OUTPUT 161.74-168.17: On the finances, and third, we expect to emerge from this difficult environment as a stronger institution. 
+asr:0: OUTPUT 169.07-174.05: Business volumes closed the second quarter with high single-digit year-on-year growth. 
+asr:0: OUTPUT 174.09-180.06: While we experience an adverse shift in our portfolio mixed towards lower yielding segments. 
+asr:0: OUTPUT 180.58-189.95: Consumer and SME loans started to contract in line with market trends, while the commercial and mortgage loans were resilient and continued to register expansions. 
+asr:0: OUTPUT 190.97-194.89: The timely measures implemented by Banco de Mexico and the CNBB. 
+asr:0: OUTPUT 194.91-198.60: Allows us to maintain ample levels of liquidity and capital. 
+asr:0: OUTPUT 198.62-208.41: Enabling us to offer our customers support mechanisms to temporarily alleviate their cash flow and the financial stress caused by economic fallout of the pandemic. 
+asr:0: OUTPUT 210.01-216.28: Although asset quality deteriorated slightly in the quarter, we made preemptive loan loss provisions. 
+asr:0: OUTPUT 216.30-221.22: Of 3.9 billion pesos in addition to the normal quarterly provisions. 
+asr:0: OUTPUT 221.24-223.54: In preparation for future losses. 
+asr:0: OUTPUT 224.62-232.41: We would revise this amount in the future as more information becomes available on the performance of our loan portfolio during the coming quarters. 
+asr:0: OUTPUT 232.99-248.05: As we normally do, we will provide an overview of our business environment, but let me emphasize again our conviction that Santa Clara, Mexico is very well positioned against the current and still growing economy impact of the COVID-19 pandemic. 
+asr:0: OUTPUT 250.03-259.52: In slide four, we present select economic indicators that show the magnitude of the impact in the pandemic is having economic activity and having non-economic activity and employment. 
+asr:0: OUTPUT 260.32-269.43: As you might recall, 2020 GDP growth expectations for the Mexican economy were modest prior to the pandemic, mainly due to weak private investment prospects. 
+asr:0: OUTPUT 270.59-278.24: With every landmark indicators showing a contraction of more than 20% year on year in economic activity and 37%. 
+asr:0: OUTPUT 278.26-280.82: On year on year and dropping fixed investment. 
+asr:0: OUTPUT 280.96-288.35: Market consensus expectations have been revised down to around 9% annual decrease in GDP during. 
+asr:0: OUTPUT 288.41-289.93: 2020. 
+asr:0: OUTPUT 291.89-296.92: For additional context, this would be an economic contraction not seen in many decades. 
+asr:0: OUTPUT 297.96-305.61: This significant fall in economic activity resulted in the loss of more than one million formal jobs during the second quarter. 
+asr:0: OUTPUT 306.47-315.28: According to social security data, about as many as 20 million jobs lost, taking into account informal employment. 
+asr:0: OUTPUT 316.16-320.94: Following the past two severe economic crises back in 1995 and 2009,. 
+asr:0: OUTPUT 321.08-326.67: It took seven quarters for the Mexican economy to recover its previous level of economic activity. 
+asr:0: OUTPUT 327.13-333.97: However, in the current one, we consider it is unlikely that the economy could recover within a similar period of time. 
+asr:0: OUTPUT 333.99-343.82: Given the depth and magnitude of the global economic shock and the absence of any meaningful fiscal program to address the severe contraction in its employment. 
+asr:0: OUTPUT 345.37-351.93: With external demand grounding only gradually and without any mechanism to alleviate households' income loss. 
+asr:0: OUTPUT 351.95-357.36: An open economy like Mexico faces a slow path to recover to previous activity levels. 
+asr:0: OUTPUT 358.18-363.70: With 2021 growth prospects being forecasted at only plus 3%. 
+asr:0: OUTPUT 363.72-369.45: It could take 3 to 4 years to recover 2019 levels of activity. 
+asr:0: OUTPUT 369.97-376.50: Under these conditions, inflation pressures should remain low. We expect 3.6 for 2020. 
+asr:0: OUTPUT 376.86-380.36: Allowing Banco de Mexico to cut interest rates a little further. 
+asr:0: OUTPUT 380.96-390.09: We expect another 100 basis points of cuts through the year, which would take the reference rate to around 4% a year. 
+asr:0: OUTPUT 391.09-401.62: In summary, this is a scenario of low growth and low interest rates represents a challenging outlook for Mexico's commercial and consumer environments and for our business. 
+asr:0: OUTPUT 403.80-410.69: If you turn to slide five, you will notice that despite the severe shock to economic activity and employment,. 
+asr:0: OUTPUT 411.09-418.72: The systems loans and deposit volumes still show a significant year-over-year expansion of 8% and 14% respectively. 
+asr:0: OUTPUT 419.46-420.76: This is mainly explained. 
+asr:0: OUTPUT 420.78-431.01: By large and medium-sized companies and government entities that have drawn on the credit lines to maintain the liquidity of their balance sheets in order to continue operating during the months of which. 
+asr:0: OUTPUT 431.03-433.43: The stay at home guidelines have been in effect. 
+asr:0: OUTPUT 434.11-437.82: On the other hand, consumer loans. 
+asr:0: OUTPUT 439.60-449.95: Showed a relevant contraction reflecting the initial impact of the pandemic on consumer behavior and of product origination practices being maintained by financial institutions. 
+asr:0: OUTPUT 450.73-466.23: It is worth noting that system-wide demand deposits remain strong, up 18% year-on-year, likely reflecting heightened needs for liquidity among households and companies while STELAs home guidelines remain in effect. 
+asr:0: OUTPUT 468.15-474.19: Please turn to slide six, where we would like to give you an update on the bank operations during the past few months. 
+asr:0: OUTPUT 475.28-480.24: And health and business continuity protocols remain in place. 
+asr:0: OUTPUT 480.56-492.93: Such as suspending non-essential travel, limiting the number of people at gatherings and group events, and enhanced sanitization measures at branches, corporate offices, ATMs. 
+asr:0: OUTPUT 492.95-494.05: And contact centers. 
+asr:0: OUTPUT 495.08-502.32: As of today, most corporate employees continue working from home while only essential personnel are working on-site. 
+asr:0: OUTPUT 502.74-511.21: Approximately 80% of the bank branches are open and 92% of our ATM locations are functioning normally. 
+asr:0: OUTPUT 512.07-515.98: The tank digital channels and contact centers have also been operating normally. 
+asr:0: OUTPUT 516.48-519.44: Our digital monetary transactions increased. 
+asr:0: OUTPUT 519.46-526.61: 64% year-on-year, while digital sales represented 44% of total sales. 
+asr:0: OUTPUT 526.69-534.81: To us as much as they did last year as we continue promoting customer's use of digital channels, which continues to drive adoption levels. 
+asr:0: OUTPUT 535.94-544.50: Further, more IT resources have been channeled into implementing additional remote operating tools with cybersecurity being a priority. 
+asr:0: OUTPUT 545.11-556.96: During this critical time, we have been supporting our customers through a debt relief program offering deferred payments for individuals and SMEs and case-by-case debt restructuring to our corporate customers. 
+asr:0: OUTPUT 557.44-559.36: I will elaborate on this problem in a moment. 
+asr:0: OUTPUT 560.38-569.71: As part of our commitment to our communities, we have made numerous donations and supported initiatives that aid the medical community and vulnerable populations. 
+asr:0: OUTPUT 569.89-577.08: We also donated a map to the Mexico City government, which allows the population to self-diagnose based on symptoms. 
+asr:0: OUTPUT 577.10-582.52: Locate medical facilities with room capacity near them, and obtain information on the pandemic. 
+asr:0: OUTPUT 585.21-591.05: On slide seven, you will find a snapshot of our debt support program that I mentioned before. 
+asr:0: OUTPUT 591.65-599.22: Currently, 19% of our total loan portfolio is under the Payment Holiday Program for individual MSMEs. 
+asr:0: OUTPUT 599.32-603.46: With more than 600,000 customers benefiting from it. 
+asr:0: OUTPUT 604.48-609.21: Through this program, we are helping customers who have encountered liquidity problems. 
+asr:0: OUTPUT 609.23-617.64: By permitting them to escape loan payment, both interest and principal, for four months without any penalty or cost. 
+asr:0: OUTPUT 618.32-626.75: Because of this feature under the program, it is difficult to assess at this time the extent of the pandemic's impact on our asset quality. 
+asr:0: OUTPUT 627.25-638.24: However, we have been proactive in addressing asset quality over the past few months by contacting our customers to better understand the financial situation and by analyzing their ability to pay. 
+asr:0: OUTPUT 638.78-645.41: More than 55% of our branch network personnel is focused on recoveries, calling customers directly. 
+asr:0: OUTPUT 645.77-652.15: Likewise, the collections and commercial and risk departments segmented the portfolio by level of concern. 
+asr:0: OUTPUT 652.85-656.36: Identifying risk and exposure according to customer quality. 
+asr:0: OUTPUT 657.26-666.19: Through this more granular process, we are desk marketing each type of client within 36 different clusters. 
+asr:0: OUTPUT 666.69-671.93: We have also been analyzing our customer behavior patterns using our CRM capabilities. 
+asr:0: OUTPUT 672.45-677.98: I know that more than 95% of our payroll customers continue to receive their salaries. 
+asr:0: OUTPUT 679.08-686.05: For those payroll customers who are no longer receiving their salary, we are collecting for unemployment insurance. 
+asr:0: OUTPUT 686.73-695.34: With current information, we estimate that close to 40% of our customers should be able to continue honoring fully the condition of their loans. 
+asr:0: OUTPUT 696.56-700.24: Need since it is still unclear. 
+asr:0: OUTPUT 700.54-707.91: If the rest will be able to remain current, we are offering up-front load restructurings to many of them in order to speed up the recovery process. 
+asr:0: OUTPUT 708.19-715.62: It will not be until the third and fourth quarters of this year that we will have sufficient hard data on the behavior of the portfolio. 
+asr:0: OUTPUT 716.92-722.52: With regard to our commercial book, we are taking a case-by-case approach to manage our exposure. 
+asr:0: OUTPUT 723.66-731.61: As we did during the past critical periods, we have remained very close to our customers and are helping them navigate this current challenging environment. 
+asr:0: OUTPUT 732.53-737.66: For those companies that face difficulties, we have been offering multiple alternatives to support them. 
+asr:0: OUTPUT 738.28-743.08: Our current portfolio of commercial restructured loans is close to 50 billion pesos. 
+asr:0: OUTPUT 743.10-749.21: And accounts for 16% of our loan portfolio with medium and large sized corporations. 
+asr:0: OUTPUT 750.81-762.28: In addition to actively managing our portfolio, know that 76% of our payment holiday portfolio is associated with mortgages and SMEs, which both have warranties. 
+asr:0: OUTPUT 763.20-771.87: Within our total SME book, 67% of the portfolio is backed up by warranties issued by NAFINSA, one of Mexico's development banks. 
+asr:0: OUTPUT 771.99-781.86: Which allows us to share the risk with them. Specifically, for those SMEs that are in the referral program, 75% of them have warranties. 
+asr:0: OUTPUT 782.38-792.37: Furthermore, payrolls and auto loans, 9% of the deferred portfolio, are semi-secured given the collateral represented by each customer's salary and car. 
+asr:0: OUTPUT 794.23-796.12: Please turn to slide eight. 
+asr:0: OUTPUT 796.14-805.49: I would like to share with you some of the key characteristics of our mortgage portfolio, which is giving us relative comfort due to its defensive nature. 
+asr:0: OUTPUT 806.17-812.73: Our organic mortgage portfolio accounts for 86% of all our mortgages. 
+asr:0: OUTPUT 813.03-818.02: The existing portfolio has a loan-to-value ratio of 44%. 
+asr:0: OUTPUT 818.22-824.44: While Reignation has an LTV of 70% providing very good warranty coverage. 
+asr:0: OUTPUT 824.84-830.87: The NPL ratio of this portfolio is 3.6% and has been quite stable for some time. 
+asr:0: OUTPUT 833.17-840.74: For the past two years, our Hipoteca Plus mortgage has allowed us to attract higher income customers, which are more defensive in the current environment. 
+asr:0: OUTPUT 841.42-846.55: To expand on this point, our average ticket has been increasing since our luncheon. 
+asr:0: OUTPUT 846.57-856.12: Since we launched the product and it's currently not only the highest among our peers, but 37% higher than the average ticket of our peers. 
+asr:0: OUTPUT 856.72-863.86: In addition, Hipoteca Plus customers are loyal as they also have their payroll and their credit cards with us. 
+asr:0: OUTPUT 864.38-871.53: Having a low loan to value ratios as well as being the main bank of our customer lowers the probability of non-payment. 
+asr:0: OUTPUT 872.11-877.32: As this type of customer tends to prioritize their home voltages in economic downturns. 
+asr:0: OUTPUT 878.08-879.72: Holy Knoll. 
+asr:0: OUTPUT 879.74-886.25: Considering the level of warranties we have, the structure of our portfolio, and the proactive measures we are taking. 
+asr:0: OUTPUT 886.31-893.59: We consider we are on the right path to mitigate the negative impact of the pandemic on the quality of the loan portfolio. 
+asr:0: OUTPUT 894.45-904.12: On slide nine, let me comment on origination dynamics and the mix we have seen during the past few months. Commercial loans continue to support total loan growth. 
+asr:0: OUTPUT 904.70-912.53: Therefore, their contribution within local loan origination increased from 78% in the second quarter of 1990. 
+asr:0: OUTPUT 912.57-916.28: To 82% in the second quarter in 2012. 
+asr:0: OUTPUT 917.02-922.46: In the IUDs, commercial loans now represent 64% of our total loans. 
+asr:0: OUTPUT 923.48-929.27: This change in mix has had an impact on our NII, as we will explain later in the call. 
+asr:0: OUTPUT 930.75-937.08: In terms of origination dynamics, we have seen encouraging trends during the quarter that are worth noting here. 
+asr:0: OUTPUT 937.86-947.81: In the mortgage and commercial segments, June's loan origination registered relevant sequential improvements compared to May, surpassing January's 2021. 
+asr:0: OUTPUT 948.67-957.64: In consumer loans, June loan origination remains 25% below the first quarter in 20 monthly average. 
+asr:0: OUTPUT 957.88-964.42: However, it expanded 33% above the 2020 minimum, which left 8%. 
+asr:0: OUTPUT 967.47-972.15: As you can see on slide 10, our capital and liquidity positions are very strong. 
+asr:0: OUTPUT 973.17-979.52: At the end of June, our Common Equity Tier 1, CEP1 ratio stood at 11.6%. 
+asr:0: OUTPUT 979.98-989.43: 58 basis points above March and was significantly in excess of the 8.2% minimum requirement established for the Bank's RSI. 
+asr:0: OUTPUT 990.59-998.98: The decision taken during April's shareholders meeting to postpone the dividend payment for 2019 has allowed us to further strengthen our capital position. 
+asr:0: OUTPUT 999.78-1002.56: In terms of liquidity, our... 
+asr:0: OUTPUT 1002.58-1008.59: Second quarter in 2020, liquidity coverage ratio reached 211%. 
+asr:0: OUTPUT 1008.61-1015.80: Well above the Banco de Mexico regulatory requirement and supported by the senior notes we issued back in April. 
+asr:0: OUTPUT 1016.72-1025.91: Before turning the call over to Lidia, I would like to finish my remarks by reiterating that we have been active, swiftly, and decidedly to further strengthen our bank. 
+asr:0: OUTPUT 1026.35-1035.40: In order to mitigate the impact of the current crisis on our operations, in addition to implementing proper protocols and measures to protect our employees and customers. 
+asr:0: OUTPUT 1035.76-1041.38: We have continued serving clients with high standards of customer service through our branches and digital channels. 
+asr:0: OUTPUT 1041.70-1049.27: Again, we are confident that our bank is well positioned to support the customers as they recover from this unprecedented crisis. 
+asr:0: OUTPUT 1049.79-1056.48: Now let me pass the call over to Nidia, who will review the part that's most important to ENDSAN metrics. Thank you. 
+asr:0: OUTPUT 1058.18-1063.24: Thank you, Hector. Good day, everybody. Please turn to slide 11 for an overview of our recent loan performance. 
+asr:0: OUTPUT 1063.98-1072.73: Total loans expanded 7% year-on-year, but contracted 3% sequentially, giving a strong corporate loan demand at the end of the first quarter. 
+asr:0: OUTPUT 1073.25-1077.10: Low margin segments are growing twice as fast as high margin segments. 
+asr:0: OUTPUT 1077.36-1086.01: Where SMEs and credit cards contracted 9% and 6% year on year, respectively, due to the economy's weak performance. 
+asr:0: OUTPUT 1086.45-1099.80: By contrast, mortgage loans increased a solid 9% year-on-year and expanded 13% when excluding the runoff effect of GENI and G-portfolios, which was well above market growth. 
+asr:0: OUTPUT 1100.44-1107.11: High margin segments have reduced their contribution to net interest income by almost 100 basis points. 
+asr:0: OUTPUT 1108.03-1114.97: Individual loans on the slide 12 show a slowdown, growing 4% on a year-on-year basis, mainly supported by mortgages. 
+asr:0: OUTPUT 1115.38-1122.90: As mentioned previously, mortgages have proved to be the defensive segment within the Mexican market during the past periods of economic instability. 
+asr:0: OUTPUT 1123.50-1131.17: With this in mind, we decided to lower even more the rate of our Hipoteca Plus product to 7.75%, targeting loyal customers. 
+asr:0: OUTPUT 1131.33-1140.48: As of June, close to 60% of our mortgage origination was coming from Hipoteca Plus, which allows us to increase cross-selling of other products. 
+asr:0: OUTPUT 1141.00-1148.67: In July, we launched a new mortgage product called Hipoteca Free, which is the first commission-free mortgage product in Mexico. 
+asr:0: OUTPUT 1149.53-1157.42: Unique characteristics of this product are the customers do not have to pay an application fee, monthly commission, or a home appraisal. 
+asr:0: OUTPUT 1157.74-1161.20: Nor are life and unemployment insurance required. 
+asr:0: OUTPUT 1161.30-1165.89: Leaving only notary fees to be paid by the customer when acquiring this product. 
+asr:0: OUTPUT 1166.29-1170.33: As you can see, even during these challenging times, we haven't stopped innovating. 
+asr:0: OUTPUT 1171.51-1178.28: There continues to be a downward trend in credit card loans as we take a more conservative approach toward this segment. 
+asr:0: OUTPUT 1178.86-1188.69: In addition to matching customers' credit limits, credit card usage declined 30% year-over-year during the quarter, as many clients stayed at home. 
+asr:0: OUTPUT 1189.19-1191.99: This drop had a negative impact on balances, of course. 
+asr:0: OUTPUT 1192.71-1202.52: After usage, rates reach a very low level in April. They recover in May and June, although remaining slightly below first quarter levels. 
+asr:0: OUTPUT 1203.50-1212.99: Growth in our consumer loans has been concentrated in payroll loans growing 2.5% year on year and still above the market per CMBB data as of the end of May. 
+asr:0: OUTPUT 1213.87-1221.18: Personal loans continue to contract consistent with our strategy to focus on more defensive segments of the market, as Hector noted. 
+asr:0: OUTPUT 1221.80-1231.23: Finally, our auto loan production in June more than doubled compared to previous quarters average boosted by our new commercial alliance with Mazda. 
+asr:0: OUTPUT 1232.61-1239.04: Turning to slide 13, growth in our base of loyal digital customers continues, demonstrating important progress. 
+asr:0: OUTPUT 1239.40-1246.53: With year-on-year increases of almost 17% and 31% respectively, despite the challenging business environment. 
+asr:0: OUTPUT 1247.03-1253.91: Loyalty penetration, that is loyal to active customers, stands at 35%, 400 points higher than a year ago. 
+asr:0: OUTPUT 1254.59-1260.08: We have seen continuous growth in the use for digital channels as customers have stayed home during the pandemic. 
+asr:0: OUTPUT 1260.34-1268.53: This quarter, product sales via digital channels accounted for 44% of the total, almost doubling year-ago levels. 
+asr:0: OUTPUT 1269.15-1273.35: Digital monetary transactions also spiked, reaching almost one-third of the total. 
+asr:0: OUTPUT 1273.73-1280.32: While mobile transactions represented 93% of total digital transactions versus 84% in 2019. 
+asr:0: OUTPUT 1281.10-1289.25: Mobile customers also kept growing at a solid 38% year-on-year rate, reaching 4.3 million at the end of the quarter. 
+asr:0: OUTPUT 1289.97-1298.56: As you can see on the slide 14, commercial loans grew 9% year-on-year but decreased sequentially as some corporates started prepaying some lines withdrawn. 
+asr:0: OUTPUT 1298.58-1300.36: In the first quarter of this year. 
+asr:0: OUTPUT 1301.26-1310.17: Government and middle market segments continued to register double-digit year-on-year expansion, although their sequential evolution showed lower and stable volumes, respectively. 
+asr:0: OUTPUT 1310.93-1319.46: The CME loans registered a fourth sequential quarterly contraction as this segment showed a weakening trend even before the pandemic. 
+asr:0: OUTPUT 1320.02-1326.25: Outstanding loans are similar to the ones we had in the fourth quarter of 2017, 10 quarters ago. 
+asr:0: OUTPUT 1326.89-1332.17: The downward trend is also related to our lower risk appetite for lending in the SME segment. 
+asr:0: OUTPUT 1332.55-1341.34: Given that more than 50% of our SME loan book joined the payment holiday deferral program and those customers cannot use their credit lines while in the program. 
+asr:0: OUTPUT 1341.52-1347.87: Loan origination in this segment will remain low until we have more visibility on the performance of the economy. 
+asr:0: OUTPUT 1349.33-1357.06: Moving on to total deposits on slide 15, this increased 10% year on year, while quarter on quarter we saw a 3% contraction. 
+asr:0: OUTPUT 1357.64-1362.38: During the quarter, there was a shift between demand and time deposits favored by lower interest rates. 
+asr:0: OUTPUT 1363.06-1371.93: As of the second quarter of this year, demand deposits represented 64% of total deposits and were up 11% year-on-year. 
+asr:0: OUTPUT 1372.11-1377.46: Deposit growth from individuals stands out at 23% year on year. 
+asr:0: OUTPUT 1377.48-1382.34: Supported by our promotion campaign to attract these types of deposits. 
+asr:0: OUTPUT 1383.06-1393.59: After an atypical first quarter of this year, deposits from individuals continue to grow faster than corporate deposits in line with our strategy to further increase our exposure to retail deposits. 
+asr:0: OUTPUT 1394.35-1403.78: Retail deposits now represent 33% of total deposits, almost 400 basis points higher than its contribution in the first quarter of 2018. 
+asr:0: OUTPUT 1405.29-1412.23: Turning to slide 16, we have a very strong capital and liquidity positions as Hector had highlighted. 
+asr:0: OUTPUT 1412.77-1421.96: We maintain a sound funding position with a net loss to the positive ratio of 91.8%, one of the strongest levels since becoming a listed company. 
+asr:0: OUTPUT 1422.72-1428.41: A liquidity coverage ratio increased 89 percentage points relative to the first quarter of this. 
+asr:0: OUTPUT 1428.43-1434.13: And now stands at 211%, well above the regulatory threshold of 100%. 
+asr:0: OUTPUT 1434.71-1439.02: We also remain very comfortable with our debt profile with manageable debt maturities. 
+asr:0: OUTPUT 1439.58-1445.05: Regarding capitalization, our ratio increased 46 basis points sequentially to 16.7%. 
+asr:0: OUTPUT 1445.53-1450.49: Reflecting the postponement of the dividend payments as recommended by the Banking Commission. 
+asr:0: OUTPUT 1450.65-1456.40: While our core tier one ratio was up 58 basis points to 11.6%,. 
+asr:0: OUTPUT 1456.42-1461.64: And our Tier 1 ratio stood at 13.03%. 
+asr:0: OUTPUT 1462.48-1469.03: As you can see on slide 17, net interest income decreased 4% year-on-year and 6% quarter-on-quarter. 
+asr:0: OUTPUT 1469.79-1476.30: As a result, net interest margin contracted 128 basis points to 4.5% for the quarter. 
+asr:0: OUTPUT 1476.96-1481.50: Our margin decline was a result of lower interest rates and lower balances. 
+asr:0: OUTPUT 1481.54-1489.21: Within the high yielding segments coupled with higher average assets as a consequence of a significant increase in our securities portfolio. 
+asr:0: OUTPUT 1489.95-1495.92: Without this last effect, our NIM would have contracted only 54 basis points. 
+asr:0: OUTPUT 1497.28-1504.70: As Hector explained earlier, we're expecting net interest income to continue contracting during the remainder of the year. 
+asr:0: OUTPUT 1505.13-1510.39: Due to anticipated decreases in interest rates combined with a change in our portfolio mix,. 
+asr:0: OUTPUT 1510.55-1516.24: Where growth will likely come from low-yielding segments and with a likely contraction in high-yielding segments. 
+asr:0: OUTPUT 1516.80-1522.26: However, this downward pressure will be partially mitigated by our expanded investment in securities portfolio. 
+asr:0: OUTPUT 1523.44-1532.91: Please move on to slide 18. Net commissions and fees decreased 2.1% year-on-year affected by the double-digit decline in credit card transactions. 
+asr:0: OUTPUT 1533.59-1542.16: Credit card usage decreased 42% in April, 34% in May, and 14% in June on a year-on-year basis. 
+asr:0: OUTPUT 1542.78-1552.35: Insurance fees register only a slight contraction given renewals of several groups' insurance policies, which partially compensated for softer insurance demand. 
+asr:0: OUTPUT 1553.53-1562.60: Insurance represents almost 30% of our total fees and has proven to be a defensive segment, even considering the pandemic. 
+asr:0: OUTPUT 1563.38-1567.71: With health and life insurance growing, while retail insurance is slightly decreasing. 
+asr:0: OUTPUT 1568.89-1579.30: Our investment banking team has been very active, mainly in financial advisory services, which translated into strong fee growth of 31% in this line of our business,. 
+asr:0: OUTPUT 1579.32-1583.94: Which partially compensated for weaker results in other areas, mainly credit card fees. 
+asr:0: OUTPUT 1585.27-1590.13: Turning to slide 19, gross per unit income grew 9% year-on-year. 
+asr:0: OUTPUT 1590.23-1597.96: Driven by a solid performance in market-related income, which was significantly above our historical average levels of between. 
+asr:0: OUTPUT 1597.98-1601.22: 600 to 800 million pesos per quarter. 
+asr:0: OUTPUT 1601.86-1610.69: Declining interest rates affects market volatility, especially during April and May, supporting market-making income. 
+asr:0: OUTPUT 1611.23-1620.36: In addition, we sold investment in securities in order to further strengthen our liquidity position, generating non-recurring gains that boosted this quarter's result. 
+asr:0: OUTPUT 1620.68-1627.63: All these contributed for market-related income that accounted for 13.8% of gross operating revenues. 
+asr:0: OUTPUT 1627.65-1632.15: 3.5 times higher than historical average of 4%. 
+asr:0: OUTPUT 1633.33-1642.54: Moving on to provisions on slide 20. In light of the deterioration of Mexico's economic environment and in anticipation of a possible deterioration of our loan portfolio,. 
+asr:0: OUTPUT 1643.14-1644.84: Both due to the pandemic. 
+asr:0: OUTPUT 1645.35-1651.35: In June, we registered a special charge of low loans provisions on top of those normally required. 
+asr:0: OUTPUT 1651.83-1659.30: The 3.9 billion pesos charge raised total provisions to 8.35 billion pesos in the quarter. 
+asr:0: OUTPUT 1659.34-1663.54: Up 88% year on year and 62% sequentially. 
+asr:0: OUTPUT 1664.10-1669.53: We have made this estimate of preemptive provisions with information currently at hand. 
+asr:0: OUTPUT 1670.01-1674.09: However, this amount could be revised in the future as more information becomes available. 
+asr:0: OUTPUT 1674.83-1682.92: Cost of risk for the quarter stood at 3.1%, a 44 basis points year-on-year increase, and 49 basis points sequentially. 
+asr:0: OUTPUT 1683.80-1692.39: Our total NPL ratio showed a slight 28 basis points year-over-year increase to 2.5%, mainly due to the SME segment. 
+asr:0: OUTPUT 1692.41-1695.16: Together we are mortgage and credit card portfolios. 
+asr:0: OUTPUT 1695.64-1704.96: As explained earlier, these ratios only reflect the performance of 81% of our total portfolio that does not fall under the payment holiday program. 
+asr:0: OUTPUT 1705.93-1714.65: We consider this ratio encouraging as its evolution is quite benign when considering the significant deterioration in economic activity and employment. 
+asr:0: OUTPUT 1715.40-1722.80: However, it will not be until the third and fourth quarter of this year that the debtor's program will end. 
+asr:0: OUTPUT 1723.78-1730.09: It will be at that time when NPL ratios will reflect the real magnitude of the economic impact of the pandemic. 
+asr:0: OUTPUT 1730.93-1732.99: Now please turn to slide 21. 
+asr:0: OUTPUT 1734.17-1741.92: Administrative and promotional expenses increased 1.2% year-on-year, reflecting the effort to control personal costs. 
+asr:0: OUTPUT 1741.94-1751.01: Mainly research for viable compensation and amortization expenses related to the strategic and IT investments that we made over the past three years. 
+asr:0: OUTPUT 1751.65-1756.34: As we will continue investing in the digitalization of the bank and in technology upgrades. 
+asr:0: OUTPUT 1756.36-1762.60: Were targeting greater operating efficiencies in the common quarters, such as the ability to reduce the number of business trips. 
+asr:0: OUTPUT 1762.62-1767.65: Variable compensation, as well as limiting base salary increases, among other improvements. 
+asr:0: OUTPUT 1768.21-1776.04: Less business travel and salary caps already led to a sequential 1.9% decrease in our total expenses during the second quarter of this year. 
+asr:0: OUTPUT 1776.92-1782.46: Such expense controls combined with strong operating income and the conclusion of our. 
+asr:0: OUTPUT 1782.48-1787.51: Contributed to a 358 basis points improvement in our efficiency ratio. 
+asr:0: OUTPUT 1787.53-1790.77: Which decreased to 40.7%. 
+asr:0: OUTPUT 1790.79-1798.60: On a six-month basis, the ratio improved 227 basis points year-on-year to 42.3%. 
+asr:0: OUTPUT 1799.84-1807.83: To profitability on slide 22. You will note that our earnings were mainly impacted by special loan loss provisions that we discussed earlier. 
+asr:0: OUTPUT 1808.41-1814.49: Profit before taxes was down 24% year on year for the quarter and 11% for the first half of the year. 
+asr:0: OUTPUT 1815.02-1819.62: Net income decreased 25% year-on-year to 4.2 billion pesos. 
+asr:0: OUTPUT 1820.04-1826.37: While our effective tax rate increased 38 basis points year on year to 25.3%. 
+asr:0: OUTPUT 1827.11-1834.61: This resulted in an 11.5% decrease in net income for the first six months of 2020. 
+asr:0: OUTPUT 1834.65-1837.34: Which was 9.6 billion pesos. 
+asr:0: OUTPUT 1838.46-1845.23: Return on equity was 11.9%, 543 basis points below the year-ago level. 
+asr:0: OUTPUT 1845.43-1848.51: And down 362 basis points sequentially. 
+asr:0: OUTPUT 1849.09-1854.85: Year-to-date, ROE contracted 328 basis points to 13.5%. 
+asr:0: OUTPUT 1856.08-1861.06: Let me now turn the call back to Hector Grissi for some final remarks. Hector, please go ahead. 
+asr:0: OUTPUT 1862.80-1866.27: Please turn to slide 23. 
+asr:0: OUTPUT 1867.03-1869.85: Let me share with you some final thoughts on what lies ahead. 
+asr:0: OUTPUT 1870.73-1880.44: Given the unprecedented nature of this health crisis and the uncertainty surrounding its duration and magnitude, we anticipate only a very gradual recovery of the economy. 
+asr:0: OUTPUT 1881.34-1885.59: Which has obvious implications with regard to our operating environment. 
+asr:0: OUTPUT 1886.23-1894.95: We expect our loan portfolio will likely be driven by commercial loans, mainly medium and large corporates, government loans, as well as mortgages. 
+asr:0: OUTPUT 1895.66-1905.83: The consumer will recover very gradually and this will depend on the speed of the eventual turnaround in employment, economic activity as well as business and consumer confidence. 
+asr:0: OUTPUT 1906.39-1910.17: Although visibility on asset quality is limited,. 
+asr:0: OUTPUT 1910.19-1917.52: Due to the parent holiday program, we have been talking and taking rapid and decisive action. 
+asr:0: OUTPUT 1917.80-1920.84: In order to mitigate the impact of the pandemic on the loan book. 
+asr:0: OUTPUT 1921.46-1928.47: A recovery plan which includes a very detailed and in-depth analysis of each customer situation. 
+asr:0: OUTPUT 1928.49-1934.41: Is allowing us to preemptively and swiftly prepare the bank for complicated quarters ahead. 
+asr:0: OUTPUT 1934.65-1941.50: In particular, we have allocated a large number of current employees and branches involved in carrying out recovery strategies. 
+asr:0: OUTPUT 1942.40-1950.61: We will continue focusing on enhancing customer loyalty and on cross-selling non-credit products to support non-interest income. 
+asr:0: OUTPUT 1951.25-1955.46: We also remain committed to making additional investments in the bank transformation. 
+asr:0: OUTPUT 1955.48-1961.76: Mainly in IT and digitalization, but we will continue to look for efficiencies in other lines. 
+asr:0: OUTPUT 1961.78-1964.60: With strict cost control in order to support the bottom line. 
+asr:0: OUTPUT 1964.98-1966.95: And finally, rest assured. 
+asr:0: OUTPUT 1966.97-1977.90: That our banks is operating from a position of strength with robust capital and high liquidity levels that will allow us to overcome this complicated, but what we believe are temporary circumstances. 
+asr:0: OUTPUT 1978.26-1981.72: We are now ready to take your questions, please, operator. Let's go ahead. 
+asr:0: OUTPUT 1984.48-1991.81: Thank you. If you would like to ask a question, please signal by pressing star 1 on your telephone keypad. 
+asr:0: OUTPUT 1992.21-1997.94: If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. 
+asr:0: OUTPUT 1998.96-2007.27: Again, press star 1 to ask a question. Please ask one question and a follow-up. If you have further questions, please re-enter the queue. 
+asr:0: OUTPUT 2007.85-2012.31: We'll pause for just a moment to allow everyone an opportunity to signal for questions. Thank you. 
+asr:0: OUTPUT 2021.52-2026.67: Our first question is from the line of Hassan Moline from Scotiabank. Please go ahead. 
+asr:0: OUTPUT 2029.73-2030.77: Thank you very much. 
+asr:0: OUTPUT 2031.55-2039.94: My question is on the operating outlook. The disclosure is excellent as always, and I like the way you presented it. 
+asr:0: OUTPUT 2040.38-2041.86: On slide 19, we. 
+asr:0: OUTPUT 2041.88-2047.91: We can look at the main drivers for the operating income and clearly as you. 
+asr:0: OUTPUT 2047.93-2060.22: We talked about market-related revenue was very strong, well above historical levels, about 14% of the total operating income compared to, let's say, 3% or 4% in the past. 
+asr:0: OUTPUT 2061.18-2068.45: These are different times, but how should we think about efficiency going forward? You talked about cost control. We saw that. 
+asr:0: OUTPUT 2069.63-2077.92: If you can just give us a general sense, you mentioned there are certain costs you can control and you are controlling. 
+asr:0: OUTPUT 2078.32-2085.65: Can you talk a little bit about the physical infrastructure there, an opportunity to rationalize the physical branch network? 
+asr:0: OUTPUT 2086.05-2088.99: After the investments you made,. 
+asr:0: OUTPUT 2089.75-2093.91: What should we be looking for in terms of efficiency going forward? 
+asr:0: OUTPUT 2093.99-2103.66: The dynamic is quite skewed from all of these moving parts, the very high trading and the low revenues given what's going on. Thank you. 
+asr:0: OUTPUT 2105.39-2106.55: Thank you. 
+asr:0: OUTPUT 2107.23-2116.94: As you have said, I mean, if you take a look at our numbers, basically, we have decreased the operation cost of the bank quite significantly. 
+asr:0: OUTPUT 2117.46-2122.94: I mean first of all, I mean not traveling and not doing many things basically have reduced naturally. 
+asr:0: OUTPUT 2123.24-2130.13: The cost would have also been very strict in new projects and new situations. 
+asr:0: OUTPUT 2130.47-2137.40: We are basically focusing all our expenses in IT to support the backbone and to be ready for what's coming. 
+asr:0: OUTPUT 2138.18-2141.24: So in that sense, that's going to be our priority. 
+asr:0: OUTPUT 2142.32-2145.73: Secondly, we are taking a look at the. 
+asr:0: OUTPUT 2145.75-2157.36: And we're doing a deep dive in terms of all our infrastructure, and we're not going to take, I mean, rough decisions in terms of closing down a big number of. 
+asr:0: OUTPUT 2157.38-2165.47: Of branches or anything like that. I think we're going to be rationally looking at each of the micro-markets that we have divided the country into. 
+asr:0: OUTPUT 2165.49-2171.49: And we will decide with the evolution of the economy what should happen there. 
+asr:0: OUTPUT 2171.55-2173.15: But we're going to be very strict. 
+asr:0: OUTPUT 2173.23-2180.72: If you have seen the growth over the past four or five years in terms of branches, we actually have decreased the number of total branches. 
+asr:0: OUTPUT 2180.98-2190.37: We have just, we have been very intelligent in the way we have managed that. What we have done is upgraded the current and the most important branches. 
+asr:0: OUTPUT 2190.79-2192.73: Which we are going to basically. 
+asr:0: OUTPUT 2192.75-2202.70: Be taking a little bit more time than the time that we were thinking of upgrading all the branches that are not up to the standard. 
+asr:0: OUTPUT 2202.94-2210.33: So this is actually what we're doing. We're going to basically rationalize all expending. 
+asr:0: OUTPUT 2210.45-2217.52: And do it on where the most important thing is, that is basically the IT platform and the digitalization of the bank. 
+asr:0: OUTPUT 2217.84-2221.32: So in that sense, we're going to be very concentrated on that. 
+asr:0: OUTPUT 2222.48-2226.53: We also believe that, I mean, given that we have been able to operate. 
+asr:0: OUTPUT 2226.55-2234.41: The bank, under these circumstances, we have a huge amount of people basically working from home. 
+asr:0: OUTPUT 2234.43-2241.36: Get to understand exactly how many people you need, what can you rationalize, etc. 
+asr:0: OUTPUT 2241.60-2250.09: What you're going to see from us is that we're going to be very responsible in the way we manage that and concentrate on those points. We're working currently on that plan. 
+asr:0: OUTPUT 2250.37-2257.12: We are working on our three-year plan and we're basically including all this in order to do so. 
+asr:0: OUTPUT 2260.24-2270.15: Maybe as a follow-up, just some comments on what you've seen throughout your peers in the CENTMDR group in the region or elsewhere. 
+asr:0: OUTPUT 2270.53-2276.14: Are there other things you think that could be applied to Mexico that could help? 
+asr:0: OUTPUT 2276.18-2283.86: Perhaps on the side of the banking system, perhaps in terms operationally or IT or any factors at all. 
+asr:0: OUTPUT 2285.07-2292.15: What we're doing basically is, for example, I mean in terms of developing digital platforms, etc., what we're doing is... 
+asr:0: OUTPUT 2292.21-2298.32: We're doing it now instead of each country basically developing the platforms, we are doing it together. 
+asr:0: OUTPUT 2298.40-2300.40: So that basically is going to help out quite a lot. 
+asr:0: OUTPUT 2301.00-2305.69: So it's not Mexico, for example, right now in Mexico we're developing the new super app. 
+asr:0: OUTPUT 2306.05-2310.41: And the new super app is going to be used in all the other countries. 
+asr:0: OUTPUT 2310.61-2317.14: For example, the onboarding for SMEs, we are using the one that is being developed in Europe. 
+asr:0: OUTPUT 2317.20-2319.58: All those type of things are going to help us out. 
+asr:0: OUTPUT 2319.60-2329.15: Basically in reducing our cost for the digital infrastructure that we're developing and we're working together much more within the group in order to do that. 
+asr:0: OUTPUT 2329.19-2331.59: So you're going to see that, I mean, the cost. 
+asr:0: OUTPUT 2331.61-2339.42: Of basically developing things and it's going to come down due to the fact that we're doing it together with the rest of our 10 sister banks. 
+asr:0: OUTPUT 2342.16-2345.05: Those five rates I can turn off. 
+asr:0: OUTPUT 2347.51-2349.55: Thank you. Appreciate it. 
+asr:0: OUTPUT 2353.13-2358.28: The next question comes from the line of Jorge Curi from Morgan Stanley. Please go ahead. 
+asr:0: OUTPUT 2360.58-2361.62: Hi, good morning everyone. 
+asr:0: OUTPUT 2363.32-2372.07: I wanted to ask about net interest margin. You pointed out that you expect further. 
+asr:0: OUTPUT 2372.17-2382.16: Complications in the next couple of quarters given falling rates and weak loan demand and mixed deterioration. 
+asr:0: OUTPUT 2383.06-2391.63: As you look at 2021 in the context of what you said on not a strong economic recovery next year,. 
+asr:0: OUTPUT 2391.71-2400.06: And with average rates next year being much lower than 2020, if indeed rates at about 4 percent,. 
+asr:0: OUTPUT 2401.70-2406.65: What is the expectation for net interest margin next year and for NII? 
+asr:0: OUTPUT 2406.73-2414.33: Is it possible that we're likely to see another year of MII compression? 
+asr:0: OUTPUT 2414.37-2419.98: And to what extent that could be offset elsewhere in the PML. 
+asr:0: OUTPUT 2420.76-2429.73: And my second question is on the coverage ratio. And I know that banks... 
+asr:0: OUTPUT 2429.83-2433.83: Thanks Norma, lean gold. Target a covert ratio, I get it. 
+asr:0: OUTPUT 2433.95-2438.40: But then again, the size of your reserves,. 
+asr:0: OUTPUT 2438.42-2445.29: Have a relationship to the size of your loan book, the size of your FDLs, and the size of the amount of loans that are on the restructuring. 
+asr:0: OUTPUT 2446.11-2451.29: And so when I look at your COPEX ratio at 138 percent,. 
+asr:0: OUTPUT 2451.73-2460.00: It looks low relative to where Banorte ended up at 201% and Banco del Valleo at 185%. 
+asr:0: OUTPUT 2460.28-2469.27: So I wonder why not just take a much bigger charge on provisions this order. 
+asr:0: OUTPUT 2469.81-2475.22: And evidently there's a lot of uncertainty ahead and the more the better. 
+asr:0: OUTPUT 2475.76-2484.58: And so is this piecemeal just going to potentially put more pressure on your earnings going forward rather than just take a really big one. 
+asr:0: OUTPUT 2484.60-2486.09: Soup and you know. 
+asr:0: OUTPUT 2486.11-2488.63: With razor coverage to the north of 200%. 
+asr:0: OUTPUT 2489.41-2492.79: And that likely may be something we'll do in the third quarter. Thank you. 
+asr:0: OUTPUT 2495.86-2504.04: I will ask this sector, I will ask, I will answer the first part and then I will ask DVR to complete on the basic numbers of NAI, okay? 
+asr:0: OUTPUT 2505.75-2514.83: I mean, first of all, if you saw the presentation, we are basically changing the mix of the credit loan portfolio. 
+asr:0: OUTPUT 2514.95-2517.46: First of all, I mean, if you have seen. 
+asr:0: OUTPUT 2517.54-2525.93: I mean, we have decreased quite a lot our exposure, unfortunately, to SMEs given the lack of warranties from the government, from NAFINSA. 
+asr:0: OUTPUT 2526.39-2528.87: So the portfolio has dropped almost 10%. 
+asr:0: OUTPUT 2529.47-2530.61: So in that sense,. 
+asr:0: OUTPUT 2530.91-2534.79: That basically is a high-yield portfolio, which... 
+asr:0: OUTPUT 2534.83-2541.68: It's going to continue to shrink unless we see some guarantees from the government. And if you see our portfolio, which is quite important,. 
+asr:0: OUTPUT 2541.70-2545.07: We have like 62% of it already warranted by the fee. 
+asr:0: OUTPUT 2545.13-2546.41: I'll give you a quarter minute. 
+asr:0: OUTPUT 2547.61-2555.24: This basically goes to answer your second part of the question in terms of the amount of research that we have done. 
+asr:0: OUTPUT 2556.58-2558.36: And then you'll see that... 
+asr:0: OUTPUT 2558.38-2563.72: Also, we see that, for example, consumer credit and consumer loans are going to decrease as. 
+asr:0: OUTPUT 2563.84-2567.51: So the mix is completely changing and we're going. 
+asr:0: OUTPUT 2567.57-2575.48: We're going basically back to where we were five years ago when we had much more exposure to corporates. 
+asr:0: OUTPUT 2575.54-2581.22: And to medium-sized companies than to consumer loans. Remember that we have the different things, okay? 
+asr:0: OUTPUT 2582.10-2584.06: So that's why NII is shrinking. 
+asr:0: OUTPUT 2584.14-2592.37: On the other side, what we've also been doing is we're pricing and we are very strict on pricing risk. 
+asr:0: OUTPUT 2593.01-2599.96: So we've been increasing the margin on the corporate loans quite significantly due to that fact. 
+asr:0: OUTPUT 2600.00-2603.16: That we are basically looking at the risk that we are taking. 
+asr:0: OUTPUT 2603.62-2609.35: And we are looking very closely at the ratings of those companies and we are pricing risk accordingly. 
+asr:0: OUTPUT 2609.79-2615.70: Okay? This is not a situation in which we want to expand the portal for the credit portfolio, just to expand it. 
+asr:0: OUTPUT 2616.22-2617.78: We are basically doing it. 
+asr:0: OUTPUT 2617.80-2626.19: To the companies that we believe have a future and that will be there in the next few years, and both were pricing the risk accordingly. 
+asr:0: OUTPUT 2626.29-2628.99: In that sense, you're going to feel it's going to work out. 
+asr:0: OUTPUT 2629.03-2631.81: Also, the other concentration is mortgages. 
+asr:0: OUTPUT 2631.89-2639.44: Which we believe, I mean, there is a sector still of growth. I mean, as you know, there is a lack of... 
+asr:0: OUTPUT 2640.00-2646.55: Or a big deficit in terms of homes in Mexico. So we believe there is still a part of the population that can afford a mortgage. 
+asr:0: OUTPUT 2646.67-2650.29: Mortgages penetration in Mexico was quite low versus the rest. 
+asr:0: OUTPUT 2650.43-2656.98: And also lung penetration is quite low, so we believe there is a chance to continue to penetrate. 
+asr:0: OUTPUT 2657.30-2664.76: That sector and maybe on payrolls on some situations we will basically be also lending in that part. 
+asr:0: OUTPUT 2665.07-2671.61: And now to loans also. We have seen some interesting developments there with very cautious approach to it. 
+asr:0: OUTPUT 2671.99-2678.90: So in that sense, the mix of the protocol is going to change and probably we can let you know exactly how the WGNII is evolving. 
+asr:0: OUTPUT 2679.98-2682.84: In terms of what you were asking in terms of the reserves. 
+asr:0: OUTPUT 2683.40-2684.52: Um... 
+asr:0: OUTPUT 2684.74-2694.39: We actually have been doing research accordingly to what we believe we are doing in terms of how the portfolio is. 
+asr:0: OUTPUT 2694.41-2696.92: Is behaving at this point. 
+asr:0: OUTPUT 2697.00-2704.60: What I can tell you is that the portfolio not on payment holidays is behaving much, much better than we believed. 
+asr:0: OUTPUT 2704.62-2707.81: That it was going to turn. 
+asr:0: OUTPUT 2708.33-2713.39: Actually, I'm quite surprised about it. Hopefully, it continues that way. 
+asr:0: OUTPUT 2713.55-2722.12: But in that sense, we are basically being, in my opinion, being very responsible in the amount of... 
+asr:0: OUTPUT 2722.14-2725.09: Of research that we are making at this point. 
+asr:0: OUTPUT 2725.39-2729.87: Also, we have done a tremendous job with the data. 
+asr:0: OUTPUT 2729.89-2736.00: That we have in reviewing the portfolio on holidays. 
+asr:0: OUTPUT 2736.54-2740.78: And that portfolio is being divided, as we said, in 36 clusters, okay? 
+asr:0: OUTPUT 2741.08-2747.37: These clusters have been divided upon the amount of risk that we have on each particular situation. 
+asr:0: OUTPUT 2747.97-2755.32: And in some of these portfolios, even before the payment holiday ends, we are already talking to clients. 
+asr:0: OUTPUT 2755.34-2761.94: And discussing the way that we could get paid on those particular situations. 
+asr:0: OUTPUT 2762.00-2768.43: What we believe is that whoever gets paid first is the one that is going to get paid. 
+asr:0: OUTPUT 2768.45-2776.50: Are basically being very aggressive in that sense to talk to our clients and basically trying to get them to recover their portfolio. 
+asr:0: OUTPUT 2776.52-2785.31: You have seen 55% of our branches have been turned into collecting branches. 
+asr:0: OUTPUT 2785.59-2789.87: We're dedicating our executives to collect. 
+asr:0: OUTPUT 2790.07-2797.32: We have divided them up on them in the sectors that we believe are the ones that are going to be much more important. 
+asr:0: OUTPUT 2798.60-2801.56: Or that are going to be hit the most in the economy. 
+asr:0: OUTPUT 2801.94-2804.80: So in that sense, I really was very well prepared. 
+asr:0: OUTPUT 2806.01-2808.75: Although, I mean, or nevertheless. 
+asr:0: OUTPUT 2808.93-2818.52: It's always, I mean, a lot of uncertainty in what's happening and we didn't want to go overboard. We believe it's the right approach and the one that we have made. 
+asr:0: OUTPUT 2818.88-2825.15: But we will continue to see over the next few months evolution, but I can tell you that we're going to be very conservative in the way we manage. 
+asr:0: OUTPUT 2828.51-2838.34: I don't know if you want to complete. Absolutely. Absolutely. I would like to compliment on what you mentioned. Great talking to you, Jorge. Long time no speak. 
+asr:0: OUTPUT 2839.66-2846.69: In terms of names, definitely, as we laid out in the presentation,. 
+asr:0: OUTPUT 2847.17-2854.21: We see significant pressures. And let me just give you some background information that I think it's quite relevant. 
+asr:0: OUTPUT 2856.00-2863.70: The speed at which interest rates have come down in Mexico is significant. 
+asr:0: OUTPUT 2864.12-2869.67: The average of the reference rate came down 123 basis points. 
+asr:0: OUTPUT 2869.73-2875.80: That's the fastest decline that we've seen in the recent history. 
+asr:0: OUTPUT 2876.20-2884.54: We didn't saw an increase of that magnitude when interest rates were coming up. 
+asr:0: OUTPUT 2884.97-2886.89: So that's one thing to have in mind. 
+asr:0: OUTPUT 2887.27-2893.59: The impact in NIMH that you see in this quarter, I think, is probably most. 
+asr:0: OUTPUT 2893.61-2898.92: Year that we're going to see in a relative basis, relative to the first quarter of this. 
+asr:0: OUTPUT 2899.28-2902.32: And relative to the second quarter of last year. 
+asr:0: OUTPUT 2903.96-2911.57: Also, bear in mind that when interest rates were close to 4%, as we probably. 
+asr:0: OUTPUT 2911.59-2914.03: I agree with you that that's where we're headed. 
+asr:0: OUTPUT 2914.61-2921.50: Our NIM was close to 5%, and this was in the second and third quarter of 2016. 
+asr:0: OUTPUT 2922.40-2929.71: I think that the number that we reported, the 448% in this quarter,. 
+asr:0: OUTPUT 2930.21-2936.48: It has to do with what I was referring to, the speed at which interest rates came down. 
+asr:0: OUTPUT 2936.74-2947.15: And also, on top of that, you have the change in mix on our loan size. 
+asr:0: OUTPUT 2947.17-2957.94: And also, the fact that in order to protect net interest income from interest rates coming down,. 
+asr:0: OUTPUT 2958.10-2965.07: We increased our investment in securities portfolio significantly. 
+asr:0: OUTPUT 2965.99-2974.85: And those are lower margin assets relative to the loan portfolio. 
+asr:0: OUTPUT 2975.40-2978.20: Just to share with you. 
+asr:0: OUTPUT 2979.68-2986.37: We've fought and taken into account both divestment and maturities. 
+asr:0: OUTPUT 2986.77-2996.04: The overall growth in our investment securities portfolio is 96 billion pesos over the last 12 months. 
+asr:0: OUTPUT 2996.28-2998.00: So, um... 
+asr:0: OUTPUT 2998.04-3007.43: What we expect coming down the road for the rest of 2020 and next year, I think that. 
+asr:0: OUTPUT 3007.51-3012.61: So, you know, having said that, there's still a lot of uncertainty. 
+asr:0: OUTPUT 3013.11-3021.96: You know, I think that probably the most severe numbers in terms of NIMH are the ones that we saw this quarter. 
+asr:0: OUTPUT 3022.12-3031.17: There's probably 10 to 15 basis points, probably further adjustment or slight adjustment. 
+asr:0: OUTPUT 3031.19-3033.81: Improvement for the rest of the year. 
+asr:0: OUTPUT 3034.31-3035.44: Okay. 
+asr:0: OUTPUT 3035.52-3046.37: And next year, I think that we'll probably get to see names similar or slightly above to the ones that we were seeing in this quarter. 
+asr:0: OUTPUT 3046.67-3049.59: Okay, now regarding the coverage ratio. 
+asr:0: OUTPUT 3050.33-3056.38: You're totally right in the sense that we don't target that coverage ratio. That's a resulting number. 
+asr:0: OUTPUT 3056.52-3061.62: And also, you know, when you make reference to... 
+asr:0: OUTPUT 3061.64-3071.07: You know, our number, 138%, looks low relative to Banorte. You know, Banorte in the first quarter of this year, they had 140%. 
+asr:0: OUTPUT 3071.73-3078.84: In the second quarter, they did, as we did also, you know, increase the provisions. 
+asr:0: OUTPUT 3079.54-3083.96: But different to us, you know, they need a significant charge off, 4.6 billion pesos. 
+asr:0: OUTPUT 3084.60-3090.69: So that's why, you know, their coverage rate increased to 200%. 
+asr:0: OUTPUT 3092.21-3098.86: I'm probably just elaborating more on what Hector mentioned. 
+asr:0: OUTPUT 3100.22-3106.93: The level of provisions that we have are in line with the expected losses that we estimate. 
+asr:0: OUTPUT 3109.37-3116.94: You might have a, or you might question whether this is enough or not. 
+asr:0: OUTPUT 3116.96-3119.08: Let me share with you that... 
+asr:0: OUTPUT 3119.10-3127.45: You know, under current circumstances, we have definitely done different types of sensitivity analysis or scenario analysis. 
+asr:0: OUTPUT 3127.99-3133.79: So, if there is a B-type recovery in the Mexican economy,. 
+asr:0: OUTPUT 3133.91-3141.66: You know, we have with these quarters provisions, we are, you know, more than covered, you know, for the rest of the year. 
+asr:0: OUTPUT 3142.18-3146.53: Now, do we think that there's going to be a V-type recovery in the Mexican economy? 
+asr:0: OUTPUT 3147.25-3150.37: I don't think so. It's very low probability. 
+asr:0: OUTPUT 3150.53-3159.80: Now, we have assessed, you know, the level of provisions according to other type of scenarios, you know, more U-type. 
+asr:0: OUTPUT 3159.82-3165.75: Or an adverse scenario having a GDP contraction of 12.5%. 
+asr:0: OUTPUT 3166.21-3172.63: And under those circumstances, these Quadros provisions are not enough for the entire year. 
+asr:0: OUTPUT 3172.75-3182.28: There could be close to 60 to 75 percent, depending on the magnitude of the GDP contraction that you assume. 
+asr:0: OUTPUT 3182.96-3186.35: Okay. 
+asr:0: OUTPUT 3186.39-3193.35: So there should be direct correlation between expected losses and provision. 
+asr:0: OUTPUT 3193.93-3200.22: And the provisions that we are putting forward, we think that with the information that we have,. 
+asr:0: OUTPUT 3200.24-3203.92: Are quite strong to cover. 
+asr:0: OUTPUT 3203.94-3213.05: Expected losses, if the economy ends up contracting more than we are expecting right now,. 
+asr:0: OUTPUT 3213.65-3216.86: Definitely we will need to provide additional provisions. 
+asr:0: OUTPUT 3217.42-3223.70: Something that I encourage you to look at if you haven't done so yet. 
+asr:0: OUTPUT 3223.72-3235.10: The central bank, Banxico, released in the financial stability report published a few weeks ago. 
+asr:0: OUTPUT 3235.92-3240.00: An analysis regarding NPLs for the entire system. 
+asr:0: OUTPUT 3240.74-3248.21: And what they did is look at information from the entire banking system for the last 20 years. 
+asr:0: OUTPUT 3248.77-3252.37: And they, you know, using an econometric model. 
+asr:0: OUTPUT 3252.53-3259.04: They estimated what are the critical variables that determine MPOs. 
+asr:0: OUTPUT 3259.10-3265.35: And they break down the loan portfolio in consumer loans, in mortgage loans, and corporate. 
+asr:0: OUTPUT 3266.03-3270.87: So once they determine this econometric model,. 
+asr:0: OUTPUT 3271.13-3279.46: Then they provided a shock with the variables that we're seeing lately, and they estimated. 
+asr:0: OUTPUT 3279.48-3284.26: How much NPL ratios would deteriorate for the entire banking system. 
+asr:0: OUTPUT 3285.71-3295.42: For consumer loans, that would imply a 32% increase. For mortgages, 19%. And for corporates, also 32%. 
+asr:0: OUTPUT 3296.04-3304.00: So when you do that math and you break it down by the type of loans, by type of bank,. 
+asr:0: OUTPUT 3304.86-3311.39: You get to see, you know, this is obviously a ballpark estimate because obviously every single bank has a... 
+asr:0: OUTPUT 3311.41-3316.80: Different practices in, you know, rejuvenation practices and recoveries and so on. 
+asr:0: OUTPUT 3317.20-3327.05: But you can get a sense of the magnitude in terms of using this model, how much you would expect that each bank would provision. 
+asr:0: OUTPUT 3329.63-3331.77: Thank you. 
+asr:0: OUTPUT 3338.18-3347.43: From the line of Ernesto Gavirondo from Bank of America. Please go ahead. Hi, good morning. Hector, I am Vivier. Thanks for the opportunity. 
+asr:0: OUTPUT 3348.35-3353.87: My first question is a follow-up on the preventive provisions of 3.9 billion pesos. 
+asr:0: OUTPUT 3354.33-3359.28: So you think this level of provisions will be enough for the rest of the year? 
+asr:0: OUTPUT 3359.30-3365.63: Or are you going to evaluate to create more depending on the behavior of payments after the relief program? 
+asr:0: OUTPUT 3366.59-3375.54: And then my second question is a difficult one because we would like to know if you have exposure to Areomexico under Chapter 11. 
+asr:0: OUTPUT 3375.56-3379.66: Or Tualcea that has restructured loans with the banks for about a year. 
+asr:0: OUTPUT 3380.62-3383.48: But I understand if you cannot disclose your exposure. 
+asr:0: OUTPUT 3383.94-3391.83: So maybe if you can remind us how much of your loan book is exposed to airlines and how much to food and beverage. 
+asr:0: OUTPUT 3392.21-3395.12: And if there is a sector that is concerning you. 
+asr:0: OUTPUT 3396.12-3401.72: And finally, my last question is on competition in mortgage loans. 
+asr:0: OUTPUT 3402.58-3409.23: We have seen different banks reducing the interest rates of mortgages in light of the lower rates. 
+asr:0: OUTPUT 3409.87-3418.30: So how has been your strategy to attract more Dutch clients and how competitive is your interest rate? Thank you. 
+asr:0: OUTPUT 3420.52-3425.01: Thank you, Ernesto. Let me start and then the VR will complement. 
+asr:0: OUTPUT 3425.91-3431.23: First of all, on the follow-up on provisions, like I haven't spoken many times to my CRO,. 
+asr:0: OUTPUT 3431.69-3437.48: And he basically tells me that when I asked you, I'm asking the same question that you're asking me at this point. 
+asr:0: OUTPUT 3437.86-3446.13: And he basically says, look, I don't have my crystal ball so clear and it's quite impossible. 
+asr:0: OUTPUT 3446.47-3455.82: Not impossible, but it's going to be difficult to assess what we're doing. I mean, what I can tell you is that we're doing our best job in basically reviewing the portfolio. 
+asr:0: OUTPUT 3456.38-3463.70: We do that every single day. We review the behavioral bit and we're basically trying to. 
+asr:0: OUTPUT 3463.72-3469.25: As conservative as we can in order to manage it. 
+asr:0: OUTPUT 3469.35-3475.38: We see that the portfolio continues to deteriorate and is much more complicated. We're going to find out. 
+asr:0: OUTPUT 3475.40-3485.61: The payment shock comes in the first week of August. We're preparing for next week, actually, when the first loans that went into the payment holiday start. 
+asr:0: OUTPUT 3485.63-3491.49: To mature and we will see how the performance of the Pontifolio. 
+asr:0: OUTPUT 3492.15-3498.02: And then we'll take, I mean, you're going to see our numbers right after. 
+asr:0: OUTPUT 3498.10-3502.40: I mean, we want to take the provisions as soon as they come if needed. 
+asr:0: OUTPUT 3502.98-3509.99: And our second point in Aramexico, yes, and in the Sahara, yes, we do have exposure to. 
+asr:0: OUTPUT 3510.95-3514.79: Nothing that we cannot control or nothing too big for the size of the bank. 
+asr:0: OUTPUT 3515.22-3517.52: I mean our total exposure to airlines. 
+asr:0: OUTPUT 3518.24-3520.02: It's not big. 
+asr:0: OUTPUT 3520.18-3524.78: I mean, compared to the total size of the portfolio, I would say,. 
+asr:0: OUTPUT 3524.82-3530.23: Probably, the year-on-year percentage is much better, but it's not big. 
+asr:0: OUTPUT 3530.37-3534.03: I mean it's not very significant versus the size of the bank. 
+asr:0: OUTPUT 3534.61-3539.30: And we have done some provisions already on some of the exposure we have supplied to Mexico. 
+asr:0: OUTPUT 3539.52-3548.63: Okay, so we can tell you that in the provisions that we made, some of them are made for the aluminum-exposed, which is not relevant. 
+asr:0: OUTPUT 3549.71-3550.73: In terms of ulcer. 
+asr:0: OUTPUT 3551.15-3557.26: Yes, we do have exposure to them, also not significant. 
+asr:0: OUTPUT 3557.58-3565.49: And we are basically in the restructuring process as of now and we see that the company can recover. 
+asr:0: OUTPUT 3565.71-3568.97: I don't see that the FCA is going to be a particular. 
+asr:0: OUTPUT 3568.99-3577.72: Situation, food and beverage, I don't know if the VDR has the data. Unfortunately, I don't have it in front of me. And we could get back to you on that. 
+asr:0: OUTPUT 3578.64-3582.76: In terms of the competition on mortgage loans, it's quite important what we do. 
+asr:0: OUTPUT 3584.58-3591.45: We have an important differentiation in terms of how we do marketing versus our competition. 
+asr:0: OUTPUT 3592.13-3599.06: If you take a look at what Hipoteca Plus is, it's a completely different product that nobody has replicated in the Mexican market. 
+asr:0: OUTPUT 3599.72-3606.09: And some of the other banks basically have tried to do a little bit of what we do in Hipoteca Plus. 
+asr:0: OUTPUT 3606.35-3608.73: HIPOTECA Plus is the best rate available in the market. 
+asr:0: OUTPUT 3609.03-3618.04: But in order to get the rate best available in the market, which is 7.75% for a 15-year mortgage. 
+asr:0: OUTPUT 3620.00-3628.37: You have to basically turn into, turn us into your most important bank, to your number bank, number one bank. 
+asr:0: OUTPUT 3628.89-3633.79: What in order to be able to get that rate, you basically have to have different products with us. 
+asr:0: OUTPUT 3634.15-3642.42: That basically you have to have your payroll, you have to direct debit your utilities with us, you have to have your insurance. 
+asr:0: OUTPUT 3642.70-3647.87: So there is something that you have to do in order to be able to access the rate. 
+asr:0: OUTPUT 3649.43-3658.26: In that regard, what happens is even if the loan is at 7.75, and we're also very cautious in the loan to value that we do in that loan. 
+asr:0: OUTPUT 3659.22-3662.26: That's why precisely I was explaining in the presentation. 
+asr:0: OUTPUT 3662.30-3669.49: That's why our ticket for mortgage is 37% larger than the rest. 
+asr:0: OUTPUT 3669.55-3672.51: So we go directly to the wealthy people. 
+asr:0: OUTPUT 3672.71-3675.72: Okay, so the people that are in the best situation right now. 
+asr:0: OUTPUT 3676.16-3680.40: So we believe that our portfolio is more resilient in these particular situations. 
+asr:0: OUTPUT 3680.86-3688.67: And also that we get the best client because those are the ones that basically can achieve this rate and can achieve this... 
+asr:0: OUTPUT 3689.45-3692.29: To have these characteristics to act in this type of problem. 
+asr:0: OUTPUT 3692.93-3697.24: So that's why the portfolio we believe is going to behave well. 
+asr:0: OUTPUT 3697.40-3705.99: And it's going to be managed or it's going to behave in a nice way due to that fact. 
+asr:0: OUTPUT 3706.39-3710.13: Okay, so and we have seen the way the portfolio has performed. 
+asr:0: OUTPUT 3710.15-3716.74: And we see that the performance is according to our expectations given the very complicated circumstances. 
+asr:0: OUTPUT 3717.38-3720.00: Okay, so in that regard. 
+asr:0: OUTPUT 3720.14-3729.31: I mean, there is competition. I mean, there are some banks. I mean, a couple of banks have tried to come in and basically compete with us head-to-head in these type of situations. 
+asr:0: OUTPUT 3729.59-3733.45: But they have not been able to have the same type of product that we sent to the market. 
+asr:0: OUTPUT 3733.97-3736.66: Then we came out with another product, the Hipoteca Free. 
+asr:0: OUTPUT 3737.18-3742.20: The Hypotheca Free basically has a particularity that has everything included in the rate. 
+asr:0: OUTPUT 3742.66-3748.41: You don't have any fees, any commissions. You don't have to pay for any ancillary cost or anything like that. 
+asr:0: OUTPUT 3748.69-3759.78: So that particular thing is for people that, I mean, that they believe that we have a lot of things under the table and they were not completely clear. This is completely transparent to the client. 
+asr:0: OUTPUT 3760.36-3762.66: And that hippoteca is about 9%. 
+asr:0: OUTPUT 3763.92-3769.25: That's the rate and that's for a difficult, different type of client. So we have. 
+asr:0: OUTPUT 3769.51-3775.26: A Chinese menu for every type of different client that would like to access what we do. 
+asr:0: OUTPUT 3775.68-3782.56: And for example, the POTECA Free goes to a different sector that is new to us, that is basically clients with a lower ticket. 
+asr:0: OUTPUT 3783.78-3791.81: And some of these clients are very good and have very good credit quality and that's why we decided to compete in that sector. 
+asr:0: OUTPUT 3792.99-3796.20: I don't know if this answers your question, Ernesto, and please be a compliment. 
+asr:0: OUTPUT 3797.66-3802.58: Sure, Hector. Regarding your first question, Ernesto,. 
+asr:0: OUTPUT 3802.66-3807.75: You know, as I previously mentioned, you know, I think that it depends. 
+asr:0: OUTPUT 3807.77-3813.33: On how severe is the GDP contraction this year. 
+asr:0: OUTPUT 3813.37-3818.46: And how that impacts the capacity for clients to pay back their loans. 
+asr:0: OUTPUT 3819.68-3827.97: We think that, as mentioned, if there's a U-type recovery. 
+asr:0: OUTPUT 3828.47-3833.33: And GDP contracting somewhere around 10 to 12%. 
+asr:0: OUTPUT 3833.89-3843.80: Then we have made with the provisions of this quarter, you know, more than half of what we require. And that could be, you know, 60 to 75% of what we require. 
+asr:0: OUTPUT 3843.86-3845.93: You know, with the information that we have right now. 
+asr:0: OUTPUT 3846.33-3852.03: But it's going to be dependent on how this evolves. 
+asr:0: OUTPUT 3852.05-3858.20: Monitoring how our clients are behaving. 
+asr:0: OUTPUT 3858.78-3862.50: Now, on your second question regarding the exposure that we have to Idomexico and Nalxsia,. 
+asr:0: OUTPUT 3864.00-3870.05: Obviously, for confidentiality reasons, we cannot disclose those, but we can reassure you that. 
+asr:0: OUTPUT 3870.07-3875.14: These two exposures that we have are not within our top ten exposures. 
+asr:0: OUTPUT 3875.54-3879.94: As Hector mentioned, we have already paid provision partially. 
+asr:0: OUTPUT 3879.96-3885.57: Exposure that we have with Iromexico, that's close to 45% of the exposure that we have. 
+asr:0: OUTPUT 3885.61-3888.39: We have that is not that material. 
+asr:0: OUTPUT 3889.29-3894.67: And I don't have with me the breakdown in terms of food, the beverage, the breakdown that we have, that I have right now. 
+asr:0: OUTPUT 3894.71-3902.52: Or the one that the CMBB uses more for regulatory purposes and do not have that detail. 
+asr:0: OUTPUT 3902.94-3905.81: But for sure we can follow up with that, Ernesto. 
+asr:0: OUTPUT 3907.41-3910.09: Now this is super helpful, Hector and Divya, thank you very much. 
+asr:0: OUTPUT 3914.63-3915.98: We'll take the next question. 
+asr:0: OUTPUT 3917.86-3921.08: It comes from Brian Flores from Citibank. Please go ahead. 
+asr:0: OUTPUT 3923.58-3926.59: Hi, good morning. Thank you for the opportunity to ask questions. 
+asr:0: OUTPUT 3927.19-3933.71: So, we have a question, we wanted to make a quick follow-up. You mentioned that based on your CRM capabilities,. 
+asr:0: OUTPUT 3934.39-3940.72: You saw a certain percentage of customers continue paying. What was that percentage? Sorry. 
+asr:0: OUTPUT 3951.95-3952.99: Thank you. 
+asr:0: OUTPUT 3953.33-3955.16: And for my question. 
+asr:0: OUTPUT 3956.30-3962.06: We've seen some declaration in other quality across the board and as you mentioned,. 
+asr:0: OUTPUT 3962.08-3966.83: So that you SMB portfolio has a large degree of guarantee but nothing. 
+asr:0: OUTPUT 3967.79-3975.06: My question is in credit cards. Could you emphasize on the collateral there and the not given default for each segment? 
+asr:0: OUTPUT 3975.18-3979.94: What are you expecting in terms of NPL for this segment? Thank you. 
+asr:0: OUTPUT 3985.41-3992.43: If you like, I can take that, Hector. Credit cards do not have collateral. 
+asr:0: OUTPUT 3992.75-3999.12: So, laws giving defaults in credit cards is close to 100%. 
+asr:0: OUTPUT 3999.22-4006.81: You basically do not recover that much in terms of credit cards. 
+asr:0: OUTPUT 4007.77-4009.43: And the. 
+asr:0: OUTPUT 4009.67-4017.84: We think that that's going to be one of the products most impacted, you know, when you look at. 
+asr:0: OUTPUT 4017.86-4021.12: The different types of loans. 
+asr:0: OUTPUT 4021.72-4022.92: That clients have. 
+asr:0: OUTPUT 4023.08-4036.44: You know, we think that mortgages are the ones that you don't, you know, you continue paying, you know, if there's any just one loan that you continue paying, that's. 
+asr:0: OUTPUT 4036.46-4040.44: That's mortgages and probably credit cards are. 
+asr:0: OUTPUT 4040.46-4045.97: At the bottom of your priorities, you know, when you have trouble, you know. 
+asr:0: OUTPUT 4047.01-4053.95: The NPLs that we see in credit cards have been increasing slightly. 
+asr:0: OUTPUT 4054.25-4062.64: But I think it's relatively stable when you compare it historically. 
+asr:0: OUTPUT 4062.98-4067.93: So we don't expect a significant deterioration. 
+asr:0: OUTPUT 4068.17-4070.21: You know,. 
+asr:0: OUTPUT 4070.29-4078.52: Cost of risk with the provisions that we're taking. 
+asr:0: OUTPUT 4078.54-4080.54: Is close to 11%. 
+asr:0: OUTPUT 4082.16-4089.95: So I don't know, Hector, if you would like to, Hector Chavez, if you would like to further compliment on this. 
+asr:0: OUTPUT 4105.45-4112.01: This is the operator. Mr. Chavez's line has gone idle. I will try to reconnect him at this time. Would we like to take the next question? 
+asr:0: OUTPUT 4132.93-4134.43: From Tito Labarta from Goldman Sachs. 
+asr:0: OUTPUT 4137.02-4140.06: Thank you for the call and taking the questions. 
+asr:0: OUTPUT 4141.74-4147.23: One question on the market related income, I know you talked about the big spike in the quarter, but. 
+asr:0: OUTPUT 4147.83-4154.21: Do you think that goes back to normal already in the third quarter or do you think that can remain elevated? 
+asr:0: OUTPUT 4154.33-4161.62: Elevated for some period of time. Just to get – I know it's hard to predict, but if you could get some more color on how you would think about market-related income going forward. 
+asr:0: OUTPUT 4162.12-4164.86: And then if I can ask just one follow-up on the provision. 
+asr:0: OUTPUT 4165.89-4171.73: I understand given the scenario you see, you feel comfortable with where you are, but if you look at the cost of risk,. 
+asr:0: OUTPUT 4171.77-4179.50: Before this quarter, it had been around 2.6, 2.7. Barring any changes in the scenario that you see right now,. 
+asr:0: OUTPUT 4179.54-4184.36: Is that 2.6, 2.7 what we should expect sort of going forward as well? 
+asr:0: OUTPUT 4185.33-4188.19: Again barring any significant changes in the current scenario. 
+asr:0: OUTPUT 4193.53-4195.70: Thank you, I mean, what I can tell you is. 
+asr:0: OUTPUT 4196.58-4205.85: Yes, we have had a good run in terms of market-related income. I think the banks were positioned to do so. The important point is volatility. 
+asr:0: OUTPUT 4206.45-4214.63: And if volatility continues to be the way it is, then you can expect that we can basically have. 
+asr:0: OUTPUT 4214.65-4216.16: Good number, sir. 
+asr:0: OUTPUT 4216.24-4225.05: I don't think we're going to have in the third quarter numbers as good as they were in this quarter. 
+asr:0: OUTPUT 4225.55-4231.89: But I mean, you don't want to depend on what happens in the next few days, in the next few months. 
+asr:0: OUTPUT 4233.53-4238.02: In terms of the provisions and the cost of risk, did you want to comment on that? 
+asr:0: OUTPUT 4238.84-4240.90: Absolutely, right it is. 
+asr:0: OUTPUT 4241.00-4249.71: I think that once you take out the unrestricted provisions that we did this quarter, I think that cost of risk. 
+asr:0: OUTPUT 4249.75-4256.82: Should be slightly higher than the numbers that we were having over the last five quarters. 
+asr:0: OUTPUT 4257.88-4260.38: But not to levels that we reported this quarter. 
+asr:0: OUTPUT 4260.62-4268.31: So somewhere below 300 basis points, that would be my take. 
+asr:0: OUTPUT 4269.05-4273.25: And obviously, as you mentioned, you know, with the information that we currently have, okay? 
+asr:0: OUTPUT 4280.00-4286.25: We'll take the next question. It comes from the line of Carlos Gomez from HSBC. Please go ahead. 
+asr:0: OUTPUT 4289.05-4297.30: I have a question about credit risk, but not to your corporate but to the rest of the financial. 
+asr:0: OUTPUT 4297.78-4305.19: We already saw one company that has been put into liquidation by the National Banking Commission. 
+asr:0: OUTPUT 4306.99-4316.26: This is becoming a very long crisis with 10 seconds of economy being unable to operate. So eventually one would imagine that some situations might get into trouble. 
+asr:0: OUTPUT 4317.06-4320.40: Are you taking special precautions? 
+asr:0: OUTPUT 4320.50-4328.53: In regard to any sectors of the financial system and do you think you will encounter much trouble or most of them will be able to go through this. 
+asr:0: OUTPUT 4331.05-4333.19: Thank you, Carlos. 
+asr:0: OUTPUT 4333.21-4342.02: In all these particular situations, and depending how long the crisis is going to take, I mean, it's probably going to take down some financial payers. 
+asr:0: OUTPUT 4342.68-4351.55: In that sense, yes, we are being very cautious and reviewing and having conversations with them about what their position is and their situation. 
+asr:0: OUTPUT 4353.57-4361.40: And we're going to basically continue to monitor that as the crisis continues to evolve. 
+asr:0: OUTPUT 4361.76-4366.91: So in that sense, we are very close to a particular sector. 
+asr:0: OUTPUT 4367.29-4371.47: We don't have, I mean, we are not a big lender to the sector. 
+asr:0: OUTPUT 4371.81-4374.17: I can tell you that... 
+asr:0: OUTPUT 4374.39-4385.09: If they're not in the, as Divir Batain, on their 10 most important claims, they are not financial players. So in that sense, we are not worried about the exposure that we have out to them. 
+asr:0: OUTPUT 4385.69-4391.25: But we are very taking a look and monitoring them all the time. 
+asr:0: OUTPUT 4391.97-4398.12: Hopefully the crisis is shorter and nobody else goes down. But I mean, let's see what happens. 
+asr:0: OUTPUT 4400.02-4407.65: Any particular sub-segments that you see may need a special monitoring. 
+asr:0: OUTPUT 4407.79-4413.05: You know, market-related or consumer-related or payroll. 
+asr:0: OUTPUT 4413.19-4422.16: So finance is a sector that we need to be very close monitoring. We don't have to be exposures to them. 
+asr:0: OUTPUT 4422.72-4427.41: But that's a sector that corporally would be complicated as always in these type of situations. 
+asr:0: OUTPUT 4427.73-4431.37: The people that suffer the most are the ones that are on the... 
+asr:0: OUTPUT 4431.39-4441.02: Are on the base of the pyramid. So, unfortunately, that's the case, and we are monitoring that quite closely. Thank you so much. 
+asr:0: OUTPUT 4445.85-4450.55: Take the next question. It comes from Alonso Garcia from Credit Suisse. Please go ahead. 
+asr:0: OUTPUT 4453.21-4454.99: Good morning. Thank you for taking my question. 
+asr:0: OUTPUT 4455.38-4456.94: My question is regarding liquidity. 
+asr:0: OUTPUT 4457.44-4460.60: I mean your degree coverage ratio improved nicely in the quarter. 
+asr:0: OUTPUT 4460.78-4465.91: In fact, it was owed to the $1.8 billion debt issuance in April. 
+asr:0: OUTPUT 4466.11-4474.37: But also given a very strong increase in funding with banks this quarter. So could you please provide some color as to the nature of this funding source? 
+asr:0: OUTPUT 4474.73-4479.26: And what would be your strategy for liquidity in the coming quarters. Thank you very much. 
+asr:0: OUTPUT 4482.06-4488.83: Hi Alonso, there are several factors regarding liquidity. 
+asr:0: OUTPUT 4489.41-4499.32: I think that the most relevant is how we fund the loan to deposit ratio. 
+asr:0: OUTPUT 4499.44-4507.81: That I've mentioned was one of the strongest numbers that we have reported since we became a listed company, close to 92%. 
+asr:0: OUTPUT 4508.43-4514.95: So that's, in my opinion, that's the most robust and fundamental way of looking at it. 
+asr:0: OUTPUT 4515.26-4520.18: Then, as you rightly mentioned, the... 
+asr:0: OUTPUT 4520.46-4529.69: The debt issuance has contributed significantly to the increase of our liquidity coverage. 
+asr:0: OUTPUT 4529.73-4531.03: Ratio. 
+asr:0: OUTPUT 4531.17-4540.94: And we are monitoring any potential use of the committed lines of credit. 
+asr:0: OUTPUT 4540.96-4542.32: That we have with our clients that... 
+asr:0: OUTPUT 4542.42-4552.27: If you look at it, it's probably the one, let's say, risk that could materialize in the short term. 
+asr:0: OUTPUT 4552.45-4558.06: We have ample of liquidity to honor every single committed line of credit that they. 
+asr:0: OUTPUT 4558.12-4560.56: That we have, but that's the one. 
+asr:0: OUTPUT 4560.70-4568.41: And the most relevant driver in terms of consumption of liquidity. 
+asr:0: OUTPUT 4568.47-4573.97: The other types of events that could impact our liquidity. 
+asr:0: OUTPUT 4574.01-4580.18: Are more gradual. 
+asr:0: OUTPUT 4580.20-4583.66: A contraction in deposits that we're not seeing that. 
+asr:0: OUTPUT 4585.23-4588.45: And I think that the bank has managed. 
+asr:0: OUTPUT 4588.47-4593.63: Quite proactively, you know, pay liquidity to be prepared for. 
+asr:0: OUTPUT 4593.65-4599.24: Any potential really worst case scenario further down the road. 
+asr:0: OUTPUT 4599.98-4607.29: Thank you. And regarding the line of, in your balance sheet, the line of banks and other loans,. 
+asr:0: OUTPUT 4607.85-4611.47: Which increased 81% quarter over quarter. Do you think. 
+asr:0: OUTPUT 4611.49-4619.98: This line will remain close to those levels or do you think you could substitute this source of funding with. 
+asr:0: OUTPUT 4620.24-4624.04: Probably other issues in the coming quarters. What's your study there? 
+asr:0: OUTPUT 4626.15-4634.19: You know, we monitor constantly the different type of funding sources and depending on the. 
+asr:0: OUTPUT 4634.21-4636.28: The specific. 
+asr:0: OUTPUT 4636.30-4638.90: Tenure. 
+asr:0: OUTPUT 4638.92-4640.30: Cost. 
+asr:0: OUTPUT 4640.42-4649.17: We end up withdrawing or taking advantage of the different funding sources. 
+asr:0: OUTPUT 4649.27-4657.50: So I would say that not only that particular line item, but every single line item is reviewed. 
+asr:0: OUTPUT 4657.56-4662.42: And under current market circumstances, it's our pay. 
+asr:0: OUTPUT 4662.44-4674.69: Obligation to look at better ways of not only funding the bank but keeping the structures in place. 
+asr:0: OUTPUT 4674.83-4680.18: So that the bank can continue supporting long growth. 
+asr:0: OUTPUT 4680.60-4685.39: So that's something that we continue to monitor. 
+asr:0: OUTPUT 4685.43-4693.73: So yes, you know, it could be that we keep it at those levels or that we reduce it if there's an opportunity to find, you know,. 
+asr:0: OUTPUT 4693.75-4695.54: A more effective funding source. 
+asr:0: OUTPUT 4698.88-4708.01: Thank you very much. 
+asr:0: OUTPUT 4708.03-4710.11: From J.P. Morgan, please go ahead. 
+asr:0: OUTPUT 4711.85-4719.48: Thank you, Axel or Javier. I have a question regarding the increase on NPO ratio. It was up 35 degrees quarter over quarter. 
+asr:0: OUTPUT 4720.36-4725.21: And I understood that some peers, they had higher-chair jobs, and that may explain a little bit of the difference. 
+asr:0: OUTPUT 4726.05-4734.33: But even on the players where the charge-off was not as high, we kind of saw a more flakish NPL behavior. 
+asr:0: OUTPUT 4735.03-4737.48: Because of the special accounting, because of the program we need. 
+asr:0: OUTPUT 4737.98-4741.48: So what drove the iteration of square root for you? 
+asr:0: OUTPUT 4741.96-4746.15: And my second question is regarding the special accounting criteria. 
+asr:0: OUTPUT 4746.85-4755.54: When we look to those numbers, the balance of NPLs, they are much higher than the ones, the old accounting versus the current special accounting. 
+asr:0: OUTPUT 4756.06-4759.40: And I would like to understand the difference here if you'd like. 
+asr:0: OUTPUT 4759.42-4763.36: A very negative outlook would be to see those numbers. 
+asr:0: OUTPUT 4763.46-4769.61: So if you can explain for me the differences on the special accounting versus the other. 
+asr:0: OUTPUT 4769.89-4775.34: And if the balance of NPOs there may become losses, I would appreciate it. Thank you. 
+asr:0: OUTPUT 4780.04-4787.67: In terms of the NPL ratio, you know, this quarter, what drove the slight deterioration. 
+asr:0: OUTPUT 4787.77-4796.88: Was basically credit cards that went up from 4.14% to 4.82%. 
+asr:0: OUTPUT 4797.32-4803.12: And the MSMEs basically going from 2.61% to 3.37%. 
+asr:0: OUTPUT 4805.25-4809.07: As we discussed during the call. 
+asr:0: OUTPUT 4809.97-4818.60: You know, the vast majority of our loan portfolio did not enroll in the support programs. 
+asr:0: OUTPUT 4819.20-4825.37: So what we're seeing, this slide deterioration has to do more with what's happening with. 
+asr:0: OUTPUT 4825.39-4829.71: The portfolio, the clients that did not enroll in the program. 
+asr:0: OUTPUT 4830.25-4837.62: And it's not a significant deterioration in our view given what's going on in the economy. 
+asr:0: OUTPUT 4837.80-4841.94: It's just a slight deterioration. 
+asr:0: OUTPUT 4843.10-4845.95: Now, on your second question,. 
+asr:0: OUTPUT 4845.97-4854.77: Could you elaborate on that? I don't know exactly what you're comparing, you know, the special accounting criteria to the other accounting criteria. 
+asr:0: OUTPUT 4857.68-4862.92: So the previous accounting before the CNBD regulation for COVID. 
+asr:0: OUTPUT 4863.78-4873.21: You have like a table on your release comparing the special accounting criteria versus the former, I think like B6 accounting criteria. 
+asr:0: OUTPUT 4873.77-4881.92: And when we look to the balance of non-performing loans, I believe the balance you have today is something around like 18 billion pesos, 19 billion pesos. 
+asr:0: OUTPUT 4882.10-4885.59: That implies the 2.5% incel ratio. 
+asr:0: OUTPUT 4886.03-4890.07: But if you look to the older accounting criteria, the D6 accounting,. 
+asr:0: OUTPUT 4890.65-4896.68: I think the balance of NPL, they are closer to 40, 44 billion pesos. So the NPL ratio, they would be much higher. 
+asr:0: OUTPUT 4897.56-4902.12: I understand that maybe a lot of loans that will not really become an EPL, they are there. 
+asr:0: OUTPUT 4902.50-4907.39: But my concern is that as soon as this accounting criteria goes back to normal,. 
+asr:0: OUTPUT 4907.67-4913.99: If we could see a higher need of provisions working on NPLs. 
+asr:0: OUTPUT 4914.39-4922.08: So that's why I ask the difference and if it makes sense to expect some worsening on that. 
+asr:0: OUTPUT 4924.46-4934.47: I think that it's fairly dependent on the level of or the type of assumptions that we make. 
+asr:0: OUTPUT 4934.49-4938.88: The existing accounting criteria is very stringent in terms of. 
+asr:0: OUTPUT 4938.90-4948.89: Let's say, bad dues and percentage of how much the client has paid back. 
+asr:0: OUTPUT 4949.45-4957.10: So I think that it's, in my opinion, it's somehow extreme comparison. 
+asr:0: OUTPUT 4957.70-4960.86: Okay, so it has to do. 
+asr:0: OUTPUT 4960.88-4967.71: With the special accounting criteria. 
+asr:0: OUTPUT 4967.81-4974.87: You basically allow clients not to pay, you know, or every client that's not paying,. 
+asr:0: OUTPUT 4974.89-4979.28: Their interest in capital stays current. 
+asr:0: OUTPUT 4979.62-4986.09: You know, and under the old or the prevailing accounting criteria. 
+asr:0: OUTPUT 4986.59-4989.73: You have to take into account just the fact that. 
+asr:0: OUTPUT 4989.77-4998.88: When you're 90 days past due, and depending on if you are, let's say, a corporate,. 
+asr:0: OUTPUT 4998.90-5000.40: A client. 
+asr:0: OUTPUT 5000.48-5008.69: You know, depending on how much you have already paid back, whether you're 20% or more, or how, you know, the time that has elapsed. 
+asr:0: OUTPUT 5009.13-5019.00: You know, it's very, I would say, critical. I would say that assumptions are critical. 
+asr:0: OUTPUT 5019.06-5021.64: And I think that the. 
+asr:0: OUTPUT 5021.96-5033.33: Probably what is important is to understand that in the following two quarters, we'll get to know the hard data. 
+asr:0: OUTPUT 5033.51-5040.28: You know, rather than comparing those numbers with big assumptions,. 
+asr:0: OUTPUT 5040.64-5050.51: I think that as soon as clients start paying back or not, we get to know, you know, how, you know, the magnitude of the impact. 
+asr:0: OUTPUT 5050.83-5060.00: Rather than just making some assumptions that could materialize or not. As mentioned during the call, I think that. 
+asr:0: OUTPUT 5060.98-5069.31: We have made a good assessment in terms of the risk that each client has, the relationship that we have with them. 
+asr:0: OUTPUT 5069.75-5075.14: And we have also asked them, you know, how they're doing and whether they have the capacity to pay back. 
+asr:0: OUTPUT 5075.48-5077.26: So taking all that into account. 
+asr:0: OUTPUT 5077.70-5084.38: That's how we've come up with these provisions associated with expected losses that. 
+asr:0: OUTPUT 5084.82-5088.31: So I would encourage you, Judy, just to wait. 
+asr:0: OUTPUT 5088.33-5089.99: A couple of quarters. 
+asr:0: OUTPUT 5090.01-5101.76: And with the hard data, you know, just analyze, you know, if we, you know, on one hand, the benefit of these temporary measures that the banking commission provided. 
+asr:0: OUTPUT 5102.18-5107.07: And on the other hand, you know, the true impact that it has had in our asset quality. 
+asr:0: OUTPUT 5109.95-5111.87: No, no, super clear. Thank you very much. 
+asr:0: OUTPUT 5116.90-5120.92: We will take the next question. It comes from Nicolas Viva from Bank of America. 
+asr:0: OUTPUT 5123.04-5129.67: Thank you very much for taking my question. I have only one question. I apologize if you already mentioned it. 
+asr:0: OUTPUT 5131.65-5141.48: So you mentioned that 19% of the loan portfolio has been subject to some kind of debt relief measures, payment holidays, giving grace period. 
+asr:0: OUTPUT 5142.96-5150.35: Have these measures ended already for any client? And if so, if you can tell us. 
+asr:0: OUTPUT 5151.27-5162.80: What's the percentage of these clients that have resumed payments already since it's been already about four months since the full outbreak of the pandemic? 
+asr:0: OUTPUT 5163.98-5170.11: And this has not been the case. The payment holiday hasn't ended for any significant amount of clients. 
+asr:0: OUTPUT 5170.73-5178.04: You can tell us when you make this provision charge of the 3.9 billion pesos in this quarter. 
+asr:0: OUTPUT 5179.84-5189.41: Did you incorporate any assumption in terms of what would be the percentage of these 19% of these clients under the debt relief program? 
+asr:0: OUTPUT 5189.87-5194.77: That will pay you back once the payment holiday ends. Thank you. 
+asr:0: OUTPUT 5196.90-5201.96: First, the payment holiday period ends tomorrow. 
+asr:0: OUTPUT 5202.90-5211.27: So we'll start seeing whether clients pay back or not starting next week. 
+asr:0: OUTPUT 5211.71-5213.83: So we don't have that information yet. 
+asr:0: OUTPUT 5214.39-5223.34: Now regarding how we made provisions for this quarter, and as mentioned throughout the call,. 
+asr:0: OUTPUT 5224.60-5233.61: We classify the clients depending on the risk that they have, the exposure that they have with us. 
+asr:0: OUTPUT 5233.71-5236.14: The relationship that they have with us. 
+asr:0: OUTPUT 5236.58-5244.30: So we classified the retail clients in 25 clusters and SMEs in 11 clusters. 
+asr:0: OUTPUT 5244.78-5251.21: So depending on the level of cluster that each client falls in,. 
+asr:0: OUTPUT 5251.35-5256.58: You know, there's either a high risk or high exposure category, you know, for clients. 
+asr:0: OUTPUT 5256.90-5260.18: And we assume certain probability of those clusters. 
+asr:0: OUTPUT 5260.58-5262.46: Either paying back their loans or not. 
+asr:0: OUTPUT 5263.10-5270.67: Okay? So that's how we came up with the provision that we made this water. 
+asr:0: OUTPUT 5271.03-5277.96: So yes, there is, but it depends. There are 36 responses in terms of whether they. 
+asr:0: OUTPUT 5278.02-5282.74: We expect a high number or low number of clients to pay back their loans. 
+asr:0: OUTPUT 5282.80-5286.91: It's because of these analyses that we've done. 
+asr:0: OUTPUT 5286.93-5298.96: That we feel relatively confident that with the information that we have, what we have provided is a good provision for asset quality deterioration for the rest of the year. 
+asr:0: OUTPUT 5305.73-5309.93: The next question comes from Olavo Artuso from UBS. Please go ahead. 
+asr:0: OUTPUT 5311.39-5315.10: Okay, thank you very much for taking my question. It is just one. 
+asr:0: OUTPUT 5316.12-5324.80: I just wanted to understand the dynamic of the credit relief program held by the bank and the high call on NPL to 2.5%. 
+asr:0: OUTPUT 5325.71-5332.37: According to my calculation, deferred loans reach at almost 15% of total loans, if I'm not wrong. 
+asr:0: OUTPUT 5333.35-5342.06: A roughly similar level to the other banks, but different from other players and even considering the Brazilian and Chilean subsidiaries. 
+asr:0: OUTPUT 5342.62-5345.15: They have also forced their creditors. 
+asr:0: OUTPUT 5345.65-5348.27: Any PLs decreased in the second queue. 
+asr:0: OUTPUT 5349.29-5353.65: You mentioned that this deterioration is coming from the SME and the credit card segment. 
+asr:0: OUTPUT 5354.21-5361.08: So I just wanted to understand if this hike in NPLs behaved worse than expected by the bank. 
+asr:0: OUTPUT 5361.10-5364.52: Considering the amount of loans that were corresponded. 
+asr:0: OUTPUT 5365.19-5367.39: And what does the bank... 
+asr:0: OUTPUT 5367.41-5376.08: For this semester in terms of fostering the credit relief program in case of regulators extend the schedule and change the rules for it. 
+asr:0: OUTPUT 5376.52-5377.58: So thank you very much. 
+asr:0: OUTPUT 5380.00-5389.59: No, I think that, you know, the first of all, you know, the MPLs that the increase that we see in the second quarter. 
+asr:0: OUTPUT 5389.77-5397.28: Associated with those clients that do not enter into the relief program. 
+asr:0: OUTPUT 5397.96-5404.70: So it has to do with that 81% of clients that decided not to enter into the program. 
+asr:0: OUTPUT 5405.21-5412.13: And obviously, those clients are also exposed to the deterioration of the economic activity. 
+asr:0: OUTPUT 5412.21-5420.68: Hector mentioned the losses that the employee losses that we've seen. 
+asr:0: OUTPUT 5421.78-5428.55: So it has to do more with that, OK? With the, let's say, with the clients that do not enroll in the program. 
+asr:0: OUTPUT 5428.99-5434.99: Okay, whether we were expecting that type of deterioration. 
+asr:0: OUTPUT 5435.24-5445.13: You know, I think that if someone tells you that they were envisioning this type of economic deterioration, I think that they're lying. You know, I think that we... 
+asr:0: OUTPUT 5445.29-5450.17: We were not expecting this type of contraction. 
+asr:0: OUTPUT 5450.25-5452.25: You know, the magnitude that we're seeing. 
+asr:0: OUTPUT 5452.65-5462.34: If you look at how every single analyst updates its forecast for the Mexican economy, it's. 
+asr:0: OUTPUT 5462.42-5465.41: Every week you get to see the time where adjustments. 
+asr:0: OUTPUT 5465.89-5470.17: So I think that it does not surprise us. 
+asr:0: OUTPUT 5470.55-5479.98: We mentioned that given this deterioration of economic activity, we think it's just a slight deterioration. 
+asr:0: OUTPUT 5480.64-5484.48: Okay, but as mentioned,. 
+asr:0: OUTPUT 5485.59-5493.73: We will get to see the final impact or the final numbers probably in the next two to three quarters. 
+asr:0: OUTPUT 5494.19-5497.10: It's not only what happens the rest of the year. 
+asr:0: OUTPUT 5497.58-5503.32: I think that the impact of the pandemic, at least for Mexico,. 
+asr:0: OUTPUT 5503.56-5508.21: Has the possibility of going further than just 2020. 
+asr:0: OUTPUT 5509.21-5511.55: So we'll get to see that. 
+asr:0: OUTPUT 5511.57-5520.00: I think it's quite early to have a definitive view on a complete impact on a sector. 
+asr:0: OUTPUT 5525.45-5535.26: Thank you very much. 
+asr:0: OUTPUT 5538.56-5542.64: Hi everyone, my questions were already answered. Thank you very much. 
+asr:0: OUTPUT 5552.49-5558.98: There are no further questions in the queue and I'd like to turn the floor back over to Mr. Hector Chavez for any closing remarks. 
+asr:0: OUTPUT 5560.52-5564.98: Thank you, operator, and thanks everyone once again for joining Saffron Bear Mexico on this call. 
+asr:0: OUTPUT 5565.37-5569.45: As always, we wish to maintain an open dialogue with all of you in the financial community. 
+asr:0: OUTPUT 5570.03-5579.18: So if you have additional questions, please don't hesitate to call or email us directly. Until our next call, please stay safe. Good afternoon. 
+asr:0: OUTPUT 5581.38-5587.21: This concludes today's teleconference. You may disconnect your lines at this time. Thank you again for your participation. 
+asr:0: END

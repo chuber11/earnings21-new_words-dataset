@@ -1,0 +1,629 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.27-13.93: Welcome to the Bed Bath & Beyond Fiscal 2020 3rd Quarter Earnings Call. Our participants will be in a listen-only mode until the Q&A portion of the call. 
+asr:0: OUTPUT 14.41-22.64: Today's call is being recorded. A broadcast of the conference will be available via webcast found on the company's investor relations website. 
+asr:0: OUTPUT 24.54-30.65: At this time, I would like to turn the conference over to Janet Barth, Vice President of Investor Relations. Please go ahead. 
+asr:0: OUTPUT 32.19-37.84: Thank you and good morning everyone. Welcome to our fiscal 2020 third quarter earnings call. 
+asr:0: OUTPUT 38.62-42.04: On the call with us today is President and CEO Mark Tritton. 
+asr:0: OUTPUT 42.06-50.93: Chief Financial Officer and Treasurer Gustavo Arnal, Chief Operating Officer and President of Bye Bye Baby, John Hartman, and Chief Digital Officer, Rafi Massoud. 
+asr:0: OUTPUT 52.21-58.08: Before we begin, let me remind you that our fiscal 2020 third quarter earnings release and slide presentation. 
+asr:0: OUTPUT 58.10-62.48: And be found in the investor relations section of our website at www.investmentreform.com. 
+asr:0: OUTPUT 62.50-63.88: At BathAndBeyond.com. 
+asr:0: OUTPUT 64.48-67.69: And as exhibits to the form AK, we just filed ahead of this call. 
+asr:0: OUTPUT 69.13-73.59: This conference call and the slides we refer to may contain forward-looking statements. 
+asr:0: OUTPUT 74.01-81.22: Including statements about or references to our outlook regarding the company's performance or internal models and our long-term objectives. 
+asr:0: OUTPUT 82.16-88.31: All such statements are subject to risks and uncertainties that could cause actual results to differ materially from what we say during the call today. 
+asr:0: OUTPUT 89.63-98.18: Please refer to our most recent periodic SEC filings for more detail on these risks and uncertainties, including the risk factors section in our annual report on Form 10-K. 
+asr:0: OUTPUT 98.94-102.64: The company undertakes no obligation to update or revise any forward-looking statements. 
+asr:0: OUTPUT 104.18-109.73: Additionally, the information we will discuss today contains certain financial measures that exclude amounts. 
+asr:0: OUTPUT 109.75-118.56: Or are subject to adjustments that have the effect of excluding amounts that are included in the most directly comparable measure prepared in accordance with generally accepted accounting principles. 
+asr:0: OUTPUT 119.62-123.58: For reconciliation to the most comparable measures presented in accordance with GAP. 
+asr:0: OUTPUT 123.60-130.13: Please refer to the table in our earnings press release available on our website and include it as an exhibit to our Form 8K file today. 
+asr:0: OUTPUT 131.51-134.07: It is now my pleasure to turn the call over to Mark. 
+asr:0: OUTPUT 136.98-139.36: Thank you, Janet, and good morning and Happy New Year to you all. 
+asr:0: OUTPUT 140.52-148.91: It's hard to believe it's been a full year since my first earnings call as CEO of Bed Bath & Beyond. What an exceptional year of change it has been. 
+asr:0: OUTPUT 149.99-158.08: At that time, I clearly stated that fiscal 2019 third quarter results were unsatisfactory and underscored the imperative to change. 
+asr:0: OUTPUT 158.88-162.42: I declare that we must respond to the challenges we face as a business. 
+asr:0: OUTPUT 162.44-169.53: Including pressured sales and profitability, and reconstruct a modern, durable model for long-term profitable growth. 
+asr:0: OUTPUT 171.03-176.08: Today we stand in a very different position as a company than we did just a mere 12 months ago. 
+asr:0: OUTPUT 178.04-183.84: Firstly, we continue to execute on our digital first, Omni always strategy and have delivered a. 
+asr:0: OUTPUT 183.86-189.85: Second consecutive quarter of comparable sales and EBITDA growth through strong margin management. 
+asr:0: OUTPUT 191.13-200.74: Secondly, we responded to our customers wherever they needed us, growing our Omni capabilities to accelerate profitable digital growth and grow our customer base. 
+asr:0: OUTPUT 202.04-209.73: Thirdly, we continue to strengthen an already strong balance sheet and remain focused on ensuring liquidity, optimising costs,. 
+asr:0: OUTPUT 209.75-214.51: And significantly reducing debt while driving positive cash flow generation. 
+asr:0: OUTPUT 216.02-222.02: And while we drove overall business results, we also completed our non-core Banner monetization plan. 
+asr:0: OUTPUT 222.04-226.43: With the final transaction set to close in our fiscal 2024th quarter. 
+asr:0: OUTPUT 226.93-235.36: These efforts will help fund our transformation and put us in a position to start fiscal 2021 with a more cohesive set of core businesses. 
+asr:0: OUTPUT 237.38-241.54: Our favorable sales results are also starting to be reflected in market share data. 
+asr:0: OUTPUT 242.36-246.27: Month by month we have been minimizing our share differentials versus the market. 
+asr:0: OUTPUT 246.53-251.55: And encouragingly, in the most recent NPD data for October and November,. 
+asr:0: OUTPUT 251.57-258.14: We achieve market share gains in the bed category with improving trends in both bath and kitchen categories. 
+asr:0: OUTPUT 259.16-264.78: We expect to see continued improvement in market share trends as our strategy continues to take hold. 
+asr:0: OUTPUT 266.01-270.87: Additionally, we continue to show strong market share strength in wedding registry. 
+asr:0: OUTPUT 271.17-278.34: We believe we are very well positioned as a market leader when we get back to celebrating important life moments such as getting married. 
+asr:0: OUTPUT 280.28-285.29: All of this has been achieved this quarter despite the significant headwinds of COVID-19. 
+asr:0: OUTPUT 286.09-293.03: During our call today, Gustavo Arnal, Chief Financial Officer and Treasurer, will review our third quarter financial results. 
+asr:0: OUTPUT 293.45-298.56: And then provide some perspective on our fourth quarter and our outlook for fiscal 2021. 
+asr:0: OUTPUT 299.92-305.67: Then Raffi Massoud, Chief Digital Officer, will speak about the quarter from a digital first and customer perspective. 
+asr:0: OUTPUT 306.37-312.55: And then John Hartman, Chief Operating Officer and President of Bye Bye Baby, will do the same for our operations. 
+asr:0: OUTPUT 312.57-318.60: Including the progress on our plans to close underperforming stores and invest in our remaining portfolio. 
+asr:0: OUTPUT 319.38-325.83: We will then take questions. Gustavo? Thank you, Mark, and good morning, everyone. 
+asr:0: OUTPUT 326.75-328.85: Today I will cover two key topics. 
+asr:0: OUTPUT 329.55-335.70: First, I will provide perspective on the performance of our third quarter as well as on December sales trend. 
+asr:0: OUTPUT 336.50-343.48: And then I will provide this ability on the current fourth quarter as well as on our outlook for fiscal year 2021. 
+asr:0: OUTPUT 345.59-352.05: To begin, it is important to note that our first quarter runs through September, October, and November. 
+asr:0: OUTPUT 352.77-358.04: And consistent with last year, the Saturday of Thanksgiving weekend was the last date of the period. 
+asr:0: OUTPUT 359.58-365.47: We delivered strong results despite extensive and widely reported COVID-related headwinds. 
+asr:0: OUTPUT 366.37-372.87: These included lower food traffic trends, shipping capacity constraints, and much higher freight costs. 
+asr:0: OUTPUT 374.19-381.62: Further, during a challenging holiday period, we strengthen our commercial plans to drive significant digital demand. 
+asr:0: OUTPUT 381.84-384.82: While remaining focused on delivering gross margin expansion. 
+asr:0: OUTPUT 386.45-392.09: Positive comp sales growth was led by our core Bed Bath & Beyond banner, which was up 5%. 
+asr:0: OUTPUT 392.85-400.06: It was fueled by exponential digital growth of 94%, which more than offset store declines of 14%. 
+asr:0: OUTPUT 401.40-411.17: Gross was healthy and broad-based across five key destination categories, which grew 11% and represented two-thirds of revenue. 
+asr:0: OUTPUT 412.53-419.82: Total enterprise comparable sales grew 2%, also driven by strong digital comp growth of 77%. 
+asr:0: OUTPUT 420.94-429.09: As you'll hear from John in a few minutes, COVID-related headwinds disproportionately impacted store sales in our baby business during the quarter. 
+asr:0: OUTPUT 429.73-435.34: Yet, encouragingly, we saw a return to growth in December following some key interventions. 
+asr:0: OUTPUT 437.42-442.86: The strength of our digital growth has been powered by the investments we have made in Omni capability. 
+asr:0: OUTPUT 442.88-449.53: Including bulbous, curbside pickup, and same day delivery, which are all completely new this year. 
+asr:0: OUTPUT 450.59-454.97: Bopi's orders represented 16% of total digital sales in the quarter. 
+asr:0: OUTPUT 456.24-462.02: These service offerings provide ease and convenience and allow us to further gain trust from our customers. 
+asr:0: OUTPUT 462.50-467.33: Including the approximately 7 million new online customers gained this year. 
+asr:0: OUTPUT 468.37-472.21: Our digital capabilities are becoming a key driver of results. 
+asr:0: OUTPUT 473.25-475.28: Net sales were $2.6 billion. 
+asr:0: OUTPUT 475.30-485.91: An expected reduction of 5% primarily due to the impact from banner divestitures and the continuation of our Bed, Bath & Beyond Stored Network Optimization Initiative. 
+asr:0: OUTPUT 488.01-490.29: This has been a holiday season like no other. 
+asr:0: OUTPUT 491.91-497.74: As outlined by third-party data sources, including Sensormatic and Adobe Analytics. 
+asr:0: OUTPUT 497.92-506.35: Market-wide Black Friday in-store traffic was down by over 50%, and online spending was up 22%. 
+asr:0: OUTPUT 507.39-515.66: Similarly, for the six-week holiday period, market-wide in-store traffic fell between 34 and 36%. 
+asr:0: OUTPUT 516.74-519.40: We perform strongly against this reported trend. 
+asr:0: OUTPUT 520.28-526.19: During the competitively intense five-day holiday sales period, from Thanksgiving through Cyber Monday,. 
+asr:0: OUTPUT 526.85-533.53: Overall, Comsail's demand for our core US FedBath and Beyond banner was up double digits versus last year. 
+asr:0: OUTPUT 534.23-543.06: And delivered digital comp sales growth of approximately 69%, more than offsetting store comp sales decline of 24%. 
+asr:0: OUTPUT 544.74-554.39: And during the six-week holiday sales period from November 16 to December 27, our total enterprise comp sales grew low single digits. 
+asr:0: OUTPUT 554.57-563.42: Led by significant digital growth of more than 90%, which more than offset store-come sales declines of more than 20%. 
+asr:0: OUTPUT 565.04-568.27: I will now continue with our third quarter financial results. 
+asr:0: OUTPUT 569.37-579.14: On a gap basis, including the non-cash loss from banners divested for help for sale, we reported a net loss per diluted share of 61 cents. 
+asr:0: OUTPUT 581.00-591.77: Our gap results include approximately $86 million from unfavorable impacts, which are excluded from adjusted results to provide better perspective on the underlying performance of our business. 
+asr:0: OUTPUT 593.21-599.34: These include special items such as losses in the sales of businesses, including cost-plus world market. 
+asr:0: OUTPUT 599.36-608.67: Which is help for sale, as well as non-cash charges for the impairment of certain long-lived assets, plus restructuring and transformation expenses. 
+asr:0: OUTPUT 611.13-616.56: Adjusted gross margin increased 310 basis points to 35.4%. 
+asr:0: OUTPUT 617.54-619.36: This expansion was driven by. 
+asr:0: OUTPUT 619.84-628.15: 180 basis points of favorable strategic engineering of promotion and markdown expense, including data-driven coupon optimization. 
+asr:0: OUTPUT 629.41-635.20: 120 basis points of favorable product mix from higher margin categories, such as betting and buy. 
+asr:0: OUTPUT 636.18-640.68: And 210 basis points of leverage from distribution of fulfillment costs. 
+asr:0: OUTPUT 642.02-652.95: These benefits were partially offset by a 200 basis points impact from channel mix due to the anticipated larger proportion of total sales from digital channels versus the prior year. 
+asr:0: OUTPUT 654.37-662.72: This impact also includes around 80 basis points from higher shipping expense associated with industry-wide outbound freight rate increases. 
+asr:0: OUTPUT 663.10-665.37: Particularly in the latter part of the quarter. 
+asr:0: OUTPUT 666.79-671.01: The significant year-over-year improvement in our adjusted growth margin. 
+asr:0: OUTPUT 671.03-677.64: Reflect the management team's focus on driving the components of margin while delivering exponential growth in digital. 
+asr:0: OUTPUT 679.46-683.38: SG&A expense declined $41 million versus the prior year. 
+asr:0: OUTPUT 683.40-691.41: Driven primarily by lower payroll related expenses, including savings from our comprehensive restructuring actions earlier in the year. 
+asr:0: OUTPUT 693.15-701.58: Adjusted EBITDA increased 168% to $121 million, which is almost three times higher than the prior year period. 
+asr:0: OUTPUT 702.46-706.59: This was driven by digital sales growth coupled with growth margin expansion. 
+asr:0: OUTPUT 707.87-716.06: Once again, these results demonstrate that our efforts to transform the business and build a modern, durable business model are working. 
+asr:0: OUTPUT 717.92-726.71: Turning now to some cash flow and balance sheet item statements. We unlocked $244 million in positive cash flow generation. 
+asr:0: OUTPUT 728.11-735.56: Cash flow from investments was $200 million positive as it included proceeds from non-core asset monetization, net of capex. 
+asr:0: OUTPUT 736.82-741.38: Operating cash flow of $44 million was also positive in spite of seasonal dynamics. 
+asr:0: OUTPUT 742.74-749.01: We continue to carefully manage working capital this quarter with ending inventories of $1.8 billion. 
+asr:0: OUTPUT 749.95-757.78: On a sequential basis, inventories were 13% lower versus the second quarter, and 30% lower than last year. 
+asr:0: OUTPUT 758.64-765.93: This was primarily due to the impact from banner divestitures, including seasonal inventory purchases for the holiday selling period. 
+asr:0: OUTPUT 767.39-777.54: We are tracking at a faster pace to deliver our previously stated 2021 goal of $1 billion in inventory reduction at retail compared to 2019. 
+asr:0: OUTPUT 779.16-782.42: Our capital expenditures in the quarter were only $38 million. 
+asr:0: OUTPUT 783.18-789.37: That said, we have plans to significantly ramp up our cap expending starting in fiscal 21. 
+asr:0: OUTPUT 789.77-793.65: In support of our digital first, Omni Always transformation. 
+asr:0: OUTPUT 795.62-799.50: During the third quarter, we also improved our gross debt balance. 
+asr:0: OUTPUT 799.58-806.81: With a reduction in operating lease liability of about half a billion dollars from non-core banner divestitures and store closures. 
+asr:0: OUTPUT 807.91-812.77: Taken together with a half a billion in debt reductions we achieved in the second quarter. 
+asr:0: OUTPUT 812.95-818.58: We have reduced total gross debt by about 1 billion dollars so far this year. 
+asr:0: OUTPUT 819.14-821.72: A reduction of about 25%. 
+asr:0: OUTPUT 823.72-829.79: We remain in a strong net cash position with an ending cash and investment balance of $1.5. 
+asr:0: OUTPUT 830.63-838.02: This is in line with the balance at the end of the second quarter, even after returning cash to shareholders in the form of accelerated share repurchases. 
+asr:0: OUTPUT 839.78-844.46: We have also maintained a strong liquidity of $2.2 billion, including our ADL. 
+asr:0: OUTPUT 845.61-853.27: So capitalizing on this strong financial position, we launched a $225 million accelerated share repurchase in late October. 
+asr:0: OUTPUT 853.95-860.00: And in December, in conjunction with the announcement of a definitive agreement to divest Cost Plus World Market,. 
+asr:0: OUTPUT 860.30-864.86: We reported plans for a second ASR in the amount of $150 million. 
+asr:0: OUTPUT 866.23-870.15: These two programs totaling $375 million. 
+asr:0: OUTPUT 870.17-876.24: Are expected to be completed on or before the end of our fiscal fourth quarter, next month in February. 
+asr:0: OUTPUT 876.68-884.34: And will result in a reduction of our shares outstanding of approximately 15% at current stock price level. 
+asr:0: OUTPUT 886.09-895.78: Our authorized level for share repurchase at this early stage of the planning period is now up to $825 million over the next three years. 
+asr:0: OUTPUT 898.10-905.00: These actions reflect our balanced capital allocation principles, strong liquidity, and confidence in our strategic growth plan. 
+asr:0: OUTPUT 906.19-913.21: In summary, our third quarter performance shows consistent execution of our strategy, which drives sales and EBITDA growth. 
+asr:0: OUTPUT 913.23-919.38: Coupled with strong cash flow generation and the reinitiation of capital return to shareholders. 
+asr:0: OUTPUT 920.70-922.84: Now moving on to our art look. 
+asr:0: OUTPUT 923.78-931.59: I will start with some direction of color on our expectations for Q4 and then provide perspective on fiscal 2021. 
+asr:0: OUTPUT 933.11-939.30: It has been widely reported that COVID-19 related headwinds continue to impact the retail industry. 
+asr:0: OUTPUT 940.34-947.31: In this context, we will not be providing specific sales and earnings guidance for the current fourth quarter. 
+asr:0: OUTPUT 948.03-957.72: That said, we feel positive about the parts of the business we can control and expect to deliver year on year adjusted EBITDA margin improvement in Q4. 
+asr:0: OUTPUT 958.44-964.74: This, despite lower storage traffic and shipping constraints accompanied by higher freight costs. 
+asr:0: OUTPUT 966.21-970.97: In terms of the top line, comp sales are expected to be approximately in line with last year. 
+asr:0: OUTPUT 971.83-978.08: We expect consistent strength in digital to be pampered by COVID-related headwinds impacting stores. 
+asr:0: OUTPUT 979.08-987.37: December sales show positive total enterprise comparable growth, including continued strength across key destination categories. 
+asr:0: OUTPUT 988.65-995.60: Importantly, we're planning for a double-digit unfavorable impact on Q4 total net sales versus last year. 
+asr:0: OUTPUT 995.62-1000.36: Even the divested banners and the ongoing store optimization initiative. 
+asr:0: OUTPUT 1001.96-1003.22: In terms of growth margin. 
+asr:0: OUTPUT 1003.28-1013.87: In spite of the anticipated drag from significant freight cost increases in Q4, we're driving cost optimization actions to manage the impact of these pressures. 
+asr:0: OUTPUT 1014.53-1018.64: So we expect gross margin to be about in line with the same period last year. 
+asr:0: OUTPUT 1019.76-1029.63: Again, we expect to deliver a year-on-year adjusted EBITDA margin increase in Q4 with absolute EBITDA figures in line with the prior year. 
+asr:0: OUTPUT 1031.63-1039.98: Now I'll turn to fiscal 2021. Our initial outlook included fiscal year 2019 as the base. 
+asr:0: OUTPUT 1041.12-1045.06: At the time, our portfolio banner review was still underway. 
+asr:0: OUTPUT 1046.13-1052.63: We had already divested four banners, but we did not have a signed deal for Cust Plus World Market yet. 
+asr:0: OUTPUT 1053.21-1057.94: Now we do, and we expect this transaction to close imminently. 
+asr:0: OUTPUT 1059.30-1068.89: Today we're providing additional visibility on the significant reshape of our P&L as a result of these divestitures and the closure of underperforming stores. 
+asr:0: OUTPUT 1070.23-1079.36: Our significant portfolio transformation will lead to fewer, better performing stores and will include a healthier core revenue base. 
+asr:0: OUTPUT 1079.62-1083.02: With a larger proportion of a faster growing digital business. 
+asr:0: OUTPUT 1084.48-1091.43: We're now tightening our projected fiscal 21 revenue range to approximately $8 to $8.2 billion. 
+asr:0: OUTPUT 1092.77-1098.36: Looking at quarters, starting with the first quarter, which will not be on a comp basis. 
+asr:0: OUTPUT 1098.76-1105.73: We expect to recapture the lost sales opportunities from the store closures in 2020 due to COVID-19. 
+asr:0: OUTPUT 1107.59-1118.98: During quarters two through four, which will be on a comp basis, we expect to sustain comparable sales levels in relation to the solid comp sales base of fiscal 2020. 
+asr:0: OUTPUT 1120.86-1128.81: Our sales forecast for financial planning purposes assumes total enterprise comparable sales to be in line with fiscal 2020. 
+asr:0: OUTPUT 1130.19-1135.94: We are reiterating our expectations for adjusted gross margin of approximately 35%. 
+asr:0: OUTPUT 1135.96-1141.44: Which represents a more than 200 basis point improvement versus Proforma 2019. 
+asr:0: OUTPUT 1143.30-1152.27: We are enhancing adjusted fiscal year 2021 EBITDA to a range of between $500 to $525 million. 
+asr:0: OUTPUT 1153.77-1161.14: This represents a 20% increase from the Proforma 2019 EBITDA base of $425 million. 
+asr:0: OUTPUT 1162.76-1168.47: The drivers of the adjusted EVDA range are consistent with the ones we have previously shared. 
+asr:0: OUTPUT 1168.53-1174.67: Including cost savings from planned store closures, product sourcing and restructuring actions. 
+asr:0: OUTPUT 1174.69-1179.48: And the impact from reinvestment and channel shift and shipping costs. 
+asr:0: OUTPUT 1181.02-1188.17: And as I said earlier, we have assumed comp sales to be line versus fiscal 2020 for modeling purposes. 
+asr:0: OUTPUT 1188.53-1193.09: As we're not requiring sales growth to deliver the higher EBITDA range. 
+asr:0: OUTPUT 1194.27-1200.86: But needless to say, we will strive for continued top line growth in a highly competitive environment. 
+asr:0: OUTPUT 1202.40-1213.85: Our performance to date gives us confidence in our longer-term goal of achieving between $850 and $1 billion in adjusted EBITDA by fiscal 2023. 
+asr:0: OUTPUT 1215.24-1217.96: Importantly, our portfolio transformation. 
+asr:0: OUTPUT 1217.98-1226.21: Coupled with store closures is driving significant balance sheet improvement through gross debt reduction of $1 billion. 
+asr:0: OUTPUT 1227.55-1238.66: This will result in a gross debt to EBITDA ratio below 3.5 times, which puts us well on our way to our midterm goal of below three times. 
+asr:0: OUTPUT 1240.26-1244.88: We have a strategic and disciplined pathway for driving sales and margin growth. 
+asr:0: OUTPUT 1245.51-1252.57: Generating cash and investing in our business plan to drive shareholder value creation. And it is working. 
+asr:0: OUTPUT 1253.49-1259.34: I will now turn the call over to Rafi Massoud, Chief Digital Officer. Rafi? 
+asr:0: OUTPUT 1262.28-1271.95: Thank you, Gustavo. With COVID as a headwind to our store traffic, we have stepped up our strategy as an Omni Always retailer, and it is paying off. 
+asr:0: OUTPUT 1272.89-1281.86: During the third quarter, we delivered digital growth of 77%, our third consecutive quarter of growth in excess of 75% this year. 
+asr:0: OUTPUT 1283.04-1289.91: Our Bed Bath & Beyond banner alone posted digital comm sales up 94%, almost doubling last year's sales. 
+asr:0: OUTPUT 1291.85-1301.02: With this momentum and based on current trends, we are on track to exceed our digital sales goal of $3 billion by the end of fiscal 2020. 
+asr:0: OUTPUT 1303.12-1311.29: We have laid out a transformation plan to unlock the potential of our Omni Always Growth strategy by elevating customer experience. 
+asr:0: OUTPUT 1311.31-1316.06: Building out our Omni capabilities and evolving to a digital first culture. 
+asr:0: OUTPUT 1317.58-1326.73: The goal of this initiative is to meet customers wherever they are. I'm pleased to report that the company is now incredibly equipped to do that. 
+asr:0: OUTPUT 1328.11-1333.35: The benefits are coming through not only in digital sales growth, but also in customer metrics. 
+asr:0: OUTPUT 1334.95-1342.80: During the quarter, we gained 2.2 million new online customers, of which the Bed Bath & Beyond banner alone added 1.8 million. 
+asr:0: OUTPUT 1343.82-1347.91: Year to date, we have gained approximately 7 million new online customers. 
+asr:0: OUTPUT 1349.17-1354.93: And not only are we attracting new customers, we're seeing them return at a higher rate than ever before. 
+asr:0: OUTPUT 1355.72-1364.90: In the third quarter, 21% of our Bed Bath & Beyond customers placed more than one online order, compared to about 16% versus last year. 
+asr:0: OUTPUT 1367.25-1370.75: So what's driving the sticky customer experience for online customers? 
+asr:0: OUTPUT 1372.13-1376.12: We believe the true hero for us is buy online, pick up in store. 
+asr:0: OUTPUT 1377.10-1385.57: Since introducing BOPUS and contactless curbside pickup services earlier this year, we have seen a rapid rate of adoption by our customers. 
+asr:0: OUTPUT 1387.13-1395.86: In the third quarter, approximately 1.2 million customers placed a BOPUS order, representing 16% of our total digital revenue. 
+asr:0: OUTPUT 1396.86-1405.03: In the Bed, Cup, and Beyond banner, BOLPIS orders represented 15% of total digital sales and 17% of total digital orders. 
+asr:0: OUTPUT 1406.05-1413.03: And 60% of our focus orders are already within 30 minutes, surpassing our two-hour promise. 
+asr:0: OUTPUT 1414.17-1421.24: This fast and convenient experience has earned Bed, Bath & Beyond a Net Promoter Score of 80% for our BOPA services. 
+asr:0: OUTPUT 1421.42-1425.45: Up from 49% in May when we first introduced this service. 
+asr:0: OUTPUT 1427.37-1436.14: Our stores are now a competitive advantage of our Omni strategy, fulfilling a total of 36% of all digital sales in the third quarter. 
+asr:0: OUTPUT 1437.24-1439.22: This muscle was not in place last year. 
+asr:0: OUTPUT 1440.02-1448.69: Now we're connecting our stores with our online platforms, and the power of Omni is enabling us to better serve our customers however they choose to shop. 
+asr:0: OUTPUT 1449.95-1456.06: We know Omnichannel is the future of retail, and we are making the right investments that are resonating with our customers. 
+asr:0: OUTPUT 1457.86-1460.82: The fast-paced transformation of our digital offering. 
+asr:0: OUTPUT 1460.84-1469.97: And elevated customer experience has resulted in a 25% lift in our online conversion rate for the third quarter as compared to the prior year. 
+asr:0: OUTPUT 1471.87-1477.72: Key drivers of the increase include, first, the relaunch of our mobile sites and mobile apps. 
+asr:0: OUTPUT 1478.74-1484.92: We've implemented a new framework with an optimized experience that drove a 33% increase in conversion. 
+asr:0: OUTPUT 1484.94-1489.51: And mobile sales growth of 107% versus the prior year period. 
+asr:0: OUTPUT 1490.85-1500.34: During the five day holiday shopping period, from Thanksgiving to Cyber Monday, our mobile home page loaded 74% faster than the same period last year. 
+asr:0: OUTPUT 1502.60-1509.85: We also relaunched Bed Bath & Beyond and Bye Bye Baby mobile apps, resulting in over 800,000 downloads this quarter. 
+asr:0: OUTPUT 1510.87-1518.10: Our Bed Bath & Beyond mobile app was launched over 15 million times during this quarter and revenue more than doubled versus last year. 
+asr:0: OUTPUT 1519.46-1526.65: We have also seen the rate of app uninstalls continue to improve, further underscoring the stickiness of our customer experience. 
+asr:0: OUTPUT 1528.33-1533.31: Second, in order to ensure that we were firing on all cylinders going into the holiday season,. 
+asr:0: OUTPUT 1533.33-1542.40: We launch same-day delivery on Bed Bath & Beyond.com and BuyBuyBaby.com to provide our customers another convenient and cost-effective way to shop. 
+asr:0: OUTPUT 1543.80-1552.51: This service was introduced in Q3. Results are preliminary. But we have seen hundreds of thousands of our customers take advantage of this new convenient way to shop. 
+asr:0: OUTPUT 1554.45-1562.44: We also began to offer same-day delivery service through the launch of Bed Bath & Beyond and Bye Bye Baby stores on Shipt and Instacart. 
+asr:0: OUTPUT 1563.16-1567.47: With both marketplaces each reaching more than 80% of US households. 
+asr:0: OUTPUT 1568.89-1578.46: Harm and face values was recently added to the Instacart marketplace and we are pleased with its initial launch and continued positive response from customers on this platform. 
+asr:0: OUTPUT 1580.18-1587.13: Third, we implemented over 100 improvements to make our shopping experience more convenient and easier to use. 
+asr:0: OUTPUT 1587.33-1591.09: Including a faster checkout process and new payment type options. 
+asr:0: OUTPUT 1592.27-1601.54: This includes buy now, pay later options like Afterpay and PayPal's Pay in 4, as well as extending Apple Pay from store only to our mobile app. 
+asr:0: OUTPUT 1603.60-1604.62: During the quarter. 
+asr:0: OUTPUT 1604.76-1614.47: We also focus on optimizing our experiences and speed to place orders on our site, making it even easier, convenient, and faster for our customers to shop with us. 
+asr:0: OUTPUT 1615.52-1623.86: Again, each of these initiatives were geared to customers with the goal of meeting them where they are and creating multiple options for payment and delivery. 
+asr:0: OUTPUT 1625.35-1635.28: As we look at our digital program holistically, it is a true revolution from where we were a year ago and has become part of the fabric of how we operate at Bed Bath & Beyond. 
+asr:0: OUTPUT 1637.44-1642.30: The customer environment is rapidly changing, and we are there to greet them at every turn. 
+asr:0: OUTPUT 1643.20-1649.77: Through our enhanced services, speed, and focus on engagement, our customer perception continues to improve. 
+asr:0: OUTPUT 1650.95-1656.12: Our Omni-Always strategy is working and was a key driver of our third quarter sales performance. 
+asr:0: OUTPUT 1657.62-1662.02: Our strength in digital has more than compensated for the headwinds of the pandemic. 
+asr:0: OUTPUT 1662.04-1670.39: And has fast-tracked our transformation as we moved into the important holiday season this year and sets us up for success moving forward. 
+asr:0: OUTPUT 1671.95-1684.88: We have delivered an elevated customer experience, launched meaningful capabilities, and pivoted digital from a laggard tactic to a strategic asset and a profitable growth engine that has delivered another strong quarter of growth. 
+asr:0: OUTPUT 1685.93-1691.81: With that, I will turn the call over to John Hartman, our Chief Operating Officer and President of Bye Bye Baby. 
+asr:0: OUTPUT 1692.57-1698.56: John? Thank you, Rafi. We made exceptional progress across our operations in the third quarter. 
+asr:0: OUTPUT 1699.24-1706.79: Specifically as it relates to our supply chain reformation, optimizing our real estate portfolio, and advancing our technology roadmap. 
+asr:0: OUTPUT 1707.83-1710.09: Modernizing our business remains a key focus. 
+asr:0: OUTPUT 1710.35-1715.02: And we are evolving our store formats, our distribution and fulfillment capabilities. 
+asr:0: OUTPUT 1715.18-1720.36: Alongside leveraging our unique data and insights to meet the changing needs of our customers. 
+asr:0: OUTPUT 1720.38-1722.74: And deliver an exceptional shopping experience. 
+asr:0: OUTPUT 1723.78-1732.41: I'll start with supply chain. While we remain focused on mid to long term capability building, we made very substantial pivots in the third quarter. 
+asr:0: OUTPUT 1733.37-1739.30: As Rafi mentioned, our stores fulfilled 36% of total digital sales in the third quarter. 
+asr:0: OUTPUT 1740.66-1745.27: While last year we didn't have BOPUS, curbside pickup, or same-day delivery in our offering. 
+asr:0: OUTPUT 1746.73-1750.45: Not only do these new capabilities provide ease and convenience to our customers,. 
+asr:0: OUTPUT 1750.81-1757.10: They also help us to partially alleviate current shipping constraints and additional cost pressures in the supply chain. 
+asr:0: OUTPUT 1758.34-1764.38: During the quarter, we also added a secondary national carrier and several regional parcel delivery carriers. 
+asr:0: OUTPUT 1764.40-1770.15: Which helped to offset an over 20% cost increase from our primary carrier FedEx. 
+asr:0: OUTPUT 1771.13-1778.06: And importantly, we continue to focus intently on the health and safety of our associates working in our fulfillment centers. 
+asr:0: OUTPUT 1778.08-1782.18: By instituting daily COVID cleaning procedures in our facilities. 
+asr:0: OUTPUT 1783.52-1792.75: Concurrently, we launched an evaluation of a number of potential third-party logistics providers who will partner with us to establish new regional distribution centers. 
+asr:0: OUTPUT 1792.77-1795.90: And to manage the efficient flow of domestic distribution. 
+asr:0: OUTPUT 1797.12-1805.47: We anticipate that using third-party logistics operators will also provide increased financial flexibility and reduced capital expense. 
+asr:0: OUTPUT 1807.21-1810.47: This is the cornerstone of the transformation of our supply chain network. 
+asr:0: OUTPUT 1810.85-1817.42: And will increase our capacity for fast store replenishment while continuing to leverage the store network for Omni fulfillment. 
+asr:0: OUTPUT 1818.76-1825.97: By making the replenishment process more efficient, our store teams will have a more predictable and faster flow of the products we sell most. 
+asr:0: OUTPUT 1826.93-1833.51: In turn, this will allow us to meet the increased demand for BOPUS, curbside, and same-day delivery services. 
+asr:0: OUTPUT 1833.95-1837.76: While also reducing the time our store teams spend managing deliveries. 
+asr:0: OUTPUT 1838.30-1840.48: So they can spend more time with our customers. 
+asr:0: OUTPUT 1842.22-1845.04: Also core to our transformation is technology. 
+asr:0: OUTPUT 1845.31-1853.49: And we are taking a disciplined approach to our investments in building a technology infrastructure that will enable us to personalize the service for our customers. 
+asr:0: OUTPUT 1853.51-1862.60: Improve our ability to predict and meet demand, make it easier to collaborate across teams, and drive down inefficiencies in our business. 
+asr:0: OUTPUT 1864.08-1873.71: Over the next three years, we plan to invest approximately $250 million to modernize the application and technology landscape to a cloud-empowered foundation. 
+asr:0: OUTPUT 1875.58-1882.36: Last quarter, we talked about our expanded multi-year partnership with Google in Deloitte to enhance our omni-channel shopping experience. 
+asr:0: OUTPUT 1883.30-1886.65: This quarter, we defined our plans for a new ERP system. 
+asr:0: OUTPUT 1887.67-1893.39: We will also be pursuing a product lifecycle management solution in support of our own brand initiative. 
+asr:0: OUTPUT 1893.41-1898.28: And an inventory management capability to improve inventory productivity. 
+asr:0: OUTPUT 1899.32-1906.35: These plans will all start in 2021 and are foundational parts of building out our technology infrastructure. 
+asr:0: OUTPUT 1908.47-1915.52: In other activity, we are making significant progress toward the targets we have previously highlighted regarding our real estate portfolio. 
+asr:0: OUTPUT 1915.54-1919.28: Including our stored network optimization and store remodel plan. 
+asr:0: OUTPUT 1920.82-1927.57: Let me start with our network optimization program, which is designed to not only ensure our stores remain a strategic asset for us,. 
+asr:0: OUTPUT 1927.59-1936.26: But also to ensure that we have them in the right locations to deliver more sustainable sales growth, improved margins, and greater cash generation. 
+asr:0: OUTPUT 1937.30-1947.09: As part of this work, we are well underway in the process of closing approximately 200 underperforming Bed Bath & Beyond stores by the end of fiscal 2021. 
+asr:0: OUTPUT 1948.23-1953.05: Initially, we identified about one-third of these stores to be closed by the end of the fiscal year. 
+asr:0: OUTPUT 1954.19-1968.13: We have since accelerated the pace of targeted store closings this year from 70 to about 120 stores, with certain stores closing earlier than planned due to having efficiently sold down store inventory during the closing process. 
+asr:0: OUTPUT 1969.85-1973.27: In the third quarter, we closed four Bed Bath & Beyond stores. 
+asr:0: OUTPUT 1973.39-1980.02: And in December, we closed another 75. And we are currently liquidating an additional 42 stores. 
+asr:0: OUTPUT 1981.42-1988.75: We are very pleased with our progress to date and completing the store closure program during fiscal 2021 remains a priority. 
+asr:0: OUTPUT 1990.61-2000.52: Turning to our Bed Bath & Beyond store remodel program, we have advanced from the initial prototype phase to active iteration within 10 stores in our Houston markets. 
+asr:0: OUTPUT 2001.64-2007.77: These proof of concept stores highlight our destination categories, bed, bath, kitchen, and storage. 
+asr:0: OUTPUT 2009.35-2014.33: We expect to complete this phase of the remodel program by the end of February 2021. 
+asr:0: OUTPUT 2015.32-2023.34: Additionally, we will take all the visual signage enhancements and immediately apply them to the entire fleet of stores on the same timeline. 
+asr:0: OUTPUT 2025.27-2034.95: Next, we will take our learnings from Houston and move into our first expanded wave of renovations in 2021, which includes approximately 150 stores. 
+asr:0: OUTPUT 2036.86-2044.98: In total, our store remodel plan involves $250 million of investment over the next three years and touches over 450 stores. 
+asr:0: OUTPUT 2045.01-2048.33: Representing roughly 60% of our revenue. 
+asr:0: OUTPUT 2050.81-2061.48: In addition, we will utilize strategic sourcing methods to procure necessary remodel components at a lower cost and leverage economies of scale with this overall initiative. 
+asr:0: OUTPUT 2062.76-2066.83: Instead of the legacy store-by-store, one-off approach of the past. 
+asr:0: OUTPUT 2067.51-2074.83: We have established a unified planning process to identify, prioritize, and sequence all aspects of the remodels. 
+asr:0: OUTPUT 2076.80-2088.71: These store remodels and our network optimization plans are crucial steps in building an Omni Always organization that serves our digital first customers with an intuitive and modern shopping experience. 
+asr:0: OUTPUT 2089.67-2092.41: We look forward to reporting our progress along the way. 
+asr:0: OUTPUT 2094.19-2099.06: Before closing, let me provide some perspective on the quarterly performance of Bye Bye Baby. 
+asr:0: OUTPUT 2099.08-2104.74: Which represented approximately 10% of total enterprise reported sales in the third quarter. 
+asr:0: OUTPUT 2105.95-2112.89: This included strong growth in digital of approximately 40%, which represented more than half of the sales in the quarter. 
+asr:0: OUTPUT 2115.01-2124.62: It remains a challenging environment for our new or soon-to-be parents who are particularly vulnerable to the perceived challenges associated with in-store shopping due to COVID-19. 
+asr:0: OUTPUT 2125.61-2133.33: As a result, we saw a disproportionate level of store traffic declines from our baby customers this quarter than across our other banners. 
+asr:0: OUTPUT 2134.63-2143.52: These COVID related headwinds have also had a short term impact on the registry component of our business, which is highly correlated to in-store activity. 
+asr:0: OUTPUT 2144.82-2154.49: While we have seen overall growth in registry, digital registries created online currently tend to carry a lower average value than those created in-store. 
+asr:0: OUTPUT 2155.52-2163.88: Enhancements to the digital registry experience are addressing this opportunity to assist our customers in building a more well-rounded baby wish list. 
+asr:0: OUTPUT 2166.45-2176.26: COVID headwinds have also constrained inventory levels in certain of our key categories, such as furniture and gear, as a result of disruptions in the global supply chain. 
+asr:0: OUTPUT 2177.32-2184.04: We have made key pivots here, including sharing improved forecasts with our vendor partners well into 2021. 
+asr:0: OUTPUT 2185.73-2199.52: So as consumer behavior shifted, we pivoted and leaned into digital to create an enhanced online experience with a more convenient suite of checkout options, including Afterpay, Pay in 4, and Apple Pay. 
+asr:0: OUTPUT 2200.44-2208.73: We also upgraded and relaunched our Buy Buy Baby app in November, strengthening the choices we offer our customers who connect with us digitally. 
+asr:0: OUTPUT 2209.85-2216.64: Year to date, we have gained nearly 2 million US online customers, an increase of 46% over last year. 
+asr:0: OUTPUT 2216.78-2220.60: Including more than a half a million new online customers in the third quarter. 
+asr:0: OUTPUT 2221.72-2226.73: In all, nearly two-thirds of our baby customers only shopped online this quarter. 
+asr:0: OUTPUT 2228.29-2235.96: As young parents take safety into consideration this year, our new Omni capabilities allowed us to meet them where they are with BOPUS,. 
+asr:0: OUTPUT 2235.98-2238.52: Curbside and same-day delivery services. 
+asr:0: OUTPUT 2239.78-2245.67: Digital orders fulfilled by our baby stores represented a significant portion of total orders in the quarter. 
+asr:0: OUTPUT 2245.73-2250.43: With BOPIS orders representing approximately half of all store fulfilled orders. 
+asr:0: OUTPUT 2252.55-2261.26: While the holiday period is traditionally not a big baby season, except for gift giving or needs of families getting ready for or just having had a baby,. 
+asr:0: OUTPUT 2261.28-2270.23: We did see strong digital demand growth of 49% year over year during the five-day holiday period from Thanksgiving to Cyber Monday. 
+asr:0: OUTPUT 2271.29-2278.18: This growth was driven by top performing baby categories including toys, playroom, furniture, and apparel. 
+asr:0: OUTPUT 2278.88-2282.94: These positive sales and category trends accelerated in December. 
+asr:0: OUTPUT 2284.00-2292.35: We believe in this business and we are now ready to double down on and significantly invest in expanding sales and margin and growing our market share. 
+asr:0: OUTPUT 2293.21-2299.82: We plan to accelerate our growth in baby over the next several years, including introducing own brands. 
+asr:0: OUTPUT 2299.94-2307.93: Aging up into toddler and younger children, as well as expanding into categories like toys and educational, as well as furniture. 
+asr:0: OUTPUT 2308.83-2312.83: Enhancing our registry, and leading with new partnerships. 
+asr:0: OUTPUT 2313.71-2319.88: We will also invest to scale our footprint nationwide with about 50 new stores over the next three years. 
+asr:0: OUTPUT 2321.46-2331.43: Fiscal 2021 will mark the true beginning of the transformation of this banner as we execute our three-year plan and unlock the value of this brand. 
+asr:0: OUTPUT 2332.41-2338.94: Earlier this week, we announced the appointment of Patty Wu as Senior Vice President and General Manager for Bye Bye Baby. 
+asr:0: OUTPUT 2339.80-2349.15: Patty's exceptional experience will help accelerate our plans and drive meaningful change. We look forward to sharing our progress in future conference calls. 
+asr:0: OUTPUT 2350.43-2353.43: Mark, I'll turn it back over to you now for closing remarks. 
+asr:0: OUTPUT 2355.03-2359.90: Thank you, John. A strong performance this quarter across several key performance metrics. 
+asr:0: OUTPUT 2360.32-2364.68: Including positive comp sales growth, gross margin expansion,. 
+asr:0: OUTPUT 2364.70-2367.23: Positive cash flow generation. 
+asr:0: OUTPUT 2367.25-2375.56: And gross debt reduction is evidence of our transformation taking hold even despite the significant headwinds of a global pandemic. 
+asr:0: OUTPUT 2376.48-2386.45: Yet, what I saw beyond the numbers was even more impressive. Our team was planning, modifying, and executing in an aligned and disciplined way like never before. 
+asr:0: OUTPUT 2387.35-2393.59: They were learning and improving in real time as the customer and conditions changed, showing true agility in motion. 
+asr:0: OUTPUT 2394.47-2402.66: These newly acquired muscles extended from product and price, through messaging and digital expression, to sales floor and distribution center. 
+asr:0: OUTPUT 2403.78-2412.57: I'm truly grateful to all our associates that rallied around this call to action to demonstrate our strengths and opportunities as the new Bed Bath & Beyond team. 
+asr:0: OUTPUT 2413.91-2422.14: In what has been an exceptional year of change so far, we still continue to make bold pivots to reconstruct, renovate, and restore our company. 
+asr:0: OUTPUT 2422.86-2425.99: Simply put, we're delivering on what we said we would do. 
+asr:0: OUTPUT 2426.97-2434.03: We said we would put a team in place that would have the right talent and expertise to execute our new vision and inject new ideas. 
+asr:0: OUTPUT 2434.05-2439.98: And that we would create the right organisational structure to facilitate more streamlined decision making, and we've done that. 
+asr:0: OUTPUT 2441.10-2447.43: We said we would lean into the digital space and make it easier and more convenient for our customers to shop with us, and we are doing that. 
+asr:0: OUTPUT 2448.65-2457.22: We said we would reset our cost structure, modernize for growth, and refine our organization. And we've done that and continue to focus on gross margin improvement. 
+asr:0: OUTPUT 2458.82-2464.50: We said we had a clear mandate to reestablish our authority as the preferred omni-channel home destination. 
+asr:0: OUTPUT 2464.76-2472.15: And that we would use customer-inspired and market insights to develop our new customer value proposition. And we are doing that. 
+asr:0: OUTPUT 2473.37-2480.56: We said we would evaluate our asset base and how best to optimise its value for the business on a go-forward basis, and we have done that. 
+asr:0: OUTPUT 2481.42-2489.87: And finally, we said our mission is to ensure that Bed, Bath and Beyond is well positioned for long-term success. And we're doing just that. 
+asr:0: OUTPUT 2491.33-2497.98: I'm proud of what our teams have achieved and I thank them for their continued dedication and commitment to the long-term success of our company. 
+asr:0: OUTPUT 2498.88-2503.84: Our results this quarter set a firm base from which we will continue to drive our bold transformation. 
+asr:0: OUTPUT 2504.36-2510.23: And seek to deliver on our three-year strategic and financial goals shared at our 2020 Investor Day. 
+asr:0: OUTPUT 2511.37-2520.56: We have many bold and exciting plans for fiscal 2021, such as launching new on-brands that will help differentiate us in our key destination category. 
+asr:0: OUTPUT 2521.78-2527.03: Remodelling approximately 150 stores under our Store Network Optimisation Program. 
+asr:0: OUTPUT 2528.17-2533.63: Introducing new and unique digital services designed to enhance our Omni Always experience. 
+asr:0: OUTPUT 2534.93-2539.88: Modernizing our technology and operations, and reinventing our supply chain for the future. 
+asr:0: OUTPUT 2541.16-2549.95: Investing to further strengthen our Buy Buy Baby and Harmon Benners, and continuing to unlock and deliver shareholder value. 
+asr:0: OUTPUT 2551.39-2559.08: In a year like no other, we are embracing and driving transformative change, staying curious and bold, and so much more. 
+asr:0: OUTPUT 2559.84-2566.31: I'm proud of the commitment our teams have shown and what we have achieved together. With that, we will now take your questions. 
+asr:0: OUTPUT 2568.65-2578.34: You will now begin the question and answer session. If you have a question, please press star then one on your touch tone phone. If you wish to be removed from the queue, please press the pound sign or the hash key. 
+asr:0: OUTPUT 2579.04-2585.77: There will be a delay before the first question is announced. If using a speakerphone, you may need to pick up the handset first before pressing the numbers. 
+asr:0: OUTPUT 2586.51-2590.35: Once again, if you have a question, press star then one on your touch tone phone. 
+asr:0: OUTPUT 2593.43-2600.54: And our first question is from Kurt Nagel from Bank of America. Good morning. Thanks very much for taking my questions. 
+asr:0: OUTPUT 2601.66-2610.03: The first one is to understand how very constrained shipping and freight was an issue for holiday margins. 
+asr:0: OUTPUT 2610.15-2613.39: How long do you think this pressure carries into 21? 
+asr:0: OUTPUT 2613.65-2615.88: Sounds like at least for the full year. 
+asr:0: OUTPUT 2616.24-2625.47: You don't think it's an issue since you're still targeting 30% gross margins in 21 and then just have a fall after that. 
+asr:0: OUTPUT 2627.23-2635.92: Good morning, Kurt. Thanks. Look, we know that the freight pressure across retail is here to stay and we've built that into our future plans. 
+asr:0: OUTPUT 2636.54-2646.41: So we see that our margin stability and the offsets that we've created currently in the proof of concept of those over both Q2 and Q3 of this year. 
+asr:0: OUTPUT 2646.97-2652.87: Really standards and goods said to deliver that 35% margin. So we feel really comfortable around that. 
+asr:0: OUTPUT 2656.60-2658.54: Maybe just, again, see if Mark. 
+asr:0: OUTPUT 2659.98-2668.23: Maybe give us a quick update on some of the big merchandising initiatives you guys have outlined in the October Analyst Day, such as lower sourcing. 
+asr:0: OUTPUT 2668.25-2676.36: And then, you know, starting to roll out improved and more merchandise or more exclusive product and how much of an impact that'll have. 
+asr:0: OUTPUT 2676.38-2679.38: Making 21 or at least how to think about the cadence of those things. 
+asr:0: OUTPUT 2679.46-2680.76: You know, in 2021. 
+asr:0: OUTPUT 2681.82-2693.19: The good news is that we've already built a firm foundation with these results. The actions and trends we have here in terms of margin, but across the board are really substantial and sustainable. 
+asr:0: OUTPUT 2693.45-2696.60: And then we're going to add into those the rolling benefits as you outlined. 
+asr:0: OUTPUT 2696.68-2705.73: So the sourcing benefits that we've undertaken throughout 2020 are really going to be evident in first quarter onwards in 2021. 
+asr:0: OUTPUT 2706.29-2710.51: And then we begin in March with the rollout of our own brands and we're going to be sharing. 
+asr:0: OUTPUT 2710.53-2716.30: More close in the pagination of that flow throughout the year, several brands will be launched. 
+asr:0: OUTPUT 2716.92-2720.38: But the key news is that in the first half of 2020,. 
+asr:0: OUTPUT 2721.08-2727.37: We'll be addressing the majority of our big key categories. We're already seeing strength and growth. 
+asr:0: OUTPUT 2727.39-2735.68: In re-embedding those with own brands and also the introduction of opening price point items and a range there which has been a huge missing. 
+asr:0: OUTPUT 2735.70-2739.70: Part of our equation in terms of being truly competitive in the marketplace. 
+asr:0: OUTPUT 2739.72-2741.40: To build their authority. 
+asr:0: OUTPUT 2741.48-2747.07: These step changes, the consistent management of promotions. 
+asr:0: OUTPUT 2747.09-2753.95: The mix management. Now we're going to lay in the incremental benefits of sourcing and own brand. 
+asr:0: OUTPUT 2753.97-2756.86: So we're excited about that progression in 2021. 
+asr:0: OUTPUT 2759.26-2762.10: Next question is from Simeon from Morgan Stanley. 
+asr:0: OUTPUT 2765.41-2767.39: Good morning, thanks for taking my question. 
+asr:0: OUTPUT 2767.83-2773.13: Can you talk about where your expectations were a couple months ago? 
+asr:0: OUTPUT 2773.15-2780.32: For the fourth quarter in sales. And now, and I know the outlook for next year embeds Flatish. 
+asr:0: OUTPUT 2780.96-2786.37: Does that change now that you're going to be lapping something that may be potentially weaker in this year's fourth quarter? 
+asr:0: OUTPUT 2788.83-2794.27: Yeah, I think Simina, again, we had robust plans for Q4 of this year. 
+asr:0: OUTPUT 2795.08-2804.72: We feel good about how we're executing on those, but there's no doubt that the COVID headwinds and the impact that has had on foot traffic and overall consumer confidence. 
+asr:0: OUTPUT 2805.11-2814.55: That's something that we've had to factor into our plan. Hence why we talked about the agility of our team through Q3 and now Q4 to respond to those challenges. 
+asr:0: OUTPUT 2814.59-2820.26: And so we think we've met those in what has been a turbulent time. 
+asr:0: OUTPUT 2820.56-2823.94: And we really look forward to lapping those next year in a very different way. 
+asr:0: OUTPUT 2825.63-2827.67: Okay, thanks for that. 
+asr:0: OUTPUT 2828.71-2837.78: Can you talk about Q4, you mentioned the freight headwinds, but offset by some optimization on I think the gross margin. 
+asr:0: OUTPUT 2837.80-2839.34: In terms of promotion and pricing. 
+asr:0: OUTPUT 2839.90-2842.22: Can you talk about the promotional environment? 
+asr:0: OUTPUT 2842.30-2850.85: And then thinking about how much margin opportunity there still is, I think for next year's guidance revision. 
+asr:0: OUTPUT 2851.31-2856.34: That is, it looks like it's more of a function of the margin changing as opposed to the top line, just to confirm. 
+asr:0: OUTPUT 2857.68-2866.13: Yeah, I think that we would stress that we did not become more promotional during the quarter in Q3. 
+asr:0: OUTPUT 2866.15-2867.87: Or in Q4. 
+asr:0: OUTPUT 2868.21-2877.76: We've actually reshaped and re-engineered our promotional activity. We had opportunity to do so, but that's really paying dividends in terms of generating gross margin. 
+asr:0: OUTPUT 2877.98-2884.95: And helping to create that balance and exceeding equation on the margin differentials from shipping and freight. 
+asr:0: OUTPUT 2885.65-2892.79: So we're less promotional, we're more focused on reg price, we're winning customers and we see that progressing forward. 
+asr:0: OUTPUT 2893.09-2894.67: As Gustavo had outlined. 
+asr:0: OUTPUT 2894.93-2900.08: We're not putting pressure on the working sales plan. 
+asr:0: OUTPUT 2900.10-2905.09: To generate our EBITDA. We believe that we can do that through a number of the different initiatives we have. 
+asr:0: OUTPUT 2905.11-2910.43: Through cost control and definitely margin growth in 2021 as we outlined in our three-day plan. 
+asr:0: OUTPUT 2910.57-2911.65: A 3-year plan, sorry. 
+asr:0: OUTPUT 2913.95-2916.28: Our next question is from Bobby Griffin from Raymond,. 
+asr:0: OUTPUT 2918.44-2920.64: Good morning, everybody. Thanks for taking my questions. 
+asr:0: OUTPUT 2920.88-2929.25: Yes, Mark, the first thing I want to talk about was, you know, looking at the range for next year, it's a fairly tight range of 500 to 525 million EBITDA. 
+asr:0: OUTPUT 2929.77-2937.60: There's still a lot of uncertainty out there. Can you maybe talk a little bit more about what you see in the business now that really gives you confidence in tightening that range up? 
+asr:0: OUTPUT 2937.68-2940.00: And as a second part of that,. 
+asr:0: OUTPUT 2941.08-2948.87: What could be the driver that would cause that range to underperform? Is it sales? Is it margin? What gives you the most concern there? 
+asr:0: OUTPUT 2951.25-2959.58: Hi Bobby, Gustavo here. So definitely there's still a lot of uncertainties as we look forward, but we feel very confident in our plan. 
+asr:0: OUTPUT 2960.26-2969.31: We have clarity on the drivers of gross margin expansion, which is why we are reiterating a gross margin of 35%. 
+asr:0: OUTPUT 2969.85-2974.35: Next year, in spite of the recent headwinds that we're seeing on freight costs. 
+asr:0: OUTPUT 2974.37-2980.48: As Mark mentioned, we're being more data-driven in managing our promotion and our banks. 
+asr:0: OUTPUT 2980.72-2982.60: And with that, we will offset it. 
+asr:0: OUTPUT 2983.38-2990.15: It is a tighter range than the one we provided at Investors Day, but we said that as. 
+asr:0: OUTPUT 2990.17-2996.48: We completed the portfolio work, the monetization of non-core assets. We would tighten that. 
+asr:0: OUTPUT 2996.56-3000.34: And that's what we're coming for to you right now. 
+asr:0: OUTPUT 3001.34-3009.63: On your question of what can throw us off, it's not sales. We are prudently assuming for financial planning purposes that we would have. 
+asr:0: OUTPUT 3009.67-3016.00: Sales, comp sales in line with prior year and each buy with that we will deliver significant EBITDA growth. 
+asr:0: OUTPUT 3017.86-3026.27: Yeah, Bobby, I would just add that I think that the plan we're placing is a responsible plan based on changing circumstances in the market. 
+asr:0: OUTPUT 3026.81-3034.65: Any threat or concern would really be a macro market issue, not an internally caused issue. 
+asr:0: OUTPUT 3034.71-3043.72: Again, I think 2020 has exemplified how everyone gets affected by those things. So we are monitoring things very carefully by week and by quarter. 
+asr:0: OUTPUT 3043.94-3046.89: If you're a plan is responsible and achievable. 
+asr:0: OUTPUT 3047.05-3048.61: And we're looking forward to delivering that. 
+asr:0: OUTPUT 3050.43-3058.98: Thank you. I guess my second question would be for the December commentary. You mentioned that the enterprise did show some growth for comparable sales. 
+asr:0: OUTPUT 3059.46-3065.33: But then I guess for the entire quarter, you're kind of calling for Flatish versus last year or in line, I believe, is still rewarding. 
+asr:0: OUTPUT 3065.75-3073.81: Can you maybe just talk a little bit about what is going in there? Is something popped up in the last couple weeks that's giving you concern or is that just a little bit of... 
+asr:0: OUTPUT 3073.83-3077.86: Function of being conservative given the level of uncertainty that's still out there in the world. 
+asr:0: OUTPUT 3078.54-3085.09: Yeah, bang on there. It's definitely around. We've seen positive signs in December. 
+asr:0: OUTPUT 3085.57-3089.51: Remembering that our fourth quarter is December, January, February. 
+asr:0: OUTPUT 3089.55-3095.42: We still have two full months to complete this process. There's a lot going on in the world. 
+asr:0: OUTPUT 3095.58-3102.38: And we want to make sure that we're being responsible in our planning and we look forward to sharing more in the forthcoming weeks. 
+asr:0: OUTPUT 3104.18-3111.59: Thank you very much. Best of luck. Once again, if you have a question, press star, then 1 on your touchtone phone. 
+asr:0: OUTPUT 3115.16-3118.44: And our next question is from Chris Hovers from J.P. Morgan. 
+asr:0: OUTPUT 3120.42-3131.53: Thanks. Good morning guys. So my first question is a follow-up. As you think about, you know, you talk about things evolving and changing as you thought about your 21 plan. 
+asr:0: OUTPUT 3131.55-3132.89: Is it fair to say that? 
+asr:0: OUTPUT 3132.93-3139.98: COVID changed in terms of the recent surge. Are you assuming that this sort of lasts longer? 
+asr:0: OUTPUT 3140.10-3146.61: Until we actually get to a vaccine. So was the change there and also was the other change the freight costs? 
+asr:0: OUTPUT 3146.69-3150.71: I mean, presumably as the holiday, the volume surcharges. 
+asr:0: OUTPUT 3150.73-3159.28: Should come down as you get into a more normalized shipping environment here. So is there something structural within that freight that you're still. 
+asr:0: OUTPUT 3159.34-3160.88: Day your suming sticks around. 
+asr:0: OUTPUT 3163.08-3173.11: Yeah, I think that it's prudent to think about an environment. I mean, we saw an acceleration, a change in behavior between our. 
+asr:0: OUTPUT 3173.13-3180.68: Our Q2 and September-October results and versus our November results based on COVID. 
+asr:0: OUTPUT 3180.94-3192.55: And based on foot traffic to stores, customers being concerned around what the future held and real uncertainty in the market really began around the election period. 
+asr:0: OUTPUT 3192.57-3197.40: We are being prudent in thinking through with the vaccine rollout. 
+asr:0: OUTPUT 3197.50-3202.00: It's still under white, it's still very early. We want to be able to monitor that and its impacts. 
+asr:0: OUTPUT 3202.34-3210.89: We haven't factored anything in terms of stimulus checks and their impact on the business because again that's been so uncertain. It's only just new news. 
+asr:0: OUTPUT 3211.27-3216.96: So just ensuring that the level of uncertainty and volatility that that has or could bring. 
+asr:0: OUTPUT 3216.98-3223.12: Is built conservatively into our plans and that we can balance out any of those headwinds. 
+asr:0: OUTPUT 3223.80-3231.11: I think it's been interesting that there's been a lot of discussion around the home category experiencing this great tailwind from. 
+asr:0: OUTPUT 3231.13-3235.30: The COVID moment, all of us in retail have been facing incredible headwinds. 
+asr:0: OUTPUT 3235.32-3238.88: And confusion and concern from the customer that we're trying to fight. 
+asr:0: OUTPUT 3239.10-3249.03: I feel really positive that we're delivering positive comps, profit, EBITDA in the face of that uncertainty and want to ensure that we've got a balanced plan going into 2021. 
+asr:0: OUTPUT 3250.93-3260.00: Got it. Understood. In terms of the fourth quarter, relative to history, for gross margin rate to be. 
+asr:0: OUTPUT 3260.62-3267.27: You know worse in the fourth quarter than it was in and uh... Third quarter just trying to really understand that. 
+asr:0: OUTPUT 3267.35-3271.53: You mentioned not being more promotional in December. 
+asr:0: OUTPUT 3273.07-3280.90: Is that you get about 140 bps from the accounting shift between cost of goods and SG&A. 
+asr:0: OUTPUT 3280.98-3286.95: Is the shipping surcharge going to be much larger than the 80 basis points? 
+asr:0: OUTPUT 3287.47-3297.38: That you saw in 3Q, you lap 180 basis points of markdown pressure. And obviously, it seems like you have very clean inventory. 
+asr:0: OUTPUT 3297.40-3300.20: Just trying to understand the dynamic on a. 
+asr:0: OUTPUT 3300.22-3306.87: Year-over-year in sequential basis in gross margins such that it would be flat in the fourth quarter year-over-year. 
+asr:0: OUTPUT 3309.51-3313.51: Sure, Chris. It's right on what you said about the shipping cost. 
+asr:0: OUTPUT 3313.95-3320.00: Part of the reason in the prepared remarks we talked about 80 basis points, impact in Q3. 
+asr:0: OUTPUT 3320.08-3322.10: That was just the latter part of the quarter. 
+asr:0: OUTPUT 3322.76-3326.83: What we're estimating in Q4 is over 150 basis points impact. 
+asr:0: OUTPUT 3327.49-3335.34: And we're committed to offsetting that, again, through discipline, promotion management, and mix. And that's what we will do. 
+asr:0: OUTPUT 3335.46-3341.10: But the incidence on the shipping cost, it's much larger in Q4, and that's why we're being. 
+asr:0: OUTPUT 3345.97-3350.37: I can just also add, if you're looking at Q4 versus Q4 last year,. 
+asr:0: OUTPUT 3351.29-3357.88: You just felt recognizing that as a consumer behavior and the impact of digital purchasing versus store purchasing. 
+asr:0: OUTPUT 3358.24-3361.38: It is not like-for-like and it's definitely accelerated. 
+asr:0: OUTPUT 3362.10-3371.75: And that's brought with it natural pressures to margin and mix as we've shared, but that we're offsetting that and mitigating that to be stable I think is a real achievement. 
+asr:0: OUTPUT 3372.15-3382.28: So it is us people like no other and the consumer behavior, the digital pivot and therefore what that's meant for margin inclusive shipping. 
+asr:0: OUTPUT 3382.30-3384.18: Is part of what we're balancing. 
+asr:0: OUTPUT 3384.30-3390.15: Again, one month into our three-month quarter, but we want to make sure that we're being prudent with it. 
+asr:0: OUTPUT 3392.09-3398.98: Understood. Thanks so much, guys. And our next question is from Peter Benedict from Baird. 
+asr:0: OUTPUT 3400.80-3409.97: Hey guys, thanks for taking the question. First, I'm just curious on the adoption of Opus. I know it's been around six months and the curbside. 
+asr:0: OUTPUT 3410.43-3419.68: How is that trending relative to your expectations and what are your plans or goals to drive continued adoption of that? 
+asr:0: OUTPUT 3420.00-3421.72: In the months ahead? That's my first question. 
+asr:0: OUTPUT 3422.76-3427.93: Yeah Peter, great question. I think what we've seen, we showed an overall statistic for. 
+asr:0: OUTPUT 3427.95-3435.86: Q3, but I'm packing that. You see an escalation and a movement into the new muscle. Remember, we only introduced this in May. 
+asr:0: OUTPUT 3436.62-3440.00: So what we're seeing now is we have an NPS score of 80. 
+asr:0: OUTPUT 3440.36-3450.21: We're able to provide about a two-hour assurance on our order fulfillment at store level, and that's actually in real terms around 30 minutes. Customers are loving it. 
+asr:0: OUTPUT 3450.47-3460.16: I think in a total industry level, both this is a muscle and a new methodology is very accepted by the customer and we're benefiting from that as well. 
+asr:0: OUTPUT 3460.62-3467.01: We saw our rates in the December period escalate week in week out. 
+asr:0: OUTPUT 3467.61-3472.03: As customers became more concerned around delivery shipping times. 
+asr:0: OUTPUT 3472.29-3480.28: And really ensuring that they had a joyous holiday period that they could secure the present under the tree. And so we really went into. 
+asr:0: OUTPUT 3480.30-3486.49: Creating ease and convenience for our customers that they really responded to and were very grateful for. 
+asr:0: OUTPUT 3486.91-3491.69: We believe these are constants now and they're muscles in the business that we want to maintain. 
+asr:0: OUTPUT 3491.75-3498.62: For us, we know that a boat that's a fulfilled by store is almost equivalent to a store-based sale in terms of profitability. 
+asr:0: OUTPUT 3499.10-3506.07: So the differential helps us and has helped us through Q3 and will help us in Q4 in terms of our shipping and profitability costs. 
+asr:0: OUTPUT 3506.81-3516.50: So we think it's here to stay. It is one of the sticky outcomes of not just the progression in MOPUS, but how COVID has fortified this as a new muscle for most retailers. 
+asr:0: OUTPUT 3518.98-3524.82: Thanks for that, Mark. And then, I guess, Shifty, you guys brought up registry a couple times during your prepared remarks. 
+asr:0: OUTPUT 3525.63-3531.81: I'm not sure how much you're willing to share quantitatively on the size of those businesses, but maybe just some more qualitative comments. 
+asr:0: OUTPUT 3532.03-3540.86: I'm curious how you see those two businesses. 
+asr:0: OUTPUT 3540.88-3547.37: That business across the two segments as part of your outlook over the next couple years. Any opportunities. Thanks. 
+asr:0: OUTPUT 3548.11-3555.62: Yeah, it's a great point. I would actually differentiate between the moment in time experience versus the go forward experience. And the moment in time experience. 
+asr:0: OUTPUT 3555.64-3558.90: As John outlined, Baby Registry is a very strong product. 
+asr:0: OUTPUT 3559.22-3565.37: But it has been more reliant on an in-store experience and when we do that we build a bigger basket. 
+asr:0: OUTPUT 3565.43-3571.97: It's more sticky and higher customer engagement. So we've been pivoting to strengthen our digital registry. 
+asr:0: OUTPUT 3572.65-3578.72: And we'll invest there further. But for us, we see complete upside in 2021. 
+asr:0: OUTPUT 3579.54-3586.13: With the return to a more normalized shopping environment in stores and digital in terms of True Omni. 
+asr:0: OUTPUT 3586.55-3596.02: When we turn to Bed Bath & Beyond, the story is even better. We are consistently at the top of the ranking and have held market share in most recent data. 
+asr:0: OUTPUT 3596.04-3597.36: In terms of registry. 
+asr:0: OUTPUT 3598.12-3605.57: Now, we haven't had the benefit of that in our 2020 or current numbers because of the COVID moment and people are just not having wedding ceremonies. 
+asr:0: OUTPUT 3606.01-3614.17: In 2021 there's going to be pent up demand and transfer into that year for weddings to occur. 
+asr:0: OUTPUT 3614.29-3621.06: And because we are number one in those spaces and well placed with held market share and the stats are good. 
+asr:0: OUTPUT 3621.40-3623.80: We feel like that as a runway for growth. 
+asr:0: OUTPUT 3623.82-3632.01: Over the next couple of years is one of our solid strengths that hasn't existed in our 2020 or current numbers and we're going to be doubling down and investing there even further. 
+asr:0: OUTPUT 3634.41-3636.62: The next question is from Stephen Forbes from Google. 
+asr:0: OUTPUT 3640.12-3647.15: Good morning. So I wanted to focus on the trends within the categories, maybe outside of the top five that you noted in the release. 
+asr:0: OUTPUT 3647.91-3656.72: So Mark, just curious how these categories are performing. I know it's early, but performing within some of the new concept stores or remodels. 
+asr:0: OUTPUT 3657.34-3662.60: And, Nor, if you could just speak to some of the initiatives, right, that center around addressing the performance here. 
+asr:0: OUTPUT 3662.64-3673.21: Because although it's the lower percentage of sales, it's still one third here. So I'd love to see how you're thinking about improving those specific categories. 
+asr:0: OUTPUT 3673.53-3674.83: And the shared trajectory within them. 
+asr:0: OUTPUT 3675.76-3679.28: Yeah, thanks, Stephen. It's a great question. I think that there's been some natural... 
+asr:0: OUTPUT 3679.30-3686.75: Headwinds there just based on some of these businesses being more relevant to store-based traffic than digital traffic for us. 
+asr:0: OUTPUT 3687.03-3688.29: One of them is personal care. 
+asr:0: OUTPUT 3688.49-3694.45: Again, in our remodel scores that we've been testing. 
+asr:0: OUTPUT 3694.47-3702.84: Our personal care business is booming and actually showing a huge differential to our control. And when we get the traffic, we get the trade. 
+asr:0: OUTPUT 3703.18-3714.09: And I think what we saw in the end of Q3 and somewhat in Q4 is this sort of suppression of foot traffic in stores that has a direct correlation. 
+asr:0: OUTPUT 3714.41-3724.36: And that's a business that either is a great basket-bill business or is just part of a trip to store that's just not occurring at this moment as frequently as it has in the past. 
+asr:0: OUTPUT 3724.70-3731.29: I think there's a couple of key areas too where we have had some softness. 
+asr:0: OUTPUT 3731.81-3738.36: I think cleaning is a really good example for us, an area that's normally been strong. I think getting supply of product has been an issue. 
+asr:0: OUTPUT 3738.64-3745.55: It's constrained across the globe and we just haven't been firing in that space. 
+asr:0: OUTPUT 3746.27-3753.43: But at the same time we also cleared out of smaller categories like food to kind of clean up our assortment that we build into that impact. 
+asr:0: OUTPUT 3753.63-3757.28: We're really focused on doubling down our strength categories. 
+asr:0: OUTPUT 3757.42-3764.60: You see that coming through and consistent through Q3, Q4 and our efforts strategically in 2021. 
+asr:0: OUTPUT 3764.90-3773.49: But we are definitely focusing on a couple of key categories where we can really ramp up our inventory and our focus. 
+asr:0: OUTPUT 3773.67-3776.88: We're already starting to see positive signs of that in January. 
+asr:0: OUTPUT 3779.92-3782.86: And maybe just a quick follow-up for your Gustavo. 
+asr:0: OUTPUT 3783.74-3788.43: Obviously, we know the minimum wage rate increases that are transpiring this year and. 
+asr:0: OUTPUT 3788.45-3793.87: You know, potential some pressure, right, from other retailers announcing the path to 15. 
+asr:0: OUTPUT 3794.41-3799.64: So I'm curious how you guys think about that as a pressure point on the business. 
+asr:0: OUTPUT 3800.38-3806.25: And what's incorporated in the financial guidance as it relates to wage investments for 2021. 
+asr:0: OUTPUT 3807.53-3816.18: Yeah, we definitely see the emerging trends and the evolution. We're looking at change of leadership and how that can impact on that. No news on that today. 
+asr:0: OUTPUT 3816.44-3819.78: Other than that we are looking at it very, very. 
+asr:0: OUTPUT 3819.90-3826.75: I want to be competitive in the marketplace and we'll be absorbing that into our overall costs and financial plans going forward. 
+asr:0: OUTPUT 3829.53-3837.48: Thank you. Best of luck. Our next question is from Carla Casella from J.P. Morgan. 
+asr:0: OUTPUT 3839.70-3848.69: Hi, could you just give us an update on how much of your cost savings did you achieve in the quarter from your overall goal? 
+asr:0: OUTPUT 3853.23-3859.70: We are on track with the path and the objective we have of $200-250 million going. 
+asr:0: OUTPUT 3859.74-3862.38: Next year we expect about 125. 
+asr:0: OUTPUT 3862.40-3870.15: At least in the current quarter we saw savings as you saw in the building blocks. 
+asr:0: OUTPUT 3870.57-3876.48: 180 basis points from product margin. 
+asr:0: OUTPUT 3876.50-3882.16: And saving including leverage of distribution costs of 210 basis points. 
+asr:0: OUTPUT 3884.00-3887.35: Okay, so we can count those towards the cost savings program. Okay, that's great. 
+asr:0: OUTPUT 3888.13-3890.01: And also,. 
+asr:0: OUTPUT 3890.03-3899.86: Did you provide overall same-store sales at Bye Bye Baby or Harmon? I know you gave some details, but I don't think I heard the same-store sales number overall. 
+asr:0: OUTPUT 3901.66-3902.74: No, we did not provide that. 
+asr:0: OUTPUT 3905.21-3907.07: I mean historically for the third quarter. 
+asr:0: OUTPUT 3910.91-3914.77: No, we haven't. What we said in the prepared remarks is... 
+asr:0: OUTPUT 3915.96-3921.96: In the third quarter, same source cells were down in Badai Baby and then recovered in December. 
+asr:0: OUTPUT 3922.08-3927.23: The reason why they were down temporarily in the quarter is some of the dynamics that John spoke about. 
+asr:0: OUTPUT 3927.93-3935.07: Just keep in mind, store sales, store traffic, particularly in Buy Buy Baby, slowed down significantly in November. 
+asr:0: OUTPUT 3935.32-3942.78: And he was partly compensated by the strength in digital, but still that recovery started happening in December. 
+asr:0: OUTPUT 3945.01-3953.43: Okay, great. And if you're, how much of your, if you look at the Bed Bath & Beyond business alone, how much of that business was done by digital? 
+asr:0: OUTPUT 3953.47-3955.28: I know you talked about digital growth there. 
+asr:0: OUTPUT 3955.80-3963.28: But I'm wondering, you gave it for the overall company, but how is that trending in Bed Bath & Beyond versus last year? 
+asr:0: OUTPUT 3964.80-3970.17: We did share that that digital growth there is 94% for the quarter color, so exceptionally strong. 
+asr:0: OUTPUT 3971.87-3977.74: I guess I was wondering what percentage is the digital sales, not the growth. 
+asr:0: OUTPUT 3978.20-3979.32: Overall company. 
+asr:0: OUTPUT 3982.86-3990.61: I think that the reference point to that color is that we're at 90% last year. And that was a growth and growth of the prior year at 16%. 
+asr:0: OUTPUT 3990.89-3998.90: You can see that exponential growth and remembering that only includes the November portion of the holiday period. 
+asr:0: OUTPUT 4001.82-4004.74: And our next question is from Mike Lassner from UBS. 
+asr:0: OUTPUT 4006.17-4020.62: Good morning. Thanks a lot for taking my question. Mark, you mentioned several times about the importance of driving in-store traffic to the Bed Bath and Model, whether it's through the wedding registry or some of the personal care products. 
+asr:0: OUTPUT 4020.68-4029.21: And one of the long-lasting outcomes of this situation is that there's just going to be a higher penetration of e-commerce in retail. 
+asr:0: OUTPUT 4029.25-4034.87: And some of the initiatives that you're rolling out like curbside pickup and shift up. 
+asr:0: OUTPUT 4034.89-4039.90: To home are going to drive less traffic to your stores. 
+asr:0: OUTPUT 4040.42-4046.99: So how are you going to balance that over the long run and generate some of your sales productivity initiatives? 
+asr:0: OUTPUT 4048.79-4051.99: We saw, thanks to your question,. 
+asr:0: OUTPUT 4052.05-4064.90: We saw when things started normalizing in the middle of the year, before the second wave came through, we saw really great comps in stores and the omni-channel benefit of stores and digital really came together. 
+asr:0: OUTPUT 4064.92-4066.19: In a positive way. 
+asr:0: OUTPUT 4067.03-4073.05: For us, in our forward planning that we provided for the three-year plan, we've actually shown. 
+asr:0: OUTPUT 4073.07-4078.14: We've actually factored in a very high digital rate into that so that our financials remain stable. 
+asr:0: OUTPUT 4078.72-4087.39: But we see that the driving to store piece really does come from an omni-channel environment. I think there's a number of great retailers that are exemplifying this at the moment. 
+asr:0: OUTPUT 4087.95-4091.89: And a trip to the store whether it be for Bopus or for a true trip. 
+asr:0: OUTPUT 4092.09-4098.64: Both generate a sense of the store in your community as part of your network and part of your needs lifestyle. 
+asr:0: OUTPUT 4099.06-4102.56: We look forward to a more normalized base. 
+asr:0: OUTPUT 4102.74-4113.55: We think our stores will be ready when that comes through with new visual merchandising, new assortment, new planning and in $150 plus, a completely new environment. 
+asr:0: OUTPUT 4113.89-4121.54: And what we've seen in those in your environment is that when we provide that, the differential to our control is very, very strong. 
+asr:0: OUTPUT 4121.88-4127.43: And that we see sales growth. So we are firm believers in stores, we're investing in stores. 
+asr:0: OUTPUT 4127.95-4133.91: And we think that our assortment, our presentation, and our remodels will really help us even further there. 
+asr:0: OUTPUT 4135.80-4144.88: My follow-up question is in the bridge that you provided for your gross margin for 2019. 
+asr:0: OUTPUT 4145.35-4148.31: You talk about the positive drivers. 
+asr:0: OUTPUT 4148.33-4155.86: Sourcing, own brands, better promotions and markdowns and coupons, offset by some channel shifts and freight costs. 
+asr:0: OUTPUT 4156.52-4164.00: In that, there's no real discussion around reinvestment in price or other traffic driving initiatives. 
+asr:0: OUTPUT 4164.36-4174.67: And this is going to be at a time where arguably, and I know this is debatable, that some of the tailwinds at the home-related category are going to fade. 
+asr:0: OUTPUT 4174.69-4176.50: In a reopening environment. 
+asr:0: OUTPUT 4178.52-4182.28: I think the reason why that's not in there is that work has been done. 
+asr:0: OUTPUT 4182.54-4190.91: We're already showing that the indices on the KBIs for our key categories that we're showing great everyday parity to our key comp set. 
+asr:0: OUTPUT 4191.77-4195.96: Our promotions that we are using now are taking hold. 
+asr:0: OUTPUT 4196.06-4202.68: And actually we're using them more effectively. So we're seeing cost savings in the promotion, but getting much more effectiveness. 
+asr:0: OUTPUT 4202.96-4211.69: We believe that these muscles, which we've displayed in the last two quarters, that have really driven great gross margin growth are sustainable and are inside the mix. 
+asr:0: OUTPUT 4211.83-4219.54: Michael, I think that the promotional expectation of 2021, I feel is overstated. 
+asr:0: OUTPUT 4219.56-4223.64: We see great data that shows that the home trend will be sticky. 
+asr:0: OUTPUT 4223.70-4228.75: This is part of people's lives now and their expectation of creating joy and comfort at home. 
+asr:0: OUTPUT 4229.45-4235.36: And we don't believe that there's going to be an exceptional chase into a promotional activity. 
+asr:0: OUTPUT 4235.70-4244.28: But our financials and our promotional cadence that we have and the balance we've created this year is ready for that in 2020. 
+asr:0: OUTPUT 4246.37-4249.13: Our last question is from Seth Bassem from Whitebush Security. 
+asr:0: OUTPUT 4251.57-4256.90: Thanks a lot and good morning. My first question is just on your EBITDA guidance for 2021. 
+asr:0: OUTPUT 4257.30-4261.60: Could you give us some color as to what the impact from the banners. 
+asr:0: OUTPUT 4261.68-4268.53: Sales is, specifically Cost Plus and Christmas tree shops in that forecast. 
+asr:0: OUTPUT 4272.09-4277.50: So the guidance we're providing in 2021 is already on a core Banner basis. 
+asr:0: OUTPUT 4277.98-4283.00: It only includes Bed Bath, Bye Bye Baby, Decorys and Harmon. 
+asr:0: OUTPUT 4283.52-4287.37: We showed in the bridge what would be the proforma. 
+asr:0: OUTPUT 4287.93-4295.26: 2019 posed those banners of Esteters and that's a starting point of 425 million dollars. 
+asr:0: OUTPUT 4298.72-4300.00: And that's helpful. 
+asr:0: OUTPUT 4301.18-4307.45: Yes, Seth, one of the things that we weren't able to do at the InVEST today and we share with many of you after was that. 
+asr:0: OUTPUT 4307.49-4312.25: We had to include in full our cost plus world market business. 
+asr:0: OUTPUT 4312.71-4317.10: In terms of the EBITDA projection but we didn't include it in the sales projection. 
+asr:0: OUTPUT 4317.16-4325.41: So what you're seeing now with that sale is that firmer range being presented based on the true pro forma of 2019. 
+asr:0: OUTPUT 4325.83-4333.33: Again, still with that responsible attitude to EBITDA for the full year based on some of the early changes in H1. 
+asr:0: OUTPUT 4333.39-4338.78: But it was a secondary pivot that we can provide to be even more definitive on the way to further growth. 
+asr:0: OUTPUT 4340.14-4345.81: And importantly, there's a tighter range on revenue. 
+asr:0: OUTPUT 4346.43-4349.49: Now, when you compare net sales 2021. 
+asr:0: OUTPUT 4349.75-4357.36: Versus reported sales in 2020 or 2019, it's not comparable. That's why we want to provide the guidance on a comparable basis. 
+asr:0: OUTPUT 4357.52-4367.33: And we're going to see some of that dynamic in Q4 already, while we've mentioned that Q4 net sales are going to be down double digits, by reported basis. 
+asr:0: OUTPUT 4367.97-4373.31: Between 15 up to 20% is simply the impact of the banning of dibestitures. 
+asr:0: OUTPUT 4373.77-4375.90: It's a significant transformation going on. 
+asr:0: OUTPUT 4376.16-4384.34: It's a totally different shape of the P&L next year on concepts, on sales, on stores. 
+asr:0: OUTPUT 4386.23-4393.75: Understood my follow-up questions related to the mix of online versus in-store sales that you're expecting in 2021. 
+asr:0: OUTPUT 4393.79-4400.52: Would you expect that mix of in-store sales to increase from 2020? And if so, what are. 
+asr:0: OUTPUT 4400.64-4401.72: What do you expect someone to do? 
+asr:0: OUTPUT 4401.80-4406.11: Channel shift headwinds is it just because of freight rate increases. 
+asr:0: OUTPUT 4408.21-4414.57: There's a natural pivot back to stores. It's been such an exceptional year. 
+asr:0: OUTPUT 4415.50-4420.00: We think that the digital penetration will continue to be strong. 
+asr:0: OUTPUT 4420.60-4427.97: And we have got great offsets for that, including where we were sharing that 36% of all our digital orders were actually fulfilled by. 
+asr:0: OUTPUT 4427.99-4431.81: Stools in the quarter was just incredible agility there. 
+asr:0: OUTPUT 4431.85-4440.22: We're going to be offsetting some of the costs. We see some freight permeating in 2021, but we are factoring in the high digital penetration rate. 
+asr:0: OUTPUT 4443.16-4451.69: Thank you very much. 
+asr:0: OUTPUT 4451.73-4454.19: I'll call back over to Janet Barth for closing remarks. 
+asr:0: OUTPUT 4456.62-4459.78: Thank you. And thank you all for participating in our call today. 
+asr:0: OUTPUT 4460.20-4463.24: Please feel free to contact me or Felix with any additional questions. 
+asr:0: OUTPUT 4463.62-4470.89: Have a great day and stay safe. 
+asr:0: END

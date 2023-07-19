@@ -1,0 +1,816 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.28-8.03: Good morning and welcome to the first quarter 2020 General Electric Company earnings conference call. 
+asr:0: OUTPUT 8.53-13.83: My name is Brandon and I'll be your operator for today. At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 14.23-19.08: Later, we will conduct a question and answer session, during which you can dial star 1 if you have a question. 
+asr:0: OUTPUT 19.70-27.27: Please note this conference is being recorded and I will now turn it over to Steve Winokur, Vice President of Investor Communications. You may begin, sir. 
+asr:0: OUTPUT 30.65-35.42: Thanks, Brandon. Good morning and welcome to GE's first quarter 2020 earnings call. 
+asr:0: OUTPUT 35.80-40.84: I'm joined by our chairman and CEO, Larry Culp and CFO, Carolina Dada-Capa. 
+asr:0: OUTPUT 41.34-46.77: Before we start, I'd like to remind you that the press release and presentation are available on our website. 
+asr:0: OUTPUT 47.23-53.95: Note that some of the statements we're making are forward-looking and are based on our best view of the world and our businesses as we see them today. 
+asr:0: OUTPUT 54.37-61.98: As described in our SEC filings and on our website. Those elements can change as the world changes. With that, I'll hand the call over to Larry. 
+asr:0: OUTPUT 65.25-74.21: Steve, thanks. Good morning, everyone. We hope you and your families are healthy and safe. Our thoughts are with all of those affected by this global pandemic. 
+asr:0: OUTPUT 74.69-79.22: We recognize this is a very difficult and challenging time for everyone. 
+asr:0: OUTPUT 80.50-85.67: On behalf of GE, I want to express our gratitude to those on the front lines in the medical community. 
+asr:0: OUTPUT 86.25-92.27: Many of whom were privileged to call our customers, working tirelessly to protect all of us. 
+asr:0: OUTPUT 93.29-97.54: Thank you. When we last spoke during our Outlook call in March,. 
+asr:0: OUTPUT 97.56-104.04: We were encouraged by the continued strength in aviation and healthcare and the progress made in power and renewables. 
+asr:0: OUTPUT 104.70-108.01: In the eight-week sense, the world has fundamentally changed. 
+asr:0: OUTPUT 109.71-115.30: As we all know, the COVID-19 pandemic evolved rapidly, hitting hard and hitting fast. 
+asr:0: OUTPUT 116.40-126.39: While this is an earnings call, our goal today is to provide you with the most current and relevant information we have. And as always, to be as open and transparent as we possibly can. 
+asr:0: OUTPUT 127.27-129.75: So forgive us if we run a little long today. 
+asr:0: OUTPUT 130.83-138.90: The COVID-19 dynamics at GE, like the economy at large, are fluid and still evolving, but clearly challenging in the near term. 
+asr:0: OUTPUT 140.70-147.41: With that, I'll start with our response to COVID-19. Carolina, who is joining our earnings call for the first time, will cover the financials. 
+asr:0: OUTPUT 147.43-151.13: Then I'll wrap with a more in-depth view of our current operations. 
+asr:0: OUTPUT 152.31-156.36: Moving to slide two, during this unprecedented time, we're focused on three areas. 
+asr:0: OUTPUT 157.26-160.62: First, the health and safety of our employees and our communities. 
+asr:0: OUTPUT 161.34-163.84: We established a COVID-19 task force. 
+asr:0: OUTPUT 163.86-173.09: That is working to ensure we're doing everything in our ability to protect the health and safety and aligning with various government directives and medical advisories in real time. 
+asr:0: OUTPUT 174.39-182.06: To that end, we've encouraged those employees who are not directly performing customer-facing essential jobs to work from home wherever possible. 
+asr:0: OUTPUT 183.74-187.69: But given the mission critical work we do at GE, not everyone can stay home. 
+asr:0: OUTPUT 188.57-198.00: I'd like to acknowledge our employees out in the field and in our factories for their unwavering dedication as they continue to deliver for our customers. 
+asr:0: OUTPUT 198.02-204.44: Supporting essential services like hospitals, power generation, airlines, and national defense. 
+asr:0: OUTPUT 205.81-209.11: Or ensuring they have what they need to do their job safely. 
+asr:0: OUTPUT 209.61-218.56: This includes temperature screenings, face coverings and gloves as necessary, and physical distancing, all keeping with national, state, and local guidelines. 
+asr:0: OUTPUT 220.02-224.02: I'm also inspired by the support that our employees have shown each other. 
+asr:0: OUTPUT 224.70-227.31: We recently established an employee relief fund. 
+asr:0: OUTPUT 227.33-234.93: And more than 75 senior leaders across GE have contributed portions of their salary to support those affected by this crisis. 
+asr:0: OUTPUT 236.92-239.64: Our second priority is continuing to serve our customers. 
+asr:0: OUTPUT 240.00-245.95: In healthcare, we're ramping production of critical medical equipment used to diagnose and treat COVID-19 patients. 
+asr:0: OUTPUT 245.97-253.61: Including respiratory CT monitoring solutions, x-ray anesthesia, and point-of-care ultrasound product lines. 
+asr:0: OUTPUT 254.83-259.72: Already our team has doubled production of ventilators and plans to double again by the end of June. 
+asr:0: OUTPUT 261.20-266.29: Healthcare's digital and AI solutions are helping hospitals remotely monitor multiple patients. 
+asr:0: OUTPUT 267.25-274.11: At once and automate rote tasks so clinicians can spend more of their precious time focused on life-saving work. 
+asr:0: OUTPUT 275.58-284.70: Across all of our businesses, we're in constant communication with employees, customers, suppliers, and governments to maintain business continuity without disruption. 
+asr:0: OUTPUT 286.53-295.40: Our third priority is preserving our strength. First and foremost, sound liquidity is crucial, and solidifying our balance sheet remains a key focus. 
+asr:0: OUTPUT 296.46-301.74: With the recent closing of the BioPharma transaction, we've received $20 billion of net proceeds. 
+asr:0: OUTPUT 303.16-307.67: This provides GE with optionality to protect our company and remain flexible. 
+asr:0: OUTPUT 308.53-315.96: And importantly, we retained a $17 billion leading healthcare business at the center of an ecosystem striving for precision health. 
+asr:0: OUTPUT 317.90-327.71: Preserving our strength in a time like this also requires a different operating model. Here I draw on my experience as a CEO managing through 9-11 and the global financial crisis. 
+asr:0: OUTPUT 329.13-339.06: There are three steps in this model. Embrace reality, redefine winning, and execute the plan. Easy to say, hard to do. 
+asr:0: OUTPUT 341.02-347.27: Starting with embrace reality. This is necessary in a time like this when so much has changed and remains uncertain. 
+asr:0: OUTPUT 347.73-353.81: For us, it means recognizing that we're facing significant headwinds in aviation, and we may be for a while. 
+asr:0: OUTPUT 354.59-357.54: We wish it were otherwise, but that's not our reality. 
+asr:0: OUTPUT 358.94-366.83: Next, redefine winning. We came into 2020 with a plan that defined winning as profitable growth, margin expansion, and cash generation. 
+asr:0: OUTPUT 367.69-372.25: Now we need to adjust to the altered environment to focus and inspire our team. 
+asr:0: OUTPUT 373.33-380.52: Let me share some ways we're doing this. While safety has always been a top priority for GE, COVID-19 has reshaped our safety agenda. 
+asr:0: OUTPUT 381.30-388.39: In terms of our financial priorities, improving our cash generation and decremental margins in the second half are key focus areas. 
+asr:0: OUTPUT 388.81-395.86: And in healthcare, we clearly didn't come into the year expecting to increase our ventilator production fourfold, but we will. 
+asr:0: OUTPUT 397.02-398.98: And finally, execute the plan. 
+asr:0: OUTPUT 399.00-408.19: We're moving with speed, discipline, and intensity to improve our cost structure, targeting more than $2 billion of cost actions and more than $3 billion of cash actions. 
+asr:0: OUTPUT 409.33-411.27: And this is where lean is particularly relevant. 
+asr:0: OUTPUT 411.31-420.28: From daily management to traditional Kanban systems which help reset inventory levels to do problem solving tools we're rolling out across GE. 
+asr:0: OUTPUT 421.42-423.76: Let me share a recent example from gas power. 
+asr:0: OUTPUT 424.56-431.27: In our Greenville facility, the team used lean to cut the distance that a single part travels during production from three miles. 
+asr:0: OUTPUT 431.29-435.06: Yes, three miles to a mere 165 feet. 
+asr:0: OUTPUT 435.28-439.04: Flashing the time it took to make that part by 42%. 
+asr:0: OUTPUT 439.84-444.36: These are the sort of operational efficiencies that are more essential than ever in this environment. 
+asr:0: OUTPUT 445.53-452.77: So that's our approach here. We're facing the pandemic head on while continuing to execute our long-term strategy for GE. 
+asr:0: OUTPUT 454.29-462.36: Moving to slide three, you'll find a snapshot of our first quarter results, and Carolina will take you through this in detail, but first a few top line thoughts. 
+asr:0: OUTPUT 463.62-471.09: As I noted, we entered the year with momentum. However, as COVID-19 continued to spread globally, and I'm not going to sugar coat this,. 
+asr:0: OUTPUT 471.65-476.42: We got hit hard in some of our highest margin parts of our best performing businesses. 
+asr:0: OUTPUT 477.42-479.62: This is especially true at aviation services. 
+asr:0: OUTPUT 479.98-487.93: Where COVID-19 caused a rapid decline in commercial aviation demand and even essential travel became difficult in the second half of March. 
+asr:0: OUTPUT 489.31-497.08: A similar situation also transpired at power services, where travel restrictions caused by COVID-19 impacted our field personnel. 
+asr:0: OUTPUT 498.12-503.18: And across all of our businesses, we started to see some project fulfillment and execution issues. 
+asr:0: OUTPUT 504.74-510.65: At the same time, healthcare performed well due to urgent demand for our products used in the fight against COVID-19. 
+asr:0: OUTPUT 512.51-519.88: Taking a step back, about 80% of our roughly $400 billion backlog is in services, which have a long time horizon. 
+asr:0: OUTPUT 520.56-525.61: And while services have been hurt in the near term, those capabilities remain one of our greatest strengths. 
+asr:0: OUTPUT 526.11-532.51: They keep us close to our customers with deep strategic relationships, especially through periods of volatility. 
+asr:0: OUTPUT 534.25-543.02: So in the spirit of embracing reality, let me frame for you what we're seeing right now at a high level, and then I'll do a deeper dive after Carolina reviews the first quarter. 
+asr:0: OUTPUT 543.92-552.29: In aviation and at GCAS, airlines are conserving cash, not flying the planes they have, limiting maintenance spend where they can. 
+asr:0: OUTPUT 552.31-554.75: And all the while deferring orders in many places. 
+asr:0: OUTPUT 555.46-562.16: No one can predict when and how leisure and business travel will resume, but the reality is likely it's not soon. 
+asr:0: OUTPUT 563.54-572.95: So we're redefining winning from margin expansion in 2020 to improving our decremental margins this year, which requires we aggressively adjust our cost structure. 
+asr:0: OUTPUT 573.49-577.46: That's what winning looks like for aviation and they're moving forward with a comprehensive plan. 
+asr:0: OUTPUT 577.96-582.92: To be clear, we'll get back to targeting those 20% operating margins post-pandemic. 
+asr:0: OUTPUT 584.18-589.47: In healthcare, we've been on the front lines combating COVID-19 since the early days in Wuhan. 
+asr:0: OUTPUT 590.77-592.71: This is fundamental to our mission. 
+asr:0: OUTPUT 593.61-602.90: While we've seen demand surge for certain products, other products, including those in our high margin pharmaceutical diagnostics business, have been negatively impacted. 
+asr:0: OUTPUT 602.92-605.73: As multiple procedures are deferred. 
+asr:0: OUTPUT 606.77-613.61: Healthcare is likely to rebound faster than aviation, but we're still fast-tracking additional cost-out actions. 
+asr:0: OUTPUT 614.59-619.68: Targeting an incremental $700 million since Karen and the team spoke with you in December. 
+asr:0: OUTPUT 621.14-625.87: And power and renewable energy, the impact of COVID-19 has been more limited to date. 
+asr:0: OUTPUT 626.55-634.47: Specifically at power, we're experiencing outage delays and restrictions in field service travel, and we're monitoring new unit orders and services. 
+asr:0: OUTPUT 635.56-644.26: To offset this, we're further right-sizing the cost structure. And in power, we already reduced headcount by 700 in the first quarter. 
+asr:0: OUTPUT 646.23-650.41: Now clearly across GE there are a number of large variables that are unknown at this point. 
+asr:0: OUTPUT 650.73-658.22: Including the full duration, magnitude, and pace of recovery across our end markets, operations, and supply chains. 
+asr:0: OUTPUT 659.10-665.47: We're also monitoring how the resulting interest rate environment will impact pension obligations and our runoff insurance business. 
+asr:0: OUTPUT 667.71-669.31: So let me tell you what we do know. 
+asr:0: OUTPUT 669.71-679.54: The second quarter will be the first full quarter with pressure from COVID-19, and we expect that our financial results will decline sequentially before they improve later this year. 
+asr:0: OUTPUT 680.76-685.49: The bottom line is we have some challenging times ahead, but this too shall pass. 
+asr:0: OUTPUT 686.13-695.72: I'm confident the underlying reset we took over the last 18 months to focus GE's portfolio and instill a greater focus on customers and lead. 
+asr:0: OUTPUT 695.74-698.94: Give us a running start for what we face today. 
+asr:0: OUTPUT 700.34-707.01: Moreover, I see in our response to COVID-19 signs of how we're moving faster to change GE for the good. 
+asr:0: OUTPUT 707.37-712.49: More lean work to help reduce inventories in the face of demand challenges in aviation. 
+asr:0: OUTPUT 713.13-718.48: Travel restrictions spurring on the use of remote digital technology to complete fieldwork and renewables. 
+asr:0: OUTPUT 719.06-721.46: And more capital discipline across the board. 
+asr:0: OUTPUT 722.32-727.13: With new leaders assimilating faster and with real impact, healthcare comes to mind. 
+asr:0: OUTPUT 728.57-734.49: So all of this in combination with the planned actions we'll discuss later are accelerating our transformation of GE. 
+asr:0: OUTPUT 735.64-741.70: With that, I'll turn it over to Carolina. But before I do, let me say how pleased I am to have her on board. In two short months,. 
+asr:0: OUTPUT 742.04-749.87: It's clear we share the same perspectives of embracing reality and operational bias reaction and executing with speed. 
+asr:0: OUTPUT 753.27-760.38: Thank you, Larry. I'm proud to join my first earnings call as CFO of GE and help lead this company and team forward. 
+asr:0: OUTPUT 761.30-765.87: As you noted, we're operating in unprecedented times. Have you focused on? 
+asr:0: OUTPUT 766.41-774.59: First, keeping our financial position strong and safe with a keen eye on leverage and liquidity, as well as cash flow and capital discipline. 
+asr:0: OUTPUT 775.58-781.92: While GeneAid's actions over the last couple of years have put us on stronger footing ahead of this situation, we will do more. 
+asr:0: OUTPUT 783.08-786.09: Second, working with our businesses to take the right action. 
+asr:0: OUTPUT 786.41-794.17: Not only to help mitigate the impact of COVID-19, but to serve customers better, operate smarter and more efficiently. 
+asr:0: OUTPUT 794.19-796.14: An integrated life more holistically. 
+asr:0: OUTPUT 797.60-801.38: While Larry and I are focused on the near term, we're also managing for the long term. 
+asr:0: OUTPUT 801.76-808.95: We're working together to reduce complexity at GE and build a new culture that delivers sustainable earning and cash flow generation. 
+asr:0: OUTPUT 810.79-820.26: Today, my intention is to take you through our results in detail and provide context that help you see what I see across the businesses. With that, let's turn to slide four. 
+asr:0: OUTPUT 822.34-826.33: This was a challenging quarter for us as the macro environment rapidly deteriorated. 
+asr:0: OUTPUT 827.35-833.65: Taking it from the top. First quarter orders were down 3% organically or down 4% ex biopharma. 
+asr:0: OUTPUT 834.45-839.36: Growth in power and healthcare was offset by double-digit declines in aviation and renewables. 
+asr:0: OUTPUT 840.10-845.29: Both equipment and service orders were down low single digits. I'll cover this by business shortly. 
+asr:0: OUTPUT 846.33-855.07: Industrial revenue was down 5% organically, or down 6% ex biopharma, with equipment revenue flat and services down 9%. 
+asr:0: OUTPUT 855.64-860.36: Both aviation and power services were adversely impacted in the quarter due to COVID-19. 
+asr:0: OUTPUT 861.90-866.33: Adjusted industrial profit margins were down 450 basis points organically. 
+asr:0: OUTPUT 867.07-872.69: Most of the dilution came from aviation and renewables, with the aviation impact mostly driven by COVID-19. 
+asr:0: OUTPUT 874.63-879.54: Now let's discuss the EPS work, starting at continuing EPS of 72 cents. 
+asr:0: OUTPUT 880.80-891.59: There was a 75 cent gain primarily related to the $11.5 billion of the tax gain from the biopharmacy, which also included one cent of tax benefit in G-Capital. 
+asr:0: OUTPUT 892.67-900.94: This was partially offset by a 4.6 billion after tax loss on our remaining Baker Hughes stake, which we measure at fair value each quarter. 
+asr:0: OUTPUT 902.26-909.81: On restructuring and other items, we incurred two cents of charges. This is principally related to the reduction of aviation's US workforce. 
+asr:0: OUTPUT 911.35-919.98: Lastly, non-operating pension and other benefit plans were a six cent headwind in the quarter. Excluding these items, adjusted EPS was five cents. 
+asr:0: OUTPUT 921.66-927.07: As described earlier, our earnings performance was materially impacted by COVID-19 and other market dynamics. 
+asr:0: OUTPUT 927.71-935.28: This was primarily in aviation and geocaching with negative marks and impairments in both GCAS and insurance as well as higher credit costs. 
+asr:0: OUTPUT 936.74-942.70: We estimate the first quarter industrial operating profit impact from COVID-19 roughly 700 million. 
+asr:0: OUTPUT 943.70-948.79: Drivers included lower aftermarket sales, project delays, and supply chain constraints. 
+asr:0: OUTPUT 950.35-957.02: This impact is higher than anticipated at the March Outlook call, reflecting the rapid global progression of the pandemic. 
+asr:0: OUTPUT 957.56-961.06: But our prior forecast largely reflected the slowdown in China. 
+asr:0: OUTPUT 962.48-968.09: Our focus on addressing this pandemic is global. We're targeting more than two billion of cost out this year. 
+asr:0: OUTPUT 968.89-977.16: While this may not affect the full impact, we're rapidly addressing both cost and cash and making our businesses more agile and customer focused over time. 
+asr:0: OUTPUT 978.06-988.03: I can tell you from my experience that as these programs build momentum and the company leaders begin to see how powerful results can be, they tend to extend beyond their stated goals. 
+asr:0: OUTPUT 988.93-993.85: So just what I have seen so far, I'm encouraged that we can have some of that same experience achieved. 
+asr:0: OUTPUT 995.92-1001.22: Moving to cash. As many of you know, the first quarter is typically low for our free cash flow. 
+asr:0: OUTPUT 1002.30-1007.33: This year we're impacted by our usual seasonality, but also COVID-19, especially in aviation. 
+asr:0: OUTPUT 1008.11-1013.07: Industrial free cash flow was a use of 2.2 billion, one billion worse than prior year. 
+asr:0: OUTPUT 1013.67-1019.44: But notably, excluding aviation, each industrial business improved free cash flow versus last year. 
+asr:0: OUTPUT 1020.84-1022.70: Turning to the key drivers in the quarter. 
+asr:0: OUTPUT 1024.56-1025.95: Starting with net earning. 
+asr:0: OUTPUT 1026.09-1034.75: If you exclude the biopharmagen and the mark to market on our baking shoes investment, income depreciation and amortization total 700 million. 
+asr:0: OUTPUT 1035.22-1037.40: That's down 900 million versus prior year. 
+asr:0: OUTPUT 1038.70-1047.23: Next, working capital, negative 2.6 billion. And significant use of cash, down 1.1 billion. Let me take you through the main factors. 
+asr:0: OUTPUT 1048.03-1054.29: First, we had a net inflow in the country of Zimbabwe driven by a seasonally lower volume in gas power and renewables. 
+asr:0: OUTPUT 1055.10-1058.10: Second, we had an outflow in account variable. 
+asr:0: OUTPUT 1058.12-1065.41: Driven by lower volume in aviation and higher disbursements related to priory and material buys in renewables. Third,. 
+asr:0: OUTPUT 1066.49-1074.17: We increased inventory to support an expected second and third quarter volume ramp in onshore wind and shop output declined in aviation. 
+asr:0: OUTPUT 1075.08-1084.64: Fourth, progress collections. They were a use of cash as new orders and milestone payments were more than a fetch by burn down of prior progress payments in power and renewable. 
+asr:0: OUTPUT 1086.35-1094.49: Lastly, we also spent about 600 million in gross CapEx. We're on track now to reduce 25% of our CapEx spend this year. 
+asr:0: OUTPUT 1095.68-1103.56: For cash flow in total, we estimate the first quarter impact from COVID-19 was around 1 billion, the majority of which was felt in aviation. 
+asr:0: OUTPUT 1105.03-1112.13: As we look forward, we expect continued free cash flow pressure. We're targeting more than three billion in cash action. 
+asr:0: OUTPUT 1112.79-1118.02: However, over time, we know that each business can be a better cash generator as we improve execution. 
+asr:0: OUTPUT 1120.36-1124.36: Moving to slide 6, we continue to strengthen our balance sheet. 
+asr:0: OUTPUT 1125.31-1127.99: Largest milestone in the quarter was closing biopharma. 
+asr:0: OUTPUT 1128.75-1136.78: With 20 billion of percent, we ended the quarter with 33.8 billion of industrial cash, up approximately 16 billion sequentially. 
+asr:0: OUTPUT 1138.50-1145.99: The capital ended with 13.5 billion of cash, down approximately 5.3 billion sequentially, driven by contractual maturities. 
+asr:0: OUTPUT 1146.73-1151.03: We continue to hold a liquidity balance covering 12 months of G-debt maturities. 
+asr:0: OUTPUT 1152.95-1157.24: We've recently taken action to enhance and extend our liquidity and pay down debt. 
+asr:0: OUTPUT 1158.80-1164.68: On April 17th, GE entered into a three-year, 15 billion syndicated revolving credit facility. 
+asr:0: OUTPUT 1165.55-1170.97: This was the planned refinancing of GS's prior $20 billion syndicated revolver credit facility. 
+asr:0: OUTPUT 1171.81-1178.02: Including bilateral agreements, we expect to have in the range of 20 billion in total credit line access going forward. 
+asr:0: OUTPUT 1179.22-1183.20: Following the sale of Biopharma, we also improved our liquidity profile in April. 
+asr:0: OUTPUT 1184.10-1192.15: We reduced our near-term death maturity by issuing 6 billion NGE deaths in April and subsequently tendering for 4.2 billion of deaths. 
+asr:0: OUTPUT 1193.13-1200.22: We plan to use the remaining 1.8 billion of proceeds to further debt reduction. And the combination of transactions will therefore be leveraged neutral. 
+asr:0: OUTPUT 1201.22-1206.05: Following this, GE Industrial has no debt maturities in 2021. 
+asr:0: OUTPUT 1206.07-1211.89: 1.9 billion of maturities in 2022 and 900 million in 2023. 
+asr:0: OUTPUT 1213.59-1216.98: At GE Industrial we reduced debt by approximately 7 billion. 
+asr:0: OUTPUT 1217.28-1221.30: We reduced commercial paper use by 1.1 billion in the quarter. 
+asr:0: OUTPUT 1221.32-1227.65: And we paid six billion of the intercompany loans from GE to GE Capital in April using proceeds from Biopharma. 
+asr:0: OUTPUT 1229.47-1232.55: At G-Capital, we reduced debt by $4 billion. 
+asr:0: OUTPUT 1232.93-1239.20: So we reduced external deaths by 10 billion year-to-date, including 4.7 billion of maturities in the quarter. 
+asr:0: OUTPUT 1239.22-1244.50: And an additional 5.4 billion of 2020 maturities, standard in APRIL. 
+asr:0: OUTPUT 1245.45-1248.83: Offset by GIs 6 billion retailers, and the campaign is not long. 
+asr:0: OUTPUT 1250.35-1252.13: Our financial policy goals remain. 
+asr:0: OUTPUT 1253.11-1254.79: Maintaining a high cash balance. 
+asr:0: OUTPUT 1255.66-1263.96: Achieving less than 2.5 times net debt to EBITDA at GE Industrial and less than four times debt to equity at GE Capital. 
+asr:0: OUTPUT 1265.25-1271.33: A credit rating in the single A range, and reinstating a dividend in line with peers over time. 
+asr:0: OUTPUT 1272.55-1280.78: We remain committed to achieving our leverage targets, but we now expect to achieve those targets over a longer period than previously enough due to the impact of COVID-19. 
+asr:0: OUTPUT 1283.14-1286.27: Next, on slide seven, we'll discuss industrial segments results. 
+asr:0: OUTPUT 1288.25-1293.53: Starting with aviation. As we've noted, our first quarter results were materially impacted. 
+asr:0: OUTPUT 1293.95-1298.58: Orders were done 13% organically with both equipment and service orders found. 
+asr:0: OUTPUT 1299.44-1307.05: Equipment orders were down 27%, primarily driven by commercial engines business due to the max grounding and the COVID impact. 
+asr:0: OUTPUT 1309.27-1318.92: Services orders were down 4%, primarily driven by commercial services, partially offset by military, which won you fighter and helicopter service orders from the US DOD. 
+asr:0: OUTPUT 1319.74-1324.66: Service orders were stronger than revenues due to the military orders, which were up 60% year over year. 
+asr:0: OUTPUT 1326.29-1335.48: Backlog of 273 billion was flat sequentially and up 22% versus prior year, primarily driven by long-term service agreement. 
+asr:0: OUTPUT 1336.22-1340.44: This included roughly 200 LEAP 1B unit order cancellations in the quarter. 
+asr:0: OUTPUT 1342.04-1344.40: Revenue was down 11% organically. 
+asr:0: OUTPUT 1345.15-1354.43: Equipment revenue was down 17%. We shipped 472 commercial, installed and spare engine units this quarter, down 37 versus prior year. 
+asr:0: OUTPUT 1355.44-1364.00: Of 272 DIT 1A and 1B units were down 152. And CFM 56 units were down 98 units. 
+asr:0: OUTPUT 1365.93-1370.45: Service revenue was down 8% due to commercial services down 11%. 
+asr:0: OUTPUT 1371.73-1377.28: This was driven by lower spare parts shipments and lower shop visits from the impact of COVID-19. 
+asr:0: OUTPUT 1378.30-1384.24: Total military revenue was down 7%, with 146 engine unit shipments down 9%. 
+asr:0: OUTPUT 1384.88-1391.75: And this was driven by supply chain fulfillment dynamics and inbound material is partly offset by the advanced programs growth. 
+asr:0: OUTPUT 1393.09-1402.10: Operating profit was down 39% organically, primarily on lower volume and negative mixed pressure in commercial services from the impact of COVID-19. 
+asr:0: OUTPUT 1402.20-1404.28: And lower spare engine units. 
+asr:0: OUTPUT 1406.03-1415.94: Segment margin contracted 650 basis points organically. This was primarily due to COVID-19 impacting our commercial businesses in both engines and services. 
+asr:0: OUTPUT 1417.08-1419.70: The continued 737 MAX grounding. 
+asr:0: OUTPUT 1420.50-1429.65: The non-repeat of prior year favorable contract adjustments, and the first full quarter of revenue from our Arrow derivatives business now that we have deconsolidated Baker Hughes. 
+asr:0: OUTPUT 1430.97-1436.64: Let's add a bit more color. COVID-19 represents just over half of the year-over-year margin difference. 
+asr:0: OUTPUT 1437.56-1445.57: 737 max timing, considering install and spare engine volumes and supply chain excess costs represent additional 20% of the volume. 
+asr:0: OUTPUT 1448.03-1457.02: Moving to healthcare, which performed well. Orders were up 9% organically. Equipment orders were up 14% and services were up one. 
+asr:0: OUTPUT 1457.80-1463.08: Healthcare orders excluding via pharma were up 6%, driven by a surge demand related to COVID-19. 
+asr:0: OUTPUT 1463.86-1469.65: This was partially offset by delays in procurement and lower demand of products less related to COVID-19. 
+asr:0: OUTPUT 1470.33-1477.74: Examples like MR and intervention in healthcare systems, as well as contrast media and nuclear tracers in pharmaceutical diagnostics. 
+asr:0: OUTPUT 1478.82-1480.82: Life Sciences orders were up 10%. 
+asr:0: OUTPUT 1481.98-1489.21: Backlog was $17.4 billion, down 6% sequentially, and down 3% prior year due to the sale of Viona. 
+asr:0: OUTPUT 1489.91-1494.29: So excluding biopharma, Baclo was up 1% sequentially and 4% versus prior year. 
+asr:0: OUTPUT 1495.24-1499.62: Revenue was up 2% organically and 1% excluding biopharma. 
+asr:0: OUTPUT 1500.88-1508.35: Healthcare systems revenue was up 2% with services and 3% with equipment flat. Life sciences was up 4%. 
+asr:0: OUTPUT 1509.33-1518.32: Operating profit was up 10% organically. Segment margin expanded 140 basis points organically, or 30 basis points excluding biopharma. 
+asr:0: OUTPUT 1519.10-1524.96: This was driven by volume and cost productivity, offset by price and logistics pressures from COVID-19. 
+asr:0: OUTPUT 1526.81-1532.65: Next, on power, we had mixed results with equipment, top line strength, offset by challenges in service. 
+asr:0: OUTPUT 1533.95-1536.30: Orders were up 14% organically. 
+asr:0: OUTPUT 1536.96-1543.56: Gas power orders were up 8%, with equipment orders up 37%, largely due to one turnkey order. 
+asr:0: OUTPUT 1544.06-1547.29: We booked 2.2 gigawatt of orders for nine gas turbines. 
+asr:0: OUTPUT 1548.93-1555.24: Gas power service orders were down 3% with contractual services down and transaction upgrades roughly flat. 
+asr:0: OUTPUT 1556.38-1562.14: Power portfolio orders were up 27% with strong equipment and services orders in steel and power conversion. 
+asr:0: OUTPUT 1563.40-1572.17: Backlog close at 85 billion, flat sequentially and down 1% versus prior year. Gas backlog was 71 billion, flat sequentially. 
+asr:0: OUTPUT 1573.15-1577.14: Revenue was down 12% organically, largely driven by services. 
+asr:0: OUTPUT 1578.10-1580.58: In gas power, revenue was down 12%. 
+asr:0: OUTPUT 1581.72-1587.01: Gas power equipment revenue was up 4% organically on higher H turbine mix. 
+asr:0: OUTPUT 1587.37-1593.41: We shipped nine gas turbines versus, sorry, we shipped seven gas turbines versus nine gas turbines in the first quarter of 19. 
+asr:0: OUTPUT 1594.09-1602.10: We helped our customers achieve commercial operations on over 32 units, translating to almost 4.7 gigawatts of new power added to the grid. 
+asr:0: OUTPUT 1603.88-1607.33: That's power services revenue was down 19% scavenging. 
+asr:0: OUTPUT 1607.83-1615.58: As outages and transactional sales pushed out of the quarter due to COVID-19. And we had lower revenue on higher margin upgrades. 
+asr:0: OUTPUT 1616.30-1619.32: Despite this, services would still have been down in the quarter. 
+asr:0: OUTPUT 1619.92-1626.97: This was driven by supply-based constraints on hot gas, part parts, and outage costs overall, pressuring our CSA margin rates. 
+asr:0: OUTPUT 1628.43-1634.47: Power portfolio revenue was down 12%. This was driven by lower volumes across the subsegments. 
+asr:0: OUTPUT 1634.87-1639.18: In steam, we had lower services, back low convertibility. 
+asr:0: OUTPUT 1639.20-1646.25: The decline was driven by outage timing, and in power conversion, we refined our sales parameter, focused on higher margin market segments. 
+asr:0: OUTPUT 1647.83-1655.12: Operating profit was down 239 million and segment margin contracted 570 basis points organically. 
+asr:0: OUTPUT 1656.30-1666.59: While gas power fixed costs were down 9% sequentially and 16% versus prior year, this was more than offset by lower service volume and additional costs from COVID-19 disruption. 
+asr:0: OUTPUT 1668.53-1675.90: Next are renewables. Continued revenue growth was more than offset by fulfillment and execution issues impacting profitability. 
+asr:0: OUTPUT 1677.50-1686.19: Orders were down 11% organically. Equipment were down 11% as we cycle a stronger US PTC. And services were down 23%. 
+asr:0: OUTPUT 1686.69-1690.95: A positive spot in the quarter was international orders, which were up 11%. 
+asr:0: OUTPUT 1692.59-1699.12: Backlog of 26.5 billion, 4% sequentially, but up 5% versus prior year. 
+asr:0: OUTPUT 1700.50-1706.59: Revenue was up 28% organically. This was mainly driven by onshore wind, up 60%. 
+asr:0: OUTPUT 1707.89-1714.11: Onshore equipment revenue was up 81% with the new unit turbine deliveries of 731. 
+asr:0: OUTPUT 1714.13-1719.44: More than double prior year, and repower kit delivers of 219, up 40%. 
+asr:0: OUTPUT 1720.74-1724.40: Onshore services revenue, excluding the power kits, was up 15%. 
+asr:0: OUTPUT 1726.05-1730.73: Onshore order pricing index continues to stabilize at 1% in line with years in trend. 
+asr:0: OUTPUT 1732.21-1741.88: Grid revenue was down 8% mostly due to site closures and delayed milestones driven by COVID-19. Operating loss was down 115 million. 
+asr:0: OUTPUT 1743.12-1753.15: This was driven by the supply chain disruptions due to COVID-19, fulfilment delays and the non-recurrence of the non-cash gain from an offshore wind contract termination in the prior year. 
+asr:0: OUTPUT 1753.87-1756.76: This was partially affected by higher onshore wind volume. 
+asr:0: OUTPUT 1758.22-1768.07: Segment margin contracted to 110 basis points, mainly driven by the same items mentioned above, and the range of execution issues we're fixing at grid and hydro. 
+asr:0: OUTPUT 1770.51-1779.98: Moving to slide eight, starting with GE Capital. In the quarter, adjusted continue operations generated a net loss of $118 million. 
+asr:0: OUTPUT 1780.76-1787.89: This excludes the impact of the capital loss tax benefit utilized against biopharma gain, resulting in 88 million earnings. 
+asr:0: OUTPUT 1789.25-1797.50: Compared to prior year, which excludes the US tax reform benefit, continuing net earnings was unfavorable by 154 million. 
+asr:0: OUTPUT 1798.38-1805.25: This was due to negative marks and impairments at GCAS and insurance, lower gains and lower earnings from a smaller asset base. 
+asr:0: OUTPUT 1806.13-1809.45: This was partially offset by lower excess interest costs and SG&A. 
+asr:0: OUTPUT 1810.69-1814.73: We ended the quarter with 101 billion of assets, excluding liquidity. 
+asr:0: OUTPUT 1815.68-1823.56: This was done 1 billion sequentially, primarily driven by G-Cask due to asset sales, depreciation and collections, partially offset by new volume. 
+asr:0: OUTPUT 1824.44-1831.81: Insurance assets were flat sequentially as a decrease in unrealized gains driven primarily by higher market rates was offset. 
+asr:0: OUTPUT 1831.83-1835.12: But the annual insurance capital contribution. 
+asr:0: OUTPUT 1836.48-1840.98: Supply chain finance assets were down as our suppliers continued to migrate to AMUFG. 
+asr:0: OUTPUT 1842.10-1846.95: As noted earlier, capital ended the quarter with $13.5 billion of liquidity. 
+asr:0: OUTPUT 1847.95-1855.60: Capital also ended with $54.5 billion of debt, which was down $4.5 billion sequentially, driven by debt maturity. 
+asr:0: OUTPUT 1857.38-1864.40: These continued operations generated a net loss of 164 million, which was unfavorable versus prior year by 200 million. 
+asr:0: OUTPUT 1865.63-1870.51: We still plan to provide the required support to GE Capital in line with insurance statutory funding. 
+asr:0: OUTPUT 1872.37-1877.02: Next, just like our businesses, corporate needs to adjust to our new realities. 
+asr:0: OUTPUT 1877.04-1883.06: And we are continuing to take additional structural actions to rationalize costs and reduce the size at corporate. 
+asr:0: OUTPUT 1884.38-1888.75: Looking at the quarter, adjusted corporate costs were 374 million. 
+asr:0: OUTPUT 1889.49-1898.50: 8% higher, but that's primarily due to higher intercompany profit eliminations, which were partially offset by better digital performance from contingent cost reduction actions. 
+asr:0: OUTPUT 1899.64-1905.13: Functions and operations were 25% lower, primarily driven by GE Digital's improvement. 
+asr:0: OUTPUT 1906.09-1910.73: You can see from digital performance that the focused cost reduction programs are gaining traction. 
+asr:0: OUTPUT 1911.77-1917.66: We continue to right-size our functional costs across GE and push more accountability into the division. 
+asr:0: OUTPUT 1919.46-1928.67: Larry and I are conducting cost and cash reviews of each of the businesses with fresh eyes in the current environment. So you can expect that there will be more to come. Stay tuned. 
+asr:0: OUTPUT 1930.75-1935.34: I have spent most of my career in leadership at lean, decentralized companies. 
+asr:0: OUTPUT 1936.56-1943.30: Fundamentally, I believe companies outperform when they have a structure that empowers businesses to take the right actions quickly. 
+asr:0: OUTPUT 1944.18-1949.27: This type of structure is critical to respond to situations like we have today with COVID-19. 
+asr:0: OUTPUT 1949.83-1958.22: But also to be prepared to pivot to growth. We're working toward this goal and there will be more to come. With that, back to you, Larry. 
+asr:0: OUTPUT 1964.04-1970.21: Carolina, thank you. There's no question that COVID-19 is putting real pressure on our businesses. 
+asr:0: OUTPUT 1971.45-1977.02: Given that so much has changed, and this quarter will be our first full quarter with pressure from COVID-19. 
+asr:0: OUTPUT 1977.56-1983.46: I'd like to spend some time here discussing second quarter trending based on what we're seeing through the month of April. 
+asr:0: OUTPUT 1985.23-1993.81: So starting with aviation on slide nine. Of all of our industrial segments, this business is feeling the impact of the pandemic most severely. 
+asr:0: OUTPUT 1994.65-2003.26: The rapid contraction of air travel has resulted in a significant reduction in demand as commercial airlines suspend routes and ground large percentages of their fleets. 
+asr:0: OUTPUT 2004.72-2012.11: We'll cover commercial services and engines on the next two slides in detail. But on the other end of the spectrum, demand for our military business remains strong. 
+asr:0: OUTPUT 2012.99-2018.20: To that end, we rebalanced some of our capacity to meet this increased demand. 
+asr:0: OUTPUT 2019.76-2028.17: To offset some pressure in the commercial business, we're taking several steps that, while painful, preserve our ability to adapt as the environment continues to evolve. 
+asr:0: OUTPUT 2029.07-2033.99: We've previously announced $500 to $1 billion in costs and cash actions. 
+asr:0: OUTPUT 2034.77-2041.98: And we've now increased this, targeting more than $1 billion in cost actions and more than $2 billion in cash action. 
+asr:0: OUTPUT 2042.84-2049.15: This will be achieved through different initiatives, some of which have been completed, others in flight as we speak. 
+asr:0: OUTPUT 2050.01-2061.24: These include a 10% reduction in aviation's total US workforce and furloughs impacting 50% of its US maintenance, repair, and overhaul facilities and new engine manufacturing. 
+asr:0: OUTPUT 2062.54-2066.73: Will continue to monitor and potentially extend as required. 
+asr:0: OUTPUT 2067.73-2073.41: We're also focused on reducing the discretionary and CapEx spend and optimizing working capital. 
+asr:0: OUTPUT 2075.60-2083.74: I know aviation's decremental margin through this pandemic is top of mind for investors. And Carolina touched on the main dynamics impacting our margins in the quarter. 
+asr:0: OUTPUT 2084.56-2088.85: While we expect our commercial revenues and profits will continue to be down in the second quarter,. 
+asr:0: OUTPUT 2088.89-2095.62: Our expectations are that the cost actions we're undertaking will improve decremental margins in the back half of the year. 
+asr:0: OUTPUT 2096.58-2103.54: While there are many uncertainties, I expect that we will exit the year with a much lower decremental margin than what you saw in the first quarter. 
+asr:0: OUTPUT 2104.22-2108.03: So make no mistake, driving improvement here is our number one focus. 
+asr:0: OUTPUT 2109.77-2117.32: As we think about the full year, we're tracking travel restrictions, carrier and passenger behavior, disease countermeasures, and freight demand. 
+asr:0: OUTPUT 2117.46-2121.64: All of which will impact aircraft departures and revenue passenger kilometers. 
+asr:0: OUTPUT 2122.50-2132.11: While we're seeing an unprecedented decline in 2020, we're taking action and David and the team are working proactively with our customers to navigate through this crisis. 
+asr:0: OUTPUT 2134.73-2141.98: So spending a little bit more time on commercial services, which represented $3.3 billion of revenue in the first quarter, let's go to slide 10. 
+asr:0: OUTPUT 2142.62-2149.47: As you can see on the left side, departures across the full industry were strong in the first quarter before rapidly declining in mid-March. 
+asr:0: OUTPUT 2150.19-2156.88: As we look at it this week, focused on the GE and CFM fleet, global departures are down approximately 75%. 
+asr:0: OUTPUT 2158.02-2161.24: Roughly 60% of the CFM fleet is parked today. 
+asr:0: OUTPUT 2162.80-2166.87: In line with this, we're also seeing significant headwinds in global shop visits. 
+asr:0: OUTPUT 2166.89-2175.12: Which were down low double digits in the first quarter, as airlines defer short-term maintenance, and we expect this trend gets worse before it gets better. 
+asr:0: OUTPUT 2175.32-2180.18: With some potential to moderate in the latter half of the year depending on the variables just outlined. 
+asr:0: OUTPUT 2181.62-2190.81: Based on what we're seeing through the month of April, in the second quarter, we're seeing shop visits down roughly 60% and CSA billings down roughly 50%. 
+asr:0: OUTPUT 2192.39-2198.66: Additionally, we expect this significant reduction in utilization is likely to continue to pressure our CSA margins. 
+asr:0: OUTPUT 2200.06-2204.68: That said, when the aviation industry recovers, and it will recover over time. 
+asr:0: OUTPUT 2204.99-2211.11: GE is well positioned with the largest and youngest install base of all engine manufacturers. 
+asr:0: OUTPUT 2211.85-2218.82: Additionally, roughly 62% of our GECFM fleet has seen one shop visit or less. 
+asr:0: OUTPUT 2219.36-2221.86: And this will generate demand upon recovery. 
+asr:0: OUTPUT 2223.24-2229.47: We have more narrow bodies that are 10 years or younger than the narrow body installed dates of the rest of the industry. 
+asr:0: OUTPUT 2230.49-2235.84: And when we see a pickup in air travel demand, we expect narrowbodies will recover most quickly. 
+asr:0: OUTPUT 2237.44-2247.17: Overall, it was a challenging quarter and we're expecting additional pressure here in the second. But our cost actions will alleviate some of the pressure in the second half of 2020. 
+asr:0: OUTPUT 2248.79-2253.87: Moving to commercial engines, which represented $1.5 billion of revenue in the first quarter. 
+asr:0: OUTPUT 2254.81-2258.04: In light of COVID-19, airframers are producing at a lower rate. 
+asr:0: OUTPUT 2259.00-2268.81: Based on what we're seeing through the month of April. In the second quarter, we see installed engines down roughly 45% and spare engines down roughly 60% year on year. 
+asr:0: OUTPUT 2268.83-2275.46: Attributable to the delivery deferrals in addition to the already planned lower production rate on the 737 maps. 
+asr:0: OUTPUT 2276.42-2281.20: In the near term, we're right-sizing production capacity and actively managing the supply base. 
+asr:0: OUTPUT 2282.82-2288.83: We have very strong relationships with the airframers and an attractive value proposition is evidenced by a multi-year backlog. 
+asr:0: OUTPUT 2289.59-2298.20: As you'll see on the right, we have strong positions, sole source on two of the biggest new engine entrants, and a 65% win rate on the other. 
+asr:0: OUTPUT 2299.16-2307.71: While we acknowledge there's pressure on near-term demand for new aircraft, these stats demonstrate that customers see the value of GE technology. 
+asr:0: OUTPUT 2309.03-2313.07: We're taking the right actions to be well positioned for the post pandemic world. 
+asr:0: OUTPUT 2314.87-2318.30: Moving to healthcare, which consists of healthcare systems and PDX. 
+asr:0: OUTPUT 2319.88-2328.17: In the second quarter to date we are seeing increased demand for vital medical equipment and diagnosis and treatment of COVID-19 within healthcare systems. 
+asr:0: OUTPUT 2329.23-2335.50: Now these product orders, including ventilators, have increased one and a half to two times versus pre-pandemic levels. 
+asr:0: OUTPUT 2337.20-2344.04: But at the same time, we're seeing reduced demand for other diagnostic products as certain procedures are deferred or canceled around the world. 
+asr:0: OUTPUT 2344.66-2353.09: To be clear, these other diagnostics are still essential and often associated with saving lives in areas including oncology and cardiology. 
+asr:0: OUTPUT 2353.77-2355.48: But are currently deprioritized. 
+asr:0: OUTPUT 2356.76-2366.05: PDX is a similar story. This is a high margin business made up of contrast agents and nuclear tracers associated with procedures that are being deferred or canceled right now. 
+asr:0: OUTPUT 2367.09-2373.31: Several HCS product lines and most of PDX is down as much as 50% versus pre-pandemic levels. 
+asr:0: OUTPUT 2375.12-2382.08: While these dynamics vary by country, there appears to be a pattern emerging as geographies experience different stages of the virus. 
+asr:0: OUTPUT 2382.98-2392.27: Taking China, for example, as hospitals come back online, we're seeing a ramp in previously deferred procedures and increased demand for our equipment and consumables. 
+asr:0: OUTPUT 2393.51-2404.12: Healthcare is accelerating its planned transformation to expand margins post-biopharma by reducing headcount, fixed costs, discretionary spend, and marketing spend. 
+asr:0: OUTPUT 2404.22-2409.35: Prioritizing R&D, deferring CapEx, and optimizing working capital. 
+asr:0: OUTPUT 2410.87-2424.38: Looking forward, we're most focused on the following indicators for healthcare. Hospital admission and occupancy rates, an increase in non-COVID-19 procedures, changes in hospital cap-ex budgets, government spending on healthcare broadly,. 
+asr:0: OUTPUT 2424.40-2427.71: And development of COVID-19 tests, treatments and vaccines. 
+asr:0: OUTPUT 2428.65-2436.48: Based on our experience in China and the market in April, we expect to be down in the second quarter with potential recovery afterwards. 
+asr:0: OUTPUT 2438.14-2446.03: COVID-19 has highlighted the need to build and truly invest and scale a new digitized infrastructure and quickly. 
+asr:0: OUTPUT 2446.39-2453.27: We're committed to our investment in our digital Edison platform and solutions like neural virtual care solution. 
+asr:0: OUTPUT 2453.35-2462.58: Which allows one clinician to remotely view numerous ventilated patients simultaneously, helping to expand their capacity while reducing their risk of exposure. 
+asr:0: OUTPUT 2465.17-2470.89: As our digital healthcare journey continues, we're at the center of an ecosystem striving for precision health. 
+asr:0: OUTPUT 2471.83-2475.76: I'm very proud of the work our team is doing to combat COVID-19. 
+asr:0: OUTPUT 2477.84-2487.53: Moving to power on slide 13. We'll talk to the current trending in the second quarter to date and dynamics of gas power and power portfolio. 
+asr:0: OUTPUT 2488.99-2497.12: Starting with gas power equipment, while we're monitoring and managing supply chain disruptions, as of today, we still see a path to 45 to 50. 
+asr:0: OUTPUT 2497.14-2499.08: Gas turbine deliveries this year. 
+asr:0: OUTPUT 2499.94-2504.78: But our orders profile and therefore cash down payments worth several hundred million dollars are. 
+asr:0: OUTPUT 2504.80-2513.11: Likely weaker due to IPP pressures in the US and Mexico as we expect that deal financing will become harder through the year. 
+asr:0: OUTPUT 2514.55-2519.46: Additionally, with oil price pressure impacting Middle East and SSA investment. 
+asr:0: OUTPUT 2520.00-2525.99: Including demand for new LNG, we are expecting a longer road to normalization. 
+asr:0: OUTPUT 2527.21-2534.63: Ultimately, we're sticking to our strategy of securing a lower risk margin accretive backlog with disciplined execution. 
+asr:0: OUTPUT 2535.98-2543.26: In services, approximately 20% of planned outages are shifting from the first half of this year due to COVID-19 field labor constraints. 
+asr:0: OUTPUT 2544.14-2550.17: We're also seeing pressure on upgrades, primarily in the Middle East, where low oil prices are impacting customer budgets. 
+asr:0: OUTPUT 2551.17-2558.86: We are seeing GE gas turbine utilization in the US up mid-single digits due to low gas prices and the shift from coal. 
+asr:0: OUTPUT 2559.42-2563.96: But utilization globally is down low double digits due to lower electricity demand. 
+asr:0: OUTPUT 2565.73-2568.95: Within Power Portfolio, our steam business is most impacted. 
+asr:0: OUTPUT 2569.65-2577.60: Factory closures pressured our steam operations, including one facility in Wuhan, which was closed for approximately eight weeks in the first quarter. 
+asr:0: OUTPUT 2578.72-2588.07: Today, we're back up to more than 70% of capacity. The global supply chain has also been disrupted by the shutdown in India driven by government restrictions. 
+asr:0: OUTPUT 2589.35-2598.26: Overall, we're seeing about 30% of outages shift from the first half of this year to the second half with another 10 to 15% pushing into next year. 
+asr:0: OUTPUT 2599.50-2602.90: Our power businesses are taking several measures to offset these pressures. 
+asr:0: OUTPUT 2603.52-2610.17: In the first quarter, we reduced head count by 700, notified approximately 1300 contractors. 
+asr:0: OUTPUT 2610.19-2616.32: Implemented a hiring freeze, and in line with the demand profile, we are taking even further actions. 
+asr:0: OUTPUT 2617.44-2622.44: This will serve to reduce fixed costs in 2020 and drive benefits in 2021. 
+asr:0: OUTPUT 2624.42-2629.29: Looking forward, we're tracking a number of items, including timing of our gas turbine new order closure. 
+asr:0: OUTPUT 2629.31-2630.89: Service outages and volume. 
+asr:0: OUTPUT 2630.93-2639.38: Fleet utilization is the energy mix and fuel prices are impacting each region differently, supplier impacts, and project execution. 
+asr:0: OUTPUT 2639.40-2641.78: Billing milestones, and customer collections. 
+asr:0: OUTPUT 2643.44-2650.37: We're targeting to have our accelerated cost out measures drive organic margin expansion despite these demand changes. 
+asr:0: OUTPUT 2652.45-2654.49: Moving to slide 14 on renewables. 
+asr:0: OUTPUT 2655.28-2662.94: There was a limited impact of COVID-19 in the first quarter. And our disappointing results continue to be largely about improving execution. 
+asr:0: OUTPUT 2663.68-2667.25: As we've said, we think about renewables in three distinct operating pools. 
+asr:0: OUTPUT 2668.07-2672.97: Starting with onshore wind, while we continue to deliver at record levels in the Americas. 
+asr:0: OUTPUT 2673.69-2677.50: We are seeing supply chain disruption at our LM wind facilities. 
+asr:0: OUTPUT 2677.52-2684.36: And we're monitoring key commercial milestones such as permitting and financing, which could potentially cause timing delays. 
+asr:0: OUTPUT 2685.93-2692.11: In offshore wind, certification for our industry-leading turbine, the Halyot X, remains on track. 
+asr:0: OUTPUT 2692.89-2698.20: We're also on plan to start delivering on our 80 unit, 6 megawatt commitments to EDF. 
+asr:0: OUTPUT 2699.28-2704.48: After completion of this project in 2021, we expect to start shifting production to the Haley Audit. 
+asr:0: OUTPUT 2705.53-2708.71: We're also monitoring financial closure of 2020 deals. 
+asr:0: OUTPUT 2710.39-2718.96: Grid and hydro, our two turnarounds, are impacted by supply chain disruptions, with over half of our grid facilities now operating below full capacity. 
+asr:0: OUTPUT 2719.86-2724.12: And at grid automation, we're also impacted by lower book-to-bill order conversions. 
+asr:0: OUTPUT 2726.03-2733.17: Across all three of these pools, we're increasing cost out in restructuring, and we've identified several hundred million dollars of additional actions. 
+asr:0: OUTPUT 2734.27-2737.34: Longer term, a lower cost structure will benefit renewables. 
+asr:0: OUTPUT 2738.90-2746.85: Relating to the global supply chain, we're focused on the safe reopening of our plants globally and then optimizing the workforce and plant load level. 
+asr:0: OUTPUT 2748.63-2752.55: Looking forward, we're expecting a larger impact from COVID-19 in the second quarter. 
+asr:0: OUTPUT 2752.73-2759.98: And by business, we're tracking 20 and 21 demand impact of progress collections and potential site delays in onshore wind. 
+asr:0: OUTPUT 2760.86-2769.83: The risk of financing delays associated with deals at offshore, project site delays at grid and hydro, and the backlog at grid. 
+asr:0: OUTPUT 2771.87-2779.42: On slide 15, within GE Capital, our GCAPs and insurance businesses are where we are feeling the largest impacts. So I'll keep my comments focused there. 
+asr:0: OUTPUT 2780.84-2790.27: First, G-Cast is better positioned today than in previous downturns, with better asset quality, less customer concentration, and more geographic diversity. 
+asr:0: OUTPUT 2791.39-2796.76: That said, we're preparing for elevated repossessions and redeployments, as well as lease restructurings. 
+asr:0: OUTPUT 2797.14-2801.52: And we've had approximately 80% of our customers seek short-term deferrals. 
+asr:0: OUTPUT 2802.44-2806.93: As you may have seen, we've agreed with Boeing on a rebalancing of our 737 MAX order book. 
+asr:0: OUTPUT 2808.89-2816.76: Second, at insurance, market and rate volatility is impacting the current value of our investment portfolio and reinvestment yields. 
+asr:0: OUTPUT 2817.58-2823.18: Therefore, we're deploying capital to capture market dislocation investment opportunities. 
+asr:0: OUTPUT 2823.60-2827.87: We're closely monitoring how this volatility will impact insurance this year. 
+asr:0: OUTPUT 2828.83-2838.70: And similar to the industrial segments, we're implementing incremental cost and cash actions. Looking forward, we continue to expect higher impairments and lower asset sales at G-Cash and insurance. 
+asr:0: OUTPUT 2839.60-2844.48: Our seasoned teams are working closely with our customers to navigate through this period. 
+asr:0: OUTPUT 2846.59-2856.54: So to close, our priorities are clear. We rapidly mobilized our team in the face of COVID-19 with our top priority being the health and safety of our employees. 
+asr:0: OUTPUT 2857.50-2862.90: And overall, the priorities we reviewed with you at the Outlook call remain intact. 
+asr:0: OUTPUT 2864.60-2868.95: We're facing into our near-term realities while continuing to manage GE for the long term. 
+asr:0: OUTPUT 2869.79-2879.32: When the world is facing the worst pandemic in a century, our team is rising to the challenge with humility, transparency, and focus. 
+asr:0: OUTPUT 2880.12-2889.63: We continue to deliver value for our customers, enabling air carriers to transport essential goods, supplying vital healthcare equipment, and keeping the lights on. 
+asr:0: OUTPUT 2891.51-2900.06: And while there are many unknowns, there will be another side. Planes will fly again. Healthcare will normalize and modernize. 
+asr:0: OUTPUT 2900.74-2903.90: And the world still needs more efficient, resilient energy. 
+asr:0: OUTPUT 2905.27-2911.41: At the same time, we're embracing this new reality. We're redefining winning and we're executing our plan. 
+asr:0: OUTPUT 2911.95-2916.20: The cost and cash actions we've taken you through this morning are a major result. 
+asr:0: OUTPUT 2918.58-2926.05: These moves will ultimately allow us to accelerate our multi-year transformation to make GE a stronger, nimbler, and more valuable company. 
+asr:0: OUTPUT 2926.63-2929.45: And I am confident that GE will emerge stronger. 
+asr:0: OUTPUT 2930.29-2933.35: With that, Steve, let's go to questions. 
+asr:0: OUTPUT 2936.92-2944.12: Before we open the line, I'd ask everyone in the queue to consider your fellow analysts again and ask one question and a follow-up question. 
+asr:0: OUTPUT 2944.14-2949.21: Up so we can get to as many people as possible. Brandon, can you please open the line? 
+asr:0: OUTPUT 2950.55-2956.58: Thank you, sir. We'll now begin the question and answer session. If you have a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 2957.18-2960.66: If you'd like to be removed from the queue, please press the pound sign or the hash key. 
+asr:0: OUTPUT 2961.30-2969.17: If you're on a speakerphone, please pick up your handset first before dialing. Once again, if you have a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 2970.29-2973.11: And from vertical research, we have Jeff Sprague. Please go ahead. 
+asr:0: OUTPUT 2974.85-2977.42: Thank you, good morning everyone. Hope everyone is well. 
+asr:0: OUTPUT 2978.92-2982.74: Thanks for all the great details. Good morning, Jeff. Good morning. 
+asr:0: OUTPUT 2984.26-2990.35: I was hoping you could provide a little bit of color on how you kind of view the... 
+asr:0: OUTPUT 2990.37-2995.42: Kind of the asset quality of the contractual service agreements and the like. 
+asr:0: OUTPUT 2995.54-3001.68: There's a lot of assets there. Obviously, there's at least a temporary impairment of cash flows. 
+asr:0: OUTPUT 3002.54-3009.47: How does that test work? Have you done it yet? And are you close to any particular thresholds there that we should be thinking about? 
+asr:0: OUTPUT 3014.41-3020.34: Jeff, I think if we look at the service backlog. 
+asr:0: OUTPUT 3020.76-3025.99: I think we're talking about $325 billion for the company. 
+asr:0: OUTPUT 3026.87-3033.87: The vast majority of that, $234 billion, is in aviation. I suspect that's where you're most focused. 
+asr:0: OUTPUT 3034.23-3043.06: We go through those backlog reviews and the CSA reviews on a regular basis. 
+asr:0: OUTPUT 3044.18-3046.55: What we have done here over the last. 
+asr:0: OUTPUT 3046.57-3060.80: The last seven or eight weeks is really tighten and quicken the review process that we do with the businesses both at aviation and at G-CAS. 
+asr:0: OUTPUT 3060.90-3069.47: What we're trying to do is make sure we've got the latest and, if you will, most accurate information possible. 
+asr:0: OUTPUT 3069.49-3076.50: With respect to customer risk given everything that's going on. So we do that on a regular basis. 
+asr:0: OUTPUT 3076.92-3083.10: We did that at the end of the first quarter in closing, much as we do every quarter. 
+asr:0: OUTPUT 3083.18-3091.85: Clearly, we've got a fluid situation and I think the modest charges that we took. 
+asr:0: OUTPUT 3091.93-3100.06: The modest changes in the first quarter clearly are going to play out as we go through the course of the year. We can't really scope that for you today. 
+asr:0: OUTPUT 3100.42-3103.50: If you look at the CSA book in aviation for example. 
+asr:0: OUTPUT 3104.34-3113.47: As we went through the mechanics of the future billings, the future costs related to those billings,. 
+asr:0: OUTPUT 3113.51-3118.30: Based on the information at the time, it was really just $100 million. 
+asr:0: OUTPUT 3118.32-3119.36: Adjustment. 
+asr:0: OUTPUT 3119.56-3123.72: Non-cash of course, which is why you see a little bit of the earnings cash dynamic. 
+asr:0: OUTPUT 3124.46-3130.73: Certainly as we go forward we're going to be updating those adjustments. 
+asr:0: OUTPUT 3130.77-3138.96: And again, we would expect that we would see more of that given what the airlines are doing with their planes. 
+asr:0: OUTPUT 3139.28-3141.10: But I think it's important to keep in mind. 
+asr:0: OUTPUT 3141.14-3152.97: Again, these are 10 to 15 year agreements, as you know, and those adjustments are taken in the context of that particularly extended time period. 
+asr:0: OUTPUT 3155.08-3157.58: Thanks for that and just as a follow up if I could. 
+asr:0: OUTPUT 3158.28-3169.77: I know you don't want to get real precise on guidance, but you are pointing us to a further decline in cash flow in Q2, which isn't surprising, quite frankly. 
+asr:0: OUTPUT 3169.79-3179.20: Could you bracket that at all for us, what we should expect for Q2 and, you know, any high-level thoughts on how the year plays out from the cash standpoint? 
+asr:0: OUTPUT 3182.72-3189.11: Jeff, I think that we took guidance off the table a few weeks back. 
+asr:0: OUTPUT 3189.13-3199.04: Didn't want to take an attempt at framing formal guidance here today in light of all that is still evolving here. 
+asr:0: OUTPUT 3199.50-3206.13: I think the tack we took was really to try to share as much with you as we possibly could in terms of. 
+asr:0: OUTPUT 3206.15-3209.83: The April detail, business by business. 
+asr:0: OUTPUT 3210.31-3217.00: And acknowledge that we're going to see a more challenging second quarter here given the full impact of COVID and the like. 
+asr:0: OUTPUT 3217.70-3225.05: But beyond that, I think that's really where we are. We know we've got to get to work on the cost and the cash actions. 
+asr:0: OUTPUT 3225.43-3232.11: That's why you see it's doubling that activity in aviation, stepping it up elsewhere around the company. 
+asr:0: OUTPUT 3232.21-3235.94: So, the $2 billion of cost, the $3 billion of cash. 
+asr:0: OUTPUT 3236.36-3244.34: Will clearly help us later on in the year as those actions take root. 
+asr:0: OUTPUT 3244.80-3250.41: But for today, I think that's really what we're, that's what we know and that's what we're comfortable sharing. 
+asr:0: OUTPUT 3252.29-3259.48: Thanks, best of luck Larry, thanks. From Morgan Stanley, we have Josh Pokerswinski. Please go ahead. 
+asr:0: OUTPUT 3267.13-3283.12: Josh, your line is open. You might be on mute. Josh, are you there? Brandon, let's move on and come back to Josh. 
+asr:0: OUTPUT 3284.00-3287.39: Sure. Next question we have from Bank of America. We have Andrew Obin. Please go ahead. 
+asr:0: OUTPUT 3288.15-3292.79: Yes, good morning. Can you hear me? 
+asr:0: OUTPUT 3293.87-3300.00: Thank you so much. 
+asr:0: OUTPUT 3301.04-3302.08: Good luck to everybody. 
+asr:0: OUTPUT 3304.14-3309.63: So run rate minus 60% in terms of shop visits, 50% on CSAs. 
+asr:0: OUTPUT 3310.19-3315.48: Do you think you continue to trend at this level in the second quarter or is there a more downside? 
+asr:0: OUTPUT 3320.56-3325.73: Andrew, I think you're referring to page nine in the slide deck. 
+asr:0: OUTPUT 3326.31-3329.53: That is what we are seeing here. 
+asr:0: OUTPUT 3329.61-3337.02: Yeah, I think this is what we're seeing right now. 
+asr:0: OUTPUT 3337.04-3341.04: Given what the carriers have said publicly what they're doing. 
+asr:0: OUTPUT 3341.58-3348.57: We think these are good, likely, near-end run rates to share with you. 
+asr:0: OUTPUT 3349.67-3352.65: Trying to offer up a definitive view is to the next several quarters. 
+asr:0: OUTPUT 3353.33-3357.00: But this is what we're seeing right now in the second quarter for sure. 
+asr:0: OUTPUT 3359.18-3365.07: My follow-up question on spare engine sales, I think minus 60%. 
+asr:0: OUTPUT 3366.45-3373.89: Have we lost these or will these come back when the situation normalizes? Maybe you can give us some sort of. 
+asr:0: OUTPUT 3373.91-3379.28: Framework how to think about spare engine demand over the next couple of years. Thank you so much. 
+asr:0: OUTPUT 3384.08-3389.47: Andrew, we were ramping spares with both. 
+asr:0: OUTPUT 3389.51-3395.96: The LEAP 1A and the LEAP 1B as the narrow-body market was taking off. 
+asr:0: OUTPUT 3395.98-3400.82: Typical, early in the life of an engine activity. 
+asr:0: OUTPUT 3400.86-3402.36: Out. 
+asr:0: OUTPUT 3402.52-3407.71: We are clearly seeing that soften, not necessarily going to zero. 
+asr:0: OUTPUT 3407.83-3413.79: As preparations are being made for the return to service of the MACs. 
+asr:0: OUTPUT 3414.77-3423.66: I don't think that opportunity is lost, but I think like much of what we're seeing in aviation broadly, it will be pushed out for a few years. 
+asr:0: OUTPUT 3424.16-3434.09: And again, I don't think we're taking a definitive view as to what year, what quarter things get back to, if you will, a normalized 2019 level. 
+asr:0: OUTPUT 3434.47-3443.92: But we recognize the discussion out there about this being a multiyear recovery, gradual, slow. 
+asr:0: OUTPUT 3444.00-3447.53: I think we're embracing that reality and that applies. 
+asr:0: OUTPUT 3447.55-3454.97: Really across the portfolio, both on the OE side as well as the aftermarket, spares included. 
+asr:0: OUTPUT 3456.24-3458.58: Thank you very much for all the detail and stay safe. Thank you. 
+asr:0: OUTPUT 3461.58-3470.59: From Melius Research we have Scott Davis. Please go ahead. Hey, good morning guys and welcome Carolina. 
+asr:0: OUTPUT 3472.11-3479.48: Thank you. Larry, any – good morning, Larry. Any way to think about the cost actions. 
+asr:0: OUTPUT 3480.28-3484.64: As it relates to kind of structural versus more kind of pandemic short-term related. 
+asr:0: OUTPUT 3488.47-3492.57: Sure. Well, I would say, Scott, as you well know,. 
+asr:0: OUTPUT 3492.59-3499.76: That when we're in a mode like this, you're moving as quickly as you possibly can. 
+asr:0: OUTPUT 3500.00-3502.62: Almost anywhere that you can. 
+asr:0: OUTPUT 3502.76-3511.59: So if you look at what we've announced at aviation, the doubling of those activities today, the broadening across the company,. 
+asr:0: OUTPUT 3512.49-3518.82: If you look at the tally today, there is a decidedly short-term bias there. 
+asr:0: OUTPUT 3518.84-3524.86: That Carolina and I are going to be working with the CEOs over the coming weeks. 
+asr:0: OUTPUT 3524.88-3528.83: To transition to a more permanent action. 
+asr:0: OUTPUT 3529.11-3535.14: If you look at what we did in aviation, for example, in terms of the temporary lack of works,. 
+asr:0: OUTPUT 3536.06-3545.99: That was a way to quickly adjust our cost structure in that business on a variable basis to these shockingly fast changes in demand. 
+asr:0: OUTPUT 3547.39-3558.98: You might categorize that as temporary. We need to work through the changes on a more permanent basis that are required in light of the length of the recovery that we're looking at. 
+asr:0: OUTPUT 3559.22-3567.75: So we have confidence in these numbers that we're sharing today, the $2 billion of cost, the $3 billion of cash. 
+asr:0: OUTPUT 3568.25-3572.35: There's a bit of a tactical bias today just given how fresh this is. 
+asr:0: OUTPUT 3572.37-3580.46: But we will be leaning in toward making more of them permanent, recognizing though at the end of the day there will be a bit of a mix. 
+asr:0: OUTPUT 3581.06-3584.86: Be it headcount related, discretionary spend. 
+asr:0: OUTPUT 3584.92-3594.95: On the cost side in addition to some of the working capital and certainly the CapEx reduction that Carolina referenced, the 25% reduction year on year. 
+asr:0: OUTPUT 3595.30-3604.34: So a lot going on and by no means is this, these headlines today, the end. 
+asr:0: OUTPUT 3604.48-3606.23: It's very much a work in progress. 
+asr:0: OUTPUT 3607.95-3616.24: Okay, that's helpful Larry. And we think, you know, the $20 billion kind of came to you pretty much about perfect timing, but... 
+asr:0: OUTPUT 3617.10-3618.88: Does that money just sit on the ballot? 
+asr:0: OUTPUT 3618.90-3623.28: Does it have to sit on the balance sheet pretty much as is for the year? 
+asr:0: OUTPUT 3623.32-3630.31: Or is it just such a big number you can start to parse some of it out to, you know, thinking in terms of whittling down some of the... 
+asr:0: OUTPUT 3630.33-3633.47: Debt that you can manage. 
+asr:0: OUTPUT 3637.38-3643.46: Well, it did come at a good time. 
+asr:0: OUTPUT 3644.50-3652.99: There's no question. That's why we put the emphasis in the biopharma setup on certainty. 
+asr:0: OUTPUT 3653.25-3658.84: We wanted to take the market risk off the table relative to thinking through the healthcare options. 
+asr:0: OUTPUT 3661.36-3668.41: Carolina, anything you want to add relative to managing liquidity versus leverage right here? 
+asr:0: OUTPUT 3670.67-3674.99: I think it's important to acknowledge that the world is different now compared. 
+asr:0: OUTPUT 3675.01-3681.82: Before COVID and it's very important for us. Of course, leverage is important, but liquidity is very important. 
+asr:0: OUTPUT 3682.84-3692.39: And we end the quarter with 47 billion cash, right? And that's really to cover 13 billion of D&G capital long-term debt maturities now through 21. 
+asr:0: OUTPUT 3693.19-3700.62: And actually after the April actions, we are down to 13 billion of maturities for 2021, almost all of that in capital. 
+asr:0: OUTPUT 3701.90-3709.21: And I would also say, you know, we expect to have around 20 billion in total credit lines going forward. And that's really in line with our risk appetite. 
+asr:0: OUTPUT 3709.87-3718.34: We have the new 15 billion three-year RCR that I mentioned and 5 billion for TIDAC. We'll be on 20 billion of credit lines. 
+asr:0: OUTPUT 3719.18-3724.76: I think we just said that, you know, we really intend to maintain a high level of cash, I would say, to maximize. 
+asr:0: OUTPUT 3724.86-3733.73: And that's why we're taking these actions also to de-risk our balance sheet and basically prudently manage our liquidity in this very difficult time. 
+asr:0: OUTPUT 3733.77-3736.12: Challenging external environmental time. 
+asr:0: OUTPUT 3740.00-3745.85: Thank you guys. Thank you. Thanks Scott. Be well. 
+asr:0: OUTPUT 3747.63-3750.99: And let's try Josh Porker's Winsky again from Morgan Stanley. Please go ahead, sir. 
+asr:0: OUTPUT 3752.03-3757.76: Hi guys, can you hear me this time? Yes. Yes. Clearly, Josh, good morning. 
+asr:0: OUTPUT 3758.44-3762.06: Awesome, and hope everyone is as well to echo earlier comments. 
+asr:0: OUTPUT 3762.58-3768.29: Larry, can you just give us a sense, and I know you guys have data going back eons in aviation. 
+asr:0: OUTPUT 3768.85-3772.85: How the impact of retirements and cannibalizations. 
+asr:0: OUTPUT 3773.35-3780.30: Kind of make more of a U-shape versus what the air traffic may look like. 
+asr:0: OUTPUT 3780.54-3788.67: Is there a natural lag between when folks start flying again and when shop visits can happen just as a function of kind of. 
+asr:0: OUTPUT 3788.69-3791.87: Using up some of the runtime on otherwise idle assets. 
+asr:0: OUTPUT 3795.84-3804.58: Well, Josh, certainly we have revisited the history. The team is well-versed in what we have seen in years past. 
+asr:0: OUTPUT 3805.71-3811.89: Not sure we've seen anything kind of on par with this. 
+asr:0: OUTPUT 3813.11-3819.38: But there's no question that there's going to be a bias on the part of some as. 
+asr:0: OUTPUT 3819.40-3824.78: Some of these fleet reductions play out to retire some of the older aircraft. 
+asr:0: OUTPUT 3826.05-3835.62: And that will factor into the aftermarket, much like some of the dynamics around green time and how here in the short term. 
+asr:0: OUTPUT 3835.64-3841.40: Folks try to preserve cash, carriers try to preserve cash in their business. 
+asr:0: OUTPUT 3841.94-3850.85: So I'm not sure that there is necessarily an exact model that captures what all the carriers and aggregate are going to do here. 
+asr:0: OUTPUT 3850.87-3853.05: A model that offers great precision. 
+asr:0: OUTPUT 3853.19-3861.78: I think we do know that the combination of these factors is going to create pressure for us here in the short term. 
+asr:0: OUTPUT 3862.54-3869.33: I think what's most important for our business really is cycles, much more so than revenue passenger miles. 
+asr:0: OUTPUT 3870.63-3873.33: And as we see schedules come back. 
+asr:0: OUTPUT 3873.39-3881.40: As we work our way through the pandemic, that will put us back on, I think, better footing, but here in the short term. 
+asr:0: OUTPUT 3881.80-3888.03: I think we're acknowledging that we're going to see shop visits and CSA buildings take on some real pressure due to the downturn. 
+asr:0: OUTPUT 3890.11-3900.00: Understood. Thanks. I'll leave it there. From JP Morgan, we have Steve Tusa. Please go ahead. Thanks, Josh. Hey, guys. Good morning. 
+asr:0: OUTPUT 3903.28-3905.91: Good morning. 
+asr:0: OUTPUT 3905.95-3914.33: In early March, you guys had that slide that showed $2-4 billion in free cash flow guidance, which is obviously off the table. 
+asr:0: OUTPUT 3914.35-3917.98: We talked about things growing in 2021 and 2022. 
+asr:0: OUTPUT 3918.00-3923.22: And off that kind of $3 billion base, I think most research and. 
+asr:0: OUTPUT 3923.26-3931.39: The numbers I saw were kind of in that $6 billion range of free cash flows, the kind of growth off of that level. 
+asr:0: OUTPUT 3931.87-3939.30: Are we still uh... Like is the party out your numbers uh... Still at all legit or is that you know our. 
+asr:0: OUTPUT 3939.54-3941.92: Are you kind of withdrawing that long-term outlook as well? 
+asr:0: OUTPUT 3946.83-3961.48: Steve, I think we have admittedly been focused on taking the right actions, both the cost, the cash, the balance sheet actions here in the short term in the face of this unprecedented pandemic. 
+asr:0: OUTPUT 3962.56-3971.63: We've taken guidance off for the year. We're not putting it back on today, just given the undue uncertainty of it all. 
+asr:0: OUTPUT 3971.79-3973.25: Right. 
+asr:0: OUTPUT 3973.33-3976.80: I don't think we're trying to get out any further than that. 
+asr:0: OUTPUT 3978.22-3985.89: I appreciate the question, but I think for purposes of today, we're really just trying to frame for folks what we're seeing. 
+asr:0: OUTPUT 3986.17-3994.13: But that said, however long it takes us to work through this, I think we feel very good about our ability to come out stronger. 
+asr:0: OUTPUT 3994.15-3999.52: And get back on a positive cash flow growth trajectory. 
+asr:0: OUTPUT 4001.56-4004.06: Got it. Carolina, anything you would add to that? 
+asr:0: OUTPUT 4006.93-4020.56: Well, no, I think it's important to acknowledge that by taking out costs now and part of it being structural, that gives us sort of as well as mitigating the decrementals that helps improving the incrementals. 
+asr:0: OUTPUT 4021.76-4026.39: The outer years, I mean, that will depend on the recovery on the industries as well. 
+asr:0: OUTPUT 4027.45-4035.68: That's, I would say, one of the impossible to speak to today. Right. And I guess, how much on that structural cost side? Yeah, go ahead. 
+asr:0: OUTPUT 4038.34-4043.16: Yeah, just one other point I think worth mentioning. I think what we're acknowledging here. 
+asr:0: OUTPUT 4043.18-4049.79: Is that assistance played out in March and what we're seeing already in April. It really is hitting. 
+asr:0: OUTPUT 4049.87-4056.24: Hitting us from a mixed perspective hard. Our highest margin businesses are really feeling it here. 
+asr:0: OUTPUT 4056.82-4059.26: I would think that on the recovery. 
+asr:0: OUTPUT 4060.56-4064.08: We would see it swing the other way. 
+asr:0: OUTPUT 4064.48-4070.15: When we get back and come off the bottom, we should have positive mix effect. 
+asr:0: OUTPUT 4070.79-4075.74: Really across the board, particularly in aviation and healthcare. 
+asr:0: OUTPUT 4077.78-4084.62: Your second question, Steve, is relative to the cost actions and how much permanent, how much not permanent. 
+asr:0: OUTPUT 4085.45-4091.47: Yeah i i i know i get how much is that gonna cost you i mean like you know to come up with two to three billion dollars of. 
+asr:0: OUTPUT 4091.49-4097.88: Of cost and cash. You cut your restructuring last year pretty significantly and needed a couple hundred million in the first quarter. 
+asr:0: OUTPUT 4098.78-4106.05: I mean most companies kinda one for one what how much is this stuff gonna cost you this year on a cash basis. 
+asr:0: OUTPUT 4111.13-4120.00: I think what we have said previously is we were going to be down off of last year from an expense and from a cash perspective. 
+asr:0: OUTPUT 4120.46-4124.74: I think we're probably going to end up more or less in line. 
+asr:0: OUTPUT 4125.71-4128.65: Keep in mind that some of the cost actions like furloughs,. 
+asr:0: OUTPUT 4129.87-4139.54: Don't carry a restructuring charge with that, right? Because they aren't permanent. So part of what we're trying to do is squeeze out some of the temporary costs. 
+asr:0: OUTPUT 4140.20-4146.41: But all the while, if we can make more structural moves, we want to make sure we've got room to do that. 
+asr:0: OUTPUT 4146.73-4153.45: But I'd say right now assume that it be relatively flat year on year. But as Carolina indicated in her remarks. 
+asr:0: OUTPUT 4155.76-4157.24: We want to try to do more if we can. 
+asr:0: OUTPUT 4158.30-4160.18: Great. All right. Thanks a lot. Best of luck, guys. 
+asr:0: OUTPUT 4163.44-4165.71: We have Marcus Smittermeyer. Please go ahead. 
+asr:0: OUTPUT 4168.05-4169.85: Good morning Larry, Carolina and Steve. 
+asr:0: OUTPUT 4171.07-4173.65: Let me maybe follow up on the... 
+asr:0: OUTPUT 4174.99-4183.88: Within the year, in your 10Q you referenced the IATA numbers of 48% RPK reduction. 
+asr:0: OUTPUT 4184.38-4189.13: And I know obviously, slide dollars and RTKs are two different stories. 
+asr:0: OUTPUT 4189.19-4199.94: But is that sort of a kind of scenario that you're trying to do internally? And I'm just trying to get a sense of what that would mean if we look at our sort of like 19. 
+asr:0: OUTPUT 4199.96-4224.74: Aviation cash as a baseline, sort of like where, you know, on that type of scenario, we could end up particularly, you know, looking at sort of what you've mentioned in your prepared remarks that you have, I think 62% of engines still ahead of shop visit one, which arguably are the engines that are on the narrow bodies coming back first, because they're probably the youngest in the fleet. 
+asr:0: OUTPUT 4225.19-4228.93: Just trying to get a sense for within the year how you're thinking about that. 
+asr:0: OUTPUT 4233.59-4244.28: Well, I think that given what we highlighted relative to the April experience and the near-term projection of that,. 
+asr:0: OUTPUT 4245.55-4253.71: There's no question that we're going to continue to see the pressure on cash at aviation that we've seen here of late. 
+asr:0: OUTPUT 4253.89-4259.02: Right. And that will be our undoubtedly our biggest headwind. 
+asr:0: OUTPUT 4259.26-4266.65: Sure. 
+asr:0: OUTPUT 4266.67-4275.84: We heard the numbers that you said, but did you do internal stress tests around the patient? 
+asr:0: OUTPUT 4275.86-4276.86: Um. 
+asr:0: OUTPUT 4277.46-4281.56: Where you could end up or is that just something that you say is too early to comment? 
+asr:0: OUTPUT 4284.68-4295.12: No, no, no, there's plenty of planning for, again, an extended slowdown here. 
+asr:0: OUTPUT 4295.18-4301.08: We're embracing this reality to the fullest extent possible. We are not expecting. 
+asr:0: OUTPUT 4301.10-4302.96: Just to bounce back. 
+asr:0: OUTPUT 4302.98-4304.50: In the near term. 
+asr:0: OUTPUT 4305.01-4308.51: So we flag in the queue the IATA numbers. We also reference. 
+asr:0: OUTPUT 4308.95-4313.01: Others you see it in our own departure data here in April, right? 
+asr:0: OUTPUT 4313.17-4319.56: We are way down, that has a direct feed in the shop visits, CSA billing and the like. 
+asr:0: OUTPUT 4319.90-4324.10: So we're adapting to this new environment. 
+asr:0: OUTPUT 4324.68-4340.76: Confident that it will recover, but we're simply not trying to assume that the pressure abates any time soon, witness the cost and the cash actions that we're taking. 
+asr:0: OUTPUT 4342.16-4343.58: Sure. Okay. I appreciate that. 
+asr:0: OUTPUT 4343.92-4346.87: And maybe as a follow-up quickly on the capital side. 
+asr:0: OUTPUT 4347.03-4356.64: Do you anticipate any change in the capital support for insurance in particular? 
+asr:0: OUTPUT 4357.00-4360.00: I think two billion is sort of the current number. 
+asr:0: OUTPUT 4360.60-4361.64: How are you thinking about that? 
+asr:0: OUTPUT 4366.45-4369.25: On the parents support to capital. 
+asr:0: OUTPUT 4369.31-4373.95: On the insurance. Let's take a step back then. 
+asr:0: OUTPUT 4374.11-4380.22: In 19, the capital had an infusion from a deal of $4 billion, right? 
+asr:0: OUTPUT 4380.30-4386.37: The estimate for this year is 2 billion on insurance funding. 
+asr:0: OUTPUT 4387.49-4396.48: And those 2 billion, you know, that's significantly lower than the year before. We estimated that the parent will need to support roughly in line with this. 
+asr:0: OUTPUT 4397.16-4403.92: Some variables are still open and that depends on G-capital itself, right? The G-capital earnings, the LRT,. 
+asr:0: OUTPUT 4404.40-4410.09: Capital and assets, liquidity levels, but basically it's about 2 billion as it looks now. 
+asr:0: OUTPUT 4410.85-4413.93: And I would also say going forward, which is the third thing I'll follow up. 
+asr:0: OUTPUT 4415.24-4417.76: We do continue to anticipate further funding. 
+asr:0: OUTPUT 4418.80-4421.26: And that will be again through a combination of. 
+asr:0: OUTPUT 4421.28-4429.53: GE Capital itself with their asset sales, liquidity and their future earnings and on top of that possible capital contributions from GE. 
+asr:0: OUTPUT 4436.20-4438.94: From Cohen & Company, we have Gautam Khanna. Please go ahead. 
+asr:0: OUTPUT 4440.50-4441.90: Thank you. Good morning, guys. 
+asr:0: OUTPUT 4444.74-4446.75: Two questions. 
+asr:0: OUTPUT 4447.35-4453.43: At aviation, it sounds like you guys acknowledge that on the way up. 
+asr:0: OUTPUT 4453.51-4458.26: The spares business, the aftermarket, the $15 billion commercial. 
+asr:0: OUTPUT 4458.54-4462.88: Aftermarket business will lag ASM growth because of. 
+asr:0: OUTPUT 4462.90-4469.91: A younger fleet emerging, a surge of used serviceable material and the like, part outs. 
+asr:0: OUTPUT 4470.59-4475.70: And obviously lower spares provisioning as the OE rates come down 30 to 50%. 
+asr:0: OUTPUT 4476.42-4479.68: I guess first question is, when do you anticipate. 
+asr:0: OUTPUT 4479.70-4484.00: Aviation free cash flow getting to break even. 
+asr:0: OUTPUT 4484.02-4491.53: Is it even possible before calendar 22 in that type of environment? And then I have a follow-up. 
+asr:0: OUTPUT 4498.54-4500.00: I'm not. 
+asr:0: OUTPUT 4500.96-4503.56: I'm not sure we would buy into the premise per se. 
+asr:0: OUTPUT 4503.70-4504.90: Right. 
+asr:0: OUTPUT 4505.13-4509.87: We are a cycles business, much more so. 
+asr:0: OUTPUT 4509.89-4517.70: Than any other indicator and those cycles are going to have to come back before the passengers do. 
+asr:0: OUTPUT 4520.10-4526.07: As you indicated, the age of the fleet will help us over time. There could be some short-term headwinds. 
+asr:0: OUTPUT 4526.89-4529.07: But we'll see how that plays out. 
+asr:0: OUTPUT 4530.21-4537.10: I think what we're acknowledging here is that we've been hit from a free cash perspective. 
+asr:0: OUTPUT 4537.12-4544.42: So, we have a lot of different types of systems that we have in our. 
+asr:0: OUTPUT 4544.90-4563.14: But we're really not getting into much more in terms of the pre-cash forecast on a multi-year basis. It's just too soon. There's just too many moving pieces for us to be that forward leaning at this point. 
+asr:0: OUTPUT 4563.66-4566.17: We wish we could be, it's just not where we are. 
+asr:0: OUTPUT 4568.47-4572.67: And just to follow up, obviously 2020 is a tough year. 
+asr:0: OUTPUT 4572.69-4581.28: We're going to have some cash burn 2021 unclear, but certainly doesn't seem like in aviation we're going to have a strong recovery. 
+asr:0: OUTPUT 4582.74-4587.81: So as we emerge from this, we're going to have more leverage. 
+asr:0: OUTPUT 4587.99-4597.68: I guess the question is, you guys have made some asset sales to deleverage. What else besides cost reduction can you do? 
+asr:0: OUTPUT 4597.72-4605.95: To get the balance sheet better, faster. Is there any other things that you guys are exploring or that you might explore? 
+asr:0: OUTPUT 4606.77-4612.35: That's different than what you've done over the past year. Thank you. 
+asr:0: OUTPUT 4619.86-4623.98: Well, I would, I'm not sure I would say that there's a lot that is. 
+asr:0: OUTPUT 4625.71-4633.59: Please, Carolina. 
+asr:0: OUTPUT 4637.38-4641.56: Well, I would just say at a high level,. 
+asr:0: OUTPUT 4641.58-4649.13: We are committed to our deleveraging target of less than 2 and 1 half times on the industrial side. 
+asr:0: OUTPUT 4649.79-4652.79: And I think you've seen us make a lot of progress year to date. 
+asr:0: OUTPUT 4652.89-4659.80: Which I hope underscores the seriousness of that objective both on the GE side, right? 
+asr:0: OUTPUT 4660.02-4666.83: I think it's $7 billion of debt reductions in the quarter and capital, I think it's up to $10. 
+asr:0: OUTPUT 4667.75-4670.81: On a year-to-day basis, given some of the things we did in April. 
+asr:0: OUTPUT 4671.39-4679.72: Clearly, it's going to take us a while longer here to hit those targets, like I suspect most companies. 
+asr:0: OUTPUT 4680.46-4690.45: But in terms of doing anything new or different, I think we're going to continue to try to run these businesses as best we can, be as disciplined as we can on the capital front. 
+asr:0: OUTPUT 4691.11-4697.34: Be smart and thoughtful relative to some of the other obligations like pension as you've seen us. 
+asr:0: OUTPUT 4697.48-4701.40: Relative to the plan design and some of the settlement options. 
+asr:0: OUTPUT 4701.98-4705.21: So I'm not sure they're necessarily new plays per se. 
+asr:0: OUTPUT 4705.63-4717.72: But we'll continue to look at every and every option available to continue to strengthen the company, strengthen the balance sheet, bring those leverage levels down in the face of COVID-19. 
+asr:0: OUTPUT 4719.16-4722.00: Carolina, I'm sorry, I jumped in there. Anything to add there? 
+asr:0: OUTPUT 4723.64-4732.33: I would just add to the leverage comment also the liquidity that at times like this, you know, you do look at the liquidity and I think it's important to say that. 
+asr:0: OUTPUT 4732.35-4736.56: We really want to maintain a high level of cash to maximize the flexibility. 
+asr:0: OUTPUT 4737.42-4746.51: And you have seen the de-risking activities that we have made to sort of push out the debt for the years. So we keep optionality. 
+asr:0: OUTPUT 4748.15-4757.86: Thank you. 
+asr:0: OUTPUT 4758.00-4769.83: On the back of the biopharma action and some of the other things that we have done. So we'll continue to be nimble and flexible, mindful of our obligations and our reality. 
+asr:0: OUTPUT 4775.22-4777.52: From Barclays, we have Julian Mitchell. Please go ahead. 
+asr:0: OUTPUT 4779.34-4783.30: Hi, good morning. Maybe just a question. 
+asr:0: OUTPUT 4784.54-4792.33: Douglas Goldstein, financial planner & investment advisor, interviewed Steve on Arutz Sheva Radio. 
+asr:0: OUTPUT 4793.87-4795.84: I guess, yeah, there's a lot of... 
+asr:0: OUTPUT 4795.86-4799.56: Industrial businesses where when you get this rapid sales down drop. 
+asr:0: OUTPUT 4799.58-4806.95: You get a working capital cash offset to an extent and then it reverses whenever the sales come back. 
+asr:0: OUTPUT 4807.73-4816.58: Could you just update us on how you see the working capital cash impacts at GE Aviation sort of in the early stages now in this downturn? 
+asr:0: OUTPUT 4817.48-4822.02: What you would expect to happen to working capital when things recover. 
+asr:0: OUTPUT 4822.34-4832.27: And if there's any major difference on the cash dynamics of the power by the hour type service relative to the ad hoc spares activity in aviation. 
+asr:0: OUTPUT 4837.90-4847.37: I. 
+asr:0: OUTPUT 4847.41-4849.41: With respect to working capital. 
+asr:0: OUTPUT 4852.31-4862.20: I think our primary challenge is really inventory at aviation. We came into this year knowing we were going to have to adjust. 
+asr:0: OUTPUT 4862.22-4871.03: To a different schedule with the Macs chasing the step up at Airbus with the 320neo. 
+asr:0: OUTPUT 4872.15-4879.32: While dealing with a good bit of past due on the commercial side, both OE and aftermarket,. 
+asr:0: OUTPUT 4879.96-4883.42: While having pretty good military demand to contend with. 
+asr:0: OUTPUT 4883.74-4886.03: That all gets reset here. 
+asr:0: OUTPUT 4886.15-4895.46: One of the real pressures we saw from a cash flow perspective was an inventory at aviation in the quarter. 
+asr:0: OUTPUT 4895.78-4899.84: So that's where we're gonna be most focused, trying to make sure. 
+asr:0: OUTPUT 4899.86-4906.23: That we reduce the delinquencies, adjust to the reduced production schedules, the lower aftermarket requirements. 
+asr:0: OUTPUT 4906.63-4909.67: While continuing to take care of the military business. 
+asr:0: OUTPUT 4911.21-4914.83: That's a complex supply chain undertaking. 
+asr:0: OUTPUT 4915.22-4918.32: But the team, as you can imagine, is a... 
+asr:0: OUTPUT 4918.34-4919.98: Keenly focused. 
+asr:0: OUTPUT 4920.00-4931.07: On using some of the lean tools, working with our supply base to make sure that we not only take the cost out of the business, but bring those inventory levels down. 
+asr:0: OUTPUT 4931.19-4935.10: In light of current demand. 
+asr:0: OUTPUT 4937.62-4941.48: But should we expect, so I guess I understand. 
+asr:0: OUTPUT 4945.91-4947.41: The first second part of your question I may have missed. 
+asr:0: OUTPUT 4949.09-4958.86: In aviation, you have the drop in EBITDA in a downturn and the recovery in EBITDA in the early part of the uptrend. 
+asr:0: OUTPUT 4959.36-4961.72: I was just trying to understand on working capital. 
+asr:0: OUTPUT 4962.24-4964.92: Is that cash impact? 
+asr:0: OUTPUT 4964.98-4975.76: Is it counter-cyclical or is it pro-cyclical, so youíre getting a working capital outflow through the downturn as well as the EBITDA decline? 
+asr:0: OUTPUT 4982.64-4989.53: I understand the high-level dynamic there that you're alluding to. I think right now. 
+asr:0: OUTPUT 4989.55-4995.46: The simple reality of aviation, given the pressures and the cross-currents, is that it is a negative. 
+asr:0: OUTPUT 4995.52-4997.54: And we need to work to improve it. 
+asr:0: OUTPUT 4997.76-5005.25: How much of a tailwind could it be at this point in the cycle? I think it's too early to tell. 
+asr:0: OUTPUT 5005.37-5015.18: We've got to get on the improvement path first, Julian, to be able to take that potential and deliver it in the financials as a reality. 
+asr:0: OUTPUT 5017.04-5022.92: Douglas Goldstein, financial planner & investment advisor, interviewed Bollinger on Arutz Sheva Radio. 
+asr:0: OUTPUT 5023.10-5027.33: So I think it sounds like the cost out tailwind should build through the year. 
+asr:0: OUTPUT 5027.91-5037.76: But in Q1, you had some operational issues in power on the service side, you know, steep decrementals even with the fixed cost down 16%. 
+asr:0: OUTPUT 5038.18-5041.66: Renewables the margins were down despite a big revenue increase. 
+asr:0: OUTPUT 5042.26-5050.99: So I guess what's the conviction that operational inefficiencies will not swallow up a lot of these cost savings over the balance of the year? 
+asr:0: OUTPUT 5054.99-5057.54: Well, I think you have to take it business by business, right? 
+asr:0: OUTPUT 5060.04-5070.55: If you look at what happened in Power, clearly the push out by customers because of their own site restrictions. 
+asr:0: OUTPUT 5070.57-5081.52: And by us on the back of the travel restrictions really pushed a lot of high margin revenue out of the corridor and probably out of the first half. 
+asr:0: OUTPUT 5082.22-5091.63: That was on top of some cost pressures of our own making, which we need to improve upon. 
+asr:0: OUTPUT 5092.07-5101.10: But I think in power, I believe that the team is doing a very nice job working off the. 
+asr:0: OUTPUT 5101.12-5104.66: The so-called inheritance taxes driving real cost. 
+asr:0: OUTPUT 5104.68-5108.99: So, we are looking at a lot of different things. 
+asr:0: OUTPUT 5109.37-5112.19: And as we get to a more normalized service environment,. 
+asr:0: OUTPUT 5112.23-5117.32: I think you'll continue to see that turnaround continue to take flight. 
+asr:0: OUTPUT 5117.68-5120.22: I think in renewables, Julian, it's a different dynamic. 
+asr:0: OUTPUT 5121.04-5127.49: Yes, we had phenomenal revenue growth in the quarter, doubled the onshore. 
+asr:0: OUTPUT 5127.51-5132.55: Turbine deliveries here in the US got a little bit of a better price, got about a point of price. 
+asr:0: OUTPUT 5132.91-5134.41: Which is encouraging to see. 
+asr:0: OUTPUT 5135.08-5143.14: But it is by nature a very low gross margin business, so the growth isn't high calorie, unfortunately. 
+asr:0: OUTPUT 5143.34-5152.91: We had a few what we think are one-offs, but they're not one-offs until they go away permanently, cost and execution issues. 
+asr:0: OUTPUT 5153.39-5160.24: All the while, the turnarounds in hydro and grid are, I think, moving forward, but it's early days. 
+asr:0: OUTPUT 5160.46-5166.61: And they have a number of inheritance taxes that will take a few years to work through. 
+asr:0: OUTPUT 5167.07-5173.55: So I think the cost actions that we have talked about today will accelerate those turnarounds in power and renewables. 
+asr:0: OUTPUT 5173.87-5178.72: They're dealing with different dynamics in their respective businesses. 
+asr:0: OUTPUT 5179.18-5180.34: And that's really. 
+asr:0: OUTPUT 5180.42-5185.85: I think that is why I have the confidence to say that you should expect a. 
+asr:0: OUTPUT 5185.87-5195.50: To improve the restructuring and the cost actions should present themselves in improved decrementals in the back half. 
+asr:0: OUTPUT 5196.10-5198.72: But we've got work to do to make that happen. 
+asr:0: OUTPUT 5201.10-5207.57: Thank you. From Wolf Research we have Nigel Coey. Please go ahead. Thanks, Julie. 
+asr:0: OUTPUT 5208.71-5212.83: Thanks, good morning everyone. And Karina, great to see you on board. 
+asr:0: OUTPUT 5214.65-5219.26: So look, we appreciate all the color in the slides and the additional color in the queue. 
+asr:0: OUTPUT 5220.76-5230.75: So Larry, is it now a base case that industrial free cash flow will be negative and maybe just address the risk of significant cash burn this year? 
+asr:0: OUTPUT 5231.49-5239.32: Or is there enough on the cost out and the working capital side to maybe mitigate some of that pressure and keep industrial free cash relatively steady? 
+asr:0: OUTPUT 5243.26-5250.69: I think what we're trying to share this morning, Nigel, is that. 
+asr:0: OUTPUT 5250.85-5253.17: Probably three things. 
+asr:0: OUTPUT 5253.19-5264.66: We have been hit hard and fast here in some of our most important, highest margin businesses, be it aviation and services particularly. 
+asr:0: OUTPUT 5264.68-5268.91: Gas power services, PDX, and healthcare. 
+asr:0: OUTPUT 5270.17-5279.22: We think that that gets worse before it gets better, particularly here in the second quarter with a full effect. 
+asr:0: OUTPUT 5279.78-5283.96: It's uncertain as to how things play out from here. 
+asr:0: OUTPUT 5284.94-5290.17: We're going to acknowledge that uncertainty, hence the pulling of the guide. 
+asr:0: OUTPUT 5290.81-5292.09: But we're not gonna sit back. 
+asr:0: OUTPUT 5292.17-5297.46: I hope that it all passes. 
+asr:0: OUTPUT 5297.48-5303.60: Hence, the $2 billion of cost actions we've talked about and the $3 billion of cash actions. 
+asr:0: OUTPUT 5303.84-5307.43: We're going to do everything we possibly can. 
+asr:0: OUTPUT 5307.45-5314.23: To control our destiny here without impairing the long-term value and the long-term trajectory of our company. 
+asr:0: OUTPUT 5315.16-5320.00: So we're telling you what we know today. We wish we knew more. 
+asr:0: OUTPUT 5320.30-5326.09: But that is really the state of play right now and the approach, the headset that we're taking to it. 
+asr:0: OUTPUT 5327.31-5328.51: Okay, I appreciate that, Larry, thanks. 
+asr:0: OUTPUT 5328.57-5336.28: And then I thought one of the real highlights of the quarter was the underlying strength of the healthcare margins, even ex biopharma. 
+asr:0: OUTPUT 5336.50-5338.74: Especially given some of the headwinds you face in there. 
+asr:0: OUTPUT 5339.58-5343.06: We see in strength in small equipments and pressure in big iron. 
+asr:0: OUTPUT 5343.28-5350.53: How does that mix look though? When you look at the mix on smaller patient monitoring equipment, et cetera, versus the big iron. 
+asr:0: OUTPUT 5350.85-5353.57: How does that equivalent mix play out to the margins? 
+asr:0: OUTPUT 5357.92-5360.00: Well, we certainly... 
+asr:0: OUTPUT 5360.30-5362.14: I think the... 
+asr:0: OUTPUT 5362.16-5384.26: The key thing to keep in mind, Nigel, is the big iron certainly got hit. The lower ticket, the lower price point, be it patient monitors, ventilators, and the like, certainly got quite a boost. 
+asr:0: OUTPUT 5384.40-5389.39: But it's a small part of the business. 
+asr:0: OUTPUT 5390.13-5391.61: So there was a little bit of mix there. 
+asr:0: OUTPUT 5392.51-5402.02: But not a lot. It was really more a function, frankly, of the team doing a nice job more broadly, recognizing that absent biopharma. 
+asr:0: OUTPUT 5403.82-5410.13: We needed to tend to the core cost structure in all its form in the HCS business. 
+asr:0: OUTPUT 5411.21-5412.67: We've been growing healthcare. 
+asr:0: OUTPUT 5413.03-5414.79: Biopharma leading the way. 
+asr:0: OUTPUT 5415.14-5418.80: Some good margin support from that business the last several years. 
+asr:0: OUTPUT 5419.24-5422.28: Well now as we think about the $17 billion core. 
+asr:0: OUTPUT 5422.52-5424.30: The teams really, I think,. 
+asr:0: OUTPUT 5424.32-5438.64: Put their sights the last couple of quarters on growing that business, growing it with a creative margin. And it's really the cumulative effect that I think you see a bit here in the first quarter before we got hit. 
+asr:0: OUTPUT 5438.78-5440.96: They got hit a little bit later, not as much. 
+asr:0: OUTPUT 5441.14-5444.02: You will see more of that unfortunately here in the second quarter. 
+asr:0: OUTPUT 5444.26-5455.98: But I think you've got a team who thinks that like many other medtech companies, they can grow mid or low to mid single digits over time and put more digital into the mix. 
+asr:0: OUTPUT 5456.00-5463.90: Better costs, that should give us the opportunity to grow with accretive margins along the lines of what Karen laid out in December. 
+asr:0: OUTPUT 5464.02-5475.42: And I have no less conviction about their ability to do that today than we did when we made that presentation. Again, mindful that we've got some gyrations here in the near term to deal with. 
+asr:0: OUTPUT 5476.16-5477.38: Okay, thanks Larry. Good luck. 
+asr:0: OUTPUT 5480.50-5488.45: Thanks Nigel. Hey Brandon, we are at the bottom of the hour so we can just take one more question. 
+asr:0: OUTPUT 5489.53-5499.08: From RBC Capital Markets, we have Dean Dure, please go ahead. Thank you. Good morning everyone. Wishing everyone good health and add my welcome to Carolina. 
+asr:0: OUTPUT 5502.38-5507.49: Good morning, Dean. Good morning. Just two questions, both aviation. 
+asr:0: OUTPUT 5508.91-5523.00: A lot of discussion about structural cost out. And Larry, I'd be interested in how have you balanced the structural cost out in aviation with RIFs and balancing the RIFs and furloughs. 
+asr:0: OUTPUT 5523.02-5527.95: Versus how you might be compromising the ability to bounce back. 
+asr:0: OUTPUT 5528.45-5530.51: When it does ramp back up. 
+asr:0: OUTPUT 5530.83-5539.32: So that's the first question. And then the second one, just to make sure I heard it correctly, did you quantify the LEAP cancellations in the quarter? 
+asr:0: OUTPUT 5539.70-5541.88: I know there's delivery deferrals. 
+asr:0: OUTPUT 5542.36-5551.21: Our experience in 2008 was that you did not see many outright engine cancellations because customers would lose that nonrefundable deposit. 
+asr:0: OUTPUT 5551.27-5555.98: So what's the expectation here in terms of engine cancellations? That's it for me. Thank you. 
+asr:0: OUTPUT 5565.47-5569.89: Maybe I'll take the first part of that and perhaps Carolina can take the second. 
+asr:0: OUTPUT 5571.53-5577.70: I think we are mindful, ever mindful, that there will be a recovery. 
+asr:0: OUTPUT 5578.10-5584.88: And we want to be well positioned for it because it's going to be very good business for GE for decades. 
+asr:0: OUTPUT 5585.83-5592.21: But I think we are really trying to again embrace our reality. 
+asr:0: OUTPUT 5592.23-5598.52: And take the cost actions in the aftermarket business. 
+asr:0: OUTPUT 5598.54-5606.91: And more broadly at aviation, mindful that we've got a period of time here of an unknown duration, but it's. 
+asr:0: OUTPUT 5606.93-5612.63: It's not going to be measured in months, right, where that business is going to be under considerable pressure. 
+asr:0: OUTPUT 5613.31-5620.66: So after a period of time, the aftermarket has grown as it has the last decade. 
+asr:0: OUTPUT 5621.30-5625.69: This is going to give us an opportunity to rethink, to consolidate. 
+asr:0: OUTPUT 5626.83-5631.29: All the while mindful of our obligations to customers. 
+asr:0: OUTPUT 5632.11-5640.00: The nature of how the footprint has changed. The changes that are probably still coming. So there are a number of variables. 
+asr:0: OUTPUT 5640.84-5662.04: It's very much a work in progress as well, but I think we've got line of sight to build on some of the temporary actions to take permanent action to make sure that we have a lean cost structure with adequate capacity to come out of the downturn here well positioned to perform. 
+asr:0: OUTPUT 5662.06-5663.94: Both for customers and for investors. 
+asr:0: OUTPUT 5667.53-5669.51: We'll now turn it back to Steve Winokur for a closing. 
+asr:0: OUTPUT 5671.33-5677.22: Do you want me to answer the second question? 
+asr:0: OUTPUT 5680.06-5684.72: Go ahead, Carolina. 
+asr:0: OUTPUT 5684.74-5691.51: Notes that in our backlog, which was flat sequentially and up 22% versus prior year,. 
+asr:0: OUTPUT 5692.07-5697.10: That did include roughly 200 Loop 1B unit order translations in the quarter. 
+asr:0: OUTPUT 5698.70-5702.92: But I would tell the progress really has been very small so far. 
+asr:0: OUTPUT 5703.98-5709.17: But on top of that, we also saw GCAS, right? So we have GCAS cancellation of 69 aircraft in April. 
+asr:0: OUTPUT 5709.65-5713.29: So that will be reflected in the second quarter revolution backlog. 
+asr:0: OUTPUT 5720.30-5727.55: Thanks everybody. I know it's a long call and a busy day, so if you need more, just reach out to us and best of luck. 
+asr:0: OUTPUT 5733.41-5737.88: Ladies and gentlemen, this concludes today's conference. Thank you for joining. And you may now disconnect. 
+asr:0: END

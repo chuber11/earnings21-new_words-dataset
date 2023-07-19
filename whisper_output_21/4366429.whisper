@@ -1,0 +1,580 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.30-6.51: Ladies and gentlemen, thank you for standing by and welcome to the Dance, Flight, Geronimo Earnings Conference Call. 
+asr:0: OUTPUT 6.85-13.87: At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question and answer session. 
+asr:0: OUTPUT 14.29-22.46: To ask a question during that session, you will need to press star one on your telephone. And please be advised that today's conference is being recorded. 
+asr:0: OUTPUT 22.82-31.19: If you require any further assistance, please press star and zero. I will now hand the conference over to your speaker today, John Swinney. 
+asr:0: OUTPUT 42.10-47.59: Thank you, operator, and good morning, everyone. Welcome to our second quarter 2020 earnings conference call. 
+asr:0: OUTPUT 48.11-53.13: I'd like to remind you that an earnings call press release and slide presentation related to the call. 
+asr:0: OUTPUT 53.15-58.12: Are available on our website at www.densupplysirona.com. 
+asr:0: OUTPUT 59.16-64.20: Before we begin, please take a moment to read the forward-looking statements in our earnings press release. 
+asr:0: OUTPUT 64.50-70.73: During today's call, we make certain predictive statements that reflect our current views about the future performance and financial results. 
+asr:0: OUTPUT 71.35-77.54: We base these statements and certain assumptions and expectations of future events that are subject to risks and uncertainties. 
+asr:0: OUTPUT 77.90-85.05: Our most recent form 10-K lists some of those most important risk factors that could cause actual results to differ from our predictions. 
+asr:0: OUTPUT 85.65-92.11: And with that, I'd now like to turn the program over to Don Casey, Chief Executive Officer, Dentsply Serona. 
+asr:0: OUTPUT 96.02-102.38: Thank you, John, and thank all of you for joining us today. We hope that you and your families remain safe and healthy. 
+asr:0: OUTPUT 103.76-108.49: To start the call, I would like to acknowledge two groups that deserve both our gratitude and recognition. 
+asr:0: OUTPUT 109.39-110.69: The first is our customers. 
+asr:0: OUTPUT 111.33-115.16: Throughout this pandemic, Dennis and their staff have shown tremendous resilience. 
+asr:0: OUTPUT 115.46-122.24: Whether dealing with changing local regulations, adjusting to new safety protocols, or finding new ways to help patients. 
+asr:0: OUTPUT 122.70-125.57: Dentists all over the world have adopted and innovated. 
+asr:0: OUTPUT 126.17-128.25: Their commitment to their patients is inspiring. 
+asr:0: OUTPUT 129.69-136.80: The second group is the employees of Dentsply Sirona. Over the last six months, they have been challenged in truly unprecedented ways. 
+asr:0: OUTPUT 137.68-146.71: Throughout, they've remained focused on serving our customers, creatively addressing new circumstances, and continuing to make progress on our critical initiatives. 
+asr:0: OUTPUT 148.47-154.63: This highlights that the people of Densply, Sirona and the culture we are building are truly our most important assets. 
+asr:0: OUTPUT 155.40-162.44: I would like to thank all of them around the world for their extraordinary efforts. It is a privilege to lead such a committed and passionate group. 
+asr:0: OUTPUT 164.26-169.45: Our call today will focus on four key areas. The first is to outline our second quarter results. 
+asr:0: OUTPUT 170.37-176.16: The second is to provide some details on how our business has been performing as Dennis offices reopen. 
+asr:0: OUTPUT 177.16-182.02: The third area provides the steps that Dentsply Sirona is taking to position the company for the future. 
+asr:0: OUTPUT 182.70-187.67: And finally, I will review the company's near-term priorities as we navigate the current environment. 
+asr:0: OUTPUT 189.47-193.33: As expected, our second quarter results reflect the major changes in the market. 
+asr:0: OUTPUT 194.27-201.34: The quarter began with significant governmental actions resulting in the shutdown of dental practices and restrictions on patient traffic. 
+asr:0: OUTPUT 202.70-211.85: The situation improved across the quarter with month to month improvements in terms of dentist offices opening and patients beginning to come back. 
+asr:0: OUTPUT 212.79-214.31: Our revenue followed this trend. 
+asr:0: OUTPUT 215.30-224.38: Our team continues to track patient attitudes around returning to the dental office, as well as the ongoing impact of additional infection control requirements on office capacity. 
+asr:0: OUTPUT 225.31-229.63: Based on what we are seeing, we are optimistic that the recovery is well underway globally. 
+asr:0: OUTPUT 231.03-236.62: Our results in the quarter also reflect significant actions the company took to address the difficult operating environment. 
+asr:0: OUTPUT 237.56-244.44: These plans were built around employee safety, meeting the needs of the customer, enhancing the financial strength of the company,. 
+asr:0: OUTPUT 244.46-248.39: And making continued progress on our key strategic initiatives. 
+asr:0: OUTPUT 249.71-255.14: To date, we've seen good results around employee safety and have not seen any major disruptions across the organization. 
+asr:0: OUTPUT 256.22-261.62: Despite challenges presented by the pandemic, the company has been able to reliably meet customer demand. 
+asr:0: OUTPUT 262.64-270.85: Our commercial team showed excellent creativity in adopting to new circumstances, providing an extensive array of digital clinical education and online marketing events. 
+asr:0: OUTPUT 271.57-273.95: These programs have been extremely well received. 
+asr:0: OUTPUT 274.89-283.50: A comprehensive cost control program was executed during the second quarter involving furloughs, short work weeks, salary reductions, and spending controls. 
+asr:0: OUTPUT 284.50-287.73: These efforts contributed to the drop in SG&A expenses in the quarter. 
+asr:0: OUTPUT 288.87-295.64: While the business has begun to restart, this program will remain in place until the trajectory of the recovery is better understood. 
+asr:0: OUTPUT 297.30-303.02: Our supply chain has been disciplined around inventory, and there has been a real emphasis on protecting our cash flow. 
+asr:0: OUTPUT 303.94-309.53: Finally, the company undertook a series of actions to bolster its liquidity and financial position. 
+asr:0: OUTPUT 311.35-318.28: While there is a pressing need to manage the disruptions caused by the pandemic, our team is focused on positioning the company for the future. 
+asr:0: OUTPUT 319.10-325.29: Since announcing a restructuring in late 2018, Dentsply Sirona has made significant progress against the goals we had laid out. 
+asr:0: OUTPUT 326.11-332.05: Our work on continuously challenging ourselves has shown there are still further opportunities to improve our performance. 
+asr:0: OUTPUT 333.19-338.24: Therefore, today we are announcing additional portfolio actions that expand on the original program. 
+asr:0: OUTPUT 339.06-345.81: These include plans for exiting the traditional orthodontics business as well as parts of our analog lab business. 
+asr:0: OUTPUT 346.93-348.87: I will discuss details later in the call. 
+asr:0: OUTPUT 349.85-358.44: These steps, while difficult, allow the company to focus on higher growth and higher margin digital areas where we believe Dentsply Serona has strategic advantage. 
+asr:0: OUTPUT 360.16-364.02: Moving to slide seven where we summarize our 2Q20 results. 
+asr:0: OUTPUT 364.94-371.87: Second quarter revenues were $491 million, down 50% on an organic basis due to the impact of the coronavirus. 
+asr:0: OUTPUT 372.99-379.14: Adjusted operating income was negative. Non-GAAP EPS for the quarter was a loss of 18 cents. 
+asr:0: OUTPUT 380.64-390.25: Cash flow was actively managed in the second quarter, driving cash flow from operations of $175 million, which was up 21% compared to prior year. 
+asr:0: OUTPUT 392.03-397.06: I will now turn the call over to Jorge, who will review the quarterly results and provide an output. 
+asr:0: OUTPUT 399.78-408.83: Thank you, Don, and good morning, everyone. The second quarter was obviously a challenging one for the global economy and for many industries, including dental. 
+asr:0: OUTPUT 409.81-415.02: On slide nine, we show our second quarter non-GAAP 2020 P&L. 
+asr:0: OUTPUT 416.26-421.94: Starting with the top line, organic sales were down 50% as compared to the prior year. 
+asr:0: OUTPUT 422.58-430.15: In the U.S. And Europe, with some minor exceptions, dental practices limited their activity to emergency procedures in April. 
+asr:0: OUTPUT 430.17-434.87: And March of May and then began to reopen as we moved into June. 
+asr:0: OUTPUT 436.16-445.15: As we share on our last earnings call, we saw declines of 60 to 80% in April in certain geographies, with the US being hit the hardest. 
+asr:0: OUTPUT 445.73-452.81: But our revenue trends improved gradually each month, finishing down about 40% compared to prior year in June. 
+asr:0: OUTPUT 453.89-457.82: We also saw a gradual improvement from the first to the last week in June. 
+asr:0: OUTPUT 458.30-464.20: So it is clear that we're seeing a recovery, but have yet to get back to a normal level of sales. 
+asr:0: OUTPUT 465.95-475.42: Cross profit was $207 million or 42.1% of sales, down from 57.7% in the prior year quarter. 
+asr:0: OUTPUT 476.32-480.00: As it is the case in solid and material reductions in volume. 
+asr:0: OUTPUT 480.46-486.45: Gross profit margin is impacted by the fixed cost base, which is difficult to address in the short term. 
+asr:0: OUTPUT 487.31-499.60: Examples of this cost include depreciation, leases, maintenance of manufacturing and logistic facilities, and costs related to ensuring compliance with high manufacturing standards. 
+asr:0: OUTPUT 500.74-509.15: Gross profit margin was also impacted by higher than average inventory reserve expenses of approximately $17 million. 
+asr:0: OUTPUT 509.17-511.57: Primarily as a result of lower sales. 
+asr:0: OUTPUT 513.33-523.02: SGNA of 249 million was down a substantial 132 million, which is approximately 35% lower as compared to prior year. 
+asr:0: OUTPUT 524.30-531.87: During the quarter, we took decisive action to reduce our SG&A costs, resulting in the steep year-over-year decline. 
+asr:0: OUTPUT 532.99-542.46: One area in SG&A that actually increased over last year was bad debt expense, which saw an uptake of $15 million year over year. 
+asr:0: OUTPUT 543.40-552.23: These significant P&L fluctuations were driven by the ongoing market disruptions and generated an operating loss of $42 million in the quarter. 
+asr:0: OUTPUT 552.87-556.86: Last year, our operating profit was $202 million in the second quarter. 
+asr:0: OUTPUT 558.52-573.07: Interest and other increased by 9.9 million versus last year, driven by the issuance of 750 million in long-term debt, the addition of new credit facilities, and the termination of certain FX hedges. 
+asr:0: OUTPUT 574.09-582.66: The non-GAAP tax rate was 27.5% in the quarter, up from 25.3% in the prior year. 
+asr:0: OUTPUT 582.68-589.59: A function of the change in the estimated amount of free tax income and a change to the expected income mix. 
+asr:0: OUTPUT 590.81-599.58: Non-GAAP EPS was a loss of 18 cents as compared to non-GAAP EPS of 66 cents in the prior year quarter. 
+asr:0: OUTPUT 603.16-607.17: Moving on to slide 10 where we review our consumable segment performance. 
+asr:0: OUTPUT 608.31-614.45: Reported sales were 187 million, down 58.6%. 
+asr:0: OUTPUT 614.47-618.70: And down 57.7% on an organic sales basis. 
+asr:0: OUTPUT 620.06-626.49: All of our product groups and consumables were negatively impacted by the temporary closure of dental offices. 
+asr:0: OUTPUT 628.37-637.98: While our consumable sales show a steeper decline than our T&E sales, both segments actually perform relatively similar from an end customer perspective. 
+asr:0: OUTPUT 638.78-644.68: Let me explain the two factors that contributed to the larger decline in our consumable sales. 
+asr:0: OUTPUT 645.93-649.23: First, there's a difference in order lead times. 
+asr:0: OUTPUT 649.93-656.38: Consumable deliveries tend to match demand almost simultaneously, up or down. 
+asr:0: OUTPUT 657.52-666.01: Due to the nature of the products, T&E has a longer order lead time and therefore, delivery is continued over an extended period. 
+asr:0: OUTPUT 666.03-671.27: Even after dental procedure volume is low down at the beginning of the quarter. 
+asr:0: OUTPUT 672.89-680.08: The second factor impacting consumables more than T&E is the fluctuations in inventory levels in the dealer network. 
+asr:0: OUTPUT 681.02-688.59: During severe market conditions, it is typical for companies to preserve cash by lowering inventory balances as much as possible. 
+asr:0: OUTPUT 689.33-692.91: We saw a steeper decline in consumables network inventory. 
+asr:0: OUTPUT 694.41-700.66: So when you account for all of these variables, we believe both segments decline at relatively similar levels. 
+asr:0: OUTPUT 702.54-709.83: Consumables operating margin was negative 9.4% as compared to 27% in the second quarter of 2020. 
+asr:0: OUTPUT 711.39-714.69: There are two primary reasons for the decline in consumables margins. 
+asr:0: OUTPUT 715.62-721.56: The first reason is that the consumable segment experiences steeper fall off in sales compared to T&E. 
+asr:0: OUTPUT 722.48-730.23: Second, the consumables business is more plant and infrastructure dependent and requires more volume to run efficiently. 
+asr:0: OUTPUT 731.51-738.72: We have more manufacturing plants dedicated to consumables, and this means a higher fixed infrastructure cost for this segment. 
+asr:0: OUTPUT 739.68-745.25: This is why we have been taking steps to consolidate our footprint and reduce our fixed cost base. 
+asr:0: OUTPUT 745.99-750.25: In the past couple of years, we have completed several portfolio shaping actions. 
+asr:0: OUTPUT 750.31-756.54: Including FONA, 1-800-DENTIST, CCAT, and the surgical business of Wellspec. 
+asr:0: OUTPUT 757.48-758.52: In adversion. 
+asr:0: OUTPUT 758.56-768.41: The two portfolio shaping activities we are announcing today will further consolidate our manufacturing footprint and will increase productivity and decrease fixed costs. 
+asr:0: OUTPUT 770.73-774.71: Moving on to slide 11, where we highlight our technologies and equipment segment. 
+asr:0: OUTPUT 775.76-781.32: Net sales were $304 million, down 45.6% as compared to prior year. 
+asr:0: OUTPUT 782.10-787.45: Organic sales for the quarter were down 43.6% versus the prior year. 
+asr:0: OUTPUT 789.33-799.22: Equipment and instruments, digital dentistry and implants all experience similar levels of decline in the quarter driven by the lower sales resulting from COVID-19. 
+asr:0: OUTPUT 800.74-811.23: Our healthcare business saw a slight decline in Q2 after posting a strong Q1 as healthcare systems were getting ready for the first major waves of COVID-19. 
+asr:0: OUTPUT 813.27-821.72: Technology and equipment operating income margin was negative 1.3% versus 17.2% in the prior year quarter. 
+asr:0: OUTPUT 822.80-828.65: On slide 12, we show our business performance for the second quarter on a regional basis. 
+asr:0: OUTPUT 830.49-836.56: US sales of $131 million declined 60.3% compared to the prior year. 
+asr:0: OUTPUT 837.54-840.96: This represents a decline in organic sales of 60%. 
+asr:0: OUTPUT 842.10-846.19: In the U.S. Market, consumables decline slightly more than T&E. 
+asr:0: OUTPUT 847.89-853.49: European sales were $215 million, down 49% compared to the prior year. 
+asr:0: OUTPUT 854.27-858.40: Organic sales were down 46.9% versus last year. 
+asr:0: OUTPUT 859.30-865.09: In Europe, consumable sales decline more than technologies and equipment on a percentage basis. 
+asr:0: OUTPUT 867.15-875.60: Rest of the world's sales were 144 million, down 44%. And organic sales were down 41.9%. 
+asr:0: OUTPUT 876.64-881.68: Rest of the world consumables declined more than T&E sales in the second quarter. 
+asr:0: OUTPUT 884.22-886.85: On slide 13, we show our cash flow performance. 
+asr:0: OUTPUT 888.17-897.66: In the second quarter of 2020, cash flow from operations was $175 million, as compared to $145 million in the prior year quarter. 
+asr:0: OUTPUT 898.48-909.75: This strong cash flow generation was the result of a disciplined approach to curtailing expenses and reducing working capital without sacrificing key strategic investments. 
+asr:0: OUTPUT 910.93-914.97: Working capital generated a significant boost in liquidity in the quarter. 
+asr:0: OUTPUT 915.56-921.30: We were successful in achieving meaningful reductions in accounts receivables and inventory balances. 
+asr:0: OUTPUT 922.18-931.37: We expect some of this cash will be injected back into working capital as demand and production volumes climb back up to normal levels. 
+asr:0: OUTPUT 933.31-941.32: In terms of capital expenditures, we spent $13 million in the second quarter of 2020, down from $27 million last year. 
+asr:0: OUTPUT 942.80-952.21: Free cash flow was a strong $162 million in the quarter, up 37% as compared to $118 million in the prior year. 
+asr:0: OUTPUT 953.65-961.10: In the quarter, we paid $22 million in dividends for a total of $184 million returned to shareholders. 
+asr:0: OUTPUT 961.12-965.71: Through dividends and share repurchases in the first six months of 2020. 
+asr:0: OUTPUT 968.01-978.16: At the end of June 2020, we had a strong liquidity available, comprising $1.1 billion of cash and $1.2 billion of committed credit facilities. 
+asr:0: OUTPUT 979.08-987.87: The efforts we made during the second quarter ensure that we have ample liquidity available to invest and grow the company as the economy recovers. 
+asr:0: OUTPUT 990.13-997.52: On slide 14, I'd like to talk about the significant actions we took to reduce operating expenses in the second quarter of 2020. 
+asr:0: OUTPUT 998.80-1008.25: Our efforts to reduce costs in the quarter were multifaceted. All levels and functions of the enterprise contributed to significant compensation savings. 
+asr:0: OUTPUT 1008.97-1016.36: Each part of the organization, up to and including the board of directors and executive levels, is stepped up and helped in these efforts. 
+asr:0: OUTPUT 1017.66-1025.03: As of today, most of our employees who were impacted by these measures have returned to work or to normal pay levels. 
+asr:0: OUTPUT 1026.35-1033.43: The next largest area for cost reductions was discretionary commercial spend, such as advertising and promotions. 
+asr:0: OUTPUT 1034.21-1040.80: It was logical to reduce this spend when dental offices were closed and the returns could not be realized. 
+asr:0: OUTPUT 1041.64-1048.23: We also achieved significant savings from reductions in professional services and of course travel expenses. 
+asr:0: OUTPUT 1049.63-1055.76: Together, all of these actions deliver a reduction in SG&A of 35% versus last year. 
+asr:0: OUTPUT 1058.12-1062.62: With respect to business transfer the remainder of the year, I'd like to make a few comments. 
+asr:0: OUTPUT 1063.52-1066.15: First, let me start with current volume trends. 
+asr:0: OUTPUT 1067.23-1075.14: All regions recover from their low point in April and improve by 20 to 40 percentage points by the end of the quarter. 
+asr:0: OUTPUT 1076.00-1081.64: Additionally, in June, the last week of the month was significantly better than the first week. 
+asr:0: OUTPUT 1082.34-1087.69: And we are pleased to note that the positive momentum continues into July. 
+asr:0: OUTPUT 1087.71-1095.84: With July sales approaching or surpassing 2019 levels, depending on the region and product groups. 
+asr:0: OUTPUT 1097.98-1103.68: There are still some gating factors in place, including the availability of personal protection equipment. 
+asr:0: OUTPUT 1103.70-1108.01: New infection prevention protocols reducing office capacity. 
+asr:0: OUTPUT 1108.03-1113.03: And overlapping regulations, all of which impact the shape of the recovery. 
+asr:0: OUTPUT 1113.95-1119.28: Together, these factors point to a gradual as opposed to a sudden snapback in demand. 
+asr:0: OUTPUT 1121.12-1123.88: Let me give you more details from a geographical perspective. 
+asr:0: OUTPUT 1124.32-1134.19: In the U.S., virtually all dental offices are now open and we continue to see signs of improvement, with July volume trending better than what we saw in June. 
+asr:0: OUTPUT 1134.79-1138.76: In Europe, we also saw July trends improving sequentially. 
+asr:0: OUTPUT 1140.60-1149.41: With regards to the rest of the world in a pack some of the markets turn positive in july with good traction in china and japan. 
+asr:0: OUTPUT 1149.43-1151.55: And some lingering concerns in Australia. 
+asr:0: OUTPUT 1152.81-1160.28: Latin America remains a challenging market as COVID-19 continues to impact our business in Brazil and other countries in the region. 
+asr:0: OUTPUT 1162.38-1170.77: Moving forward to the second half of the year, as we announced today, we're accelerating actions to fund growth areas and improve efficiencies. 
+asr:0: OUTPUT 1171.31-1176.62: As we did in Q2, we will continue to drive a disciplined resource allocation process. 
+asr:0: OUTPUT 1176.66-1181.36: That emphasizes return on investment and sustainability of our growth initiatives. 
+asr:0: OUTPUT 1182.26-1185.07: With that, I will now turn the call back to Don. 
+asr:0: OUTPUT 1186.77-1188.71: Thanks, Jorge. And moving to slide 17. 
+asr:0: OUTPUT 1189.59-1197.48: As I mentioned earlier in the call, in November 2018, we put a plan in place to accelerate growth, improve margins, and simplify the organization. 
+asr:0: OUTPUT 1198.24-1202.90: Our results through 2019 and the first quarter of 2020 show significant progress. 
+asr:0: OUTPUT 1204.00-1213.61: The execution highlights of our plan include accelerating growth behind new products, including PrimeScan and PrimeMill, as well as other new products in our consumable portfolio. 
+asr:0: OUTPUT 1215.12-1217.74: The pipeline of future new products has also been enhanced. 
+asr:0: OUTPUT 1219.04-1224.42: The company has made major investments in critical areas like our digital product portfolios. 
+asr:0: OUTPUT 1224.66-1229.87: Digital commercial capabilities and growth priorities like our SureSmile Clear Aligner business. 
+asr:0: OUTPUT 1230.99-1239.40: Densply Serona has implemented a new organizational structure, centralizing supply chain and other functions while creating a unified commercial structure. 
+asr:0: OUTPUT 1240.42-1246.13: There have been major initiatives designed to transform the finance, HR, and IT areas. 
+asr:0: OUTPUT 1247.53-1252.63: Further, we've undertaken multiple portfolio shaping activities, including the ones announced today. 
+asr:0: OUTPUT 1253.95-1256.42: The restructuring plan is a multi-year initiative. 
+asr:0: OUTPUT 1257.04-1264.96: As part of that, the organization has embraced the need to continue challenging ourselves to go beyond the original plan and deliver better results. 
+asr:0: OUTPUT 1266.15-1270.83: That work has shown there are significant opportunities in both the near term and longer term. 
+asr:0: OUTPUT 1272.45-1280.64: Moving now to slide 18. Over the last several quarters, as Jorge mentioned, we have exited several underperforming businesses. 
+asr:0: OUTPUT 1281.34-1285.87: These reduce our costs and complexity while serving to enhance our growth and margins. 
+asr:0: OUTPUT 1286.83-1293.87: The team continually reviews all our businesses against a framework around future growth opportunities as well as strategic fit. 
+asr:0: OUTPUT 1295.12-1300.66: In the area of orthodontics, we believe that the clear aligner space is an attractive opportunity for dense placerona. 
+asr:0: OUTPUT 1301.42-1307.45: SureSmile now offers a comprehensive digital treatment plan that positions the company well in this rapidly growing market. 
+asr:0: OUTPUT 1308.51-1314.11: Going forward, we will focus all our efforts in the ortho space on the clear aligner area. 
+asr:0: OUTPUT 1315.02-1322.92: We believe this offers the opportunity to grow, innovate, and take advantage of many of Dentsupply Sirona's unique strategic advantages. 
+asr:0: OUTPUT 1322.94-1325.81: Including our large SERIC user community. 
+asr:0: OUTPUT 1327.23-1333.85: As a result, we are exiting the traditional orthodontics business, which includes brackets, bands, tubes, and wires. 
+asr:0: OUTPUT 1335.36-1344.62: The traditional orthodontic business is a component of the technology and equipment segment and has had net sales of approximately $132 million in 2019. 
+asr:0: OUTPUT 1346.27-1355.70: Likewise, in our lab business, there is a clear opportunity to focus on the digital space, which is showing good growth rates and solid margins. It is a place where innovation will be rewarded. 
+asr:0: OUTPUT 1356.84-1362.10: Based on our analysis, it is critical to focus all our lab resources in the digital area going forward. 
+asr:0: OUTPUT 1363.34-1372.41: As such, we are announcing plans to exit the analog portion of the laboratory business that manufacture removable dentures and related products. 
+asr:0: OUTPUT 1373.85-1380.50: This business is a component of the consumable segment and had net sales of approximately 44 million in 2019. 
+asr:0: OUTPUT 1382.26-1388.51: Together, the portfolio shaping initiatives and additional actions are expected to result in the closure of several facilities. 
+asr:0: OUTPUT 1388.53-1394.77: And an incremental reduction of approximately 6 to 7% of the company's workforce by the end of 2021. 
+asr:0: OUTPUT 1396.12-1403.40: The ongoing execution of the restructuring will enhance Densiply Sorona's continued efforts to grow revenues, expand our margins, and simplify the organization. 
+asr:0: OUTPUT 1405.75-1408.75: Slide 19 lists our priorities for the back half of 2020. 
+asr:0: OUTPUT 1409.61-1418.46: They include executing on our comprehensive restructuring plan, pursuing our growth initiatives aggressively, and meeting our financial objectives. 
+asr:0: OUTPUT 1420.50-1425.99: In conclusion, the COVID pandemic will continue to impact our industry and our company for the foreseeable future. 
+asr:0: OUTPUT 1426.83-1433.41: Current trends are positive and a reason for optimism, but we will need to continue to adapt to the circumstances as they change. 
+asr:0: OUTPUT 1434.39-1441.00: We believe we have a comprehensive plan for both the short term and longer term to deliver value for our customers and our shareholders. 
+asr:0: OUTPUT 1441.94-1448.43: Further, the company has maintained its focus on our priorities around growth, margin expansion, and simplifying the business. 
+asr:0: OUTPUT 1449.67-1456.60: Our financial strength, broad portfolio and global reach position us well to succeed and win in the dental industry. 
+asr:0: OUTPUT 1458.34-1465.19: It's hard to know what the new normal is or when it will arrive, but our internal theme is that teeth do not heal themselves. 
+asr:0: OUTPUT 1466.41-1475.58: Our team is optimistic about the fundamentals of the industry. And we embrace the current challenges and are confident in our strategy, our customers, and our team. 
+asr:0: OUTPUT 1476.86-1479.04: Thank you. And with that, we'll take questions. 
+asr:0: OUTPUT 1480.24-1490.73: Thank you. And ladies and gentlemen, if you have a question at this time, just press star then one to get in the queue. To withdraw your question, simply press the pound or hash. 
+asr:0: OUTPUT 1491.39-1494.19: Please stand by while we compile the Q&A roster. 
+asr:0: OUTPUT 1495.36-1499.18: Our first question is from Jeff Johnson with Baird. Please go ahead. 
+asr:0: OUTPUT 1503.46-1506.01: Thank you. Good morning, guys. Can you hear me OK? I think I was on mute there. 
+asr:0: OUTPUT 1507.31-1510.59: We got you, Jeff. Great. Good morning. 
+asr:0: OUTPUT 1510.73-1517.66: I just want to start with the July comments. I really want to understand maybe the message that you want to have out there. 
+asr:0: OUTPUT 1518.44-1525.83: It sounds like you could make the argument that July was getting back towards a flattish year over year levels, according to what Jorge said. 
+asr:0: OUTPUT 1526.71-1533.97: But how much of that might be sell-in that was recovering off some sell-in issues earlier in the quarter or earlier in 2Q? 
+asr:0: OUTPUT 1534.69-1538.82: Does your sell-in, is it starting to match kind of the sell-out at this point? 
+asr:0: OUTPUT 1538.96-1544.18: And again, I know you're not guiding, but for 3Q, should we think July maybe as a... 
+asr:0: OUTPUT 1544.20-1549.93: As you get into August and September if there is some backlog helping in that July number. Thanks. 
+asr:0: OUTPUT 1551.51-1560.16: Yeah, thanks, Jeff. You know, look, I think Jorge said it clearly in the prepared remarks as we're looking at July, there's places that have. 
+asr:0: OUTPUT 1560.86-1569.57: We're seeing good progress. In some cases, it's actually exceeding 19. Your specific question about how much of that is inventory rebuild. 
+asr:0: OUTPUT 1570.91-1574.89: It's hard to see exactly. There's a couple things we're looking at. 
+asr:0: OUTPUT 1576.80-1583.90: That's one of the reasons we're not being, okay, let's just go project July into August, September and later in the fourth quarter. 
+asr:0: OUTPUT 1584.38-1586.17: The things we're looking at is patient volume. 
+asr:0: OUTPUT 1586.33-1589.09: And we've seen that as good office capacity. 
+asr:0: OUTPUT 1589.35-1595.76: We see office capacity kind of improving. Our patient tracking is telling us that. 
+asr:0: OUTPUT 1595.78-1599.96: Confidence in the dentist office continues to go up, but there is a pocket. 
+asr:0: OUTPUT 1600.24-1603.88: That's going to be reluctant, at least in the US, to go back for a little while. 
+asr:0: OUTPUT 1604.66-1611.91: And what that, in our mind, means that, okay, look, if we're getting capacity in the dentist office back. 
+asr:0: OUTPUT 1611.93-1615.60: To close to normal, that's going to take a little bit of time. 
+asr:0: OUTPUT 1615.68-1618.68: I think we're working through a bolus of patience right now. 
+asr:0: OUTPUT 1619.58-1630.13: And then I think, you know, from an inventory perspective, our dealers and the dentist's office ultimately are working through the fact that, you know, when the pandemic started,. 
+asr:0: OUTPUT 1630.15-1637.06: I think people hit the brakes pretty hard on stuff that's ordered almost every day and in our mind that's kind of the consumable space. 
+asr:0: OUTPUT 1637.78-1643.18: And you can see, Jeff, the difference between our consumable and technology, you know, the T&E side. 
+asr:0: OUTPUT 1644.42-1650.47: And we believe that is a lot to do with, okay, we don't know how long the office is going to be closed. 
+asr:0: OUTPUT 1650.95-1654.51: You know we we're gonna stop uh... Building inventory on the daily stuff. 
+asr:0: OUTPUT 1654.87-1657.16: And as a result, there may be some build back here. 
+asr:0: OUTPUT 1658.50-1663.68: But look, in my summary, I was pretty clear on saying, hey, look,. 
+asr:0: OUTPUT 1663.84-1670.03: And we're happy that we saw consecutive month-to-month sequential improvement. 
+asr:0: OUTPUT 1670.05-1673.17: In overall demand. We're seeing that at the retail level. 
+asr:0: OUTPUT 1673.23-1681.82: We're happy that July has continued that trend and we're happy to see that in some cases, we're actually tracking better than 2019. 
+asr:0: OUTPUT 1683.58-1688.83: Understood. That's helpful. Thanks, Don. And just as a follow up, you know, thinking about 2021 conceptually,. 
+asr:0: OUTPUT 1689.79-1698.92: You know, we all know what the ADA is saying about high likelihood that dental consumption and dental industry-wide revenues are down relative to 2019. 
+asr:0: OUTPUT 1698.94-1700.00: Team level. 
+asr:0: OUTPUT 1700.54-1704.10: I don't think anybody would really argue with that, at least looking at things right now. 
+asr:0: OUTPUT 1704.74-1711.75: With some of the extra restructuring efforts you're taking now, some of the tailwinds from the restructuring that was probably still continuing from the past plan. 
+asr:0: OUTPUT 1712.59-1721.64: How do you think about margins, especially next year? Can they get back to 2019 levels with revenue that at least is approaching 2019? 
+asr:0: OUTPUT 1721.68-1723.04: Levels next year. 
+asr:0: OUTPUT 1723.08-1730.29: Or is there a lag in kind of the margin recovery relative to how we think about revenues next year? Thanks. 
+asr:0: OUTPUT 1732.17-1735.80: Yeah, Jeff, it's early for us to really forecast 2021. 
+asr:0: OUTPUT 1736.18-1742.48: I would tell you the steps we took around the restructuring, though, reflect our interest in sitting there saying, hey, look,. 
+asr:0: OUTPUT 1743.40-1745.85: We need to get back on the margin progression. 
+asr:0: OUTPUT 1746.45-1755.12: You know, we've been saying since November 2018, how do we grow? How do we get our margins improving? And I think we have to take organizational steps to do it. 
+asr:0: OUTPUT 1755.54-1765.41: I think the results here show you that we think we've made some good progress. I mean, basically through the first quarter of 2020, we were tracking on a margin basis. 
+asr:0: OUTPUT 1766.03-1771.33: And what we've seen, obviously our margin is revenue dependent. 
+asr:0: OUTPUT 1772.07-1781.20: And, you know, hey, look, if revenue is down 20 percent in 2021, that's obviously going to have an impact on the business. We don't think that's going to happen. 
+asr:0: OUTPUT 1781.60-1784.94: But we are taking specific steps now to sit there and say. 
+asr:0: OUTPUT 1784.96-1792.33: Irregardless of whether the category is up two or three or down two or three or up 10, down 10. 
+asr:0: OUTPUT 1792.73-1794.97: We want to be taking steps toward margin accretion. 
+asr:0: OUTPUT 1795.44-1810.19: And, you know, as we get out of the traditional ortho business, we got out of the analog lab business. Those are all part of the ongoing restructuring designed to help us really take charge of our ability to drive margin accretion going forward. 
+asr:0: OUTPUT 1811.03-1818.94: And I'm not going to say it's going to be revenue independent, but we think we can take steps at a certain revenue base that we're really going to be able to drive margins. 
+asr:0: OUTPUT 1819.10-1820.34: And, you know. 
+asr:0: OUTPUT 1820.40-1829.75: We were very clear, you know, I joke with John Sweeney occasionally that we picked our revenue targets to match the years just to make sure that we could always communicate it. 
+asr:0: OUTPUT 1829.83-1839.78: So we've always said 22 and 2022, you know, and internally, what we're trying to focus on is, look, we think 22 is attainable. 
+asr:0: OUTPUT 1840.06-1843.56: We don't know if it's going to happen exactly on the trajectory based on what. 
+asr:0: OUTPUT 1844.08-1850.67: We're seeing with COVID, you know, it's COVID and the knock-on effects of that. 
+asr:0: OUTPUT 1850.91-1853.85: Is that a six-month issue? Is it a nine-month issue? Twelve-month issue? 
+asr:0: OUTPUT 1853.93-1861.04: But we want to be marching back toward that target. It just may take us a little bit longer to get there. 
+asr:0: OUTPUT 1864.10-1869.53: Thank you. And our next question comes from Tyco Peterson with JP Morgan. Please go ahead. 
+asr:0: OUTPUT 1872.17-1883.20: Are you able to talk about how much of the consumable pressure in the quarter was inventory destocking versus slower orders and how much incremental risk is there going forward with distributors around potential additional destocking? 
+asr:0: OUTPUT 1885.87-1887.91: Good morning, Tyco. This is Jorge. 
+asr:0: OUTPUT 1889.17-1895.64: It is hard to give any precise number, but as Don just indicated,. 
+asr:0: OUTPUT 1896.34-1899.16: In the case of consumables, there is a... 
+asr:0: OUTPUT 1899.18-1902.68: The order lead time is very short. 
+asr:0: OUTPUT 1902.72-1905.71: And so when the pandemic hit. 
+asr:0: OUTPUT 1905.73-1911.63: Customers and dealers and in general in the marketplace there was a. 
+asr:0: OUTPUT 1911.65-1916.40: A reaction to manage inventories very, very closely. 
+asr:0: OUTPUT 1916.86-1923.26: And when we look at the data of retail sales and our sales,. 
+asr:0: OUTPUT 1923.46-1934.69: And there are a lot of indications that show that there was a reduction in the inventory levels that we historically or typically carry in the network. 
+asr:0: OUTPUT 1934.73-1943.42: There was an element of that. And when that comes back to typical levels, it's hard to project. 
+asr:0: OUTPUT 1943.76-1946.85: Some of that may be happening as Don indicated. 
+asr:0: OUTPUT 1946.93-1956.34: But I don't think that is something that for us is going to be meaningful from a long-term perspective. 
+asr:0: OUTPUT 1956.40-1962.28: Listen, at the end of the day, we always want to make sure that our sales match retail sales. 
+asr:0: OUTPUT 1962.44-1971.01: That is our key objective. That's how we make money. There will be always small fluctuations in the network. 
+asr:0: OUTPUT 1971.21-1979.02: So I think in given the magnitude of the changes that we experienced in the second quarter as a result of lower revenues. 
+asr:0: OUTPUT 1979.38-1982.76: And the uncertainty that we still have in many places. 
+asr:0: OUTPUT 1983.14-1994.61: I think that noise is not actually meaningful in terms of explaining our performance and our trajectory over the next several months. 
+asr:0: OUTPUT 1996.04-2000.84: Douglas Goldstein, CFP®, is the director of Profile Investment Services and the host. 
+asr:0: OUTPUT 2000.86-2007.21: I always thought part of the pitch on the Clear Aligner was the ability to go in and do hybrid cases and leverage that. 
+asr:0: OUTPUT 2007.23-2015.18: You know, strong ortho channel as you push out your smile. So I'm curious if, you know, there is risk of disenergies here and how you think about that. 
+asr:0: OUTPUT 2019.50-2026.05: We're actually, there's a component of the wire bending aspect of SureSmile that we're keeping. 
+asr:0: OUTPUT 2027.25-2033.77: When we say how we kind of delineate traditional ortho, it's kind of the bracket spans that would go straight up on. 
+asr:0: OUTPUT 2033.79-2039.30: Orthodontist using orthodontia. 
+asr:0: OUTPUT 2040.24-2048.29: We believe hybrid is meaningful. We believe that it's a differentiator for SureSmile. So we're actually keeping those components. 
+asr:0: OUTPUT 2048.33-2052.09: That piece of traditional ortho and the piece that actually came with the Orometrix. 
+asr:0: OUTPUT 2052.11-2053.93: Acquisition is going to stay with that. 
+asr:0: OUTPUT 2054.63-2060.00: And then what we're seeing is where we're getting real traction on SureSmile tends to be. 
+asr:0: OUTPUT 2060.38-2065.31: Right now focused around our CEREC base. We kind of made that shift. 
+asr:0: OUTPUT 2067.13-2071.49: Basically in October of last year, and that's part of the 1DS program. 
+asr:0: OUTPUT 2071.81-2079.56: And we're seeing good traction there so as we look going forward we didn't feel that they were going to be disinterested associated with getting out of traditional. 
+asr:0: OUTPUT 2079.58-2084.58: You know, orthodontic treatment among the orthodontist group. 
+asr:0: OUTPUT 2084.66-2088.55: So, you know, as we focus on growing in the future, you know, we tend to think. 
+asr:0: OUTPUT 2088.59-2089.91: All right, how do we take care of... 
+asr:0: OUTPUT 2089.93-2100.42: How do we take advantage of our digital assets and how do we really look at expanding in places that are not necessarily tied to kind of the traditional orthodontic model? 
+asr:0: OUTPUT 2102.48-2109.95: Any thoughts on the capital equipment appetite as we think about the back half of the year and think about PrimeScan and PrimeMill? 
+asr:0: OUTPUT 2110.05-2118.76: Can you just talk on to what degree you think there could be pent-up demand and any need on your part to be a little bit more flexible in terms of financing or pricing potentially? 
+asr:0: OUTPUT 2120.78-2128.95: You know, it's been interesting, Taika, even before the pandemic hit, we were really beginning to shift to one, you know, our theory of one visit dentistry. 
+asr:0: OUTPUT 2129.63-2138.08: And with Prime Mill and the speed of Prime Mill, it really made that a reality. I mean, you can get patients in and out with a single unit crown in an hour plus. 
+asr:0: OUTPUT 2139.28-2141.02: So we had made that shift. 
+asr:0: OUTPUT 2141.08-2146.63: And it was interesting in April when everything went down, we really shifted to a bunch of digital. 
+asr:0: OUTPUT 2146.65-2155.07: Whether it was product demonstrations or kind of taking people through what one visit dentistry really means. And we got a pretty good reception. 
+asr:0: OUTPUT 2155.12-2159.30: So what we've seen to date, and you've actually seen the results that. 
+asr:0: OUTPUT 2159.38-2169.25: There's a pretty good appetite in our mind for technology and equipment. Now, whether it's spread across, you know, are we going to see treatment centers and are we going to see imaging? 
+asr:0: OUTPUT 2169.49-2175.78: Not sure, but we feel very good about PrimeScan and PrimeMill and the opportunity for dentists. 
+asr:0: OUTPUT 2176.02-2181.52: Who are basically going to be dealing with a patient population that may be a little bit,. 
+asr:0: OUTPUT 2181.54-2187.93: Do I want to go to the dentist three times during the pandemic to get a crown fixed or. 
+asr:0: OUTPUT 2188.01-2195.64: Can I get that done one time? You're also seeing a lot of dentists that we've been talking to and we've been seeing a fair amount of success. 
+asr:0: OUTPUT 2196.58-2203.12: With saying, hey, look, I got to change how I practice and they use the kind of the downtime during the pandemic to think through that. 
+asr:0: OUTPUT 2203.56-2211.37: We feel good about where we are from the technology and equipment space in the back half and a large part is due to the. 
+asr:0: OUTPUT 2211.77-2215.90: First, the new products we pushed out, but also the change in messaging and how we're pitching them. 
+asr:0: OUTPUT 2215.92-2216.92: Pitching these products. 
+asr:0: OUTPUT 2217.36-2225.95: So ultimately, and you know, look, we're working with our dealer partners globally right now to make sure that we're helping Dennis access this material. 
+asr:0: OUTPUT 2226.23-2234.29: Do I see a whole bunch of pricing pressure and crazy financing options coming on our technology and equipment? No. 
+asr:0: OUTPUT 2238.36-2246.37: Thanks, Tycho. Thank you. And our next question comes from Stephen Ballycat with Barclays. Please go ahead. 
+asr:0: OUTPUT 2250.37-2260.10: Great, thanks. Good morning, everybody. A couple of quick questions for you. First, your comment around July being a fairly flat year-over-year on a global basis is obviously pretty positive. 
+asr:0: OUTPUT 2260.78-2268.15: I know you don't want to give any specific guidance, but just kind of eyeballing the street consensus estimates for the third quarter. 
+asr:0: OUTPUT 2269.03-2273.91: They call for revenues to be down some 20 to 25% year over year. 
+asr:0: OUTPUT 2274.51-2277.64: I'm just wondering based on what you're seeing in July. 
+asr:0: OUTPUT 2277.66-2287.51: Barring any other major changes in the landscape, is that a number that seems like maybe that's too conservative on the revenue outlook as far as we're consensus? I'm just curious to get your thoughts around that. 
+asr:0: OUTPUT 2289.93-2291.69: Good morning, Jorge here. 
+asr:0: OUTPUT 2291.87-2300.26: Listen, it is early for us to be able to extrapolate from the July numbers. 
+asr:0: OUTPUT 2300.58-2308.07: And as you can appreciate, there is a lot of different data points coming from different regions. 
+asr:0: OUTPUT 2308.65-2316.82: There are some markets that are doing much better in terms of the number of offices that are open, markets that are good from a volume perspective. 
+asr:0: OUTPUT 2317.32-2326.73: We still have lingering concerns in places like Australia, parts of Latin America, and there are some spots in Europe that are also still challenging. 
+asr:0: OUTPUT 2327.15-2332.95: So it is very hard to make a judgment with respect to those numbers. 
+asr:0: OUTPUT 2332.99-2341.44: I think what we are, we're really encouraged by the fact that sequentially the last three months have been moving in the right direction. 
+asr:0: OUTPUT 2341.92-2348.41: But from a planning perspective, internally, we continue to work with scenario planning. 
+asr:0: OUTPUT 2348.81-2358.02: We are preparing the company for a multiple set of outcomes in the next few months and quarters. I think it's a brilliant thing to do. 
+asr:0: OUTPUT 2358.48-2361.64: So hard to tell you if that number is right. 
+asr:0: OUTPUT 2363.46-2371.61: One other quick clarification question. On the exiting of the traditional orthodontics and parts of the analog lab business,. 
+asr:0: OUTPUT 2372.39-2378.56: Are these businesses that could be monetized through asset sales or are these just full shutdowns. 
+asr:0: OUTPUT 2378.58-2382.58: Maybe just give us a little more color around the decision tree on shutdown versus asset sale. 
+asr:0: OUTPUT 2384.24-2390.13: Yeah, Steve, you know, as we look at it right now, we're making the announcement to get it done. 
+asr:0: OUTPUT 2390.63-2395.20: Obviously we'll look to dispose the assets in a way that is most beneficial to the company. 
+asr:0: OUTPUT 2395.66-2401.00: If there's some asset sales, we'll certainly look at it. If it's a full shutdown, we. 
+asr:0: OUTPUT 2401.02-2407.31: We gave you guys the numbers based on, you know, the worst case scenario, and obviously we're going to work to improve that. 
+asr:0: OUTPUT 2408.87-2414.81: But again, the process, because we mentioned in the prepared remarks, it's multiple plants. 
+asr:0: OUTPUT 2415.12-2421.40: In multiple locations obviously you start with the works council and and and you go through a lot of different things but. 
+asr:0: OUTPUT 2421.98-2431.11: No, the numbers we gave you represent the base case and we're going to work hard to improve versus that. And there is the opportunity to do better than what we said. 
+asr:0: OUTPUT 2432.53-2434.39: Okay, all right, appreciate the extra color. 
+asr:0: OUTPUT 2435.68-2443.00: Thanks, Steve. Thank you. Our next question is from Michael Churney with Bank of America. Please go ahead. 
+asr:0: OUTPUT 2445.45-2447.43: Good morning and thanks for the questions. 
+asr:0: OUTPUT 2447.55-2456.18: I want to just dive back into the July commentary specifically. I apologize to keep Harpy on this, but I just want to make sure this is as clear as possible. 
+asr:0: OUTPUT 2457.00-2465.49: Jorge, are you saying that what you have seen so far in July on a total dollar basis across the book is similar to 2019? 
+asr:0: OUTPUT 2465.73-2475.01: Is there any way specifically to think about how that's factoring into the U.S. In particular in terms of the. 
+asr:0: OUTPUT 2475.03-2480.00: Quantity of dollar basis versus some of the other growth rates where there might be some countries. 
+asr:0: OUTPUT 2480.10-2483.80: That did not have any meaningful COVID spikes that could be growing clearly at a faster clip. 
+asr:0: OUTPUT 2486.23-2488.57: Yeah, Michael, thanks for the question. 
+asr:0: OUTPUT 2489.55-2498.76: We are still trying to digest all the July numbers. There is a lot of data to look at from a product perspective, from a geography perspective. 
+asr:0: OUTPUT 2500.00-2506.21: As I indicated before, July definitely trended better than June. 
+asr:0: OUTPUT 2506.83-2516.00: So that is very good. But it depends on the region. It depends on the geography and on the products. 
+asr:0: OUTPUT 2516.54-2523.98: At this point, I can't give you a breakdown because there's some analytics that we still need to do. 
+asr:0: OUTPUT 2524.90-2533.03: Overall, the total portfolio is getting closer to 19 numbers. 
+asr:0: OUTPUT 2533.33-2538.82: And in some instances, it did better than 2019. 
+asr:0: OUTPUT 2539.40-2545.51: And that is definitely a substantial improvement versus June. 
+asr:0: OUTPUT 2548.65-2556.08: One more question on aligners. How do you think about the differentiation strategy that you're going to go forward with? 
+asr:0: OUTPUT 2556.44-2559.74: I know a lot of it was tied historically to the integration you had. 
+asr:0: OUTPUT 2560.00-2564.06: With Omnicam and with CERIC and everything. 
+asr:0: OUTPUT 2564.22-2572.87: As you think about where you compete, every aligner seems to have its own specific angle on what makes it better. 
+asr:0: OUTPUT 2572.89-2579.98: Where do you think that SureSmile will shake out as what makes it better or the best or what X-Rays can offer is differentiated than anyone else? 
+asr:0: OUTPUT 2582.16-2584.66: Yeah, thanks, Michael. I would say that it's our system. 
+asr:0: OUTPUT 2586.01-2588.03: Look between Omni and Prime. 
+asr:0: OUTPUT 2588.49-2591.85: Scan, we think we've got a pretty good installed base. 
+asr:0: OUTPUT 2592.19-2598.92: We have a very loyal user group there that is looking to practice at the highest level of their license. 
+asr:0: OUTPUT 2599.44-2606.89: So when we can add something that's integrated and seamless like SureSmile into the package and particularly,. 
+asr:0: OUTPUT 2606.95-2610.13: When we came out with SureSmile 7.6. 
+asr:0: OUTPUT 2610.87-2616.94: It's really seamlessly integrated into our base digital assets. 
+asr:0: OUTPUT 2617.40-2626.45: It becomes really easy to use and you know we feel with 7.6 you know we're now able to compete across the board broad portfolio get class one class two class three. 
+asr:0: OUTPUT 2627.47-2634.67: We think that our treatment planning software is second to none. We feel it's really, really competitive. 
+asr:0: OUTPUT 2635.12-2644.62: And we're very comfortable with the clinical results we're seeing. And as we go into kind of our installed base, we feel very good about that right now. 
+asr:0: OUTPUT 2645.69-2647.55: And look every single day. 
+asr:0: OUTPUT 2647.85-2657.44: We get better and better at beginning to think about Densiply, Serona, not as individual product companies where we're sitting there saying, hey, we're going to go sell you an Omni, we're going to go sell you a Prime. 
+asr:0: OUTPUT 2657.92-2664.30: And then, oh, by the way, maybe next week somebody will come in with sure smile. No, it's really we've begun to focus much more. 
+asr:0: OUTPUT 2664.32-2673.23: On how do we focus on the customer as one company and as part of that one company approach, stuff like DS1. 
+asr:0: OUTPUT 2673.47-2674.89: You know, 1DS, excuse me. 
+asr:0: OUTPUT 2675.56-2677.42: We really are going in and saying hey look. 
+asr:0: OUTPUT 2677.56-2680.82: How do you think about using these digital assets to... 
+asr:0: OUTPUT 2680.84-2685.71: You know, make life easier around doing orthodontics with clear liners. 
+asr:0: OUTPUT 2685.77-2689.37: How do you really think about implants differently? And again. 
+asr:0: OUTPUT 2689.41-2696.06: We're working hard to actually bring this idea that we're the dental solutions company to reality. 
+asr:0: OUTPUT 2707.51-2709.13: Does that answer your question, sir? 
+asr:0: OUTPUT 2714.61-2723.58: Thanks for the call. Thank you. And our next question is from Jason Ambednar with Piper Sandler. Please go ahead. 
+asr:0: OUTPUT 2725.27-2731.05: Good morning. Thanks for taking the questions here. Donna or Jorge, thanks for all the restructuring plan color. 
+asr:0: OUTPUT 2731.77-2737.42: I'm wondering on the orthodontic business, I mean, you've mentioned here a few times leveraging the CEREC installed base with clear aligners. 
+asr:0: OUTPUT 2738.00-2742.22: I think this makes a ton of sense, but I mean should we interpret your Sarah comments to be that you're... 
+asr:0: OUTPUT 2742.46-2747.27: To be emphasized in SureSmile principally in that GP channel or do you have a strategy to. 
+asr:0: OUTPUT 2748.61-2750.85: Channel that doesn't have that same seric owner base. 
+asr:0: OUTPUT 2755.22-2759.30: We're happy to take SureSmile into the orthodontist's office and the GP office. 
+asr:0: OUTPUT 2759.74-2767.35: You know what we're seeing is again we want to play to our strengths and we we do have a large installed base and when we do programs like one d s. 
+asr:0: OUTPUT 2768.17-2775.96: Where we're obviously trying to package workflows together in such a way that there's real benefit to the dentist. 
+asr:0: OUTPUT 2776.18-2785.35: We're seeing more success there. So look, we will continue to pitch Sure Smile across both the orthodontics, orthodontic as well as the GP channel. 
+asr:0: OUTPUT 2786.21-2790.05: We think we've got more innate advantages in the GP channel right now. 
+asr:0: OUTPUT 2792.35-2798.02: Okay, and then I wanted to ask actually a new product question here, actually partially related to the prior question. 
+asr:0: OUTPUT 2798.66-2802.88: And I appreciate its policy here not to discuss new products before they're officially launched. 
+asr:0: OUTPUT 2803.00-2811.19: But instead of talking specifically to the recently approved large field of view imaging system or maybe any 3D printing plans you might have with PrimePrint,. 
+asr:0: OUTPUT 2811.73-2820.06: Maybe you could talk to what you see in the market from an opportunity or demand perspective for each of those categories, each of large field of view and also in office 3D. 
+asr:0: OUTPUT 2823.42-2827.15: In a wide field of view, we're filling a gap in our portfolio. 
+asr:0: OUTPUT 2828.11-2833.07: That, you know, it took us a little while to get there, but we feel very good about that right now. 
+asr:0: OUTPUT 2833.41-2838.78: If you look at what we've done with our orthophos SL and our L-line. 
+asr:0: OUTPUT 2838.92-2843.84: And now wide field of view, we feel that we're very competitive in the imaging space and. 
+asr:0: OUTPUT 2844.54-2850.05: Now, in terms of what do we think about the macro demand for imaging equipment? 
+asr:0: OUTPUT 2850.41-2855.98: Again, if you look over the last six months, and again, the pandemic really started. 
+asr:0: OUTPUT 2856.00-2860.80: At the end of the first quarter, and we've seen regions begin to recover. 
+asr:0: OUTPUT 2861.20-2864.86: We've seen good, solid demand across the board in technology and equipment. 
+asr:0: OUTPUT 2865.01-2866.67: And you know it's. 
+asr:0: OUTPUT 2866.69-2869.23: When you start looking at things like wide field of view. 
+asr:0: OUTPUT 2869.29-2875.20: It's really not necessarily about, you know, I'm just replacing my x-ray machinery. 
+asr:0: OUTPUT 2875.30-2880.88: It's what procedures do I want to do and you know wide field of view and particularly when you start looking at. 
+asr:0: OUTPUT 2880.90-2884.20: 2D and 3D kind of imaging products. 
+asr:0: OUTPUT 2884.52-2890.05: It let you do more procedures let you do better implants let you do better and i'll let you do better orthodontist so. 
+asr:0: OUTPUT 2890.73-2898.32: We think that demand, you know, is it going to gyrate a little bit as we recover from the pandemic? It could. 
+asr:0: OUTPUT 2898.78-2901.74: But we've seen demand remain pretty solid on there. 
+asr:0: OUTPUT 2901.82-2904.52: And in terms of printing. 
+asr:0: OUTPUT 2904.88-2912.63: You know, we haven't really discussed that and you know look are one of the challenges in in in this space. 
+asr:0: OUTPUT 2912.99-2916.20: Versus other med device spaces where you can really put your pipeline out. 
+asr:0: OUTPUT 2917.26-2919.66: We tend to play things pretty close to the vest. 
+asr:0: OUTPUT 2920.48-2923.40: What I would tell you is that our new product portfolio. 
+asr:0: OUTPUT 2923.66-2931.77: Work has been one of, you know, we kept saying in the prepared remarks, you know, we stayed focused on our key strategic initiatives. Well, one of those is new products. 
+asr:0: OUTPUT 2932.31-2940.06: What we've been working on internally is how do we take the five to ten most important products, whether that's in the endo, implant, or in the technology and equipment space. 
+asr:0: OUTPUT 2940.30-2941.38: And keep making progress on it. 
+asr:0: OUTPUT 2941.44-2949.41: And we're not backing off on what we think our launch schedule is on some of those major launches. 
+asr:0: OUTPUT 2949.45-2952.45: Again, we think it positions us well as people come out of the pandemic. 
+asr:0: OUTPUT 2956.08-2965.21: Thanks very much, guys. Thanks, Jason. Thank you. Our next question is from Elizabeth Anderson with Evercore. Please go ahead. 
+asr:0: OUTPUT 2966.75-2974.49: Hi, good morning guys. I was wondering if you could help us put some numbers around the new ortho strategy. 
+asr:0: OUTPUT 2975.56-2982.88: Can you talk about maybe some comments about how you saw volumes trend within orthodontics and then. 
+asr:0: OUTPUT 2982.90-2992.15: Also, if anything you can talk about in terms of the size of the revenue base and or growth rates would be helpful just in terms of framing that opportunity on a go-forward basis. Thank you. 
+asr:0: OUTPUT 2994.79-2998.88: Thanks, Elizabeth. You know, it's funny, we haven't broken out. 
+asr:0: OUTPUT 2999.66-3006.15: You know the total orthodontic business and we don't give the clear liner numbers specifically. What I would tell you is that. 
+asr:0: OUTPUT 3006.17-3012.19: What we've seen over the last year is accelerating growth behind SureSmile. 
+asr:0: OUTPUT 3012.35-3019.98: And we've seen actually very positive trends even coming out of the pandemic. So that's one of the reasons we feel very comfortable about that decision. 
+asr:0: OUTPUT 3021.56-3028.89: Look, we feel that Densely Placed Serona has an opportunity to become a solid number two in the space, and we're going to work toward that. 
+asr:0: OUTPUT 3030.25-3032.67: So you can do some math around that. 
+asr:0: OUTPUT 3032.85-3034.01: Ultimately. 
+asr:0: OUTPUT 3034.03-3037.34: You know, we've been pretty consistent in saying we want to grow. 
+asr:0: OUTPUT 3037.78-3042.30: And we want to do margin accretions. So the steps we're taking around getting out of the traditional. 
+asr:0: OUTPUT 3042.32-3051.79: Ortho business and really focusing on clear liners helps us do that. So, you know, our bet and belief is that the clear liner space is going to be a significant thing. 
+asr:0: OUTPUT 3052.13-3055.18: Contributor to our aggregate growth rate over time. 
+asr:0: OUTPUT 3057.12-3062.94: Perfect. That's helpful. And then, you know, given obviously you guys have a pretty substantial liquidity position right now. 
+asr:0: OUTPUT 3063.22-3071.75: How do you see that playing out if you sort of assume that, you know, hopefully we're through the worst of COVID and things continue to improve from here? 
+asr:0: OUTPUT 3074.89-3078.74: Good morning. Listen, our capital deployment philosophy is. 
+asr:0: OUTPUT 3079.54-3081.24: Are not changing, have not changed. 
+asr:0: OUTPUT 3081.28-3089.93: I think it was absolutely the right thing to raise more liquidity to be in a position of strength from a financial standpoint. 
+asr:0: OUTPUT 3090.09-3096.36: We were encouraged actually by a number of shareholders to be in that position, which we totally agree with. 
+asr:0: OUTPUT 3096.84-3105.47: At this point, we want to keep doing what we're doing, being very prudent with our balance sheets, being very diligent with our cash flow. 
+asr:0: OUTPUT 3106.05-3113.11: You probably noticed in the second quarter, we had a very strong operating cash flow, very good free cash flow. 
+asr:0: OUTPUT 3113.59-3123.16: And all our parts of our deployment are not changing for now. We paid our dividends, and we have no plans to change the dividend at this time. 
+asr:0: OUTPUT 3123.94-3132.17: Once things go back to a more normal level, we'll reassess where we are at that point. 
+asr:0: OUTPUT 3132.25-3134.55: We will look at all of the. 
+asr:0: OUTPUT 3134.59-3143.58: Demands for capital, opportunities that we have at that time, and we'll make whatever decisions we think are in the best interest of our shareholders. 
+asr:0: OUTPUT 3143.60-3145.05: As we deploy that capital. 
+asr:0: OUTPUT 3145.85-3154.71: But for now, I think the focus is on the recovery, is how to ensure that we have a very stable financial position. 
+asr:0: OUTPUT 3155.42-3160.86: How we are able to fund a strategic initiative, some of which Don has talked about that. 
+asr:0: OUTPUT 3161.30-3168.77: We want to make sure that even in a low revenue environment and low profitability environment, we keep funding those initiatives. 
+asr:0: OUTPUT 3169.19-3177.88: And that is one of the reasons we have that capital. We want to keep investing in the organic growth of the company for the time being. 
+asr:0: OUTPUT 3179.46-3188.79: Thank you very much. That's helpful. Thanks, Elizabeth. Thank you. And our next question is from Steve Bushall with Wolf Research. Please go ahead. 
+asr:0: OUTPUT 3191.01-3199.86: Hi, good morning and thanks for the time here. I wanted to ask one very specific question and one kind of big picture question. The specific one is actually about Germany. 
+asr:0: OUTPUT 3200.54-3206.43: I wonder to what extent you'd be willing to talk about growth in Germany, operating conditions there. 
+asr:0: OUTPUT 3206.65-3217.50: Uh... And into what extent you think that uh... A good barometer for you know what the business might look like over the next several months in the event that we. 
+asr:0: OUTPUT 3217.52-3220.56: We get the virus under control. And then I have a... 
+asr:0: OUTPUT 3220.58-3222.22: Follow up on strategy after that. 
+asr:0: OUTPUT 3224.90-3231.55: Thanks Steve. Conditions in Germany are, if you were going to go around the world, are pretty good. 
+asr:0: OUTPUT 3232.71-3237.86: And again, I think Jorge said it well, it depends on the business. 
+asr:0: OUTPUT 3237.88-3239.36: You know. 
+asr:0: OUTPUT 3239.50-3248.05: There's been different reactions to different businesses and we kind of look at dock together, which is Germany, Switzerland and Austria. 
+asr:0: OUTPUT 3249.03-3253.45: But conditions there, if that's a harbinger of the future. 
+asr:0: OUTPUT 3253.47-3259.62: Would tell you that things do get closer to normal. I mean, there's obviously, again,. 
+asr:0: OUTPUT 3259.80-3264.26: The same things we see over here that we keep tracking is what's office capacity. 
+asr:0: OUTPUT 3264.58-3266.53: Around the new infection protocols. 
+asr:0: OUTPUT 3267.01-3276.94: Again, that keeps getting better. You know, things are better in July than they were in June, just as the dentist and their staff get more used to that. And then patient attitudes. 
+asr:0: OUTPUT 3277.70-3283.74: It's interesting, the patient tracking that we did in Germany showed that, you know,. 
+asr:0: OUTPUT 3283.76-3286.03: From a patient perspective. 
+asr:0: OUTPUT 3286.05-3295.70: There was less change in Germany than there was in the US around the pandemic. So there seems to be a little bit more of a stable attitude toward. 
+asr:0: OUTPUT 3295.72-3297.50: Visiting the dentist's office. 
+asr:0: OUTPUT 3297.80-3302.70: Ultimately if things look like germany it points to the fact that uh... Things do get back to normal. 
+asr:0: OUTPUT 3304.70-3311.97: Okay, much appreciated. And then, Don, I wanted to borrow from your experience a little bit, if I could. You're a MedTech guy. 
+asr:0: OUTPUT 3312.47-3321.04: And became incidental with uh... A different perspective on you know what the industry could be in you know how businesses could run that. 
+asr:0: OUTPUT 3321.06-3324.06: COVID has certainly changed some of that thinking. 
+asr:0: OUTPUT 3324.42-3331.17: I wonder as you keep your MedTech hat on and you think about what you want the business to look like. 
+asr:0: OUTPUT 3331.19-3340.26: How practice evolves over the next however many quarters or months and we get to the point where we're in a new post-COVID normal. 
+asr:0: OUTPUT 3340.88-3350.61: How has your thinking evolved in terms of what you want the business to be and what you think the practice looks like? 
+asr:0: OUTPUT 3351.05-3354.47: I know you have a focus on digital, that was there before. 
+asr:0: OUTPUT 3355.20-3363.48: Can you just give us a sense for maybe what you might have learned in the last few months and how your thinking has evolved on that future strategic vision? Thank you. 
+asr:0: OUTPUT 3366.13-3368.25: Thanks, Steve. 
+asr:0: OUTPUT 3368.33-3374.77: I think what COVID has done is brought into sharper focus what I think. 
+asr:0: OUTPUT 3374.79-3380.22: The industry's gonna need to be in, you know, whether it gets there in two years, three years, five years. 
+asr:0: OUTPUT 3381.48-3389.15: I think it's going to accelerate a couple trends. I mean, the first is that, you know, I think DSOs are going to pick up. 
+asr:0: OUTPUT 3389.51-3394.03: I don't think it's going to happen in the immediate short term, but I think. 
+asr:0: OUTPUT 3394.05-3401.76: If you look at in Europe, in the US, and even places in Asia Pacific where the pandemic exposed. 
+asr:0: OUTPUT 3402.22-3412.21: You know sometimes uh... Some of the offices are are kinda right on the margin and the dentist may feel it's better to practice in a larger group so i think they're there you may see a ship that way. 
+asr:0: OUTPUT 3412.85-3420.14: I think the second big thing is the idea of when you say digital, I push digital pretty hard. 
+asr:0: OUTPUT 3421.98-3428.79: In my mind, what I think whether it's the DSOs or the individual dentists are going to be doing is they're really going to be evaluating their practice more critically. 
+asr:0: OUTPUT 3429.07-3436.30: And I think COVID brought that into sharp focus that, hey, look, I've got 40 hours to see patients. How am I? 
+asr:0: OUTPUT 3436.32-3447.79: Allocating time against procedures and how am I thinking about what procedures can I do and what procedures do I really want to develop within the practice. 
+asr:0: OUTPUT 3447.81-3450.73: And I'm gonna address that accordingly. 
+asr:0: OUTPUT 3450.75-3456.10: From the equipment and where I emphasize our training and whatnot. 
+asr:0: OUTPUT 3456.62-3464.06: You know, I think what we've seen with clear aligners is something that's going to go into the rest of dentistry. 
+asr:0: OUTPUT 3464.38-3469.27: You know, when you think about implants, when you think about even basic endo work. 
+asr:0: OUTPUT 3469.39-3480.32: I think the increased digitization of diagnostics and how that can help dentist practice at the highest level of their licenses is going to accelerate. 
+asr:0: OUTPUT 3480.56-3482.04: I would say, Steve,. 
+asr:0: OUTPUT 3482.08-3488.03: I don't think anything's dramatically changed strategically. What I think it's... 
+asr:0: OUTPUT 3488.13-3494.95: You know and you read all the books and you know after major disruptions and dislocations you tend to see new trends go. 
+asr:0: OUTPUT 3495.01-3500.72: I think what might have taken a decade, because dental tends to be a little bit slower than what we saw in med tech. 
+asr:0: OUTPUT 3501.56-3503.60: I think is going to accelerate pretty dramatically. 
+asr:0: OUTPUT 3506.89-3511.73: I couldn't agree more. Thanks for all the help here. All right. Thanks, Steve. Stay safe. 
+asr:0: OUTPUT 3514.65-3519.92: Thank you. And our next question is from John Kroeger with William Blair. Please go ahead. 
+asr:0: OUTPUT 3521.24-3527.77: Hi, thanks very much. Don, could you give us an update on your integration efforts? 
+asr:0: OUTPUT 3528.31-3534.23: I'm sure COVID has impacted them a little bit, but you had a pretty long list across commercial manufacturing and R&D. 
+asr:0: OUTPUT 3534.31-3541.88: Just kind of give us a sense about where that stands and to what degree the pandemic has kind of altered the thinking around them. 
+asr:0: OUTPUT 3544.80-3546.91: Now, John, first, thanks for the question. 
+asr:0: OUTPUT 3547.95-3554.35: I would say when we outlined things in November of 18, we kind of said it was a three-year program. 
+asr:0: OUTPUT 3555.48-3563.58: I would say that, and particularly with the announcements we made this morning around traditional ortho and analog labs,. 
+asr:0: OUTPUT 3564.76-3574.49: It kind of points to the fact that we're pushing a little bit faster and we're pushing harder I think the pandemic has accelerated our thinking and, you know,. 
+asr:0: OUTPUT 3575.08-3580.40: Look when you when you see the revenue challenges in the second quarter, it also highlights. 
+asr:0: OUTPUT 3580.88-3585.51: Some of the things that we need to get after even faster. So that's kind of what I would tell you. 
+asr:0: OUTPUT 3587.65-3596.16: It's really interesting internally, we keep trying to tell people, hey look, it's not as if we're going to get the restructuring done and then that's it. 
+asr:0: OUTPUT 3596.46-3603.78: You know we're not changing ever again so i've been trying to condition the organization to understand that this is a marathon and and uh... 
+asr:0: OUTPUT 3603.80-3608.35: You know, the restructuring might have have been only the first 10k of that. 
+asr:0: OUTPUT 3609.39-3612.59: So look, I would tell you in terms of the plan we laid out. 
+asr:0: OUTPUT 3612.99-3615.08: We're we're more than halfway done. 
+asr:0: OUTPUT 3616.42-3620.86: But I would also tell you, you know, it's great as I brought in a new team with people like Jorge. 
+asr:0: OUTPUT 3620.88-3627.51: We've got a terrific supply chain leader. We've actually now got all the commercial people reporting into one person, Walter Peterson. 
+asr:0: OUTPUT 3628.49-3638.58: We're finding more and more stuff that we think that we can improve on that should have, you know, really deliver the promise of what Dense Plioceroma should be. So, you know, look. 
+asr:0: OUTPUT 3638.60-3640.00: Specifically. 
+asr:0: OUTPUT 3641.14-3645.95: If you thought it was a three-year restructuring, we're slightly ahead of where we thought we would be. 
+asr:0: OUTPUT 3646.23-3654.39: I would just tell you that our management team is committed to, as soon as we get done that restructuring, we're not stopping. How do we continuously improve? 
+asr:0: OUTPUT 3656.34-3661.22: That's great, thanks. And then one last one. How is your implant portfolio performing? 
+asr:0: OUTPUT 3664.10-3666.69: Are you rethinking that lineup at all? 
+asr:0: OUTPUT 3670.85-3672.11: We've been happy with our implant business. 
+asr:0: OUTPUT 3673.55-3676.42: We tell you when you say the second quarter, John, it's. 
+asr:0: OUTPUT 3676.80-3686.51: It's an interesting challenge in terms of what language do you use. You know, implants did well relative, but, you know, versus prior year, you know, across the whole portfolio, it was challenging. 
+asr:0: OUTPUT 3687.81-3697.50: As we talk and rethink about our portfolio, we think we've started to actually get our new products where we need to get them. 
+asr:0: OUTPUT 3698.12-3702.16: Obviously, we've talked about our immediate load ASTRI V product. 
+asr:0: OUTPUT 3702.48-3714.21: I think that's the first of what you'll see a pretty regular set of introductions over the next 18 months in our implant space that are going to really let us be competitive. 
+asr:0: OUTPUT 3714.73-3720.02: The other thing that we've been doing with implants that doesn't get a lot of highlights. 
+asr:0: OUTPUT 3720.52-3728.63: We have a business MIS that we had bought a couple years back, which lets us play a little bit more aggressively in the value segment. 
+asr:0: OUTPUT 3728.65-3737.98: As we've been rethinking how we approach our commercial go-to-market strategy across all of dental supply chain, including on implants,. 
+asr:0: OUTPUT 3738.00-3745.45: Being able to integrate that and expand that beyond the base of what they used to operate in when we bought them has been beneficial there. 
+asr:0: OUTPUT 3745.87-3754.87: We feel that implants remain a significant growth opportunity for us. I would say that we're starting to get the portfolio where we need to get it. 
+asr:0: OUTPUT 3755.18-3764.04: I'm extremely excited about what I think the new products in that space are going to be able to deliver for us over the next. 
+asr:0: OUTPUT 3764.84-3768.81: Know, a couple years. Sounds good. Thank you. 
+asr:0: OUTPUT 3771.49-3776.30: Thank you. Our next question is from John Block with Stifel. Please go ahead. 
+asr:0: OUTPUT 3778.38-3780.88: This is Trevor on for John. Thanks for taking my questions. 
+asr:0: OUTPUT 3781.44-3789.01: So, I think you mentioned earlier that your patient tracking is saying that patient confidence has been continuing to go up recently. 
+asr:0: OUTPUT 3789.41-3799.20: I'm wondering if there's any detail you can give there on just like how that's shaken out geographically and if there's a read-through to, you know, potentially some of your July comments. 
+asr:0: OUTPUT 3799.60-3801.26: Through that confidence level. 
+asr:0: OUTPUT 3802.42-3803.62: Yes, sure. Thanks, Trevor. 
+asr:0: OUTPUT 3804.40-3809.15: A couple of things, I mean first we're doing patient tracking across the entire globe. 
+asr:0: OUTPUT 3809.23-3818.38: And again, we've seen consistent improvement around people likely to visit the dentist and we measure it likely to visit. 
+asr:0: OUTPUT 3818.68-3823.66: In the next 30 days, the next quarter and whatnot. So we've been seeing consistent improvement. 
+asr:0: OUTPUT 3823.80-3831.83: Across the board there. Interestingly, there's a kind of a subgroup, people have been to the dentist, have had really positive experiences around how people, you know, whether it's. 
+asr:0: OUTPUT 3832.77-3837.06: You know, adjusting waiting room or, you know, how they're addressing infection protocols. 
+asr:0: OUTPUT 3837.54-3840.16: So we see that group as pretty positive. 
+asr:0: OUTPUT 3840.70-3851.29: One of the things we were trying to watch as they were kind of the flare ups in the US and in particular geographies, whether there was going to be a drop off in patient confidence. And we didn't see that. 
+asr:0: OUTPUT 3851.89-3857.42: So, you know, look, and by the way, while most of the patient data is good,. 
+asr:0: OUTPUT 3857.76-3864.62: There is some reluctance on, you know, kind of a segment of the population to say, you know, am I going to go back in the next month? 
+asr:0: OUTPUT 3865.13-3868.81: Versus do I intend to go back to the dentist in the next six months. 
+asr:0: OUTPUT 3868.85-3877.40: So, you know, there's a little bit of a lag there that we see, particularly in the U.S., but we don't see it elsewhere around the world. 
+asr:0: OUTPUT 3877.76-3885.65: Patient tracking has been actually a good lead indicator and again, we're seeing some good positive things there. 
+asr:0: OUTPUT 3887.91-3896.56: Got it. Thank you. And then just one more on DSOs. We've been hearing that DSOs in larger practice groups are tending to perform better in this environment. I'm just wondering if. 
+asr:0: OUTPUT 3896.88-3905.03: That's what you've been seeing. And if you think that some of the smaller, more fragmented practitioners could start to play catch-up, do as well. 
+asr:0: OUTPUT 3907.79-3915.82: To be honest, Trevor, we haven't seen a huge differentiation between the DSOs and the individual practices. 
+asr:0: OUTPUT 3916.46-3920.00: The thing that we love about this market is that. 
+asr:0: OUTPUT 3920.56-3924.66: That whether there's 600,000 dentists around the world. 
+asr:0: OUTPUT 3925.71-3928.27: And their independent business owners. 
+asr:0: OUTPUT 3928.33-3936.60: And a lot of them are very, very inventive and creative about how they go after and make sure that they're reaching out to their patients and whatnot. 
+asr:0: OUTPUT 3936.72-3945.93: I look do I think on the margin if if somebody was considering retiring in a year or two and and coven hit you know. 
+asr:0: OUTPUT 3946.03-3949.17: Do they sit there and say, now may be the time that I accelerate that? 
+asr:0: OUTPUT 3949.47-3952.55: Yeah, you might see a little bit of that, but... 
+asr:0: OUTPUT 3952.59-3962.10: And we haven't seen a sharp change in the number of dental practices that we're doing business with. 
+asr:0: OUTPUT 3962.26-3970.81: We haven't seen a drop off in the aggregate number of dental practices in key regions post COVID. 
+asr:0: OUTPUT 3970.91-3976.04: So when we're watching, you know, when we say things are 80% open, 90% open, 99. 
+asr:0: OUTPUT 3976.36-3984.44: We haven't seen the number of practices that were measuring that against change. Great. Thank you so much. 
+asr:0: OUTPUT 3987.57-3995.52: Thank you. And with that, we conclude our Q&A session for today. I would like to turn the call back to John Sweeney for his final remarks. 
+asr:0: OUTPUT 3996.96-4001.26: Thank you very much, everybody. We look forward to updating you as we move through the rest of the year. 
+asr:0: OUTPUT 4004.32-4010.23: Thank you ladies and gentlemen for participating in today's program and you may now disconnect and have a great day. 
+asr:0: END

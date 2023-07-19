@@ -1,0 +1,492 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.26-8.83: Good morning ladies and gentlemen and welcome to the Monroe Inc. Earnings Conference call for the third quarter fiscal 2020. 
+asr:0: OUTPUT 9.47-16.36: At this time, all participants are in a listen-only mode. Later, we will conduct a question and answer session and instructions will follow at that time. 
+asr:0: OUTPUT 17.22-21.26: If anyone should require assistance during the call, please press star zero on your touchtone phone. 
+asr:0: OUTPUT 22.24-29.01: As a reminder, ladies and gentlemen, this conference is being recorded and may not be reproduced in whole or in part without permission from the company. 
+asr:0: OUTPUT 29.79-36.56: I would now like to introduce Ms. Maureen Mulholland, Senior Vice President, General Counsel, and Secretary Monroe. Thank you. Please go ahead. 
+asr:0: OUTPUT 40.00-42.48: And thank you for joining us on this morning's call. 
+asr:0: OUTPUT 43.06-52.51: Before we get started, please note that as part of the call this morning, we will be referencing a presentation that is available on the Investors section of our website. 
+asr:0: OUTPUT 53.01-60.44: At corporate.monroe.com backslash investors backslash investor resources. 
+asr:0: OUTPUT 62.02-67.17: If I could draw your attention to the Safe Harbor statement on slide two of the presentation. 
+asr:0: OUTPUT 67.19-75.18: I'd like to remind participants on this morning's call that our presentation includes some forward-looking statements about Monroe's future performance. 
+asr:0: OUTPUT 75.94-80.38: Actual results may differ materially from those suggested by our comments today. 
+asr:0: OUTPUT 81.24-88.87: The most significant factors that could affect future results are outlined in Monroe's filings with the SEC and in our earnings release. 
+asr:0: OUTPUT 89.95-96.20: The company disclaims any intention or obligation to update or revise any forward-looking statements. 
+asr:0: OUTPUT 96.22-101.24: Whether as a result of new information, future events, or otherwise. 
+asr:0: OUTPUT 101.26-103.06: Except as required by law. 
+asr:0: OUTPUT 103.98-115.96: Additionally, on today's call, management statements include a discussion of certain non-GAP financial measures, which are intended to supplement and not be substitutes for comparable GAP measures. 
+asr:0: OUTPUT 116.92-125.41: Reconciliations of such supplemental information to the comparable gap measures will be included as part of today's presentation and in our earnings release. 
+asr:0: OUTPUT 126.49-132.79: With that, I'd like to turn the call over to our President and Chief Executive Officer, Brett Ponton. Brett. 
+asr:0: OUTPUT 133.51-136.70: Thank you, Maureen, and good morning, everyone. Thanks for joining us. 
+asr:0: OUTPUT 137.58-146.25: I'll get started today with a brief overview of our third quarter results, followed by an update on the progress we've made on our Monroe Forward Strategy. 
+asr:0: OUTPUT 147.65-157.58: As illustrated on slide three, we reported comps down 0.9% in the third quarter as higher year over year ticket was offset by negative traffic. 
+asr:0: OUTPUT 158.34-163.86: In October and the beginning of November, we performed well against difficult comparisons in the prior year. 
+asr:0: OUTPUT 164.64-171.53: Mild weather conditions towards the end of November and in December caused a slowdown across our core northern markets. 
+asr:0: OUTPUT 172.29-178.40: These conditions have continued into January with our comparable store sales down 4% during the month. 
+asr:0: OUTPUT 179.66-185.89: We do not like talking about the weather, however, it is impossible to ignore the impact it has on our business. 
+asr:0: OUTPUT 186.61-193.61: While we are not satisfied with our financial results this quarter, we are executing well against the areas within our control. 
+asr:0: OUTPUT 194.27-200.94: In particular, we continue to move deeper into our company transformation and are confident we are on the right path. 
+asr:0: OUTPUT 201.76-211.71: We are committed to making the necessary changes across our organization to position us to deliver strong results no matter the external circumstances. 
+asr:0: OUTPUT 212.95-220.54: Moving on to our performance by category in the third quarter, we were down 1% year over year in entire comparable store sales. 
+asr:0: OUTPUT 221.00-224.86: As higher ticket year over year was offset by a decline in tire volume. 
+asr:0: OUTPUT 226.05-235.66: We experienced more normalized retail pricing this quarter and are focused on further refining our tire strategy to drive strength in our largest category. 
+asr:0: OUTPUT 236.08-244.26: Importantly, we are on track to roll out our tire category management and pricing system beginning in the first quarter of fiscal 2021. 
+asr:0: OUTPUT 244.30-248.97: Which will enable a more dynamic and sophisticated approach to real-time pricing. 
+asr:0: OUTPUT 249.57-251.47: I'll provide more details on this shortly. 
+asr:0: OUTPUT 252.95-261.82: Turning to our service and repair categories, we saw a 3% decline in breaks year over year, falling short of a difficult comparison in the third quarter last year. 
+asr:0: OUTPUT 262.44-268.69: In maintenance, we were flat while front end shocks were down 1% and alignments declined 3% year over year. 
+asr:0: OUTPUT 269.43-277.46: Overall, our southern markets outperformed our northern markets as expected, given the mild winter weather conditions we faced in this region. 
+asr:0: OUTPUT 278.88-285.83: New scores added $22.7 million in revenue during the quarter, including $20.7 million from recent acquisitions. 
+asr:0: OUTPUT 286.79-289.21: Regarding our gross margin performance during the quarter,. 
+asr:0: OUTPUT 289.29-297.32: We saw a decline of 20 basis points compared to the prior year period, primarily driven by the decrease in our comparable store sales. 
+asr:0: OUTPUT 297.40-300.88: Which resulted in higher fixed costs as a percentage of sales. 
+asr:0: OUTPUT 302.08-308.41: Our variable margin, on the other hand, expanded due to lower year-over-year material costs as a percentage of sales. 
+asr:0: OUTPUT 309.01-315.80: While slightly higher than the prior year quarter, technician labor as a percentage of sales decreased sequentially from last quarter. 
+asr:0: OUTPUT 316.34-320.26: This is a good example of us executing well against the areas within our control. 
+asr:0: OUTPUT 320.88-326.99: We identified issues last quarter that arose from our transformation and took corrective action to drive improved results. 
+asr:0: OUTPUT 328.17-332.23: We will have additional opportunities to continue to improve results in this area. 
+asr:0: OUTPUT 332.25-338.66: As we implement our cloud-based door staffing and scheduling model towards the end of this fiscal year. 
+asr:0: OUTPUT 338.68-345.47: Which will be critical for us to seamlessly adjust the changes in demand dynamics without sacrifice and sale. 
+asr:0: OUTPUT 346.89-354.83: I'd now like to turn to the progress we've made in our Monroe Forward Strategy, beginning with our store rebrand and reimage initiative on slide four. 
+asr:0: OUTPUT 355.86-359.88: This initiative focuses on creating a more consistent score of parents. 
+asr:0: OUTPUT 359.90-364.72: While also implementing standardized in-store operating procedures. 
+asr:0: OUTPUT 364.74-371.33: Which we call our Monroe playbook. Additionally, we are rebranding select stores to a tire oriented banner. 
+asr:0: OUTPUT 371.35-379.60: Where targeted demographics favor this type of store format in order to increase tire sales without sacrificing service revenue. 
+asr:0: OUTPUT 380.94-389.61: During the first half of fiscal 2020, we finalized the transformations of our first group of stores, which includes 44 locations in Rochester, New York. 
+asr:0: OUTPUT 389.63-395.12: And the Mid-Atlantic, as well as the second group, which includes 43 stores in our Southern Market. 
+asr:0: OUTPUT 396.08-400.48: During the third quarter, we continue to scale this initiative across our base and move forward. 
+asr:0: OUTPUT 400.50-407.21: With the transformation of 74 stores in four markets and 42 of our recently acquired California stores. 
+asr:0: OUTPUT 408.39-411.27: We have completed the transformation of the 74 stores. 
+asr:0: OUTPUT 411.29-421.64: And have substantially completed our California stores, which are being rebranded under our Tire Choice Auto Service Centers banner to drive higher awareness for tires. 
+asr:0: OUTPUT 422.88-429.89: Turning to slide five, I'd like to provide some additional context regarding our strategic rationale as we transform our store base. 
+asr:0: OUTPUT 431.13-433.89: As many of you know, we operate in two-store format. 
+asr:0: OUTPUT 434.49-440.42: Our service brand stores, which generate approximately $600,000 per store in annualized sales. 
+asr:0: OUTPUT 440.44-446.07: And our tire brand stores which generate approximately $1.2 million per store in annualized sales. 
+asr:0: OUTPUT 446.89-453.85: Prior to any rebrand activity, we operated 555 service brand stores and 734 tire brand stores. 
+asr:0: OUTPUT 454.51-461.92: As we work to create a nationwide chain of consistently operated stores, we are prioritizing the higher volume tire brands. 
+asr:0: OUTPUT 462.82-469.87: Throughout this process, we will be consolidating our regional brands, focusing on shifting our service brands over to tire brands. 
+asr:0: OUTPUT 470.61-475.05: The lower number of brands will also allow us to improve our marketing productivity. 
+asr:0: OUTPUT 475.76-483.14: When we speak to re-imaging stores, this primarily means modernizing the appearance of our stores with no associated brand change. 
+asr:0: OUTPUT 483.86-490.49: As we are making decisions regarding rebranding versus re-imaging stores, we are leveraging our analytical model. 
+asr:0: OUTPUT 490.51-494.07: As well as taking into account our brand equity in that market. 
+asr:0: OUTPUT 495.30-499.64: Looking at the bottom left of the slide, you can see here the progress we have made so far. 
+asr:0: OUTPUT 500.18-507.39: We are very much in the early innings of this transformation with 203 stores substantially completed out of our portfolio. 
+asr:0: OUTPUT 508.05-515.64: We've separated these stores out between comp stores and non-comp stores, which helps us to evaluate their performance post-refresh. 
+asr:0: OUTPUT 516.94-520.64: Of our approximately 900 comp stores that we set out to transform. 
+asr:0: OUTPUT 520.92-528.47: We've completed 134 stores and of our approximately 150 non-comp stores, we've substantially completed 69. 
+asr:0: OUTPUT 529.19-537.46: As we move forward with expanding this program across our base, we will continue to prioritize markets that we expect will drive the largest benefit. 
+asr:0: OUTPUT 537.48-543.38: To our sales performance and our approach we measured in order to keep sales disruption to a minimum. 
+asr:0: OUTPUT 544.62-551.43: Through the end of this fiscal year, we're focusing on finalizing the transformation of our recently acquired California stores. 
+asr:0: OUTPUT 551.45-557.16: While starting the transformation of approximately 80 more stores that will be completed in Q1. 
+asr:0: OUTPUT 557.18-558.40: Of FY21. 
+asr:0: OUTPUT 559.34-565.13: Moving on to the performance of the stores we've completed so far, to help provide some additional granularity. 
+asr:0: OUTPUT 565.15-570.81: We separated out how rebranded stores have performed versus the stores that have just been re-imaged. 
+asr:0: OUTPUT 571.39-579.62: Importantly, this data only includes comp stores that have had a full quarter of performance following the completion of their transformation. 
+asr:0: OUTPUT 580.18-587.59: This is how we will speak to this performance of our transformed stores moving forward. 
+asr:0: OUTPUT 588.75-595.14: As you can see, and in line with our expectations, we see a significant sales lift when we rebrand stores. 
+asr:0: OUTPUT 595.50-602.86: This shift optimizes our brand awareness and increases our tire sales without sacrificing our service revenues. 
+asr:0: OUTPUT 603.84-613.39: The stores that have been re-imaged were slightly down as these are located in our northern markets, which were impacted by the mild weather conditions I mentioned earlier. 
+asr:0: OUTPUT 614.01-621.36: We believe this performance clearly highlights the strong opportunity we have and the benefits that come with a streamlined brand portfolio. 
+asr:0: OUTPUT 622.54-630.49: The 74 stores that we recently completed and are not included in this calculation, given they have not had a full quarter post-transformation yet,. 
+asr:0: OUTPUT 630.99-636.54: But we are seeing early signs of strength at these stores and are pleased with the results. 
+asr:0: OUTPUT 637.54-642.22: While we still have a while to go to roll this program out to our entire base,. 
+asr:0: OUTPUT 642.24-650.59: The sustained performance we've seen at the stores that have completed the transformation to date underscores the impact of this important initiative. 
+asr:0: OUTPUT 652.05-659.74: Turning to slide six and the remainder of our Monroe Forward initiatives, I'd like to focus my discussion on the initiatives that are top priority. 
+asr:0: OUTPUT 659.76-662.96: Which we believe will be critical to supporting our broader strategy. 
+asr:0: OUTPUT 663.70-672.11: In the third quarter, we began modernizing our store IT infrastructure at all of our approximately 1,300 locations. 
+asr:0: OUTPUT 672.99-675.24: This new infrastructure enables. 
+asr:0: OUTPUT 675.26-683.90: State-of-the-art technology, including our new digital phone and texting system, which is a major step towards improving the overall customer experience. 
+asr:0: OUTPUT 684.54-692.05: This system will allow us to better track customer execution, driving a more consistent phone strategy, and improved conversion. 
+asr:0: OUTPUT 692.71-698.26: Our store infrastructure modernization will be completed by the end of the first quarter of fiscal 2021. 
+asr:0: OUTPUT 698.38-703.44: Allowing us to leverage our new phone system, which will be critical to driving traffic to our stores. 
+asr:0: OUTPUT 704.84-708.69: Another priority for us is the optimization of our entire category of management. 
+asr:0: OUTPUT 709.33-715.72: We are on track and by the end of this fiscal year, we expect our new pricing software will be operational. 
+asr:0: OUTPUT 716.22-720.22: We believe this will be critical to driving long-term margin expansion. 
+asr:0: OUTPUT 720.24-726.35: By providing improved visibility into demand dynamics, allowing us to better refine our assortments. 
+asr:0: OUTPUT 726.37-731.27: And execute our strategy to become the number one destination for tires at any price point. 
+asr:0: OUTPUT 732.57-737.94: Finally, we are right on track to roll out our cloud-based store scheduling model pilot by year end. 
+asr:0: OUTPUT 738.76-748.03: Gaining real-time visibility into our labor model via the cloud will help us be more effective and strategic, ensuring we are not understaffed and losing sales. 
+asr:0: OUTPUT 748.05-750.37: Or overstaff when there is a lack of demand. 
+asr:0: OUTPUT 751.31-760.04: Regarding our other teaming initiatives, we have rolled out the Monroe University program to all of our teammates and are continuing to expand and enhance the course content. 
+asr:0: OUTPUT 760.68-769.71: We've also implemented mandatory onboard training to ensure that everyone who joins our team is trained on our Monroe Playbook operating procedures. 
+asr:0: OUTPUT 770.31-773.83: In order to provide a quality five-star experience to our customers. 
+asr:0: OUTPUT 775.08-782.48: Moving on to slide seven, while we are very focused on the rollout of Monroe Forward, acquisitions remain a cornerstone of our GROW strategy. 
+asr:0: OUTPUT 783.08-787.17: During the quarter, we closed the previously announced acquisitions of three companies. 
+asr:0: OUTPUT 787.67-795.44: One with 14 locations in Las Vegas, Nevada, and four in Boise, Idaho, as well as two companies that include nine stores in Northern California. 
+asr:0: OUTPUT 796.10-799.60: Further solidifying our growing position in the Western United States. 
+asr:0: OUTPUT 800.40-808.77: Our presence in this region allows us to better service national accounts as well as benefit from the high concentration of vehicles in this market. 
+asr:0: OUTPUT 808.79-812.11: And a potential long-term consumer shift to ride-sharing. 
+asr:0: OUTPUT 813.09-820.04: The acquisition in Nevada and Idaho, which are new states to Monroe, is expected to add approximately $20 million in annualized sales. 
+asr:0: OUTPUT 820.06-824.42: Representing a sales mix of 75% service and 25% tires. 
+asr:0: OUTPUT 825.15-830.09: The acquisitions in California are expected to add approximately $25 million in annualized sales. 
+asr:0: OUTPUT 830.79-835.70: Representative sales mix of 55% service and 45% tires. 
+asr:0: OUTPUT 836.36-842.70: These acquisitions are expected to be diluted to diluted earnings per share in fiscal 2020. 
+asr:0: OUTPUT 843.84-851.35: Overall, acquisitions announced and completed in fiscal 2020 collectively represent an expected $120 million in annualized sales. 
+asr:0: OUTPUT 852.55-858.66: We operate in a very fragmented industry with significant opportunities for further consolidation. 
+asr:0: OUTPUT 859.00-866.03: And we believe we are well positioned to continue to execute on our robust pipeline of attractive M&A targets. 
+asr:0: OUTPUT 866.75-872.11: We currently have over 10 NDAs signed with opportunities ranging from 5 to 40 stores. 
+asr:0: OUTPUT 872.13-879.62: Which we believe will allow us to maintain our leadership position in the markets we serve while continuing to expand our geographic footprint. 
+asr:0: OUTPUT 879.98-882.16: Into attractive and underserved regions. 
+asr:0: OUTPUT 883.48-888.97: Further, by continuing to execute our Monroe Forward initiatives, including our new brand standards and operating procedures,. 
+asr:0: OUTPUT 888.99-893.83: We expect to integrate our new acquisitions more effectively and efficiently. 
+asr:0: OUTPUT 894.65-903.40: Lastly, we opened one greenfield location during third quarter, bringing our total greenfield store openings to seven in fiscal 2020. 
+asr:0: OUTPUT 904.22-908.99: In conclusion, we are confident we are on the right track to drive future success in our business. 
+asr:0: OUTPUT 909.63-918.66: We are in the early innings of a significant company transformation that will result in a platform capable of delivering sustainable long-term growth. 
+asr:0: OUTPUT 919.46-924.82: We are not there yet, nor do we expect our results to be linear as we move through the transformation. 
+asr:0: OUTPUT 925.39-932.75: But we are committed to driving the necessary changes to improve our business, making the appropriate course corrections when necessary,. 
+asr:0: OUTPUT 932.77-935.62: And executing well against the areas within our control. 
+asr:0: OUTPUT 936.38-945.63: I'd like to thank the entire team at Monroe for their exceptional work as we execute this strategy, as well as our customers and shareholders for their continued support. 
+asr:0: OUTPUT 946.71-953.31: With that, I'll turn the call over to our Executive Vice President, Chief Financial Officer and Treasurer, Brian DeAmbrosio. 
+asr:0: OUTPUT 953.33-958.24: We will provide additional details on our third quarter financial performance and fiscal 2020 outlook. 
+asr:0: OUTPUT 959.34-964.38: Thank you, Brett, and good morning, everyone. Turning to slide eight in our performance during the quarter. 
+asr:0: OUTPUT 964.97-970.77: Sales increased 6.2% year-over-year to $329.3 million. 
+asr:0: OUTPUT 971.23-978.56: Driven by sales from new stores of $22.7 million, including $20.7 million from recent acquisitions. 
+asr:0: OUTPUT 979.34-985.04: Partially offset by a decrease in sales from closed stores of approximately $0.8 million. 
+asr:0: OUTPUT 985.91-989.47: Same store sales in the quarter were down 0.9% year over year. 
+asr:0: OUTPUT 990.07-996.12: The third quarter of fiscal 2020 had 89 selling days in line with the previous year period. 
+asr:0: OUTPUT 997.50-1006.83: Rose margin decreased 20 basis points to 37.8% in the third quarter of fiscal 2020 from 38% in the prior year period. 
+asr:0: OUTPUT 1007.55-1011.95: This decrease was partially due to an increase in distribution and occupancy costs. 
+asr:0: OUTPUT 1011.97-1018.26: As a percentage of sales as we lost leverage on these largely fixed costs with lower comparable store sales. 
+asr:0: OUTPUT 1018.90-1025.89: However, as Brett mentioned, we saw improvements in our variable margin driven by lower material costs as a percentage of sales. 
+asr:0: OUTPUT 1026.81-1035.14: Operating expenses for the quarter increased $5.5 million to $92.8 million, or 28.2% of sales. 
+asr:0: OUTPUT 1035.34-1041.96: As compared with $87.3 million or 28.1% of sales for the prior year period. 
+asr:0: OUTPUT 1042.66-1047.53: The year-over-year dollar increase includes expenses from 103 net new stores. 
+asr:0: OUTPUT 1048.83-1053.59: Our operating income for the third quarter was $31.6 million. 
+asr:0: OUTPUT 1053.61-1059.76: Which increased by 2.8% as compared to operating income of $30.7 million. 
+asr:0: OUTPUT 1059.78-1066.85: For the same quarter last year and decreased as a percentage of sales from 9.9% to 9.6%. 
+asr:0: OUTPUT 1067.83-1077.30: Net interest expense for the third quarter increased $0.2 million to $7 million as compared to $6.8 million in the same period last year. 
+asr:0: OUTPUT 1077.92-1087.63: The weighted average debt outstanding for the third quarter of fiscal 2020 increased by approximately $112 million as compared to the prior year period. 
+asr:0: OUTPUT 1088.23-1097.58: The increase is primarily related to an increase in financing lease debt recorded in connection with our fiscal 2020 acquisitions and greenfield expansion. 
+asr:0: OUTPUT 1097.66-1103.70: As well as an increase in debt outstanding under our revolving credit facility to fund the purchase of our acquisitions. 
+asr:0: OUTPUT 1104.44-1107.59: The weighted average interest rate for the third quarter decreased. 
+asr:0: OUTPUT 1107.61-1116.34: By approximately 140 basis points year over year due to lower LIBOR and prime interest rates, as well as lower borrowing rates associated with new leases. 
+asr:0: OUTPUT 1117.92-1125.06: Our effective tax rate was 24.1% for the third quarter compared to 15.3% for the same period last year. 
+asr:0: OUTPUT 1125.65-1133.69: The year-over-year increase is primarily due to a one-time income tax benefit adjustment we realized in the prior year. 
+asr:0: OUTPUT 1133.71-1136.74: Related to a retroactive accounting method change. 
+asr:0: OUTPUT 1137.18-1145.95: Which was related to certain deductions that the IRS accepted during the examination of our fiscal 2016 and fiscal 2017 tax returns. 
+asr:0: OUTPUT 1147.17-1154.49: Net income for the third quarter was $18.9 million compared to $20.5 million in the prior year period. 
+asr:0: OUTPUT 1155.06-1163.80: Diluted earnings per share for the third quarter of fiscal 2020 were $0.56 compared to diluted earnings per share of $0.61. 
+asr:0: OUTPUT 1163.82-1165.17: And the third quarter of fiscal. 
+asr:0: OUTPUT 1166.95-1174.95: Adjusted diluted earnings per share, which is a non-GAAP measure, for the third quarter of fiscal 2020 was $0.60. 
+asr:0: OUTPUT 1174.97-1184.20: Which excludes from diluted earnings per share, three cents of costs related to Monroe Forward initiatives, and one cent of costs related to acquisition due diligence and integration. 
+asr:0: OUTPUT 1185.01-1191.41: This compares to adjusted diluted earnings per share of 57 cents in the third quarter of fiscal 2019. 
+asr:0: OUTPUT 1191.95-1199.70: Which excluded one cent of costs related to Monroe Forward Initiatives, one cent of non-recurring corporate and field management realignment costs,. 
+asr:0: OUTPUT 1199.72-1203.52: And six cents benefit from the one-time income tax adjustment. 
+asr:0: OUTPUT 1204.28-1212.79: For more information on this non-GAAP measure, please see the Reconciliation of Adjusted Diluted Earnings per Share to Diluted Earnings per Share in our earnings release. 
+asr:0: OUTPUT 1214.09-1221.30: Lastly, we opened one Greenfield location during the third quarter. As a reminder, Greenfield stores include new construction,. 
+asr:0: OUTPUT 1221.32-1224.56: As well as the acquisition of one to four store operations. 
+asr:0: OUTPUT 1225.27-1230.87: Greenfield locations on average are expected to add approximately $1 million each in annual sales. 
+asr:0: OUTPUT 1231.85-1240.54: As of December 28, 2019, the company had 1,289 company-operated stores and 99 franchise locations. 
+asr:0: OUTPUT 1240.56-1248.79: As compared with 1,186 company-operated stores and 99 franchise locations as of December 29, 2019. 
+asr:0: OUTPUT 1250.35-1254.97: During the third quarter, we added 27 company-operated stores and closed none. 
+asr:0: OUTPUT 1257.04-1264.24: Turning to slide nine, we continue to maintain our disciplined approach to capital allocation as we execute our growth strategy. 
+asr:0: OUTPUT 1264.92-1270.57: Our capital expenditures were $42.2 million in the first nine months of fiscal 2020. 
+asr:0: OUTPUT 1271.13-1276.68: Of which approximately $18 million was related to investment in our Monroe Forward Initiative. 
+asr:0: OUTPUT 1277.42-1280.38: We are pleased with the progress of our Monroe Forward Strategy. 
+asr:0: OUTPUT 1280.42-1287.71: And we continue to expect an incremental $75 million in capital expenditures above our normal run rate. 
+asr:0: OUTPUT 1287.73-1291.91: Over five years to support investments in story image and technology. 
+asr:0: OUTPUT 1293.15-1298.18: Additionally, accretive acquisitions support our growth strategy. 
+asr:0: OUTPUT 1298.60-1304.78: During the first nine months of the year, we spent approximately $104 million on acquisitions. 
+asr:0: OUTPUT 1305.01-1310.03: Including one to four store acquisitions completed as part of our Greenfield expansion strategy. 
+asr:0: OUTPUT 1310.81-1320.20: As Brett mentioned, acquisitions announced and completed in fiscal 2020 collectively represent an expected $120 million in annualized sales. 
+asr:0: OUTPUT 1320.94-1323.02: I'd like to provide some additional clarity here. 
+asr:0: OUTPUT 1323.70-1329.85: The $120 million in sales represents the expected run rate for these stores once they have been fully integrated. 
+asr:0: OUTPUT 1330.09-1334.55: Which as we've stated in the past, is usually in year three post-acquisition. 
+asr:0: OUTPUT 1335.18-1343.04: During years one and two following the acquisition, we typically see a step down in sales given the process of onboarding new stores to our model. 
+asr:0: OUTPUT 1344.08-1350.05: Moving on, we continue to be committed to returning capital to our shareholders through our dividend program. 
+asr:0: OUTPUT 1350.21-1354.55: And paid approximately $22 million in dividends in the first nine months of fiscal. 
+asr:0: OUTPUT 1356.18-1362.54: Finally, we remain focused on maintaining a solid balance sheet with ample flexibility to support our strategic growth initiatives. 
+asr:0: OUTPUT 1363.10-1368.37: We entered the third quarter with strong leverage ratios and have ample room under our financial covenant. 
+asr:0: OUTPUT 1369.13-1376.82: We generated approximately $125 million of cash flow from operating activities during the first nine months of fiscal 2020. 
+asr:0: OUTPUT 1377.24-1382.42: And debt under our revolving credit facility increased by approximately $59 million. 
+asr:0: OUTPUT 1384.06-1387.73: Now turning to our outlook for fiscal 2020 on slide 10. 
+asr:0: OUTPUT 1388.35-1397.62: We have updated our fiscal 2020 comparable store sales guidance range to a decrease of 1% to flat to reflect the impact of our year-to-date performance. 
+asr:0: OUTPUT 1398.46-1403.80: Based on the updated comparable store sales guidance and the contribution from recently closed acquisitions. 
+asr:0: OUTPUT 1404.32-1413.79: We now anticipate fiscal 2020 sales to be in the range of $1,275,000,000 to $1,290,000,000. 
+asr:0: OUTPUT 1413.87-1420.10: An increase of 6.2% to 7.5% as compared to fiscal 2019 sales. 
+asr:0: OUTPUT 1420.86-1428.85: This compares to the previous sales guidance range of $1,295,000,000 to $1,315,000,000. 
+asr:0: OUTPUT 1429.49-1435.10: Our guidance assumes relatively stable overall tire and oil costs for the balance of fiscal 2020. 
+asr:0: OUTPUT 1436.54-1446.93: Given the impact of our year-to-day performance, we expect fiscal 2020 earnings for Duluth to share to be in the range of $2.25 to $2.35. 
+asr:0: OUTPUT 1446.95-1451.87: Representing a decline of 5.1% to 0.8% year-over-year. 
+asr:0: OUTPUT 1452.57-1455.18: Compared to $2.37 in fiscal. 
+asr:0: OUTPUT 1457.04-1461.82: This compares to the previous guidance of $2.45 to $2.55. 
+asr:0: OUTPUT 1463.40-1466.11: On an adjusted basis, which is a non-GAAP measure. 
+asr:0: OUTPUT 1466.63-1473.01: The company expects diluted earnings per share to be in the range of $2.35 to $2.45. 
+asr:0: OUTPUT 1473.57-1478.50: Representing a decline of 1.7% to growth of 2.5%. 
+asr:0: OUTPUT 1478.54-1485.27: Which excludes from diluted earnings per share, Monroe Forward Initiative costs, and acquisition due diligence and integration costs. 
+asr:0: OUTPUT 1486.13-1492.19: This compares to adjusted diluted earnings per share of $2.39 in fiscal 2019. 
+asr:0: OUTPUT 1492.27-1498.70: Which excluded Monroe-Ford initiative costs, non-recurring corporate and field management realignment costs,. 
+asr:0: OUTPUT 1498.94-1504.44: Acquisition due diligence and integration costs, and the benefit from the one-time income tax adjustment. 
+asr:0: OUTPUT 1505.53-1513.05: Acquisitions announced and completed in fiscal 2020 are expected to be diluted to earnings per diluted share during the year. 
+asr:0: OUTPUT 1513.85-1519.50: At the midpoint of our guidance range, we expect an operating margin of approximately 10.2%. 
+asr:0: OUTPUT 1519.52-1526.91: Interest expense to be approximately $29 million, depreciation and amortization to be approximately $65 million,. 
+asr:0: OUTPUT 1527.37-1530.77: And EBITDA to be approximately $196 million. 
+asr:0: OUTPUT 1531.43-1535.30: We expect capital expenditures to be approximately $60 million this year. 
+asr:0: OUTPUT 1535.94-1544.30: This guidance reflects an effective tax rate of approximately 23.5% and is based on 34 million diluted weighted average shares outstanding. 
+asr:0: OUTPUT 1544.90-1549.81: As always, our guidance does not assume any future acquisitions or Greenfield store openings. 
+asr:0: OUTPUT 1550.59-1554.75: I'll now turn the call over to Brett to provide some closing remarks before we move to Q&A. 
+asr:0: OUTPUT 1555.90-1563.86: We are making solid strides in the execution of our Monroe Forward strategy, in particular our store rebrand and reimage initiative. 
+asr:0: OUTPUT 1564.36-1570.33: The strong results of the locations that have completed this transformation underscore our confidence in this initiative. 
+asr:0: OUTPUT 1570.91-1578.24: The store rebrand and reimage program is further supported by our technological investments, which we believe will help drive long-term margin expansion. 
+asr:0: OUTPUT 1578.90-1583.52: In summary, we remain committed to driving the necessary changes to improve our business. 
+asr:0: OUTPUT 1583.58-1589.05: Making the appropriate force corrections when necessary, and executing well against the areas within our control. 
+asr:0: OUTPUT 1589.53-1597.64: We are excited for our future and look forward to capitalizing on the attractive opportunities ahead. With that, I will now turn the call over to the operator for questions. 
+asr:0: OUTPUT 1600.00-1607.03: At this time, we will be conducting a question and answer session. If you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1607.67-1614.81: A confirmation tone will indicate your line is in the question queue. You may press star 2 if you would like to remove your question from the queue. 
+asr:0: OUTPUT 1615.42-1624.44: For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. Once again, that is star 1 to register questions at this time. 
+asr:0: OUTPUT 1625.27-1628.91: Our first question is coming from Brian Nagel of Oppenheimer. Please go ahead. 
+asr:0: OUTPUT 1630.57-1637.22: Good morning. Morning, Brian. So I want to focus, I apologize for... 
+asr:0: OUTPUT 1637.24-1643.02: I'm focusing on the weather here, but I do just want to dive a little deeper into sales trends in the quarter. 
+asr:0: OUTPUT 1643.84-1653.49: So, Brett, you mentioned, I think, Brian, you did too, in your prepared comments, you made some commentary suggesting that to the degree to which weather impacted the business. 
+asr:0: OUTPUT 1653.61-1660.42: I was wondering if you could drill down a little further and say what that negative .9 comp would have been had the weather cooperated. 
+asr:0: OUTPUT 1660.80-1670.73: And some of the other metrics you're seeing that really suggest the underlying business is trending better than what we saw in the weather-affected fiscal Q3. 
+asr:0: OUTPUT 1673.51-1676.14: I'll take the first part and I'll let Brian take the second part of the question. 
+asr:0: OUTPUT 1678.66-1680.34: At the performance in the corridor. 
+asr:0: OUTPUT 1680.76-1688.83: As we talked about, our northern markets certainly underperformed the southern markets and give you a little more granularity on that. Certainly our stores up in the northeast. 
+asr:0: OUTPUT 1690.29-1700.26: And the Midwest were where you would expect to have more exposure to weather conditions like you have in the Northeast, certainly underperformed. 
+asr:0: OUTPUT 1700.60-1702.74: I think it's difficult to say what we would have done. 
+asr:0: OUTPUT 1704.20-1708.23: Yes, certainly I think we were expecting positive comps in the quarter. 
+asr:0: OUTPUT 1709.03-1718.82: Our internal expectations would have been closer to plus one to plus one and a half, assuming normalized weather conditions that we have seen in the past. 
+asr:0: OUTPUT 1720.14-1726.09: We felt really good coming out of October and November given the strength of last year's performance that we were popping against. 
+asr:0: OUTPUT 1726.83-1734.03: And didn't get the cooperation from the weather in December that we were certainly expecting. 
+asr:0: OUTPUT 1735.26-1740.08: As I made the comments in my prepared remarks, we certainly don't like talking about the weather. 
+asr:0: OUTPUT 1740.50-1745.31: But we can't ignore the fact that when 50% of our businesses tires and. 
+asr:0: OUTPUT 1745.35-1752.33: We have a high concentration of stores in the Northeast and Midwest. We are going to have outsized exposure to our. 
+asr:0: OUTPUT 1752.35-1753.43: RxOpt performance. 
+asr:0: OUTPUT 1757.20-1760.26: Brian, would you mind maybe restating the second part of your question? 
+asr:0: OUTPUT 1761.50-1763.42: Well i think i think it'll better i think you covered. 
+asr:0: OUTPUT 1763.60-1773.35: Maybe I'll just bounce right in. A follow-up question if I could. So the adjusted guidance that you mentioned, so in January you did I think a negative four. 
+asr:0: OUTPUT 1773.99-1781.22: If I'm doing the math, it looks as though the adjusted guidance would suggest some type of pickup in business in February and March. 
+asr:0: OUTPUT 1781.46-1784.28: I guess the first question is, is that assumption correct? 
+asr:0: OUTPUT 1784.80-1789.37: And then the following question is, I know we've seen this before with your business,. 
+asr:0: OUTPUT 1789.75-1793.87: But what point does, because the clue, we still have a long way to go. 
+asr:0: OUTPUT 1793.89-1800.92: We have potentially a long time in the winter. The weather could still come, but is there a point at which in the quarter where the weather just comes too quickly? 
+asr:0: OUTPUT 1803.46-1813.25: Yeah, so Brian, your assumption is correct regarding the implied comps. So if you think about Q4 at the midpoint,. 
+asr:0: OUTPUT 1813.27-1818.08: Of let's say down 0.5 for the full year down 0.5. 
+asr:0: OUTPUT 1818.24-1821.56: That implies Q4 of down two. 
+asr:0: OUTPUT 1821.58-1826.07: Which would be about February and March being down one in order to get to that down two. 
+asr:0: OUTPUT 1826.55-1831.91: That's the dynamic at the midpoint, so there is an expectation of a pickup in February and March. 
+asr:0: OUTPUT 1834.29-1840.06: Brian, maybe just to comment on the second part. As we get deeper into the fourth quarter,. 
+asr:0: OUTPUT 1841.30-1842.36: The quarter in particular. 
+asr:0: OUTPUT 1842.96-1851.99: We become less sensitive to the weather as you transition out of pure winter conditions into spring. 
+asr:0: OUTPUT 1853.49-1856.04: Certainly I think the later in the. 
+asr:0: OUTPUT 1856.66-1858.08: Snowfall certainly does. 
+asr:0: OUTPUT 1858.22-1865.51: Have the same impact on tire demand like you would find in our business if we got snowfall in October or November. 
+asr:0: OUTPUT 1866.17-1872.17: Consumers are pretty thrifty with their money and I believe you get snowfall late in the season. 
+asr:0: OUTPUT 1872.31-1878.04: They have a tendency to forego that first purchase and push it out till next season in particular. 
+asr:0: OUTPUT 1878.42-1883.54: The other thing to call out as well is, if you look at our historic performance at the company,. 
+asr:0: OUTPUT 1884.56-1890.63: December and January have always been the most volatile months that we had to contend with. 
+asr:0: OUTPUT 1890.79-1893.95: I think what we've seen in past performance here. 
+asr:0: OUTPUT 1895.12-1901.56: Trends coming out of December, January don't necessarily reflect what you see in the spring month. 
+asr:0: OUTPUT 1902.74-1911.11: Given the mild December-January heading into the balance of the quarter, we feel pretty good about the guidance range we provided. 
+asr:0: OUTPUT 1911.83-1921.02: As Brian said, our midpoint assumes that. On the low end of our CompState guidance, it assumes run rate coming out of January, which we certainly believe we're going to be better than that. 
+asr:0: OUTPUT 1921.04-1922.38: As we roll into FY20. 
+asr:0: OUTPUT 1925.45-1934.77: I appreciate all the color. Thank you. Thanks, Brian. Thank you. Our next question is coming from Jonathan Lammers of BMO Capital Markets. Please go ahead. 
+asr:0: OUTPUT 1938.76-1948.65: Looking at your slide on store rebranding, the 18% performance of the rebranded stores is good. 
+asr:0: OUTPUT 1950.11-1957.50: I'm curious, from your analytic model, how many years should it take a rebranded store to reach projected run rate sales? 
+asr:0: OUTPUT 1960.36-1963.96: If you look at the top quadrant of that slide, Jonathan. 
+asr:0: OUTPUT 1965.61-1973.93: We've shared with investors the fact that our service stores do roughly $600,000 in revenue and our tire stores do a million too. 
+asr:0: OUTPUT 1974.55-1980.50: So in the case where we're rebranding a service store, you're working off a base on average of 600,000. 
+asr:0: OUTPUT 1981.12-1984.70: And if we've seen, I'll call it double-digit comp improvement. 
+asr:0: OUTPUT 1984.74-1987.79: Off of that base, you can get to implied. 
+asr:0: OUTPUT 1987.81-1997.26: Numbers certainly on how fast or how long it would take to ramp to the full maturity equally in the average sales performance. 
+asr:0: OUTPUT 1997.32-1998.98: Of our entire brain at source. 
+asr:0: OUTPUT 1999.84-2006.41: That's one of the things that's encouraging about the strategy for us is not that it's just a one-time step up in sales. 
+asr:0: OUTPUT 2006.45-2010.55: This creates the opportunity to create multiple years of. 
+asr:0: OUTPUT 2010.57-2011.97: Sustainable growth. 
+asr:0: OUTPUT 2012.49-2018.28: As our brand and our positioning, our brand related tires starts to mature. 
+asr:0: OUTPUT 2018.42-2023.18: Keep in mind the entire purchase cycle with consumers is anywhere from two to four years. 
+asr:0: OUTPUT 2024.26-2032.39: So if we rebrand right before a consumer made that decision to buy tires, we won't be relevant necessarily to that consumer for two to three years out. 
+asr:0: OUTPUT 2034.33-2041.28: Put that on a timeline of if you're looking at three to five years to certainly mature out to average sales performance of a tire brand of sort. 
+asr:0: OUTPUT 2043.64-2051.01: Just to circle up on that for the stores where you're rebranding, there's nothing about their market. 
+asr:0: OUTPUT 2052.91-2060.18: You would expect that those stores would have sales comparable to your existing tire brand stores with a 1.2 million. 
+asr:0: OUTPUT 2062.28-2068.39: As a general statement, that's correct. I think certainly you're going to have markets that will exceed. 
+asr:0: OUTPUT 2068.81-2072.43: The average and you'll have some markets that will be lower than that. 
+asr:0: OUTPUT 2072.91-2076.76: And that's part of the choices that we make using the analytic model. 
+asr:0: OUTPUT 2077.36-2080.00: But on average, as we look across our. 
+asr:0: OUTPUT 2080.52-2083.50: I'll say the opportunity scores, that being the 555. 
+asr:0: OUTPUT 2084.24-2090.71: I think we feel very comfortable on average that we can reach the full potential of the 1.2 over time as they mature. 
+asr:0: OUTPUT 2094.45-2098.54: Switching gears. Brian, how much of a headwind. 
+asr:0: OUTPUT 2098.80-2105.73: To that revenue from acquisition were the conversions of the 42 California stores this quarter. 
+asr:0: OUTPUT 2108.07-2114.61: I mean, we had some disruption there. I would say, you know,. 
+asr:0: OUTPUT 2114.63-2121.38: We haven't really quantified that from a sales standpoint, but that's a great point, Jonathan, in that. 
+asr:0: OUTPUT 2121.40-2126.71: We have immediately put the new stores that we acquire on the Monroe Playbook. 
+asr:0: OUTPUT 2126.87-2130.51: And then shortly thereafter, in this case about six months. 
+asr:0: OUTPUT 2130.65-2135.10: Get the reimage in-store brand standards in place. 
+asr:0: OUTPUT 2135.94-2145.55: So in Q3, the 42 California stores went through that and are substantially through that as of the end of Q3. 
+asr:0: OUTPUT 2146.83-2151.29: But we haven't quantified it, but it certainly had some impact on their sales performance in the quarter. 
+asr:0: OUTPUT 2154.83-2160.50: That $1.8 million charge for Monroe Forward Initiative this quarter, what was that for? 
+asr:0: OUTPUT 2162.46-2171.57: Yes, it was all related to the store rebrand and reimage and it falls into three primary buckets related to that. 
+asr:0: OUTPUT 2172.41-2185.53: The first is non-capital items that we send to the stores. So as we think about updated safety chains, updated bay banners, updated point-of-sale marketing materials,. 
+asr:0: OUTPUT 2185.91-2190.77: All of these things to get the store initially to the standard. 
+asr:0: OUTPUT 2190.91-2196.90: That are not capital in terms of the actual work and construction done on the store. 
+asr:0: OUTPUT 2197.24-2198.38: That's the first bucket. 
+asr:0: OUTPUT 2198.88-2202.80: The second bucket is non-capital work that's actually done. 
+asr:0: OUTPUT 2202.82-2209.05: We get into these stores and we identify non-capital repairs, demolition. 
+asr:0: OUTPUT 2209.07-2213.89: As well as some of the fixed versus replaced items. 
+asr:0: OUTPUT 2213.93-2219.34: For example, stripping a floor and redoing a floor versus installing a new floor. 
+asr:0: OUTPUT 2219.64-2225.73: Those are things that make sense economically, but you get different treatment from expense versus capital for. 
+asr:0: OUTPUT 2226.03-2227.35: So that's the second bucket. 
+asr:0: OUTPUT 2227.67-2231.51: And the third is just right off of existing leaseholds in the stores. 
+asr:0: OUTPUT 2231.77-2241.22: Anything from counters to maybe some existing signage that was put up as part of an acquisition when we initially branded the stores over to a Monroe brand. 
+asr:0: OUTPUT 2241.90-2249.51: Those are the three primary buckets that the Monroe Forward Initiative costs consist of. 
+asr:0: OUTPUT 2253.81-2257.90: Our next question is coming from Brett Jordan of Jeffries. Please go ahead. 
+asr:0: OUTPUT 2258.90-2267.43: Hey, good morning guys. Back to slide five. I guess if we look at the 18% growth in rebranded stores,. 
+asr:0: OUTPUT 2267.95-2277.42: If we really look at the comparable growth there, X the new product lines you're adding, how's the service comp against the service comp in those stores? Are you seeing? 
+asr:0: OUTPUT 2277.46-2279.18: You know, a pickup as you change the brand. 
+asr:0: OUTPUT 2280.60-2289.43: Yeah, maybe just to clarify though, Brad, I think we're actually not adding any new products to the service menu. Right. 
+asr:0: OUTPUT 2290.83-2296.80: Yeah, it's just mixed, right? So we've even our service stores, they sell tires, it's only 15% of their mix. 
+asr:0: OUTPUT 2297.38-2302.58: So we're certainly seeing growth, more outsized growth in their tire sales. 
+asr:0: OUTPUT 2303.20-2308.99: And we've had success in maintaining the rate of growth that we've seen on the service side. 
+asr:0: OUTPUT 2309.33-2311.61: Which has been part of our thesis is... 
+asr:0: OUTPUT 2311.63-2313.21: Hold on. 
+asr:0: OUTPUT 2313.23-2316.68: To the service business that we've enjoyed that's high margin. 
+asr:0: OUTPUT 2316.70-2323.48: And then add to that more relevancy to the marketplace on tires and drive the growth through the tire category. 
+asr:0: OUTPUT 2324.50-2326.49: We're seeing growth on both sides. 
+asr:0: OUTPUT 2327.57-2329.41: Okay, and I guess we look at the re-image. 
+asr:0: OUTPUT 2329.79-2339.58: How does that compare to comparable service stores in the network that hadn't been re-imaged? I guess looking at it again, apples to apples against the old stores. 
+asr:0: OUTPUT 2341.16-2346.65: I think if you can figure out which stores we're talking about there, the 30 stores in Rochester. 
+asr:0: OUTPUT 2347.07-2354.59: Rochester stores certainly have been performing quite well relative to what our expectations were on reimage. 
+asr:0: OUTPUT 2354.91-2361.04: We certainly didn't expect to see double-digit growth rates out of a re-image store we set out to do this initiative. 
+asr:0: OUTPUT 2361.72-2366.55: But we were seeing more positive growth out of the stores up until the last quarter. 
+asr:0: OUTPUT 2367.15-2369.97: Given the exposure that we've had to the weather in the north. 
+asr:0: OUTPUT 2370.67-2379.78: But compared to other stores, we're still pleased with what we're seeing from a customer service point of view and from a comp sale point of view relative to their peers. 
+asr:0: OUTPUT 2380.00-2384.76: Facing similar, I would say, market backdrop from a weather point of view. 
+asr:0: OUTPUT 2385.65-2392.77: Could you give us the spread between the Southern Store Cop and the Northern Store Cop? How big a delta was it? 
+asr:0: OUTPUT 2395.22-2403.56: I mean, it was a couple hundred basis points of performance. Okay. And I guess for housekeeping, could you give us the month? 
+asr:0: OUTPUT 2405.93-2410.09: Yeah, so we were, one second here, Brett. 
+asr:0: OUTPUT 2410.63-2417.78: We were down 1.2 in October, down 1.7 in November, and up 0.4 in December. 
+asr:0: OUTPUT 2420.38-2422.88: And then one, just this is, sorry, to add the question. 
+asr:0: OUTPUT 2423.48-2427.37: On the supply chain side, I mean, just to throw the virus into it since that's popular these days. 
+asr:0: OUTPUT 2427.67-2435.26: You guys do a lot of direct sourcing, you know, the white box product out of China. Do you see any impact on supply chain from what's going on? 
+asr:0: OUTPUT 2436.98-2439.62: We haven't seen any to this point, Brett. 
+asr:0: OUTPUT 2440.28-2444.88: We're obviously working through contingency plans, which we've. 
+asr:0: OUTPUT 2444.90-2449.43: Have had to develop actually related to the tariff issues. 
+asr:0: OUTPUT 2449.45-2455.90: So we feel pretty confident that through the network of multiple supply points that we'll be able to. 
+asr:0: OUTPUT 2455.92-2459.34: Overcome any particular issues coming from the virus. 
+asr:0: OUTPUT 2466.41-2478.36: Virus question in there. Yeah. All right. Thanks a lot guys. Okay. Thanks, Brad. Thank you. Our next question is coming from Rick Nelson. 
+asr:0: OUTPUT 2480.36-2481.56: Thanks. Good morning. 
+asr:0: OUTPUT 2482.60-2486.95: I. 
+asr:0: OUTPUT 2487.27-2493.03: Last year, I think December, January, you also pointed to. 
+asr:0: OUTPUT 2493.05-2494.59: Mild winter weather. 
+asr:0: OUTPUT 2494.93-2499.90: Do you think this year was incrementally worse than the prior year? 
+asr:0: OUTPUT 2501.82-2506.71: I think if you look at analyst reports that we've seen,. 
+asr:0: OUTPUT 2506.73-2513.75: Talking about, I guess, the impact that the mile winner. Has had on not only our category, but I think other retail. 
+asr:0: OUTPUT 2514.45-2522.42: The data would indicate that this has been more mild, certainly, versus last year. I think we look at precipitation. 
+asr:0: OUTPUT 2523.48-2527.07: Which is very important for us in the form of snow with our tire business. 
+asr:0: OUTPUT 2527.51-2532.97: Certainly it's been a much more mild winter this year relative to last year. 
+asr:0: OUTPUT 2536.06-2537.76: Breath. 
+asr:0: OUTPUT 2537.78-2539.76: Update on your partner's. 
+asr:0: OUTPUT 2539.78-2541.62: With Amazon. 
+asr:0: OUTPUT 2541.72-2545.07: What you're seeing there on the install side. 
+asr:0: OUTPUT 2545.23-2552.59: And how you think your tire prices compared to theirs. 
+asr:0: OUTPUT 2552.65-2562.22: In the tire category overall, I'm curious about what happened with units in the period and market share. 
+asr:0: OUTPUT 2564.18-2565.87: Yep, so. 
+asr:0: OUTPUT 2565.89-2575.52: Let's start with units. Our units were down 2. The average selling price was up 1 for the quarter. 
+asr:0: OUTPUT 2576.40-2582.16: How that compares, we don't have a lot of syndicated data, of course, we can look to and be definitive on that. 
+asr:0: OUTPUT 2582.24-2591.01: We lean on our channel checks and information from our tire manufacturers that have good visibility across multiple brands. 
+asr:0: OUTPUT 2591.59-2601.30: It feels like it's similar to other companies that have exposure to the North, particularly Northeast, to the degree that we do. 
+asr:0: OUTPUT 2601.32-2605.77: Are probably in line with what we picked up through suppliers and others. 
+asr:0: OUTPUT 2607.41-2615.10: As it relates to Amazon, I think we're still pleased with our relationship with them as well as other online tire retailers. 
+asr:0: OUTPUT 2616.70-2623.24: We will eventually expand the relationship in FY21 to include all stores. 
+asr:0: OUTPUT 2623.82-2632.17: We talked about last quarter, our priority has been what I mentioned on today's call, completing the entire category management. 
+asr:0: OUTPUT 2632.43-2636.24: Tool as well as the labor scheduling tool that are just for our organization. 
+asr:0: OUTPUT 2636.44-2643.10: On a higher priority at this stage than expanding, but we are committed to expanding that relationship going forward. 
+asr:0: OUTPUT 2643.92-2645.91: Related to tire pricing. 
+asr:0: OUTPUT 2645.95-2654.61: As you know, Rick, the entire category is very complicated. You have over 30,000 SKUs that you need to manage effectively across multiple markets. 
+asr:0: OUTPUT 2655.40-2659.70: One of the reasons why we've invested in the tariff category management tool is to. 
+asr:0: OUTPUT 2659.72-2661.36: To do a couple of things. One is. 
+asr:0: OUTPUT 2661.44-2666.47: It gives us much better visibility into demand dynamics defined by elasticity. 
+asr:0: OUTPUT 2667.31-2669.21: Down to a skew level. 
+asr:0: OUTPUT 2670.23-2679.48: And by having that visibility, it's going to create a much more granular approach that we're going to use for pricing. It'll allow us to price at the SKU level. 
+asr:0: OUTPUT 2680.16-2688.09: In our industry with the intent being strike that right balance between driving the right price to drive unit volume. 
+asr:0: OUTPUT 2688.69-2694.33: While preserving and expanding our entire margins through a right mix at right price. 
+asr:0: OUTPUT 2695.52-2702.44: We encourage we're in pilot form of that now. We will be operational by Q1 of next year. 
+asr:0: OUTPUT 2702.48-2711.83: Fully operational the rollout of that's pretty small in scale because we control our pricing centrally So a small team of people will be trained up on using that system. 
+asr:0: OUTPUT 2712.23-2719.08: So between now and Q1, we'll be testing in parallel and make certain we're confident with the results that we're seeing from the system. 
+asr:0: OUTPUT 2723.72-2726.97: The color and good luck. Thanks, Will. 
+asr:0: OUTPUT 2728.97-2734.59: Thank you. Once again, ladies and gentlemen, if you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 2735.01-2739.36: Our next question is coming from Stephanie Benjamin of SunTrust Robinson Humphrey. Please go ahead. 
+asr:0: OUTPUT 2740.72-2742.20: Hi, good morning. Thank you for the question. 
+asr:0: OUTPUT 2745.05-2752.11: I wanted to go back, I know in the prior quarter when you started rolling out some of these store refreshes, you called out a. 
+asr:0: OUTPUT 2752.13-2756.28: Hit or had one to comp during that quarter really just from distractions. 
+asr:0: OUTPUT 2756.36-2760.48: It would make sense if you're in there kind of reworking and revamping the stores. 
+asr:0: OUTPUT 2760.68-2763.76: I believe you said it was about a 70 basis point hit last quarter. 
+asr:0: OUTPUT 2764.06-2770.75: Do you quantify that disorder? Is there a way for you to kind of break that out or did weather overshadow that? 
+asr:0: OUTPUT 2772.73-2781.92: I think we said last quarter, Stephanie, that we walked everyone kind of through the seven-step process and talked about how we were. 
+asr:0: OUTPUT 2781.96-2788.05: Retooling it to take a lot of that work or almost all that work off of the store team. 
+asr:0: OUTPUT 2788.51-2791.65: So we were able to effectively do that in Q3. 
+asr:0: OUTPUT 2791.79-2799.48: We didn't expect that we were going to have to talk about a headwind, and we really don't have to in terms of disruption related to the store reimage. 
+asr:0: OUTPUT 2800.00-2809.15: I think the California stores on the West Coast maybe saw a little bit more disruption just because we did put a little bit more on them. 
+asr:0: OUTPUT 2809.17-2815.56: Based on their proximity, you know, lack of proximity to our core resources that are doing the reimage. 
+asr:0: OUTPUT 2815.64-2820.00: But for the 74 comp stores, those were largely, I would say, undisrupted. 
+asr:0: OUTPUT 2822.68-2828.33: Great. And then just as a follow-up, when we look at the tire category in general, what are you seeing from the sober edit? 
+asr:0: OUTPUT 2828.35-2837.80: Inflationary environment. I know it was inflationary earlier this year. Kind of just viewing how you saw it during the quarter and your expectations going forward as well. 
+asr:0: OUTPUT 2840.54-2845.41: Yes, Stephanie, when you look at, go back to Q2, one of the things we commented on was just. 
+asr:0: OUTPUT 2845.63-2853.61: We saw some inflationary pricing on the top end of the product category with more premium brands. 
+asr:0: OUTPUT 2854.67-2862.96: And the first part of the second quarter, we didn't see a lot of movement on the low-end brands, if you will, opening price point brands. 
+asr:0: OUTPUT 2863.34-2870.29: We saw that change exiting Q2 and into Q3. And I think as you saw, and we made the comments in our prepared remarks,. 
+asr:0: OUTPUT 2870.83-2877.36: We certainly feel better about pricing moving up across all price points. 
+asr:0: OUTPUT 2878.36-2883.96: Relative to that point in Q3, I think our expectation for Q4 is pretty stable environment. 
+asr:0: OUTPUT 2884.54-2891.43: Around pricing. We don't expect meaningful material changes in the next quarter. 
+asr:0: OUTPUT 2893.21-2900.00: We're very focused now on now optimizing our internal pricing relative to the market, leveraging. 
+asr:0: OUTPUT 2905.83-2907.93: And then just lastly for me, kind of a more high level. 
+asr:0: OUTPUT 2908.69-2917.00: We think through the strategy to expand your tire services at some of the mixed changes that your service stores. 
+asr:0: OUTPUT 2917.36-2923.98: Does that, just by nature, put you a little bit more susceptible to changes in weather on an annual basis? 
+asr:0: OUTPUT 2924.02-2926.19: You know, to your point, you said on the call that. 
+asr:0: OUTPUT 2926.35-2932.75: It is the tire category that we're, if it's a more mild weather where you don't really see the. 
+asr:0: OUTPUT 2932.85-2934.57: The volume during that period. 
+asr:0: OUTPUT 2934.67-2943.78: So does this mean that, you know, these conversations going forward, whether it could have a larger impact or similar to what we saw this year that maybe in prior years? So maybe your thoughts on that. 
+asr:0: OUTPUT 2943.80-2946.29: At this high level would be great. Thanks so much. 
+asr:0: OUTPUT 2947.73-2956.68: Thanks, Stephanie. I think strategically, I would start with this. Our strategy at Merose, we like the business model at our stores. 
+asr:0: OUTPUT 2957.14-2961.38: It has a very focused menu that's focused on tires and full service. 
+asr:0: OUTPUT 2962.70-2968.97: I think you're not going to see us migrate to a tire only category as a broad sweeping strategy for all the reasons you just mentioned. 
+asr:0: OUTPUT 2969.53-2971.57: We like diversification in services. 
+asr:0: OUTPUT 2972.19-2980.62: We like being very relevant on frequently purchased items like scheduled maintenance for cars and certainly brakes and other undercar services. 
+asr:0: OUTPUT 2982.16-2984.36: I think as we increase our. 
+asr:0: OUTPUT 2984.38-2993.71: Our total business certainly we're going to pick up a little more exposure to tires as we convert more stores in the north. I think do that. 
+asr:0: OUTPUT 2994.23-2998.16: However, I think our broader company strategy is to diversify our store footprint. 
+asr:0: OUTPUT 2998.92-3000.96: More into the south and out west. 
+asr:0: OUTPUT 3001.50-3006.21: And certainly in those regions of the country, you don't see, I think, the level of volatility. 
+asr:0: OUTPUT 3006.65-3011.97: That comes with the tire business like you would find in the Northeast and Midwestern markets. 
+asr:0: OUTPUT 3025.77-3029.43: Our next question is coming from Scott Stumber of CL King. 
+asr:0: OUTPUT 3038.90-3045.41: High level about weather. I know the goal here was with all this heavy lifting that you're doing right now and all these new processes. 
+asr:0: OUTPUT 3045.49-3055.14: To get to the point where I guess we're not talking about whether having or whether does not really derail the quarter from a comp perspective. 
+asr:0: OUTPUT 3055.64-3060.68: Could you talk about, I mean just broadly speaking about how long do you think that will take for us? 
+asr:0: OUTPUT 3060.70-3069.25: To get to that point where weather could be a headwind, but it's not going to be a determinant whether you're positive negative from a constant point. 
+asr:0: OUTPUT 3070.95-3074.61: I think given our exposure to the Northeast. 
+asr:0: OUTPUT 3075.10-3081.06: As long as our store concentration is heavy in the Midwest and Northeast, inherent in that, as we pick up. 
+asr:0: OUTPUT 3081.08-3083.50: Exposure I think to weather. 
+asr:0: OUTPUT 3084.44-3089.17: Obviously, we don't like to talk about it, Scott, as you said. Our strategy is to diversify the footprint. 
+asr:0: OUTPUT 3089.73-3093.13: Keep continuing to grow down south and that's reflected by our. 
+asr:0: OUTPUT 3093.21-3097.76: Acquisitions. We continue to build out Florida and have expanded now into Louisiana. 
+asr:0: OUTPUT 3098.36-3100.00: And Tennessee. 
+asr:0: OUTPUT 3100.14-3108.87: And certainly Out West is reflected of that desire to create more or less volatility in our business due to this store footprint. 
+asr:0: OUTPUT 3109.63-3111.31: Now in our Gore store markets. 
+asr:0: OUTPUT 3112.99-3116.46: We don't accept internally the volatility in our business. 
+asr:0: OUTPUT 3117.14-3123.28: And we're investing in technology, as we talked about, to help us better execute. 
+asr:0: OUTPUT 3123.30-3131.05: In stores through better trained people, executing better on the phones with our phone upgrade that we're currently doing. 
+asr:0: OUTPUT 3131.45-3134.55: All of the initiatives under Monroe Forward are designed to drive. 
+asr:0: OUTPUT 3134.57-3143.62: Performance in our stores regardless of whether I think will help neutralize some of the impact that we see from. From the volatility that comes with. 
+asr:0: OUTPUT 3143.64-3145.45: Snow and colder temperatures. 
+asr:0: OUTPUT 3148.49-3150.39: Got it, and just a last question. 
+asr:0: OUTPUT 3150.79-3160.74: I know that there are certain things like tires that will see an immediate impact from weather, but more on the side of mechanical parts. 
+asr:0: OUTPUT 3161.86-3163.50: Impact from. 
+asr:0: OUTPUT 3164.32-3173.27: Warmer weather or colder weather, you know, a few quarters down the road, is there a chance that we could see an extended negative impact on. 
+asr:0: OUTPUT 3180.00-3183.20: We commented in the quarter, our breaks were down 3% in the quarter. 
+asr:0: OUTPUT 3185.15-3192.85: Certainly we're up against a strong comp from last year, but also I would say we do sell a fair share of brake services through tires. 
+asr:0: OUTPUT 3193.05-3198.70: If you take the consumer's tires off their vehicle, it gives you the chance to inspect their wheels, their brakes. 
+asr:0: OUTPUT 3199.56-3204.78: We do see some nice demand for conversion from tires into brakes as a result of that. 
+asr:0: OUTPUT 3206.41-3215.14: As it relates to the downstream effect, I think certainly more harsh winters have a tendency to tear up things on the vehicles. 
+asr:0: OUTPUT 3215.68-3223.22: However, I will say one benefit of having a more mild winter is usually that leads to spring coming sooner. 
+asr:0: OUTPUT 3223.96-3228.65: It opens up a window, I think, for an extended spring selling season. 
+asr:0: OUTPUT 3229.11-3231.17: Report. We felt. 
+asr:0: OUTPUT 3231.19-3238.72: Feel like we're well positioned I think coming out of the winter given our strength and how we perform historically in the service categories. 
+asr:0: OUTPUT 3238.74-3242.42: Given the emphasis that we placed on good, better, best packages in store. 
+asr:0: OUTPUT 3243.02-3247.93: I think we feel confident that we'll be well positioned going into the spring selling. 
+asr:0: OUTPUT 3254.73-3258.94: At this time, I would like to turn the floor back over to management for closing comments. 
+asr:0: OUTPUT 3261.50-3264.72: Thank you for joining us today and for your continued interest and support of Monroe. 
+asr:0: OUTPUT 3265.13-3273.35: We believe we are well positioned to execute our strategy and drive long-term value for our shareholders. We look forward to updating you on our progress next quarter. Have a great day. 
+asr:0: OUTPUT 3280.08-3283.20: You may disconnect your lines at this time and have a wonderful day. 
+asr:0: END

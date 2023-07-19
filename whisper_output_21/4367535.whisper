@@ -1,0 +1,450 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.48-8.83: And welcome to the Firm's second quarter 2020 financial results and corporate update conference call. 
+asr:0: OUTPUT 9.29-14.77: At this time, all participants are in a listen-only mode. As a reminder, today's conference is being recorded. 
+asr:0: OUTPUT 15.62-23.54: I'd now like to introduce you, your host for today's conference, Alexander Fadziq-Yus, Head of Inter-Vestor Relations at Affirmed. Please go ahead. 
+asr:0: OUTPUT 27.73-37.46: Thank you, Charlotte. I'd like to welcome and thank you all for joining us today for AppleNet's second quarter 2020 financial results and operational progress conference call. 
+asr:0: OUTPUT 38.26-39.46: Before we begin,. 
+asr:0: OUTPUT 39.48-48.43: I would like to encourage everyone to go to the investor relations section of AFMED's website to find the earnings release and related financial tables. 
+asr:0: OUTPUT 49.23-53.63: We also posted slides on our website that follow our discussion today. 
+asr:0: OUTPUT 54.53-59.80: On the call today, we are joined by Drs. Adi Hirst, our Chief Executive Officer. 
+asr:0: OUTPUT 59.84-63.20: Andres Harstreich, Chief Medical Officer. 
+asr:0: OUTPUT 63.26-70.87: Arne Chetelius, Chief Scientific Officer, and Angus Smith, our new Chief Financial Officer who joined us in July. 
+asr:0: OUTPUT 71.79-79.02: We are also joined by Dr. Wolfgang Fischer, our Chief Operating Officer, and Ms. Denise Miller, Chief Business Officer. 
+asr:0: OUTPUT 79.52-82.36: They will also be available for the Q&A session. 
+asr:0: OUTPUT 83.20-87.01: Before we start, I will quickly go through the safe harvest statement. 
+asr:0: OUTPUT 88.05-93.07: Today's discussion contains projections and forward-looking statements regarding future events. 
+asr:0: OUTPUT 93.85-99.18: These statements represent our beliefs and assumptions only as of the date of this call. 
+asr:0: OUTPUT 99.46-105.79: Except as required by law, we assume no obligation to update these forward-looking statements publicly. 
+asr:0: OUTPUT 105.81-113.17: Or to update the reasons why actual results could differ materially from those anticipated in the forward-looking statement. 
+asr:0: OUTPUT 113.85-117.10: Even if new information becomes available in the future. 
+asr:0: OUTPUT 118.08-127.69: These forward-looking statements are subject to risk and uncertainties and actual results may differ materially from those expressed or implied in these statements. 
+asr:0: OUTPUT 127.71-129.53: These various factors. 
+asr:0: OUTPUT 129.55-145.93: Including but not limited to those identified under the section entitled risk factors and our filings with the SEC and those identified under the section entitled forward-looking statements in the press release that we issued today and files with the SEC. 
+asr:0: OUTPUT 146.63-149.69: With that, I will turn the call over to Ari. Ari? 
+asr:0: OUTPUT 151.19-158.86: Thank you, Alex. Good morning, everyone. And thank you for joining us for our second quarter business update call. 
+asr:0: OUTPUT 160.28-166.77: And today we have some updates to share with you on our operational progress as well as on our financial results. 
+asr:0: OUTPUT 168.39-176.20: While we're still in the middle of a serious global health pandemic and a challenging economic downturn,. 
+asr:0: OUTPUT 176.22-186.07: At AFMET, we are quite confident that the steps we are taking in advancing our science and moving our pipeline forward are beginning to yield data that demonstrate. 
+asr:0: OUTPUT 186.09-190.61: The long-term potential of our innovative approaches and products. 
+asr:0: OUTPUT 192.35-200.16: COVID-19 continues to affect societies around the world and we hope that you and your families are well and safe. 
+asr:0: OUTPUT 201.82-210.65: We are observing some impact by COVID-19 on the progress of our clinical studies. However, it's at last time we're taking great efforts to minimize them. 
+asr:0: OUTPUT 211.55-219.22: As a result, we have been able to continue our progress on the clinical studies of AFM13 in peripheral T cell lymphoma. 
+asr:0: OUTPUT 219.26-223.94: And of AFM24 in each AFR positive tumor. 
+asr:0: OUTPUT 225.19-229.31: And, which is very exciting for us, to antidote the first patient. 
+asr:0: OUTPUT 229.33-238.58: With RO7297089, which as you remember, is the BCMA CD16A inlet cell linkage. 
+asr:0: OUTPUT 240.34-242.96: We're also making good progress on our pre-clinical pipeline. 
+asr:0: OUTPUT 244.54-250.71: For our lead candidate AFM13, I was studying patients who have relapsed or refractory. 
+asr:0: OUTPUT 250.73-256.20: Peripheral T cell lymphoma in exhausted available standard of care treatments. 
+asr:0: OUTPUT 256.22-259.64: Are now being treated with AFM 13 as a single agent. 
+asr:0: OUTPUT 260.28-269.51: We are executing according to our development timelines and, as previously stated, expect to complete the predetermined interim analysis in mid-2021. 
+asr:0: OUTPUT 269.53-270.57: 21. 
+asr:0: OUTPUT 272.77-277.70: We're also looking at options to enhance AFM13's efficacy beyond monotherapy. 
+asr:0: OUTPUT 277.76-287.49: The first of these options is the combination with allogeneic NK cells in a study that is conducted at the MD Anderson. 
+asr:0: OUTPUT 287.53-289.75: Kanter Institute and on IST. 
+asr:0: OUTPUT 291.03-298.76: MD Anderson's website now shows that the study is enrolling, but the initiation is impacted by the ongoing COVID-19 pandemic in Texas. 
+asr:0: OUTPUT 299.52-303.94: A first patient in the study is expected as soon as the situation improves. 
+asr:0: OUTPUT 306.51-316.34: For AFM24, we disclosed that we have completed the first cohort of our dose escalation study without any dose-limiting toxicity. 
+asr:0: OUTPUT 317.50-320.90: And we're currently recruiting into the second dose cohort. 
+asr:0: OUTPUT 322.06-325.25: We have all four plan sites active and recruiting. 
+asr:0: OUTPUT 326.63-329.29: Following the completion of the dose escalation,. 
+asr:0: OUTPUT 329.31-336.84: Phase of the study, we have the option to enroll patients into tumor-specific expansion cohorts where we. 
+asr:0: OUTPUT 336.86-341.38: We'll look for single agent activity in a number of well-defined tumor types. 
+asr:0: OUTPUT 341.66-345.89: In addition, we're planning to initiate combination studies with checkpoint inhibitors. 
+asr:0: OUTPUT 346.67-350.97: And we will be providing updates as the program continues to make progress. 
+asr:0: OUTPUT 352.99-357.44: We're very pleased with the continued progress in our collaboration with Genentech. 
+asr:0: OUTPUT 357.72-365.23: Importantly, the phase one clinical study with the BCMA CD16A inhibitor and engager is now enrolling patients. 
+asr:0: OUTPUT 366.23-371.45: This achievement represents the third inital engager to enter the clinic. 
+asr:0: OUTPUT 371.47-377.72: And triggers a milestone payment to us during the third quarter in an amount that we are not able to disclose. 
+asr:0: OUTPUT 379.54-383.36: Last month, Angus Smith joined us as Chief Financial Officer. 
+asr:0: OUTPUT 383.74-386.21: Angus will introduce himself later. 
+asr:0: OUTPUT 386.23-395.70: Discuss our financial position and the flexibility provides us to continue to execute on our strategy and drive future growth of our company. 
+asr:0: OUTPUT 397.26-407.03: During the annual general meeting of shareholders, which was held on August 4th, we're happy to report that all proposed agenda items were approved. 
+asr:0: OUTPUT 408.53-414.55: This includes the addition of Dr. Annalisa Jenkins and Harry Weldon to the supervisory board as new members. 
+asr:0: OUTPUT 416.34-421.78: Annalisa is a visionary leader who knows how to translate science from bench to bedside. 
+asr:0: OUTPUT 422.62-428.59: And Harry is an accomplished financial executive who will help drive value creating strategies for the company. 
+asr:0: OUTPUT 429.69-435.28: These additions to the supervisory board further strengthen the company's industry know-how, experience, and diversity. 
+asr:0: OUTPUT 437.56-446.85: As it has only been a month and a half since we last spoke to you, we thought we would focus today's discussion on company achievements thus far. 
+asr:0: OUTPUT 446.87-449.55: And what gives us confidence in our science. 
+asr:0: OUTPUT 449.71-453.01: Update you on our programs, and allow plenty of time for Q&A. 
+asr:0: OUTPUT 454.11-460.64: To get started, I will now hand over the call to Andreas Haastrich, our Chief Medical Officer, to give you a brief update. 
+asr:0: OUTPUT 460.66-464.22: On our clinical stage programs. Andreas? 
+asr:0: OUTPUT 466.17-469.47: Thank you, Adi, for the introduction. 
+asr:0: OUTPUT 469.51-478.18: Thank you all for joining us today and I'm happy to give you an update on the progress in our clinical programs. 
+asr:0: OUTPUT 478.20-480.86: That we made over the last three months. 
+asr:0: OUTPUT 482.10-486.97: As you all aware, COVID-19 pandemic is still present globally. 
+asr:0: OUTPUT 487.57-494.15: And it continues to pose challenges for the conduct of clinical trials and the enrollment of patients. 
+asr:0: OUTPUT 495.80-499.66: The two guiding principles we are employing at AFIIMed is. 
+asr:0: OUTPUT 499.68-506.25: To ensure patient safety on the studies and to ensure trial data integrity. 
+asr:0: OUTPUT 506.97-511.63: And this is in line, I think, with our guidances given from all competent authorities. 
+asr:0: OUTPUT 512.89-524.62: Within this framework, however, the AFIOMET team is very proactively working with all of our participating sites to make sure that our innovative treatment. 
+asr:0: OUTPUT 524.64-534.23: Is still available for patients in need of new therapeutics and that we minimize the impact of COVID-19. 
+asr:0: OUTPUT 534.25-535.70: To a minimum possible. 
+asr:0: OUTPUT 536.96-547.61: One important achievement in this regard is that we were able to secure drug supply for all of our ongoing studies and can ensure uninterrupted treatment of all patients. 
+asr:0: OUTPUT 549.25-555.44: To go into more detail, let's start with AFM 13, our most advanced program first. 
+asr:0: OUTPUT 556.64-564.72: As you know, AFM13 is in a registration directed phase two study, AFM13-202. 
+asr:0: OUTPUT 564.74-574.61: Treating patients with relapsed and refractory peripheral T-cell lymphomas who have exhausted all available standard of care options. 
+asr:0: OUTPUT 576.66-581.44: The enrollment into the study is at a steady state. 
+asr:0: OUTPUT 581.68-589.21: We were able to activate 54 sites now contributing patients in 10 countries around the globe. 
+asr:0: OUTPUT 590.79-594.91: As you know, this study has... 
+asr:0: OUTPUT 594.93-612.39: Simon 2-stage design was a pre-planned interim analysis after 40 patients in the PTCL cohorts. And as Adi said, we are confident that we will have the data from this interim analysis available by the middle of next year. 
+asr:0: OUTPUT 613.89-624.26: There was also a third cohort, or there is a third cohort in this study for patients with transformed mucosal fungal edis, so a cutaneous form of T-cell lymphoma. 
+asr:0: OUTPUT 625.45-636.76: This third cohort with mucosal fungitis was never part and never intended to be part of the registration program. It was a proof of concept cohort only. 
+asr:0: OUTPUT 637.56-643.16: And for COVID-19 related restrictions, the enrollment into this cohort is currently on hold. 
+asr:0: OUTPUT 645.31-652.35: As Adi also mentioned, we are continuing to make progress in our collaboration with MD Anderson Cancer Center. 
+asr:0: OUTPUT 652.79-662.44: Where we have an active IND for our first phase one study of AFM13 in combination with allogeneic national killer cells. 
+asr:0: OUTPUT 664.18-669.75: As Ali said, the current status at the MD Anderson web page is recruiting. 
+asr:0: OUTPUT 670.45-675.10: And we know that patients are currently screened and considered. 
+asr:0: OUTPUT 675.60-684.44: And we're expecting to the enrollment of the first patient as soon as COVID-19 related restrictions at MD Anderson lift up. 
+asr:0: OUTPUT 686.83-690.31: Now let's move to our second program, AFM24. 
+asr:0: OUTPUT 691.11-700.36: As you know, a bispecific tetravalent molecule targeting both CD16A to activate national killer cells and macrophages. 
+asr:0: OUTPUT 700.38-703.38: And the EGF receptor on solid tumors. 
+asr:0: OUTPUT 704.86-711.43: This compound is in the phase one dose escalation part of the 101 study. 
+asr:0: OUTPUT 712.13-720.72: And we are happy to report that we were able to activate all four preplanned sites, and all four preplanned sites are contributing patients. 
+asr:0: OUTPUT 721.86-728.39: As we disclosed earlier, we have completed cohort one without observing dose-limiting toxicities. 
+asr:0: OUTPUT 728.41-732.43: And are actively recruiting into those cohorts too. 
+asr:0: OUTPUT 737.06-745.07: With this, I close the overview of the clinical progress, and I'm happy to hand over to my colleague. 
+asr:0: OUTPUT 745.09-759.76: Arne Schottelius, Chief Scientific Officer, who will review with you some of our preclinical data that make us so excited about the opportunities that we can create for patients with ICEs and activating the innate. 
+asr:0: OUTPUT 760.00-762.20: Immune system. Aren't police. 
+asr:0: OUTPUT 764.10-767.33: Thank you, Andreas, and thank you all for joining. 
+asr:0: OUTPUT 767.73-769.35: In the next few minutes. 
+asr:0: OUTPUT 769.61-782.62: I would like to summarize, as Andreas mentioned, the preclinical and clinical data observed so far with our innate cell engagers, providing evidence that these molecules are potent,. 
+asr:0: OUTPUT 782.64-785.53: And safe drug candidates. 
+asr:0: OUTPUT 786.89-792.79: I'll start by summarizing the data showing that RICs are potent molecules. 
+asr:0: OUTPUT 793.61-795.64: As you see on slide five. 
+asr:0: OUTPUT 795.82-805.41: If we take AFM13 as an example, AFM13 has been shown strong single-agent antitumor responses. 
+asr:0: OUTPUT 805.43-810.23: And T-cell lymphoma with an overall response rate of 50%. 
+asr:0: OUTPUT 811.19-821.08: The molecule has also shown promising signs of broad clinical development potential in augmenting other IO therapies, such as PD-1 inhibitors. 
+asr:0: OUTPUT 822.26-830.43: For example, in the Hodgkin lymphoma phase 1B study, we've seen an impressive overall response rate of 88%. 
+asr:0: OUTPUT 830.45-839.06: With a complete response rate of 42 and 46 percent in the local and the central read respectively. 
+asr:0: OUTPUT 840.28-848.53: In the lower part of the slide, we've also highlighted for you presentations of the studies past and in the future. 
+asr:0: OUTPUT 850.11-856.92: Additionally, our own experience and the work with Andy Anderson, we have seen promising. 
+asr:0: OUTPUT 856.94-866.51: Preclinical data showing that the combination with the adoptive transfer of NK cells enhanced the immune response of AVEN13. 
+asr:0: OUTPUT 866.53-870.95: Leading to prolonged survival in the respective mouse model. 
+asr:0: OUTPUT 871.79-877.92: And as we mentioned, the Phase 1B study, Dan Anderson, is now in the last stages of preparation. 
+asr:0: OUTPUT 879.96-882.20: If we go to slide six. 
+asr:0: OUTPUT 883.10-886.93: You see that in our preclinical studies with AFM24. 
+asr:0: OUTPUT 887.13-896.40: We saw potent killing of EGFR-positive tumor cell lines mediated by two distinctive mechanisms of action. 
+asr:0: OUTPUT 897.00-906.93: Potent ADCC or antibody-dependent cellular cytotoxicity is seen irrespective of the mutational status of the tumor cells. 
+asr:0: OUTPUT 907.89-916.38: And we see potent killing mediated by ADCP or antibody-dependent cellulite phagocytosis. 
+asr:0: OUTPUT 916.40-920.84: In tumor cells with high and low EGFR expression. 
+asr:0: OUTPUT 921.30-934.37: Importantly, in cells bearing the KRAS G13D mutation, AFM24 shows preserved potent killing or ADCP or phagocytosis. 
+asr:0: OUTPUT 934.43-938.50: Whereas this ability is lost for established treatments. 
+asr:0: OUTPUT 939.90-948.91: For the anti-BCMA CD16 or RO729, formerly known as AFM26 molecule. 
+asr:0: OUTPUT 949.97-952.97: We also saw very good potency in Sinow monkeys. 
+asr:0: OUTPUT 953.67-961.36: Whereas a dose-dependent killing of BCMA-positive plasma cells was observed. 
+asr:0: OUTPUT 963.00-969.97: We believe that the observed improved potency is mediated by the dual mode of action of our approach. 
+asr:0: OUTPUT 970.99-975.52: The innate cell engagers are employing NK cells and macrophages. 
+asr:0: OUTPUT 975.54-981.54: To kill tumor cells and thus act via a two-pronged mode of action. 
+asr:0: OUTPUT 981.56-988.97: Of antibody-dependent cellulose cytotoxicity and antibody-dependent thagocytosis to fight cancer. 
+asr:0: OUTPUT 989.75-996.36: Indeed, this dual mode of action is differentiated from other mRNA cell targeted approaches. 
+asr:0: OUTPUT 996.38-1000.26: As these specifically activate NK cells only. 
+asr:0: OUTPUT 1002.26-1011.25: RNA-cell engagers work at low expression levels. The potency is thus independent of the surface target expression. 
+asr:0: OUTPUT 1012.87-1015.80: And you see this, we continue on slide six. 
+asr:0: OUTPUT 1016.58-1024.94: With AFAM-13, we learned that there is a broad range of cell lines that express different levels of tumor antigen. 
+asr:0: OUTPUT 1024.98-1031.19: And we have not observed any dependency of target expression to the potency of the molecule. 
+asr:0: OUTPUT 1032.37-1038.76: The same holds true for AFM24 and the anti-BCNA engagers. Preclinically,. 
+asr:0: OUTPUT 1038.86-1050.55: Both molecules have shown high potency across a wide range of EGFR and BCMA surface expression, including at low target expression levels. 
+asr:0: OUTPUT 1051.61-1061.42: This implies that more patients could respond to treatment with an innate cell engager versus an antibody drug conjugate or ADC. 
+asr:0: OUTPUT 1061.44-1077.72: As the mechanism of ADCs have been shown only to rely on certain levels of target antigen, thereby missing those tumor cells with expression levels below the ability of the ADC to bind to target cells. 
+asr:0: OUTPUT 1080.40-1082.56: As we move on to slide seven. 
+asr:0: OUTPUT 1082.58-1091.35: And report on the safety front. Preclinically, our innate cell engagers demonstrate low cytokine release. 
+asr:0: OUTPUT 1092.49-1097.44: Some examples of this are the IND-enabling toxicology study. 
+asr:0: OUTPUT 1097.46-1103.76: In Sinomalgus monkeys which consistently showed no meaningful increases in serum cytokines. 
+asr:0: OUTPUT 1104.98-1108.09: For example, at the June virtual ACR conference. 
+asr:0: OUTPUT 1108.11-1119.82: A preclinical poster presentation on the RO729 molecule of Genentech showed potent cell killing in tumor cell lines employing NK cells as effector cells. 
+asr:0: OUTPUT 1119.88-1122.16: With minimal increase in cytokines. 
+asr:0: OUTPUT 1122.82-1138.76: Also a four week safety study in Seno monkeys showed a favorable safety profile with no cytokine release or adverse findings at the 15, 1, 5, and 50, so 5, 0 mix per kick tested dose levels. 
+asr:0: OUTPUT 1139.84-1142.26: And in the case of AFN 24,. 
+asr:0: OUTPUT 1142.28-1150.51: Only a transient increase in IL-6 was observed that was fully reversible within 24 hours. 
+asr:0: OUTPUT 1150.57-1159.02: But no signs of cytokine release was observed that would lead one to believe that there is a risk of a cytokine storm in patients. 
+asr:0: OUTPUT 1161.00-1169.93: Important to note here is that none of the clinical studies of AFM13 have revealed any significant increases in serum cytokines. 
+asr:0: OUTPUT 1170.71-1176.08: These data indicate that RICs have a tolerable and good safety profile. 
+asr:0: OUTPUT 1177.12-1178.68: Taken all together. 
+asr:0: OUTPUT 1179.34-1188.65: These data suggest that our innate cell engagers are potent, able to engage at low levels of antigen expression, and have thus far. 
+asr:0: OUTPUT 1188.67-1192.21: Demonstrated a good and tolerable safety profile. 
+asr:0: OUTPUT 1193.51-1200.56: Now in order to maximize the opportunity for molecules, in addition to clinical development as monotherapies,. 
+asr:0: OUTPUT 1201.14-1204.62: We're also pursuing combinations with metro killer cells. 
+asr:0: OUTPUT 1204.82-1209.03: And other treatments such as checkpoint inhibitors such as PD-1 and PD-L1. 
+asr:0: OUTPUT 1210.71-1217.54: We go to slide 8, and first let me comment on our combination approach with NK cells. 
+asr:0: OUTPUT 1218.86-1230.63: As you see on the slide, there is evidence showing that high NK cell numbers are associated with better outcomes. For example, patients with metastatic cutaneous melanoma. 
+asr:0: OUTPUT 1230.65-1232.73: Have improved survival rates. 
+asr:0: OUTPUT 1232.75-1237.28: If their tumors show evidence of NK cell infiltration. 
+asr:0: OUTPUT 1238.10-1239.90: We also know that patients with. 
+asr:0: OUTPUT 1239.92-1253.23: Diffuse large B-cell and follicular lymphomas treated with anti-CD20 antibodies that have low peripheral NK counts tend to have poor survival. 
+asr:0: OUTPUT 1255.36-1263.62: We're seeing that one of the limitations in treating patients is that they don't have the appropriate amount of NK cells. 
+asr:0: OUTPUT 1264.64-1270.87: So we're working on supplementing NK cells through adoptive transfer. 
+asr:0: OUTPUT 1270.89-1276.44: And are currently assessing different approaches as you can see on slide nine. 
+asr:0: OUTPUT 1278.02-1283.36: As we go to slide 10, and as discussed earlier, the improved tumor... 
+asr:0: OUTPUT 1283.38-1288.13: The cell killing by loading NK cells with our ICEs. 
+asr:0: OUTPUT 1288.59-1293.65: As you see on the graph for in vitro data on the right hand side of slide 10. 
+asr:0: OUTPUT 1294.79-1303.92: It will be investigated in the MD Anderson Phase I study in CD30 positive recurrent or refractory Hodgkin and non-Hodgkin lymphoma patients. 
+asr:0: OUTPUT 1305.31-1306.79: The preclinical data. 
+asr:0: OUTPUT 1306.81-1308.05: That we share here. 
+asr:0: OUTPUT 1308.09-1310.75: Shared before leads us to believe. 
+asr:0: OUTPUT 1310.77-1321.00: That we can expect to see an improvement in the efficacy of an innate cell engager, AFM13, through the addition of NK cells. 
+asr:0: OUTPUT 1322.80-1325.91: And encouraged by the synergistic potential. 
+asr:0: OUTPUT 1325.93-1331.79: Of combining our INFPs with NK cells and checkpoint inhibitors. 
+asr:0: OUTPUT 1331.81-1339.76: We're currently evaluating the opportunity on our developing clinical plans for these combinations with AFM24. 
+asr:0: OUTPUT 1341.34-1346.57: Finally, let me just briefly summarize the recent posters presented at ASER. 
+asr:0: OUTPUT 1347.17-1356.76: As a reminder, our AFM24 poster demonstrated its distinct mechanism of action, different from other EGFR signaling. 
+asr:0: OUTPUT 1356.78-1358.72: Inhibition approaches. 
+asr:0: OUTPUT 1358.74-1364.64: Potentially able to provide benefit to a broad range of cancer patients. 
+asr:0: OUTPUT 1366.03-1369.11: And in the case of the joint poster with genetic,. 
+asr:0: OUTPUT 1369.13-1374.41: The preclinical pharmacology and safety of the BCNA CD16. 
+asr:0: OUTPUT 1374.47-1381.82: Innate cell engager shows potent cell killing in tumor cell lines employing NK cells as effector cells. 
+asr:0: OUTPUT 1381.84-1387.87: Minimal increase in cytokines, suggesting a low risk of cytokine release syndrome. 
+asr:0: OUTPUT 1389.35-1392.43: We hope this background was helpful for you. 
+asr:0: OUTPUT 1392.73-1399.42: And I will now turn the call over to Angus to introduce himself and provide an update on the financial. 
+asr:0: OUTPUT 1399.92-1409.49: Thanks. Thank you, Art. Thank you, Art. Before I discuss the financial highlights, let me just say that I am thrilled to have joined the Acumen Foundation. 
+asr:0: OUTPUT 1411.07-1415.48: And I look forward to working with our talent to deliver on the promise of our exciting site. 
+asr:0: OUTPUT 1418.12-1420.00: Turning to the results for the quarter. 
+asr:0: OUTPUT 1420.30-1430.11: AFIBED's consolidated financial statements have been prepared in accordance with IFRS as issued by the International Accounting Standard Board, or IASB. 
+asr:0: OUTPUT 1431.19-1437.50: The consolidated financial statements are presented in euros, which is the company's functional and presentation currency. 
+asr:0: OUTPUT 1438.30-1445.09: Therefore, all financial numbers that I will present in this call, unless otherwise noted, will be in Euros. 
+asr:0: OUTPUT 1447.05-1453.11: We ended the second quarter with cash, cash equivalents, and current financial assets of $92.6 million. 
+asr:0: OUTPUT 1453.15-1458.16: Euros, compared to 104.1 million euros on December 31,. 
+asr:0: OUTPUT 1460.26-1467.37: During the quarter, we received net proceeds of approximately 20.8 million Euros under our At the Market for ATM program. 
+asr:0: OUTPUT 1468.81-1474.05: Based on our current operating plan and assumptions, we anticipate that our cash. 
+asr:0: OUTPUT 1474.07-1480.08: Cash equivalents and current financial assets will support operations into the first half of 2022. 
+asr:0: OUTPUT 1481.78-1491.15: Net cash used in operating activities for the quarter ended June 30, 2020, was 15 million euros, compared to 5.6 million euros in the second quarter of 2020. 
+asr:0: OUTPUT 1492.89-1500.90: The second quarter 2019 net cash used in operating activities included a milestone payment to the company from the Genentech collaboration. 
+asr:0: OUTPUT 1503.26-1510.09: Total revenue for the second quarter of 2020 was 2.9 million euros, compared with 4 million euros in the second quarter of 2019. 
+asr:0: OUTPUT 1511.51-1516.10: Revenue in 2020 and 2019 predominantly relate to the Genentech collaboration. 
+asr:0: OUTPUT 1516.92-1525.93: Revenue from the Genentech collaboration in the second quarter 2020 was comprised of revenue recognized for collaborative research services performed during the quarter. 
+asr:0: OUTPUT 1527.61-1535.72: R&D expenses for the second quarter of 2020 were 11.7 million euros compared to 11.5 million euros in the second quarter of 2019. 
+asr:0: OUTPUT 1537.14-1546.33: Expenses in 2020 relate predominantly to our AFM 13 and AFM 24 clinical programs, as well as to our early-stage development and discovery activities. 
+asr:0: OUTPUT 1548.27-1555.82: G&A expenses for the second quarter of 2020 were 2.6 million Euros, compared to 2.3 million Euros in the second quarter of 2019. 
+asr:0: OUTPUT 1557.20-1563.04: The increase is primarily related to higher SOX compliance costs, legal, consulting, and audit costs. 
+asr:0: OUTPUT 1564.48-1570.73: Net loss for the second quarter of 2020 was 12.2 million euros or 16 cents per common share. 
+asr:0: OUTPUT 1570.75-1576.42: Of 10.3 million euros or 17 cents per common share during the second quarter of 2020. 
+asr:0: OUTPUT 1578.62-1588.11: The weighted number of commentators outstanding for the quarter ended June 30, 2020, or 79.2 million. I will now turn the call back to Adi. Adi? 
+asr:0: OUTPUT 1590.39-1600.40: Thank you, Angus. As you can see from our presentation today, we're taking advantage of the knowledge that we've gained. 
+asr:0: OUTPUT 1600.42-1606.85: In the field of innate immunity and are applying it to our programs going forward. 
+asr:0: OUTPUT 1608.43-1615.80: This experience in working with the innate immune system is something that we have uniquely established at Affymet. 
+asr:0: OUTPUT 1615.82-1621.92: And is helping us in guiding the design of unique therapies which now have the. 
+asr:0: OUTPUT 1621.94-1626.19: Potential to address very different kinds of cancers. 
+asr:0: OUTPUT 1627.09-1631.09: I just want to point out here that the EGFR is expressed. 
+asr:0: OUTPUT 1631.11-1637.80: In more than 10 tumors, and that gives us a lot of optionality. 
+asr:0: OUTPUT 1637.82-1640.54: How to take this molecule forward. 
+asr:0: OUTPUT 1642.08-1648.97: We're pleased with how things are moving forward for both our clinical and preclinical programs, especially in the current environment. 
+asr:0: OUTPUT 1650.97-1660.20: Our preclinical programs are on track. AFM 13 and 24 are moving forward according to plan. And Genentech is moving things forward. 
+asr:0: OUTPUT 1660.28-1663.20: With the anti-PCMA CD16A inertial engage. 
+asr:0: OUTPUT 1665.81-1671.57: What are our inflection points for the next one and a half years, or even 13? 
+asr:0: OUTPUT 1671.63-1678.16: We've mentioned that we want to present the interim data in peripheral T cell. 
+asr:0: OUTPUT 1678.18-1681.48: Around the middle of next year. 
+asr:0: OUTPUT 1683.36-1691.07: We've been successful in our collaboration with MD Anderson moving forward the combination of AFM13. 
+asr:0: OUTPUT 1691.09-1694.21: And co-plot derived natural killer cells. 
+asr:0: OUTPUT 1695.48-1705.25: As we said, we're ready to start, or MD Anderson is ready to start, and we hope to report first patient in, and we will provide updates as we move forward. 
+asr:0: OUTPUT 1707.31-1715.01: For AFM24, we are in the midst of a dose escalation in order to generate safety and activity data. 
+asr:0: OUTPUT 1716.14-1723.36: This is quite exciting for us because it's a drug with a very differentiated profile as compared to the. 
+asr:0: OUTPUT 1723.38-1728.35: Adamo AT is currently used in targeting EGF receptors. 
+asr:0: OUTPUT 1730.95-1734.27: Now with the dose escalation and establishing the safety. 
+asr:0: OUTPUT 1734.45-1741.54: We obviously will have the recommended phase 2 dose coming up in order to then do the dose cohort expansion. 
+asr:0: OUTPUT 1742.12-1748.41: But as we've mentioned earlier, we're also planning early on to move forward into combinations. 
+asr:0: OUTPUT 1750.77-1754.17: We're very happy with the progress in the Genentech collaboration. 
+asr:0: OUTPUT 1754.93-1761.80: We've just provided the next update for the PCMA CD16a engager. We have multiple other programs ongoing. 
+asr:0: OUTPUT 1761.84-1766.65: And if things go well, depending on program progression, we can bring in. 
+asr:0: OUTPUT 1766.67-1768.29: Additional milestones. 
+asr:0: OUTPUT 1769.85-1777.78: And of our newest additions to the pipeline with AFM28 and AFM32 were RF. 
+asr:0: OUTPUT 1777.84-1784.84: Starting the IND enabling studies so that we can have an IND filing first for AFM28. 
+asr:0: OUTPUT 1786.01-1798.78: Finally, before we open the session for Q&A, I would like to thank all our employees for their contribution and express our gratitude, my gratitude in particular for our investigators and the clinical sites. 
+asr:0: OUTPUT 1798.84-1802.76: The patient and all their families and our investors. 
+asr:0: OUTPUT 1802.78-1808.15: Who are supporting us in our efforts to develop these innovative treatments for cancer patients. 
+asr:0: OUTPUT 1810.17-1816.50: It is through the combined efforts of all of you that keeps us on the path of discovery and innovation. 
+asr:0: OUTPUT 1817.56-1823.30: I'm now happy to close the presentation and we're open now for questions. Thank you. 
+asr:0: OUTPUT 1825.07-1830.39: Ladies and gentlemen, we will now begin the question and answer session. As a reminder, you should be ready to ask a question. 
+asr:0: OUTPUT 1830.83-1834.45: You will need to press star and the number one in the telephony link for an interview to be announced. 
+asr:0: OUTPUT 1835.02-1837.84: To the council, you can press the pound or hash key. 
+asr:0: OUTPUT 1838.58-1840.44: Once again, it's star and one for a question. 
+asr:0: OUTPUT 1842.38-1848.31: First question comes from the line of Maui at Raycrofts. Go ahead. Your line is now open. 
+asr:0: OUTPUT 1850.49-1854.63: Good morning, everyone. I think that's in the progress and thanks for taking my questions. 
+asr:0: OUTPUT 1855.72-1859.16: To start off, just wondering for AFN 24. 
+asr:0: OUTPUT 1859.42-1865.35: I'm not sure how much you can say on this, but just wondering if both patients in core two have been dosed. 
+asr:0: OUTPUT 1865.61-1871.09: And if you can talk more about the timing of dosing between patients. 
+asr:0: OUTPUT 1871.39-1876.44: With the four sites activated, can you provide any more perspective about enrollment pace going forward? 
+asr:0: OUTPUT 1878.62-1885.45: Jeff, can you take the question, please? 
+asr:0: OUTPUT 1886.59-1894.05: So the phase one study of AFM24, as we said, we are recruiting into second cohorts. 
+asr:0: OUTPUT 1895.16-1897.88: We have not yet disclosed how many patients. 
+asr:0: OUTPUT 1899.24-1906.97: As you know, it's a standard three by three design with a Bayesian dose modification. 
+asr:0: OUTPUT 1907.95-1910.23: But that's basically what it is. 
+asr:0: OUTPUT 1911.41-1918.90: In terms of timing between the patients, there is a mandatory eight-day waiting period between patients. 
+asr:0: OUTPUT 1919.44-1924.64: So they cannot be treated all at the same time but will be staggered with eight day intervals. 
+asr:0: OUTPUT 1927.01-1932.35: And there was another part of the question around the four participating sites. 
+asr:0: OUTPUT 1934.23-1939.30: Yeah, just wondering if you can provide any more perspective about enrollment pace going forward. 
+asr:0: OUTPUT 1941.00-1946.93: Currently the enrollment pace is as pre-specified by the protocol. 
+asr:0: OUTPUT 1946.95-1953.99: All sites are very active in screening patients and as we said all sites have already contributed patients. 
+asr:0: OUTPUT 1958.28-1961.60: And then also for AFM 24. 
+asr:0: OUTPUT 1961.62-1967.75: Just checking if you can say more about the tumor types that you're screening for the study. 
+asr:0: OUTPUT 1968.01-1973.71: And if you can also provide more perspective into the checkpoint inhibitor and combo plans at this point. 
+asr:0: OUTPUT 1976.56-1982.50: Also for the tumor types in the dose escalation part,. 
+asr:0: OUTPUT 1982.52-1987.15: We are accepting all patients with. 
+asr:0: OUTPUT 1987.17-1996.68: All histologies that are EGFR expressing and where the patient has exhausted the respective standard of care treatments. 
+asr:0: OUTPUT 1997.48-2009.17: As Adi mentioned, this is a wide variety of potential tumors. Probably the two most prevalent tumors would be colorectal cancer and non-small cell lung cancer. 
+asr:0: OUTPUT 2010.03-2016.40: But these are the two histologies where we would expect probably the majority of patients in the phase one. 
+asr:0: OUTPUT 2016.96-2023.38: Having said that, the dose escalation part would also be open for other EGFR. 
+asr:0: OUTPUT 2023.40-2028.57: Expressing tumors like, for example, head and neck cancer, gastric cancer. 
+asr:0: OUTPUT 2028.59-2030.51: Or other solid tumors. 
+asr:0: OUTPUT 2031.67-2041.54: Now once we have defined our dose limiting toxicities, or if there are no dose limiting toxicities, we have defined the recommended phase two dose. 
+asr:0: OUTPUT 2041.68-2047.27: We will enroll into tumor-specific expansion cohorts. 
+asr:0: OUTPUT 2047.29-2052.27: And these expansion cohorts are currently in the process of being defined. 
+asr:0: OUTPUT 2053.65-2058.06: Now for our PD-1 combination plans. 
+asr:0: OUTPUT 2058.08-2072.41: Based on the interesting data we have seen with PD-1 in combination with AFM13, which Arndt referred to, was a very encouraging complete response rate in excess of 40%. 
+asr:0: OUTPUT 2073.59-2079.40: We plan to have a combination with a PD-1 or PD-L1 inhibitor. 
+asr:0: OUTPUT 2079.42-2093.57: Open rather soon, probably in parallel to the last cohorts of the dose escalation of the single agent study. So it will be more or less a parallel development that we are anticipating right now. 
+asr:0: OUTPUT 2097.82-2099.18: Thanks for the additional perspective. 
+asr:0: OUTPUT 2106.77-2108.93: Any follow-up questions? 
+asr:0: OUTPUT 2112.85-2121.10: We will now proceed to the next question. The next question comes from the line of Jim Bershinov from Wells Fargo. Please go ahead, Jim. 
+asr:0: OUTPUT 2122.94-2129.45: Hi guys, congrats on all the progress. Maybe just a first quick question for Angus to start him off. 
+asr:0: OUTPUT 2130.53-2139.84: Collaborative research revenues, is that expected to be a stable number between the $3-$4 million level? 
+asr:0: OUTPUT 2139.86-2142.36: Go up as programs progress. 
+asr:0: OUTPUT 2142.40-2149.21: And as we think about the milestone that got paid in the third quarter, is it a simple matter to back out? 
+asr:0: OUTPUT 2149.23-2153.75: The assumptions around collaborative research revenues, and that will give us some sense of the milestone. 
+asr:0: OUTPUT 2154.05-2155.98: Given that you can't say it explicitly. 
+asr:0: OUTPUT 2157.86-2159.64: Yeah, thanks, Jim, for the question. 
+asr:0: OUTPUT 2160.84-2169.61: So our revenue numbers fluctuate from quarter to quarter, you know, based primarily on the number of hours that we're working on the various Genentech programs. 
+asr:0: OUTPUT 2170.25-2175.06: That are in progress. I mean, you can see just looking back at the last several quarters, we've been. 
+asr:0: OUTPUT 2175.90-2183.92: You know, fairly range-bound and call it the 2 million to 5 million zone. You know, when you see increases, it's typically. 
+asr:0: OUTPUT 2184.16-2189.65: A result of point-in-time milestone payments that we received. So, you know, this milestone payment. 
+asr:0: OUTPUT 2190.63-2194.05: That we discussed today that we'll get in the third quarter. 
+asr:0: OUTPUT 2195.18-2203.94: Will likely increase our revenues in the 3rd quarter and that would be sort of an add on to the range that you've seen over the last several quarters. Again, kind of to the. 
+asr:0: OUTPUT 2203.96-2205.77: To $5 million. 
+asr:0: OUTPUT 2205.95-2207.33: Or two to five million euros rather. 
+asr:0: OUTPUT 2209.09-2217.68: Okay, that's helpful. And then maybe just on cohort one for AFM 24 and what we might learn from that cohort. 
+asr:0: OUTPUT 2218.98-2225.69: Can you remind us if you're doing pre and post biopsies and what kind of translational work you might be doing? 
+asr:0: OUTPUT 2225.81-2229.09: How that might inform the ability to recruit. 
+asr:0: OUTPUT 2229.11-2231.25: In eight cells to the tumor site. 
+asr:0: OUTPUT 2233.77-2239.12: So in the dose escalation part, we do a pre-examination. 
+asr:0: OUTPUT 2239.14-2244.64: Treatment biopsy, post or on treatment biopsies are optional. 
+asr:0: OUTPUT 2245.83-2251.33: We do have a significant correlative science program looking at... 
+asr:0: OUTPUT 2251.35-2256.72: Peripheral activation markers of NK cells as well as on cytokine profiles. 
+asr:0: OUTPUT 2257.96-2264.14: Once we are in the expansion phase, so we are recruiting into tumor-specific cohorts. 
+asr:0: OUTPUT 2264.76-2271.59: I think this is the part where we will get most of the correlative science as we have a more homogeneous patient population. 
+asr:0: OUTPUT 2272.49-2281.76: We maintain our requirement for a pretreatment biopsy and we'll have post or on-treatment biopsies in selected cohorts. 
+asr:0: OUTPUT 2285.25-2294.13: And then just, you know, given the comments on the variability in peripheral NK cell populations,. 
+asr:0: OUTPUT 2295.40-2307.83: Is there any sense in screening patients for their NK cell levels, given that patients who screen low may not have adequate NK cells or macrophages to recruit? 
+asr:0: OUTPUT 2307.85-2317.42: You feel like within the variability of an H cell in the blood that you'll be able to have an effective treatment and it's not worth screening for that variable. 
+asr:0: OUTPUT 2319.68-2326.29: I think currently it would be premature to, depends on what you mean with screening. 
+asr:0: OUTPUT 2327.03-2335.01: So we are definitely determining the levels of circulating NK cells and also looking at some of their characteristics. 
+asr:0: OUTPUT 2336.86-2343.08: I think we currently do not have enough data to define a cutoff or a threshold. 
+asr:0: OUTPUT 2343.14-2349.49: And this may very well vary between tumor histologies and also be dependent on. 
+asr:0: OUTPUT 2349.51-2354.93: The infiltration of NK cells in the tumor microenvironment. 
+asr:0: OUTPUT 2354.95-2365.19: Variable which we have seen in our AFM Columbia study to have some impact on the likelihood to respond to patients. 
+asr:0: OUTPUT 2366.07-2379.40: I think in the beginning of the program, we will be open for all comers. We will assess all of these important biomarkers and then based on the activity data and the readouts that we are seeing, we. 
+asr:0: OUTPUT 2379.42-2383.94: May modify the program defining certain thresholds. 
+asr:0: OUTPUT 2383.98-2386.27: Currently, I think it would be premature to do that. 
+asr:0: OUTPUT 2388.69-2390.33: And maybe just a final question. 
+asr:0: OUTPUT 2390.45-2403.20: The Andy Anderson collaboration is focused on core blood-derived NK cells. Is there any thought to other NK cell sources, including potentially iPSC-derived NK cells? 
+asr:0: OUTPUT 2411.05-2415.80: Adi, you want to take this question or should I take it? No, well, Andreas, why don't you go ahead? 
+asr:0: OUTPUT 2416.56-2424.42: You're right, I mean, caught blood derived NK cells is one source of NK cells and the. 
+asr:0: OUTPUT 2424.46-2447.75: If you watch the field of NK cell-based approaches, especially the field around companies and institutes providing different sources of NK cells, there is definitely speed picking up and there is a variety of options to look at. 
+asr:0: OUTPUT 2447.81-2461.44: This is what we do, not only from our side, but we have also received proactive inquiries of potential working models together. 
+asr:0: OUTPUT 2461.90-2467.31: We are looking at the entire NK cell field and then evaluate various options. 
+asr:0: OUTPUT 2470.11-2471.17: Thanks for taking the questions. 
+asr:0: OUTPUT 2471.85-2480.00: Maybe as a quick comment, we see this co-blood derived in K-cells already quite advanced in clinical development. 
+asr:0: OUTPUT 2480.02-2485.15: So there have already been many patients treated with the iPSCs currently. 
+asr:0: OUTPUT 2485.59-2488.09: There is still a... 
+asr:0: OUTPUT 2488.11-2494.15: The safety to be determined and obviously in combination we learn more on their functionalities. 
+asr:0: OUTPUT 2494.53-2503.36: This is somewhat yet to us on how functional an ITS figure versus a peripheral in KCLS. 
+asr:0: OUTPUT 2503.64-2507.09: And it's good to see the first clinical data. 
+asr:0: OUTPUT 2507.11-2509.43: Not only happy but we have. 
+asr:0: OUTPUT 2509.49-2517.86: We checked so many different options at the moment for NK cells and we are indeed very convinced about the activity of the core blood derived cells from MD and the. 
+asr:0: OUTPUT 2520.50-2528.63: Body. 
+asr:0: OUTPUT 2528.71-2532.57: From BMO Capital. The line is now open. Please go ahead. 
+asr:0: OUTPUT 2535.34-2540.26: Good morning, gentlemen. Thanks for taking my question. This is EK on for Doe Kim. 
+asr:0: OUTPUT 2540.94-2545.00: Just a couple regarding the DCMA and the engager. 
+asr:0: OUTPUT 2545.09-2552.75: I understand that you probably have limited visibility on the entirety of the clinical. 
+asr:0: OUTPUT 2553.23-2559.02: But if you can provide any type of insight in terms of what genetic. 
+asr:0: OUTPUT 2559.04-2568.49: Kind of has planned, maybe in terms of could it potentially pursue an accelerated pathway for the asset? 
+asr:0: OUTPUT 2569.21-2571.13: And secondly,. 
+asr:0: OUTPUT 2571.59-2578.56: Again, you don't provide complete details on the exact milestone payments, but. 
+asr:0: OUTPUT 2578.62-2581.34: If you can provide us some additional perspective on... 
+asr:0: OUTPUT 2581.36-2589.63: What the future milestones for Assetmite holds in terms of, you know,. 
+asr:0: OUTPUT 2589.81-2596.94: Phase two, phase three, things of that sort. Should we expect increasing size of value for each milestone payment? 
+asr:0: OUTPUT 2597.42-2598.86: That'd be helpful for us. Thanks. 
+asr:0: OUTPUT 2601.44-2605.45: Ali, maybe I take the question on the pathway and then hand over to you with the milestones. 
+asr:0: OUTPUT 2608.41-2609.53: Yes, please go ahead on. 
+asr:0: OUTPUT 2610.91-2620.00: So, yeah, thanks for the question. I mean, as you already correctly say, we cannot really speak in detail for Genentech, but we can share with you, I think you're aware,. 
+asr:0: OUTPUT 2620.54-2628.21: Of course, licensing this molecule was a big part of the deal we did with Genentech. 
+asr:0: OUTPUT 2628.23-2632.69: Excited about the strong differentiation potential. 
+asr:0: OUTPUT 2632.75-2637.72: Also demonstrated at ACR at the poster just to review again. 
+asr:0: OUTPUT 2637.78-2647.39: A very strong preclinical cell killing selective nociclicon release, very good safety profile, and good pharmacodynamic marker. 
+asr:0: OUTPUT 2647.41-2650.37: Specific BCMA plasma cells. 
+asr:0: OUTPUT 2650.41-2651.93: Killing in the Sinnoh monkey. 
+asr:0: OUTPUT 2652.63-2660.98: So, you know, despite the also recent approvals of the, you know, first incomers in the space,. 
+asr:0: OUTPUT 2662.06-2671.77: I would say that genetic shares our excitement with the differentiation potential in a way for a potentially best-in-class molecule. 
+asr:0: OUTPUT 2671.87-2680.84: Maybe I leave it there. I think it's a clearly strongly clinically validated space. 
+asr:0: OUTPUT 2681.32-2689.97: And I think this molecule will enable Genentech and we as their partner to have a strong position in this space. 
+asr:0: OUTPUT 2693.09-2701.36: Regarding the financials, I just want to recall the deal when it was signed. We received 96 million in upfront cash. 
+asr:0: OUTPUT 2702.32-2707.89: And can get a total of more than five billion. 
+asr:0: OUTPUT 2707.97-2715.82: In milestones that are in different categories. So there's a preclinical milestone payment. 
+asr:0: OUTPUT 2716.34-2720.08: There are indeed multiple clinical milestone payments. 
+asr:0: OUTPUT 2720.14-2724.98: Regulatory and sales milestones and on top we can receive. 
+asr:0: OUTPUT 2725.01-2734.63: Royalties which as we described are on the higher end of what you would expect for the early nature of the. 
+asr:0: OUTPUT 2734.65-2737.12: License agreement. 
+asr:0: OUTPUT 2737.90-2747.81: Beyond that, we're not able to disclose any further details unless Genetic would allow us or Roche would allow us to do so. 
+asr:0: OUTPUT 2748.25-2756.14: Usually, and that's just a general statement, is that the payments will increase the further the program progresses. 
+asr:0: OUTPUT 2758.46-2766.57: Okay, thank you for that. And just one more quick question. I think I might have misheard it. This is in regards to AFM 24. 
+asr:0: OUTPUT 2767.33-2771.63: I believe you mentioned that there was a patient that had increased. 
+asr:0: OUTPUT 2771.65-2780.38: I was curious, was that self-resolving or was that a process that was going on for 24. 
+asr:0: OUTPUT 2780.40-2783.24: That patient received and the ALS-6 inhibitor. 
+asr:0: OUTPUT 2785.15-2788.57: Yeah, I can. Thanks for bringing that up and the clarification. 
+asr:0: OUTPUT 2788.79-2795.56: So the transient R6 increase was reported in the ion-enabling sino-tox study. 
+asr:0: OUTPUT 2795.94-2798.54: What you're referring to the AACR poster. 
+asr:0: OUTPUT 2798.98-2801.18: Indeed, we saw that with the dosing. 
+asr:0: OUTPUT 2801.22-2813.87: A kind of moderate peak that quickly went down, was completely resolved without any treatment. Obviously, one doesn't do that because this is a SINO-TOX study. 
+asr:0: OUTPUT 2814.39-2818.92: And again, when we see this in the context, because it was transient and fully reversed,. 
+asr:0: OUTPUT 2818.94-2830.25: Leads us to the conclusion, which of course will be looked at carefully in patients, that we should not expect any kind of cytokine release syndrome. 
+asr:0: OUTPUT 2831.91-2834.93: All right, thank you for that clarification. 
+asr:0: OUTPUT 2838.14-2846.97: Thank you. Next question comes from the line of E.A. Jenner from Millennial Company. Please go ahead. The line is now open. 
+asr:0: OUTPUT 2850.85-2854.93: Can you hear me? 
+asr:0: OUTPUT 2855.68-2865.41: My first question is that for the AFM-13, for the registration study that the AFM-13. 
+asr:0: OUTPUT 2865.43-2866.61: It's assignment two. 
+asr:0: OUTPUT 2866.67-2868.43: Set up. 
+asr:0: OUTPUT 2869.07-2878.48: So what might be the threshold of ORR in the 40 patient and sort of interim readout before you can move forward? 
+asr:0: OUTPUT 2878.54-2881.06: Forward. So just curious what. 
+asr:0: OUTPUT 2881.18-2883.40: Any information you can reveal on that front? 
+asr:0: OUTPUT 2886.61-2891.57: I'm afraid we cannot give a concrete response rate. 
+asr:0: OUTPUT 2891.59-2896.82: It's based also on a Bayesian design, so there are some interdependence of response rates,. 
+asr:0: OUTPUT 2897.16-2899.34: We usually do not disclose thresholds. 
+asr:0: OUTPUT 2899.90-2902.26: But it's a classical Simon two-stage design. 
+asr:0: OUTPUT 2904.28-2908.73: No problem. And also just curious in terms of AFM. 
+asr:0: OUTPUT 2908.75-2914.69: That you are dose escalating but. 
+asr:0: OUTPUT 2914.71-2924.50: At least based on the animal data, is any thoughts where when you might start to see the potential effective dose to start? 
+asr:0: OUTPUT 2926.89-2935.42: I think currently it's not possible to predict when we will have the optimal biologically active dose. 
+asr:0: OUTPUT 2935.44-2944.02: As there are a number of covariance like binding sites for CD16, binding sites for EGFR and distribution. 
+asr:0: OUTPUT 2945.47-2954.83: And as you know, the animal models, especially in terms of pharmacokinetics and pharmacodynamics, are very. 
+asr:0: OUTPUT 2954.85-2960.00: Difficult to translate the relevant tox species and. 
+asr:0: OUTPUT 2960.30-2963.66: After all, it's only a Tox species. It's the Cynomorgus monkey. 
+asr:0: OUTPUT 2964.26-2967.83: However, we do not have any cynomorgus monkey. 
+asr:0: OUTPUT 2967.85-2980.04: Tumor models available. So we cannot really bridge between what we see in the toxicology studies and then what we would see in terms of efficacy for tumors. 
+asr:0: OUTPUT 2980.72-2985.41: So it will be something that we will have to define in our clinical program. 
+asr:0: OUTPUT 2987.93-2993.35: Great, maybe I'll stick in one last question here. 
+asr:0: OUTPUT 2993.85-2998.54: In terms of adaptive NK cell from the cobalt. 
+asr:0: OUTPUT 2998.72-3000.00: I'll be roving itself. 
+asr:0: OUTPUT 3001.30-3010.81: First of all, could that be potentially used in sorted tumor? And any comments in terms of regarding that? 
+asr:0: OUTPUT 3010.83-3012.15: But, I'll pop that in. 
+asr:0: OUTPUT 3014.45-3020.00: This is, as Adi said, something that we are actively looking into. 
+asr:0: OUTPUT 3020.24-3027.49: We're starting out with lymphomas, obviously, with AFM13, targeting CD30, but. 
+asr:0: OUTPUT 3027.51-3033.31: Our vision is that also for AFM24 we will develop. 
+asr:0: OUTPUT 3033.33-3038.44: Certain development options in combination with NK cells. 
+asr:0: OUTPUT 3038.58-3043.84: Could be cold blood derived in cases, could be in cases from another source. 
+asr:0: OUTPUT 3044.40-3047.13: That is something that we will define. 
+asr:0: OUTPUT 3047.15-3056.04: The intention is also to have a program where AFM24 would be partnered with exogenous NK cells. 
+asr:0: OUTPUT 3058.66-3062.88: Great, thanks. I appreciate it and congrats for all the progress thus far. 
+asr:0: OUTPUT 3070.55-3074.37: No further questions at this time for any closing remarks. Please go ahead, speakers. 
+asr:0: OUTPUT 3076.04-3080.96: Yeah, thank you again for listening in and following our update. 
+asr:0: OUTPUT 3082.72-3090.21: The progress is coming smoothly along despite that we are affected by COVID. 
+asr:0: OUTPUT 3091.23-3099.82: We have strengthened the team significantly in order to address any issues that may relate to the conductance of these clinical trials. 
+asr:0: OUTPUT 3099.84-3105.49: To the interactions with the specific sites. 
+asr:0: OUTPUT 3105.57-3110.13: So we're very happy to be able to have been able to address. 
+asr:0: OUTPUT 3110.15-3121.60: Any of the issues that have been arising. I indeed want to thank again the entire team here at Affymet for managing all that through these difficult times. 
+asr:0: OUTPUT 3122.32-3127.09: We're quite excited that we can move forward these programs. 
+asr:0: OUTPUT 3127.51-3133.57: Either it's monotherapies and now looking at different options of combination. 
+asr:0: OUTPUT 3134.03-3139.56: If you've heard, we focus on natural killer cells and checkpoint inhibitors, in particular PD-1s or PD-L1s. 
+asr:0: OUTPUT 3140.18-3145.97: We feel that we have, with the multiple programs, addressing different targets. 
+asr:0: OUTPUT 3146.19-3153.49: We can provide a couple of data over the next quarters and years. 
+asr:0: OUTPUT 3153.51-3156.92: Very happy to report any additional updates as we move along. 
+asr:0: OUTPUT 3157.12-3160.78: Thanks a lot again for listening in and all the best. Good point. 
+asr:0: OUTPUT 3162.10-3168.63: Thank you for listening to the conference today. Thank you all for participating in the Alex Connect. Stay safe, everyone. Thank you. 
+asr:0: END

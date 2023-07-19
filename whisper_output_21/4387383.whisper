@@ -1,0 +1,198 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.57-9.71: Audio conferencing system. 
+asr:0: OUTPUT 15.18-16.66: OK, first and last name. 
+asr:0: OUTPUT 22.68-24.20: And what company are you with, sir? 
+asr:0: OUTPUT 27.31-35.52: UBS group. Okay, getting you into the call now. Alrighty. 
+asr:0: OUTPUT 40.56-47.07: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 88.27-94.35: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 126.09-133.11: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 149.41-154.57: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 186.23-192.67: Thank you for waiting. Your patience is appreciated. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 224.66-230.85: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 262.58-269.51: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 303.60-309.27: Thank you for holding. We sincerely appreciate your patience. Please stay on the line and we'll be back in a moment. 
+asr:0: OUTPUT 341.00-347.51: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 388.81-394.81: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 426.53-433.53: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 449.89-454.87: Holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 486.67-493.27: Thank you for waiting. Your patience is appreciated. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 525.07-531.25: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 563.06-569.99: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 604.14-609.73: Thank you for holding. We sincerely appreciate your patience. Please stay on the line and we'll be back in a moment. 
+asr:0: OUTPUT 641.44-647.99: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 689.21-695.30: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 727.01-734.01: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 750.47-754.89: We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 787.13-793.61: Thank you for waiting. Your patience is appreciated. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 825.49-831.65: Thank you for holding. We look forward to talking with you soon. Please hold the line and we'll be right back with you. 
+asr:0: OUTPUT 863.34-870.35: Thanks for holding. We appreciate your time and patience. Please stay on the line and we'll be back in just a moment. 
+asr:0: OUTPUT 904.50-910.07: Thank you for holding. We sincerely appreciate your patience. Please stay on the line and we'll be back in a moment. 
+asr:0: OUTPUT 941.90-946.07: Thank you for holding. We look forward to talking with you soon. Please hold. 
+asr:0: OUTPUT 953.81-959.54: Good afternoon, ladies and gentlemen, and welcome to the Clipper Realty 3Q20 earnings call. 
+asr:0: OUTPUT 960.22-966.65: At this time, all participants have been placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation. 
+asr:0: OUTPUT 967.03-971.95: It is now my pleasure to turn the floor over to your host michael friends sir the floor is yours. 
+asr:0: OUTPUT 974.31-980.32: Good afternoon and thank you for joining us for the third quarter 2020 Clipper Realty, Inc. Earnings conference call. 
+asr:0: OUTPUT 980.88-989.27: Participating with me on today's call are David Bistrasser, co-chairman of the board and chief executive officer, and JJ Bistrasser, chief operating officer. 
+asr:0: OUTPUT 990.17-1000.86: Please be aware that statements made during the call that are not historical may be deemed forward-looking statements and actual results may differ materially from those indicated by such forward-looking statements. 
+asr:0: OUTPUT 1001.78-1004.92: These statements are subject to numerous risks and uncertainties. 
+asr:0: OUTPUT 1004.94-1010.23: Including those disclosed in the company's quarterly report on Form 10-Q posted today. 
+asr:0: OUTPUT 1010.27-1015.06: The company's quarterly reports on Form 10-Q for the first and second quarters of 2020. 
+asr:0: OUTPUT 1015.66-1024.18: And the company's 2019 annual report on Form 10-K, which are all accessible at www.sec.gov and our website. 
+asr:0: OUTPUT 1025.31-1034.21: As a reminder, the forward-looking statements speak only as of the date of this call, November 9th, 2020, and the company undertakes no duty to update them. 
+asr:0: OUTPUT 1035.34-1042.68: During this call, management may refer to certain non-GAAP financial measures, including adjusted funds from operations or AFFO,. 
+asr:0: OUTPUT 1042.70-1050.87: Adjusted earnings before interest, taxes, depreciation, and amortization, or adjusted EBITDA, and net operating income, or NOI. 
+asr:0: OUTPUT 1051.43-1054.77: Please see our press release, supplemental financial information. 
+asr:0: OUTPUT 1054.79-1062.86: And Form 10-Q posted today for a reconciliation of these non-GAAP financial measures with the most directly comparable GAAP financial measures. 
+asr:0: OUTPUT 1063.58-1067.91: With that, I will now turn the call over to our co-chairman and CEO, David Bistracer. 
+asr:0: OUTPUT 1069.33-1075.00: Thank you, Michael. Good afternoon and welcome to the third quarter of 2020 earnings call for the crypto realty. 
+asr:0: OUTPUT 1075.94-1084.72: I will provide an update on our business performance, including recent highlights and milestones as well as how our company is responding to COVID-19 pandemic. 
+asr:0: OUTPUT 1085.37-1093.09: I will then turn the call over to JJ who will discuss property level activities, including leasing performance and measures taken in light of the pandemic. 
+asr:0: OUTPUT 1093.99-1099.04: Finally, Michael will speak about our quarterly financial performance. We will then take your questions. 
+asr:0: OUTPUT 1100.14-1106.99: I will begin by thanking the entire Clipper team for their continued hard work and perseverance during this challenging period. 
+asr:0: OUTPUT 1107.15-1116.56: Their ongoing dedication to our residents, our communities, and our business has been remarkable throughout the course of the pandemic, and we are grateful for their efforts. 
+asr:0: OUTPUT 1117.58-1121.64: Our properties have remained open and operational throughout the pandemic. 
+asr:0: OUTPUT 1122.16-1130.33: We continue to take necessary steps to keep our tenants safe in compliance with state and local orders and are providing typical services to our residents. 
+asr:0: OUTPUT 1131.11-1139.92: During the third quarter, we witnessed some pressure on occupancy and rental rates at several of our properties, driven by economic activity declines related to COVID-19. 
+asr:0: OUTPUT 1140.54-1146.71: At quarter end, the residential properties was 93% least compared to 96% at the end of the second quarter. 
+asr:0: OUTPUT 1147.37-1151.87: Despite the current headwinds, we are confident in the resiliency of New York City. 
+asr:0: OUTPUT 1152.19-1160.02: And we expect our properties in the New York City market to remain desirable to a broad range of tenants and our operations to return to a normal rate state over time. 
+asr:0: OUTPUT 1160.84-1167.21: Our balance sheet continues to be well positioned from a liquidity perspective to manage through the pandemic. 
+asr:0: OUTPUT 1167.75-1174.93: We have $105 million of cash consisting of $83 million of unrestricted cash and $22 million of restricted cash. 
+asr:0: OUTPUT 1175.56-1183.52: We finance our portfolio on an asset by asset basis, debt in non-recourse and is non-cross collateralized. 
+asr:0: OUTPUT 1183.68-1188.13: We have no debt maturities on any of our operating properties until 2027. 
+asr:0: OUTPUT 1189.21-1194.43: During the third quarter, we purchased 45,858 shares of Commerce Stock. 
+asr:0: OUTPUT 1194.47-1202.16: A weighted average price of $5.90 a share under a $10 million stock repurchase program announced in August. 
+asr:0: OUTPUT 1202.36-1207.35: At the end of the quarter, we had $9.7 million remaining under the stock repurchase program. 
+asr:0: OUTPUT 1208.29-1217.56: Turning to upcoming developments, we continue to proceed with the redevelopment of our 1010 Pacific Street acquisition located in Prospect Heights, Brooklyn. 
+asr:0: OUTPUT 1218.00-1222.04: About one mile from the Atlantic terminal, Barclays Center, Huffington. 
+asr:0: OUTPUT 1222.72-1229.37: As previously disclosed, we estimate that the project will cost approximately $85 million in total and take two years to complete. 
+asr:0: OUTPUT 1230.17-1233.49: And develop at a 6.5% stabilized cap rate. 
+asr:0: OUTPUT 1233.87-1237.12: JJ will provide further updates on the project shortly. 
+asr:0: OUTPUT 1237.82-1244.88: In our office portfolio, the new lease with the city of New York at 250 Livingston Street commenced in August. 
+asr:0: OUTPUT 1245.33-1252.51: This lease is expected to initially add substantially approximately $5. Million to the property's annual NOL. 
+asr:0: OUTPUT 1252.87-1255.78: And is a significant milestone for the company. 
+asr:0: OUTPUT 1256.60-1262.50: At 141 Livingston Street, the city's rent will increase 25% at the end of December. 
+asr:0: OUTPUT 1262.72-1268.27: Which will add 2.1 million dollars to the property's annual NOI. 
+asr:0: OUTPUT 1268.75-1275.64: Together, these roles are expected to add an incremental $7.1 million of annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual annual. 
+asr:0: OUTPUT 1275.66-1279.72: Representing an approximate 10% increase on a normalized run rate. 
+asr:0: OUTPUT 1280.76-1287.87: I have a motion to approve the. 
+asr:0: OUTPUT 1287.89-1297.76: We anticipate that approval will add significant floor area ratio to the complex, meaningfully expanding the size of the properties, adding significant value, and allowing us to begin development. 
+asr:0: OUTPUT 1298.04-1302.92: There is no insurance, however, that the application will fully or partially approved or submitted. 
+asr:0: OUTPUT 1303.84-1309.25: I'd like to provide an update to the Tobacco House 421G Kubsic litigation. 
+asr:0: OUTPUT 1309.99-1317.94: As previously disclosed, the New York City Court of Appeals rules in June 2019 that apartments and buildings receiving 421G tax benefits. 
+asr:0: OUTPUT 1318.44-1320.78: And not subject to luxury deregulation. 
+asr:0: OUTPUT 1321.64-1325.59: October 29th, the appellate division applied... 
+asr:0: OUTPUT 1325.61-1338.38: Applies the Court of Appeals ruling Regina case only that the base rent for the termination of rent overcharges is four years prior to the 2016 filing of the Cumsage complaint. 
+asr:0: OUTPUT 1338.72-1348.45: And overcharges, if any, are to be determined by comparing the rents actually charged during the four-year period to the rent increases permitted by New York City Rent Leveling Guidelines Board. 
+asr:0: OUTPUT 1349.23-1356.48: Although not eliminating overcharged liability altogether, this ruling is expected to limit our financial exposure in this regard. 
+asr:0: OUTPUT 1356.90-1362.84: The appellate division, however, affirmed the lower court's award of attorney's fees to the plaintiff's tenants. 
+asr:0: OUTPUT 1363.44-1372.93: The case will eventually be remanded back to the lower court, which will determine the amount of liability for rent overcharge and attorney's fees. No future court dates have been scheduled as of yet. 
+asr:0: OUTPUT 1373.43-1383.32: We do not believe that this litigation will have a material impact on our business as it pertains to the limited subsets of previous and existing tenants at the property. 
+asr:0: OUTPUT 1383.44-1391.65: The vast majority of current tenants and all future move-ins are not impacted by litigation as those units are free market. Lastly. 
+asr:0: OUTPUT 1392.09-1398.22: I would like to comment on a third quarter results. We are reporting quarterly revenues of $29.6 million. 
+asr:0: OUTPUT 1398.74-1406.19: NOI of $14.5 million and FFO of $2.9 million. Results that reflect the current headwinds discussed earlier. 
+asr:0: OUTPUT 1406.75-1410.49: Michael will provide further details on our financial performance shortly. 
+asr:0: OUTPUT 1410.95-1414.69: I will now turn the call over to JJ who will provide an update on operations. 
+asr:0: OUTPUT 1415.18-1421.42: And our response to the pandemic, including a targeted overhead reduction to future streamline expense. 
+asr:0: OUTPUT 1423.72-1432.07: Thank you. I begin by thanking our colleagues at our properties and corporate office for their tireless efforts throughout this challenging period. 
+asr:0: OUTPUT 1432.83-1436.72: Their unwavering commitment to our tenants and communities has been inspiring. 
+asr:0: OUTPUT 1437.56-1444.26: We faced certain revenue challenges in the third quarter as a result of declines in economic activity related to COVID-19. 
+asr:0: OUTPUT 1445.35-1454.43: Third quarter total revenue was 3.6% lower than second quarter total revenue driven by declines in occupancy and rental rates at several of our properties. 
+asr:0: OUTPUT 1454.45-1456.34: Due to the ongoing pandemic. 
+asr:0: OUTPUT 1457.42-1461.72: Rent per square foot at Chebeke was $66 at the end of the third quarter. 
+asr:0: OUTPUT 1462.46-1469.23: We are working diligently to manage revenue at the property and note that occupancy has recently increased 83%. 
+asr:0: OUTPUT 1469.99-1478.80: Longer term, we believe that occupancy and rental rates at the property will return to pre-COVID levels given Chevecca House's attractiveness from a pricing standpoint. 
+asr:0: OUTPUT 1478.82-1481.82: Compared to other luxury buildings in the surrounding neighborhood. 
+asr:0: OUTPUT 1482.86-1487.53: The Flappage Gardens complex in Brooklyn held up well in the third quarter from a revenue standpoint. 
+asr:0: OUTPUT 1488.25-1495.10: As it is throughout the pandemic. The property maintained high occupancy ending the quarter over 96% lease. 
+asr:0: OUTPUT 1495.68-1500.56: Rent per square foot was a record $25.10 at the end of the quarter. 
+asr:0: OUTPUT 1501.14-1509.27: We continue to proactively streamline the business and manage our expense base and have reorganized certain operations at the property. 
+asr:0: OUTPUT 1509.29-1514.71: Which is expected to result in annual cost savings in excess of $800,000. 
+asr:0: OUTPUT 1515.48-1523.18: Flappers Gons is a key element of our portfolio and growth story with the FAR expansion project and incremental value opportunity. 
+asr:0: OUTPUT 1528.73-1536.52: The Clover House, Aspen, and 10 West 65th Street properties experienced some occupancy and pricing pressures due to COVID-19. 
+asr:0: OUTPUT 1536.60-1542.96: Each ending the third quarter approximately 90% least, compared to middle 90 levels at the end of the second quarter. 
+asr:0: OUTPUT 1543.66-1552.67: We have however seen a recent uptick in activity at these properties with occupancy gains ranging from 380 to 610 basis points since the end of the quarter. 
+asr:0: OUTPUT 1553.47-1559.76: Collections have remained strong during the pandemic. Our rent collection rate in the third quarter was 97%. 
+asr:0: OUTPUT 1560.52-1567.97: We continue to work with tenants on a case-by-case basis when they notify us that they cannot meet their rent obligations as a result of the pandemic. 
+asr:0: OUTPUT 1567.99-1571.05: Including reviewing potential alternative payment arrangements. 
+asr:0: OUTPUT 1572.11-1581.48: On the development side, we are completing the necessary regulatory process at 1010 Pacific Street to construct a nine-story, 119,000 square foot,. 
+asr:0: OUTPUT 1581.50-1587.47: Rentable square foot, fully amenitized, multifamily rental building with underground indoor parking. 
+asr:0: OUTPUT 1588.15-1595.46: The property will have 175 total units, 70% of which will be free market and 30% affordable. 
+asr:0: OUTPUT 1595.88-1599.92: And is eligible for a 35-year 421A tax abatement. 
+asr:0: OUTPUT 1600.50-1604.44: We are in the process of negotiating a construction loan for the project. 
+asr:0: OUTPUT 1605.45-1613.77: Looking ahead, we are focused on optimizing occupancy, pricing and expenses across the business against the backdrop of ongoing. 
+asr:0: OUTPUT 1613.79-1616.92: Pandemic-driven headwinds that continue to pressure. 
+asr:0: OUTPUT 1616.94-1619.86: Both our portfolio and the New York City market in general. 
+asr:0: OUTPUT 1620.66-1627.51: The near-term environment will remain challenging, but we are committed to strongly positioning ourselves to emerge from the pandemic. 
+asr:0: OUTPUT 1628.23-1631.55: I will now turn over the call to Michael, who will discuss our financial results. 
+asr:0: OUTPUT 1645.37-1649.71: Just one moment, gentlemen. Michael's line has disconnected. We're reconnecting him now. 
+asr:0: OUTPUT 1680.00-1687.79: The operator. We're trying to connect Michael Friends. His line has dropped. That's me. Come back. Oh, you're back. Okay, perfect. Thanks. 
+asr:0: OUTPUT 1694.73-1698.38: You're on. I am. Thanks, guys. Apologies for that. Had a connection problem. 
+asr:0: OUTPUT 1699.56-1704.08: For the third quarter, we achieved revenues of $29.6 million. 
+asr:0: OUTPUT 1704.10-1710.35: An increase of 0.2 million or 0.6% compared to the same period in 2019. 
+asr:0: OUTPUT 1711.03-1717.90: We achieved NOI of 14.5 million and AFFO of $2.9 million or six cents per share. 
+asr:0: OUTPUT 1718.62-1730.83: The year over year total revenue increase was primarily attributable to the commencement of the new office lease at the 250 Livingston Street property and bringing the Clover house property online during the third quarter of 2019. 
+asr:0: OUTPUT 1731.39-1736.36: Partially offset by decline in lease occupancy and residential rental rate to Tribeca House property. 
+asr:0: OUTPUT 1737.28-1740.72: On the expense side, key year over year changes were as follows. 
+asr:0: OUTPUT 1741.42-1747.13: Property operating expenses increased by 0.5 million in the third quarter year on year. 
+asr:0: OUTPUT 1747.15-1752.25: Primarily driven by an increase in the provision for bad debt due to the impact of COVID-19. 
+asr:0: OUTPUT 1752.97-1757.48: Real estate taxes and insurance increased by $0.7 million in the third quarter. 
+asr:0: OUTPUT 1757.90-1763.32: Due to property tax increases across their portfolio and general insurance industry cost increases. 
+asr:0: OUTPUT 1764.22-1773.41: Interest expense increased by 1.5 million in the third quarter year on year, primarily due to the recognition of interest expense in connection with bringing Clover House online. 
+asr:0: OUTPUT 1773.43-1776.28: And the refinancing of the Flatbush Gardens property in May. 
+asr:0: OUTPUT 1778.08-1781.80: As David mentioned earlier, we are well positioned from a liquidity perspective. 
+asr:0: OUTPUT 1782.60-1791.41: As of September 30th, we have $105 million of cash consisting of $83 million of unrestricted cash and 22 million of restricted cash. 
+asr:0: OUTPUT 1792.31-1798.46: We finance our portfolio on an asset by asset basis. Our debt is non-recourse and is not cross-collateralized. 
+asr:0: OUTPUT 1799.24-1803.12: We have no debt maturities on any operating properties until 2027. 
+asr:0: OUTPUT 1804.28-1810.77: Lastly, today we are announcing a dividend of nine and a half cents per share for the third quarter, the same amount as last quarter. 
+asr:0: OUTPUT 1811.33-1816.18: The dividend will be paid on November 27th to shareholders of record on November 20th. 
+asr:0: OUTPUT 1816.94-1820.12: Let me now turn the call back over to David for concluding remarks. 
+asr:0: OUTPUT 1821.18-1829.61: Thank you, Michael. We remain focused on efficiently operating our portfolio throughout the pandemic. With the safety of our tenants and employees our highest priority. 
+asr:0: OUTPUT 1830.15-1836.88: We continue to take the necessary steps to navigate through the current challenges, whether it's by strong balance sheets. 
+asr:0: OUTPUT 1836.90-1841.48: New York City has survived and thrived through challenging circumstances over time. 
+asr:0: OUTPUT 1841.82-1845.23: And we have every confidence that the city will emerge from the pandemic as strong as. 
+asr:0: OUTPUT 1846.91-1855.10: I look forward to capitalizing on a myriad of growth opportunities, including the 10-time Pacific Street redevelopment and the potential expansion of Flappage Gardens. 
+asr:0: OUTPUT 1855.78-1860.00: We hope everyone stays safe and healthy. With that, I would like to open up the line for questions. 
+asr:0: OUTPUT 1862.10-1870.43: Thank you, ladies and gentlemen. The floor is open for questions. If you have any questions or comments, please indicate so now by pressing star 1 on your touchtone phone. 
+asr:0: OUTPUT 1870.93-1879.96: Pressing star two will remove you from the queue should your question be answered. And lastly, while posing your question, please pick up your handset if listening on speakerphone to provide optimum sound quality. 
+asr:0: OUTPUT 1880.46-1888.43: Please hold while we poll for questions. And your first question is coming from Craig Kucera. Craig, your line's live. 
+asr:0: OUTPUT 1890.35-1892.57: Yeah, hi, I just wanted to confirm. 
+asr:0: OUTPUT 1893.11-1901.52: Did you say that outside of Tribeca, where you gave the update that occupancy had improved. 
+asr:0: OUTPUT 1901.58-1910.17: You mentioned Flatbush. All the other properties have seen anywhere from a 380 to 610 basis point in occupancy since the third quarter. 
+asr:0: OUTPUT 1912.93-1914.15: Yeah, hi Craig, how are you? 
+asr:0: OUTPUT 1915.24-1924.60: When at the end of the second quarter, some of the properties, as we said, Aspen, 10 West at Clover House, they were all in the mid 90s percent occupancy range, 95 to 97%. 
+asr:0: OUTPUT 1925.27-1928.65: By the end of the third quarter, they had dipped a bit to 90%. 
+asr:0: OUTPUT 1929.21-1933.31: But since the end of the third quarter between September and today,. 
+asr:0: OUTPUT 1933.41-1938.04: We see a bump back up on those properties anywhere from 3 to 4 to 5%. 
+asr:0: OUTPUT 1938.06-1944.66: The Aspen, San Juan, and Cloverhouse properties currently are leased ranging from 92 to 95 percent. 
+asr:0: OUTPUT 1945.97-1951.61: Okay, great. And I just wanted to follow up on... 
+asr:0: OUTPUT 1952.51-1959.66: Have rents trended flat in the fourth quarter, or have there been any rent concessions to get those folks back? 
+asr:0: OUTPUT 1962.76-1963.82: Hey, do you want to talk to that? 
+asr:0: OUTPUT 1966.41-1972.81: The rents have pretty much stayed a drop below what they were prior. 
+asr:0: OUTPUT 1973.01-1981.14: Simply because we're trying to recapture occupancy so that we're positioned for when the market does come back to start pushing rents again. 
+asr:0: OUTPUT 1981.22-1987.19: For now, we're doing the best we can and making sure that we don't lose any opportunities to rent apartments. 
+asr:0: OUTPUT 1987.81-1991.73: So there's a slight downtick in the rent per square foot because of that. 
+asr:0: OUTPUT 1992.67-1996.14: Got it. And just one more for me. 
+asr:0: OUTPUT 1996.64-1999.56: You know, are you tracking or able to track whether. 
+asr:0: OUTPUT 1999.58-2008.77: As the folks moved out from second to third quarter, are they staying in market or are these people basically just exiting the markets? 
+asr:0: OUTPUT 2009.21-2012.71: Maybe they'll come back at some point in the future, but are no longer in the greater New York MSA. 
+asr:0: OUTPUT 2015.38-2023.42: To answer that without exact numbers, the answer is a significant amount of them are moving out of the city. 
+asr:0: OUTPUT 2023.84-2028.57: Some of them, depending on the property, are moving to, let's say, second homes that they have in the suburbs. 
+asr:0: OUTPUT 2029.89-2036.86: Many of them tell us when on the way out, they say, you know, we wish this didn't come to this. We hope to be back soon. We really like the property. 
+asr:0: OUTPUT 2036.94-2040.84: And we're looking forward for when things get back to normal so we can return to the city. 
+asr:0: OUTPUT 2043.00-2045.69: Okay, well that's encouraging. That's it for me, thanks guys. 
+asr:0: OUTPUT 2050.03-2054.35: If there are any remaining questions or comments, please indicate so now by pressing star one. 
+asr:0: OUTPUT 2061.56-2066.93: Okay, your next question is coming from Buck Horn. Buck, your line's live. 
+asr:0: OUTPUT 2068.23-2075.82: Hey, thanks. Hey, Mike, could you just quantify what the bad debt expense was in the quarter? I don't know. Did you break that up? The operating expenses? 
+asr:0: OUTPUT 2076.62-2079.90: Absolutely, as a refresher in the second quarter. 
+asr:0: OUTPUT 2080.34-2086.49: As you know, we took about a $600,000 bad debt expense and now into the third quarter here. 
+asr:0: OUTPUT 2086.81-2091.53: Again, given the high collection rate, as JJ said, we're still in the high 90s. 
+asr:0: OUTPUT 2092.55-2097.48: So what we've seen is actually to date pretty good and strong performance, even as the pandemic lingers. 
+asr:0: OUTPUT 2098.36-2107.01: All in all, at the third quarter, we took a proximate $660,000 charge for bad debt. So about a 10% increase over the second quarter. 
+asr:0: OUTPUT 2107.41-2115.42: But again, given everything that's been going on with the pandemic, I think we're pleasantly surprised and continue to see collections hold up overall. 
+asr:0: OUTPUT 2121.60-2126.07: If there are any remaining questions or comments, please indicate so now by pressing star one. 
+asr:0: OUTPUT 2133.21-2134.81: We have no remaining questions in queue. 
+asr:0: OUTPUT 2136.20-2140.78: Thank you for joining us today. We look forward to speaking with you again soon. Stay safe. 
+asr:0: OUTPUT 2144.20-2151.45: Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation. 
+asr:0: END

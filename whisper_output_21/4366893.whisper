@@ -1,0 +1,347 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.96-5.39: Good morning and welcome to Earthstone Energy's second quarter 2020 conference call. 
+asr:0: OUTPUT 5.85-11.73: At this time, all participants are in a listen-only mode. A brief question and answer session will follow the formal presentation. 
+asr:0: OUTPUT 12.27-17.38: If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. 
+asr:0: OUTPUT 18.04-20.24: As a reminder, this conference is being recorded. 
+asr:0: OUTPUT 21.02-26.23: Joining us today from Earthstone are Robert Anderson, President and Chief Executive Officer. 
+asr:0: OUTPUT 26.25-32.45: Mark Plumkin, Executive Vice President and Chief Financial Officer, and Scott Thelander, Vice President of Finance. 
+asr:0: OUTPUT 33.83-35.26: Mr. Thelander, you may begin. 
+asr:0: OUTPUT 37.86-40.20: Thank you and welcome to our second quarter conference call. 
+asr:0: OUTPUT 40.76-57.82: Before we get started, I would like to remind you that today's call will contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. 
+asr:0: OUTPUT 59.08-66.69: Although management believes these statements are based on reasonable expectations, they can give no assurance that they will prove to be correct. 
+asr:0: OUTPUT 67.35-75.64: These statements are subject to certain risks, uncertainties, and assumptions as described in the earnings announcement we released yesterday. 
+asr:0: OUTPUT 75.68-81.00: And in our 2019 annual report on Form 10-K and subsequent. 
+asr:0: OUTPUT 81.02-82.12: Quarterly filings. 
+asr:0: OUTPUT 83.42-90.17: These documents can be found in the investor section of our website, www.earthstoneenergy.com. 
+asr:0: OUTPUT 90.77-98.86: Should one or more of these risks materialize or should underlying assumptions prove incorrect, actual results may vary materially. 
+asr:0: OUTPUT 100.12-105.47: This conference call also includes references to certain non-GAAP financial measures. 
+asr:0: OUTPUT 105.49-116.42: Which include adjusted diluted shares, adjusted EBITDAX, adjusted net income, all in cash costs, cash DNA, and free cash flow. 
+asr:0: OUTPUT 117.08-126.61: Reconciliations of these non-GAAP financial measures to the most directly comparable measure under GAAP are contained in our earnings announcement released yesterday. 
+asr:0: OUTPUT 127.91-134.47: Also, please note, information on this call speaks only as of today, August 6, 2020. 
+asr:0: OUTPUT 135.00-142.46: Thus, any time-sensitive information may no longer be accurate at the time of any replay or transcript reading. 
+asr:0: OUTPUT 143.54-152.65: A replay of today's call will be available via webcast by going to the investor section of Erskine's website and also by telephone replay. 
+asr:0: OUTPUT 153.61-158.22: You can find information about how to access those on our earnings announcement released yesterday. 
+asr:0: OUTPUT 159.10-166.17: Today's call will begin with comments from Robert Anderson, our CEO, followed by remarks from our CFO, Mark Lumpkin. 
+asr:0: OUTPUT 166.19-170.53: Regarding financial measures and financial matters in performance. 
+asr:0: OUTPUT 171.67-173.53: And then some closing comments from Robert. 
+asr:0: OUTPUT 174.29-175.92: I'll now turn the call over to Robert. 
+asr:0: OUTPUT 176.84-186.07: Well, thank you, Scott, and good morning, everyone, and appreciate everyone's attendance for our call today. Thanks for making time to join us for our second quarter conference call. 
+asr:0: OUTPUT 186.85-194.53: In the midst of the current pandemic, we continue to take appropriate caution and maintain focus on keeping our personnel safe. 
+asr:0: OUTPUT 194.55-197.86: While continuing to efficiently manage our operations. 
+asr:0: OUTPUT 198.42-203.92: Achieving our strong second quarter results in the face of this unprecedented oil price collapse. 
+asr:0: OUTPUT 203.94-209.65: And difficult operating environment is evidence of the resiliency of our business plan. 
+asr:0: OUTPUT 209.69-211.41: And the solid commitment of our people. 
+asr:0: OUTPUT 212.27-222.06: Throughout these trying times, we have worked to quickly adjust to the rapidly changing conditions and align our costs with our business activity, as well as preserve our strengths. 
+asr:0: OUTPUT 223.48-231.67: As we have discussed last quarter and in updates along the way, stating we would be free cash flow positive from the second quarter on for. 
+asr:0: OUTPUT 231.69-237.04: 2020, we had significant free cash flow of $35 million in this quarter. 
+asr:0: OUTPUT 237.88-245.73: This was driven by several factors including limited capital expenditures in the quarter as we completed our drilling and completion program for the year. 
+asr:0: OUTPUT 245.79-250.79: Strong hedge position that delivered over $29 million of realizations. 
+asr:0: OUTPUT 250.81-259.98: And significantly lower operating costs, partially as a result of our May shut-in and containment program, but also sustainable reductions. 
+asr:0: OUTPUT 261.40-270.11: Including the impact of our shut-in program, our average daily sales volume in the second quarter was 13,555 barrels of oil equivalent. 
+asr:0: OUTPUT 270.13-271.99: Or BOE per day. 
+asr:0: OUTPUT 272.69-279.64: Even with reduced volumes and a 44% drop in average realized price per BOE in the second quarter,. 
+asr:0: OUTPUT 279.66-283.54: Our cost management efforts combined with the strong hedge position. 
+asr:0: OUTPUT 283.56-290.19: Allowed us to generate higher quarter over quarter adjusted net income and adjusted EBITDAX. 
+asr:0: OUTPUT 290.75-295.12: I suspect we are one of a very small group of our peers who can say that. 
+asr:0: OUTPUT 296.00-307.41: We expect to generate substantial free cash flow throughout the balance of the year, which should result in a decreasing debt balance and help us achieve our target of being below one times debt to EBITDAX for the year. 
+asr:0: OUTPUT 308.81-314.17: As we previously discussed in response to the sharp decline in oil prices in April,. 
+asr:0: OUTPUT 314.19-323.58: And very low forecasted May oil prices, we made the decision in late April to shut in the large majority of our operated production for the month of May. 
+asr:0: OUTPUT 324.12-328.85: Which resulted in approximately 60% of our total net production being shut in during May. 
+asr:0: OUTPUT 328.87-340.22: With a forecast of significantly improved June oil prices, which ultimately were more than double our April and May oil price realizations, we returned to full production in June. 
+asr:0: OUTPUT 341.18-345.09: We had a very successful quarter in focusing on cost reductions. 
+asr:0: OUTPUT 345.11-353.03: Which saw us reduce total lease operating expense, or LOE, in the second quarter by 40% from the prior quarter. 
+asr:0: OUTPUT 353.81-360.54: Despite reduced production volumes due to our shut-in program in May, our teams continued focus on cost reduction. 
+asr:0: OUTPUT 360.56-365.93: Resulted in a 30% decrease in LOE per BOE in the second quarter. 
+asr:0: OUTPUT 366.19-371.95: To $4.53 versus $6.51 in the first quarter. 
+asr:0: OUTPUT 372.31-378.10: This was the major driver of the overall 33% reduction in all-in cash costs during the quarter. 
+asr:0: OUTPUT 379.44-389.15: On a per unit basis, our all-in cash costs went from near $13 per BOE in the first quarter to near $10 per BOE in the second quarter. 
+asr:0: OUTPUT 389.17-392.51: For a total 22% reduction. 
+asr:0: OUTPUT 392.99-401.28: This is all in cash costs, folks, which includes operating costs, corporate G&A costs, and all of our interest costs on our debt. 
+asr:0: OUTPUT 402.36-408.59: To dive a little deeper into how we achieved the 40% decrease in LOE, let me outline some of the key factors. 
+asr:0: OUTPUT 409.49-418.52: First, as much of our peers have done, we were successful in negotiating price reductions with vendors across the broad range of our lease operating expenses. 
+asr:0: OUTPUT 419.04-424.20: From chemicals to maintenance rigs, saltwater disposal contracts, and compression costs. 
+asr:0: OUTPUT 425.21-428.47: Second, we are benefiting from our long-term practice. 
+asr:0: OUTPUT 428.49-437.12: Of spending a little more money as we go repairing wells, facilities, and associated equipment to reduce frequency of maintenance. 
+asr:0: OUTPUT 437.14-442.40: Which is resulting in a continued decrease in non-routine LOE repair needs. 
+asr:0: OUTPUT 443.92-449.63: Third, work over repairs have trended down resulting from our optimization of lift method. 
+asr:0: OUTPUT 449.65-455.18: Chemical program improvements, and general approach of fixing things right the first time. 
+asr:0: OUTPUT 456.22-461.50: The limited offset frac activity also reduced frac hit related work over expenses. 
+asr:0: OUTPUT 462.42-474.73: Fourth, we have been successful in getting the utility companies to perform electrical upgrades sooner than scheduled, which has allowed us to eliminate generator usage on some of our newer locations. 
+asr:0: OUTPUT 475.42-484.94: Lastly, with limited drilling and completion activity, we have also been able to refocus our field employees towards lease maintenance, which has allowed us to reduce contractor labor. 
+asr:0: OUTPUT 486.21-493.25: All of these items and many other subtleties of operating were in progress as our team has a history of continually driving down costs. 
+asr:0: OUTPUT 494.15-500.08: We will remain focused on continuing to reduce costs across the board as we expect the oil price environment. 
+asr:0: OUTPUT 500.10-506.97: That we have observed since late 2014, including increased volatility, to persist. 
+asr:0: OUTPUT 506.99-512.85: Which only stresses the need to structure our business to be profitable across a much lower oil price range. 
+asr:0: OUTPUT 514.33-522.84: I'd really like to commend our operations team, which did a fantastic job of both shutting in production in May and bringing production back fully online in June. 
+asr:0: OUTPUT 522.86-525.55: While also achieving these cost reductions. 
+asr:0: OUTPUT 526.27-532.81: For the first time in my career and our team's history, we had to tell our guys to produce as little as possible every single day. 
+asr:0: OUTPUT 533.73-543.00: We executed this shut-in operations and our field personnel did a great job of efficiently returning wells to production with little to no incremental expense. 
+asr:0: OUTPUT 543.02-545.37: And no adverse effects on our producers. 
+asr:0: OUTPUT 545.95-551.09: Our wells have returned to their previous volumes with some wells producing at increased rates for a period of time. 
+asr:0: OUTPUT 551.95-558.42: Plus the three wells in southeast Reagan County that were brought online in April prior to the curtailments. 
+asr:0: OUTPUT 558.44-566.15: And were shut in during May are now back online and have fully cleaned up and are performing well versus the tight curve. 
+asr:0: OUTPUT 567.43-576.32: I mentioned we concluded our 2020 drilling program in late May and released our contracted rig operating in the Midland Basin. 
+asr:0: OUTPUT 576.84-581.04: So our planned capital expenditures are minimal for the balance of the year. 
+asr:0: OUTPUT 581.52-585.67: Given that our program ended with 11 wells drilled but not completed. 
+asr:0: OUTPUT 585.73-591.63: And with our ample liquidity, we have optionality on completion timing depending on market conditions. 
+asr:0: OUTPUT 592.77-601.36: With production return to full capacity, we have entered the second half of this year with expectations for no further drilling or completion activity this year. 
+asr:0: OUTPUT 601.82-607.01: We can maintain approximately flat year-over-year production in 2020 compared to 2019. 
+asr:0: OUTPUT 607.77-616.30: As a reminder, we recently updated our 2020 full year production guidance ranging from $13,000 to $14,000 BOE per day. 
+asr:0: OUTPUT 616.36-622.46: Which compares to 2019 full-year average of 13,429 BOE per day. 
+asr:0: OUTPUT 623.40-627.63: Further with our 11 drilled but uncompleted wells in Upton County. 
+asr:0: OUTPUT 627.65-630.51: We intend to carefully monitor commodity pricing. 
+asr:0: OUTPUT 630.55-640.14: Appropriate service availability, and service cost conditions to determine if it makes sense to bring in a completion crew later this year or wait until early next year. 
+asr:0: OUTPUT 641.14-650.01: Depending on the timing, we anticipate the completion of those 11 wells would enable us to maintain similar year-over-year production for 2021. 
+asr:0: OUTPUT 650.03-656.60: With only a modest capital program for the completions, which we currently estimate at around $30 million. 
+asr:0: OUTPUT 657.82-662.14: With that overview, I'll now turn the call over to Mark to review the financials. Have at it, Mark. 
+asr:0: OUTPUT 662.62-669.43: Thank you, Robert. As we have in the past two consecutive quarters, I would like to first discuss our cash position and our balance sheet. 
+asr:0: OUTPUT 669.93-678.20: As Robert mentioned, we are pleased to have achieved our goal of generating substantial free cash flow in the quarter with a total of $35.1 million of free cash flow. 
+asr:0: OUTPUT 678.74-685.89: As we referenced in our first quarter call, our plan was first to reduce our working capital deficit, which we calculated excluding derivatives. 
+asr:0: OUTPUT 686.65-692.43: And we're able to do this by a little over $50 million during the second quarter and then to begin to pay down our revolver debt. 
+asr:0: OUTPUT 693.07-697.58: The bar and base center are our senior secure revolving facility, which was set in late March. 
+asr:0: OUTPUT 697.62-704.78: Remains unchanged at $275 million and should remain there until our regularly scheduled fall redetermination process. 
+asr:0: OUTPUT 705.81-713.69: Our outstanding borrowings under the credit facility at quarter ends hold $168.6 million and we had $1.8 million in cash. 
+asr:0: OUTPUT 714.15-720.88: With 106.4 million of unused barring capacity, that gave us approximately 108 million of liquidity quarter ends. 
+asr:0: OUTPUT 721.54-728.61: I would note that as of July 31st, we had paid down our revolver by $14.3 million compared to quarter end. 
+asr:0: OUTPUT 728.65-731.85: We're reducing our debt balance now to about 153. 
+asr:0: OUTPUT 731.97-733.79: 154.3 million. 
+asr:0: OUTPUT 734.07-739.36: And we do expect to apply free cash flow the remainder of the year, primarily to pay down the revolver. 
+asr:0: OUTPUT 740.66-746.87: During the second quarter, our capital expenditures totaled $3.2 million and year-to-date we have spent $45 million. 
+asr:0: OUTPUT 746.89-750.73: Of our annual 2020 capital budget of $50 to $60 million. 
+asr:0: OUTPUT 751.21-755.08: As Robert mentioned, we concluded our 2020 drilling program in May. 
+asr:0: OUTPUT 755.40-761.26: So we anticipate minimal expenditures during the remainder of the year and will likely end up toward the low end of our guidance range. 
+asr:0: OUTPUT 761.94-772.39: Now looking at our second quarter income statement, starting with the top line, revenues for the second quarter of 2020 were $21.7 million compared to $45.1 million in the first quarter. 
+asr:0: OUTPUT 773.15-780.50: The decline was driven by a 54% decrease in oil revenues to $18.9 million, which made up about 87% of total revenues. 
+asr:0: OUTPUT 780.78-785.61: And NGL revenues fell by 44% while natural gas revenues rose slightly. 
+asr:0: OUTPUT 786.69-793.43: Our average price in the second quarter for all three commodities was $17.56 per barrel of oil equivalent. 
+asr:0: OUTPUT 793.45-796.78: Which was down by nearly half of our average price during the first quarter. 
+asr:0: OUTPUT 797.36-802.72: By commodity, our average realized price for crude oil in the second quarter was $23.56 per barrel. 
+asr:0: OUTPUT 803.08-810.31: Natural gas averaged 83 cents per MCF and NGLs averaged $8.10 per barrel of oil equivalent. 
+asr:0: OUTPUT 812.07-823.88: From a production standpoint, our second quarter sales volumes averaged 13,555 barrels of oil equivalent per day, which was comprised of 65% oil, 18% natural gas,. 
+asr:0: OUTPUT 823.90-826.21: And 17% natural gas liquids. 
+asr:0: OUTPUT 826.93-831.79: As highlighted, this does include having curtailed about 60% of total production in May. 
+asr:0: OUTPUT 832.79-843.12: On the expense side, as Robert also highlighted, we did drive down our all in tax costs from $12.92 per BOE in the first quarter to $10.11 per BOE in the second quarter. 
+asr:0: OUTPUT 843.78-850.93: We achieved this through nearly $2 per BOE reduction in our lease operating expense to $4.53 per BOE for the quarter. 
+asr:0: OUTPUT 852.03-865.13: On the general administrative side, we reduced our absolute cash DNA expense by about 7% versus the first quarter, which resulted in per unit cash DNA expense of $3.34 per BOE. 
+asr:0: OUTPUT 865.57-872.49: As you know, we reduced our cash G&A guidance in May to $15.5 to $16.5 million for the full year. 
+asr:0: OUTPUT 872.51-879.50: And expect to be somewhere in that range, which at the bottom end is a 25% reduction versus our initial full year plan. 
+asr:0: OUTPUT 880.34-886.33: In addition to some of the statements we articulated last quarter, we continue to focus on and have had success in reducing expenses. 
+asr:0: OUTPUT 886.37-893.33: Really, any and everywhere, including reduced uses of third-party consultants, reducing vendor rates, and managing our costs tightly. 
+asr:0: OUTPUT 893.99-895.40: From an income standpoint,. 
+asr:0: OUTPUT 895.60-899.16: We reported GAP net loss in the second quarter of 2015. 
+asr:0: OUTPUT 899.18-906.75: $5.9 million or 55 cents per share, which included a pre-taxed unrealized loss of $50 million on our derivative contracts. 
+asr:0: OUTPUT 907.27-914.01: Our adjusted net income was $12.8 million or 20 cents per diluted share, adjustable diluted share for the second quarter. 
+asr:0: OUTPUT 914.49-921.00: We reported adjusted EBITDAx of $39.8 million in the second quarter, which as Robert mentioned, is actually an increased quarter per quarter. 
+asr:0: OUTPUT 922.06-930.95: Now, let's take a minute to update you on our commodity hedge results in the second quarter. As highlighted, we realized $29.4 million gain on our commodity hedges for the quarter. 
+asr:0: OUTPUT 931.37-938.66: This is largely reflective of our hedge position entering the quarter and are locking in some really nice gains on hedges when we made the decision to curtail production. 
+asr:0: OUTPUT 938.68-943.08: And did that when second quarter NYMEX prices were about at their lowest point. 
+asr:0: OUTPUT 943.72-952.91: The hedge realizations also include a gain of about $5.7 million from an unwind of 1,000 barrels of oil a day for the second half of 2020. 
+asr:0: OUTPUT 954.25-962.44: We remain really well ahead for the balance of the year with an average of 6,500 barrels per day of oil swapped at an IMEX price of $58.35. 
+asr:0: OUTPUT 962.82-972.71: Stepping down to 4,000 barrels a day for four year 2021 at an IMAX price of $55.16 per barrel with basis hedges in place on similar volumes. 
+asr:0: OUTPUT 973.19-980.98: On the natural gas side, we have 7,000 mm BTU per day of swaps at a Henry Hub price of $2.85. 
+asr:0: OUTPUT 981.00-990.61: For the second half of this year, stepping up to 8,000 MMBTUs per day at a price of $2.71 for full year 2021. 
+asr:0: OUTPUT 990.63-993.21: With basic hedges in place on the same volumes. 
+asr:0: OUTPUT 993.71-1000.24: Hedging remains a critical component of our financial strategy and we expect to continue layering on hedges as we get more visibility. 
+asr:0: OUTPUT 1000.26-1004.58: Around the resumption of our drill and completion activity going forward. 
+asr:0: OUTPUT 1005.67-1013.37: Stepping back and looking at our expectations for full year 2020, we reinstated our production guidance in July and we've reinstated LOE and production. 
+asr:0: OUTPUT 1013.39-1016.82: And as Lauren's tax guidance with the earnings released yesterday. 
+asr:0: OUTPUT 1017.44-1023.42: Our reinstated production at Advalorum Tax Guidance is 6.25% to 7.25%. 
+asr:0: OUTPUT 1023.44-1027.97: Is identical to what it was at the onset of our 2020 guidance provided in January. 
+asr:0: OUTPUT 1027.99-1032.79: As is the case for our re-instated LOE guidance of $5.50 to $6.00 per BOE. 
+asr:0: OUTPUT 1033.33-1038.88: Although we have had recent sustainable LE reductions and came in well below this range in the second quarter. 
+asr:0: OUTPUT 1039.28-1046.51: Without the advantage of bringing on new wells, we have kept our guidance range where it was at the beginning of the year when we anticipated bringing 16 new wells online. 
+asr:0: OUTPUT 1047.05-1048.29: With that, I'll turn it back over to Robert. 
+asr:0: OUTPUT 1048.93-1058.02: Thank you, Mark. We are really pleased with the results and confident in a bright future for Earthstone. While we are sorry to see our industry in such distress,. 
+asr:0: OUTPUT 1058.46-1062.88: It is creating more M&A opportunities than we have seen in quite some time. 
+asr:0: OUTPUT 1063.44-1069.79: We're actively evaluating a number of situations and expect to have more to consider throughout the rest of the year. 
+asr:0: OUTPUT 1069.83-1073.87: As prices remain low and distress situations continue to increase. 
+asr:0: OUTPUT 1074.49-1083.84: We believe that our strong balance sheet and track record as a successful consolidator positions us well to increase the scale of our company and add value to our shareholders. 
+asr:0: OUTPUT 1084.44-1087.63: With that, operator, we'll now open the floor for questions. 
+asr:0: OUTPUT 1089.25-1096.26: Thank you. At this time we'll be conducting a question and answer session. If you'd like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1096.68-1099.54: A confirmation tone will indicate your line is in the question queue. 
+asr:0: OUTPUT 1100.34-1109.03: You may press star two if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star key. 
+asr:0: OUTPUT 1110.19-1115.98: Our first question comes from the line of Brad Heffern with RBC Capital Markets. Please proceed with your question. 
+asr:0: OUTPUT 1117.82-1119.42: Hi, good morning everyone. Hope you're doing well. 
+asr:0: OUTPUT 1120.74-1125.87: I guess on the 2021 color that you gave about being able to keep production flat with the 11 ducks. 
+asr:0: OUTPUT 1126.93-1134.73: Is that more just meant to be instructive or is that actually how you're thinking about the 2021 plan as we sit here today? 
+asr:0: OUTPUT 1138.88-1140.08: A little bit of both, Brad. 
+asr:0: OUTPUT 1140.52-1149.33: You know, it does depend on where commodity prices head towards the end of the year, whether we want to pick up a rig or not. 
+asr:0: OUTPUT 1149.37-1154.51: I think we've been pretty vocal or consistent about our message that, you know, we need. 
+asr:0: OUTPUT 1155.10-1161.86: We need mid $45 to $50 oil to want to go back to spending large capital dollars. 
+asr:0: OUTPUT 1162.70-1172.23: But outside of that, at some point into this year, early next year, completing those wells will allow us to main production flat year over year. 
+asr:0: OUTPUT 1175.46-1179.10: Okay, got it. And then obviously you made the comment on M&A. 
+asr:0: OUTPUT 1179.40-1186.23: Can you go into a little more detail about sort of what opportunities you're seeing and also any thoughts you have about an ability to fund them? 
+asr:0: OUTPUT 1190.11-1196.08: The opportunities are increasing and sizes... 
+asr:0: OUTPUT 1196.10-1202.68: Variable from small to quite large as you've seen, you know, distressed and bankrupt. 
+asr:0: OUTPUT 1202.72-1208.83: Companies. I think all of this will result in further. 
+asr:0: OUTPUT 1208.87-1213.05: Opportunities in terms of larger companies selling assets. 
+asr:0: OUTPUT 1214.67-1224.50: It is difficult with no public equity and for that matter, debt markets open or open only to a very few. 
+asr:0: OUTPUT 1224.82-1232.85: Maybe we're one of those few, but we've had discussions with financial parties who are interested in participating with us on acquisitions. 
+asr:0: OUTPUT 1233.43-1236.82: And much like we've done in our history. 
+asr:0: OUTPUT 1236.88-1246.65: You know, we'll bring in parties at the right time to look at buying assets and we're going to maintain a very healthy leverage amount. 
+asr:0: OUTPUT 1246.69-1255.00: And keep ourselves from getting into a distress no matter where we are in the cycle. 
+asr:0: OUTPUT 1255.24-1266.43: I think we're just going to see more and more opportunities and we'll figure out how we can finance those and make sure we keep our balance sheet clean. Okay. Thanks for the comment. 
+asr:0: OUTPUT 1269.67-1274.83: Thank you. Our next question comes from Neil Dingman with Truist Securities. Please proceed with your question. 
+asr:0: OUTPUT 1275.94-1283.40: Good morning all. Robert, first question also on that same line on 21 expectations and I'm just wondering why I realize this plan really. 
+asr:0: OUTPUT 1283.48-1287.39: I think, you know, at least the ones you just initially laid out, as soon as no new wells. 
+asr:0: OUTPUT 1287.93-1292.79: I'm just wondering what's driving this low cost or another way maybe to ask is. 
+asr:0: OUTPUT 1292.81-1294.98: How you think about maintenance CapEx. 
+asr:0: OUTPUT 1294.99-1303.06: Given just so low because if I recall, I thought Frank already had you all cancel those country clubs and other memberships. I just know what else is there. 
+asr:0: OUTPUT 1306.45-1309.19: Yes, there's no country club memberships up here. 
+asr:0: OUTPUT 1311.79-1313.09: You know... 
+asr:0: OUTPUT 1313.55-1317.44: I mean, the 11 wells we have are in really good areas. 
+asr:0: OUTPUT 1317.52-1324.04: And they will help us keep production relatively flat at $30 million. 
+asr:0: OUTPUT 1324.10-1325.39: Now, is that sustainable? 
+asr:0: OUTPUT 1325.97-1327.05: Absolutely not. 
+asr:0: OUTPUT 1327.99-1330.17: We still have a relatively high decline rate. 
+asr:0: OUTPUT 1331.03-1339.78: And it does depend on when we brought those wells online. If we waited until the very end of 21, we're going to have a hard time keeping production relatively flat. 
+asr:0: OUTPUT 1340.84-1347.75: If we brought them on today, you know, we might have the same problem because we get all this flush production from these new wells. 
+asr:0: OUTPUT 1349.01-1357.80: You know, maintenance, to maintain, you know, 13,000 BOE a day kind of level longer term,. 
+asr:0: OUTPUT 1357.88-1360.00: We're going to have to have a rig running and... 
+asr:0: OUTPUT 1360.42-1362.06: One rig program. 
+asr:0: OUTPUT 1362.12-1372.69: I don't know what it would exactly cost us today, but generally speaking is $120 million to maybe $140 million depending on lateral length and working interest and things like that. 
+asr:0: OUTPUT 1373.37-1381.56: You know, this is just a very preliminary, if the world stays the same and we're at 40-ish, low $40 environment, we're not spending any drilling capital. 
+asr:0: OUTPUT 1382.70-1385.79: These 11 ducts will help us keep production flat. 
+asr:0: OUTPUT 1387.21-1391.05: Okay, and then you kind of hit on my last one just on... 
+asr:0: OUTPUT 1391.07-1396.78: How do you think about the sort of PDP decline, you know, on a go forward? 
+asr:0: OUTPUT 1396.82-1404.70: Now that you've been slowing a bit, is that too going to go down or I guess we'll get another way, is it? 
+asr:0: OUTPUT 1405.19-1411.85: You know, you're able to give us kind of how many wells would offset that. I mean, any way you can kind of give us a call or run. 
+asr:0: OUTPUT 1411.93-1415.30: How you're thinking about that in 21 on broader terms. 
+asr:0: OUTPUT 1417.60-1426.67: Yeah, I think we've been consistent in telling everyone that our sort of basic line starting today, we'll call it. 
+asr:0: OUTPUT 1426.73-1435.38: You know, is about 30% in the first year and then it gets into the mid to maybe 26 or 27% the next year and then. 
+asr:0: OUTPUT 1435.40-1438.12: Low 20s or high teens after that. 
+asr:0: OUTPUT 1438.64-1440.42: And so,. 
+asr:0: OUTPUT 1440.92-1449.61: I don't think that's changed any. And if we didn't spend any capital, then you can kind of forecast what our blowdown. 
+asr:0: OUTPUT 1450.13-1452.01: Production would look like. 
+asr:0: OUTPUT 1452.63-1461.48: Even if we didn't do those 11 wells, but again, with those 11 wells, it'll help keep 21 flat and then going forward in 22 and beyond. 
+asr:0: OUTPUT 1461.50-1465.07: It's all going to depend on price. 
+asr:0: OUTPUT 1467.89-1474.47: Thank you. Our next question comes from the line of Jeff Grant with Northland Capital Markets. Please proceed with your question. 
+asr:0: OUTPUT 1478.72-1481.46: I was wondering, Robert, or maybe Mark,. 
+asr:0: OUTPUT 1481.58-1491.83: How important do you guys view staying pre-cash flow positive in the context of evaluating whether to go after the Ducks and potentially drilling rig at some point in time? 
+asr:0: OUTPUT 1491.91-1501.16: Would you view that as kind of a must, if you will, or would you guys have any level of comfort with any near or medium-term outstand? 
+asr:0: OUTPUT 1501.18-1503.92: It could help, you know, if the returns were good and it would help Pat actually. 
+asr:0: OUTPUT 1504.12-1505.51: You know, jumpstart a return to growth. 
+asr:0: OUTPUT 1507.51-1511.21: Sure. Maybe I'll try to answer that one and Robert can add on if he wants to. 
+asr:0: OUTPUT 1511.77-1520.52: You know, we keep things pretty simple. At the end of the day, we feel like our responsibility is to make good individual decisions at the wellhead. 
+asr:0: OUTPUT 1521.54-1530.53: And that's why we were quick to put the rig down and stop completing in March and April, is because the economics didn't make a whole lot of sense then. 
+asr:0: OUTPUT 1530.93-1540.74: Do the ducts make sense right now? I mean, economically, you definitely could go complete the ducts right now and have pretty nice IRRs for the incremental cost to complete them. 
+asr:0: OUTPUT 1542.18-1548.99: In terms of are we so focused on quarter to quarter, year to year free cash flow that we won't outspend? 
+asr:0: OUTPUT 1549.39-1552.47: No, we're not. And from a practical matter... 
+asr:0: OUTPUT 1553.07-1561.78: We're just going to be pre-cash flow positive this year and next year, kind of irrespective of anything else that happens with prices, if all we're doing is completing the ducks. 
+asr:0: OUTPUT 1562.80-1570.83: At some point, we do anticipate picking the rig back up and there's a bit of a lag there between. 
+asr:0: OUTPUT 1570.85-1574.85: The cost you expend to drill in the complete wells versus the cash flow. 
+asr:0: OUTPUT 1575.50-1580.20: Does that mean over the course of the year we're not pre-capsule positive? No, not necessarily. 
+asr:0: OUTPUT 1581.14-1585.95: But we're not so fixated on checking that box every quarter. 
+asr:0: OUTPUT 1586.31-1591.29: We want to make smart economic decisions at the wellhead that will flow into the bigger picture. 
+asr:0: OUTPUT 1591.95-1594.11: And having some outspent for some period of time. 
+asr:0: OUTPUT 1595.32-1598.08: Yeah, we still think it's supported by the economics. 
+asr:0: OUTPUT 1598.26-1606.67: At the same time, we're not ones just to go keep drilling and completing because we have hedges in place or for other reasons. 
+asr:0: OUTPUT 1606.87-1613.33: We're just trying to be as good a steward as we can of the individual decisions we're making at the wellhead. 
+asr:0: OUTPUT 1614.69-1622.02: The only thing I'll add, Jeff, is I think we can run a one-rig program with the level of production and cash flow we have today. 
+asr:0: OUTPUT 1622.04-1626.45: And be cash flow neutral on an annualized basis. 
+asr:0: OUTPUT 1627.05-1635.86: Obviously, there's a jump starting the program. We're going to be cash flow negative for a period of time, but I think longer term, over a year time frame. 
+asr:0: OUTPUT 1637.10-1639.02: Again, depending on what the price is. 
+asr:0: OUTPUT 1640.12-1643.26: Sure. Understood. Appreciate those comments. 
+asr:0: OUTPUT 1643.50-1644.74: My follow up. 
+asr:0: OUTPUT 1644.90-1650.53: And you guys still have a decent amount of non-op exposure in the Permian. 
+asr:0: OUTPUT 1650.61-1661.84: Are you guys seeing any activity levels there and more on the land side? Is there any traction or conversations on swapping any of that out to increase the operated exposure there? 
+asr:0: OUTPUT 1664.72-1666.83: Still working on the trades. 
+asr:0: OUTPUT 1666.93-1669.99: But people have been hunkered down in the bunker. 
+asr:0: OUTPUT 1670.03-1678.60: You know, for quite some time now, since, you know, at least March. And so nothing's moving very quickly there. 
+asr:0: OUTPUT 1678.96-1680.00: We have no... 
+asr:0: OUTPUT 1680.22-1690.49: We have not heard anything different from our partners in terms of activity in the near term, being kind of the remainder of this year. 
+asr:0: OUTPUT 1690.51-1696.48: So we'll have to see as we get closer to year end what their view might be for activity in 2021. 
+asr:0: OUTPUT 1698.90-1708.59: All right, thanks guys. Thank you. Our next question comes from the line of Duncan McIntosh with Johnson Rice. Please proceed with your question. 
+asr:0: OUTPUT 1710.11-1712.39: Morning, Robert. Morning. 
+asr:0: OUTPUT 1714.05-1719.70: Quick question everyone on the balance sheet, you know, y'all are doing a great job in the free cash. That looks great paying it down. 
+asr:0: OUTPUT 1719.80-1729.01: I was wondering, have you been in conversations with the bank as we head into the fall redetermination, back in March? You all were early and getting it done in the spring. 
+asr:0: OUTPUT 1729.39-1737.62: Back then it looked like things would be pretty dire again in the fall and it's not as bad here and particularly with the line of sight you all have on the free cash kind of how. 
+asr:0: OUTPUT 1738.28-1743.90: Any conversations with them to give you any indication as to what the fall redetermination could look like. 
+asr:0: OUTPUT 1745.69-1755.30: Sure, I mean probably too early to, you know, certainly anything around numbers, but we do pretty rarely talk to banks and we do that normal course irrespective of the environment. 
+asr:0: OUTPUT 1756.86-1765.11: The one thing I'd say for us, we are expecting a decrease in the barn base and obviously we're not drilling and completing new wells and hedges roll off. 
+asr:0: OUTPUT 1765.71-1771.75: Fortunately, we feel like we've got enough ability to pay down debt to outpace that decrease. 
+asr:0: OUTPUT 1771.89-1779.20: And really, we don't see any scenarios that we think are realistic that would be concerning in that regard. 
+asr:0: OUTPUT 1779.84-1786.15: Now I will say, does the environment feel better now than it did three months ago? Absolutely. 
+asr:0: OUTPUT 1787.11-1796.72: And maybe some of that's the shock of seeing minus 37-hour oil and teeing realizations for the months of April and May. 
+asr:0: OUTPUT 1798.42-1802.82: At the end of the day, it's still not a very good price environment for companies in general. 
+asr:0: OUTPUT 1803.20-1812.65: And the banks, maybe they feel a little better because we're at $45 or $42 versus somewhere in the teens. 
+asr:0: OUTPUT 1813.09-1815.74: But they still have a lot of issues to deal through. 
+asr:0: OUTPUT 1815.76-1825.37: To deal with it and obviously there's been a lot of EMP companies that have gone bankrupt and there's certainly more that will. So the banks will have their hands full. 
+asr:0: OUTPUT 1825.55-1828.27: And they're still working through all these situations. 
+asr:0: OUTPUT 1828.57-1832.49: Yeah, I think there is a lot of trepidation on the banks' part in general. 
+asr:0: OUTPUT 1833.11-1841.24: I don't frankly see them lighting up a whole bunch in the fall. That being said, that's a general statement. 
+asr:0: OUTPUT 1843.12-1850.83: We've got one-time leverage and liquidity and generally are viewed as having done the right thing from a financial standpoint. 
+asr:0: OUTPUT 1851.51-1854.49: And our assets are better than many. 
+asr:0: OUTPUT 1854.87-1864.78: We probably feel like we've got a pretty supportive bank group that is going to be reasonable and fair, and historically that's been the case. 
+asr:0: OUTPUT 1865.59-1867.61: But too early to circle a number. 
+asr:0: OUTPUT 1869.45-1873.27: Thanks, Mark. And then, I guess just for my follow-up, you know,. 
+asr:0: OUTPUT 1873.45-1880.00: Robert, you gave some really good color and did some pretty creative things to get LOE down in the second quarter. 
+asr:0: OUTPUT 1880.26-1885.99: I know we talked about how it's going to come back up a little bit here in the back half of the year towards a more historical range. 
+asr:0: OUTPUT 1886.57-1894.53: Any of those initiatives that you took do you think that you can carry forward to kind of help mitigate that OE creep? 
+asr:0: OUTPUT 1897.14-1905.69: Definitely done. There's, you know, it's just a constant progression of a well's life cycle to adjust artificial lift. 
+asr:0: OUTPUT 1906.39-1912.47: A lot of our wells are on gas-lit, so relatively expensive compressors. 
+asr:0: OUTPUT 1912.93-1917.16: Over time, that gets changed out to other lift methods. 
+asr:0: OUTPUT 1917.22-1922.18: In some cases, rod pump, in other cases, plunger lift, what have you. 
+asr:0: OUTPUT 1922.26-1927.93: We're continuing to work through that and that will definitely help reduce LOE. 
+asr:0: OUTPUT 1928.65-1930.17: And some of the things that we. 
+asr:0: OUTPUT 1930.19-1933.79: We're fortunate in getting done in the quarter. 
+asr:0: OUTPUT 1933.81-1940.10: Working with the utility company to get meters set and get ahead of the schedule there or. 
+asr:0: OUTPUT 1940.12-1943.96: Got moved up in the schedule from some good relationships. 
+asr:0: OUTPUT 1944.20-1950.37: We ended up getting generators off of our payroll and those are very, very expensive. 
+asr:0: OUTPUT 1950.63-1953.65: We didn't have a whole lot, but they still show up as a big expense. 
+asr:0: OUTPUT 1953.67-1964.94: But some of these things we did in the second quarter are sustainable and we'll continue doing the right things in the way we operate our business and continue to watch costs like a hawk. 
+asr:0: OUTPUT 1967.31-1974.09: Thank you all very much and congrats on a strong quarter and a strong outlook. Thank you. Thanks, Doug. 
+asr:0: OUTPUT 1975.56-1981.30: Thank you. Ladies and gentlemen, as a reminder, if you'd like to join the question queue, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1981.74-1989.01: Our next question comes from the line of Noel Parks with Coker and Palmer. Please proceed with your question. Hey, good morning. 
+asr:0: OUTPUT 1991.45-1993.57: Know. 
+asr:0: OUTPUT 1994.09-2000.30: You know, I was thinking about having the BEC inventory where it works out that. 
+asr:0: OUTPUT 2000.32-2005.59: Just completing those next year can help you keep production flat. 
+asr:0: OUTPUT 2005.79-2010.91: You know, that's a lot of really great flexibility you have there. 
+asr:0: OUTPUT 2011.23-2019.92: And I mean, was that just sort of a result of the timing of everything, you know? 
+asr:0: OUTPUT 2020.00-2024.00: Kind of falling off the rails with COVID and Opec Russia. 
+asr:0: OUTPUT 2024.48-2026.07: Or what you're having. 
+asr:0: OUTPUT 2026.09-2036.00: Was that sort of part of the plan as you were just trying to continue to pivot to emphasis on free cash flow heading into next year? 
+asr:0: OUTPUT 2039.06-2046.73: I'd love to tell you, Noel, that we have this great plan that no matter what happens in the world, oil is going to be 20 or sub-20. 
+asr:0: OUTPUT 2046.75-2052.63: That we could keep production flat for three years running with various amounts of capital. 
+asr:0: OUTPUT 2053.53-2061.68: If you go back and think about the beginning of the year and the call we had related to the fourth quarter earnings and full year. 
+asr:0: OUTPUT 2062.78-2070.13: We had a one rate program. We were going to average for the entire year a tiny bit of free cash flow. 
+asr:0: OUTPUT 2071.21-2077.24: And those 11 wells would have been completed, I don't know if by now, I can't remember, but pretty darn close. 
+asr:0: OUTPUT 2077.52-2078.62: So... 
+asr:0: OUTPUT 2078.64-2082.08: I'd say it's a fallout of what's happened here. 
+asr:0: OUTPUT 2082.32-2089.55: And just being very conservative with our capital expenditures and cash. 
+asr:0: OUTPUT 2089.73-2097.12: And making sure that we come out of this near-term down cycle. 
+asr:0: OUTPUT 2097.48-2102.62: We've been in a down cycle since 2014, but at least this recent piece of it. 
+asr:0: OUTPUT 2103.32-2111.27: We survived nicely through it and come out the other side and can continue to find ways to consolidate and grow. 
+asr:0: OUTPUT 2113.87-2120.48: Great, thanks. And just a housekeeping question. Sorry if you touched on this earlier and I missed it. 
+asr:0: OUTPUT 2121.08-2125.85: For the free cash flow calculation, if I looked at the numbers right,. 
+asr:0: OUTPUT 2125.97-2137.08: It looked like this is one of those periods where there was a pretty big delta between, I guess you'd say, cash capex and capex incurred. 
+asr:0: OUTPUT 2137.52-2145.23: In the quarter and I was just wondering for the free cash flow calculation going forward,. 
+asr:0: OUTPUT 2145.43-2155.18: Which one of those is more important for us to use as we just try to model that? 
+asr:0: OUTPUT 2157.60-2159.36: We always use a crude cap. 
+asr:0: OUTPUT 2160.00-2166.65: From a calculation standpoint. Because not all the bills necessarily have hit, but we know what generally they are. 
+asr:0: OUTPUT 2167.53-2172.67: It's in the presentation on the last page or something like that. 
+asr:0: OUTPUT 2173.61-2180.86: Okay. So, so, we're, oh, and one other thing I am, and I just don't have it always in front of me. 
+asr:0: OUTPUT 2181.00-2188.47: And as far as change in working capital, that's something also you routinely... 
+asr:0: OUTPUT 2188.49-2195.01: Include the impact of in a free cash calculation or would you exclude that? 
+asr:0: OUTPUT 2197.14-2202.68: So, we don't include that and I recognize there's multiple different ways to look at that. 
+asr:0: OUTPUT 2202.90-2211.17: I mean, the way we've been approaching it is, okay, adjusted EBITDAx is the best proxy for a really sort of cash flow for the period. 
+asr:0: OUTPUT 2211.31-2213.21: We back out interest expense. 
+asr:0: OUTPUT 2213.57-2220.68: And then we back out capital expenditures for activity during that period. Now, when you're stopping or starting,. 
+asr:0: OUTPUT 2221.24-2229.71: There is going to be a bigger delta between calculating pre-castle the way we do versus if you're using a cast capex number. 
+asr:0: OUTPUT 2230.85-2235.46: The second quarter was very atypical from the standpoint of... 
+asr:0: OUTPUT 2235.76-2240.88: Here we're reporting $35 million of free cash flow. Our debt balance went up. 
+asr:0: OUTPUT 2242.00-2248.13: And the reason for that is because, and of course this is tied to the cash-capped banks, it's just the time of the payments. 
+asr:0: OUTPUT 2248.75-2254.55: And we reduced the negative working capital deficit by about $50 million during the quarter. 
+asr:0: OUTPUT 2255.52-2259.32: Now we're to a point where that work capital deficit is pretty low. 
+asr:0: OUTPUT 2259.74-2266.09: And probably won't fluctuate a whole bunch one way or the other until we pick activity back up. 
+asr:0: OUTPUT 2266.87-2269.93: At which point you'd expect as you start. 
+asr:0: OUTPUT 2269.95-2276.92: Completions and drilling again, you start getting bills, but there's some lag between the activity and when you get the bills and when you pay them. 
+asr:0: OUTPUT 2277.74-2285.27: So, very typical quarter. As we mentioned in the press release, we had about $169 million of debt at quarter end. 
+asr:0: OUTPUT 2285.47-2288.57: In the month of July, we pay down a little more than $14. 
+asr:0: OUTPUT 2289.45-2299.10: That's not the run rate, by the way. It's not $14.25. That was high because of timing. But we do expect, I mean, really every month this year that we're paying down some debt. 
+asr:0: OUTPUT 2300.00-2307.53: Without any big changes in the working capital status. Great. Thanks a lot for the details. That's all for me. 
+asr:0: OUTPUT 2310.85-2316.58: Thank you. Ladies and gentlemen, that concludes our question and answer session. I'll turn the floor back to Mr. Anderson for any final comments. 
+asr:0: OUTPUT 2318.56-2327.37: We appreciate everybody joining us and we'll continue to update as we need to and we'll see you next quarter. Thanks. 
+asr:0: OUTPUT 2328.97-2333.41: This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation. 
+asr:0: END

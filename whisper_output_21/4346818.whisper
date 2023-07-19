@@ -1,0 +1,571 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.30-8.59: Ladies and gentlemen, thank you for standing by and welcome to the Ingersoll Rand first quarter 2020 earnings conference call. 
+asr:0: OUTPUT 9.11-12.09: At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 12.59-21.12: After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 1 on your telephone. 
+asr:0: OUTPUT 21.52-25.47: We ask that you please limit yourself to one question and one follow-up. 
+asr:0: OUTPUT 25.95-30.15: If you require any further assistance, please press star zero. 
+asr:0: OUTPUT 30.49-37.96: I would now like to hand the conference over to your speaker today, Vic Kinney, Head of Investor Relations. Thank you. Please go ahead. 
+asr:0: OUTPUT 38.94-42.90: Thank you and welcome to the Ingersoll Rand 2020 first quarter earnings call. 
+asr:0: OUTPUT 43.46-51.39: I'm Vic Kinney, Ingersoll Rand Investor Relations Leader, and with me today are Vicente Reynal, Chief Executive Officer, and Emily Weaver, Chief Financial Officer. 
+asr:0: OUTPUT 52.21-57.08: Our earnings release, which was issued this morning, and a supplemental presentation, which will be referenced during the call. 
+asr:0: OUTPUT 57.10-62.32: Are both available on the investor relations section of our website, www.irco.com. 
+asr:0: OUTPUT 62.84-66.07: In addition, a replay of this morning's conference call will be available later today. 
+asr:0: OUTPUT 66.93-76.16: Before we get started, I would like to remind everyone that certain of the statements on this call are forward-looking in nature and are subject to the risks and uncertainties discussed in our previous SEC filings. 
+asr:0: OUTPUT 76.18-79.64: Which you should read in conjunction with the information provided on this call. 
+asr:0: OUTPUT 80.34-86.57: For more details on these risks, please refer to our annual report on Form 10-K filed with the Securities and Exchange Commission. 
+asr:0: OUTPUT 86.59-94.51: And our current report on Form 8K filed with the Securities and Exchange Commission on May 1, 2020, which are available on our website at www.irco.com. 
+asr:0: OUTPUT 95.26-99.04: Additional disclosure regarding forward-looking statements is included on slide two of the presentation. 
+asr:0: OUTPUT 99.86-103.68: In addition, in today's remarks, we will refer to certain non-GAAP financial measures. 
+asr:0: OUTPUT 104.12-109.23: You can find a reconciliation of these measures to the most comparable measure calculated and presented in accordance with GAAP. 
+asr:0: OUTPUT 109.25-114.45: In our slide presentation and in our release, which are both available on the Investor Relations section of our website. 
+asr:0: OUTPUT 115.22-125.09: I also remind everyone that in both our earnings release and today's presentation, we have included both as reported financials and supplemental financial information to assist with analysis and comparatives. 
+asr:0: OUTPUT 125.61-132.81: The as reported financials only include the Ingersoll Rand Industrial Segment results from the closing date of the transaction on February 29, 2020. 
+asr:0: OUTPUT 133.11-141.08: And the supplemental financial information provides results as if the transaction had occurred as of January 1st, 2018 to provide a full quarter of comparable results. 
+asr:0: OUTPUT 142.12-151.49: Turning to slide three, on today's call we will provide an update on the top priorities of the company in the current operating environment, as well as review our first quarter total company and segment highlights. 
+asr:0: OUTPUT 152.51-159.76: We will conclude today's call with a Q&A session. As a reminder, we would ask that each caller keep to one question and one follow-up to allow for enough time for other participants. 
+asr:0: OUTPUT 160.38-163.76: At this time, I will now turn it over to Vicente Rinal, Chief Executive Officer. 
+asr:0: OUTPUT 164.92-167.55: Thanks Jake and good morning to everyone on the call. 
+asr:0: OUTPUT 168.79-174.49: I would like to kick off today's presentation by sending our thoughts to all who have been affected by COVID-19. 
+asr:0: OUTPUT 174.96-182.00: And all the dedicated healthcare workers, first responders, and volunteers who are on the front lines all over the world battling this pandemic. 
+asr:0: OUTPUT 183.36-188.31: I would also like to take a moment to say a sincere thank you to all of the Ingersoll Grant employees around the world. 
+asr:0: OUTPUT 189.23-197.84: The pictures on slide 4 are just a few examples of our dedicated global workforce who have adapted to the new realities of the work environment. 
+asr:0: OUTPUT 197.86-199.44: To continue to serve our customers. 
+asr:0: OUTPUT 200.44-210.37: Every day I hear of new examples of our businesses providing mission critical products to our customers. I am proud of what our company represents and how our employees have responded to these unprecedented times. 
+asr:0: OUTPUT 211.57-221.56: Well, there continues to be a lot of uncertainty about the future. One thing I am sure about is that Incasol Brand will continue to keep the safety of our communities and serving our customers at the center of everything we do. 
+asr:0: OUTPUT 222.58-226.33: And that wouldn't be possible without the dedication and hard work of all of our employees. 
+asr:0: OUTPUT 228.05-233.09: Moving to slide five, I would like to grant everyone on the critical priorities we're following during these challenging times. 
+asr:0: OUTPUT 233.85-238.36: When we closed the transaction a little over two months ago, we could have never anticipated. 
+asr:0: OUTPUT 238.64-245.75: That within a matter of weeks we will be dealing with a global pandemic causing disruptions to our customers, supply chain and the day-to-day operations of the company. 
+asr:0: OUTPUT 246.79-253.95: A response speaks to how the IRx toolkit has effectively helped us plan, accelerate, and adapt our actions. 
+asr:0: OUTPUT 253.97-257.28: To act quickly and decisively around three core priorities. 
+asr:0: OUTPUT 258.26-261.36: First, ensuring the safety of our employees, customers, and the community. 
+asr:0: OUTPUT 262.02-269.53: Second, around keeping a strong focus on the integration and execution to ensure the financial stability of the company through these uncertain times. 
+asr:0: OUTPUT 270.55-277.12: And finally continuing to execute on the strategy of the company as we have multiple catalysts to drive ongoing value creation. 
+asr:0: OUTPUT 278.18-286.81: The strength of Ingersoll RAN team aligned around these three priorities will position the company to emerge from this crisis as a stronger and more unified company. 
+asr:0: OUTPUT 288.85-294.45: The next slide is a reminder that our purpose and values, as well as our execution engine. 
+asr:0: OUTPUT 294.47-299.12: That we call IRX are really at the heart of how we operate as a company. 
+asr:0: OUTPUT 299.44-301.26: Especially in these unprecedented times. 
+asr:0: OUTPUT 302.38-306.43: During the integration process, we spent a lot of time thoughtfully creating the company's purpose. 
+asr:0: OUTPUT 307.25-313.65: One that is centered around our stakeholders, where we know that they can lean on us to help make life better. 
+asr:0: OUTPUT 315.06-322.60: This purpose, when combined with the four key values that our teams live on a daily basis, creates a framework of what we want to achieve as a company. 
+asr:0: OUTPUT 323.48-327.83: And the basis of how we do it is the Intersov-Rand execution excellence process. 
+asr:0: OUTPUT 329.05-336.06: The simplicity and effectiveness of this is allowing us to accelerate the creation of a single culture across Ingersoll Ranch. 
+asr:0: OUTPUT 338.06-346.97: Turning to slide seven, I would like to briefly update you on the company's response to the COVID-19 crisis, since it has been swift and focused around two major components. 
+asr:0: OUTPUT 347.95-357.62: First is the health and safety and well-being of our employees, customers and communities. And second, business continuity, not only within operations but across the larger supply chain. 
+asr:0: OUTPUT 358.82-363.40: Starting first with health and safety, we activated our COVID-19 task force in February. 
+asr:0: OUTPUT 363.86-369.05: And had a full coordinated company approach in early March, just weeks after the creation of the new company. 
+asr:0: OUTPUT 370.29-372.65: Our execution approach has served us very well. 
+asr:0: OUTPUT 372.67-380.68: As we're able to quickly implement enhanced site safety protocols and a mandatory work-from-home policy for those employees who can work remotely. 
+asr:0: OUTPUT 381.86-384.86: And it is very encouraging that our quick actions have been successful. 
+asr:0: OUTPUT 385.02-392.67: As we currently have had fewer than 30 confirmed cases of COVID-19 amongst our more than 17,000 global employee base. 
+asr:0: OUTPUT 394.09-396.06: But it's more than just implementing safety protocols. 
+asr:0: OUTPUT 396.52-404.64: It's also about supporting and engaging the employee base. As a result, we have implemented a number of measures, including a global outreach program to solicit employee feedback. 
+asr:0: OUTPUT 405.31-413.37: Our employees reacted quickly and with a true ownership mindset, provided more than 200 suggestions when we asked for cost savings ideas. 
+asr:0: OUTPUT 414.37-423.14: Not only did our team volunteer to take individual pay cuts, furloughs, and forego vacation time this year, they have thoughtful, in-depth suggestions. 
+asr:0: OUTPUT 423.46-426.07: Many of which we're actively implementing today. 
+asr:0: OUTPUT 427.91-429.71: From a business continuity perspective. 
+asr:0: OUTPUT 429.73-438.12: Starting first with our operations, as we previously communicated, we have seen plants largely in China, Italy, and India impacted due to COVID-19. 
+asr:0: OUTPUT 439.12-446.83: China was largely impacted in the month of January and February and has seen steadily improved capacity and output through March and into April. 
+asr:0: OUTPUT 447.33-449.31: As things are now largely back to normal. 
+asr:0: OUTPUT 450.33-456.22: Italy and India saw about a two-month lag to China, with operations being impacted in late March and into April. 
+asr:0: OUTPUT 457.28-466.27: And in this time, our sites around the globe are 98% operational, with India still being the most impacted due to governmental restrictions on returning to work. 
+asr:0: OUTPUT 467.59-474.11: The supply chain has seen a similar trend as the impact in China is largely behind us and we currently have no meaningful delivery issues. 
+asr:0: OUTPUT 474.98-482.16: The Americas and the MENA regions are stabilizing as impacted suppliers in the U.S. And Italy have started to come back online. 
+asr:0: OUTPUT 483.10-492.33: In the past few weeks, we have seen the number of impacted suppliers drop by more than half, which is a very good sign, and we're supplementing supply from dual sources from other regions where possible. 
+asr:0: OUTPUT 493.49-497.74: Much like our operations, India continues to be the most impacted aspect of the supply chain. 
+asr:0: OUTPUT 498.52-504.04: And we expect the situation to improve in the later half of May, when governmental restrictions begin to ease. 
+asr:0: OUTPUT 505.27-512.93: We are addressing the current environment head on by actively managing those areas within our control. Let me tell you about what we're doing here. 
+asr:0: OUTPUT 513.79-521.58: Starting with slide eight, through the use of IRx, we have been able to build the cost synergy funnel to over $350 million. 
+asr:0: OUTPUT 521.62-527.49: With increases across all major savings categories, and we continue to identify areas of incremental opportunity. 
+asr:0: OUTPUT 528.53-538.10: As a reminder, we expect to be able to realize the anticipated transaction cost synergies of approximately $250 million by the end of year three after closing. 
+asr:0: OUTPUT 539.22-547.55: We expect to incur approximately $450 million of expense in connection with both achieving these cost synergies and the associated stand-up of the new company. 
+asr:0: OUTPUT 549.03-557.94: As we have stated multiple times over the past few quarters, the facing of synergy delivery was always an area we believe we could accelerate based on market conditions. 
+asr:0: OUTPUT 558.00-559.96: And that is exactly what we have done. 
+asr:0: OUTPUT 560.90-569.21: We have dramatically increased the pace, having already executed on $90 million of annualized structural cost reductions. 
+asr:0: OUTPUT 569.23-573.71: With approximately $70 million savings expected to be delivered in 2020. 
+asr:0: OUTPUT 574.89-583.90: The majority of these savings are coming from headcount actions already taken in the past two months as we streamline the company and reduce layers within the organization. 
+asr:0: OUTPUT 585.43-588.89: In addition, we have deployed the first wave of procurement initiatives. 
+asr:0: OUTPUT 588.91-598.16: RFQs for nearly one-third of our historical direct materials plant base already launched, as well as some quick-win initiatives being deployed. 
+asr:0: OUTPUT 599.76-605.45: In total, we're now expecting to deliver approximately 35% of our overall synergy target in 2020. 
+asr:0: OUTPUT 606.35-612.93: Which is approximately three times higher than the original year one expectation of 10 to 15% realization. 
+asr:0: OUTPUT 614.03-619.94: We're keeping the overall cost-synergy target at $250 million over a three-year time frame. 
+asr:0: OUTPUT 619.96-625.89: To remain prudent on volume-dependent synergies like procurement and ITOB given the current environment. 
+asr:0: OUTPUT 627.79-637.78: It is not only the structural cost that we have taken out, but also how we are supplementing our synergy delivery activities with thoughtful short-term cost reductions to protect margins. 
+asr:0: OUTPUT 638.78-640.80: So let's move to slide 9 to talk about that. 
+asr:0: OUTPUT 641.78-648.39: In Q1, despite the 15% revenue decline that we saw collectively across the business on a pro forma basis. 
+asr:0: OUTPUT 649.03-657.14: We were able to limit adjusted EBITDA incrementals to less than 30%, with the strongest performance coming from our two largest segments. 
+asr:0: OUTPUT 658.58-668.33: We expect that these additional actions would yield $40 to $50 million of incremental cost savings in the P&L this year, with the majority coming in the second quarter and third quarter. 
+asr:0: OUTPUT 669.81-672.63: We will continue to reevaluate on a monthly basis. 
+asr:0: OUTPUT 672.91-681.22: And if the demand environment does not accelerate in the second half of the year, we will potentially extend some of these actions and increase our savings target accordingly. 
+asr:0: OUTPUT 682.50-689.99: Or we're making some tough decisions to control cost, one area that we're not cutting back is strategic growth initiatives across the enterprise. 
+asr:0: OUTPUT 691.05-699.38: Much like we did back in 2015 at Georgia Denver, when we invested through the downturn to capitalize on market share gains and new product opportunities. 
+asr:0: OUTPUT 699.88-701.64: We're following the same playbook today. 
+asr:0: OUTPUT 702.78-706.79: Investments in R&D are being maintained at similar levels as prior years. 
+asr:0: OUTPUT 707.29-713.13: And we continue to fund targeted commercial initiatives such as demand generation and our IoT platforms. 
+asr:0: OUTPUT 714.41-720.88: This is all part of the strategy to play offense, now especially as we bring the two companies together through the integration. 
+asr:0: OUTPUT 723.24-729.25: Moving to slide 10, let me talk about liquidity. The company continues to have a strong balance sheet with ample liquidity. 
+asr:0: OUTPUT 729.95-737.08: At the time of the merger, we took the opportunity to reprise our legacy debt while placing the new $1.9 billion term loan to close this transaction. 
+asr:0: OUTPUT 738.16-740.92: All of our debt is a term loan based structure. 
+asr:0: OUTPUT 741.28-749.09: With very attractive pricing as the US components are LIBOR plus 175 and the Euro component is the EuroBor plus 200. 
+asr:0: OUTPUT 750.21-756.40: The firm loans have no financial covenants from a maintenance perspective and there are no maturities until 2027. 
+asr:0: OUTPUT 757.90-761.78: Liquidity also remains strong at $1.6 billion. 
+asr:0: OUTPUT 761.80-770.73: As we finish the quarter with $556 million of cash on the balance sheet and over a billion dollars of capacity on our existing credit facility. 
+asr:0: OUTPUT 772.09-779.06: As we look ahead, we continue to see several opportunities to unlock cash as we remain very prudent on preserving liquidity. 
+asr:0: OUTPUT 780.32-783.56: Opportunities exist across working capital and cash taxes. 
+asr:0: OUTPUT 784.40-793.07: And we will continue to see tailwinds from interest expense in the second half of the year as all $825 million of legacy fixed interest rate swaps. 
+asr:0: OUTPUT 793.09-795.24: Will expire by September of 2020. 
+asr:0: OUTPUT 796.58-805.49: Even though we feel our level of liquidity is proper, we're evaluating incremental debt or other liquidity vehicles given the attractive rate and covenant environment. 
+asr:0: OUTPUT 807.61-812.11: Turning to slide 11, our commitment to our long-term strategy remains unwavering. 
+asr:0: OUTPUT 813.15-820.24: You have heard me already reference several elements of our strategy as we're building the culture of Incasol brand with our employees at the core. 
+asr:0: OUTPUT 821.12-825.09: We will continue to act quickly and prudently to protect margins and preserve liquidity. 
+asr:0: OUTPUT 825.79-832.35: And at the same time, we will position the company for future growth, both organically and through opportunistic targeted bolt-on M&A. 
+asr:0: OUTPUT 833.55-839.12: Our business operates in a very fragmented market, and we see opportunities to add niche technologies to the portfolio. 
+asr:0: OUTPUT 840.14-848.21: And importantly, our newest strategic priority of operating sustainably is taking shape as we launch several of our ESG-oriented initiatives already. 
+asr:0: OUTPUT 849.51-858.00: Overall, we have several value creation levers as we look ahead. And we will continue to execute despite the uncertain microeconomic landscape. 
+asr:0: OUTPUT 858.72-862.02: I will now turn it over to Emily to walk you through the financials. Emily? 
+asr:0: OUTPUT 863.52-868.93: Thanks, Vicente. On slide 12, you will see the as-reported financials for the company. 
+asr:0: OUTPUT 869.47-878.74: As a reminder, the reported financials include three months of legacy Gardner Denver and one month of the legacy Ingersoll Rand Industrial segment. 
+asr:0: OUTPUT 879.22-886.47: In Q1 2020 and only the legacy Gardner Denver businesses in Q1 of 2019. 
+asr:0: OUTPUT 887.35-891.53: As a result, the comparisons are impacted materially by the transaction. 
+asr:0: OUTPUT 892.43-895.40: I won't spend a lot of time on this page as a result. 
+asr:0: OUTPUT 896.08-908.49: Other than to mention that the as-reported net income in the quarter includes $197 million of amortization, acquisition, restructuring, and other adjustments. 
+asr:0: OUTPUT 908.75-913.39: Which you can see listed in the reconciliation tables in the appendix of the presentation. 
+asr:0: OUTPUT 914.59-919.02: Turning to slide 13, to assist in clean comparatives for the quarter,. 
+asr:0: OUTPUT 919.04-927.19: We provided supplemental financial information which treats the transaction as if it had happened as of January 1, 2018. 
+asr:0: OUTPUT 928.01-930.09: From a total company perspective. 
+asr:0: OUTPUT 930.11-938.44: FX suggested revenue and orders declined 14% and 7% respectively and were impacted by COVID-19. 
+asr:0: OUTPUT 939.56-947.89: Regionally, we saw notable declines in Asia Pacific as well as sharp declines in the U.S. And Europe towards the end of the quarter. 
+asr:0: OUTPUT 948.55-950.81: Most notably in the IT&S segment. 
+asr:0: OUTPUT 951.85-956.30: This led Book to Bill to finish at 1.11 for the quarter. 
+asr:0: OUTPUT 957.74-959.02: The company delivered. 
+asr:0: OUTPUT 959.04-970.65: 208 million of adjusted EBITDA, a decline of 24 percent driven mostly by the volume declines in IT&S and the expected downturn in the HPF segment. 
+asr:0: OUTPUT 972.17-978.22: Adjusted EBITDA margins were 16.4%, down 200 basis points from last year. 
+asr:0: OUTPUT 979.06-985.39: However, our proactive cost controls within the business limited decremental to 29%. 
+asr:0: OUTPUT 986.51-990.15: In terms of adjusted EBITDA composition for the company,. 
+asr:0: OUTPUT 990.17-998.66: The Legacy Gardener Denver business delivered $97 million as compared to our original guidance expectation of approximately $100 million. 
+asr:0: OUTPUT 999.30-1002.96: Which we view as relatively strong performance given the environment. 
+asr:0: OUTPUT 1004.40-1013.13: The legacy IR businesses delivered 51 million of adjusted EBITDA in March as opposed to a combined 60 million for January and February. 
+asr:0: OUTPUT 1015.03-1023.94: Moving to slide 14. Free cash flow for the quarter was $60 million on an as-reported basis, including $8 million of CapEx. 
+asr:0: OUTPUT 1024.92-1031.77: The Q1 free cash flow includes $63 million of outflows related to the transaction. 
+asr:0: OUTPUT 1031.79-1039.46: Comprised of $38 million of synergy delivery and stand-up related costs, and another $25 million of transaction fees. 
+asr:0: OUTPUT 1040.56-1048.37: We also paid $38 million of debt issuance costs in the quarter, which you can see in the financing section of the cash flow statement. 
+asr:0: OUTPUT 1049.03-1053.55: Bringing our total transaction-related outflows in the quarter to $100 million. 
+asr:0: OUTPUT 1055.10-1059.26: From a leverage perspective, we finished at 2.6 times. 
+asr:0: OUTPUT 1059.28-1066.19: And while we do expect to see some short-term increase to leverage, we have shown the ability to delever historically. 
+asr:0: OUTPUT 1067.05-1072.09: As you can see on the right side of the page, we'll remain extremely disciplined on cash. 
+asr:0: OUTPUT 1072.45-1078.12: And we expect our capital allocation priorities to be very aligned with what you have seen historically. 
+asr:0: OUTPUT 1079.14-1087.27: Specifically, internal reinvestments for growth, prudent debt pay down, and opportunistic bolt-on M&A. 
+asr:0: OUTPUT 1088.15-1092.19: We have no plans for any share repurchases or a dividend at this time. 
+asr:0: OUTPUT 1093.35-1097.16: I'll now turn it back to Vicente to walk through the segment. Vicente? 
+asr:0: OUTPUT 1098.94-1104.04: Thanks, Emily. Starting first with industrial technologies and services on slide 15. 
+asr:0: OUTPUT 1105.07-1112.49: The IT&S segment first quarter adjusted order intake was $889 million, down 9% versus prior year excluding effects. 
+asr:0: OUTPUT 1113.49-1122.58: I just have revenue in the quarter worth $796 million, down 17% excluding effects, and leading to a book-to-bill ratio of 1.12 times. 
+asr:0: OUTPUT 1124.02-1133.43: From a regional perspective, Asia Pacific revenues were down in the mid 30s, with Europe down 15% and America down 7%, all excluding the facts. 
+asr:0: OUTPUT 1134.75-1144.38: We use this trending as an indication of how Q2 could potentially play out, meaning that the APAC decline in Q1 is what we expect to see in America's anemia in the near term. 
+asr:0: OUTPUT 1146.09-1149.17: This is the baseline we're using to plan the cost controls for our business. 
+asr:0: OUTPUT 1149.71-1158.46: But we're staying highly active with the match generation activities and pricing controls, but we continue to demonstrate discipline in price, generating over 1% in the quarter. 
+asr:0: OUTPUT 1159.40-1168.81: While these markets are more opaque than historically, we're using our unique data acquisition strategy to map order trends and remain agile in serving our customers in the current environment. 
+asr:0: OUTPUT 1169.81-1173.53: We break this out into two areas, aftermarket and original equipment. 
+asr:0: OUTPUT 1174.21-1178.84: For aftermarket, a leading indicator we have is actual compressor utilization data. 
+asr:0: OUTPUT 1179.04-1184.64: As we can see, the hourly usage of thousands of compressors worldwide that are connected to a remote monitoring system. 
+asr:0: OUTPUT 1185.45-1194.23: In America and Europe, we saw a sharp decline in compressor utilization in the last few weeks of March of nearly 30%, with some recovery in the past few weeks of April. 
+asr:0: OUTPUT 1195.30-1203.82: We're now using this as a way to know where our service teams need to focus while at the same time using it as a leading indicator for aftermarket activity. 
+asr:0: OUTPUT 1203.98-1207.25: Which is approximately 50% of the compressor business today. 
+asr:0: OUTPUT 1208.65-1210.95: For original equipment, we're using the Mann Generation leads. 
+asr:0: OUTPUT 1211.35-1220.00: We said in the past that the ManGen was a leading indicator of orders that we will be getting in the next six to eight weeks. With more than a thousand lists per week,. 
+asr:0: OUTPUT 1220.40-1222.64: We have a lot of commercial insight in our system. 
+asr:0: OUTPUT 1223.76-1229.21: What we saw in the later weeks of March was a drop of 30% versus what we saw earlier in the quarter. 
+asr:0: OUTPUT 1230.49-1232.53: With similar trends in America and Europe. 
+asr:0: OUTPUT 1233.43-1242.04: We have seen also early signs of improvement over the past few weeks of April, but still approximately 20% to 25% off from the highs in the early part of the year. 
+asr:0: OUTPUT 1243.84-1253.27: Let me give you now some color from a product line perspective. We have seen very similar trends across compressors, blowers, and vacuums where we saw orders down in the mid to high single digits. 
+asr:0: OUTPUT 1254.13-1261.14: We have spoken about third-party industry reports in the past, and the Q1 data speaks well for the outcome of the combining of the two companies. 
+asr:0: OUTPUT 1261.92-1268.17: According to a leading third-party report, the market in the U.S. Was down mid-single digits in dollars in the first quarter. 
+asr:0: OUTPUT 1269.23-1274.35: Gardner Denver branded products were flat and Ingersoll Rand branded product was down high single digits. 
+asr:0: OUTPUT 1275.20-1278.22: But when you look into the details, you see the power of the two companies. 
+asr:0: OUTPUT 1278.66-1285.95: As Garnett and Verso good share gains on low to medium horsepower machines, while Ingersoll-Rand took share on high horsepower compressors. 
+asr:0: OUTPUT 1286.87-1296.20: This was exactly our hypothesis coming into the view. And we see this as a way to leverage the technology portfolio as well as the direct and indirect channels that both companies have. 
+asr:0: OUTPUT 1297.80-1304.16: Power Tools and Lyft, which is part of the segment, had a very tough quarter with orders and revenue down both over 20%. 
+asr:0: OUTPUT 1305.33-1314.31: The business was highly impacted by large inventory purchases that online retailers typically make in the first quarter to support first half of the year revenue. 
+asr:0: OUTPUT 1315.28-1321.98: However, this quarter, in addition to the slowdown of the market, many online retailers switched their focus to household essentials. 
+asr:0: OUTPUT 1323.54-1329.81: Moving to non-GAAP at Yo Te Libita, IT&S delivered $135 million in the quarter, which was down 25%. 
+asr:0: OUTPUT 1330.83-1336.76: Loan gap at just the EBITDA margin was 17%, which was down 150 basis points from the prior year. 
+asr:0: OUTPUT 1336.78-1340.90: Of our cost mitigation efforts helped limit decremental to 25%. 
+asr:0: OUTPUT 1340.92-1347.15: In a segment that typically has base decrementals of 35 to 40% before cost action. 
+asr:0: OUTPUT 1348.95-1351.85: Moving to slide 16 to the Precision and Science Technology segment. 
+asr:0: OUTPUT 1352.67-1359.74: Overall, the segment had solid performance in this economic environment as adjusted orders were $218 million of 2% XFX. 
+asr:0: OUTPUT 1360.52-1364.60: Adjusted revenue was $192 million down 9% XFX. 
+asr:0: OUTPUT 1364.70-1370.85: On strong prior year coms of 12 percent, x effects, growth, and shipment delays due to COVID-19. 
+asr:0: OUTPUT 1372.89-1378.50: This platform is a collection of technologies and premium brands that have leadership positions in very attractive niche markets. 
+asr:0: OUTPUT 1380.06-1384.52: In the first quarter, we saw orders grow high single digits in the legacy medical pump business. 
+asr:0: OUTPUT 1385.35-1391.01: As we are a leading key player in several applications like oxygen concentrators, respirators, and liquid handling. 
+asr:0: OUTPUT 1392.27-1395.92: You can see many of the applications that our medical pumps go into at the bottom of the page. 
+asr:0: OUTPUT 1396.62-1405.01: Our team have been working 24-7 providing modified solutions that can be used for new applications to fight COVID-19 now and in the future. 
+asr:0: OUTPUT 1406.27-1410.77: The remainder of the portfolio saw slightly negative orders performance, down 2% x effects. 
+asr:0: OUTPUT 1411.31-1416.42: With the majority due to COVID lockdowns in January and February in China and towards the end of the quarter in India. 
+asr:0: OUTPUT 1417.34-1425.67: What is encouraging is that we continue to see good funnel and orders activity across many of the product lines and regions due to the niche applications in water and chemicals. 
+asr:0: OUTPUT 1426.35-1430.67: Which will help balance some of the expected weaknesses in a more industrial end market. 
+asr:0: OUTPUT 1431.99-1437.98: Moving to non-GAAP adjusted EBITDA, PNST delivered $53 million in the quarter, which is down 6%. 
+asr:0: OUTPUT 1438.66-1446.93: Non-GAAP adjusted EBITDA margin was 27.7%, up 120 basis points, driven by strong cost controls. 
+asr:0: OUTPUT 1446.95-1450.99: And productivity leading to decremental margins of only 15%. 
+asr:0: OUTPUT 1452.85-1456.12: Moving to slide 17, and the specialty vehicle technology segment. 
+asr:0: OUTPUT 1456.74-1461.16: Priorities for this segment are to continue to capture growth in a profitable manner. 
+asr:0: OUTPUT 1462.28-1470.89: We see that this segment can expand margins with the use of the same IRX tools we have used across other segments and expect to see improvements of this business moving forward. 
+asr:0: OUTPUT 1472.19-1475.01: Having said that, this business performed very well in the first quarter. 
+asr:0: OUTPUT 1475.78-1483.52: Adjusted orders were $230 million and adjusted revenue was $185 million, up 8% and 7% respectively. 
+asr:0: OUTPUT 1483.58-1485.99: With a post-bail of 1.15. 
+asr:0: OUTPUT 1487.35-1491.29: Growth was driven by the strength in goals, connectivity, and consumer product lines. 
+asr:0: OUTPUT 1492.21-1500.46: The business saw strong double-digit order momentum in early January and February, but as the pandemic hit the U.S., we saw a sharp decline in the second half of March. 
+asr:0: OUTPUT 1501.66-1506.21: There is a lot to be excited about. We're expecting Q2 to be down compared to last year for a couple of reasons. 
+asr:0: OUTPUT 1507.09-1515.18: First, last year was a tough comp as the business had some supplier issues in the first quarter where some product was shifted to the second quarter of 2019. 
+asr:0: OUTPUT 1516.66-1519.24: And two, the business is not immune to this current environment. 
+asr:0: OUTPUT 1520.34-1527.81: While April orders were down year over year, we're starting to see some sequential improvement in orders. We feel this is driven by a couple factors. 
+asr:0: OUTPUT 1528.33-1535.64: First, in the consumer product line, the team people took quickly to leveraging demand generation techniques widely used in the legacy industrial businesses. 
+asr:0: OUTPUT 1536.10-1538.62: And we have seen better momentum recently in the run rate. 
+asr:0: OUTPUT 1539.40-1548.55: And second, with the work we have done on proactive COVID prevention across all of our locations, we were able to remain open while some of our competitors were closed. 
+asr:0: OUTPUT 1549.83-1555.96: Moving to non-GAAP adjusted EBITDA, specialty vehicles deliver $18 million in a quarter, down 1%. 
+asr:0: OUTPUT 1556.92-1564.06: Non-GAAP adjusted EBITDA was 9.9%, which was down 80 basis points due to strategic growth, investments, and product mix. 
+asr:0: OUTPUT 1566.41-1573.23: Moving to slide 18 in the high pressure solution segment, the business performed above our expectations in a tough operating environment. 
+asr:0: OUTPUT 1573.31-1582.34: With adjusted orders of $84 million and adjusted revenues of $96 million, down 26% and 29% respectively. 
+asr:0: OUTPUT 1583.72-1587.21: I suspected the revenue base in the business was nearly 90% after market. 
+asr:0: OUTPUT 1587.51-1592.97: And the team executed very well commercially with sequential adjusted orders of 6%. 
+asr:0: OUTPUT 1592.99-1597.72: And sequential adjusted revenues of 26% versus the fourth quarter of 2019. 
+asr:0: OUTPUT 1599.38-1606.91: We continue to see share gain opportunities in aftermarket, and specifically consumables where we saw orders and revenue up double digits sequentially. 
+asr:0: OUTPUT 1607.95-1614.93: This allowed us to deliver non-gap adjusted EBITDA of $24 million on margins of 24.6%. 
+asr:0: OUTPUT 1614.97-1620.14: Which was down from last year's level of 30.8%, but sequentially better by over 400 business points. 
+asr:0: OUTPUT 1621.64-1628.05: As we pivot to the second quarter and rest of the year, a key leading indicator for this business has always been activity and intensity. 
+asr:0: OUTPUT 1628.77-1633.47: We can measure that in multiple ways, but the simplest form is the number of fleets operational in the market. 
+asr:0: OUTPUT 1634.41-1643.96: As a reminder, each frac fleet has about 16 to 18 trucks, with each truck carrying one pump. Each pump has a fluid end, and every fluid end utilizes consumables. 
+asr:0: OUTPUT 1645.11-1651.89: Well, Q1 of 2020, on average, we saw 318 active fleets. The exit rate in March was 240. 
+asr:0: OUTPUT 1652.85-1657.76: We expect to see a substantial drop in the second quarter where we believe active fleets. 
+asr:0: OUTPUT 1657.78-1665.00: Due to the recent dynamics in the market with the oversupply and lower pricing for oil, influence impact on revenues within this segment. 
+asr:0: OUTPUT 1665.95-1673.41: And because of that, we're taking very proactive stand to drive the proper cost takeout to still show reasonable profitability in the quarters to come. 
+asr:0: OUTPUT 1675.42-1678.98: Moving to slide 19, we wanted to provide a quick snapshot of... 
+asr:0: OUTPUT 1679.78-1683.10: Overall, the total company is down approximately 20% in orders. 
+asr:0: OUTPUT 1683.46-1691.05: That the month began very slow, particularly in US and European markets. By the order of momentum throughout April, we expect total revenue to be low. 
+asr:0: OUTPUT 1693.51-1699.68: In terms of orders, both industrial technology and services and specialty vehicle segments were right in line with the total company average. 
+asr:0: OUTPUT 1700.34-1709.47: While precision and science technology is performing considerably better with positive year-over-year orders performance thus far as a result of continuous strength in medical pumps. 
+asr:0: OUTPUT 1710.53-1713.29: And not surprisingly, the high pressure solution segment is down. 
+asr:0: OUTPUT 1715.04-1721.38: As the market resets for what will likely be a prolonged downturn that we expect will last for a number of quarters. 
+asr:0: OUTPUT 1723.00-1725.37: As we look forward due to the uncertain environment. 
+asr:0: OUTPUT 1725.41-1734.73: That we find ourselves in, we will not be providing Q2 or total year to best manage our business and ensure we're taking the right steps to manage. 
+asr:0: OUTPUT 1737.14-1742.36: Multiple scenarios to stress test the balance sheet and the associated impact on cash flows. 
+asr:0: OUTPUT 1743.32-1746.93: A current model shows that the business will... 
+asr:0: OUTPUT 1746.95-1751.95: On an annual basis to be cash flow breakeven using fairly conservative assumptions. 
+asr:0: OUTPUT 1751.97-1757.36: Around working capital and capex, coupled with the cost of actions we have taken thus far. 
+asr:0: OUTPUT 1758.30-1765.95: We feel that this puts us in a very solid position moving forward when compared to current order trends and coupled with our current liquidity position. 
+asr:0: OUTPUT 1768.19-1777.52: Turning to slide 20 for some concluding remarks, I want to say that what we managed through what we will no doubt be a tough second quarter. 
+asr:0: OUTPUT 1778.20-1781.38: We feel that the fundamental investment thesis in the company has not changed. 
+asr:0: OUTPUT 1782.12-1784.04: Ingersoll Brand is a premier industrial company. 
+asr:0: OUTPUT 1786.01-1794.61: Of our transformation. We have multiple levers for accelerating value creation while being very focused on the current part of our liquidity. 
+asr:0: OUTPUT 1795.34-1801.66: With opportunities to increase these by unlocking cash as well as taking advantage of the current rate environment. 
+asr:0: OUTPUT 1802.50-1807.63: We will continue to drive a culture of execution and we continue to pay attention to the. 
+asr:0: OUTPUT 1807.67-1812.67: Particularly under current conditions, is to be strategic on bolt-on acquisition. 
+asr:0: OUTPUT 1814.79-1817.88: With this, we will turn to the Q&A. 
+asr:0: OUTPUT 1820.00-1823.68: At this time, I would like to remind everyone in order to ask a question. 
+asr:0: OUTPUT 1824.70-1831.13: Number one on your telephone keypad. If you would like to remove yourself from the queue, you may press the pound. 
+asr:0: OUTPUT 1832.89-1834.95: Yourself to one question and one answer. 
+asr:0: OUTPUT 1837.70-1843.08: Your first question comes from Andy Kapolits from Citigroup. Your line is open. 
+asr:0: OUTPUT 1844.44-1845.67: Good morning guys, how are you? 
+asr:0: OUTPUT 1848.67-1855.82: Vicente, can you give us more color into the April order decline you're seeing in your largest segment in IT&S? 
+asr:0: OUTPUT 1856.16-1860.00: How long do you think the change in customer behavior from that power tool business. 
+asr:0: OUTPUT 1860.40-1862.42: Now have smaller options. 
+asr:0: OUTPUT 1865.71-1875.40: Exposure in ITNAS, so are there discernible differences in the run rate of these businesses given theyíre more project versus the industrial compressor business? 
+asr:0: OUTPUT 1880.00-1884.82: We set roughly April total orders down 20%, book-to-bill greater than 1%. 
+asr:0: OUTPUT 1885.35-1894.97: From a book to build perspective, the industrial technology and the position of science were greater than one and obviously leading the way. 
+asr:0: OUTPUT 1895.90-1900.00: I'll say in terms of ITS in particular,. 
+asr:0: OUTPUT 1900.04-1908.65: I will categorize it as the short cycle was most impacted in the quarter and continue to see some relatively weakness here. 
+asr:0: OUTPUT 1908.73-1913.65: I mean it's mostly correlated to I guess maybe the PMI. 
+asr:0: OUTPUT 1914.99-1921.10: From the down and the mainstream, which is what we consider to be more on the long cycle. 
+asr:0: OUTPUT 1922.08-1929.57: I'll say comparatively a bit more stable in the first quarter and we continue to see maybe some of that in the month of April. 
+asr:0: OUTPUT 1930.19-1938.62: Again, typically we tend to get the orders for that long cycle now in the first half of the year in order to get shipments in the second half. 
+asr:0: OUTPUT 1939.00-1943.48: And from a PTL, from a power tool perspective. 
+asr:0: OUTPUT 1943.96-1955.12: Yeah, I mean, rough quarter in Q1, as I alluded. I mean, last year, we're seeing some fairly good growth momentum from their expansion into online retailers. 
+asr:0: OUTPUT 1955.56-1961.12: And you saw that in the first quarter, many of these online retailers, they moved. 
+asr:0: OUTPUT 1961.14-1970.63: To have another kind of more household goods or critical needs to fight COVID-19. And clearly, you know, this business saw some of the impact. 
+asr:0: OUTPUT 1971.01-1978.20: I'll say April's sale is relatively slow, so we haven't seen the pivot of the momentum of the Power Tool business. 
+asr:0: OUTPUT 1980.06-1987.67: So that's helpful, Vicente, and I'm sure you expect us to ask about decremental margin in some way. So let me just ask it like this. 
+asr:0: OUTPUT 1987.91-1990.93: Obviously, good result in Q1 of close to 30. 
+asr:0: OUTPUT 1991.27-1997.60: Now how do I think about decrementals with high pressure solutions, you know, the order's down 80%? 
+asr:0: OUTPUT 1997.96-2005.37: Can you hold decrementals there in the mid 40s? At what point does fixed cost become a problem? I know you talked about accelerated. 
+asr:0: OUTPUT 2006.03-2015.14: The rest of the business, can the rest of the business hold 30% decrementals with the 20% decline that you're seeing overall in the rest of the business? 
+asr:0: OUTPUT 2016.80-2022.84: So I'll say Andy, I mean that's kind of what we're targeting for and I mean as you have seen. 
+asr:0: OUTPUT 2023.66-2026.09: You know, we have performed well in the down cycles in the past. 
+asr:0: OUTPUT 2026.13-2033.87: I think we have a good solid playbook that we executed in the 15-16 that included both not only in the industrial downturn but also. 
+asr:0: OUTPUT 2033.89-2035.84: And upstream downturn. 
+asr:0: OUTPUT 2036.26-2044.10: Basically, they tend to be around 40% across the business, with slightly higher in businesses. 
+asr:0: OUTPUT 2044.12-2051.63: The high pressure as you mentioned, as well as the precision and science because of the nice high gross margins that those businesses have. 
+asr:0: OUTPUT 2052.09-2059.84: And lower on the specialty vehicles. And the industrial technologies, they tend to play in that 40% range. 
+asr:0: OUTPUT 2060.96-2067.39: You know, you've seen that we have taken very decisive actions between synergies and the short-term actions to protect the margin. 
+asr:0: OUTPUT 2068.09-2072.83: We saw, as you mentioned, some very good first quarter results for the total business under 30%. 
+asr:0: OUTPUT 2073.31-2077.02: And Q2 will clearly see a bit more pressure from a top-line perspective. 
+asr:0: OUTPUT 2077.34-2085.75: But we will continue to manage the incrementals with the target being closer to that 30% of the EBITDA. 
+asr:0: OUTPUT 2086.27-2100.48: When you think about the actions, we're clearly taking much more aggressive actions and high pressure around cost action based on what we see here with a lot of our data points and the long duration of the downturn that we expect that business to have. 
+asr:0: OUTPUT 2102.00-2105.15: Very helpful, Vicente. Stay well. Thank you. You too, Andy. 
+asr:0: OUTPUT 2106.55-2111.35: Your next question comes from Julian Mitchell from Barclays. Your line is open. 
+asr:0: OUTPUT 2113.01-2115.18: Hi, good morning. 
+asr:0: OUTPUT 2116.18-2120.00: Morning, maybe just a first question on that point on decremental margins. 
+asr:0: OUTPUT 2120.56-2132.65: So, if you could help us understand perhaps the phasing of the cost synergies through the year and also that 40 to 50 million of other cost out actions. 
+asr:0: OUTPUT 2132.67-2136.18: And should those mean that decremental margins narrow? 
+asr:0: OUTPUT 2136.98-2139.16: Or not necessarily depending. 
+asr:0: OUTPUT 2142.48-2144.14: Or mix and some other things. 
+asr:0: OUTPUT 2144.56-2149.81: The. 
+asr:0: OUTPUT 2149.83-2158.58: That we spoke about that are kind of more related to discretionary or kind of volume related. Those are largely second quarter and the third quarter. 
+asr:0: OUTPUT 2158.60-2163.40: With a good majority, I would say, more so on the second quarter. 
+asr:0: OUTPUT 2163.94-2165.07: From the. 
+asr:0: OUTPUT 2165.25-2168.41: The cost synergy perspective. 
+asr:0: OUTPUT 2168.45-2178.14: Million dollars, I mean out of the 80 to 90 million dollars of in-year, you know, roughed account and I'll say that is kind of consistent. 
+asr:0: OUTPUT 2180.84-2190.55: Third quarter and fourth quarter, while the other roughly $10 to $20 million that comes from procurement, it is really more weighted towards that Q3 and Q4. 
+asr:0: OUTPUT 2195.24-2203.38: And then maybe just my second question for you all, for Emily, around the free cash flow. You had a good performance in Q1. 
+asr:0: OUTPUT 2205.05-2214.83: I just wondered, you know, you have assumptions around a break even free cash, but assume. 
+asr:0: OUTPUT 2216.64-2220.88: You know what kind of you know sales about twenty twenty five percent for the year. 
+asr:0: OUTPUT 2221.24-2228.57: What's like the free cash flow conversion should we expect, you know, how do you see working capital moving? 
+asr:0: OUTPUT 2229.41-2237.68: You had I think in the free cash that $63 million of transaction and separation cash cost in Q1. 
+asr:0: OUTPUT 2238.16-2240.96: What's the rough assumption for the year? 
+asr:0: OUTPUT 2244.06-2251.45: Yes, we're very pleased with the Q1 cash performance, as you saw there, Julian. 
+asr:0: OUTPUT 2251.47-2256.16: We've been managing cash from. 
+asr:0: OUTPUT 2259.98-2269.89: To put in good processes and strong controls around it given the current crisis. 
+asr:0: OUTPUT 2270.91-2276.78: We expect cash to still be to move forward, but certainly a lot... 
+asr:0: OUTPUT 2278.50-2282.72: Longer cash cycle as we move through what's. 
+asr:0: OUTPUT 2285.57-2287.71: And we're really managing, you know. 
+asr:0: OUTPUT 2287.73-2295.74: As we go through the collections we're receiving to maintain our strong cash flow and liquidity positions. 
+asr:0: OUTPUT 2297.22-2301.26: You know, what the future holds, a lot of that's going to depend on. 
+asr:0: OUTPUT 2303.26-2308.51: For sure, but we know we need to maintain our cash position and our liquidity. 
+asr:0: OUTPUT 2311.91-2316.62: And how about the costs, yeah, any very rough gut? 
+asr:0: OUTPUT 2316.64-2322.26: I'd post for the year in light of that 63 million in Q1. 
+asr:0: OUTPUT 2324.82-2326.91: Will be some incremental. 
+asr:0: OUTPUT 2330.91-2338.42: I don't have the figure at my fingertips at the moment, Julian, but I can get back to you on that. 
+asr:0: OUTPUT 2341.10-2349.91: Your next question comes from Michael Holleran from Baird. Good morning everyone. I hope everyone's doing well. 
+asr:0: OUTPUT 2352.39-2362.10: Could we just talk about the synergy funnel you referenced? What are some of the incremental sources of the originally identified 250,000? 
+asr:0: OUTPUT 2364.38-2372.11: Maybe talk about the difference youíre seeing in the longer term, some of the revenue synergy. 
+asr:0: OUTPUT 2375.68-2376.76: As you recall, you know, we always. 
+asr:0: OUTPUT 2377.96-2385.07: We. 
+asr:0: OUTPUT 2387.61-2392.89: Into the transaction, we have all this air visibility as to what that funnel could potentially be. 
+asr:0: OUTPUT 2393.41-2401.80: Roughly the $100 million comes from a combination of structural savings and rationalization, kind of non-manufacturing. 
+asr:0: OUTPUT 2402.22-2404.62: I alluded to on the investor. 
+asr:0: OUTPUT 2406.93-2416.56: We have now a pretty good database of all the locations across the world, and that is giving us a very good way for us to really understand and rationalize. 
+asr:0: OUTPUT 2417.46-2421.74: Not so much the coming year two, year three. 
+asr:0: OUTPUT 2424.22-2426.61: More the other kind of perspective. 
+asr:0: OUTPUT 2429.67-2434.61: So, second part of the question, liquidity is in a strong... 
+asr:0: OUTPUT 2435.42-2440.74: Position, some of the one-off things as far as the one-off things. 
+asr:0: OUTPUT 2441.52-2443.48: Operation. 
+asr:0: OUTPUT 2444.62-2446.95: And some of the extra things Emily just referenced. 
+asr:0: OUTPUT 2447.79-2454.73: What would it take for you guys to be a little bit more aggressive with the cash outflow and then secondarily related to that? 
+asr:0: OUTPUT 2456.90-2458.94: That we're going into. 
+asr:0: OUTPUT 2460.08-2466.79: Sort of recession here, who knows how long this opportunity is going to accelerate for you to deploy capital more toward the M&A side. 
+asr:0: OUTPUT 2467.39-2469.49: Kind of things over the next couple years. 
+asr:0: OUTPUT 2469.87-2477.72: Are you positioning for that today and any kind of thoughts and how youíre thinking humanly about that capital side over the next six, nine plus months? 
+asr:0: OUTPUT 2480.00-2488.71: I mean I think clearly over the next couple of years continue to be a really part of our strategy. 
+asr:0: OUTPUT 2491.79-2501.54: We see it's a very unique environment right now. We still see at this point in time some very good funnel on the ground, also very good funnel around. 
+asr:0: OUTPUT 2503.68-2507.63: Industrial technologies, but they're really more related towards both of them. 
+asr:0: OUTPUT 2514.61-2520.42: Your next question comes from Nigel Coe from Wolf Research. Your line is open. 
+asr:0: OUTPUT 2522.08-2526.35: Good morning. How are you guys? Good. Yeah, good. Thanks. 
+asr:0: OUTPUT 2528.23-2530.23: Performance. 
+asr:0: OUTPUT 2532.97-2541.18: Performance and it seems like most of that came from the legacy IR businesses. 
+asr:0: OUTPUT 2542.20-2548.63: Spell out in a bit more detail how much of that can be explained by the jukes of the. 
+asr:0: OUTPUT 2551.63-2555.80: Also, what happens in service during the quarter? 
+asr:0: OUTPUT 2558.48-2560.28: Power service. 
+asr:0: OUTPUT 2563.74-2568.89: I think China was definitely impacted largely in January and February. 
+asr:0: OUTPUT 2569.73-2574.97: The legacy IR business, they have a pretty sizable China export share. 
+asr:0: OUTPUT 2576.96-2578.06: You know, in terms of. 
+asr:0: OUTPUT 2580.70-2590.09: The service, you know, we saw service better. Typically we saw roughly about two times from a percentage perspective. 
+asr:0: OUTPUT 2590.13-2593.05: Better performance than the original equipment. 
+asr:0: OUTPUT 2593.51-2598.30: Just to give you a little bit more color here, particularly the. 
+asr:0: OUTPUT 2600.00-2602.34: Ways of comparing some of the. 
+asr:0: OUTPUT 2603.18-2612.47: The industrial technology is composed of multiple technologies, compressors, vacuums and blowers. 
+asr:0: OUTPUT 2614.69-2620.96: When we specifically compare to some of the competitors, there's a couple of data points that we look at. So the third party report. 
+asr:0: OUTPUT 2622.58-2630.89: At the same time, just to give you a further perspective, the legacy Gardner Denver business in Q1 orders were down in the low single digits. 
+asr:0: OUTPUT 2631.53-2638.98: So, in the market, and since we didn't own the legacy IR for the full quarter,. 
+asr:0: OUTPUT 2639.68-2646.05: We just tend to not comment on what we saw specifically January and February that they saw from an order perspective. 
+asr:0: OUTPUT 2646.31-2649.87: But that hopefully gives you a good perspective as to how to perform even on the legacy GDK. 
+asr:0: OUTPUT 2650.93-2652.41: Great, thanks. 
+asr:0: OUTPUT 2654.19-2663.56: Business, this business has become so small now, it's so much involvement. But if it is down 80% in the quarter, that implies that. 
+asr:0: OUTPUT 2665.73-2674.53: I mean, is it possible to break, given that you're clearly expecting the students to be kind of like weaker for longer? 
+asr:0: OUTPUT 2675.96-2682.78: Would you expect revenue to just bounce along the trough here for the next several quarters? Any kind of that would be helpful. 
+asr:0: OUTPUT 2684.46-2693.83: So, for sure, that's what we're targeting to be the break-even and even positive. We're taking some pretty aggressive actions. 
+asr:0: OUTPUT 2694.39-2701.26: 100% aftermarket and consumable, so that kind of carries a much better margin profile too as well. 
+asr:0: OUTPUT 2701.60-2706.37: And those factories that are not needed. 
+asr:0: OUTPUT 2706.39-2715.12: Based on volume, we're basically keeping them close or very, very low exposure. So a good playbook on how to navigate. 
+asr:0: OUTPUT 2717.62-2719.22: Have done extensive work. 
+asr:0: OUTPUT 2719.56-2728.77: And I think we see that we can definitely overcome these long-term and our plan is that it's going to be down for a while. 
+asr:0: OUTPUT 2729.83-2733.97: And to the telecom question, clearly it's a market that... 
+asr:0: OUTPUT 2733.99-2740.40: As you saw, we just invested in new fluid and technology, so we can be ready for capturing. 
+asr:0: OUTPUT 2743.84-2750.37: Great, thank you very much. Our next question comes from Jeff Sprott from Vertical Research Partners. 
+asr:0: OUTPUT 2753.55-2754.91: Thank you. Good morning, everyone. 
+asr:0: OUTPUT 2757.28-2765.49: Why don't we just come back to service for a moment. There's an interesting comment about utilization down from 30%. 
+asr:0: OUTPUT 2766.13-2773.81: But how do we actually interpret and apply that to a forward sales are going to be down 30% of the service because they don't believe? 
+asr:0: OUTPUT 2774.21-2781.84: I don't know if you have enough data historically to kind of piece that together, but what does that down 30% tell you? 
+asr:0: OUTPUT 2783.02-2784.62: Yeah, Jeff, great question. 
+asr:0: OUTPUT 2784.86-2790.67: So, in terms of the historical data, we don't have a lot of historical because as you can. 
+asr:0: OUTPUT 2790.69-2796.28: Monitoring systems and connectivity with the IoT platforms that we both companies have now. 
+asr:0: OUTPUT 2796.30-2797.66: Is fairly new. 
+asr:0: OUTPUT 2798.72-2804.48: But we have enough data to then break it down by the specific sub and market. 
+asr:0: OUTPUT 2806.53-2814.65: The indication here is that it's telling us where are those markets that we should continue to play or double down from a service perspective. 
+asr:0: OUTPUT 2815.03-2823.28: So it's helping us to redirect the teams. It is also helping us to really better serve our customers and making sure that we're still more resilient from that perspective. 
+asr:0: OUTPUT 2824.04-2831.11: So in terms of being down 30%, I mean, I think we just see that as a bit of indication as to what could happen here. 
+asr:0: OUTPUT 2831.39-2835.54: But as you gave us a great correlation. 
+asr:0: OUTPUT 2836.58-2838.74: We don't have a lot of historical data to. 
+asr:0: OUTPUT 2840.62-2843.50: So what we're doing is just taking that data point to... 
+asr:0: OUTPUT 2843.58-2852.33: We're focusing them on those areas, regions, and markets that we're still seeing some very good utilization of the compressors. 
+asr:0: OUTPUT 2854.21-2860.68: And the answer is, you know, that IPS obviously includes more than compressors. 
+asr:0: OUTPUT 2863.34-2870.13: Are you suggesting that those other product areas outside of vacuums and blowers were substantially. 
+asr:0: OUTPUT 2872.39-2877.96: Yes, for sure the power tool and the lifting business. 
+asr:0: OUTPUT 2877.98-2879.50: Was one that it was worse. 
+asr:0: OUTPUT 2879.52-2889.09: Than that. I mean, the power tools is CATS, they have two main product lines. I mean, it's that tool business, but also they have a lifting business. 
+asr:0: OUTPUT 2889.39-2897.56: That is kind of more related to factory consumption or factory rationalization. So I think that was impacted more so. 
+asr:0: OUTPUT 2898.08-2901.92: And then China as a region was definitely heavily impacted. 
+asr:0: OUTPUT 2903.20-2908.29: And from the other product lines in terms of the longer cycle. 
+asr:0: OUTPUT 2908.33-2913.53: Which these are kind of brands like Nash, Gerol, Liquid Green Pumps, and Liquid Green Vacuums. 
+asr:0: OUTPUT 2914.01-2917.92: Those are more longer cycle and those were, I'll say, more stable and resilient. 
+asr:0: OUTPUT 2920.22-2929.07: Okay, thank you. Your next question comes from David Rosso from Evercore ISI. Your line is open. 
+asr:0: OUTPUT 2930.15-2938.28: Good morning. My question is about in the ITF's inventory in the channel, and you think about some of the recent improvement you've seen. 
+asr:0: OUTPUT 2938.84-2945.17: Can you give us some sense on any sequential improvement, sort of a lead lag? 
+asr:0: OUTPUT 2948.11-2952.37: It, and also the mix of your businesses being short cycle versus long cycle. 
+asr:0: OUTPUT 2952.81-2956.34: Can you just give us some sense of the inventory in those channels? 
+asr:0: OUTPUT 2956.44-2963.24: The lag you would need to see or that you would experience if, say, the PMIs got better, for example. 
+asr:0: OUTPUT 2965.89-2970.85: Yeah, Dave, I mean, I think, you know, when we look at the inventory in those channels,. 
+asr:0: OUTPUT 2972.01-2975.14: I mean there's just not ideas from a compressor perspective. 
+asr:0: OUTPUT 2975.26-2983.70: Which is obviously the one that has the biggest size of the distribution network. And it is also more particularly towards the Garner Denver branded products. 
+asr:0: OUTPUT 2984.70-2993.31: We don't tend to have a lot of inventory because these are particularly smaller distributors, more sub-regionalized, more localized. 
+asr:0: OUTPUT 2993.63-2998.82: They don't tend to put a lot of cash up front to have compressors on the shelf. 
+asr:0: OUTPUT 2998.88-3005.15: So to speak, maybe on the smaller compressors they may, but not on the medium to high level compressors. 
+asr:0: OUTPUT 3005.55-3014.43: And the inventory will come in more on consumables aftermarket and really move fairly well. I mean, they turn fairly quickly. 
+asr:0: OUTPUT 3015.84-3022.64: You've seen, just so I'm clear, is it a stabilization at a low level after the initial shock in ITS? 
+asr:0: OUTPUT 3023.10-3030.77: Or have you seen some little improvement in order sequentially? And I'd be curious, is that more short cycle or long cycle? 
+asr:0: OUTPUT 3031.93-3035.88: I know you have a great question here. I'll categorize it as the stabilization. 
+asr:0: OUTPUT 3036.34-3045.69: And initially and then obviously when you look at it within the month, I mean at the month of April, you know, there's some slight improvement on the second half of April. 
+asr:0: OUTPUT 3047.65-3054.81: But again, was that more short cycle improvement? Short cycle, yeah. Short cycle. All right. Thank you very much. Appreciate it. 
+asr:0: OUTPUT 3058.16-3068.15: Your next question comes from Josh Pokalinski. The front door is open. 
+asr:0: OUTPUT 3070.17-3076.42: So, Vicente, I guess, you know, everyone here on the call kind of has the same list of questions, and so we covered a lot of ground already. 
+asr:0: OUTPUT 3078.14-3086.65: I guess just with some of the commentary around utilization and with the comments you made around supply chain interruption. 
+asr:0: OUTPUT 3087.19-3094.03: How much of the decline that you're seeing and yeah, I guess this comment is mostly an IT and S comment. 
+asr:0: OUTPUT 3094.13-3099.44: Is related to customer shutdowns or supply chain interruption. 
+asr:0: OUTPUT 3099.46-3112.99: In some form, like, you know, the lights come back on and a certain amount of demand comes back. I think to some of these points on, you know, service or utilization, that maybe that's not the steady state, you know, state of the world there. 
+asr:0: OUTPUT 3114.53-3122.70: Yeah, Josh, I'll say more so in China. If you want to think about it, kind of that disruption completely. 
+asr:0: OUTPUT 3123.48-3129.93: Also in the first quarter, maybe some disruption from the perspective of in Europe, particularly in Italy. 
+asr:0: OUTPUT 3130.99-3139.74: I mean, we do have some very good manufacturing base in Italy. And we, although we stayed operationally, I mean, most of our suppliers had to shut down. 
+asr:0: OUTPUT 3141.20-3147.85: I would say that now, as kind of the comment that I made before, we see kind of these lower demand level kind of getting more stabilized. 
+asr:0: OUTPUT 3148.71-3157.66: But, you know, still not seeing that kind of recovery and we're just kind of waiting to see how the recovery will play out. 
+asr:0: OUTPUT 3160.76-3163.72: OK, and then switching over to the Synergy funnel. 
+asr:0: OUTPUT 3163.88-3173.45: It sounds like the year three pipeline of activity kind of has to stay there, as you have to act on other things first and more manufacturing-centric. 
+asr:0: OUTPUT 3174.73-3184.22: Fair to say that the incremental step up in SynergyFEN in the year two is smaller. I guess it's more of a pull forward from year two or... 
+asr:0: OUTPUT 3184.24-3189.05: Are you kind of implicitly saying, hey, we think there's more than 250 here, we're just, you know. 
+asr:0: OUTPUT 3189.07-3194.69: We're working on this as fast as we can, and we'll update you as we know more. 
+asr:0: OUTPUT 3196.68-3200.34: We think we want to keep it at 250 just because we think it's prudent. 
+asr:0: OUTPUT 3201.10-3209.79: And we think it's brilliant because we're clearly focused on a lot of the internal funnels and execution. You see how we accelerated and we executed. 
+asr:0: OUTPUT 3210.21-3213.21: I mean this is not just talking about the executed. 
+asr:0: OUTPUT 3213.73-3220.68: But there's a component around procurement and I2V savings innovative value that is volume dependent. 
+asr:0: OUTPUT 3221.34-3229.83: And when we did the $250 million crossing the geofunnel, it was based on 2019 kind of run rate levels, so to speak, or spend levels. 
+asr:0: OUTPUT 3230.47-3235.20: So we just want to be prudent from going out there and saying that the 250 will increase. 
+asr:0: OUTPUT 3235.74-3243.18: Once we're ready, when we see more stability or normalization in the markets, maybe we come back with that. 
+asr:0: OUTPUT 3243.68-3246.63: But at this point in time, we're accelerating what we can control. 
+asr:0: OUTPUT 3247.31-3251.61: And we know that we can control that structural head count out, and that's exactly what we executed. 
+asr:0: OUTPUT 3251.99-3256.72: We know we can control a lot of the quickings in procurement because commodities are lower and we are executing that. 
+asr:0: OUTPUT 3257.08-3265.13: And we know we can control a lot of discretionary spend and that's exactly what we also executed. So we're very focused on kind of going through the list of things that we can really execute. 
+asr:0: OUTPUT 3267.21-3268.49: Great, appreciate the call. Good luck. 
+asr:0: OUTPUT 3270.69-3277.56: Your next question comes from Nathan Jones from Stiefel. Your line is open. Morning, everyone. 
+asr:0: OUTPUT 3278.80-3280.06: Okay. 
+asr:0: OUTPUT 3281.22-3288.91: So, revenue down 8.6 to XFX, margins up 120 basis points. 
+asr:0: OUTPUT 3289.71-3293.25: Very good control there on what drove the very good. 
+asr:0: OUTPUT 3293.27-3303.24: There, how you see the decrementals going forward and maybe any color you can give us on what you think the long term margin opportunity is in that business. 
+asr:0: OUTPUT 3304.84-3307.47: Okay Nathan, this is a... 
+asr:0: OUTPUT 3308.19-3312.25: I will say some very good cost control, but also some very good momentum. 
+asr:0: OUTPUT 3312.27-3317.44: That we had also from the medical business. If you remember last year when we talked about the medical business, we were seeing. 
+asr:0: OUTPUT 3317.50-3326.07: Upwards of 200 business points margin improvement and the medical business finishing last year at roughly 30-31% EBITDA margin. 
+asr:0: OUTPUT 3326.09-3333.39: Again, very good momentum from that business and clearly as we saw some supplement in the market, the team continued to execute those. 
+asr:0: OUTPUT 3333.41-3336.04: Target that they needed to get done. 
+asr:0: OUTPUT 3336.60-3342.34: You know, I think when you look at this business that has some very nice gross margins. 
+asr:0: OUTPUT 3342.68-3347.73: And the phase decrementals are typically 45 or so. 
+asr:0: OUTPUT 3348.03-3352.93: I mean, pretty good job that the team did here in order to get the decremental down to the 15%. 
+asr:0: OUTPUT 3353.87-3360.64: And I'll say, from a long-term perspective, we'll definitely come back with giving some kind of medium to long-term perspective. 
+asr:0: OUTPUT 3361.08-3365.09: I'll just do a quick comparison and you can see that medical we were able to... 
+asr:0: OUTPUT 3365.29-3374.01: Not only just a few years ago, the medical business was in the 25, 26% EBITDA margin, and we finished last year in the 31% EBITDA margin. 
+asr:0: OUTPUT 3374.09-3381.70: There's just a lot of good commonalities between the medical and the legacy PFS and AR business that are within this segment. 
+asr:0: OUTPUT 3383.42-3387.09: Okay, maybe just one on receivables. 
+asr:0: OUTPUT 3387.11-3395.12: When you look through that, do you see any customer credit risk, any collection risk there? I guess it's particularly an upstream comment. 
+asr:0: OUTPUT 3395.54-3400.04: Given the way that market's going. But anywhere else you see. 
+asr:0: OUTPUT 3400.74-3405.77: Any potential issues in receivables, how you're going about managing customer credit, those kinds of things. 
+asr:0: OUTPUT 3407.43-3412.49: I'll say not necessarily, Nathan. I think it's one that we live by day by day. 
+asr:0: OUTPUT 3412.85-3418.04: I mean clearly on the high pressure solution, which is, as you mentioned, the most exposed. 
+asr:0: OUTPUT 3418.54-3422.20: Customers are still paying. It takes longer to pay, but they still pay. 
+asr:0: OUTPUT 3422.96-3431.17: They also realize that from an option perspective that our business is critical and essential for when the market comes back up again. 
+asr:0: OUTPUT 3431.19-3435.16: We have been pretty strict in many cases. 
+asr:0: OUTPUT 3435.18-3441.52: That we need to see the payments or we will stop shipment and then we cease to provide any type of. 
+asr:0: OUTPUT 3441.54-3446.43: Any type of output of product either now or later in the future. 
+asr:0: OUTPUT 3446.45-3452.01: I think we're really executing a good playbook here on collections with the team. 
+asr:0: OUTPUT 3453.43-3461.82: Excellent. Thank you. Your next question comes from Nicole DeBlais from Deutsche Bank. Your line is open. 
+asr:0: OUTPUT 3462.82-3464.16: Yeah, thanks. Good morning, guys. 
+asr:0: OUTPUT 3466.83-3471.75: So a lot of this has been answer. We've covered a lot of ground so far, but I just wanted to ask one. 
+asr:0: OUTPUT 3472.63-3478.60: Into next year as we think about approaching a recovery. There's clearly a lot of moving pieces here. 
+asr:0: OUTPUT 3478.62-3485.85: More structural cost savings coming through, presumably, you have temporary costs probably coming back to the business. 
+asr:0: OUTPUT 3486.21-3490.61: And then just kind of dovetailing all of that with typical incremental margins. 
+asr:0: OUTPUT 3490.63-3500.70: I'm not sure how best you can do this, Vicente, but it would be really helpful to kind of characterize the way you see incrementals coming out on the other side of this downturn. 
+asr:0: OUTPUT 3501.82-3503.04: Yeah, I know. 
+asr:0: OUTPUT 3503.12-3511.55: I think we typically see what I call the base level of incremental to be for the total business. 
+asr:0: OUTPUT 3511.57-3513.57: Between 35 to 40 percent. 
+asr:0: OUTPUT 3513.89-3521.86: Again, when you look at precision and science, maybe higher than that, specialty vehicles lower than that. 
+asr:0: OUTPUT 3521.88-3524.42: With maybe industrial technologies about that level. 
+asr:0: OUTPUT 3525.41-3534.05: You know, definitely we'll see a little bit of a headwind as we see a lot of these structural activities that we're doing to come to fruition. 
+asr:0: OUTPUT 3535.08-3542.00: We also see a lot of tailwinds. With the tailwinds, a lot of these structural costs come out. 
+asr:0: OUTPUT 3542.46-3543.78: We see some of the headwinds. 
+asr:0: OUTPUT 3543.92-3555.38: As we get closer to coming out here to our budgets and how we work with the teams, we'll definitely find ways on how we can continue to get that. 
+asr:0: OUTPUT 3555.40-3560.04: Incremental margin obviously to be at a minimum at that date. 
+asr:0: OUTPUT 3569.45-3574.13: Your next question comes from John Walsh from Credit Suisse. Your line is open. 
+asr:0: OUTPUT 3578.66-3584.26: Your next question is from Marcus Nittenmeyer from UBS. Your line is open. 
+asr:0: OUTPUT 3586.27-3590.91: Hi, good morning everybody. I just want to put one more on the... Hi, good morning. 
+asr:0: OUTPUT 3591.59-3592.87: On synergies. 
+asr:0: OUTPUT 3593.05-3602.08: I do appreciate that obviously procurement is volume dependent, but you flag here 10 to 20 million savings realized in 2020. 
+asr:0: OUTPUT 3602.84-3610.03: What do you currently assume as sort of full run rate savings out of that wave one of the spend, which I think is a third of your overall spend? 
+asr:0: OUTPUT 3610.33-3613.57: And how should we think about more medium-term for the other two-thirds. 
+asr:0: OUTPUT 3613.97-3620.30: If you assume that at some point in a normalized world, get back to that 2019 level, let's start here. 
+asr:0: OUTPUT 3622.10-3631.81: Yeah, I think if you think about it, 10 to 20 coming in this year, as you go into 2021, assuming maybe kind of current volume levels. 
+asr:0: OUTPUT 3632.07-3633.63: It will be $20 to $40 million. 
+asr:0: OUTPUT 3634.53-3641.34: So that's maybe at least what you can see here coming from wave one on an analyzed level at current volumes. 
+asr:0: OUTPUT 3644.02-3651.51: And that only is only covering a portion of the total span with wave two and wave three coming up here in the second half of the year. 
+asr:0: OUTPUT 3653.31-3660.14: And if there's sort of an estimate you can give us what that would have been at 19 volume levels, not 20 to 40. 
+asr:0: OUTPUT 3662.42-3668.71: I mean, it would definitely be a little bit higher than that. I mean, I wouldn't, you know. 
+asr:0: OUTPUT 3669.29-3674.07: I think at this point in time, you could say 40 to 50 could be upwards of 60. 
+asr:0: OUTPUT 3677.62-3683.96: Second question on capital allocation, you flagged in the slides with an interesting sort of bolt-on in PST. 
+asr:0: OUTPUT 3684.94-3689.95: It's obviously a pretty fragmented market. You probably have a share of, call it 15% in that space. 
+asr:0: OUTPUT 3691.95-3695.46: How do you think about this? How does that segment look like in a few years? 
+asr:0: OUTPUT 3695.62-3697.98: It's from an aftermarket perspective. 
+asr:0: OUTPUT 3698.02-3706.03: I know it's a design win and replacement business, so the aftermarket dollars per share is relatively small compared to a company average. 
+asr:0: OUTPUT 3706.21-3711.45: But how do you think about it? It just struck me that it was flagged specifically in the slide. 
+asr:0: OUTPUT 3713.35-3719.88: I think this is a segment we like a lot by the way that these businesses are sold. 
+asr:0: OUTPUT 3719.90-3730.77: Kind of niche and very, very solid market positions and it has just a lot of great descriptors such as high gross margins. 
+asr:0: OUTPUT 3730.85-3733.69: And very specialized pumps that. 
+asr:0: OUTPUT 3733.89-3739.58: That are really solidly mission critical in the processes where they apply. 
+asr:0: OUTPUT 3740.60-3746.21: We continue to see that there's a lot of potential, not only in organic, but also organically. 
+asr:0: OUTPUT 3746.25-3758.50: And we're doing a lot of work on that, whether you take technologies like the ARO and combine that with either a Haskell branded product or a Milton Roy product. 
+asr:0: OUTPUT 3758.86-3763.84: And then you can actually create some uniqueness in terms of applications and then enter some new markets. 
+asr:0: OUTPUT 3764.34-3775.82: And that's what a lot of the teams are doing. How do we are being thoughtful and mindful on some of those vertical markets and kind of new niche adjacent areas that we want to play in. 
+asr:0: OUTPUT 3776.18-3781.66: And not only do that organically, but then see what other technologies from a Voltron perspective we can acquire. 
+asr:0: OUTPUT 3782.12-3790.57: So a lot of really great work strategically going on in this segment to really picture this on how do we kind of double it. 
+asr:0: OUTPUT 3793.03-3800.82: Thank you. Good luck. Thank you. Your next question comes from John Walsh from Credit Suisse. Your line is open. 
+asr:0: OUTPUT 3803.40-3807.67: Good morning. Sorry about that. I had some technical difficulties earlier. 
+asr:0: OUTPUT 3808.33-3810.03: I'm glad to hear everyone's doing well. 
+asr:0: OUTPUT 3811.31-3820.60: Maybe just one question here. You alluded on the call to share gains on both the legacy GDI and IR businesses. 
+asr:0: OUTPUT 3821.94-3825.95: I wanted to know if you could put a little more color around what's driving those. 
+asr:0: OUTPUT 3826.23-3833.37: Something on the product side, is it some of the end market strategies you were doing previously around. 
+asr:0: OUTPUT 3833.55-3836.70: You know, more niche markets like paper and pulp. 
+asr:0: OUTPUT 3837.58-3844.68: Maybe some competitive pressures from smaller guys, just any kind of color you could provide there would be helpful. 
+asr:0: OUTPUT 3845.27-3850.75: Sure, Johnny. So, and I can tell you what I said on the call is that it is on specific horsepower. 
+asr:0: OUTPUT 3851.19-3856.36: And what we saw that we liked is that this is in the US based on the third party report. 
+asr:0: OUTPUT 3856.90-3860.20: And we liked it because it was very complimentary. 
+asr:0: OUTPUT 3860.36-3865.93: So if you look at the legacy garden at Denver, we saw some share takes in the low to medium horsepower. 
+asr:0: OUTPUT 3866.19-3871.91: While we saw on the Ingersoll Ranch some share take on the high, kind of larger horsepower compressors. 
+asr:0: OUTPUT 3872.35-3877.90: I will categorize that as Ingersoll-Rang has done a pretty good job on launching some new technology on the larger horsepower. 
+asr:0: OUTPUT 3878.92-3884.64: While as you know, from a Gardner Denver perspective, we have been more focused on the medium to small compressor. 
+asr:0: OUTPUT 3884.74-3898.74: And I think this is what I mentioned on the call, that this is a great hypothesis that we had on this great merge and combining the two companies because now we have great new complementary products and spectrum of technologies. 
+asr:0: OUTPUT 3898.76-3907.05: That a lot of these that I mentioned is on the oil lubricated, which is very good, solid kind of core product line. 
+asr:0: OUTPUT 3907.07-3913.49: But as we spoke about during the April call, now also the oil-free product line spectrum. 
+asr:0: OUTPUT 3913.63-3921.96: So again, it's new technology, new products, and be able to show that uniqueness of differentiation of the product that the teams are launching. 
+asr:0: OUTPUT 3924.88-3927.93: Great, I appreciate taking the question. 
+asr:0: OUTPUT 3930.11-3933.59: There are no further questions at this time. I turn the call back over to the company. 
+asr:0: OUTPUT 3935.16-3940.50: I just want to close out by saying thanks to everyone for your interest in Ingersoll Rand. 
+asr:0: OUTPUT 3940.88-3949.57: I want to do another shout out and thank you to our employees that are always doing a lot of work here to stay healthy, stay safe. 
+asr:0: OUTPUT 3949.95-3955.66: And at the same time provide to our customers emission critical products that are needed. 
+asr:0: OUTPUT 3955.68-3962.76: In this kind of current market condition. So, hopefully everyone stays safe and healthy and we'll look forward to talking to you. 
+asr:0: OUTPUT 3962.78-3964.78: Over the next few weeks. Thank you. 
+asr:0: OUTPUT 3966.37-3971.79: Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect. 
+asr:0: END

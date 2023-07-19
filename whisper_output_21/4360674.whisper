@@ -1,0 +1,525 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.80-6.67: Good morning everyone and welcome to the NextEra Energy, Inc. And NextEra Energy Partners conference call. 
+asr:0: OUTPUT 7.49-15.04: All participants will be in a listen-only mode. Should you need assistance, please email a conference specialist by pressing the star key followed by zero. 
+asr:0: OUTPUT 16.60-20.02: After today's presentation, there will be an opportunity to ask questions. 
+asr:0: OUTPUT 20.74-30.01: To ask a question, you may press star and then one. To withdraw your questions, you may press star and two. Please note, today's event is being recorded. 
+asr:0: OUTPUT 31.71-40.08: At this time, I'd like to turn the conference call over to Matt Roskott, Director of Investor Relations. Sir, please go ahead. Thank you, Jamie. 
+asr:0: OUTPUT 40.68-47.39: Good morning, everyone, and thank you for joining our second quarter 2020 combined earnings conference call for Nexstar Energy and Nexstar Energy Partners. 
+asr:0: OUTPUT 48.31-56.40: With me this morning are Jim Marobo, Chairman and Chief Executive Officer of Nexera Energy, Rebecca Chiappa, Executive Vice President and Chief Financial Officer of Nexera Energy,. 
+asr:0: OUTPUT 56.68-64.48: John Ketchum, President and Chief Executive Officer of Nexer Energy Resources, and Mark Hickson, Executive Vice President of Nexer Energy. 
+asr:0: OUTPUT 65.07-72.41: All of whom are also officers of Nexar Energy Partners, as well as Eric Solaji, President and Chief Executive Officer of Florida Power and Light Company. 
+asr:0: OUTPUT 73.57-78.26: Rebecca will provide an overview of our results and our executive team will then be available to answer your questions. 
+asr:0: OUTPUT 80.02-86.39: We will be making forward-looking statements during this call based on current expectations and assumptions, which are subject to risks and uncertainties. 
+asr:0: OUTPUT 87.11-95.62: Actual results could differ materially from our forward-looking statement if any of our key assumptions are incorrect or because of other factors discussed in today's earnings news release. 
+asr:0: OUTPUT 95.64-103.88: In the comments made during this conference call, in the risk factors section of the accompanying presentation, or in our latest reports and filings with the Securities and Exchange Commission. 
+asr:0: OUTPUT 103.90-108.89: Each of which can be found on our website, NextAirEnergy.com and NextAirEnergyPartners.com. 
+asr:0: OUTPUT 109.51-112.71: We do not undertake any duty to update any forward-looking statements. 
+asr:0: OUTPUT 113.47-116.84: Today's presentation also includes references to non-GAAP financial measures. 
+asr:0: OUTPUT 117.46-126.89: You should refer to the information contained in the slides accompanying today's presentation for definitional information and reconciliations of historical non-GAAP measures to the closest GAAP financial measure. 
+asr:0: OUTPUT 127.39-129.51: With that, I will turn the call over to Rebecca. 
+asr:0: OUTPUT 131.09-132.49: Thank you, Matt, and good morning, everyone. 
+asr:0: OUTPUT 133.03-142.72: Nexair Energy delivered strong second quarter results and continued to perform well both financially and operationally while managing the ongoing impacts of the COVID-19 pandemic. 
+asr:0: OUTPUT 143.56-152.21: As part of our core goal of safely delivering affordable and reliable power to our customers, we continue to operate under our pandemic plan that we activated last quarter. 
+asr:0: OUTPUT 153.27-162.42: Despite the challenges created by the pandemic, NextEra Energy's second quarter adjusted earnings per share increased by more than 11 percent versus the prior year comparable quarter. 
+asr:0: OUTPUT 162.78-165.81: And we are well positioned to meet our overall objectives for the year. 
+asr:0: OUTPUT 166.83-172.69: FPL increased earnings per share by 15 cents year over year and its strong execution continues across the board. 
+asr:0: OUTPUT 173.51-178.98: During the quarter, FPL set a new system peak load of more than 24,500 megawatts. 
+asr:0: OUTPUT 179.74-185.43: FPL transmission and distribution systems continue to operate in line with our high reliability standards. 
+asr:0: OUTPUT 185.45-190.29: And our highly efficient gas generating facilities remain available to serve our customers. 
+asr:0: OUTPUT 191.11-197.76: FDL's continued strong execution is a result of the smart capital investments that we have made over the past several decades. 
+asr:0: OUTPUT 197.78-205.59: To enhance our customer value proposition of low bills, high reliability, outstanding customer service, and clean energy solutions. 
+asr:0: OUTPUT 206.93-215.88: Consistent with enhancing its best-in-class customer value proposition, last month FPL announced plans to retire Share 4, its last remaining coal unit. 
+asr:0: OUTPUT 216.72-222.12: Together with our joint interest owner, JEA, and subject to certain approvals from the Florida Public Service Commission. 
+asr:0: OUTPUT 222.54-228.11: FPL intends to retire the 847-megawatt coal-fired plant in early 2022. 
+asr:0: OUTPUT 229.07-234.87: The retirement of share four is projected to generate hundreds of millions of dollars in savings for FPL customers. 
+asr:0: OUTPUT 234.89-239.84: And prevent roughly 4 million tons of carbon dioxide emissions annually from its units. 
+asr:0: OUTPUT 241.00-247.07: Share 4's retirement is the final step of the cold phase-out strategy that FPL launched in 2015. 
+asr:0: OUTPUT 247.09-252.83: And that will complete the closure of approximately 2,700 megawatts of coal capacity. 
+asr:0: OUTPUT 252.87-257.12: Including the highest greenhouse emitting gas power plants in Florida. 
+asr:0: OUTPUT 258.64-264.64: These transactions, which will make FPL one of the first utilities to eliminate all of the coal from its generation portfolio,. 
+asr:0: OUTPUT 264.94-269.25: Demonstrate FPL's continued commitment and position as a clean energy leader. 
+asr:0: OUTPUT 270.27-278.34: We remain proud of our environmental track record, particularly the CO2 emissions reductions that we have delivered throughout Florida and across the country. 
+asr:0: OUTPUT 278.96-284.66: And we continue to remain focused on building a sustainable energy era that is both clean and affordable. 
+asr:0: OUTPUT 285.93-288.17: Gulf Power also had a strong quarter of execution. 
+asr:0: OUTPUT 288.63-293.11: The focus on operational cost effectiveness at Gulf continues to progress well. 
+asr:0: OUTPUT 293.13-302.08: With year-to-date O&M costs, excluding specific COVID-19-related expenses, declining by nearly 10% versus the prior year comparable period. 
+asr:0: OUTPUT 302.10-305.43: And by approximately 25% relative to 2018. 
+asr:0: OUTPUT 306.51-313.11: Gulf Power also delivered further improvements in service reliability and continued its significant improvement in employee safety. 
+asr:0: OUTPUT 313.19-317.62: Safety with no OSHA recordables year to date through the end of June. 
+asr:0: OUTPUT 319.02-328.11: We remain committed to delivering on the objectives that we previously outlined at Gulf Power and continue to expect to generate significant customer and shareholder value over the coming years. 
+asr:0: OUTPUT 329.31-339.70: During the quarter, we completed our annual storm drills for FPL and Gulf Power to prepare for the unprecedented situation of restoring power after a hurricane in the midst of the COVID-19 pandemic. 
+asr:0: OUTPUT 340.60-348.13: We spent two weeks drilling and challenging our teams to find ways to efficiently restore service to our customers without sacrificing safety. 
+asr:0: OUTPUT 348.93-358.58: The drills provided a number of lessons, including how to leverage technology to quickly and safely screen personnel at various staging sites to help offset some of the challenges. 
+asr:0: OUTPUT 358.60-363.00: That will inevitably occur when performing storm restoration in the midst of a pandemic. 
+asr:0: OUTPUT 364.28-368.13: While we hope that our service territories will avoid the impacts of hurricanes this year. 
+asr:0: OUTPUT 368.57-377.14: Consistent with our culture that is focused on preparedness and execution. We continue to do everything we can to ensure that we will be there for our customers when they need us most. 
+asr:0: OUTPUT 378.40-382.48: At energy resources, adjusted EPS increased by 13 cents year over year. 
+asr:0: OUTPUT 383.54-389.41: The Energy Resources team continue to capitalize on the terrific market opportunity for low-cost renewables. 
+asr:0: OUTPUT 389.99-394.31: Adding 1730 megawatts to our backlog since the last earnings call. 
+asr:0: OUTPUT 395.40-401.44: This continued origination success through the ongoing pandemic is a testament to the energy resources. 
+asr:0: OUTPUT 401.46-406.55: Significant competitive advantages, including our best-in-class renewables development skills. 
+asr:0: OUTPUT 407.53-410.45: Our engineering construction team also continues to execute. 
+asr:0: OUTPUT 410.71-414.41: Commissioning roughly 650 megawatts during the quarter. 
+asr:0: OUTPUT 414.43-422.04: And keeping the remaining approximately 4,400 megawatts of wind and solar projects that we expect to complete this year on track. 
+asr:0: OUTPUT 422.12-426.99: Despite the significant supply chain challenges that are occurring both globally and locally. 
+asr:0: OUTPUT 428.43-437.16: While we are monitoring the situation closely, we continue to expect that all of our planned 2020 renewables projects will achieve their in-service dates this year. 
+asr:0: OUTPUT 438.66-443.96: In response to increased investor focus on environmental, social, and governance issues, or ESG,. 
+asr:0: OUTPUT 444.42-454.07: Next week we expect to publish NextEra Energy's updated ESG report, which includes reporting under the Sustainability Accounting Standards Board, or SASB, disclosures. 
+asr:0: OUTPUT 455.08-459.68: Our company has been focused on all of the elements of ESG for more than 25 years. 
+asr:0: OUTPUT 460.46-463.36: External energy's approach to governance and risk oversight. 
+asr:0: OUTPUT 463.38-474.67: Combined with the way that we treat our people, our customers, our communities, and the environment, are proof that a company can be both sustainable and financially successful at the same time. 
+asr:0: OUTPUT 476.14-480.60: The new report highlights this alignment of our corporate strategy with the key tenets of ESG. 
+asr:0: OUTPUT 481.14-487.47: Includes a robust discussion of risk oversight, and incorporates new disclosures such as diversity and inclusion metrics. 
+asr:0: OUTPUT 488.89-491.63: Diversity and inclusion matter deeply to us as a company. 
+asr:0: OUTPUT 492.05-500.92: Both because we believe they are the right thing to do, but also because diverse and inclusive teams deliver better business results for the diverse communities that we serve. 
+asr:0: OUTPUT 501.82-509.29: Our commitment to having a diverse workforce and inclusive culture is not new. And our diversity metrics are better than many of the companies in our industry. 
+asr:0: OUTPUT 509.97-519.56: However, consistent with our focus on continuous improvement, we are not satisfied and will continue our efforts to build an even more diverse and inclusive team going forward. 
+asr:0: OUTPUT 520.98-524.74: Overall, we're pleased with the progress we've made in extra energy so far in 2020. 
+asr:0: OUTPUT 525.61-532.75: Headed into the second half of the year, we believe we are well positioned to achieve the full year expectations that we have previously discussed. 
+asr:0: OUTPUT 533.15-538.10: Even when accounting for a reasonable range of impacts and outcomes that may result from the current pandemic. 
+asr:0: OUTPUT 539.48-541.86: Now let's turn to the detailed results beginning with FPL. 
+asr:0: OUTPUT 542.88-550.01: For the second quarter of 2020, FPL reported net income of $749 million, or $1.52 per share. 
+asr:0: OUTPUT 550.03-555.03: Which is an increase of $86 million and 15 cents per share, respectively, year over year. 
+asr:0: OUTPUT 556.52-565.81: Regulatory capital employed increased by more than 10% over the same quarter last year and was the principal driver of FPL's net income growth of approximately 13%. 
+asr:0: OUTPUT 567.07-571.41: FPL's capital expenditures were approximately $1.8 billion in the second quarter. 
+asr:0: OUTPUT 571.91-578.66: And we now expect our four-year capital investments to total between $6.5 billion and $6.7 billion. 
+asr:0: OUTPUT 580.08-587.87: A reported ROE for regulatory purposes will be approximately 11.6% for the 12 months ended June 2020. 
+asr:0: OUTPUT 587.93-594.67: Which is at the upper end of the allowed band of 9.6 to 11.6 percent allowed under our current rate agreement. 
+asr:0: OUTPUT 595.90-605.79: During the quarter, we utilized $7 million of reserve amortization to achieve our target regulatory ROE, leaving FPL with a balance of $736 million. 
+asr:0: OUTPUT 606.95-616.84: We continue to expect that FPL will end 2020 with a sufficient amount of surplus to continue operating under the current base rate settlement agreement during 2021. 
+asr:0: OUTPUT 618.42-628.67: As we previously discussed, we expect that FPL and Gulf will operate as a single larger Florida utility company, which will create both operational and financial benefits for our customers. 
+asr:0: OUTPUT 629.45-638.22: As a result, in May, the companies filed an application with FERC for an approval of an internal reorganization whereby Gulf would merge into FPL. 
+asr:0: OUTPUT 639.30-643.04: Subject to FERC approval, the companies will merge in January of 2021. 
+asr:0: OUTPUT 644.16-653.03: However, during 2021, Gulf Power will continue to operate as a separate operating division, serving its existing customers under separate retail rates. 
+asr:0: OUTPUT 653.85-662.28: We continue to expect the companies to file a combined rate case in the first quarter of next year for new rates effective in January 2022. 
+asr:0: OUTPUT 664.16-669.95: Turning to our development efforts, all of our major capital initiatives at FPL remain on track and on budget. 
+asr:0: OUTPUT 671.07-680.54: During the quarter, the final 300 megawatts of solar being built under the Solar Base Rate Adjustment, or SOBR mechanism, of FPL's Base Rate Settlement Agreement were placed into service. 
+asr:0: OUTPUT 681.70-693.21: The 1200 megawatts of cost-effective solar constructed under the SOBER mechanism are expected to generate significant customer benefits and represent the early stages of FPL's rapid solar expansion. 
+asr:0: OUTPUT 693.23-696.16: And the next phase of its generation modernization efforts. 
+asr:0: OUTPUT 697.32-704.28: The next six Solar Together projects, totaling approximately 450 megawatts, remain on track to be placed in service later this year. 
+asr:0: OUTPUT 705.25-712.05: The final 600 megawatts of the roughly 1,500 megawatt community solar program are expected to be placed in service next year. 
+asr:0: OUTPUT 713.41-719.30: Beyond Solar, construction on the highly efficient, roughly 1,200 megawatt Dania Beach Clean Energy Center. 
+asr:0: OUTPUT 719.32-725.69: Remains on schedule and on budget as it continues to advance towards its projected commercial operation date in 2022. 
+asr:0: OUTPUT 726.97-736.34: Additionally, the 409 megawatt Manatee Storage Facility, which will be one of the world's largest battery storage plants, is on track and on budget to be complete next year. 
+asr:0: OUTPUT 738.22-742.04: Based on our ongoing analysis of the long-term potential of low-cost renewables. 
+asr:0: OUTPUT 742.06-750.19: We remain confident as ever that wind, solar, and battery storage will be hugely disruptive to the country's existing generation fleet. 
+asr:0: OUTPUT 751.21-755.90: While reducing costs for customers and helping to achieve future CO2 emissions reductions. 
+asr:0: OUTPUT 756.80-766.03: However, to achieve an emissions-free future, we believe that other technologies will be necessary, and we are particularly excited about the long-term potential of hydrogen. 
+asr:0: OUTPUT 767.45-775.98: Consistent with the tow-in-the-water approach we've previously utilized with solar and battery storage, we are planning to propose a hydrogen pilot project at FPL. 
+asr:0: OUTPUT 777.02-785.55: This approximately $65 million pilot project, which subject to Florida Public Service Commission approval, is expected to be in service in 2023. 
+asr:0: OUTPUT 786.19-795.00: Will utilize solar energy that would have otherwise been clipped to produce 100% green hydrogen through a roughly 20 megawatt electrolysis system. 
+asr:0: OUTPUT 796.02-803.80: The hydrogen will be used to replace a portion of the natural gas that is consumed by one of the three gas turbines at the Okeechobee Clean Energy Center. 
+asr:0: OUTPUT 804.99-809.77: We believe that the project is a complement to our ongoing solar and battery storage development efforts. 
+asr:0: OUTPUT 809.79-818.36: And highlights FPL's continued innovative approach to further enhance the diversity of the clean energy solutions available for its customers. 
+asr:0: OUTPUT 819.96-823.90: We continue to evaluate other potential hydrogen opportunities across our businesses. 
+asr:0: OUTPUT 824.52-829.19: And while our near-term investments are expected to be small in context of our overall capital program. 
+asr:0: OUTPUT 829.65-836.58: We are excited about the technology's long-term potential, which should further support future demand for low-cost renewables. 
+asr:0: OUTPUT 837.06-843.30: As well as accelerate the decarbonization of transportation fuel and industrial feedstocks. 
+asr:0: OUTPUT 844.76-856.26: We continue to expect that FPL's ongoing smart investment opportunities will support a compound annual growth rate in the regulatory capital employed of approximately 9% from 2018 through 2022. 
+asr:0: OUTPUT 856.82-860.24: While further enhancing our best-in-class customer value proposition. 
+asr:0: OUTPUT 862.12-868.93: Let me now turn to Gulf Power, which reported second quarter 2020 gap earnings of $55 million, or 11 cents per share. 
+asr:0: OUTPUT 869.45-874.55: A decline of one cent per share relative to Gulf Power's adjusted earnings per share in the prior year period. 
+asr:0: OUTPUT 875.62-882.00: This quarter results include the impact of roughly $5 million of after-tax COVID-19 related expenses. 
+asr:0: OUTPUT 882.02-887.17: Primarily reflecting the expected incremental bad debt expense as a result of the pandemic. 
+asr:0: OUTPUT 888.17-897.18: Earlier this month, the Florida Public Service Commission approved Gulf Power's request to record costs attributable to COVID-19, including bad debt expense,. 
+asr:0: OUTPUT 897.20-899.24: As a regulatory asset on this balance sheet. 
+asr:0: OUTPUT 900.32-907.77: As a result, the costs recorded during the second quarter are expected to be reversed during the third quarter as the regulatory asset is recorded. 
+asr:0: OUTPUT 909.37-916.66: Gulf Power's reported ROE for regulatory purposes will be approximately 10.4% for the 12 months ending June 2020. 
+asr:0: OUTPUT 917.60-926.33: For the full year 2020, we are targeting a regulatory ROE in the upper half of the allowed band of 9.25% to 11.25%. 
+asr:0: OUTPUT 927.41-932.01: During the quarter, Gulf Power's capital expenditures were roughly $170 million. 
+asr:0: OUTPUT 932.17-938.48: And we now expect our full-year capital investments to total between $1.0 and $1.1 billion. 
+asr:0: OUTPUT 939.72-949.37: All of Gulf's major smart capital investments, including the North Florida resiliency connection and the PlantCrist coal to natural gas conversion, continue to progress well. 
+asr:0: OUTPUT 951.69-957.14: Similar to other parts of the country, the Florida economy is being impacted by the ongoing COVID-19 pandemic. 
+asr:0: OUTPUT 957.86-967.41: Recent economic data reflects an increase in Florida unemployment rate and a decline in consumer confidence that are roughly in line with the changes to the national averages of each metric. 
+asr:0: OUTPUT 968.51-972.61: While it is still unclear at this point how severely the economy will ultimately be impacted. 
+asr:0: OUTPUT 973.27-978.94: We continue to believe that the financial strengths and structural advantages with which Florida entered the crisis. 
+asr:0: OUTPUT 979.68-988.35: And the continued attraction of the state to both new residents and new businesses will support a rebound once the worst of the pandemic is behind us. 
+asr:0: OUTPUT 989.23-993.55: We remain deeply engaged in helping Florida return from this stronger than ever. 
+asr:0: OUTPUT 994.21-999.92: We will continue to do our part to support that outcome, including pursuing our smart capital investment program. 
+asr:0: OUTPUT 1000.00-1009.67: And economic development efforts which help create jobs, provide investment in local communities, and further enhance our best-in-class customer value proposition. 
+asr:0: OUTPUT 1011.63-1020.86: During the quarter, FPL's average number of customers continued its recent trend of strong underlying growth, increasing by approximately 75,000 from the comparable prior year quarter. 
+asr:0: OUTPUT 1021.94-1031.75: FDL's second quarter retail sales decreased by 0.8% year over year as customer growth and favorable weather were more than offset by a decline in underlying usage per customer. 
+asr:0: OUTPUT 1032.95-1038.84: Based on our analysis, the overall effects of the pandemic on underlying usage during the second quarter were relatively muted. 
+asr:0: OUTPUT 1039.62-1044.48: FPL benefits from having its retail sales being heavily weighted towards residential customers. 
+asr:0: OUTPUT 1045.07-1051.53: And approximately 40% of its load is cooling related and therefore important for both comfort and building maintenance. 
+asr:0: OUTPUT 1053.07-1061.42: During April when stay-at-home orders were broadly in effect, FPL's weather normalized retail sales were down approximately 4% relative to our expectations. 
+asr:0: OUTPUT 1062.28-1068.55: As the economy began reopening in early May, weather-normalized retail sales improved and were above our expectations in June. 
+asr:0: OUTPUT 1069.33-1073.53: While the ultimate impacts of the pandemic on underlying usage remain unknown at this time. 
+asr:0: OUTPUT 1073.97-1082.38: We continue to expect the flexibility provided by our reserve amortization mechanism to offset any fluctuation in retail sales or bad debt expense. 
+asr:0: OUTPUT 1082.40-1090.41: And support regulatory ROE at the upper end of the allowed band of 9.6% to 11.6% under our current rate agreement. 
+asr:0: OUTPUT 1092.21-1098.00: For Gold Power, the average number of customers increased approximately 1.3% versus the comparable prior year quarter. 
+asr:0: OUTPUT 1098.78-1103.60: Gulf Power's second quarter retail sales declined by roughly 6.2% year-over-year. 
+asr:0: OUTPUT 1103.62-1109.49: As a result of the unfavorable weather comparison and a decline in underlying usage per customer. 
+asr:0: OUTPUT 1110.49-1116.30: Over the second quarter, Gulf Power experienced a more significant decline in underlying usage for customers in FPL. 
+asr:0: OUTPUT 1116.32-1120.96: But also experienced an improvement as the economy began reopening in May and June. 
+asr:0: OUTPUT 1122.02-1131.31: As a reminder, unlike FPL, Gulf Power does not have a reserve amortization mechanism under its settlement agreement to offset fluctuations in revenue or costs. 
+asr:0: OUTPUT 1131.39-1136.88: So, any variability would therefore have more impact to Gulf's earnings in ROE than at FPL. 
+asr:0: OUTPUT 1138.28-1145.15: As a reminder, as we've often discussed, weather normalization is imprecise, particularly when evaluating short periods of time. 
+asr:0: OUTPUT 1146.17-1151.63: Additional details on retail sales at FPL and Gulf Power are included in the appendix of today's presentation. 
+asr:0: OUTPUT 1153.59-1161.42: Let me now turn to Energy Resources, which reported second quarter 2020 GAAP earnings of $481 million, or 97 cents per share. 
+asr:0: OUTPUT 1161.44-1166.03: And adjusted earnings of $531 million or $1.08 per share. 
+asr:0: OUTPUT 1166.91-1173.93: This is an increase in adjusted earnings per share of $0.13 or approximately 14% from last year's comparable quarter results. 
+asr:0: OUTPUT 1173.95-1180.10: Which have been restated to reflect the results of our next-door energy transmission business, formerly reported in Corporate & Other. 
+asr:0: OUTPUT 1181.68-1184.28: New investments added $0.08 per share. 
+asr:0: OUTPUT 1184.44-1193.59: Contributions from existing generation assets increased 5 cents per share as improved wind resource and increased PTC volume from our repowered wind projects. 
+asr:0: OUTPUT 1193.61-1197.48: Were partially offset by the refueling outage at the Seabrook nuclear facility. 
+asr:0: OUTPUT 1198.84-1206.11: The second quarter fleet-wide wind resource was 99% of the long-term average versus 93% during the second quarter of 2019. 
+asr:0: OUTPUT 1207.17-1213.47: Also contributing favorably was NextRNG Transmission, where contributions increased by 3 cents versus 2019. 
+asr:0: OUTPUT 1214.83-1219.86: Contributions from our gas infrastructure business, including existing pipelines, were flat year over year. 
+asr:0: OUTPUT 1221.38-1227.09: These favorable contributions were partially offset by lower contributions from our customer supply and trading business. 
+asr:0: OUTPUT 1227.11-1231.57: Which declined 4 cents versus the particularly strong second quarter last year. 
+asr:0: OUTPUT 1232.63-1235.84: All other impacts increase results by one cent per share. 
+asr:0: OUTPUT 1237.44-1246.27: As I mentioned earlier, Energy Resources Development Team had another excellent quarter of origination success, adding 1,730 megawatts to our backlog. 
+asr:0: OUTPUT 1247.09-1257.08: Since our last earnings call, we have added 708 megawatts of wind, 844 megawatts of solar, and 178 megawatts of battery storage to our renewables backlog. 
+asr:0: OUTPUT 1257.86-1264.56: We also executed a build-own-transfer agreement for a 200-megawatt solar project, which is not included in our backlog additions. 
+asr:0: OUTPUT 1266.11-1273.31: All of the battery storage projects will be paired with either new or existing solar projects to take advantage of the ITC. 
+asr:0: OUTPUT 1273.33-1276.58: And provide a more firm, renewable product for our customers. 
+asr:0: OUTPUT 1277.62-1284.06: The continued strong demand for battery storage projects highlights the rapid transition to the next phase of renewables development. 
+asr:0: OUTPUT 1284.08-1288.93: That pairs low-cost wind and solar energy with a low-cost battery storage solution. 
+asr:0: OUTPUT 1290.21-1302.96: We continue to expect that by the middle of this decade, without incentives, new near-firm wind and new near-firm solar will be cheaper than the operating costs of most existing coal and nuclear facilities. 
+asr:0: OUTPUT 1303.10-1309.93: And less fuel-efficient oil and gas power generation units, producing significant long-term renewables demand. 
+asr:0: OUTPUT 1311.57-1320.24: Our current backlog now totals approximately 14,400 megawatts and is the largest we have ever had in our roughly 20-year development history. 
+asr:0: OUTPUT 1321.24-1323.38: To put our backlog into context. 
+asr:0: OUTPUT 1323.50-1332.29: It is larger than the current operating and wind solar portfolios of all but two other companies in the world as of year-end 2019. 
+asr:0: OUTPUT 1332.71-1338.66: Highlighting the Nexter energy continues to be at the forefront of disruption that is occurring within the energy sector. 
+asr:0: OUTPUT 1339.74-1347.49: Only halfway through 2020, we are pleased to have already signed nearly 3,500 megawatts of contracts for delivery beyond 2022. 
+asr:0: OUTPUT 1348.03-1353.41: Which is a reflection of the continued strong economic demand for wind, solar, and battery storage. 
+asr:0: OUTPUT 1355.06-1358.74: To ensure that we can take advantage of this significant demand in the coming years. 
+asr:0: OUTPUT 1359.22-1364.26: We now have more than $2 billion of safe harbor wind and solar equipment. 
+asr:0: OUTPUT 1364.34-1373.75: Which could support as much as $40 billion of wind, solar, and battery storage investments across all of our businesses from 2021 to 2024. 
+asr:0: OUTPUT 1375.10-1383.52: These purchases highlight the benefits of scale and the strength of our balance sheet that we leverage as a key competitive advantage in renewables development. 
+asr:0: OUTPUT 1383.58-1386.99: And position us well for continued long-term growth. 
+asr:0: OUTPUT 1388.05-1397.60: The Fake Harbor equipment also supports additional repowering opportunities, including several hundred megawatts of potential 2021 repowering projects, which we are currently evaluating. 
+asr:0: OUTPUT 1399.28-1405.99: As I discussed earlier, all of the 2020 renewables projects remain on track to achieve their targeted end service dates this year. 
+asr:0: OUTPUT 1406.79-1414.03: As a result, we do not expect these projects to rely on the updated Treasury Start of Construction Guidance that was released during the quarter. 
+asr:0: OUTPUT 1415.62-1424.34: Beyond renewables, we continue to make progress with Mountain Valley Pipeline and work with our project partners to resolve the outstanding permit issues required for the pipeline's construction. 
+asr:0: OUTPUT 1425.27-1432.87: We were pleased with the Supreme Court's ruling regarding Appalachian Trail Crossing Authorization Authority, which resolved similar issues for MVP. 
+asr:0: OUTPUT 1433.93-1441.72: We were similarly pleased that the Supreme Court partially stayed the Montana Federal Court's decision related to the Nationwide 12 Permit Program. 
+asr:0: OUTPUT 1441.74-1445.69: And are working with the Army Corps of Engineers on its reissuance of the project's permit. 
+asr:0: OUTPUT 1447.23-1454.61: Following comprehensive re-study by the relevant agencies, we expect issuance of MVPs revised biological opinion shortly. 
+asr:0: OUTPUT 1455.88-1463.80: Assuming timely resolution of the outstanding permitting issues, we are now targeting a full in-service date for the pipeline during early 2021. 
+asr:0: OUTPUT 1463.82-1469.49: And expect an overall project estimate in the range of $5.4 to $5.7 billion. 
+asr:0: OUTPUT 1471.09-1475.46: Turning now to the consolidated results for NextGenergy for the second quarter of 2020. 
+asr:0: OUTPUT 1475.50-1482.58: Gap net income attributable to Nexter Energy was $1.275 billion, or $2.59 per share. 
+asr:0: OUTPUT 1483.44-1492.95: Nextera Energy's 2020 second quarter adjusted earnings and adjusted EPS were $1.286 billion and $2.61 per share, respectively. 
+asr:0: OUTPUT 1494.51-1500.96: Adjusted earnings from corporate and other declined by one cent year over year, primarily as a result of higher interest expense. 
+asr:0: OUTPUT 1501.86-1507.75: NextEra Energy also delivered strong year-to-date operating cash flow growth and for the full year 2020. 
+asr:0: OUTPUT 1507.77-1512.29: Expects to generate roughly $8.5 billion in operating cash flow. 
+asr:0: OUTPUT 1512.35-1515.12: To help support its strong financial position. 
+asr:0: OUTPUT 1516.38-1523.30: NextGen Energy maintains approximately $13 billion in liquidity to support the largest capital investment program in our history. 
+asr:0: OUTPUT 1524.20-1533.07: Since last quarter's call, we completed roughly $3 billion in long-term financing, including a $2.2 billion in capital holdings to ventures. 
+asr:0: OUTPUT 1534.61-1544.36: Over the course of the last few months, we repaid nearly all of the term loans that we issued during March and April and converted these commitments to bilateral revolving credit facilities. 
+asr:0: OUTPUT 1545.37-1553.17: Included in these facilities is a total of more than $1 billion in six-month storm facilities at FPL and Gulf Power. 
+asr:0: OUTPUT 1553.41-1558.82: Which similar to previous years, we put in place to ensure sufficient liquidity in the event of a hurricane. 
+asr:0: OUTPUT 1560.10-1567.51: Energy Resources also closed two tax equity financings, including its first ever combined wind and solar portfolio financing. 
+asr:0: OUTPUT 1568.01-1574.11: And we expect to close on the balance of our tax equity financing as the renewable projects are placed in service later this year. 
+asr:0: OUTPUT 1575.72-1581.30: Our year-to-date financing activities are evidence of the great financial partnerships we have built over time. 
+asr:0: OUTPUT 1581.32-1587.61: Which help provide ample liquidity and continued access to capital to support our outstanding growth prospects. 
+asr:0: OUTPUT 1589.31-1591.93: Exeter Energy's financial expectations remain unchanged. 
+asr:0: OUTPUT 1592.49-1602.44: We continue to expect that NextGen Energy's adjusted EPS compound annual growth rate to be in a range of 6% to 8% through 2021. 
+asr:0: OUTPUT 1602.46-1606.61: Off of the 2018 adjusted EPS of $7.70. 
+asr:0: OUTPUT 1607.29-1613.77: Plus the accretion of 15 cents and 20 cents in 2020 and 2021 respectively from the Florida acquisitions. 
+asr:0: OUTPUT 1614.91-1621.98: For 2020, we continue to expect our adjusted EPS to be in the range of $8.70 to $9.20. 
+asr:0: OUTPUT 1623.72-1631.23: For 2022, we expect to grow adjusted EPS in the range of 6 to 8% off of the 2021 adjusted EPS. 
+asr:0: OUTPUT 1631.79-1636.04: Translating to a range of $10 to $10.75 per share. 
+asr:0: OUTPUT 1637.28-1646.47: From 2018 to 2022, we continue to expect that operating cash flow will grow roughly in line with our adjusted EPS compound annual growth rate range. 
+asr:0: OUTPUT 1648.31-1655.96: We also continue to expect to grow our dividends per share at roughly 10% per year through at least 2022 off of a 2020 base. 
+asr:0: OUTPUT 1656.92-1664.64: While our expectations always assume normal weather and operating conditions, as we consider a reasonable range of impacts related to the current pandemic. 
+asr:0: OUTPUT 1664.84-1667.95: We continue to feel comfortable with the expectations that we have outlined. 
+asr:0: OUTPUT 1669.19-1673.17: In summary, decide the challenges created by the COVID-19 pandemic. 
+asr:0: OUTPUT 1673.19-1679.34: All of our businesses continue to perform well and maintain their excellent prospects for growth going forward. 
+asr:0: OUTPUT 1680.26-1688.17: We have a long-term track record of delivering results for our customers and shareholders, and we remain intensely focused on continuing that track record. 
+asr:0: OUTPUT 1689.25-1693.51: Based on the resiliency of our underlying businesses and their strong growth prospects. 
+asr:0: OUTPUT 1693.81-1701.76: We will be disappointed if we are not able to deliver financial results at or near the top end of our adjusted earnings per share expectation ranges. 
+asr:0: OUTPUT 1702.04-1706.03: In 2020, 2021, and 2022. 
+asr:0: OUTPUT 1706.95-1709.81: While at the same time maintaining our strong credit metrics. 
+asr:0: OUTPUT 1711.15-1720.06: We continue to remain enthusiastic about our future and believe that NextGear Energy is well positioned to drive long-term shareholder value over the coming years. 
+asr:0: OUTPUT 1722.12-1726.17: Let me now turn to Nexen Energy Partners, which continued its strong start to 2020. 
+asr:0: OUTPUT 1726.19-1734.33: With growth and adjusted EBITDA and cash available for distribution of approximately 23% and 46% respectively. 
+asr:0: OUTPUT 1734.35-1735.98: From the prior year comparable quarter. 
+asr:0: OUTPUT 1737.00-1745.73: On a year-to-date basis, adjusted EBITDA and cash available for distribution have increased by 26% and 86% respectively versus 2019. 
+asr:0: OUTPUT 1747.39-1757.12: The strong operational and financial performance that NextRNG highlights that NextRNG Partners remains well positioned to continue to deliver on its outstanding growth objectives. 
+asr:0: OUTPUT 1758.48-1768.87: Yesterday, the NextGenergy Partners Board declared a quarterly distribution of $57.75 per common unit or $2.31 per common unit on an annualized basis. 
+asr:0: OUTPUT 1769.65-1776.14: Continuing our track record of growing distributions at the top end of our 12 to 15 percent per year growth range. 
+asr:0: OUTPUT 1777.32-1785.21: We were pleased to see PG&E's emergence from bankruptcy earlier this month. As expected, all of our existing contracts were assumed without modification. 
+asr:0: OUTPUT 1786.71-1797.18: Following PG&E's emergence from bankruptcy, NexEnergy partners received a cash distribution of approximately $65 million from our Desert Sunlight 250 and 300 projects. 
+asr:0: OUTPUT 1797.20-1801.98: Which represent current distributions and those previously withheld as a result of the bankruptcy. 
+asr:0: OUTPUT 1803.00-1807.77: The release of the desert sunlight trap cash supplements NextGen Energy Partners' liquidity. 
+asr:0: OUTPUT 1807.79-1813.21: Which was approximately $650 million including cash on hand at the end of the second quarter. 
+asr:0: OUTPUT 1814.49-1818.06: The organic growth investments at NextGenergy Partners continue to progress well. 
+asr:0: OUTPUT 1818.62-1826.65: The approximately 275 megawatts of wind repowering and the Texas Pipeline's expansion both remain on track to be in service later this year. 
+asr:0: OUTPUT 1827.79-1834.67: We continue to expect to execute on additional attractive growth opportunities as NextGenergy Partners portfolio further expands. 
+asr:0: OUTPUT 1836.06-1838.62: Let me now review the detailed results for NextGenergy partners. 
+asr:0: OUTPUT 1839.28-1847.07: Second quarter adjusted EBITDA was $349 million and cash available for distribution was $166 million. 
+asr:0: OUTPUT 1847.09-1851.73: Up 23% and 46% respectively against the prior year comparable quarter. 
+asr:0: OUTPUT 1852.99-1858.74: Now that the PG&E bankruptcy has been favorably resolved and distributions from our desert sunlight projects have resumed. 
+asr:0: OUTPUT 1859.20-1864.20: Cash available for distribution includes all contributions from PG&E related projects. 
+asr:0: OUTPUT 1865.89-1872.37: New projects added $51 million in adjusted EBITDA and $36 million of cash available for distribution. 
+asr:0: OUTPUT 1873.25-1882.82: Existing projects also contributed favorably to the significant year-over-year growth in adjusted EBITDA and cash available for distribution as resource was favorable across the portfolio. 
+asr:0: OUTPUT 1884.14-1890.81: For the second quarter, wind resource was 100% of the long-term average versus 94% in the prior year comparable quarter. 
+asr:0: OUTPUT 1891.75-1900.94: Cash available for distribution also benefited from a reduction in project-level debt service, primarily as a result of the early debt retirement to facilitate the wind repowering. 
+asr:0: OUTPUT 1902.18-1907.01: The reduction in project-level debt service was partially offset by higher corporate-level interest expense. 
+asr:0: OUTPUT 1907.71-1912.29: As a reminder, these results are net of IDR fees since we treat these as an operating expense. 
+asr:0: OUTPUT 1913.01-1915.50: Additional details are shown on the accompanying slide. 
+asr:0: OUTPUT 1917.14-1920.56: Let me now turn to Next Energy Partners' expectations, which remain unchanged. 
+asr:0: OUTPUT 1921.36-1931.11: Next Energy Partners continues to expect December 31, 2020 run rate for adjusted EBITDA to be in a range of $1.225 billion to $1.4 billion. 
+asr:0: OUTPUT 1931.77-1936.94: And cash available for distribution in the range of $560 million to $640 million. 
+asr:0: OUTPUT 1937.38-1941.94: Reflecting calendar year 2021 expectations for the portfolio at the end of 2020. 
+asr:0: OUTPUT 1943.48-1953.25: Now that the PG&E bankruptcy has been favorably resolved, we will no longer provide CAFDI expectations, excluding the contributions from the Desert Sunlight Projects. 
+asr:0: OUTPUT 1953.87-1960.14: As a reminder, these expectations include the impact of anticipated IDR fees as we treat these as an operating expense. 
+asr:0: OUTPUT 1961.90-1968.37: From the base of our fourth quarter 2019 distribution per common unit at an annualized rate of $2.14. 
+asr:0: OUTPUT 1968.79-1977.38: We continue to see 12 to 15 percent growth per year in LP distributions as being a reasonable range of expectations through at least 2024. 
+asr:0: OUTPUT 1978.22-1983.92: We expect the annualized rate of the fourth quarter 2020 distribution that is payable in February of 2021. 
+asr:0: OUTPUT 1983.94-1988.79: To be in a range of $2.40 to $2.46 per common unit. 
+asr:0: OUTPUT 1989.87-1994.77: Similar to next-year energy, while our expectations always assume normal weather and operating conditions. 
+asr:0: OUTPUT 1995.30-2001.92: As we consider a reasonable range of impacts related to the current pandemic, we continue to feel comfortable with our overall expectations. 
+asr:0: OUTPUT 2003.90-2012.07: With the resumption of cash distributions from the Desert Sunlight Projects, we now expect to achieve Next Energy Partners' 2020 distribution growth objectives. 
+asr:0: OUTPUT 2012.09-2016.46: While maintaining a trailing 12-month payout ratio of approximately 70%. 
+asr:0: OUTPUT 2017.26-2022.12: Highlighting the significant flexibility we believe NextGenergy Partners has going forward. 
+asr:0: OUTPUT 2022.92-2024.46: As we previously discussed. 
+asr:0: OUTPUT 2024.48-2033.27: We will continue to be opportunistic. NextGeneration Partners' favorable positioning should give it flexibility to achieve its long-term distribution growth objectives. 
+asr:0: OUTPUT 2033.29-2035.86: Without the need to make any acquisitions. 
+asr:0: OUTPUT 2035.88-2037.16: Until 2022. 
+asr:0: OUTPUT 2039.00-2047.39: We are pleased with NextGenergy Partners' year-to-date performance in 2020 and believe it continues to offer a best-in-class value proposition for investors. 
+asr:0: OUTPUT 2048.45-2053.05: The diversity and long-term contracted nature of Next Energy Partners' clean energy portfolio. 
+asr:0: OUTPUT 2053.07-2058.86: Helps insulate it from the broader economic conditions, including impacts related to the COVID-19 pandemic. 
+asr:0: OUTPUT 2059.86-2067.15: With the flexibility to grow in three ways, acquiring assets from energy resources, organically, or acquiring assets from third parties. 
+asr:0: OUTPUT 2067.71-2071.27: Next Energy Partners has clear visibility into its growth going forward. 
+asr:0: OUTPUT 2072.47-2074.65: Following another strong quarter of origination. 
+asr:0: OUTPUT 2075.03-2077.82: Energy Resources Portfolio of Renewable Projects. 
+asr:0: OUTPUT 2077.84-2086.45: Now totals more than 27 gigawatts, including the signed backlog of projects that Energy Resources plans to build in the coming years. 
+asr:0: OUTPUT 2087.45-2090.63: When combined with the prospects for future renewables development. 
+asr:0: OUTPUT 2090.85-2095.20: NextGenergy Partners' long-term growth visibility remains as strong as ever. 
+asr:0: OUTPUT 2096.04-2099.72: Next Energy Partners' cost of capital and access to capital advantages. 
+asr:0: OUTPUT 2099.96-2108.05: Including significant demand from various low-cost private infrastructure capital, provide flexibility to finance this growth over the long term. 
+asr:0: OUTPUT 2108.97-2114.81: These strengths together with Next Energy Partners favorable tax position and enhanced governance rights. 
+asr:0: OUTPUT 2114.83-2120.66: Leave NextGenerative Partners uniquely positioned to continue to deliver on its objectives going forward. 
+asr:0: OUTPUT 2122.40-2130.31: In closing, we believe that the fundamental value proposition of NextEra Energy and NextEra Energy Partners remains as robust as ever. 
+asr:0: OUTPUT 2131.51-2135.48: Both companies remain resilient and well positioned to deliver on their commitments. 
+asr:0: OUTPUT 2136.26-2139.32: We continue to remain enthusiastic about our future. 
+asr:0: OUTPUT 2139.38-2146.59: And are focused on delivering smart capital investments that enhance value for both customers and shareholders. 
+asr:0: OUTPUT 2146.61-2150.87: And expand our position as the world's leading clean energy provider. 
+asr:0: OUTPUT 2152.05-2156.06: That concludes our prepared remarks, and with that, we will open up the line for questions. 
+asr:0: OUTPUT 2158.72-2165.51: Ladies and gentlemen, at this time, if you would like to ask a question, please press star and then one using a touch-tone telephone. 
+asr:0: OUTPUT 2166.21-2169.27: To withdraw your questions, you may press star and two. 
+asr:0: OUTPUT 2169.99-2179.76: If you are using a speakerphone, we do ask that you please pick up the handset before pressing the numbers to ensure the best sound quality. Once again, that is star and then one to ask a question. 
+asr:0: OUTPUT 2180.62-2182.78: We'll pause momentarily to assemble the roster. 
+asr:0: OUTPUT 2189.75-2194.53: And our first question today comes from Julian Smith from Bank of America. Please go ahead with your question. 
+asr:0: OUTPUT 2196.50-2199.32: Hey, good morning. This is actually Richie here for Julian. 
+asr:0: OUTPUT 2200.24-2204.40: We just had a question around the cath x-rays and FTL and Gulp. 
+asr:0: OUTPUT 2204.56-2211.61: What was driving that? Is that more around underground and grid hardening or is that more on the solar side? 
+asr:0: OUTPUT 2212.01-2219.94: And ask what we think about the CapEx trajectory from 21 and beyond. Is that more in line with what you disclosed at your analyst day? 
+asr:0: OUTPUT 2220.00-2226.05: Or should we expect it to be on more of these robust levels going forward? 
+asr:0: OUTPUT 2227.77-2230.07: Ritchie, good morning and thanks for the question. 
+asr:0: OUTPUT 2230.37-2235.26: I think it really reflects consistency with what we've been talking about for a long time. 
+asr:0: OUTPUT 2235.28-2240.46: Which is we keep finding terrific projects for our customers and investment opportunities. 
+asr:0: OUTPUT 2241.22-2243.42: And we're starting to put those in place. 
+asr:0: OUTPUT 2244.14-2246.23: As I highlighted in the prepared remarks. 
+asr:0: OUTPUT 2246.55-2249.97: We do have a consistent expectations for the growth rate. 
+asr:0: OUTPUT 2249.99-2257.96: Between 2018 and 2022 of a 9% compound annual growth rate. So obviously some projects move from one year to another. 
+asr:0: OUTPUT 2258.60-2262.76: But at the heart of it, it is terrific investments for the benefit of our customers. 
+asr:0: OUTPUT 2263.80-2268.85: As far as beyond 2022, you know, similar to comments that we've made in the past. 
+asr:0: OUTPUT 2269.13-2274.99: The growth opportunities that we see across all of our businesses, but specific at FPL and Gulf Power. 
+asr:0: OUTPUT 2275.60-2286.87: Include the modernization efforts, including the large deployment of solar over time, as well as investments in grid hardening and undergrounding as highlighted by the Storm Protection Plan. 
+asr:0: OUTPUT 2286.89-2293.89: That we're in the process of going through approvals and initial investments for that program. 
+asr:0: OUTPUT 2294.27-2301.86: So we're super excited about the opportunities for investing and again, stay very focused on ensuring that these are good projects for the benefit of our customers. 
+asr:0: OUTPUT 2305.05-2314.65: Got it, thanks, that's very helpful. And then just around your comments around hydrogen, I think you disclosed $65 million for that pilot project. 
+asr:0: OUTPUT 2316.30-2323.22: What are you seeing there on that front? Is this more around transportation opportunities or is this... 
+asr:0: OUTPUT 2323.24-2327.91: All around like pipeline and being able to like blend with pipes. 
+asr:0: OUTPUT 2329.75-2332.17: So we're really excited about hydrogen. 
+asr:0: OUTPUT 2332.45-2335.56: In particular when we think about getting to a. 
+asr:0: OUTPUT 2335.58-2342.48: Not a net zero emissions profile, but actually a zero carbon emissions profile. 
+asr:0: OUTPUT 2342.86-2351.05: And when we looked at this, let's call it five, 10 years ago, and we thought about what it would take to get to true zero emissions. 
+asr:0: OUTPUT 2351.33-2354.83: We were worried that it was extraordinarily expensive for customers. 
+asr:0: OUTPUT 2355.32-2361.06: What makes us really excited about hydrogen, particularly in the 2030 and beyond time frame. 
+asr:0: OUTPUT 2361.08-2368.39: Is that that has the potential to supplement significant deployment of renewables, including wind and solar technologies. 
+asr:0: OUTPUT 2368.45-2373.01: Complemented by short and I'll call it medium-term duration batteries. 
+asr:0: OUTPUT 2373.81-2382.06: But then that last amount of emissions that you would take out of the system to get down to zero could be most economically served by hydrogen. 
+asr:0: OUTPUT 2382.88-2389.71: So that's what makes us excited about doing a pilot project. We're very excited about the opportunity to present that to the Florida Public Service Commission. 
+asr:0: OUTPUT 2389.79-2396.52: As a way to, you know, further enhance FPL's ability to innovate and deliver these long-term. 
+asr:0: OUTPUT 2396.54-2399.32: Clean energy solutions to our customers. 
+asr:0: OUTPUT 2400.20-2409.21: And as part of that, we'll learn about the technologies and we'll see what other opportunities there are potentially for the industrial and transportation sectors. 
+asr:0: OUTPUT 2409.23-2417.00: And for us to be able to produce the green energy to produce the green hydrogen. 
+asr:0: OUTPUT 2417.02-2419.86: Is a potential significant opportunity for us. 
+asr:0: OUTPUT 2420.34-2428.59: We think we're at the early stages, which is kind of consistent with our toe-in-the-water approach. We want to get some experience with it, obviously do a lot of research. 
+asr:0: OUTPUT 2428.61-2435.20: And talk to folks in the supply chain and get better equipped to deal, you know, take advantage of these opportunities. 
+asr:0: OUTPUT 2435.70-2436.70: But we're really excited about it. 
+asr:0: OUTPUT 2440.00-2442.24: Questions I had. Thank you, Richie. 
+asr:0: OUTPUT 2445.75-2451.63: Our next question comes from Char Pereza from Guggenheim Partners. Please go ahead with your question. 
+asr:0: OUTPUT 2453.59-2456.40: Hi, good morning. It's actually Constantine here for Char as well. 
+asr:0: OUTPUT 2457.76-2459.16: Congratulations on a great quarter. 
+asr:0: OUTPUT 2459.48-2468.05: We've definitely seen some impressive numbers with backlog additions and contract increases for the 22 timeframe. 
+asr:0: OUTPUT 2468.61-2475.98: Just kind of curious on kind of your thoughts around kind of near growth trajectory and kind of contribution to the business mix. 
+asr:0: OUTPUT 2476.34-2480.02: It's kind of subsided as a conversation point from the rating agencies. 
+asr:0: OUTPUT 2480.60-2487.11: Just thoughts on kind of growing contributions from near versus balancing that from the regulated contributions. 
+asr:0: OUTPUT 2487.59-2495.72: Are you thinking about both on acquisitions or any kind of drop downs accelerated from near? Just some thoughts around that. 
+asr:0: OUTPUT 2496.98-2500.02: Thanks, Konstantin. We appreciate you dialing in this morning. 
+asr:0: OUTPUT 2500.64-2505.49: We're really excited about pursuing opportunities for investment across the board. 
+asr:0: OUTPUT 2505.57-2513.35: And of course, at FPL and Gulf, that's focused on investments that you need to create value for our customers. 
+asr:0: OUTPUT 2513.63-2518.32: And our energy resources, it's return-focused along with delivering things for our customers there, too. 
+asr:0: OUTPUT 2518.78-2522.62: So from a corporate perspective, we don't want to limit any of our businesses. 
+asr:0: OUTPUT 2522.94-2532.77: When we find great investment opportunities, which, you know, again, I can't highlight enough about how excited we are about the renewables development prospects at Energy Resources. 
+asr:0: OUTPUT 2533.21-2538.80: So we're not going to constrain them in any way. We will develop those opportunities that create value for shareholders. 
+asr:0: OUTPUT 2539.12-2545.77: And to the extent that we want to maintain balance over time, we've got a lot of opportunities to do that that are creative for shareholders. 
+asr:0: OUTPUT 2546.15-2554.45: Including recycling of capital through Next Energy Partners, which is obviously a willing and excited acquirer of energy resources projects. 
+asr:0: OUTPUT 2555.22-2559.12: But energy resources has the ability to recycle capital to third parties as well. 
+asr:0: OUTPUT 2559.74-2569.51: So there's plenty of ways to ensure that we can create the real value of creative opportunities and still think about it from a corporate perspective in a variety of different ways. 
+asr:0: OUTPUT 2572.53-2578.76: Thanks, that's very helpful. And kind of pivoting a little bit to something a little bit longer term, I guess. 
+asr:0: OUTPUT 2579.78-2588.83: Can we get some of your thoughts on the November election and kind of the Biden campaign has put out some plans and frameworks out there, higher tax rate, clean energy support. 
+asr:0: OUTPUT 2590.03-2594.39: How is NextEra positioned for potential change at the federal level? 
+asr:0: OUTPUT 2596.86-2598.90: So this is Jim. 
+asr:0: OUTPUT 2599.06-2608.37: You know, we always position our business to try to win regardless of the outcome of elections. 
+asr:0: OUTPUT 2608.47-2609.55: And. 
+asr:0: OUTPUT 2609.63-2612.53: And so, you know, we, I think... 
+asr:0: OUTPUT 2612.55-2623.10: You can remember back three, you know, close to four years ago now, there was some turmoil around our stock when President Trump was elected. 
+asr:0: OUTPUT 2625.07-2633.81: We've managed completely fine under this administration in terms of being able to continue to grow our renewable business because you know what, it's all about economics. 
+asr:0: OUTPUT 2633.95-2635.12: And. 
+asr:0: OUTPUT 2635.18-2647.09: And the time for renewables is now and that kind of transcends politics, frankly, the economics and the need to... 
+asr:0: OUTPUT 2647.15-2656.08: And really the need to decarbonize not only the electric sector but the rest of the sectors of the economy really frankly transcend. 
+asr:0: OUTPUT 2656.10-2658.02: What happens in elections. 
+asr:0: OUTPUT 2658.66-2667.09: You know, obviously we watch them closely. We think good clean energy policy is important and the right policy for America and the future. 
+asr:0: OUTPUT 2667.85-2675.46: And, you know, we continue, I think, to be positioned really well regardless of who wins in November. 
+asr:0: OUTPUT 2680.00-2681.54: So I'll come back in a few. 
+asr:0: OUTPUT 2682.26-2685.11: Thanks so much. Congrats. 
+asr:0: OUTPUT 2686.97-2690.91: Our next question comes from Michael Weinstein from Credit Suisse. Please go ahead with your question. 
+asr:0: OUTPUT 2692.49-2698.38: Hi, good morning guys. Hey, on the same question, Jim,. 
+asr:0: OUTPUT 2699.02-2705.21: What do you think is the most likely outcome from the Congress these days? Tax credit extensions? Cash grants? 
+asr:0: OUTPUT 2706.09-2710.15: Do you think a national renewable portfolio standard is a possibility? 
+asr:0: OUTPUT 2710.51-2716.64: I'm just wondering, of all those different alternatives, what do you think might actually occur in the next four years? 
+asr:0: OUTPUT 2717.96-2719.98: I think it's honestly a. 
+asr:0: OUTPUT 2721.12-2723.02: Too soon to tell. 
+asr:0: OUTPUT 2723.04-2725.29: Michael, I think... 
+asr:0: OUTPUT 2725.31-2733.49: You know, a lot is going to depend on what happens in the election and is there continued split government or is there not split government? 
+asr:0: OUTPUT 2733.77-2740.74: Uh... That'll be i think a big driver what policies happen and uh... You know i think. 
+asr:0: OUTPUT 2741.84-2748.91: All of those ideas were on the table. We've been consistent in what we've said, which is that. 
+asr:0: OUTPUT 2748.93-2757.04: We think it's important to have good and fair clean energy policy going forward. 
+asr:0: OUTPUT 2757.66-2783.44: We also have said that we think wind and renewables with batteries are very competitive once the PTCs and the ITCs phase out in terms of competing against conventional generation. It's just honestly really more a matter of the speed with which you want to decarbonize is what is going to ultimately drive the final. 
+asr:0: OUTPUT 2783.46-2785.29: I think policy choices. 
+asr:0: OUTPUT 2786.61-2794.27: We are obviously actively engaged in the discussions. 
+asr:0: OUTPUT 2794.41-2800.00: I think it's premature really to say what we think is going to happen because I think you have an election. 
+asr:0: OUTPUT 2800.48-2807.27: In four or five months and as you all know elections have consequences and uh... And you know. 
+asr:0: OUTPUT 2807.29-2811.27: We'll see what happens post the election in terms of what's going to be. 
+asr:0: OUTPUT 2811.29-2813.13: The policy landscape going forward. 
+asr:0: OUTPUT 2815.32-2825.31: Hey, on hydrogen, do you think, and I notice there's a lot more emphasis on renewables rather than gas turbines in your future construction plants at FDL. 
+asr:0: OUTPUT 2825.93-2832.39: I'm just wondering if hydrogen works out, is that a method? Do you think you could actually build more? 
+asr:0: OUTPUT 2832.41-2839.04: Put more gas turbines back into the plan if hydrogen production becomes a viable economic alternative. 
+asr:0: OUTPUT 2839.88-2843.50: Or do you think other alternative technologies are better suited, such as fuel cells? 
+asr:0: OUTPUT 2845.23-2854.39: Michael, I think from a hydrogen perspective and specific to Florida Power and Light Company, we're talking about potential hydrogen opportunities really in the. 
+asr:0: OUTPUT 2854.41-2857.04: 2030 and beyond time frame. 
+asr:0: OUTPUT 2857.80-2861.80: And in that intervening time we deploy a significant amount of solar technology. 
+asr:0: OUTPUT 2862.08-2871.79: And then if we're right, and if the costs come down for hydrogen, and it is the best alternative for supporting getting to a zero emissions profile. 
+asr:0: OUTPUT 2871.91-2879.34: We would retrofit certain of our gas facilities to run on hydrogen or run on a portion of hydrogen. 
+asr:0: OUTPUT 2880.18-2887.73: I think for Florida Power & Light and Gulf Power, it's at this point, and again, we're talking about a long way into the future. 
+asr:0: OUTPUT 2887.89-2891.37: You wouldn't necessarily need to build any new. 
+asr:0: OUTPUT 2891.49-2899.74: You know, hydrogen-slash-gas turbines in that portfolio because we've got a tremendously efficient fleet that's already in service. 
+asr:0: OUTPUT 2900.00-2902.62: And the investments we would make were really around conversion. 
+asr:0: OUTPUT 2903.04-2908.03: Now, whether or not that's true elsewhere in the country, I think it might be a little bit different. 
+asr:0: OUTPUT 2908.35-2915.12: But we're talking about a long way down the road and a lot of things need to come together to have those types of conversations. I think it's fairly preliminary. 
+asr:0: OUTPUT 2917.52-2923.66: One final question, just make a comment on M&A interest these days, what's going on with Santee Cooper, etc. 
+asr:0: OUTPUT 2925.71-2931.53: So I think we, this won't be surprising, we remain interested in MNA. 
+asr:0: OUTPUT 2932.27-2934.33: We think there's a lot that we can bring to the table. 
+asr:0: OUTPUT 2934.57-2943.42: I continue to believe that there's not a utility in the country that we couldn't run more efficiently and better for customers. 
+asr:0: OUTPUT 2943.50-2945.33: And i'd i'd truly believe that. 
+asr:0: OUTPUT 2945.55-2948.81: And so, you know, we continue to look. 
+asr:0: OUTPUT 2948.89-2955.92: I think in terms of Sandy Cooper, that process has been pushed to next year and we remain. 
+asr:0: OUTPUT 2955.98-2961.50: We remain very interested and continue to be focused on trying to make that happen. 
+asr:0: OUTPUT 2963.68-2971.19: Jim, what regions of the country are you focused on? We continue to be focused on the Midwest and the Southeast. 
+asr:0: OUTPUT 2973.25-2976.88: Thank you very much. 
+asr:0: OUTPUT 2981.12-2983.02: Thank you. 
+asr:0: OUTPUT 2985.55-2989.61: Our next question comes from Steven Berg from Morgan Stanley. Please go ahead with your question. 
+asr:0: OUTPUT 2991.17-2998.04: So hi, thanks, it's Dave Arcaro on for Stephen. Thanks for taking my question. I had one quick follow-up just on the hydrogen topic. 
+asr:0: OUTPUT 2998.40-3002.18: Wondering if you see a potential path for this to be an opportunity at near? 
+asr:0: OUTPUT 3003.48-3006.41: And also in terms of kind of business model. 
+asr:0: OUTPUT 3007.07-3013.95: But do you think that you would envision being involved in owning the electrolysis function within the supply chain? 
+asr:0: OUTPUT 3013.97-3020.86: And if so, do you have a kind of a vision or a view on what technology is ahead of others at this point? 
+asr:0: OUTPUT 3022.24-3030.39: Thanks, Dave. I would say at this point we're looking for opportunities across the portfolio. Obviously, we talked about the pilot project at FPL today. 
+asr:0: OUTPUT 3030.95-3035.98: But we are looking at other pilot type investment opportunities elsewhere in the portfolio. 
+asr:0: OUTPUT 3036.58-3042.04: Consistent with the way that we approach solar early on and of course batteries more recently. 
+asr:0: OUTPUT 3042.70-3047.73: I think there will be opportunities over time for those type of pilot projects. 
+asr:0: OUTPUT 3048.07-3055.96: Again, where you think of it as actually being close to economic today are areas where there's already significant penetration of renewables. 
+asr:0: OUTPUT 3056.22-3064.72: Because as you well know, it's critical to find a low-cost electricity supply in order to make it economic or close to economic. 
+asr:0: OUTPUT 3065.17-3070.19: And here in the U.S., the economics certainly have to factor in that today,. 
+asr:0: OUTPUT 3070.39-3077.28: There's a very low cost supply of natural gas, making it imperative that you find a cheap electricity supply. 
+asr:0: OUTPUT 3077.96-3079.06: I know it's early. 
+asr:0: OUTPUT 3079.12-3085.97: You know, never say never on, you know, where we might find opportunities to invest in the business. 
+asr:0: OUTPUT 3086.17-3090.93: As you know, we've not played in the space of owning, you know,. 
+asr:0: OUTPUT 3090.95-3092.79: Being vertically integrated. 
+asr:0: OUTPUT 3093.13-3095.94: Owner of technologies or projects. 
+asr:0: OUTPUT 3096.14-3105.11: We've typically taken the best of manufactured equipment from other folks, apply our scale and our ability to construct. 
+asr:0: OUTPUT 3105.67-3109.45: Own and operate over the long term effectively is where we create value. 
+asr:0: OUTPUT 3110.19-3115.84: So again, it's early, but at this point, I wouldn't think that we would focus on vertically integrating. It's more of... 
+asr:0: OUTPUT 3115.86-3121.30: Applying hydrogen as a technology consistent the way that we've created value in the past. 
+asr:0: OUTPUT 3122.10-3131.05: So the only thing I would add to that, two things. One is I'd be disappointed if in John's business we don't make some kind of pilot investment in the next year. 
+asr:0: OUTPUT 3131.75-3138.36: We're looking at a variety of things, and I'd be disappointed if we don't make some kind of pilot investment in the next year. 
+asr:0: OUTPUT 3138.78-3142.62: A very much toe in the water like we did a decade ago in the battery storage business. 
+asr:0: OUTPUT 3143.56-3151.55: Secondly, clearly we're not going to backward integrate into manufacturing electrolyzers or anything like that. 
+asr:0: OUTPUT 3152.29-3154.41: I wouldn't rule out us. 
+asr:0: OUTPUT 3154.43-3162.52: Owning them as part of an integrated system that was integrated with renewables to manufacture hydrogen. 
+asr:0: OUTPUT 3162.92-3168.55: And as you know, our view around that would be if we had a long-term contract. 
+asr:0: OUTPUT 3168.99-3178.38: And obviously we have access to very efficient capital. We know how to operate equipment. 
+asr:0: OUTPUT 3178.70-3190.13: A lot of that would come to our, I think, our strategic advantages in terms of how we're able to create value for folks. 
+asr:0: OUTPUT 3190.27-3192.63: I think it's early. 
+asr:0: OUTPUT 3192.65-3202.42: There's clearly an opportunity to, you know, five to ten years from now,. 
+asr:0: OUTPUT 3202.44-3211.73: To displace the last 10% of the carbon emissions out of the electric sector by manufacturing hydrogen with renewables. That's clear. 
+asr:0: OUTPUT 3212.05-3216.82: I think there's also clearly an opportunity to make renewables. 
+asr:0: OUTPUT 3216.84-3223.36: To display diesel fuel and perhaps even other types of transportation fuel. 
+asr:0: OUTPUT 3223.38-3224.70: Going forward. 
+asr:0: OUTPUT 3224.72-3233.01: And there's also, I think, clearly an opportunity to make green hydrogen to... 
+asr:0: OUTPUT 3233.31-3240.94: To replace other types of hydrogen and other feedstocks in industrial applications. 
+asr:0: OUTPUT 3241.28-3249.57: We're looking at all of that and we're not you know we're not being uh... All of that in the end comes back to. 
+asr:0: OUTPUT 3249.59-3258.50: A very important thing, which is this is going to drive gigawatts and gigawatts and gigawatts and gigawatts of renewable demand in this country. 
+asr:0: OUTPUT 3259.12-3264.54: And so there is no one better position than us to take advantage of that. And we're going to be. 
+asr:0: OUTPUT 3264.90-3269.21: Just like we were on battery storage, we're going to be at the Vanguard. 
+asr:0: OUTPUT 3269.51-3275.56: This is a big strategic initiative for us and we're going to drive it and it's going to be very important. 
+asr:0: OUTPUT 3275.74-3283.86: For this company I think not you know over the next over the next decade. We won't make any money on it the next five years just like we didn't make any money in batteries. 
+asr:0: OUTPUT 3284.18-3291.63: In the first five years and next year we're deploying a billion dollars of batteries ten years later. 
+asr:0: OUTPUT 3291.99-3301.92: That's the way I think about this. I think about this as help powering the long-term growth of this company into the back half of this decade and the next decade as well. 
+asr:0: OUTPUT 3305.21-3307.63: Got it. That's really helpful. Thank you so much for those comments. 
+asr:0: OUTPUT 3308.99-3313.27: I just had one other quick M&A follow-up. I was just wondering if... 
+asr:0: OUTPUT 3313.29-3322.64: Is there any path for Texas to be a target of interest for you from an M&A perspective or what would need to change there? Thanks. 
+asr:0: OUTPUT 3325.71-3326.97: So we. 
+asr:0: OUTPUT 3326.99-3330.99: We have spent a lot of time in Texas, obviously. 
+asr:0: OUTPUT 3331.07-3339.70: We own assets in Texas, and so we are a great operator, and we feel like we would bring. 
+asr:0: OUTPUT 3339.72-3340.94: An enormous amount of state. 
+asr:0: OUTPUT 3341.00-3344.26: We we own billions of dollars of assets in the state. 
+asr:0: OUTPUT 3344.66-3348.89: And we're a great, great partner for the state. 
+asr:0: OUTPUT 3349.33-3352.07: I would never say never. 
+asr:0: OUTPUT 3352.11-3358.96: You know obviously uh... We were extraordinarily disappointed in the on-call decision we think it was uh... 
+asr:0: OUTPUT 3358.98-3364.48: A mistake and short-sighted, but you know that is what it is. 
+asr:0: OUTPUT 3364.68-3366.39: And. 
+asr:0: OUTPUT 3366.41-3375.22: So it's probably going to take a bit to get past that before I'm super excited about doing things in Texas from an M&A standpoint. 
+asr:0: OUTPUT 3378.40-3380.30: Understood. Understood. Thank you very much. 
+asr:0: OUTPUT 3383.66-3387.73: Our next question comes from Michael Lapidis from Goldman Sachs. Please go ahead with your question. 
+asr:0: OUTPUT 3388.75-3391.33: Hi, good morning, everybody. Thank you for taking my questions. 
+asr:0: OUTPUT 3392.81-3401.86: I want to turn to Florida for a second. You're supposed to file rape cases next year at both utilities and obviously the combination of the two will be a big theft. 
+asr:0: OUTPUT 3402.46-3410.13: Is there any potential for being able to delay or defer the timing of the raid cases to. 
+asr:0: OUTPUT 3410.17-3420.06: They see what happens from a tax perspective in DC, from a public policy perspective, just so you don't have to go back to the regulator two or three times over a two or three year period. 
+asr:0: OUTPUT 3420.86-3426.37: And B, is there any scenario where you may not even need a rate case or rate release? 
+asr:0: OUTPUT 3428.59-3431.63: Good morning, Michael, and we appreciate the question. 
+asr:0: OUTPUT 3432.43-3435.78: As I've commented, I think even in these prepared remarks. 
+asr:0: OUTPUT 3436.34-3445.97: We do continue to believe that FPL and Gulf would file for a combined rate case in early 2021 for new rates effective in 2022. 
+asr:0: OUTPUT 3446.79-3450.79: As you highlighted, there's some uncertainties and certain factors that could change. 
+asr:0: OUTPUT 3451.59-3454.33: But that's the reality of operating any business. 
+asr:0: OUTPUT 3454.77-3464.72: You know what you know those days and you do the best you can for planning for uncertainties. We certainly would contemplate changes that we were aware of at the time. 
+asr:0: OUTPUT 3465.45-3467.17: But you've got to keep running your business. 
+asr:0: OUTPUT 3467.41-3470.17: And then what's most important from our perspective is. 
+asr:0: OUTPUT 3470.19-3478.80: Continuing to have the ability to invest in Florida Power & Light and invest at Gulf Power in these great opportunities that we see. 
+asr:0: OUTPUT 3478.84-3480.44: For the benefit of our customers. 
+asr:0: OUTPUT 3480.72-3490.43: We continue to lead the industry in O&M costs. We continue to lead the industry in reliability and customer service. And the best way to keep doing that is execute. 
+asr:0: OUTPUT 3491.21-3493.13: And that means occasionally having rape cases. 
+asr:0: OUTPUT 3493.93-3498.28: We are excited about that prospect. We've been preparing for it for a long time. 
+asr:0: OUTPUT 3499.28-3507.63: And we think we have a great story to tell, and we welcome the opportunity to talk about the things that we've been doing at FPL and Gulf. 
+asr:0: OUTPUT 3508.29-3515.12: So right for now, obviously things could change, but for now we continue to have those plans to file in 21 for new rates effective 2022. 
+asr:0: OUTPUT 3517.46-3522.38: Just on the Florida utilities you have been the industry leader in terms of cost management. 
+asr:0: OUTPUT 3523.40-3527.25: Do you think the pace of change and O&M cost declines. 
+asr:0: OUTPUT 3527.95-3532.71: Will stay at this level, meaning the year over year change or decline rate. 
+asr:0: OUTPUT 3532.75-3540.96: Or do you think you're reaching a point where it'll start to flatten out, where the ability to continue to take out as much cost as you've done every year will start to slow? 
+asr:0: OUTPUT 3542.42-3551.07: The surest answer to that, Michael, is we've got a very creative team and we've got a team that is focused on continuous improvement and not afraid of that. 
+asr:0: OUTPUT 3551.85-3561.40: But let me also not underestimate what that requires, and that requires the ability to identify those new technologies and take that cost out over time. 
+asr:0: OUTPUT 3562.08-3567.61: So there's, you know, we have to work for it. And so every year we pull together and come up with our best ideas. 
+asr:0: OUTPUT 3568.31-3572.79: Do we think over the long period of time that we've exhausted every opportunity? 
+asr:0: OUTPUT 3573.55-3580.80: No, in part because I think technology will continue to enhance our ability to do that, but it takes time to execute those opportunities. 
+asr:0: OUTPUT 3581.50-3590.51: Our discipline is there, our creativity is there, our innovation, our commitment to continuous improvement and we're going to do the best we can to create the best value for. 
+asr:0: OUTPUT 3590.61-3593.51: Customers. 
+asr:0: END

@@ -1,0 +1,358 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.82-6.93: Today and welcome to CULT's third quarter 2020 earnings conference call. 
+asr:0: OUTPUT 7.01-13.93: Today's call is being recorded. At this time, for opening remarks and introductions, I'd like to turn the call over to Ms. Drew Anderson. Please go ahead. 
+asr:0: OUTPUT 15.88-23.28: Thank you. Good morning and welcome to the CULT conference call to review the company's results for the third quarter of fiscal 2020. 
+asr:0: OUTPUT 24.34-33.13: As we start, let me state that this morning's call will contain forward-looking statements about the business, financial condition, and prospects of the company. 
+asr:0: OUTPUT 33.87-43.54: Forward-looking statements are statements that include projections, expectations, or beliefs about future events or results or otherwise are not statements of historical fact. 
+asr:0: OUTPUT 44.28-52.37: The actual performance of the company could differ materially from that indicated by the forward-looking statements because of various risks and uncertainties. 
+asr:0: OUTPUT 52.83-61.40: These risks and uncertainties are described in our regular SEC filings, including the company's most recent filings on Form 10-K and Form 10-Q. 
+asr:0: OUTPUT 62.38-69.67: You are cautioned not to place undue reliance on forward-looking statements made today, and each such statement speaks only as of today. 
+asr:0: OUTPUT 70.13-74.29: We undertake no obligation to update or to revise forward-looking statements. 
+asr:0: OUTPUT 75.34-79.82: In addition, during this call, the company will be discussing non-GAAP financial measurements. 
+asr:0: OUTPUT 80.00-92.09: A reconciliation of these non-GAAP financial measurements to the most directly comparable GAAP financial measurement is included as a schedule to the companies 8K filed yesterday,. 
+asr:0: OUTPUT 92.11-95.52: And post it on the company's website at cult.com. 
+asr:0: OUTPUT 96.38-104.26: A slide presentation with supporting summary financial information is also available on the company's website as part of the webcast today. 
+asr:0: OUTPUT 105.11-114.01: With respect to certain forward-looking free cash flow information, the comparable gap in reconciling information is not available without unreasonable effort. 
+asr:0: OUTPUT 114.05-120.20: And its significance is similar to the significance of the historical free cash flow information. 
+asr:0: OUTPUT 120.22-125.25: Which is available in the 8K filed yesterday and posted on the company's website. 
+asr:0: OUTPUT 126.45-131.39: I will now turn the call over to Iv Kulp, Chief Executive Officer. Please go ahead, sir. 
+asr:0: OUTPUT 133.53-140.68: Good morning and thank you for joining us today. I would like to welcome you to the quarterly conference call with analysts and investors. 
+asr:0: OUTPUT 141.52-148.15: With me on the call today are Ken Bowling, Chief Financial Officer of CULT, and Boyd Chumley, President of our Upholstery Fabrics business. 
+asr:0: OUTPUT 148.79-152.91: We also have Frank Saxon, Executive Chairman of the company, who's dialing in remotely. 
+asr:0: OUTPUT 154.23-159.04: I will now begin the call with some brief comments and Ken will then review the financial results for the quarter. 
+asr:0: OUTPUT 160.02-168.31: I will then update you on the strategic actions in each of the operating segments. And then after that, Ken will view our fourth quarter fiscal 2020 business outlook. 
+asr:0: OUTPUT 169.13-170.91: We will then be happy to take any questions. 
+asr:0: OUTPUT 172.57-180.94: Before I begin my comments on our third quarter results, I'd like to first address our thoughts regarding the coronavirus and any impact to our current supply chain. 
+asr:0: OUTPUT 182.18-186.75: Currently, COPE has not seen significant impacts from the virus in any of our businesses. 
+asr:0: OUTPUT 187.33-194.39: In our upholstery fabrics business, our Culp Chana location is operating at normal levels with virtually all employees reporting to work. 
+asr:0: OUTPUT 195.46-203.58: We've also built a stable, long-term supply base in China, and we work with vendors who favor Culp due to our strong, trusted relationship. 
+asr:0: OUTPUT 205.00-212.05: We've experienced minimal delays as most of our suppliers have backed nearly full output and continue to prioritize our production. 
+asr:0: OUTPUT 213.53-219.22: We have also relocated a considerable amount of our cut and sew production to two facilities we work with in Vietnam. 
+asr:0: OUTPUT 220.42-224.08: Likewise, in both our mattress fabrics and home accessories business. 
+asr:0: OUTPUT 224.72-231.71: We are not currently experiencing any delays in Asia, and we also have significant alternative locations for production as needed. 
+asr:0: OUTPUT 232.57-239.26: This includes production or sourcing capabilities in the US, Canada, Haiti, Vietnam, and Turkey. 
+asr:0: OUTPUT 240.30-246.23: While we cannot predict whether the virus will have any negative impact on consumer confidence in the US consumer market. 
+asr:0: OUTPUT 246.43-255.08: We believe our solid and stable supply chain and our global platform supports our ability to manage any disruption created by the outbreak. 
+asr:0: OUTPUT 256.24-258.08: Now I'll turn to the third quarter results. 
+asr:0: OUTPUT 259.50-265.83: As previously announced, our results for the quarter reflected unexpected sales, particularly in our core business segments. 
+asr:0: OUTPUT 266.65-273.73: While several external factors affected our results for the third quarter, we believe CULPA is well positioned for the medium and long term. 
+asr:0: OUTPUT 274.69-283.20: Our global platform is reactive and is a distinct competitive advantage for the company, providing the ability to quickly respond to changing market dynamics. 
+asr:0: OUTPUT 284.18-291.27: We also benefit from significant synergies across our business segments that are fostering collaboration and product development. 
+asr:0: OUTPUT 291.29-294.35: And allow us to better serve our customers in all markets. 
+asr:0: OUTPUT 295.68-300.44: Above all, we remain focused on innovation and creative designs in all of our businesses. 
+asr:0: OUTPUT 300.62-306.81: And we are confident in our product-driven strategy and the ability to meet the changing demands of a diverse customer base. 
+asr:0: OUTPUT 308.57-314.49: And throughout fiscal 2020, we have maintained our position as a trusted supplier of fabrics for a global marketplace. 
+asr:0: OUTPUT 315.40-323.02: Importantly, we have the financial strength to support and execute our strategies and continue returning funds to our shareholders. 
+asr:0: OUTPUT 323.74-328.23: We look forward to the opportunities ahead for the remainder of fiscal 2020 and beyond. 
+asr:0: OUTPUT 329.51-333.03: On our turn, I'll call over to Karen, who will review financial results for the quarter. 
+asr:0: OUTPUT 333.25-340.66: Thanks, Ed. As mentioned earlier on the call, we have posted slide presentations to our investor relations website that cover key performance measures. 
+asr:0: OUTPUT 341.22-343.76: We've also posted our capital allocation strategy. 
+asr:0: OUTPUT 344.58-351.53: Here are the financial highlights for the third quarter. Net sales were $72 million, down 6.8% compared with the prior year period. 
+asr:0: OUTPUT 352.35-361.64: On a pre-tax gap basis, the company reported a net loss of $5.1 million compared with a pre-tax income of $4.3 million for the third quarter of last year. 
+asr:0: OUTPUT 362.42-379.74: As previously disclosed a few weeks ago on February 18th, the results for the third quarter of the current fiscal year include a reversal of a 6.1 million recorded contingent earn out liability, as well as non-cash impairment charges of 13.6 million related to the home accessory division. 
+asr:0: OUTPUT 379.76-383.50: Resulting in a non-cash net charge of $7.6 million. 
+asr:0: OUTPUT 384.24-391.39: Excluding this net charge, adjusted pre-tax income, non-GAAP, was $2.4 million for the third quarter of this fiscal year. 
+asr:0: OUTPUT 392.11-400.20: The financial results for the third quarter of last fiscal year included approximately $769,000 in restructuring and related charges and credits. 
+asr:0: OUTPUT 400.22-406.81: And other non-recurring items due mostly to the closure of the company's Anderson, South Carolina production facility. 
+asr:0: OUTPUT 407.67-412.23: Excluding this net charge, PFAS income for the third quarter of last year was $5 million. 
+asr:0: OUTPUT 413.19-420.46: Net loss attributed to Coke, Inc. Shareholders was $58,000 or 0 cents per diluted share for the third quarter. 
+asr:0: OUTPUT 420.48-425.91: Compare with net income of 3.2 million or 25 cents per diluted share for the prior year period. 
+asr:0: OUTPUT 426.63-433.23: The results of the third quarter of both fiscal years include the respective charges and restructuring related credits I just noted. 
+asr:0: OUTPUT 434.27-442.10: The effective income tax rate was 19% for the third quarter and 142.8% for the year-to-date period for this fiscal year. 
+asr:0: OUTPUT 442.84-454.37: The company's high effective income tax rate for the year-to-date period reflects a significant decline in the company's projected annual consolidated taxable income, particularly in the U.S. 
+asr:0: OUTPUT 454.39-459.68: Which includes the income tax effects of the asset impairment charges previously discussed. 
+asr:0: OUTPUT 459.70-465.63: As well as the mix of consolidated taxable income that is earned by the company's foreign operations. 
+asr:0: OUTPUT 465.65-471.17: Located in China and Canada that have higher income rates in relation to the U.S. 
+asr:0: OUTPUT 472.07-479.64: The current mix of taxable income has led to a significant increase in the effective income tax rate that is associated with our global. 
+asr:0: OUTPUT 479.66-483.98: Intangible low tax income or guilty tax. 
+asr:0: OUTPUT 484.00-487.35: Which represents a US income tax on foreign earnings. 
+asr:0: OUTPUT 488.25-503.78: Importantly, income taxes incurred in the U.S. On a cash basis for fiscal 2020 are expected to be minimal due to the projected utilization of the company's U.S. Federal net operating and lawful reports and immediate expensing of U.S. Capital expenditures. 
+asr:0: OUTPUT 504.88-511.69: Looking ahead to the rest of this fiscal year, we estimate that our consolidated effective income tax rate will remain high. 
+asr:0: OUTPUT 511.81-519.70: And be in the 120% to 130% range based on the facts we know today and as affected by the factors noted above. 
+asr:0: OUTPUT 520.64-530.45: Notably, the U.S. Treasury Department and Internal Revenue Service have issued newly proposed regulations that, if and when enacted, and if enacted as proposed,. 
+asr:0: OUTPUT 530.47-536.48: Could provide us with some relief from the guilty tax under the proposed guilty high tax exception election. 
+asr:0: OUTPUT 536.50-543.76: Beginning in fiscal 2021 or later, subject to the timing of enactment and subject to any determination. 
+asr:0: OUTPUT 543.78-550.07: By the U.S. Treasury Department and IRS that the exception should apply retroactively. 
+asr:0: OUTPUT 550.93-558.32: The proposed guilty tax high tax exception election is not available until the proposed regulations are finalized and effective. 
+asr:0: OUTPUT 559.98-567.67: If the proposed guilty tax exception election is enacted as proposed and becomes effective for our fiscal 2021 year,. 
+asr:0: OUTPUT 568.39-574.63: Assuming we do not have nonrecurring charges or impairments that would reduce our pre-tax income,. 
+asr:0: OUTPUT 575.00-580.44: Then based on current assumptions, we would estimate our tax rate for fiscal 2021. 
+asr:0: OUTPUT 580.46-583.46: Did it be in the range of 35 to 50 percent? 
+asr:0: OUTPUT 584.18-593.87: However, let me stress that there are a lot of moving parts that affect this rate, including the many factors I've discussed previously, so this estimate could change. 
+asr:0: OUTPUT 595.44-603.00: Trailing 12 months of just EBITDA as of the end of the third quarter of this fiscal year was $19.6 million or 6.7% of sales. 
+asr:0: OUTPUT 603.86-608.33: Consolidated return on capital for the 12-month period was 8.7%. 
+asr:0: OUTPUT 609.29-611.81: Now let's take a look at our business segments. 
+asr:0: OUTPUT 612.57-619.16: For the mattress fabric segment, sales were 33.1 million down 7.4% compared with last year's third quarter. 
+asr:0: OUTPUT 620.02-625.00: Operating income for the quarter was 1.8 million compared with 3.2 million a year ago. 
+asr:0: OUTPUT 625.02-630.07: With an operating income margin of 5.4% compared with 9% a year ago. 
+asr:0: OUTPUT 630.69-639.68: The operating performance was primarily affected by lower than expected sales. Return on capital for the trailing 12-month period for mattress fabrics was 14.1%. 
+asr:0: OUTPUT 641.02-647.61: For the upholstery fabric segment, sales for the third quarter were $35 million, down 5.7% over the prior year. 
+asr:0: OUTPUT 647.63-657.86: Which prior year was a strong, a very strong quarter sales performance that was positively affected by advanced customer purchases in anticipation of additional tariff. 
+asr:0: OUTPUT 658.88-663.38: Operating income for the quarter was 3 million, compared with 3.8 million a year ago. 
+asr:0: OUTPUT 663.40-668.95: With an operating income margin of 8.7% compared with 10.2% a year ago. 
+asr:0: OUTPUT 669.63-676.86: We are pleased with the 8.7% margin this year given that it was achieved during the quarter in which the Chinese New Year shutdown occurred. 
+asr:0: OUTPUT 677.90-684.54: Return on capital for the trailing 12-month period for the post-2007 continues to be impressive, coming in at 54%. 
+asr:0: OUTPUT 685.85-692.33: The home accessory segment, which includes our e-commerce and finished products business offering bedding accessories and home goods. 
+asr:0: OUTPUT 692.35-697.66: Reported 3.9 million sales for the third quarter compared with 4.4 million a year ago. 
+asr:0: OUTPUT 698.48-710.87: Operating loss for the quarter was $181,000, which reflects continuous sequential improvement from the $350,000 loss experienced in the second quarter and the $535,000 loss experienced in the first quarter. 
+asr:0: OUTPUT 712.01-714.67: We'll comment more on operating performance later on. 
+asr:0: OUTPUT 715.66-716.96: Here are the balance sheet highlights. 
+asr:0: OUTPUT 717.38-726.93: We reported $34.8 million total cash and investment and outstanding borrowing of $925,000 for a net cash position of $33.9 million. 
+asr:0: OUTPUT 728.07-732.59: For the first nine months of this fiscal year, we incurred 4.1 million in capital expenditures. 
+asr:0: OUTPUT 733.23-740.42: We returned $4.5 million to shareholders in regular quarterly dividends and share repurchases through the third quarter of this fiscal year. 
+asr:0: OUTPUT 741.60-749.71: We had negative cash flow from operations and negative free cash flow of $519,000 and $4.7 million respectively for the first month of April. 
+asr:0: OUTPUT 749.73-755.24: Of this fiscal year due primarily to the timing of payments in advance of Chinese New Year set-downs. 
+asr:0: OUTPUT 755.72-759.58: And higher than expected inventories, mostly in our mattress fabrics business. 
+asr:0: OUTPUT 760.28-769.51: This compared with positive cash flow from operations and positive free cash flow of $8.1 million and $5.9 million respectively for the prior year period. 
+asr:0: OUTPUT 770.43-774.39: With better working capital performance, including better management of inventory. 
+asr:0: OUTPUT 774.45-780.86: We expect cash flow from operations and pre-cash flow to improve significantly in the fourth quarter of this fiscal year. 
+asr:0: OUTPUT 782.02-791.35: The company repurchased 56,000 shares of our common stock during the third quarter this year and repurchased approximately 86,000 additional shares through March 4th. 
+asr:0: OUTPUT 792.19-796.18: Leaving 3.3 million available under the previous share repurchase program. 
+asr:0: OUTPUT 797.60-804.04: As reported in our press release, our board has approved an increase in our share repurchase authorization back to 5 million. 
+asr:0: OUTPUT 805.41-811.75: Shares may be repurchased at the company's discretion from time to time in the open market or in privately negotiated transactions. 
+asr:0: OUTPUT 812.39-819.96: We will continue to consider opportunities to repurchase shares at a price that reflects a discount to our calculated intrinsic value per share. 
+asr:0: OUTPUT 820.78-827.61: However, as highlighted in our capital allocation strategy, which is posted in the best relations section of our website,. 
+asr:0: OUTPUT 828.21-832.27: We remain focused on a very disciplined approach to capital allocation. 
+asr:0: OUTPUT 832.29-840.26: Including maintaining a strong balance sheet and solid cash position, particularly given the current uncertainty in the global business environment. 
+asr:0: OUTPUT 840.82-843.22: With that, I'll turn the call back over to Iz. 
+asr:0: OUTPUT 844.28-847.01: Thanks, Kim. Let me start with the mattress fabric segment. 
+asr:0: OUTPUT 847.73-851.87: Our message fabric sales were lower than anticipated for the third quarter of the year. 
+asr:0: OUTPUT 852.37-860.70: As we were pressured by more than expected, or we were pressured more than expected from holiday shutdowns and continued industry weakness for our legacy business customers. 
+asr:0: OUTPUT 861.68-864.90: Mattress covers have become an increasingly important part of our business. 
+asr:0: OUTPUT 864.92-870.39: And losing multiple productive weeks for our class cover operations in Haiti and also in China,. 
+asr:0: OUTPUT 870.41-875.08: Caused a more significant impact when combined with softness in our legacy business. 
+asr:0: OUTPUT 876.04-884.74: Also, the anti-dumping measures relating to low-priced mattress imports from China have not yet provided the relief expected for the domestic mattress industry. 
+asr:0: OUTPUT 885.75-893.19: In spite of these challenges, we continue to manage our business with a relentless focus on creative designs, innovative products, and exceptional service. 
+asr:0: OUTPUT 894.07-903.00: Our global platform supports these efforts with efficient production and distribution capabilities to provide a full complement of mattress fabrics and sun covers. 
+asr:0: OUTPUT 903.02-905.99: With the flexibility to adapt to evolving customer needs. 
+asr:0: OUTPUT 907.05-915.72: We are strengthened by our existing manufacturing operations in the U.S., Canada, Haiti, China, and our sourcing platform in Turkey. 
+asr:0: OUTPUT 916.56-920.62: We expect to add fabric production capabilities in Vietnam this calendar year. 
+asr:0: OUTPUT 920.74-927.23: And we're also expanding our stone cover production capabilities in Haiti with a new building and additional equipment. 
+asr:0: OUTPUT 928.47-931.71: We believe these expansions will enhance our ability to serve customers. 
+asr:0: OUTPUT 932.85-941.80: Further, while the domestic disruption from low-priced mattress imports appears to be continuing as a result of many imports moving from China now to other countries,. 
+asr:0: OUTPUT 942.28-950.91: We believe our strong global platform for fabric and covers in Asia has us well positioned to capture market share with imported mattresses going forward. 
+asr:0: OUTPUT 952.11-961.72: Additionally, while the holiday shutdowns disrupted our class operations in Haiti and China during the third quarter, we are pleased with the continued growth of our sewn mattress cover business. 
+asr:0: OUTPUT 962.74-972.15: Demand trends for mattress covers remain favorable, especially for the growing box bedding space, and we continue to develop fresh products with both new and existing customers. 
+asr:0: OUTPUT 973.15-978.28: With some cover production capabilities now in the US, Haiti, and Asia. 
+asr:0: OUTPUT 978.30-984.36: We have a very strong platform that allows us to maximize our full supply chain potential from fabric to finished covers. 
+asr:0: OUTPUT 985.65-992.87: We continue to invest in design and marketing capabilities with our latest technologies to improve the customer experience and speed to market. 
+asr:0: OUTPUT 992.89-996.14: With new digital tools and project management software. 
+asr:0: OUTPUT 996.96-1003.08: We are very pleased with initial customer response to our new 3D mapping and rendering capabilities. 
+asr:0: OUTPUT 1003.10-1007.35: Which is being marketed as re.imagine Culp Home Fashions. 
+asr:0: OUTPUT 1008.05-1011.27: This reflects the spirit of innovation in our mattress fabrics business. 
+asr:0: OUTPUT 1012.99-1020.36: We are also enhancing our service platform as part of our ongoing efforts to be more responsive to customer demand with shorter lead times. 
+asr:0: OUTPUT 1020.58-1025.57: And we are implementing a new inventory management process which we believe will drive greater control. 
+asr:0: OUTPUT 1026.41-1033.07: I'm especially pleased that Sandy Brown, our long-time CFO in the mattress fabric segment, is now president of the division. 
+asr:0: OUTPUT 1034.11-1038.88: Having worked with Sandy for over 20 years, I'm confident she has the experience. 
+asr:0: OUTPUT 1038.90-1046.19: Expertise and a vision to lead this business as we strive to operate our strong platform in the most efficient manner. 
+asr:0: OUTPUT 1047.53-1052.73: Looking ahead, there are many opportunities to advance our position as a leading provider of mattress fabrics and sun covers. 
+asr:0: OUTPUT 1053.55-1059.08: We believe we will benefit from our recent and ongoing efforts to further our design and service capabilities. 
+asr:0: OUTPUT 1059.10-1065.55: With advanced technologies that support our sales and marketing efforts with both legacy and new customers. 
+asr:0: OUTPUT 1067.07-1068.79: Now I'll turn to the upholstery fabric segment. 
+asr:0: OUTPUT 1069.57-1077.94: Our poultry fabrics business was affected by slowdown in shipments heading into the Chinese New Year holiday, resulting in lower than expected sales for the quarter. 
+asr:0: OUTPUT 1078.98-1087.63: It is difficult to predict the impact of the holiday shutdown from year to year, and this year we experienced a greater than expected decline in January leading up to the holiday period. 
+asr:0: OUTPUT 1088.87-1093.91: As a result, we showed a modest drop in sales compared with a very strong performance in the prior year period. 
+asr:0: OUTPUT 1095.20-1097.44: In light of the uncertain business environment we face. 
+asr:0: OUTPUT 1097.60-1105.97: We are pleased with the overall performance of our upholstery fabric business, particularly given the comparison to a very strong quarter last year in fiscal 2019. 
+asr:0: OUTPUT 1107.51-1116.74: We have a strong platform in China and stable long-term supplier relationships with vendors that prioritize our production due to those strong relationships. 
+asr:0: OUTPUT 1117.84-1120.00: This has been an important advantage for COLT. 
+asr:0: OUTPUT 1120.08-1129.53: Especially as we resumed operations at the end of the third quarter following an extended government mandated shutdown in China associated with the coronavirus outbreak. 
+asr:0: OUTPUT 1130.77-1138.76: We believe this platform supports our ability to manage the current disruptions created by this outbreak and the procedures required by the Chinese government. 
+asr:0: OUTPUT 1140.00-1147.53: Also, our addition of cut and sew capabilities in Vietnam toward the end of fiscal 2019 has further augmented our Asian platform. 
+asr:0: OUTPUT 1149.53-1156.50: Throughout fiscal 2020, we have continued to execute our strategic focus of introducing new products and diversifying our customer base. 
+asr:0: OUTPUT 1157.24-1163.02: We are especially pleased with the continued growth in our hospitality business as we've extended our reach in this growing market. 
+asr:0: OUTPUT 1163.94-1171.39: Read window products are window treatment and installation services business has been a key driver of our growing sales in this business. 
+asr:0: OUTPUT 1171.41-1177.60: And we are excited about the continued growth opportunities as we expand our product portfolio to the hospitality market. 
+asr:0: OUTPUT 1178.88-1185.15: Product innovation is also a hallmark of our success in the marketplace and provides a distinct competitive advantage for Cole. 
+asr:0: OUTPUT 1185.87-1194.15: Our line of highly durable, stain-resistant, LISTMART fabric continues to be very popular with both existing and new customers. 
+asr:0: OUTPUT 1194.85-1197.62: We are excited about the demand transfer Live Smart Evolve. 
+asr:0: OUTPUT 1197.78-1205.33: I recently introduced a line of sustainability fabrics featuring the use of recycled yarns along with the same stain resistant performance. 
+asr:0: OUTPUT 1206.87-1213.33: Looking ahead, while the business environment remains uncertain with the health issues surrounding the coronavirus in China and beyond,. 
+asr:0: OUTPUT 1214.23-1217.90: We believe we are well positioned to execute our strategy with favorable results. 
+asr:0: OUTPUT 1218.70-1222.10: We have a unique combination of innovative products, creative design. 
+asr:0: OUTPUT 1222.12-1230.67: A growing customer base across both residential and hospitality markets, and a global platform to support our business and meet changing customer demands. 
+asr:0: OUTPUT 1231.87-1238.36: As such, we remain confident in our ability to deliver another solid performance in our Upholstery Fabrics business in fiscal 2020. 
+asr:0: OUTPUT 1240.00-1247.97: Lastly, I'll comment on the results for Culp Home Accessories, which includes our e-commerce and finished products business offering bedding accessories and home goods. 
+asr:0: OUTPUT 1249.29-1253.79: We have worked hard to refine our strategy and drive improved results for our home accessories segment. 
+asr:0: OUTPUT 1254.81-1258.42: Well, it's taking longer than we expected to reach our initial projections for this business. 
+asr:0: OUTPUT 1258.94-1265.39: We encourage by recent opportunities with new online marketplaces and business-to-business sales channels. 
+asr:0: OUTPUT 1266.17-1273.25: We also remain dedicated to improving our performance on Amazon, which is a principal sales channel for our legacy e-commerce business. 
+asr:0: OUTPUT 1274.37-1280.22: In tandem with these strategies, we are continuing to develop new products featuring colt mattress fabrics and upholstery fabrics. 
+asr:0: OUTPUT 1280.72-1285.61: And we were pleased with a very solid showing of the new products at the recent Las Vegas market. 
+asr:0: OUTPUT 1286.73-1296.06: We remain optimistic about potential growth opportunities for Cole Pwn Accessories and the ability to leverage this new important sales channel to reach new customers for Cole. 
+asr:0: OUTPUT 1297.58-1300.98: Ken will now review the outlook for fourth quarter and we will then take some questions. 
+asr:0: OUTPUT 1302.26-1310.91: Importantly, our expectations for the fourth quarter assume the coronavirus outbreak does not have a greater than anticipated impact on the company's operations. 
+asr:0: OUTPUT 1310.93-1314.23: Which may affect each of the company's divisions to varying levels. 
+asr:0: OUTPUT 1315.06-1324.78: We are monitoring the situation daily and following the processes and procedures provided for in the company's global pandemic disease contingency plan to protect our workforce. 
+asr:0: OUTPUT 1325.43-1336.86: However, the potential impact of the coronavirus is difficult to estimate reasonably at this point, given the fluidity and circumstances related to the disease and the actions being taken to contain its spread. 
+asr:0: OUTPUT 1337.82-1344.78: Subject to those assumptions and limitations, we expect overall sales to increase slightly compared with the fourth quarter of last year. 
+asr:0: OUTPUT 1345.65-1350.57: We expect mattress fabric sales to be slightly down compared with the fourth quarter of last year. 
+asr:0: OUTPUT 1350.59-1355.86: Due to continuing market pressure and softness in our legacy business during the fourth quarter,. 
+asr:0: OUTPUT 1356.10-1360.90: While operating income and margins are expected to increase slightly compared with the prior year period. 
+asr:0: OUTPUT 1361.74-1368.31: In our post-year fabric segment, we expect fourth quarter sales and operating income in March to be slightly higher than the prior year period. 
+asr:0: OUTPUT 1369.29-1375.38: In our home accessories segment, we expect fourth quarter sales to be comparable to the fourth quarter of last fiscal year. 
+asr:0: OUTPUT 1376.14-1378.82: We expect an operating loss for the fourth quarter. 
+asr:0: OUTPUT 1378.84-1386.73: But with significant improvement compared to the prior year period and continued quarter over quarter sequential improvement for this fiscal year. 
+asr:0: OUTPUT 1387.77-1395.44: Consider these factors. The company expects to report pre-tax income for the fourth quarter in the range of $1.9 million to $2.4 million. 
+asr:0: OUTPUT 1395.46-1402.56: Excluding restructuring and related charges or credits, other non-recurring charges, and impairment charges, if any. 
+asr:0: OUTPUT 1403.18-1410.69: Pre-tax income for last year's fourth quarter was $1.5 million, which included a non-recurring charge of $500,000. 
+asr:0: OUTPUT 1411.21-1415.82: Excluding this charge, pre-tax income for the fourth quarter of last year was $2 million. 
+asr:0: OUTPUT 1416.68-1424.72: Based on our current projection, capital expenses for this fiscal year are now expected to be in the $6 million to $6.5 million range. 
+asr:0: OUTPUT 1425.23-1429.13: Depreciation and amortization is expected to be approximately 8.6 million. 
+asr:0: OUTPUT 1429.97-1435.94: Additionally, free cash flow for this fiscal year is expected to be moderately down as compared to last year's results. 
+asr:0: OUTPUT 1436.74-1438.68: With that, we will now take your questions. 
+asr:0: OUTPUT 1441.02-1450.57: Thank you. If you'd like to ask a question, please signal by pressing star 1 on your telephone keypad. If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. 
+asr:0: OUTPUT 1450.99-1456.58: Again, press star one to ask a question. We'll pause for just a moment to allow everyone an opportunity to signal for questions. 
+asr:0: OUTPUT 1466.47-1469.39: Take our first question from Bobby Griffin with Raymond James. Please go ahead. 
+asr:0: OUTPUT 1470.93-1472.77: Good morning everybody. Thank you for taking my questions. 
+asr:0: OUTPUT 1476.00-1482.62: So I guess the things I wanted to talk about is maybe adding some fabric production capabilities in Vietnam. 
+asr:0: OUTPUT 1482.76-1487.19: Maybe can we expand on what those capabilities would give you guys? 
+asr:0: OUTPUT 1487.21-1495.12: What's the strategy to participate more in what I guess we can call the Asia import market for mattresses back into the US? 
+asr:0: OUTPUT 1497.72-1499.34: This is Ilyas. I'll take that question. 
+asr:0: OUTPUT 1500.94-1506.69: You have to go back a little bit as we think about both anti-dumping and tariffs. 
+asr:0: OUTPUT 1507.97-1515.60: You know, it should feel like, you know, now we're not even talking about that anymore, but that was a pretty significant disruption over the last year of Section 301 tariffs. 
+asr:0: OUTPUT 1515.70-1518.86: The rules for upholstery and mattress fabrics are quite different. 
+asr:0: OUTPUT 1519.40-1524.84: So the reason we're looking primarily to establish fabric manufacturing in Vietnam. 
+asr:0: OUTPUT 1525.35-1533.27: Is because today mattress fabrics have a fairly significant extra 301 tariff coming from China, as do mattress covers. 
+asr:0: OUTPUT 1534.89-1544.06: Unlike furniture or upholstery fabric where we can ship fabric from China to Vietnam. To avoid a tariff, unless you make the full sun cover. 
+asr:0: OUTPUT 1544.08-1549.53: Fabric all the way to cover in Vietnam, you still pay the extra tariff. 
+asr:0: OUTPUT 1550.05-1554.63: So for us, establishing in Vietnam is a risk management play. 
+asr:0: OUTPUT 1554.73-1556.26: A cost-saving play. 
+asr:0: OUTPUT 1556.36-1558.84: And certainly gives us the ability to make covers. 
+asr:0: OUTPUT 1558.86-1569.27: That we can fulfill through Vietnam that we can then sell into other countries that are making beds that end up in the U.S. Or bring fabric and covers of our own. 
+asr:0: OUTPUT 1569.29-1571.33: Back to us in the US. 
+asr:0: OUTPUT 1572.89-1579.70: I hope that answers it. Yeah, that's very helpful. I was just curious from a competitive standpoint, once you get this operation set up,. 
+asr:0: OUTPUT 1579.72-1587.59: Will those corresponding covers that you can now make in Vietnam be competitively priced to some of the covers that are already going on the imports? 
+asr:0: OUTPUT 1587.61-1589.97: Imported beds into the U.S. Today. 
+asr:0: OUTPUT 1591.45-1599.76: Yes, sir, Bobby, we expect you. We've been very competitive with covers already, mattress covers that we're making through our Culp China platform. 
+asr:0: OUTPUT 1600.62-1601.78: Has been very competitive. 
+asr:0: OUTPUT 1601.90-1605.19: And there are already opportunities materializing there. 
+asr:0: OUTPUT 1605.29-1612.43: But to be more advantageous to deal with U.S. Care rules and costs. 
+asr:0: OUTPUT 1612.45-1617.68: Vietnam could be potentially more advantageous in certain cases. 
+asr:0: OUTPUT 1619.08-1625.81: Okay, and then secondly for me on the home accessories business, you talked about maybe improving some of the performance on the Amazon channel. 
+asr:0: OUTPUT 1626.23-1636.18: So can you maybe expand a little bit on those strategies? And then secondly, is there a bigger opportunity to sell some of those finished products in retail locations? 
+asr:0: OUTPUT 1638.48-1644.06: Yes, sir. Bobby, those are really good questions to 1st, I'll touch on the Amazon part. 
+asr:0: OUTPUT 1644.82-1654.79: When we first invested in home accessories, Amazon was the sole, or really the primary part of the business, up to 80% of the sales. 
+asr:0: OUTPUT 1655.70-1657.88: And we were really focused on that. 
+asr:0: OUTPUT 1658.68-1663.48: Since the time we've invested, it's become more costly to do business and to rank higher. 
+asr:0: OUTPUT 1663.50-1670.81: To Google ad words to just find yourself higher in the rankings of the cost more money than we might have expected. 
+asr:0: OUTPUT 1671.17-1678.22: So we've dialed back our offerings on Amazon to really what we consider our core most stable, most cost-effective products. 
+asr:0: OUTPUT 1678.64-1682.22: And we're trying to do what we consider to be an appropriate level of advertising. 
+asr:0: OUTPUT 1682.72-1686.95: So what we have placed on Amazon today, we believe we can service well. 
+asr:0: OUTPUT 1687.33-1693.87: It's a good quality product that should rank well and that we don't have to over advertise it and spend too much money to make it work. 
+asr:0: OUTPUT 1694.35-1702.40: So we're anticipating Amazon being a significant, but more like a 50% share of our business and not such a heavy piece. 
+asr:0: OUTPUT 1703.28-1708.13: For certain, we have great opportunities in all of our accessory products on the B2B side. 
+asr:0: OUTPUT 1708.87-1717.22: We have a lot of customers, roll pack betting customers that are looking for products to attack on and have additional sales accessories. 
+asr:0: OUTPUT 1717.52-1723.84: We also had a chance to sell some of our products into some retail direct distribution, and that is working. 
+asr:0: OUTPUT 1725.13-1732.35: Sometimes it's never as fast as we want it to be because it takes time to get in the retail cycle, but we are very optimistic about that opportunity also. 
+asr:0: OUTPUT 1734.13-1740.00: I appreciate you taking my questions, Dave. That was very helpful. Best of luck in the next quarter. Yes, sir. Thank you. 
+asr:0: OUTPUT 1743.38-1752.35: Once again, that is star one to ask a question. If you find that your question has been answered, you may remove yourself from the queue by pressing star two. Again, star one to ask a question. 
+asr:0: OUTPUT 1753.63-1756.66: We'll take our next question from Paul Betts with Stiefel. 
+asr:0: OUTPUT 1760.00-1761.06: Everyone. 
+asr:0: OUTPUT 1761.16-1767.71: Continuing with Amazon, you mentioned some new sellers are violating terms. 
+asr:0: OUTPUT 1768.09-1775.70: Can you explain what's going on there and maybe if that gets rectified you may see less competition? 
+asr:0: OUTPUT 1777.08-1781.76: Yes, sir. Well, Paul, thank you for the question. I'll take that, too. 
+asr:0: OUTPUT 1782.76-1788.65: Basically what's happened since we first started with Amazon, and there's been a lot of stories in the press about this. 
+asr:0: OUTPUT 1789.27-1796.84: There have been times where primarily Chinese sellers have flooded the marketplace on commodity items. 
+asr:0: OUTPUT 1796.86-1801.38: Mattress protectors and mattress pads and things that we specialize in. 
+asr:0: OUTPUT 1802.00-1808.57: And Amazon has pretty specific terms of service the way you acquire five-star reviews. 
+asr:0: OUTPUT 1809.13-1815.88: We have a lot of reviews that we've earned through steady, normal processes, selling items and getting reviews. 
+asr:0: OUTPUT 1816.30-1821.24: It's not really in terms of service to be doing a lot of free giveaways and fabricating reviews. 
+asr:0: OUTPUT 1821.26-1828.97: And also to be downgrading competitors with fake reviews, which we have found instances of all those things. 
+asr:0: OUTPUT 1829.03-1832.97: And we have reported them to really high levels in Amazon and made some headway. 
+asr:0: OUTPUT 1833.55-1842.04: So Amazon is working really hard to change their method, the way they rank suppliers. And I think in time that will get better. 
+asr:0: OUTPUT 1842.32-1847.81: But it's a pretty long fight for someone like us to make a big impact really quick. 
+asr:0: OUTPUT 1847.87-1853.97: But that's what we mean by terms of service violation. It's really fabricated and falsified reviews primarily. 
+asr:0: OUTPUT 1855.48-1859.66: Okay, thanks. The tap X is reduced. 
+asr:0: OUTPUT 1859.98-1866.81: Is that just to conserve cash or what areas did you lower that sum? 
+asr:0: OUTPUT 1868.13-1875.66: We looked at the year and given our cash position, we started prioritizing projects. 
+asr:0: OUTPUT 1876.28-1882.40: And so we have a certain amount of what we call maintenance CapEx, which is in that $6 million or so range. 
+asr:0: OUTPUT 1883.20-1888.97: So when you look at where we're ending up, projected end up, and then looking forward. 
+asr:0: OUTPUT 1889.15-1899.22: We are going to, in this time of uncertainty, we are going to prioritize projects and as we said, keep a very close eye on our cash. 
+asr:0: OUTPUT 1899.24-1903.10: We will continue to invest in the business as we always have. 
+asr:0: OUTPUT 1903.16-1909.93: We will have to monitor things closely and prioritize projects as they come along. 
+asr:0: OUTPUT 1912.09-1918.52: Lastly, there are of course margins in the mattress segment. 
+asr:0: OUTPUT 1919.46-1928.45: A little below our expectations down year to year. Is that just the disruptions from the holiday shutdown or is there anything else going on there? 
+asr:0: OUTPUT 1929.71-1936.26: No, that's a good insight there. Obviously, the lower sales had an impact. 
+asr:0: OUTPUT 1936.72-1945.15: But there were a lot of moving parts with the shutdowns and all that in the quarter. And so that was the primary reason for the marshes being down. 
+asr:0: OUTPUT 1945.47-1947.69: The lower sales and the other disruption as well. 
+asr:0: OUTPUT 1949.45-1951.01: Okay. Thank you very much. 
+asr:0: OUTPUT 1953.13-1959.72: We'll take our next question from Marco Rodriguez with Stonegate Capital Markets. Please go ahead. 
+asr:0: OUTPUT 1961.34-1963.64: Good morning, guys. Thank you for taking my questions. 
+asr:0: OUTPUT 1966.93-1974.53: I was wondering if you could talk a little bit more about the expansion activities that you're doing here in Vietnam and Haiti. 
+asr:0: OUTPUT 1974.89-1983.96: If you could just maybe place a timeline as far as when these capabilities will be there and then the cost associated with those. 
+asr:0: OUTPUT 1985.61-1992.09: Yes, sir. Thanks for the questions, Marco. And expansions in Vietnam and Haiti. 
+asr:0: OUTPUT 1992.59-2002.00: Are both really targeted for the mattress fabrics business in terms of the expansion standpoint. We're already operating pretty significantly in Vietnam for our whole street. Cutting focus. 
+asr:0: OUTPUT 2002.72-2003.74: And that's performing well. 
+asr:0: OUTPUT 2004.78-2011.09: Haiti, we started a two-pronged strategy, a really three-pronged strategy for mattress covers. 
+asr:0: OUTPUT 2011.41-2019.74: We have our U.S. Business that is a prototyping and quick rollout and emergency recovery platform that works well for us. 
+asr:0: OUTPUT 2020.60-2030.47: Haiti is a very low cost opportunity that we see often a near sourcing potential. So we're able to drive. 
+asr:0: OUTPUT 2031.13-2033.27: Significantly faster lead times in Haiti. 
+asr:0: OUTPUT 2033.71-2037.88: It's been a really resounding success for us so far, and we're just expanding the building. 
+asr:0: OUTPUT 2038.46-2041.84: So it's not a significant expense. 
+asr:0: OUTPUT 2041.94-2048.53: You know, we're just building some extra space and add some more sewing machines. Getting into cut and sew is not a heavy CapEx venture. 
+asr:0: OUTPUT 2049.31-2054.49: So, we would anticipate being in that plan and having additional capacity this summer. 
+asr:0: OUTPUT 2054.61-2059.92: It's a pretty fast, pretty fast uprising there and we're excited about Haiti. 
+asr:0: OUTPUT 2060.06-2063.48: The good part about it is we can bring fabrics from anywhere in the world today. 
+asr:0: OUTPUT 2064.36-2070.35: And if it's shown in Haiti and comes back to the US, there's no duty on any of the products in or out. 
+asr:0: OUTPUT 2070.87-2078.34: So very advantageous platform that should provide us with faster lead times if we forecast and store inventory at the right places. 
+asr:0: OUTPUT 2079.10-2084.94: Vietnam is really an important ability for us to dabble with mattress fabrics in a small way. 
+asr:0: OUTPUT 2085.31-2090.71: We'll start small, mainly focused on serving Asian customers. 
+asr:0: OUTPUT 2091.37-2100.42: And that's our attempt to get after some of the beds that are being made in Asia. And we can do that with both fabric or with a sun mattress cover. 
+asr:0: OUTPUT 2101.22-2104.38: If we need to, we also have the ability to bring some of that back to the U.S. 
+asr:0: OUTPUT 2105.67-2114.01: Not preferred on a lead time basis, but it could be good for cost. And we'll just do that on an as-needed basis, and we would avoid a Section 301 tariff. 
+asr:0: OUTPUT 2117.48-2119.92: I think that is understood. 
+asr:0: OUTPUT 2119.94-2128.47: The service platform additions or enhancements that you are taking a look at in the new inventory management. 
+asr:0: OUTPUT 2129.17-2136.54: Can you maybe expand a little bit more on what sort of impact, if any, you might see on the P&L and or the balance sheet with those? 
+asr:0: OUTPUT 2139.06-2141.54: And Alec can comment on the... 
+asr:0: OUTPUT 2141.72-2145.71: Impact, but I'll tell you the way the reason we're thinking about it is. 
+asr:0: OUTPUT 2145.75-2151.21: The mattress industry always for a long time was a pretty quick speed to market business. 
+asr:0: OUTPUT 2151.27-2157.80: Where we pretty much inventory, shift everything same day, and we still do that for a big part of the market. 
+asr:0: OUTPUT 2157.86-2165.59: But as things have gotten more diverse with imported mattresses and imported components, lead times have gotten a little longer. 
+asr:0: OUTPUT 2165.97-2174.73: So we've tried to then match our platform with all the multi countries that we're in, US, Canada, China, Haiti, Vietnam. 
+asr:0: OUTPUT 2174.77-2176.80: And then our sourcing business in Turkey. 
+asr:0: OUTPUT 2176.88-2186.05: We want to bring lead times back down, even with that global strategy. So our anticipation would not be to get out of the longer lead times that we've had recently. 
+asr:0: OUTPUT 2186.17-2191.91: Shorten those lead times down so we're not caught with so much exposure on the water as market conditions change. 
+asr:0: OUTPUT 2192.51-2197.06: So, we're just, our intention is to bring a better efficient management of our scheduling. 
+asr:0: OUTPUT 2198.38-2203.46: Faster lead time to customers to make them happy, and then reduce our exposure for extra inventory. 
+asr:0: OUTPUT 2205.03-2206.35: Yeah, Marco, this can and that. 
+asr:0: OUTPUT 2206.69-2209.25: The extra inventory, we. 
+asr:0: OUTPUT 2209.31-2214.21: We were expecting obviously a better quarter than we had, so we built up inventory. 
+asr:0: OUTPUT 2214.23-2219.46: Those cells didn't materialize, but now with this new focus,. 
+asr:0: OUTPUT 2219.74-2223.90: We should be able to get inventory down and keep it in line. 
+asr:0: OUTPUT 2223.98-2230.75: More consistently, which will obviously help improve the cash flow in the 4th quarter, but. 
+asr:0: OUTPUT 2230.77-2242.40: We are excited about the new process and hopefully don't get back in a situation where we build up inventory in anticipation of sales that don't materialize. 
+asr:0: OUTPUT 2242.48-2243.82: So this is exciting. 
+asr:0: OUTPUT 2243.94-2247.95: Move and one that we're anxious to get started. 
+asr:0: OUTPUT 2250.65-2253.91: And last quick question, it's kind of a difficult one here on guidance. 
+asr:0: OUTPUT 2255.52-2264.52: You built in some sort of an impact for coronavirus, but just kind of curious if maybe you can put a little bit more color around what. 
+asr:0: OUTPUT 2265.09-2268.91: What does worsening conditions mean for you or look like? Are we talking... 
+asr:0: OUTPUT 2270.41-2272.57: Additional shutdowns in China. 
+asr:0: OUTPUT 2273.01-2280.18: As far as the risk is concerned, and I know that you also brought the fact that obviously consumer confidence in the US is. 
+asr:0: OUTPUT 2280.20-2283.46: A big unknown at this dance right now. 
+asr:0: OUTPUT 2285.37-2289.47: Yeah, Marco, I'll, I'll answer and then avoid wants to jump in. 
+asr:0: OUTPUT 2289.53-2296.76: Yeah, it's forecasting in this environment is extremely difficult. 
+asr:0: OUTPUT 2297.56-2303.32: We put a lot of language around the uncertainty. 
+asr:0: OUTPUT 2303.50-2309.83: You know, as you know, everybody reads what happens daily, the news comes out. And so right now. 
+asr:0: OUTPUT 2310.51-2316.06: Things are operating well in China, things are recovering. 
+asr:0: OUTPUT 2316.82-2319.58: So we've got that news there. 
+asr:0: OUTPUT 2320.00-2324.70: But things change daily, so given where we are. 
+asr:0: OUTPUT 2324.72-2334.89: We expect a good quarter in the fourth quarter, but as I said, things can change quickly and we'll just have to wait and see. 
+asr:0: OUTPUT 2334.95-2344.24: We have processes and systems that we can react to and make changes and be flexible in our flexible platforms. 
+asr:0: OUTPUT 2344.30-2351.09: It's just a very, very uncertain time right now, and so we're just being very cautious in how we forecast. 
+asr:0: OUTPUT 2351.81-2360.72: Boy, I don't know if you want to... Yeah, I'll add to that, Ken. Thank you. And Marco, just in relation to the current situation for the upholstery side in China,. 
+asr:0: OUTPUT 2362.08-2371.81: As we've relayed, we've really seen a return now to mostly normal situations, very quickly getting back to normal situations there. 
+asr:0: OUTPUT 2372.61-2373.63: We had a... 
+asr:0: OUTPUT 2373.65-2382.74: One week delay in our China operation, a government mandated one week delay before we were able to get back to operating. 
+asr:0: OUTPUT 2383.08-2392.97: And then we've seen some delays from our supply base, but currently nearly all of our suppliers are now back to almost full output again. 
+asr:0: OUTPUT 2393.03-2396.10: So the current situation has been very positive. 
+asr:0: OUTPUT 2396.40-2403.42: We've experienced minimal delays and disruptions to supply to our customer base as a result. 
+asr:0: OUTPUT 2404.84-2411.83: And so while it may remain a dynamic situation for sure and uncertainty, the current picture is. 
+asr:0: OUTPUT 2411.85-2417.48: China has recovered quite nicely and our supply base is back to near full output. 
+asr:0: OUTPUT 2417.96-2423.42: And so at the moment there appears to be minimal delays coming from it. 
+asr:0: OUTPUT 2426.45-2430.21: Thanks a lot, I appreciate your time. Thank you. 
+asr:0: OUTPUT 2433.45-2439.52: It appears there are no further questions at this time. Mr. Iskup, I'd like to turn the conference back to you for any additional or closing remarks. 
+asr:0: OUTPUT 2441.12-2450.63: Okay, thank you, operator. And again, thanks to everyone for your participation and your interest in COLE. We look forward to updating you on our progress next quarter. Have a great day. 
+asr:0: OUTPUT 2453.23-2456.50: This concludes today's call. Thank you for your participation. You may now disconnect. 
+asr:0: END

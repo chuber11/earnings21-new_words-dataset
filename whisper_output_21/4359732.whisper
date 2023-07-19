@@ -1,0 +1,740 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.48-8.11: Ladies and gentlemen, welcome to CUNY Noggles Health Year 2020 results conference call. I am Sandra, the call operator. 
+asr:0: OUTPUT 8.67-13.51: I would like to remind you that all participants will be in listen-only mode and the conference is being recorded. 
+asr:0: OUTPUT 14.11-16.70: The presentation will be followed by a Q&A session. 
+asr:0: OUTPUT 17.10-21.38: You can register for questions at any time by pressing star and 1 on your telephone. 
+asr:0: OUTPUT 21.94-28.59: For operator assistance, please press star and zero. The conference must not be recorded for publication or broadcast. 
+asr:0: OUTPUT 29.17-34.09: At this time, it's my pleasure to hand over to Dr. Detlef Dresdegar, CEO of Kuhn & Nagel. 
+asr:0: OUTPUT 34.47-38.24: Please go ahead, sir. Thank you, Sandra. Good morning. 
+asr:0: OUTPUT 39.18-47.93: Good day, good afternoon, and good evening to all of you and welcome to the analyst conference on the semi-annual half year 2020 results. 
+asr:0: OUTPUT 47.95-49.97: Of Kühne & Nagel International AG. 
+asr:0: OUTPUT 50.69-56.08: Our CFO, Marcus Blanca, and I welcome you from sunny Switzerland. 
+asr:0: OUTPUT 57.44-66.05: We published our half-year results and the respective slide deck earlier today. And as always, let's get started on slide three. 
+asr:0: OUTPUT 67.81-69.13: Over the first year. 
+asr:0: OUTPUT 69.15-79.72: Over the first half of the year, the Kühne & Lager Group successfully managed to deliver excellent service for customers in the face of unprecedented challenges. 
+asr:0: OUTPUT 79.76-81.82: Caused by the COVID-19 pandemic. 
+asr:0: OUTPUT 82.38-93.73: This started with the very abrupt halt to Chinese exports in February, followed by lockdowns in March and a deliberate pace of day-to-day recovery. 
+asr:0: OUTPUT 94.49-96.56: Thanks to our dedicated colleagues. 
+asr:0: OUTPUT 96.60-112.17: At a seamless transition of approximately 45,000 staff to home office in a matter of days, our customers faced no degradation of service quality despite extraordinary volatility and demand for essential goods. 
+asr:0: OUTPUT 112.97-118.70: This culminated in substantial market share gains across all transactional business units. 
+asr:0: OUTPUT 119.60-121.24: From a financial perspective. 
+asr:0: OUTPUT 121.32-125.11: The group's performance in quarter 2 is a testament to our flexible. 
+asr:0: OUTPUT 125.13-133.71: Asset-light business model and our efforts to optimally variabilize a meaningful portion of our short-term fixed costs. 
+asr:0: OUTPUT 134.47-148.85: And looking at those four key figures that are in front of you, you will see that the net turnover decreased by 7.5%, heavily impacted by an FX effect of 5.9% versus previous year. 
+asr:0: OUTPUT 148.89-150.63: Gross profit. 
+asr:0: OUTPUT 152.35-161.98: Went down by 9.1% and the EBIT by 18% down to 419 million Swiss francs in the first half of 2020. 
+asr:0: OUTPUT 162.50-167.91: Earnings per share landed at 2.58 Swiss francs per share. 
+asr:0: OUTPUT 169.41-175.50: Please follow me on the next slide, slide four, with a couple of details on the group and the business unit. 
+asr:0: OUTPUT 176.46-183.44: Group earnings for the period of the first six months were at 309 million Swiss francs. 
+asr:0: OUTPUT 183.94-189.65: And we generated a strong free cash flow of 383 million Swiss francs. 
+asr:0: OUTPUT 190.35-194.05: Looking at the four business units, let's start with C Logistics. 
+asr:0: OUTPUT 194.27-204.76: We have seen an EBIT of 167 million Swiss francs, which were 28% below previous year as a result of a shift in cargo mix. 
+asr:0: OUTPUT 204.78-209.55: Less SME volumes and a positive RIFA and pharma development. 
+asr:0: OUTPUT 210.03-218.84: Also, the demand for rail solution, especially at China, started to pick up strongly as of June. 
+asr:0: OUTPUT 218.86-220.14: Last quarter. 
+asr:0: OUTPUT 220.90-226.79: Air logistics and EBIT of 181 million Swiss francs has been achieved. 
+asr:0: OUTPUT 226.81-241.68: Which is 4% higher than previous year, based on a high demand for crisis goods, but also a demand for special solutions such as sea and air volumes, which more than tripled in quarter two 2020. 
+asr:0: OUTPUT 243.16-248.75: Road logistics ended the first semester with an EBIT of 26 million Swiss francs. 
+asr:0: OUTPUT 249.49-258.88: All networks were maintained and Europe now is slowly recovering while the Americas are still suffering from the effects of the pandemic. 
+asr:0: OUTPUT 260.32-268.79: And contract logistics ended the first semester with an EBIT of 45 million Swiss francs, 21% below previous year. 
+asr:0: OUTPUT 269.27-272.29: Seeing a high demand of essential goods. 
+asr:0: OUTPUT 272.31-279.78: And answering the gross profit decline with strict cost management almost matching. 
+asr:0: OUTPUT 280.00-281.40: The gross profit development. 
+asr:0: OUTPUT 283.68-292.37: On slide six, we will discuss briefly the volume development in sea logistics and air logistics. 
+asr:0: OUTPUT 293.23-295.54: Please let me start with C Logistics first. 
+asr:0: OUTPUT 296.30-304.76: We have a pronounced efforts in C logistic, especially on maintaining our own networks in C logistic, especially on maintaining. 
+asr:0: OUTPUT 304.80-310.99: Our own network capacity, which yielded in significant market share gains across all segments. 
+asr:0: OUTPUT 311.33-315.88: But especially in pharma and referred and the e-commerce segment. 
+asr:0: OUTPUT 316.64-322.16: The cargo mix, I mentioned that before, showed a significantly lower SME volume. 
+asr:0: OUTPUT 322.56-327.85: And this is a higher yielding as we have mentioned in some of our previous calls. 
+asr:0: OUTPUT 328.91-336.06: The market demand is continuously recovering over the course of quarter two, but it's still below previous year. 
+asr:0: OUTPUT 336.26-344.50: Let me give you some hints on how market, sorry, how our volume developed month by month in quarter two. 
+asr:0: OUTPUT 344.80-349.27: We saw April was a 15%, 1.5% volume decrease. 
+asr:0: OUTPUT 350.07-355.54: But gaining market share ended our volumes in May by only minus 12%. 
+asr:0: OUTPUT 356.10-361.48: And the June volumes already showed a minus 8% volume decrease. 
+asr:0: OUTPUT 361.94-368.61: So gradually, we see volumes picking up again, but still lower than previous years. 
+asr:0: OUTPUT 370.01-389.07: In total, we shipped 217,000 TULs in our networks, which resulted into 11.7% reduction in quarter two and a 9.1% reduction in volumes for the first semester 2020 for C logistics. 
+asr:0: OUTPUT 390.71-399.26: Air logistics saw a significantly lower demand for dry cargo and parachutists and both are lower yielding as you know. 
+asr:0: OUTPUT 399.72-404.00: A strong demand for essential goods, which were higher yielding. 
+asr:0: OUTPUT 404.38-412.07: And mainly produced or operated in a charter or via charter business. 
+asr:0: OUTPUT 412.15-421.48: Because the recovery of belly is not expected to see or show significant effects before quarter four this year. 
+asr:0: OUTPUT 422.48-433.13: Soaring demand for C&L solutions and also a monthly development that was rather stable by minus 23 to minus 20%. 
+asr:0: OUTPUT 433.15-434.25: April to June. 
+asr:0: OUTPUT 435.14-440.64: In total, the first semester, a reduction in volume of minus 15.5%. 
+asr:0: OUTPUT 441.72-449.15: How does this translate now into the unit performance of the business units? 
+asr:0: OUTPUT 449.41-458.22: And please follow me on slide 7 first, C Logistics. Mentioned this already two times. Now for the third time, carbomixes lower SME volumes. 
+asr:0: OUTPUT 458.26-465.23: Volume gains in pharma, e-commerce, and refurb, and a stable margin development per unit in constant currency. 
+asr:0: OUTPUT 465.99-475.30: On the next slide, slide eight, you see the details of the development. The gross profit mix is the driver of the unit profitability. 
+asr:0: OUTPUT 475.80-482.28: And with an FX effect, a currency effect of 6%, minus 6%. 
+asr:0: OUTPUT 482.30-483.96: On the unit basis. 
+asr:0: OUTPUT 484.26-486.05: You have. 
+asr:0: OUTPUT 486.07-494.43: Or you see a constant development or a constant margin per TOI, per TEU in quarter two. 
+asr:0: OUTPUT 494.45-495.64: This year. 
+asr:0: OUTPUT 496.14-505.55: All cost measures were intact, and including the tailwind from FX or from currency, we saw a reduction in the cost. 
+asr:0: OUTPUT 505.57-508.23: Level per unit as well. 
+asr:0: OUTPUT 509.85-511.13: The event. 
+asr:0: OUTPUT 511.15-520.00: Per TU is well below our normal EBIT per TU, but this includes also headwind from currency of 6%. 
+asr:0: OUTPUT 520.66-524.52: So in total, we are at the lower end of the range that we usually pursue. 
+asr:0: OUTPUT 524.54-531.13: The 80 to 100 Swiss francs T.U. EBIT per T.U. 
+asr:0: OUTPUT 532.45-537.42: But it's recovering, and we also see some seasonal effects kicking in. 
+asr:0: OUTPUT 539.42-543.74: We are focusing especially in C Logistics on excellent customer service. 
+asr:0: OUTPUT 543.76-552.77: And we have one significant business, which already related or resulted in less volume reductions than. 
+asr:0: OUTPUT 552.79-555.50: One might have expected from the market development. 
+asr:0: OUTPUT 556.10-563.42: And quarter two has been stronger and improving month by month with regards to. 
+asr:0: OUTPUT 563.44-567.89: Both volume, margin, and unit profitability. 
+asr:0: OUTPUT 569.61-570.85: Live mine. 
+asr:0: OUTPUT 571.01-577.54: Air logistics, the general cargo volume declined significantly. I will comment on this on the next slide. 
+asr:0: OUTPUT 577.92-581.18: And the demand for higher yielding crisis goods has soared. 
+asr:0: OUTPUT 582.42-587.87: The market demand has been much weaker in quarter two as anticipated, we have to say. 
+asr:0: OUTPUT 588.75-596.30: The regular dry cargo, so the general cargo, the normal cargo that we transport, especially in the belly capacity. 
+asr:0: OUTPUT 596.32-600.24: Has been down by minus 40 to minus 50 percent. 
+asr:0: OUTPUT 601.04-603.48: This has been offset by crisis volumes. 
+asr:0: OUTPUT 603.50-607.61: Essential goods but not only crisis volumes. 
+asr:0: OUTPUT 607.63-615.98: Essential goods, but not only PPE, but also packaged food, packaged. 
+asr:0: OUTPUT 616.00-619.08: Food, as well as e-commerce volumes. 
+asr:0: OUTPUT 619.80-623.26: Went into that segment. 
+asr:0: OUTPUT 623.96-632.43: Parachutists were down in April and May, but the recovery started already in June. And we also see hard cargo or general cargo coming. 
+asr:0: OUTPUT 632.45-635.54: Back step by step as of June this year. 
+asr:0: OUTPUT 637.46-639.76: We had a spike in charter business. 
+asr:0: OUTPUT 639.78-649.05: While belly was not existing, which led to unit figures that are skewed by a different way of producing logistics. 
+asr:0: OUTPUT 649.45-659.00: And our unit yield, as you can see, is clearly above our normal range of 70 to 85 Swiss francs per 100 kilo. 
+asr:0: OUTPUT 659.84-668.53: Sorry, no. 
+asr:0: OUTPUT 669.07-675.72: The unit EBIT is also above normal despite higher currency headwinds. 
+asr:0: OUTPUT 675.76-683.96: And this marks a 50% increase in quarter two versus previous quarter due to the beneficial volume mix. 
+asr:0: OUTPUT 684.66-694.33: The cost consciousness also in this business unit, as well as the first airlock efficiencies that we have seen kicking in into that segment. 
+asr:0: OUTPUT 696.94-701.14: Slide 11, a short overview on road logistics. 
+asr:0: OUTPUT 701.72-703.80: Europe is slowly recovering. 
+asr:0: OUTPUT 704.18-713.31: While the volumes in America stay at a low and very low level at the moment, this is true for both intermodal as well as. 
+asr:0: OUTPUT 713.33-714.47: Truck brokerage. 
+asr:0: OUTPUT 715.38-717.56: We have seen slide 12 now. 
+asr:0: OUTPUT 717.68-727.25: We have seen a faster massive deterioration of volumes in Europe at the start of quarter two and I think we mentioned that when we when we had our quarter one. 
+asr:0: OUTPUT 727.27-728.85: Analyst call with you. 
+asr:0: OUTPUT 730.01-735.68: And the order of magnitude has been higher than 50% volume reductions. 
+asr:0: OUTPUT 735.96-739.32: But that was true for two or three weeks only. 
+asr:0: OUTPUT 739.52-748.65: And we see a steady volume recovery step by step, especially in domestic transports in Europe at the moment. 
+asr:0: OUTPUT 749.53-756.62: US followed with a sharp volume decline end of April and especially intermodal more or less collapse. 
+asr:0: OUTPUT 756.80-759.50: And we see a steady recovery. 
+asr:0: OUTPUT 759.54-767.89: Since June in Europe and a stabilization on a low level in the US at the moment. 
+asr:0: OUTPUT 769.51-779.20: International and cross-border, which is the higher yielding business, those transports are still lagging. But also here, we see volumes coming back. 
+asr:0: OUTPUT 780.88-790.71: All our networks have been maintained and we are ready to deal with the cargo kicking in and in some markets, I will not say the geography. 
+asr:0: OUTPUT 791.53-798.42: We have even had to reject certain volumes because our networks were filled again in June. 
+asr:0: OUTPUT 799.00-801.32: That's true for domestic transport. 
+asr:0: OUTPUT 803.00-811.53: We saw a very strong growth in bookings on our digital road platform called eTruckNow. 
+asr:0: OUTPUT 811.99-818.04: And we have been able to roll this out even. 
+asr:0: OUTPUT 818.06-823.86: In a virtual environment over the last couple of months in many Asian countries. 
+asr:0: OUTPUT 823.88-828.19: And we see the volume soaring on that platform at the moment. 
+asr:0: OUTPUT 829.01-830.85: While it. 
+asr:0: OUTPUT 830.87-838.74: Was 42% below previous year, we generated a positive EBIT of 26 million Swiss francs. 
+asr:0: OUTPUT 838.78-841.20: And in our best case scenario. 
+asr:0: OUTPUT 841.62-849.97: We would not have expected a positive quarter two in road logistics given the character of our network. 
+asr:0: OUTPUT 850.47-858.94: So we are very proud of what has been achieved here, countering volume reductions with cost measures. 
+asr:0: OUTPUT 860.60-870.23: Slide 13, contract logistics. And I have to say contract logistics showed high resilience and it showed two faces. 
+asr:0: OUTPUT 870.93-880.68: The ugly phase, if I may say so, was industries that clearly were down trading, automotive and industrial to name two. 
+asr:0: OUTPUT 881.26-891.23: And we had complete shutdowns by customers and sometimes by governments in those industries for two, three, four, six, up to eight weeks. 
+asr:0: OUTPUT 891.75-899.64: And some of the volumes have not recovered even to a sizable. 
+asr:0: OUTPUT 899.66-902.74: Level again than prior to the crisis. 
+asr:0: OUTPUT 902.94-908.73: And there was a couple of nice faces that we saw or up trading industries. 
+asr:0: OUTPUT 908.97-912.95: The pharma and healthcare industry, up-trading industries. 
+asr:0: OUTPUT 913.09-914.93: The pharma and healthcare industry. 
+asr:0: OUTPUT 915.14-923.50: The industry for essential goods, which is packaged food and food and consumables and also e-commerce. 
+asr:0: OUTPUT 923.76-934.23: And here the volumes were well above seasonal peaks and we had extra shifts that we had to introduce, especially on the weekends, to cope with the soaring and spiking demand. 
+asr:0: OUTPUT 935.10-942.80: 90% or up to 85 to 90% of our sites remained open throughout the whole crisis. 
+asr:0: OUTPUT 943.26-948.81: And currently, we only have 12 sites that are still closed out of more than 600 sites globally. 
+asr:0: OUTPUT 949.21-960.20: So we see a clear confirmation that 50% of our solution portfolio is related to. 
+asr:0: OUTPUT 960.22-965.31: Essential goods and this demand has never stopped or has never been reduced. 
+asr:0: OUTPUT 966.89-972.11: Some details on the contract logistics business unit on slide 14. 
+asr:0: OUTPUT 973.51-980.10: The implementation of the covert 19 SOP operating procedures across all operation. 
+asr:0: OUTPUT 980.12-985.53: Were introduced, but they also added a lot of cost and a loss of efficiencies. 
+asr:0: OUTPUT 985.89-992.71: While we were doing everything to protect our staff, we lost clearly efficiencies. 
+asr:0: OUTPUT 993.43-1003.20: Cleaning, disinfection between shifts, no overlap of shifts anymore, segregation of workflow between shifts led to a lower productivity. 
+asr:0: OUTPUT 1003.22-1005.02: And higher costs, obviously. 
+asr:0: OUTPUT 1005.41-1007.37: But the excellence. 
+asr:0: OUTPUT 1007.41-1015.56: The excellent cost management that contract logistics introduced immediately with the crisis becoming one. 
+asr:0: OUTPUT 1015.68-1025.65: So as of February, clearly showed progress and we were excluding the pressure from the exchange rate. 
+asr:0: OUTPUT 1025.93-1034.31: We were able to counter the top line revenue pressure with cost measures almost entirely. 
+asr:0: OUTPUT 1034.33-1039.06: That is for such a huge business unit employing so many people. 
+asr:0: OUTPUT 1039.08-1041.58: A huge effort and a great result. 
+asr:0: OUTPUT 1042.76-1043.90: So the. 
+asr:0: OUTPUT 1043.94-1051.41: High portion in our solution portfolio of essential goods showed high resilience. 
+asr:0: OUTPUT 1051.49-1058.02: And the lease that largely backed by contracts with customers back to back. 
+asr:0: OUTPUT 1058.04-1061.84: We have more than 50% of our sites are so-called dedicated sites. 
+asr:0: OUTPUT 1062.24-1069.33: So we were not exposed to an over-proportional lease without any activity in too many sites. 
+asr:0: OUTPUT 1069.89-1076.42: Nevertheless, we saw a development end of quarter one and early quarter two. 
+asr:0: OUTPUT 1076.48-1087.23: But if you look into the figures, the overall performance, including the effects is only 11.3%. 
+asr:0: OUTPUT 1087.25-1095.14: Lower net turnover and in EBIT almost on the level of previous year quarter 2. 
+asr:0: OUTPUT 1095.76-1104.52: And having said so, I am happy to hand over to my colleague, Markus, to lead you through the key financial figures. 
+asr:0: OUTPUT 1105.93-1109.79: Thank you very much, Douglas. Welcome to all participants, also from my side. 
+asr:0: OUTPUT 1110.81-1113.43: A very special second quarter indeed. 
+asr:0: OUTPUT 1114.59-1118.64: At a time that was characterized by unusual business patterns. 
+asr:0: OUTPUT 1119.48-1127.13: I think we had quite some opposite focus on business management focus in the business unit. 
+asr:0: OUTPUT 1128.11-1134.09: Air freight can be described by just make it happen. 
+asr:0: OUTPUT 1134.43-1138.52: Times where customers as much as on the carrier side. 
+asr:0: OUTPUT 1138.72-1143.64: I think a lot of creativity was being required to make things happen. 
+asr:0: OUTPUT 1144.12-1152.93: On the other side, as Natalij has mentioned in contract logistics, clear focus on cost containment and cost management. 
+asr:0: OUTPUT 1153.49-1156.74: So a lot of times we have been. 
+asr:0: OUTPUT 1156.76-1163.82: Confronted with the fact that traditional KPIs, key performance indicators, have been not extremely helpful. 
+asr:0: OUTPUT 1164.88-1169.45: We needed to look differently at the business because it was a very special situation. 
+asr:0: OUTPUT 1170.01-1177.28: But, and I want to lead you on the page number 16, I think the result ultimately was a quite good one. 
+asr:0: OUTPUT 1178.00-1185.19: And when you look at the magnitude of impact, what such an unusual business can happen is,. 
+asr:0: OUTPUT 1185.35-1191.57: When you look at the gross profit development from the first and the second quarter compared to last year,. 
+asr:0: OUTPUT 1191.93-1198.34: We have actually lost in the second quarter 265 million gross profit compared to last year. 
+asr:0: OUTPUT 1199.00-1201.48: That is two and a half times more than in the first quarter. 
+asr:0: OUTPUT 1201.76-1204.42: However, on an MBDA level,. 
+asr:0: OUTPUT 1204.66-1212.15: We actually have been at the same, even better level than compared to the first quarter. 
+asr:0: OUTPUT 1212.41-1216.26: So we only, if you like, still a big number, but a quarter. 
+asr:0: OUTPUT 1216.54-1224.08: So we only, if you like, still a big number, but only had a reduction in FHDA of 30 million. 
+asr:0: OUTPUT 1224.34-1227.43: Out of a gross profit reduction of 265. 
+asr:0: OUTPUT 1227.71-1236.10: So there's quite a lot of the cost contained and the cost management in between that I think you can appreciate. 
+asr:0: OUTPUT 1236.12-1240.26: Was quite a piece of hard work to get that done. 
+asr:0: OUTPUT 1241.88-1246.15: Going further down in the PNL, of course, on an EBT level. 
+asr:0: OUTPUT 1246.23-1252.63: Yes, we are around 18% behind last year on a half-year basis. 
+asr:0: OUTPUT 1252.75-1255.28: So 90 million, nine zero. 
+asr:0: OUTPUT 1256.30-1263.46: Of which, and that's not an excuse, just the fact of around 20 million are coming out of foreign currency exchange. 
+asr:0: OUTPUT 1263.52-1270.79: 70 million from an operational perspective reduction versus last year. 
+asr:0: OUTPUT 1271.35-1279.60: So in relative terms, I believe the second quarter, and that's also very apparent, was even better than the first quarter. 
+asr:0: OUTPUT 1281.92-1291.35: Page number 17, let's talk about air and sea freight in that context, the eTouch project and the automation. 
+asr:0: OUTPUT 1291.37-1293.13: Initiatives behind that. 
+asr:0: OUTPUT 1293.55-1303.00: We have presented the potential of the e-touch initiatives in commercial terms at our full year 2019 presentation. 
+asr:0: OUTPUT 1303.06-1306.63: So what you see here is merely an update where we stand. 
+asr:0: OUTPUT 1307.43-1312.75: It's not a new assessment of values. It's just an update on progress. 
+asr:0: OUTPUT 1313.23-1319.76: And I think you can appreciate we have set the baseline in many areas in air freight. 
+asr:0: OUTPUT 1320.84-1325.81: Our operating system airlock is fully rolled out in 2019. 
+asr:0: OUTPUT 1325.83-1332.47: 2019, which is a prerequisite for many of the eTouch initiatives, not all of them, but many of those. 
+asr:0: OUTPUT 1333.11-1334.25: And you can see. 
+asr:0: OUTPUT 1334.29-1345.31: Despite the fact that Q2 had been a challenging environment to put through a project, but we have continued to drive eTouch initiatives. 
+asr:0: OUTPUT 1345.35-1348.59: And we made pretty good progress, at least in one. 
+asr:0: OUTPUT 1350.21-1355.12: Of the five core areas, the one that is customer booking and order entry. 
+asr:0: OUTPUT 1357.06-1366.51: I think the message here is yes, do not expect any miracles right now in the current situation with still over a good three months. 
+asr:0: OUTPUT 1366.53-1374.57: People working partially from home, partially just what I said, trying to keep up service in an excellent manner. 
+asr:0: OUTPUT 1374.81-1382.12: That some of these projects have a slight delay. The message that I want to give you here is eTouch is on track. 
+asr:0: OUTPUT 1383.66-1391.75: Page number 18, balance sheet. I'm only going to talk about three, four components, of course, some of them housekeeping. 
+asr:0: OUTPUT 1392.03-1399.94: First one, trade receivables, biggest item on the balance sheet, 3.2, 3.3. 
+asr:0: OUTPUT 1399.98-1403.10: Billion by the end of June 2020. 
+asr:0: OUTPUT 1403.14-1405.53: Compared to 3.6 billion. 
+asr:0: OUTPUT 1406.27-1414.11: And not surprisingly, again, here we see a position where business volume has reduced slightly. 
+asr:0: OUTPUT 1414.47-1418.54: And you know it's a function basically of rates and volume. 
+asr:0: OUTPUT 1418.88-1425.81: And of course, a currency impact also on that position that is reducing the overall demand. 
+asr:0: OUTPUT 1426.69-1431.21: Secondly, and arguably more important, cash and cash equivalent. 
+asr:0: OUTPUT 1432.85-1438.54: I think our balance sheet is strong with a gross cash position here of nearly 1.2 billion. 
+asr:0: OUTPUT 1440.00-1443.92: Translated into net cash of around $760 million. 
+asr:0: OUTPUT 1444.00-1453.37: Which compares to roughly 900 million, respectively 480 million by the end of the first quarter 2020. 
+asr:0: OUTPUT 1454.33-1459.02: Simple terms, a very good development in cash generation. 
+asr:0: OUTPUT 1460.42-1464.36: In light, I think, of the decision, and you have read it in the news today,. 
+asr:0: OUTPUT 1464.40-1470.61: In light of the decision to propose the distribution of a dividend to the shareholders of four Swiss francs. 
+asr:0: OUTPUT 1471.53-1479.12: We have calculated a pro forma net cash position at that point in time and that would still be positive with 280 million. 
+asr:0: OUTPUT 1480.38-1489.97: Just as a housekeeping topic here, you're aware that we have a revolving credit facility available to us, which is entirely undrawn. 
+asr:0: OUTPUT 1490.11-1497.54: So nothing has been used so far in the extent or at the frame of 750 million. 
+asr:0: OUTPUT 1499.12-1500.46: Coming back to. 
+asr:0: OUTPUT 1500.50-1507.25: The next item on the balance sheet, asset held for sale. Also here, information purposes. This is the value. 
+asr:0: OUTPUT 1507.27-1511.75: That we have or that is the scope of the business. 
+asr:0: OUTPUT 1512.61-1516.58: That we have signed a contract of divestment with the XPO. 
+asr:0: OUTPUT 1516.68-1520.70: You can see here very transparent as it held for sale. 
+asr:0: OUTPUT 1520.84-1529.25: You can see here very transparent as it held for sale 400 million liabilities associated with these assets held for sale 300. 
+asr:0: OUTPUT 1529.29-1534.87: So the net asset value of that business to be carved out is around 100 million. 
+asr:0: OUTPUT 1535.76-1545.21: Equity ratio, I'm sure you have already calculated that yourself. From December 23.6%, an increase to 25.9%. 
+asr:0: OUTPUT 1545.61-1554.17: So I think the solidity of the balance sheet is also in these rough times and unusual times a benefit. 
+asr:0: OUTPUT 1555.30-1559.10: Nevertheless, balance sheet is one thing cash is king. 
+asr:0: OUTPUT 1560.00-1566.23: So main topic, cash, going swiftly to page number 19. 
+asr:0: OUTPUT 1567.39-1574.19: Operational cash flow, you can see that here in the first half 2020 is around 804 million. 
+asr:0: OUTPUT 1574.51-1581.14: Similar level than last year with around 872 million. 
+asr:0: OUTPUT 1582.20-1587.47: However, when we go down a little bit and look at the total cash and cash equivalent situation,. 
+asr:0: OUTPUT 1587.81-1592.41: We have an increase on the cash balance of around 666 million. 
+asr:0: OUTPUT 1593.55-1601.34: Be reminded at that point in time that included last year a dividend payment to the amount of 720 million. 
+asr:0: OUTPUT 1601.68-1604.76: So comparably at similar level. 
+asr:0: OUTPUT 1605.03-1606.97: Free cash flow generation. 
+asr:0: OUTPUT 1607.33-1615.88: Really what we are looking at. Very resilient, free cash flow generation also in the second quarter. So I'm talking second quarter, not half year. 
+asr:0: OUTPUT 1616.20-1622.10: In the second quarter of 227 million, which compares to 223 million. 
+asr:0: OUTPUT 1622.42-1631.73: So let's talk about crisis or non-crisis free cash flow generation has been at the very same level as last year. 
+asr:0: OUTPUT 1633.41-1639.78: Excluding some of the disposals, and this gives you a bit of an idea on how much extraordinary. 
+asr:0: OUTPUT 1639.80-1647.13: Components are in there, excluding the disposals, the underlying free cash flow for the second quarter was still 221. 
+asr:0: OUTPUT 1647.39-1657.04: So the swing that we talk due to disposals is a very neglectable, I think, 6 million out of the free cash. 
+asr:0: OUTPUT 1659.62-1666.45: For everybody who runs some of the models, I think you can see here from the investing activities. 
+asr:0: OUTPUT 1666.77-1672.49: The cross capex, the run rates or the capex that we spend into the business. 
+asr:0: OUTPUT 1672.51-1680.34: Is currently aiming at around 200 million on an annual basis, which is significantly lower. 
+asr:0: OUTPUT 1680.36-1683.06: Than we had it seen over the last couple of years. 
+asr:0: OUTPUT 1684.48-1692.37: Some of the drivers of course is the country logistics disposal of part of the UK business. 
+asr:0: OUTPUT 1692.45-1700.52: At the same time, we're also very diligently working on the usage of long-term leases according to IFRS 16. 
+asr:0: OUTPUT 1700.70-1703.10: Rather than outright purchase. 
+asr:0: OUTPUT 1705.23-1713.63: Looking at the pattern in time, so the trajectory of the free cash flow, I think when you look at the curves on the page 19 on the right side,. 
+asr:0: OUTPUT 1714.81-1721.88: There is no reason to believe that that should look differently at least in the third quarter than it was last year. 
+asr:0: OUTPUT 1722.48-1727.03: Again, be reminded in the fourth quarter, we had some extraordinary impact in 2009. 
+asr:0: OUTPUT 1727.83-1736.42: So we should expect a more even development into the fourth quarter also for 2020. 
+asr:0: OUTPUT 1737.82-1744.42: Going to page number 20, and I only touched the accounts receivable quickly on the balance sheet. 
+asr:0: OUTPUT 1745.61-1754.29: When I'm when I talked about the balance sheet here, you see, trade receivables have decreased over a year of a year by around 400 million. 
+asr:0: OUTPUT 1755.22-1763.76: The reasons that I mentioned already, trade payables by around 260 million. So our net working capital is down around 146 million. 
+asr:0: OUTPUT 1765.35-1774.05: What's more important, our KPIs and DSOs and DPOs, we were able to keep, especially on the DSO side, days of sales outstanding. 
+asr:0: OUTPUT 1774.95-1780.88: A number around 54, 55. So we have a deviation of 0.4 days. 
+asr:0: OUTPUT 1782.70-1791.93: Many questions coming along our way, obviously, in is there pressure from customers on extended payment terms? Yes, there is. Very clear. Yes, there is. 
+asr:0: OUTPUT 1792.83-1797.58: I think we will see more pressure coming in the third and fourth quarter. 
+asr:0: OUTPUT 1798.64-1807.43: We are holding up quite well. I think service is one of the important arguments to maintain. 
+asr:0: OUTPUT 1807.45-1809.01: The DSOs. 
+asr:0: OUTPUT 1809.55-1816.78: At the same time, I think our focus moves towards the risk profile behind the counterparties. 
+asr:0: OUTPUT 1817.78-1818.84: I do expect. 
+asr:0: OUTPUT 1819.00-1823.34: I do expect going forward for the next two to three quarters. 
+asr:0: OUTPUT 1823.36-1830.89: An increase in the risk to three quarters, an increase in the risk profile on counterparty risk. 
+asr:0: OUTPUT 1833.25-1843.24: So nothing bad happened so far. I want to underline that. It's no big defaults or anything like that. 
+asr:0: OUTPUT 1843.38-1847.67: But I would expect that the pressure is also here. 
+asr:0: OUTPUT 1847.69-1853.53: Getting higher until the end of the year and maybe into the first half year 2021. 
+asr:0: OUTPUT 1855.26-1861.72: Return on capital employed, page number 21, page number 21. 
+asr:0: OUTPUT 1862.66-1871.51: You see that little infliction point that we had here from 60% up to 66, 67. And I think that was a, that was a good sign. 
+asr:0: OUTPUT 1871.83-1878.94: So now we see a little bit the COVID-19 effect that pushes down to 62% again. 
+asr:0: OUTPUT 1879.92-1888.69: Very clear and I just wrote it for clarity, just beside it, the sudden decrease of the profitability that we have seen also on the P&L. 
+asr:0: OUTPUT 1888.81-1896.96: On a very similar acid base is obviously mathematically leading to a bit of a compression on this. 
+asr:0: OUTPUT 1897.72-1906.37: However, from a target perspective, we maintain our financial targets. 
+asr:0: OUTPUT 1906.55-1910.91: With around 70% return on capital employed that should be possible. 
+asr:0: OUTPUT 1913.05-1921.46: The good news and at the same time I think the expected also from some of you news is on the next page, page number 22. 
+asr:0: OUTPUT 1923.10-1930.07: Dividend proposal, just to put also some clarity around conversations we had over the last years. 
+asr:0: OUTPUT 1931.03-1934.95: You know that we never had a formal rich and dividend policy. 
+asr:0: OUTPUT 1935.10-1943.70: As it is, all decision-making power remains with the Board of Directors and the General Assembly. 
+asr:0: OUTPUT 1945.31-1954.01: That having said, the actual payout ratio in the recent years was always consistent with also our verbal communication to a distribution. 
+asr:0: OUTPUT 1954.03-1959.02: Of around 75% of the net profit after tax. 
+asr:0: OUTPUT 1960.00-1971.13: Clearly, now the BOD's proposal is based on the assessment of the market conditions. 
+asr:0: OUTPUT 1971.15-1977.46: And also the group's performance and likely ongoing performance. 
+asr:0: OUTPUT 1977.64-1989.53: And, as you can see here, the proposal to the extraordinary general meeting on 2 September will be to pay out a dividend of 4 Swiss francs. 
+asr:0: OUTPUT 1990.89-1996.40: Financial targets and last slide from my presentation. 
+asr:0: OUTPUT 1997.00-2002.64: I think you see on the left side the group financial target. 
+asr:0: OUTPUT 2003.00-2008.33: Conversion rate 11 to 16%. I think everybody's clear one of the main drivers, eTouch. 
+asr:0: OUTPUT 2009.13-2017.02: Return on capital employed, I just spoke about it, I think, when we come back to regular profitability based on our asset base. 
+asr:0: OUTPUT 2017.36-2019.66: 70% is in reach. 
+asr:0: OUTPUT 2020.12-2029.53: Working capital intensity, I want to talk about that first. Working capital intensity currently 3.9%. And you might have noticed. 
+asr:0: OUTPUT 2029.65-2039.60: I have intentionally widened a little bit the corridor from top end 4.5% to 5%. 
+asr:0: OUTPUT 2040.00-2049.81: For a simple reason, because I believe that is anticipating a reflection of pressure on counterparty risk. 
+asr:0: OUTPUT 2049.83-2054.15: And potential DSOs for the next four quarters. 
+asr:0: OUTPUT 2055.76-2061.66: Tax rate, tax rate I think very important to look at this one. It's a housekeeping topic. 
+asr:0: OUTPUT 2062.44-2066.47: For you also to update on your models. 
+asr:0: OUTPUT 2067.43-2071.79: We expect a group effective tax rate. 
+asr:0: OUTPUT 2071.81-2079.68: Of around 24 to 26 percent up from around 24 to 25 as per our latest communication. 
+asr:0: OUTPUT 2080.04-2085.71: This is just reflecting the current shift in the business and geographic mix. 
+asr:0: OUTPUT 2085.75-2088.93: So just that you're not surprised on your models. 
+asr:0: OUTPUT 2090.59-2097.02: Right side, the four business units, you see the first line, our actual performance in volumes. 
+asr:0: OUTPUT 2097.36-2101.92: But underneath the part that everybody was really waiting for. 
+asr:0: OUTPUT 2102.14-2107.39: That is the update on the market expectations for 2020 and the outlook. 
+asr:0: OUTPUT 2107.67-2113.51: And as you can imagine, I think we're in line with many of our peers. We are not giving any. 
+asr:0: OUTPUT 2114.83-2119.32: You know, I think the performance that the group has shown so far. 
+asr:0: OUTPUT 2120.10-2124.44: Gives us a certain confidence in our ability also to manage through. 
+asr:0: OUTPUT 2124.50-2136.60: What we believe is going to still be volatile and highly uncertain market also for the rest of the year. 
+asr:0: OUTPUT 2137.02-2142.92: And as the market outlook remains extremely uncertain to us as well. 
+asr:0: OUTPUT 2143.04-2152.15: We offer again no explicit financial guidance for the group nor volume guidance until the end of the year. 
+asr:0: OUTPUT 2152.49-2156.12: Very sorry for that, but at the current stage, you will have to. 
+asr:0: OUTPUT 2156.52-2164.42: Or we will all have to live with guessworking and a bit of color of what we said on our past performance. 
+asr:0: OUTPUT 2165.81-2172.11: With that little lack of outlook, I will hand over to Dantlef and. 
+asr:0: OUTPUT 2174.23-2182.50: Thank you, Marcus. And the lack of outlook maybe marks the whole year because in the pandemic, we have to fly on site. 
+asr:0: OUTPUT 2182.62-2184.32: That is the saying we have. 
+asr:0: OUTPUT 2184.46-2185.85: As far as we can look ahead. 
+asr:0: OUTPUT 2185.87-2194.83: We initiate measures and activities and the rest is agility, adaptivity to a situation that you can't really predict. 
+asr:0: OUTPUT 2196.00-2198.96: On slide 24, I want to make a couple of remarks. 
+asr:0: OUTPUT 2200.30-2208.25: Logistics is and will stay people's business, even in a more and more digital environment. And we have embarked on this route. 
+asr:0: OUTPUT 2208.93-2217.30: Our roadmap 2022, which started in 2018, and we are in the middle of that roadmap deployment. 
+asr:0: OUTPUT 2217.32-2219.58: Blends customer technology and people. 
+asr:0: OUTPUT 2220.40-2226.69: And we believe that the COVID-19 pandemic and the last six months have clearly shown that we have embarked on the right strategy. 
+asr:0: OUTPUT 2227.77-2237.18: We stayed fully operational throughout the crisis and continued serving our customers with our high quality services. 
+asr:0: OUTPUT 2237.20-2238.36: Throughout the work. 
+asr:0: OUTPUT 2239.12-2248.71: And I would heartily like to thank our colleagues for their commitment and passion and to our customers for their trust and loyalty. 
+asr:0: OUTPUT 2249.57-2258.54: Thank you. Without you, the first semester would have looked differently. And that's the energy and passion of the best logistics team in our industry. 
+asr:0: OUTPUT 2259.10-2264.24: And having said so, I would like to hand over back to Sandra to open Q&A. 
+asr:0: OUTPUT 2266.35-2273.19: We will now begin the question and answer session. Anyone who wishes to ask a question may press star and one on the touchtone telephone. 
+asr:0: OUTPUT 2273.71-2276.44: You will hear a tone to confirm that you have entered a queue. 
+asr:0: OUTPUT 2276.98-2284.76: If you wish to remove yourself from the question queue, you may press star and two. Participants are requested to use only hands as well asking a question. 
+asr:0: OUTPUT 2285.25-2288.31: Anyone with a question may press star and 1 at this time. 
+asr:0: OUTPUT 2290.23-2294.11: The first question comes from Daniel Rushka from Sanford, Bernstein. Please go ahead. 
+asr:0: OUTPUT 2295.50-2297.98: Thanks for taking the questions. 
+asr:0: OUTPUT 2298.76-2306.05: Could you elaborate what is enabling the market share gain, especially during a crisis like this one, in your view, and kind of who's losing it? 
+asr:0: OUTPUT 2306.99-2313.15: And then how much of that market share gain will you be able to retain as things move more back to normal? 
+asr:0: OUTPUT 2314.53-2322.22: You also talked a little bit about your cost reduction efforts and in today's report you showed about 87,000 employees down from... 
+asr:0: OUTPUT 2323.12-2332.85: About 98 last year at the same point. Now, how much of that decrease, let's call it a rough 10,000 employees, is driven by the temporary furlough programs? 
+asr:0: OUTPUT 2333.41-2339.96: And how much due to actual sustainable reductions that then will benefit you kind of as you ramp back up. 
+asr:0: OUTPUT 2340.58-2348.83: And tying this also to eTouch, back at the financial year results, you talked about 20 million annualized savings so far. 
+asr:0: OUTPUT 2349.95-2353.95: Any indication on how this has progressed in the past six months and. 
+asr:0: OUTPUT 2354.77-2357.02: Do you expect that. 
+asr:0: OUTPUT 2357.04-2367.49: The automation will enable you to keep staff numbers lower as volumes go back up or how are you thinking about kind of really driving eTouch through the business. Thanks. 
+asr:0: OUTPUT 2368.95-2375.28: Thanks, Daniel. Let me answer those questions. Let me start with the latter one because we have alluded to that a couple of times. 
+asr:0: OUTPUT 2375.32-2379.44: It's not about staff reduction. ETouch is enabling us to do more business. 
+asr:0: OUTPUT 2379.86-2389.83: And to drive business segments or growth in business segments with a traditionally lower margin, but with the high conversion rate still very attractive to us. 
+asr:0: OUTPUT 2389.97-2391.09: That is eTouch. 
+asr:0: OUTPUT 2392.45-2394.63: MarketShare gains, we have mentioned that. 
+asr:0: OUTPUT 2395.01-2397.88: We were able to gain market share because. 
+asr:0: OUTPUT 2398.16-2407.23: We changed the whole organization into addressing actively customers after Easter. 
+asr:0: OUTPUT 2407.59-2414.19: So we were engaged with all existing customers and potential customers, target customers as we call them. 
+asr:0: OUTPUT 2414.23-2419.24: And we had interaction virtually with all of them a couple of times throughout the week and month. 
+asr:0: OUTPUT 2419.70-2429.69: And we won business. We won business without having met the customer physically. And we were winning business because we were operational. 
+asr:0: OUTPUT 2429.79-2438.64: And many of our mid-sized and smaller competitors were not operational. 
+asr:0: OUTPUT 2438.84-2442.64: They struggled to keep operations up and running. 
+asr:0: OUTPUT 2443.08-2447.31: So that also would allude to answering your question, who lost? 
+asr:0: OUTPUT 2447.69-2451.43: The lower part of the pyramid is the one that is under highest pressure. 
+asr:0: OUTPUT 2451.53-2458.92: Technology, connectivity, and also functionality of operating systems. 
+asr:0: OUTPUT 2458.94-2468.45: Is a big challenge for many of them, and especially in a unprecedented situation that we all went through worldwide over the last three, four, or five months. 
+asr:0: OUTPUT 2468.47-2472.13: That proved to be a big risk and a big problem. 
+asr:0: OUTPUT 2472.21-2478.42: Because you couldn't overcome any of those deficiencies by just calling someone or going somewhere. 
+asr:0: OUTPUT 2478.52-2482.68: You had to prove your systems and technology are working. 
+asr:0: OUTPUT 2484.52-2492.43: How much can we retain? I would say we convince our customers by quality. We don't convince by price. We are a quality supplier. 
+asr:0: OUTPUT 2492.85-2500.66: And the customers that have made the experience over the last six months or in the past in general, they stay with us. 
+asr:0: OUTPUT 2500.74-2505.09: We have a lot of customers that we retain because of our high quality service. 
+asr:0: OUTPUT 2505.15-2512.81: And that's part of our roadmap 2022 strategy. Customer excellence is at the center of all the topics we do. 
+asr:0: OUTPUT 2513.03-2519.58: We don't want to win transactional business just for the sake of winning it for and operating it for one, two or three months. 
+asr:0: OUTPUT 2519.82-2526.91: We want customers to stay with us and see how much of our solution portfolio can generate benefits for them. 
+asr:0: OUTPUT 2528.27-2529.73: Cost reduction efforts. 
+asr:0: OUTPUT 2530.35-2538.02: I think we have made a lot of efforts with all the programs that are in place, but not only. 
+asr:0: OUTPUT 2538.68-2542.38: We have optimized our workforce. 
+asr:0: OUTPUT 2543.14-2548.97: We have reduced capacity where required but we shifted capacity to those operations. 
+asr:0: OUTPUT 2549.21-2554.15: Sometimes in the same city or even the same warehouse, where demand spikes. 
+asr:0: OUTPUT 2554.57-2555.78: So there's no rule. 
+asr:0: OUTPUT 2555.84-2564.92: We have only a few temporary labor, I think it's a bit more than 2000 temp labor less than we had a year ago. 
+asr:0: OUTPUT 2565.99-2574.51: And this is driven by the effect that we see much higher demand still in some of the essential goods segments, especially. 
+asr:0: OUTPUT 2574.53-2577.10: Pharma healthcare and e-commerce. 
+asr:0: OUTPUT 2577.44-2581.10: And this from our point of view, sustainable volume, this will stay. 
+asr:0: OUTPUT 2581.56-2584.40: So in different words, Daniel, I would say. 
+asr:0: OUTPUT 2584.42-2589.63: We made an organic growth experience compressed. 
+asr:0: OUTPUT 2589.65-2597.40: In five months maybe or four months that we usually would have gone through in our customers in a period of 18 months. 
+asr:0: OUTPUT 2597.92-2604.94: And I would say that is to a large extent sticky and stays and will not be reversed. 
+asr:0: OUTPUT 2609.49-2611.93: The next question comes from Satish. 
+asr:0: OUTPUT 2616.68-2619.70: Good afternoon, Dr. Lapan Marcus. Thanks for taking my questions. 
+asr:0: OUTPUT 2620.52-2621.82: I have three questions. 
+asr:0: OUTPUT 2622.86-2632.31: Firstly, could you please elaborate on volume trends to the quarter from SMEs, which markets are actually seeing weakness versus the relative strength? 
+asr:0: OUTPUT 2633.67-2640.08: Secondly, in 2019, your SDNA expense was around 445 million Swiss francs. 
+asr:0: OUTPUT 2640.90-2644.06: So could you please update on the current run rate on SGMA? 
+asr:0: OUTPUT 2646.13-2651.93: Finally, what has been your workforce return rate from remote working across e-market? 
+asr:0: OUTPUT 2654.75-2657.20: Can you repeat the last question, please? 
+asr:0: OUTPUT 2658.52-2666.39: In terms of workforce returning back to office, what has been the return rate so far across key markets? 
+asr:0: OUTPUT 2667.89-2677.84: Okay, so volume trends, which markets, so as you know, the whole pandemic started mid of January already in Asia. 
+asr:0: OUTPUT 2678.22-2685.61: And usually this is not an SME market, or we have a much higher portion of blue chip customers there. 
+asr:0: OUTPUT 2685.99-2691.61: But in Europe, it's mainly the SME customers that dropped out of business very fast. 
+asr:0: OUTPUT 2692.37-2696.22: And the recovery is starting or has started now in June. 
+asr:0: OUTPUT 2696.30-2702.84: I would say so the first sign of a recovery of SME customers has been seen in June in Europe. 
+asr:0: OUTPUT 2703.26-2706.75: And partly in other markets, but mainly in Europe. 
+asr:0: OUTPUT 2707.01-2711.31: And this will take time. It will not come overnight. 
+asr:0: OUTPUT 2712.31-2716.32: At the moment, the pandemic is hitting the Americas. 
+asr:0: OUTPUT 2716.36-2722.90: And we see that we have still volumes that are down and not recovering. 
+asr:0: OUTPUT 2723.20-2732.69: But here, I would say it has bottomed out. So we are more positive today than we were three months ago when we discussed the quarter one results. 
+asr:0: OUTPUT 2733.55-2741.94: I would say, despite regional and local setbacks, despite regional and local setbacks,. 
+asr:0: OUTPUT 2743.16-2748.55: The pandemic is not over, but we have all managed and understood how to handle it. 
+asr:0: OUTPUT 2748.93-2755.14: And governments have initiated enough protective health measures. 
+asr:0: OUTPUT 2755.16-2760.38: In order to secure the people and make them continue consuming. 
+asr:0: OUTPUT 2762.12-2766.17: The SGE run rate has a lot of components. 
+asr:0: OUTPUT 2766.65-2773.75: And it starts with travel, for example. I do not expect travel to come back this year, to say this clearly. 
+asr:0: OUTPUT 2773.91-2780.64: Intercontinental travel, I would not expect to see any of the flights intercontinental. 
+asr:0: OUTPUT 2780.66-2785.41: With screen and nail stuff on it before September, if at all. 
+asr:0: OUTPUT 2785.63-2800.94: And then we have made such a positive experience on winning new customers and such a positive experience with winning customers and so on, online and virtual only, that. 
+asr:0: OUTPUT 2800.98-2804.90: You could say every second trip can be spared in general moving forward. 
+asr:0: OUTPUT 2805.19-2807.91: And then we have a currency effect here as well. 
+asr:0: OUTPUT 2807.93-2810.07: Currency effect in SGE. 
+asr:0: OUTPUT 2810.11-2813.29: Because we translate everything into. 
+asr:0: OUTPUT 2813.31-2821.86: Into the hard currency Swiss franc and that has an effect in itself as well. I hope that answers. 
+asr:0: OUTPUT 2828.07-2829.19: On David Kersenson. 
+asr:0: OUTPUT 2832.13-2838.18: Thank you. Good afternoon, gentlemen. Three questions, please, from my side. First on sea logistics. 
+asr:0: OUTPUT 2838.62-2844.32: It turns out that the volume development is better than expected as the quarter progressed. 
+asr:0: OUTPUT 2844.68-2852.87: I was wondering, did you see a noticeable impact from a shift from air to sea freight due to the lack of capacity in air freight? 
+asr:0: OUTPUT 2853.57-2861.38: Then secondly, in air logistics, you benefited from, I think in constant currency, a 34% higher yield. 
+asr:0: OUTPUT 2862.02-2865.63: And now with the air freight market starting to normalize again. 
+asr:0: OUTPUT 2865.97-2874.99: Would you expect that that average yield also normalizes back to the range that you indicated in your presentation of 70 to 85 Swiss francs per 100 kilogram? 
+asr:0: OUTPUT 2875.40-2879.00: Or do you expect to be able to continue to do better than that range? 
+asr:0: OUTPUT 2879.60-2886.43: And then finally on road logistics, I think the organic revenue was down 20% in the second quarter. 
+asr:0: OUTPUT 2886.77-2889.69: But that's a mix of Europe and North America. 
+asr:0: OUTPUT 2890.01-2893.19: Cake provides some color on how weak North America really was. 
+asr:0: OUTPUT 2893.45-2904.80: And with a decrease of 20%, does that still imply that you gained market share in the second quarter? Because I think some of your peers refer to the market down only 15% in the second quarter. Thanks very much. 
+asr:0: OUTPUT 2905.63-2908.13: Sure, David. So let me answer your question. 
+asr:0: OUTPUT 2909.01-2913.65: Logistics. Yes, we had a better volume development than expected. 
+asr:0: OUTPUT 2914.31-2920.76: But any shift from air to see is insignificant for see sorry for saying so. 
+asr:0: OUTPUT 2921.06-2924.16: One freighter has 100 kilos. 
+asr:0: OUTPUT 2924.22-2931.47: And 100 tons and we are talking about, I don't know, six, eight containers. 
+asr:0: OUTPUT 2931.63-2934.31: So it's a different business model you can't compare. 
+asr:0: OUTPUT 2934.35-2939.56: But what we saw is, and that is a good combination, I mentioned that, is the ARC combination. 
+asr:0: OUTPUT 2940.24-2946.49: So yeah, you go into Dubai via sea and then you go into final distribution even to South America via air. 
+asr:0: OUTPUT 2946.71-2956.38: And this combination, this solution is in light of the lacking supply side of freighter capacity, especially in China. 
+asr:0: OUTPUT 2956.40-2966.25: Got a lot of tailwind and I mentioned that our volumes here spiked more than three times the normal volume that we see. 
+asr:0: OUTPUT 2966.75-2969.69: So this combination showed a certain progress. 
+asr:0: OUTPUT 2970.21-2973.77: Air logistics, I think I mentioned that during the presentation. 
+asr:0: OUTPUT 2973.89-2976.88: We expect, especially in the second semester. 
+asr:0: OUTPUT 2976.90-2984.84: And we found that the higher yield was a very special or was was a result of a very special supply and demand situation and quarter to. 
+asr:0: OUTPUT 2985.23-2992.97: And that the normalized yield of 70 to 85 Swiss francs per 100 kilo will come in. 
+asr:0: OUTPUT 2992.99-2995.82: Or will kick in again gradually. 
+asr:0: OUTPUT 2995.86-2999.58: Not overnight and not on a fingertip, but gradually. 
+asr:0: OUTPUT 3001.32-3002.42: Road logistics. 
+asr:0: OUTPUT 3003.20-3005.71: I think our comms are. 
+asr:0: OUTPUT 3005.73-3013.75: We have so many different figures in the market and not being able to predict even what has happened or describe really what has happened. 
+asr:0: OUTPUT 3013.77-3019.00: Is I think what we have to all of us have to be very careful with. 
+asr:0: OUTPUT 3020.00-3024.64: Let me describe a situation that we experienced in Europe and then I come to the US. 
+asr:0: OUTPUT 3025.63-3035.00: Europe, we have volume reductions of 50-60% within weeks. This happened in the first one, two, three weeks in April. 
+asr:0: OUTPUT 3035.40-3040.98: But then this bottom out and the recovery gradually started already as of May. 
+asr:0: OUTPUT 3041.34-3045.11: So the figure you see is an average figure as of May. 
+asr:0: OUTPUT 3045.47-3051.83: So the figure you see is an average figure of a volume development that had a lot of. 
+asr:0: OUTPUT 3051.85-3055.86: Slumps and spikes and a lot of shifts over the last week. 
+asr:0: OUTPUT 3056.02-3060.50: At the moment, I, or we all believe that the volumes are gradually coming back. 
+asr:0: OUTPUT 3060.70-3068.99: And they stay, it's not a one-time shot. And in the US, I think we are still on a very low level, but as I mentioned, it has bottomed out. 
+asr:0: OUTPUT 3069.25-3074.13: So long story short, it was a disaster and it's recovering. 
+asr:0: OUTPUT 3076.66-3084.04: Okay, great. Thank you very much. You're welcome. The next question comes from Sam Bland from J.P. Morgan. Please go ahead. 
+asr:0: OUTPUT 3086.49-3089.71: Afternoon. Could I ask I think three questions please? 
+asr:0: OUTPUT 3090.27-3097.68: First one is on the sea freight conversion rate. That's held up pretty well, but I guess there wasn't very much, you know, there wasn't any benefit from e-touch. 
+asr:0: OUTPUT 3098.16-3105.57: And that segment. So just be interested in did you do any specific cost savings programs in Seafreight or what helped the conversion rate in the quarter? 
+asr:0: OUTPUT 3106.65-3113.31: Second question is on, I think there was 57 million of employee government support in the quarter. 
+asr:0: OUTPUT 3113.95-3118.96: Could you just talk about roughly which divisions that came in? Was it mostly in contract logistics? 
+asr:0: OUTPUT 3120.00-3122.98: And could you see that support be withdrawn? 
+asr:0: OUTPUT 3123.00-3130.59: Before the market recovers back up to normal rates. So there's basically a lag and your profitability is impacted by that. 
+asr:0: OUTPUT 3131.57-3137.34: The last question is an update on M&A plans. 
+asr:0: OUTPUT 3137.36-3143.90: Any M&A ambitions are a bit less in the short run or you still got plenty of five to look at that. Thank you. 
+asr:0: OUTPUT 3146.09-3150.95: Okay, Sam. By the way, guys, you can also ask less than three questions. 
+asr:0: OUTPUT 3151.03-3156.60: It's not a standard routine that you have to ask three questions, only as a short hint to you. 
+asr:0: OUTPUT 3157.02-3160.98: So, see, we have cost savings in place. 
+asr:0: OUTPUT 3161.32-3163.26: And there's no e-touch yet. 
+asr:0: OUTPUT 3163.70-3172.39: Because as mentioned many times, the prerequisite is the fully deployed new transport management system called CLoC. 
+asr:0: OUTPUT 3172.41-3177.94: As a basis for running C logistic, eTouch activities in C logistic. 
+asr:0: OUTPUT 3178.80-3186.53: The government programs that you allude to 80, 85% is related to contract logistics, but people were out of work. 
+asr:0: OUTPUT 3186.89-3192.85: So as volumes are coming back, also in the normal operation, people are in employment and we pay them. 
+asr:0: OUTPUT 3193.01-3202.74: So that's not the point. We avoided to lay off people, which is beneficial for our staff and also for the government related to this. 
+asr:0: OUTPUT 3202.78-3212.17: The business, the operational run rate of contract logistics has been extremely strong. All the restructuring measures showed the desired effects. 
+asr:0: OUTPUT 3212.47-3217.42: And we will see in the second semester when things are cleaning up more and more especially in the quarter for. 
+asr:0: OUTPUT 3217.44-3225.41: Figures how strong contract logistics will Phoenix-like come back out of all the restructuring activities. 
+asr:0: OUTPUT 3226.35-3236.34: And your question related to M&A ambition, I'm a bit surprised because our proposal, dividend proposal has not changed. 
+asr:0: OUTPUT 3236.36-3239.32: To the one that we made prior to COVID-19. 
+asr:0: OUTPUT 3239.74-3246.49: So, when we posted our annual results 2019, there was a dividend proposal of force with Frank's per share. 
+asr:0: OUTPUT 3246.93-3249.47: And cautious as we are. 
+asr:0: OUTPUT 3249.49-3258.12: We postponed a decision on this and did not decide on a dividend given the unsecurity and unpredictability of the pandemic. 
+asr:0: OUTPUT 3258.48-3262.92: And now as we see that cash flow is strong and we weather the situation strongly. 
+asr:0: OUTPUT 3263.48-3274.95: We are in a situation that the Board of Directors decided to propose the same dividend again for the General Assembly. 
+asr:0: OUTPUT 3275.30-3279.50: Our MNA ambition, our MNA strategy has not changed at all. 
+asr:0: OUTPUT 3280.62-3293.65: But physical meetings in Asia are restricted at the moment. So whatever we do is based on video calls. Okay, understood. Thank you. You're welcome. 
+asr:0: OUTPUT 3296.80-3300.26: This question is from Mark McBarrick from Barclays. Please go ahead. 
+asr:0: OUTPUT 3304.62-3306.93: Hello, Mark? Mark? Hello? 
+asr:0: OUTPUT 3310.25-3316.78: You were shocked why I said less than three questions Mark. 
+asr:0: OUTPUT 3317.72-3324.06: Only going to ask two questions you'll be pleased to hear. Okay, very good. Just for variety really. 
+asr:0: OUTPUT 3324.42-3329.41: So just to come back on the air freight and capacity question. 
+asr:0: OUTPUT 3330.07-3338.20: Could you give us a sense for how much of your air freight in Q2 went in freighters rather than belly hold? 
+asr:0: OUTPUT 3338.70-3342.24: And do you see that changing significantly in. 
+asr:0: OUTPUT 3342.26-3356.90: Certainly in Q3 and maybe even into Q4 because my sense is that you know the airlines are bringing back into Q4 because my sense is that you know the airlines are bringing back capacity but much more of it is short and medium haul. 
+asr:0: OUTPUT 3357.00-3360.26: Rather than the long haul stuff which is typically what you use. 
+asr:0: OUTPUT 3362.84-3371.55: Exactly. So whatever belly comes back at the moment, it's short and medium haul and that doesn't help us. 
+asr:0: OUTPUT 3371.67-3377.66: I mean, usually that is not where we transact the majority of our business. 
+asr:0: OUTPUT 3378.30-3387.01: So I would expect in the second semester, 60% to 70% of our volume to be transported with freighters. 
+asr:0: OUTPUT 3387.13-3388.49: Main deck capacity. 
+asr:0: OUTPUT 3389.29-3392.15: And belly will not recover too soon. 
+asr:0: OUTPUT 3392.29-3394.43: I would say it would take maybe two years. 
+asr:0: OUTPUT 3394.49-3403.30: That we see a significant network activity which allows for belly, using belly capacity again. 
+asr:0: OUTPUT 3405.81-3408.29: And that is, that is all. Yeah, go ahead. 
+asr:0: OUTPUT 3408.75-3410.79: But the sixty to seventy percent. 
+asr:0: OUTPUT 3410.91-3418.10: Think is going to go in phrases in the second half would compare to what 90 95 percent. 
+asr:0: OUTPUT 3418.12-3421.24: In Q2 because there was so little belly capacity around. 
+asr:0: OUTPUT 3422.96-3424.50: You. 
+asr:0: OUTPUT 3425.49-3428.43: Yeah, I'm not sure. 
+asr:0: OUTPUT 3428.61-3434.77: So this is, oh. 
+asr:0: OUTPUT 3435.34-3437.30: No, no, Mark, I'm not sure. 
+asr:0: OUTPUT 3437.58-3445.71: End of this year, we will have 60 to 70% of the belly capacity that should be back. 
+asr:0: OUTPUT 3446.65-3453.63: But we will still rely on freighter capacity to a major extent. 
+asr:0: OUTPUT 3454.25-3459.98: And that will gradually transform or change throughout quarter three and quarter four. 
+asr:0: OUTPUT 3460.14-3462.06: So we are talking end of the year. 
+asr:0: OUTPUT 3462.12-3463.28: Well, that's at the moment. 
+asr:0: OUTPUT 3463.32-3472.87: At the moment, I think it's 90%, if I'm not mistaken, or early quarter two, middle of quarter two, the majority, almost all, is freighter capacity. 
+asr:0: OUTPUT 3473.41-3481.04: So, we have a lot of belly still in North America or the Americas, which can be used. 
+asr:0: OUTPUT 3481.10-3487.81: And we use partially battery capacity for perishables out of African countries. 
+asr:0: OUTPUT 3489.35-3496.80: Yeah, so when you talk about the GP normalizing or coming back towards the longer term range,. 
+asr:0: OUTPUT 3496.88-3499.72: That's much more the mix because I guess the like for like. 
+asr:0: OUTPUT 3500.00-3506.41: GP from using a freighter isn't going to be different in August than it was in April particularly. 
+asr:0: OUTPUT 3506.79-3510.07: Absolutely. Yeah. It's the mix. Yeah. 
+asr:0: OUTPUT 3510.77-3520.44: OK, and the second question is straightforward one. Could you just remind us where you stand on sort of credit insurance on debt? 
+asr:0: OUTPUT 3520.48-3521.56: Is how much you use it. 
+asr:0: OUTPUT 3524.04-3526.77: Thanks, Mark. I also got a question once. 
+asr:0: OUTPUT 3531.23-3537.68: Great insurance uh... And very interesting topic right now and without uh... Disclosing too much detail. 
+asr:0: OUTPUT 3537.78-3544.50: You know that we work with the two main credit insurers on a global basis. A lot of conversations going on right now. 
+asr:0: OUTPUT 3545.87-3551.17: I don't want to say that insurers have all similar patterns of obviously when, when,. 
+asr:0: OUTPUT 3551.19-3556.54: Business goes well, there's a lot of insurance coverage available when business goes not so well. 
+asr:0: OUTPUT 3556.56-3560.38: It goes down very quickly. But we are having a good partnership with them. 
+asr:0: OUTPUT 3560.72-3565.91: And we try to manage as much coverage as possible. 
+asr:0: OUTPUT 3566.37-3574.99: As I said in my presentation, until now, no significant defaults or fallouts or bankruptcies or anything like that. 
+asr:0: OUTPUT 3575.48-3583.30: However, there is, you know, the horizon is a bit darker than what it usually looks like. So, there's a lot of caution is going forward. 
+asr:0: OUTPUT 3584.16-3591.91: How much we pay, you can see that of the annual report, we pay every year around three and a half to four million on insurance premium. 
+asr:0: OUTPUT 3593.05-3602.78: I think that is given our sales ledger of more than 3 billion, a reasonable number when you assumed that around 70% of that is being covered. 
+asr:0: OUTPUT 3604.90-3610.49: But broadly, as you go into the second half, your level of cover is unchanged. 
+asr:0: OUTPUT 3612.27-3621.68: Our level of cover is on a total number probably unchanged. When you look into some of the industries, it may vary. 
+asr:0: OUTPUT 3621.72-3626.57: Like aerospace industry might actually be reduced a little bit, some industries will be increased. 
+asr:0: OUTPUT 3626.91-3632.41: But overall, the risk profile is shifting within the industries, but overall remains very stable. 
+asr:0: OUTPUT 3634.57-3636.90: Thank you both very much. You're welcome. 
+asr:0: OUTPUT 3640.00-3642.24: From Glyn Neil from Credit Suisse. Please go ahead. 
+asr:0: OUTPUT 3643.72-3652.47: Hello, Neil from Credit Suisse. If I could ask firstly another question of Marcus, if that works, to give you another opportunity. 
+asr:0: OUTPUT 3652.97-3656.60: Marcus, if that works, to give you another opportunity. 
+asr:0: OUTPUT 3657.96-3665.05: Much appreciated. My pleasure. And then I'll have one for death left to if I may keep it to two. 
+asr:0: OUTPUT 3665.69-3674.01: So the first one, Marcus, you obviously spent some time talking about working capital and increasing risk to some of your SME customers. 
+asr:0: OUTPUT 3674.51-3683.34: Just wondering, as it pertains to sea freight and the negative mix effect on GP per toy, as you plan beyond 2020. 
+asr:0: OUTPUT 3683.86-3692.63: You plan for a smaller proportion of SMEs relative to normal or how do you think about that as it relates to GP per toy? 
+asr:0: OUTPUT 3692.65-3693.93: Over the medium term. 
+asr:0: OUTPUT 3695.01-3698.44: And then the second question, and I guess it could be for either of you. 
+asr:0: OUTPUT 3698.90-3704.46: Just following on from the Airlog comments on how it's evolving, and obviously, CLog is to come. 
+asr:0: OUTPUT 3705.07-3711.35: How relevant is this to your M&A ambitions that you obviously outlined to an extent of the full year? 
+asr:0: OUTPUT 3711.53-3717.84: I guess on one hand, optimization of those two TMS might be ideal before any major transaction. 
+asr:0: OUTPUT 3718.34-3725.61: But is that the way you think about it or is that something that will ultimately take care of itself if you find the right deal in advance? 
+asr:0: OUTPUT 3727.23-3730.75: Okay, maybe Neil, I'll take the latter question if you don't mind. 
+asr:0: OUTPUT 3732.37-3738.88: First of all, we concentrate on our own business and optimizing our own business based on Airlock and followed by C-Lock. 
+asr:0: OUTPUT 3739.54-3742.58: And the e-touchability of that business. 
+asr:0: OUTPUT 3742.88-3743.92: Make eTouch happen. 
+asr:0: OUTPUT 3744.20-3745.27: And we make progress. 
+asr:0: OUTPUT 3745.51-3749.49: In analog logistics as we have pronounced. 
+asr:0: OUTPUT 3751.55-3753.25: MNA is independent of this. 
+asr:0: OUTPUT 3753.47-3762.40: This needs cultural fit. We are looking for access to certain Asian customers, a solution that is not yet part of our own solution. And maybe. 
+asr:0: OUTPUT 3762.48-3764.28: So there are a lot of other criteria. 
+asr:0: OUTPUT 3764.52-3773.05: And yes, it would be much easier to transfer a acquisition directly on CLOCK to name this. 
+asr:0: OUTPUT 3773.21-3776.02: Then on our current legacy system. 
+asr:0: OUTPUT 3776.24-3779.02: But if that would be needed, we can do so as well. 
+asr:0: OUTPUT 3779.14-3782.32: I mean, we have proven that this is not a big exercise for us. 
+asr:0: OUTPUT 3782.80-3789.25: So that is not a criteria that would influence our MNA approach or delay any MNA. 
+asr:0: OUTPUT 3789.63-3795.88: It's more getting acquainted to those targets and also building up a basis of trust. 
+asr:0: OUTPUT 3796.18-3802.36: And that needs physical, personal meetings. And you can't do this via video calls. 
+asr:0: OUTPUT 3802.76-3810.23: We also, we always said when we announced this, because there were rumors in the market, we always said it's a two years exercise. It doesn't happen overnight. 
+asr:0: OUTPUT 3810.79-3813.97: But we made progress, we never stopped, we didn't change approach. 
+asr:0: OUTPUT 3814.03-3820.84: So from that point of view, I'm quite confident that eventually we will be able to announce the right or the right acquisition. 
+asr:0: OUTPUT 3822.92-3829.99: So Neil then on the first question, I think it's interesting angle that you come from when they're working capital and the risk profile to the estimate. 
+asr:0: OUTPUT 3830.71-3838.86: I think we see now the SMEs volumes coming down in the second quarter just for a simple reason because most of the businesses have been. 
+asr:0: OUTPUT 3838.88-3841.92: Due to the curfews have been just shut. 
+asr:0: OUTPUT 3842.84-3845.47: That doesn't mean they reopen again. So I think. 
+asr:0: OUTPUT 3845.49-3853.27: What we're looking at in CFRA is that temporarily there is going to be a shift in mix away from the SMA. 
+asr:0: OUTPUT 3853.29-3856.16: I think ultimately is even going to be a bigger portion. 
+asr:0: OUTPUT 3857.28-3863.48: We have an extremely when you look at the market share is a very small market share recover right now. 
+asr:0: OUTPUT 3863.84-3870.81: It's an absolute attractive and we're totally committed as you know, in our customer base to the SME customers. 
+asr:0: OUTPUT 3871.35-3873.89: This is our backbone of our operation. 
+asr:0: OUTPUT 3876.74-3882.46: There is still a massive potential to grow in a very profitable market in the SMA. 
+asr:0: OUTPUT 3883.10-3886.27: So how the margin is going to look like. 
+asr:0: OUTPUT 3887.13-3888.37: I think also here. 
+asr:0: OUTPUT 3888.39-3892.23: There is a time that we need to look at for the normalization. 
+asr:0: OUTPUT 3892.25-3902.22: But there is no systemic structural reason why the margin for SME should be lower than it has been in the past. 
+asr:0: OUTPUT 3902.28-3904.54: So I think,. 
+asr:0: OUTPUT 3904.56-3910.85: Rightfully so, our backbone SME customer base. 
+asr:0: OUTPUT 3910.99-3917.00: We will even get a bigger portion of that and profitability is going to be run exactly if not above the level that we had until now. 
+asr:0: OUTPUT 3918.94-3920.00: Many thanks for listening. 
+asr:0: OUTPUT 3924.88-3927.93: The next question comes from Franz Hoyer from Handelsbanken. Go ahead. 
+asr:0: OUTPUT 3929.43-3930.61: Thank you very much. Good afternoon. 
+asr:0: OUTPUT 3931.45-3937.40: Also a question regarding the mix shift in C towards SME. 
+asr:0: OUTPUT 3938.74-3947.35: Could you try and describe how much of a shift in the mix you saw and what was the effect on the yield? 
+asr:0: OUTPUT 3947.39-3948.83: That you saw in the C business. 
+asr:0: OUTPUT 3951.11-3953.09: I think those details we will not disclose. 
+asr:0: OUTPUT 3953.39-3959.74: But the majority of the SMB, SME business has not been, the majority of the SMB. 
+asr:0: OUTPUT 3959.76-3966.81: SME business has not been able to sustain their operations, their business models throughout the pandemic. 
+asr:0: OUTPUT 3967.17-3969.03: At least for four or six weeks. 
+asr:0: OUTPUT 3969.47-3971.77: And that has caused the reduction. 
+asr:0: OUTPUT 3972.13-3975.52: So, but we see them gradually coming back. 
+asr:0: OUTPUT 3975.56-3983.04: But as Marcus said before, some of them do not come back at all because their basis, their financial savviness is not given. 
+asr:0: OUTPUT 3984.80-3986.85: And SME is everything, be careful. 
+asr:0: OUTPUT 3987.11-3994.89: It's also very niche products that has not seen an increase in demand at the moment. 
+asr:0: OUTPUT 3995.16-4000.40: Whether you have hand-painted tiles that are produced in northern Italy,. 
+asr:0: OUTPUT 4000.58-4005.61: And the demand is coming back now in Denmark, for example, is rather questionable. 
+asr:0: OUTPUT 4005.69-4008.17: And that is maybe how you should think about it. 
+asr:0: OUTPUT 4008.35-4016.92: But eventually that will come back and our business is and we are strong in SMB business, our business is towards SMB. 
+asr:0: OUTPUT 4017.38-4027.21: So that gives you a bit of a flavor. It's a result of the pandemic and not of a, how should I say, conscious mixed decision. So I understand. 
+asr:0: OUTPUT 4027.63-4033.55: Okay, and the second question, final question is around the M&A market and whether. 
+asr:0: OUTPUT 4033.57-4041.38: You mentioned that you're winning market, gaining market shares and those that are losing it are typically the. 
+asr:0: OUTPUT 4041.40-4049.37: Smaller mid-sized competitors that are having difficulties on the technology front, connectivity and so on. 
+asr:0: OUTPUT 4049.99-4053.07: And you also talk about. 
+asr:0: OUTPUT 4053.59-4062.88: Credit risks escalating. So there might be an uptick in the M&A opportunities that you see. Maybe you can talk about that. 
+asr:0: OUTPUT 4064.72-4070.65: We monitor the market for many years and we are active in the market as you know. 
+asr:0: OUTPUT 4070.83-4078.12: But not everything that looks shiny is of interest for us. And that may be we to fulfill our strategic targets. 
+asr:0: OUTPUT 4078.14-4084.54: And to continue our growth path that we have embarked on many years ago. We don't need M&A. 
+asr:0: OUTPUT 4085.01-4089.97: What we have defined targets, what we want to achieve with an M&A approach. 
+asr:0: OUTPUT 4090.41-4099.96: And if we find targets that are fulfilling those requirements, we will be active, we will become active. 
+asr:0: OUTPUT 4100.30-4106.13: And if not, we don't. So, and for us, the market has not significantly changed at the moment. 
+asr:0: OUTPUT 4106.91-4108.85: And we never looked at. 
+asr:0: OUTPUT 4108.89-4118.74: We always looked at targets also in the past that were successful with their business model in their geography or in their solutioning. 
+asr:0: OUTPUT 4119.18-4122.58: We are not looking for a restructuring case. That's not our business. 
+asr:0: OUTPUT 4124.48-4126.85: Understood. Thank you very much. Thank you. 
+asr:0: OUTPUT 4128.37-4131.59: The next question comes from Christian Obst from Baader Bank. Please go ahead. 
+asr:0: OUTPUT 4133.69-4141.46: Yes, hello. I have some more technical questions. One is concerning the decision concerning CAPEX or long-term leases. 
+asr:0: OUTPUT 4142.00-4148.33: We have seen an increase in depreciation of right of depreciation of right of used assets. 
+asr:0: OUTPUT 4148.79-4157.32: From $237 to $254 million in the second quarter this year. 
+asr:0: OUTPUT 4158.42-4165.85: And so what is the trigger for a decision going for CAPEX or for long-term leases and how is the... 
+asr:0: OUTPUT 4165.89-4169.63: Current market for long-term leases developing. 
+asr:0: OUTPUT 4170.05-4173.53: Also, what is the main trigger for any decision in either way? 
+asr:0: OUTPUT 4173.95-4178.10: Second one is you are talking and of course there is DSO pressure. 
+asr:0: OUTPUT 4178.64-4186.97: Are you currently supporting some of your customers for longer payment terms or something like that to keep them into your network? 
+asr:0: OUTPUT 4187.61-4195.08: And the last one is, can you give us a guidance for any kind of income from disposals in the second half? Thank you. 
+asr:0: OUTPUT 4197.46-4200.00: Christian. 
+asr:0: OUTPUT 4200.82-4208.31: I think your question has two answers. The first one is what is the decision making reasons to it? 
+asr:0: OUTPUT 4209.31-4216.00: And the second one is what is the increase in the second quarter? There are two different reasons. 
+asr:0: OUTPUT 4218.02-4228.81: Maybe the more technical first, you know that we have the asset health for sale related to the disposal of the business in the UK. 
+asr:0: OUTPUT 4228.91-4245.63: Which also includes right of use assets and as per the IFRS standards, you have to stop depreciations at the point of signing and then keep that frozen if you like until the point of closing. 
+asr:0: OUTPUT 4245.97-4254.47: That is the simple reason why you have the variances in the second quarter and continue to have until closing has been executed. 
+asr:0: OUTPUT 4255.14-4256.32: So that is the technical part. 
+asr:0: OUTPUT 4256.50-4263.08: Then the question around what makes us deciding into one or the other parent,. 
+asr:0: OUTPUT 4263.10-4266.61: What makes us deciding into one or the other pace. 
+asr:0: OUTPUT 4267.71-4277.70: Main and most important piece to it is that because we talk most of it of locations, right, of contributing logistics facilities, right? 
+asr:0: OUTPUT 4278.08-4285.23: So what is the perspective of that country logistics facility? Is that a facility that is. 
+asr:0: OUTPUT 4285.25-4291.77: An operational optimal position, then obviously we want to keep our flexibility. 
+asr:0: OUTPUT 4291.93-4299.50: Most of the time back to back with customers where we say we have a five or I don't know, 10 years customer contract. You know, I'm just making an example. 
+asr:0: OUTPUT 4299.78-4308.77: And we match that with our lease commitment. It's flexibility that is driving our asset-light business model. 
+asr:0: OUTPUT 4309.65-4318.00: So, if you ask us, you know, then each answer is going to be the more flexible, the better. 
+asr:0: OUTPUT 4318.44-4325.65: We only make investment decisions where locations do not provide the required quality of facility. 
+asr:0: OUTPUT 4325.91-4334.69: I'll give you one example a few years back, we were investing into a pharma hub in Singapore because there was no such pharma space available. 
+asr:0: OUTPUT 4335.28-4342.34: So with a couple of ups and downs right now, it became a very good decision. 
+asr:0: OUTPUT 4342.46-4345.99: Know, in the current circumstances to have that space available. 
+asr:0: OUTPUT 4346.45-4351.53: So, but this is really the exception where there is a good reason why to invest our own money. 
+asr:0: OUTPUT 4351.87-4358.58: In all the other cases, a lease agreement back-to-back with the customer will be preferable. 
+asr:0: OUTPUT 4359.24-4363.56: DSO, second question, DSO, we never sell on payment terms. We don't. 
+asr:0: OUTPUT 4364.10-4373.55: This is irrespectively of any pressure, demand or anything like that. We sell because we have a very good service. We are fully operational. We are competitive in the market. 
+asr:0: OUTPUT 4373.93-4376.06: We are not selling on terms. 
+asr:0: OUTPUT 4376.98-4379.56: That's clear. And the last one. 
+asr:0: OUTPUT 4381.98-4388.91: I didn't write down the last one. 
+asr:0: OUTPUT 4392.25-4395.82: Second half. 
+asr:0: OUTPUT 4396.60-4401.98: We have a second real estate portfolio is out for sale. 
+asr:0: OUTPUT 4402.36-4408.19: I do not expect material impact on the P&L out of that. So it's going to be less than 10 million. 
+asr:0: OUTPUT 4409.01-4417.62: Okay, thank you very much. Thank you. 
+asr:0: OUTPUT 4430.05-4435.56: Possible for you to quantify the benefit from your patient. 
+asr:0: OUTPUT 4435.90-4445.07: In air GP in Turkey as well as the impact on volume from a little perishable. 
+asr:0: OUTPUT 4445.09-4451.39: As that normalizes how we should be thinking about it in 3Q and the second half of the year. 
+asr:0: OUTPUT 4452.27-4454.21: And then second move. 
+asr:0: OUTPUT 4454.53-4462.28: What have you seen from the digital forwarders during the COVID crisis? 
+asr:0: OUTPUT 4462.30-4467.15: Seen a higher or more presence from them during the crisis? 
+asr:0: OUTPUT 4470.99-4472.51: Let me answer your question. 
+asr:0: OUTPUT 4473.89-4475.24: The latter question. 
+asr:0: OUTPUT 4475.72-4484.80: I don't know what digital forwarders are, but I would believe our digital solutions got a lot of pick up during the crisis. 
+asr:0: OUTPUT 4485.09-4492.41: We have not seen many of our competitors in general being active or aggressive in the market. 
+asr:0: OUTPUT 4492.99-4498.32: I would say a handful have been the rest somehow disappeared and I'm not exaggerating. 
+asr:0: OUTPUT 4498.68-4505.57: So, I will not name any and I will not give any comments on single forwarders. 
+asr:0: OUTPUT 4506.59-4516.42: The quantification of the benefits from perishable is first of all perishable is a low, low margin business and we had. 
+asr:0: OUTPUT 4516.44-4519.26: Less perishable. 
+asr:0: OUTPUT 4519.28-4522.52: One third less approximately volume one looks. 
+asr:0: OUTPUT 4522.56-4525.27: Third last parish was in the first semester. 
+asr:0: OUTPUT 4525.85-4534.45: That led to the cargo mix to a higher yield independent on whether charter was available or required or the rates spiked or not. 
+asr:0: OUTPUT 4535.38-4540.90: We believe that this perishable volume comes back gradually in the second semester. 
+asr:0: OUTPUT 4541.20-4546.89: And that's the mix what reinstate with a lower yield. 
+asr:0: OUTPUT 4547.03-4562.40: So the 70 to 85 Swiss francs per 100 kilo will become a reality also because of the cargo mix with one third of our total volume being a parachute. 
+asr:0: OUTPUT 4564.60-4573.53: I hope that helps. I hope that helps. Thank you. You're welcome. 
+asr:0: OUTPUT 4577.08-4580.00: Last question comes from Sebastian Vogel from UBS. Please go ahead. 
+asr:0: OUTPUT 4581.20-4588.63: Hello, I got two questions. The first one will be on contract logistics. You mentioned there your cost, your expenses came down quite a fair bit. 
+asr:0: OUTPUT 4589.01-4598.72: I was wondering if you can add more granularity how the different cost items, i.e. Personal costs and the other one, SG&A, have contributed to this development in the second quarter. 
+asr:0: OUTPUT 4599.14-4606.33: And the other question I have, if I calculated correctly, your conversion ratio in particular in Asia was quite high in the second quarter. 
+asr:0: OUTPUT 4606.65-4610.13: Is that mainly a function of the transport mode exposure of that region? 
+asr:0: OUTPUT 4612.57-4614.85: So, first of all,. 
+asr:0: OUTPUT 4615.06-4625.53: We don't look at conversion rates per region because it depends on the terms our customers apply on where to invoice and pay. 
+asr:0: OUTPUT 4625.55-4626.95: Transport bills. 
+asr:0: OUTPUT 4627.41-4629.13: So it's cute, be careful. 
+asr:0: OUTPUT 4630.15-4637.74: We have a profit sharing model. So that is within or internally between regions. So that will not really help. 
+asr:0: OUTPUT 4638.56-4648.25: Conversion rate for sure is influenced by the performance of the different business units. And yes, in quarter two, air freight or air logistics has been extremely successful. 
+asr:0: OUTPUT 4650.65-4656.00: And the question on contract logistics and cost development, the majority of the cost is people. 
+asr:0: OUTPUT 4656.38-4660.94: Colleagues and the second cost factor is lease. 
+asr:0: OUTPUT 4661.06-4670.03: I gave an answer on the lease already because 50% or a bit more of our contracts are all back to back, dedicated. 
+asr:0: OUTPUT 4670.13-4674.01: With single customers. So the fixed cost coverage is usually part of our contract. 
+asr:0: OUTPUT 4674.81-4676.30: So that is not an exposure. 
+asr:0: OUTPUT 4676.58-4683.38: And the rest is capacity and we breezed with the volume very well. 
+asr:0: OUTPUT 4683.60-4687.85: Yes, we did not have a mass layoff and we stated so many times. 
+asr:0: OUTPUT 4687.93-4697.46: It's not necessary because from the beginning of the pandemic, we said this would be in a situation that is limited by time. 
+asr:0: OUTPUT 4697.70-4701.28: It would not end up in a permanent situation. 
+asr:0: OUTPUT 4701.66-4708.23: And that is exactly what we see. Many of the operations are back. I mentioned that only 12 operations out of more than 600. 
+asr:0: OUTPUT 4708.45-4717.56: Contractual logistics sites are still locked down and 11 out of them are in one country because some infrastructures have not opened yet. 
+asr:0: OUTPUT 4717.94-4722.34: And the rest is fully operational or has started to become operational again. 
+asr:0: OUTPUT 4722.94-4725.47: Maybe not a three shift operation or weekend shift. 
+asr:0: OUTPUT 4726.01-4730.33: But if you look into China and China is maybe a. 
+asr:0: OUTPUT 4730.35-4736.24: We can learn from China or Asia because they went through this pandemic very early and gradually. 
+asr:0: OUTPUT 4736.82-4741.02: We have full employment in our operations in China. 
+asr:0: OUTPUT 4741.74-4747.93: We have additional shifts introduced in our line feeding automotive production line. 
+asr:0: OUTPUT 4747.95-4756.68: Services, spare parts services, and we see increasing and strong demand for a lot of goods out of China. 
+asr:0: OUTPUT 4757.12-4764.46: And therefore, we see that a lot of our customers start picking up in volume again. 
+asr:0: OUTPUT 4764.84-4769.95: Is this VTWO or whatever? Let's forget it. 
+asr:0: OUTPUT 4770.45-4777.40: But it's not as fast as we thought, but the slump was not as severe as we anticipated before. 
+asr:0: OUTPUT 4778.02-4784.86: So I hope that helps to answer your question. It's personal cost is the main factor. 
+asr:0: OUTPUT 4785.15-4792.37: And we are almost in full employment again in contract logistics. That means we have a gross profit related to that activity. 
+asr:0: OUTPUT 4792.87-4799.94: And the rest is lease cost and our idle capacity has not changed significantly. 
+asr:0: OUTPUT 4800.64-4806.63: We are below 3% in idle capacity. That's a leading indicator in our industry. 
+asr:0: OUTPUT 4808.41-4815.62: Thank you, Sebastian. 
+asr:0: OUTPUT 4817.50-4826.51: Thank you, Sandra. Ladies and gentlemen, logistics is people business and we are proud of our people. They have managed this crisis extremely well. 
+asr:0: OUTPUT 4827.45-4836.86: And we are honored by our customers, their loyalty and their business that they awarded to us during the last, especially last quarter. 
+asr:0: OUTPUT 4837.94-4846.75: We will see how we progress over the next quarter, quarter three, and we are looking forward to talking to you again, middle of October. 
+asr:0: OUTPUT 4847.13-4849.55: And in the meantime, stay healthy. 
+asr:0: OUTPUT 4849.77-4859.76: Don't travel too much. Don't forget to use masks because we need you as end consumers like millions and trillions of others. 
+asr:0: OUTPUT 4859.98-4866.61: Because end consumers drive our business model and we want to see a strong quarter three when we talk next. 
+asr:0: OUTPUT 4866.95-4875.76: Thank you very much and talk to you again soon. Have a nice summer. Bye bye. And talk to you again soon. Have a nice summer. Bye bye. 
+asr:0: OUTPUT 4879.64-4887.00: Ladies and gentlemen, the conference is now over. Thank you for choosing Coral School and thank you for participating in the conference. You may now disconnect your lines. 
+asr:0: END

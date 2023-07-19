@@ -1,0 +1,495 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.18-9.49: Ladies and gentlemen, thank you for standing by and welcome to the conference call to discuss the definitive agreement for Illumina to acquire Grail. 
+asr:0: OUTPUT 10.15-12.71: At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 13.19-21.32: After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you'll need to press star 1 on your telephone keypad. 
+asr:0: OUTPUT 21.78-23.72: You will be limited to one question. 
+asr:0: OUTPUT 24.20-27.39: If you require any further assistance, please press star zero. 
+asr:0: OUTPUT 27.93-34.57: Thank you. I'd now like to hand the conference over to your moderator for today. Jackie Ross, VP of Investor Relations, please go ahead. 
+asr:0: OUTPUT 36.20-42.52: Good morning everyone and thanks for joining us on such short notice to discuss the Disbenefit Agreement for Illumina to acquire Grail. 
+asr:0: OUTPUT 43.28-49.43: If you've not had a chance to review today's release, it can be found in the Investor Relations section of our website at Illumina.com. 
+asr:0: OUTPUT 50.63-57.58: Participating for Illumina today will be Francis D'Souza, President and Chief Executive Officer, and Sam Samog, Chief Financial Officer. 
+asr:0: OUTPUT 58.14-61.86: We're also pleased to welcome Hans Bishop, Grails Chief Executive Officer. 
+asr:0: OUTPUT 62.68-67.33: Frances, Hans, and Sam will share some prepared remarks and then we will open the call for some questions. 
+asr:0: OUTPUT 68.53-73.23: This call is being recorded and the ODA portion will be archived in the investor section of our website. 
+asr:0: OUTPUT 75.16-79.46: Today's presentation contains estimates, projections, and other forward-looking statements. 
+asr:0: OUTPUT 80.12-87.21: These statements are subject to risks and uncertainties. Actual events or results may differ materially from those projected or discussed. 
+asr:0: OUTPUT 88.05-93.81: Please review the cautionary statement and other important information for investors and stockholders on slide 2. 
+asr:0: OUTPUT 94.91-102.92: With that, I'll turn the call over to Francis. Thanks, Jackie. Good morning, everyone, and thank you for joining us on such short notice. 
+asr:0: OUTPUT 103.68-112.09: I'm excited to share that earlier this morning, we announced an agreement to acquire GRAIL and to work together to launch a new era in cancer detection. 
+asr:0: OUTPUT 113.11-116.76: Before we start, I want to acknowledge the GRAIL team for what they've accomplished. 
+asr:0: OUTPUT 117.56-121.16: We spent out Grail four years ago to focus on an ambitious goal. 
+asr:0: OUTPUT 121.46-128.81: To revolutionize the way we detect cancer by developing a blood test that could find cancer earlier than is possible today. 
+asr:0: OUTPUT 129.67-134.19: Their innovation and results since then have exceeded even our lofty expectations. 
+asr:0: OUTPUT 134.59-143.18: Setting the stage for early cancer detection to likely be the largest genomic application over the next 15 years by far. 
+asr:0: OUTPUT 144.48-147.67: This combination will be transformative for cancer detection. 
+asr:0: OUTPUT 148.59-155.42: The acquisition will enable Grail to leverage Illumina's global commercial, clinical, and operations capabilities. 
+asr:0: OUTPUT 155.44-162.12: Accelerating their mission and allowing us to impact more people faster than they might have done alone. 
+asr:0: OUTPUT 163.34-170.63: Illumina's next generation sequencers will continue to support genomic medicine to become standard of care across clinical applications. 
+asr:0: OUTPUT 171.29-180.22: And with this acquisition, we will accelerate and participate more fully and directly in the highest value clinical opportunity enabled by our technology. 
+asr:0: OUTPUT 181.34-191.89: Specifically, the acquisition positions of Luna to participate in what we expect will be a $75 billion market for NGS-based oncology tests by 2035. 
+asr:0: OUTPUT 192.87-196.56: $60 billion higher than our oncology TAM, excluding GRAIL. 
+asr:0: OUTPUT 198.80-201.02: Cancer is one of the greatest threats to human health. 
+asr:0: OUTPUT 201.76-207.43: Despite the significant investments made and the important medical advancements achieved so far,. 
+asr:0: OUTPUT 207.45-215.14: When we diagnose cancer too late, when it is metastatic, less than 20% of patients will survive more than five years. 
+asr:0: OUTPUT 215.98-223.72: In contrast, if we diagnose cancer early, approximately 90% of patients are expected to survive beyond five years. 
+asr:0: OUTPUT 224.70-231.29: About 71% of cancer-related deaths are attributable to cancers with no recommended screening tests. 
+asr:0: OUTPUT 231.81-239.74: And with limited screening tests, cancer is more likely to be detected in the late stages, and more often than not, too late. 
+asr:0: OUTPUT 241.02-245.02: This is both a human tragedy and an enormous burden on the healthcare system. 
+asr:0: OUTPUT 245.83-253.25: Each year, there are over 600,000 cancer-related deaths in the U.S. And approximately 10 million deaths worldwide. 
+asr:0: OUTPUT 253.85-255.92: Making it the second leading cause of death. 
+asr:0: OUTPUT 257.02-261.64: We spend approximately $250 billion per year on cancer in the US. 
+asr:0: OUTPUT 262.22-267.85: And globally the annual economic impact is more than 1.2 trillion dollars. 
+asr:0: OUTPUT 268.89-274.13: And now for the first time, there is a technology platform that enables us to address this burden. 
+asr:0: OUTPUT 275.62-284.48: Starting with Grail's multi-cancer detection test gallery, which aims to reduce cancer deaths by transforming how and when cancer is detected. 
+asr:0: OUTPUT 285.51-290.41: Grails technology characterizes the DNA that cancer cells shed into the blood. 
+asr:0: OUTPUT 290.51-297.68: Detecting unique signatures that identify both the presence and often the tissue of origin of the cancer. 
+asr:0: OUTPUT 299.06-309.47: Earlier this year, GRAIL shared positive results from its circulating cell-free genome atlas, or CCGA study, that has enrolled 15,000 participants. 
+asr:0: OUTPUT 310.59-321.18: The study found that the first version of GALORE reported sensitivity of 44% for stage one through three tumors for 50 different cancers. 
+asr:0: OUTPUT 321.20-325.93: And 67% sensitivity for the 12 deadliest cancers. 
+asr:0: OUTPUT 326.89-333.77: And in 93% of the positive results, the test correctly identified the tissue of origin. 
+asr:0: OUTPUT 334.81-340.78: All with a specificity of greater than 99% and from a single blood drop. 
+asr:0: OUTPUT 342.32-350.11: Arguably, one of the most important performance measures for doctors and payers is the positive predictive value, or PPV. 
+asr:0: OUTPUT 350.27-353.75: Which is the percentage of positive tests that are actually cancers. 
+asr:0: OUTPUT 354.57-357.98: For gallery, we predict a PPV of 43%. 
+asr:0: OUTPUT 358.90-365.41: This represents a very significant step forward compared to today's most commonly used screening tests. 
+asr:0: OUTPUT 365.43-369.59: Which often have a PPV in the range of 3 to 5%. 
+asr:0: OUTPUT 371.17-377.12: The GRAIL team is preparing to launch Gallery as a lab-developed test for LVT in 2021. 
+asr:0: OUTPUT 378.18-387.81: We believe that this is a remarkable advance in the ability to detect cancer earlier, which can transform cancer care and improve population health. 
+asr:0: OUTPUT 389.01-397.74: As noted earlier, most cancers are currently diagnosed in late stages, as shown by the gray bars in the chart on the left half of slide 6. 
+asr:0: OUTPUT 398.90-407.95: The limitations of current screening methods lead to only 31% of cancers being identified in stages one and two when they're the most treatable. 
+asr:0: OUTPUT 409.05-418.70: Based on GRAIL studies, this could increase to 82% with broad adoption of Gallery's blood test, complementing today's recommended cancer screening. 
+asr:0: OUTPUT 419.74-426.97: This matters because as we mentioned earlier, survival rates are directly correlated with how early cancer is detected. 
+asr:0: OUTPUT 428.47-438.24: Broad adoption of Gallery could avert nearly 40% of the five-year cancer mortality, or around 100,000 deaths annually in the U.S. 
+asr:0: OUTPUT 443.82-448.03: My apologies for the technical issues. We will pick up again from slide six. 
+asr:0: OUTPUT 449.77-457.32: As noted earlier, most cancers are currently diagnosed in late stages, as shown by the gray bars in the charts on the left half of slide 10. 
+asr:0: OUTPUT 458.68-467.49: The limitations of current screening methods lead to only 31% of cancers being identified in stages one and two, when they're most treatable. 
+asr:0: OUTPUT 468.33-476.60: Based on greater studies, this can increase to 82% with broad adoption of gallery blood tests complementing today's recommended screening. 
+asr:0: OUTPUT 477.88-484.86: This matters because as we mentioned earlier, survival rates are directly correlated with how early cancer is detected. 
+asr:0: OUTPUT 486.15-495.12: Broad adoption of GALORE could avert nearly 40% of the five-year cancer mortality, or around 100,000 deaths annually in the U.S. 
+asr:0: OUTPUT 496.46-506.77: To put this in perspective, this roughly matches the number of deaths prevented by all current screening, testing, treatment, and surgery standards combined. 
+asr:0: OUTPUT 508.37-513.65: Once available, we're confident the gallery will enable screening for more cancers than ever before. 
+asr:0: OUTPUT 514.55-520.40: While screening has improved for some cancers, including lung, breast, colorectal, and cervical,. 
+asr:0: OUTPUT 520.80-530.89: We know that roughly 6 in 10 cancers diagnosed, from 12 million cases and 5 million deaths a year, are associated with cancers with no recommended screening requirements. 
+asr:0: OUTPUT 532.33-541.66: Since gallery will help discover cancer earlier, we believe that gallery can help detect three times as many cancers when added to recommended single cancer screening. 
+asr:0: OUTPUT 543.10-550.79: There is significant opportunity to improve outcomes for patients, and the potential impact on families and communities highlights the importance of GRAIL's work. 
+asr:0: OUTPUT 552.05-556.32: We will also be able to better meet the needs of health care providers and delivery systems. 
+asr:0: OUTPUT 557.24-565.93: By improving the overall efficiency of cancer detection, payers will be able to realize the lower costs associated with the treatment of cancer at earlier stages. 
+asr:0: OUTPUT 567.49-573.01: Based on Grails estimates, the adoption of gallery alongside existing screening guidelines. 
+asr:0: OUTPUT 573.03-577.90: Could help reduce diagnostic workup costs by up to 65%. 
+asr:0: OUTPUT 579.42-582.42: These benefits are key drivers in the market potential. 
+asr:0: OUTPUT 582.92-590.05: Which we anticipate reflects an addressable market for NGS-based oncology testing of $75 billion. 
+asr:0: OUTPUT 591.53-598.28: Today, we're seeing rapid adoption of NGS-based therapy selection tests, many based on Illumina's technology. 
+asr:0: OUTPUT 599.06-606.11: Over the next 15 years, we expect this market to grow in a category of about 16% to $14 billion. 
+asr:0: OUTPUT 607.13-613.97: To an annual 7 million test opportunity at approximate ASV of $1,300 to $2,300. 
+asr:0: OUTPUT 615.08-619.08: So we're going to participate in the therapy selection market with our TSO500 test. 
+asr:0: OUTPUT 619.60-626.41: Currently available for research use only and making its way through regulatory approval for commercial launch in early 2020. 
+asr:0: OUTPUT 628.07-637.70: As the reimbursement landscape continues to strengthen and drives the utilization of therapy selection tests, we're seeing more companies working on monitoring tests. 
+asr:0: OUTPUT 637.72-640.48: That will assess the activity of a patient's cancer. 
+asr:0: OUTPUT 641.42-647.43: This can optimize disease management and determine the effectiveness of cancer therapies for individual patients. 
+asr:0: OUTPUT 648.69-655.38: These assays can also act as surveillance tests for cancer patients who have completed therapy and are in remission. 
+asr:0: OUTPUT 656.28-662.28: We expect this market to grow with a CAGR of about 27% to $15 billion in 2035. 
+asr:0: OUTPUT 663.74-672.57: The test opportunity here is expected to grow to about 20 million tests per year, with an expected ASV of $700 to $1,000. 
+asr:0: OUTPUT 673.71-680.00: The cancer screening opportunity is significantly larger than therapy selection and monitoring combined. 
+asr:0: OUTPUT 680.82-686.53: The advanced market is expected to grow quickly to about 150 million tests in 2035. 
+asr:0: OUTPUT 687.31-691.99: A 75% CAGR to approximately $46 billion. 
+asr:0: OUTPUT 693.05-699.76: This assumes an ASD that starts around $1,200 and trends to about $300 in 2035. 
+asr:0: OUTPUT 700.00-704.72: As we scale and drive adoption with increasingly accessible pricing. 
+asr:0: OUTPUT 706.27-716.44: With regards to the market for galleries specifically, there is a sizable addressable market of over 100 million people between the age of 50 to 79 in the US. 
+asr:0: OUTPUT 717.36-722.88: We believe approximately half of this addressable market is accessible in gallery prior to reimbursement. 
+asr:0: OUTPUT 724.64-732.89: The Grail Go-To-Market Strategy next year will consist of three core channels, health systems, self-insured employers, and concierge medicine. 
+asr:0: OUTPUT 733.83-739.76: Given the cost improvement potential, we feel that health systems and self-insured employers. 
+asr:0: OUTPUT 739.78-746.99: Will recognize the compelling value propositions and drive adoption of the first multi-cancer detection LDT available. 
+asr:0: OUTPUT 748.47-750.65: There's also an opportunity in Concierge Medicine. 
+asr:0: OUTPUT 751.37-759.88: Segment that typically caters to health conscious members that like to be at the forefront of new medical technologies who could be early adopters of gallery. 
+asr:0: OUTPUT 761.34-764.18: The expected grill will launch gallery in 2021. 
+asr:0: OUTPUT 764.80-773.57: We look forward to additional results next year from the CCGA Sub-Study 3 and Pathfinder to further support the clinical validation of GALORIE. 
+asr:0: OUTPUT 774.96-779.46: Additionally, GRAIL will continue to work on its diagnostic aid for cancer tests. 
+asr:0: OUTPUT 780.00-787.63: Or DAC, which is intended for symptomatic patients and is designed to speed up the time to diagnosis when cancer is suspected. 
+asr:0: OUTPUT 788.61-793.09: And grail also has a minimal residual disease or MRD test in development. 
+asr:0: OUTPUT 793.43-799.40: Intended for patients who have been diagnosed and treated to detect persistent disease following definitive therapy. 
+asr:0: OUTPUT 800.38-804.56: On that note, I'd like to invite Hans, the CEO of Grail, to say a few words. 
+asr:0: OUTPUT 806.09-809.13: Thank you, Francis. I'm excited to be here today. 
+asr:0: OUTPUT 810.21-814.49: Let me start by recognizing the accomplishments of the Grail team. 
+asr:0: OUTPUT 815.50-820.92: We're a mission-driven company focused on detecting cancer early when it can be cured. 
+asr:0: OUTPUT 821.10-829.47: And we believe our early cancer detection technology could substantially reduce the burden of cancer worldwide. 
+asr:0: OUTPUT 830.85-836.88: We have developed unique technology that preferentially targets the most informative regions of the genome. 
+asr:0: OUTPUT 837.50-844.04: And uses machine learning algorithms to detect the presence of cancer and identify the tumor's tissue of origin. 
+asr:0: OUTPUT 845.41-853.97: We believe by joining forces with Illumina, we'll achieve scale faster, preventing more late stage cancer diagnoses. 
+asr:0: OUTPUT 855.24-861.26: We are strongly positioned with our first two commercial product launches expected in 2021. 
+asr:0: OUTPUT 862.40-867.63: And once our deal closes, we'll be able to leverage the global scale and reach of Illumina. 
+asr:0: OUTPUT 867.65-874.41: Through relationships and in-country infrastructure to further our commercialization efforts. 
+asr:0: OUTPUT 875.26-878.68: Simply put, Braille's mission and focus will not change. 
+asr:0: OUTPUT 879.40-892.21: Illumina's international footprint and expertise across market access, regulatory, government affairs and manufacturing will accelerate our ability to realise our mission and goal to improve patient outcomes. 
+asr:0: OUTPUT 893.53-898.26: We built a world-class team of data and computer scientists. 
+asr:0: OUTPUT 898.28-907.79: At the forefront of applying AI to genomics and where better to further leverage those capabilities for the benefit of human health than at a lingua. 
+asr:0: OUTPUT 908.75-912.97: In the process, we've also established an impressive IP portfolio. 
+asr:0: OUTPUT 912.99-921.08: With more than 230 patents granted globally and another 170 pending patent applications. 
+asr:0: OUTPUT 922.48-928.53: With 115,000 participants enrolled and another 30,000 planned. 
+asr:0: OUTPUT 928.55-935.60: Braille has built one of the largest population-scale clinical trial programs ever pursued in genomic medicine. 
+asr:0: OUTPUT 937.00-943.14: Grails genomic database continues to grow with each test and additional clinical trial participants. 
+asr:0: OUTPUT 943.58-949.11: And today stands at over 12.6 petabytes worth of genomic data. 
+asr:0: OUTPUT 950.17-955.36: The comparison is five times larger than the cancer genome atlas. 
+asr:0: OUTPUT 956.88-960.56: Illumina remains the most innovative company in sequencing. 
+asr:0: OUTPUT 961.24-972.87: And Grail's ability to keep pushing the boundaries of what's possible, to keep finding more and more cancers at earlier stages, will be further strengthened as a result of this combination. 
+asr:0: OUTPUT 973.99-979.84: Having spent time with Francis, Emilio and the team, I'm confident we all share the same goal. 
+asr:0: OUTPUT 979.86-985.17: We're committed to accelerating our mission and delivering on our promise faster than could be done alive. 
+asr:0: OUTPUT 986.31-992.55: We both believe this is a case where 1 plus 1 will equal well over 2. 
+asr:0: OUTPUT 993.43-995.96: And with that, I'd like to hand the call back to Francis. 
+asr:0: OUTPUT 997.36-1005.41: Thanks, Hans. I couldn't be more excited about the opportunity to work with the GRAIL team to accelerate adoption of their life-saving products. 
+asr:0: OUTPUT 1005.43-1009.97: By leveraging our global commercial, clinical, and operations capabilities. 
+asr:0: OUTPUT 1011.07-1019.46: Our global commercial organization markets, sells, and supports only 6,600 customers in 115 countries. 
+asr:0: OUTPUT 1020.00-1026.45: Including a number of national population scale genomics programs powered by Illumina sequencing technology. 
+asr:0: OUTPUT 1027.57-1037.48: Illumina first established our clinical lab in 2009, and since then have added two more, including one in the UK to support Genomics England and the NHS. 
+asr:0: OUTPUT 1038.72-1040.82: Be certified and accredited, labs. 
+asr:0: OUTPUT 1040.84-1050.67: Are staffed by more than 250 team members, including board-certified pathologists, medical geneticists, genetic counselors, and PhD scientists. 
+asr:0: OUTPUT 1051.81-1059.60: Over the last five years, our labs have processed more than 17 million arrays and almost 1 million clinical samples. 
+asr:0: OUTPUT 1061.04-1067.97: We've also expanded our clinical capabilities and built out world-class market access, government affairs, and regulatory functions. 
+asr:0: OUTPUT 1068.91-1078.76: In addition, our clinical grade development and manufacturing team delivers systems and kits registered for IVD use in more than 35 countries around the world. 
+asr:0: OUTPUT 1080.22-1089.31: At the same time, we've been extending our reach into the clinical market through partnerships with leading clinical companies, including BMS, Cryogen, and Roche. 
+asr:0: OUTPUT 1090.63-1098.12: As Illumina and GRAIL come together, we accelerate adoption of clinical NGS-based testing. This will have a positive impact on our business. 
+asr:0: OUTPUT 1099.02-1106.35: Over time, more of our revenue will reflect the clinical value of our NGS products, and not only the underlying sequencing output. 
+asr:0: OUTPUT 1107.03-1113.87: As a result, Illumina will play a direct role in accelerating the adoption of genomic medicine, in addition to enabling it. 
+asr:0: OUTPUT 1115.30-1119.68: As we evolve, Lumina remains committed to all of our customers and partners. 
+asr:0: OUTPUT 1119.88-1126.85: We're dedicated to delivering the most innovative sequencing systems and consumables to our customers and partners. 
+asr:0: OUTPUT 1127.81-1135.86: There is still so much important research to be done. And we know this will be enabled in part by continued innovation in sequencing. 
+asr:0: OUTPUT 1136.84-1143.44: And on the clinical side, our mission has always been to improve human health by unlocking the power of the genome. 
+asr:0: OUTPUT 1144.36-1150.17: We will continue to enable our clinical customers to scale as they too work towards the shared goal. 
+asr:0: OUTPUT 1151.15-1155.68: With that, let me hand things over to Sam for a quick review of financial terms and impact. 
+asr:0: OUTPUT 1157.46-1166.43: Thanks, Francis. As announced earlier today, we have agreed to acquire Grail for the total cash and stock consideration of $8 billion. 
+asr:0: OUTPUT 1167.21-1171.07: With additional payments linked to certain product sales over the first 12 years. 
+asr:0: OUTPUT 1172.27-1176.94: This acquisition expands Illumina's market opportunity by more than $60 billion. 
+asr:0: OUTPUT 1177.92-1187.63: It allows us to participate in the clinical market more fully and will contribute to revenue growth starting modestly in 2021 and meaningfully accelerate over time. 
+asr:0: OUTPUT 1188.91-1192.69: We expect the transaction to close in the second half of 2021. 
+asr:0: OUTPUT 1193.35-1199.00: And we will share more detailed expectations about revenue growth and impact on EPS when that happens. 
+asr:0: OUTPUT 1201.20-1208.77: The cash-in-stock consideration is $8 billion. Since Illumina currently owns 12% of Grail's equity on a fully-fruited 8-acre land,. 
+asr:0: OUTPUT 1209.53-1213.91: The purchase price goes approximately $7 billion to Grail's other shareholders. 
+asr:0: OUTPUT 1215.56-1223.52: As part of the transaction, Illumina will pay Braille shareholders approximately $4 billion in common stock, which is subject to a collar. 
+asr:0: OUTPUT 1224.80-1233.05: The number of shares issued should be based on the any trade volume weighted average price of Illumina common stock 10 days prior to close. 
+asr:0: OUTPUT 1234.45-1248.55: Moreover, the stock consideration collar ensures the final number of shares that Grail shareholders receive is derived from a price that will be within a share price band of $295 and $399. 
+asr:0: OUTPUT 1250.13-1259.52: The remaining $3.1 billion cash consideration is expected to be funded with balance sheet cash and up to an additional $1 billion raised. 
+asr:0: OUTPUT 1259.72-1261.44: Either through equity or debt. 
+asr:0: OUTPUT 1262.70-1268.07: We have a $1 million fully committed bridge fund with Goldman Sachs to ensure our funding availability. 
+asr:0: OUTPUT 1269.77-1277.84: The last component of the deal includes contingent payment rights to Grail shareholders based on Grail-related revenues for a 12-year period. 
+asr:0: OUTPUT 1278.72-1284.86: Specifically, a 2.5% payment rate is applied to the first $1 billion of revenue each year. 
+asr:0: OUTPUT 1285.69-1290.07: And all revenue above that would be subject to a 9% payment by the Grail shareholders. 
+asr:0: OUTPUT 1291.31-1292.55: With that, back to Clint. 
+asr:0: OUTPUT 1294.11-1301.66: Thank you, Sam. When we created GRAIL in 2016, we knew that its mission was a moonshot, but an important one. 
+asr:0: OUTPUT 1302.42-1306.81: One that would have significant ramifications for the detection of cancer is successful. 
+asr:0: OUTPUT 1307.33-1312.53: Positively impacting millions of lives and opening a massive market opportunity. 
+asr:0: OUTPUT 1313.67-1321.98: We wanted to see the technology progress as fast as possible, create the largest clinical trials, and get it to patients in years, not decades. 
+asr:0: OUTPUT 1322.94-1332.53: It was clear that the best way to do this and capitalize the effort was as a separate company with this singular focus and an extraordinary team that could execute quickly. 
+asr:0: OUTPUT 1333.57-1339.10: Illumina set it up for success by seeding it with technology and some of our best and brightest. 
+asr:0: OUTPUT 1340.50-1345.61: Four years later, Grail has proven the skeptics wrong and is now at the pre-commercial stage. 
+asr:0: OUTPUT 1346.37-1355.56: It was a big bet and it paid off. Over the last four and a half years, GRAIL has raised almost $2 billion to fund its mission. 
+asr:0: OUTPUT 1356.64-1360.52: During the same period, the Illuminate generated about $4 billion in EV debt. 
+asr:0: OUTPUT 1361.60-1367.61: Grail's mission is no longer a moonshot, and we believe it is poised to transform cancer detection. 
+asr:0: OUTPUT 1369.61-1377.24: Our mission at Illumina is to improve human health by unlocking the power of the genome. This hasn't changed in over the last 22 years. 
+asr:0: OUTPUT 1378.32-1382.00: We began our journey by launching our microarray-based services and products. 
+asr:0: OUTPUT 1382.90-1389.89: Our breakthrough arrays offered higher throughput, lower cost, more flexibility, and higher quality than existing technology. 
+asr:0: OUTPUT 1390.39-1396.24: And we became the leading microarray vendor by 2006, more than doubling revenues from the previous year. 
+asr:0: OUTPUT 1397.26-1403.40: While we enjoyed the success, we saw the opportunity to take the next step forward towards our mission through sequencing. 
+asr:0: OUTPUT 1404.42-1407.93: Arrays weren't going away and in 2020 we still have an array system. 
+asr:0: OUTPUT 1408.91-1416.14: But we saw the potential for enormous and very elastic research markets acquired by high-quality, lower-cost sequencing. 
+asr:0: OUTPUT 1416.82-1426.71: So in 2006, we acquired Somexa, a sequencing technology company with no revenue for $600 million, a third of our market cap at the time. 
+asr:0: OUTPUT 1427.57-1435.64: The market was initially skeptical, but we began the race to the $1,000 Gino. And over the last 14 years, the vision has proved right. 
+asr:0: OUTPUT 1436.12-1444.14: We reduced the cost of high-quality sequencing of a genome from $150,000 in 2007 to $600 today. 
+asr:0: OUTPUT 1444.16-1453.53: Enabling groundbreaking genomic discoveries, including circulating fetal DNA in maternal blood and the impact of rare variants on cancer therapy response. 
+asr:0: OUTPUT 1454.71-1461.12: By 2014, when we delivered the industry's first $1,000 genome, our research sequencing business was thriving. 
+asr:0: OUTPUT 1461.56-1465.87: And once again, we sense we're entering a new era of genomics, entering the clinic. 
+asr:0: OUTPUT 1466.53-1471.35: In 2013, we acquired Verinata, a provider of non-invasive prenatal testing. 
+asr:0: OUTPUT 1472.05-1478.32: In December 2013, we received the first ever FDA authorization for a next generation sequencer. 
+asr:0: OUTPUT 1479.16-1484.98: We embarked on our own multi-year clinical transformation, building out the capabilities I referenced earlier. 
+asr:0: OUTPUT 1485.87-1495.48: Today our clinical business, therapy selection and oncology, NICT, and genetic disease testing account for half of our sequencing consumable revenues. 
+asr:0: OUTPUT 1496.66-1501.02: We're now entering the next phase of genomics, sequencing the standard of care. 
+asr:0: OUTPUT 1501.68-1507.85: Early cancer detection represents the largest genomics application by far, we believe, over the next decade. 
+asr:0: OUTPUT 1508.71-1517.58: Because cancer screening impacts a very large part of the population, it ushers in an era where regular genomic testing is the norm for a population. 
+asr:0: OUTPUT 1518.54-1521.06: We accelerate this vision by acquiring GRAIL. 
+asr:0: OUTPUT 1522.72-1526.13: Before we open up to Q&A, I want to summarize a few things. 
+asr:0: OUTPUT 1527.37-1533.81: First, excluding Grail for a moment, we remain confident in our business and excited by the opportunity ahead. 
+asr:0: OUTPUT 1534.99-1539.88: We expect to continue as the leading innovator in sequencing, supporting both research and clinical customers. 
+asr:0: OUTPUT 1540.86-1547.03: Grail is not replacing anything, and as such, the acquisition will be additive to illuminate opportunity and growth. 
+asr:0: OUTPUT 1547.91-1553.49: We consider early cancer detection to be one of the largest clinical opportunities of the next 15 years. 
+asr:0: OUTPUT 1553.93-1558.56: And we believe it will accelerate global adoption by participating more directly. 
+asr:0: OUTPUT 1559.80-1567.57: Second, this acquisition is consistent with our strategy to extend into the clinical market, the fastest growing opportunity in sequencing. 
+asr:0: OUTPUT 1568.43-1581.70: We will continue to deliver sequencing systems and consumables and remain committed to the relentless pursuit of sequencing innovation to democratize access and realize the potential of this technology to positively impact human health. 
+asr:0: OUTPUT 1582.86-1586.63: Third, we spun our grand four years ago on a moonshot mission. 
+asr:0: OUTPUT 1587.77-1591.21: The terrific progress they've made has de-risked the mission over time. 
+asr:0: OUTPUT 1591.97-1600.66: Now that they stand poised to bring products to market in 2021, we believe this is the right time to bring the GRAIL team into Illumina. 
+asr:0: OUTPUT 1600.68-1603.90: So that we can help to commercialize and accelerate adoption. 
+asr:0: OUTPUT 1605.49-1606.67: In closing,. 
+asr:0: OUTPUT 1606.69-1617.60: Our mission to improve human health by unlocking the power of the genome and GRAIL's mission to detect cancer early when it can be cured could not be more consistent. 
+asr:0: OUTPUT 1618.36-1626.07: We look forward to accelerating the age of genomic medicine together. With that, I'll invite the operator to begin the Q&A. 
+asr:0: OUTPUT 1627.71-1637.32: Certainly. At this time, if you'd like to ask a question, please press star 1. Again, you will be limited to one question. Doug Schenkel with Calend, your line is open. 
+asr:0: OUTPUT 1640.34-1649.09: Good morning. So, so, Grail is clearly a really exciting and promising asset and you did a great job this morning outlining. 
+asr:0: OUTPUT 1649.95-1653.67: A lot of that and you were very comprehensive in explaining. 
+asr:0: OUTPUT 1653.93-1655.26: Why you want to do this deal. 
+asr:0: OUTPUT 1656.28-1662.02: I'm actually hoping that you could address how you got comfortable overcoming some of the reasons not to do the deal. 
+asr:0: OUTPUT 1662.70-1666.31: These include three things that would be really helpful for you to address. 
+asr:0: OUTPUT 1666.99-1674.13: The first is the challenge of competing with customers, which has been an issue for you in the past and something you talked about avoiding. 
+asr:0: OUTPUT 1674.25-1681.06: So I'm first off wondering how you expect to manage that and why the change, why the pivot there? 
+asr:0: OUTPUT 1682.00-1683.08: Seconds. 
+asr:0: OUTPUT 1683.36-1694.25: The dilution associated with this deal, which could create a potential internal P&L conflict when it comes to incentive structure, not to mention an issue with investor valuation methodologies. 
+asr:0: OUTPUT 1695.38-1700.48: I think this is part of the reason your stock got hit so much last week in anticipation of this announcement. 
+asr:0: OUTPUT 1701.24-1705.77: So how do you handle potential P&L conflict internally and externally moving forward? 
+asr:0: OUTPUT 1706.53-1710.03: And then third, the lack of clear clinical operating synergy. 
+asr:0: OUTPUT 1711.31-1716.58: And how you plan to succeed as a clinical development company in a way that you haven't in the past. 
+asr:0: OUTPUT 1716.88-1719.80: We know that Illumina is great at certain things. 
+asr:0: OUTPUT 1720.00-1723.80: Especially developing leading genetic tools platforms. 
+asr:0: OUTPUT 1723.82-1731.45: And having an amazing commercial team in place to support not just the placement of these platforms, but how users use them. 
+asr:0: OUTPUT 1732.15-1739.22: That said, while you've been great as an arms dealer to clinical customers, your track record isn't as strong when it comes to developing. 
+asr:0: OUTPUT 1739.24-1743.42: And selling assays and getting them through regulatory and reimbursement pathways. 
+asr:0: OUTPUT 1744.12-1749.55: So what are the clinical synergies and how do you quantify them? Again, one, how do you manage competing with customers? 
+asr:0: OUTPUT 1750.19-1753.75: How do you manage the P&L conflict, internally and externally? 
+asr:0: OUTPUT 1754.03-1760.96: And third, why should we get excited about this given the lack of clear clinical operating synergies? Thank you. 
+asr:0: OUTPUT 1762.26-1768.85: Sure. Thank you, Doug. So let's go through each of those. The first one is how do we manage the challenge of competing with our customers? 
+asr:0: OUTPUT 1769.65-1776.62: And our strategy there continues to be that in the vast majority of applications in the markets that we serve,. 
+asr:0: OUTPUT 1776.64-1782.44: We will look to our customers and our partners to develop the applications and our sequencers and consumables. 
+asr:0: OUTPUT 1782.54-1785.51: And that's going to be true for the vast majority of applications. 
+asr:0: OUTPUT 1785.91-1789.81: What we've said, however, is that for a very small set of applications. 
+asr:0: OUTPUT 1790.05-1801.02: Where we felt the market was large and we felt that there was a differentiated offering that we could put into the market, then we would enter that market directly. 
+asr:0: OUTPUT 1801.52-1808.07: In those markets, we still enable our customers and partners to create competing offerings. So we continue to support everybody. 
+asr:0: OUTPUT 1808.33-1814.81: We said in the very large markets where we felt we had a differentiated capability to bring into the market, we would enter those. 
+asr:0: OUTPUT 1814.99-1823.82: And you've seen us do that, for example, in the NIPT space, where we brought innovations and intellectual property into that market and have put together an end-to-end solution. 
+asr:0: OUTPUT 1824.02-1829.11: You still do that in the large cancer panels, like the 500 gene panel, TSO 500. 
+asr:0: OUTPUT 1829.91-1831.69: And now you're seeing him do that here. 
+asr:0: OUTPUT 1832.21-1836.14: In this case, we feel that the criteria we used have been met. 
+asr:0: OUTPUT 1836.48-1848.25: This is a very large application for us. We think that over the next 15 years it could potentially be the largest genomics application in the market in terms of addressable market size. 
+asr:0: OUTPUT 1848.69-1852.67: And the Grail team has put together a very differentiated offering. 
+asr:0: OUTPUT 1852.97-1861.90: A lot of innovation, a lot of IP that was created. Hans talked about the 230 applications, patents that have been granted and 170 more that have been filed. 
+asr:0: OUTPUT 1861.96-1863.90: And so there's a very differentiated offering. 
+asr:0: OUTPUT 1864.26-1870.45: And in this case, with Grails pioneering the market, they're sort of leading the way in creating that market. 
+asr:0: OUTPUT 1870.65-1878.54: So as we looked at the market, we felt it meets the criteria for one of the very small set of markets that we would get into directly. 
+asr:0: OUTPUT 1879.02-1887.33: We're going to continue though to enable our customers and partners to create their own offerings in this market too. So that's how we thought about that question. 
+asr:0: OUTPUT 1887.87-1892.93: The next question is around dilution and how we got comfortable with that and how we'd manage P&L. 
+asr:0: OUTPUT 1893.81-1899.84: So the thinking here is that we're going to manage Grail as a separate division. 
+asr:0: OUTPUT 1900.02-1910.01: We had a report, really transparent, about the P&L of Grail, and we had to manage that differently and separately from the P&L for the rest of the business. 
+asr:0: OUTPUT 1910.33-1916.52: And we understand the profile of what it'll take to get Grail successful in the market going forward. 
+asr:0: OUTPUT 1916.68-1920.46: And so we'll be very transparent about what that looks like. 
+asr:0: OUTPUT 1921.02-1926.33: We expect that to be dilutive for the next few years, but then because of the size of the opportunity,. 
+asr:0: OUTPUT 1926.35-1932.69: We expect it to be highly accretive as we start to scale the offering in the later years. 
+asr:0: OUTPUT 1932.83-1935.74: And again, we'll be very transparent about sharing what that looks like. 
+asr:0: OUTPUT 1936.10-1944.18: Long term, we have high confidence in the P&L attractiveness of this business, but we do know it takes investment in the first few years. 
+asr:0: OUTPUT 1945.09-1951.03: My next question was about clinical synergies. So what are the synergies that grails can enjoy coming into Illumina? 
+asr:0: OUTPUT 1951.57-1956.64: And as you know, we've been building out our clinical capabilities since 2013. 
+asr:0: OUTPUT 1957.32-1965.81: And so today, for example, we have a number of places where we think that Grail could benefit as soon as they come in. 
+asr:0: OUTPUT 1966.31-1972.51: Some of the things we talked about in the call, one, for example, is that we're engaged with over 50 population sequencing efforts around the world. 
+asr:0: OUTPUT 1973.03-1978.38: Today we're talking to them about oncology therapy selection, genetic disease diagnosis. 
+asr:0: OUTPUT 1979.02-1982.64: We think it's a very natural act to expand the conversation. 
+asr:0: OUTPUT 1982.66-1989.21: To include cancer screening and for a detection. We think that'd be very valuable in the conversations we're in. 
+asr:0: OUTPUT 1989.47-1994.99: And so we'll be able to immediately scale up the number of conversations that Grail is having around the world. 
+asr:0: OUTPUT 1995.34-1997.02: We talked about our clinical labs. 
+asr:0: OUTPUT 1997.42-2000.66: We have among the largest clinical genomics labs in the world. 
+asr:0: OUTPUT 2000.98-2004.12: We have two in the US, one in the UK. 
+asr:0: OUTPUT 2004.22-2012.19: Those labs have already processed over a million clinical samples and built the workflows and expertise necessary to do that. 
+asr:0: OUTPUT 2012.73-2020.74: And then we've also built the regulatory capabilities, the market access capabilities, the in-country surveillance capabilities. 
+asr:0: OUTPUT 2020.76-2023.54: To support clinical offerings around the world. 
+asr:0: OUTPUT 2023.88-2032.45: Today we have IVDs that are cleared in 35 countries around the world, leveraging relationships we've built with the regulatory bodies in those countries. 
+asr:0: OUTPUT 2032.65-2036.24: As well as having in market surveillance capability from those countries. 
+asr:0: OUTPUT 2036.62-2046.27: And you can see that playing out in the successive products that we've got on the market, like our VeriSeq NIPT product, which is CE-IVD-MART, and doing really well in EMEA. 
+asr:0: OUTPUT 2046.49-2053.61: So those are some of the clinical capabilities that frankly we've spent the last five plus years building that GRAIL plugs into immediately. 
+asr:0: OUTPUT 2058.66-2062.26: Your next question comes from Tycho Peterson with JP Morgan. Your line is open. 
+asr:0: OUTPUT 2063.88-2073.25: Hey, thanks. A couple quick ones. So, you know, your stock lost $20 billion in market cap last week, as Doug alluded to. Did that influence your thinking? And what is it that you think the street. 
+asr:0: OUTPUT 2073.69-2080.30: Doesn't fully understand here, you know, especially given this is a pretty significant, I think about a $4 billion step up since the last round, Grail did in May. 
+asr:0: OUTPUT 2080.64-2089.11: And why is buying it all now the right approach, given that you could have taken your equity stake up higher, maybe to 40, 50%, helped the IPO, and then had a call option to buy it later? 
+asr:0: OUTPUT 2089.51-2097.16: So that's the first question. Second, on margins, can you give us a sense of where COGS can go? You know, we know you have off-the-shelf technology for a $100 genome. 
+asr:0: OUTPUT 2097.50-2107.23: How much of this is about driving down cars quickly? Where do you think they can go? And then how much do you think Grail needs to spend on R&D and the Salesforce ramp to really scale up? 
+asr:0: OUTPUT 2107.93-2112.51: Third, you know, Francis, you talked about, you know, competence in the core business. 
+asr:0: OUTPUT 2113.15-2118.98: I think one of the things the investor is going to worry about is concerns about growth in the core business. 
+asr:0: OUTPUT 2119.22-2128.55: You know, you're doing this deal to diversify and cover up, you know, a continued slowdown. So can you maybe talk to what you think about the core business for next year a little bit more quantitatively? 
+asr:0: OUTPUT 2128.93-2138.48: And then lastly, either for Francis or Hans, why is the 44% sensitivity for a screening test of clinical value, especially at the price points being talked about? 
+asr:0: OUTPUT 2140.00-2146.99: Thank you, Jaco. All right, a lot of ground to cover. So I'm going to start by talking about your first question, which is the why now question. 
+asr:0: OUTPUT 2147.41-2151.19: And then Sam, I'm going to turn it over to you to talk about the margins question. 
+asr:0: OUTPUT 2151.69-2154.93: And then I'll come back and talk about our core business. 
+asr:0: OUTPUT 2154.97-2162.80: And then I'll look to you Hans, maybe also, to comment a little bit on the screening tests and their clinical value. 
+asr:0: OUTPUT 2163.52-2172.79: Let's start. So why now? And is there any reaction in our mind, you're asking, around the stock drop that has classrooms? 
+asr:0: OUTPUT 2173.53-2182.16: So the reason for why now, and frankly, we took a longer term view, so the events of last week didn't really impact our why now decision. 
+asr:0: OUTPUT 2182.18-2184.02: And I'll talk about that a little bit. 
+asr:0: OUTPUT 2184.80-2193.25: But the reason for why now is frankly the terrific progress that the Grail team has made over the last few years and where they stand right now. 
+asr:0: OUTPUT 2193.73-2195.94: When we spun our grill four years ago,. 
+asr:0: OUTPUT 2196.26-2204.04: You'll remember how this idea got started, right? So we were processing samples for NIPT in our clinical labs. 
+asr:0: OUTPUT 2204.30-2211.05: And although we were seeing normal fetal DNA, we noticed abnormalities in the mother's DNA. 
+asr:0: OUTPUT 2211.59-2217.72: And so we reported that to the doctor. And in all of those cases, it turned out that the mother had cancer and didn't know about it. 
+asr:0: OUTPUT 2218.50-2223.40: And so we incubated, so there was an idea that you could get signals for cancer in the blood. 
+asr:0: OUTPUT 2223.68-2228.69: And we incubated that idea with our team for a couple of years to feel like there was something there. 
+asr:0: OUTPUT 2229.01-2230.39: But there was a lot of unknown. 
+asr:0: OUTPUT 2230.97-2234.79: It was unclear whether there was enough signal to detect early stage cancer. 
+asr:0: OUTPUT 2235.03-2242.18: It was unclear whether you could detect only certain types of cancer. It was unclear if the approach we were thinking about was the right approach. 
+asr:0: OUTPUT 2242.48-2251.45: And so what we wanted was to create a company that was going after this moonshot mission, that could be focused on that, move quickly on that. 
+asr:0: OUTPUT 2251.75-2256.20: But we also wanted to know maybe other approaches in the market would be more fruitful. 
+asr:0: OUTPUT 2256.96-2261.88: The team has done a fantastic job over the last four years and sort of de-rips a lot of the questions. 
+asr:0: OUTPUT 2262.46-2266.75: The technology they've put together, the team they've assembled. 
+asr:0: OUTPUT 2267.27-2275.34: And then, probably most importantly, the results they're demonstrating from their large-scale clinical studies have put to bed a lot of the questions that we had. 
+asr:0: OUTPUT 2275.80-2278.64: Now, the gallery results I talked about. 
+asr:0: OUTPUT 2278.68-2286.29: Based on the CCGA samples show that they are able to identify over 50 types of cancer. 
+asr:0: OUTPUT 2286.51-2293.11: That they have a specificity that means the false of 99% is a false positive rate of less than 1%. 
+asr:0: OUTPUT 2293.31-2296.78: They won't flood healthcare systems with false positives. 
+asr:0: OUTPUT 2297.66-2306.21: And they have high sensitivity, especially for the deadliest cancers. And so they stand today on the precipice of commercializing a product next year. 
+asr:0: OUTPUT 2306.57-2315.22: So now it makes a lot of sense for us to acquire them. And so why acquire them, you asked? Why not just increase our investment? 
+asr:0: OUTPUT 2315.62-2322.92: And the reason to acquire them is because we have a very clear line of sight into how we can accelerate a plan that they are on today. 
+asr:0: OUTPUT 2323.12-2330.89: And we can only do that if they're part of Illumina, plugging them into our commercial conversations with population sequencing efforts, for example. 
+asr:0: OUTPUT 2331.25-2337.90: Standing them up in our clinical labs around the world rather than wait for them to build up their own clinical labs. 
+asr:0: OUTPUT 2338.28-2342.14: Plugging into our regulatory expertise in countries around the world. 
+asr:0: OUTPUT 2342.54-2351.83: All of those things are things that we can do if they're part of Illumina that frankly we wouldn't be able to do as well even if we were a 30, 40% owner of Grail. 
+asr:0: OUTPUT 2352.25-2354.01: So, you know, they are. 
+asr:0: OUTPUT 2354.03-2363.12: We talk about launching the product next year, so they're close to commercialization. So it's exactly the right time, we felt, where there is a product, the value has been demonstrated. 
+asr:0: OUTPUT 2363.92-2370.45: And they're ready to scale and that's where we can help from an operational perspective, from a clinical perspective, from a commercial perspective. 
+asr:0: OUTPUT 2371.05-2372.47: In terms of the stock drop. 
+asr:0: OUTPUT 2373.03-2382.10: So we've seen before, and I mentioned this in my prepared remarks, that this is a big step. I understand that. This is also a big amount. I understand that. 
+asr:0: OUTPUT 2382.80-2388.49: And we've had this happen to us before when we were in the array business and we wanted to get into sequencing. 
+asr:0: OUTPUT 2388.59-2395.66: And we announced that we were acquiring Celexa to get into the sequencing business, our stock dropped that day too. 
+asr:0: OUTPUT 2395.94-2403.28: And it took a while for us to work with the market to explain where we were going and why we thought that was a big opportunity. 
+asr:0: OUTPUT 2403.42-2408.97: And of course, you know today that's been an enormously successful story in sequencing in the vast majority of our. 
+asr:0: OUTPUT 2409.59-2419.04: And so we anticipated that there'd be work for us to do in explaining this step and explaining the opportunity and explaining why GRAIL and why GRAIL and Illumina. 
+asr:0: OUTPUT 2419.34-2426.39: And that's the work we have in front of us. But we're very confident that it's the right next step in terms of fulfilling our mission. 
+asr:0: OUTPUT 2426.71-2430.67: With that, I'm going to turn it over, Sam, to you to talk about margins and the questions that we do. 
+asr:0: OUTPUT 2432.43-2440.90: Yeah, so I'll tackle a couple of things here. Margins and I think you had a question on operating expenses as well, Tycho. So, you know, from an overall COGS standpoint,. 
+asr:0: OUTPUT 2441.32-2448.85: The COGS will initially start out, you know, obviously much higher than our average COGS, driven by the fact that, you know, volumes are ramping up. 
+asr:0: OUTPUT 2448.99-2452.99: So initially you're going to see a higher cost profile for the business. 
+asr:0: OUTPUT 2453.01-2459.24: As the volumes start ramping up though, and two and a half to three years post launch of Gallery,. 
+asr:0: OUTPUT 2459.62-2468.15: The COGS start to get to a level which is commensurate with our overall services business and slightly below our overall COGS profile. 
+asr:0: OUTPUT 2468.73-2475.86: And obviously, as we introduce more innovations and lower the cost of sequencing, to your question,. 
+asr:0: OUTPUT 2475.92-2480.40: The coffees will benefit from that as well, just like all of our customers will benefit from that. 
+asr:0: OUTPUT 2481.60-2490.55: In terms of operating expenses, if you look at what Grail invested last year or this year, I should say. 
+asr:0: OUTPUT 2490.87-2493.15: So the first answer was roughly. 
+asr:0: OUTPUT 2493.17-2501.68: $135 million. If you extrapolate that for the full year, let's say it's exactly double that. It's about $270 million for the full year. 
+asr:0: OUTPUT 2502.14-2504.96: As we look forward, obviously that number is going to grow. 
+asr:0: OUTPUT 2505.33-2513.71: Because we're gonna be ramping and launching products. We're gonna be accelerating the commercialization efforts and building out a sales port. 
+asr:0: OUTPUT 2514.49-2516.92: And there's going to be continuing R&D as well. 
+asr:0: OUTPUT 2517.42-2525.21: You know, OPEX, especially in three years, is going to be, you know, back on dilution,. 
+asr:0: OUTPUT 2525.65-2530.17: But let me remind you of just the attractiveness of this opportunity longer term. 
+asr:0: OUTPUT 2530.19-2536.18: Eventually, as the volumes scale, the opportunity is significant on the top line. 
+asr:0: OUTPUT 2536.22-2544.74: And even though it requires investment in terms of commercial efforts and R&D, we will definitely, after a few years, start to see accretion on P&L. 
+asr:0: OUTPUT 2546.99-2553.43: And then maybe Hans, can you comment on the clinical value and the questions around the screening test and where we are? 
+asr:0: OUTPUT 2554.33-2563.68: Sure, so as you noted Taiko, the sensitivity for 50 cancers is 44%. 
+asr:0: OUTPUT 2563.74-2568.03: So let me explain why we think this is breakthrough performance. 
+asr:0: OUTPUT 2568.71-2579.16: Francis touched on the fact that when we pre-specified a basket of 12 cancers, we have sensitivity of just under 70%. 
+asr:0: OUTPUT 2579.32-2584.40: Those 12 cancers by the way account for about two thirds of mortality. 
+asr:0: OUTPUT 2585.79-2595.40: What you're observing is when you start looking for more cancers than those 12 and you start adding in cancers where the test has lower sensitivity,. 
+asr:0: OUTPUT 2595.42-2597.44: The sensitivity does drop. 
+asr:0: OUTPUT 2598.34-2599.76: But here's what matters. 
+asr:0: OUTPUT 2599.78-2609.69: Even though the sensitivity drops, as you expand the absolute number of cancers you look for, the total number of cancers you detect goes up. 
+asr:0: OUTPUT 2610.45-2619.82: So a test looking for 50 cancers at 44% sensitivity in aggregate detects many more cancers. 
+asr:0: OUTPUT 2620.00-2625.65: And a test looking for 12 cancers at a 67% sensitivity. 
+asr:0: OUTPUT 2626.57-2631.45: And when you think about the medical need we all have, 70%. 
+asr:0: OUTPUT 2631.47-2637.54: Of deaths in this country from cancer, occurring cancers where there is no screening. 
+asr:0: OUTPUT 2638.16-2642.28: This test will detect the vast majority of those. 
+asr:0: OUTPUT 2642.82-2650.17: So that's why it's the right thing to have a test that can really detect the maximum number of cancers possible. 
+asr:0: OUTPUT 2651.45-2660.92: Great, thank you Hans. And then your last question Taika was, is this move any reflection of how we think about the core market? And is that what's driving this? 
+asr:0: OUTPUT 2661.60-2667.07: And I think not at all. We remain confident in our core market. 
+asr:0: OUTPUT 2667.17-2674.39: In the last couple of quarters we've seen a slowdown because of people sheltering in place as a result of the pandemic. 
+asr:0: OUTPUT 2674.43-2679.46: We've talked about how that's slowly been building since the end of Q1. 
+asr:0: OUTPUT 2680.02-2687.73: And next year, certainly, as we start to see a number of initiatives kick back up, we feel very good about where we are with the Corpus. 
+asr:0: OUTPUT 2687.89-2697.64: We talked about the population efforts that all of us is going to be starting in the back half of this year in the US, but we'll be wrapping up next year. Similarly, the UK Biobank project. 
+asr:0: OUTPUT 2697.98-2702.24: It's been going, it paused for a little bit but it's starting to scale up again. 
+asr:0: OUTPUT 2703.06-2709.97: And then, and the NHS effort, which this year has been a sideline to focus on on coded. 
+asr:0: OUTPUT 2710.33-2715.02: Is going to be kicking back up next year. So we are optimistic about where population. 
+asr:0: OUTPUT 2715.22-2718.02: Sequencing efforts are going to be starting into next year. 
+asr:0: OUTPUT 2718.10-2724.80: We've seen good news in terms of guideline changes for NIPT and continued growth in NIPT around the world. 
+asr:0: OUTPUT 2725.15-2730.93: We're seeing continued adoption of our TSO 500 product and we expect that to continue to drive growth. 
+asr:0: OUTPUT 2731.15-2740.16: And then obviously we launched the next SIEC 2000 this year, and so we expect to continue to see that upgrade cycle play out, certainly as we get into next year. 
+asr:0: OUTPUT 2740.64-2748.73: This move is really about our strategy. And our strategy has been guided by our mission to improve human health by unlocking the power of the genome. 
+asr:0: OUTPUT 2749.03-2756.86: Our strategy is to provide sequencers and consumables to a broad array of markets and then to pick. 
+asr:0: OUTPUT 2756.88-2761.84: Very specific applications where we want to provide the solution ourselves. 
+asr:0: OUTPUT 2762.10-2768.23: We want to pick the largest market opportunities where we can provide a differentiated offering. 
+asr:0: OUTPUT 2768.71-2776.36: And frankly, if you look at that criteria, there probably is no other criteria, no other state that meets that criteria as well as early cancer detection. 
+asr:0: OUTPUT 2777.02-2782.34: It's the largest of the genomic applications that we can imagine over the next 15 years. 
+asr:0: OUTPUT 2782.42-2791.95: And Grail has built a very innovation-rich portfolio with good IP around it, and so we will have a differentiated offering in that market. 
+asr:0: OUTPUT 2792.33-2798.02: So the correct thing again, the strategy is horizontally, provide sequences and then be very assertive. 
+asr:0: OUTPUT 2798.04-2805.49: And that's very common for platform companies. Certainly if you look at technology, whether it's Apple or Amazon or Microsoft. 
+asr:0: OUTPUT 2805.57-2813.93: They provide the platform, but then there are specific applications that they provide directly themselves, typically the largest applications. 
+asr:0: OUTPUT 2814.29-2820.96: And having an application actually gives you access to insights that have you create a better platform too. 
+asr:0: OUTPUT 2821.20-2826.05: So having specific applications also helps you have the best platforms in the market. 
+asr:0: OUTPUT 2826.95-2828.37: So with that, we'll go to the next question. 
+asr:0: OUTPUT 2829.81-2838.36: Certainly, and as a reminder, please limit yourself to one question to allow others an opportunity. Derek DeBrone with Bank of America, your line is open. 
+asr:0: OUTPUT 2840.00-2849.63: Hi, good morning. So a couple of questions. I guess the first one, how much of Illumina's revenues in 2019 and estimated revenues for 2020? 
+asr:0: OUTPUT 2849.75-2852.55: Were tied to sales to Grail, number one. 
+asr:0: OUTPUT 2853.37-2854.71: Number two. 
+asr:0: OUTPUT 2854.81-2869.59: A number of questions from investors this morning just wanting to get some better clarity on the EPS dilution. Is a 20 to 30 percent EPS dilution a reasonable number for investors to do their models? 
+asr:0: OUTPUT 2870.03-2874.93: And number three, what do you expect from the Pathfinder trial readouts? 
+asr:0: OUTPUT 2875.42-2882.26: And what would be a good readout to enable the LDP launch. 
+asr:0: OUTPUT 2882.34-2895.28: And just some initial thoughts on the early commercialization efforts and what conversations Grail has had with potential self-insured employers and sort of the other members that you talked about. Thank you. 
+asr:0: OUTPUT 2896.60-2902.18: Sure, so three questions. I'll take the first one around Grail revenue to Illumina in the last couple of years. 
+asr:0: OUTPUT 2902.78-2909.67: Maybe Sam, you can talk about EPS solutions and then Hansa, you can essentially push around the Pathfinder readout. 
+asr:0: OUTPUT 2910.83-2918.60: So first one is sort of short. In 2019 and 2020, Grail was a very, very, very, very small part of our overall revenue. 
+asr:0: OUTPUT 2919.40-2927.63: In fact, I typically look at our top 20 customers on a daily and weekly basis. I don't think I ever saw them in either of those two years on those lists. 
+asr:0: OUTPUT 2927.83-2930.57: So it's a very small part of our revenue for 2019. 
+asr:0: OUTPUT 2931.61-2933.49: SAM, maybe EPS. 
+asr:0: OUTPUT 2935.20-2944.88: Yeah, so as I talked about earlier, the ramp of off-becks in the first few years is significant driven by the commercialization of galleries. 
+asr:0: OUTPUT 2944.90-2950.69: Our expectations right now is that in the first full year post-close of the deal,. 
+asr:0: OUTPUT 2950.71-2958.40: That there would be EPS dilution of somewhere in the $325 to $375 range. 
+asr:0: OUTPUT 2962.26-2968.71: And then, Hans, could you talk to a little bit about Patchfinder and the upcoming readout and place that in context? 
+asr:0: OUTPUT 2969.87-2978.58: Sure, and for folks that aren't familiar, Pathfinder is a 6,000 patient clinical trial that's enrolling as we speak. 
+asr:0: OUTPUT 2979.06-2985.75: It's a return of results study, so patients in this trial getting the GRAIL test. 
+asr:0: OUTPUT 2985.77-2992.19: When the test detects a cancer, they're getting worked up and obviously the results return to them. 
+asr:0: OUTPUT 2992.59-3004.20: So our expectation is that that real-world trial will confirm the performance we've seen in other studies that we've reported to you and covered on the call this morning. 
+asr:0: OUTPUT 3004.80-3020.68: The other thing that this study is very important for is it will help us understand the service components of the test that we'll provide to help make sure that the work-up process post-a-positive test. 
+asr:0: OUTPUT 3021.12-3027.43: Is simple and good to use for primary care doctors. Thank you. 
+asr:0: OUTPUT 3031.33-3035.03: All right, next question. Patrick Donnelly with City, your line is open. 
+asr:0: OUTPUT 3036.66-3044.56: Thanks guys. Maybe just a follow up on Derek there, just given the dilution number a little bit bigger than we were modeling as the news came out last week. 
+asr:0: OUTPUT 3045.03-3052.25: Can you just talk about maybe the OpEx trajectory over the next 12 months again to get to that 350 to 375 number you noted? 
+asr:0: OUTPUT 3053.53-3061.88: We expect that number to really take a big jump up from what we saw in the S1 from the, from the, um, the Grail OPEX numbers. And then maybe just quickly after that,. 
+asr:0: OUTPUT 3062.30-3067.63: You guys were obviously participating with some upside from the royalty as a customer, etc. 
+asr:0: OUTPUT 3067.91-3077.34: Can you just expand a little more, Francis, on, I guess, why you guys wanted to bring it in-house and also give the royalty almost back to them with the 9% over a billion? Maybe just kind of flesh that out a little bit. Thanks. 
+asr:0: OUTPUT 3079.50-3085.21: Yeah, so I can start on the on the op-ex trajectory and maybe expanding on the solution to some extent. 
+asr:0: OUTPUT 3085.23-3092.45: And I'll remind everybody that we will be providing more refined financial estimates as we... 
+asr:0: OUTPUT 3092.47-3096.48: As we get closer to the close of the acquisition. 
+asr:0: OUTPUT 3096.90-3101.90: So at this point, we're giving directional numbers just to give you a sense of what to expect in your models. 
+asr:0: OUTPUT 3102.74-3106.99: But to answer your question around the OpEx investment, Patrick, yes. 
+asr:0: OUTPUT 3107.29-3114.47: Obviously, there will be an increase from what you saw in the S-1 and what you saw last year or this year. Sorry, I keep saying last year. 
+asr:0: OUTPUT 3114.51-3117.34: But what you saw this year in terms of investment by Grail. 
+asr:0: OUTPUT 3117.68-3120.84: The investment has been focused on R&D. 
+asr:0: OUTPUT 3120.94-3130.65: And as I said, the investment that was disclosed was $135 million, so if you expect that that's going to be a full year worth of investment, it's closer to $270 million. 
+asr:0: OUTPUT 3130.77-3135.50: But as we look forward and as the gallery launches, there's going to be investments around a number of factors. 
+asr:0: OUTPUT 3135.98-3140.54: It's going to be R&D, it's going to be commercial, it's going to be market access, government affairs. 
+asr:0: OUTPUT 3140.64-3148.77: You know, DNA to support the business. There are a number of factors that drive that off X in the first, you know, in the first few years. 
+asr:0: OUTPUT 3149.19-3152.01: And until the revenue starts to scale,. 
+asr:0: OUTPUT 3152.07-3160.82: That's going to be significantly diluted to the number that I mentioned earlier, which is the 325 to 375 in the first full year post-launch. 
+asr:0: OUTPUT 3161.30-3169.29: So I think I would also though mention that with a $6 TAM that's gotten added to our business,. 
+asr:0: OUTPUT 3169.35-3174.09: You know the the revenue opportunity is quite attractive as we look at the long term. 
+asr:0: OUTPUT 3175.38-3178.36: And let me pick up on your question around royalties. 
+asr:0: OUTPUT 3178.74-3190.61: As you pointed out, the arrangement we have, pre-acquisition with Grail, obviously they buy sequencers and consumables from us, but we also get a royalty on the Grail revenue. 
+asr:0: OUTPUT 3190.97-3196.58: And as we thought through, we modeled what that looks like over the next 15 years. 
+asr:0: OUTPUT 3197.24-3206.87: It's clear to us that we participate more fully. So we get more revenue, more margin dollars if we acquire in Grail. 
+asr:0: OUTPUT 3206.93-3214.99: So just financially, this is a much better way of capturing the value in the market than continuing to be a supplier to Grail with the royalties. 
+asr:0: OUTPUT 3215.30-3219.06: And as Sam pointed out, this is a $60 billion market opportunity. 
+asr:0: OUTPUT 3219.16-3222.56: We are able to capture the value better in the current agreement. 
+asr:0: OUTPUT 3223.08-3227.83: In terms of the royalty back to Grail shareholders, and just to the point there,. 
+asr:0: OUTPUT 3227.85-3229.29: You are to prepare tomorrow. 
+asr:0: OUTPUT 3229.31-3239.16: We are 12% currently of Grell's shareholding. So the royalty, you've got to adjust it to the 12% that we own ourselves. 
+asr:0: OUTPUT 3239.56-3243.30: And the thinking here was, look, as we were working with the Grail investors,. 
+asr:0: OUTPUT 3243.86-3252.85: This is one area where clearly they see the opportunity in front of them and there was a gap in how big they saw it and we were a little bit more conservative. 
+asr:0: OUTPUT 3253.11-3261.46: And so this was a nice way to sort of bridge that, to say, look, we're going to make sure that we participate. If the opportunity is much bigger than we think, then everybody wins. 
+asr:0: OUTPUT 3262.00-3268.73: Otherwise, we all share if it's a little bit less than we thought. And so this was a way to structure it over the next 12 years where we could. 
+asr:0: OUTPUT 3269.09-3273.59: Align on you know demonstrating at the market ends up being much bigger than can be done. 
+asr:0: OUTPUT 3278.34-3281.56: Eve, this is John with Wolf Research. Your line is open. 
+asr:0: OUTPUT 3283.48-3285.43: Hi, good morning. Thanks for the time. 
+asr:0: OUTPUT 3285.59-3290.77: I'll ask just to, one, I actually want to follow up on a point that Taika raised. 
+asr:0: OUTPUT 3291.35-3296.40: And it's about how you want to articulate right now what you think about the core business. 
+asr:0: OUTPUT 3296.52-3302.70: I appreciate the point that all of us, Iobank, NHS, all coming on next year. 
+asr:0: OUTPUT 3303.20-3311.87: I'm a wait to see the pipeline, but I wonder, would you be comfortable taking a view that the core business, the X-Grail business is a double-digit grower? 
+asr:0: OUTPUT 3311.89-3316.18: As far as you can see out into the future. And then my second one is,. 
+asr:0: OUTPUT 3316.60-3324.48: As you think about the landscape of providers five or ten years from now,. 
+asr:0: OUTPUT 3325.01-3331.49: What does it look like in terms of how many different cancer detection assays you think are out there? 
+asr:0: OUTPUT 3331.71-3335.82: Having a lumina involved in this particular uh... Way. 
+asr:0: OUTPUT 3336.10-3343.68: It means that there's going to be one, obviously, very large-scale player. The way is to come at this particular market. 
+asr:0: OUTPUT 3344.02-3354.19: Let me talk about how you see that looking and what is the importance of the rather substantial IP portfolio that you had flagged, Francis and Hans. 
+asr:0: OUTPUT 3354.47-3356.60: As you think about what that landscape looks like. 
+asr:0: OUTPUT 3357.00-3359.02: Thank you very much. Thank you, Steve. 
+asr:0: OUTPUT 3359.28-3368.27: A couple of questions. One is, you know, how do we think about the core business? And the second one is, how do we think the landscape for cancer reduction ad says will play out? 
+asr:0: OUTPUT 3368.37-3373.23: Will there be a significant single winner or will there be multiple players? So let me go to the first one. 
+asr:0: OUTPUT 3374.05-3382.76: The. 
+asr:0: OUTPUT 3383.22-3390.23: We are still, as we said, in the very early stages of understanding from a research perspective even how genomics translates into. 
+asr:0: OUTPUT 3390.25-3396.46: You know, health and disease, but from a clinical perspective, we're also in the very early stages of penetrating some of the markets we talked about. 
+asr:0: OUTPUT 3396.82-3402.28: Like oncology therapy selection and genetic disease testing, genetic disease testing were less than 1% penetrated. 
+asr:0: OUTPUT 3402.62-3409.75: So I am comfortable that over a multi-year period, you should be seeing double-digit growth from the core business. 
+asr:0: OUTPUT 3411.35-3418.08: And that the acquisition of Grayo is intended to accelerate that even further, but even without it, it's a double-digit growth. 
+asr:0: OUTPUT 3418.68-3422.64: In terms of how we expect the cancer detection market to play out. 
+asr:0: OUTPUT 3423.12-3427.73: But this is a very, very large market. We talked about a $60 billion market. 
+asr:0: OUTPUT 3428.11-3433.29: So we expect that there will be multiple approaches for this market. 
+asr:0: OUTPUT 3433.85-3439.08: You know, some will focus on single cancers or a small set of cancers. Some will be pan-cancer. 
+asr:0: OUTPUT 3439.44-3444.52: And frankly, that's how we've modeled the revenues for us. 
+asr:0: OUTPUT 3444.68-3451.01: We expect there to be multiple players, you know, trying multiple different approaches, serving different segments of the market. 
+asr:0: OUTPUT 3451.95-3458.18: And again, with a market this big and this important, we expect it to play out that way. 
+asr:0: OUTPUT 3462.56-3471.27: And this is all the time we have for questions. The Illumina team thanks you all for your participation in today's conference. This concludes today's call. You may now disconnect. 
+asr:0: END

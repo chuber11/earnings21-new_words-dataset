@@ -1,0 +1,641 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.80-5.97: Greetings and welcome to the Yeti Third Quarter 2020 Earnings Conference Call. 
+asr:0: OUTPUT 6.79-14.23: At this time, all participants are in a listen-only mode. A question and answer session will follow the formal presentation. 
+asr:0: OUTPUT 14.97-21.18: If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. 
+asr:0: OUTPUT 21.80-24.52: As a reminder, this conference is being recorded. 
+asr:0: OUTPUT 25.15-32.53: I would now like to turn the conference over to your host, Mr. Tom Shaw, Vice President of Investor Relations. Please go ahead, sir. 
+asr:0: OUTPUT 33.31-37.92: Good morning and thanks for joining us to discuss Yeti Holdings' third quarter 2020 results. 
+asr:0: OUTPUT 38.98-47.63: Before we begin, we'd like to remind you that some of the statements that we make today on this call, including those statements related to the impact of the coven 19 pandemic on our business. 
+asr:0: OUTPUT 48.17-49.59: May be considered forward-looking. 
+asr:0: OUTPUT 50.05-56.50: And such forward-looking statements are subject to various risks and uncertainties that could cause our actual results to differ materially from these statements. 
+asr:0: OUTPUT 58.08-64.28: For more information regarding these forward-looking statements, please refer to the risk and uncertainties detailed in this morning's press release. 
+asr:0: OUTPUT 64.34-70.31: As well as the risk factors discussed in our Form 10-Q for the quarter ended September 26, 2020. 
+asr:0: OUTPUT 70.97-72.77: Filed with the SEC earlier this morning. 
+asr:0: OUTPUT 73.67-83.02: We undertake no obligation to revise or update any forward-looking statements made today as a result of new information, future events, or otherwise, except as required by law. 
+asr:0: OUTPUT 84.52-90.81: During our call today, we'll be discussing YETI's adjusted EBITDA and certain other non-GAP measures that pertain to completed fiscal periods. 
+asr:0: OUTPUT 91.71-98.62: Reconciliations of these non-GATT measures to their most directly comparable GATT measures are included in the press release issued this morning. 
+asr:0: OUTPUT 99.34-105.29: As well as in the supplemental reconciliation, both of which are available in the investor relations section of the YETI website. 
+asr:0: OUTPUT 106.75-115.20: We use non-GAAP measures as the lead in some of our financial discussions as we believe they more accurately represent the true operational performance and underlying results of our business. 
+asr:0: OUTPUT 116.80-125.41: Today's call will be led by Matt Ranches, President and CEO of Yeti, and Paul Carboni, CFO. Following up with a pair of remarks, we'll open the call for your questions. 
+asr:0: OUTPUT 126.83-135.78: We're also working remotely and connecting with you from different locations today, so please bear with us should we experience any delays during the call. And with that, I'll turn the call over to Matt. 
+asr:0: OUTPUT 137.48-146.01: Good morning, everyone. We appreciate you joining us today. Yeti had a great quarter highlighted by excellent performance across our four strategic growth drivers. 
+asr:0: OUTPUT 147.07-155.62: Our quarter was punctuated by 29% sales growth with balance across coolers and equipment and drinkware, coupled with strong sustained margin expansion. 
+asr:0: OUTPUT 156.48-164.98: Thanks to the incredible work of our Yeti team and amazing support from our customers and partners, Yeti crossed $1 billion in net sales for the trailing 12 months. 
+asr:0: OUTPUT 166.29-171.23: In the quarter, our direct-to-consumer business continues to lead the way with 62% growth. 
+asr:0: OUTPUT 171.91-179.38: We drove mid-single-digit wholesale growth for the period as we continued to flex our supply chain and work to replenish channel inventories. 
+asr:0: OUTPUT 180.52-189.11: Importantly, sell-through in the wholesale channel performed in line with our overall top-line results, leading to the aforementioned demand for channel replenishment. 
+asr:0: OUTPUT 189.99-196.86: Our international business also performed very well, posting triple digit growth to reach a yeti high of 7% of sales. 
+asr:0: OUTPUT 196.88-201.14: Showing broadening demand in Canada, Europe, the UK and Australia. 
+asr:0: OUTPUT 202.36-211.51: Gross margin expanded 670 basis points to reach a record 59.1% while our adjusted SG&A rate decreased to 200 basis points. 
+asr:0: OUTPUT 212.47-221.04: Finally, we ended the quarter with $235 million in cash on the balance sheet following a voluntary debt payment of $50 million. 
+asr:0: OUTPUT 222.34-226.27: Overall, we saw excellent demand for our products in all our channels. 
+asr:0: OUTPUT 226.95-232.79: Importantly, we're continuing to invest in evolving our business to support our long-term growth ambitions. 
+asr:0: OUTPUT 233.89-241.38: Now, let's discuss our strategic growth priorities. We continue to deepen the connection of our brand with our customers. 
+asr:0: OUTPUT 242.16-252.01: This is highlighted by our breadth and depth strategy where we extended to new customers across diverse pursuits while also deepening ties within our existing active outdoor communities. 
+asr:0: OUTPUT 253.23-257.92: As we have discussed, the pandemic has focused us on digitally relevant engagement. 
+asr:0: OUTPUT 258.08-263.94: And we have further supported this trend with accelerated investments to build out our in-house content and creative teams. 
+asr:0: OUTPUT 264.99-271.99: We're seeing impact of this investment with our ability to drive geographic growth and the evolving diversity of our customer base. 
+asr:0: OUTPUT 273.39-282.50: When we are in our most effective, we tell powerful brand stories that inspire our customers, connect through product storytelling, and extend a positive impact on our communities. 
+asr:0: OUTPUT 283.52-285.13: Let me give you a few recent examples. 
+asr:0: OUTPUT 286.09-289.99: In August, displaying the broadness of our appeal and audience. 
+asr:0: OUTPUT 290.01-297.30: Culture aficionados Heisn Abayedi published an article titled, How Yeti Beat Streetwear at the Business of Making Things Cool. 
+asr:0: OUTPUT 298.56-306.47: While driving awareness will continue to be a priority, we also balance a focus on the depth of engagement with our longstanding customers, which keeps us centered. 
+asr:0: OUTPUT 307.95-314.63: From a storytelling perspective, the pandemic created a unique opportunity to launch our latest collection of Yeti Presents films. 
+asr:0: OUTPUT 315.54-324.64: After the pandemic caused us to cancel our in-person Getty Film Tour in March, this summer, we released the eight new films through a YouTube Live premiere. 
+asr:0: OUTPUT 325.69-333.27: Featuring video introductions from our ambassadors, filmmakers, and film subjects, this event showcased the power and reach of the Yeti community. 
+asr:0: OUTPUT 334.35-340.12: To complement YouTube, an extension of the virtual tour was aired in partnership with Vice Media and CBS. 
+asr:0: OUTPUT 340.68-352.61: In September, we also launched a socially distanced drive-in film tour across eight stops from LA to Montauk to Central Texas, creating a safe, uniquely Yeti experience for our fans. 
+asr:0: OUTPUT 353.83-359.42: From the product introduction side, we partnered with our ambassadors for our caffeine and cocktails campaign. 
+asr:0: OUTPUT 359.48-365.79: Where our brand partners shared their favorite drink recipes to help introduce our newest tumbler, the 10-ounce Rambler. 
+asr:0: OUTPUT 367.09-371.71: From Conrad Anker's classic coffee pour over to Hillary Hutchinson's huckleberry whiskey. 
+asr:0: OUTPUT 371.73-381.32: These short social videos are a tremendous example of how we use our internal content creation ambassadors to showcase our product in real and engaging ways. 
+asr:0: OUTPUT 382.86-388.15: Our efforts to positively impact the communities we reach often matters most when those communities face adversity. 
+asr:0: OUTPUT 388.89-397.26: As we mentioned on our last call, in July, we launched our One for the Roadies campaign in partnership with Crew Nation to benefit out-of-work touring and venue workers. 
+asr:0: OUTPUT 398.16-404.58: After securing 37 music artists to customize 42 of our Rode 24 coolers for our online auction,. 
+asr:0: OUTPUT 405.35-415.28: The program raised $135,000. The campaign was an incredible success and attracted interest from additional top-tier artists who were eager to support future efforts. 
+asr:0: OUTPUT 416.84-421.84: We've also focused on finding ways to ensure the wild is open, welcoming, and accessible to all. 
+asr:0: OUTPUT 422.64-431.03: We continue to support our relationships with both thrive outside and big city Mountaineers. 2 organizations committed to driving diversity in the outdoors. 
+asr:0: OUTPUT 432.23-440.34: We also launched a new partnership with Black Outside, an incredible organization based out of San Antonio, Texas, which connects black youth to the outdoors. 
+asr:0: OUTPUT 442.26-447.61: Moving to Yeti Innovation, we continue to see sustained strength across drinkware, coolers, and equipment. 
+asr:0: OUTPUT 448.29-457.12: The underlying demand for Yeti was strong before the pandemic, and we are now seeing the strength continue through the third quarter as a result of more fully open channels. 
+asr:0: OUTPUT 457.14-466.07: Plus, positive trends in digital engagement, outdoor pursuits, a focus on hygiene and individual use, and people taking near-home vacations. 
+asr:0: OUTPUT 467.05-473.61: These dynamics support the robust demand we are seeing across the product portfolio, and particularly both hard and soft coolers. 
+asr:0: OUTPUT 474.71-481.42: In drinkware, we've seen a success with the performance of our bottles business, where we included the popular chug cap as the standard lid. 
+asr:0: OUTPUT 481.44-488.07: And our expanded Kohl's Ster Can Insulator line, where we now offer broader products for hard seltzers and large cans. 
+asr:0: OUTPUT 489.01-498.74: While currently limited to DTC, we're also encouraged by the early success of our Rambler 10-ounce tumbler, which as mentioned earlier, was supported by our Caffeine and Cocktails digital campaign. 
+asr:0: OUTPUT 500.14-502.72: Color remains an important part of our innovation mix. 
+asr:0: OUTPUT 503.38-511.71: Following the July launches of Northwoods Green and Drinkware and Sagebrush Green and Coolers, we launched our third second half color, Ice Pink, in mid-September. 
+asr:0: OUTPUT 513.11-517.32: Demand for this extremely popular color extended into our breast cancer awareness initiatives. 
+asr:0: OUTPUT 517.86-525.91: Throughout October, we're excited to once again support Boarding for Breast Cancer and Casting for Recovery, our fourth year with both of these incredible organizations. 
+asr:0: OUTPUT 526.81-534.21: We also expanded our Rambler Elements metallic collection to the Colstern Lobol and extended sagebrush from coolers into drinkware. 
+asr:0: OUTPUT 535.80-546.17: I would like to take a moment to address the voluntary recall which was announced yesterday in partnership with the U.S. Consumer Product Safety Commission of the Rambler 20-ounce travel mug with our strong gold lid. 
+asr:0: OUTPUT 547.15-550.97: We launched the Travel Mug on October 1st as our newest travel-ready product. 
+asr:0: OUTPUT 551.89-562.82: However, shortly after our limited initial launch on Yeti.com and in our retail stores, we discovered a potential safety issue with the stronghold lid and out of an abundance of caution,. 
+asr:0: OUTPUT 562.84-567.51: Decided to pull the product from these channels and voluntarily began work with the CPFC. 
+asr:0: OUTPUT 568.39-571.33: To date, there have been no reports of injuries from customers. 
+asr:0: OUTPUT 571.99-573.73: To put this recon perspective. 
+asr:0: OUTPUT 573.75-583.98: We sold less than 15,000 units during the nine days it was available in these direct channels of the approximately 242,000 total produced mugs mentioned in our release. 
+asr:0: OUTPUT 584.90-588.05: In addition, we did not ship the product to our wholesale partners. 
+asr:0: OUTPUT 589.47-594.73: Customer safety is our priority, which is why we took such an aggressive stance addressing this issue. 
+asr:0: OUTPUT 595.44-603.78: We're actively engaged in working on an enhanced design that will continue to meet the high standards that our customers place on each and every product carrying the Yeti brand. 
+asr:0: OUTPUT 604.72-612.53: This delay, while disappointing in the near term, is fully contemplated in our outlook and will continue to make us better. 
+asr:0: OUTPUT 614.25-622.98: In addition to our lineup of new products launched this year, we are continuing to energize some of our existing categories as part of our marketing strategy to drive broadened awareness. 
+asr:0: OUTPUT 624.50-632.21: This includes the Come Hell or High Water campaign in early July that showcased the versatility and performance of our Panga fully submersible bags. 
+asr:0: OUTPUT 633.27-638.40: More recently, our Built for Generations Yeti V-Series films launched digitally on Yeti Social. 
+asr:0: OUTPUT 638.42-644.70: Are centered around our innovative premium stainless steel cooler which is designed to be passed down through the generations. 
+asr:0: OUTPUT 645.63-655.10: Expect continued targeted product storytelling through the holidays with our holiday gift guides and upcoming Yeti dispatch magalog, which will begin to drop mid-November. 
+asr:0: OUTPUT 656.50-659.98: We also remain laser focused on working towards rebuilding in-stock levels. 
+asr:0: OUTPUT 660.56-663.90: As a reminder, to protect our balance sheet in Lake Q1,. 
+asr:0: OUTPUT 664.06-672.27: We initially reduced purchase orders at the start of the pandemic, and as demand recovered, we have worked to flex our supplier capacity to meet rising demand. 
+asr:0: OUTPUT 673.45-680.22: With demand accelerating in the third quarter, coupled with some pandemic-driven supply disruptions through the summer and early fall production. 
+asr:0: OUTPUT 680.84-683.86: We expect inventory will remain tight through the holidays. 
+asr:0: OUTPUT 684.74-690.13: We have taken additional action to mitigate risk and increase visibility of our supply chain during the holidays. 
+asr:0: OUTPUT 690.61-695.82: But do expect our overall restocking initiatives will extend into early 2021. 
+asr:0: OUTPUT 697.42-706.11: As we look at the balance of the year, we remain focused on driving deeper engagement across the ETI portfolio and executing in stocks across all channels. 
+asr:0: OUTPUT 707.95-709.43: Looking at our omni-channel efforts. 
+asr:0: OUTPUT 710.73-716.90: Consumer dynamics are clearly accelerating the digital shift and building upon the activities we have been driving for the past five years. 
+asr:0: OUTPUT 717.92-723.14: Along with the heightened focus of our brand team in delivering amazing, highly relevant digital content. 
+asr:0: OUTPUT 723.16-727.95: We're taking additional action to drive greater consumer acquisition and conversion. 
+asr:0: OUTPUT 727.97-734.25: Through investments in incremental consumer insights and behavior work, and enhanced product customization experience. 
+asr:0: OUTPUT 734.27-737.78: New digital tools, and talent additions to our team. 
+asr:0: OUTPUT 738.62-745.17: This is work that will evolve as we match the speed of our customers' purchasing habits and the rapidly evolving consumer expectations. 
+asr:0: OUTPUT 746.67-755.36: The biggest proof point of our success here is our direct to consumer business, which grew 62% and reached 51% of total sales this period and year to date. 
+asr:0: OUTPUT 756.76-762.80: Our strong third quarter DDC performance was led by Yeti.com due to excellent traffic and conversion on the site. 
+asr:0: OUTPUT 764.06-771.83: We continue to see a great mix of new versus existing customers and have maintained great engagement as a result of our targeted and relevant content. 
+asr:0: OUTPUT 773.39-778.58: Rounding out our online presence, the Amazon marketplace continued to post solid growth through the quarter. 
+asr:0: OUTPUT 780.00-786.33: On the corporate sales side, revenues turned slightly positive for the quarter as healthy demand was limited by inventory availability. 
+asr:0: OUTPUT 787.33-792.31: Increased capacity and delivery for custom is our focus as we ramp through the holiday season. 
+asr:0: OUTPUT 794.15-798.00: In Yeti Retail, we added our eighth location in West Palm Beach in August. 
+asr:0: OUTPUT 798.56-802.14: We continue prioritizing operational excellence in all our stores. 
+asr:0: OUTPUT 802.16-808.61: While also monitoring the real estate environment for opportunity as we evaluate store expansion potential for 2021. 
+asr:0: OUTPUT 809.99-817.34: Turning to wholesale, demand and channel sell-through remained robust. Retailers were able to support demand with in-store inventory. 
+asr:0: OUTPUT 818.06-822.36: However, they did in the quarter with inventory down double digits compared to the prior year. 
+asr:0: OUTPUT 823.34-831.53: We have opportunity to drive stronger in stocks, particularly in high demand areas such as hard coolers and soft coolers, which had significant sell through during the quarter. 
+asr:0: OUTPUT 833.13-834.79: As a wholesale business evolves. 
+asr:0: OUTPUT 834.81-839.30: We're working to support the expanded Omni capabilities of our wholesale partners. 
+asr:0: OUTPUT 839.34-846.11: Through their own e-commerce, curbside, and in-store, which combined are expected to be an important part of this holiday season. 
+asr:0: OUTPUT 849.41-857.24: We had a very strong performance in our international business quarter with international wholesale more than doubling while our international e-commerce quadrupled in size. 
+asr:0: OUTPUT 857.76-860.16: Still off a low base, but showing great potential. 
+asr:0: OUTPUT 861.20-868.67: Overall, international grew 165% to reach 7% of sales, the highest mix Yeti has registered today. 
+asr:0: OUTPUT 870.47-877.38: The biggest factor in the growth was the reopening of our Canadian wholesale, which delivered significant year-over-year growth this quarter. 
+asr:0: OUTPUT 878.34-885.65: Importantly, the D2C side of the Canadian business, including both e-commerce and corporate sales, also registered exponential growth during the period. 
+asr:0: OUTPUT 887.15-893.95: While Canada still drives the majority of our current international business, we continue to be highly encouraged with demand we see in other markets. 
+asr:0: OUTPUT 895.08-903.28: Australia showed more than a threefold increase in both the wholesale and e-commerce businesses due to the extraordinary performance and execution of our Australian team. 
+asr:0: OUTPUT 904.72-907.99: As we hit the one year mark in our UK and Europe expansion. 
+asr:0: OUTPUT 908.51-915.34: We're seeing this business build larger each quarter and we continue to see a meaningful opportunity to drive performance as retail reopens. 
+asr:0: OUTPUT 916.94-925.43: We remain highly focused on building the brand internationally in a thoughtful manner while developing the infrastructure to support smart, sustainable growth. 
+asr:0: OUTPUT 927.75-935.10: Outside of our strategic priorities, we were excited to announce earlier this week, the next step in our board evolution. 
+asr:0: OUTPUT 935.36-942.42: As our board of directors appointed Allison Dean, former CFO of iRobot, as an independent director and a member of our audit committee. 
+asr:0: OUTPUT 943.24-953.11: Allison brings over 30 years of financial leadership experience, including 15 years with iRobot and seven years as the company's CFO before stepping down earlier in 2020. 
+asr:0: OUTPUT 954.51-960.04: Allison's addition corresponds to the resignation of Mike Najjar, who returns to his role managing Cortex. 
+asr:0: OUTPUT 961.02-968.09: Additionally, our chair and Cortec co-president Dave Schnoddick has informed the board that he intends to step down as chair of the board. 
+asr:0: OUTPUT 968.11-974.15: And the nominating and corporate governance committee effective at the 2021 annual meeting of shareholders. 
+asr:0: OUTPUT 975.01-979.42: Dave has indicated that he would be willing to stand for re-election to the board if so nominated in May. 
+asr:0: OUTPUT 980.64-984.42: We appreciate the many contributions Dave and Mike have made to Yeti through the years. 
+asr:0: OUTPUT 985.37-995.22: With these moves, one of our nine current board members is affiliated with our original private equity sponsor. Seven are now independent directors and one third are women. 
+asr:0: OUTPUT 996.08-1002.96: We are proud to continue adding diverse thought and incredible experience to our board as we further build out the long-term opportunity for the brand. 
+asr:0: OUTPUT 1004.90-1007.39: As I pass the call over to Paul. 
+asr:0: OUTPUT 1007.41-1012.11: I would again like to reiterate how thrilled we are with the holistic performance during the third quarter. 
+asr:0: OUTPUT 1012.35-1019.84: And I would like to thank our Yeti team for their exemplary efforts and ability to adapt and thrive so well against a very challenging backdrop. 
+asr:0: OUTPUT 1021.06-1026.49: To our customers and partners who have continued to show their confidence in our products and our brand. Thank you. 
+asr:0: OUTPUT 1027.75-1037.28: While challenges remain pervasive in the headlines, we are fully focused on our people and what we do best, driving passion for the Yeti brand and delivering innovative product. 
+asr:0: OUTPUT 1038.60-1047.31: We look forward to building upon the strength of our 2020 to date performance with strong execution through the holiday season and Q4. Paul. 
+asr:0: OUTPUT 1049.47-1058.82: Thanks, Matt, and good morning, everyone. I'll begin with a review of our third quarter results, followed by some high-level thoughts as we look at the business during the holiday period. 
+asr:0: OUTPUT 1059.44-1061.56: We'll then open up the call for your questions. 
+asr:0: OUTPUT 1062.64-1064.28: Starting with the third quarter. 
+asr:0: OUTPUT 1064.44-1067.23: Net sales increased 29%. 
+asr:0: OUTPUT 1067.25-1075.22: To $294.6 million compared to $229.1 million in the prior year period. 
+asr:0: OUTPUT 1075.24-1078.60: Representing our highest growth rate as a public company. 
+asr:0: OUTPUT 1079.64-1092.11: The momentum that built throughout the second quarter accelerated into the third, given what we believe is a sustainable shift in consumer behavior towards outdoor leisure activities and related products. 
+asr:0: OUTPUT 1093.23-1099.34: This trend was highlighted by balanced growth across our product categories and continued. 
+asr:0: OUTPUT 1099.36-1108.49: DTC momentum even as our wholesale channel returned to growth and experienced either even stronger sell-through during the quarter. 
+asr:0: OUTPUT 1109.97-1118.40: Looking at our channels, direct-to-consumer net sales grew 62% to $150.4 million. 
+asr:0: OUTPUT 1118.42-1126.77: Compared to 92.9 million in the same period last year, driven by strength in both coolers and equipment and drinkware. 
+asr:0: OUTPUT 1128.23-1132.67: Within DTC, the Yeti.com business continued to lead the way. 
+asr:0: OUTPUT 1133.43-1139.56: The Amazon marketplace posted strong growth and corporate sales increased slightly for the period. 
+asr:0: OUTPUT 1140.38-1149.29: Overall, DTC reached 51% of net sales for the period compared to 41% in last year's period. 
+asr:0: OUTPUT 1151.73-1161.18: Wholesale net sales increased 6% to $144.2 million compared to $136.2 million last year. 
+asr:0: OUTPUT 1162.26-1170.79: Strong gains in drinkware helped offset declines in cooler and equipment, which were largely driven by inventory constraints. 
+asr:0: OUTPUT 1172.31-1181.62: Channel sell-through was up double digits for the quarter. So channel inventory exited the quarter down double digits on a year-over-year basis. 
+asr:0: OUTPUT 1183.26-1190.77: By category, drinkware returned to strong growth during the quarter, with net sales increasing 31%. 
+asr:0: OUTPUT 1190.79-1193.83: To $165.9 million. 
+asr:0: OUTPUT 1193.85-1197.44: Compared to $126.4 million last year. 
+asr:0: OUTPUT 1198.84-1208.69: We are very pleased with the continued strength of our original Drinkware SKUs, even as we introduce new products to address additional use cases for our customers. 
+asr:0: OUTPUT 1210.11-1217.32: Our expanded colster lineup and updated bottle styles with chug caps remained big winners this year. 
+asr:0: OUTPUT 1217.98-1224.56: And we are also excited to see the early receptivity of our 10-ounce Rambler during the period. 
+asr:0: OUTPUT 1226.61-1233.11: Coolers and equipment net sales increased 27% to $124.2 million. 
+asr:0: OUTPUT 1233.13-1237.46: Compared to 97.8 million during the same period last year. 
+asr:0: OUTPUT 1239.04-1241.74: Our overall coolers business remains vibrant. 
+asr:0: OUTPUT 1242.44-1251.07: Led by our new Rode 24 in the Tundra haul in hard coolers and our flip and back flip lines in soft coolers. 
+asr:0: OUTPUT 1253.37-1260.12: We also saw strong results in our outdoor living category led by our Trailhead Camp Chair. 
+asr:0: OUTPUT 1260.14-1267.67: Which we believe supports the broader opportunity of the brand as we develop and expand deeper into new categories. 
+asr:0: OUTPUT 1269.19-1278.16: Gross profit increased 45% to $174 million, or 59.1% of net sales. 
+asr:0: OUTPUT 1278.18-1286.41: Compared to 120.1 million or 52.4% of net sales during the same period last year. 
+asr:0: OUTPUT 1288.09-1295.90: The 670 basis point year over year expansion was driven by the following favorable impacts. 
+asr:0: OUTPUT 1296.90-1303.86: 290 basis points from channel mix, 110 basis points from product cost improvements. 
+asr:0: OUTPUT 1304.96-1307.49: 90 basis points from lower tariffs. 
+asr:0: OUTPUT 1308.81-1312.19: 70 basis points from lower inbound freight. 
+asr:0: OUTPUT 1314.43-1319.38: 70 basis points from higher inventory reserves in the prior period. 
+asr:0: OUTPUT 1320.00-1328.05: In lower warranty expenses in the current period. And lastly, 40 basis points from all other impacts. 
+asr:0: OUTPUT 1329.43-1335.30: Adjusted S, G and A expenses for the third quarter increased by 22%. 
+asr:0: OUTPUT 1335.32-1342.28: To $101.6 million of 34.5% of net sales. 
+asr:0: OUTPUT 1342.30-1350.45: As compared to 83.5 million or 36.4 percent of net sales in the same period last year. 
+asr:0: OUTPUT 1352.59-1358.40: Variable SG&A expenses, deleveraged, 150 basis points. 
+asr:0: OUTPUT 1358.42-1368.03: Driven by the significant shift in channel mix towards a faster growing DTC channel, primarily with higher outbound freight. 
+asr:0: OUTPUT 1369.67-1379.34: Non-variable SG&A expenses leveraged 350 basis points driven by the overall strength of the company's top line results. 
+asr:0: OUTPUT 1380.56-1386.75: We continue to invest prudently to grow our business with higher year over year spending. 
+asr:0: OUTPUT 1386.77-1395.98: Across most key expense categories, including marketing, while we also resumed hiring more broadly across the organization. 
+asr:0: OUTPUT 1398.46-1408.75: Adjusted operating income increased 98% to $72.4 million or 24.6% of net sales. 
+asr:0: OUTPUT 1408.77-1417.00: Compared to 36.6 million or 16% of net sales during the same period last year. 
+asr:0: OUTPUT 1418.68-1428.39: Our effective tax rate was 24.4% during the quarter compared to 24.9% in last year's third quarter. 
+asr:0: OUTPUT 1430.67-1439.48: Adjusted net income more than doubled to $53.5 million or $0.61 per diluted share. 
+asr:0: OUTPUT 1440.00-1447.29: Compared to 23.2 million or 27 cents per diluted share during the prior year period. 
+asr:0: OUTPUT 1448.41-1457.74: Adjusted EBITDA increased 84% to $80.2 million or 27.2% of net sales. 
+asr:0: OUTPUT 1457.80-1466.15: Compared to 43.7 million or 19.1% of net sales in the same quarter last year. 
+asr:0: OUTPUT 1468.41-1469.91: Now turning to our balance sheet. 
+asr:0: OUTPUT 1471.33-1478.70: As of September 26, 2020, we had cash of $234.8 million. 
+asr:0: OUTPUT 1478.72-1483.42: Compared to 34.6 million in the year ago period. 
+asr:0: OUTPUT 1485.29-1489.53: A strong cash balance in part reflects our lower inventory position. 
+asr:0: OUTPUT 1490.27-1500.18: As we ended the quarter with $134.6 million in inventory compared to $209.2 million during the same quarter last year. 
+asr:0: OUTPUT 1502.46-1512.11: Inventory declined 36% year over year, reflecting both the comparison to a 33% growth in the year ago period. 
+asr:0: OUTPUT 1512.13-1519.46: As well as ongoing efforts to match supply with the above forecasted demand we have seen across the business. 
+asr:0: OUTPUT 1521.10-1529.61: Going forward, our focus remains on flexing our supply chain to not only match the strong demand we are seeing for the brand,. 
+asr:0: OUTPUT 1529.63-1535.14: But also rebuild more consistent in-stock levels across our channels. 
+asr:0: OUTPUT 1536.52-1544.66: As such, we expect to be in a constrained inventory position across certain products as we work through the fourth quarter. 
+asr:0: OUTPUT 1547.47-1556.96: Total debt excluding unamortized deferred financing fees and finance leases was $238.8 million. 
+asr:0: OUTPUT 1556.98-1561.04: Compared to $298 million in last year's third quarter. 
+asr:0: OUTPUT 1562.46-1572.23: During the quarter, we made principal payments of $53.8 million, inclusive of a $50 million voluntary prepayment. 
+asr:0: OUTPUT 1572.47-1576.82: And with a strong cash position for the quarter. 
+asr:0: OUTPUT 1576.84-1585.69: The ratio of total net debt to adjusted EBITDA for the trailing 12 months was essentially zero times. 
+asr:0: OUTPUT 1585.71-1589.51: Compared to 1.6 times in the prior year quarter. 
+asr:0: OUTPUT 1591.77-1598.32: Overall, we couldn't be prouder of how our business and our team has responded since the beginning of the pandemic. 
+asr:0: OUTPUT 1599.38-1606.51: Nonetheless, we know there is more work to be done to navigate the ongoing uncertainties of the current environment. 
+asr:0: OUTPUT 1606.53-1614.45: To execute on our holiday plan, and ultimately to continue our momentum into 2021. 
+asr:0: OUTPUT 1615.90-1623.86: Given the incredible performance of our third quarter, let me give you some high-level thoughts into how we see the balance of the year playing out. 
+asr:0: OUTPUT 1625.41-1632.41: We expect fourth quarter net sales to increase between 15 and 16 percent year over year. 
+asr:0: OUTPUT 1632.49-1638.04: On top of a strong 24% growth rate in last year's fourth quarter. 
+asr:0: OUTPUT 1639.66-1641.02: As a reminder,. 
+asr:0: OUTPUT 1641.04-1648.79: The fourth quarter includes the impact of an extra week, which extends the fiscal period to January 2, 2020. 
+asr:0: OUTPUT 1648.81-1654.79: 2021 and is expected to benefit revenues by approximately $7 million. 
+asr:0: OUTPUT 1656.34-1662.10: With our strong outperformance in the third quarter, contributing to lean inventories across our channels. 
+asr:0: OUTPUT 1662.72-1669.39: We expect demand for the Yeti brand will continue to exceed available supply during the fourth quarter. 
+asr:0: OUTPUT 1670.79-1673.79: As we focus on rebuilding our inventory position. 
+asr:0: OUTPUT 1674.21-1683.64: We are also actively and aggressively managing all aspects of our supply chain to navigate real and potential disruptions. 
+asr:0: OUTPUT 1683.66-1687.15: From supplier capacity to holiday logistics. 
+asr:0: OUTPUT 1688.53-1697.38: We expect our ongoing work here will provide opportunities for growth as we continue to restock the channel into early 2021. 
+asr:0: OUTPUT 1699.86-1701.02: Turning to the bottom line. 
+asr:0: OUTPUT 1701.94-1710.19: Gap earnings per diluted share for the fourth quarter are expected to be between 55 and 58 cents. 
+asr:0: OUTPUT 1710.25-1713.23: Compared to five cents in the year ago period. 
+asr:0: OUTPUT 1714.31-1720.78: We expect adjusted earnings per diluted share to be between 57 and 60 cents. 
+asr:0: OUTPUT 1721.40-1725.89: Reflecting a 31 to 38 percent year-over-year growth. 
+asr:0: OUTPUT 1728.19-1733.97: Before turning the call over for Q&A, I want to reinforce three themes we are seeing in the business. 
+asr:0: OUTPUT 1734.75-1735.76: First. 
+asr:0: OUTPUT 1735.78-1738.92: We are seeing incredible demand for the Yeti brand. 
+asr:0: OUTPUT 1738.94-1746.61: With growth evenly balanced between our two main product categories and supported by our omni-channel evolution. 
+asr:0: OUTPUT 1747.81-1756.76: Second, we are focused on delivering profitable growth, highlighted by record gross margins and disciplined SG&A management. 
+asr:0: OUTPUT 1757.56-1766.09: Lastly, we continue to build more financial flexibility to support strategic opportunities and drive future shareholder value. 
+asr:0: OUTPUT 1767.65-1772.29: We believe these themes are the hallmarks of a strong, enduring brand. 
+asr:0: OUTPUT 1772.31-1778.14: And position the company incredibly well as we look to achieve our long-term goals. 
+asr:0: OUTPUT 1780.00-1783.52: We would now like to open the call for questions. Operator. 
+asr:0: OUTPUT 1785.87-1794.95: Thank you. At this time, we'll be conducting a question and answer session. If you'd like to ask a question, please press star one on your telephone keypad. 
+asr:0: OUTPUT 1795.62-1799.32: A confirmation tone will indicate your line is in the question queue. 
+asr:0: OUTPUT 1800.00-1803.32: You may press star two if you would like to remove your question from the queue. 
+asr:0: OUTPUT 1804.02-1810.65: For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star key. 
+asr:0: OUTPUT 1811.25-1813.59: One moment, please, while we poll for questions. 
+asr:0: OUTPUT 1828.31-1834.03: Your first question comes from a line of Peter Benedict with Baird. Please proceed with your question. 
+asr:0: OUTPUT 1836.30-1838.88: Oh, hey guys, good morning. Thanks for the questions. 
+asr:0: OUTPUT 1838.92-1845.95: First, just on the inventory, Paul, I don't know if you can give us a better sense of where you. 
+asr:0: OUTPUT 1846.03-1849.49: We hope to have this sitting at year-end. 
+asr:0: OUTPUT 1849.75-1856.64: And then assuming that demand pace remains, I guess, similar,. 
+asr:0: OUTPUT 1856.66-1861.94: When would you realistically expect to be back in the stock? 
+asr:0: OUTPUT 1861.96-1866.25: At levels that would allow you to kind of grow a sell through. Is that something that you think you could get? 
+asr:0: OUTPUT 1866.91-1874.25: Early in 21 or if this demand level continues, you're going to be chasing for quite some time. That's my first question, Matt. One follow-up. 
+asr:0: OUTPUT 1875.36-1876.64: Great, thank you, Peter, and good morning. 
+asr:0: OUTPUT 1877.16-1881.34: So we expect to end the year. 
+asr:0: OUTPUT 1881.62-1887.71: Still down on inventory, but we'll make sequential improvement from where we are in the third quarter. 
+asr:0: OUTPUT 1888.59-1897.42: So while down year over year, we do expect the percentage to lessen on a decrease year over year. 
+asr:0: OUTPUT 1897.66-1900.00: And then as we look into 2021. 
+asr:0: OUTPUT 1900.98-1908.47: You know, it's probably the first half of the year where we continue to, you know. 
+asr:0: OUTPUT 1908.49-1916.68: Ramp up our inventory and it's really all about demand and what we're seeing today is demand is very, very strong. 
+asr:0: OUTPUT 1916.74-1918.50: And we hope that continues. 
+asr:0: OUTPUT 1918.88-1923.46: But we think as we go through 2021, we'll get to a more normalized level. 
+asr:0: OUTPUT 1925.87-1928.95: Okay, that's helpful. And then I guess related to that. 
+asr:0: OUTPUT 1928.99-1934.47: Just Matt, maybe talk about the innovation cadence in the business. 
+asr:0: OUTPUT 1934.51-1941.40: I know you guys adjusted some of the new product introductions this year just in response to COVID and whatnot, but now we've got the supply constraint. 
+asr:0: OUTPUT 1941.68-1949.11: Dynamic out there. So maybe just how is your planning evolved for 2021? 
+asr:0: OUTPUT 1949.35-1952.39: In terms of what maybe you were thinking a year ago you would introduce. 
+asr:0: OUTPUT 1953.11-1956.46: Versus what now you think the cadence will look like. 
+asr:0: OUTPUT 1958.32-1959.92: Peter, thanks for the morning. 
+asr:0: OUTPUT 1960.60-1969.37: I would say our planning and roadmap for 2021 as it relates to the product has not changed significantly. 
+asr:0: OUTPUT 1969.67-1976.82: The changes we made in 2020, early in the year when we didn't have great visibility on the back half of the year. 
+asr:0: OUTPUT 1977.12-1981.08: And as we've previously communicated, shifted some things to the front half of 2021. 
+asr:0: OUTPUT 1981.58-1991.15: We don't expect those to get caught up in the inventory rebuild and the kind of capacity that we're putting on or the pressure we're putting on our suppliers for capacity. 
+asr:0: OUTPUT 1991.71-1999.80: So we expect that that shouldn't have a substantial impact on our product roadmap in the introduction of products next year. 
+asr:0: OUTPUT 1999.84-2002.48: It's really, as Paul indicated. 
+asr:0: OUTPUT 2002.84-2009.21: It's really rebuilding the current product portfolio or current inventory backup. 
+asr:0: OUTPUT 2009.27-2015.30: I feel good about the innovation cadence being intact in the plan for innovation in 2021. 
+asr:0: OUTPUT 2015.80-2022.02: And in parallel, we'll be rebuilding and ramping up our supply capacity for our existing product portfolio. 
+asr:0: OUTPUT 2025.23-2028.57: That's helpful. If I could speak one more and then I'll turn it over, I apologize. 
+asr:0: OUTPUT 2028.83-2030.29: Just with respect to the recall. 
+asr:0: OUTPUT 2030.37-2039.42: I'm not sure how much you can say about it, but I'm just curious what's different about that mag slider on the travel mug versus the others. I mean, you've got, you have mag sliders on a lot of different products. So. 
+asr:0: OUTPUT 2039.92-2049.87: You're at liberty to say and then you said, you know, any impact is in your fourth quarter plan. Paul, you could go a little bit more specific behind what you think the impact is going to be. Thank you. 
+asr:0: OUTPUT 2051.41-2054.61: Yet here are you know i'll take that the product that the. 
+asr:0: OUTPUT 2054.63-2057.78: Nope, we did a voluntary recall. 
+asr:0: OUTPUT 2057.84-2065.51: In an abundance of caution and didn't have any we had a report of dislodging of our magnetic lid. 
+asr:0: OUTPUT 2066.07-2067.27: And so we quickly moved. 
+asr:0: OUTPUT 2067.33-2076.30: You know, nine days into the launch of this product through our own direct channels and took a took a decisive action quickly to make sure we fully understood and fully wrapped this. 
+asr:0: OUTPUT 2076.40-2086.05: The difference between the two products is in the legacy product, there's one magnet on the top, and on the new one, there's a magnet on the bottom and a magnet on the top. 
+asr:0: OUTPUT 2086.33-2089.51: And that's what they can dislodge from each other. 
+asr:0: OUTPUT 2090.15-2099.90: You know, we put incredible importance on consumer safety, and when we saw this report of it, we had an opportunity to quickly wrap it and get it off the market. 
+asr:0: OUTPUT 2099.94-2101.40: And put our team back to work on. 
+asr:0: OUTPUT 2101.80-2107.75: Making sure that we had the product out in the market that we thought was deserving of the Eddie brand. 
+asr:0: OUTPUT 2109.89-2117.04: And then Peter on the sales impact, while I won't share kind of what our plan was. 
+asr:0: OUTPUT 2117.50-2126.51: And as you can imagine, there are a lot of puts and takes there as we introduce a new product. How does that impact current products? So when we pulled the travel mug. 
+asr:0: OUTPUT 2126.53-2131.17: You know, the perceived cannibalization of other products goes away. 
+asr:0: OUTPUT 2131.65-2140.00: As we said, it's fully contemplated in the top line guidance that we gave in the 15 to 16%. 
+asr:0: OUTPUT 2140.06-2146.01: Um. You know, excited to the team is reworking that land and, um. 
+asr:0: OUTPUT 2146.03-2148.09: You know, looking forward. 
+asr:0: OUTPUT 2151.15-2152.17: Thanks, guys. 
+asr:0: OUTPUT 2155.92-2161.62: Your next question comes from the line of Camilla Lyon with BTIG. Please proceed with your question. 
+asr:0: OUTPUT 2163.08-2165.39: Thank you. Good morning, guys, and great job on the quarter. 
+asr:0: OUTPUT 2166.97-2173.15: I wanted to drill down a little bit more on the inventory comments you're making. I think you had some inventory constraints also. 
+asr:0: OUTPUT 2173.17-2177.80: During the middle of the quarter and obviously continuing here in the fourth quarter. 
+asr:0: OUTPUT 2178.24-2183.66: Maybe if you can help us understand what categories you're feeling particularly light on. 
+asr:0: OUTPUT 2183.90-2187.75: And how you're thinking about. 
+asr:0: OUTPUT 2187.85-2195.24: Is there a favoring of a channel that you'd prefer to supply over one over the other? So are you going to feed your DTC? 
+asr:0: OUTPUT 2196.12-2198.94: First when supply comes back or is coming through. 
+asr:0: OUTPUT 2199.34-2207.83: And also, where in the supply chain are you seeing the disruptions? Is it on the production side? Is it shipping times? Is it at the ports? 
+asr:0: OUTPUT 2208.25-2212.13: Just curious to understand where the bottlenecks exist. 
+asr:0: OUTPUT 2212.65-2217.04: And where we could see some alleviation of that inventory flow. 
+asr:0: OUTPUT 2218.24-2220.32: Sure, so let me start with. 
+asr:0: OUTPUT 2220.34-2230.05: The kind of how we got here or kind of just you know kind of going back a few months. 
+asr:0: OUTPUT 2230.13-2235.56: So if you remember back at the end of first quarter, and this is where do we see the bottleneck. 
+asr:0: OUTPUT 2236.72-2243.68: There really aren't true bottlenecks in the normal sense. But if we go back to the end of the first quarter,. 
+asr:0: OUTPUT 2244.22-2249.45: Last two weeks of the first quarter, first two weeks of the second quarter, we cut back four with POs. 
+asr:0: OUTPUT 2251.65-2254.03: As we were seeing those demand signals. 
+asr:0: OUTPUT 2254.31-2260.52: We had some supply chain disruption there, but it was really us cutting back, looking at the current demand signals at that point. 
+asr:0: OUTPUT 2260.90-2269.53: And then demand started to, in the back half of second quarter, started to take off and we began placing forward orders. 
+asr:0: OUTPUT 2269.67-2272.43: And then as we came into Q3, so. 
+asr:0: OUTPUT 2272.45-2280.26: It's really about a lot of this impact is kind of going back to the end of first quarter, beginning of second quarter. 
+asr:0: OUTPUT 2280.36-2289.71: Where we weren't producing at a capacity or we weren't producing at the level to support the 29% in Q3. 
+asr:0: OUTPUT 2289.91-2296.90: In. 
+asr:0: OUTPUT 2297.40-2304.70: It is really we have all our factories working full capacity and producing. 
+asr:0: OUTPUT 2304.84-2308.75: It's not a bottleneck in the pent up you know port and think that that nature. 
+asr:0: OUTPUT 2308.97-2315.66: That being said you know in in you've been in the headlines report coming into the into the u act on the west coast. 
+asr:0: OUTPUT 2316.50-2322.82: And then certainly just logistics in getting the goods to. 
+asr:0: OUTPUT 2322.84-2329.07: Our DCs, but it really is about kind of the progression of rebuilding the inventory. 
+asr:0: OUTPUT 2329.39-2330.95: From an allocation. 
+asr:0: OUTPUT 2332.29-2340.00: Here's how we think about it. We want to meet consumer demand across channels. If we think about our wholesale channel,. 
+asr:0: OUTPUT 2340.44-2344.32: So our sell-in was plus 6%. 
+asr:0: OUTPUT 2344.70-2346.71: And we talked about... 
+asr:0: OUTPUT 2346.79-2354.85: Wholesale demand being close to what our top line was, in line with what our top line was as a company. 
+asr:0: OUTPUT 2355.68-2361.84: So we knew we had inventory in the channel, so we used that inventory to satisfy demand. 
+asr:0: OUTPUT 2361.88-2370.55: And then we use the inventory we had to satisfy our DTC. So we're constantly looking at satisfying consumer demand. 
+asr:0: OUTPUT 2370.61-2378.72: And that's kind of how we allocate the inventory, and we continue to do that into the fourth quarter. 
+asr:0: OUTPUT 2381.74-2383.84: It. Okay, great. 
+asr:0: OUTPUT 2384.24-2390.43: And then just on the categories, is there a specific under inventory position that's more. 
+asr:0: OUTPUT 2390.45-2395.84: That's more grave. Maybe that's too strong a word, but. 
+asr:0: OUTPUT 2396.08-2403.44: That's of greater focus, full resources shrinkware or is it equally balanced in terms of where you'd like to be? 
+asr:0: OUTPUT 2404.08-2412.29: Yeah, good, good question. I'm going to come at it from the other angle of we had the benefit of all last year building up my drink where inventory. 
+asr:0: OUTPUT 2413.23-2420.00: So even as I came into the first quarter, second quarter, and I did the same thing there, I cut four repeals. 
+asr:0: OUTPUT 2420.12-2426.19: But i had a lot of drinkware inventory in my dc so as demand came back. 
+asr:0: OUTPUT 2426.43-2429.29: I was able to help you know put forward p o is in. 
+asr:0: OUTPUT 2429.91-2434.81: So I had the benefit of having a lot of drinkware inventory, which. 
+asr:0: OUTPUT 2434.85-2440.80: Again, as we talked about, was a tariff mitigation and turned into a coronavirus mitigation. 
+asr:0: OUTPUT 2440.94-2441.94: So. 
+asr:0: OUTPUT 2442.12-2444.44: That I was I benefited from that piece. 
+asr:0: OUTPUT 2448.11-2449.23: That's clear. Thank you. 
+asr:0: OUTPUT 2450.75-2460.10: And then maybe Matt, as you think about this, the balance of the excess demand or demand outstripping supply with. 
+asr:0: OUTPUT 2460.12-2463.62: Maintaining the brand heat that you're clearly benefiting from. 
+asr:0: OUTPUT 2465.35-2471.17: Are you at all seeing anything on the competitive landscape where. 
+asr:0: OUTPUT 2471.19-2476.68: A customer is leaving the brand just to fulfill some sort of purchase need. 
+asr:0: OUTPUT 2477.46-2482.40: And how are you trying to mitigate that potential loss sale or that loss cut? 
+asr:0: OUTPUT 2483.80-2487.47: Know, maybe organically coming to you, but not not seeing that demand fulfilled. 
+asr:0: OUTPUT 2489.25-2491.09: We've seen. 
+asr:0: OUTPUT 2491.11-2495.88: Through time and through different points in Yeti's history when we get into supply constraint. 
+asr:0: OUTPUT 2496.36-2504.14: Environments or where demand is outstripping supply is that we don't tend to see a lot of leakage of the customer. 
+asr:0: OUTPUT 2504.60-2508.75: And part of it's because we focus a lot on making sure we'll continue to drive engagement. 
+asr:0: OUTPUT 2508.77-2510.71: And even if it's engagement. 
+asr:0: OUTPUT 2510.73-2528.03: In between purchases or it's engagement while someone's waiting for something to come back in stock or we present alternative products. And I think it's one of the benefits of our in-house internal creative and content team combined with our e-commerce team. 
+asr:0: OUTPUT 2528.39-2538.42: Is that we're able to identify more smartly where consumers are and where they are in the shopping journey and what we can put in front of them as an alternative. 
+asr:0: OUTPUT 2538.44-2547.71: We tend to see, we tend not to see that leakage and as a reminder this business pre-mid-March and pre-the pandemic shutdown here in the U.S. 
+asr:0: OUTPUT 2547.73-2549.47: Was growing 20 plus percent. 
+asr:0: OUTPUT 2550.29-2551.79: We just grew 29%. 
+asr:0: OUTPUT 2551.97-2560.60: In the third quarter, we provided some outlook on the fourth quarter. So you expect the back half of the year to return to that 20% growth. 
+asr:0: OUTPUT 2560.92-2567.71: This is a business that was driving performance and consumer demand as we went through that time. 
+asr:0: OUTPUT 2567.79-2571.57: And we'll continue to do it right now and we'll work hard to make sure we. 
+asr:0: OUTPUT 2571.79-2578.70: Keep consumers engaged while we get our in stocks back at the level both in wholesale and our own DTC channels in the way we want it. 
+asr:0: OUTPUT 2580.54-2583.68: Fantastic. Good luck in the holiday season. Thanks, Ash. Thanks, Genova. 
+asr:0: OUTPUT 2586.09-2592.55: Your next question comes from a line of Alexandra Waldus with Goldman Sachs. Please proceed with your question. 
+asr:0: OUTPUT 2594.59-2600.80: Good morning, thanks so much for taking the question here. My first question is on e-commerce, e-commerce of course, Greg. 
+asr:0: OUTPUT 2600.82-2607.11: A very, very strong in the quarter and you mentioned that was, you saw growth across channels. 
+asr:0: OUTPUT 2607.39-2614.57: Could you talk about the discrepancy in growth that you're seeing between Yeti.com and Amazon Marketplace? 
+asr:0: OUTPUT 2614.71-2618.36: You know, what's the next of the e-commerce business today between those. 
+asr:0: OUTPUT 2618.74-2623.28: Channels and how would you expect that to trend going forward? 
+asr:0: OUTPUT 2624.94-2625.95: Hey Alex, good morning. 
+asr:0: OUTPUT 2627.57-2631.85: So Yeti.com, and I may have said this in my prepared remarks. 
+asr:0: OUTPUT 2631.93-2639.90: Yeti.com definitely led the way. So if I think about the DTC business, Yeti.com,. 
+asr:0: OUTPUT 2639.92-2643.88: Was the leader, then Amazon, and then corporate sales. 
+asr:0: OUTPUT 2644.02-2650.93: And I'm leaving retail out just because of the year over year comparison with new stores doesn't make the percent. 
+asr:0: OUTPUT 2650.95-2652.63: Growth relevant. 
+asr:0: OUTPUT 2653.53-2655.50: So Yeti.com is still the strongest. 
+asr:0: OUTPUT 2656.14-2665.61: You know, we like what we're seeing across those channels and are really happy with the engagement we're driving with Yeti.com. 
+asr:0: OUTPUT 2666.13-2669.15: The Amazon marketplace is an important business for us. 
+asr:0: OUTPUT 2669.93-2676.98: This is going back to the end of Q1, slight disruption as people were really focused on more essential. 
+asr:0: OUTPUT 2677.08-2684.94: But that is come back nicely is growing uh... Very very well but clearly the uh... The standout was yeti dot com. 
+asr:0: OUTPUT 2688.63-2695.44: Great. And any plans for which of those you're prioritizing as you move forward in the coming quarters and years? 
+asr:0: OUTPUT 2698.60-2707.23: So prioritizing, and you can come back at me, and I'm going to step away from prioritizing inventory. 
+asr:0: OUTPUT 2707.29-2709.35: But really, if you think about the coming years. 
+asr:0: OUTPUT 2709.41-2712.15: We really like the Yeti.com business. 
+asr:0: OUTPUT 2712.95-2722.06: It's the fullest expression of our business. It's where we get the most information from a customer and being able to interact with a customer. 
+asr:0: OUTPUT 2722.18-2726.53: If I could wave a magic wand, I'd have everyone go to yeti.com. 
+asr:0: OUTPUT 2726.81-2736.72: That being said, the Amazon marketplace is really important. If people choose for now $119 a year, if they're a Prime member and they go to buy. 
+asr:0: OUTPUT 2736.84-2741.40: You know, something and they want to put a Rambler 20 in their cart. 
+asr:0: OUTPUT 2741.56-2748.97: We want to be where the customer wants to shop. So that's kind of how we think long term is. And that goes as far as wholesale too. 
+asr:0: OUTPUT 2749.03-2753.49: Being where the customer wants to access the brand is the most important thing to us. 
+asr:0: OUTPUT 2755.50-2757.46: Super, I appreciate you sharing your thoughts on that. 
+asr:0: OUTPUT 2758.10-2759.20: Maybe one more from. 
+asr:0: OUTPUT 2759.22-2760.44: May I wonder if you could. 
+asr:0: OUTPUT 2760.46-2770.27: Update us on the business with lows, how many doors you're in now, how that's trending and what the next step in the opportunity is there. 
+asr:0: OUTPUT 2772.21-2776.70: Yeah, Alex, Matt, I'll take that 1. Thanks. Thanks for the question and good morning. 
+asr:0: OUTPUT 2777.14-2783.28: You know we continue to really enjoy the relationship that we've built with Lowe's and the partnership. 
+asr:0: OUTPUT 2783.52-2790.99: And that's as important to us as we think about what a methodical-paced rollout looks like. 
+asr:0: OUTPUT 2791.21-2806.79: We said that from the very beginning, that the rationale for why we add additional wholesale is that they bring a relatively new consumer, a new buying occasion, or they augment support the rest of our existing wholesale. 
+asr:0: OUTPUT 2807.27-2813.65: And I think GLOWS has continued to do that and been a good partner as we have evolved and learned together. 
+asr:0: OUTPUT 2814.27-2818.58: This year we're incredibly pleased with our partnership. 
+asr:0: OUTPUT 2818.94-2824.20: We made some decisions as the year paced on to moderate our rollout. 
+asr:0: OUTPUT 2824.22-2833.23: Considering the environment and considering our inventory constraints, and it gave us an opportunity to really focus on the execution and performance. 
+asr:0: OUTPUT 2833.25-2838.36: What we really like is we continue to see the incrementality of that relationship. 
+asr:0: OUTPUT 2838.52-2846.05: And we look at it as a piece in the puzzle of our overall wholesale and our overall wholesale is a piece in the puzzle of our overall omni-channel. 
+asr:0: OUTPUT 2846.57-2853.57: We're pleased with how that's performing and as we said in the prepared remarks and we've reiterated here,. 
+asr:0: OUTPUT 2854.09-2856.14: We're pleased with the overall performance in our wholesale. 
+asr:0: OUTPUT 2856.22-2865.57: And our job now is to thoughtfully rebuild the channel inventory so that we continue to address more and more of the consumer demand. 
+asr:0: OUTPUT 2868.71-2872.01: Fantastic, thanks so much and all the best. Thanks Alex. 
+asr:0: OUTPUT 2874.71-2883.22: Your next question comes from Randy Konick with Jeffries. Please proceed with your question. Yeah. Good morning, everybody. 
+asr:0: OUTPUT 2884.76-2898.38: Clearly, the strong revenue numbers, the growth of revenue is indicative of acceleration of new customer growth and existing customers buying more. 
+asr:0: OUTPUT 2898.86-2909.37: I recall a number of quarters ago you guys were starting to track the purchase behavior or kind of track customers on what they're doing. 
+asr:0: OUTPUT 2909.47-2920.82: Any kind of color you can give us when you analyze the DTC business of what proportion of the revenues are coming from new brand new customers versus. 
+asr:0: OUTPUT 2920.86-2922.10: Existing customers right now. 
+asr:0: OUTPUT 2925.01-2932.51: Randy, good morning. It is Matt. What I would say is we haven't as you pointed out, we haven't shared the specific numbers. 
+asr:0: OUTPUT 2932.57-2938.82: It is something that we continue to get smarter and have better insights to. 
+asr:0: OUTPUT 2938.98-2941.54: I made a comment a little bit earlier that. 
+asr:0: OUTPUT 2942.40-2952.03: We're focused on understanding those customer cohorts and how they perform and how they perform differently as our portfolio expands. 
+asr:0: OUTPUT 2952.67-2957.96: What that sequencing of purchases and what that recurrence of purchase looks like. 
+asr:0: OUTPUT 2958.38-2967.13: What I can say is, interestingly, through this year to date, as we have seen elevated demand and as channel shifts have. 
+asr:0: OUTPUT 2967.15-2969.97: Have occurred during different points of shutdown and wholesale. 
+asr:0: OUTPUT 2970.65-2975.96: Is are new to yeti.com versus existing or repeat purchase on yeti.com. 
+asr:0: OUTPUT 2976.10-2977.74: Has all lifted. 
+asr:0: OUTPUT 2977.86-2979.86: And that ratio between the two. 
+asr:0: OUTPUT 2979.92-2988.43: Hasn't shifted materially. And so we really like the new customer acquisition that we're seeing and the percent of new customers we're seeing. 
+asr:0: OUTPUT 2988.57-2993.35: And along with that, we like the returning customer and the repeat purchase rate. 
+asr:0: OUTPUT 2993.45-3003.68: And what we're really focused on is, what is their behavior after that first purchase within those first 30 days, within those first 90 days and within that first year. 
+asr:0: OUTPUT 3003.70-3007.01: Those are all metrics we're paying a lot of attention to. 
+asr:0: OUTPUT 3007.39-3016.58: And then below that, what does that what does that basket of expansion expansion look like? So what we aren't reporting the numbers. 
+asr:0: OUTPUT 3016.84-3023.74: It is something we're paying a lot of attention to. It's something we're taking action on. And it's something we like the trend that we're seeing. 
+asr:0: OUTPUT 3023.76-3028.37: It's a big area investment for the business in 2020 and that'll continue to be a big area of investment. 
+asr:0: OUTPUT 3029.07-3037.68: In 2021 as we drive deeper consumer insights and behavior understandings to really target those distinct audiences. 
+asr:0: OUTPUT 3040.08-3047.09: And then last question, you mentioned, I believe, the international penetration is at 7 percent of total. 
+asr:0: OUTPUT 3047.43-3051.51: I believe it was only 4%, only a few quarters ago. 
+asr:0: OUTPUT 3052.03-3059.24: So can you give us some extra depth of color on what you think is happening in terms of. 
+asr:0: OUTPUT 3059.26-3078.52: Rising awareness or what have you, just trying to get a sense of the acceleration you're seeing, because it seems like that business is now starting to really come into its own, that geography, if you will, the international, and just want to get some color on what you think is starting to really continue to accelerate that business going forward. 
+asr:0: OUTPUT 3078.56-3082.14: That part of the sales geography going forward. 
+asr:0: OUTPUT 3083.02-3088.89: Thank you. Yeah, yeah, we're we're ready. We're super excited about the opportunity internationally. We have been. 
+asr:0: OUTPUT 3090.01-3099.38: But what we're excited about now is our enthusiasm is being matched by the activity and results. And I say that fully knowing that. 
+asr:0: OUTPUT 3099.40-3107.35: Wholesale or retail in Europe and the UK and Australia and Canada until Q3 was really disrupted. 
+asr:0: OUTPUT 3107.81-3109.91: By the pandemic and I would say disrupted. 
+asr:0: OUTPUT 3110.13-3131.85: In some cases, even more than the U.S. Wholesale market. So what we saw in the quarter was a really strong recovery in our international business. And it came back. It came back alive. What we liked was we saw strong performance out of our wholesale led by the Canadian wholesale, which is a market that we've been actively and directly with Yeti employees operating in since. 
+asr:0: OUTPUT 3132.63-3141.28: But balance with that wholesale is strong e-commerce performance. And I think that is indicative of the rising awareness of the brand. 
+asr:0: OUTPUT 3142.40-3146.17: I think that things like social media, the content we create,. 
+asr:0: OUTPUT 3147.07-3150.53: That type of information has been more and more democratized globally. 
+asr:0: OUTPUT 3150.89-3155.03: And so the awareness of our brand and the awareness of our products. 
+asr:0: OUTPUT 3155.92-3161.74: In many cases in some of the markets we enter internationally, leads our official entry or leads. 
+asr:0: OUTPUT 3161.76-3171.49: The distribution we have in those markets because social media is such a globally democratized and available. 
+asr:0: OUTPUT 3172.25-3181.42: So we continue to focus on we see the demand signals. We believe the brand is bigger than the revenue. Our focus continues to be on building our brand in the right way. 
+asr:0: OUTPUT 3181.86-3188.81: So we're not rushing out just to taste short-term placement or short-term growth. We really want the sustainable growth. 
+asr:0: OUTPUT 3189.33-3194.49: And we're seeing that in Canada and Australia in particular where we've been operating for three full years. 
+asr:0: OUTPUT 3194.91-3199.50: And we're seeing the early signs of it in the UK and Europe and what we like about the UK and Europe. 
+asr:0: OUTPUT 3199.62-3202.32: In the early days is even with the disruption. 
+asr:0: OUTPUT 3202.34-3209.49: Through the summer in the wholesale channel, that e-commerce continues to be a strong opportunity. 
+asr:0: OUTPUT 3209.51-3215.96: I think you'd look for us to go into 2021 with a heavy focus around international, a heavy focus around brand building. 
+asr:0: OUTPUT 3216.00-3222.32: And driving ultimately the question you asked, which is driving the awareness, which we think ultimately drives the consideration and the purchase. 
+asr:0: OUTPUT 3224.34-3225.39: Very helpful. Thanks, guys. 
+asr:0: OUTPUT 3226.97-3233.69: Thanks, Randy. 
+asr:0: OUTPUT 3233.79-3239.62: Our next question comes from the line of Sharon Zaxia with William Blair. Please proceed with your question. 
+asr:0: OUTPUT 3240.74-3249.87: Hi, good morning. So question on the operating margin, you've obviously had a couple quarters in a row where operating margin has started with a two. 
+asr:0: OUTPUT 3250.43-3256.28: And it looks like the imputation is that that will continue in the fourth quarter. And it looks like for the full year. 
+asr:0: OUTPUT 3257.42-3266.39: I guess I'd be interested, Paul, in how 2020 has changed any of your thoughts about the long-term sustainable margin of the company. 
+asr:0: OUTPUT 3266.77-3271.77: And also, if there are any areas where you feel like you're over-earning this year. 
+asr:0: OUTPUT 3271.89-3278.38: Because you pull back on marketing or travel or other dynamics and you could kind of dimensionalize those for us. 
+asr:0: OUTPUT 3280.80-3282.66: Yeah. Good morning, Sharon. 
+asr:0: OUTPUT 3282.96-3292.95: So the performance in the operating margin expansion and the performance has been fantastic. So as I think about that and then thinking about going forward,. 
+asr:0: OUTPUT 3293.05-3297.88: So obviously that's driven by the significant increase in direct-to-consumer. 
+asr:0: OUTPUT 3298.12-3300.34: And the shift that we've seen both. 
+asr:0: OUTPUT 3300.36-3310.37: In the second quarter and the third quarter, but even if we go back to the first quarter and the whole algorithm of the company of DTC growing faster than wholesale. 
+asr:0: OUTPUT 3311.23-3318.84: So a lot of that margin expansion is driven by gross margin expansion. As we look to the future,. 
+asr:0: OUTPUT 3318.88-3320.10: I. 
+asr:0: OUTPUT 3320.38-3329.43: A couple of thoughts. The first is we expect gross margin with next shift in cost improvements to continue to expand. 
+asr:0: OUTPUT 3329.83-3332.33: I don't expect it to expand to the level. 
+asr:0: OUTPUT 3332.73-3337.10: It did this year because of the significant outperformance of the tc and then. 
+asr:0: OUTPUT 3337.16-3340.02: And as you know, just the large number. 
+asr:0: OUTPUT 3340.10-3347.45: As my DTC becomes a bigger percent of the business, every incremental 1% mix gives me less on the mix. 
+asr:0: OUTPUT 3347.99-3355.58: We do believe gross margin will continue to benefit from makeshift cost improvements. 
+asr:0: OUTPUT 3356.32-3363.38: And then I will say we talk very often internally about where do we want to... 
+asr:0: OUTPUT 3363.52-3368.53: Are the things we want to invest at the gross margin level, are the things we want to invest in the product. 
+asr:0: OUTPUT 3368.91-3374.25: And I think you saw that, and we've talked about this, when we put the chug cap on the bottle and didn't change the price. 
+asr:0: OUTPUT 3374.79-3383.26: We delivered value to the consumer and held for the price and we use some of that gross margin expansion to fund that. 
+asr:0: OUTPUT 3384.56-3387.77: From a over-earning in the business. 
+asr:0: OUTPUT 3388.25-3396.42: I think the most obvious one, and you called it out as teeny, right? So we're still working remotely and not traveling. 
+asr:0: OUTPUT 3397.50-3399.04: So certainly T&E is down. 
+asr:0: OUTPUT 3399.42-3407.89: You know, we continue and even though we saw significant leverage on non-variable expenses. 
+asr:0: OUTPUT 3409.07-3412.97: You know we continue to invest in in absolute dollars. 
+asr:0: OUTPUT 3414.01-3423.74: We continue to spend more in marketing. We've resumed hiring. So, you know, we continue to bring great talent into the business. 
+asr:0: OUTPUT 3424.12-3433.25: And things of that nature. So the expense leverage is really about kind of the top line growth. But other than T&E,. 
+asr:0: OUTPUT 3433.63-3438.48: We are running the business and investing in the business. 
+asr:0: OUTPUT 3438.56-3440.94: For the future, so I don't feel like we're. 
+asr:0: OUTPUT 3440.96-3450.11: Over-earning to use your word based on you know cutting back on expenses. Thanks that's very helpful. 
+asr:0: OUTPUT 3454.69-3461.58: Your next question comes from Robbie Oams with Bank of America Securities. Please proceed with your question. 
+asr:0: OUTPUT 3463.04-3465.29: Oh, thanks guys. Great quarter. 
+asr:0: OUTPUT 3466.43-3467.87: Actually, just two quick questions. 
+asr:0: OUTPUT 3468.45-3478.02: You mentioned new drivers of growth to the brand outdoor, near home vacations, things like that near the beginning of the call. 
+asr:0: OUTPUT 3478.04-3481.08: Matt, is there any, you know, when you get beyond the. 
+asr:0: OUTPUT 3481.10-3483.14: The inventory constraints and you look out. 
+asr:0: OUTPUT 3483.16-3484.34: You know, the next year or two. 
+asr:0: OUTPUT 3485.53-3490.51: Are you looking at, are there some new wholesale type customers that you guys are thinking about? 
+asr:0: OUTPUT 3490.87-3496.60: Now because of these new drivers of demand for the brand that you maybe weren't thinking about a year ago? 
+asr:0: OUTPUT 3499.28-3502.58: Robbie, I would answer that in a couple different ways. 
+asr:0: OUTPUT 3503.28-3509.91: The drivers that have become kind of the headlines through the summer and some of the drivers we mentioned. 
+asr:0: OUTPUT 3510.59-3512.29: I would say for our brand. 
+asr:0: OUTPUT 3512.41-3516.50: Have been dynamics that we've been experiencing for the last handful of years. 
+asr:0: OUTPUT 3516.54-3520.88: That movement towards being active outdoors. 
+asr:0: OUTPUT 3520.90-3527.25: Adventure-based vacations, car camping, all those dynamic. 
+asr:0: OUTPUT 3527.65-3532.21: We think what's happened this summer is it's just accelerated exposure of a trend that we were seeing. 
+asr:0: OUTPUT 3532.63-3538.02: Obviously, our business was benefiting from strong growth pre-pandemic and as those. 
+asr:0: OUTPUT 3538.04-3547.51: Trends get highlighted and people try those things, we're right in that slipstream to continue to sustain that momentum. 
+asr:0: OUTPUT 3548.83-3558.26: If it were different and we were zero growth and realized growth because of a trend, it would be a different dynamic. And that's not the situation we're in. 
+asr:0: OUTPUT 3559.24-3561.28: I couple that with. 
+asr:0: OUTPUT 3561.56-3567.65: Because we were, we think we were well positioned pre pandemic and pre these trends being highlighted. 
+asr:0: OUTPUT 3568.65-3573.59: We believe we've got really good representation from a wholesale perspective domestically. 
+asr:0: OUTPUT 3573.77-3579.46: And we think that between the Amazon marketplace and yeti.com, we've got good representation. 
+asr:0: OUTPUT 3580.18-3584.02: That said, as we've said in the past, we constantly monitor the wholesale market. 
+asr:0: OUTPUT 3584.60-3588.97: We look for everything from independent partners who. 
+asr:0: OUTPUT 3588.99-3594.61: Help us identify a certain region or a certain customer group that we may not be accessing. 
+asr:0: OUTPUT 3594.65-3597.52: All the way up to larger national but. 
+asr:0: OUTPUT 3597.58-3600.20: As you know, having followed us for a while. 
+asr:0: OUTPUT 3600.22-3607.83: We're really thoughtful when we bring on a big partner. We were thoughtful when we added Lowe's to the suite of wholesale partners we have. 
+asr:0: OUTPUT 3607.93-3609.65: We feel good where we are today. 
+asr:0: OUTPUT 3609.93-3617.48: But we also pay attention to the market. I think internationally is a different situation because that's a little more green field for us when it comes to. 
+asr:0: OUTPUT 3617.50-3622.80: To wholesale exposure and so far we've been following a similar playbook. 
+asr:0: OUTPUT 3622.82-3626.67: To the U.S., which is building strong, relevant, independent relationships. 
+asr:0: OUTPUT 3626.77-3635.30: And identifying regional players or in some cases national players that we think will represent the brand and the business well. 
+asr:0: OUTPUT 3636.62-3645.95: That's helpful. And then Paul, just quickly, shipping surcharges, any impact to you guys you see for the fourth quarter or next year? 
+asr:0: OUTPUT 3647.17-3651.19: So from a dollar perspective. 
+asr:0: OUTPUT 3651.27-3658.18: We are seeing the surcharges that UPS has announced. 
+asr:0: OUTPUT 3658.28-3662.72: All contemplated in the fourth quarter outlook. 
+asr:0: OUTPUT 3663.24-3670.87: And Robbie, what I would say is what we're really focused on and not to play down the dollar piece of it. 
+asr:0: OUTPUT 3671.13-3674.35: It's really the capacity and making sure. 
+asr:0: OUTPUT 3674.41-3681.38: You know that we secure and we work with UPS. I think our guys probably talk to them if not every day three times a week. 
+asr:0: OUTPUT 3681.44-3685.65: We have secured our capacity for the fourth quarter. 
+asr:0: OUTPUT 3686.41-3692.01: And that's really our biggest focus. And again, not to downplay the dollars, but making sure we have the. 
+asr:0: OUTPUT 3692.07-3696.46: Making sure they're coming to pick up the trailers is absolutely critical. 
+asr:0: OUTPUT 3697.22-3701.68: And we have a very good relationship with them and our ops team is very focused on that. 
+asr:0: OUTPUT 3703.28-3706.29: Terrific. Thanks so much. Thanks, Robbie. 
+asr:0: OUTPUT 3709.31-3715.05: Your next question comes from a line of Peter Keith with Typer Sandler. Please proceed with your question. 
+asr:0: OUTPUT 3717.42-3727.01: I wanted to follow up on a prior question, I think from Kimelo, just regarding the inventory of out of stocks at wholesale. 
+asr:0: OUTPUT 3727.15-3729.63: It seems like kind of a good news, bad news situation. 
+asr:0: OUTPUT 3730.17-3733.33: Remarkably strong sell-through but inventory constrained. 
+asr:0: OUTPUT 3733.81-3735.80: And now you're going to the holiday season. 
+asr:0: OUTPUT 3736.94-3745.49: It seems like there could be some risk where your wholesale partners might bring in some alternative competitors to fill in some of those cooler out of stocks. 
+asr:0: OUTPUT 3746.15-3753.77: What actions can you take in order to prevent that type of activity? And do you see that as any risk in the coming months? 
+asr:0: OUTPUT 3756.58-3759.64: I would say a couple things to that. 
+asr:0: OUTPUT 3760.06-3766.47: We have great wholesale partnerships and have very open dialogues as we've gone through this. 
+asr:0: OUTPUT 3766.57-3770.77: As we've seen challenges to the supply disruption. 
+asr:0: OUTPUT 3771.45-3777.06: You know, 1 of the things that we've worked very closely with our wholesale partners is how do we fill in either with other Yeti products? 
+asr:0: OUTPUT 3777.16-3783.10: Or make sure that we're represented as well as we can as we rebuild that space. 
+asr:0: OUTPUT 3783.36-3786.35: One of the conversations we have is... 
+asr:0: OUTPUT 3786.39-3800.16: As we rebuild that inventory, we want to make sure that we have the right space to merchandise the products the right way and the way that we did pre-pandemic and the way we would expect of all of our wholesale partners as we move forward. 
+asr:0: OUTPUT 3800.18-3802.38: At any point, but as we rebuild that inventory. 
+asr:0: OUTPUT 3802.72-3810.97: I would say the conversations have been great. We're in full alignment with our partners. So we don't see risk from a. 
+asr:0: OUTPUT 3810.99-3818.48: Something changing because of this moment in time. We also don't see risk as far as, as I mentioned earlier on the call, demand leakage. 
+asr:0: OUTPUT 3818.82-3823.10: You know we want to continue to drive demand for our product. We continue to bring innovation to market. 
+asr:0: OUTPUT 3823.68-3834.79: We've started previewing our spring products with our wholesale partners, and there's a lot of excitement about what we continue to do with the brand and what we continue to do from an innovation perspective. 
+asr:0: OUTPUT 3836.48-3842.26: Okay, thanks, Matt. I mean, I'll ask the next question to Paul just around the structure of the guidance. 
+asr:0: OUTPUT 3842.98-3846.49: So. 
+asr:0: OUTPUT 3846.51-3853.65: It does imply a notable acceleration from Q3, and we know there's a lot of uncertainty in the economic environment. 
+asr:0: OUTPUT 3854.35-3859.16: But is there anything identifiable that you can see that would cause that slowdown? 
+asr:0: OUTPUT 3859.74-3865.19: And. 
+asr:0: OUTPUT 3865.23-3870.49: It's certainly above normal for your normal mid-teens revenue growth. 
+asr:0: OUTPUT 3870.77-3875.22: What are the margin characteristics that's driving that above average EPS growth? 
+asr:0: OUTPUT 3876.92-3885.39: So a couple of things on the top line, as we think about this, if you step back to the end of second quarter. 
+asr:0: OUTPUT 3886.03-3891.63: Where we said the back half of the year would be 14 to between 10 and 15%. 
+asr:0: OUTPUT 3892.33-3900.78: And now the back half of the year is going to be on, if you look at what we've talked about for the fourth quarter, call it 20%. 
+asr:0: OUTPUT 3901.42-3904.62: So we look from where we were three months ago. 
+asr:0: OUTPUT 3904.94-3911.47: You know the business has certainly performed and it's really about a very strong Q3. 
+asr:0: OUTPUT 3911.49-3920.74: Deceleration, I think about it a little bit differently. The back half of the year from where I thought about it three months ago is actually stronger. 
+asr:0: OUTPUT 3920.76-3922.74: Than what I was thinking three months ago. 
+asr:0: OUTPUT 3923.90-3927.31: You know, as we think about the fourth quarter in particular. 
+asr:0: OUTPUT 3928.57-3937.80: You know, a couple of things. The first is, you know, we're up against our strongest comparison from last year to plus 23 in last year's fourth quarter. 
+asr:0: OUTPUT 3938.10-3940.46: You know, we talked about the inventory constraints. 
+asr:0: OUTPUT 3941.74-3947.85: So that's what kind of shaped our thinking on the current outlook. 
+asr:0: OUTPUT 3948.07-3956.78: But again, as I think of the back half of the year, strongly outperforming what we thought the back half of the year was going to be just three months ago. 
+asr:0: OUTPUT 3957.12-3960.24: From an EPS perspective or a margin. 
+asr:0: OUTPUT 3960.46-3964.32: It's going to be, I'm happy to say, much of the same. 
+asr:0: OUTPUT 3964.38-3972.03: We're going to see expanding gross margins. Now we're rolling over, fourth quarter always is, our biggest DTC quarter every year. 
+asr:0: OUTPUT 3972.83-3975.76: So the hurdle certainly gets. 
+asr:0: OUTPUT 3975.78-3983.82: If I think about gross margins, I'm going to expect gross margin expansion from the channel mix shift. 
+asr:0: OUTPUT 3983.84-3988.11: Costing improvements and then tariff tailwind. 
+asr:0: OUTPUT 3988.49-3993.53: And then if I think about SGNA, kind of come down the P&L. 
+asr:0: OUTPUT 3993.85-4002.44: It's going to be a similar story overall of deleveraging on the variable because of the mix shift, so really driven by mix shift. 
+asr:0: OUTPUT 4002.74-4005.89: And then I expect the non-variable. 
+asr:0: OUTPUT 4006.01-4011.91: To be roughly, from a leverage perspective, to be roughly flat-ish year over year. 
+asr:0: OUTPUT 4011.93-4018.98: From a leverage, not a dollar. Obviously the dollars will increase. 
+asr:0: OUTPUT 4019.12-4022.22: That's what's driving the operating margin down to. 
+asr:0: OUTPUT 4022.34-4030.83: If you get down to EPS, obviously my lower interest, both from a, that's the last one that I hit the. 
+asr:0: OUTPUT 4031.01-4039.14: The balance of debt and then because I have a floating rate debt as you all know interest rates are just. 
+asr:0: OUTPUT 4040.00-4048.89: In my favor and as I de-lever my pricing I go down on the grid of less expensive spreads. 
+asr:0: OUTPUT 4050.75-4056.04: Okay, that's all very helpful. Keep up the good work guys and good luck with the holiday. Great, thanks. 
+asr:0: OUTPUT 4059.56-4065.79: Your final question comes from Matt with Roth Capital Partners. Please proceed with your question. 
+asr:0: OUTPUT 4068.15-4069.59: Hey guys, thanks for sneaking me in here. 
+asr:0: OUTPUT 4071.39-4079.84: I just wanted to touch on 2021 again if I could. And that's been covered a little bit. But wanted to see, did we get any new categories that add to growth? 
+asr:0: OUTPUT 4080.32-4089.99: As we look out into 2021, or is it still the existing drinkware and cooler categories, and just replenishment into wholesale, and then sustained strength in DTC? 
+asr:0: OUTPUT 4090.95-4092.83: Just wanted to get your take on that first. 
+asr:0: OUTPUT 4098.30-4105.19: We haven't communicated any forward category expansion. 
+asr:0: OUTPUT 4105.25-4114.71: We tend not to talk about a forward product roadmap. What I would say is, you know, we continue to look for expansion opportunities within our existing products and in our existing product families. 
+asr:0: OUTPUT 4115.26-4119.86: And if you look at our history of pacing over the last few years,. 
+asr:0: OUTPUT 4120.08-4128.45: We continue to kind of push the edge of new product families. And I would expect as we go into 2021 that that's going to continue. 
+asr:0: OUTPUT 4128.95-4135.46: We want to keep reinvigorating our longest standing product families and introduce new. 
+asr:0: OUTPUT 4135.48-4140.00: Families and continue to expand underneath the pandemic. 
+asr:0: OUTPUT 4140.04-4144.24: Permission the Yeti brand and the Yeti consumers have given us to bring more products to market. 
+asr:0: OUTPUT 4147.51-4151.53: It sounded like Paul, did you want to add anything? Because it sounded like you were jumping in there as well. 
+asr:0: OUTPUT 4152.31-4153.71: Nope, that was it. Okay, great. 
+asr:0: OUTPUT 4154.23-4159.82: Good, good, very helpful. And then just a lot of the other stuff has been answered, but on the balance sheet. 
+asr:0: OUTPUT 4159.84-4168.91: What I was curious about is, I mean, as we sort of get into a very high quality situation where you've got essentially zero turns of leverage,. 
+asr:0: OUTPUT 4169.57-4175.80: How do we think about cash deployment going forward? Obviously, we're going to see plenty of investment in organic growth. 
+asr:0: OUTPUT 4175.84-4183.06: We understand that. But when we think about sort of return of cash versus M&A and the prioritization there, just curious to get your thoughts going forward. 
+asr:0: OUTPUT 4185.07-4193.87: And that really, we think about it in three buckets right now for what we would spend our cash on. 
+asr:0: OUTPUT 4194.03-4202.14: First and foremost is rebuilding our inventory to the level that we believe is the right level to support the growth across our omni-channel. 
+asr:0: OUTPUT 4202.48-4207.43: So number one, number one inventory. The second one is CapEx investments in the CapEx investments fall. 
+asr:0: OUTPUT 4207.45-4209.83: Within a couple different categories that fall within our. 
+asr:0: OUTPUT 4209.85-4214.21: The continued digitization of the business and our technology investments. 
+asr:0: OUTPUT 4214.23-4220.36: And they fall on the product side and the product side splits into two things. It's investment in capacity. 
+asr:0: OUTPUT 4220.48-4225.81: As we continue to ramp legacy products and its investment in new product development. 
+asr:0: OUTPUT 4226.07-4231.69: And then the third thing is, and we've communicated this in the past, as we contemplate strategic. 
+asr:0: OUTPUT 4231.77-4235.76: Emanate you know one of things that uh... I'd like to always say is. 
+asr:0: OUTPUT 4235.78-4238.68: We like the Yeti brand a lot. We think there's a lot of. 
+asr:0: OUTPUT 4238.70-4246.15: Expansion opportunity underneath the Yeti brand. But as we look at M&A, we look at it across really two fronts. One,. 
+asr:0: OUTPUT 4246.17-4253.07: R&D investment in technologies or materials that help accelerate our existing product roadmap. 
+asr:0: OUTPUT 4253.35-4260.54: Or strategic acquisition that helps accelerate entry into relevant categories. And that can bring. 
+asr:0: OUTPUT 4260.56-4266.65: Category expansion, it could bring customer-based expansion, it could bring geographic expansion. 
+asr:0: OUTPUT 4266.73-4268.97: It's really the way we look at it internally. 
+asr:0: OUTPUT 4269.35-4276.64: We also feel very fortunate to be sitting here with $235 million in cash coming out of a highly uncertain summer. 
+asr:0: OUTPUT 4277.02-4283.98: So we feel good about the opportunities in front of us to return the value to shareholders, but first and foremost through growth. 
+asr:0: OUTPUT 4286.51-4288.41: Great, thanks for that, Nat. I'll jump back in queue. 
+asr:0: OUTPUT 4292.77-4300.66: Ladies and gentlemen, we have reached the end of the question and answer session, and I would like to turn the call back to Mr. Matt Reintz for closing remarks. 
+asr:0: OUTPUT 4303.38-4305.51: Thanks everybody for joining today. 
+asr:0: OUTPUT 4305.77-4312.23: I just want to reiterate the incredible quarter we had at Yeti. Demand continues to be strong for the brand. 
+asr:0: OUTPUT 4312.31-4315.96: We love the receptivity we're seeing to our continued innovation. 
+asr:0: OUTPUT 4317.22-4324.30: You know, the brand was strong and the business was strong before the pandemic. We're thrilled to be sitting here at the end of the third quarter and looking out at the fourth quarter. 
+asr:0: OUTPUT 4324.34-4327.89: With a business that continues to perform and deliver. 
+asr:0: OUTPUT 4328.43-4337.58: I want to wish everybody a safe and happy end of the year and holiday season. Look forward to speaking to you as we wrap up the fourth quarter. Operator. 
+asr:0: OUTPUT 4339.56-4345.13: This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation. 
+asr:0: END

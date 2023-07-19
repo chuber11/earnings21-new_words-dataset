@@ -1,0 +1,324 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.68-9.39: Good afternoon. Welcome to Identiv's presentation of its third quarter 2020 earnings call. My name is Taryn and I'll be your operator this afternoon. 
+asr:0: OUTPUT 10.09-16.20: Joining us for today's presentation are the company's CEO, Steve Humphreys, and CFO, Sandra Wallach. 
+asr:0: OUTPUT 16.94-20.14: Following management's remarks, we will open the call for questions. 
+asr:0: OUTPUT 20.88-27.93: Before we begin, please note that during this call, management may be making references to non-GAP measures or projections. 
+asr:0: OUTPUT 27.95-30.91: Including adjusted EBITDA and free cash flow. 
+asr:0: OUTPUT 31.61-35.24: In addition, during the call, management will be making forward-looking statements. 
+asr:0: OUTPUT 35.98-46.83: Any statement that refers to expectations, projections, or other characteristics of future events, including financial projections and future market conditions, is a forward-looking statement. 
+asr:0: OUTPUT 47.55-52.07: Actual results may differ materially from those expressed in these forward-looking statements. 
+asr:0: OUTPUT 52.91-59.26: For more information, please refer to the risk factors discussed in documents filed from time to time with the SEC. 
+asr:0: OUTPUT 59.28-69.07: Including the company's latest annual report on Form 10-K. Identiv assumes no obligation to update these forward-looking statements, which speak as of today. 
+asr:0: OUTPUT 69.55-74.83: I will now turn the call over to CEO Steve Humphreys for his comments. Sir, please proceed. 
+asr:0: OUTPUT 77.24-79.40: Operator and thank you all for joining us today. 
+asr:0: OUTPUT 80.50-86.87: In our preliminary results, we said we expected to beat the aggressive growth projections we outlined on our second quarter call. 
+asr:0: OUTPUT 87.11-94.99: Including 80% growth in RFID for the full year, 20% sequential growth in physical security from Q2 to Q3,. 
+asr:0: OUTPUT 95.02-97.64: And federal sales up 80% sequentially. 
+asr:0: OUTPUT 98.86-103.98: With our finalized financial results. We're confirming that we've beat each of those expectations. 
+asr:0: OUTPUT 104.88-109.71: This shows both the strong industry trends driving our business and our leadership within the industry. 
+asr:0: OUTPUT 111.21-117.62: Overall, revenues grew 30% sequentially to $24.9 million, showing strength across the business. 
+asr:0: OUTPUT 119.04-127.31: We projected our premises business, which is about two-thirds federal, to grow 20% sequentially. We actually grew 26% sequentially in premises. 
+asr:0: OUTPUT 128.33-136.12: Our RFID business grew more than 50% sequentially and over 100% year over year and is on track for 80% full year growth. 
+asr:0: OUTPUT 137.22-140.02: And our federal revenues grew nearly 90% sequentially. 
+asr:0: OUTPUT 141.66-148.61: So this has us lined up for a strong fourth quarter. And the second half of the year, it'll be more than 30% higher than our first half. 
+asr:0: OUTPUT 150.11-156.28: We're seeing business momentum continue, backlog building, and the pipeline for 2021 becoming stronger. 
+asr:0: OUTPUT 157.52-162.26: But before we talk too much about the future, let's review the operational and financial results from the third quarter. 
+asr:0: OUTPUT 163.56-167.83: Now our key focus areas of RFID and our federal business were particularly strong. 
+asr:0: OUTPUT 169.49-177.14: Within our identity business, which is predominantly RFID, revenue increased sequentially by 33% to $15.4 million. 
+asr:0: OUTPUT 177.64-187.55: And year-over-year identity in total grew 53% from 10.1 million in Q3 2019 to 15.4 million in Q3 2020. 
+asr:0: OUTPUT 189.63-194.81: The growth was mainly driven by RFID, of course, where we ramped up production volumes for a number of customers. 
+asr:0: OUTPUT 195.58-202.52: And in particular, a major customer whose production started in Q2 came through in Q3 even stronger than we expected. 
+asr:0: OUTPUT 203.90-208.07: As a result, our RFID business more than doubled the volume we produced a year ago. 
+asr:0: OUTPUT 209.23-217.72: Even with our ramp-up, there was nearly a million dollars in shipments we didn't fulfill. We balanced customer requirements to make sure the most critical deliveries were covered. 
+asr:0: OUTPUT 219.08-223.46: Now the business implication is that the industry launches we expected are well underway. 
+asr:0: OUTPUT 224.44-227.63: The mass market adoption of RFID-integrated products is happening. 
+asr:0: OUTPUT 228.39-238.06: Our major customers are incorporated RFID devices into healthcare products, mobility, consumer products, appliances, libraries, pharmaceuticals, and app enabling the physical world. 
+asr:0: OUTPUT 239.46-246.89: The point is that each of these are 100 million or billion plus unit applications. It's a huge market that's just beginning to grow. 
+asr:0: OUTPUT 248.07-250.91: The overall trend clearly showed in our third quarter results. 
+asr:0: OUTPUT 251.03-259.64: As well as in the continuing backlog strength, where we went into the fourth quarter with backlog for fourth quarter shipments up 68% over last year. 
+asr:0: OUTPUT 260.70-264.28: Now we'll talk about the implications going forward of all these trends later on the call. 
+asr:0: OUTPUT 266.15-272.45: Also within identity in the third quarter, our identity readers grew strongly, up 38% over last year's third quarter. 
+asr:0: OUTPUT 273.53-280.36: Now we all expected the work from home trend to plateau after the initial lockdowns in the spring, but this really shows that demand is continuing. 
+asr:0: OUTPUT 281.10-287.97: The third quarter is always strong for SmartGuard readers because of the February year end. So the growth comes over a normally strong year prior period. 
+asr:0: OUTPUT 289.23-296.74: The reason is that the federal government, and especially the DOD, are adopting policies supporting work from home and work mobile for the long term. 
+asr:0: OUTPUT 297.64-302.16: So we do expect these trends to sustain. We'll talk more about them as we look at 2021. 
+asr:0: OUTPUT 303.74-310.81: So turning to our premises business in Q3, this showed the strength of our full product range as well as of our federal government focus. 
+asr:0: OUTPUT 311.73-314.81: As I mentioned before, premises grew 26% sequentially. 
+asr:0: OUTPUT 315.56-324.94: The federal business for our Velocity security platform was the strongest vertical, growing 90% sequentially. But we also saw activity in banking, retail, utilities, and others. 
+asr:0: OUTPUT 326.15-333.93: For example, in financial services, we quoted our first large 3DR prime managed video services order, which is now closed. 
+asr:0: OUTPUT 334.85-338.22: Of leading banks adopting our platform across almost 100 branches. 
+asr:0: OUTPUT 339.12-344.60: The six-year, $650,000 agreement provides video surveillance, analytics, and case management. 
+asr:0: OUTPUT 344.62-349.61: On a subscription basis, spending tens of thousands of dollars in capital expense for a customer. 
+asr:0: OUTPUT 349.65-354.99: And assuring a predictable revenue stream of over $100,000 annually for our business. 
+asr:0: OUTPUT 356.88-366.51: Now to be clear, we've had continuing strong business progress, but in our industry, some small dealers and small businesses are under pressure, as are our competitors who focus there. 
+asr:0: OUTPUT 367.51-372.85: Now since federal, state, and local government customers are more than two-thirds of the business for our physical access platforms,. 
+asr:0: OUTPUT 373.35-381.38: We're seeing strong performance in premises. And our quick pivot to recurring revenues with lower cost of entry has put us in a strong position overall. 
+asr:0: OUTPUT 382.32-389.37: These include our Velocity Series product, Mobulus ID, 3DR Prime, our Freedom Cloud, and Freedom Mobile, which we just launched this week. 
+asr:0: OUTPUT 390.45-394.13: All of these are recurring revenue products all launched in the last 12 months. 
+asr:0: OUTPUT 396.14-399.54: Now as we talked about in the second quarter, the broad adoption of RFID. 
+asr:0: OUTPUT 399.62-406.91: And our major customers' core products is what really gives us reason to believe this growth is a long-term trend that we're just starting to see take off. 
+asr:0: OUTPUT 407.79-410.79: It's building backlog for the fourth quarter and for 2021. 
+asr:0: OUTPUT 412.49-419.74: So overall the third quarter was highlighted by 30% sequential revenue growth, over 100% year-over-year RFID growth. 
+asr:0: OUTPUT 420.00-429.73: And 90% sequential growth in federal sales, 38% year-over-year identity reader growth, and Q4 backlog up 68% from last year. 
+asr:0: OUTPUT 430.81-437.38: There certainly are challenges in the economic environment we're all in, but the strong secular growth we're experiencing are at the ID. 
+asr:0: OUTPUT 437.40-441.50: Our strength in federal, work from home going into a second wave of demand. 
+asr:0: OUTPUT 441.66-448.83: And the products we've launched in the third quarter to take advantage of return to work needs and build the base for a strong fourth quarter and 2021. 
+asr:0: OUTPUT 450.25-453.47: So let me turn it over to Sandra to go through the third quarter financial results. 
+asr:0: OUTPUT 454.47-463.30: Afterwards I'll go into more metrics and the industry-wide trends that are really accelerating our business into the fourth quarter and into 2021. Sandra. 
+asr:0: OUTPUT 464.86-471.37: As Steve mentioned, our results show the continued delivery of what we committed with a solid trajectory for 2021. 
+asr:0: OUTPUT 471.91-478.44: Please note that these results are all within the preliminary results announced October 29th prior to market open. 
+asr:0: OUTPUT 479.26-480.90: The first metric is revenue growth. 
+asr:0: OUTPUT 481.22-483.96: Even with the continued impact of COVID-19. 
+asr:0: OUTPUT 484.22-489.97: We closed out the third quarter of 2020 with $24.9 million in total revenue. 
+asr:0: OUTPUT 490.01-497.38: Up 30% compared to the second quarter of 2020, and up 8% compared to the third quarter of 2019. 
+asr:0: OUTPUT 498.12-506.19: Our recurring revenue accounted for 6% of our third quarter revenue and 8% of our total revenue in the first nine months of 2020. 
+asr:0: OUTPUT 506.93-511.79: This part of our business remains steady at 8% of our total trailing 12-month revenue. 
+asr:0: OUTPUT 512.79-520.14: For the third quarter of 2020, our GAAP and non-GAAP adjusted gross profit margins were 40 and 41 percent respectively. 
+asr:0: OUTPUT 520.86-526.49: For the trailing 12-month period, our non-gap-adjusted gross profit margin was 42%. 
+asr:0: OUTPUT 527.45-536.50: For the third quarter 2020, our non-GAP-adjusted EBITDA margin was positive 11%, with a positive 4% for the trailing 12-month period. 
+asr:0: OUTPUT 537.48-542.00: Our gap mid-income for the third quarter 2020 was $0.4 million. 
+asr:0: OUTPUT 542.02-551.65: Compared with a loss of $2.7 million in Q2 2020 and net income of $1.1 million in Q3 2019. 
+asr:0: OUTPUT 552.65-559.52: But the dividends on the Series B Preferred are GAAP net income attributable to stockholders for $0.1 million. 
+asr:0: OUTPUT 559.74-565.47: Or net income of one cent per share compared with a loss of 17 cents per share. 
+asr:0: OUTPUT 565.53-571.31: In Q2 2020 and positive five cents per share in Q3 of 2019. 
+asr:0: OUTPUT 572.17-580.58: We have provided in the appendix a full reconciliation of GAAP to non-GAAP information, which is also included in our earnings release. 
+asr:0: OUTPUT 581.70-585.15: On our next slide, further analyzing trends by segment. 
+asr:0: OUTPUT 586.41-599.08: Our premises segment, which includes sales of physical access control and video products and services, accounted for $9.4 million, or 38% of our total revenue in Q3. 
+asr:0: OUTPUT 599.10-602.80: Representing an increase in dollars of 26 percent. 
+asr:0: OUTPUT 602.82-609.13: From Q2 2020 and a decrease of 27% from Q3 2019. 
+asr:0: OUTPUT 609.97-618.06: Revenue from our identity products, which includes sales of access credentials, smart card readers, RFID transponders,. 
+asr:0: OUTPUT 618.08-626.17: And mobile security products totaled $15.4 million, or 62% of our total revenue in Q3 2020. 
+asr:0: OUTPUT 626.19-635.08: An increase of dollars of 33% from Q2 2020 and an increase of 53% from Q3 2019. 
+asr:0: OUTPUT 636.20-641.98: Our non-GAAP gross profit was 41% in the third quarter of 2020. 
+asr:0: OUTPUT 642.10-649.73: This compares with 42% in Q2 2020 and 47% in Q3 2019. 
+asr:0: OUTPUT 649.75-654.19: Driven by both the mix of products across segments and within segments. 
+asr:0: OUTPUT 655.12-657.94: Our premises segment margins were 55%. 
+asr:0: OUTPUT 658.32-666.53: Relatively flat compared to Q2 2020 and Q3 2019 at 55 and 56 percent respectively. 
+asr:0: OUTPUT 667.41-669.89: Our identity segment margins for 30%. 
+asr:0: OUTPUT 670.39-674.51: Relatively flat compared to Q2 2020 at 31%. 
+asr:0: OUTPUT 674.81-682.82: And lower than Q3 2019 at 33% due to a higher proportion of lower margin transponder sales. 
+asr:0: OUTPUT 683.82-692.45: Now moving to our operating expense management, our GAAP operating expenses for the third quarter were $8.9 million. 
+asr:0: OUTPUT 692.49-696.02: Which was down from 10 million in Q2 2020. 
+asr:0: OUTPUT 696.04-701.64: And down year over year from 9.3 million in Q3 2019. 
+asr:0: OUTPUT 702.18-709.73: The sequential decrease was primarily due to the non-recurring 1.2 million restructuring spent in Q2 2020. 
+asr:0: OUTPUT 710.57-717.88: Our non-GAAP operating expenses as a percentage of revenue decreased to 30% in the third quarter of 2020. 
+asr:0: OUTPUT 717.90-721.46: Compared with 40% in the second quarter of 2020. 
+asr:0: OUTPUT 722.04-725.67: And 34% in the third quarter of 2019. 
+asr:0: OUTPUT 726.75-732.47: Our non-GAAP operating expenses totaled $7.5 million in the third quarter of 2020. 
+asr:0: OUTPUT 732.49-737.36: This compares to 7.6 million in Q2 2020. 
+asr:0: OUTPUT 737.38-741.28: And $7.9 million in Q3 of 2019. 
+asr:0: OUTPUT 742.14-749.17: Bringing all the pieces back together, our non-gap adjusted EBITDA was $2.8 million in the third quarter of 2020. 
+asr:0: OUTPUT 749.53-753.97: A sequential increase of $2.3 million over Q2 2020. 
+asr:0: OUTPUT 755.40-759.78: Turning to the balance sheet, we'll be comparing our position at September 2020. 
+asr:0: OUTPUT 759.80-766.73: To the position one quarter ago, June 2020, and the prior year quarter ended September 2019. 
+asr:0: OUTPUT 767.81-776.80: We exited the third quarter with cash at $12.3 million, a net decrease of $0.8 million from Q2 2020. 
+asr:0: OUTPUT 776.82-780.94: And a 1.2 million increase from Q3 2019. 
+asr:0: OUTPUT 781.68-790.27: Net cash activity for the quarter was driven by $2.2 million of cash provided by our net income excluding non-cash items. 
+asr:0: OUTPUT 791.03-795.16: 3.6 million of cash used for working capital and CapEx. 
+asr:0: OUTPUT 795.18-803.64: Driven primarily by late Q3 billings that were not collectible within the quarter and by an increase in working capital to support our Singapore growth. 
+asr:0: OUTPUT 804.58-819.96: Under financing and foreign currency, we had a $0.6 million net cash provided, driven by a $0.9 million increase in net borrowings under our revolver and a $0.5 million reduction through scheduled payments on the term loan facility. 
+asr:0: OUTPUT 821.06-830.39: We believe that we have adequate capital available to fund our business growth and return to positive non-GAAP-free cash flow exiting Q4 2020. 
+asr:0: OUTPUT 830.41-835.84: As well as retiring the term and note debt on schedule in Q1 2021. 
+asr:0: OUTPUT 836.72-842.52: In our 10-Q filings, we will be providing a full reconciliation of the year-to-date cash flows. 
+asr:0: OUTPUT 842.54-847.77: For completeness, we have included the full balance sheet for the earnings release in the appendix. 
+asr:0: OUTPUT 849.75-857.72: Even with the global disruption continuing, today we are confirming our guidance for the consolidated results of the company for full year 2020. 
+asr:0: OUTPUT 857.96-860.86: At revenue between $86 and $88 million. 
+asr:0: OUTPUT 861.12-863.58: Within our original guidance entering this year. 
+asr:0: OUTPUT 864.24-869.85: We achieved GAAP EPS profitability in Q3 2020 ahead of expectations. 
+asr:0: OUTPUT 870.01-874.29: And continues to see the benefits of our actions to optimize costs carry forward. 
+asr:0: OUTPUT 874.98-881.96: In addition, we believe we will be non-GAAP-free cash flow positive as committed during Q4 2020 and beyond. 
+asr:0: OUTPUT 884.08-890.71: In addition, today we're providing guidance for the full year 2021, building on the strong base of growth that we have delivered. 
+asr:0: OUTPUT 891.19-897.16: Our full year 2021 guidance is for revenue between $96 and $102 million. 
+asr:0: OUTPUT 897.18-904.52: Which reflects growth year over year from the midpoint of our 2020 guidance, exceeding the market growth by a factor of two. 
+asr:0: OUTPUT 905.27-914.69: We expect our normal seasonality to continue with our lowest quarter in Q1 2021 and building up quarter over quarter through the end of 2021. 
+asr:0: OUTPUT 915.44-923.64: We will be issuing a full set of guidance at RQ4 in full year 2020, earnings release targeted for March 2021. 
+asr:0: OUTPUT 924.04-927.83: With that, I will conclude the financial discussion and pass it back to Steve. 
+asr:0: OUTPUT 929.87-935.24: Thanks, Sandra. As I said earlier, our RFID growth is predictable for two reasons. 
+asr:0: OUTPUT 935.88-942.22: It's heavily backlog driven and it's driven by major companies who've incorporated RRFID devices into their products. 
+asr:0: OUTPUT 943.30-948.97: Planning for global products is a year-long process, so even now we're getting visibility into plans throughout 2021. 
+asr:0: OUTPUT 950.41-958.08: First backlog, going into the fourth quarter, our total backlog stood at 10.5 million, up 68% from last year. 
+asr:0: OUTPUT 958.48-964.22: And our RFID backlog for shipment in the fourth quarter is up 125% over last year. 
+asr:0: OUTPUT 965.57-970.71: We've now gotten in orders for about 95% of our expected shipments for the quarter in RFID. 
+asr:0: OUTPUT 971.11-977.14: And that means most additional orders either contribute to upside within the quarter or drive more backlog for 2021. 
+asr:0: OUTPUT 978.42-980.68: This is a key driver of our growth for 2021. 
+asr:0: OUTPUT 981.26-989.23: And we expect the RFID portion of our business to grow well over 50% in the first half of 2021 versus the first half of 2020. 
+asr:0: OUTPUT 990.03-993.03: With full year growth in the mid-20% range for 2021. 
+asr:0: OUTPUT 994.91-1000.32: Now the core driver of our RFID business is the mass market adoption of RFID integrated products. 
+asr:0: OUTPUT 1001.44-1008.83: Our customers are leaders in their own industries, incorporating RFID devices into their products, each with volumes of tens or hundreds of millions of units. 
+asr:0: OUTPUT 1010.25-1012.55: So this is a huge market that's just beginning to grow. 
+asr:0: OUTPUT 1013.51-1019.18: In the third quarter, two strong use cases were launched in the market, one by CVS and the other, of course, by Apple. 
+asr:0: OUTPUT 1020.34-1024.34: Now, we don't generally disclose customers, so these are just industry examples, to be clear. 
+asr:0: OUTPUT 1025.27-1028.33: But both are great examples of the RFID market accelerating. 
+asr:0: OUTPUT 1029.03-1035.56: They're both basic uses that establish platforms to then drive multiple products from already big first launches. 
+asr:0: OUTPUT 1037.04-1042.98: So the first some of you saw in a demo session we had a couple of weeks back, CBS's SpokenRx for visually impaired people. 
+asr:0: OUTPUT 1043.82-1051.95: You tap your phone to the RFID tag on the prescription bottle and it reads out the medication with dosage and all the other information for people who can't read the label. 
+asr:0: OUTPUT 1053.05-1056.68: Now about 13% of prescriptions go to people with some visual impairment. 
+asr:0: OUTPUT 1057.04-1065.81: And there are about 4.5 billion prescriptions annually. So in the U.S. Alone, that's over half a billion RFID tags every year just for the visually impaired sector. 
+asr:0: OUTPUT 1066.95-1070.43: Now that's the current use case and the first use case. So now extrapolate. 
+asr:0: OUTPUT 1071.05-1080.64: With the platform deployed, every CVS pharmacy now is set up to program and put RFID tags on every prescription. And that's really where they should be on, every one. 
+asr:0: OUTPUT 1081.26-1084.40: So when you open your prescription bottle, you tap each time you take it. 
+asr:0: OUTPUT 1084.70-1092.77: You'll know if you've taken it morning or evening or whatever the prescription regimen is. It'll auto refill as you get low. There's all kinds of capabilities you can do there. 
+asr:0: OUTPUT 1093.15-1097.90: You can even opt in and your doctor could get information about how consistently you're taking your meds. 
+asr:0: OUTPUT 1098.28-1105.91: Because anyone who studies this area knows that the biggest issue with prescription pharmaceuticals is people complying with taking their meds. 
+asr:0: OUTPUT 1106.45-1115.18: So there's a number of things that companies like CVS are thinking about. Now that they've made that initial investment, they can really expand into other categories. 
+asr:0: OUTPUT 1115.54-1121.08: So ultimately we think the opportunity is for all 4.5 billion of the prescriptions in the U.S. Annually. 
+asr:0: OUTPUT 1121.84-1129.69: The U.S. Is about a quarter of the world prescription. So again, you can see for the visually impaired application, that's a couple of billion units worldwide. 
+asr:0: OUTPUT 1130.03-1133.05: And nearly 20 billion units for all prescriptions worldwide. 
+asr:0: OUTPUT 1133.93-1143.64: Now, of course, it's going to take time, but you can see the volume potential. And again, the investment's really now done. And of course, the reader and the app technology is already in everybody's pockets in their phones. 
+asr:0: OUTPUT 1145.49-1154.33: Now, related to the mobile space and the phones, the biggest event, of course, was Apple's launch of full NFC support in iOS 14 and the iPhone 12. 
+asr:0: OUTPUT 1154.95-1157.86: And especially the new ecosystem of products around night date. 
+asr:0: OUTPUT 1159.00-1166.69: So Apple's made it very easy and secure to connect peripherals to the iPhone, and then through NFC, to connect them into core iPhone features. 
+asr:0: OUTPUT 1167.31-1174.17: So just as a couple of examples, the first Apple branded cases, for example, you buy an orange case, you pop it on your phone. 
+asr:0: OUTPUT 1174.19-1181.20: The screen turns orange, it goes through an animation, you know you've connected it, and you know it's an Apple verified phone. 
+asr:0: OUTPUT 1181.30-1182.60: It seems pretty trivial. 
+asr:0: OUTPUT 1183.26-1194.27: But what it's showing is the peripherals are actually communicating securely with the phone, launching processes in the phone, and all secured and controlled by Apple through a secure NFC link. 
+asr:0: OUTPUT 1195.10-1201.92: And this enables a whole world of new peripherals to connect to the phone and seamlessly but securely launch apps and experiences. 
+asr:0: OUTPUT 1202.64-1207.47: So this is really the vision for this type of connected device that Apple's deploying. 
+asr:0: OUTPUT 1207.73-1216.80: And with over 200 million iPhones shipped a year, connecting multiple MagSafe-enabled devices each, again, you can see the market in the billion unit plus range annually. 
+asr:0: OUTPUT 1218.02-1224.94: Now additionally, of course, where Apple and CVS go, Samsung, Walgreens, Amazon Pharmacy, and others have to match. 
+asr:0: OUTPUT 1225.35-1229.59: So you can see the scale of the markets we're going after and the volumes that already are happening. 
+asr:0: OUTPUT 1231.17-1239.62: So RFID is gaining traction right now. We've been the trusted co-developer and supplier for some of the most advanced applications and the most demanding companies. 
+asr:0: OUTPUT 1240.58-1243.84: This is where the growth is and it's where our competitive advantage is strongest. 
+asr:0: OUTPUT 1245.03-1246.43: So how are we going to keep our advantage? 
+asr:0: OUTPUT 1247.49-1254.53: We're expanding our technical capabilities. And for 2021, we're launching services to help companies put RFID into their products. 
+asr:0: OUTPUT 1255.38-1258.00: And we're unique in our ability to go from concept. 
+asr:0: OUTPUT 1258.02-1267.63: To optimize design, to early production, to scaling production, and then to immediately start back into the next generation of devices. And this is exactly the cycle that the customers need. 
+asr:0: OUTPUT 1269.67-1274.05: We're also innovating with new products, answering needs we know from our own customers. 
+asr:0: OUTPUT 1274.69-1281.26: An example is a new product we've launched. What we think is the industry's lowest carbon footprint RFID tag, our EcoTag. 
+asr:0: OUTPUT 1282.42-1290.63: Instead of being an etched antenna on a plastic substrate, we've developed a unique laser cutting process and it's on recyclable paper substrate. 
+asr:0: OUTPUT 1291.09-1293.53: We even use recycled aluminum for the antenna. 
+asr:0: OUTPUT 1294.25-1298.50: So there's no etching chemicals, no lost metal, no plastic layers, no chemical runoff. 
+asr:0: OUTPUT 1299.92-1307.33: Now why do we do all this? Well, the biggest users of high-end RFID are consumer-facing companies, and sustainability matters to them. 
+asr:0: OUTPUT 1308.23-1312.67: Companies like Amazon and Apple have made public commitments to being carbon neutral. 
+asr:0: OUTPUT 1313.33-1322.36: And RFID tags are consumer visible devices, so our eco tag shows their eco commitment and eliminates what otherwise would be a negative on their carbon footprint. 
+asr:0: OUTPUT 1323.22-1327.67: Our customers told us this is what they want. It's very tricky technology, but we developed it. 
+asr:0: OUTPUT 1328.35-1333.31: And fundamentally, this is exactly why we're going to keep our lead in the fast-growing RFID market. 
+asr:0: OUTPUT 1335.30-1340.08: So that's RFID. Now let's look at premises, which has some similarly exciting opportunities. 
+asr:0: OUTPUT 1340.92-1350.51: And remember, the core technology in our RFID tag is shared with our access cards, door readers, identity readers, and other parts of our physical and data security solutions. 
+asr:0: OUTPUT 1350.97-1353.23: So one gross driver really supports the other. 
+asr:0: OUTPUT 1355.02-1361.00: So with the premises industry overall growing about 6%, we grew 26% sequentially. 
+asr:0: OUTPUT 1361.08-1365.23: And we're expecting premises to grow about 25% year over year this quarter. 
+asr:0: OUTPUT 1366.55-1370.55: For 2021 we expect growth in the mid-teens more than double the industry rate. 
+asr:0: OUTPUT 1371.37-1377.68: Now, the fundamental drivers are recurring revenue growth, the shift to IT-driven buyers, and federal growth. 
+asr:0: OUTPUT 1379.18-1382.08: So why would we be growing faster than the market in these dynamics? 
+asr:0: OUTPUT 1383.02-1389.35: Just like at RFID, we're both a trusted provider and we've got some of the most advanced technology and broadest product range. 
+asr:0: OUTPUT 1390.37-1399.34: As customers move to software-defined platforms, they need to migrate their entire platform across readers, credentials, controllers, access, video, and audio. 
+asr:0: OUTPUT 1400.00-1404.28: And it's all got to be integrated with their Active Directory or other sensitive data repositories. 
+asr:0: OUTPUT 1405.35-1407.67: Now, we're the only company that delivers all of this. 
+asr:0: OUTPUT 1408.35-1414.89: And we think total solutions and IT-centric recurring revenue platforms will be the fastest growth sector in physical security. 
+asr:0: OUTPUT 1415.38-1421.04: And the strategic position of combined access, video, and audio management is the key for anyone trying to win. 
+asr:0: OUTPUT 1422.72-1426.77: A great example of this is our Freedom Cloud platform that we just launched this week. 
+asr:0: OUTPUT 1427.55-1432.23: It's the lightest weight implementation in the industry. Totally web and mobile based. 
+asr:0: OUTPUT 1432.75-1438.74: And especially on the hardware side, our Freedom Bridges are extremely compact and cost-effective IoT devices. 
+asr:0: OUTPUT 1439.82-1444.00: A bridge that can control two doors is the size of a pack of playing cards. 
+asr:0: OUTPUT 1444.72-1453.27: And this is what customers are looking for, hardly noticeable, really intuitive to deploy and manage, and a platform that the IT department is totally comfortable owning and managing. 
+asr:0: OUTPUT 1454.15-1458.00: The software is browser-based, and the hardware is managed just like a network switch. 
+asr:0: OUTPUT 1459.82-1469.33: So we've described the growth in each segment. So to put it together, in the fourth quarter, we're expecting overall revenues to grow in the 25 to 30% year-over-year range. 
+asr:0: OUTPUT 1471.69-1481.58: So looking at the business drivers for next year, we have RFID use cases that each can be hundreds of millions of units over time and give us clear line of sight into 2021. 
+asr:0: OUTPUT 1482.96-1492.11: There's strong federal government demand for our physical security, identity readers, and mobility apps. And our complete range of recurring revenue products is now in place. 
+asr:0: OUTPUT 1493.67-1499.06: Now, with all these growth drivers, we could see faster growth in any given quarter, but to keep our predictability. 
+asr:0: OUTPUT 1499.14-1503.92: We've given a strong base growth outlook and will update as we get further into the market's takeoff. 
+asr:0: OUTPUT 1505.69-1512.89: So 2020 has been a challenging year, but we're in markets that are taking off and we've been able to strengthen our leadership even as they're accelerating. 
+asr:0: OUTPUT 1513.93-1518.36: The result is we're looking forward to a strong finish to the year and an exciting 2021. 
+asr:0: OUTPUT 1520.04-1524.18: So with that, let me open the discussion to questions. Operator? 
+asr:0: OUTPUT 1526.13-1533.75: Thank you. Ladies and gentlemen, we will now take questions. If you do have a question, please press star 1 on your telephone keypad at this time. 
+asr:0: OUTPUT 1534.35-1540.56: If you're using a speakerphone, we ask that while posing your question, you pick up your handset to provide the best sound quality. 
+asr:0: OUTPUT 1541.24-1547.63: Again, ladies and gentlemen, if you do have a question or comment, please press star 1 on your telephone keypad at this time. 
+asr:0: OUTPUT 1548.27-1553.25: We'll take our first question from Jason Smith with Lake Street Capital Markets. Please go ahead. 
+asr:0: OUTPUT 1554.71-1556.66: Hey guys, thanks for taking my questions. 
+asr:0: OUTPUT 1556.68-1566.13: Steve, appreciate all the color and sort of why you're feeling so confident in 2021, but curious if you could talk about the backlog coverage to. 
+asr:0: OUTPUT 1566.15-1567.57: 2021. 
+asr:0: OUTPUT 1567.81-1576.00: And if some of this confidence is really just driven by some sizable orders already in hand, or if it's just general confidence. 
+asr:0: OUTPUT 1576.04-1579.36: Especially on the RFID side that you are just seeing. 
+asr:0: OUTPUT 1579.38-1581.62: Going to see this big general adoption. 
+asr:0: OUTPUT 1583.54-1594.79: Yeah, thanks for the question, Jason. And yes, backlog has been growing nicely. I think we earlier indicated that at the time it was up, it was doubled from what it had been. 
+asr:0: OUTPUT 1594.81-1597.52: Just a couple of months earlier, and I mentioned that. 
+asr:0: OUTPUT 1597.56-1600.22: We've already got over 95%. 
+asr:0: OUTPUT 1600.26-1604.52: Of our Q4 shipments already covered in backlog, so all the orders coming in. 
+asr:0: OUTPUT 1604.60-1609.33: Are 2021 orders and we actually have orders that go throughout all of 2021. 
+asr:0: OUTPUT 1609.83-1613.65: So we've got good visibility both front-ended. 
+asr:0: OUTPUT 1613.71-1622.46: And as I said, we expected the first half of the year already to be 50 percent growth over the year prior. 
+asr:0: OUTPUT 1622.68-1627.67: And obviously, we wouldn't be saying that's clear numbers if we didn't have a fair amount of visibility in it. 
+asr:0: OUTPUT 1628.29-1630.27: And that's really driven by our backlog. 
+asr:0: OUTPUT 1633.25-1639.66: Okay, that's helpful. And in your prepared remarks, you noted about a million dollars in business. 
+asr:0: OUTPUT 1639.70-1644.84: Not being able to shift in Q3. Could you just comment on what sort of constraints? 
+asr:0: OUTPUT 1644.88-1649.03: You're seeing there and if those constraints have eased now in Q4. 
+asr:0: OUTPUT 1650.27-1653.19: Yeah, also thanks for picking up on that one. 
+asr:0: OUTPUT 1653.97-1662.90: Yes, as I mentioned in the second quarter call, we've been expanding our capacity rapidly. But when you look at doubling your capacity,. 
+asr:0: OUTPUT 1663.26-1666.53: And then we talked about in Q4, we've got a backlogged data. 
+asr:0: OUTPUT 1666.67-1673.41: The 125% is the year prior. That's indicating more than double where we were a year ago. 
+asr:0: OUTPUT 1674.17-1675.18: We're building out. 
+asr:0: OUTPUT 1676.28-1678.40: Space and we're putting in more equipment. 
+asr:0: OUTPUT 1679.58-1689.57: And some of the devices that we're producing are particularly complicated and high-end, which is great for us because it's more differentiated. 
+asr:0: OUTPUT 1690.33-1698.76: But they take more machine capacity because there's multiple processes and multiple passes versus some of the more straightforward products. 
+asr:0: OUTPUT 1699.18-1707.81: And those, of course, the more complicated products often go to the more sensitive and high-end customers. So we always want to favor those. 
+asr:0: OUTPUT 1707.97-1716.84: And so we did have some that we couldn't ship. We're catching up in this quarter and we'll have the capacity built out by the end of this quarter. 
+asr:0: OUTPUT 1717.08-1718.68: Again, we talk about building capacity. 
+asr:0: OUTPUT 1718.92-1724.86: You're talking, you know, 100, 150 grand in facilities, you know, build out. 
+asr:0: OUTPUT 1724.88-1730.29: And a few hundred thousand dollars in equipment. It's not a major capital absorption. 
+asr:0: OUTPUT 1731.15-1737.98: But we have been catching up through the third quarter and we'll be all caught up in a good shape going into 2021. 
+asr:0: OUTPUT 1740.14-1743.80: OK, and then just the last one, and I'll jump back into Q. 
+asr:0: OUTPUT 1744.26-1752.75: Obviously, the school and education market could be a little challenging with budgetary pressures and whatnot, but just curious if you could comment on. 
+asr:0: OUTPUT 1752.87-1756.36: What your expectations in that market are going forward. 
+asr:0: OUTPUT 1758.26-1765.97: It's choppy as you say, but it's also highly motivated for security. 
+asr:0: OUTPUT 1765.99-1774.77: We put out a white paper on remote schooling cybersecurity, for example, with our FIDO keys that we just launched. 
+asr:0: OUTPUT 1775.16-1780.00: One of the dirty secrets that a lot of people haven't focused on is. 
+asr:0: OUTPUT 1780.10-1784.16: We've taken all the kids in our country and put them online to go to school. 
+asr:0: OUTPUT 1784.56-1792.91: And if anyone thinks that we've actually properly secured their data pipes for their learning, they're being a little optimistic. 
+asr:0: OUTPUT 1793.35-1801.00: And so there's opportunities there, for example, to cyber secure more of the distance learning environment. 
+asr:0: OUTPUT 1801.44-1804.50: And there's also, as we go back to school,. 
+asr:0: OUTPUT 1804.92-1813.05: Physical security is as important as ever, and especially physical security infrastructure is now being integrated with health and safety infrastructure. 
+asr:0: OUTPUT 1813.49-1817.42: So there's opportunities there. We're seeing a lot of interest in big. 
+asr:0: OUTPUT 1817.90-1827.63: But also, you know, schools are in financial, you know, challenges. And so some of them are going ahead, you know, fast. And some of them are really, frankly, hunkered down. 
+asr:0: OUTPUT 1828.11-1833.23: So, I don't know on a month-by-month basis how it's going to emerge. 
+asr:0: OUTPUT 1833.35-1842.28: But from a market opportunity, you know, over the course of the next year, I actually think schools and universities are going to be a very good segment for us. 
+asr:0: OUTPUT 1842.58-1849.89: Both on the cybersecurity side and on the health and safety physical security side. Okay, that's really helpful. Thanks. 
+asr:0: OUTPUT 1852.31-1858.66: As a reminder, ladies and gentlemen, if you do have a question or comment, please press star 1 on your telephone keypad at this time. 
+asr:0: OUTPUT 1859.14-1864.04: We'll take our next question from Mike Latimore with Northland Capital Markets. Please go ahead. 
+asr:0: OUTPUT 1865.31-1866.77: Great, thanks a lot. Yeah, great quarter there. 
+asr:0: OUTPUT 1868.89-1875.92: Steve, I couldn't tell, did you give some guidance on what you thought premises would grow in the fourth quarter? I couldn't tell if you said that or not. 
+asr:0: OUTPUT 1878.18-1887.07: Specifically for premises in the fourth quarter, I don't know that we've got to go back and look at that. 
+asr:0: OUTPUT 1887.63-1896.94: I know that... No, we did. We did. I'm sorry. I'm looking at my notes here. We said about 25% year over year for the fourth quarter. 
+asr:0: OUTPUT 1899.32-1907.31: Up sequentially and is that driven by non-government or is that government driving that sequential pattern? 
+asr:0: OUTPUT 1908.55-1916.52: Yeah, good question. It's across the board. And yeah, you split government and non-government. That's on the growth. 
+asr:0: OUTPUT 1916.82-1924.08: As I think about underneath the numbers, it's probably more commercial than government in terms of increases sequentially. 
+asr:0: OUTPUT 1927.63-1933.91: We have seen a rebound in activity on the premises side. 
+asr:0: OUTPUT 1934.19-1937.14: You can only defer these things so long in MDOT. 
+asr:0: OUTPUT 1937.50-1942.86: And now a lot of the installers and others are getting out there, getting back in line, and also customers. 
+asr:0: OUTPUT 1942.98-1951.93: You know, things like video systems where Microsoft stops supporting, you know, Windows 7 or something, they have to do something. 
+asr:0: OUTPUT 1952.21-1959.08: So there's a built-in migration and growth pattern that we're starting to see come back. 
+asr:0: OUTPUT 1960.32-1961.42: Yeah, yeah, I got it. 
+asr:0: OUTPUT 1962.60-1969.11: And then on the identity, it seems like a ton of opportunity there. 
+asr:0: OUTPUT 1969.13-1972.95: How diverse do you see that revenue stream being? 
+asr:0: OUTPUT 1973.21-1981.00: In terms of customer base over the next year. Is it going to be very diverse or is it going to be a couple big customers really driving the growth? 
+asr:0: OUTPUT 1983.00-1985.49: Are you asking primarily about RFID and identity? 
+asr:0: OUTPUT 1986.41-1990.09: Yes. So actually I think it's going to be quite diverse. 
+asr:0: OUTPUT 1990.35-1996.66: It is certainly when some of these global corporations launch their numbers are big. 
+asr:0: OUTPUT 1997.12-2006.03: But there's several of them that are either already launching or in pilot and building in the launch for 2021. 
+asr:0: OUTPUT 2006.47-2012.95: And you might have noticed we didn't have any, you know, 10% concentration customers disclosed. 
+asr:0: OUTPUT 2013.63-2018.68: But certainly some guerrillas, but a range of them. 
+asr:0: OUTPUT 2019.02-2027.97: And the other interesting thing is the range of applications that are not just in one vertical either. There's several different use cases that are. 
+asr:0: OUTPUT 2028.19-2029.97: Better getting my message. 
+asr:0: OUTPUT 2032.65-2036.78: And then you have a number of cloud offerings now. 
+asr:0: OUTPUT 2037.48-2041.56: I'm sure you're going to be promoting that even more aggressively next year. 
+asr:0: OUTPUT 2042.00-2047.91: I mean, what would be, when you book a CLAC, you don't always show up within the quarter a year, obviously. 
+asr:0: OUTPUT 2048.11-2057.86: What would be sort of a good amount of cloud bookings for next year if you're successful? Is it a million dollars? Is it five million? Like what would be a successful cloud booking of the year? 
+asr:0: OUTPUT 2060.58-2069.91: I think we're just learning what the profile looks like, but I think the six-year, $650,000. 
+asr:0: OUTPUT 2069.93-2074.81: The advanced installation that we did is. 
+asr:0: OUTPUT 2074.83-2077.26: On the high end, but it's characteristic of how these things work. 
+asr:0: OUTPUT 2077.62-2081.18: So if you mean how much we recognize within the year. 
+asr:0: OUTPUT 2081.20-2088.73: Probably a couple of few million dollars incremental to the 68% we're already at. 
+asr:0: OUTPUT 2089.15-2097.46: But that would represent, of course, five to six times that much in terms of book business. 
+asr:0: OUTPUT 2102.82-2106.31: At this time, this concludes our company's question and answer session. 
+asr:0: OUTPUT 2106.49-2111.65: If your question was not taken, you may contact Identity and Investor Relations team. 
+asr:0: OUTPUT 2111.67-2116.68: At inve at gatewayir.com. 
+asr:0: OUTPUT 2117.34-2120.70: I'd now like to turn the call back over to Mr. Humphreys for his closing remarks. 
+asr:0: OUTPUT 2122.06-2126.29: All right, and operator, just want to confirm we don't have any other questions in there, that's right? 
+asr:0: OUTPUT 2127.17-2128.93: No further questions in the queue at this time. 
+asr:0: OUTPUT 2129.59-2131.59: Terrific. All right. Thank you very much. 
+asr:0: OUTPUT 2132.35-2138.98: Thank you all for joining us. Very much appreciate it. Also, please join us at some of the virtual investor events coming up this quarter. 
+asr:0: OUTPUT 2139.98-2149.45: We've got Imperial Capital the first week in December and Northland the week after that. So, look forward to continuing to update you on the business. 
+asr:0: OUTPUT 2149.59-2153.83: And until then, best wishes, be well, be safe, and have a good evening. Thank you. 
+asr:0: OUTPUT 2155.40-2162.57: Ladies and gentlemen, this does conclude today's teleconference. We thank you again for your participation. You may disconnect your lines at this time. Have a great day. 
+asr:0: END

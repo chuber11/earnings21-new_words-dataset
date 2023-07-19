@@ -1,0 +1,550 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 8.69-12.33: Good morning ladies and gentlemen. Welcome to the second quarter. 
+asr:0: OUTPUT 12.37-14.53: This is a teleconference for travelers. 
+asr:0: OUTPUT 15.04-24.04: We ask that you hold all questions until the completion of formal remarks, at which time you will be given instructions for the question and answer session. 
+asr:0: OUTPUT 24.60-29.61: As a reminder, this conference is being recorded on July 23, 2020. 
+asr:0: OUTPUT 30.05-38.60: At this time, I would like to turn the conference over to Ms. Abby Goldstein, Senior Vice President of Investor Relations. Ms. Goldstein, please go ahead. 
+asr:0: OUTPUT 39.78-46.13: Thank you. Good morning and welcome to Travelers' discussion of our second quarter 2020 results. 
+asr:0: OUTPUT 46.85-51.71: We released our press release, financial statement and webcast presentation earlier this morning. 
+asr:0: OUTPUT 52.17-58.02: All of these materials can be found on our website at travelers.com under the investor section. 
+asr:0: OUTPUT 58.92-64.60: Today will be Alan Schnitzer, Chairman and CEO, Dan Fry, Chief Financial Officer, and. 
+asr:0: OUTPUT 64.62-73.31: And our three segment presidents, Greg Teslowski of business insurance, Tom Kunkel of bond and specialty insurance, and Michael Klein of personal insurance. 
+asr:0: OUTPUT 73.83-83.62: They will discuss the financial results of our business and the current market environment. They will refer to the webcast presentation as they go through prepared remarks and then we will take questions. 
+asr:0: OUTPUT 84.86-91.77: Before I turn the call over to Alan, I'd like to draw your attention to the explanatory note included at the end of the webcast presentation. 
+asr:0: OUTPUT 92.23-95.12: Our presentation today includes forward-looking statements. 
+asr:0: OUTPUT 95.52-103.12: The company cautions investors that any forward-looking statement involves risks and uncertainties and is not a guarantee of future performance. 
+asr:0: OUTPUT 103.68-111.11: Actual results may differ materially from those expressed or implied in the forward-looking statement due to a variety of factors. 
+asr:0: OUTPUT 111.61-120.16: These factors are described under forward-looking statements in our earnings press release and in our most recent 10-Q and 10-K filed with the SEC. 
+asr:0: OUTPUT 120.70-124.66: We do not undertake any obligation to update forward-looking statements. 
+asr:0: OUTPUT 125.79-131.03: Also in our remarks or responses to questions, we may mention some non-GAAP financial measures. 
+asr:0: OUTPUT 131.39-139.88: Reconciliations are included in our recent earnings press release, financial supplement, and other materials available in the investor section on our website. 
+asr:0: OUTPUT 140.26-143.12: And now I'd like to turn the call over to Alan Schnitzer. 
+asr:0: OUTPUT 144.76-147.47: Thank you, Abby. Good morning, everyone, and thank you for joining us today. 
+asr:0: OUTPUT 148.59-156.62: As we shared in our pre-release last week and again this morning, we reported a small net loss for the quarter due to a high level of catastrophe losses. 
+asr:0: OUTPUT 156.88-161.24: And as we expected, a loss in our non-fixed income investment portfolio. 
+asr:0: OUTPUT 162.22-164.24: Dan will have more to say about both shortly. 
+asr:0: OUTPUT 165.83-174.33: Our underlying underwriting income of $572 million pre-tax is up $254 million over the prior year quarter. 
+asr:0: OUTPUT 174.45-183.58: Benefiting from solid net earned premium and a 3.5 point improvement in the underlying combined ratio to a strong 91.4%. 
+asr:0: OUTPUT 185.63-190.63: The pandemic and related economic conditions have only a modest net impact on our underwriting results. 
+asr:0: OUTPUT 191.87-199.76: As I shared in my prepared remarks last quarter, there will be COVID-19-related loss activity, but there will be some offsetting decline in losses. 
+asr:0: OUTPUT 199.78-203.10: Due to people across the country sheltering in place. 
+asr:0: OUTPUT 204.02-215.22: For us in the quarter, $114 million of direct losses and $63 million of audit premium adjustments were about offset by initial estimates of favorable loss activity. 
+asr:0: OUTPUT 215.88-217.60: Most of which is in short tail line. 
+asr:0: OUTPUT 219.00-226.81: Given the continued uncertainty, we've taken a cautious approach to recognizing the net impact of COVID-19 related loss. 
+asr:0: OUTPUT 228.91-234.87: Some industry observers have speculated about the aggregate level of insured and investment losses arising out of the pandemic. 
+asr:0: OUTPUT 235.80-240.62: We don't doubt the losses will be significant, but they won't be borne evenly across insurers. 
+asr:0: OUTPUT 242.24-250.17: Our manageable COVID-related insurance losses so far this year are a reflection of our disciplined approach to risk selection, as well as terms and conditions. 
+asr:0: OUTPUT 251.11-257.82: And as we shared with you in some detail last quarter, we manage our investment portfolio with a similar regard for balancing risk and reward. 
+asr:0: OUTPUT 260.04-269.33: Last quarter, I commented on the potential future impacts the pandemic might have on each of our key lines of business. I'll review that again with a quarter's worth of experience. 
+asr:0: OUTPUT 271.75-279.12: In personal auto, we've seen a meaningful drop off in auto frequency, although that is moderating as economic activity picks up. 
+asr:0: OUTPUT 280.28-287.19: At the same time, we've taken into consideration the potential for some offsetting impact in terms of auto severity. 
+asr:0: OUTPUT 287.21-291.93: Due to factors such as collisions occurring at higher speeds and driver distractions. 
+asr:0: OUTPUT 294.21-303.60: In workers' compensation, COVID-related claims mostly relate to health care workers and first responders, but do not represent a significant part of our business. 
+asr:0: OUTPUT 304.88-311.81: Also, the frequency of those claims stabilized during the quarter, which might be attributed to an improved supply of PPE. 
+asr:0: OUTPUT 311.83-317.26: And the healthcare community having the benefit of more experience with managing COVID patients. 
+asr:0: OUTPUT 319.26-329.11: More broadly, beyond the healthcare sector, data from some of the state workers' comp systems suggests that the COVID-related claim rate is low relative to the infection rate. 
+asr:0: OUTPUT 330.39-338.34: That's likely partly attributable to the fact that the population most seriously affected by COVID-19 skews older and is not in the workforce. 
+asr:0: OUTPUT 340.26-347.65: Nonetheless, in developing our loss estimates, we've taken into consideration the potential for the delayed reporting of claims. 
+asr:0: OUTPUT 347.67-356.32: And additional claim activity associated with recent spikes in infection rates, as well as uncertainty related to the longer-term implications of the disease. 
+asr:0: OUTPUT 358.74-366.59: As we anticipated, some states have effectively expanded the scope of workers' comp coverage by creating presumptions of compensability. 
+asr:0: OUTPUT 367.95-375.94: In most cases, states have taken a thoughtful approach, protecting workers appropriately, but not unreasonably burdening the workers' compensation system. 
+asr:0: OUTPUT 377.24-381.34: For states have acted to expand compensability, we've adjusted our loss estimates accordingly. 
+asr:0: OUTPUT 383.68-390.69: In terms of non-COVID workers' comp losses, we've seen a lower volume of workers' comp claims as workers have stayed home. 
+asr:0: OUTPUT 392.03-394.51: This will update as people get back to the workplace. 
+asr:0: OUTPUT 395.86-398.02: In addition to taking that into account. 
+asr:0: OUTPUT 398.04-406.01: We have contemplated that severity could be adversely affected by injured workers delaying treatment due to the stay-at-home work environment. 
+asr:0: OUTPUT 407.61-415.14: Having said all that, our experience is that there's a low level of workers' comp claim activity associated with economic recession. 
+asr:0: OUTPUT 416.32-424.04: During periods of elevated unemployment, workers tend to be more motivated to stay at their jobs and the workforce tends to be more ceaseless. 
+asr:0: OUTPUT 426.57-436.02: In management liability, as we expected, we are seeing elevated level of claim activity, typically associated with stock market volatility and workforce reduction. 
+asr:0: OUTPUT 437.38-442.26: The underlying combined ratio this quarter and bonded specialty reflects that as well as other loss activity. 
+asr:0: OUTPUT 442.98-449.35: And we expect that the underlying combined ratio will continue to be elevated at this level or somewhat higher over the near term. 
+asr:0: OUTPUT 450.29-459.24: This is not unlike the experience we had in the aftermath of the financial crisis a decade ago. Nonetheless, we expect the return from this segment will continue to be healthy. 
+asr:0: OUTPUT 461.46-466.99: Turning to the surety business, we've been pleased to see that work is continuing on the vast majority of construction projects. 
+asr:0: OUTPUT 467.99-473.27: However, the depth and duration of stress in the economy continues to be risk factors of the surety business. 
+asr:0: OUTPUT 474.57-479.12: The line will also be impacted by other factors, such as the financial strength of the bonded firm. 
+asr:0: OUTPUT 481.48-488.55: As I shared last quarter, our high-quality surety book was effectively stress tested in the 2008 financial crisis and performed well. 
+asr:0: OUTPUT 489.31-492.11: And our underwriting approach has remained disciplined since that time. 
+asr:0: OUTPUT 493.49-498.94: In that regard, so far we haven't seen anything that has caused us to change our surety loss estimates. 
+asr:0: OUTPUT 501.42-508.39: In terms of business interruption coverages under commercial property policies, there's a fair amount of litigation challenging coverage. 
+asr:0: OUTPUT 509.63-517.20: As a reminder, our commercial property insurance policies that include business interruption, including as a result of civil authority,. 
+asr:0: OUTPUT 517.22-522.98: Require losses to be caused by direct fiscal damage to property from a covered cause of loss. 
+asr:0: OUTPUT 524.30-531.27: In addition, our standard policy forms specifically exclude loss or damage caused by or resulting from a virus. 
+asr:0: OUTPUT 532.73-541.00: The few court decisions we've seen so far, one in New York and one in Michigan, have both upheld physical damage requirements in the context of COVID-19. 
+asr:0: OUTPUT 543.36-549.99: On the legislative front, efforts to retroactively expand coverage for business interruptions seem to be diminishing. 
+asr:0: OUTPUT 551.71-560.76: Finally, with respect to liability coverages, as people shelter in place, we are seeing fewer commercial auto accidents and slip and fall type claims. 
+asr:0: OUTPUT 562.10-570.53: Anecdotally, we are also seeing some movement by the plaintiff's bar to sub a claim faster, but it's too soon to know how significant that benefit might be. 
+asr:0: OUTPUT 572.13-581.66: We're also encouraged by states that have adopted COVID-related liability protections and similar efforts that are underway in other states and at the federal level. 
+asr:0: OUTPUT 581.86-585.37: We shouldn't let frivolous lawsuits undermine the nation's recovery. 
+asr:0: OUTPUT 586.49-589.37: Nonetheless, we expect the plant as far to continue to be active. 
+asr:0: OUTPUT 591.79-595.16: Turning to the quarter on the top line, we're very pleased with our production results. 
+asr:0: OUTPUT 596.70-609.05: Including the auto premium refunds we provided to our customers, net written premium grew by 2% as the impact of COVID-19 on insured exposures was more than offset by strong renewal rate change in all three sectors. 
+asr:0: OUTPUT 611.11-620.96: In business insurance, we achieved renewal rate change of 7.4%, the highest level since 2013 and close to the record level we achieved that year. 
+asr:0: OUTPUT 622.14-629.15: Excluding workers' comp, renewal rate change was double digits. Importantly, retention levels remained strong. 
+asr:0: OUTPUT 630.87-635.30: In bond and specialty insurance, net written premiums increase by 3%. 
+asr:0: OUTPUT 635.32-641.14: As our domestic management liability business achieved record renewal rate change while maintaining strong retention. 
+asr:0: OUTPUT 643.22-650.23: In personal insurance, excluding the other premium refunds, net written premiums increased by 6%. 
+asr:0: OUTPUT 650.61-654.55: Driven by strong retention and new business in both agency audio and agency homeowner. 
+asr:0: OUTPUT 656.18-664.14: In our agency homeowner's business, renewal premium change remains strong at 7.7% and we hit a record for new business. 
+asr:0: OUTPUT 666.25-668.97: Let me take a minute to comment on the commercial rate environment. 
+asr:0: OUTPUT 670.23-680.00: Before the pandemic struck, there were a number of industry-wide factors putting upward pressure on prices, namely increased volatility of weather-related losses,. 
+asr:0: OUTPUT 680.64-686.17: Interest rates at historical lows and a growing recognition of higher loss trend in the liability line. 
+asr:0: OUTPUT 687.49-694.15: All of those conditions persist. And now, at another quarter with a very high level of weather-related losses,. 
+asr:0: OUTPUT 695.10-703.28: Interest rates that are likely to be lower for longer, and while it hasn't been a significant factor for us, a reinsurance market that is hard. 
+asr:0: OUTPUT 705.09-711.49: And on top of that, the pandemic and related economic fallout add a sense of incremental uncertainty. 
+asr:0: OUTPUT 711.51-719.08: Making this deal like one of those times, not unlike in the wake of 9-11 and Hurricane Katrina, when the market recalibrates risk. 
+asr:0: OUTPUT 720.12-727.13: With that as the background, we'll continue to seek rate gains and manage other levers of profitability to improve the outlook for return. 
+asr:0: OUTPUT 729.37-738.62: I'll close by saying that I couldn't be more grateful to my travelers colleagues for their grit and commitment to taking care of our customers, our business partners, our communities, and each other. 
+asr:0: OUTPUT 739.88-743.98: Also, the work they've done in recent years to advance our innovation agenda. 
+asr:0: OUTPUT 744.00-750.21: Has equipped us with state-of-the-art digital tools and other capabilities that make all the difference in this environment. 
+asr:0: OUTPUT 750.95-752.03: We were well prepared. 
+asr:0: OUTPUT 753.13-755.05: And from here, we're well positioned. 
+asr:0: OUTPUT 756.08-763.26: Free from financial and operational distractions, we'll continue uninterrupted managing our business and investing for long-term success. 
+asr:0: OUTPUT 764.30-772.93: In short, we're confident in our ability to continue to succeed through these uncertain times and to benefit from the strength of our franchise as the economy recovers. 
+asr:0: OUTPUT 773.63-775.44: And with that, I'll turn the call over to Dan. 
+asr:0: OUTPUT 777.38-784.20: Thank you, Alan. Our core loss for the second quarter was $50 million compared to core income. 
+asr:0: OUTPUT 784.22-787.57: Of $537 million in the prior year quarter. 
+asr:0: OUTPUT 788.59-795.08: The change resulted primarily from a higher level of catastrophe losses and, as expected, lower net investment income. 
+asr:0: OUTPUT 796.22-802.08: The quarter, the net impact related to COVID-19 is included in our underlying results. 
+asr:0: OUTPUT 802.18-806.61: Not as part of our cat figure and was modest. More on that in a minute. 
+asr:0: OUTPUT 807.89-817.40: Our second quarter results include $854 million of pre-tax cat losses compared to only $367 million in last year's second quarter. 
+asr:0: OUTPUT 818.50-826.43: This quarter's casualties include severe storms in several regions of the United States, as well as $91 million of losses related to civil unrest. 
+asr:0: OUTPUT 827.43-830.77: Regarding our property aggregate catastrophe XOL treaty for. 
+asr:0: OUTPUT 831.01-832.03: 2020. 
+asr:0: OUTPUT 832.07-841.52: As of June 30th, we have accumulated about $1.4 billion of qualifying losses toward the aggregate retention of $1.55 billion. 
+asr:0: OUTPUT 842.10-851.21: The treaty provides aggregate coverage of $280 million, part of $500 million of losses, above that $1.55 billion retention. 
+asr:0: OUTPUT 852.49-858.20: The underlying combined ratio of 91.4% which excludes the impacts of cats and PYD. 
+asr:0: OUTPUT 858.22-863.28: Improved by 3.5 points compared to 94.9% in last year's second quarter. 
+asr:0: OUTPUT 864.44-871.41: The underlying loss ratio improved by more than four points and benefited from a lower level of non-cat weather losses. 
+asr:0: OUTPUT 871.43-880.94: Favorable frequency and personal auto from the shelter-in-place environment, net of related premium refunds, and the impact of earned pricing and excess of loss trend. 
+asr:0: OUTPUT 882.32-888.31: The expense ratio of 31% is 8 tenths of a point higher than the prior year quarter and above our recent run rate. 
+asr:0: OUTPUT 889.15-899.06: This change was as expected due to the reduction in premiums associated with the pandemic's impact on the economy, along with the premium refunds to our personal auto customers. 
+asr:0: OUTPUT 899.96-906.45: The net impact of COVID-19 and its related effects on the economy were modest in terms of our overall second quarter underwriting. 
+asr:0: OUTPUT 907.91-909.31: Top line was resilient. 
+asr:0: OUTPUT 910.05-915.16: Excluding the premium refunds and personal insurance, net written premiums increased by 2%. 
+asr:0: OUTPUT 915.18-920.62: Driven by strong renewal rate change in all three segments that more than offset lower insured exposures. 
+asr:0: OUTPUT 921.64-929.47: In terms of operating expenses, results were adversely impacted by modest increases in the allowance for bad debt and the accrual for supplemental commissions. 
+asr:0: OUTPUT 930.55-933.39: Those expense increases, however,. 
+asr:0: OUTPUT 933.43-941.48: Were roughly offset by lower expenses in other categories. For example, travel costs were down as our employees continued to work primarily from home. 
+asr:0: OUTPUT 942.90-947.35: The economic impacts related to COVID-19 also affected our underlying losses. 
+asr:0: OUTPUT 948.01-954.15: For example, losses directly related to COVID-19 totaled $114 million. 
+asr:0: OUTPUT 954.17-960.06: Primarily workers' comp and business insurance and management liability losses in our bond and specialty business. 
+asr:0: OUTPUT 960.86-968.01: On the other hand, we experienced significant reductions in auto claims as there were fewer cars on the road during the second quarter. 
+asr:0: OUTPUT 968.03-975.06: And to a lesser degree, recognized the benefit reflecting fewer traditional workers' comp claims as more people work from home. 
+asr:0: OUTPUT 976.00-984.26: As you heard from Alan, given the uncertainty in the current environment, we took a cautious approach in estimating the net impact of COVID-related losses. 
+asr:0: OUTPUT 985.45-993.27: We have recorded the estimated costs for all losses incurred through June 30th, including incurred losses for which claims have not yet been reported. 
+asr:0: OUTPUT 994.27-997.20: All losses have been recorded at our estimate of ultimate. 
+asr:0: OUTPUT 997.64-1005.67: And the majority of the COVID-19 related insurance losses we have booked in the first and second quarters are still sitting in our IVNR reserves. 
+asr:0: OUTPUT 1006.61-1014.85: We have not recognized losses or benefits from COVID-19 related insured events that we anticipate will occur subsequent to the end of the quarter. 
+asr:0: OUTPUT 1016.10-1018.54: Taking a step back on a year-to-date basis. 
+asr:0: OUTPUT 1018.70-1028.69: The impact on our results, excluding that investment income from COVID-19 and its related effects, is a net charge of about $50 million pre-tax. 
+asr:0: OUTPUT 1030.19-1037.76: Returning to prior year reserve development, in personal insurance, both auto and property losses came in better than expected for multiple accident years. 
+asr:0: OUTPUT 1038.58-1046.53: In bond and specialty insurance, we saw larger losses than expected in management liability, resulting in prior year strengthening of $33 million. 
+asr:0: OUTPUT 1046.91-1050.05: Largely offsetting the favorable development in personal insurance. 
+asr:0: OUTPUT 1051.11-1059.16: Business insurance there was no net priority at reserve development, has better than expected loss experience in workers' comp and commercial property,. 
+asr:0: OUTPUT 1059.18-1063.40: Was largely offset by unfavorable results in our other casualty lines. 
+asr:0: OUTPUT 1064.14-1068.29: Each of the movements this quarter was relatively small compared to the reserve pace. 
+asr:0: OUTPUT 1069.69-1072.29: As you saw in our July 14 press release. 
+asr:0: OUTPUT 1072.33-1083.42: We expect to record subrogation benefits in our third quarter PYD of approximately $400 million pre-tax related to PG&E's successful emergence from bankruptcy on July 1st. 
+asr:0: OUTPUT 1084.42-1089.59: As a reminder, third quarter PYD will also include the results of our annual asbestos review. 
+asr:0: OUTPUT 1091.77-1098.36: After tax, net investment income decreased by 54% from the prior year quarter to $251 million. 
+asr:0: OUTPUT 1098.92-1102.08: Somewhat better result than we had previewed in our call last quarter. 
+asr:0: OUTPUT 1103.20-1113.01: The decrease was driven by our non-fixed income returns where results for our private equity, hedge fund and real estate partnerships are generally reported to us on a one-quarter lag. 
+asr:0: OUTPUT 1113.81-1122.24: Accordingly, the impact of the disruption in global financial markets that occurred in the latter half of the first quarter impacted our second quarter results. 
+asr:0: OUTPUT 1123.28-1131.49: As the broader markets have recovered in the second quarter, that should, at least to some extent, benefit our non-fixed income results in the third quarter. 
+asr:0: OUTPUT 1132.85-1140.02: It's worth mentioning here that recoveries may not be reflected in the private equity and hedge fund results as quickly as the downturns were. 
+asr:0: OUTPUT 1141.04-1147.51: Given continued economic uncertainty, fund managers who report their results to us may take a more measured approach. 
+asr:0: OUTPUT 1147.53-1151.57: Not be as quick to write back up the valuations they just marked down. 
+asr:0: OUTPUT 1152.21-1159.04: Particularly in light of what may be continued challenging prospects for the earnings and cash flows of the funds underlying investments. 
+asr:0: OUTPUT 1160.34-1164.30: Fixed income returns decreased by $24 million after tax. 
+asr:0: OUTPUT 1164.32-1175.12: As the benefit from higher levels of invested assets was more than offset by the decline in interest rates and a mixed change as we chose to maintain a somewhat higher level of liquidity. 
+asr:0: OUTPUT 1175.14-1178.66: And held more short-term investments than in prior quarters. 
+asr:0: OUTPUT 1179.50-1190.13: For the remainder of 2020, we expect that fixed income NII will decrease by approximately $35 to $40 million after tax per quarter compared to the corresponding periods of. 
+asr:0: OUTPUT 1192.79-1202.50: In terms of capital management, operating cash flows for the quarter of $1.7 billion were again very strong. All our capital ratios were at or better than target levels. 
+asr:0: OUTPUT 1202.78-1208.91: And we ended the quarter with holding company liquidity of slightly more than $2 billion, well above our target level. 
+asr:0: OUTPUT 1209.83-1213.23: Recall that in April we pre-funded, as we normally do. 
+asr:0: OUTPUT 1213.25-1221.60: $500 million of debt coming due in November with a new 30-year $500 million debt issuance at 2.55%. 
+asr:0: OUTPUT 1222.36-1225.99: So our holding company liquidity is temporarily elevated by that amount. 
+asr:0: OUTPUT 1227.23-1230.87: Investment yields decreased as credit spreads tightened during the second quarter. 
+asr:0: OUTPUT 1231.09-1237.86: And accordingly, our net unrealized investment gain increased from $1.8 billion after tax as of March 31st. 
+asr:0: OUTPUT 1237.88-1240.98: To $3.6 billion after tax on June 30. 
+asr:0: OUTPUT 1242.38-1253.41: Adjusted book value per share, which excludes net unrealized investment gains and losses, was $92.01 at quarter end, down less than 1% from year end, and up 2% year over year. 
+asr:0: OUTPUT 1255.12-1262.66: We returned $218 million of capital to our shareholders this quarter via dividends. We did not repurchase any shares during the quarter. 
+asr:0: OUTPUT 1263.54-1269.09: As we indicated in our first quarter earnings call, our capital management strategy remains unchanged. 
+asr:0: OUTPUT 1269.75-1279.00: With the ongoing economic uncertainty and with hurricane season upon us, it still feels to us like holding on to a little more capital is preferable to holding on to a little less. 
+asr:0: OUTPUT 1279.86-1286.51: Until there's more clarity on the state of the economy, we may buy back some shares in the coming quarters, or we may continue to choose to buy none. 
+asr:0: OUTPUT 1287.87-1295.34: Coming back to reinsurance for a moment, let me direct your attention to slide 19 of the webcast presentation for a summary of our July 1st renewals. 
+asr:0: OUTPUT 1296.24-1300.64: The structure of our main cat reinsurance program is generally consistent with the prior year. 
+asr:0: OUTPUT 1301.62-1310.79: We renewed our Northeast CAB Treaty effective July 1st with substantially similar terms, and pricing that was up only slightly on an exposure-adjusted basis. 
+asr:0: OUTPUT 1311.47-1315.92: Our cat bond, Long Point Reef 3, is now in the third year of its four-year term. 
+asr:0: OUTPUT 1316.52-1325.89: In the annual reset for the 2020 hurricane season, the attachment point was adjusted from $1.79 billion to $1.87 billion. 
+asr:0: OUTPUT 1325.99-1328.55: While the total cost of the program was flat year over year. 
+asr:0: OUTPUT 1329.23-1335.06: More complete description of our CAT reinsurance coverage including our general CAT aggregate XOL treaty. 
+asr:0: OUTPUT 1335.38-1339.78: It covers an accumulation of certain property losses arising from multiple occurrences. 
+asr:0: OUTPUT 1339.80-1345.57: Is included in our 10-Q, which we filed earlier today, and in our 2019 form 10-Q. 
+asr:0: OUTPUT 1347.25-1350.91: Lastly, let me take a minute to address thoughts on our top line going forward. 
+asr:0: OUTPUT 1351.91-1357.24: Looking at premium volume, we expect to experience the impacts of economic disruption. 
+asr:0: OUTPUT 1357.26-1365.11: How much of an impact we feel and for how long will depend on the extent and duration of the negative economic impacts related to the pandemic. 
+asr:0: OUTPUT 1366.23-1372.87: Because earned premium typically lies written premium, we expect to feel the effects on an earned basis beyond the end of the year. 
+asr:0: OUTPUT 1374.31-1383.06: As Alan said last quarter, we do not intend to take disruptive expense actions in response to what may prove to be a short-term impact on premium volumes. 
+asr:0: OUTPUT 1383.70-1390.71: Accordingly, in coming quarters, the expense ratio will likely remain somewhat elevated compared to the corresponding periods of. 
+asr:0: OUTPUT 1391.59-1394.73: Due to the expected impact on earned premiums. 
+asr:0: OUTPUT 1395.54-1398.86: Now I'll turn the call over to Greg for a discussion of business insurance. 
+asr:0: OUTPUT 1400.04-1405.15: Thanks, Dan. Let me start by expressing my deep appreciation to all my travelers colleagues. 
+asr:0: OUTPUT 1405.17-1412.17: As well as our agent and broker partners for continuing to provide exceptional service to our customers during these unprecedented times. 
+asr:0: OUTPUT 1413.09-1418.60: As for the quarter's results, business insurance had a loss for the quarter of $58 million. 
+asr:0: OUTPUT 1418.62-1424.00: Due to lower net investment income and higher catastrophe losses, as both Allen and Dam discussed. 
+asr:0: OUTPUT 1424.90-1434.59: The combined ratio of 107.1% included more than 10 points of catastrophes impacted by both weather-related losses and civil unrest. 
+asr:0: OUTPUT 1435.98-1440.88: The underlying combined ratio of 97% improved by 0.4 points. 
+asr:0: OUTPUT 1441.14-1447.57: Reflecting a 0.2 point improvement in each of the underlying loss ratios and expense ratios. 
+asr:0: OUTPUT 1448.57-1452.85: The net impact of COVID-19 and related economic conditions was modest. 
+asr:0: OUTPUT 1454.21-1463.66: Turning to the top line, net written premiums were 3% lower than the prior year quarter due to the impact of the economic disruption on insured exposures. 
+asr:0: OUTPUT 1464.60-1473.59: Thanks to excellent execution by our field organization, these impacts were largely offset by strong renewal rate decreases and high retention. 
+asr:0: OUTPUT 1475.36-1484.44: According to domestic production, we achieved strong renewal rate change of 7.4% while retention remained high at 83%. 
+asr:0: OUTPUT 1485.19-1494.35: The renewal rate change of 7.4% was up almost four points from the second quarter of last year and more than a point from the first quarter of this year. 
+asr:0: OUTPUT 1495.06-1499.22: Notwithstanding the persistent downward pressure in workers' compensation prices. 
+asr:0: OUTPUT 1500.42-1512.31: We continue to achieve higher rate levels broadly across our book as rate increases in all lines other than workers' compensation were meaningfully higher during the quarter as compared to the second quarter of last year. 
+asr:0: OUTPUT 1513.19-1522.00: We achieved positive rates on about 80% of our middle market accounts this quarter, which was up from about two-thirds in the second quarter of last year. 
+asr:0: OUTPUT 1523.00-1528.71: Importantly, we've achieved this progress in a highly segmented manner and with retention remaining strong. 
+asr:0: OUTPUT 1529.47-1537.24: At these rate levels, our rate change continues to exceed loss trend even after about a half a point increase to our loss trend assumption. 
+asr:0: OUTPUT 1538.66-1544.06: New business of $473 million was down 10% from the prior year quarter. 
+asr:0: OUTPUT 1544.86-1549.87: New business flow was down, which we attribute largely to disruption caused by the pandemic. 
+asr:0: OUTPUT 1550.97-1557.60: New business was also impacted by our continued focus on discipline risk selection, underwriting, and pricing. 
+asr:0: OUTPUT 1559.18-1565.25: These production results require superior execution by our field organization in a very challenging environment. 
+asr:0: OUTPUT 1566.51-1581.06: As for the individual businesses, in select, renewal rate change was up to 2.1%, making the sixth consecutive quarter where renewal rate was higher than the corresponding prior year quarter, while retention was strong at 82%. 
+asr:0: OUTPUT 1582.22-1586.73: The headwind for workers' compensation pricing is most pronounced in the select business. 
+asr:0: OUTPUT 1587.77-1592.39: New business was down significantly driven by the economic disruption caused by the pandemic. 
+asr:0: OUTPUT 1593.39-1602.74: While the current environment is challenging, we're confident that we're well positioned in investing in the right strategic capabilities to profitably grow this business over time. 
+asr:0: OUTPUT 1604.48-1611.79: In middle market, renewal rate change was up to 7.9% while retention remained strong at 86%. 
+asr:0: OUTPUT 1612.59-1621.18: The 7.9% was up almost 4.5 points from the second quarter of 2019 and 1.5 points from the first quarter of 2020. 
+asr:0: OUTPUT 1623.20-1635.18: New business of $255 million was down from the prior year quarter, driven by both economic disruption and our continued focus on discipline, risk selection, underwriting, and pricing. 
+asr:0: OUTPUT 1636.48-1640.02: To sum up, we believe our meaningful competitive advantages. 
+asr:0: OUTPUT 1640.24-1645.21: Including our strong distribution relationships and our talent and expertise. 
+asr:0: OUTPUT 1645.23-1652.19: Position us well to navigate through these uncertain times and continue to serve our customers and agent and broker partners. 
+asr:0: OUTPUT 1652.65-1654.61: With that, I'll turn the call over to Tom. 
+asr:0: OUTPUT 1656.22-1661.40: Thanks Craig. Bond and Specialty delivered solid returns and growth in the quarter. 
+asr:0: OUTPUT 1661.92-1666.53: Despite the impacts of COVID-19 and related economic conditions. 
+asr:0: OUTPUT 1667.89-1674.93: Segment income was $72 million, a decrease of $102 million from the prior year quarter. 
+asr:0: OUTPUT 1675.88-1677.12: As Dan mentioned. 
+asr:0: OUTPUT 1677.14-1685.53: The combined ratio of 93.8% reflects unfavorable prior year reserve development in the quarter. 
+asr:0: OUTPUT 1685.55-1690.17: As compared to favorable PYD in the prior year quarter. 
+asr:0: OUTPUT 1690.19-1692.59: And a higher underlying combined ratio. 
+asr:0: OUTPUT 1693.97-1699.84: The underlying combined ratio of 88.1% increased 7.1 points. 
+asr:0: OUTPUT 1699.86-1708.29: From the prior year quarter primarily driven by the impacts of higher loss estimates or management liability coverages. 
+asr:0: OUTPUT 1708.33-1714.43: About half of which was due to COVID-19 and related economic conditions. 
+asr:0: OUTPUT 1715.90-1719.94: The remaining half of the increase is due to a few smaller drivers. 
+asr:0: OUTPUT 1720.00-1729.63: Such as elevated claim activity under employment practices liability coverages and ransomware losses under assignment policies. 
+asr:0: OUTPUT 1730.87-1732.35: Turning to the top line. 
+asr:0: OUTPUT 1732.37-1741.50: Net written premiums grew 3% for the quarter, reflecting strong growth in our management liability and international businesses. 
+asr:0: OUTPUT 1741.52-1744.78: Partially offset by lower surety production. 
+asr:0: OUTPUT 1746.05-1754.89: In our domestic management liability business. We are pleased that renewal premium change increased to 7.8%. 
+asr:0: OUTPUT 1755.66-1762.64: This marks the seventh consecutive quarter where RPC is higher than the corresponding prior year quarter. 
+asr:0: OUTPUT 1763.70-1768.61: As Alan noted, renewal rate change was a record for the quarter. 
+asr:0: OUTPUT 1768.69-1773.77: While retention remained at a historically high 89%. 
+asr:0: OUTPUT 1774.67-1781.90: Similar to business insurance, RPC in the corner was also impacted by lower insurance exposure. 
+asr:0: OUTPUT 1783.64-1794.85: These production results demonstrate the effective execution of our strategy to pursue rain where needed while maintaining strong retention of our high-quality portfolio. 
+asr:0: OUTPUT 1795.68-1799.42: We will continue to pursue rate increases where warped. 
+asr:0: OUTPUT 1800.58-1804.62: Domestic management liability new business for the quarter decreased. 
+asr:0: OUTPUT 1804.64-1806.65: $13 million. 
+asr:0: OUTPUT 1806.67-1815.12: Reflecting the disruption associated with COVID-19 and our thoughtful underwriting in this elevated risk environment. 
+asr:0: OUTPUT 1816.46-1823.06: Domestic surety net premium, net written premium, was down $24 million in the quarter. 
+asr:0: OUTPUT 1823.08-1826.63: Reflecting the impact of COVID-19. 
+asr:0: OUTPUT 1826.65-1831.97: Which slowed public project procurement and related bond demand. 
+asr:0: OUTPUT 1833.25-1840.02: International BSI posted strong growth in the quarter with record rate in our UK management liability. 
+asr:0: OUTPUT 1841.86-1849.15: So, bonded specialty results remain resilient despite the challenges brought on by COVID-19. 
+asr:0: OUTPUT 1850.11-1854.69: These results reflect the excellent work of our agents, brokers, and employees. 
+asr:0: OUTPUT 1854.71-1862.58: Who have adapted to operating in new ways to continue to provide leading products and services to our customers. 
+asr:0: OUTPUT 1863.38-1872.61: We feel confident about our ability to navigate through this challenging environment and continue to deliver strong returns over time. 
+asr:0: OUTPUT 1874.01-1880.42: And now I'll turn it over to Michael to discuss personal insurance. Thanks, Tom. Good morning, everyone. 
+asr:0: OUTPUT 1881.46-1889.49: Personal insurance segment income for the second quarter of 2020 was $10 million, down from $88 million in the prior year quarter. 
+asr:0: OUTPUT 1889.51-1894.01: Driven by a higher level of catastrophe losses and lower net investment income. 
+asr:0: OUTPUT 1895.58-1899.52: These impacts were partially offset by an improvement in the underlying underwriting gain. 
+asr:0: OUTPUT 1901.14-1906.79: Our combined ratio for the quarter was 101.3%, an increase of 1.1 points. 
+asr:0: OUTPUT 1907.39-1915.18: As a 12.5 point increase in catastrophe losses was largely offset by a 10.6 point improvement in the underlying combined ratio. 
+asr:0: OUTPUT 1916.92-1924.76: The underlying combined ratio benefited from lower non-catastrophe weather-related losses and lower automobile losses net of premium refunds. 
+asr:0: OUTPUT 1926.51-1935.38: The increase of 2.6 points on the underwriting expense ratio was primarily driven by the reduction in net earned premiums resulting from the auto premium refund. 
+asr:0: OUTPUT 1937.36-1945.15: Turning to the top line, excluding the impact of premium refunds of $216 million, net written premiums grew 6%. 
+asr:0: OUTPUT 1946.53-1955.80: Agency homeowners and other net written premiums were up an impressive 13% and agency automobile net written premiums were up 3% excluding premium refunds. 
+asr:0: OUTPUT 1958.22-1963.48: Agency Automobile delivered strong results with a combined ratio of 85.7% for the quarter. 
+asr:0: OUTPUT 1964.90-1970.13: The loss ratio improved over 12 points, while the underwriting expense ratio increased by about 4 points. 
+asr:0: OUTPUT 1971.37-1977.04: The increase in the underwriting expense ratio was primarily driven by the impact of the premium refunds I described earlier. 
+asr:0: OUTPUT 1978.90-1985.00: The underlying combined ratio of 84.2% improved 9.6 points relative to the prior year quarter. 
+asr:0: OUTPUT 1985.31-1992.45: Continuing to reflect improvements in frequency, primarily due to fewer miles driven as a result of the pandemic. 
+asr:0: OUTPUT 1993.89-2001.94: Data from our IntelliDrive Auto Telematics program indicates miles driven were down significantly from pre-COVID-19 levels during the second quarter. 
+asr:0: OUTPUT 2002.76-2008.87: Reaching a weekly low point in early April and partially rebounding as the economy has started to reopen. 
+asr:0: OUTPUT 2010.57-2018.18: In response to our improved auto loss experience, we implemented a stay-at-home auto premium credit program for personal automobile customers. 
+asr:0: OUTPUT 2019.06-2025.27: In the U.S., the program provided a 15% premium refund on April, May, and June premiums. 
+asr:0: OUTPUT 2027.53-2032.99: In agency homeowners and other, the second quarter combined ratio was 113.9%. 
+asr:0: OUTPUT 2033.01-2041.94: 9.4 points higher than the prior year quarter, due primarily to higher catastrophes, partially offset by a lower underlying combined ratio. 
+asr:0: OUTPUT 2043.50-2046.57: Historically, the second quarter is our highest catastrophe quarter. 
+asr:0: OUTPUT 2047.49-2053.57: This quarter we experienced significant storm activity resulting in 34 points of catastrophe losses. 
+asr:0: OUTPUT 2053.59-2059.40: An increase of 21 points compared to the prior year quarter where catastrophes were relatively low. 
+asr:0: OUTPUT 2061.58-2067.85: The underlying combined ratio for the quarter was 81.4%, down over 11 points from the prior year quarter. 
+asr:0: OUTPUT 2068.53-2071.97: Driven primarily by lower non-catastrophe weather related losses. 
+asr:0: OUTPUT 2073.55-2083.02: The majority of the improvement is due to elevated non-CAT weather in the prior year quarter. Non-catastrophe weather related losses this quarter were also better than our assumptions. 
+asr:0: OUTPUT 2085.39-2094.83: Turning to quarterly production, our domestic agency results were solid, despite the challenging environment resulting from COVID-19 and its related economic impact. 
+asr:0: OUTPUT 2096.30-2104.50: Our retentions remain strong, quotes and new business were up versus the prior year quarter, and we remain pleased with our policies in forced growth. 
+asr:0: OUTPUT 2106.29-2112.03: Agency automobile retention was 85% and new business increased 7% from the prior year quarter. 
+asr:0: OUTPUT 2113.31-2121.64: Renewal premium change was 1.5% as we continue to moderate pricing given the improved performance in our book over the past few years. 
+asr:0: OUTPUT 2123.38-2131.45: Agency Homeowners and Others delivered another very strong quarter with retention of 87%, renewal premium change of 7.7%. 
+asr:0: OUTPUT 2131.47-2137.76: And a 17% increase in new business as we continue to seek to improve returns while growing the business. 
+asr:0: OUTPUT 2139.18-2146.41: Higher new business levels again benefited from the successful rollout of our Quantum Home 2.0 product, now available in over 40 markets. 
+asr:0: OUTPUT 2148.11-2153.69: During the quarter, we continue to deliver new capabilities and products to our customers and distribution partners. 
+asr:0: OUTPUT 2155.36-2158.90: We introduced Quantum Home 2.0 in four new states, including California. 
+asr:0: OUTPUT 2159.96-2166.93: In addition, we launched IntelliDrive 2.0, which adds distracted driving monitoring to our auto telematics product. 
+asr:0: OUTPUT 2166.95-2170.19: And delivers significant improvements to the user experience. 
+asr:0: OUTPUT 2171.71-2177.14: And after reaching our goal of planting 1 million trees for customer enrollment in paperless billing,. 
+asr:0: OUTPUT 2177.22-2183.50: We extended our partnership with American Forests to plant another 500,000 trees by Earth Day 2021. 
+asr:0: OUTPUT 2185.25-2191.85: To recap, personal insurance is off to a strong start in the first half of the year, particularly in light of a challenging environment. 
+asr:0: OUTPUT 2192.87-2200.54: I'm proud of our team's efforts to continue to work together to meet the needs of those we're privileged to serve while investing in the business for the future. 
+asr:0: OUTPUT 2201.44-2202.98: Now I'll turn the call back over to Abby. 
+asr:0: OUTPUT 2206.71-2215.18: Thanks, Michael. Before I begin Q&A, there's one topic that we expect might be on people's minds, so we thought we would kick off Q&A by addressing it. 
+asr:0: OUTPUT 2215.56-2219.12: So before we open up the line, I'd like to turn the call back over to Dan. 
+asr:0: OUTPUT 2220.92-2228.55: Thanks, Abby. There's been some discussion by industry observers about the timing of the recognition of COVID-related losses. 
+asr:0: OUTPUT 2229.51-2236.14: So let me reiterate that our reserves reflect our best estimate of ultimate losses incurred as of the balance sheet date. 
+asr:0: OUTPUT 2237.18-2243.82: In applying accounting principles, we would not record a reserve for a loss that has not yet occurred as of the balance sheet date. 
+asr:0: OUTPUT 2245.03-2246.91: Using auto claims as an example. 
+asr:0: OUTPUT 2247.49-2255.14: At the beginning of the year, we have an assumption as to the volume of claims we will see over the course of the year and what the average cost of those claims will be. 
+asr:0: OUTPUT 2256.12-2262.44: But when we report our second quarter results, including our balance sheet loss reserves as of June 30th,. 
+asr:0: OUTPUT 2262.46-2268.79: Those reserves do not include estimated amounts for auto accidents that will occur at Thanksgiving or on New Year's Eve. 
+asr:0: OUTPUT 2269.57-2274.89: Those would be fourth quarter events and accordingly they will be recognized in our fourth quarter results. 
+asr:0: OUTPUT 2276.28-2280.28: This same principle applies when we consider losses related to COVID-19. 
+asr:0: OUTPUT 2281.22-2284.32: While only some losses have been reported to us so far. 
+asr:0: OUTPUT 2284.34-2295.24: The losses we booked in both the first and second quarter reflect our estimate of the ultimate amounts that we'll pay for all losses and related costs that have been incurred as of June 30th. 
+asr:0: OUTPUT 2295.38-2298.04: Including those for which we have not yet received a claim. 
+asr:0: OUTPUT 2298.80-2307.29: In fact, as I said earlier, the majority of the COVID-related insurance losses we have booked through June 30th are still sitting in our IV&R reserves. 
+asr:0: OUTPUT 2308.39-2316.06: That said, the pandemic is clearly not over, and tens of thousands of new infections are being confirmed in the United States each day. 
+asr:0: OUTPUT 2316.80-2319.78: It is foreseeable that a health care worker, for example,. 
+asr:0: OUTPUT 2319.80-2327.53: Who to this point has not contracted COVID-19, will become ill from COVID-19 as a result of their job duties in December. 
+asr:0: OUTPUT 2327.87-2332.39: But again, that loss activity will be included in our fourth quarter results. 
+asr:0: OUTPUT 2333.63-2341.04: We similarly would not advance the recognition of any continued favorability from lower frequency and non-COVID workers comp clients. 
+asr:0: OUTPUT 2342.32-2346.93: Finally, I'll remind you that on a year-to-date basis, setting aside net investment income. 
+asr:0: OUTPUT 2347.27-2353.51: The impact on our results from COVID-19 and its related effects is a net charge of about $50 million pre-tax. 
+asr:0: OUTPUT 2354.11-2356.72: And with that, operator, we're ready to take questions. 
+asr:0: OUTPUT 2358.86-2367.97: At this time, if you would like to ask a question, press star 1 on your telephone. To withdraw your question, press the pound key. Please wait while we compile the questions. 
+asr:0: OUTPUT 2370.13-2374.97: Your first question comes from the line of Michael Phillips, but Morgan Stanley, please go ahead. 
+asr:0: OUTPUT 2376.54-2382.02: Thank you. Good morning, everybody. Thanks for that clarification, Dan, on that last comment. That's helpful. 
+asr:0: OUTPUT 2383.14-2388.65: I guess I wouldn't try to get arms around business insurance and margins and pricing. 
+asr:0: OUTPUT 2389.81-2396.70: Trying to kind of pull out the effect of COVID, you said COVID was pretty modest in a quarter, pricing was clearly very strong. 
+asr:0: OUTPUT 2398.66-2402.62: Yeah, core margins improved 40 bps or 20 bps on the low side. 
+asr:0: OUTPUT 2402.66-2410.73: I guess trying to understand, does that mean, and Alan you gave lots of great commentary on pricing,. 
+asr:0: OUTPUT 2411.09-2417.24: Does that mean that the current level of pricing still isn't enough to expand margins today? 
+asr:0: OUTPUT 2417.38-2423.04: Kind of how we think about that versus the level of conservatism that might be baked into the current numbers. 
+asr:0: OUTPUT 2425.91-2435.14: Michael, good morning. It's Alan. I'll start with you if I can be responsive to what's on your mind. At the current levels, the written rate is in excess of loss. 
+asr:0: OUTPUT 2435.68-2440.02: So looking narrowly at those factors, we are, on a written basis, expanding margins. 
+asr:0: OUTPUT 2443.32-2448.15: Is that what you're getting at? It is, yeah. It is. 
+asr:0: OUTPUT 2448.37-2452.81: You know, in business interruption you had 20 basis points of improvement, so... 
+asr:0: OUTPUT 2453.61-2459.74: Not as much as maybe one would expect given the level of pricing. And so, that's what I'm trying to get my arms around. 
+asr:0: OUTPUT 2460.98-2469.97: So, as always, there are a number of factors that are driving the underlying combined ratio in the quarter, and that's true for any business. 
+asr:0: OUTPUT 2469.99-2475.76: You've got weather, so year over year that was better, and in this quarter, sort of within the normal dirt. 
+asr:0: OUTPUT 2475.80-2480.06: Within the normal level of variability we would expect for that. 
+asr:0: OUTPUT 2480.56-2486.87: The earned impact of rate that as I said on both the written and earned basis, rate is ahead of lost trend. 
+asr:0: OUTPUT 2487.81-2493.47: We've had improved performances in some business. He got some impact of COVID. It was modest, but not zero. 
+asr:0: OUTPUT 2495.01-2499.50: You've got the year-over-year insights from ongoing carry-on impacts of. 
+asr:0: OUTPUT 2500.00-2507.23: Of social inflation that I'll call old news, what we've recognized in prior periods and that continues to roll through. 
+asr:0: OUTPUT 2508.65-2515.70: So given the relative stability, we're not going to quantify the pieces, but essentially those are the pieces. 
+asr:0: OUTPUT 2517.48-2520.08: Okay, thank you. That's helpful. Thanks, Alan. 
+asr:0: OUTPUT 2520.76-2528.01: Didn't see mention, and I guess this is good news, didn't see mention of anything on the commercial auto side for PYD. 
+asr:0: OUTPUT 2528.31-2535.66: So maybe could you speak to kind of that piece and does that mean that there's been possibly some leveling off of the paid activity that's been part of the concern there? 
+asr:0: OUTPUT 2536.92-2538.14: My name is Dan. 
+asr:0: OUTPUT 2538.82-2544.38: Yeah, as we had last quarter, so we had some movements in PYD, some puts and takes. 
+asr:0: OUTPUT 2544.64-2549.11: Some continued good news in comp, some continued pressure in the other liability lines. 
+asr:0: OUTPUT 2549.51-2559.50: There were small adjustments in commercial auto and the general liability lines in SAMP, but as I said in my remarks, relatively modest compared to those reserve based. 
+asr:0: OUTPUT 2566.79-2571.61: Your next question comes from Ryan Sineath with Otoe Research. Please go ahead. 
+asr:0: OUTPUT 2573.91-2579.76: Thanks, good morning. I just wanted to get a better feel for just, forget about the net benefit. 
+asr:0: OUTPUT 2580.00-2585.55: From the COVID, just from the direct losses alone or the direct impact. 
+asr:0: OUTPUT 2586.01-2591.81: What was the hit that that had in business interruption on the combined ratio? 
+asr:0: OUTPUT 2594.75-2597.34: Is this an erection specifically or business insured? 
+asr:0: OUTPUT 2598.48-2603.66: I'm sorry, business insurance without considering the offsetting benefits. 
+asr:0: OUTPUT 2604.06-2611.41: What was just the direct loss impact, or direct hit impact on that number. 
+asr:0: OUTPUT 2613.15-2624.48: Yeah, Ryan, it's Dan. I don't think we're going to give the pluses and the minuses, but within the, we told you that there was 114 million of directly related charges. 
+asr:0: OUTPUT 2624.74-2634.89: And while that included some charges for the management liability coverages in bond and specialty, the majority of what we took came through business insurance. 
+asr:0: OUTPUT 2636.88-2643.52: And then in terms of thinking about the benefits that we're seeing, I think in the preannouncement you said it was mostly short-tail lines. 
+asr:0: OUTPUT 2644.78-2648.87: So should we take that to mean, I mean, first of all, outside of the short tail lines. 
+asr:0: OUTPUT 2649.37-2655.18: Are you seeing actual to expected look a little bit better in some areas in terms of frequency? 
+asr:0: OUTPUT 2655.78-2664.08: And is that not something, and if so, is that something that you're not recognizing yet? You're being conservative and waiting to see if that continues to be the case. 
+asr:0: OUTPUT 2665.15-2673.99: Yeah, Ryan, Dan again. So we are for sure seeing some favorable indications relative to what you would otherwise expect. 
+asr:0: OUTPUT 2674.31-2676.30: In this current environment. 
+asr:0: OUTPUT 2676.68-2680.00: And when we look at that, there was. 
+asr:0: OUTPUT 2680.62-2684.60: Too much favorability to simply say zero is the right reaction. 
+asr:0: OUTPUT 2685.63-2691.69: But as Alan said in his comments and as I tried to reiterate in mine, I think we've been very cautious in terms of. 
+asr:0: OUTPUT 2691.71-2696.42: The degree to which we'd recognize any good news in anything other than the short tail winds. 
+asr:0: OUTPUT 2696.78-2700.38: But there's some because it's very apparent in the data. 
+asr:0: OUTPUT 2702.72-2705.19: And then just one more real quick. 
+asr:0: OUTPUT 2707.25-2713.41: I was, I guess, a little bit surprised exposure growth held in, I think, especially in select lines. Retention has only declined modestly. 
+asr:0: OUTPUT 2714.57-2719.60: How should we interpret that? Is retention, is it capturing cancellations or is that modest dip? 
+asr:0: OUTPUT 2721.10-2729.51: Mostly a function of you guys taking more rain. I'm just trying to figure out how to interpret those numbers that seem relatively modest given what's happening in the macro landscape. 
+asr:0: OUTPUT 2730.95-2734.57: Yeah, Ryan, this is Greg. Let me take both of those in the order that you took. 
+asr:0: OUTPUT 2735.22-2739.26: Number one, in terms of exposure change, if you're looking at relative to middle market. 
+asr:0: OUTPUT 2739.32-2747.13: That's really a product mix dynamic. In the select business, we have the thrust of the premium is two products, CMT and workers' comp. 
+asr:0: OUTPUT 2747.51-2751.99: And the CMT product, the rating on that is driven more off the property than the GL. 
+asr:0: OUTPUT 2752.51-2761.90: And so, you know, we're continuing to see pricing and inflationary pressure on the property. And so there's some inflationary impact that that impacts on the CMP product. 
+asr:0: OUTPUT 2762.26-2770.39: And so you don't see as much of a drag on exposure on select that you do on middle market where the GL product is more on a standalone rated basis. 
+asr:0: OUTPUT 2771.21-2774.31: And then the retention overall for select. 
+asr:0: OUTPUT 2774.35-2783.50: We certainly put our estimate of what we see in terms of business insolvencies, bankruptcies, and that's all inside the 82%. 
+asr:0: OUTPUT 2783.52-2786.07: Number. 
+asr:0: OUTPUT 2788.87-2793.49: Your next question comes along of Mayor Schiltz with KDW. Please go ahead. 
+asr:0: OUTPUT 2794.77-2802.62: Great, thanks. Greg, if I heard you correctly in your prepared comments, you talked about a 50 basis point increase in loss trend, and I was hoping you could flesh that out a little. 
+asr:0: OUTPUT 2804.90-2812.19: Sure, Mayor. We look at lost trend every quarter and across the full portfolio, and that's obviously a headline number. 
+asr:0: OUTPUT 2812.71-2818.34: What we did this quarter is we looked at the impact of the new economy that we see in front of us. 
+asr:0: OUTPUT 2818.70-2823.82: We also look at some of the social inflation or liability dynamics that Dan just talked about. 
+asr:0: OUTPUT 2824.42-2831.19: When we roll that all up in aggregate, we believe we've got a 50 basis points increase in our loss trend in front of us. 
+asr:0: OUTPUT 2831.91-2840.72: I'd add to that, Meyers, that is reflected in the underlying combined ratio we reported for the quarter as is a piece of that that would be catch-up from the first quarter. 
+asr:0: OUTPUT 2842.34-2844.40: Okay, perfect. That last point is exactly what I was looking for. 
+asr:0: OUTPUT 2845.61-2850.75: The second question, I guess, with workers' compensation being the most vulnerable to exposure unit pressure,. 
+asr:0: OUTPUT 2852.31-2858.60: Does that impact rate need on the expense ratio side? 
+asr:0: OUTPUT 2860.30-2866.35: I'm trying to understand, I know that in general workers' compensation pricing has been coming down because industry experience has been good. 
+asr:0: OUTPUT 2867.03-2876.10: But we seem to be seeing a fairly significant exposure unit headwind and I'm trying to get my arms around what that implies for indicated pricing. 
+asr:0: OUTPUT 2879.20-2893.09: Meyer, there's a heavy regulatory component to pricing, as you know, and it tends to be a little bit backward-looking, and it sort of factors in the overall profitability of the line, which, as you know, has been very favorable over the years. 
+asr:0: OUTPUT 2893.17-2902.90: And that will continue to be the case. So, you know, clearly, you know, exposure will be one impact on profitability today, which will impact pricing tomorrow. 
+asr:0: OUTPUT 2903.54-2910.85: But it's really hard to isolate any one factor in its impact on profitability because everything goes in. 
+asr:0: OUTPUT 2911.01-2914.23: You start with your expiring rate. 
+asr:0: OUTPUT 2914.31-2921.64: And then you've got whatever the rate change is, you've got exposure change, you've got loss trends, things like that. 
+asr:0: OUTPUT 2921.88-2925.73: It's definitely a factor. It's hard to isolate what the extent of the impact. 
+asr:0: OUTPUT 2928.21-2937.72: Okay, understood. Thank you very much. 
+asr:0: OUTPUT 2946.97-2948.25: Hi, good morning, can you hear me? 
+asr:0: OUTPUT 2951.09-2952.19: I'm sorry, thank you. 
+asr:0: OUTPUT 2952.39-2962.04: In terms of business insurance, I was hoping for the COVID-19 losses, and I recognize in response to an earlier question, maybe you aren't giving to. 
+asr:0: OUTPUT 2962.06-2966.15: The loss impact in business insurance specifically by line. 
+asr:0: OUTPUT 2966.53-2975.16: But could you give us a sense of where you saw the majority of your COVID losses that's ignoring the favorable impact in the second quarter? 
+asr:0: OUTPUT 2975.18-2977.66: Just specifically within business insurance. 
+asr:0: OUTPUT 2980.00-2987.95: That's what I had tried to do. So we took 114 million across the enterprise in direct COVID losses. 
+asr:0: OUTPUT 2988.55-2990.79: None of that was in personal insurance. 
+asr:0: OUTPUT 2991.53-2999.62: There was some component of management liability within bond and specialty insurance, which Tom described in going through their combined ratio. 
+asr:0: OUTPUT 3000.00-3003.06: But the majority of those dollars came through business insurance. 
+asr:0: OUTPUT 3003.86-3007.03: So Lisa, you asked me for a breakdown by product line. 
+asr:0: OUTPUT 3008.19-3017.48: Yeah, I was hoping by product line, even if not in terms of dollars, you could just give us a sense of which business insurance product lines saw the majority of your COVID losses. 
+asr:0: OUTPUT 3019.12-3026.33: The largest line for sure is workers' comp. Some property losses. 
+asr:0: OUTPUT 3026.55-3029.99: Both domestically and internationally. 
+asr:0: OUTPUT 3030.07-3037.16: Uh... And then driven grabs i would say in other lines those are those of the two drivers with car by far being the largest. 
+asr:0: OUTPUT 3038.58-3047.21: So Lisa, I'd point you to my prepared comments where I did share that there was a modest net impact when we look at the offsetting of the favorable frequency. 
+asr:0: OUTPUT 3047.23-3048.81: And some of those wines also. 
+asr:0: OUTPUT 3050.87-3057.04: Okay, thanks. And then my second question is maybe a follow-up on the prior question on workers' comp. 
+asr:0: OUTPUT 3057.62-3066.63: We've heard a few folks in the industry, it seems like, starting to point towards the bottom of comp in terms of just the pricing dynamics there. 
+asr:0: OUTPUT 3066.69-3070.21: But if I go back to your comments throughout the call, it. 
+asr:0: OUTPUT 3070.31-3078.64: It doesn't sound like you guys are thinking that the rate declines that we've seen in that business are close to coming to an end. 
+asr:0: OUTPUT 3078.72-3088.13: So if you could just help us think about work-worth comp in terms of the pricing dynamics there and whether we might hit an inflection. And I'm not just talking 2020 perhaps. 
+asr:0: OUTPUT 3088.35-3090.57: Million into 2021 as well. 
+asr:0: OUTPUT 3091.65-3097.68: At least it's a great question. When you look at the information coming out of some of the rating bureaus and when we look at our own. 
+asr:0: OUTPUT 3097.86-3101.68: We would say that we are at or near a bottom in workers' comp prices. 
+asr:0: OUTPUT 3105.55-3111.49: Okay, that's helpful. One last numbers question. Could you give us, you said that they were small numbers, but. 
+asr:0: OUTPUT 3111.55-3120.00: Could you give us a sense of the dollars in terms of the adverse development within general liability and commercial multi-parallel in the quarter? 
+asr:0: OUTPUT 3121.34-3123.28: We're not going to do that, Elise. They're all pretty modest. 
+asr:0: OUTPUT 3124.68-3133.57: Okay, thank you, I appreciate the color. Thank you. Your next question comes from one of David Maltmaton with Evercar. Please go ahead. 
+asr:0: OUTPUT 3136.36-3137.48: All right, thanks. Good morning. 
+asr:0: OUTPUT 3137.60-3139.48: And Dan, I'm going to turn it over to you. 
+asr:0: OUTPUT 3139.50-3143.26: And I guess I appreciate the comments. 
+asr:0: OUTPUT 3143.28-3153.35: That you made just before the Q&A, but I guess I'm just wondering if you could give us some sense of how you're thinking about. 
+asr:0: OUTPUT 3153.53-3158.32: COVID-related adverse impacts throughout the rest of the year. 
+asr:0: OUTPUT 3158.92-3167.23: Just looking through your portfolio of exposures and thinking how it might be affected by COVID, even if the losses haven't occurred yet in the first half. 
+asr:0: OUTPUT 3167.97-3175.64: And you have the exposure and you think there's a possibility that there could be a loss on it. Just wondering to get some thoughts there. Figured I'd take a shot at that. 
+asr:0: OUTPUT 3177.76-3181.94: Good morning, it's Al. Let me start with that and if I miss anything I'd like Dan to pick it up. 
+asr:0: OUTPUT 3182.46-3188.37: We're not going to forecast future losses. Our obligation under GAAP is to report the. 
+asr:0: OUTPUT 3188.43-3194.39: You know, incurred and unreported losses as of the balance sheet date, and that's what we've done. 
+asr:0: OUTPUT 3195.74-3197.12: It's hard to forecast the future. 
+asr:0: OUTPUT 3197.18-3199.86: There's some uncertainty. We don't know the trajectory of the disease. 
+asr:0: OUTPUT 3199.92-3212.29: We don't know when we're going to have a vaccine. We don't know what the outlook for the economy is. And frankly, it's probably the uncertainties for the economy that have the biggest impact on. 
+asr:0: OUTPUT 3212.31-3213.47: Of the. 
+asr:0: OUTPUT 3213.49-3215.08: Pandemic on us. 
+asr:0: OUTPUT 3216.10-3221.12: But I do think it's relevant to, and Swarney pointed it out a few times. 
+asr:0: OUTPUT 3221.14-3228.49: Our net losses in the first half of the year, or net charges, were about $50 million, putting aside the investment side. 
+asr:0: OUTPUT 3228.67-3233.57: And we've put up that net number with a high degree of caution. 
+asr:0: OUTPUT 3234.37-3240.94: So I can't give you a number. I tried in my sort of line by line review to tell you some of the factors that we think about. 
+asr:0: OUTPUT 3241.48-3248.11: But I think it's not irrelevant to that assessment to think about our experience in the first half of the year. 
+asr:0: OUTPUT 3253.27-3256.80: Okay, great, that's helpful, appreciate that, Alan. 
+asr:0: OUTPUT 3257.70-3265.15: And then just one more, so excluding workers' comp, the renewal rate change, so it was pretty strong. You said double digits. 
+asr:0: OUTPUT 3265.57-3271.97: Wondering if we get a finer point put on that and then just sort of how that compares versus the last few quarters. 
+asr:0: OUTPUT 3273.55-3279.74: And also, sort of thinking about, and I think Dan, you had mentioned... 
+asr:0: OUTPUT 3279.76-3284.54: You're looking at a loss trend of 5% now in the updated thinking and that's. 
+asr:0: OUTPUT 3284.80-3289.77: I guess what it should be comparing to the 7.4% renewal rate change that you got in the quarter. 
+asr:0: OUTPUT 3291.83-3295.48: I think that's the right way to think about rate versus trend. 
+asr:0: OUTPUT 3296.22-3305.95: That's the ballpark. I think we said previously that trend was around 4.5% in BI and we're taking it up about a half a point in the current quarter. 
+asr:0: OUTPUT 3306.17-3320.00: But you got to look at that in relation to the pricing momentum as well. And I think, Greg could correct me if I'm wrong, but the pricing momentum you see in this quarter is a reflection of. 
+asr:0: OUTPUT 3320.76-3323.50: Is a reflection of the strength of the market and the continued need for rate. 
+asr:0: OUTPUT 3324.26-3329.33: The only thing I'd add there is to your point, you know, outside of comp, all of our products were positive. 
+asr:0: OUTPUT 3330.23-3336.92: And so, you know, we feel great about that execution and mostly the changes line up with where the rate need is also. 
+asr:0: OUTPUT 3340.76-3346.85: Okay, great. And if I could just sneak one more in on the adverse development in general liability. 
+asr:0: OUTPUT 3348.05-3357.86: I'm hoping to get a little bit more color in terms of what you saw in the quarter that I guess brought you to make that change because I had thought that. 
+asr:0: OUTPUT 3357.92-3366.37: Most of the courts were closed during the quarter. I would think the page would be nothing really accelerated during the quarter. 
+asr:0: OUTPUT 3366.57-3373.89: Or was it more just a view of, you know, or was it more just an ongoing review that resulted in the change there? 
+asr:0: OUTPUT 3376.10-3385.27: It's more the latter, and remember, as we're doing reserve reviews, especially in long tail lines like those, you're looking more backwards at your data. 
+asr:0: OUTPUT 3385.29-3390.51: The actual loss environment of May and June. 
+asr:0: OUTPUT 3390.53-3404.54: We're aware of it, but it's not really, you don't have enough time to gather all that data and fully factor it into the reserve view that you're making at that time. So a little more of that is still backward looking in terms of the way things had developed, say, through the first quarter. 
+asr:0: OUTPUT 3406.93-3412.01: Again, stand out in his remarks, those were relatively small movements. 
+asr:0: OUTPUT 3414.03-3415.52: Yep, great, understood, thank you. 
+asr:0: OUTPUT 3417.98-3422.94: Your next question comes from Paul Newsome with Piper Sandler. Please go ahead. 
+asr:0: OUTPUT 3424.68-3427.77: You've hit the big ones for me, but one just quick one. 
+asr:0: OUTPUT 3429.35-3431.29: From an investment perspective,. 
+asr:0: OUTPUT 3432.67-3439.84: Do you have expectations that we would see increased defaults as well come through and I guess that people see and realize? 
+asr:0: OUTPUT 3440.92-3447.79: And is that sort of booked into the investment expectations that you gave us this quarter as well? 
+asr:0: OUTPUT 3448.57-3451.75: I'm thinking the actual defaults that we might see from the recession. 
+asr:0: OUTPUT 3452.99-3454.49: Have Paul and Stan. 
+asr:0: OUTPUT 3454.53-3464.34: We gave a fair amount of detail and did a fair amount of commentary on the construct of the investment portfolio and our comfort level with. 
+asr:0: OUTPUT 3464.38-3467.79: You know, the way we thoughtfully invested. 
+asr:0: OUTPUT 3467.83-3476.22: And we've given you an update of that investment detail again in the appendix of the webcast presentation this quarter. 
+asr:0: OUTPUT 3476.90-3486.35: So I wouldn't say more than we said, I think, last quarter in terms of feeling really good about the way we've managed risk on the asset side of the balance sheet. 
+asr:0: OUTPUT 3486.47-3492.57: Clearly, we're aware of and looking at and have a regular process to assess. 
+asr:0: OUTPUT 3492.59-3496.86: Credit impairment and default rates and all of that stuff is baked into our numbers. 
+asr:0: OUTPUT 3496.88-3502.60: It's really not a big impact on us given the thoughtful investment approach in the first place. 
+asr:0: OUTPUT 3504.60-3514.71: Has ratings migration had much of an impact yet, if at all, on the capital calculations for you guys? No, it has not. 
+asr:0: OUTPUT 3516.58-3518.26: Thank you. 
+asr:0: OUTPUT 3521.56-3526.29: Your next question comes from the line of Brian Meredith with UBS. Please go ahead. 
+asr:0: OUTPUT 3527.39-3536.32: Yes, thanks. Just two quick ones here. First one, what was the impact of premium adjustments on the BI written premium this quarter at Comp and CMP? 
+asr:0: OUTPUT 3539.02-3543.18: I'm not sure I understand the question, Brian. It's me like for workers like like re-evaluating. 
+asr:0: OUTPUT 3544.46-3547.99: Like what employment stuff is on workers comp. 
+asr:0: OUTPUT 3548.13-3555.92: Usually do it in the fourth quarter, but were there any early ones where you adjusted premium to reflect what. 
+asr:0: OUTPUT 3556.80-3558.82: What it's going to look like for the year. 
+asr:0: OUTPUT 3559.68-3567.39: I wouldn't say we normally do it in the fourth quarter. I think what you're referring to maybe is we normally do it at the, when the policy period has ended. 
+asr:0: OUTPUT 3568.07-3574.59: There has been some, and we've been open to it, there's been some more requests by customers to do some of that midterm. 
+asr:0: OUTPUT 3575.10-3584.36: But all of that's baked into our production statistics and the written premium numbers we reported for the quarter, Brian. And I think this could break out that one piece. 
+asr:0: OUTPUT 3586.17-3592.67: Okay, thanks. And then the second just quick question, just to understand the 50 basis points of increase in trend in the BI. 
+asr:0: OUTPUT 3593.45-3599.96: Is that inclusive of what you're seeing with respect to COVID-19 and maybe the benefits or adverse stuff you're seeing on COVID-19? 
+asr:0: OUTPUT 3600.22-3607.77: Or is that more related to what's going on with just general kind of tort inflation and some of the increase you saw in your GL reserves and your CMP reserves? 
+asr:0: OUTPUT 3608.79-3618.22: I think we consider everything Brian included in there, and there are some puts and takes. The net of the puts and takes was a half a point increase to the trend. 
+asr:0: OUTPUT 3619.44-3621.46: And just following on that. 
+asr:0: OUTPUT 3621.98-3629.37: Alan, you made some comments about maybe some favorable stuff happening in the court system as far as some early quick settlements. 
+asr:0: OUTPUT 3629.39-3632.71: In general, what's your kind of take on what's going on with TORT right now? 
+asr:0: OUTPUT 3633.63-3639.14: Could we potentially see an increase in tort inflation as a result of what's going on with COVID-19? 
+asr:0: OUTPUT 3641.14-3650.71: I mean, I think we certainly could, and that's one of the reasons why we're such big proponents of liability reform. I think it's important in terms of making sure we're protecting the. 
+asr:0: OUTPUT 3650.75-3653.19: Nation's recovery from the pandemic. 
+asr:0: OUTPUT 3655.14-3665.06: I think you hear a lot of rhetoric out there on that topic. But everything we see and everything we're anticipating is in that lost trend number. 
+asr:0: OUTPUT 3667.27-3677.04: Thank you. Thank you. And we have time for one more question coming from the line of Jamie Buller with JPMorgan. Please go ahead. 
+asr:0: OUTPUT 3678.74-3685.69: First, I have a question on the commercial auto business. 
+asr:0: OUTPUT 3686.07-3690.23: Is that picking up as traffic has been increasing recently? 
+asr:0: OUTPUT 3690.65-3695.36: And then relatedly, just your views on the rate adequacy in that line. 
+asr:0: OUTPUT 3695.80-3702.46: Given that you've been raising prices for a while, do you think rates need to go up further? 
+asr:0: OUTPUT 3704.48-3706.03: Good morning, this is Greg. 
+asr:0: OUTPUT 3706.07-3715.30: We certainly have seen some favorable frequency activity as the shelter at home has taken place, certainly not to the levels of personal insurance. 
+asr:0: OUTPUT 3716.12-3720.28: And just as a reminder, in commercial auto, it's a little unique and personal. 
+asr:0: OUTPUT 3720.70-3725.69: Where we do have layoff credits or premium credits when there's limited use. 
+asr:0: OUTPUT 3725.71-3731.23: There's a slight offset as we see that frequency. We have mechanisms to give that back. 
+asr:0: OUTPUT 3731.51-3735.20: Now as the economy is starting to reopen, we're seeing that frequency moderate. 
+asr:0: OUTPUT 3737.64-3743.76: And on the personal auto side, are you assuming or expecting additional refunds in the third quarter as well? 
+asr:0: OUTPUT 3746.57-3754.23: So we don't have further refunds planned in personal auto. I think like many, we're looking. 
+asr:0: OUTPUT 3754.79-3755.92: At what rate. 
+asr:0: OUTPUT 3756.02-3757.64: And looking at working with the. 
+asr:0: OUTPUT 3757.90-3759.70: Mechanisms like refiling. 
+asr:0: OUTPUT 3760.66-3765.41: To make sure that rates in line with loss trend and loss cost and personal auto that. 
+asr:0: OUTPUT 3765.55-3772.63: The refunds really were a mechanism to respond to an acute issue in the early days of the pandemic is sort of the way we're thinking about it. 
+asr:0: OUTPUT 3774.47-3779.26: And then just lastly, you mentioned a majority of the COVID losses were related to workers' comps. 
+asr:0: OUTPUT 3779.28-3785.51: I'm assuming that those losses were pretty modest. 
+asr:0: OUTPUT 3785.53-3794.49: Is that more because you haven't seen a lot of claims submission or is it just your view? You have seen submissions, but your view is that those claims are uninsured. 
+asr:0: OUTPUT 3795.16-3796.60: Given the policy language. 
+asr:0: OUTPUT 3797.42-3803.50: We've certainly seen some submissions and there's some claim activity around it and even some litigation around it. 
+asr:0: OUTPUT 3803.98-3812.17: As we've noted, we've got provisions in our policies that we think make that coverage inapplicable. 
+asr:0: OUTPUT 3812.25-3816.40: And so we don't expect many of those claims. 
+asr:0: OUTPUT 3816.44-3817.76: Actually to pay up. 
+asr:0: OUTPUT 3819.12-3827.01: One related comment to that, even where we don't expect ultimately to pay the indemnity on the loss,. 
+asr:0: OUTPUT 3827.45-3834.77: We have acknowledged in our reserves the fact that we'll spend some money defending against claims that come in for business interruption. 
+asr:0: OUTPUT 3836.00-3842.90: And on COVID, is that the line where you see the most uncertainty in terms of claims given what happens on? 
+asr:0: OUTPUT 3842.92-3848.53: In terms of litigation activity or are there other lines where there's not a lot of clarity based on what's happened so far? 
+asr:0: OUTPUT 3849.81-3850.91: You know, I... 
+asr:0: OUTPUT 3851.11-3854.63: I don't think there's a lot of uncertainty around business interruption. 
+asr:0: OUTPUT 3854.93-3863.88: Certainly there's some, because there's some litigation and there's always some certainty when you have litigation. But we've got the requirement for direct physical damage. We've got two courts that have upheld that so far. 
+asr:0: OUTPUT 3865.27-3869.43: And we've got a specific virus exclusion in our standard policy form. 
+asr:0: OUTPUT 3869.49-3876.08: But we don't actually see a lot of uncertainty there and we don't expect that to be a material loss contributor for us. 
+asr:0: OUTPUT 3880.90-3885.19: I will now turn the call back over to Abby for closing remarks. 
+asr:0: OUTPUT 3886.55-3894.65: Thank you all for joining us this morning. Appreciate it. As always, if there's any follow-up, please get in touch with Investor Relations and we're happy to answer your questions. 
+asr:0: OUTPUT 3895.36-3897.42: Be well and have a good day. Thanks. 
+asr:0: OUTPUT 3898.14-3900.00: This concludes today's conference call. 
+asr:0: END

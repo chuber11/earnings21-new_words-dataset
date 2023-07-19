@@ -1,0 +1,453 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.08-9.85: Ladies and gentlemen, thank you for standing by and welcome to AdTrans third quarter 2020 earnings release conference call. All lines have been placed on mute to prevent any background noise. 
+asr:0: OUTPUT 10.69-19.86: After the speaker's remarks, there will be a question and answer period. In order to ask a question during this period, you will need to press star then one on your telephone keypad. 
+asr:0: OUTPUT 20.00-27.25: To withdraw yourself from the queue, please press the pound key. If you require further operator assistance, please press star zero. 
+asr:0: OUTPUT 28.03-37.88: During the course of the conference call, ADTRAN representatives expect to make forward-looking statements which reflect management's best judgment based on factors currently known. 
+asr:0: OUTPUT 38.50-46.97: However, these statements involve risks and insurgencies, including the continued spread and extent of the impact of COVID-19 global pandemic. 
+asr:0: OUTPUT 47.43-51.01: The ability of component supplies to align with customer demand. 
+asr:0: OUTPUT 51.71-55.18: To successful development and market acceptance of our products. 
+asr:0: OUTPUT 55.28-60.08: Competition in the market for such products, the product and channel nets. 
+asr:0: OUTPUT 60.10-70.31: Component costs, manufacturing efficiencies, and other risks detailed in our annual report form 10-K for the year ended December 31st, 2019. 
+asr:0: OUTPUT 70.99-79.60: These risks and uncertainties could cause results to differ materially from those in the forward-looking statements which may be made during the call. 
+asr:0: OUTPUT 80.08-86.43: It is now my pleasure to turn the call over to Tom Stanton, Chief Executive Officer of AdTrip. Sir, please go ahead. 
+asr:0: OUTPUT 88.75-94.45: Thank you, Ian. Good morning, everyone. We appreciate you joining us for our third quarter 2020 conference call. 
+asr:0: OUTPUT 95.40-105.09: With me today is AgTrans CFO Mike Poliano. Following my opening remarks, Mike will review the quarterly financial performance in detail, and then we'll take any questions that you may have. 
+asr:0: OUTPUT 106.89-115.86: I'd like to begin by expressing our concern and sympathy for those affected by the ongoing global pandemic that has touched our employees, customers, partners, and suppliers. 
+asr:0: OUTPUT 117.00-124.72: The current times have changed the way we communicate, work, and learn, and I remain encouraged by our perseverance in the face of such adversity. 
+asr:0: OUTPUT 125.97-131.37: With these challenges, it is more critical than ever to connect people, communities, and businesses with each other. 
+asr:0: OUTPUT 133.23-136.90: The results for our third quarter demonstrated solid execution against our plan. 
+asr:0: OUTPUT 137.88-143.86: This included broad-based demand across our customer segments with regional and emergency service providers leading the way. 
+asr:0: OUTPUT 145.39-150.93: We were also making great progress with Tier 1 Fiber Access Projects that we announced earlier this year. 
+asr:0: OUTPUT 150.95-156.78: And continue to have very strong momentum on new customer acquisition across a broad base of market segments. 
+asr:0: OUTPUT 158.10-164.20: From a top line perspective, revenue for the quarter was $133.1 million with 44.3% gross margin. 
+asr:0: OUTPUT 165.13-172.61: Network solutions accounted for 87% of the revenue at 115.2, while global services contributed 17.9 million. 
+asr:0: OUTPUT 174.69-180.04: During the quarter we had one 10% service provider customer and one 10% distribution partner. 
+asr:0: OUTPUT 180.06-187.27: Along with strong contributions from both our direct and distribution channel partners that serve the regional broadband service provider market. 
+asr:0: OUTPUT 188.47-195.44: We added 38 new service provider customers during the quarter, bringing the total to 99 for the first three quarters of 2020. 
+asr:0: OUTPUT 196.66-204.90: These new customers range from global tier one operators to electric co-ops, cooperatives, municipalities, cable MSO, and regional broadband providers. 
+asr:0: OUTPUT 206.13-221.36: The new customer traction remains positive, reinforcing our belief that we are in the early stages of a generational communications infrastructure network upgrade cycle, driven by a confluence of favorable government, regulatory, technology, and competitive factors. 
+asr:0: OUTPUT 223.50-232.57: The strength we saw during the quarter was fueled by our continuing momentum with regional broadband operators who were up 60% year over year and 33% quarter over quarter. 
+asr:0: OUTPUT 233.79-245.11: We were also helped with a solid performance for our US Tier 2 customers who are up 18% year over year as they started to emerge from restructuring and are again investing in their network expansion. 
+asr:0: OUTPUT 246.71-253.61: In Europe, our revenue from emerging Alt-Net providers is up 76% year over year and 20% quarter over quarter. 
+asr:0: OUTPUT 253.65-257.30: And highlighting our growth that has reached. 
+asr:0: OUTPUT 259.32-268.11: For the third quarter, our fiber access and aggregation business grew 34% over the previous period and increased 66% on a year-over-year basis. 
+asr:0: OUTPUT 269.37-271.75: This continues to be our top sales category. 
+asr:0: OUTPUT 272.59-280.48: Within Fiber Access, our PON OLT revenue grew 31% quarter over quarter and a strong 77% year over year. 
+asr:0: OUTPUT 280.50-288.79: Which we believe is significantly outpacing the growth in the general market and will continue to step up our market share position in this key segment. 
+asr:0: OUTPUT 290.21-299.74: We also saw strong revenue contribution from our U.S. Regional broadband service providers, growing 37% over the previous period and 58% over the previous year. 
+asr:0: OUTPUT 300.00-304.54: A broad-based growth across both direct and distribution channels. 
+asr:0: OUTPUT 306.37-314.77: From a supply chain perspective, lead times remained extended on some key components and vendors, but our operations team took several proactive steps to mitigate logistics. 
+asr:0: OUTPUT 314.79-317.92: And component availability challenges to meet our customers' needs. 
+asr:0: OUTPUT 318.76-322.06: In our efforts to address these needs, we have increased our inventory levels. 
+asr:0: OUTPUT 322.08-329.89: And incurred increased freight costs due to decreased capacity associated with higher transportation rates and expedite fees. 
+asr:0: OUTPUT 331.51-338.86: From an organizational perspective, the structural changes that we have implemented over the last 12 months continue to improve our operational efficiency. 
+asr:0: OUTPUT 339.68-348.35: The company has achieved material reductions in operating expenses through control and expense management. And we are ahead of our plan for the target operating model moving forward. 
+asr:0: OUTPUT 350.45-360.02: On the product side, we are focusing on growing our wallet share with our service provider customers. In addition to selling fiber-active OLT, we are growing our residential gateway business. 
+asr:0: OUTPUT 361.16-373.71: Residential gateway revenue grew 22% quarter over quarter and a strong 64% year over year as we increase the number of OLT customers also buying our RGs by 17% year to date. 
+asr:0: OUTPUT 375.10-380.84: In addition to RG attach rates, we have also focused on increasing attach rates for our Mosaic software subscription services. 
+asr:0: OUTPUT 380.86-386.33: As we migrate customers to our Mosaic suite in our upcoming Mosaic One Virtual Control Center. 
+asr:0: OUTPUT 388.29-395.16: On October 29th, the SEC began its 904 auctions for $16 billion of RDOF broadband subsidy. 
+asr:0: OUTPUT 396.42-401.54: There are 386 qualified bidders that represent over 700 operators. 
+asr:0: OUTPUT 402.54-413.93: Whereas the Connect America fund was targeted to large price cap carriers providing a first-rater refusal, the RDOF subsidies provide an opportunity for rural, local exchange carriers and community broadband providers. 
+asr:0: OUTPUT 413.95-415.88: Such as low electric flow. 
+asr:0: OUTPUT 415.90-418.46: To receive 10 years of funding. 
+asr:0: OUTPUT 419.52-425.69: We expect to see RDoC funding to begin to positively impact our revenue beginning in the mid-2021 timeframe. 
+asr:0: OUTPUT 428.25-436.62: And you're going around the world is to keep you can point to five gm fiber broadband infrastructure is causing government to carefully reconsider the security risks of their networks. 
+asr:0: OUTPUT 436.64-443.54: And implementation policies and are implementing policies to ban high-risk vendors for participating in these network builds. 
+asr:0: OUTPUT 444.90-449.57: As a result, AdTrans stands out as a safe, technically advanced alternative. 
+asr:0: OUTPUT 449.59-455.72: To those high-risk vendors as national operators look to limit, cap, or replace high-risk vendors in their networks. 
+asr:0: OUTPUT 457.98-467.51: 2020 has brought forth a number of challenges that none of us could have envisioned. However, we have risen to these challenges and are emerging as an even stronger and more resilient company. 
+asr:0: OUTPUT 468.39-475.48: We have achieved much thus far in 2020 with the material benefits just beginning to bear fruit. 
+asr:0: OUTPUT 475.52-480.94: And as they start to begin to be more fully recognized next year. 
+asr:0: OUTPUT 483.68-493.33: We have much to be excited about, including the growing number of new customers selecting our products and services to build out or upgrade their networks with rapid adoption of our Mosaic platform. 
+asr:0: OUTPUT 493.35-504.70: And subscription services and our SDX solutions as Tier 1 operators begin their transition to the network of the future and the promise of RDOF awards and begin. 
+asr:0: OUTPUT 504.72-512.45: And being able to help regional service providers, utilities, and municipalities provide gigabit services to the communities that they serve. 
+asr:0: OUTPUT 513.99-518.12: I am proud of our company and our employees for the success we have seen thus far this year. 
+asr:0: OUTPUT 519.10-524.96: We look forward to a strong finish to 2020 and have a bright outlook as we look ahead into 2021. 
+asr:0: OUTPUT 526.49-531.85: Michael Nassarov, I didn't overview our financials and following his remarks, I will open up to any questions that you may have. 
+asr:0: OUTPUT 533.97-541.64: Thank you, Tom, and good morning to all. I will review our thanksgiving results and provide our view for the fourth quarter of 2020. 
+asr:0: OUTPUT 542.72-546.95: During my report, I will be referencing both GAP and non-GAP results. 
+asr:0: OUTPUT 548.03-567.27: With respect to non-GAAP financial measures that are discussed on this call but are not presented in our earnings release, reconciliations to their comparable GAAP measures are published in a supplemental financial schedule that appears on our investor relations webpage at www.adtran.com. 
+asr:0: OUTPUT 568.19-577.08: For non-GAAP measures discussed on this call that are presented in the earnings release, reconciliations are contained within the release. 
+asr:0: OUTPUT 577.96-590.27: The supplemental financial schedules on our webpage also present certain revenue information by segment and category and other non-GAAP reconciliations, which I will be discussing today. 
+asr:0: OUTPUT 591.59-608.31: As Tom said, Abtrain's third quarter revenue came in at $133.1 million compared to $128.7 million in the prior quarter and $114.1 million for the third quarter of 2019. 
+asr:0: OUTPUT 610.15-613.15: Breaking this down across our operating segments. 
+asr:0: OUTPUT 613.49-620.00: Our network solutions revenue for the third quarter was $115.2 million. 
+asr:0: OUTPUT 620.34-626.63: Versus $111.3 million reported for Q2 of 2020. 
+asr:0: OUTPUT 626.65-630.67: And $94 million in Q3 of 2019. 
+asr:0: OUTPUT 631.89-643.08: Our services and support revenue in Q3 of this year was $17.9 million compared to $17.4 million reported in the second quarter of 2020. 
+asr:0: OUTPUT 643.14-648.29: And $20.1 million for the third quarter of 2019. 
+asr:0: OUTPUT 650.07-663.44: Across our revenue categories, access and aggregation revenue for quarter three of 2020 was $85.4 million, compared to $82.8 million in the prior quarter. 
+asr:0: OUTPUT 663.46-668.07: And $65.1 million in quarter three of 2019. 
+asr:0: OUTPUT 669.67-678.08: Revenue for our subscriber solutions and experience category was $43.1 million for the quarter. 
+asr:0: OUTPUT 678.10-683.90: Versus $40.4 million in quarter two of 2020. 
+asr:0: OUTPUT 683.96-688.75: And $32.5 million in quarter three of 2019. 
+asr:0: OUTPUT 690.31-700.02: Traditional and other products revenue for the quarter was $4.6 million compared to $5.5 million for quarter two of 2020. 
+asr:0: OUTPUT 700.38-705.15: And $6.5 million for quarter three of 2019. 
+asr:0: OUTPUT 706.59-709.59: Looking at our revenues geographically. 
+asr:0: OUTPUT 709.69-715.36: Domestic revenue for Q3 2020 was $92.8 million. 
+asr:0: OUTPUT 715.38-721.82: Versus $84.5 million reported in quarter two of 2020. 
+asr:0: OUTPUT 721.84-727.59: And $83.1 million in quarter three of 2019. 
+asr:0: OUTPUT 728.81-740.70: Our international revenue for the quarter was $40.3 million compared to $44.3 million for quarter two of 2020. 
+asr:0: OUTPUT 740.72-746.55: And $30.9 million in quarter three of 2019. 
+asr:0: OUTPUT 748.33-754.61: For the third quarter, we had two 10% of revenue customers. Both of these were domestic customers. 
+asr:0: OUTPUT 756.60-759.60: Our gap grows margin for the third quarter of this year. 
+asr:0: OUTPUT 760.00-766.75: Was 44.3% as compared to 41.5% last quarter. 
+asr:0: OUTPUT 766.77-770.99: And 40.6% in the third quarter of 2019. 
+asr:0: OUTPUT 772.53-782.50: Non-GAAP gross margin for quarter three was 44.5% as compared to 41.6% in the prior quarter. 
+asr:0: OUTPUT 782.52-786.17: And 41% in the third quarter of 2019. 
+asr:0: OUTPUT 787.63-802.18: The quarter over quarter increase in both gap and non-gap gross margins were driven by increases in volume as well as favorable product and services mix. And lower freight related charges in the current quarter. 
+asr:0: OUTPUT 803.78-808.99: The increases in both gap and non-gap gross margins on a year-over-year basis. 
+asr:0: OUTPUT 809.01-818.58: Were driven by increases in volume as well as product myths which were partially offset by higher freight related charges and expedite premiums. 
+asr:0: OUTPUT 820.54-828.63: Total operating expenses on a gap basis were $54.4 million for quarter three of 2020. 
+asr:0: OUTPUT 828.65-839.52: Compared to $59.5 million reported in the prior quarter and $62.7 million for quarter three of 2019. 
+asr:0: OUTPUT 840.66-848.83: The quarter over quarter decrease was primarily related to market driven decreases in our deferred compensation expense. 
+asr:0: OUTPUT 849.15-858.92: As well as expense reductions in both R&D and SG&A as a result of our restructuring program initiated in 2019. 
+asr:0: OUTPUT 858.96-865.83: And reduce travel expenses offset by increases in some restructuring related costs. 
+asr:0: OUTPUT 867.07-875.26: The year-over-year decreases in operating expenses were a result of lower expenses in both R&D and SG&A. 
+asr:0: OUTPUT 875.30-878.76: And lower travel-related expenses. 
+asr:0: OUTPUT 878.78-887.21: Partially offset by market-driven increases in our deferred compensation expense and an increase in contract services costs. 
+asr:0: OUTPUT 888.83-890.79: On a non-GAP basis. 
+asr:0: OUTPUT 890.81-900.66: Our third quarter operating expenses were $49.4 million compared to $52.3 million in the prior quarter. 
+asr:0: OUTPUT 900.68-905.83: And $59.4 million in quarter three of 2019. 
+asr:0: OUTPUT 907.71-920.68: Both the non-GAAP quarter over quarter and year over year decreases in operating expense were primarily driven as a result of our expense reduction efforts and lower travel related expenses. 
+asr:0: OUTPUT 922.52-930.21: Operating income on a gap basis for the third quarter of 2020 was $4.5 million. 
+asr:0: OUTPUT 930.23-935.46: Compared to an operating loss of $6 million in the prior quarter. 
+asr:0: OUTPUT 935.48-940.60: And an operating loss of 20.3 million reported in Q3 of 2019. 
+asr:0: OUTPUT 942.02-950.91: Non-GAAP operating income for quarter three of 2020 was $9.9 million compared to an operating income. 
+asr:0: OUTPUT 950.93-956.58: Of $1.3 million in Q2 of 2020. 
+asr:0: OUTPUT 956.60-962.62: And an operating loss of $12.6 million in quarter three of 2019. 
+asr:0: OUTPUT 964.06-974.69: The quarter over quarter and year over year gap and non-gap profitability was driven by higher sales with favorable gross margin mix and reduced operating expenses. 
+asr:0: OUTPUT 976.58-983.82: Other income on a gap basis for the third quarter of 2020 was $1.5 million. 
+asr:0: OUTPUT 983.84-989.21: Compared to other income of $8.4 million in the prior quarter. 
+asr:0: OUTPUT 989.23-993.81: And other income of $1.9 million in quarter three of 2019. 
+asr:0: OUTPUT 995.28-1006.79: Our non-GAAP other income for the quarter was $900,000 compared to other income of $5.7 million in Q2 2020. 
+asr:0: OUTPUT 1006.81-1013.83: And other income of $2.7 million for quarter three of 2019. 
+asr:0: OUTPUT 1015.32-1024.08: The decreases in both gap and non-gap other income as compared to quarter over quarter were primarily market driven. 
+asr:0: OUTPUT 1024.10-1028.43: Caused by changes in the valuation of our investment portfolio. 
+asr:0: OUTPUT 1029.45-1032.21: The decreasing gap and non-gap of their income. 
+asr:0: OUTPUT 1033.07-1046.21: On a year-over-year basis was primarily driven by realized foreign exchange losses offset by market-driven upsides in the valuation of our investment portfolio. 
+asr:0: OUTPUT 1048.01-1054.83: The company's tax provision for the third quarter of 2020 was $600,000. 
+asr:0: OUTPUT 1054.85-1061.70: Of expense as compared to an expense of $1.6 million in the prior quarter. 
+asr:0: OUTPUT 1061.72-1068.35: At an expense of $27.7 million in the third quarter of 2019. 
+asr:0: OUTPUT 1069.93-1080.34: The current quarter tax expense was primarily due to profitability in our international operations as the deferred tax benefits generated by our domestic operations. 
+asr:0: OUTPUT 1080.36-1084.24: Continue to be offset by changes in our evaluation allowance. 
+asr:0: OUTPUT 1085.43-1093.45: The tax expense in the third quarter of last year was the result of a valuation allowance against our domestic deferred tax assets. 
+asr:0: OUTPUT 1095.92-1101.72: Gap net income for quarter three of 2020 was $5.5 million. 
+asr:0: OUTPUT 1102.08-1107.11: Compared to a net income of $800,000 in the prior quarter. 
+asr:0: OUTPUT 1107.13-1112.77: And a net loss of $46.1 million in the third quarter of 2019. 
+asr:0: OUTPUT 1114.07-1119.62: Non-GAAP net income for the third quarter of 2020 was $7.9 million. 
+asr:0: OUTPUT 1119.64-1129.63: As compared to an income of $1.6 million in the prior quarter and a loss of $2.8 million in quarter three of 2019. 
+asr:0: OUTPUT 1131.77-1138.20: Earnings per share, assuming dilution on a gap basis was 11 cents per share. 
+asr:0: OUTPUT 1138.22-1147.73: As compared to 2 cents per share last quarter and a loss of 96 cents per share in the third quarter of 2019. 
+asr:0: OUTPUT 1149.25-1156.46: Non-GAAP earnings per share, assuming dilution for the third quarter, was $0.16. 
+asr:0: OUTPUT 1156.48-1160.98: Compared to an income of 4 cents per share in the prior quarter. 
+asr:0: OUTPUT 1161.00-1165.41: And a loss of six cents per share in quarter three of 2019. 
+asr:0: OUTPUT 1167.99-1181.88: Turning to the balance sheet, unrestricted cash and marketable securities totaled $132.2 million at quarter end after paying $4.3 million in dividends during the quarter. 
+asr:0: OUTPUT 1183.28-1187.75: For the quarter we used $7 million of cash from operations. 
+asr:0: OUTPUT 1189.59-1198.58: Net trade accounts receivable was $100.2 million a quarter in, resulting in a DSO of 69 days. 
+asr:0: OUTPUT 1198.60-1202.02: Compared to 67 days in the prior quarter. 
+asr:0: OUTPUT 1202.04-1206.33: And 73 days at the end of the third quarter of 2019. 
+asr:0: OUTPUT 1207.55-1217.12: The variability in DSOs quarter over quarter and year over year is mainly attributable to the timing of shipments during the quarter and customer mix. 
+asr:0: OUTPUT 1218.54-1230.53: Net inventories ended the quarter at $120.3 million compared to $106.1 million in Q2 of. 
+asr:0: OUTPUT 1230.55-1237.28: And $104.9 million at the end of Q3 2019. 
+asr:0: OUTPUT 1238.52-1249.27: The increase in our inventories for the quarter that just ended was in preparation for new product ramp-ups and strategic inventory buffer purchases. 
+asr:0: OUTPUT 1249.29-1254.25: Made to ensure supply continuity during the pandemic. 
+asr:0: OUTPUT 1254.71-1261.22: We believe that we are positioned to maintain adequate liquidity in the current environment. 
+asr:0: OUTPUT 1262.96-1264.66: Looking ahead to the next quarter. 
+asr:0: OUTPUT 1265.75-1274.65: The possible effects of the ongoing COVID-19 pandemic, the ability of component supplies to align with our customer demand. 
+asr:0: OUTPUT 1274.97-1281.58: The book and ship nature of our business, the timing of revenue associated with large projects. 
+asr:0: OUTPUT 1281.60-1292.99: The variability of order patterns into the customer base in which we sell as well as the fluctuation in currency exchange rates in our international markets. 
+asr:0: OUTPUT 1293.01-1298.14: May cause material differences between our expectations and the actual results. 
+asr:0: OUTPUT 1298.50-1302.58: We expect that our fourth quarter 2020 revenue. 
+asr:0: OUTPUT 1302.60-1308.87: Will be in the range of $122 million to $132 million. 
+asr:0: OUTPUT 1310.25-1319.14: After considering the projected sales mix, we expect that our fourth quarter gross margin on a non-GAAP basis. 
+asr:0: OUTPUT 1319.16-1323.02: Will be in the range of 41% to 42%. 
+asr:0: OUTPUT 1324.56-1334.85: We also expect non-GAAP operating expenses for the fourth quarter of 2020 will be between $50 and $51 million. 
+asr:0: OUTPUT 1336.34-1342.26: And finally, we anticipate the consolidated tax rate for the fourth quarter of 2020. 
+asr:0: OUTPUT 1342.28-1355.14: On a non-GAAP basis will be a benefit at a mid-single-digit percentage rate resulting from the expected mix of domestic and international income in the quarter. 
+asr:0: OUTPUT 1357.02-1362.98: We believe that the significant factors impacting revenue and earnings realized in 2020. 
+asr:0: OUTPUT 1363.00-1369.57: Will be component availability, a macro spending environment for carriers and enterprises,. 
+asr:0: OUTPUT 1369.59-1373.43: Ongoing effects of the COVID-19 pandemic. 
+asr:0: OUTPUT 1373.73-1378.86: The variability of mix and revenue associated with project rollouts. 
+asr:0: OUTPUT 1378.88-1384.72: The proportion of international revenue relative to our total revenue. 
+asr:0: OUTPUT 1384.74-1390.73: Professional services activity levels in both domestic and international markets. 
+asr:0: OUTPUT 1391.33-1395.72: The adoption rate of our broadband access platforms. 
+asr:0: OUTPUT 1395.74-1405.45: Potential changes in tax laws, currency exchange rate movements, and inventory fluctuations in our distribution channels. 
+asr:0: OUTPUT 1406.79-1416.60: Once again, additional financial information is available at ADTRAN's investor relations webpage at www.ADTRAN.com. 
+asr:0: OUTPUT 1416.82-1419.20: Now I'll turn the call back over to Tom. 
+asr:0: OUTPUT 1420.22-1425.19: Great. Thank you, Mike. And at this point, we're ready to open up for any questions people may have. 
+asr:0: OUTPUT 1426.71-1434.57: At this time, if you'd like to ask a question over the phone lines, please press star then one on your telephone keypad. We will pause for a moment to compile the Q&A roster. 
+asr:0: OUTPUT 1436.24-1441.48: Your first question comes from the line of Rich Valera of Needham & Company. Your line is open. 
+asr:0: OUTPUT 1443.22-1452.29: Thank you, good morning. Tom, you mentioned that you, sounded like you mentioned you got a new tier one in Q3 when you talked about your new customer. 
+asr:0: OUTPUT 1452.31-1457.14: I just wanted to clarify, is that the case? And if it is, can you say anything about that, that would? 
+asr:0: OUTPUT 1460.54-1467.87: I did actually say that in my notes, but in reality we did announce a new tier one at the end of September. 
+asr:0: OUTPUT 1469.37-1471.75: Which was for fiber extension. 
+asr:0: OUTPUT 1472.41-1477.68: And we did pick up another tier one customer within the quarter where they expanded. 
+asr:0: OUTPUT 1477.70-1484.74: Their programs with us to include a different variation on the technology that we had been previously awarded. 
+asr:0: OUTPUT 1485.01-1486.95: Or have some, but I didn't mention any of my notes. 
+asr:0: OUTPUT 1489.17-1490.21: Got it, that's helpful. 
+asr:0: OUTPUT 1490.23-1499.60: I think you also mentioned that you've made good progress with your previously announced tier ones and I guess those who include among others DT. 
+asr:0: OUTPUT 1500.00-1508.41: Open reach maybe and the unnamed US Tier 1. Is there any updates you can give us on those in terms of progress and or revenue? 
+asr:0: OUTPUT 1508.43-1511.05: Expectations, initial revenue expectations. 
+asr:0: OUTPUT 1512.99-1517.32: So one of those is a brand new customer force, as you're aware. 
+asr:0: OUTPUT 1519.18-1525.31: All three of them are going well. All three of them are at different stages of lab work. 
+asr:0: OUTPUT 1526.87-1531.17: We actually have received some POs from the new customer, but that's associated with... 
+asr:0: OUTPUT 1531.21-1539.80: Initial lab work and some of the software work that we're doing for them. 
+asr:0: OUTPUT 1540.38-1544.12: So that actually booked and shipped in the quarter. 
+asr:0: OUTPUT 1545.47-1554.91: But all three of them are going well. So we expect material revenue contributions from them to really start in the first half, towards the tail end of the first half of next year. 
+asr:0: OUTPUT 1557.28-1560.00: And then,. 
+asr:0: OUTPUT 1560.48-1562.26: Question on order. 
+asr:0: OUTPUT 1562.52-1571.17: You've talked about it being kind of a mid 21 revenue opportunity. I think some of your competitors have suggested maybe it's more of a 2022. 
+asr:0: OUTPUT 1572.05-1581.04: Any further clarification on your thoughts on timing, is that sort of a 3Q, 21, or 4Q, any thoughts on that? 
+asr:0: OUTPUT 1582.12-1589.69: Yeah, and I guess here again, this is the different, you know, when does it, it's one of those things that's gonna start, it will start slower. 
+asr:0: OUTPUT 1590.69-1600.66: You know you have so many participants some of them have plans completely worked out some of them don't have plans at all they've been just focusing on the bidding process. 
+asr:0: OUTPUT 1601.24-1606.63: So I think you'll start seeing it around the half and then you'll start seeing it ramp up from there. 
+asr:0: OUTPUT 1608.63-1613.63: Just one more, Mike, modeling question on OPEX levels. 
+asr:0: OUTPUT 1614.97-1623.06: If we're looking into next year, and I know you don't give guidance out there, but if we're trying to think about what an OPEX number looks like, it's kind of a normalized T&E level. 
+asr:0: OUTPUT 1623.08-1629.41: Any thoughts on how much that maybe adds back into the model as P&E gets back to. 
+asr:0: OUTPUT 1630.01-1631.37: You know, some kind of normalized level. 
+asr:0: OUTPUT 1633.35-1641.12: We expect, you know, we've had a plan to get to about where we are right now, and we expect that we're going to hold that into next year or so. 
+asr:0: OUTPUT 1641.38-1644.78: I wouldn't try to model any increases. 
+asr:0: OUTPUT 1645.15-1650.37: I think like a lot of companies, everybody's rethinking the whole T&E going forward. 
+asr:0: OUTPUT 1650.85-1656.70: I think your model going into next year should look a lot like what we're seeing at the end of this year. 
+asr:0: OUTPUT 1658.60-1661.48: Very good. Thank you for that, Mike. I'll see the book. 
+asr:0: OUTPUT 1663.12-1668.95: Thank you. Your next question comes from Rod Hall of Goldman Sachs. Your line is open. 
+asr:0: OUTPUT 1671.31-1674.43: Hi, thanks for taking my questions. This is Bala Reddy on Kororad. 
+asr:0: OUTPUT 1675.46-1678.74: Just to start off, could you give us some color on... 
+asr:0: OUTPUT 1678.76-1683.36: What you're seeing in terms of broadband demand and activity here in the US. 
+asr:0: OUTPUT 1683.38-1689.27: And maybe try to handicap that across the tier 1, 2, 3, you know,. 
+asr:0: OUTPUT 1689.31-1694.23: And then also how you're thinking about the sustainability of the momentum into next year. 
+asr:0: OUTPUT 1698.32-1705.51: First, a lot of activity, and I touched on the growth rates in the tier three space, a lot of activity in the tier threes. 
+asr:0: OUTPUT 1707.35-1711.71: Which is separate from what's going on with RDOF. 
+asr:0: OUTPUT 1712.29-1719.58: A lot of network upgrades. We rolled out our combo card, which is the 10-gig solution, a good pickup on a combo card. 
+asr:0: OUTPUT 1720.22-1726.73: And so just a lot of activity and I think a lot of it has got to do with just end user demand. 
+asr:0: OUTPUT 1726.79-1732.73: Based off of the environment that we are in and people understanding the importance of good connectivity. 
+asr:0: OUTPUT 1734.39-1740.02: Same thing in the Tier 2s. I think the Tier 2s are finally getting. 
+asr:0: OUTPUT 1740.16-1748.15: Past whatever financial issues they may have had and some of them have started executing, one of them explicitly has started executing on expansion plans. 
+asr:0: OUTPUT 1749.45-1751.23: And I don't see that stopping. 
+asr:0: OUTPUT 1752.11-1759.94: And I think the other one actually is kind of woken up and getting better. And that includes not just those, but some of the MSOs as well. 
+asr:0: OUTPUT 1760.32-1767.61: So I don't see a near-term end. In fact, I see people planning farther out. 
+asr:0: OUTPUT 1767.75-1776.72: Then and kind of figuring out how they're going to readjust to what may be a different work environment. 
+asr:0: OUTPUT 1776.78-1780.52: In a lot of areas than what they had going into this pandemic. 
+asr:0: OUTPUT 1781.14-1787.21: I don't think it's all pandemic driven either. I mean, the activity that's going on in the tier twos has been part of their stated plan. It just got put off. 
+asr:0: OUTPUT 1787.69-1793.95: The tier threes have been heating up for some period of time, even prior to that. We had solid growth in that space last year as well. 
+asr:0: OUTPUT 1795.40-1799.54: And then the tier ones, you know, we really in the US. 
+asr:0: OUTPUT 1800.00-1804.82: We're in the cable MSO space and we're with large carriers. 
+asr:0: OUTPUT 1804.94-1810.33: And with one of the large carriers here in the TOCO space in relation to pollen. 
+asr:0: OUTPUT 1811.01-1820.48: And I would say the activity there is, I would say we've seen good activity. I wouldn't call it, you know, earth shattering. 
+asr:0: OUTPUT 1820.54-1821.68: I would say it's solid. 
+asr:0: OUTPUT 1822.68-1829.65: And a lot of that work is really trying to figure out what they're going to do into next year. So I think a lot of that is just. 
+asr:0: OUTPUT 1830.19-1835.18: I think a real pickup there will probably be a year, this time next year, maybe a little bit earlier than that. 
+asr:0: OUTPUT 1836.62-1837.64: Did that answer your question? 
+asr:0: OUTPUT 1840.00-1849.57: So, thanks so much. And just a quick follow up on the gross margins, and you mentioned about the volumes and product mix. Maybe you can expand on it a little bit, like what volumes you're talking about. 
+asr:0: OUTPUT 1852.89-1861.30: So it's product mix. At the end of the day, we're selling without getting too deep into. 
+asr:0: OUTPUT 1861.54-1866.35: We're selling pond. One of the things, if you step back and look at what our business has done. 
+asr:0: OUTPUT 1868.27-1872.85: We've really made the transition from copper to fiber. 
+asr:0: OUTPUT 1873.81-1879.32: And some of the fiber components that we're selling specifically when you're talking about OLT and stuff just have a richer mix. 
+asr:0: OUTPUT 1880.02-1889.19: We also have, based off of international and domestic revenue mix, we have a material difference in those gross margin profiles. 
+asr:0: OUTPUT 1889.55-1893.69: Those are probably the two biggest things that were driving the gross margin difference. 
+asr:0: OUTPUT 1900.04-1904.74: Your next question comes from the line of Paul Silverstein of Calland. Your line is open. 
+asr:0: OUTPUT 1906.29-1909.01: Just a clarification first before my question. 
+asr:0: OUTPUT 1909.29-1917.54: To the response to the previous question, obviously I trust non-US lower margin than the US as a general proposition. 
+asr:0: OUTPUT 1918.08-1922.58: But on the product piece of the revenue, I apologize if you just said this. 
+asr:0: OUTPUT 1922.88-1929.43: The margin differential it's more favorable for your fiber based or less favorable. 
+asr:0: OUTPUT 1929.63-1938.92: That the distinction making in terms of the product mix influencing the gross margin profile in what is the key? difference there. 
+asr:0: OUTPUT 1941.14-1948.55: I would say what's happening in the fiber space is we're selling... 
+asr:0: OUTPUT 1948.57-1952.33: The mix towards OLTs is much higher. 
+asr:0: OUTPUT 1953.47-1961.26: Exactly right so that that's the key driver the product. 
+asr:0: OUTPUT 1963.00-1968.19: That's probably you know i don't have a list of that that's definitely in the top three. 
+asr:0: OUTPUT 1969.51-1971.21: We might have really strong. 
+asr:0: OUTPUT 1973.41-1976.18: I thought that it might be close to a few of the quarter. 
+asr:0: OUTPUT 1976.20-1984.06: In terms of launch or market profile, you obviously just have a very good market quarter driven by both volume and the shift to LTs. 
+asr:0: OUTPUT 1984.44-1990.71: The guiding back to your traditional guidance in the low 40s for the December quarter. 
+asr:0: OUTPUT 1991.61-1999.66: Has there been any change in your view about longer term? Are you still looking at low 40s, gross margin profile longer term or with the benefit of volume? 
+asr:0: OUTPUT 2000.24-2004.38: Which shifts are all fees, can that be better than that? And then I've got one follow-up question. 
+asr:0: OUTPUT 2006.21-2015.28: Yeah, I think I would say low to mid, so somewhere right in that range. And you see variability in here. Remember in Q1, we were pretty hot. 
+asr:0: OUTPUT 2016.28-2021.40: So it jumps around a lot. So I tried to project this by looking at what we see. 
+asr:0: OUTPUT 2021.66-2028.47: But we are a book and ship business and what comes in during a quarter is a little bit hard to test. 
+asr:0: OUTPUT 2028.49-2035.92: I believe that that 41 to 42 guidance is probably what the mix will turn out to be for the quarter. 
+asr:0: OUTPUT 2037.30-2042.68: I think the variability also is a thing to maybe think about, Paul. 
+asr:0: OUTPUT 2042.70-2047.61: We don't have, we don't know exactly what tier threes will do next year. 
+asr:0: OUTPUT 2047.87-2057.36: The tier threes are strong. That typically helps us because not just the nature of what they buy, but also the software components associated with that. So that tends to drive more strength. 
+asr:0: OUTPUT 2057.84-2061.44: Thing that we're trying to factor in at this point in not changing the longer-term guidance. 
+asr:0: OUTPUT 2061.88-2068.59: There is a real potential for material international revenue upticking next year. 
+asr:0: OUTPUT 2068.99-2072.67: And whether or not the tier threes here in the US are going to keep pace with that. 
+asr:0: OUTPUT 2073.09-2076.42: It is kind of the thing that we just have to look and see. 
+asr:0: OUTPUT 2076.68-2078.94: There's no doubt that the pressure. 
+asr:0: OUTPUT 2079.30-2088.73: Some of the pressure has been alleviated in places like Europe because of the stance on some of the vendors there. 
+asr:0: OUTPUT 2089.15-2097.16: But there's still a hangover effect on all of that. And the stronger that that business is, you'll tend to see a weakness in the gross margin. 
+asr:0: OUTPUT 2098.52-2104.72: You just made a selfie to make good progress in tier 3. What percentage of total revenue are tier 3 today? 
+asr:0: OUTPUT 2108.21-2114.29: Really don't break that out. I'll tell you it's material. It's over 50 million. 
+asr:0: OUTPUT 2115.44-2117.04: But we don't break that up. 
+asr:0: OUTPUT 2119.44-2127.05: Quick final question if I may. I know it's hard predicting the future, but assuming you get the revenues you're expecting from these new tier one wins,. 
+asr:0: OUTPUT 2127.27-2133.17: Tom, do you have any visibility as to what the margin profile is in total? 
+asr:0: OUTPUT 2133.55-2142.30: Not asking any specific customer, but on the tier ones, would that be consistent with the current margin structure? Would it be diluted? Would it be accretive? Any sense? 
+asr:0: OUTPUT 2144.36-2153.69: I'm going to talk to you about international gross margins. It would probably be a little accretive to international gross margins, but it would be diluted to total corporate gross margins. 
+asr:0: OUTPUT 2155.16-2156.58: I appreciate all possible. Thank you. 
+asr:0: OUTPUT 2157.48-2166.65: And that's the mix I'm talking about. How much does that pile in? That gets better over time. How much does that pile in versus what's going on with the US market in tier 3? 
+asr:0: OUTPUT 2168.81-2178.34: Your next question comes from the line of Bill Gazzello of Tyson Capital. Your line is open. 
+asr:0: OUTPUT 2179.46-2182.04: Thank you. A couple of different questions. First of all,. 
+asr:0: OUTPUT 2182.14-2190.45: The two tier ones, the one that you won and the one with the new program that you specifically called out,. 
+asr:0: OUTPUT 2191.07-2192.45: Would you talk about the ramp? 
+asr:0: OUTPUT 2193.11-2203.10: And the timing for material revenues, and is that different than your comment about late in the first half of next year that you made it to a bigger comment? 
+asr:0: OUTPUT 2203.84-2212.79: And then the second question is, can you talk through just the European country shutdowns that are happening once again here in the last few days? 
+asr:0: OUTPUT 2213.29-2215.24: What implications, if any, that has for you. 
+asr:0: OUTPUT 2217.46-2218.72: Let me start with the first one. 
+asr:0: OUTPUT 2221.68-2222.94: The first. 
+asr:0: OUTPUT 2222.96-2232.55: The half ramp that I was talking about was really around the previous SDX awards, the three customers that we've talked about. 
+asr:0: OUTPUT 2232.57-2241.32: And really I'm talking about in totality. There are some different dates on all of those, but we'll start saying as a combination. 
+asr:0: OUTPUT 2241.34-2243.88: We'll start seeing material revenue around the half of next year. 
+asr:0: OUTPUT 2246.21-2254.35: As far as the new ones, one of them is fairly quick, but as far as seeing any revenue,. 
+asr:0: OUTPUT 2256.50-2261.42: I think it's, I don't have a good sense of timing as to when that picks up. 
+asr:0: OUTPUT 2262.00-2268.63: At this point, I think that they want to get started and they have some very targeted areas and then they want to kind of see how it works. 
+asr:0: OUTPUT 2269.63-2275.82: The other one is very specific, and Mike, I don't recall the date on that. I think it's third quarter of next year. 
+asr:0: OUTPUT 2277.58-2278.80: And that one is big. 
+asr:0: OUTPUT 2280.48-2282.84: It's a well-known customer to us. 
+asr:0: OUTPUT 2284.40-2294.37: They have very specific plans with very specific revenue targets associated with it. The current date is third quarter. Make sure I will tell you that these things tend to slip a little bit. 
+asr:0: OUTPUT 2295.24-2297.90: What I was talking about before was really the fiber piece. 
+asr:0: OUTPUT 2298.40-2300.00: As far as the shutdown is concerned. 
+asr:0: OUTPUT 2300.06-2301.12: Other than, you know... 
+asr:0: OUTPUT 2301.14-2310.57: It really hasn't, you know, we've been operating in a relatively shut down environment anyways from an end user demand, really no difference. 
+asr:0: OUTPUT 2310.89-2314.03: And we haven't seen any near-term changes. 
+asr:0: OUTPUT 2314.59-2322.98: In the way that they're operating. Where it really affects us is when you're trying to meet with customers. 
+asr:0: OUTPUT 2323.00-2327.57: And really, you know, with the lab activity we have going on around the world right now. 
+asr:0: OUTPUT 2327.73-2329.21: It tends to impact that. 
+asr:0: OUTPUT 2331.23-2341.02: So far we've been able to maneuver around that. I'm not aware of any material delay because of the quarantine situation that we're in. 
+asr:0: OUTPUT 2341.30-2346.61: And I don't expect it, I think, especially our bigger customers. 
+asr:0: OUTPUT 2346.75-2349.91: But even our small customers when I think about what's going on in Europe. 
+asr:0: OUTPUT 2350.01-2358.98: Have kind of developed an environment where we can talk to their counterparts in the lab, work through issues. 
+asr:0: OUTPUT 2359.14-2362.34: In many cases, get into the systems themselves remotely. 
+asr:0: OUTPUT 2362.92-2371.19: And operate the way we need to operate. So I'm not, every once in a while you hear about a week delay here or there, but that's not that frequent. 
+asr:0: OUTPUT 2372.83-2377.40: And deployment is not impacted by stay-at-home orders. 
+asr:0: OUTPUT 2377.82-2391.93: No change in that. And even in Europe, what we were seeing as far as infrastructure, especially with the new awards, we're talking about material infrastructure builds to begin with. 
+asr:0: OUTPUT 2392.23-2401.38: Because they're really talking about building out footprint, either replacing existing infrastructure that they have or expanding footprint in many cases. 
+asr:0: OUTPUT 2401.88-2404.32: There's been no change in those plans. 
+asr:0: OUTPUT 2406.05-2415.28: Great, thank you. And if I may throw in one more question. Latin America, what are you seeing with your important customers down there? 
+asr:0: OUTPUT 2420.92-2428.33: So in the Caribbean we're actually doing well. We have some strong... 
+asr:0: OUTPUT 2428.65-2434.13: I don't want to overplay it at this point. We have some activity going on in places like Brazil. 
+asr:0: OUTPUT 2434.71-2439.50: Whether also of course honestly, you know the SPX maybe you know the SPX. 
+asr:0: OUTPUT 2440.18-2445.99: Is kind of the architecture people want to go to and so there are large carriers. 
+asr:0: OUTPUT 2446.15-2456.80: There's not a large carrier that isn't looking at a migration towards XGS 10 gig. And if you're going to do that, you're going to do that with a virtualized system like the SDX. 
+asr:0: OUTPUT 2457.36-2460.38: So there is activity going on there. Those tend to be longer term. 
+asr:0: OUTPUT 2461.66-2470.63: We do have one traditional customer down there. There are still ongoing negotiations with that customer, but there's no material change at this point. 
+asr:0: OUTPUT 2473.67-2475.64: Thank you for the time. 
+asr:0: OUTPUT 2477.92-2483.02: Your next question comes from the line of Bahadur Jarr of MKM Partners. Your line is open. 
+asr:0: OUTPUT 2491.87-2496.46: I apologize if you've already addressed this. 
+asr:0: OUTPUT 2496.92-2502.26: Are you seeing any significant pull in of orders from your customers? 
+asr:0: OUTPUT 2505.11-2513.65: No, no. We did at the beginning of the pandemic, so if you think about kind of the end of Q1. 
+asr:0: OUTPUT 2514.43-2517.08: We saw a material increase in odor activity. 
+asr:0: OUTPUT 2518.44-2528.41: I think at this point in time, I would say that the order rate is reflecting what their demand is. 
+asr:0: OUTPUT 2528.91-2529.97: I don't see any real. 
+asr:0: OUTPUT 2531.47-2541.36: We do on particular parts. I talked a little bit about the fact that we're still having some supply issues, most predominantly with silicon. 
+asr:0: OUTPUT 2541.86-2548.41: But in those cases, we may really try to nail down a forecast with them. 
+asr:0: OUTPUT 2548.69-2553.17: And try to get them to reach farther out, but that's really not the norm. 
+asr:0: OUTPUT 2555.92-2563.70: Okay, that's helpful. If I look forward to next year with all these tier one ramping,. 
+asr:0: OUTPUT 2564.26-2566.85: How should we be thinking about your customer concentration? 
+asr:0: OUTPUT 2567.31-2568.63: Is most important. 
+asr:0: OUTPUT 2568.87-2570.17: You all have a really tough question. 
+asr:0: OUTPUT 2571.93-2576.44: So we are adding tier one customers as well. 
+asr:0: OUTPUT 2577.30-2586.63: So the good news is that there will be more tier ones to kind of spread the fluctuations around within. 
+asr:0: OUTPUT 2588.07-2592.65: But having said that, we're also adding more tier 1s, so you've got that issue. 
+asr:0: OUTPUT 2593.59-2603.34: We are adding tier threes, and I use tier threes, I'm really talking about alternate carriers of all different types. We're adding municipalities. 
+asr:0: OUTPUT 2603.42-2605.29: On a very fast clip. 
+asr:0: OUTPUT 2606.53-2615.05: I mean, we usually have an internal announcement here or something that goes out. And we have a weekly update here and there's always a municipality that's being added. 
+asr:0: OUTPUT 2615.98-2621.64: And we're adding tier threes to traditional tier three carriers. I have a very quick clip I think I mentioned before. 
+asr:0: OUTPUT 2621.66-2626.53: 30 something odd customers a large percent of those were these alternate type carriers. 
+asr:0: OUTPUT 2627.09-2635.88: So from that perspective, and by the way, I mentioned we had a distribution partner that was actually a top 10%. 
+asr:0: OUTPUT 2636.66-2638.42: Customer, that is not typical. 
+asr:0: OUTPUT 2639.18-2642.30: I do believe that that will be typical going forward. 
+asr:0: OUTPUT 2642.52-2651.75: Because I do believe and those are all being sold those are one of our conduits to that alternate carry that municipal space tier three space. 
+asr:0: OUTPUT 2653.05-2655.14: And utilities. 
+asr:0: OUTPUT 2655.42-2658.16: So that base is growing. 
+asr:0: OUTPUT 2659.82-2667.17: Now when we get into this time next year, it'll still be kind of early in the cycle of some of these wins. 
+asr:0: OUTPUT 2667.25-2673.83: Will begin to this time next year, it's really how are those tier ones comparing to the growth rate within the tier threes. 
+asr:0: OUTPUT 2674.01-2680.60: I have no doubt we'll be more diverse, but we're adding tier ones in a nice clip as well. 
+asr:0: OUTPUT 2681.48-2684.06: But we will have more customers which will help in that diversity. 
+asr:0: OUTPUT 2685.55-2686.99: And then one other thing I just want to add. 
+asr:0: OUTPUT 2687.17-2695.56: I mentioned before the catch rates on our CPE gear and our RGs and some of our new Wi-Fi solutions is really growing well. 
+asr:0: OUTPUT 2696.26-2699.50: Which will help add in that product diversity as well. 
+asr:0: OUTPUT 2704.80-2707.11: That's really helpful. Thanks for the call on that. 
+asr:0: OUTPUT 2708.75-2713.51: So I think one last question for me is more topical, a big picture view. 
+asr:0: OUTPUT 2713.79-2719.68: I think AT&T recently announced that they're going to stop selling their copper-based DSL service. 
+asr:0: OUTPUT 2720.48-2725.43: So it seems like a secular shift towards fiber is ongoing in the sheet. 
+asr:0: OUTPUT 2725.45-2731.27: You know with all the major tier ones around the world migrating towards fiber. 
+asr:0: OUTPUT 2732.09-2737.92: Can you talk a little bit about your competitive positioning in the Viber? 
+asr:0: OUTPUT 2738.00-2742.40: Is it similar to copper that you enjoyed previously or is it actually better? 
+asr:0: OUTPUT 2745.51-2748.11: Of the hangovers that we had come through. 
+asr:0: OUTPUT 2748.23-2760.02: We've had a couple of programs, really one big program that was copper bait that died, which caused us an issue, but really it was the longevity of the copper. 
+asr:0: OUTPUT 2760.66-2764.58: And the R&D requirements associated with that copper versus the fiber. 
+asr:0: OUTPUT 2765.17-2774.51: And I think this is the first quarter, depending on how you count it, where you're really seeing fiber eclipse copper within our revenue. 
+asr:0: OUTPUT 2775.70-2783.82: And so to us, that's a big milestone. And it really, because there's a lot of work to make that happen. 
+asr:0: OUTPUT 2786.25-2792.15: So I'm happy with the shift within the company. 
+asr:0: OUTPUT 2792.17-2798.82: And if you look at the R&D spend, the R&D spend is predominantly fiber-based and has been for some time. So I'm glad to be able to... 
+asr:0: OUTPUT 2798.84-2800.44: See the revenue kind of... 
+asr:0: OUTPUT 2800.46-2803.44: Mimic what it is that we've been doing internally here. 
+asr:0: OUTPUT 2804.04-2806.59: Competitively right now we're in a very good position. 
+asr:0: OUTPUT 2807.41-2814.85: We have launched new flexibility and new capabilities in our Total Access 5000. 
+asr:0: OUTPUT 2814.87-2821.96: Platform product which has been in the market for a long period of time. We've upgraded the switching capabilities. 
+asr:0: OUTPUT 2822.00-2823.14: We're the only... 
+asr:0: OUTPUT 2823.16-2836.14: Well, I shouldn't say the only one. I've heard other people are working on one, but we are shipping a combo card, which is the XGS 10 gig and standard 2.5 gig within the same card profile. 
+asr:0: OUTPUT 2836.18-2839.22: Which is unique in that customer base. 
+asr:0: OUTPUT 2839.80-2844.34: And getting a lot of traction because people don't want to have to go out and replace infrastructure if they don't have to. 
+asr:0: OUTPUT 2845.13-2853.49: When I talk about the SDX, there's just nothing else out there. Completely disaggregated. It is the next generation system that people have been talking about for five or six years. 
+asr:0: OUTPUT 2853.83-2858.24: It's actually now out in the market. We've actually shifted to paying customers. 
+asr:0: OUTPUT 2858.64-2867.47: It is what has been selected by pretty much every tier one that we have won in relation to POND, and we think there's nothing else that will touch it right now. 
+asr:0: OUTPUT 2868.35-2877.56: There are people that are kind of trying, or are reacting to it, but we think we have a good headway in the R&D that we've put into it. 
+asr:0: OUTPUT 2880.38-2881.66: That's greatly appreciated. Thank you. 
+asr:0: OUTPUT 2883.02-2890.95: You. 
+asr:0: OUTPUT 2893.69-2899.04: Good morning uh... Got to a lot of my questions on the last one there uh... 
+asr:0: OUTPUT 2899.06-2904.40: But I will say that actually Nokia made the same comment this quarter with regard. 
+asr:0: OUTPUT 2904.86-2905.89: I can believe it. 
+asr:0: OUTPUT 2906.85-2908.31: By the ring finger. 
+asr:0: OUTPUT 2908.49-2915.16: Fiber equipment copper in their access to know so that would seem to be well what comment were you talking about? 
+asr:0: OUTPUT 2916.16-2920.94: I was talking about the SDX. I was talking about what they were doing, talking about their disaggregated solution. 
+asr:0: OUTPUT 2922.00-2924.02: Okay, I see. 
+asr:0: OUTPUT 2924.10-2932.39: Little competitive intensity there. But that does suggest there's an industry-wide trend toward copper going on. 
+asr:0: OUTPUT 2932.41-2935.58: Thanks for clarifying that fiber was larger this quarter. 
+asr:0: OUTPUT 2936.00-2941.82: I want to follow back up on the tier 3 comment. That $50 million, that's a quarterly number? 
+asr:0: OUTPUT 2943.02-2950.97: That he gave for the size of the 203, but okay. So, well, yeah, that's interesting. And-. 
+asr:0: OUTPUT 2952.57-2962.50: And that would make it your largest segment if you look at international US tier 3, tier 2, and tier 1 by some distance actually. 
+asr:0: OUTPUT 2963.24-2968.73: You're obviously seeing good growth there and you had a lot of impressive growth numbers in various segments. 
+asr:0: OUTPUT 2969.29-2975.54: Most of which would seem to imply something on the order of kind of a, I don't know, 30% year-over-year decline. 
+asr:0: OUTPUT 2975.60-2982.08: Among us tier ones or you know other parts of the business that are domestic based and. 
+asr:0: OUTPUT 2982.66-2987.43: I'm guessing that may be a function of the COPPA programs that you referenced. 
+asr:0: OUTPUT 2988.25-2997.42: You know, is that about right? And what does it take to kind of, you know, will it take the new deal coming in to kind of stabilize and make that grow or how are you looking at that part of your business? 
+asr:0: OUTPUT 2998.96-3000.52: So I don't think it's tier one. 
+asr:0: OUTPUT 3000.62-3008.11: I think in tier twos and tier threes on a year-over-year basis we've done good. 
+asr:0: OUTPUT 3008.13-3013.11: That we had last year was predominantly on a comp basis, was predominantly Tillex. 
+asr:0: OUTPUT 3014.37-3022.22: And so we had a large copper-based program going on with them that was tens of millions a quarter, and it just completely stopped. 
+asr:0: OUTPUT 3022.88-3027.45: So the hole that you're talking about in the North American market is Tomex. 
+asr:0: OUTPUT 3028.07-3036.82: It's not the US carrier base and that was very much a copper based vector BDSO solution that they're rolling out. 
+asr:0: OUTPUT 3038.62-3040.00: I think I just answered your question. 
+asr:0: OUTPUT 3043.52-3052.41: The end part and the last one for me is you know as you think about your potential international growth. 
+asr:0: OUTPUT 3052.43-3054.47: Next year. 
+asr:0: OUTPUT 3054.83-3063.48: I'd obviously should the tier threes continue to grow, you know, 60% maybe they could keep up with that rate of growth, I assume. 
+asr:0: OUTPUT 3063.50-3070.17: For planning purposes, you know you model some slowing in that tier three growth rate despite. 
+asr:0: OUTPUT 3070.19-3073.23: You know, are off ramping up and some other positive drivers. 
+asr:0: OUTPUT 3073.53-3076.74: Just to begin with. 
+asr:0: OUTPUT 3076.78-3084.94: And can we assume that from an international standpoint, you expect international revenues to grow faster than domestic? 
+asr:0: OUTPUT 3086.99-3093.97: That is a really good question that I don't have an answer for you today. 
+asr:0: OUTPUT 3094.51-3103.80: So the thing about the tier threes is not just, let me just say all carriers, because it's broader than traditional tier three carriers. 
+asr:0: OUTPUT 3104.30-3110.71: But the thing about these carriers is the growth rate through the year has been increasing. 
+asr:0: OUTPUT 3111.79-3120.00: And I don't see a change in next year. So you're going to have two quarters of growth before these, you know, the. 
+asr:0: OUTPUT 3120.28-3124.88: Really, we have one mammoth tier one in Europe. 
+asr:0: OUTPUT 3125.07-3128.23: It's going to start, that's going to be all incremental. 
+asr:0: OUTPUT 3128.69-3132.09: And more that eclipse. Now there are other activities going on. 
+asr:0: OUTPUT 3132.33-3141.66: Process going on in Australia, carriers like Orange, who we announced an award with,. 
+asr:0: OUTPUT 3142.54-3145.35: Vodafone, all of the telephonica. 
+asr:0: OUTPUT 3145.97-3152.19: Which is of course not just in Europe but in Brazil. All of those have got processes that are in place. 
+asr:0: OUTPUT 3152.21-3156.30: Or where they're coming towards a decision. But those will carry, those are really... 
+asr:0: OUTPUT 3156.50-3160.00: And if you think they don't get awarded until next year, they're a year away from that. 
+asr:0: OUTPUT 3160.14-3166.89: So the real mammoth new incremental piece is a new customer for us that's deploying the STX next year. 
+asr:0: OUTPUT 3167.45-3170.39: And it'll just be starting around the half. 
+asr:0: OUTPUT 3170.89-3178.28: So I could absolutely envision next year where the tier 3 is actually the close it on a pure growth dollar basis. 
+asr:0: OUTPUT 3180.04-3186.97: But I don't know that for a fact. We'll have to get into the year and really see. 
+asr:0: OUTPUT 3187.29-3191.51: Art off will start around the turn of the second half. 
+asr:0: OUTPUT 3191.71-3197.28: But really for it to be material, it's going to take some time. 
+asr:0: OUTPUT 3197.38-3204.84: I don't see that as this huge kind of wave of things coming in the second half of next year. I think it just starts to ramp up from there. 
+asr:0: OUTPUT 3208.25-3217.84: I appreciate all that. Yeah, these alt-carriers, if they keep the momentum they have right now, the US could be stronger. 
+asr:0: OUTPUT 3219.72-3227.89: Okay, so thank you very much for joining us today. I appreciate your interest and we look forward to the call next quarter. 
+asr:0: OUTPUT 3230.55-3233.17: This concludes today's conference call. You may now disconnect. 
+asr:0: END

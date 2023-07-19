@@ -1,0 +1,294 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.72-12.15: Good morning. This is Craig Moore with Autonomous. Thanks for joining us this morning for our fifth annual Future of Commerce Symposium. 
+asr:0: OUTPUT 12.25-15.34: Sorry for the brief delay in getting started. 
+asr:0: OUTPUT 15.44-19.84: I just wanted to mention a few housekeeping items before we get started. 
+asr:0: OUTPUT 20.46-24.50: You can use the same dial-in or web link for the entire day. 
+asr:0: OUTPUT 24.96-32.11: There'll be a few breaks, but for many of the sessions, we will just move right into the next discussion. 
+asr:0: OUTPUT 32.69-39.38: You can submit questions to us via email to myself or Ken Zahosky. 
+asr:0: OUTPUT 40.00-49.21: You can also use Bloomberg IB to find us with questions or you can use the Q&A box within your Zoom window. 
+asr:0: OUTPUT 51.09-54.49: So with no further ado, let's get started. 
+asr:0: OUTPUT 55.78-57.54: We're lucky to have with us this morning. 
+asr:0: OUTPUT 57.60-62.68: American Express, Doug Buckminster, Group Head, Global Consumer Services. 
+asr:0: OUTPUT 62.70-68.87: It's great to see you again, Doug. I wish it was in person. I wish it was in Carnegie Hall, but maybe next year. 
+asr:0: OUTPUT 69.55-71.23: Exactly, it's great to see you. 
+asr:0: OUTPUT 73.17-75.76: Yeah, you bet. 
+asr:0: OUTPUT 75.98-80.52: Love the background, love the image. But let me... 
+asr:0: OUTPUT 80.54-91.69: Why don't we get started with just a broad question, which is, can you update us on the state of consumer and overall spending at this point in the recovery? 
+asr:0: OUTPUT 92.81-100.02: Yeah, you know, I think as we've talked about before, we saw the trough in April and we've seen a rebound since then. 
+asr:0: OUTPUT 100.54-110.43: I would characterize the trend since mid-July as relatively stable on the non-T&E side. 
+asr:0: OUTPUT 110.57-118.92: So outside of teeny relatively stable little bouncing around due to days mix timing of holidays like Labor Day in particular. 
+asr:0: OUTPUT 119.48-126.01: And slow, very steady growth, but slow growth on the T&E side. 
+asr:0: OUTPUT 126.71-131.47: So I would say stable would be the adjective that captures it best. 
+asr:0: OUTPUT 134.07-136.38: At this point, I assume. 
+asr:0: OUTPUT 136.42-141.76: Could we perhaps characterize this a little, go a little deeper on this, XT and E. 
+asr:0: OUTPUT 141.84-148.87: If you were to characterize the overall volumes you're seeing XTNE, X corporate card. 
+asr:0: OUTPUT 149.63-157.06: Really, are consumers getting back toward positive territory within credit card portfolios at this point? 
+asr:0: OUTPUT 158.28-168.05: I mean, I think consumers consume, right? They're going to figure out a way to live their life and enrich their lives. 
+asr:0: OUTPUT 168.07-169.23: And I would say. 
+asr:0: OUTPUT 169.31-177.82: While there's a lot of substitution in the non-T&E space, especially physical for online and e-com,. 
+asr:0: OUTPUT 177.96-183.20: I would say we feel good about healthy levels of consumer volumes there. 
+asr:0: OUTPUT 184.10-191.17: I think what's going to define the trajectory of volume rebound from here on out is. 
+asr:0: OUTPUT 191.19-197.80: Is the direction of T&E, which you know is a category we over-index on. 
+asr:0: OUTPUT 198.34-200.86: So maybe some thoughts there. 
+asr:0: OUTPUT 201.38-206.53: You know, Amex has a deeper understanding of T&E than I think any other. 
+asr:0: OUTPUT 206.55-212.71: Card issuer, especially considering the network and the insights you get off of that on a global basis. 
+asr:0: OUTPUT 213.31-222.96: So maybe your thoughts on how we recover from this. Are there any green shoots you're seeing in T&E at all at this point? 
+asr:0: OUTPUT 224.12-231.25: I mean I think you know my position is consumer travel will come back. 
+asr:0: OUTPUT 231.91-240.38: I think that's our enterprise position is that we expect consumer travel to come back. It's an essential part of. 
+asr:0: OUTPUT 240.40-244.68: The consumer experience, especially in our demographic. 
+asr:0: OUTPUT 245.61-250.09: I think what we've seen to date in terms of the rebound. 
+asr:0: OUTPUT 250.11-260.76: Is an effect of substitution. So people substituting driving vacations, homestay rentals for, you know, for air based travel. 
+asr:0: OUTPUT 261.18-267.65: And in some categories we've seen innovation as well. I'm saying the dining space in particular. 
+asr:0: OUTPUT 267.67-274.94: Expansion of outdoor dining, pickup, takeaway, delivery, at-home meal prep. 
+asr:0: OUTPUT 275.74-281.14: That level of innovation has has bounced the restaurant category. 
+asr:0: OUTPUT 281.26-286.17: More than you would expect just from dine-in volumes alone, right? 
+asr:0: OUTPUT 286.77-297.16: So I think you know where when we get back to historic levels I think is is largely a question of of confidence and medical solutions. 
+asr:0: OUTPUT 297.20-298.24: I think. 
+asr:0: OUTPUT 298.26-302.48: I think the establishment of a vaccine, the approval. 
+asr:0: OUTPUT 302.50-305.15: Of the vaccine, I expect. 
+asr:0: OUTPUT 305.17-309.73: Will unleash a lot of anticipatory and pent-up demand on consumers. 
+asr:0: OUTPUT 309.77-315.94: They will start travel planning again. The interest in travel-based payment products. 
+asr:0: OUTPUT 315.96-320.00: And travel-based loyalty currencies, I think will. 
+asr:0: OUTPUT 320.06-323.40: Will spike is all that pent up demand for travel. 
+asr:0: OUTPUT 323.42-330.85: People start to see the end in sight there. They start to build confidence that in a six, 12 month time period. 
+asr:0: OUTPUT 331.01-336.64: They'll be able to travel again. But I think getting back to historic volumes is going to require that. 
+asr:0: OUTPUT 338.20-343.76: And in terms of how that affects the discount rate at american express. 
+asr:0: OUTPUT 345.43-349.41: Especially without the long haul travel. 
+asr:0: OUTPUT 350.69-356.76: Maybe a discussion there, just briefly remind investors how that dynamic is playing out. 
+asr:0: OUTPUT 358.26-359.98: Yeah, well, there's no question. 
+asr:0: OUTPUT 360.00-370.13: That the T&E volumes taking a disproportionate hit like this does have a mix related impact on our discount rates. 
+asr:0: OUTPUT 370.39-371.53: So I think. 
+asr:0: OUTPUT 371.95-378.34: You know the discount rate and we we've been on record for a few years now saying we. 
+asr:0: OUTPUT 378.36-383.34: We grind down less on absolute discount rate and are focused on. 
+asr:0: OUTPUT 383.36-390.57: Driving discount revenue and utility through programs like blue, certain B2B categories. 
+asr:0: OUTPUT 391.71-400.00: But there's no question that historic discount rate has taken a mix related impact as a result of. 
+asr:0: OUTPUT 400.22-404.36: Really a disproportionate fall in TNE specimens. 
+asr:0: OUTPUT 405.67-412.77: Okay, well we'll move off of that topic that isn't helpful right now in terms of the dynamic. 
+asr:0: OUTPUT 412.79-418.68: Maybe on to something that is, which is, can you discuss how spending habits have changed? 
+asr:0: OUTPUT 419.08-427.79: You know and to what degree you're seeing these habits you know coalesce into long-term uh... Repeatable behavior. 
+asr:0: OUTPUT 427.87-431.75: You know, especially around e-com contactless. 
+asr:0: OUTPUT 432.29-434.41: And if it's different between consumer segments. 
+asr:0: OUTPUT 435.90-439.66: I think my take on the effects of. 
+asr:0: OUTPUT 439.68-449.33: This crisis are that it didn't create any new trends but it changed sort of the slope of pre-existing trends. Right. 
+asr:0: OUTPUT 449.71-452.45: E-commerce was taking share from offline. 
+asr:0: OUTPUT 452.91-457.22: Digital payments were taking share from cash at POS, right? 
+asr:0: OUTPUT 457.64-465.45: And we have seen an inflection or a kink in those curves as most issuers have over the last six months. 
+asr:0: OUTPUT 465.57-474.23: You know, whether we've seen those trends accelerated by a year, two years, it's anybody's guess, but I don't think. 
+asr:0: OUTPUT 474.27-480.68: I don't think we're going backwards from those trends as the crisis as the crisis relaxes. 
+asr:0: OUTPUT 481.82-484.78: I think on the contactless side. 
+asr:0: OUTPUT 484.82-486.89: You know, there's a lot of noise around that. 
+asr:0: OUTPUT 486.91-490.19: There are markets outside the US as you know. 
+asr:0: OUTPUT 490.23-501.28: Southeast Asia, Australia, the UK, where there's very deep contactless penetration and that has continued to gain share during this crisis. 
+asr:0: OUTPUT 501.62-504.40: In the US, the contactless volumes are much more modest. 
+asr:0: OUTPUT 504.42-519.88: They are increasing at a rapid rate. But I do expect that the move away from cash and the comfort with using credit products even for micro level transactions at POS. 
+asr:0: OUTPUT 520.00-522.02: Will be an enduring outcome of this. 
+asr:0: OUTPUT 522.08-530.23: And I think while I don't think it does a lot per se to drive dollar volumes of billings,. 
+asr:0: OUTPUT 530.37-535.08: I think it does a lot to build habit and wallet position of credit products. 
+asr:0: OUTPUT 535.60-541.54: And in some markets outside the US where E-com is less established. 
+asr:0: OUTPUT 542.40-548.37: It's had a more profound effect like Italy is a face to face retail market. 
+asr:0: OUTPUT 548.45-553.27: We've seen phenomenal growth in e-commerce. What's interesting is. 
+asr:0: OUTPUT 553.29-559.82: Well over 50 percent of the participants in e-commerce in any month during the first few months. 
+asr:0: OUTPUT 560.00-564.22: Of the crisis had never had an e-commerce transaction on Amex before. 
+asr:0: OUTPUT 565.33-574.67: So there we've seen some real, again, I think it's a trend that would have played out, but it was a very large acceleration of that trend. 
+asr:0: OUTPUT 575.20-579.68: And correct me if I'm wrong, but Amex has a... 
+asr:0: OUTPUT 579.70-586.17: A better acceptance footprint outside the US in e-comm than it does in brick and mortar. 
+asr:0: OUTPUT 588.37-596.18: Yeah, I would say that's probably true by and large due to partnerships with various PSPs and aggregators and such. 
+asr:0: OUTPUT 596.68-599.24: We have a really strong footprint in e-com. 
+asr:0: OUTPUT 600.54-601.70: Um... 
+asr:0: OUTPUT 602.48-609.81: So in terms of the health of the US consumer, the health of the consumer in general,. 
+asr:0: OUTPUT 610.25-616.84: You know, especially considering higher unemployment furloughs, unemployment claims, you know, as we saw this morning. 
+asr:0: OUTPUT 617.72-622.36: It's been remarkable how well the industry is faring right now. 
+asr:0: OUTPUT 623.34-632.05: You know, I noticed that Amex's credit quality is at its best point over the last 12 months on consumer. 
+asr:0: OUTPUT 632.43-638.32: And shockingly, its best point over the last three years in small business. 
+asr:0: OUTPUT 638.88-640.00: And so. 
+asr:0: OUTPUT 640.20-646.25: Maybe some context there, you know, discovers CEO, did... 
+asr:0: OUTPUT 646.27-655.50: Caused some concern the other day by saying they expect the material uplift in credit quality metrics later this year So just your perspective. 
+asr:0: OUTPUT 656.76-658.18: I mean, um... 
+asr:0: OUTPUT 658.20-670.71: I think most issuers have seen a more modest impact than would have been implied by the end of Q1 qualitative reserves that they took. 
+asr:0: OUTPUT 670.93-677.40: I think looking at macro indicators around unemployment plans, changes in sequential GDP,. 
+asr:0: OUTPUT 678.34-679.38: You know, uh,. 
+asr:0: OUTPUT 679.40-688.71: If you were sitting back being an armchair credit manager, you would have expected much larger and negative impacts on delinquency and write-offs. 
+asr:0: OUTPUT 689.61-697.58: And the fact of the matter is, as you said, we have not seen them, as most issuers haven't, play out by and large. 
+asr:0: OUTPUT 697.78-702.10: There are a number of contributors to that right i would say that jobless plans. 
+asr:0: OUTPUT 703.38-708.51: The geography of those the demographics of those jobless claims. 
+asr:0: OUTPUT 710.17-716.62: Weren't as concentrated in our customer base, our member base, as the macro numbers would suggest. 
+asr:0: OUTPUT 717.60-727.93: I would also say, as everyone knows, there's just a ton of liquidity in the system right now, whether it's through government programs, private sector forbearance programs. 
+asr:0: OUTPUT 729.03-730.17: And so you're right. 
+asr:0: OUTPUT 730.23-740.22: We have credit volume delinquency and write off sides that are better year on year than they were. 
+asr:0: OUTPUT 741.26-745.79: I think we have to, while we're pleased with that. 
+asr:0: OUTPUT 746.13-752.57: We also have a healthy level of paranoia about what the next 12 months will bring. 
+asr:0: OUTPUT 752.85-760.44: The macroeconomy, some of these forbearance programs with 10% of residential mortgages being in forbearance. 
+asr:0: OUTPUT 760.46-766.09: That kind of going away government support, moderating. 
+asr:0: OUTPUT 766.87-771.33: Perhaps private sector follow through in terms of white collar job losses. 
+asr:0: OUTPUT 771.75-778.44: So, you know, we feel great about the early innings of this crisis, but, you know, we're mindful that it's not over. 
+asr:0: OUTPUT 780.58-786.57: You know, just are there any signs in the portfolio at all that would be concerning? 
+asr:0: OUTPUT 789.53-799.32: You know, look, I think in the in the commercial or small business portfolio, clearly there are industries that are more affected by this. Fortunately, they tend to be. 
+asr:0: OUTPUT 800.00-804.42: Industries where our concentration is is lower. 
+asr:0: OUTPUT 804.56-811.03: You know there are some some things about this crisis have actually improved visibility in a way. 
+asr:0: OUTPUT 811.09-818.46: I mean, we have really good visibility into our customers that have entered into forbearance programs with competitors. 
+asr:0: OUTPUT 818.48-826.63: Which allows us to kind of target and think about the precision of our underwriting and existing customer management. 
+asr:0: OUTPUT 827.23-836.16: A little bit more crisply. But but I would say there are. There are no real hot spots within the portfolio right now. 
+asr:0: OUTPUT 836.50-838.48: I would say. 
+asr:0: OUTPUT 839.80-847.63: You know back in April May all of us had these sort of short term crisis relief programs right where. 
+asr:0: OUTPUT 847.65-850.75: Payment holiday, no interest charged and. 
+asr:0: OUTPUT 851.23-854.93: You know, the type of thing you do after a natural disaster like a hurricane. 
+asr:0: OUTPUT 855.46-860.32: We made a judgment that. 
+asr:0: OUTPUT 860.56-869.99: We weren't going to kick the can down the road by continuing to extend those programs. We were going to move customers if they needed to move. 
+asr:0: OUTPUT 870.01-878.60: On to longer term solutions for repayment confidence, right? So our 12 month financial relief program, which. 
+asr:0: OUTPUT 878.72-885.67: Allows customers to reduce their minimum payment, maintain their membership, they don't get their membership canceled. 
+asr:0: OUTPUT 886.01-902.42: And retain some level of spend utility as well. And we think that that has allowed us to transition the portfolio in a very customer friendly way, in a way that has stabilized the receivables metrics as well. 
+asr:0: OUTPUT 902.44-903.46: Okay. 
+asr:0: OUTPUT 904.62-908.23: I want to keep this, try to keep this conversation with investors. 
+asr:0: OUTPUT 908.25-915.38: Investors are funneling questions to us and we just got one that I'll just read it for you. 
+asr:0: OUTPUT 915.58-922.08: Basically, you've made it clear that T&E spend recovery is very linked to COVID resolution. 
+asr:0: OUTPUT 922.60-931.37: You know, as customers currently divert that spending toward non-T&E purchases, how is Amex able to increase their share? 
+asr:0: OUTPUT 931.39-938.08: Of customer spending in non-T&E and how meaningfully can that move the needle on billings growth. 
+asr:0: OUTPUT 939.14-947.53: Yeah, I mean, I think it's a great question. I mean, one of the things we did early in this crisis is decide that we were going to focus on existing customers. 
+asr:0: OUTPUT 948.45-952.73: The visibility around large scale prospect acquisition was challenged. 
+asr:0: OUTPUT 952.77-992.71: Our value propositions tend to index on TNA as we've noted, and so we said job one was taking care of existing customers, which caused us to make a long-term balance of year, large dollar value commitment to our customers in terms of injecting more relevant right for the times type of value. And that could be accelerators in grocery and in dining, food delivery,. 
+asr:0: OUTPUT 993.25-1000.16: And we're measuring success right now in terms of how effectively we retain our customers. 
+asr:0: OUTPUT 1000.20-1007.21: And especially the customers that drive 50 to 60 percent of our margin on an annual basis. 
+asr:0: OUTPUT 1007.31-1012.27: And how well we compete within their wallets per share of wallets. 
+asr:0: OUTPUT 1012.33-1018.32: And on both of those metrics, which we track very closely and at a very granular level. 
+asr:0: OUTPUT 1018.44-1022.80: We feel really good about how well we're competing for our customers business. 
+asr:0: OUTPUT 1023.24-1027.31: And I think we've built some confidence here that. 
+asr:0: OUTPUT 1027.41-1034.45: You know as certain natural hedges in our business take effect so people aren't visiting lounges as much. 
+asr:0: OUTPUT 1035.02-1041.10: It frees up resources for us to create new, more relevant value for our customers. 
+asr:0: OUTPUT 1041.46-1046.95: That's what we did this year. It has worked for us so far. We're in the early innings. 
+asr:0: OUTPUT 1048.13-1051.45: And we're confident that we can and will do that going forward as well. 
+asr:0: OUTPUT 1052.25-1055.36: You know we also just need to i think think about what we. 
+asr:0: OUTPUT 1056.12-1059.88: We think about our co-brand products as like travel products. 
+asr:0: OUTPUT 1060.82-1066.97: Actually, like 90% of the spend on a number of our large co-brands is in non-T&E categories. 
+asr:0: OUTPUT 1068.29-1076.48: What they're doing is spending in everyday categories to save up and create the opportunity for aspirational travel in the future. 
+asr:0: OUTPUT 1077.04-1089.55: And so that billing base isn't as affected as long as consumers believe in the long term value of those loyalty currencies and the travel that they can they can gain access to. 
+asr:0: OUTPUT 1090.33-1100.22: So it sounds like you're implying that the travel-related co-brand portfolios are performing no different from other portfolios? 
+asr:0: OUTPUT 1101.64-1108.51: Yeah, they're performing no worse than other portfolios. 
+asr:0: OUTPUT 1108.61-1116.70: Look, there are portfolios that we have that are doing extraordinarily well, right? Certain retail co-brands, whether it's. 
+asr:0: OUTPUT 1117.30-1123.32: The small business co-brand with Amazon, whether it's other department store co-brands we have outside the US. 
+asr:0: OUTPUT 1124.54-1126.25: But if you were to look at our US. 
+asr:0: OUTPUT 1127.05-1132.89: Certainly our cash back products as all cash back products in the industry that rational sure value. 
+asr:0: OUTPUT 1132.91-1139.54: Is performing very well but I think we've been on record saying you know say our Delta portfolio. 
+asr:0: OUTPUT 1139.56-1143.64: Has experienced a more modest compression of billings. 
+asr:0: OUTPUT 1143.66-1147.55: Than our US portfolios at large. Interesting. 
+asr:0: OUTPUT 1148.55-1157.54: Well, count me one of those co-brand holders with Delta. Hopefully I get to use some of those miles at some point soon. I think my family would appreciate that. 
+asr:0: OUTPUT 1158.72-1166.07: That's the pent up demand I'm talking about, right? We all feel that way. I haven't seen my father in six months. It's there. It's definitely there. 
+asr:0: OUTPUT 1167.81-1168.85: So, okay. 
+asr:0: OUTPUT 1170.63-1179.08: Let me ask you about the competitive response that you've seen because clearly Amex isn't the only one thinking about these problems. 
+asr:0: OUTPUT 1179.44-1193.93: Amex has historically kept their spending levels and support of consumers at a higher level through crises, and I think that's because of the returns Amex has via the network. 
+asr:0: OUTPUT 1194.31-1200.12: So, have you been able to take a lead if you have been and what's been the response? 
+asr:0: OUTPUT 1200.76-1203.58: Yeah, you know I... 
+asr:0: OUTPUT 1203.60-1213.19: You know, they always say crises build character. They like reveal character to both of the individuals and institutions. 
+asr:0: OUTPUT 1213.23-1215.74: I've been around Amex a long time. 
+asr:0: OUTPUT 1216.04-1217.18: Um... 
+asr:0: OUTPUT 1217.20-1227.55: I'm very proud of the way we've kind of rallied around our customers in this time of crisis. I mean in the times of greatest uncertainty. 
+asr:0: OUTPUT 1227.81-1238.56: We signed up for an extraordinary level of value injection, both the product level value I described as well as what we've done with our three month shop small program. 
+asr:0: OUTPUT 1238.98-1245.27: When we had our least visibility, we doubled down on our customers. 
+asr:0: OUTPUT 1246.57-1251.35: And as I said earlier, I think it's paid real dividends as far as we track. 
+asr:0: OUTPUT 1251.37-1258.42: Spend share within our members wallets and there's no question that back in like April we took a hit. 
+asr:0: OUTPUT 1258.48-1267.59: And we have climbed back as a result of that value injection and some really dialed up customer marketing. 
+asr:0: OUTPUT 1267.71-1278.78: And as I think Steve and Jeff have both said, we see retention rates that are superior to 2019 right now within our base. 
+asr:0: OUTPUT 1279.18-1285.79: You know, I think we've talked about it before. They're better than they were in 2019 and our retention rates in general. 
+asr:0: OUTPUT 1285.87-1289.69: Are just extraordinarily high. I mean, we retain... 
+asr:0: OUTPUT 1289.83-1292.83: More than 98% of our billing space year to year. 
+asr:0: OUTPUT 1294.45-1299.14: I don't think I've heard that stat before, so that's definitely a good one to write down. 
+asr:0: OUTPUT 1300.86-1302.06: So. 
+asr:0: OUTPUT 1302.08-1308.63: I wanted to ask about lending. Lending, Amex is getting more creative. 
+asr:0: OUTPUT 1308.81-1310.63: And it's lending products. 
+asr:0: OUTPUT 1310.65-1320.00: There was recently a launch of a different lending product associated with platinum. 
+asr:0: OUTPUT 1320.40-1333.95: Maybe you can discuss how Amex is expanding its lending if you've been successful in getting a greater share of the lend wallet, which I believe historically was about half that of the spend share. 
+asr:0: OUTPUT 1334.55-1337.72: So if you can dig into that a little bit, that'd be great. 
+asr:0: OUTPUT 1338.34-1340.94: Yeah, so your memory is really good. 
+asr:0: OUTPUT 1341.42-1350.67: You know, typically we have mid 40s spend share and we have low 20s lending share within our customers. 
+asr:0: OUTPUT 1351.15-1359.56: You know, I think there's this kind of legacy point of view that our customers don't borrow on credit cards. 
+asr:0: OUTPUT 1359.58-1364.86: But our customers tend to account for about a third of industry billings on credit. 
+asr:0: OUTPUT 1365.03-1367.83: And about a third of industry outstandings on credit. 
+asr:0: OUTPUT 1368.81-1378.24: And we believe that our customers expect lending or financing capabilities on their payment products. 
+asr:0: OUTPUT 1378.84-1382.86: And we have been growing if you look back. 
+asr:0: OUTPUT 1382.88-1389.25: 2019 and the three years previous we probably grow grow at 2x the industry rate. 
+asr:0: OUTPUT 1389.51-1395.46: At least some some years 3x the industry rate in terms of lending volumes. 
+asr:0: OUTPUT 1396.00-1400.00: There was a lot of investor concern and analyst concern at the time about. 
+asr:0: OUTPUT 1400.10-1406.69: Could we do that prudently? Would we be able to manage through the next crisis effectively given that? Or was there a surprise? 
+asr:0: OUTPUT 1406.71-1411.97: A surprise looming. One of the things we've said and we remain committed to it. 
+asr:0: OUTPUT 1411.99-1419.00: Is we expect to source the majority of our lending growth from within our existing customer base. 
+asr:0: OUTPUT 1419.10-1424.52: Whether that's installment capabilities, term loans, or some of the new features you've described. 
+asr:0: OUTPUT 1425.09-1429.89: And for us, they're important because not only do customers expect them. 
+asr:0: OUTPUT 1429.91-1438.46: But they obviously provide some meaningful revenues that we can reinvest into highly competitive value propositions. 
+asr:0: OUTPUT 1438.76-1440.00: So yes, we have. 
+asr:0: OUTPUT 1440.46-1451.89: Put both revolve and transaction based installment capabilities on our full U.S. Consumer product set. So historic green gold platinum. 
+asr:0: OUTPUT 1453.03-1460.90: And we'll be working through a process of introducing those features to our members in the current quarters. We want to make sure that. 
+asr:0: OUTPUT 1461.50-1466.17: You know, we don't sound tone deaf in terms of the marketing we're doing and what new features we're introducing. 
+asr:0: OUTPUT 1467.07-1471.15: But we believe customers expect that and on installment in particular. 
+asr:0: OUTPUT 1471.31-1478.50: I'm really enthusiastic about that. Right. There's a financial discipline to these closed end installment programs. 
+asr:0: OUTPUT 1478.90-1487.99: And they resonate tremendously with millennial and younger generations that start getting used to kind of installment and port of sale type capabilities. 
+asr:0: OUTPUT 1488.71-1490.97: Yeah, let me ask you about that because... 
+asr:0: OUTPUT 1491.13-1500.96: It's a hot market. It's hard to understand how much it's really penetrated U.S. Credit. 
+asr:0: OUTPUT 1501.86-1508.23: It seems that the barriers are lower when it comes to an e-commerce transaction. 
+asr:0: OUTPUT 1508.31-1509.81: For instance,. 
+asr:0: OUTPUT 1509.83-1519.82: We believe that a firm will be available to every Shopify merchant at the product level as opposed to just the checkout level. 
+asr:0: OUTPUT 1520.00-1522.62: On those websites. 
+asr:0: OUTPUT 1522.64-1525.91: Maybe you can discuss for a minute how. 
+asr:0: OUTPUT 1525.93-1536.34: You're thinking about those products perhaps leaping in front of Amex's ability to lend to its customer because of the placement. 
+asr:0: OUTPUT 1537.84-1540.28: Well, I think the good thing about. 
+asr:0: OUTPUT 1540.70-1561.64: Functionality is our customers go to the point of sale knowing it's available to them and it introduces zero friction in check out. Right. Because on the back end on their app they can opt into a plan of three six twelve months in duration with very transparent fees associated with it. 
+asr:0: OUTPUT 1562.72-1570.61: So I think as opposed to having to engage in the purchase path, and I think there are a lot of things, a firm and Shopify. 
+asr:0: OUTPUT 1570.69-1577.90: Others can do to make that point of sale experience more lightweight, reduce friction there. 
+asr:0: OUTPUT 1578.64-1583.28: But you can't get less friction than we have in that purchase experience. 
+asr:0: OUTPUT 1583.38-1600.82: I also think it's a platform that has a lot of possibility in terms of innovating with our partners. Right. So if you think about our airline and hotel partners and the capacity to put that in the purchase path to put it. 
+asr:0: OUTPUT 1600.92-1610.09: You know, on their web properties to both remind existing customers of their ability to access that. 
+asr:0: OUTPUT 1610.11-1616.66: But also to drive card acquisition, say, in a Delta purchase path, which I think has powerful potential. 
+asr:0: OUTPUT 1618.16-1619.50: OK. All right. 
+asr:0: OUTPUT 1620.32-1624.98: It's on the card portfolios. 
+asr:0: OUTPUT 1625.01-1632.57: Since Steve took over, Amex has done a phenomenal job of getting products on steady refresh cycles. 
+asr:0: OUTPUT 1632.59-1638.78: Which has had a profound impact on the rate of growth in net card fees. 
+asr:0: OUTPUT 1639.62-1660.48: And so has the pandemic caused a delay in that cycle or a delay in the typical new customer account acquisition you expect off of a refresh that might cause a slowdown in those fees and then a re-acceleration at some point? 
+asr:0: OUTPUT 1661.70-1670.63: So I think we have done a really good job of that. You know we exited 19 with north of 20 percent card fee growth. 
+asr:0: OUTPUT 1671.41-1674.45: And you know, this year, right before the pandemic hit. 
+asr:0: OUTPUT 1674.49-1682.06: We actually refreshed our entire Delta co-brand portfolio and priced for the value in that. 
+asr:0: OUTPUT 1683.24-1687.49: So I would say the pandemic has affected a couple areas. 
+asr:0: OUTPUT 1689.01-1696.60: You know, I think it's affected our acquisition volumes. As I said, in Q2, we decided to focus on existing customers. 
+asr:0: OUTPUT 1697.30-1704.52: We pulled back on acquisition. That definitely slows the flow of new fee paying customers. 
+asr:0: OUTPUT 1704.92-1718.70: I think there may be examples where we refresh products and have to think about whether we take price at the time we refresh or whether we defer that fee increase for. 
+asr:0: OUTPUT 1718.72-1722.66: 12 months, I think we're gonna have to be sensitive to the environment, but in terms of. 
+asr:0: OUTPUT 1722.68-1734.91: The commitment to a regular cycle of product refresh, adding value and pricing for that value, both on the back and the front book. 
+asr:0: OUTPUT 1735.06-1741.08: We remain committed to that and I think you should expect that regardless of the environment. 
+asr:0: OUTPUT 1741.10-1746.73: That 2021 will feature some large scale refreshes as well. 
+asr:0: OUTPUT 1749.31-1755.82: I want to ask you about all the work you've done to support your co-brand partners, especially in T&E. 
+asr:0: OUTPUT 1756.42-1763.40: And do you have concern around, you know, you see some of these announcements that. 
+asr:0: OUTPUT 1763.70-1773.05: I'm not sure if they're threats or if they're real when a United goes out and says, we're getting ready to lay off 50% of our domestic staff. 
+asr:0: OUTPUT 1774.17-1777.36: Delta has clearly not said anything like that, but. 
+asr:0: OUTPUT 1777.64-1786.79: Point is, how do you view those partners? Do you view them as severely distressed? And how's Amex thinking about that? 
+asr:0: OUTPUT 1787.73-1799.82: Yeah. Well I mean fundamentally I view them as as under stress as we all are. But since I do believe in the return especially of leisure travel. 
+asr:0: OUTPUT 1800.52-1803.10: On the back of a vaccine. 
+asr:0: OUTPUT 1803.34-1809.45: I believe in the long term of those partners as well. I also happen to think we have. 
+asr:0: OUTPUT 1809.53-1819.38: We have great partners. We have a really premium set of partners whether it's Delta whether it's Hilton whether it's British Airways who we just re-upped with. 
+asr:0: OUTPUT 1820.26-1824.62: And my view as it was in the early days of the pandemic,. 
+asr:0: OUTPUT 1824.64-1832.99: You know, the great financial crisis was these are great times to lean in, build partnership. 
+asr:0: OUTPUT 1833.17-1840.36: And invest together to strengthen our joint customer base. And that's what we've done. Right. If you look at. 
+asr:0: OUTPUT 1841.08-1848.07: The value injections we've done with Delta that we've done with Marriott that we've done with Hilton and these are partners that as you say. 
+asr:0: OUTPUT 1848.79-1858.64: They're under a fair amount of stress and they have come to the table innovated with us co-invested to to make those products appealing even in a travel challenge time. 
+asr:0: OUTPUT 1859.00-1864.90: And I think you'll see more of that in 21. 
+asr:0: OUTPUT 1865.05-1871.29: I feel great about the long term health of those portfolios and I feel really good about the partners. 
+asr:0: OUTPUT 1872.71-1876.92: We have about a minute and I really wanted to give you a chance to answer. 
+asr:0: OUTPUT 1877.52-1883.10: Amex has really leaned in on digital in terms of assets you've picked up. 
+asr:0: OUTPUT 1883.68-1890.33: Rezzy, Mezzy, Cake, Pocket Concierge, Lounge Buddy, to name a bunch. 
+asr:0: OUTPUT 1890.89-1900.04: How is that all coming together to support your customers? Are we going to see significant changes to the American experience? 
+asr:0: OUTPUT 1900.32-1906.23: Mobile app, which I think is the best in the industry as it is to bring those capabilities to bear. 
+asr:0: OUTPUT 1907.21-1912.29: It's a great question. It's one that's live on our minds as well. 
+asr:0: OUTPUT 1913.19-1919.30: And, you know, I mean, the most recent capability based acquisition would have been cabbage on the small business side. 
+asr:0: OUTPUT 1920.84-1929.15: And you know we have been on a journey to both digitize our existing products and experiences. 
+asr:0: OUTPUT 1929.95-1934.57: Like dining's always been top passion for our customers, right? 
+asr:0: OUTPUT 1935.92-1942.38: It's, you know, we have a billion dining transactions. It's the number one request into our concierge and travel. 
+asr:0: OUTPUT 1942.48-1948.55: And so digitizing and adding content there was sort of a no-brainer to us. 
+asr:0: OUTPUT 1948.67-1950.65: But your point is right. 
+asr:0: OUTPUT 1950.73-1961.44: We have seen through the digitization of our products and servicing a material drop in offline service. 
+asr:0: OUTPUT 1961.52-1963.38: A large shift to online. 
+asr:0: OUTPUT 1963.42-1972.97: And that is further fueled by the fact that half of our new customers are under the age of 35. 80 percent of our acquisitions happen in digital channels. 
+asr:0: OUTPUT 1973.77-1980.36: And so that trend plus the content we're adding, right? So you add dining. 
+asr:0: OUTPUT 1980.38-1986.89: You add installment type capabilities, you add new SME product sets. 
+asr:0: OUTPUT 1987.87-1996.52: You know, our mobile product and web product are going to have to flex to make that expanded range of content easier to navigate for folks. 
+asr:0: OUTPUT 1996.86-2008.79: There's no question. But to your point, I think we feel like we started a really strong place, right, in terms of our own internal assessment as well as external recognition of our mobile product. 
+asr:0: OUTPUT 2010.11-2016.28: Well, I'm gonna have to wrap it there, Doug. I really appreciate you joining us. I really wanna do this in person next time. 
+asr:0: OUTPUT 2017.66-2021.98: Let's try and do that. Enjoy the last fleeting days of summer. 
+asr:0: OUTPUT 2022.92-2026.49: You too, Craig. Great to see you. Thank you. Thanks. Take care, Doug. Bye. 
+asr:0: END

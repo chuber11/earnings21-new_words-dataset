@@ -1,0 +1,435 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.62-8.49: Greetings and welcome to the Hershey Company third quarter 2020 question and answer session. 
+asr:0: OUTPUT 9.35-14.33: At this time, all participants are in a listen-only mode. As a reminder, this conference is being recorded. 
+asr:0: OUTPUT 14.81-20.00: I'd now like to turn the call over to your host, Ms. Melissa Poole, Vice President of Investor Relations for the Hershey Foundation. 
+asr:0: OUTPUT 24.06-30.17: Thank you. Good morning, everyone. Thank you for joining us today for the Hershey Company's third quarter 2020 earnings Q&A session. 
+asr:0: OUTPUT 30.67-37.02: I hope everyone has had the chance to read our press release and listen to our pre-recorded management presentation, both of which are available on our website. 
+asr:0: OUTPUT 37.44-45.47: In addition, we have posted a transcript of the pre-recorded remarks. At the conclusion of today's live Q&A session, we will also post a transcript and audio replay of this call. 
+asr:0: OUTPUT 46.17-51.43: Please note that during today's Q&A session, we may make forward-looking statements that are subject to various risks and uncertainties. 
+asr:0: OUTPUT 52.01-61.26: These statements include expectations and assumptions regarding the company's future operations and financial performance, including expectations and assumptions related to the impact of the COVID-19 pandemic. 
+asr:0: OUTPUT 61.82-67.53: Actual results could differ materially from those projected as a result of the COVID-19 pandemic, as well as other factors. 
+asr:0: OUTPUT 68.01-76.80: The company undertakes no obligation to update these statements based on subsequent events. A detailed listing of such risk and uncertainties can be found in today's press release and the company's SEC filings. 
+asr:0: OUTPUT 77.58-82.76: Finally, please note that we may refer to certain non-GAAP financial measures that we believe will provide useful information for investors. 
+asr:0: OUTPUT 83.18-90.31: The presentation of this information is not intended to be considered in isolation or as a substitute for the financial information presented in accordance with GAAP. 
+asr:0: OUTPUT 90.91-93.91: Reconciliations to the GAAP results are included in this morning's press release. 
+asr:0: OUTPUT 94.71-99.64: Joining me today are Hershey's Chairman and CEO, Michelle Buck, and Hershey's Senior Vice President and CFO, Steve Bosco. 
+asr:0: OUTPUT 100.18-102.10: With that, I will turn it over to the operator for the first question. 
+asr:0: OUTPUT 104.30-111.57: Thank you. 
+asr:0: OUTPUT 112.21-120.96: You may press star two if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. 
+asr:0: OUTPUT 121.86-126.75: To allow for as many questions as possible, we ask that you each keep to one question and one follow-up. 
+asr:0: OUTPUT 127.85-135.44: Our first question comes from the line of Andrew Lazar with Barclays. Please proceed with your question. Great. Thanks so much. Good morning, everybody. 
+asr:0: OUTPUT 136.42-142.00: Good morning, Andrew. Hi. I'm curious, for the past several years, Michelle, the majority. 
+asr:0: OUTPUT 142.02-147.57: If not all of the companies, organic sales growth has come really from pricing as opposed to. 
+asr:0: OUTPUT 147.59-149.11: Volume or consumption growth. 
+asr:0: OUTPUT 149.75-156.20: And much of this is obviously due to the success of the company's new pricing model and the associated volume elasticity that comes with it. 
+asr:0: OUTPUT 156.68-159.60: I guess that said, as you look forward into 21 and beyond,. 
+asr:0: OUTPUT 160.14-166.25: I'm curious if there is a sort of focus internally on maybe regaining some better balance between the two drivers. 
+asr:0: OUTPUT 166.63-172.47: And if so, would you expect to see some of that maybe develop more fully next year? Thanks so much. 
+asr:0: OUTPUT 173.43-181.68: Yes, Andrew, absolutely. I think we've shared before that we do view pricing as an important part of our growth algorithm, but we are very focused. 
+asr:0: OUTPUT 181.78-187.55: And would like to drive to greater balance between price and volume. 
+asr:0: OUTPUT 188.01-195.36: We have good visibility into Q4 and 2021, and we do expect volume trends to improve. 
+asr:0: OUTPUT 195.90-201.34: Part of that will be us lapping some of our pricing elasticity from last year. 
+asr:0: OUTPUT 202.26-209.67: And also a continuation of some of the strong share gains that we've seen to date that will carry into the first part of next year. 
+asr:0: OUTPUT 210.19-216.08: I think you can definitely count on seeing volume being a more important part of the algorithm next year. 
+asr:0: OUTPUT 216.42-224.02: And we feel good that the calendar of programming we have, the innovation, the media is really going to help to drive some of that. 
+asr:0: OUTPUT 224.99-227.61: Great, great, thanks very much. Thank you. 
+asr:0: OUTPUT 229.79-234.47: Thank you. Our next question comes from the line of Ken Goldman with JP Morgan. Please proceed with your question. 
+asr:0: OUTPUT 235.92-241.58: Hi, thank you along the same lines of 2021. If I can Michelle, you. 
+asr:0: OUTPUT 241.82-247.77: You pulled back a little bit on advertising this quarter. It's been a little up and down this year for understandable reasons. 
+asr:0: OUTPUT 248.15-251.91: I'm just curious what your thoughts are in general on. 
+asr:0: OUTPUT 251.93-260.56: What the company's plan is for advertising marketing in general as you get into what hopefully will be a more normal year in 2021. 
+asr:0: OUTPUT 262.14-271.77: Sure, so we definitely believe in investing in our brands. That is a critical piece of our growth model on the business. 
+asr:0: OUTPUT 271.81-276.36: So clearly, as we mentioned to you, we had pulled back on some spend. 
+asr:0: OUTPUT 276.50-283.86: In areas where we just thought given the pandemic it didn't make sense, for example, in refreshments where we knew consumer usage was down significantly. 
+asr:0: OUTPUT 284.60-291.83: But as we look to 2021 and as we've started to see the momentum that we're seeing and some of the recoveries,. 
+asr:0: OUTPUT 291.85-295.98: We definitely plan on. 
+asr:0: OUTPUT 296.00-302.20: Taking our investment levels to where we would like them to be and more in line with where they have been historically. 
+asr:0: OUTPUT 302.60-309.21: So you'll see us really leaning in to drive the consumer and to leverage some of the behaviors that we're seeing. 
+asr:0: OUTPUT 311.71-313.53: Thank you. And then for a follow-up. 
+asr:0: OUTPUT 313.55-322.20: You didn't do any share repurchases this quarter. I think that's the first time in two years and that was the last time, right before you bought Pirate's Booty. 
+asr:0: OUTPUT 322.76-331.61: I won't ask if the lack of repo is an indication of a pending deal, of course, but I am curious how you would describe the current environment for potential transactions. 
+asr:0: OUTPUT 332.33-338.34: I guess particularly our targets may be more willing to sell because they can do so off a higher sales number than usual. 
+asr:0: OUTPUT 338.82-343.80: Or are they more hesitant because they, I guess, kind of want to ride this demand wave as long as they can? 
+asr:0: OUTPUT 346.19-351.43: Yeah, I'd be happy to. So first, just on the share repurchase, I will just echo what you said. Don't read anything. 
+asr:0: OUTPUT 351.85-353.77: Into that I would say for this year. 
+asr:0: OUTPUT 354.15-363.82: We have taken a little bit more cautious approach to liquidity in general, going back to the beginning of the year in the COVID phase, just taking a little bit more cautious approach. 
+asr:0: OUTPUT 364.46-369.79: We will be revisiting that as we look at next year. And I would say in general, our capital allocation priorities haven't changed. 
+asr:0: OUTPUT 370.27-372.75: With respect to M&A specifically. 
+asr:0: OUTPUT 373.11-382.94: It's probably more of the latter. I think people are still the ones that are the most interesting are riding the wave and they still have valuation expectations that look like they did pre COVID if not higher. 
+asr:0: OUTPUT 383.86-392.43: But I would say we're continuing to have an active funnel, continue to look at a number of opportunities, and we'll continue to update the market as appropriate. 
+asr:0: OUTPUT 394.71-403.30: Thank you both. 
+asr:0: OUTPUT 404.66-408.95: Thank you. 
+asr:0: OUTPUT 408.97-417.26: The recovery expected in 2021, international and other, is. 
+asr:0: OUTPUT 417.28-420.68: You have a 2% headwind this year in 2020. 
+asr:0: OUTPUT 421.50-429.91: But can you give us a little bit of color as to the condition of your business in Mexico and India and China? 
+asr:0: OUTPUT 431.27-439.74: Is it easy to assume that things can go back to normal, or has the pandemic impaired your commercial capabilities at all? 
+asr:0: OUTPUT 440.00-447.53: Or the retailers desire to merchandise confectionery products in those markets. 
+asr:0: OUTPUT 448.95-461.88: Yeah, so first of all, I'd start by saying certainly there's a lot of uncertainty and volatility with the pandemic. We all know that we're seeing the ups and downs of, you know, occasional increases of spikes in markets around the globe. 
+asr:0: OUTPUT 462.34-469.25: That said, I would say that we were pleasantly surprised by our performance in international. 
+asr:0: OUTPUT 469.27-474.03: Our team did a great job executing in this very challenging environment. 
+asr:0: OUTPUT 474.33-480.36: And I think that we've seen, while each market is a little different and the use of the category is a little bit different. 
+asr:0: OUTPUT 480.70-484.34: Consumers are really looking during this time for brands they trust. 
+asr:0: OUTPUT 485.11-489.69: And we've done a great job over the past couple of years building the Hershey equity. 
+asr:0: OUTPUT 490.09-498.80: So we were pleased with the rebound that we saw in many of our markets. I think I mentioned in India our business was now up 6% versus it had been down. 
+asr:0: OUTPUT 499.16-505.27: We gained market share across almost every market on our core chocolate category. 
+asr:0: OUTPUT 505.69-514.27: So I wouldn't say that we believe our ability to drive the business has been impaired in any market on a permanent basis. 
+asr:0: OUTPUT 515.46-521.08: Just as we are pivoting in the US, I think we've pivoted to where the opportunities are in international. 
+asr:0: OUTPUT 521.12-528.07: And we feel good about the recovery and plan to continue to deliver against that. 
+asr:0: OUTPUT 529.63-532.35: Thanks. Can I dive a little bit deeper into Mexico? 
+asr:0: OUTPUT 533.31-536.72: Are there any packaging. 
+asr:0: OUTPUT 536.76-550.49: A requirement that the government is making on nutritional values or any concerns about the category, how that might impact the category? 
+asr:0: OUTPUT 551.61-557.34: Yeah, absolutely. So the government did put in place front of pack labeling changes in Mexico. 
+asr:0: OUTPUT 557.70-562.16: And that new packaging is now on the market and we are beginning to monitor the trends. 
+asr:0: OUTPUT 563.28-567.01: We believe consumers know our category is a treat, they know it has sugar. 
+asr:0: OUTPUT 567.41-576.00: And so we expect that we'll see less impact from that than perhaps other categories will. But we will, of course, keep a close eye on that. 
+asr:0: OUTPUT 576.34-580.00: And I would say Mexico has been one of the harder hits. 
+asr:0: OUTPUT 580.02-587.25: Developing markets relative to COVID. So we feel good about the progress we're seeing, but it's a little slower than some of the other markets. 
+asr:0: OUTPUT 592.23-597.32: Thank you. Our next question comes from the line of David Palmer with Evercore ISI. Please proceed with your question. 
+asr:0: OUTPUT 599.10-605.23: Good morning. A question on your share gains in the U.S., and particularly in chocolate. 
+asr:0: OUTPUT 606.29-614.29: You really, in your prepared remarks, you touched on this, how adaptive you were by market, by channel. 
+asr:0: OUTPUT 614.31-617.06: By need state in terms of s'mores. 
+asr:0: OUTPUT 618.38-621.48: Some that's related or might be related to supply chain. 
+asr:0: OUTPUT 621.54-623.80: Could you talk about that part of it? 
+asr:0: OUTPUT 623.84-631.81: And I think the reason I'm asking is because if there is a supply chain breakdown or lack of adaptability by a competitor,. 
+asr:0: OUTPUT 631.83-638.24: Maybe that will represent share gains that they can reverse somewhat in 21. And I have a follow-up. 
+asr:0: OUTPUT 639.90-661.70: Absolutely. I would say I believe our share gains are a testament to both our strong brands, our consumer understanding, our programming, as well as to the supply chain execution and execution at retail, both of which tend to be core advantages for us as a company. 
+asr:0: OUTPUT 662.04-666.23: So I think we're seeing our categories and our brands are definitely resonating with consumers. 
+asr:0: OUTPUT 666.69-674.73: And as you mentioned, we really pivoted with the consumer. So very early on, we tried to understand how consumer behavior was changing. 
+asr:0: OUTPUT 674.75-677.12: We've talked to all of you before about the fact that. 
+asr:0: OUTPUT 677.14-682.30: Our category splits a third, a third, a third, take home, instant consumable, and seasonal. 
+asr:0: OUTPUT 682.84-687.27: And as we saw consumers shift to more at-home behaviors. 
+asr:0: OUTPUT 687.31-694.93: We very early on shifted the focus in our portfolio to really dial up some more Twizzlers for movie nights. 
+asr:0: OUTPUT 694.96-697.84: Or baking product activity. 
+asr:0: OUTPUT 698.16-707.19: And then within the seasons, even with Halloween, we made that decision to lean in and drive and build a Halloween season versus back away from it. 
+asr:0: OUTPUT 707.55-714.87: And everything related to that relative to let's set the season early so we can get consumers in pre-trick-or-treat. 
+asr:0: OUTPUT 715.36-723.68: Let's make sure we are smart about the portfolio that's out there and not overly indexed to seasonal SKUs, etc. 
+asr:0: OUTPUT 723.92-730.25: And then we worked really hard on messaging to message consumers safe ways to celebrate the holiday. 
+asr:0: OUTPUT 730.55-738.36: We dialed up e-commerce as consumers shifted to e-commerce and because we had invested in capabilities in that, we were able to do that. 
+asr:0: OUTPUT 739.86-748.01: And then I think a lot of the strong investments we've made in other capabilities over the years helped us during this time to execute well. 
+asr:0: OUTPUT 748.39-754.63: And some of those go beyond supply chain. So we've made investments in better understanding consumer trends. 
+asr:0: OUTPUT 755.03-759.94: We've made investments in our ability to forecast at a much more granular level. 
+asr:0: OUTPUT 759.96-774.19: We've made media investments to target better, and certainly we've invested in our plants all along the way, which really enabled us to pivot quickly to safety protocols and really be able to continue to execute. 
+asr:0: OUTPUT 774.29-780.00: And then we made the decision to keep our retail sales team at retail. So as I think about. 
+asr:0: OUTPUT 780.62-782.98: So think about that share gain, I would say clearly. 
+asr:0: OUTPUT 783.08-788.15: We would expect to continue to see share gains clearly through the spring of 2021. 
+asr:0: OUTPUT 788.45-795.74: We would expect that they would moderate after that, though we're certainly expecting to hold on to share. 
+asr:0: OUTPUT 796.30-804.00: And we will continue to drive our outstanding programming and also continue to execute supply chain with excellence. 
+asr:0: OUTPUT 805.43-824.70: That's helpful. Thank you. And then just on any sort of one-times from this year that we should be thinking about from a model perspective, I'm thinking about COVID-related friction costs this year, but also you might add back some SG&A in parts and other. So any one-time type comparisons that we should think about. Thanks. 
+asr:0: OUTPUT 825.63-834.13: Yeah, I think we talked about it in the repaired remarks. On the top line, we had about a two-point impact. So you can right away say there's a drop through that two points into profitability. 
+asr:0: OUTPUT 834.61-843.10: But then if you take a look at the net of costs for COVID, so protective equipment and employee incentives that we had early in the year. 
+asr:0: OUTPUT 843.44-852.89: And you net them against the DME optimization, the BD optimization that we did, as well as the T&E savings. It was a net slight positive on those two pieces. 
+asr:0: OUTPUT 853.51-863.42: And so that we would expect to mostly go away. We'll have some lingering costs next year, probably less one off in any quarter related to COVID, PPE and so forth that continue. 
+asr:0: OUTPUT 864.84-868.79: But Ned, it was just a slight positive outside of the two-point drag on the top line. 
+asr:0: OUTPUT 870.35-878.52: Thank you. 
+asr:0: OUTPUT 880.22-886.83: Hi, good morning. Good morning. Hi, I had a question for you. If I look back at Halloween,. 
+asr:0: OUTPUT 887.21-895.62: I'm curious if you split the season apart and you had given some information around this last quarter, sort of the early season part and that trick-or-treat season part. 
+asr:0: OUTPUT 895.96-901.94: Kind of how each piece performed. If you can give it a little color on that. We have some information from IRI, but I'm curious if you have better information than we have. 
+asr:0: OUTPUT 902.48-905.31: And then I'm also curious as I think about that early part. 
+asr:0: OUTPUT 905.61-912.49: If that's more indicative of what you expect for the holiday season as we move into Christmas and that kind of time where you don't have a trick or treat event. 
+asr:0: OUTPUT 913.51-920.00: Could that early season, if you start that season early in particular in stores, be more like what we saw in the early part of Halloween, if that makes sense? 
+asr:0: OUTPUT 921.48-935.28: Clearly, we saw that within the season, the early part of the season performed more strongly and the later part that's more trick-or-treat focused performed a little bit softer. 
+asr:0: OUTPUT 935.54-941.58: Now we had anticipated that, so overall the season performed exactly in line with our expectations. 
+asr:0: OUTPUT 942.22-952.33: As we look at the total season, we were quite pleased that our sales were actually up versus a year ago, as was our sell-through up versus a year ago. 
+asr:0: OUTPUT 952.35-959.40: So during a time of the global pandemic, I think it speaks to the resiliency of the category and the consumer's desire. 
+asr:0: OUTPUT 959.42-967.71: To really hold on to and continue to celebrate the traditions and fun occasions like this in their family lives. 
+asr:0: OUTPUT 968.51-974.05: As we look at holiday, holiday has some different consumer dynamics than Halloween. 
+asr:0: OUTPUT 974.43-981.48: And so we believe it will behave a little differently. I don't think we're going to have some of the pressure that we anticipated we'd have coming into Halloween. 
+asr:0: OUTPUT 982.58-985.13: The category should be quite strong. 
+asr:0: OUTPUT 985.35-990.21: Consumers use the product in different ways. It's much more about. 
+asr:0: OUTPUT 990.23-997.84: Family occasions, we aren't as big in gifting some of the areas of the category that might be a little bit more hard hit. 
+asr:0: OUTPUT 998.28-1003.34: So we expect solid results given that skew to at-home consumption. 
+asr:0: OUTPUT 1004.99-1011.67: Okay, thank you. And then just to follow on to that, are you shipping in holiday product early? 
+asr:0: OUTPUT 1012.03-1016.70: And without a bit and incremental but it was he's a lot of the third quarter more than we would have seen historically. 
+asr:0: OUTPUT 1017.80-1026.27: Yeah, we did, just like we did with Halloween, started shipping in holiday a bit early, so you do get some pickup in the third quarter for that. That'll take away a little bit from the fourth quarter. 
+asr:0: OUTPUT 1026.61-1028.61: Maybe on the order of 50 basis points. 
+asr:0: OUTPUT 1030.25-1036.26: Let me also do that to drive the consumer behavior early as well, just as we did with Halloween. 
+asr:0: OUTPUT 1037.40-1046.55: As Halloween was still on the floor, holiday was also out there so that consumers could also gravitate to the holiday pretty quickly. 
+asr:0: OUTPUT 1048.09-1054.55: A strong Halloween sell-through really helps us because it helps us get that fast start. 
+asr:0: OUTPUT 1054.57-1058.22: To holiday because it clears the space to be able to put holiday on the floor. 
+asr:0: OUTPUT 1060.14-1061.28: Thanks so much for the color there. 
+asr:0: OUTPUT 1065.05-1069.83: Thank you. Our next question comes from the line of Jason English with Goldman Sachs. Please proceed with your question. 
+asr:0: OUTPUT 1073.23-1076.96: Good morning folks. Congratulations on a good quarter. Hope all's well. 
+asr:0: OUTPUT 1078.10-1084.20: I want to pick up on the back of Chris's questions and tease out, try to tease out a little bit more of the outlook on holidays going forward. 
+asr:0: OUTPUT 1085.55-1090.03: The Halloween early part selling was phenomenal, much greater than I expected. 
+asr:0: OUTPUT 1090.29-1097.56: I think a big part of that is due to the merchandising programs that We To Lose had. It seems like they started bigger and earlier than they usually do. 
+asr:0: OUTPUT 1098.86-1104.54: Has that, do you think, influenced how they're going to approach other seasons going forward? 
+asr:0: OUTPUT 1104.82-1111.61: You expect retailers to provide more merchandising support behind the category into the holiday, into Easter. 
+asr:0: OUTPUT 1111.63-1115.32: Than they otherwise would coming out of the success they saw on Halloween. 
+asr:0: OUTPUT 1118.20-1126.11: We've always had pretty strong merchandising support at every season, and one thing we always think about with seasons. 
+asr:0: OUTPUT 1126.13-1136.10: Is when we get it on the floor because we know that consumers will buy that holiday or seasonal product whether it's Easter or wherever. 
+asr:0: OUTPUT 1136.12-1141.14: Early for in-home consumption. If you get it out there, it kind of sparks the trigger of. 
+asr:0: OUTPUT 1141.16-1143.08: You know, fun moments earlier. 
+asr:0: OUTPUT 1143.40-1153.33: So I don't know that I could say specifically that we can anticipate that retailers are going to merchandise it even more than they ever have. 
+asr:0: OUTPUT 1154.33-1164.60: I do think that they will be focused on making sure that they definitely get it out early to capture the early part of the season, since that is the piece that is a bit more stable. 
+asr:0: OUTPUT 1165.75-1175.84: There were a few retailers, as you can imagine with the uncertainty of Halloween and the fact that all these decisions about what to do with Halloween really had to be made in early May. 
+asr:0: OUTPUT 1176.02-1181.52: When things were quite uncertain and schools were closed and bars and restaurants and all of that. 
+asr:0: OUTPUT 1182.04-1185.87: So there are a few retailers who had pulled back on Halloween. 
+asr:0: OUTPUT 1185.93-1200.86: And based on the results of the season this year, they will likely have more confidence going forward, which should help to make for an even stronger Halloween next year and probably also build confidence for the other seasons like Easter. 
+asr:0: OUTPUT 1202.84-1209.99: That makes a lot of sense. And then one more question on the, I'm sticking with follow-ons to Chris's questions, which I thought was solid. 
+asr:0: OUTPUT 1211.09-1214.19: The early part of the season versus the latter part of the season. 
+asr:0: OUTPUT 1215.20-1217.52: The earlier part of the season was exceptionally robust. 
+asr:0: OUTPUT 1218.24-1227.67: And you said late part was a bit softer, but somewhere in your remarks I think you said all in, total holiday, so both early part and late part. 
+asr:0: OUTPUT 1228.33-1236.48: Finish down mid-single digits for the category. I think mathematically to get the category down mid-single digits, we're gonna have to see some pretty sharp declines. 
+asr:0: OUTPUT 1237.22-1242.20: Coming through the retail sales data in the next couple of weeks as we capture that late part of the season. 
+asr:0: OUTPUT 1242.72-1245.25: Am I thinking about it right? Am I interpreting your comments correctly? 
+asr:0: OUTPUT 1246.39-1255.82: Yes, you are interpreting them correctly. Category was down mid-single digits overall as much as our business was actually up. 
+asr:0: OUTPUT 1256.52-1260.38: And we will see some of those decline. 
+asr:0: OUTPUT 1261.18-1270.79: One other thing to keep in mind, there is a little bit of a timing impact from the Nielsen and IRI data given that the season was on a Saturday versus a Thursday and based on retail reporting days. 
+asr:0: OUTPUT 1271.23-1278.88: So you will probably even see it's down even more and you'll have to wait till kind of mid-November until you see some of those last couple days being reported. 
+asr:0: OUTPUT 1279.00-1285.71: So some of it when you see will be just a timing shift to the day of the week and some of it will certainly be the declines in trick-or-treat at the end. 
+asr:0: OUTPUT 1286.83-1295.20: Understood. Thank you. Thank you. Our next question comes from the line of David Driscoll with DD Research. Please proceed with your question. 
+asr:0: OUTPUT 1296.50-1300.74: Great, thank you. Good morning and congratulations on the great execution in the quarter. 
+asr:0: OUTPUT 1301.76-1305.27: David. I had two questions. 
+asr:0: OUTPUT 1305.33-1311.89: The first one, just two relatively small ones on the other expense commentary. 
+asr:0: OUTPUT 1312.25-1315.76: I think through the year-to-date period, other expense. 
+asr:0: OUTPUT 1315.78-1323.98: Is only a small number, but your full year projection, $100 to $110 million on that means. 
+asr:0: OUTPUT 1324.00-1325.89: Fairly massive number in the fourth quarter. 
+asr:0: OUTPUT 1326.29-1327.51: Am I doing the math right? 
+asr:0: OUTPUT 1327.65-1336.88: Is that correct on how the pattern lays out for other expense? And then related, just another follow-up on your volumes expected in the fourth quarter. 
+asr:0: OUTPUT 1336.94-1342.80: I think in your prepared comments, you said North American organic growth similar to third quarter. 
+asr:0: OUTPUT 1342.84-1349.31: But pricing only like a half point. So, that would mean volume is something like five percentage points positive in the fourth quarter. 
+asr:0: OUTPUT 1349.83-1353.75: Am I doing those two pieces right? Any color you can give on those two comments? 
+asr:0: OUTPUT 1354.57-1361.02: Yeah, I'd be happy to. So on the tax side and other expense, you're exactly right. We will have a large other expense in the fourth quarter. 
+asr:0: OUTPUT 1361.66-1365.59: That's consistent with what we've been saying even in the early guidance earlier in the year. 
+asr:0: OUTPUT 1366.03-1374.19: And then along with that, a lower tax rate in the fourth quarter. To do the math on the tax rate, you also have to solve for a lower tax rate. So that's how those two lines will play out. 
+asr:0: OUTPUT 1374.69-1378.04: And yes, on the volume up in the fourth quarter, you're thinking about it the right way. 
+asr:0: OUTPUT 1378.70-1386.51: We do have some inventory replenishment that will happen in the fourth quarter. We saw that in the third. We'll see some more of that or that continue into the fourth. 
+asr:0: OUTPUT 1386.75-1395.84: We're also lapping some elasticity after the price increase last year. And then this continued strong share gains, those three things are part of driving that fourth quarter volume. 
+asr:0: OUTPUT 1397.28-1399.22: Michelle, bigger picture question. 
+asr:0: OUTPUT 1399.82-1407.31: Before she took pricing in most of the portfolio outside of seasonal candies in 2018 and then in 2019,. 
+asr:0: OUTPUT 1407.49-1412.43: Given the negative impact to Halloween for the entire category,. 
+asr:0: OUTPUT 1412.91-1418.24: Would you agree that now is probably not the time for seasonal price increase actions? 
+asr:0: OUTPUT 1418.42-1424.64: Maybe this gets delayed to 2022 or sometime later until we get a normal consumer environment. 
+asr:0: OUTPUT 1425.15-1431.19: Essentially, I'm just asking you to assess your ability to pass through cost increases through pricing actions. 
+asr:0: OUTPUT 1431.55-1435.72: It's a weird environment and I don't know how it's altered that calculus. Thank you. 
+asr:0: OUTPUT 1436.82-1444.54: Yep. So, obviously, I can't speak to any specifics about our specific, any upcoming specific pricing action. 
+asr:0: OUTPUT 1444.86-1451.47: What I can say is, there's been no change to our pricing strategy of smaller, more frequent increases. 
+asr:0: OUTPUT 1451.89-1459.10: And that doesn't necessarily mean we're going to have the same amount of pricing every year or that we would always announce pricing at the same time. 
+asr:0: OUTPUT 1459.62-1467.15: We did, for example, actually have a small price increase this past year on our food service business in the third quarter. 
+asr:0: OUTPUT 1467.73-1476.16: So, if we look over time, we have been able to price at various times and various economic conditions. 
+asr:0: OUTPUT 1477.26-1486.35: So what's important to us is we do think pricing's an important part of our algorithm, but as we've talked about before, we really wanna grow through balanced growth across levers. 
+asr:0: OUTPUT 1486.37-1492.45: Distribution, velocity, innovation, price, etc. 
+asr:0: OUTPUT 1493.11-1494.71: So,. 
+asr:0: OUTPUT 1494.87-1506.29: We know that that is certainly the one piece of the portfolio that we have not yet priced. I think it's fair to say that given that we haven't announced a price increase. 
+asr:0: OUTPUT 1506.31-1507.85: At this moment in time. 
+asr:0: OUTPUT 1507.87-1513.95: The magnitude of pricing in 2021 would be less than we've seen in prior years, at least at this point. 
+asr:0: OUTPUT 1515.30-1522.08: We've been pleased that we've seen conversion be pretty good this year, even in a very difficult economic environment. 
+asr:0: OUTPUT 1522.82-1527.71: And I think that continues to demonstrate what we've seen over the years, which is. 
+asr:0: OUTPUT 1527.73-1538.08: The category is very resilient. Our brands are strong. We continue to invest into our brands and that does allow us for an even greater amount of pricing power. 
+asr:0: OUTPUT 1540.04-1548.77: Helpful. Thank you so much. Thank you. Our next question comes from the line of Steve Powers with Deutsche Bank. Please proceed with your question. 
+asr:0: OUTPUT 1550.33-1552.35: Yes, hey, thanks. Good morning. 
+asr:0: OUTPUT 1552.89-1561.92: I guess building somewhat on earlier questions, I'd love a little bit more color around your general mindset heading into 21 as you work through your planning process. 
+asr:0: OUTPUT 1563.28-1573.17: Clearly, there are parts of your business that have been under pressure this year, international movie theaters, vending specialty, et cetera. And hopefully all those set up for at least directional recovery in the year ahead. 
+asr:0: OUTPUT 1573.61-1581.04: But at the same time, you've been gaining a lot of share, you've had great success in at-home categories like baking and with initiatives like s'mores. 
+asr:0: OUTPUT 1581.38-1586.45: All of which is fantastic momentum, but again, could set up for difficult year over year comparisons. 
+asr:0: OUTPUT 1588.25-1589.69: So as you size it all together. 
+asr:0: OUTPUT 1589.71-1599.76: I guess, is there a way to frame your thinking at a summary level to what degree those various puts and takes sort of just net each other out in your mind, or are you approaching 21 planning. 
+asr:0: OUTPUT 1599.84-1607.51: Thinking we've got either a net easier or a net harder setup versus what one might consider typical. Thanks. 
+asr:0: OUTPUT 1608.73-1620.38: Yes, so we're pleased with the momentum that we are seeing and I would say, you know, your call-outs and what you shared about some of the ups and downs on the business I think are very accurate. 
+asr:0: OUTPUT 1621.52-1627.11: We believe we're seeing that our category and our brands really resonate with consumers. 
+asr:0: OUTPUT 1627.13-1634.75: And especially at a time like this where they're looking for some of those moments of goodness, moments of happiness. 
+asr:0: OUTPUT 1634.77-1644.28: We're really pleased with how we've been able to pivot with the consumer and also pivot with our capabilities to be able to execute within this environment. 
+asr:0: OUTPUT 1644.76-1645.79: And... 
+asr:0: OUTPUT 1645.81-1649.47: We feel good about that momentum and our ability to continue pivoting. 
+asr:0: OUTPUT 1649.51-1656.78: So this year, obviously, it was consumer shifted to take home. And so we dialed up s'mores, and we dialed up Twizzlers, and we dialed up baking. 
+asr:0: OUTPUT 1656.86-1664.08: And we leaned in to create the season to make sure that we could capture that opportunity, giving consumers. 
+asr:0: OUTPUT 1664.10-1670.15: New ways to participate in Halloween, but frankly we believe those things like candy slides and candy graveyards and. 
+asr:0: OUTPUT 1670.17-1676.08: All the creative things people did will probably become a part of their ongoing traditions and they have just evolved. 
+asr:0: OUTPUT 1676.50-1680.00: You know, as I mentioned, we were able to dial in and accelerate e-commerce. 
+asr:0: OUTPUT 1680.30-1687.85: I think as we look to next year, we are prepared if the consumer pivots yet again, to be able to pivot with them. 
+asr:0: OUTPUT 1688.25-1706.31: I think we've built and we've demonstrated the ability to execute well during this environment and also to pivot from an executional perspective, whether it's at retail or in our manufacturing facilities. We're very focused on that. We've captured as well some cultural,. 
+asr:0: OUTPUT 1706.33-1715.50: Positive effects, I think, capabilities we've built in terms of operating in this environment that perhaps allow us to make decisions more quickly,. 
+asr:0: OUTPUT 1715.54-1719.18: And we think that is an enabler for us going forward. 
+asr:0: OUTPUT 1719.56-1722.72: So we feel good about that as we look to the future. 
+asr:0: OUTPUT 1724.44-1725.47: Thanks for that, Michelle. 
+asr:0: OUTPUT 1726.09-1730.55: I don't know if you want to take this one or Steve, but just as a follow up, sort of unrelated. 
+asr:0: OUTPUT 1730.85-1739.66: Just any comments you might have on just current levels of promotion, the promotional environment, what you expect to see there with the balance of 4Q and MNCT 21? 
+asr:0: OUTPUT 1740.20-1749.43: Thanks. Yeah, we don't see any significant change relative to promotional activity. 
+asr:0: OUTPUT 1750.05-1757.20: We didn't really see it this year. We didn't execute anything significantly differently, and nor do we expect to see anything in the future. 
+asr:0: OUTPUT 1758.22-1759.64: Okay, perfect. Appreciate it. 
+asr:0: OUTPUT 1762.44-1767.05: Thank you. Our next question comes from the line of Nick Modi with RBC. Please proceed with your question. 
+asr:0: OUTPUT 1768.89-1769.91: Yeah, good morning, everyone. 
+asr:0: OUTPUT 1771.05-1779.50: Michelle, I was hoping you could provide some context on the partnership with Google that you used during the Halloween period. Do you believe this capability can be leveraged? 
+asr:0: OUTPUT 1779.76-1783.74: For this holiday season, but also kind of in your everyday business as you kind of look forward. 
+asr:0: OUTPUT 1786.45-1797.14: You know, we are continuing to leverage different types of data and analytic and insights more and more across the business. 
+asr:0: OUTPUT 1797.62-1803.82: And we continue to really try and stay on top of tracking consumer sentiment. 
+asr:0: OUTPUT 1803.84-1809.83: And leveraging data and analytics to tailor copy to tailor messaging to tailor media so. 
+asr:0: OUTPUT 1809.89-1820.90: More and more, we are operating at a more sophisticated level relative to using multiple data sources and also using that to reach consumers at the right places with the right message at the right time. 
+asr:0: OUTPUT 1822.10-1828.01: And I guess what I'm trying to get at is, is this kind of new way of kind of targeting consumers? 
+asr:0: OUTPUT 1828.03-1833.11: The return that you see from what you've done. Can you just give us any kind of understanding. 
+asr:0: OUTPUT 1833.77-1841.54: Because one thing I'm noticing across the entire CPG landscape is companies are spending more money, but they're spending more money on the same message. 
+asr:0: OUTPUT 1841.66-1849.65: And in fact, new consumers are being recruited, usage occasions are changing. And so it really requires a change in how you talk to those consumers. 
+asr:0: OUTPUT 1850.09-1859.60: And so I find this Google partnership incredibly compelling for you guys. So I'm just trying to get better context on how it's changing the return profile of your spend. 
+asr:0: OUTPUT 1860.40-1861.82: You can provide any context on that. 
+asr:0: OUTPUT 1862.64-1871.03: We have a continuous focus on optimizing media and the returns on our media. We always have. 
+asr:0: OUTPUT 1871.31-1874.15: We've had strong media ROIs. 
+asr:0: OUTPUT 1874.17-1881.68: Forever and our challenge is how do we keep making them better and then we continuously optimize based on that. So right now,. 
+asr:0: OUTPUT 1882.08-1888.03: It's a big spend area for us. It's an area we're very focused on elevating. 
+asr:0: OUTPUT 1888.05-1899.30: You're making sure right now I would say some of the biggest opportunity is that opportunity of even more precise targeting and then once you have that target the ability to alter the message. 
+asr:0: OUTPUT 1899.62-1902.62: And then we alter our media mix accordingly. 
+asr:0: OUTPUT 1902.92-1909.53: And I would say we see significant movement in that mix on a year-to-year basis as we get better at that. 
+asr:0: OUTPUT 1909.85-1916.02: I think we've raised some of the opportunities of how we've gone just very deep relative to. 
+asr:0: OUTPUT 1916.04-1920.44: Specific seasons, whether it's s'mores by zip code or whether it's. 
+asr:0: OUTPUT 1920.46-1929.63: Specific holidays and looking at sell-through at a store-level basis to be able to dial up media on a zip code-level basis. 
+asr:0: OUTPUT 1930.07-1934.89: So you'll continue to see more of that. Frankly, that's just becoming a way of how we operate now. 
+asr:0: OUTPUT 1936.08-1944.44: Great. And last question, just from an innovation standpoint, can you just provide any context on kind of what's remaining in terms of innovation this year? 
+asr:0: OUTPUT 1944.54-1950.55: And how things are going to work in 2021, if there's any clarity you can provide on the launch timing. 
+asr:0: OUTPUT 1952.65-1962.40: Yep, so we feel very good about our innovation. Some of the innovations that we are excited about. 
+asr:0: OUTPUT 1963.68-1969.83: That are new to the market include the Reese pretzel product, a Reese cup with pretzels in it. 
+asr:0: OUTPUT 1970.59-1980.24: We've had a range of KitKat flavors. We know on a global basis a big part of the KitKat portfolio are flavors. They tend to do quite well. 
+asr:0: OUTPUT 1981.76-1985.21: We are on a very small level. 
+asr:0: OUTPUT 1985.23-1995.42: Launching snack cakes under a research trademark, which delivers that REECE experience in a slightly different type of product form. 
+asr:0: OUTPUT 1995.56-2000.00: And we feel good on that versus some of the early test results. 
+asr:0: OUTPUT 2000.94-2002.46: And we will have more coming. 
+asr:0: OUTPUT 2002.88-2012.67: Some items on our take-home side of our business that won't get announced until early next year, which is typically the time we announce those things, just given reset windows. 
+asr:0: OUTPUT 2013.39-2018.96: No major change in our innovation strategy. We think it's working very well for us. We think it's right sized. 
+asr:0: OUTPUT 2020.30-2023.58: And we think it's delivering much more sustainable results. 
+asr:0: OUTPUT 2025.01-2026.13: Great, I'll pass it on, thank you. 
+asr:0: OUTPUT 2028.75-2034.01: Thank you. Our next question comes from the line of Michael Lavery with Piper Sandler. Please proceed with your question. 
+asr:0: OUTPUT 2036.28-2040.16: Thank you. Good morning. Good morning. 
+asr:0: OUTPUT 2040.72-2048.59: You've talked about the increase in e-commerce sales, even if it might have decelerated a little bit, but it's up very strongly. 
+asr:0: OUTPUT 2049.17-2053.15: You've said in the past that baskets and dollar ring are higher online. 
+asr:0: OUTPUT 2053.75-2056.36: Is that still holding true with the growth that you're seeing now? 
+asr:0: OUTPUT 2056.80-2060.16: And on the margin side, you've mentioned that there's... 
+asr:0: OUTPUT 2060.48-2069.01: Small gaps but that you were narrowing it and that scale would help that. Is that coming along the way that you would have expected? How does that look now? 
+asr:0: OUTPUT 2070.55-2078.54: We've generally seen larger basket sizes in general across most channels this year as people are. 
+asr:0: OUTPUT 2078.56-2083.54: Doing fewer trips and more quantity per trip. 
+asr:0: OUTPUT 2083.62-2090.33: So I think that's been somewhat of just an underlying dynamic given the pandemic impact in the marketplace. 
+asr:0: OUTPUT 2091.57-2094.69: For us on our e-commerce business, we've seen... 
+asr:0: OUTPUT 2094.71-2107.27: Very significant growth across the board, but particularly in click and collect, where people actually go and pick up their groceries, and also in the local delivery models as well, versus kind of national deliver. 
+asr:0: OUTPUT 2108.57-2112.03: The margins that we have are similar to what we see in bricks and mortar. 
+asr:0: OUTPUT 2114.23-2121.82: Okay, great. That's helpful. In those two areas where we have similar products, obviously, that we sell in bricks and mortar. 
+asr:0: OUTPUT 2123.14-2131.33: Steve, anything you want to add? Yeah, I would say is that we've said in the past that overall e-commerce margins are a little bit dilutive. 
+asr:0: OUTPUT 2131.49-2141.32: And it's there, as Michelle just said, in click and collect and local delivery, very similar, not much impact. And that's probably two-thirds of our e-commerce business, the piece that is more dilutive. 
+asr:0: OUTPUT 2141.34-2143.94: Is the ship to home and in particular cold ship. 
+asr:0: OUTPUT 2144.48-2151.47: And that's an area where we continue to work with our customers and look at our overall investment with those customers and joint business planning to drive. 
+asr:0: OUTPUT 2151.49-2154.51: Efficiencies over time so that those margins align. 
+asr:0: OUTPUT 2156.56-2159.82: Okay, thanks. And I just want to follow up on s'mores. I thought that... 
+asr:0: OUTPUT 2160.12-2167.21: Your data analysis and insight there to push that the way that you did was interesting. 
+asr:0: OUTPUT 2167.85-2170.87: As you're seeing cases rise again now. 
+asr:0: OUTPUT 2171.41-2174.37: Are you replicating that? Are you seeing similar results? 
+asr:0: OUTPUT 2174.39-2179.20: Is there a s'mores surge we should expect? 
+asr:0: OUTPUT 2179.54-2185.53: And would it be right to assume that those Hershey milk chocolate bars are probably some of the highest margin ones that you have? 
+asr:0: OUTPUT 2188.51-2203.58: So we have really expanded S'mores from at one point it was a very focused time of year to really capturing S'mores as a year-round opportunity, especially if you think about how different weather is across the entire country. 
+asr:0: OUTPUT 2203.66-2209.79: There are lots of opportunities to continue to expand that. So we're very focused on that. 
+asr:0: OUTPUT 2209.95-2219.12: We're also very focused on the upcoming baking season where we know that consumers will be spending time at home. It's already a natural baking season. 
+asr:0: OUTPUT 2219.14-2227.47: We'll be looking to really optimize what we're able to drive, leveraging insights around that season as well. 
+asr:0: OUTPUT 2229.97-2238.96: Okay, great. Thanks a lot. Thank you. Our next question comes from the line of Brian Spillane with Bank of America. Please distribute the question. 
+asr:0: OUTPUT 2240.00-2241.16: Good morning, everyone. 
+asr:0: OUTPUT 2242.74-2245.25: So just one question for me. 
+asr:0: OUTPUT 2245.35-2254.65: And I think there was a little bit of a commentary in the prepared remarks about inflation and cost of goods sold. So maybe, Steve, could you just give us a... 
+asr:0: OUTPUT 2254.67-2263.68: Kind of a lay of the land right now in terms of what commodity costs and just cost of goods inflation looks like currently. 
+asr:0: OUTPUT 2264.90-2269.41: You know in the context of it seems like freight costs are going up you've had some competitors talk about. 
+asr:0: OUTPUT 2270.83-2277.96: Cocoa prices going up. So just trying to get an understanding of, you know, directionally where, where inflation is headed right now. 
+asr:0: OUTPUT 2278.96-2285.57: For us, I'd say overall it's been relatively stable. So on the commodity side, relatively stable. 
+asr:0: OUTPUT 2285.61-2289.95: You saw big movements in commodities across Q2 and Q3. 
+asr:0: OUTPUT 2289.97-2296.56: We've talked in the past we mitigate some of that volatility with our hedging program, and I would say today. They're fairly stable. 
+asr:0: OUTPUT 2297.20-2303.12: There are increases in freight costs. There too, our teams do a great job of longer term contracting. 
+asr:0: OUTPUT 2303.58-2307.73: Which helps mitigate some of that increase. So that hasn't been a real material impact for us. 
+asr:0: OUTPUT 2308.17-2315.98: We have seen some increased warehousing costs and part of that's volume and flow through along with the share gains and the volume increases that we've seen. 
+asr:0: OUTPUT 2316.66-2324.38: We call that out in the prepared remarks. But in total, at least sitting at this point, I would say overall COGS is fairly stable. 
+asr:0: OUTPUT 2324.84-2328.29: And we'll get more guidance on 2021 when we get into the fourth quarter call. 
+asr:0: OUTPUT 2328.89-2338.48: But I guess we can infer from that, at least from where we sit today, that it's stable is something that looks like it carries into next year unless something changes. 
+asr:0: OUTPUT 2339.94-2349.83: Yeah, I think that's fair. Next year, you're going to have the 2020 and 2021 crops of cocoa start to bear the lid, so there's that to consider. 
+asr:0: OUTPUT 2350.61-2356.54: And then there's other things, obviously, on the gross margin side, as Michelle said, we'll have a little bit more volume-driven than price-driven. 
+asr:0: OUTPUT 2356.90-2360.62: Nix driving gross margin next year will have our continuing productivity goal. 
+asr:0: OUTPUT 2361.60-2364.38: And I get a lot more on that to come when we talk on the fourth quarter call. 
+asr:0: OUTPUT 2365.29-2368.47: Thanks, Steve. That's very helpful. Happy Thanksgiving, everyone. 
+asr:0: OUTPUT 2372.19-2377.44: Our next question comes from the line of John Baumgartner with Wells Fargo. Please proceed with your question. 
+asr:0: OUTPUT 2379.16-2385.61: Good morning, thanks for the question. Good morning. Michelle, I'd like to follow up on the Rhesus neck. 
+asr:0: OUTPUT 2385.97-2393.29: You mentioned that it's small right now, but you know, HERSI went down this path about 15 years ago and it didn't really translate into anything material. 
+asr:0: OUTPUT 2393.31-2397.32: I'm curious what the data tells you in terms of changes to the landscape now. 
+asr:0: OUTPUT 2397.92-2407.17: Does this mark a new phase of the snack section evolution? Where do you think it slots in? Does it compete against the Twinkies, the Cookies? Where's the target market? 
+asr:0: OUTPUT 2407.19-2409.47: Any big picture thoughts would be appreciated. 
+asr:0: OUTPUT 2410.83-2412.55: Yeah, absolutely. 
+asr:0: OUTPUT 2412.57-2418.10: So, I think we've approached this in a very thoughtful and measured way, which was,. 
+asr:0: OUTPUT 2418.12-2428.75: Not a mass launch where we just threw it out there and tried to make it as big as we possibly could at one point in time, but we did a very targeted in-market launch. 
+asr:0: OUTPUT 2428.77-2441.38: For an extended period of time so that we could really learn about the proposition. We spent a lot of time in terms of developing the product to make sure that we really understood some of the drivers of liking. 
+asr:0: OUTPUT 2441.42-2443.38: In this snack cake area. 
+asr:0: OUTPUT 2444.32-2451.25: And we also really thought about where and how we wanted to play and launch. 
+asr:0: OUTPUT 2451.77-2455.80: So this, for example, is very CSTOR focused. 
+asr:0: OUTPUT 2456.50-2464.04: It is a single serve type of item. So we're keeping it as a focused launch. 
+asr:0: OUTPUT 2465.35-2472.57: It is definitely bringing the great chocolate and peanut butter taste profile that we have on Reese's. 
+asr:0: OUTPUT 2472.59-2480.94: To the snack cake market. So yes, it is playing in that snack cake area versus other snack cake brands. 
+asr:0: OUTPUT 2481.80-2491.75: We know that we had participated in this category for many years through licensing and we learned through that that our brands could participate and extend to the category. 
+asr:0: OUTPUT 2492.17-2499.88: We also know that morning snacking has been a growing trend and our confection items skew more to afternoon and evening. 
+asr:0: OUTPUT 2499.90-2506.61: So this is a chance for us to participate in some of that growth because that is where these snack cakes get utilized. 
+asr:0: OUTPUT 2508.27-2517.46: So again, we're going to have a very focused rollout. We'll put it in locations where we think we can garner incremental space and where we think there's a strong consumer fit. 
+asr:0: OUTPUT 2517.96-2526.61: And starting at CSTOR and looking at other select areas. If it continues to perform well, we will expand. 
+asr:0: OUTPUT 2526.79-2529.45: But we will watch it closely and take a measured approach. 
+asr:0: OUTPUT 2531.07-2540.34: Great. Thanks, Michelle. Sure. Thank you. Our next question comes from the line of Alexia Howard with Bernstein. Please proceed with your question. 
+asr:0: OUTPUT 2541.78-2549.79: Good morning, everyone. Hi, let's. Hi there. Can I just talk about the, the C store channel specifically? 
+asr:0: OUTPUT 2550.13-2553.07: It's obviously been under pressure because of the pandemic. 
+asr:0: OUTPUT 2553.71-2562.48: But I imagine that there has been some sequential improvement in there. Could you maybe just give us some numbers about how that channel is recovering? 
+asr:0: OUTPUT 2563.62-2570.51: Absolutely. So as you said, we've continued to see strength in food and mass and dollar as consumers eat more at home. 
+asr:0: OUTPUT 2571.99-2586.43: The C-STORE class did see a bit of recovery in the third quarter. So we saw the business grow in the low single digits in the third quarter, which is definitely an improvement versus those early pandemic trends. 
+asr:0: OUTPUT 2587.43-2595.00: It did then slow a little bit as summer ended and those summer road trips decreased with kids going back to school. 
+asr:0: OUTPUT 2596.08-2599.70: Our business has tracked pretty much in line with the channel. 
+asr:0: OUTPUT 2600.34-2608.33: And significantly ahead of the category. So we have share gains of about 120 basis points in Q3 in that channel. 
+asr:0: OUTPUT 2608.97-2617.30: So seeing some rebounds and some recovery versus where it was in the past as people are out and about a little bit more than they were. 
+asr:0: OUTPUT 2619.56-2624.28: And then as a follow-up, actually on Brian's question about freight costs. 
+asr:0: OUTPUT 2624.99-2631.05: I remember back in 2018 as freight costs spiked back then, that was quite a bit of a headwind for you. 
+asr:0: OUTPUT 2632.21-2640.54: It seems as though it's not so much of a problem this time around. Are you able to tell us roughly what proportion of cogs freight actually represents? 
+asr:0: OUTPUT 2641.96-2645.05: And how much of that is already contracted out. 
+asr:0: OUTPUT 2645.57-2652.57: And what you've learned since 2018 to make the situation this time around a bit more manageable. Thank you. 
+asr:0: OUTPUT 2653.87-2655.58: Sure. 
+asr:0: OUTPUT 2655.66-2657.10: I have a freak cough right now. 
+asr:0: OUTPUT 2657.12-2667.09: We don't see as a material impact. If it continues to rise, it'll have a bigger impact right now. Again, because we're contracted and our teams do a great job of managing those contracts. 
+asr:0: OUTPUT 2668.03-2669.55: It's not having as much material of impact. 
+asr:0: OUTPUT 2670.07-2674.57: With roughly 10% of COGS overall. 
+asr:0: OUTPUT 2675.44-2682.86: So it's not immaterial, but right now not seeing enough movement there given the contracting to really drive a material impact on overall cost. 
+asr:0: OUTPUT 2684.52-2694.13: Thank you very much. I'll pass it on. Thank you. Our next question comes from the line of Jonathan Feeney with Consumer Edge. Please proceed with your question. 
+asr:0: OUTPUT 2696.34-2700.10: Good morning, thanks very much, and thanks for a great Halloween. 
+asr:0: OUTPUT 2701.22-2710.69: Personally and professionally. The zenith of my financial ambitions has been to give out full-size candy bars, which I was again able to execute. So thank you. 
+asr:0: OUTPUT 2711.43-2718.40: To quick one property i've noticed in the data you're pricing in north america is yet. 
+asr:0: OUTPUT 2718.42-2729.43: Plus one nine on the takeaway plus three three is what you reported. Is that just the math or is there some shrinking or different mix within retailer margins? There's my first question. And secondly. 
+asr:0: OUTPUT 2730.37-2732.47: Historically, when you look at. 
+asr:0: OUTPUT 2732.49-2741.80: Today's velocity is generally tomorrow's distribution and your velocity has been fantastic. This is a weird year. A lot of people's velocity is fantastic. 
+asr:0: OUTPUT 2741.86-2750.71: But do you anticipate gaining shelf space in that everyday place? You look at these baking items, you look at these take-home items. 
+asr:0: OUTPUT 2750.95-2755.46: Like this is phenomenally better velocity forget about just the total sales that you're seeing there. 
+asr:0: OUTPUT 2755.70-2759.16: You anticipate significant share gains, perhaps structural ones. 
+asr:0: OUTPUT 2760.00-2766.57: I'm talking share of shelf here as retailers do resets for holiday and going forward. Thank you. 
+asr:0: OUTPUT 2768.01-2772.55: Sure. So two parts to your question. The first was around. 
+asr:0: OUTPUT 2772.57-2779.06: Price and some of the discrepancy. Yes, there is a mixed impact. 
+asr:0: OUTPUT 2779.60-2785.02: Honestly, it might be best if Melissa goes and takes you through a deep dive on that because. 
+asr:0: OUTPUT 2785.09-2787.87: There's some complexity associated with it. 
+asr:0: OUTPUT 2787.95-2792.33: But the P&L is definitely accurate. 
+asr:0: OUTPUT 2794.13-2803.28: As it relates to velocity, yes, good velocity, I like your phrase, today's velocity is tomorrow's distribution. I do think that's very accurate. 
+asr:0: OUTPUT 2803.62-2816.22: As we look at the seasons, you asked about holiday. We certainly have been able to garner incremental distribution, incremental SKUs throughout the year. 
+asr:0: OUTPUT 2816.84-2824.10: Both in terms of everyday and seasons, because we've been able to deliver and the items that we then put on shelves. 
+asr:0: OUTPUT 2824.82-2830.05: Not only could we supply them, but then they moved. So we do feel good about that. 
+asr:0: OUTPUT 2830.29-2836.76: We'll continue to take a very disciplined approach and be very careful that we don't over skew. 
+asr:0: OUTPUT 2837.42-2843.06: We really have to look at the productivity of every SKU. 
+asr:0: OUTPUT 2843.28-2848.09: We will be there. But yes, we have been able to gain some distribution and going forward. 
+asr:0: OUTPUT 2848.11-2853.63: I anticipate that we will continue to be able to perhaps even through the first part of next year. 
+asr:0: OUTPUT 2855.82-2859.30: Thanks very much and I'll follow up with Melissa. Very good. 
+asr:0: OUTPUT 2861.54-2867.51: Our next question comes from the line of Ken Zaslow with BMO. Please proceed with your question. Hey, good morning, everyone. 
+asr:0: OUTPUT 2868.59-2873.09: Good morning again. I just have one quick question. Everything's been asked and answered. 
+asr:0: OUTPUT 2873.67-2879.32: Can you make a reference in the prepared remarks about Pirate's Booty tracking ahead of your strategic plans? 
+asr:0: OUTPUT 2880.12-2881.78: Can you talk about what are the key lessons? 
+asr:0: OUTPUT 2881.82-2891.35: Learnings that you've developed through your years as a CEO that has really helped you kind of make this a better acquisition and. 
+asr:0: OUTPUT 2891.65-2897.74: You know, implemented, what are your key learnings and what do you take forward to future learnings, to future acquisitions? 
+asr:0: OUTPUT 2900.30-2907.55: Wow, so I think a lot of learnings along the way. I guess I would start with, you know,. 
+asr:0: OUTPUT 2907.63-2913.43: There's a business model for brands that we as a company are best with. 
+asr:0: OUTPUT 2913.45-2922.60: And that is branded items where brand matters, where the business has significant scale. 
+asr:0: OUTPUT 2922.62-2925.13: You know, probably close to that $100 million mark. 
+asr:0: OUTPUT 2925.49-2933.31: And it needs to be a business that has a high gross margin because that's what our business model is. We're a branded company. We invest a lot in marketing. 
+asr:0: OUTPUT 2933.67-2938.02: And we have high margins that enable us to kind of invest and grow, invest and grow. 
+asr:0: OUTPUT 2938.38-2941.68: And that's our model. That's what we need. 
+asr:0: OUTPUT 2942.04-2947.07: So I think that was one of the biggest learnings was to help us select the assets. 
+asr:0: OUTPUT 2948.63-2959.32: I think secondly, really understanding the strength of the brand and really being able to do the right deep dive on which KPIs we think are the best. 
+asr:0: OUTPUT 2959.34-2962.96: Predict the ability for a brand to scale. 
+asr:0: OUTPUT 2963.84-2970.43: And then I would say, you know, really trying to scale the business well. 
+asr:0: OUTPUT 2970.47-2976.84: And I would say, hey, we've learned lessons the whole way along the way. As you know, in the past, we bought some businesses that were too small. We bought some businesses that. 
+asr:0: OUTPUT 2977.16-2978.56: You know, had lower margins. 
+asr:0: OUTPUT 2978.70-2988.05: And we had some that we perhaps didn't execute on the scaling as well. And I think we've had a very focused effort on the scaling as well, and we've gotten much better at that. 
+asr:0: OUTPUT 2989.21-2994.85: Relative to supply chain, relative to the talent that we need when we buy a company like this. 
+asr:0: OUTPUT 2995.16-3000.16: Where we want to keep the entrepreneurial spirit, we want to keep people who know the brand and the business. 
+asr:0: OUTPUT 3001.44-3006.23: We also have to be focused on the point that we're also at a point where we want to scale the business. 
+asr:0: OUTPUT 3006.49-3018.20: I go back to the scale, the branded nature, the high margin are probably the biggest ones and then picking the right underlying KPIs that say it's a sustainable business because if we can do that,. 
+asr:0: OUTPUT 3018.78-3020.50: We can make it home. 
+asr:0: OUTPUT 3023.42-3032.19: Thank you. Thank you. Ladies and gentlemen, that concludes our question and answer session. I'll turn the floor back to Ms. Poole for any final comments. 
+asr:0: OUTPUT 3033.53-3038.76: Thank you all for joining us this morning. I will be available after the call to answer any additional questions you may have. Have a great day. 
+asr:0: OUTPUT 3041.42-3045.17: At this time, thank you for your participation. 
+asr:0: END

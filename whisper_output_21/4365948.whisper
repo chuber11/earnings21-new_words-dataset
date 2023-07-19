@@ -1,0 +1,378 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.26-6.61: Good morning and welcome to the GCP Applied Technologies second quarter 2020 earnings conference call. 
+asr:0: OUTPUT 7.01-19.50: With us today from GCP Applied Technologies is Randy Dirth, President and Chief Executive Officer, Craig Merrill, Chief Financial Officer, and Betsy Cowell, Vice President, Investor Relations. 
+asr:0: OUTPUT 20.00-24.10: During today's presentation, all participants will be in listen-only mode. 
+asr:0: OUTPUT 24.70-30.19: Should you need any assistance, please signal a conference specialist by pressing the star key followed by zero. 
+asr:0: OUTPUT 31.11-38.68: After today's presentation, there will be an opportunity to ask a question. To ask a question, you may press star then one on your telephone keypad. 
+asr:0: OUTPUT 39.08-42.48: To withdraw from the question queue, please press star then two. 
+asr:0: OUTPUT 43.10-45.07: Please note this event is being recorded. 
+asr:0: OUTPUT 45.69-49.35: I would now like to turn the conference over to Betsy Cowell. Please go ahead. 
+asr:0: OUTPUT 50.43-54.35: Thank you, Kate. Hello, everyone, and thank you for joining us on today's call. 
+asr:0: OUTPUT 54.89-61.46: With us on the call, as said, are Randy Dirks, President and Chief Executive Officer, and Craig Merrill, Chief Financial Officer. 
+asr:0: OUTPUT 62.20-67.81: Our earnings release and corresponding presentation slides for this quarter's results are available on our website. 
+asr:0: OUTPUT 68.39-73.09: To download copies, please go to gcpat.com and click on the Investor tab. 
+asr:0: OUTPUT 74.01-78.96: Some of our comments today will include forward-looking statements under U.S. Federal securities laws. 
+asr:0: OUTPUT 79.48-87.99: Actual results may differ materially from those projected or implied due to a variety of factors, including but not limited to the impacts of COVID-19. 
+asr:0: OUTPUT 88.93-93.93: Please see a full description of information used in forward-looking statements in our earnings release. 
+asr:0: OUTPUT 94.87-101.46: We will discuss certain non-GAAP financial measures, which are described in more detail in our origins release and on our website. 
+asr:0: OUTPUT 102.30-109.19: Our comments and forward-looking statements and non-GAAP financial measures apply both to the prepared marks and the Q&A. 
+asr:0: OUTPUT 110.05-113.13: References to EBITDA, refer to adjusted EBITDA. 
+asr:0: OUTPUT 113.15-115.46: References to EBIT, to adjusted EBIT. 
+asr:0: OUTPUT 115.48-124.36: And references to margin refer to adjusted gross margin, adjusted EBITDA margin, or adjusted EBIT margin as defined in our press release. 
+asr:0: OUTPUT 125.03-133.67: All revenues and associated growth rates in this discussion are stated on a comparable constant currency basis, which adjusts for the impact of foreign currency. 
+asr:0: OUTPUT 134.39-136.28: With that, Randy, I'll turn the call over to you. 
+asr:0: OUTPUT 137.12-142.62: Thanks Betsy and good morning everyone. So before I begin today's discussion on GCP's second quarter,. 
+asr:0: OUTPUT 143.00-149.61: I do want to update you on GCP's engagement with its new board members that were elected at the May 28, 2020, annual meeting. 
+asr:0: OUTPUT 150.37-159.12: Management has been working constructively with the board to help them provide insight on activities to improve our performance and build a greater understanding of our business. 
+asr:0: OUTPUT 159.72-165.53: We appreciate the engagement as they continue to work actively alongside our business leaders to drive the business forward. 
+asr:0: OUTPUT 166.33-173.31: The newly formed Strategy, Operating, and Risk Committee has been advising management on a variety of topics, including strategy,. 
+asr:0: OUTPUT 173.33-178.06: Operations, go-to-market, product innovation, and operating expenses. 
+asr:0: OUTPUT 178.64-182.86: Progress on all fronts is being made, and I look forward to sharing more in the coming quarters. 
+asr:0: OUTPUT 183.72-189.27: I would like to take this opportunity to congratulate Craig Merrill on being appointed our permanent CFO. 
+asr:0: OUTPUT 190.11-199.14: I have worked with Craig closely since I joined GCP and find him to be a valuable partner for me, my executive leadership team, and the board. So again, congratulations, Craig. 
+asr:0: OUTPUT 200.28-205.21: Turning to the second quarter, please refer to slides 4, 5, and 6 in our presentation. 
+asr:0: OUTPUT 206.79-213.23: Our organization and operations perform well during the second quarter in the face of the ongoing global coronavirus pandemic. 
+asr:0: OUTPUT 214.31-223.36: We continue to demonstrate our ability to manage costs, deliver on margin expansion, and positive operating cash flow despite the drop in global construction. 
+asr:0: OUTPUT 224.28-230.07: I want to thank our employees across the globe for their dedication during these ever-changing times due to the coronavirus. 
+asr:0: OUTPUT 230.93-235.98: We implemented changes in our operating environment to ensure our employees remain safe and healthy. 
+asr:0: OUTPUT 236.84-244.24: Our multifaceted response to the government-imposed and voluntary factory shutdowns resulted in minimal disruptions to our business. 
+asr:0: OUTPUT 244.97-251.03: I could not be more proud of our employees as they came together to support one another, our customers, and our vendors. 
+asr:0: OUTPUT 251.97-256.84: It goes without saying that ensuring the health and safety of our employees will always be our number one priority. 
+asr:0: OUTPUT 258.16-267.93: As discussed during our first quarter earnings call, we were seeing significantly lower volumes in April and May, impeded by lockdowns across the globe due to the coronavirus. 
+asr:0: OUTPUT 268.75-275.82: In June, as the regions began to reopen, revenue started to trend up for the first time since March in many of our markets. 
+asr:0: OUTPUT 276.54-283.30: Our experience is in line with industry trends and our customers continue to depend on us during the quarter to support their needs. 
+asr:0: OUTPUT 284.36-288.59: July revenues have continued in line with June and our position in our markets is strong. 
+asr:0: OUTPUT 290.07-292.43: Let's begin by talking about our SEC business. 
+asr:0: OUTPUT 293.27-302.62: FCC revenues, which rebounded in June, were about flat with June 2019 after experiencing a 30% decline in the first two months of the quarter. 
+asr:0: OUTPUT 303.74-310.49: In North America, our largest region, SEC had 6% growth in the month of June versus prior year June. 
+asr:0: OUTPUT 311.71-316.56: Several large North American projects started during the quarter, which will continue into 2021. 
+asr:0: OUTPUT 318.02-326.59: European volumes rebounded in June, exceeding June 2019 volumes by 2% as the region reopened after being locked down in April and May. 
+asr:0: OUTPUT 328.11-335.26: FCC in Latin America was impacted by reduction in demand due to lockdowns in most of the countries, which continued through to June. 
+asr:0: OUTPUT 336.48-343.24: In the Asia region, China began to recover during the quarter, although Southeast Asia and Australia remained in lockdown during June. 
+asr:0: OUTPUT 344.36-351.63: Our verified business continues to grow, although at a slower pace versus pre-COVID-19 due to the downturn in the global construction industry. 
+asr:0: OUTPUT 353.03-354.65: Now turning to FBM. 
+asr:0: OUTPUT 354.67-362.42: We saw a slowdown in project activity and distributor demand during April-May, with volumes down 37% during this two-month period. 
+asr:0: OUTPUT 362.72-367.37: Particularly in markets experiencing construction restrictions or shelter-in-place orders. 
+asr:0: OUTPUT 369.07-375.76: Sales volumes improved in June with North America, which is our largest region, ending the month 1.5% behind June of. 
+asr:0: OUTPUT 377.98-384.58: We continue to win and progress on large project activity including airports, bridges, and office building projects. 
+asr:0: OUTPUT 384.99-390.25: We secured a number of infrastructure projects in North America, which will support us in the second half. 
+asr:0: OUTPUT 391.19-396.22: Additionally, some projects that began pre-pandemic continue to progress during the second quarter. 
+asr:0: OUTPUT 397.08-404.86: GCP's products applied in other outdoor applications, such as our fireproofing product line, experience less of a negative impact. 
+asr:0: OUTPUT 405.99-409.33: The positive momentum during the month of June continued through July. 
+asr:0: OUTPUT 409.71-417.88: We see a stronger third quarter compared with the second quarter, while we are mindful of local hotspots that may impact our customers due to the COVID-19 virus. 
+asr:0: OUTPUT 419.18-422.36: Our strategic goal for SBM is for sustainable organic growth. 
+asr:0: OUTPUT 423.04-427.33: Particularly in our North American Building envelope and residential product lines. 
+asr:0: OUTPUT 427.47-434.41: And by increasing our presence in underserved segments and market geographies that are profitable and growing in the long term. 
+asr:0: OUTPUT 435.60-441.30: Our plan also includes expanding our product portfolio awareness to adjacent market segments. 
+asr:0: OUTPUT 441.34-447.33: Accelerating the launch of new and accessory products for the premium and mid-tier segments. 
+asr:0: OUTPUT 448.43-453.95: This program is starting to gain traction and is evident in our year-over-year June revenues in North America. 
+asr:0: OUTPUT 455.74-463.32: I'm also pleased to report the launch of two new products for weather barriers and surface coatings that we believe will gain traction in the coming quarters. 
+asr:0: OUTPUT 464.66-468.17: There were several other accomplishments from the second quarter that I would like to highlight. 
+asr:0: OUTPUT 469.13-475.52: GCP's gross margin improved 130 basis points in the second quarter to 39.1%. 
+asr:0: OUTPUT 476.72-480.46: FCC's gross margin improved for the sixth consecutive quarter. 
+asr:0: OUTPUT 481.40-488.49: This is a result of our continued focus on our manufacturing and freight productivity initiatives that we started in 2019. 
+asr:0: OUTPUT 489.63-492.77: We also saw the benefit of raw material deflation throughout the quarter. 
+asr:0: OUTPUT 494.21-499.42: Second quarter selling, general and administrative costs decreased by approximately 8%. 
+asr:0: OUTPUT 499.76-507.03: Mainly due to lower employee and related costs during the quarter as a result of our restructuring programs and lower discretionary spending. 
+asr:0: OUTPUT 508.15-514.21: Cost containment actions, including reduced travel, were put in place during the quarter in response to the crisis. 
+asr:0: OUTPUT 515.58-523.38: GCP's cash position remains very strong with $318.2 million of cash on the balance sheet at the end of June. 
+asr:0: OUTPUT 525.00-530.75: Net cash provided by operating activities during the six months ended June of 2020. 
+asr:0: OUTPUT 530.77-536.84: Totaled $17.6 million as we continue to execute on our working capital improvement projects. 
+asr:0: OUTPUT 538.18-544.44: I am happy to report that we completed the sale of GCP's Cambridge headquarters on July 31, 2020. 
+asr:0: OUTPUT 545.59-548.81: Planning is underway to locate a fitting location for our headquarters. 
+asr:0: OUTPUT 549.35-554.57: The $125 million transaction unlocks value for GCP shareholders. 
+asr:0: OUTPUT 554.59-559.88: It is consistent with the company's commitment to invigorate its focus on profitable growth,. 
+asr:0: OUTPUT 559.90-563.68: Value creation, and appropriate capital allocation strategies. 
+asr:0: OUTPUT 564.64-572.01: In addition, today we announced the approval by GCP's Board of Directors of the $100 million Stock Buyback Program. 
+asr:0: OUTPUT 572.81-578.80: With the authorization in place, management will work with the board to determine the best way to execute on this program. 
+asr:0: OUTPUT 580.00-588.67: I'd now like to turn the call over to Craig, who will review the company's financial performance in more detail, along with segment results and our comments on the third quarter. Craig? 
+asr:0: OUTPUT 589.49-591.53: Thank you, Randy, and good morning, everybody. 
+asr:0: OUTPUT 592.11-598.16: Just a reminder, all revenue and associated growth rates in my comments are on a constant currency basis. 
+asr:0: OUTPUT 598.78-600.92: Before we summarize our second quarter. 
+asr:0: OUTPUT 600.98-609.63: Let me first just say that we are very pleased with our results for the quarter and year-to-date, considering the challenging operating environment during the second quarter. 
+asr:0: OUTPUT 610.19-618.96: Our teams remain focused on their objectives and continue to provide a high level of service and commitment to our customers, albeit more challenging with the current environment. 
+asr:0: OUTPUT 619.78-621.92: First, I will focus on the revenues for the quarter. 
+asr:0: OUTPUT 622.74-635.98: GCP sales of 200 million were 23.7% lower than prior year due to the impact of government imposed restrictions on construction activities and manufacturing as a result of COVID-19. 
+asr:0: OUTPUT 636.88-641.58: Impacts due to COVID-19 varied by product line and geography during the quarter. 
+asr:0: OUTPUT 641.90-649.81: But generally remained within the 25 to 35 percent unfavorable impact expected as we entered the second quarter. 
+asr:0: OUTPUT 650.61-653.91: Although the demand in April and May was down significantly. 
+asr:0: OUTPUT 654.41-661.46: Our June revenues did rebound for GCP overall, and specifically in North America as the economy opened up. 
+asr:0: OUTPUT 663.48-672.73: Although North America revenues finished 2% up for June versus prior year, and we see continued strength in North America in July. 
+asr:0: OUTPUT 673.37-678.88: Europe, Asia, and Latin America also finished June much stronger than the first two months of the quarter. 
+asr:0: OUTPUT 679.24-687.29: However, the rebound was not as generous, and it was in North America due to a slower overall return to normal construction activities. 
+asr:0: OUTPUT 688.13-694.25: UK volume has been steadily improving, but at a little slower rate than continental Europe. 
+asr:0: OUTPUT 695.10-705.13: China volumes have come back since the country reopened, and the rest of Asia, including Australia, continue to improve, but are still impacted by COVID-19 government restrictions. 
+asr:0: OUTPUT 705.83-711.41: Latin America volumes steadily improved during the quarter, however, some countries remain under lockdown. 
+asr:0: OUTPUT 712.07-717.64: Where lockdowns are not present, we are seeing good construction activity and volumes globally. 
+asr:0: OUTPUT 718.44-720.00: With respect to price. 
+asr:0: OUTPUT 720.52-726.49: GCP was close to flat year over year at a 0.1% price decline. 
+asr:0: OUTPUT 727.15-731.01: FCC captured price, most notably in Latin America,. 
+asr:0: OUTPUT 731.03-737.28: Where in-country inflation due to currency devaluations occurred and we increased price appropriately. 
+asr:0: OUTPUT 738.04-743.06: SBMs North America and Asia regions experience some price pressure. 
+asr:0: OUTPUT 743.08-749.03: And which was expected in the current deflationary period when oil prices are at historical lows. 
+asr:0: OUTPUT 749.73-758.46: The teams acted quickly, though, to continue to secure appropriate volumes and margins during the quarter on current and future project bids. 
+asr:0: OUTPUT 759.54-765.57: GCP's gross margin increased 130 basis points to 39.1%. 
+asr:0: OUTPUT 765.61-779.82: Primarily due to lower raw material labor and freight costs driven by operational productivity, which were partially offset by the unfavorable impact of reduced operating leverage during the period to lower sales and production volumes. 
+asr:0: OUTPUT 781.04-788.25: Selling general and administration costs of $65.7 million improved by $5.7 million. 
+asr:0: OUTPUT 788.27-795.70: Or approximately 8% during the quarter, benefiting from lower employee and related costs due to restructuring,. 
+asr:0: OUTPUT 795.72-805.87: Management of other discretionary costs, including advertising and favorable impact of the COVID-19 restrictions on travel, entertainment, and other operational activities. 
+asr:0: OUTPUT 806.83-815.28: Some second quarter restructuring activities did move to the second half of the year due to the limited access to offices and travel restrictions. 
+asr:0: OUTPUT 815.32-819.50: Which it made it difficult to execute in some countries due to COVID-19. 
+asr:0: OUTPUT 820.12-828.95: We will continue to execute on our restructuring plans and are currently assessing our SG&A position relative to overall sales volumes in the environment. 
+asr:0: OUTPUT 829.59-836.70: Managing these costs is a high priority as we monitor our performance metrics and expected volumes over the next three to six months. 
+asr:0: OUTPUT 837.70-844.20: GCP's loss from continuing operations attributed to GCP shareholders was $1.3 million. 
+asr:0: OUTPUT 844.22-853.35: Compared to income from continuing operations attributable to GCP shareholders of $3.1 million for second quarter 2019. 
+asr:0: OUTPUT 854.39-862.82: The change was primarily due to lower gross profit due to lower sales volumes, partially offset by reduced restructuring and repositioning costs,. 
+asr:0: OUTPUT 863.12-867.79: Lower selling and general administration costs, and slightly lower tax expense. 
+asr:0: OUTPUT 868.55-875.94: GCP's adjusted EBIT margin ended the quarter at 6.8% versus 9.6% in the prior year quarter. 
+asr:0: OUTPUT 875.96-879.58: Primarily due to lower gross profit as a result of volume declines. 
+asr:0: OUTPUT 880.00-883.52: Partially offset by lower selling general and administration costs. 
+asr:0: OUTPUT 884.32-892.65: Adjusted EBITDA margin was 12.8% for the second quarter or 100 basis points lower than the same period, 2019. 
+asr:0: OUTPUT 893.73-899.62: Looking at the specific performance of our two segments, you can refer to pages 10 and 11. 
+asr:0: OUTPUT 900.22-905.61: SEC sales were down 20.5% to $119.5 million. 
+asr:0: OUTPUT 906.19-913.75: North America's revenues declined 10.7% in the quarter as construction in most states was deemed essential. 
+asr:0: OUTPUT 914.09-921.70: And our customer network in North America continued to service their customers, although at a slower pace versus prior year during the quarter. 
+asr:0: OUTPUT 922.40-927.03: However, reorder rates in June were well ahead of prior year. 
+asr:0: OUTPUT 927.79-935.22: Other regional sales declined in other regions 27 to 30 percent versus prior year during the quarter. 
+asr:0: OUTPUT 935.26-939.64: With the sales declines all mostly attributable to COVID-19. 
+asr:0: OUTPUT 940.36-947.71: Impacts in Asia, Europe, and Latin America due to COVID-19 have been slightly more prolonged and deeper versus North America. 
+asr:0: OUTPUT 949.05-954.85: Revenue in June versus the same period for 2019 in North America and Europe. 
+asr:0: OUTPUT 954.87-963.10: Both increased 5.7% and 1.6% respectively compared with June 2019. 
+asr:0: OUTPUT 963.86-972.23: Price gains also occurred in Latin America and Europe on a nominal basis, with slightly offset volume declines during the quarter. 
+asr:0: OUTPUT 973.13-982.82: FCC's gross margin improved by 350 basis points during the second quarter, sixth consecutive quarter of gross margin improvement, as Randy mentioned. 
+asr:0: OUTPUT 983.10-990.19: Raw material deflation, operation and logistics productivity, and favorable regional mix all contributed to margin expansion. 
+asr:0: OUTPUT 990.99-997.22: SEC segment income was $9.9 million with an operating margin of 8.5%. 
+asr:0: OUTPUT 997.24-1003.70: Which decreased 90 basis points compared with the prior year quarter, primarily due to lower sales volume. 
+asr:0: OUTPUT 1003.74-1008.91: Unfavorably impact by operating leverage partially offset by higher gross margins. 
+asr:0: OUTPUT 1009.61-1018.32: SBM sales totaled $80.5 million during the second quarter, a 28% decline versus the second quarter,. 
+asr:0: OUTPUT 1019.32-1023.86: Due to challenging construction markets as a result of COVID-19. 
+asr:0: OUTPUT 1024.80-1031.85: Sales volumes in April and May were below 2019 volumes due to reduced construction and manufacturing. 
+asr:0: OUTPUT 1032.71-1041.48: Distributors in April and May did not restock at a normal pace due to the uncertainty of the impacts of COVID-19 on future product demand. 
+asr:0: OUTPUT 1042.18-1051.67: North America volumes did, however, rebound in June as construction resumed in many North America locations with distributors reordering. 
+asr:0: OUTPUT 1051.69-1057.74: And larger projects restarting once customer COVID-19 safety procedures were instituted. 
+asr:0: OUTPUT 1058.70-1061.20: In line with government and state recommendations. 
+asr:0: OUTPUT 1062.14-1069.43: In June, North America SBM sales were down 1.5% versus prior year June. 
+asr:0: OUTPUT 1069.45-1074.09: However, positive year-over-year reorder patterns were evident in July. 
+asr:0: OUTPUT 1074.85-1081.90: Business in France, Germany, Italy, and the UK for SBM also improved during June once overall restrictions were lifted. 
+asr:0: OUTPUT 1082.80-1089.73: SBM's gross margin declined 140 basis points to 39.7% compared to the second quarter of. 
+asr:0: OUTPUT 1089.87-1094.17: Due to the unfavorable impact of lower sales resulting in. 
+asr:0: OUTPUT 1094.19-1101.86: In reduced operating leverage and increased inventory write-offs year over year, partially offset by raw material deflation and productivity. 
+asr:0: OUTPUT 1102.62-1111.83: SBM segment operating income was $11 million with operating margins at 13.8%, a 610 basis point decline versus prior year. 
+asr:0: OUTPUT 1112.43-1123.72: This was due mainly to lower sales volume unfavorably impacting operating leverage and lower gross profit partially offset by the benefits of reduced discretionary costs and employee-related costs during the quarter. 
+asr:0: OUTPUT 1124.70-1127.09: Now turning back specifically to GCP. 
+asr:0: OUTPUT 1127.95-1136.98: GCP's effective tax rate was 136.4% for the quarter that included the reversal of the first quarter CARES Act tax benefit. 
+asr:0: OUTPUT 1137.00-1140.40: Resulting from changes in our forecasted income for the year. 
+asr:0: OUTPUT 1140.92-1148.37: The company no longer expects to have a net operating loss carryback for 2020, of which it did expect in Q1 forecast. 
+asr:0: OUTPUT 1149.07-1157.52: GCP's net cash provided by operating activities was $17.6 million for the six months ended June 30, 2008. 
+asr:0: OUTPUT 1158.10-1165.95: Versus a usage of cash of $13.1 million for the six months ended June 31, 2019. 
+asr:0: OUTPUT 1167.57-1175.92: Adjusted free cash flow totaled $18 million for the first six months, compared with a usage in total of $12.3 million. 
+asr:0: OUTPUT 1175.94-1178.28: During the same period in 2019. 
+asr:0: OUTPUT 1178.98-1183.22: Accounts receivable management improved 20.8 million. 
+asr:0: OUTPUT 1183.68-1193.49: Vendor payables delivered a $4.1 million improvement, and inventories generated a $1.7 million improvement compared to the prior six months. 
+asr:0: OUTPUT 1194.11-1201.08: We continue to improve the transparency of our working capital initiatives throughout the regions and within our respective country operations. 
+asr:0: OUTPUT 1201.56-1204.80: And we are seeing the results of these efforts, which will continue. 
+asr:0: OUTPUT 1205.81-1210.53: Please refer to slides 12 and 13 for our discussion on GCP's first half performance. 
+asr:0: OUTPUT 1211.27-1216.34: GCP's net sales for the first six months totaled $419.4 million. 
+asr:0: OUTPUT 1216.36-1223.22: Decreasing 14% compared with the prior year, mainly due to the second quarter impact of COVID-19 on volumes. 
+asr:0: OUTPUT 1223.88-1230.01: Gross margin for the six months increased 130 basis points to 38.4%. 
+asr:0: OUTPUT 1230.81-1235.64: The net loss attributable to GCP shareholders in the first six months. 
+asr:0: OUTPUT 1235.96-1245.75: Total .2 million compared with net income attributable shareholders of 24 million for the first half of June 2019. 
+asr:0: OUTPUT 1246.25-1254.91: The change resulted mainly from the reduced sales volume to COVID-19 in the second quarter, partially offset by reduced operating expenses. 
+asr:0: OUTPUT 1255.54-1262.90: Adjusted EBIT was $27.8 million for the first six months, or 25.1% unfavorable for the same period in 2008. 
+asr:0: OUTPUT 1263.10-1266.51: Again, mainly due to the impact of COVID-19. 
+asr:0: OUTPUT 1268.11-1270.51: Turning to our outlook for 2020. 
+asr:0: OUTPUT 1271.25-1279.16: Although it continues to be difficult to predict the duration and extent of the impact of the pandemic on our business over the next six months,. 
+asr:0: OUTPUT 1279.20-1281.84: And beyond as events unfold. 
+asr:0: OUTPUT 1282.02-1284.12: The near-term view is as follows. 
+asr:0: OUTPUT 1284.82-1293.57: As discussed, June's positive volume trends have continued into July, and we expect the third quarter to be a significant improvement over the second quarter. 
+asr:0: OUTPUT 1294.17-1304.22: Planned and funded construction projects have resumed or are coming online with construction sites having implemented additional health and safety protocols along with social distancing. 
+asr:0: OUTPUT 1305.09-1309.67: These efforts are important for construction to remain active while hot spots may arise. 
+asr:0: OUTPUT 1310.23-1316.02: While we expect the demand to improve and slowly return to close to normal levels as the year progresses. 
+asr:0: OUTPUT 1316.48-1326.09: Some projects have moved into 2021, which may dampen some demand in the latter half of the year. And we are monitoring this closely. 
+asr:0: OUTPUT 1326.85-1339.86: As for the third quarter, of which we have the best view, we expect the impact of COVID-19 pandemic to reduce overall demand for our products by approximately 5% versus prior year in constant currency. 
+asr:0: OUTPUT 1340.60-1346.03: We also expect raw material deflation to provide a modest offset to the forecasted volume declines. 
+asr:0: OUTPUT 1346.47-1350.25: However, we will continue to deliver productivity to support our margins. 
+asr:0: OUTPUT 1350.81-1356.26: We remain focused on our operating expenses, which we have continued to improve sequentially during the year. 
+asr:0: OUTPUT 1357.04-1363.78: And in addition to our restructuring programs, which will continue, we have identified additional cost savings opportunities. 
+asr:0: OUTPUT 1363.82-1371.95: And have learned a lot during the COVID-19 period on how to perform at a lower cost base while we service our customers very well. 
+asr:0: OUTPUT 1372.93-1375.68: We are implementing these learnings as we move through the year. 
+asr:0: OUTPUT 1376.30-1381.00: We remain on track to the planned capital expenditure reduction of $25 million in. 
+asr:0: OUTPUT 1381.30-1387.13: 2020 or a reduction of 35 to 45 percent from our original plan capital spending. 
+asr:0: OUTPUT 1387.69-1396.54: And we expect our cash position will grow throughout the year based on the working capital programs we have initiated, the reduced CapEx target versus original plan. 
+asr:0: OUTPUT 1396.56-1398.96: And of course, the sale of our Cambridge site. 
+asr:0: OUTPUT 1399.52-1403.72: The share repurchase program announced will be funded with our existing cash balance. 
+asr:0: OUTPUT 1404.42-1410.77: Looking beyond the pandemic, we are confident in long-term fundamentals of GCP and the construction industry. 
+asr:0: OUTPUT 1411.21-1414.93: We are confident that our current plans will allow us to navigate the pandemic. 
+asr:0: OUTPUT 1415.34-1424.60: And will be well positioned as the overall construction demand stabilizes somewhat during the second half of the year while we focus on our overall cost position as a company. 
+asr:0: OUTPUT 1425.29-1431.13: I'll turn it now back over to Randy. Thank you. Thanks, Craig. Just a few closing remarks. 
+asr:0: OUTPUT 1431.73-1439.24: Let me just say again that we have welcomed our new board members and their enthusiasm and interest in working with the GCP leadership team has been constructive. 
+asr:0: OUTPUT 1439.80-1446.31: The working relationships have been very engaging and we look forward to jointly continuing to create value for our GCP shareholders. 
+asr:0: OUTPUT 1447.29-1457.00: Despite the challenges the COVID-19 virus presented in the second quarter, our teams around the globe continued to focus on our customers, and we are happy to see June rebound as it did. 
+asr:0: OUTPUT 1457.68-1459.58: We will continue this focus going forward. 
+asr:0: OUTPUT 1460.16-1469.37: And our strong balance sheet, which features significant liquidity and no near-term debt maturities, is a competitive differentiator that provides substantial financial flexibility. 
+asr:0: OUTPUT 1469.39-1476.52: And positions as well to successfully manage through the ongoing economic challenges and uncertainty caused by the COVID-19 pandemic. 
+asr:0: OUTPUT 1477.46-1483.50: With the sale of the Cambridge facility and the stock buyback program, we are committed to maintaining a flexible liquidity base. 
+asr:0: OUTPUT 1483.88-1489.65: And along with the Board, we will continue to evaluate all alternatives for the effective and efficient use of cash. 
+asr:0: OUTPUT 1490.65-1493.81: I would like to wrap up my comments by thanking our employees personally. 
+asr:0: OUTPUT 1493.83-1501.56: And on behalf of my leadership team for all the hard work and efforts they continue to devote to GCP under extremely challenging conditions. 
+asr:0: OUTPUT 1502.00-1503.24: I really appreciate that. 
+asr:0: OUTPUT 1504.02-1507.81: Thank you today for joining our call, and we now look forward to taking your questions. 
+asr:0: OUTPUT 1509.77-1515.82: We will now begin the question and answer session. To ask a question, you may press star then one on your touch-tone phone. 
+asr:0: OUTPUT 1516.54-1524.18: If you are using a speakerphone, please pick up your handset before pressing the key. To withdraw from the question queue, please press star then two. 
+asr:0: OUTPUT 1525.89-1530.35: The first question is from Mike Harrison of Seaport Global Securities. Please go ahead. 
+asr:0: OUTPUT 1532.59-1541.16: Good morning. Morning, Mike. Morning, Mike. And congratulations to Craig on the permanent role as CFO. 
+asr:0: OUTPUT 1542.34-1547.05: Thank you, Mike. 
+asr:0: OUTPUT 1547.07-1552.73: Pretty confident in the direction of things and the trend that you're seeing in North America. 
+asr:0: OUTPUT 1553.07-1559.28: I was wondering if you could maybe give a little bit more color on what you're seeing in other regions. 
+asr:0: OUTPUT 1559.40-1561.34: You know, maybe specific areas where. 
+asr:0: OUTPUT 1561.36-1566.49: You feel like they're making better progress toward normal construction activity. 
+asr:0: OUTPUT 1566.51-1574.63: For some areas where you have more concern or more uncertainty on the pace of that progress toward normal. 
+asr:0: OUTPUT 1576.08-1581.14: That's a good question, Mike. And just like we see here in North America and we hear about every day on the news,. 
+asr:0: OUTPUT 1581.42-1586.15: Some states are reopening faster than others and are getting back to some type of normalcy. 
+asr:0: OUTPUT 1586.43-1591.77: Well, the same can be said around certain countries in Europe as well as certain countries in the Asia-Pacific region. 
+asr:0: OUTPUT 1592.11-1600.02: Some have just been much slower due to restrictions and also due to some hotspots that have resurfaced and getting back to normal activity. 
+asr:0: OUTPUT 1600.38-1603.64: So we're going to follow that through the next quarter to see what happens. 
+asr:0: OUTPUT 1603.86-1611.99: We do believe that the construction activity in those two regions, Europe and the APAC region, will indeed start coming back in the third quarter. 
+asr:0: OUTPUT 1612.55-1616.40: We just don't know the pace by which that's going to happen, again, due mostly to these restrictions. 
+asr:0: OUTPUT 1620.46-1624.22: And then in terms of the restructuring,. 
+asr:0: OUTPUT 1624.44-1633.47: You mentioned some additional cost areas that you have learned to operate on a lower cost base. 
+asr:0: OUTPUT 1634.85-1640.90: I guess I'm just trying to apply your guidance of a 5% impact of COVID on the top line. 
+asr:0: OUTPUT 1641.12-1644.30: Trying to think about how that looks on the bottom line. 
+asr:0: OUTPUT 1644.32-1648.37: As you maybe hang on to some of these additional cost actions. 
+asr:0: OUTPUT 1648.39-1655.02: That you've delivered and continue to see improvement in the raw material environment. 
+asr:0: OUTPUT 1656.68-1664.82: There's another good question, Mike. We've obviously gone through an experiment here over the past four months or so on a global basis to see how can we run our company differently. 
+asr:0: OUTPUT 1665.15-1667.91: Given the fact that we have to work differently in this pandemic. 
+asr:0: OUTPUT 1668.29-1674.49: And there's a lot of lessons that have come out of that in terms of working home strategies, how we service our customers differently. 
+asr:0: OUTPUT 1674.81-1679.42: How we do virtual go-lives and virtual test trials. 
+asr:0: OUTPUT 1679.74-1688.33: With our customers. So a lot of those learnings we're going to take going forward as most companies are. And we do believe that's going to lead to lower cost of how we run our operations. 
+asr:0: OUTPUT 1688.67-1693.49: We've also learned a lot at our plants in terms of inventory management, again, driven by this crisis. 
+asr:0: OUTPUT 1693.51-1702.78: In terms of different techniques and different processes that we've built in to be able to better manage our inventory and better manage how we service the customers globally. 
+asr:0: OUTPUT 1703.22-1710.05: So a lot of lessons that we've learned and the goal would be going forward that these lessons are going to find their way to the bottom line. Anything you want to add, Craig? 
+asr:0: OUTPUT 1710.93-1720.72: Yeah, Mike, it's a good question. We've done a lot of just priority is our employee safety, of course, during this whole process. 
+asr:0: OUTPUT 1721.12-1728.47: We're doing a lot of virtual training with our customers. We're doing mixed design training with our customers virtually. 
+asr:0: OUTPUT 1728.77-1734.53: We're starting to learn that sometimes in our customers' behavior is starting to come around a little bit that that's acceptable. 
+asr:0: OUTPUT 1735.32-1738.66: We also implemented a GC Plus. 
+asr:0: OUTPUT 1738.68-1747.83: Program of ordering online that Randy and the customer service group and the IT group implemented about six months ago. 
+asr:0: OUTPUT 1747.99-1760.24: We're seeing traction on that now, just orders coming through online versus a sales rep or someone having to take these orders, which obviously is costly when it has to be handed off to eight different people to take orders. 
+asr:0: OUTPUT 1760.28-1763.84: More back in the 1960s industrial kind of process. 
+asr:0: OUTPUT 1764.14-1769.59: So we're seeing a lot of progress on kind of the new wave of how you do business. 
+asr:0: OUTPUT 1771.01-1777.22: And we're getting advantage of that in the cost base, and we're not going to go back and invest the money back in there. 
+asr:0: OUTPUT 1777.74-1778.92: Now that we see the advantage. 
+asr:0: OUTPUT 1779.12-1787.15: We expect savings to continue in Q3 and Q4 relative to those, and we're having good discussions with the whole team. 
+asr:0: OUTPUT 1787.17-1796.10: About how we continue that into 2021, even if things come back to normal and COVID-19 kind of relaxes a little bit. 
+asr:0: OUTPUT 1796.40-1801.78: That's really quite a bit of money there if we can keep the momentum going. 
+asr:0: OUTPUT 1802.46-1807.51: I can't say exactly how much it'll be in 2021, but we'll probably have a better idea as we go through Q3. 
+asr:0: OUTPUT 1807.79-1814.93: And an additional point to make, Mike, that I would like to add, we're in the enviable position that we're going to be looking for new headquarters going forward. 
+asr:0: OUTPUT 1814.95-1822.46: As we've mentioned, and having this learning of this new environment that we've been working in should play into our decision. 
+asr:0: OUTPUT 1822.48-1827.97: So it's definitely, you know, the world has changed and we need to take that into consideration looking forward. 
+asr:0: OUTPUT 1831.21-1839.98: And then in terms of, you mentioned some larger projects that looked like they were getting pushed into 2021. 
+asr:0: OUTPUT 1841.26-1845.97: Are you pretty confident at this point that these are delays and not cancellations? 
+asr:0: OUTPUT 1846.01-1852.11: Maybe just talk about kind of what you're seeing in terms of the backlog on some of those larger projects. 
+asr:0: OUTPUT 1853.21-1861.96: Yeah, so another good question. I mean, I wish I could answer you, you know, 100% that they're delays, not cancellations, but for right now, they're delays. 
+asr:0: OUTPUT 1862.72-1866.07: There's certainly some projects that would have got started already in Q2. 
+asr:0: OUTPUT 1866.97-1871.71: They're not started. There is some probably concern on funding and social distancing. 
+asr:0: OUTPUT 1872.07-1877.00: As you know, these big projects, when they start them, the timeline is very important to them. 
+asr:0: OUTPUT 1877.54-1882.68: So I just think for now, as long as the economy stays about where it's at,. 
+asr:0: OUTPUT 1883.12-1888.07: And there's not incremental hot spots that people need to be concerned about. 
+asr:0: OUTPUT 1888.13-1889.31: I think they're pushed out. 
+asr:0: OUTPUT 1889.61-1890.67: I don't think they're canceled. 
+asr:0: OUTPUT 1891.03-1892.59: There's funding for the projects. 
+asr:0: OUTPUT 1893.15-1894.67: There's still a lot of money around. 
+asr:0: OUTPUT 1895.08-1896.10: That's not the issue. 
+asr:0: OUTPUT 1896.56-1903.70: People just are a little bit more apprehensive to start a project, especially a big one right now with the social distancing. 
+asr:0: OUTPUT 1903.72-1906.63: You know, specific hotspots, even on the supply chain side. 
+asr:0: OUTPUT 1906.99-1911.07: We've actually given our customers a little more confidence in our supply chain. 
+asr:0: OUTPUT 1911.33-1918.64: Our inventories are slightly higher than when they want to be. We want them to be, but we've actually had some backup inventory just in case one of our plants goes down. 
+asr:0: OUTPUT 1918.88-1927.99: And I think once other companies start to do this, folks will have more comfort to spend the money on these big projects so they can get full supply chain support from their customers. 
+asr:0: OUTPUT 1931.35-1938.60: The last question for me is just maybe on the decision to authorize the $100 million of share repurchase. 
+asr:0: OUTPUT 1939.66-1949.27: Can you talk about your capital allocation priorities going forward and maybe any guidance on the timing of this repurchase activity? 
+asr:0: OUTPUT 1949.61-1954.03: Thanks. Yeah, no, Mike, we obviously have always had a pretty comprehensive. 
+asr:0: OUTPUT 1954.05-1959.16: View of capital allocation and returning our monies to shareholders. Now with the new board in place,. 
+asr:0: OUTPUT 1959.18-1964.58: We're excited again to have their input and their guidance and specifically the strategy operating at risk committee. 
+asr:0: OUTPUT 1965.11-1973.47: We'll be working with management and going through the various options we have, what makes the best sense for the shareholders, and it's going to create the most value for shareholders. 
+asr:0: OUTPUT 1973.53-1979.12: Obviously, this was the first decision that was made regarding capital allocation, the $100 million authorization for the buyback. 
+asr:0: OUTPUT 1979.88-1988.79: But the overall board, once in the strategy and operating committee, once they get up and functioning fully, this will be a discussion point going forward. 
+asr:0: OUTPUT 2000.00-2002.10: Thanks very much. 
+asr:0: OUTPUT 2003.10-2011.83: I'll just add, Mike, maybe to one of your other questions. I mean, these big projects are in the infrastructure category. They're not in commercial or retail projects, that type of thing. 
+asr:0: OUTPUT 2012.17-2018.56: We're more confident that they're pushed out than cancelled. Just the category they're in is more comforting for us. 
+asr:0: OUTPUT 2022.96-2027.25: Our next question is from Rosemary Novelli of G Research. Please go ahead. 
+asr:0: OUTPUT 2028.47-2030.11: Thank you and good morning everyone. 
+asr:0: OUTPUT 2031.17-2040.02: Good morning, Rosemary. You talked about the board's input on your strategy going forward. 
+asr:0: OUTPUT 2041.02-2049.39: So between the new board and what you have learned during the COVID, well, we are still in it, but during COVID. 
+asr:0: OUTPUT 2049.67-2054.33: Could you touch on what changes you are thinking about in. 
+asr:0: OUTPUT 2054.79-2060.24: You know, for your strategy going forward? Is there anything very different from what. 
+asr:0: OUTPUT 2060.26-2063.24: You were planning on doing ahead of those two events? 
+asr:0: OUTPUT 2064.84-2072.11: No, what I would say Rosemary we've been working very closely with the new board. We've had several meetings over the last couple months and we're still in the phase of. 
+asr:0: OUTPUT 2072.13-2080.36: Of sharing our current strategies and getting their input on areas that we can focus on differently and areas that the ideas that they have that we can investigate. 
+asr:0: OUTPUT 2080.78-2086.77: So it's still in that phase of getting to know each other and putting forth the best strategy for GCP going forward. 
+asr:0: OUTPUT 2087.09-2088.81: I'm really excited with what I've heard. 
+asr:0: OUTPUT 2089.11-2092.41: Again, mentioning this strategy operating risk committee. 
+asr:0: OUTPUT 2092.91-2098.34: A lot of experience and a lot of ideas, and we're going to continue to work with them closely in the coming months. 
+asr:0: OUTPUT 2098.36-2104.90: We're excited to have this different perspective on how the company could be doing things differently. 
+asr:0: OUTPUT 2106.23-2112.61: And in terms of what you learned during COVID, so you have learned that you can operate at a lower cost. 
+asr:0: OUTPUT 2113.41-2116.46: There is such an amount of discretionary costs. 
+asr:0: OUTPUT 2118.32-2124.56: Can you quantify how much of those you think you will generate in 2020? 
+asr:0: OUTPUT 2125.19-2128.73: And while you may not have a hard number for 2021. 
+asr:0: OUTPUT 2129.01-2130.93: How much is coming back. 
+asr:0: OUTPUT 2131.19-2132.79: With volume. 
+asr:0: OUTPUT 2134.87-2136.68: Yeah, so Rosemary, in. 
+asr:0: OUTPUT 2137.12-2141.20: Maybe this will give you some guidance and I know some others might want it. 
+asr:0: OUTPUT 2142.00-2149.59: In Q2, of about the six or I guess about $6 million of operating savings we had, mostly SG&A. 
+asr:0: OUTPUT 2150.31-2157.78: It's about a third, a third, a third. It's about third restructuring, about third actual implemented cost savings. 
+asr:0: OUTPUT 2158.12-2162.18: And about a third due to kind of lower activity due to COVID-19. 
+asr:0: OUTPUT 2162.94-2172.43: So our challenge to ourselves is, can we keep that third savings due to the COVID-19 lower activity? 
+asr:0: OUTPUT 2172.99-2182.80: So that's a couple million dollars a quarter. So we're challenging ourselves to determine how we continue to get our volumes, our prior year volumes, and still execute on that. 
+asr:0: OUTPUT 2183.00-2191.47: So that's about all the guidance I can give right now. But we're still working through that and to determine whether we can keep that through the year or not. 
+asr:0: OUTPUT 2192.05-2193.93: And in terms of restructuring rosemary. 
+asr:0: OUTPUT 2194.53-2199.82: We're focused on continuing the initiatives that we set forth, supply chain initiatives. 
+asr:0: OUTPUT 2199.84-2202.82: Obviously looking at asset management better. 
+asr:0: OUTPUT 2203.36-2206.39: But with the input with the new board, we're excited that there'll be some new ideas. 
+asr:0: OUTPUT 2206.49-2214.15: To come into that. So restructuring is not going to stop. Restructuring will continue. And that'll be an input into our savings going forward. 
+asr:0: OUTPUT 2216.30-2219.08: And I was wondering if you could give us a few more minutes. 
+asr:0: OUTPUT 2219.12-2221.78: As to how verify,. 
+asr:0: OUTPUT 2221.80-2226.05: During this downturn. I assume that... 
+asr:0: OUTPUT 2226.07-2234.53: If a CEMENT track does not go out, then there is no use of Verify, but you are also doing some virtual trials. 
+asr:0: OUTPUT 2234.65-2239.08: Can you give us a feel for the momentum in that particular area? 
+asr:0: OUTPUT 2240.44-2248.65: Yeah, we were actually pleasantly surprised on the revenues with Verify during the quarter. They were up 50% year over year. 
+asr:0: OUTPUT 2249.63-2250.65: In Q2. 
+asr:0: OUTPUT 2250.83-2260.34: That's mainly due to the fact we had more equipment out there in Q2 this year than we did last year because of the installs in the latter half of 2019. 
+asr:0: OUTPUT 2261.88-2269.01: The interesting part about that business is that they tend to use the trucks on any job that have Verify. 
+asr:0: OUTPUT 2269.45-2278.70: So our trucks go out first with the verify units on them because they need to keep their operations kind of solidified because that's the new operating model they're on. 
+asr:0: OUTPUT 2279.02-2286.61: So we didn't really see a lot of decline of usage of the verify units during the quarter. 
+asr:0: OUTPUT 2287.03-2294.21: And certainly not as much as maybe we saw the market. And in North America, the market was pretty strong and that's where we've got most of our units. 
+asr:0: OUTPUT 2295.03-2297.72: So that's why we had the 50% pop in revenue. 
+asr:0: OUTPUT 2298.12-2310.23: We have seen slightly slowdown on installs of new customers only because it's difficult for them in social distancing and managing the behavior of their organization. 
+asr:0: OUTPUT 2310.25-2315.98: At this time during COVID-19, they do have to change the behavior of their organization to get the value. 
+asr:0: OUTPUT 2316.26-2317.66: So we've seen a little bit of slowdown. 
+asr:0: OUTPUT 2317.98-2320.74: But we did see, you know,. 
+asr:0: OUTPUT 2320.76-2328.65: New Zealand, and Asia, some new contracts signed during Q2 and even into Q3 here. 
+asr:0: OUTPUT 2329.35-2334.55: So we're pretty pleased at the progress, but certainly it'll be slightly slower on the installs in the second half here. 
+asr:0: OUTPUT 2336.22-2344.16: But Randy, do you have any other comments? No, I just wanted to say that as well. I mean, it's unfortunate with our customers that we had hoped to have installs, that they're just distracted with the virus. 
+asr:0: OUTPUT 2344.26-2351.15: And it's difficult to install units when you need their help and you have the social distancing restrictions. So that's kind of slowed down to Craig's point. 
+asr:0: OUTPUT 2352.35-2353.63: Sure, that makes sense. 
+asr:0: OUTPUT 2354.09-2355.54: I was wondering lastly... 
+asr:0: OUTPUT 2355.56-2357.38: If you could give us a. 
+asr:0: OUTPUT 2357.40-2366.79: The level of importance for your business between residential construction, commercial construction, and infrastructure spending. 
+asr:0: OUTPUT 2367.07-2373.77: So we can, and if you can talk about the trends in each of those categories, what are you seeing? 
+asr:0: OUTPUT 2374.91-2384.80: Yeah, so North America is where we got the best visibility on market data, but obviously globally there's IHS and others that come out with the data. 
+asr:0: OUTPUT 2385.73-2390.33: We're tend to be if you want to think about it about a third of third of third. 
+asr:0: OUTPUT 2390.95-2400.66: I mean, about a third of our revenue is tied to infrastructure, a third to commercial, and about a third to residential. And people could be surprised on the residential piece. 
+asr:0: OUTPUT 2400.68-2408.17: The North America concrete and cement basically goes into residential also, and that's a big part of our business. 
+asr:0: OUTPUT 2409.13-2416.68: We're pretty confident that infrastructure, governments may up the spend on infrastructure going forward. 
+asr:0: OUTPUT 2416.94-2419.74: Just to pump the economy. So we're pretty. 
+asr:0: OUTPUT 2419.76-2426.85: Pretty confident that that's going to happen globally and there might be some delays here just on getting things going, but we think we're good there. 
+asr:0: OUTPUT 2427.21-2435.60: On the residential, the market seems strong. I think you've seen the statistics too, both in North America and around the world, China, Asia. 
+asr:0: OUTPUT 2435.90-2439.72: Residential still keeps going strong. So I think we're in good shape there. 
+asr:0: OUTPUT 2440.56-2442.36: Commercial could be slightly slower. 
+asr:0: OUTPUT 2442.98-2448.23: You've seen the retail news. There's obviously. 
+asr:0: OUTPUT 2448.25-2452.99: Some reconsideration on office space on what you really need for office space moving forward. 
+asr:0: OUTPUT 2453.37-2462.60: So I would say commercial is probably the place where we might see a little bit more slower uptake. But I think the infrastructure and the residential will offset that. 
+asr:0: OUTPUT 2462.80-2465.37: And in fact, we get very good margin on the infrastructure. 
+asr:0: OUTPUT 2465.69-2473.63: So we'll probably get a margin mix that will offset any decline on the commercial side if there is one moving forward. All right. Thank you very much. 
+asr:0: OUTPUT 2477.68-2479.86: Again, if you have a question, please press star. 
+asr:0: OUTPUT 2489.19-2502.42: Additional questions at this time. This concludes our question and answer session. 
+asr:0: OUTPUT 2502.44-2504.26: To Becky Powell for closing remarks. 
+asr:0: OUTPUT 2505.07-2509.95: Thank you, Katie. We appreciate your help today and thank you all for attending. 
+asr:0: OUTPUT 2513.13-2518.34: The conference has now concluded. Thank you for attending today's presentation. You may now disconnect. 
+asr:0: END

@@ -1,0 +1,161 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.00-4.90: Welcome to the Cumulus Media quarterly earnings conference call. 
+asr:0: OUTPUT 5.45-14.59: I will now turn the call over to Colin Jones, Senior Vice President of Corporate Development and Strategy. Sir, you may proceed. 
+asr:0: OUTPUT 15.80-20.52: Thank you, operator. Welcome everyone to our third quarter 2020 earnings conference call. 
+asr:0: OUTPUT 21.06-25.93: I'm joined today by our President and CEO, Mary Berner, and our CFO, Frank Lopez-Balboa. 
+asr:0: OUTPUT 26.65-35.24: Before we start, please note that certain statements in today's press release and discussed on this call may constitute forward-looking statements under federal securities laws. 
+asr:0: OUTPUT 35.82-41.30: Actual results may differ materially from the results expressed or implied in forward-looking statements. 
+asr:0: OUTPUT 41.96-49.11: These statements are based on management's current assessments and assumptions and they're subject to a number of risks and uncertainties. 
+asr:0: OUTPUT 49.69-53.35: In addition, we will also use certain non-GAAP financial measures. 
+asr:0: OUTPUT 53.77-61.68: We believe the supplementary information is useful to investors, although it should not be considered superior to the measures presented in accordance with GAAP. 
+asr:0: OUTPUT 62.48-69.37: A full description of these risks as well as financial reconciliations to non-GAAP terms are in our press release and SEC filing. 
+asr:0: OUTPUT 70.09-78.36: The press release can be found in the investor relations portion of our website and our Form 10-Q which was also filed with the SEC shortly before this call. 
+asr:0: OUTPUT 79.10-85.43: A recording of today's call will be available for about a month, and details for how to access that replay can also be found on our website. 
+asr:0: OUTPUT 86.05-89.65: With that, I'll now turn it over to our President and CEO, Mary Berner. Mary? 
+asr:0: OUTPUT 91.01-99.52: Thanks, Colin, and good morning, everyone. In the third quarter, we continue to deliver against the goals we established at the start of the pandemic crisis. 
+asr:0: OUTPUT 100.26-106.71: Maximizing revenue, offsetting the virus's impact to rigorous cost management and liquidity enhancement,. 
+asr:0: OUTPUT 106.73-111.77: And ensuring that we emerge from the pandemic well positioned for long-term success. 
+asr:0: OUTPUT 112.87-120.26: To those ends, we grew revenue sequentially each month in the quarter, with September finishing 35% higher than June. 
+asr:0: OUTPUT 121.12-127.59: We executed on our expense reduction plan, realizing over $25 million of fixed cost savings in the quarter. 
+asr:0: OUTPUT 127.61-131.81: With the expectation of delivering more than $85 million in 2020. 
+asr:0: OUTPUT 132.71-137.00: We generated positive EBITDA and cash from operations for the quarter. 
+asr:0: OUTPUT 137.52-143.64: Bringing year-to-date free cash flow, excluding M&A and the ABL draw, to over $45 million. 
+asr:0: OUTPUT 144.44-151.41: We strengthen our balance sheet significantly, completing the initial closing of our Tower Sale Leaseback Transaction. 
+asr:0: OUTPUT 151.55-160.44: Finishing the quarter with over $350 million of cash, a substantial portion of which will be dedicated to reinvestment and or additional debt pay down. 
+asr:0: OUTPUT 161.62-169.69: While the environment remains uncertain, we now have the resources and flexibility to respond to opportunities that might arise from the disruption. 
+asr:0: OUTPUT 169.71-175.03: And invest in areas that will drive growth while continuing to improve our balance sheet. 
+asr:0: OUTPUT 176.06-181.84: On virtually all metrics, our third quarter results represented a significant improvement from Q2. 
+asr:0: OUTPUT 182.64-190.89: Same station revenue finished down 29% year over year, but as I mentioned, improved sequentially each month in terms of total dollars. 
+asr:0: OUTPUT 191.47-197.34: In the spot market, which is arguably the best indicator of the overall health of the core radio business,. 
+asr:0: OUTPUT 197.36-203.62: We saw year-over-year improvement each month, both inclusive and exclusive of political dollars. 
+asr:0: OUTPUT 204.48-210.93: Like last quarter, our diary markets, which were less affected by the pandemic shutdowns, outperformed our PPM markets. 
+asr:0: OUTPUT 211.77-217.50: Political, as you might expect, was clearly very strong as our footprint overlapped nicely with swing states. 
+asr:0: OUTPUT 218.08-227.31: We had 5.8 million of political revenue in the quarter, which was a new high watermark for a third quarter, and have benefited from that spending pace through the election. 
+asr:0: OUTPUT 228.51-238.88: Government spending also contributed positively in the quarter and while still negative versus last year, financial, general services, and professional services also outperformed other categories. 
+asr:0: OUTPUT 240.28-242.98: Digital as a whole posted another quarter of growth. 
+asr:0: OUTPUT 243.66-251.81: While streaming and local digital marketing services remain pressured in the difficult macro climate, podcasting more than offset those declines. 
+asr:0: OUTPUT 252.43-258.08: Up nearly 50% in the quarter, podcasting delivered record quarterly revenue. 
+asr:0: OUTPUT 258.10-263.48: Reflecting our particularly strong News Talk portfolio and our highest ever download count. 
+asr:0: OUTPUT 263.64-268.01: Over 102 million in September, up 47% year over year. 
+asr:0: OUTPUT 268.99-272.29: Also in the quarter, we launched the new Marketplace Minute. 
+asr:0: OUTPUT 272.63-279.02: A short form, three times a day briefing that highlights the most important stories about money, business, economy. 
+asr:0: OUTPUT 279.84-287.53: Developed in partnership with American Public Media, the Marketplace Minute is distributed across smart speakers, broadcasting, and podcasting. 
+asr:0: OUTPUT 288.53-294.21: Marking the first time any public media company has partnered with a commercial audio company to extend its reach. 
+asr:0: OUTPUT 294.55-302.56: The Marketplace Minute also serves as a great example of our effective use of partnerships to create exciting new content for podcast audiences. 
+asr:0: OUTPUT 303.78-310.95: On the expense front, we mentioned last quarter that we were targeting approximately $85 million of fixed cost reductions for the year. 
+asr:0: OUTPUT 310.97-315.10: Including permanent reductions on an annual run rate of $36 million. 
+asr:0: OUTPUT 315.94-323.72: More than $25 million of these fixed cost savings were achieved in Q3, and we anticipate realizing more than $15 million in Q4. 
+asr:0: OUTPUT 324.86-330.73: Many of these savings resulted from difficult decisions mandated by the pandemic-induced revenue declines. 
+asr:0: OUTPUT 331.29-336.54: However, others reflected changes in the way we expect to conduct our business in the future. 
+asr:0: OUTPUT 336.76-344.06: Informed by new ways of operating developed during the pandemic and or developed to meet our evolving business needs. 
+asr:0: OUTPUT 344.62-352.19: For example, we consolidated some sales management and are in the process of centralizing our sales marketing research. 
+asr:0: OUTPUT 352.21-356.58: And insights efforts into one group that services the entire organization. 
+asr:0: OUTPUT 356.60-361.18: As opposed to the more fragmented ad channel configuration that was previously in place. 
+asr:0: OUTPUT 362.12-368.63: Lastly, we continue to find new ways to streamline business processes, particularly in non-revenue producing functions. 
+asr:0: OUTPUT 370.31-379.28: With the benefit of these cost takeouts and tight working capital management, we delivered positive free cash flow for the second straight quarter during the pandemic. 
+asr:0: OUTPUT 380.00-386.33: We further added to our cash position with proceeds from the initial closing of our Tower Sale leaseback transactions. 
+asr:0: OUTPUT 386.35-392.87: Which brought our quarterly quarter and cash balance to more than $350 million. 
+asr:0: OUTPUT 393.87-400.84: These significant cash reserves not only provide a security with which to navigate the unpredictability of the months ahead,. 
+asr:0: OUTPUT 400.86-405.95: But also the capability and flexibility to act on accretive opportunities that may come our way. 
+asr:0: OUTPUT 406.97-409.69: Looking ahead as we move into the fourth quarter,. 
+asr:0: OUTPUT 409.71-419.56: We continue to see positive momentum in bookings, driven largely by political but also reflecting underlying improvement across all revenue streams. 
+asr:0: OUTPUT 420.34-427.57: Current pacing is down in the mid-teens versus last year, with political providing about a 450 basis point benefit. 
+asr:0: OUTPUT 428.49-434.81: We remain guarded about the finish to the year given the recent acceleration of coronavirus infections across the country. 
+asr:0: OUTPUT 434.95-440.92: Potential shutdown measures and reaction to that, and the generally uncertain macro environment. 
+asr:0: OUTPUT 441.66-446.39: So for the remainder of the fourth quarter and likely well into 2021. 
+asr:0: OUTPUT 446.51-453.09: While we hope for continued improvement, our performance will remain highly sensitive to the shape and pace of external events. 
+asr:0: OUTPUT 453.89-459.32: However, it goes without saying that we remain unrelentingly disciplined and focused. 
+asr:0: OUTPUT 459.52-464.70: On continuing to re-engineer the business to maximize revenue and reduce our costs. 
+asr:0: OUTPUT 465.53-468.13: That said, given our liquidity position,. 
+asr:0: OUTPUT 468.15-473.31: More efficient expense profile and growth initiatives, we feel comfortable. 
+asr:0: OUTPUT 473.33-480.36: About our ability to not only stay the course, but capitalize on the rebounding economy where and when it occurs. 
+asr:0: OUTPUT 480.96-483.50: And with that, I'll turn the call over to Frank. Frank? 
+asr:0: OUTPUT 485.13-495.03: Thank you, Perry. I will start by providing some more detail on the third quarter, speaking on a same-station basis, and follow that with some additional color on non-operating items. 
+asr:0: OUTPUT 496.26-503.46: In Q3, total revenue was $196.4 million, down 29.4% from Q3. 
+asr:0: OUTPUT 503.84-509.25: 2019, an increase of 34.5% over Q2 total revenue. 
+asr:0: OUTPUT 510.37-518.60: As Mary noted, on a monthly basis, we saw total revenue improvement as the quarter progressed, with September revenue 35% higher than June. 
+asr:0: OUTPUT 519.86-526.79: Spot the network markets performed comparably in the quarter, down in the low 30s versus 2019. 
+asr:0: OUTPUT 526.81-530.37: With digital slightly offsetting those results of 2%. 
+asr:0: OUTPUT 531.37-536.60: Driven by our podcasting business, which is up nearly 50% on an entirely organic basis. 
+asr:0: OUTPUT 537.96-541.08: Digital dollars represented over 10% of revenue in the quarter. 
+asr:0: OUTPUT 542.46-547.39: Political spend accelerated as the quarter went on, finishing at $5.8 million. 
+asr:0: OUTPUT 547.45-553.79: Versus 1.7 million in Q3 2019 and 3.6 million in Q3 2019. 
+asr:0: OUTPUT 555.52-561.26: Of note, this was a record quarter for political and we're on track for another record quarter in Q4. 
+asr:0: OUTPUT 562.88-564.42: Moving down to P&L. 
+asr:0: OUTPUT 564.44-571.93: Expenses declined by $42 million, or 19% driven by both reductions in variable costs related to the revenue declines. 
+asr:0: OUTPUT 571.95-574.49: And active fixed cost reductions. 
+asr:0: OUTPUT 575.78-584.20: As Merit mentioned, we continue to expect to realize more than 85 million in benefits in total this year from our fixed cost actions to date. 
+asr:0: OUTPUT 585.57-591.55: Of these, more than 25 million were achieved in Q3, and more than 15 million will be achieved in Q4. 
+asr:0: OUTPUT 592.79-595.66: Broken down between temporary and permanent effects. 
+asr:0: OUTPUT 595.90-603.72: About $19 million of the $85 million relate to permanent actions, which have an annualized expense benefit of approximately $36 million. 
+asr:0: OUTPUT 605.13-611.05: The amount of the temporary costs that will return over time will largely depend on revenue recovery in 2021. 
+asr:0: OUTPUT 612.65-617.90: Putting revenues and expenses together for the quarter, EBITDA finished at $20.4 million. 
+asr:0: OUTPUT 619.38-625.87: Normalizing for M&A activity, we once again grew our cash balance by 3.59 and a quarter. 
+asr:0: OUTPUT 626.33-629.49: Bringing total free cash flow generation year-to-date. 
+asr:0: OUTPUT 629.51-633.65: Excluding M&A and the ABL draw to more than $45 million. 
+asr:0: OUTPUT 634.89-644.30: Achieving this outcome despite the pandemic is a result of positive EBITDA generation, rigorous management of working capital, and reduced cap backs. 
+asr:0: OUTPUT 645.53-651.85: As we said on our last call, we cut our 2020 CapEx spend projection to $17 million. 
+asr:0: OUTPUT 652.73-656.32: And with $4 million spent in Q3, we are on track to deliver that. 
+asr:0: OUTPUT 657.52-664.48: Our cash taxes this year have also been materially reduced from the combination of lower operating performance and CARES Act benefits. 
+asr:0: OUTPUT 665.47-672.13: So in Q3, we received approximately $2.5 million of tax refunds related to taxes paid in 2019. 
+asr:0: OUTPUT 674.27-679.02: I would also note that in Q4, working capital requirements coming from increased revenues. 
+asr:0: OUTPUT 679.90-682.04: Our December bond interest payment. 
+asr:0: OUTPUT 682.06-690.63: And those small and estimated tax payment related to the gain on the tariff sale will cause us to burn some portion of the free cash flow generated near to date. 
+asr:0: OUTPUT 692.27-699.42: We were pleased to announce about a month ago the initial closing of the tower transaction, which provided a cash inflow of $202.3 million. 
+asr:0: OUTPUT 700.48-710.27: Under our debt agreements, 64 million of the net proceeds from the assets being sold, and not least backed, are required to pay down debt pro rata, subject to a 12-month reinvestment price. 
+asr:0: OUTPUT 711.73-717.22: 96 million of the proceeds from assets being sold at lease back were required to pay down debt immediately. 
+asr:0: OUTPUT 718.04-724.42: As such, concurrent with the closing, we paid down $49 million of the term loan at par. And on Monday, October 5th,. 
+asr:0: OUTPUT 725.21-729.45: We launched a tender offer for 47.2 million of senior secured bonds at par. 
+asr:0: OUTPUT 730.23-733.03: The tender offer was successfully completed on November 3rd. 
+asr:0: OUTPUT 734.63-741.32: We do expect to have subsequent closings for the remaining proceeds from the power transaction by the end of the first half of 2021. 
+asr:0: OUTPUT 742.52-749.09: Additionally, for tax purposes, the gain in the transaction will largely be offset by anticipated net operating losses this year. 
+asr:0: OUTPUT 750.61-756.36: That debt now has been reduced by more than $330 million since the beginning of the year. 
+asr:0: OUTPUT 756.38-762.04: And by more than $585 million, or 46% since the quarter that we emerged from bankruptcy. 
+asr:0: OUTPUT 763.14-771.01: As a reminder, we do not have financial maintenance covenants in either our term loan or bonds, and they do not mature until 2026. 
+asr:0: OUTPUT 772.31-778.86: As mentioned on previous calls, we're also still working through the potential monetization of the valuable precinct property in Nashville. 
+asr:0: OUTPUT 779.50-783.48: We hope to bring to market once commercial real estate activity approaches more typical levels. 
+asr:0: OUTPUT 784.74-789.33: Lastly, I wanted to note some new disclosure in our TANQ related to the NCAA. 
+asr:0: OUTPUT 790.73-798.68: Based on the cancellation of March Madness in 2020, we believe the rights fees of 2020 season are not payable to NCAA. 
+asr:0: OUTPUT 800.14-805.25: The NCAA, however, chose to terminate the contract based on nonpayment of those fees. 
+asr:0: OUTPUT 806.21-813.77: On September 28, 2020, we and the NCAA filed competing lawsuits with regard to the disputes surrounding the agreement. 
+asr:0: OUTPUT 814.73-823.68: While it is always important for contract disputes to escalate to litigation, and litigation can be unpredictable, we believe in the merits of our position. 
+asr:0: OUTPUT 824.80-831.11: At this stage, we are unable to reasonably estimate the impact of the outcome of the litigation, but we will keep you informed as it progresses. 
+asr:0: OUTPUT 831.99-834.97: With that, we can now open the line to Q&A. Operator. 
+asr:0: OUTPUT 838.38-847.37: To ask a question, you will need to press Star 1 on your telephone keypad. That is Star 1. 
+asr:0: OUTPUT 847.39-851.23: To withdraw your question, press the pound or the hatch key. 
+asr:0: OUTPUT 851.73-855.10: Please stand by while we compile the Q&A roster. 
+asr:0: OUTPUT 860.94-866.79: And your first question comes from Michael Kapitsky, Noble Capital Market. 
+asr:0: OUTPUT 868.63-870.05: Thank you for taking the questions. 
+asr:0: OUTPUT 871.39-876.74: First of all, I was wondering, you had mentioned that you have obviously now a large cash position. 
+asr:0: OUTPUT 876.88-880.52: And you indicated that you may not use all of that cash to pare down debt. 
+asr:0: OUTPUT 880.56-883.40: So I was wondering if you could just talk a little bit about. 
+asr:0: OUTPUT 883.42-891.93: Uses of cash and then also if there are M&A opportunities, what you may be looking at. Sure. Hi, Mike. 
+asr:0: OUTPUT 894.27-902.32: I think we characterize it as our huge cash position has put us in a fantastic position to be defensive about the. 
+asr:0: OUTPUT 902.34-908.23: Uncertainty that exists, but as you point out, also opportunistic in ways that we can use cash to drive value. 
+asr:0: OUTPUT 908.59-912.27: So obviously, playing down debt remains a huge priority. 
+asr:0: OUTPUT 912.57-919.64: And we know there's a great return to use our cash that way. However, you know, should interesting opportunities come our way,. 
+asr:0: OUTPUT 919.68-923.24: We're open to considering that, whether in radio or otherwise. 
+asr:0: OUTPUT 923.82-926.45: But we do recognize the high bar for expected returns. 
+asr:0: OUTPUT 927.85-934.43: And I was just wondering as you were kind of giving us some thoughts about Q4 and the pacings there. 
+asr:0: OUTPUT 934.87-941.74: Can you just kind of give us a little bit of a color on maybe a spot versus network, what you're seeing in digital? 
+asr:0: OUTPUT 942.26-947.79: Just kind of give us a little bit more color on the individual line items in Q4. 
+asr:0: OUTPUT 950.71-951.75: Hi, Michael. It's Frank. 
+asr:0: OUTPUT 952.73-961.60: First, let me comment about Q3, then I'll give you a little bit more color on Q4. So Q3 had a very nice recovery in both the spot and the network markets. 
+asr:0: OUTPUT 962.34-965.83: And as you heard in my prepared remarks, they perform comparably. 
+asr:0: OUTPUT 966.07-977.68: But I will say that in the third quarter, the national spot improved considerably from the second quarter as we get into a more normalized environment. 
+asr:0: OUTPUT 979.40-988.27: In the fourth quarter, both channels are progressing nicely. We're benefiting in the network from the return of the NFL, which we're pleased with. 
+asr:0: OUTPUT 990.05-992.99: The national markets are stronger. 
+asr:0: OUTPUT 993.71-1002.88: If you look at the local markets, so part of the benefits we're getting in the local markets clearly are political which displaces to some extent some of the local business. 
+asr:0: OUTPUT 1003.64-1009.61: So the trends at this point we're seeing is fairly strong, but it's very tough to write the script. 
+asr:0: OUTPUT 1009.63-1017.94: And we're cautious with regard to the pandemic and the spread and it remains to be seen how that will impact the rest of the quarter. 
+asr:0: OUTPUT 1019.98-1028.65: And how does the bookings look as you go into December, which is outside of the political realm of what you may have gotten in October and November? 
+asr:0: OUTPUT 1030.03-1039.74: At this point, we'll go to just comment on pacing as of this date. And you'll have more color, obviously, in our earnings call next year. 
+asr:0: OUTPUT 1040.92-1042.42: Okay, fair enough. 
+asr:0: OUTPUT 1047.69-1054.53: As a reminder, to ask a question, you will need to press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1054.81-1060.80: That is store one. To withdraw your question, press the pound or the hash key. 
+asr:0: OUTPUT 1060.84-1064.32: Please stand by while we compile the Q&A roster. 
+asr:0: OUTPUT 1071.09-1073.65: There are no questions at this time. 
+asr:0: OUTPUT 1082.34-1083.46: For joining our call today. 
+asr:0: OUTPUT 1089.11-1096.38: Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect. 
+asr:0: END

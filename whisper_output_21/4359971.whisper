@@ -1,0 +1,563 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.00-9.13: Ladies and gentlemen, thank you for standing by and welcome to Constellium's second quarter 2020 results call. 
+asr:0: OUTPUT 9.53-12.35: At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 12.67-17.74: Later, we will conduct a question and answer session and instructions will follow at that time. 
+asr:0: OUTPUT 18.10-23.94: If anyone should require assistance during the conference, please press star zero on your touchtone telephone. 
+asr:0: OUTPUT 24.24-27.21: As a reminder, this conference call may be recorded. 
+asr:0: OUTPUT 27.51-35.38: I would now like to turn the conference over to your host today, Mr. Ryan Wentling, Director of Investor Relations. Sir, please go ahead. 
+asr:0: OUTPUT 36.74-41.44: Thank you, operator. I would like to welcome everyone to our second quarter 2020 earnings call. 
+asr:0: OUTPUT 41.94-48.17: On the call today are our Chief Executive Officer, Jamarque Germain, and our Chief Financial Officer, Peter Mapp. 
+asr:0: OUTPUT 48.81-51.47: After the presentation, we will have a Q&A session. 
+asr:0: OUTPUT 52.19-59.16: A copy of the slide presentation for today's call is available on our website at constellium.com and today's call is being recorded. 
+asr:0: OUTPUT 60.42-65.89: Before we begin, I'd like to encourage everyone to visit the company's website and take a look at our recent filings. 
+asr:0: OUTPUT 67.23-74.05: Today's call may include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. 
+asr:0: OUTPUT 74.59-79.50: Such statements include statements regarding the company's anticipated financial and operating performance. 
+asr:0: OUTPUT 79.52-84.90: Future events and expectations, and may involve known and unknown risks and uncertainties. 
+asr:0: OUTPUT 86.05-91.91: For a summary of specific risk factors that could cause results to differ materially from those expressed in the forward-looking statements. 
+asr:0: OUTPUT 92.83-97.86: Please refer to the factors presented under the heading risk factors in our annual report on Form 20-F. 
+asr:0: OUTPUT 98.36-101.52: All information in this presentation is as of the date of the presentation. 
+asr:0: OUTPUT 102.10-110.03: We undertake no obligation to update or revise any forward-looking statement as a result of new information, future events, or otherwise, except as required by law. 
+asr:0: OUTPUT 111.05-115.58: In addition, today's presentation includes information regarding certain non-GAAP financial measures. 
+asr:0: OUTPUT 116.10-125.53: Please see the Reconciliations of Non-GAAP Financial Measures attached in today's slide presentation, which supplement our IFRS disclosures. I would now like to hand the call over to Joe Martin. 
+asr:0: OUTPUT 126.39-131.41: Thanks Ryan. Good morning, good afternoon everyone and thank you for your interest in Constelia. 
+asr:0: OUTPUT 132.13-133.65: Let's turn to slide 5. 
+asr:0: OUTPUT 134.53-139.34: At Costalien, the health and safety of our employees is our first priority. 
+asr:0: OUTPUT 139.92-146.23: We have implemented many initiatives to protect our employees in response to the COVID-19 pandemic. 
+asr:0: OUTPUT 147.01-157.00: We have provided our personnel with personal protective equipment, increased cleaning and sanitation, allowed for and enforced social distancing,. 
+asr:0: OUTPUT 157.02-159.80: And work to raise awareness with our employees. 
+asr:0: OUTPUT 160.84-167.51: I want to personally thank our employees for taking this seriously and following the precautions we have put into place. 
+asr:0: OUTPUT 168.05-175.48: As of last Friday, approximately one-half of 1% of our employees have tested positive for COVID-19. 
+asr:0: OUTPUT 175.68-179.40: And all of whom have recovered or are recovering. 
+asr:0: OUTPUT 179.52-183.42: Needless to say, we must remain vigilant. 
+asr:0: OUTPUT 184.74-194.39: During the second quarter, our plans operated well, despite the significant disruptions to customer demand from lockdowns in both Europe and the US. 
+asr:0: OUTPUT 195.08-199.18: As I'm speaking, all our plants are running now and well. 
+asr:0: OUTPUT 199.88-208.25: We are carefully monitoring COVID-19 hotspots, both for the health of our employees and any potential impacts on supply chains. 
+asr:0: OUTPUT 209.57-217.08: The demand for our products gradually increased during the course of the second quarter and this trend has continued into July. 
+asr:0: OUTPUT 217.66-224.56: However, both levels of demand and visibility from our customers remain below historical levels. 
+asr:0: OUTPUT 226.37-231.09: We took strong actions to combat the effects of the pandemic on our business. 
+asr:0: OUTPUT 231.43-239.76: We aggressively reduced our costs, including flexing variable costs to match production levels, reducing fixed costs,. 
+asr:0: OUTPUT 239.78-242.76: And lowering our targeted capital expenditures. 
+asr:0: OUTPUT 243.50-251.19: Over 40% of our workforce were on some type of partial unemployment or temporary layoff scheme during the quarter. 
+asr:0: OUTPUT 251.97-256.78: Where appropriate, we have also implemented permanent headcount reduction. 
+asr:0: OUTPUT 257.84-262.80: Our ability to flex costs was slightly better than the scenario we provided last quarter. 
+asr:0: OUTPUT 263.48-270.83: This was a great achievement by the entire Constellium team and demonstrated our flexibility and resilience. 
+asr:0: OUTPUT 271.89-276.52: Our liquidity at the end of the quarter was 949 million euros. 
+asr:0: OUTPUT 276.54-282.06: An increase of over 300 million euros compared to the end of the first quarter. 
+asr:0: OUTPUT 282.66-287.65: We added an additional 50 million euros of liquidity in July. 
+asr:0: OUTPUT 287.67-295.66: Through credit facilities supported by the German state, bringing our pro forma liquidity to approximately 1 billion euros. 
+asr:0: OUTPUT 297.48-302.30: In June, we access the debt market to refinance our 2021 bonds. 
+asr:0: OUTPUT 302.86-308.17: This transaction removed our unlinear term bond maturity at a very attractive coupon. 
+asr:0: OUTPUT 309.29-317.74: In conclusion, with the significant actions we have taken, I am very confident in our ability to navigate through this crisis. 
+asr:0: OUTPUT 319.70-324.56: On slide six, you will see some of our highlights from second quarter of 2020. 
+asr:0: OUTPUT 324.92-332.69: Shipments were 310,000 metric tons, a decrease of 25% compared to the second quarter of 2019. 
+asr:0: OUTPUT 334.15-338.40: Revenue decreased 33% to 1 billion euros. 
+asr:0: OUTPUT 338.42-350.99: Of the roughly 500 million euro decline in revenue compared to the second quarter of last year, two-thirds was related to lower shipments and one-third was related to lower metal prices. 
+asr:0: OUTPUT 351.81-361.26: I remind you that while our revenues are affected by changes in metal prices, we operate a pass-through business model to minimize metal risk. 
+asr:0: OUTPUT 362.46-369.11: Net loss of 32 million euros compared to net income of 17 million euros in the second quarter of 2020. 
+asr:0: OUTPUT 371.61-378.20: Adjusted EBITDA of 81 million euros decreased 51% compared to the second quarter of 2019. 
+asr:0: OUTPUT 379.48-389.31: With a strong focus on cost control, we are able to offset a significant part of the volume headwinds to adjust TD BIDA across each of our business units. 
+asr:0: OUTPUT 389.81-394.23: I am proud of what the team was able to achieve in a challenging environment. 
+asr:0: OUTPUT 395.54-404.18: Custadium generated $228 million of adjusted EBITDA in the first half, a decline of 24% compared to the first six months of last year. 
+asr:0: OUTPUT 405.23-411.31: Our free cash flow was negative 33 million euros in the second quarter of 2020. 
+asr:0: OUTPUT 411.79-420.22: This result would not have been possible without our strong actions to reduce costs and capital expenditures and cash expenditures also. 
+asr:0: OUTPUT 421.04-425.73: Our free cash flow for the first half of 2020 was 54 million euros. 
+asr:0: OUTPUT 426.31-433.55: Based on our current view of market conditions, we expect to generate positive free cash flow in 2020. 
+asr:0: OUTPUT 434.53-439.64: I will now hand over to Peter to discuss our financial performance in more detail. 
+asr:0: OUTPUT 440.18-443.52: Thank you, Jean-Marc, and thank you everyone for joining the call today. 
+asr:0: OUTPUT 444.32-452.33: Turning now to slide eight, you will find the change in adjusted EBITDA by segment for the second quarter and the first half of 2020. 
+asr:0: OUTPUT 452.35-454.79: Compared to the same periods of last year. 
+asr:0: OUTPUT 455.70-461.36: For the second quarter of 2020, Constellium achieved 81 million euros of adjusted EBITDA. 
+asr:0: OUTPUT 461.94-466.39: A decrease of 86 million Euros or 51% year-over-year. 
+asr:0: OUTPUT 467.55-476.06: Part-adjusted EBITDA of 58 million euros decreased by 21 million euros or 27% compared to last year. 
+asr:0: OUTPUT 477.40-486.99: A&T adjusted EBITDA of 31 million euros decreased by 33 million euros or 51% compared to the second quarter of 2019. 
+asr:0: OUTPUT 488.19-496.12: ASNI adjusted EBITDA of negative 1 million euros decreased by 31 million euros compared to last year. 
+asr:0: OUTPUT 496.88-503.92: Lastly, holdings in corporate costs of 7 million euros were 1 million euros higher than last year. 
+asr:0: OUTPUT 505.11-512.09: In the first six months of 2020, Constellium achieved 228 million euros of adjusted EBITDA. 
+asr:0: OUTPUT 512.11-517.06: A decrease of 74 million euros or 24 percent year-over-year. 
+asr:0: OUTPUT 517.78-526.43: Part-majority of 124 million euros decreased by 14 million euros or 11% compared to last year. 
+asr:0: OUTPUT 527.59-535.88: A&T adjusted EBITDA of 83 million euros decreased by 33 million euros or 28%. 
+asr:0: OUTPUT 535.90-538.88: Compared to the first six months of 2019. 
+asr:0: OUTPUT 539.78-549.19: ASNI adjusted EBITDA of 33 million euros decreased by 26 million euros or 44% compared to last year. 
+asr:0: OUTPUT 550.33-556.70: Lastly, holdings and corporate costs of 12 million euros were 1 million euros higher than last year. 
+asr:0: OUTPUT 557.30-562.16: We expect agency costs of approximately 20 million euros in 2020. 
+asr:0: OUTPUT 563.56-567.37: Now turn to slide nine and let's focus on the PARP segment. 
+asr:0: OUTPUT 568.77-576.26: Adjusted EBITDA of 58 million euros decreased 27% compared to the second quarter of last year. 
+asr:0: OUTPUT 577.00-580.84: Volume was a headwind of 41 million euros in the quarter. 
+asr:0: OUTPUT 581.50-582.82: Packaging shipments. 
+asr:0: OUTPUT 582.84-592.01: Fell by 12% primarily as a result of the temporary shutdown in March of our Nuc-Brazac plant in France due to COVID-19. 
+asr:0: OUTPUT 592.89-598.30: Shipments to the North American canned sheep market increased slightly year over year. 
+asr:0: OUTPUT 599.12-608.57: Automotive shipments declined 54% compared to last year as many of our automotive OEM customers curtailed production. 
+asr:0: OUTPUT 608.59-610.37: For April and most of May. 
+asr:0: OUTPUT 611.59-614.95: Price and mix was a headwind of 2 million euros. 
+asr:0: OUTPUT 615.78-625.35: The costs were a tailwind of 21 million euros due to strong, broad-based cost control with labor and maintenance as important contributors. 
+asr:0: OUTPUT 626.07-635.32: Metal costs were neutral in the quarter as we faced difficult year-over-year comps, UBC supply chain challenges, and lower metal prices. 
+asr:0: OUTPUT 636.08-639.78: FX translation was a tailwind of 1 million euros. 
+asr:0: OUTPUT 641.62-646.01: Now turn to slide 10 and let's focus on the A&T segment. 
+asr:0: OUTPUT 646.81-652.67: Adjusted EBITDA of 31 million euros decreased by 51% compared to last year. 
+asr:0: OUTPUT 653.39-660.30: Volume was a headwind of 46 million euros on lower aerospace and TID shipments. 
+asr:0: OUTPUT 661.40-670.49: Aerospace shipments fell 37% compared to last year as aerospace OEMs and distributors began to reduce orders. 
+asr:0: OUTPUT 671.31-678.84: TID shipments declined by 20% due to lower industrial activity in both Europe and the US. 
+asr:0: OUTPUT 680.20-685.81: Price and mix was a 3 million euro headwind due to lower aerospace shipments. 
+asr:0: OUTPUT 686.61-691.01: Costs were a tailwind of 15 million euros. 
+asr:0: OUTPUT 691.03-698.40: Due to strong broad-based cost control with labor, metal, and maintenance as important contributors. 
+asr:0: OUTPUT 699.12-704.06: Lastly, FX Translation was a 1 million euro tailwind in the quarter. 
+asr:0: OUTPUT 706.15-709.77: Now turn to slide 11 and let's focus on the ASNI segment. 
+asr:0: OUTPUT 711.63-719.38: Adjusted EBITDA of negative 1 million euros decreased by 31 million euros compared to the second quarter of 2019. 
+asr:0: OUTPUT 720.22-722.94: Volume was a 31 million euro headwind. 
+asr:0: OUTPUT 723.62-731.83: Automotive shipments declined 52% compared to last year due to customer shutdowns for a significant portion of the quarter. 
+asr:0: OUTPUT 732.71-738.64: Industry shipments declined 16% due to lower industrial activity in Europe. 
+asr:0: OUTPUT 739.42-747.77: Price and Mix was a 9 million euro headwind partially due to Price and Mix as a consequence of weaker market conditions. 
+asr:0: OUTPUT 748.85-757.30: Costs were a nine million euro tailwind on strong cost control with labor, energy, and fixed costs. 
+asr:0: OUTPUT 757.32-758.96: As important contributors. 
+asr:0: OUTPUT 759.82-764.58: Lastly, FX Translation was a 1 million euro headwind in the quarter. 
+asr:0: OUTPUT 765.77-772.47: Now, turning to slide 12, I want to highlight our very strong cost performance during the second quarter. 
+asr:0: OUTPUT 773.27-777.52: In the second quarter, we managed to flex our costs by 83%. 
+asr:0: OUTPUT 778.38-788.07: Cost flex represents the change of cost over the change of revenues for the second quarter of 2020 compared to the second quarter of 2019. 
+asr:0: OUTPUT 789.15-795.54: Effectively, for every dollar change in revenue, we were able to flex our costs by 83 cents. 
+asr:0: OUTPUT 796.32-802.12: This compares favorably to the 75% variable cost estimate we provided last quarter. 
+asr:0: OUTPUT 803.14-815.66: At the bottom of the page, you can see that each of our businesses demonstrated strong cost control with PARP at 92% cost flex and ANT and ASNI at 75%. 
+asr:0: OUTPUT 817.34-821.76: To put this in context, excluding metal and depreciation. 
+asr:0: OUTPUT 821.80-828.01: We reduced costs by approximately 100 million euros compared to the second quarter of last year. 
+asr:0: OUTPUT 829.61-836.12: These cost savings were driven by strong cost control across the businesses, including labor,. 
+asr:0: OUTPUT 836.16-840.56: Maintenance, professional fees, subcontractors, and energy. 
+asr:0: OUTPUT 841.16-852.27: I will note that our second quarter 2020 figures include approximately a 15 million euro benefit from European state employment aid related to COVID-19. 
+asr:0: OUTPUT 854.51-858.78: I want to congratulate the team for the aggressive actions taken on COPS. 
+asr:0: OUTPUT 859.50-866.79: We will continue to maintain our strong focus on cost control, particularly given the uncertain demand environment. 
+asr:0: OUTPUT 868.01-873.01: Now let's turn to slide 13 and discuss our balance sheet and liquidity position. 
+asr:0: OUTPUT 873.99-880.60: At the end of the second quarter, our leverage was 4.4 times and our net debt was $2.2 billion. 
+asr:0: OUTPUT 880.68-885.51: Slightly lower than our net debt position at the end of 2019. 
+asr:0: OUTPUT 886.43-889.61: We remain very committed to capital discipline. 
+asr:0: OUTPUT 889.93-896.74: We reduced our 2020 CapEx target to approximately 175 million euros, a 96 million. 
+asr:0: OUTPUT 896.82-899.32: Reduction from 2019. 
+asr:0: OUTPUT 900.28-907.89: Through the first half of 2020, we've spent 32 million euros less in CapEx than in the same period of last year. 
+asr:0: OUTPUT 909.23-913.85: Our free cash flow for the second quarter was negative 33 million euros. 
+asr:0: OUTPUT 914.31-917.76: During the quarter, as a consequence of lower activity,. 
+asr:0: OUTPUT 917.78-928.51: Our factored receivables were lower than the levels that we have maintained in recent quarters and negatively impacted our free cash flow by 73 million euros. 
+asr:0: OUTPUT 929.25-933.65: We would expect the reverse to occur as activity levels increase. 
+asr:0: OUTPUT 934.59-937.06: Excluding the impact of factoring. 
+asr:0: OUTPUT 937.08-945.15: The company actually generated positive free cash flow in the second quarter, which is a very impressive outcome in my view. 
+asr:0: OUTPUT 946.83-951.63: Our free cash flow for the first half of 2020 was 54 million euros. 
+asr:0: OUTPUT 952.29-960.04: As Jean-Marc noted earlier, we expect to generate positive free cash flow in 2020 based on our current view of market conditions. 
+asr:0: OUTPUT 960.78-965.65: Generating free cash flow is a firm priority and we remain committed to deleveraging. 
+asr:0: OUTPUT 966.75-974.53: As you can see in our debt summary on the bottom left-hand side of the page, we have no bond maturities until 2024. 
+asr:0: OUTPUT 975.62-976.90: During the quarter. 
+asr:0: OUTPUT 976.92-990.81: We refinanced the remaining $200 million of our 4.5% and 5.8% notes due 2021 with $325 million of 5.5% and 5.8% notes due 2021. 
+asr:0: OUTPUT 990.87-992.41: 28, 2020. 
+asr:0: OUTPUT 993.25-997.42: While we initially planned to repay the 21 with free cash flow,. 
+asr:0: OUTPUT 997.46-1003.40: We felt it was prudent to remove this near-term maturity given the favorable debt market conditions. 
+asr:0: OUTPUT 1004.26-1014.07: Notably, this was the lowest coupon dollar bond that Constellium has ever priced, a considerable achievement in the midst of a pandemic. 
+asr:0: OUTPUT 1014.77-1023.74: As a result of our financing activities thus far in 2020, we now expect cash interest of 150 to 160 million euros. 
+asr:0: OUTPUT 1025.57-1033.33: Our cash plus amounts available under our committed facilities was 949 million Euros at the end of the second quarter. 
+asr:0: OUTPUT 1033.81-1042.20: As Jean-Marc noted, we added 50 million euros to this balance in July, and we remain very comfortable in our liquidity position. 
+asr:0: OUTPUT 1042.86-1048.29: I will now hand the call back to Jean-Marc. Thank you, Peter. Let's turn to slide 15. 
+asr:0: OUTPUT 1048.93-1053.17: I want to highlight something that is core to our business, sustainability. 
+asr:0: OUTPUT 1053.83-1061.06: In early July, we published our 2019 Business and Sustainability Report, which you can find on our website. 
+asr:0: OUTPUT 1061.64-1064.50: I'd like to point out a few highlights from 2019. 
+asr:0: OUTPUT 1065.71-1067.63: Safety is our first priority. 
+asr:0: OUTPUT 1068.11-1073.41: Our target is to reduce our recordable case rates by 10% year after year. 
+asr:0: OUTPUT 1074.07-1083.08: Between 2016 and 2019, our record goal case rate decreased by 27 percent, and we are trending very well this year. 
+asr:0: OUTPUT 1083.62-1088.67: This means that more of our colleagues are returning home injury-free every day. 
+asr:0: OUTPUT 1089.71-1096.46: We also improved our energy efficiency by 6.4% compared to a 2015 baseline. 
+asr:0: OUTPUT 1097.14-1102.98: That is the equivalent of 100,000 metric tons of CO2 savings every year. 
+asr:0: OUTPUT 1103.84-1104.94: Fell there. 
+asr:0: OUTPUT 1104.96-1113.93: We introduced the 2025 target to reduce greenhouse gas emission intensity by 25% against the 2015 baseline. 
+asr:0: OUTPUT 1114.39-1118.18: And we have a detailed plan to achieve this target. 
+asr:0: OUTPUT 1120.20-1124.86: As many of you know, recycling is a core competency at Constellia. 
+asr:0: OUTPUT 1125.23-1132.75: Aluminum is infinitely recyclable with 75% of all aluminum ever produced still in use today. 
+asr:0: OUTPUT 1133.41-1143.24: Musselschuld is one of the largest recyclers of aluminum cans globally, with a capacity to recycle over 20 billion cans every year. 
+asr:0: OUTPUT 1143.98-1150.37: At Neuf Prisac, we also recycle the equivalent of 12 billion beverage cans every year. 
+asr:0: OUTPUT 1151.15-1160.28: As a company, Constellium recycled over 560,000 metric tons of externally sourced aluminum scrap in 2019. 
+asr:0: OUTPUT 1161.86-1167.55: I am also proud that third parties are recognizing Constellium for our sustainability achievements. 
+asr:0: OUTPUT 1168.17-1171.49: The Aluminum Stewardship Initiative or ASI. 
+asr:0: OUTPUT 1171.51-1179.68: Is an industry-led initiative to drive sustainability across the entire aluminum value chain, from producers to customers. 
+asr:0: OUTPUT 1180.44-1187.55: In 2019, we received ASI certifications for Szyngen's casting and rolling operations. 
+asr:0: OUTPUT 1188.13-1194.15: And we began producing ASI certified coils for our customers from Zyngen in 2020. 
+asr:0: OUTPUT 1194.97-1202.76: We also received ASI certification of our Neufbrisag facility under provisional COVID conditions in 2020. 
+asr:0: OUTPUT 1205.01-1212.33: We achieved the Ecovadius Platinum rating, which is awarded to the top 1% of companies assessed worldwide. 
+asr:0: OUTPUT 1213.03-1220.96: And we received an ESG rating of AA from MSCI, placing us in the top 5% of our sector. 
+asr:0: OUTPUT 1221.82-1222.90: Easily. 
+asr:0: OUTPUT 1222.92-1232.09: We had a very successful year on our sustainability objectives in 2019, and I look forward to continuing our progress on these very important initiatives. 
+asr:0: OUTPUT 1234.33-1237.78: Now, let's turn to slide 16 and discuss our end markets. 
+asr:0: OUTPUT 1238.80-1248.79: We believe our balanced portfolio of products across end markets, geographies, and customers is a competitive advantage during challenging times like these. 
+asr:0: OUTPUT 1249.77-1257.66: I'll start with the packaging market. Packaging is a core market for Constellium and represents 38% of our LTM revenue. 
+asr:0: OUTPUT 1258.62-1264.22: We continue to see strong demand in North America and stable demand in Europe. 
+asr:0: OUTPUT 1264.76-1270.93: Further evidence that this market is both recession-resilient and secular growth. 
+asr:0: OUTPUT 1271.89-1278.74: We believe the packaging market has long-term secular growth tailwinds driven by customer preference for aluminum cans. 
+asr:0: OUTPUT 1279.40-1287.23: Our customers continue to invest in new can lines with several additional investments in North America just announced in the last week. 
+asr:0: OUTPUT 1288.03-1294.15: These additional lines should drive incremental demand for can sheets in the years to come. 
+asr:0: OUTPUT 1295.58-1300.52: The consumer preference trend is only one of the tailwinds for canned cheese. 
+asr:0: OUTPUT 1301.36-1307.59: In Europe, the demand for can sheet continues to grow based on substitution of aluminum for steel. 
+asr:0: OUTPUT 1308.39-1317.72: In the US, we continue to expect the growth of auto body sheet demand to tighten supply to the packaging market over the medium to long term. 
+asr:0: OUTPUT 1320.42-1321.96: Now let's move to automotive. 
+asr:0: OUTPUT 1322.80-1331.07: Over the long term, automotive remains a secular growth market for aluminum. Customers continue to prefer larger vehicles. 
+asr:0: OUTPUT 1331.71-1340.08: With regulations aimed at increasing fuel efficiency and reducing emissions, the automotive market will need to continue to light weight. 
+asr:0: OUTPUT 1340.92-1345.77: In addition, we expect hybrid and electric vehicles to continue to gain share of the fleet. 
+asr:0: OUTPUT 1346.53-1353.21: These vehicles are aluminum intensive due to the importance of lightweighting to achieve their range objectives. 
+asr:0: OUTPUT 1354.05-1361.74: Constellium is well positioned to realize the benefits of this secular shift to aluminum in automotive and the electrification of the future. 
+asr:0: OUTPUT 1362.88-1371.63: Moving to more recent trends, automotive OEMs began curtailing production in March and largely resumed production in May. 
+asr:0: OUTPUT 1372.53-1385.17: While demand from our customers increased significantly in June, we have experienced uneven demand for our products as a result of supply chain challenges and COVID-19 hotspots. 
+asr:0: OUTPUT 1385.95-1395.70: While we are optimistic about automotive demand in the back half of 2020, the demand for our products will be dependent on the level of production at the OEM. 
+asr:0: OUTPUT 1397.10-1398.82: Let's turn now to aerospace. 
+asr:0: OUTPUT 1399.60-1403.10: Aerospace represented 15% of our LTM revenues. 
+asr:0: OUTPUT 1403.62-1411.99: The near-term outlook for aerospace remains uncertain due to the effects from COVID-19 and the 737 MAX. 
+asr:0: OUTPUT 1412.89-1420.46: Aerospace OEMs have reduced build rates, and it is unclear how long build rates will remain at these levels. 
+asr:0: OUTPUT 1421.40-1429.07: We expect aerospace shipments in the third and fourth quarter of 2020 will be lower than the level in the second quarter of 2020. 
+asr:0: OUTPUT 1430.73-1437.66: In TID, we expect to continue to expand in niche products in a diversified range of markets over the long term. 
+asr:0: OUTPUT 1438.42-1446.45: In the near term, the defense and rail markets remain strong, but most industrial and transportation markets remain weak. 
+asr:0: OUTPUT 1447.33-1452.89: These markets are dependent upon the health of the industrial economy in Europe and North America. 
+asr:0: OUTPUT 1453.61-1457.80: It is unclear when and to what extent these markets will rebound. 
+asr:0: OUTPUT 1458.98-1465.71: In closing, I again want to thank the Constellium team for their tireless efforts during this trying time. 
+asr:0: OUTPUT 1466.57-1477.52: We remain committed to operational execution, harvesting the benefits of our investments, disciplined capital deployment, debt reduction, and shareholder value creation. 
+asr:0: OUTPUT 1478.54-1481.30: With that, Joanna, we will now open the Q&A session. 
+asr:0: OUTPUT 1483.90-1491.33: Thank you, sir. Ladies and gentlemen, if you have a question at this time, please press star then the number one on your touchtone telephone. 
+asr:0: OUTPUT 1491.77-1497.66: If your question has been answered or you wish to remove yourself from the queue, please press the pound key. 
+asr:0: OUTPUT 1504.22-1509.67: Your first question comes from the line of Chris Terry from Deutsche Bank. Your line is open. 
+asr:0: OUTPUT 1516.28-1518.18: Chris, if you are on mute, please unmute. 
+asr:0: OUTPUT 1528.31-1529.95: Please, your line is now open. 
+asr:0: OUTPUT 1533.25-1541.74: Hi, Jean-Marc and Peter, can you hear me? Yes, we can. Good morning, Chris. Okay. Good morning. Thanks for taking my question. 
+asr:0: OUTPUT 1542.72-1551.21: The first thing I wanted to start with was just the utilization rates and the comments from 1Q. You sort of step through. 
+asr:0: OUTPUT 1551.23-1560.34: How you saw utilization in each of the divisions for 2Q and then perhaps for 3Q and 4Q. I appreciate you don't have guidance but I wanted. 
+asr:0: OUTPUT 1560.36-1563.22: Whether you could maybe conceptually talk through. 
+asr:0: OUTPUT 1564.50-1571.55: 3Q vs 4Q and just vs 2Q or any comments you can make on the divisions as an update from last quarter. Thanks. 
+asr:0: OUTPUT 1572.19-1579.46: Sure, Chris. So I'll start with the markets and then kind of translate it into what it can mean for the divisions, right, for the business unit. 
+asr:0: OUTPUT 1581.24-1586.53: So when you look at our second quarter of this year versus the second quarter of last year. 
+asr:0: OUTPUT 1586.65-1587.99: You see. 
+asr:0: OUTPUT 1588.01-1592.09: Packaging roughly 10% down, you see a. 
+asr:0: OUTPUT 1592.11-1598.02: Automotive 50% down, you see aerospace 40% down, right? Roughly. 
+asr:0: OUTPUT 1598.34-1601.02: And the other markets, in each market, it's about 25% down. 
+asr:0: OUTPUT 1601.94-1610.31: This is made of very different dynamics, right? So in packaging, what we are seeing now is 95% utilization. 
+asr:0: OUTPUT 1610.85-1618.96: There was a bit of a drop, especially in April with all the lockdowns in Europe, reduction in canned consumption and all that. 
+asr:0: OUTPUT 1619.26-1622.64: But that has come back pretty strong and the U.S. Continues to be quite strong. 
+asr:0: OUTPUT 1623.42-1628.77: So we look at packaging, again, recession resilient, secular growth. 
+asr:0: OUTPUT 1629.19-1632.33: And we're pretty confident for the second half of the year. 
+asr:0: OUTPUT 1632.39-1640.18: We look at Q2 as being kind of an abnormal quarter because of all that happened in April and a little bit in May. 
+asr:0: OUTPUT 1641.80-1650.39: If I look at automotive, it has really snapped back. I mean, I think when we talked on Q1, we were talking of 20% utilization as we were speaking. 
+asr:0: OUTPUT 1650.73-1652.61: And now we're at above 80%, right? 
+asr:0: OUTPUT 1653.03-1661.76: And if you do the average of 20 and 80, you get to 50, which is about what we experienced in the second half in terms of reduction in their shipments. 
+asr:0: OUTPUT 1663.14-1666.87: It is, you know. 
+asr:0: OUTPUT 1666.91-1670.33: It seems like it can be stronger than 80%. 
+asr:0: OUTPUT 1670.73-1679.22: Going forward. We certainly are running very well in July, but we've seen that this restart has been with all kinds of fits and starts, right? 
+asr:0: OUTPUT 1679.76-1684.04: So you've got hot spots, you've got supply chain disruptions, you've got... 
+asr:0: OUTPUT 1684.06-1690.35: Difficulties in bringing products from Mexico, building trucks in Texas is challenging. 
+asr:0: OUTPUT 1690.37-1695.06: You've got all those operational issues that all of us in the supply chain have to deal with. 
+asr:0: OUTPUT 1696.24-1699.70: But clearly the demand seems to be, you know. 
+asr:0: OUTPUT 1700.00-1703.12: Well in excess of 80% of where we were. 
+asr:0: OUTPUT 1703.14-1711.55: Last year. So that's encouraging and hopefully COVID-19 doesn't throw too much of a wrench in that good trend. 
+asr:0: OUTPUT 1712.71-1721.06: If I look now at aerospace, where we are running at around 60% in the quarter, we expect more pain in the second half of the year. 
+asr:0: OUTPUT 1722.50-1725.93: And I think the reason for that is it's a long supply chain. 
+asr:0: OUTPUT 1727.07-1733.29: And the customers move a little bit more slowly in terms of adjusting their orders. 
+asr:0: OUTPUT 1734.39-1739.98: And that is creating a bit of a lag in terms of how much pain we take. 
+asr:0: OUTPUT 1741.18-1751.15: We are in very detailed discussions with our customers in a very collaborative fashion to look at what the second half ought to look like and why contractually. 
+asr:0: OUTPUT 1751.17-1754.05: We could force some volumes on us, that's not our type. 
+asr:0: OUTPUT 1754.37-1756.30: What they don't need, we don't want to fulsome them. 
+asr:0: OUTPUT 1756.72-1764.96: So what we're working through is taking more pain now in the second half so that 2021 we start with a clean slate. 
+asr:0: OUTPUT 1765.53-1772.57: So we would expect some reduction in operating rates in aerospace in the second half of the year. 
+asr:0: OUTPUT 1773.17-1782.38: So if you translate all that into what it means for the different BUs, I would expect BARP, Packaging and Automotive, to be better. 
+asr:0: OUTPUT 1782.82-1787.97: I would expect ASNI, automotive structures, essentially. 
+asr:0: OUTPUT 1788.31-1793.73: To be better in the second half and would expect NT to be more challenged in the second half. 
+asr:0: OUTPUT 1798.32-1801.82: Thanks so much. 
+asr:0: OUTPUT 1803.64-1811.37: Just sort of follow up on packaging specifically where the volumes are down at you know around about 10% I think year on year. 
+asr:0: OUTPUT 1811.91-1820.58: And you're saying muscle shoulders are doing well. It seems like the US is going well. I think Crown yesterday mentioned that Southern Europe was weak. 
+asr:0: OUTPUT 1821.14-1824.46: Can you just comment a little bit further about packaging? 
+asr:0: OUTPUT 1824.48-1834.35: In the EU region? Was it down in the quarter because of demand or because you had facilities offline and maybe you could quantify some of the EU impacts? 
+asr:0: OUTPUT 1835.08-1844.22: I think so. The reason I'm saying more than 90% or 95% or whatever, not 100% is exactly because of some weakness in Europe, right? 
+asr:0: OUTPUT 1845.35-1855.03: And i think it's going to do with uh... Uh... Both uh... You know the reduction in uh... Activity in southern europe and a lot of these uh... Countries have uh... 
+asr:0: OUTPUT 1855.06-1860.48: Economies that are based on tourism and this is not the best year for tourism as we all know. 
+asr:0: OUTPUT 1861.44-1867.81: And we are seeing, you know, there's little clusters and hotspots, so everybody's a bit, you know, vigilant, as they should be, right? 
+asr:0: OUTPUT 1868.45-1873.29: So that is weighing down a little bit on the can consumption in Europe. Yes. 
+asr:0: OUTPUT 1880.00-1888.31: Okay, and just, sorry, one follow-up on working capital specifically. 
+asr:0: OUTPUT 1888.51-1892.41: I just wondered, maybe, Peter, if you could talk through the ... 
+asr:0: OUTPUT 1892.43-1900.08: The 2Q moving parts, obviously you've stepped through those waterfall charts and you're getting cost out doing a great job on the cost side. 
+asr:0: OUTPUT 1900.24-1901.48: I just wanted to... 
+asr:0: OUTPUT 1901.50-1904.86: You're coming a little bit further on the second half of the year. 
+asr:0: OUTPUT 1905.67-1908.75: And what the opportunities are that on working capital. 
+asr:0: OUTPUT 1909.13-1910.15: 9 times of. 
+asr:0: OUTPUT 1910.17-1919.72: You're saying positive for the full year, you've already obviously hit the positive number at the halfway point, so just wanted to talk through the moving parts of working capital. 
+asr:0: OUTPUT 1920.08-1923.24: Sure, happy to do it. Just for context, so... 
+asr:0: OUTPUT 1923.26-1933.31: On the second quarter, as we said last quarter, we would use working capital and we in fact burned $63 million of working capital in the. 
+asr:0: OUTPUT 1933.33-1938.04: Thank you, too. And for the first half, we're positive 24. 
+asr:0: OUTPUT 1938.78-1940.90: So based on where we sit today. 
+asr:0: OUTPUT 1940.92-1949.47: I think it's plausible to think that with auto-ramping, with packaging continuing to ramp back up,. 
+asr:0: OUTPUT 1949.89-1953.85: That we could lose some ground in the back half of the year. 
+asr:0: OUTPUT 1953.87-1959.94: Not a huge negative, but we could see working capital being a use in the back half of the year. 
+asr:0: OUTPUT 1960.74-1968.83: But Chris, I would say that we remain confident in spite of that, that we can achieve a free cash flow position. 
+asr:0: OUTPUT 1972.59-1976.18: Thanks, Feder. That's a good tip from me. Thank you. 
+asr:0: OUTPUT 1979.32-1985.49: Your next question comes from the line of Josh Sullivan from the Benchmark Company. Your line is open. 
+asr:0: OUTPUT 1987.41-1989.05: Hey, good morning. Morning, Josh. 
+asr:0: OUTPUT 1990.39-1995.26: Just a question, how are you thinking of any tariffs on Canadian aluminum? 
+asr:0: OUTPUT 1995.44-2001.88: Have you increased any inventory expecting that? Or just what should we be thinking on that front if that comes to fruition? 
+asr:0: OUTPUT 2003.04-2012.83: Well, I mean, we believe it's a misguided measure if it happens, right? We've lobbied against it in the past. We got it removed. It may come back. 
+asr:0: OUTPUT 2014.11-2022.62: We think it's misguided and it doesn't address a problem which is overcapacity from China, from a non-market economy that doesn't play by the same rules as we do. 
+asr:0: OUTPUT 2023.30-2027.23: Now that said, if it happens, it's got a very limited impact on us. 
+asr:0: OUTPUT 2027.43-2035.90: I remind you that we pass through the metal cost essentially to most of our customers. 
+asr:0: OUTPUT 2036.12-2042.50: There may be a little section of the business where we cannot reprice immediately when it happens. 
+asr:0: OUTPUT 2043.30-2049.81: But on the other side we may gain a little bit more on scrap recycling as well, so not much of an impact for us. 
+asr:0: OUTPUT 2050.69-2055.96: The reason we're against it is much more a matter of principle, because we believe in free and fair trade. 
+asr:0: OUTPUT 2056.00-2060.88: And really a problem for our finances or our economic outcome. 
+asr:0: OUTPUT 2063.52-2066.81: Got it. And then just on the canned sheep front,. 
+asr:0: OUTPUT 2066.91-2075.68: Can you remind us of when your larger contracts are up for renegotiation and then just a comment around pricing strength? 
+asr:0: OUTPUT 2076.86-2082.10: So we don't go into the detail of exactly which contracts mature when. 
+asr:0: OUTPUT 2082.92-2088.73: But you know that we've got a few renewals coming in around the 22 horizon. 
+asr:0: OUTPUT 2089.79-2091.49: We are making good progress. 
+asr:0: OUTPUT 2092.35-2095.66: And I think the pricing environment is... 
+asr:0: OUTPUT 2095.68-2104.10: I would describe it as mildly positive in the US and mildly negative in Europe because of the specific situation now. 
+asr:0: OUTPUT 2104.60-2108.83: I remind you that contractual negotiations take a lot of time here. 
+asr:0: OUTPUT 2109.41-2119.20: And whilst we, you know, I say it's mildly positive here and mildly negative there, between now and whenever we actually ink a contract, things may change. 
+asr:0: OUTPUT 2119.70-2122.28: But I think it's a pretty benign environment. 
+asr:0: OUTPUT 2123.82-2132.01: And our product is in demand. I'll brag a little bit, our quality and our service is very much recognized. 
+asr:0: OUTPUT 2132.53-2136.90: Mr. Schultz has done a terrific job over the past five years. 
+asr:0: OUTPUT 2137.68-2142.94: And he's a very strong player in the market now, very recognized, quality service-wise. 
+asr:0: OUTPUT 2143.14-2144.58: Never pleased Zach as always been. 
+asr:0: OUTPUT 2145.03-2150.71: So we have strong positions and I'm looking at the future with a great deal of confidence. 
+asr:0: OUTPUT 2153.57-2162.24: Thank you. 
+asr:0: OUTPUT 2164.82-2166.23: Great, thanks for taking my questions. 
+asr:0: OUTPUT 2167.43-2176.48: First of all, I did have one question on the numbers for the second quarter. Did you say there was a $15 million one-time benefit included in the $81 million adjusted EBIT downline? 
+asr:0: OUTPUT 2177.76-2180.54: Talking about for the labor benefits? 
+asr:0: OUTPUT 2182.40-2188.99: I thought it was a COVID-19 state aid benefit. Is that included in 81 million? 
+asr:0: OUTPUT 2190.01-2198.42: But it's not a one-off and it continues. Those programs are what is referred to as a courts are by commercialized by Seattle full-time work. 
+asr:0: OUTPUT 2198.92-2201.28: And these government programs continue. 
+asr:0: OUTPUT 2201.46-2203.46: 2020 and in some cases in. 
+asr:0: OUTPUT 2205.47-2214.03: Okay, so we should assume about a $15 million quarterly benefit from those programs each quarter? Well, no, because what will happen, David, is remember,. 
+asr:0: OUTPUT 2214.37-2222.36: So in the second quarter, we had a lot of people on the sidelines, right? But as we ramp up, then we're going to have substantially less of that. 
+asr:0: OUTPUT 2222.60-2231.55: So I think you should assume that in the businesses that it's going to – so packaging, for example, where we had some benefit in Q2. 
+asr:0: OUTPUT 2231.89-2237.18: We should have basically very limited, if any, benefit in Q3. 
+asr:0: OUTPUT 2237.60-2247.41: And, you know, automotive, which it's fade away and aerospace will have some continuing given the operating utilization rate there, but it'll be a much lower number. 
+asr:0: OUTPUT 2247.63-2256.10: To give you an indication, we mentioned about people being unemployed during the quarter. At the trough, which is behind us,. 
+asr:0: OUTPUT 2257.40-2263.36: We had 6,000 people under some kind of unemployment benefit or temporary layoff. 
+asr:0: OUTPUT 2263.48-2268.43: Now we are at less than 2000, so it's closed dramatically. 
+asr:0: OUTPUT 2269.93-2278.64: Yeah, and David, just to put it in perspective, if you get to the fourth quarter, the number might be something like 25% of that. 
+asr:0: OUTPUT 2279.18-2282.62: Right, just based on the utilization rate. Just rough number. 
+asr:0: OUTPUT 2283.86-2286.13: Okay, that's actually helpful, thank you. 
+asr:0: OUTPUT 2286.15-2292.41: Just in terms of the individual and market commentary,. 
+asr:0: OUTPUT 2292.47-2297.90: On the aerospace side, obviously that's the or has been the highest margin business. 
+asr:0: OUTPUT 2299.22-2301.38: And just in terms of the outlet commentary. 
+asr:0: OUTPUT 2303.48-2311.37: He framed obviously two segments up, one segment down, but the down segment is again the highest margin segment. 
+asr:0: OUTPUT 2311.39-2319.62: A census to order of magnitude of the down number versus the up numbers. Can you just give us a census to, you know, do you believe that aerospace will completely offset? 
+asr:0: OUTPUT 2320.00-2329.69: The recovery in auto and packaging in the second half or a bit more color on order of magnitude on the decline in aerospace would be helpful. 
+asr:0: OUTPUT 2330.69-2337.60: So it's very difficult to tell, David, because we're, as we speak, in very active discussions with our customers. 
+asr:0: OUTPUT 2337.70-2341.60: And at the end of the day, it's a call that we have to make jointly with them. 
+asr:0: OUTPUT 2342.02-2346.27: As I mentioned, we've got contracts whereby we can force them to take some products. 
+asr:0: OUTPUT 2347.95-2354.77: Which they will take and pay for all, but then they don't need it the following year, right? So they hold the inventory, they are holding the back. 
+asr:0: OUTPUT 2354.89-2360.02: So we are looking collaboratively with them in terms of what is it exactly they need. 
+asr:0: OUTPUT 2360.16-2366.57: Which by the way I don't think they fully know now and it's no criticism of them. I mean it's a very unusual time. 
+asr:0: OUTPUT 2367.35-2374.65: And once we know what they need and we look at what cuts do we take, then I could answer your question possibly. 
+asr:0: OUTPUT 2375.16-2382.80: At this stage I cannot, I would just say that there will be for sure more pain in other structures. 
+asr:0: OUTPUT 2382.92-2387.09: And then the aeronautical structures in aerospace, my apologies, aerospace. 
+asr:0: OUTPUT 2387.59-2393.75: Now the other thing too is this is compounded by the fact that if you look at any period in the recent past,. 
+asr:0: OUTPUT 2393.99-2398.60: The second half is always weaker than the first half. 
+asr:0: OUTPUT 2398.62-2399.98: Right? In aerospace. 
+asr:0: OUTPUT 2400.30-2402.84: So that's something to factor in as well. 
+asr:0: OUTPUT 2404.28-2410.41: My last related question is, I think you mentioned. 
+asr:0: OUTPUT 2411.19-2421.08: I think average utilization rates for aerospace related demand in the second quarter was around 60% at your facilities. Is that right? What is that number now? 
+asr:0: OUTPUT 2422.42-2429.09: We're running still around that number, but I would expect it to go down. 
+asr:0: OUTPUT 2430.49-2433.51: Maybe to 50% that kind of range. 
+asr:0: OUTPUT 2435.52-2437.22: Okay, all right, that's helpful. Thanks very much. 
+asr:0: OUTPUT 2438.30-2446.53: Yeah, so it's important to say we're not expecting it to go down to 30%, right, even, that's not on the horizon. 
+asr:0: OUTPUT 2451.89-2457.78: Your next question comes from the line of Kurt Woodworth from Credit Suisse. Your line is open. 
+asr:0: OUTPUT 2459.62-2467.95: Peter, first question, on the 100 million euro cost reductions,. 
+asr:0: OUTPUT 2468.33-2476.68: How much of that would you view as structural? And then, I guess just in general in terms of the amount of costs you think you could take out of the business? 
+asr:0: OUTPUT 2476.82-2479.58: This year on a permanent basis. Can you give us an update on. 
+asr:0: OUTPUT 2480.00-2481.06: On those efforts. 
+asr:0: OUTPUT 2485.25-2493.05: So if we look at the biggest piece of that $100 million is related to labor. 
+asr:0: OUTPUT 2494.07-2499.70: So, and that's probably, labor's probably, you know, half of that hundred million. 
+asr:0: OUTPUT 2500.60-2501.68: So, uh... 
+asr:0: OUTPUT 2501.70-2511.25: What we're doing now is we are really closely looking at the business and what it's likely to be like for the next couple of years. 
+asr:0: OUTPUT 2511.63-2515.24: And then you're trying to size our labor forces according to that. 
+asr:0: OUTPUT 2516.18-2523.12: So in that regard, I think we would expect that there's going to be some kind of permanent savings. 
+asr:0: OUTPUT 2523.32-2528.15: But remember, as we kind of ramp up the operations. 
+asr:0: OUTPUT 2529.03-2532.41: We do expect some of that cost is going to come back. 
+asr:0: OUTPUT 2532.51-2540.90: Right? So I'd say it's hard to give a really precise number on that, Curt. It's a difficult. 
+asr:0: OUTPUT 2545.23-2546.53: Kurt, if I may add. 
+asr:0: OUTPUT 2547.33-2552.59: We have talked about Horizon 22, right? And one of the strategic initiatives was to look at. 
+asr:0: OUTPUT 2552.97-2559.24: How do we lean our organization without losing competencies, capabilities. 
+asr:0: OUTPUT 2559.56-2562.60: But how do we lean and make the organization stronger? 
+asr:0: OUTPUT 2564.00-2573.85: And I think what COVID-19 is doing to us, and I guess to many other companies out there, is accelerate the number of initiatives that may have taken more time to be implemented. 
+asr:0: OUTPUT 2574.25-2577.08: So along the lines that Peter was... 
+asr:0: OUTPUT 2577.10-2586.41: Saying, I think we'll come out of this with some permanent cost reductions and as we ramp up, we will not ramp up and inject back 100 million of cost. 
+asr:0: OUTPUT 2587.67-2591.83: How much will remain to be seen because we're really... 
+asr:0: OUTPUT 2591.85-2599.14: Learning as we're doing and we're just in the middle of it now, but we will definitely emerge out of that leaner and stronger. 
+asr:0: OUTPUT 2599.68-2603.80: And there are certain categories like, for example, professional fees. 
+asr:0: OUTPUT 2603.82-2611.93: Subcontractors where, you know, kind of as we work without these, because those are, you know, kind of big categories of reduction,. 
+asr:0: OUTPUT 2612.29-2618.68: I think we were able to kind of live without a lot of that going forward. 
+asr:0: OUTPUT 2618.70-2622.62: So yeah, I think there's definitely a piece of that that we can carry forward. 
+asr:0: OUTPUT 2623.72-2628.03: There are some examples that are not trivial, they're quite revealing, right? 
+asr:0: OUTPUT 2628.43-2637.62: So we've got a very strong R&D and technical support organization, which is people that are centrally located and go and help plans. 
+asr:0: OUTPUT 2638.22-2644.18: And historically, a lot of the work was done by people going to the location. 
+asr:0: OUTPUT 2644.60-2648.43: Now obviously in the past three months nobody has been able to travel anywhere. 
+asr:0: OUTPUT 2649.29-2658.26: And a lot of that has been done through remote interaction, video conference, but even when you go to a plant. 
+asr:0: OUTPUT 2658.28-2663.12: And you look at I got a problem and I need to improve the speed of this mill. 
+asr:0: OUTPUT 2663.52-2667.61: We've had people, you know, interacting by the meal pulpits. 
+asr:0: OUTPUT 2667.63-2673.73: On FaceTime and going into, looking into the role that... 
+asr:0: OUTPUT 2673.75-2681.52: The rolling mills by FaceTime with a technical advisor on the other side of the planet and that works actually fine. 
+asr:0: OUTPUT 2681.62-2689.31: Which we wouldn't have thought it would be possible. So in the future what you're gaining here is, well you're saving travel time. 
+asr:0: OUTPUT 2689.41-2691.79: Which is not very good for the aerospace business. 
+asr:0: OUTPUT 2692.27-2701.02: But also you're saying the cost, you're saying the time, which means that people can be on several interventions. 
+asr:0: OUTPUT 2701.46-2706.13: Whereas historically within a week, you know, it takes a week to get to the plant where you get the job done. 
+asr:0: OUTPUT 2706.69-2713.51: So I think we're going to discover a few new ways of doing business in our... 
+asr:0: OUTPUT 2713.55-2722.62: In our space that are going to be quite interesting in the future and I think it's going to help us inject more brain and talent remotely with more action. 
+asr:0: OUTPUT 2723.80-2729.33: And Kurt, you know, as we go forward, we may be able to give you more color on this. 
+asr:0: OUTPUT 2729.35-2738.48: Hopefully, it comes across that we're really looking hard at taking structural costs out. 
+asr:0: OUTPUT 2738.50-2742.56: We want to be free cash flow positive through this crisis. 
+asr:0: OUTPUT 2742.66-2746.77: And so that we don't take on any incremental debt ideally. 
+asr:0: OUTPUT 2747.25-2752.55: And in the longer term we want to emerge with a much stronger earnings power. 
+asr:0: OUTPUT 2752.57-2758.36: We're focused on exactly that and we'll have more to say as we progress. 
+asr:0: OUTPUT 2760.16-2761.68: Okay, now that's helpful. 
+asr:0: OUTPUT 2761.78-2765.55: And then in terms of the pre-cash flow,. 
+asr:0: OUTPUT 2765.57-2783.02: You mentioned, I think, a $73 million impact from backering this quarter. Otherwise, you'd be pretty cashflow positive, which is pretty positive given your utilization rate. And now you're talking about 95% utilization and packaging, over 80% in auto. 
+asr:0: OUTPUT 2783.42-2789.27: And it seems like auto should move higher once supply chains get more normalized. 
+asr:0: OUTPUT 2790.03-2797.26: 75% of your business could be close to 90% utilization in a couple of months. I get that arrow is weaker. 
+asr:0: OUTPUT 2798.62-2806.37: But it would seem like from a free cash flow generation standpoint, unless working capital would be a major negative, you'd be in a position to have a lot of cash flow. 
+asr:0: OUTPUT 2806.41-2812.11: You should be generating decent free cash in the back half of the year. Can you comment at all on that? 
+asr:0: OUTPUT 2812.13-2815.26: Free cash flow potential in the back half of the year? 
+asr:0: OUTPUT 2816.70-2819.04: Answer the question. So we won't put a specific number. 
+asr:0: OUTPUT 2820.00-2825.55: But we're confident that we will generate free cash flow for the full year. 
+asr:0: OUTPUT 2826.47-2829.41: And, you know, the back half of the year I think there's a... 
+asr:0: OUTPUT 2829.43-2839.44: There's a very good chance that we can generate some free cash flow, but it depends a lot on what happens with trade working capital. As I said, we've got the ramp of these businesses. 
+asr:0: OUTPUT 2839.98-2847.73: So we want to be a little cautious until we see the pace of the ramp and the consequences of the ramp. 
+asr:0: OUTPUT 2848.45-2853.03: But again, for the full year, we remain confident that we can generate free cash flow. 
+asr:0: OUTPUT 2854.39-2859.90: And then just a final question on Arrow, Jean-Marc. You had a comment on –. 
+asr:0: OUTPUT 2860.02-2865.59: I guess working with the OEMs to create, you said a clean slate entering 2021. 
+asr:0: OUTPUT 2865.71-2866.81: So, you know. 
+asr:0: OUTPUT 2866.87-2878.62: But is that statement kind of reflecting the fact that the OEMs cut very quickly, and I assume there's sort of an excess inventory issue that they're dealing with, or in general, supply chain? 
+asr:0: OUTPUT 2878.64-2880.00: You know. 
+asr:0: OUTPUT 2880.62-2888.23: Hypothetically, your volumes would be below the actual build rate to help them clear inventory. So then when you get into 2021, you. 
+asr:0: OUTPUT 2888.29-2891.13: The supply chain is in a pretty good position. 
+asr:0: OUTPUT 2891.27-2895.01: Contractually you said you're not going to force it on them but then you. 
+asr:0: OUTPUT 2895.20-2902.24: If you're going to help them manage that, do you get anything in return, i.e.,. 
+asr:0: OUTPUT 2902.26-2910.11: Price benefit or is this just kind of everyone helping each other? Just a little bit of an understanding of kind of what you meant by the clean slate comment. 
+asr:0: OUTPUT 2910.91-2913.63: Well, yeah, no, fair question. 
+asr:0: OUTPUT 2914.31-2916.74: I think I've commented in the past. 
+asr:0: OUTPUT 2916.76-2929.01: The fact that I thought that the shipments were making into the OEMs, right into the supply chain, were actually higher than what the build rates were warranting at the time. 
+asr:0: OUTPUT 2929.05-2932.59: And obviously the bill rates are going down, very significantly down. 
+asr:0: OUTPUT 2932.65-2938.34: So now, so the pain we're gonna take in the second half,. 
+asr:0: OUTPUT 2938.36-2947.45: I think is not going to cure all the inventory buildup in the supply chain, first of all. 
+asr:0: OUTPUT 2948.37-2955.42: But I think what that does is it positions us for 2021 that doesn't show further deterioration. 
+asr:0: OUTPUT 2955.54-2963.78: That's what we're into, right? And we want to be in a place where what we supply is by and large consistent with what is being built. 
+asr:0: OUTPUT 2964.10-2968.15: So that's what we're trying to do. Whether we get there fully, I don't know. 
+asr:0: OUTPUT 2968.41-2974.95: But certainly we are aiming to be better in 2021 than what the 9 months of the pandemic. 
+asr:0: OUTPUT 2974.97-2979.00: You know, post COVID will be in. 
+asr:0: OUTPUT 2979.32-2980.66: That's sort of the goal. 
+asr:0: OUTPUT 2983.04-2985.55: In terms of what we're getting from UEMs,. 
+asr:0: OUTPUT 2986.85-2991.17: We've got very strong, deep, strategic relationships with them. 
+asr:0: OUTPUT 2992.09-2996.44: I've commented also in the past on the fact that we're in need for the long haul. 
+asr:0: OUTPUT 2996.94-3004.46: And I think it's evidenced by the 10-year contract we signed with Airbus. I mean, 10 years is a long duration, never happened before. 
+asr:0: OUTPUT 3005.17-3012.43: And we did it because it was the right thing to do for both companies, for both businesses. 
+asr:0: OUTPUT 3012.79-3022.24: And we didn't do it as a reaction to COVID or whatever, right? I mean, that was really the desire to cement the strategic alignment between the two companies. 
+asr:0: OUTPUT 3022.66-3025.09: So we're looking past the current crisis. 
+asr:0: OUTPUT 3025.43-3034.71: The current crisis, we've got to get all in the same boat or in the same aircraft and put us in the same place, work together to overcome the crisis. 
+asr:0: OUTPUT 3035.06-3040.46: And we are not talking about, you know, if I do that you give me a bit more price or whatever. 
+asr:0: OUTPUT 3040.74-3045.21: I think it's just a relationship where we want to be in a win-win partnership. 
+asr:0: OUTPUT 3045.69-3055.24: And we do some things that help them and they'll do some things that help us in the future, which they have already done in the past and that's already happened and that's continuing. 
+asr:0: OUTPUT 3057.24-3058.70: Okay, great, thank you very much. 
+asr:0: OUTPUT 3061.84-3067.01: Your next question comes from the line of Matthew Fields from Bank of America. Your line is open. 
+asr:0: OUTPUT 3068.67-3073.63: Hey Peter, one on the markets and then one on the balance sheet please. 
+asr:0: OUTPUT 3073.97-3075.00: So... 
+asr:0: OUTPUT 3075.16-3084.52: Saw that CAN volumes were down about 11%, but NORSC reported CAN volumes up 11%. 
+asr:0: OUTPUT 3085.25-3091.95: I think you guys face relatively the same markets in Europe. Can you sort of point to why maybe they're having more success? 
+asr:0: OUTPUT 3091.97-3100.42: On their canned volumes, was it a no-for-stock being down issue or a market issue? Can you just explain that discrepancy for us, please? 
+asr:0: OUTPUT 3100.92-3108.29: So it's mainly, I believe, I mean, I cannot comment on their specific situation, but in our case,. 
+asr:0: OUTPUT 3108.41-3111.91: The main reason was that we had to take down that feedback for a full week. 
+asr:0: OUTPUT 3112.35-3114.43: And then ramp it up gradually. 
+asr:0: OUTPUT 3114.55-3121.08: I remind you that Nel Poisac was at the center of a hotspot, of the first real hotspot in France. 
+asr:0: OUTPUT 3121.84-3127.65: And that was very terrible conditions for the second half of March. 
+asr:0: OUTPUT 3128.19-3133.83: So in March we continued to ship out of Finnish goods, but then we had to replenish the... 
+asr:0: OUTPUT 3133.85-3140.96: The Finnish goods and that really took down our shipments in the second quarter. But we're back to normal. 
+asr:0: OUTPUT 3143.30-3145.85: Okay, I think that's sort of what I expected. 
+asr:0: OUTPUT 3146.81-3155.44: On the balance sheet, it looks like you got a decent amount of funding from France and obviously Switzerland and Germany. 
+asr:0: OUTPUT 3156.28-3158.16: You said it was partially guaranteed. 
+asr:0: OUTPUT 3158.48-3167.81: But it's also secured. Can you just give us a better understanding of sort of what it's secured by? Is it inventory or is it sort of PP&E? 
+asr:0: OUTPUT 3168.19-3171.39: And then to what extent is it guaranteed by the French government? 
+asr:0: OUTPUT 3172.09-3179.58: Well, it depends on the facility, but the big one, the French one, is secured on PP&E. 
+asr:0: OUTPUT 3180.24-3187.51: And in the case of the German ones, one of them is secured and one of them is unsecured, and the Swiss one is unsecured. 
+asr:0: OUTPUT 3188.89-3196.84: And the guarantees, the way they work is they guarantee a certain percentage of the principal. 
+asr:0: OUTPUT 3197.02-3200.10: It's a normal syndicate of banks with. 
+asr:0: OUTPUT 3200.12-3208.45: In the case of France, I think the guarantee is for 70% of the, or sorry, 80% in the case of France of the. 
+asr:0: OUTPUT 3208.47-3212.05: Of the principal balance is guaranteed by the French state. 
+asr:0: OUTPUT 3212.55-3215.70: In the case of Germany, I think it's 80% too. 
+asr:0: OUTPUT 3218.38-3224.46: Just for our purposes as credit analysts, 80% of that French loan is sort of non-recourse to you? 
+asr:0: OUTPUT 3225.77-3230.93: Well, again, it is recourse to us. 
+asr:0: OUTPUT 3232.13-3235.64: What i think uh... The point is is that if you're a lender. 
+asr:0: OUTPUT 3235.66-3245.61: So, for example, if you are in the syndicate of banks and you are lending, say, 50%, your responsibility is for 10%…oh, sorry, 50%. 
+asr:0: OUTPUT 3245.69-3249.39: Fifty million your responsibility is for ten of that. 
+asr:0: OUTPUT 3251.77-3256.54: Right? So it's the banks that benefit from the guarantee, not the company. 
+asr:0: OUTPUT 3257.78-3261.12: Okay, so you still have to deliver on the commitments to the banks. 
+asr:0: OUTPUT 3261.82-3263.48: Yeah, absolutely. 
+asr:0: OUTPUT 3264.20-3266.85: But one thing to... Yeah, I'm sorry. 
+asr:0: OUTPUT 3267.09-3273.87: The government is in fact stopping the loan for you know i think alone for the banks exactly. 
+asr:0: OUTPUT 3273.91-3279.58: Exactly. But one thing to, you know, kind of, I think is a really important point is. 
+asr:0: OUTPUT 3279.60-3284.74: You know, our intent in putting this liquidity on the balance sheet. 
+asr:0: OUTPUT 3284.76-3290.93: Was to remove any questions about the fact that we have enough liquidity. 
+asr:0: OUTPUT 3291.33-3300.56: As we said from the beginning and based on the performance in the second quarter, we do not anticipate using this. So the French facility we had to draw. 
+asr:0: OUTPUT 3301.22-3305.06: Just by the terms of the agreement, but it just sits on our balance sheet as cash. 
+asr:0: OUTPUT 3305.65-3311.49: And the German facility that we've now signed up in July, we don't expect to draw that. 
+asr:0: OUTPUT 3312.21-3321.64: The delay draw term loan, we haven't drawn that. And the Swiss facility, we don't have that drawn in most instances. 
+asr:0: OUTPUT 3323.14-3329.55: And the way we benefit from the state guarantee is through very cheap interest rates. Yeah, that's right. 
+asr:0: OUTPUT 3330.67-3333.35: That's right. That was cheap money and that was important to us. 
+asr:0: OUTPUT 3333.67-3343.60: We don't think we need the money so we're not going to pay a lot of interest for it. Yeah, exactly that and it obviously was an inducement for the banks to lend. 
+asr:0: OUTPUT 3346.01-3351.63: Fair enough. I think the French facilities are 2.5% effectively at this point. 
+asr:0: OUTPUT 3352.33-3360.00: So you don't really have an incentive to pay that off quickly given your bonds are kind of twice. 
+asr:0: OUTPUT 3362.08-3363.16: No, that's right. 
+asr:0: OUTPUT 3363.18-3373.49: Remember, there are some limitations on the use of the capital. For example, we can't use that capital to go and. 
+asr:0: OUTPUT 3373.51-3375.96: Buy back bonds in the market. 
+asr:0: OUTPUT 3376.08-3380.54: So it's really meant to be for operating needs of a company. 
+asr:0: OUTPUT 3381.00-3385.25: But yeah you're right we don't have a we don't have a strong incentive to to repay that. 
+asr:0: OUTPUT 3386.53-3392.05: But what we will do is, obviously there's some cost to it. 
+asr:0: OUTPUT 3392.09-3398.56: So as we kind of emerge from the crisis and have a little more visibility, then we'll unwind those facilities. 
+asr:0: OUTPUT 3401.16-3405.63: That's very helpful. Thanks for all the color and good luck in the back half. 
+asr:0: OUTPUT 3408.27-3413.67: Your next question comes from the line of Sean Wondrak from Deutsche Bank. Your line is open. 
+asr:0: OUTPUT 3416.00-3422.20: Hey guys, thanks for taking my questions and really great job on transparency and cost here, both very helpful. 
+asr:0: OUTPUT 3424.72-3427.47: When you think about big picture, if you look at the auto market,. 
+asr:0: OUTPUT 3428.25-3434.87: There are certain projections out in the market that we'll have about 25% decline in new cars this year. 
+asr:0: OUTPUT 3434.89-3438.66: Mostly based on the fact that we weren't producing back in March, April. 
+asr:0: OUTPUT 3439.60-3447.57: If you look at the used auto market, it's been pretty strong as of late, with used prices really rising even above last year. 
+asr:0: OUTPUT 3448.97-3453.11: You talk about how production's been increasing and demand is increasing there. 
+asr:0: OUTPUT 3454.65-3461.80: To kind of get to down 25%, you'd have to have some pretty strong growth in 3Q and 3F. 
+asr:0: OUTPUT 3462.36-3464.28: So I guess what I'm asking is... 
+asr:0: OUTPUT 3464.32-3467.49: Do you see that market as potentially inflecting soon? 
+asr:0: OUTPUT 3467.77-3474.37: You know, with the man pulling through based on a lack of cars. And if you can provide a little color of what you're seeing there, that'd be very helpful. 
+asr:0: OUTPUT 3476.50-3484.06: Yeah, so, I mean the older book is strong, there's no question, it's above the 80% that I'm mentioning, right? 
+asr:0: OUTPUT 3485.63-3487.91: But we've been a little bit caught. 
+asr:0: OUTPUT 3489.31-3496.68: By customers just a few months ago telling us we need product tomorrow and then telling us the next day the plant is shut down. 
+asr:0: OUTPUT 3497.72-3499.76: So, you know, we are very vigilant. 
+asr:0: OUTPUT 3500.00-3503.70: So I hope, I think the end demand is there. 
+asr:0: OUTPUT 3504.18-3506.85: I think that's true in the US, that's true in Europe. 
+asr:0: OUTPUT 3506.87-3511.79: The governments have injected a lot of money in the hands of consumers, right, through the. 
+asr:0: OUTPUT 3511.81-3518.32: The unemployment benefits of different shapes and forms that you see on both continents. 
+asr:0: OUTPUT 3519.18-3523.32: And that is pretty good for end demand at the end of the day. 
+asr:0: OUTPUT 3524.38-3526.57: So I hope it's going to be a. 
+asr:0: OUTPUT 3526.59-3534.89: It's going to materialize into the order book we have is going to be actually real orders and shipments in which case it could be better. 
+asr:0: OUTPUT 3535.88-3537.58: But, you know, I've... 
+asr:0: OUTPUT 3538.50-3546.13: We've seen fits and starts, you see plants restarting and then shutting down because there's a... 
+asr:0: OUTPUT 3546.15-3556.20: COVID infections or you see people having trouble staffing, you know, the full shift because there's too many cases in the hot spots. 
+asr:0: OUTPUT 3556.68-3562.56: It's still fragile. I mean, it looks quite good, but it's still fragile. 
+asr:0: OUTPUT 3564.72-3569.33: That's helpful. Thank you, John. I guess that's a good lead into the next question. 
+asr:0: OUTPUT 3569.91-3577.78: When you think about your customers, we've had some shutdowns. We've had things come back online. 
+asr:0: OUTPUT 3578.14-3588.23: Do you feel that your customers and their CEOs are getting more confidence in their ability to stay online, are getting better in terms of protocols and sort of advancing up the curve there? 
+asr:0: OUTPUT 3589.39-3594.13: I would think so. I think all of us have made tremendous. 
+asr:0: OUTPUT 3594.15-3600.12: Efforts to provide the proper environment for our employees. 
+asr:0: OUTPUT 3601.58-3609.83: It's very interesting. I was commenting on the, you know, half of the percent of our employees have been affected by COVID confirmed. 
+asr:0: OUTPUT 3611.77-3618.06: We have had no new case, confirmed case in Europe since the middle of May. 
+asr:0: OUTPUT 3619.38-3626.03: So I think he's saying something about the fact that when people take responsibility,. 
+asr:0: OUTPUT 3626.05-3634.69: In their daily lives, right? Because it goes beyond what they do within our factories or during the eight hours or ten hours, whatever, that they work with us. 
+asr:0: OUTPUT 3635.82-3637.78: You can have an impact. 
+asr:0: OUTPUT 3638.64-3640.50: And I think, you know. 
+asr:0: OUTPUT 3640.52-3649.05: If people wear masks when they interact with outside, with people they come across, I think it makes a tremendous difference. 
+asr:0: OUTPUT 3650.19-3654.77: So I hope the reality will slowly, or more than slowly,. 
+asr:0: OUTPUT 3654.85-3662.74: Settle in and good practices will get that virus away from us sooner rather than later. 
+asr:0: OUTPUT 3664.48-3668.07: And I think people are seeing the confidence building up. 
+asr:0: OUTPUT 3668.09-3675.88: It's human nature, you need to be affected to take steps and I think we're in the process where in many places people are still being affected before they take steps. 
+asr:0: OUTPUT 3676.26-3680.20: But if you look at China, I mean China is going extremely strong. 
+asr:0: OUTPUT 3680.88-3685.19: It's a small operation for us, but we are above budget, above FTA. 
+asr:0: OUTPUT 3686.25-3687.87: You look at Europe. 
+asr:0: OUTPUT 3688.15-3696.26: New cases are really on a downward trend, even though there are some clusters here and there, and we're seeing a stronger. 
+asr:0: OUTPUT 3696.28-3697.86: We got rebound. 
+asr:0: OUTPUT 3698.42-3700.24: And I hope this is coming to us. 
+asr:0: OUTPUT 3704.42-3710.41: It's good to hear John Mark and I hope everybody's safe and well over there. Thank you very much and good luck. 
+asr:0: OUTPUT 3720.30-3722.52: I am showing no further questions at this time. 
+asr:0: OUTPUT 3722.68-3727.41: I would like to turn the conference back to Mr. Jean-Marc Germain, CEO of Constellium. 
+asr:0: OUTPUT 3728.59-3732.73: Thank you, Joanna. So thanks everyone for a... 
+asr:0: OUTPUT 3732.77-3740.32: As you can see, we are very focused on facing the crisis, protecting cash flow, and we are. 
+asr:0: OUTPUT 3740.34-3744.10: And building a stronger crostellium when things are behind us. 
+asr:0: OUTPUT 3744.86-3753.93: Thank you very much and look forward to updating you on our progress in Q3. Take care. Stay well. 
+asr:0: END

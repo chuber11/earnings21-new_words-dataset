@@ -1,0 +1,473 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 7.79-13.39: Good morning and welcome to the third quarter 2020 Pilgrim's Pride earnings conference call and webcast. 
+asr:0: OUTPUT 14.27-22.58: All participants will be in listen-only mode. If you need assistance, please signal a conference specialist by pressing the star key followed by zero. 
+asr:0: OUTPUT 23.60-26.49: At the company's request, this call is being recorded. 
+asr:0: OUTPUT 27.87-39.26: Please note that the slides and references during today's call are available for download from the Investor Relations section of the company's website at www.pilgrims.com. 
+asr:0: OUTPUT 39.90-43.60: After today's presentation, there will be the opportunity to ask questions. 
+asr:0: OUTPUT 44.48-51.91: I would now like to turn the conference over to Donna Muinotto, Academy of Arts Relations for Peer Glimpse Pride. Please go ahead, sir. 
+asr:0: OUTPUT 53.17-62.04: Good morning and thank you for joining us today as we are operating in financial results for the third quarter end of September 27, 2020. 
+asr:0: OUTPUT 63.06-72.43: Yesterday afternoon, we issued a press release providing an overview of our financial performance for the quarter, including a reconciliation of any non-GAAP measures we may discuss. 
+asr:0: OUTPUT 73.17-80.70: A copy of the release is available in the investor relations section of our website along with the slides we will reference during this call. 
+asr:0: OUTPUT 81.60-88.05: These items have also been filed as a case and are available online at www.scc.gov. 
+asr:0: OUTPUT 89.15-99.10: Presenting to you today are Fabio Sandri, President and Chief Executive Officer and Chief Financial Officer, and Joe Walthuser, Head of Commodity Risk Management. 
+asr:0: OUTPUT 100.00-104.28: Before we begin our prepared remarks, I'd like to remind everyone of our safe harbor disclaimer. 
+asr:0: OUTPUT 105.33-112.77: The release call may contain certain forward-looking statements that represent our outlook and current expectations as of the day of this release. 
+asr:0: OUTPUT 114.01-121.12: Other additional factors not anticipated by management may cause actual results to differ materially from those projected in these four booking statements. 
+asr:0: OUTPUT 122.08-131.97: More information concerning those factors has been provided in today's press release on NK in our regular filings with the SEC. I'd now like to turn the call over to Fabio Sandri. 
+asr:0: OUTPUT 132.83-136.76: Thank you, Donna. Good morning, everyone, and thank you all for joining us today. 
+asr:0: OUTPUT 137.34-148.65: For the third quarter of 2020, we reported net revenues of 3.08 billion and adjusted EBITDA of 305 million or a 9.9% margin, 18% higher than a year ago. 
+asr:0: OUTPUT 148.67-151.81: And an adjusted gap EPS of 66 cents. 
+asr:0: OUTPUT 152.79-162.28: I would like to express my sincere gratitude to our global team for their continuing commitment, dedication, and hard work in supporting our ability to keep our team members safe and healthy. 
+asr:0: OUTPUT 162.60-166.61: By maintaining our ability to produce and supply customers during this challenging time. 
+asr:0: OUTPUT 167.07-174.01: I could not be more proud of our team as they have continued to come together to support one another, our customers and consumers. 
+asr:0: OUTPUT 174.79-182.84: Safety is a condition of humans and our team members responded admirably to the unprecedented conditions supplying products to our customers. 
+asr:0: OUTPUT 183.26-187.39: We are continuously adapting our global operations to the change in channel demand. 
+asr:0: OUTPUT 187.41-196.20: While adjusting our operations to be able to maintain the operations at all our plants and minimize any significant disruption due to labor and health issues. 
+asr:0: OUTPUT 196.88-204.34: We remain diligent in implementing precautionary, proactive steps to better safeguard the wellness and health of each team member. 
+asr:0: OUTPUT 204.42-209.77: While fulfilling our essential duty as a food producer to consumers in every region where we operate. 
+asr:0: OUTPUT 211.09-219.50: We incurred direct COVID-19 mitigation costs of roughly 27 million for the quarter and close to 77 million year-to-date. 
+asr:0: OUTPUT 220.02-224.80: The direct costs are related to the extra cleaning of our production and common areas. 
+asr:0: OUTPUT 224.97-233.93: The extra PP&E, including masks and face shields that we are providing to all of our team members, and the installation of physical barriers in our production areas. 
+asr:0: OUTPUT 234.59-242.80: We also installed new technology, UV and bipolar ionization in every plant to filter the air and neutralize potential viruses. 
+asr:0: OUTPUT 243.56-251.99: We're offering free LightHealth online services that allow for virtual doctor visits at no cost and above all CDC guidelines. 
+asr:0: OUTPUT 252.33-258.16: We remove vulnerable team members from facilities with full pay and benefits during community outbreak. 
+asr:0: OUTPUT 259.14-262.44: These figures include indirect costs that are more. 
+asr:0: OUTPUT 262.60-266.37: There are a lot of indirect costs that are more difficult to precisely quantify. 
+asr:0: OUTPUT 266.41-273.53: Such as overall disruptions to our operations, less optimal mix, and production efficiencies that are not included in these numbers. 
+asr:0: OUTPUT 274.17-278.72: Also, we are supporting our communities with our Home Strong initiative. 
+asr:0: OUTPUT 279.50-285.65: It is an example of how we value the importance while we're playing the communities where our team members live and work. 
+asr:0: OUTPUT 286.05-291.05: We understand the responsibility that comes with being a major employer in rural communities. 
+asr:0: OUTPUT 291.49-297.82: And we work hard to contribute to the well-being of those communities by not only providing gainful employing opportunities,. 
+asr:0: OUTPUT 297.84-302.72: But also participating in volunteers, donation and sponsorship opportunities. 
+asr:0: OUTPUT 302.90-306.45: This quarter, we accrued $50 million in SG&A for this initiative. 
+asr:0: OUTPUT 307.53-309.33: Turn to the specifics of our business. 
+asr:0: OUTPUT 309.45-314.59: Despite continuing volatility and challenging market environments in Q3 and added operating costs. 
+asr:0: OUTPUT 314.81-321.42: Have continued to generate a superior relative performance to the competition and have remained resilient to market fluctuations. 
+asr:0: OUTPUT 321.80-327.65: Is the reflection of our portfolio approach, including the strategy on well-diversified products,. 
+asr:0: OUTPUT 327.67-332.29: Broad geographical footprints, and a relentless focus on key customers. 
+asr:0: OUTPUT 333.33-339.24: For the full quarter, operating performance, both in the US and Mexico, significantly improved sequentially. 
+asr:0: OUTPUT 339.70-343.34: And Europe also continued to improve despite the challenges due to COVID-19. 
+asr:0: OUTPUT 344.06-350.17: In Q3, we saw market conditions continue to recover across all of our global operations. 
+asr:0: OUTPUT 350.19-358.22: With the US and particularly Mexico experiencing the stronger rebound in performance relative to weak conditions during the first half of the year. 
+asr:0: OUTPUT 358.86-367.97: We are pleased with the results, especially when taking into account all the disruptions. Less than optimal product mix and added operating costs when compared to the environment in 2019. 
+asr:0: OUTPUT 369.21-375.08: Despite continued challenges in global market conditions due to COVID-19, our consolidated results have also. 
+asr:0: OUTPUT 375.10-383.34: Remain well balanced and the result of our vision to become the best and most respected company, creating the opportunity of a better future for our team members. 
+asr:0: OUTPUT 383.96-391.03: To support our vision, we are continuing to implement our strategy of developing a unique portfolio of diverse, complementary business models. 
+asr:0: OUTPUT 391.53-400.24: Continue to relentlessly pursue operational excellence, becoming a more valued partner with key customers, and creating an environment for safe people. 
+asr:0: OUTPUT 400.26-402.12: Safe products and healthy attitudes. 
+asr:0: OUTPUT 403.72-408.57: While market conditions in all our global operations are continuing to improve during the quarter. 
+asr:0: OUTPUT 408.83-416.70: Food service demand globally still has not reached prior levels and the environments are still quite challenging in some sectors where we operate. 
+asr:0: OUTPUT 417.56-427.93: Disruptions from COVID-19 have continued to present a significant challenge on each individual country's demand for protein consumption, as well as for the flow of global trades. 
+asr:0: OUTPUT 427.99-431.59: And generate volatility far beyond normal seasonal factors. 
+asr:0: OUTPUT 432.41-441.62: We will maintain our strategy while continuing to improve the portfolio to better respond to individual market dynamics and generate a relative increase in performance over our peers. 
+asr:0: OUTPUT 442.16-450.75: We believe this approach will give us higher and more consistent results for the mid- to long-run and minimize the full peaks and troughs of the commodity sectors. 
+asr:0: OUTPUT 451.85-461.70: During the third quarter in the US, we are continuing to see demand recovering at our fresh operations, including from some sectors within food service. 
+asr:0: OUTPUT 461.72-465.95: With more states gradually losing travel and movement restrictions. 
+asr:0: OUTPUT 466.37-471.75: QSL volume has been especially strong and demand from our customers has been outperforming the industry. 
+asr:0: OUTPUT 472.55-478.90: Similar to last quarter, commodity large-door deboning was also again the most challenged during Q3. 
+asr:0: OUTPUT 479.40-485.43: Operationally, however, we continue to improve our relative performance versus the industry across all business units. 
+asr:0: OUTPUT 486.83-492.79: We're continuing to adapt the shipping channel demand by increasing our volume mix to key customer retailers. 
+asr:0: OUTPUT 493.23-503.14: In addition, a large portion of our food service customers are also within the QSR segment, which has further dampened the impact across our fresh business unit models. 
+asr:0: OUTPUT 503.68-510.05: Our portfolio of differentiated products along with our key customer model are giving us better insulation against the volatility. 
+asr:0: OUTPUT 510.79-518.58: We're also much better positioned to adjust product and channel mix, giving our presence across all bird sizes, from small to large. 
+asr:0: OUTPUT 519.58-525.53: Within the small bird and case ready segments, market supply and demand was again very well balanced during Q3. 
+asr:0: OUTPUT 526.11-532.57: Demand from retailers, especially from our key customers, was strong, supporting improved performance of our key Israeli businesses. 
+asr:0: OUTPUT 533.05-541.88: Our market leadership in these categories and more differentiated product portfolio have continued to strengthen the growth of our competitive advantage versus the industry. 
+asr:0: OUTPUT 542.76-549.19: While we commit to our key customers, FASRI has been reflected in the consistency for past results. 
+asr:0: OUTPUT 549.45-555.54: The value of this approach has never been more relevant to our growth than during the current times of great uncertainty and challenges. 
+asr:0: OUTPUT 556.44-558.66: To further support the growth of key customers. 
+asr:0: OUTPUT 558.72-562.16: We are doubling our case-ready capacity at our plant in Minnesota. 
+asr:0: OUTPUT 562.20-569.03: By increasing the number of heads processed at the plant while also raising the mix of more stable margin case ready products. 
+asr:0: OUTPUT 570.05-577.96: With this addition, we also expect to increase by 20% our production of our differentiated, higher attribute, JustBear brand products. 
+asr:0: OUTPUT 578.52-587.65: It is also supported by conversion of one plant from the commoditized large bird deboning to a key customer QSR in the small bird segment. 
+asr:0: OUTPUT 588.79-597.92: The strong relationships we have with the key customers are giving us many opportunities to sustain our volume increase since these customers rely on us to satisfy their need for growth. 
+asr:0: OUTPUT 598.46-603.54: In addition, many of our key customers maintain a leadership position in their respective categories. 
+asr:0: OUTPUT 604.04-608.93: As a result, we are direct beneficiaries of their ability to outgrow their competition. 
+asr:0: OUTPUT 609.39-617.96: Beyond driving peer growth, our key customer strategy also promotes trust, enhances long-term relationships, and strengthens our margin structure. 
+asr:0: OUTPUT 618.80-625.33: In the US pre-tax foods business, revenue declined 23% on 26% less volume year over year. 
+asr:0: OUTPUT 626.05-634.81: A large part of this decrease, 70% of the volume was driven by schools remaining closed, partially offset by strength in the retail demand. 
+asr:0: OUTPUT 635.30-641.96: On the other hand, our margin from sales has improved 29%, driven by more favorable price and mix. 
+asr:0: OUTPUT 642.68-650.13: We continue to simplify our portfolio to improve efficiencies and shift resources towards branded growth in the retail channel. 
+asr:0: OUTPUT 650.53-660.08: Our pilgrims brand sales grew 52% and our Just Bear brand gained a new distribution resulting in dollar share growth in the retail chart. 
+asr:0: OUTPUT 661.28-670.23: Turning to cold storage data, at the end of August, broiler inventory was up 2% from the close of Q2, but down 1% from the previous year. 
+asr:0: OUTPUT 670.85-674.01: Net profit inventories were up 10% compared to last year. 
+asr:0: OUTPUT 674.49-679.94: This is not surprising considering the mixed simplification due to ongoing labor constraints seen during Q3. 
+asr:0: OUTPUT 680.00-684.50: And overall lack of worldwide financial liquidity as a result of COVID-19. 
+asr:0: OUTPUT 685.25-695.04: As some markets reopen and the pipelines are empty, we are seeing some increasing leg quarter sales during October and a reduction in inventories and upward movement in prices. 
+asr:0: OUTPUT 696.58-701.96: U.S. Poultry exports, including cows, were up 4.7% year-over-year throughout August. 
+asr:0: OUTPUT 702.96-705.15: Grower meat alone was up 3%. 
+asr:0: OUTPUT 705.91-712.89: In contrast, through Q3, our exports have increased by 14% year-over-year, outpacing the market. 
+asr:0: OUTPUT 713.49-722.82: China continues to be a significant growth driver, and we believe the impact of AFF in Southeast Asia and now Germany can provide further support to export demand. 
+asr:0: OUTPUT 724.66-732.83: As we approach the one year anniversary of China reopening to US poultry, producers are presented with a vastly different market landscape than a year ago. 
+asr:0: OUTPUT 733.39-739.38: China has solidified itself as one of the largest export destinations for poultry, second only to Mexico. 
+asr:0: OUTPUT 740.00-746.03: China's presence as a significant buyer keeps diversification of our export portfolio a high priority. 
+asr:0: OUTPUT 746.79-754.45: We have added 95 new direct clients in 2020 and have also continued to diversify our product and destination mix. 
+asr:0: OUTPUT 755.12-761.64: Sales of non-traditional export items are up 30% year over year, which strengthens the cut-out margin. 
+asr:0: OUTPUT 762.30-767.49: We enter Q4 with Optimate as we continue to place commodity items efficiently. 
+asr:0: OUTPUT 767.81-775.50: Leverage Google's overall portfolio diversity, and prioritize exceptional customer service to meet the needs of our key customers around the world. 
+asr:0: OUTPUT 776.36-781.72: After a very challenging first half in 2020, our Mexico operations delivered great results in Q3. 
+asr:0: OUTPUT 782.50-792.07: And we recorded one of the strongest Q3 in the company's history, despite the unfavorable mix impacted and added operation costs relative to the same period last year. 
+asr:0: OUTPUT 792.87-797.74: More normalized economic activities and improved supply-demand balance in the market. 
+asr:0: OUTPUT 798.88-804.68: Our increased share of non-commodity products and our very good operational performance all contribute to the results. 
+asr:0: OUTPUT 805.23-814.65: Although overall demand is improving, we remain agile and are continuing to adapt our facilities by shifting production to those channels that are experiencing better relative demand. 
+asr:0: OUTPUT 816.10-824.40: The purchase in Mexico experienced some challenges, especially in the value categories due to less traffic on retail combined with a contraction in the QSR volume. 
+asr:0: OUTPUT 824.68-831.47: But we began to see some signs of improvement towards the end of the quarter, and we believe the positive trend can be sustained into Q4. 
+asr:0: OUTPUT 832.21-835.74: We remain committed in long-term growth and demand prospect in Mexico. 
+asr:0: OUTPUT 836.06-841.68: We are continuing to invest in Aldeodea and premium Pilgrim's brand, both in fresh and in prepared. 
+asr:0: OUTPUT 841.72-848.17: As well as thinking more market sharing the modern channel which will bring more stable margins to our operations. 
+asr:0: OUTPUT 849.67-860.58: Our European chicken operations deliver an EBIT in Q3 that was 13% sequentially above Q2, with both volumes and revenues 7% and 18% higher respectively. 
+asr:0: OUTPUT 861.20-866.73: Supported by our exposure to retail and the continuous recovering food service and QSR demand in particular. 
+asr:0: OUTPUT 867.43-874.79: Relative to Q3 of 2019, EBIT was still higher 2% despite 8% lower volume and 5% lower revenue. 
+asr:0: OUTPUT 876.20-883.06: Evening of COVID-19 restructuring, the introduction of UK government incentive directs towards food service. 
+asr:0: OUTPUT 883.28-892.03: As well as a consistent improvement in food service demand within continental Europe, have all contributed to a better sequentially improved performance versus the prior quarter. 
+asr:0: OUTPUT 892.61-894.89: Who still have not yet reached prior levels. 
+asr:0: OUTPUT 896.16-900.32: Even during this challenging time, we continue to be relentless in investing in innovation. 
+asr:0: OUTPUT 900.52-912.47: Delivering labor and yield improvements, driving better efficiencies, managing our cost base, and offsetting cost increases to lean manufacturing techniques and capital investments around automation and process flow. 
+asr:0: OUTPUT 912.77-917.36: Without sacrificing the health and well-being of our team members, which remains a priority. 
+asr:0: OUTPUT 918.28-927.61: We are committed to delivering the safest work environment possible, improving the quality of our products, while achieving our sustainability agenda and burden welfare targets. 
+asr:0: OUTPUT 928.75-937.46: Our relative performance to the industry, measured as the result of the last 12 months, continues to show us improving and outpacing the average of the competition in Europe. 
+asr:0: OUTPUT 938.40-940.88: For next quarter we expect further improvements. 
+asr:0: OUTPUT 940.92-946.23: Coming from the food service and QSR segments, as these segments adapted the situation in each country. 
+asr:0: OUTPUT 946.33-951.33: And we remain vigilant and prepared to react and adapt in case market conditions change. 
+asr:0: OUTPUT 952.51-959.22: The performance of our newly acquired European pork operations have continued to improve. We need that on an upward momentum. 
+asr:0: OUTPUT 960.00-967.15: We have now been profitable on an EBITDA basis for the last six quarters in a row, with margins also increasing on a consistent basis. 
+asr:0: OUTPUT 967.79-973.49: The improvement in performance was driven by robust demand at retail, partially offset by reduction in food service. 
+asr:0: OUTPUT 973.93-981.14: Continued strength in pork exports, especially to China, as well as the implementation of operational improvements and capture of synergies. 
+asr:0: OUTPUT 981.62-985.33: Exports to China remain strong, and Europe 100% integrated. 
+asr:0: OUTPUT 985.81-989.69: Also, exported to China have double the percentage of our total pork sales. 
+asr:0: OUTPUT 990.21-995.90: And we expect demand from China to continue driving the strength and the outfall of overall exports in the near future. 
+asr:0: OUTPUT 996.86-1004.52: All of our European fresh pot for slips are approved to export from China, so we are well positioned to benefit from those opportunities. 
+asr:0: OUTPUT 1005.75-1012.21: We also continue to evolve in our strategy and we will significantly increase our volumes with a new key customer in the next quarter. 
+asr:0: OUTPUT 1013.49-1017.16: Integration of the assets is on track to expectations. 
+asr:0: OUTPUT 1017.50-1026.03: Over the next few years, we expect to generate an EBITDA improvement to achieve a level that is competitive with leading companies with similar portfolios. 
+asr:0: OUTPUT 1026.65-1036.62: We have expanded our distribution capability for the newly acquired European assets through some recent wins to increase our retail exposure and strengthen our partnership with key customers. 
+asr:0: OUTPUT 1037.32-1043.80: We are optimistic about building upon our operational improvements by continuing to optimize our manufacturing footprint. 
+asr:0: OUTPUT 1043.82-1049.09: Extract best-in-class operational excellence, capitalize export opportunities,. 
+asr:0: OUTPUT 1049.81-1059.48: Optimize the portfolio of channels, segments, and products, as well as strengthening our growth business with key customers to drive innovation in value-added and higher margin areas. 
+asr:0: OUTPUT 1060.16-1067.71: We have a great team in Europe dedicated to generating the best possible relative results by focusing on factors within our control. 
+asr:0: OUTPUT 1068.13-1071.95: While ensuring and protecting the safety and health of our team members. 
+asr:0: OUTPUT 1073.31-1079.88: Corn prices have been rising since August, driven higher by a combination of stronger than expected export demand. 
+asr:0: OUTPUT 1080.00-1083.64: And smaller than expected old crop ending stocks in the US. 
+asr:0: OUTPUT 1084.28-1089.29: The FDA is projecting new crop ending stocks at 2.17 billion bushels. 
+asr:0: OUTPUT 1089.31-1095.72: Versus 1.99 billion last year, which includes a 550 million bushels increase in export demand. 
+asr:0: OUTPUT 1096.42-1105.79: The current corn crop is projected at 14.7 billion bushels, the highest in four years, and over 1 billion bushels larger than last year. 
+asr:0: OUTPUT 1106.33-1113.63: Although corn prices have risen from the lows we saw in August, prices are very similar to where they were this time last year. 
+asr:0: OUTPUT 1114.97-1123.14: Soybean meal prices have also risen since August, driven higher by larger than expected export demand, primarily to China. 
+asr:0: OUTPUT 1123.76-1129.87: USDA is projecting the current soybean crop at 4.3 billion bushels, up over 700 million from last year. 
+asr:0: OUTPUT 1130.45-1138.28: Despite a large increase in production, USDA is projecting new crop ending stocks at 290 million bushels, the lowest level in four years. 
+asr:0: OUTPUT 1139.00-1146.69: The uncertainty over the size of the Chinese import program is causing increasing uncertainty and volatility in the oil and gas market globally. 
+asr:0: OUTPUT 1147.31-1152.89: Wheat prices in Europe have also risen recently, despite the larger than expected Russian wheat crop. 
+asr:0: OUTPUT 1152.91-1157.32: And projected increased supply in other major wheat exporters like Australia. 
+asr:0: OUTPUT 1157.84-1166.11: A slow start to the planting season in Russia and larger than expected export demand out of the US are contributing to the rise prices in the wheat market. 
+asr:0: OUTPUT 1167.29-1173.89: On the chicken production, according to USDA, Q3 was down 0.5% relative to Q3 2019. 
+asr:0: OUTPUT 1174.11-1177.52: As increased live weights did not affect head count reductions. 
+asr:0: OUTPUT 1178.04-1186.55: The industry continues to maintain a larger layer flock with current levels 4.4% above last year, in line with the trends observed in Q1 and Q3. 
+asr:0: OUTPUT 1187.27-1193.51: The industry has also managed to reduce the average age of laying hens, promoting a younger, more efficient breeding. 
+asr:0: OUTPUT 1194.37-1202.94: This has allowed the industry to maintain flexibility to manage supply of eggs in the short term while enabling growth in the long term as the demand environment improves. 
+asr:0: OUTPUT 1203.70-1218.94: Overall, the trend has shown a slowing of bullet placement growth, which is in line with expectations, given that most of the bullet placement increases in 2019 and early to 2020, we're expected to be supportive of new capacity that has come online over that period. 
+asr:0: OUTPUT 1220.06-1232.19: From Q2 to Q3, COVID-19 related restrictions have slowly been rolled back with many businesses and restaurants opening under modified environments to protect worker and consumer health. 
+asr:0: OUTPUT 1233.33-1242.42: Throughout this process, consumers have proven highly adaptable to the new normal and have continued to modify their shopping and spending habits in response to the new normal environment. 
+asr:0: OUTPUT 1243.26-1253.05: This new consumer environment favors the retail channel, as many consumers are still required to work from home and choosing to limit exposure to potentially more crowded areas. 
+asr:0: OUTPUT 1253.57-1259.40: As a result, retail demands for chicken, like that of all proteins, have remained supported throughout the quarter. 
+asr:0: OUTPUT 1260.00-1263.52: While food service demand still trails below years-ago level. 
+asr:0: OUTPUT 1263.70-1271.19: This channel has proven highly adaptable and continues to improve each month from the low points in April led by the QSR segment. 
+asr:0: OUTPUT 1272.51-1278.38: Entering Q4, the USDA expects production to be flat for the quarter on a year-over-year basis. 
+asr:0: OUTPUT 1279.20-1286.71: Before 2020, 21 in which the US expect oil production to grow 0.9% versus 2020. 
+asr:0: OUTPUT 1287.63-1296.38: High unemployment and consumer uncertainty contribute to a fluid macroenvironment and the fallout effects of COVID-19 will impact the channels differently. 
+asr:0: OUTPUT 1297.18-1299.72: We expect the restriction of restaurant capacities. 
+asr:0: OUTPUT 1300.00-1312.95: Social distancing guidelines, consumer concern for individual health, and the adaptation of consumers to their personal economic situations to continue favoring the increased frequency of at-home meals. 
+asr:0: OUTPUT 1313.75-1322.16: Since chicken continues to be one of the most affordable and versatile proteins, retail demand is likely to remain above year-ago levels. 
+asr:0: OUTPUT 1322.78-1329.79: When we expect overall food service demand to remain more volatile and remain below year-ago levels, at least in the near term. 
+asr:0: OUTPUT 1330.27-1337.82: QSR's ability to adapt quickly to the new environment in a positive sign for the chicken industry moving from late 2020 to 2020. 
+asr:0: OUTPUT 1340.00-1348.15: Our strategy is designed to adapt well to the challenging macroeconomic conditions while minimizing the impact from volatility in market conditions. 
+asr:0: OUTPUT 1349.63-1360.28: While we are already well balanced in terms of our bird size exposure, we will remain diligent in seeking opportunities to incrementally diversify our product mix and reduce the commodity portion of our portfolio. 
+asr:0: OUTPUT 1360.38-1368.79: By increasing the number of different products to key customers, while optimizing our existing operations by pursuing operational improvement targets. 
+asr:0: OUTPUT 1369.49-1375.74: Our key customer approaches strategic and creates the basis for further accelerated growth in important categories. 
+asr:0: OUTPUT 1375.76-1386.27: By promoting more customized, high-quality, innovative products to give us a clear, long-term, sustainable competitive advantage while further improving the resilience to market situation. 
+asr:0: OUTPUT 1387.71-1391.07: With that, let's turn to additional details to our financials. 
+asr:0: OUTPUT 1391.43-1400.46: Our SG&A in the third quarter was higher versus a year ago as we improved the efficiencies of our expenses, but increased support for expanding the Just Bear brand nationally. 
+asr:0: OUTPUT 1400.86-1407.81: And the investment for our new prepared foods products, both in the U.S. And Mexico, as well as the inclusion of the new assets in Europe. 
+asr:0: OUTPUT 1408.31-1415.76: Also included in the reported SG&A is our $50 million contribution to the Hometown Strong initiative and the DOJ agreement. 
+asr:0: OUTPUT 1417.46-1422.54: We will continue to prioritize our capital spending plan this year to optimize our product mix. 
+asr:0: OUTPUT 1422.76-1429.03: It is aimed at improving our ability to supply innovative, less commoditized products and strengthening partnerships with key customers. 
+asr:0: OUTPUT 1429.69-1437.98: Even during these uncertain times, why we continue to evaluate all CAPEX projects and defer those we deem non-essential. 
+asr:0: OUTPUT 1438.36-1449.33: We reiterate our commitment to investing on strong return on capital employee projects that will improve our operational efficiencies and tailor customer needs to further solidify competitive advantage for PIVX. 
+asr:0: OUTPUT 1450.33-1452.39: Our balance sheets continue to be robust. 
+asr:0: OUTPUT 1452.41-1460.60: Given our relentless emphasis on cash flows from operating activities, focus on management of working capital and discipline investment in high return projects. 
+asr:0: OUTPUT 1461.16-1466.71: Our liquidity position remains very strong with more than 1.3 billion dollars in total cash on availability. 
+asr:0: OUTPUT 1467.39-1475.90: We have no short-term immediate cash requirements, with our bonds maturing in 2025 and 2027 and our terminal maturing in 2022. 
+asr:0: OUTPUT 1477.20-1485.09: During the quarter, our net debt was $1.9 billion, the lowest since 2016, and a leverage ratio for 2.5 times less 12-month EBITDA. 
+asr:0: OUTPUT 1486.25-1495.52: Our leverage remains at a manageable level and we expect to continue to produce positive cash flows this year, increasing our financial capability to pursue strategic actions. 
+asr:0: OUTPUT 1496.00-1501.12: We expect 2020 interest expense of around $130 to $140 million. 
+asr:0: OUTPUT 1502.14-1509.99: We have a strong balance sheet and a leverage that is within our target, which are supportive for us to act on great opportunities during this uncertain time. 
+asr:0: OUTPUT 1510.59-1520.20: We will remain focused on exercising great care in ensuring that we create shareholder value by optimizing our capital structure while preserving the flexibility to pursue a growth strategy. 
+asr:0: OUTPUT 1520.50-1527.47: I will continue to consider and evaluate all relevant capital allocation strategies that will match the pursuit of our growth strategy. 
+asr:0: OUTPUT 1527.49-1531.53: And we continue to review each prospect accordingly to our value creating standards. 
+asr:0: OUTPUT 1532.51-1536.46: Operator, this concludes our prepared remarks. Please open the call for questions. 
+asr:0: OUTPUT 1540.12-1549.91: We will now begin the question and answer session. In the interest of allowing equal access, we request that you limit your questions to two, then rejoin the queue for any follow-up. 
+asr:0: OUTPUT 1550.51-1560.18: To ask a question, you may press Star then 1 on your touch-tone phone. If you are using a speakerphone, please pick up your handset before pressing the keys to minimize background noise. 
+asr:0: OUTPUT 1560.82-1567.61: To withdraw your question, please press star then 2. At this time, we will pause momentarily to assemble our roster. 
+asr:0: OUTPUT 1572.45-1576.54: The first question is from Benjamin Taylor with Barclays. Please go ahead. 
+asr:0: OUTPUT 1581.36-1586.49: Hi, good morning. How you doing? This is Antonio Hernandez on behalf of Ben Floyd. 
+asr:0: OUTPUT 1587.55-1593.09: My question is regarding COVID-19. How is your current level of absenteeism at plans? 
+asr:0: OUTPUT 1593.13-1598.96: How has that evolved in recent weeks, considering the continuously high number of cases in the U.S.? 
+asr:0: OUTPUT 1599.40-1610.41: And also if you can provide some of the kind of a growing rate of protective measures related to COVID-19 during the quarter and what do you see going forward. Thank you. 
+asr:0: OUTPUT 1611.71-1619.06: Yeah, thank you and good morning. First, as we face this global coronavirus pandemic, we have been guided by three principles. 
+asr:0: OUTPUT 1619.84-1623.18: First, a non-compromised commitment to the safety of our team members. 
+asr:0: OUTPUT 1624.14-1636.84: Second, recognizing and embracing our responsibility to provide quality food for the country, and of course, endeavoring to provide continuing employment opportunities and benefits to our team members during a time of unprecedented economic upheaval. 
+asr:0: OUTPUT 1637.42-1643.92: So the direct costs that are related to the extra cleaning in our production in common areas. 
+asr:0: OUTPUT 1644.42-1648.13: We also provide the PP&E including the masks and face shields. 
+asr:0: OUTPUT 1648.25-1649.73: To all of our team members. 
+asr:0: OUTPUT 1649.95-1658.46: And we install physical barriers in our production area. And of course, we are maintaining social distancing wherever areas we can. 
+asr:0: OUTPUT 1658.94-1665.73: We do more than 10,000 barriers within the first 30 days of the pandemic and we continue to upgrade those barriers. 
+asr:0: OUTPUT 1666.37-1675.96: We also installed the dual technology UV and bipolar ionization in every plant to filter the air and neutralize potential viruses. 
+asr:0: OUTPUT 1677.02-1686.61: As I mentioned, we are offering free live health online services for all of our team members that allow for virtual doctor visits at zero cost. 
+asr:0: OUTPUT 1687.13-1695.46: And above all CDC guidelines, we remove the vulnerable team members from facilities with full pay and benefits during community outbreak. 
+asr:0: OUTPUT 1695.52-1702.02: And that is creating some challenges to our operations because by removing those people, we have less people at our plants. 
+asr:0: OUTPUT 1703.22-1705.69: The situation is very fluid. 
+asr:0: OUTPUT 1706.31-1715.62: It varies from plant to plant, but over the last months, we have increased our staffing to close to the levels that we were before COVID. 
+asr:0: OUTPUT 1716.48-1722.24: So we are already running a much better mix that we were during the Q2. 
+asr:0: OUTPUT 1723.02-1729.21: And we are seeing a very good increase in our abstentive levels. 
+asr:0: OUTPUT 1729.81-1736.42: As people are more familiar with what we are doing as we're gaining the trust of the entire communities. 
+asr:0: OUTPUT 1736.78-1742.24: People are less reluctant to return to work. 
+asr:0: OUTPUT 1742.80-1748.51: And with that, we've been improving our ability to execute the optimal mix. 
+asr:0: OUTPUT 1749.43-1755.48: Of course, we're also working with our key customers to simplify our mix to create a more optimal footprint. 
+asr:0: OUTPUT 1756.02-1765.53: And with the frequent communication with them, we are ensuring they are team members. We expect to return to the optimal operation in this work. 
+asr:0: OUTPUT 1771.77-1773.37: Thanks a lot. I'm going to work some news. 
+asr:0: OUTPUT 1780.00-1785.55: With Bank of Montreal. Please go ahead. Hey, good morning everyone. Morning, Cain. 
+asr:0: OUTPUT 1786.63-1791.55: Now just two questions, one is as you change your mix, what is... 
+asr:0: OUTPUT 1791.65-1801.54: What was the mix between big, small, and medium last year and what do you think it's going to be now and what do you think it's going to be a year from now? 
+asr:0: OUTPUT 1801.56-1803.48: As you adjust your product mixes. 
+asr:0: OUTPUT 1805.43-1810.73: And we are well balanced between small birds, tree pack, and large bird depot. 
+asr:0: OUTPUT 1811.31-1817.04: What we are doing is, as the demand has been shifting to more retail. 
+asr:0: OUTPUT 1817.24-1821.50: We've been shifting our operations. Also with the growth of QSR. 
+asr:0: OUTPUT 1821.52-1826.21: We have also adapted to those conditions. What we are doing for 2021. 
+asr:0: OUTPUT 1826.23-1836.40: Is to first move that plant from big birdie boning to small birdie boning, which will increase our presence in that segment. 
+asr:0: OUTPUT 1836.78-1841.44: We are also doubling the capacity in our Minnesota plant. 
+asr:0: OUTPUT 1841.46-1853.11: To comply or support the growth of our key customers and our Just Fair brand, which has doubled the sales in the online channel over this quarter. 
+asr:0: OUTPUT 1854.09-1863.32: Looking into overall portfolio, we moved from 46% of our total sales in retail to around 51%. 
+asr:0: OUTPUT 1863.34-1866.77: Just in 2020 with small changes in our operations. 
+asr:0: OUTPUT 1867.43-1869.17: Or next you expect. 
+asr:0: OUTPUT 1869.19-1878.66: 2% increase in that portfolio to the retail, and a 1% to 2% increase in the small board with those two conversions. 
+asr:0: OUTPUT 1881.32-1885.31: My next question is, can you talk about the sustainability of the Mexican margins? 
+asr:0: OUTPUT 1886.35-1889.95: I did see that there was a little bit of a FX benefit. 
+asr:0: OUTPUT 1890.37-1897.06: How do you think about the Mexican operation? I think you did say that it's still continuing the momentum into the fourth quarter. 
+asr:0: OUTPUT 1897.48-1902.34: And how do you think about it for 2021? How do we frame it in our minds? 
+asr:0: OUTPUT 1903.34-1904.68: Yeah, sure can. 
+asr:0: OUTPUT 1904.70-1914.63: We've been talking about Mexico over the last year that they are very volatile, quarter over quarter, but they're more stable if you take a longer period of time or within a year. 
+asr:0: OUTPUT 1915.08-1921.28: What happened in the first semester in Mexico was a complete imbalance between supply and demand. 
+asr:0: OUTPUT 1921.36-1925.39: So the industry increased supply during the first semester. 
+asr:0: OUTPUT 1925.79-1932.11: And at the same time demand because of the COVID-19 really create a challenging environment. 
+asr:0: OUTPUT 1932.49-1936.32: As you remember in Mexico, there was no... 
+asr:0: OUTPUT 1937.24-1941.98: Support from the government with the COVID-19 like we had in the US and Europe. 
+asr:0: OUTPUT 1942.18-1945.61: There's no governmental stimulus or unemployment benefits. 
+asr:0: OUTPUT 1945.83-1951.43: It created a sharp slowdown and recession in the region. 
+asr:0: OUTPUT 1951.51-1957.52: Which really affected the demand, both in the food service and retail. 
+asr:0: OUTPUT 1957.82-1966.65: While within the US, we saw an increase in retail compensating, at least partially, the shutdown in food service. That didn't happen in Mexico. 
+asr:0: OUTPUT 1966.69-1970.07: And that's why the supply and demand was completely out of balance. 
+asr:0: OUTPUT 1970.69-1973.93: Has the industry adapted their supply? 
+asr:0: OUTPUT 1973.95-1980.54: For the Q3 and we at Pilgrims adapted to that situation as well. 
+asr:0: OUTPUT 1980.62-1984.00: We reduce our costs and we also cut production. 
+asr:0: OUTPUT 1984.36-1990.55: The supply and demand improved a lot and we saw the rebound in the food service and demand in Q3. 
+asr:0: OUTPUT 1990.85-1995.44: And now we have very stable prices during this time in Mexico. 
+asr:0: OUTPUT 1996.38-1999.72: We expect this to continue during Q4. 
+asr:0: OUTPUT 2000.00-2009.53: Q4 has always been a stronger quarter for Mexico with the festivities. We don't know at which point that will be reduced because of the. 
+asr:0: OUTPUT 2009.55-2010.97: The COVID restrictions. 
+asr:0: OUTPUT 2011.37-2014.05: We've seen some increasing cases in Mexico. 
+asr:0: OUTPUT 2014.95-2023.76: So there could be some more restrictions in the Q4, but given the supply and demand situation that we are in right now, the results are sustainable. 
+asr:0: OUTPUT 2024.16-2031.65: Now, for Q1, we expect the industry to increase production to adequate supply and demand. 
+asr:0: OUTPUT 2032.03-2034.17: And the return to more normal levels. 
+asr:0: OUTPUT 2035.26-2043.26: Mexico is really volatile quarter over quarter again, but we expect to be very stable year over year. 
+asr:0: OUTPUT 2043.36-2048.57: Of course, our strategy is supportive of the growth to increase the higher margin differentiate products as well. 
+asr:0: OUTPUT 2049.01-2056.02: We saw a little bit of impact in the prepared foods, especially on the more affordable products during Q1. 
+asr:0: OUTPUT 2056.30-2061.86: But we continue to invest and highly differentiate that Pilgrim's products continue to sell really well. 
+asr:0: OUTPUT 2062.32-2071.65: Longer term, despite the volatility, Mexico is a growing economy and as the population increases their disposable income, it leads to a significant growth in protein consumption. 
+asr:0: OUTPUT 2073.83-2076.96: I really appreciate that answer. Thank you, okay. 
+asr:0: OUTPUT 2080.00-2084.60: Our next question is from Ben Bienvenue with Steven Inc. Please go ahead. 
+asr:0: OUTPUT 2086.69-2090.59: Hey, good morning. 
+asr:0: OUTPUT 2091.41-2107.65: You touched on it in your opening comments with ASF and China and Germany. I want to ask on Germany more specifically. I would think that's a nice boon for the tulip business. Just curious on what you're seeing in that business, both as it relates to the impact on the domestic market and then an uptick in potential demand from that market as well. 
+asr:0: OUTPUT 2107.73-2110.63: And how you think you're positioned to capture that benefit. 
+asr:0: OUTPUT 2112.35-2116.84: Yeah, thank you, Ben. The operations in Europe are more focused on the retail. 
+asr:0: OUTPUT 2117.08-2126.67: So we produce most of our products in UK for the retail UK market. And because of the high welfare, we command a premium in that region. 
+asr:0: OUTPUT 2127.15-2130.15: The big competition, as you refer,. 
+asr:0: OUTPUT 2130.17-2139.08: Is on the food service sector of imported products from Poland and Germany mainly and Spain on the port side. 
+asr:0: OUTPUT 2140.20-2146.13: Have the Germans have these issues with their production and because of the ban in China. 
+asr:0: OUTPUT 2146.15-2151.07: It actually increases the sales in the UK market. 
+asr:0: OUTPUT 2153.09-2157.58: It also created the opportunity for our UK products to be sold into China. 
+asr:0: OUTPUT 2158.12-2163.96: So what we saw is that on the, what we call fifth quarter products,. 
+asr:0: OUTPUT 2163.98-2169.97: Significant increase in pricing but on the normal products like loins and others. 
+asr:0: OUTPUT 2170.05-2174.77: We see the price is more stable because it's a zero-sum game at the end of the day. 
+asr:0: OUTPUT 2175.76-2180.62: So it increases the opportunity to China, so that was welcome. 
+asr:0: OUTPUT 2181.06-2186.99: I think our sales have, like we mentioned, have doubled during Q3 and we're seeing some very stable pricing. 
+asr:0: OUTPUT 2187.69-2192.41: But it also includes the competition in the food service segments in UK. 
+asr:0: OUTPUT 2195.30-2203.64: Okay, great. My second question is related to grain. And apologies if I missed this in your opening comment. I did hear your overview of the market. 
+asr:0: OUTPUT 2204.04-2210.43: Could you talk about how you're positioned relative to the markets? Are you more hand-in-mouth at the moment? Do you have any bases secured? 
+asr:0: OUTPUT 2210.79-2217.32: Any color you could offer there on how you're positioned through the balance of fourth quarter and into next year would be helpful. 
+asr:0: OUTPUT 2219.02-2224.88: Thank you for the question. Obviously, we've seen prices of corn and soybean meal increase in the last few months. 
+asr:0: OUTPUT 2225.25-2235.90: Which has been the result of a few factors. For corn, we've seen a reduction from the supply side with USDA reporting 6 million fewer planted acres than they originally estimated back in March. 
+asr:0: OUTPUT 2236.44-2242.98: Delta's final stocks for 2019 ended up being 200 million bushels less than was expected when the final counting was done. 
+asr:0: OUTPUT 2243.62-2252.03: On the current crop, we actually, for the acres that are planted, see pretty good yields, above trendline yields, so it's not an issue on the supply side in terms of yield production. 
+asr:0: OUTPUT 2252.67-2257.82: But on the demand side, we've also seen much bigger exports, demand primarily driven by China. 
+asr:0: OUTPUT 2258.20-2266.29: Still, the USDA is projecting a carrier out carry out around 2.1 billion bushels and that includes a 30% increase in export demand from last year. 
+asr:0: OUTPUT 2266.91-2272.81: So even if export demand ends up higher than what USGS is projecting, corn stocks should still be in line with previous years. 
+asr:0: OUTPUT 2273.55-2279.04: Soybeans USDA is projecting a 290 million bushel carryout, which would be the lowest carryout in five years. 
+asr:0: OUTPUT 2279.52-2284.06: This projection, though, includes a 31 percent increase in export demand driven by China. 
+asr:0: OUTPUT 2284.82-2299.22: In addition to increased export demand, Argentina, which is one of the world's largest oil seed exporting countries, is in the midst of a historic economic crisis that's just causing farmers there to hold back available supplies from the market, adding more pressure to the U.S. To meet this demand. 
+asr:0: OUTPUT 2299.86-2307.55: We believe the market is likely to feel anxious about U.S. Soybean supplies until there's a resolution to this currency situation in Argentina. 
+asr:0: OUTPUT 2307.59-2310.95: Or until South American supplies can be available to meet this demand. 
+asr:0: OUTPUT 2311.77-2320.94: In terms of how we're positioned, we've always said that our hedging strategy is adaptive to the market conditions and the risk we see, and we feel very comfortable with where we are in corn and soy. 
+asr:0: OUTPUT 2321.42-2325.17: We do recognize the risk to sogon supplies in the US and our positions reflect that. 
+asr:0: OUTPUT 2328.77-2331.41: Thanks and best of luck. 
+asr:0: OUTPUT 2341.76-2346.59: The next question is from Michael Peikin with Cleveland Research. Please go ahead. 
+asr:0: OUTPUT 2348.03-2361.02: Yeah, hi. Good morning. I just wanted to touch base a little bit more in terms of, you know, the move, I guess, you know, into retail. And, you know, some of that Big Bird product, is that being chopped up and put into trays? 
+asr:0: OUTPUT 2361.04-2362.90: And how is that impacting? 
+asr:0: OUTPUT 2362.92-2365.31: You know, some of the margins on the commodity business. 
+asr:0: OUTPUT 2367.51-2380.66: Yes, Mike. There's a lot of product from the Big Birds, especially during promotional season, seasonality during the summer, that from the Big Birds end up being put in the tray to be sold in the retailers. 
+asr:0: OUTPUT 2381.14-2383.38: We continue to do that. 
+asr:0: OUTPUT 2383.40-2391.25: The challenge to the industry is that we need to have the labor available and the facilities available to do more of that. 
+asr:0: OUTPUT 2391.33-2399.58: And that's why the industry has not increased more the production to the tray pack as we want. 
+asr:0: OUTPUT 2399.64-2401.66: For as the demand continues to grow. 
+asr:0: OUTPUT 2402.18-2407.25: It's also because of that that we are increasing the capacity in our Minnesota place. 
+asr:0: OUTPUT 2408.09-2417.34: So as of today, yes, we are buying big bar meat and we continue to put it on the tray, especially during Saturdays. And I think the whole industry is doing that. 
+asr:0: OUTPUT 2420.00-2428.95: Okay, great. And then my second question is, you know, just looking at the, you mentioned that your absentee rates are starting to go down and you're starting to get back to your normal mix. 
+asr:0: OUTPUT 2429.21-2431.81: In terms of some of the bones, dark meat. 
+asr:0: OUTPUT 2432.19-2434.99: Do you, are you starting to return that? 
+asr:0: OUTPUT 2435.08-2439.76: What could that mean for the lead quarter prices? 
+asr:0: OUTPUT 2439.78-2446.69: And the most pressure cannot help or the fact that China is taking more pork cannot help with headquarters that are. 
+asr:0: OUTPUT 2446.75-2449.73: Why haven't white quarter prices moved if there's more to bones? 
+asr:0: OUTPUT 2450.15-2456.64: Dark meat potentially being produced and it seems like at the very least China is taking more U.S. Pork. 
+asr:0: OUTPUT 2458.52-2465.05: Yes, you're right Mike. Because of the absenteeism and also the food service industry in the US. 
+asr:0: OUTPUT 2465.27-2473.21: The industry produced 3% more leg quarters in July and August than the same period last year. 
+asr:0: OUTPUT 2473.39-2478.38: Despite a lower total production that put a lot of pressure in the lack of pricing. 
+asr:0: OUTPUT 2479.50-2483.34: As we are seeing more the reopening of the food service. 
+asr:0: OUTPUT 2483.88-2492.75: And as we are seeing the absenteeism and the staffing of our clients increasing for us and for the whole industry, we are seeing more deboning. 
+asr:0: OUTPUT 2493.03-2499.54: Already at levels comparable to last year in terms of plutonium, which will reduce the pressure in the lag particles. 
+asr:0: OUTPUT 2500.08-2506.37: Of course, China has been also more active in the lag quarter market over the last month. 
+asr:0: OUTPUT 2506.77-2510.17: And we're seeing that in the blackwater inventory. 
+asr:0: OUTPUT 2510.41-2516.34: That was up on a on a sequential basis up to August, but we are seeing a reduction. 
+asr:0: OUTPUT 2516.70-2523.38: And also the inventory today is down 9% compared to the peak Q1 average that we have. 
+asr:0: OUTPUT 2523.44-2531.69: So those two factors can contribute to the reduction in the light water production, which is a commodity item, as I mentioned. 
+asr:0: OUTPUT 2531.97-2534.11: And the China interest. 
+asr:0: OUTPUT 2534.19-2546.53: I think we saw over the last weeks, although not today, the increase in the oil prices and the reduction in the dollar, which increased the. 
+asr:0: OUTPUT 2546.55-2554.27: Availability of dollars from the developing countries which also increases the demand for black water. 
+asr:0: OUTPUT 2554.43-2561.62: So what could help on the left quarter going forward is both on supply and demand. On supply is exactly what you said. 
+asr:0: OUTPUT 2561.64-2565.93: Left leg quarters because of the improvement in labour efficiencies. 
+asr:0: OUTPUT 2565.95-2576.42: And the more sales in the domestic market on the food service and on demand because of low prices and because of more affable income in the developing economy. 
+asr:0: OUTPUT 2587.07-2591.25: The next question is from Peter Galbo with Bank of America. Please go ahead. 
+asr:0: OUTPUT 2593.55-2595.76: Thanks for taking the question. 
+asr:0: OUTPUT 2597.58-2607.15: Fabio, as I'm thinking about it, the small bird and resale channels obviously have been tremendously profitable for you guys during this time period. 
+asr:0: OUTPUT 2607.93-2616.24: And with the plant conversion coming. But with commodity Big Bird remaining in the cutoff value you have here, remaining under such pressure,. 
+asr:0: OUTPUT 2616.36-2622.46: Just at what point does it make sense to start talking about converting another plant? 
+asr:0: OUTPUT 2623.28-2635.68: Whether that's to retail or to small bird, because it just seems like that big bird portion is not going to improve without more capacity either being converted or taking out of the market in some capacity. 
+asr:0: OUTPUT 2637.80-2642.48: I think the decision to convert the plan is a more long-term decision. 
+asr:0: OUTPUT 2642.98-2647.61: And we always make those decisions combined with our key customer strategy. 
+asr:0: OUTPUT 2647.73-2655.30: As we see the demand of these key customers growing, we take action in our portfolio. 
+asr:0: OUTPUT 2655.48-2664.97: And that makes a lot of sense for us to do that conversion right now from that operation from big bird to small bird to support this growth. 
+asr:0: OUTPUT 2665.35-2673.91: I think, again, you need to look into a more broader, long-term perspective. We continue to expect the food service sector to rebound. 
+asr:0: OUTPUT 2674.51-2676.90: If you look at the food service sector,. 
+asr:0: OUTPUT 2677.14-2684.74: Today the food service restaurants are down 13% year over year and that is impacting the big party voting for sure. 
+asr:0: OUTPUT 2685.17-2687.73: While the QFRs are up 9%. 
+asr:0: OUTPUT 2688.53-2692.77: As we go to a more normal operations, as we see. 
+asr:0: OUTPUT 2692.87-2699.12: Maybe the development of vaccines, we don't know when that's going to happen or we see more openings of the restaurants. 
+asr:0: OUTPUT 2699.40-2710.45: We expect the food service restaurants, especially on the full service, to regain some market share that they are not operating today. 
+asr:0: OUTPUT 2710.57-2712.99: So I think it's a long-term decision. 
+asr:0: OUTPUT 2713.55-2721.20: It's also a very difficult decision to move from Big Bird to a smaller, because we have. 
+asr:0: OUTPUT 2721.26-2726.15: And we have the feed mills, it's all built to that specific burden. 
+asr:0: OUTPUT 2726.33-2733.17: Our plants in the United States are really customized to that specific segment. So any conversion. 
+asr:0: OUTPUT 2733.81-2742.66: It really requires significant capital and requires some significant changes in the overall supply chain. 
+asr:0: OUTPUT 2742.68-2746.03: Both starting from the growers, your feed mills,. 
+asr:0: OUTPUT 2746.05-2747.51: And your field operations. 
+asr:0: OUTPUT 2748.07-2753.65: So it's a high capital investment that needs to be supported for the long run. 
+asr:0: OUTPUT 2753.91-2757.66: So that's why we don't see a lot of conversions in our industry. 
+asr:0: OUTPUT 2757.92-2765.63: Of course, if this situation continues for a longer period of time, you can see some conversions. 
+asr:0: OUTPUT 2766.57-2779.58: I think also it's important to know that some other players don't have the key customer relationships that we have. And moving from the big bird to the small bird or to the case ready require a customer. 
+asr:0: OUTPUT 2780.02-2782.74: And a key customer to support. 
+asr:0: OUTPUT 2783.34-2788.35: And since they don't have those relationships, it's harder for them to do some convergence. 
+asr:0: OUTPUT 2790.77-2799.82: No, that's helpful. And then maybe just to follow up, given where the balance sheet is now and something you talked about in your prepared remarks,. 
+asr:0: OUTPUT 2801.18-2811.05: How should we think about M&A potential, maybe from a geographic perspective? Or does it make sense to get bigger in pork in Europe and going into 2021? 
+asr:0: OUTPUT 2811.77-2818.14: Just any help there and then maybe you can also comment on any updates on your CFO search. Thanks very much. 
+asr:0: OUTPUT 2819.88-2822.86: In terms of strategy, I think our strategy continues the same. 
+asr:0: OUTPUT 2823.08-2832.13: And our growth strategy continues intact and as I mentioned we have a very strong balance sheet. We look into increasing our prepared foods operation and our branded operation. 
+asr:0: OUTPUT 2832.21-2837.84: To create a more balanced portfolio. 
+asr:0: OUTPUT 2837.88-2844.68: And we're also looking for chicken assets where we can extract more value from operational efficiencies. 
+asr:0: OUTPUT 2845.39-2852.57: We are seeing targets both in the U.S. And outside the U.S., geographical diversification and to growth in Europe. 
+asr:0: OUTPUT 2853.15-2857.86: And we will evaluate all alternatives to our value creation standards. 
+asr:0: OUTPUT 2859.06-2863.80: In terms of the CFO, we are in the process of... 
+asr:0: OUTPUT 2863.82-2869.47: Finding another CFO, we already engage recruiting firms. 
+asr:0: OUTPUT 2869.85-2872.77: And we should have some news in the near future. 
+asr:0: OUTPUT 2874.91-2881.62: Great, thanks very much guys. 
+asr:0: OUTPUT 2881.64-2885.11: Adam Samuelson with Goldman Sachs & Co. Please go ahead. 
+asr:0: OUTPUT 2886.57-2889.49: Thank you. Good morning, everyone. 
+asr:0: OUTPUT 2890.67-2895.54: So, maybe first just a clarification or a little more detail on the... 
+asr:0: OUTPUT 2895.66-2903.00: Of the Minnesota plant for case ready and the conversion of the Texas plant to small bird from big bird. 
+asr:0: OUTPUT 2904.44-2911.37: What's the net impact on your production volume and what's the capital cost of those projects? 
+asr:0: OUTPUT 2912.83-2917.14: Yeah, in terms of total volume, I think we should be just a little bit up. 
+asr:0: OUTPUT 2917.26-2926.43: We expect to grow in line with USDA expectations and the industry for 2021, which is a little bit lower than 1%. 
+asr:0: OUTPUT 2926.99-2930.57: As we have more birds in Minnesota,. 
+asr:0: OUTPUT 2930.89-2937.50: But we also reduce the weight in our operation on the big bird that we are transforming to a small bird. 
+asr:0: OUTPUT 2937.58-2942.36: So we expect to be for 2021 in line with those two. 
+asr:0: OUTPUT 2942.78-2948.49: In terms of investment, it's not very significant to our total capex. 
+asr:0: OUTPUT 2949.61-2952.41: As the conversion of the small bear plant. 
+asr:0: OUTPUT 2952.79-2956.22: It's not, it's a simpler conversion. 
+asr:0: OUTPUT 2956.84-2963.56: Of course, that QSR requires some DSIs, which is portioning equipment and some marination equipment. 
+asr:0: OUTPUT 2963.60-2972.61: And we're going to invest in automation in that plant as well. Today is a manual deboning operation and we're going to invest in automated. 
+asr:0: OUTPUT 2973.21-2977.62: The investment is close to $20 to $25 million in that operation. 
+asr:0: OUTPUT 2978.10-2979.80: And in the... 
+asr:0: OUTPUT 2979.84-2988.43: In the case of the case value operation, it's close to $70 million. So overall, it is a total of $100 million that we're going to invest in those two conversions. 
+asr:0: OUTPUT 2989.81-2999.76: Okay, that's a tough call there. And the follow-up was I just want to make sure I heard something right from the prepared remarks. He talks about the prepared food business. 
+asr:0: OUTPUT 3000.00-3004.44: In the U.S. Declining 26 percent, I think is what I heard. 
+asr:0: OUTPUT 3005.35-3012.61: I'm hoping to expand on that. That's a business that I think has had a few more challenges over the years. 
+asr:0: OUTPUT 3013.85-3021.76: Is it really just a question of return to school and food service traffic, or how do we think about that business or margin profile moving forward? 
+asr:0: OUTPUT 3022.66-3024.74: Yeah, that's exactly it. 
+asr:0: OUTPUT 3024.97-3032.59: In our prepared food business we have a strong brand which is the Pierce brand that is mainly a food service brand. 
+asr:0: OUTPUT 3032.65-3037.20: We also are very strong in the school with our Gold Kiss brand. 
+asr:0: OUTPUT 3037.56-3042.96: Both those segments are the ones that are most affected by the COVID-19. 
+asr:0: OUTPUT 3043.34-3052.75: The non-commercial food service that includes schools were down 66% at Q2 and now they are down 43%. 
+asr:0: OUTPUT 3052.95-3059.36: We are seeing some school reopens which could help, but it's a segment that is still down 40%. 
+asr:0: OUTPUT 3059.94-3068.13: On what we call the commercial food service, which is a street business where our Pierce brand is a leading brand in wings and in chunks. 
+asr:0: OUTPUT 3068.55-3075.92: We saw that in Q2, they end up 36% lower than the prior year. 
+asr:0: OUTPUT 3076.10-3083.30: But they're rebounding and then today they are close to 4% lower than the same period last year. 
+asr:0: OUTPUT 3083.32-3088.97: The food service business has been recovering and with that our peers brand has. 
+asr:0: OUTPUT 3088.99-3090.99: Recover in our volumes. 
+asr:0: OUTPUT 3091.13-3098.00: But the school system is still close to 40% lower than the prior year. 
+asr:0: OUTPUT 3098.48-3102.78: And that's why we're investing in more retail branded business. 
+asr:0: OUTPUT 3103.32-3108.31: As we mentioned, our Pilkings brand has increased more than 30%. 
+asr:0: OUTPUT 3108.65-3118.40: And we have been very successful in expanding the Just Bear brand from the fresh category, which has been very successful on the online segment and also on the. 
+asr:0: OUTPUT 3118.42-3123.50: On the higher attribute segment in our key customers to the prepared food segment. 
+asr:0: OUTPUT 3126.65-3129.15: All right, great. That's a helpful call. I'll pass it on. Thank you. 
+asr:0: OUTPUT 3132.97-3137.94: The next question comes from Carla Casella with J.P. Morgan. Please go ahead. 
+asr:0: OUTPUT 3139.70-3141.78: Hi, my question is regarding your leverage. 
+asr:0: OUTPUT 3142.28-3151.87: The three times target, how comfortable or how high would you be comfortable taking that in the event of additional MNA? And are you seeing any. 
+asr:0: OUTPUT 3151.91-3156.52: More M&A opportunities just given the volatility in worldwide protein markets. 
+asr:0: OUTPUT 3160.00-3165.77: We set this target of two to three times because it's the best capital structure. 
+asr:0: OUTPUT 3165.89-3170.05: That can protect and reduce our interest payments. 
+asr:0: OUTPUT 3170.13-3176.32: Well, not creating any problem for our bonds and for our leverage. 
+asr:0: OUTPUT 3177.74-3182.28: The 2-3 times within normal operations, of course during some acquisitions. 
+asr:0: OUTPUT 3182.36-3188.45: If we have a great plan on how to reduce that back, we can go further. 
+asr:0: OUTPUT 3189.33-3198.18: I don't think there is a number that is specific on where we go. I think it's more about what is the plan to be leveraged. 
+asr:0: OUTPUT 3198.30-3202.10: And of course, the plan to do leverage could include. 
+asr:0: OUTPUT 3202.12-3209.47: The issue of stock. And that's why Pilgrims as a public traded company has that opportunity to use the stock as a currency. 
+asr:0: OUTPUT 3209.73-3219.24: Not to increase the leverage to points where we don't think it is prudent in the case of significant acquisition that would be transformational for the company. 
+asr:0: OUTPUT 3222.12-3224.82: Sorry. 
+asr:0: OUTPUT 3224.97-3230.59: In terms of M&A, yes, we are seeing more targets. Of course, the whole situation about traveling has... 
+asr:0: OUTPUT 3230.61-3235.34: Created some challenges in terms of seeing and visiting assets. 
+asr:0: OUTPUT 3235.42-3244.48: But we are seeing some targets that are still very interesting to us and could create a lot of value for our shareholders. 
+asr:0: OUTPUT 3248.45-3254.71: In the event that JBS is able to list the U.S. Census, would that cause any need for a change in your structure? 
+asr:0: OUTPUT 3256.42-3265.69: Yeah, we don't believe so. I think JBS has said many times that they continue to support Pym's to be a public traded company, just as I mentioned. 
+asr:0: OUTPUT 3266.05-3269.63: It is a great way for us to keep our growth. 
+asr:0: OUTPUT 3269.77-3276.82: We can use the equity as a currency in the case of a very important and transformational event for payments. 
+asr:0: OUTPUT 3280.14-3285.91: Thank you. 
+asr:0: OUTPUT 3285.93-3293.97: If you have a question, please press star and 1 on your telephone. 
+asr:0: OUTPUT 3294.03-3300.00: There are no more questions registered at this time. I would like to turn the conference back over to Fabio Sandri for closing remarks. 
+asr:0: OUTPUT 3301.86-3310.25: Well, thank you all. We would like to reiterate our continued commitment to our valued team members to provide them with a safe and healthy work environment. 
+asr:0: OUTPUT 3310.37-3314.55: While supporting our duty to maintain food production and supply to customers. 
+asr:0: OUTPUT 3315.28-3319.90: We are looking forward to closing 2020 with good results in spite of the volatility. 
+asr:0: OUTPUT 3320.36-3328.23: Our diverse portfolio of differentiated products tailored to support our key customer strategy in conjunction with our broad geographic footprint. 
+asr:0: OUTPUT 3328.31-3336.18: Will continue to generate consistent performance and minimize margin volatility in challenging marketing conditions relative to competitors. 
+asr:0: OUTPUT 3336.62-3344.92: We will continue to seek new growth potential, both organically and through acquisitions, while offering even more differentiated products portfolio within our business. 
+asr:0: OUTPUT 3344.94-3349.47: To support key customers' needs by cultivating a culture of constant innovation. 
+asr:0: OUTPUT 3350.21-3357.56: We would like to thank everyone in the Pugin's family, including our family farm partners, suppliers, and our customers who make our business possible. 
+asr:0: OUTPUT 3357.92-3362.40: As always, we appreciate your interest in our company. Thank you for joining us today. 
+asr:0: OUTPUT 3367.59-3373.35: Ladies and gentlemen, the conference has now concluded. Thank you for attending today's presentation. You may now disconnect. 
+asr:0: END

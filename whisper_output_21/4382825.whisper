@@ -1,0 +1,563 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.32-7.19: Good morning and welcome to the Q3 2020 ConocoPhillips earnings conference call. 
+asr:0: OUTPUT 7.63-14.01: My name is Zanara and I'll be the operator for today's call. At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 14.53-23.06: Later we will conduct a question and answer session. During the question and answer session, if you have a question, please press star, then one on your touchtone phone. 
+asr:0: OUTPUT 23.60-31.43: Please note this conference is being recorded. I will now turn the call over to Ms. Ellen DeSantis. Ms. DeSantis, you may begin. 
+asr:0: OUTPUT 34.13-37.88: Thanks, Zanara. Hello and welcome this morning to our listeners. 
+asr:0: OUTPUT 38.54-43.32: I'll first introduce the members of the ConocoPhillips executive team who are on today's call. 
+asr:0: OUTPUT 44.04-47.07: We have Ryan Lance, our chairman and CEO. 
+asr:0: OUTPUT 47.79-55.32: Matt Fox, our EVP and Chief Operating Officer. Bill Bullock, our Executive Vice President and Chief Financial Officer. 
+asr:0: OUTPUT 55.92-65.03: We have Dominic Macklin, our Senior Vice President of Strategy, Exploration and Technology, and Nick Olds, our Senior Vice President of Global Operations. 
+asr:0: OUTPUT 66.29-70.69: Brian will open this morning with some prepared remarks and then the team will take your questions. 
+asr:0: OUTPUT 71.43-74.35: Before I turn the call over to Ryan, a few reminders. 
+asr:0: OUTPUT 75.02-84.66: In conjunction with this morning's press release, we posted a short deck of supplemental material regarding the quarter onto our website that's available for your access. 
+asr:0: OUTPUT 85.31-88.03: Next, we will make some forward-looking statements. 
+asr:0: OUTPUT 88.05-97.86: Based on current expectations as well as statements about the proposed business combination announced last week between ConocoPhillips and Concho. 
+asr:0: OUTPUT 98.72-109.01: A description of the risks associated with forward-looking statements and other important information about the proposed transaction can be found in today's press release. 
+asr:0: OUTPUT 109.03-112.99: All of which are incorporated by reference for purposes of this call. 
+asr:0: OUTPUT 113.73-120.86: We'll also refer to some non-GAAP financial measures today and reconciliations to the nearest corresponding GAAP measure. 
+asr:0: OUTPUT 120.88-124.46: Can be found in this morning's press release and also on our website. 
+asr:0: OUTPUT 125.25-127.87: Thank you and now I will turn the call over to Ryan. 
+asr:0: OUTPUT 129.07-131.45: Thank you, Ellen, and good morning to our listeners. 
+asr:0: OUTPUT 132.35-139.62: Before we get into our third quarter results, I'll take a few minutes to address last week's announcement of our combination with Contra Resources. 
+asr:0: OUTPUT 140.50-146.55: We spent a lot of time talking to the market over the past several days and I'm pleased to say that the feedback has been positive. 
+asr:0: OUTPUT 147.39-152.63: By the way, earlier this week we added some annotations to our transaction deck for clarification. 
+asr:0: OUTPUT 153.71-162.22: Today's call is a great opportunity to reflect on our conversations and reiterate the compelling merits of the transaction for both sets of shareholders. 
+asr:0: OUTPUT 162.88-170.03: I'll start at the highest level. Our announced transaction with Kancho combines two widely recognized leaders in the sector. 
+asr:0: OUTPUT 171.31-177.48: ConocoPhillips has been a recognized leader in the returns on and returns of capital model for the business. 
+asr:0: OUTPUT 178.28-182.48: And Concho has been a recognized leader in the Permian pure play class. 
+asr:0: OUTPUT 183.66-190.67: Yet while we're both best-in-class companies on a standalone basis, by scaling up our existing returns-focused business model,. 
+asr:0: OUTPUT 190.89-200.56: We are stronger and more investable within the sector, characterized by frequent price cycles, industry maturity, capital intensity, and ESG focus. 
+asr:0: OUTPUT 201.62-212.59: Will be a nearly $60 billion enterprise that is uniquely positioned to create sustained value by embracing what we believe are the three essential future mandates for our sector. 
+asr:0: OUTPUT 213.47-219.88: And these mandates are first providing affordable energy to the world, second committed. 
+asr:0: OUTPUT 219.90-223.48: To ESG excellence, and third, delivering competitive returns. 
+asr:0: OUTPUT 224.46-232.85: We believe the transaction accelerates our ability to successfully and simultaneously deliver on all three of these mandates. That's how we will win. 
+asr:0: OUTPUT 233.73-237.44: Now let me take these mandates one by one in the context of our transaction. 
+asr:0: OUTPUT 238.70-244.76: In all future energy scenarios, we know the world will need hydrocarbons as part of the energy mix for a long time. 
+asr:0: OUTPUT 245.27-249.33: Even as we see increasing adoption of low carbon energy sources. 
+asr:0: OUTPUT 250.25-258.60: However, we also recognize that the energy transition means the winners will be those companies with resources that can be affordably developed. 
+asr:0: OUTPUT 258.62-263.52: In any transition scenario, including a less than 2 degree scenario. 
+asr:0: OUTPUT 264.16-269.49: That's the reason we've always been committed to having the lowest cost of supply resource space in the industry. 
+asr:0: OUTPUT 270.55-276.00: The company will have a 23 billion barrel resource base for the cost of supply less than $40 a barrel. 
+asr:0: OUTPUT 276.82-282.50: Concho gets the benefits of our global, diverse, and lower capital intensity portfolio attributes. 
+asr:0: OUTPUT 282.92-287.13: ConocoPhillips gets the benefit of adding some of the best resources in the world. 
+asr:0: OUTPUT 287.89-290.71: And by the way, we've studied rock quality everywhere. 
+asr:0: OUTPUT 292.23-295.70: Now let's move on to the second mandate, a commitment to ESG excellence. 
+asr:0: OUTPUT 296.42-303.10: In conjunction with last week's transaction, we announced we're adopting a Paris-aligned climate risk framework. 
+asr:0: OUTPUT 303.96-306.87: We're the first U.S.-based oil and gas company to do so. 
+asr:0: OUTPUT 308.43-312.43: Our framework includes specific emissions intensity reduction goals. 
+asr:0: OUTPUT 312.45-321.00: A commitment to no routine flaring, permanently installed methane monitoring, and advocating for a well-designed carbon price in the U.S. 
+asr:0: OUTPUT 321.94-327.97: This framework is in service to our ambition to reach a net zero operational emissions target by 2050. 
+asr:0: OUTPUT 329.31-335.22: Now we've been asked in our engagement meetings if this framework included the portfolio effects of the CONCHO assets. 
+asr:0: OUTPUT 336.32-342.92: The explicit answer is no. We were preparing to issue our new climate risk framework before the transaction was agreed. 
+asr:0: OUTPUT 343.82-349.35: However, we see the addition of Contra's assets as being consistent with and accretive to these goals. 
+asr:0: OUTPUT 350.11-355.78: The production emissions of the US unconventionals are among the lowest GHG intensity assets in the world. 
+asr:0: OUTPUT 356.54-361.62: So the addition of these resources will be a benefit to our projections, plans, and targets. 
+asr:0: OUTPUT 363.56-370.31: Now the third mandate, delivering competitive returns is an imperative for attracting and retaining investors to the sector. 
+asr:0: OUTPUT 371.07-374.11: Our company has been all about returns and that won't change. 
+asr:0: OUTPUT 375.06-383.20: In fact, the combined company will be uniquely positioned to deliver on the proven returns focused value proposition we know investors want from our sector. 
+asr:0: OUTPUT 383.58-387.89: Because of several advantage attributes and demonstrated priorities. For example,. 
+asr:0: OUTPUT 389.03-394.07: As I just described, the transaction creates a massive, resilient, low-cost supply resource base. 
+asr:0: OUTPUT 394.89-396.90: I discussed this as part of mandate one. 
+asr:0: OUTPUT 397.58-405.57: But also add that low cost of supply is the best assurance by definition for delivering competitive financial returns through price cycles. 
+asr:0: OUTPUT 406.67-412.91: After the deal closes, we'll publish our combined cost of supply curve. I have no doubt it will be best in class. 
+asr:0: OUTPUT 414.13-418.78: By the way, we've been asked about how we view risk in the event of a change in leadership in Washington. 
+asr:0: OUTPUT 419.70-428.63: Our view is that while it might create some headwinds for the industry, our company's global diversification and our mix of private, state, and federal leases in the U.S. 
+asr:0: OUTPUT 428.65-431.51: Assures that we are competitively positioned for that outcome. 
+asr:0: OUTPUT 432.37-436.30: And we accounted for this potential risk in our evaluation of the overall transaction. 
+asr:0: OUTPUT 437.74-445.11: Diversification and low capital intensity matters. And as I just mentioned, we preserve those portfolio characteristics. 
+asr:0: OUTPUT 445.81-452.09: Adding conscious unconventional assets into our portfolio will not make a material difference to our base decline rate. 
+asr:0: OUTPUT 452.93-459.34: That means we retain our diversification and low capital intensity advantage for the benefit of both shareholders. 
+asr:0: OUTPUT 460.70-464.30: We'll apply our disciplined, consistent approach to future investment program. 
+asr:0: OUTPUT 465.05-473.59: Capital will be allocated first on a basis of cost of supply and then based on secondary criteria such as flexibility, capital intensity,. 
+asr:0: OUTPUT 473.61-478.10: Asset optimization, affordability, and free cash flow generation. 
+asr:0: OUTPUT 479.08-487.69: And our expanded Permian program resulting from the transaction will be integrated within the total company plan to optimize overall outcomes and value. 
+asr:0: OUTPUT 489.05-493.89: The combination creates greater visibility on earnings expansion and free cash flow generation. 
+asr:0: OUTPUT 494.75-498.68: Factoring in our announced $500 million targeted cost and capital savings. 
+asr:0: OUTPUT 499.28-507.79: The transaction is accretive on all key consensus financial metrics, including earnings, free cash flow, and free cash flow yield. 
+asr:0: OUTPUT 509.15-518.44: Finally, our strong balance sheet plus free cash flow generation means we're even better positioned to give investors what they want from this business, returns of capital. 
+asr:0: OUTPUT 519.54-526.59: The transaction enhances our ability to meet our stated target of returning more than 30% of our CFO to our owners annually. 
+asr:0: OUTPUT 527.31-532.73: And this target isn't an ambition. It's what we've been doing for the past four years. 
+asr:0: OUTPUT 533.35-540.60: In fact, we returned over 40% of our CFO to owners over that period and it will remain a key part of our future offering. 
+asr:0: OUTPUT 541.42-548.75: The bottom line, this transaction creates a best-in-class competitor of scale to thrive in a new energy future. 
+asr:0: OUTPUT 549.25-551.77: That is compelling for shareholders for both companies. 
+asr:0: OUTPUT 553.71-563.20: Now a few comments on what to expect next. RS4 filing should be filed in the next couple of weeks and we expect the transaction to close in the first quarter of 2021. 
+asr:0: OUTPUT 564.22-572.29: Integration planning is already underway. Dominic Macklin will lead the effort for ConocoPhillips and Will Girod will lead the effort for Concha. 
+asr:0: OUTPUT 573.05-576.12: Both sides are excited and committed to a very successful integration. 
+asr:0: OUTPUT 577.14-582.08: As part of the integration planning, we'll begin to evaluate how best to optimize our future investment program. 
+asr:0: OUTPUT 582.80-587.45: We would expect to announce Proforma CapEx for next year shortly after closing. 
+asr:0: OUTPUT 588.39-595.32: But directionally, on a standalone ConocoPhillips basis, we remain cautious on the pace and timing of recovery. 
+asr:0: OUTPUT 595.92-600.00: So as a place to start, we're currently thinking we entered 2021 CAPEX. 
+asr:0: OUTPUT 600.50-607.09: At a level that is roughly similar to this year's capital, meaning little to no production growth on a standalone basis. 
+asr:0: OUTPUT 608.17-611.41: Of course, we retain the flexibility to adjust as the year progresses. 
+asr:0: OUTPUT 612.15-621.18: We have the capital flexibility, the balance sheet, and the cash on hand to respond as necessary to changes in the macro while meeting our capital return priority. 
+asr:0: OUTPUT 622.18-625.01: And that brings me to a few comments on the third quarter results. 
+asr:0: OUTPUT 625.85-633.83: It's certainly been a ball of the year for the business, as we all know. The company took some significant actions to respond to the downturn, including production curtailments. 
+asr:0: OUTPUT 634.55-638.78: And over the past couple of quarters, we also carried out our major seasonal turnaround. 
+asr:0: OUTPUT 639.72-642.50: So a bit of noise in the second quarter and third quarter numbers. 
+asr:0: OUTPUT 642.98-652.03: But by the end of the third quarter, the containment program was behind us. The seasonal turnarounds were complete and the underlying business was running very well. 
+asr:0: OUTPUT 652.55-656.86: As you saw this morning's release, third quarter results were in alignment with expectations. 
+asr:0: OUTPUT 658.12-665.67: We've reinstated guidance that you should think of, I mean, you should take the fourth quarter as the new baseline for 21 capital and production. 
+asr:0: OUTPUT 666.35-670.55: Those I just mentioned that subject to ongoing monitoring and market conditions. 
+asr:0: OUTPUT 671.71-676.96: We look forward to keeping you updated on our integration progress and our future plans for the business. 
+asr:0: OUTPUT 677.62-682.20: And finally, we hope everyone's safe and well. And now I'll turn it over to the operator for Q&A. 
+asr:0: OUTPUT 685.43-688.37: Thank you. We will now begin the question and answer session. 
+asr:0: OUTPUT 688.83-698.50: If you have a question, please press star, then one on your touch tone phone. If you're using a speakerphone, you may need to pick up the handset first before pressing the numbers. 
+asr:0: OUTPUT 699.08-707.05: Once again, if you have a question, please press star, then 1 on your touchtone phone. Waiting on standby for any questions. 
+asr:0: OUTPUT 710.05-715.76: And our first question comes from Phil Gresh from JP Morgan. Please go ahead. Your line is open. 
+asr:0: OUTPUT 717.46-722.20: Yes, hello. First question, just wanted to ask about the quarter here. 
+asr:0: OUTPUT 723.48-729.97: It looks like there are some moving pieces around cash flows, affiliate distributions, and some other factors there. 
+asr:0: OUTPUT 730.39-736.94: So I was wondering if you could give a little bit more color there and help us think about how you would define the clean CFO in the quarter. 
+asr:0: OUTPUT 739.20-742.76: Thanks, Phil. I'll let Bill Bullock can answer that for you. Thanks. 
+asr:0: OUTPUT 743.24-751.71: Hi, Phil. So yeah, for the quarter, cash from operations, ex-working capital was about $1,230,000,000. 
+asr:0: OUTPUT 752.53-759.70: And we had a couple of one-time benefits in the quarter, a legal settlement and an audit settlement totaling $130 million of that. 
+asr:0: OUTPUT 761.28-768.87: But we also had curtailments in the quarter of about 90,000 barrels a day, so the foregone cash flow for that. 
+asr:0: OUTPUT 768.89-771.53: Would have been about $150 million of cash. 
+asr:0: OUTPUT 772.27-779.28: So if you think of a clean run rate number for the quarter, a good place to be thinking is about $1,250,000,000 for the quarter. 
+asr:0: OUTPUT 781.20-786.47: Now you asked about equity distributions. We did have a distribution from APL&G in the quarter. 
+asr:0: OUTPUT 787.97-794.05: We received distributions through the second quarter of about $500 million from APOMG. 
+asr:0: OUTPUT 794.73-803.26: And for the remainder of the year, we're expecting a little under $200 million in the fourth quarter. That would give a full year distribution of somewhere around $680 to $700 million for the year. 
+asr:0: OUTPUT 806.57-807.85: Okay, great, very helpful. 
+asr:0: OUTPUT 809.33-818.28: I guess this kind of dovetails into my second question, which is, you know, we continue to get some questions here around this pro forma CFO guidance that you provided. 
+asr:0: OUTPUT 820.18-824.44: And so if I look at the results you just talked about, the 1.25. 
+asr:0: OUTPUT 824.46-830.79: And what Contra reported the other night, which I think ex-Hedges, was around $500. 
+asr:0: OUTPUT 831.71-840.56: Perhaps you could help us bridge these results, which I think are about $41 WTI to the $7 billion. 
+asr:0: OUTPUT 840.58-843.52: $40 WTI guidance you provided. 
+asr:0: OUTPUT 845.83-850.37: Yeah, thanks Phil. I know there's a number of moving parts there as you described and. 
+asr:0: OUTPUT 850.85-858.52: Yeah, we've had a few people point out that they thought the $7 billion at $40 a barrel for the combined company looked a little bit light. 
+asr:0: OUTPUT 858.94-866.33: So now we've seen the third quarter if you adjust for Concho's hedging benefits and what Bill just described on our equity affiliates. 
+asr:0: OUTPUT 866.91-872.85: I think you get something closer to the mid to high sevens at $40. 
+asr:0: OUTPUT 872.89-877.54: Maybe I'll let Matt add a little bit of color to those details. 
+asr:0: OUTPUT 880.20-888.11: If you look at the clean third quarter for both companies, Bill explained the errors. 
+asr:0: OUTPUT 888.75-893.79: It would imply somewhere between seven and a half and seven eight at $43 a barrel. 
+asr:0: OUTPUT 894.41-900.30: Now, the range is basically based on the uncertainty in the equity affiliates distribution. 
+asr:0: OUTPUT 900.86-905.95: If we got similar distributions to this year, we'd be at the top end in that range. 
+asr:0: OUTPUT 907.05-916.98: And. 
+asr:0: OUTPUT 917.32-923.82: And that's what shows up in these numbers. There's also the 150 million of capital that doesn't affect CFO directly. 
+asr:0: OUTPUT 925.04-932.23: Does that help, Phil? I'll take that as a yes. 
+asr:0: OUTPUT 938.54-945.65: The next question comes from Doug Harrison from Evercore ISI. Please go ahead. Your line is open. Good morning, everybody. 
+asr:0: OUTPUT 947.47-948.85: Doug? 
+asr:0: OUTPUT 948.95-958.02: One of the hallmarks of Conoco and Philips before the merger and even after the split in 2012 has been corporate agility. 
+asr:0: OUTPUT 958.08-965.21: Is the way I'd like to think about it, and the ability to create value in strategic transactions over the near and medium term periods. 
+asr:0: OUTPUT 965.75-974.37: On this point, while you guys have been pretty clear about the operating and capital cost benefits that you're going to get, as well as some of the enhancements that you're going to get from. 
+asr:0: OUTPUT 974.39-976.36: I. 
+asr:0: OUTPUT 976.92-984.88: My question is whether there are areas that you are optimistic about that may or may not be as obvious that stand to deliver. 
+asr:0: OUTPUT 984.90-988.35: Further upside areas that you're really confident about. 
+asr:0: OUTPUT 988.37-992.63: The next thing is to look at the underlying market conditions. 
+asr:0: OUTPUT 993.11-1001.26: Second, what are the two to three most important things that you think that the new management group brings to the organization? So two questions. 
+asr:0: OUTPUT 1003.48-1010.97: Yeah, thanks, Doug. I'll maybe start, let Dominic add a few comments. You're right. You know, when we put out the Synergy number, we. 
+asr:0: OUTPUT 1011.45-1017.28: We see a lot of other synergy numbers that people put out there and it seems like a fair amount of arm waving. 
+asr:0: OUTPUT 1017.62-1019.48: We want to be pretty specific about. 
+asr:0: OUTPUT 1019.50-1021.64: The five hundred million dollars that uh... 
+asr:0: OUTPUT 1021.66-1028.15: That we described, but if you're the second page, which I think is what you're alluding to a little bit that I can let Dominic. 
+asr:0: OUTPUT 1028.17-1039.72: Add on is we fully expect that we're going to get additional opportunity either through price uplift or various other forms to add incremental value to this transaction. 
+asr:0: OUTPUT 1039.78-1044.14: Dominic, maybe you could describe a little bit of what the integration team is going to be looking at. 
+asr:0: OUTPUT 1044.38-1048.07: Yeah, thanks. Thanks, Ryan. Doug, thanks for the question. 
+asr:0: OUTPUT 1048.09-1054.37: Obviously we're very focused on delivering the 500 million that we have put out there as a commitment. 
+asr:0: OUTPUT 1054.39-1061.66: Certainly, we see opportunity beyond that. I think we kind of outlined those in our deck. 
+asr:0: OUTPUT 1061.88-1066.71: I think just to talk more about those specifically, I think the ones that we're most optimistic about. 
+asr:0: OUTPUT 1067.15-1071.09: In on the marketing side, Concho typically sells a product to the wellhead. 
+asr:0: OUTPUT 1071.47-1079.36: We sell further down the value chain to improve realizations. So, you know, we have a very strong commercial group, ConocoPhillips. 
+asr:0: OUTPUT 1079.42-1082.00: We're certainly excited about that. 
+asr:0: OUTPUT 1082.54-1090.95: You. 
+asr:0: OUTPUT 1091.23-1098.34: We do expect to see that accelerate the performance on our acreage too and of course we expect. 
+asr:0: OUTPUT 1098.36-1106.59: You know, improve performance across the lower 48 from sharing best practices and technologies between Eagle Foot and the Permian and the back and so on. So. 
+asr:0: OUTPUT 1106.91-1108.89: Definitely operational efficiencies. 
+asr:0: OUTPUT 1109.29-1115.10: And then on the supply chain side, obviously, we're going to have increased purchasing power, scale, flexibility. 
+asr:0: OUTPUT 1115.42-1121.86: We are anticipating upside in all of these areas and some additional areas too. 
+asr:0: OUTPUT 1121.92-1127.27: We'll be working on in the coming months here. So Will and I are already talking about these. 
+asr:0: OUTPUT 1127.33-1129.45: We're pretty excited about it and. 
+asr:0: OUTPUT 1129.57-1132.51: We'll look forward to see how these develop through next year. 
+asr:0: OUTPUT 1133.53-1140.20: And maybe your last question, Doug, Dominic mentioned Will and then what Tim, you know,. 
+asr:0: OUTPUT 1140.58-1146.99: What we really appreciate out of what they bring to our company is some incredible Permian expertise and experience. 
+asr:0: OUTPUT 1147.05-1148.13: They have the networks. 
+asr:0: OUTPUT 1148.71-1157.08: The. 
+asr:0: OUTPUT 1157.58-1162.36: As two or three goes at it and what he's done over the last 30 years in the Permian Basin. 
+asr:0: OUTPUT 1162.90-1172.39: I've had a lot of conversations with CEOs over the course of the last couple of years and what I've come to appreciate, Tim shares a passion for this business and a vision. 
+asr:0: OUTPUT 1172.79-1177.32: For what it's going to take to be successful over the next decade and beyond. 
+asr:0: OUTPUT 1177.42-1185.39: That is really consistent with my view or our view of what it's going to take to really succeed and beat the competition. 
+asr:0: OUTPUT 1185.49-1190.89: And then I'd say finally, probably, you know, we're both very committed to a successful deal and. 
+asr:0: OUTPUT 1190.93-1200.14: And we're both committed to getting the secret sauce that is ConocoPhillips combined with the secret sauce that is Concho and make something that's even better going forward. 
+asr:0: OUTPUT 1205.97-1212.01: Thank you. Our next question comes from Neil Mehta from Goldman Sachs. Please go ahead. Your line is open. 
+asr:0: OUTPUT 1213.33-1216.70: Great, thanks guys, appreciate you guys taking the questions. 
+asr:0: OUTPUT 1217.12-1224.34: So the first is a follow up on distributions, including from APLG, but just equity affiliates broadly. 
+asr:0: OUTPUT 1224.82-1230.79: How do you think about that? You made a comment in the deck that we shouldn't expect that to be radable. 
+asr:0: OUTPUT 1231.31-1237.60: Talk about different oil price levels and how we should be thinking about modeling those distributions coming into business. 
+asr:0: OUTPUT 1240.58-1241.88: Yeah, sure, Neil. This is Bill. 
+asr:0: OUTPUT 1244.18-1249.93: I think as you're thinking about equity affiliates, we've talked in the past about how they aren't rateable. 
+asr:0: OUTPUT 1250.91-1260.42: Should be thinking about the distributions from APL&G in terms of being more significant in the second and fourth quarter and lighter in the first and third. 
+asr:0: OUTPUT 1261.22-1266.93: But as you think about going into next year and you look at more like strip prices for next year, if you're thinking... 
+asr:0: OUTPUT 1266.95-1271.37: At a range of 600 to 800 million from equity affiliates at those kind of pricing. 
+asr:0: OUTPUT 1271.75-1274.45: That's going to get you into the ballpark. 
+asr:0: OUTPUT 1274.83-1283.30: It obviously depends on how they're performing in terms of the markets and how we're optimizing our capital over in APLG, but that'll get you pretty close. 
+asr:0: OUTPUT 1284.84-1293.45: Fell. Ryan has a follow-up. Just as a reminder, Neil, we do have a sensitivity for that in our price deck. 
+asr:0: OUTPUT 1294.53-1299.48: For the pricing? That's right. That's right. Yeah. And the supplemental materials we included today. 
+asr:0: OUTPUT 1301.54-1303.66: Great day. 
+asr:0: OUTPUT 1304.42-1309.19: Yeah what was really just about alaska and uh... I know a couple days away from the election but. 
+asr:0: OUTPUT 1309.21-1323.60: It's probably a very sensitive topic, but just sort of your temperature on the Fair Share Act and just in general, your message around Alaska and you think about the cadence of spend and investment there. 
+asr:0: OUTPUT 1325.81-1333.53: Yeah, you bet. I'll let Matt's Matt's been following that closely. I have to, but Matt's got a good answer. 
+asr:0: OUTPUT 1335.02-1339.22: Yeah, Neil, as you know, there are really three movements. 
+asr:0: OUTPUT 1340.74-1348.01: The. 
+asr:0: OUTPUT 1348.63-1354.07: And there's the impact, if any, of a change in administration if that happens on federal land permitting. 
+asr:0: OUTPUT 1354.39-1361.24: So I probably should talk about all three of them so that we can hopefully clear up Alaska with this one question. 
+asr:0: OUTPUT 1361.90-1366.37: So, as you know, the ballot measure would impose a tax increase on production. 
+asr:0: OUTPUT 1367.35-1371.61: That's going to have two problems, two adverse effects. 
+asr:0: OUTPUT 1372.07-1377.82: It's going to reduce the competitiveness of investment in Alaska, and it's going to increase uncertainty and instability. 
+asr:0: OUTPUT 1378.90-1380.74: So that's not going to be good. 
+asr:0: OUTPUT 1381.56-1389.91: We've got years of development opportunities left in Alaska, but a shift of capital from Alaska to elsewhere is going to be rational if taxes are increased. 
+asr:0: OUTPUT 1390.39-1392.01: I mean, this is a production tax. 
+asr:0: OUTPUT 1392.49-1400.56: And what you tax more you get less of. So that should be expected. Those advocating for this and voting for the proposal should understand that. 
+asr:0: OUTPUT 1401.22-1407.13: And we're being pretty clear to avoid any doubt in Alaska that if the measure passes,. 
+asr:0: OUTPUT 1407.15-1411.57: Drilling in the big three fields, the targets of the tax increase. 
+asr:0: OUTPUT 1411.99-1418.36: Not going to resume in 2021 and maybe beyond that. So, they are. 
+asr:0: OUTPUT 1419.84-1425.67: Alaska Jobs, Contract Labor, all the associated services are going to be adversely impacted by this change. 
+asr:0: OUTPUT 1426.61-1434.83: And the contractors, the unions, all the other businesses up there understand this and they've opposed, for the most part, opposing the change in the tax regime. 
+asr:0: OUTPUT 1435.10-1440.00: It's now up to the electorate to decide on the elections of consequences. 
+asr:0: OUTPUT 1440.50-1446.47: We're getting down to the wire here and we really feel as if we have to be clear with the Alaska voters. 
+asr:0: OUTPUT 1447.49-1456.10: On the Willow project itself, we passed a big milestone earlier this week. We got a favorable record of decision from the BLM. 
+asr:0: OUTPUT 1456.68-1459.24: After more than two years of process. 
+asr:0: OUTPUT 1459.78-1462.12: So that keeps us on track with the project timeline. 
+asr:0: OUTPUT 1462.74-1468.07: And it's worth understanding that that permit was received under the 2013. 
+asr:0: OUTPUT 1468.09-1476.38: The. 
+asr:0: OUTPUT 1476.96-1481.50: So they should stand up well to scrutiny under a change in administration if that happens. 
+asr:0: OUTPUT 1482.76-1488.55: We're working towards a concept selection and moving to feed by the end of this year. 
+asr:0: OUTPUT 1489.35-1497.44: The ballot measure fails when taxes are not increased. If it passes, we will need to reconsider the timing. 
+asr:0: OUTPUT 1497.90-1499.52: Because the willow isn't directly. 
+asr:0: OUTPUT 1500.06-1506.97: Targeted by the tax increases, there's going to be knock on effects on the other fields because of the lack of available capital. 
+asr:0: OUTPUT 1508.55-1516.68: And the last one is the federal land permitting in Alaska. More generally, if there's a change in administration. 
+asr:0: OUTPUT 1517.22-1526.19: We would expect that to have a relatively limited impact on us. I mean, although 65% of our acreage is on federal land, it only represents about 5% of our production. 
+asr:0: OUTPUT 1527.09-1533.83: Now some coming production, GMT2 in particular, is on federal land, but it's well underway. 
+asr:0: OUTPUT 1534.07-1538.64: Production will be at the end of next year, so we don't expect that will be affected at all. 
+asr:0: OUTPUT 1539.64-1541.46: Willows on federal land, of course. 
+asr:0: OUTPUT 1542.08-1550.11: Neither willow nor GMT-1 or GMT-2, the federal land drill sites, use. 
+asr:0: OUTPUT 1550.45-1554.03: Anything other than conventional simulation techniques. 
+asr:0: OUTPUT 1554.51-1557.50: So if there's issues about fracking, they shouldn't be influenced by that. 
+asr:0: OUTPUT 1559.62-1566.27: So I guess we've been clear with Alaska electorate about the implications of ballot measure one. 
+asr:0: OUTPUT 1567.13-1574.09: We expect any implications of the change in administration in DC to have a relatively limited impact on us. 
+asr:0: OUTPUT 1580.00-1588.89: Our next question comes from Janine Y. From Barclays. Please go ahead, your line is open. Hi, good morning, good afternoon everyone. Thanks for taking our call. 
+asr:0: OUTPUT 1590.63-1592.97: Good morning, Janine. Good morning. 
+asr:0: OUTPUT 1593.69-1598.28: Maybe, sorry, just one more on Alaska if I could real quick following up on Neil's question. 
+asr:0: OUTPUT 1598.72-1600.38: It's a little bit different but. 
+asr:0: OUTPUT 1600.64-1609.43: I mean, last year on the Analyst Day, you talked about how Willow would be contingent upon selling down 25% of your position in Alaska. 
+asr:0: OUTPUT 1609.55-1612.59: We know that you need resolution on ballot measure one first. 
+asr:0: OUTPUT 1613.33-1619.56: But is that 25% sell-down still the case now that you have Concho assets in the portfolio? 
+asr:0: OUTPUT 1619.88-1623.62: And then maybe just on that, for the ballot measure one. 
+asr:0: OUTPUT 1623.84-1631.29: We know it's a citizen ballot measure, and do you think that it could be likely that the legislature would potentially overturn any decision? 
+asr:0: OUTPUT 1633.87-1635.58: Yeah, Jamine, this is Max again. 
+asr:0: OUTPUT 1636.54-1641.28: We didn't really say it was the explicitly tie a willow decision to a cell den. 
+asr:0: OUTPUT 1642.02-1651.41: The. 
+asr:0: OUTPUT 1651.83-1658.12: Is still on the cards that will make an adjustment to equity in Alaska. 
+asr:0: OUTPUT 1658.54-1667.53: But we may still continue to proceed with the project in the meantime. So the timing of the project isn't contingent on the sell-down, I guess is what I'm saying. 
+asr:0: OUTPUT 1668.05-1673.77: On the ballot measure one, could the legislature overrule that? 
+asr:0: OUTPUT 1674.77-1679.36: Not really, not for the people that have time for that. They would have to come up with a. 
+asr:0: OUTPUT 1679.38-1687.43: An alternative that was substantially similar or the. 
+asr:0: OUTPUT 1687.49-1693.95: So it's unlikely that they would overturn it if they put lock, stock and barrel. 
+asr:0: OUTPUT 1695.60-1697.18: Okay, great, that's really helpful. 
+asr:0: OUTPUT 1697.48-1705.77: Thank you very much. My follow-up question is just on the cash allocation priorities. And you indicated in your prepared remarks that 2021 CapEx. 
+asr:0: OUTPUT 1706.03-1709.75: Should be about similar to 2020 with little to no production growth. 
+asr:0: OUTPUT 1710.69-1713.81: The strip moves around a lot, kind of moving against us all today. 
+asr:0: OUTPUT 1714.37-1724.12: But is the right way generally to think about it is that in the mid-40s threshold, that threshold that you have for production growth, it's a hard and fast criteria that needs to be met. 
+asr:0: OUTPUT 1724.48-1729.73: Or are there just a bunch of other considerations that we would need to factor into the decision-making process? 
+asr:0: OUTPUT 1732.69-1740.66: I think we, you know, as I tried to describe, we basically use cost to supply. And I think as we think about the forward curve, we're. 
+asr:0: OUTPUT 1741.28-1749.01: And thinking about our plans for 2020. And again, I mentioned those on a standalone basis for ConocoPhillips. That's kind of how we're thinking about it going into next year. 
+asr:0: OUTPUT 1749.77-1755.80: It's just not cost of supply, but it's also what kind of cash flow are we projecting to make. 
+asr:0: OUTPUT 1756.34-1757.60: Know where we have the. 
+asr:0: OUTPUT 1757.72-1774.71: We have the benefit of a very strong balance sheet so we can use some of that should we need to. But certainly we'd be also trying to balance the cash we're making with the CapEx that we're spending in the dividend that today satisfies 30% of our return criteria and more. 
+asr:0: OUTPUT 1774.73-1776.92: Given the kinds of prices that we're seeing. 
+asr:0: OUTPUT 1776.96-1781.46: So certainly some headwinds into the commodity price outlook right now. 
+asr:0: OUTPUT 1781.80-1792.49: Of. 
+asr:0: OUTPUT 1792.69-1802.48: We're watching all of that really closely to make sure that whatever program we put in place for 21, we can balance with the cash flows that we expect and make sure that we're investing in the. 
+asr:0: OUTPUT 1802.50-1806.01: Lowest cost to supply things that we have in the portfolio only. 
+asr:0: OUTPUT 1811.63-1818.40: Thank you. Our next question comes from Josh Silberstein from Wolf Research. Please go ahead. Your line is open. 
+asr:0: OUTPUT 1820.64-1823.24: Maybe just just giving off that that last. 
+asr:0: OUTPUT 1823.26-1831.25: You mentioned that for conical or stand-alone cannabis it would be very similar on a year-over-year basis. 
+asr:0: OUTPUT 1831.73-1837.72: What would the ConocoStain volumes look like relative to the fourth quarter 20 volumes under that scenario? 
+asr:0: OUTPUT 1843.34-1845.00: Yeah, Josh, we would. 
+asr:0: OUTPUT 1845.07-1854.98: We would expect it to be similar to Q4 or Q2 of the year. 
+asr:0: OUTPUT 1855.14-1856.18: At that sorrow level. 
+asr:0: OUTPUT 1856.88-1863.34: That would be roughly 4.3% is what we're spending this year, which is a bit above our sustaining capital. 
+asr:0: OUTPUT 1863.80-1867.67: I want to take an opportunity to clear that up. 
+asr:0: OUTPUT 1867.69-1873.85: Because flat production and yet above are sustaining capital. Let me try and maybe explain why that's different. 
+asr:0: OUTPUT 1874.35-1879.64: So if we were going to execute a long-term sustaining strategy for the company,. 
+asr:0: OUTPUT 1881.04-1886.57: The we need about 3.8 for ConocoPhillips stand alone. 
+asr:0: OUTPUT 1887.17-1892.63: And that would sustain production at one point, roughly a bit below 1.2 million pounds would be. 
+asr:0: OUTPUT 1893.45-1901.80: With the low cost of supply that we have in the portfolio, we don't expect that our long-term strategy will be to simply sustain production. 
+asr:0: OUTPUT 1902.84-1906.09: The investment opportunities are too competitive for that. 
+asr:0: OUTPUT 1907.07-1913.39: What Ryan is really indicating is that we could execute a tactical sustaining program, much like we have this year. 
+asr:0: OUTPUT 1914.03-1923.96: And start 2020 with that sort of tactical sustaining program and then see how demand recovery and supply responses shape out. 
+asr:0: OUTPUT 1924.36-1934.33: What is the distinction between a tactical and strategic sustainment program? In a tactical sustainment program, we would still keep production flat. 
+asr:0: OUTPUT 1934.35-1939.84: But we wouldn't completely shut down projects like Willow or exploration activity. 
+asr:0: OUTPUT 1940.54-1949.45: Those things would still continue with the anticipation that they ultimately would move away from simply sustaining back to some modest growth. 
+asr:0: OUTPUT 1950.07-1953.37: So those are the things that we're working through just now in the plan. 
+asr:0: OUTPUT 1954.49-1963.28: As Ryan said, you shouldn't expect us to communicate 2021 capital guidance, certainly for the combined company at home, sometime after the transaction closes. 
+asr:0: OUTPUT 1965.13-1966.61: Thanks for having me. 
+asr:0: OUTPUT 1967.77-1972.89: I would add Josh, we have a lot of flexibility with the balance sheet, which is why. 
+asr:0: OUTPUT 1972.91-1977.24: You know, if we go in at a similar level of capital to this year, you know,. 
+asr:0: OUTPUT 1977.26-1983.92: Maybe flat to modest growth so it doesn't necessarily equal flat production at the at the capital level going in next year, but. 
+asr:0: OUTPUT 1983.98-1988.43: That's something we'll continue to watch as the macro evolves around us. 
+asr:0: OUTPUT 1990.55-1995.92: And then you mentioned that the lower 48 acids are unconventional acids. 
+asr:0: OUTPUT 1996.14-2001.50: Are the lowest emission part of the portfolio and the contra assets only add to that. 
+asr:0: OUTPUT 2002.26-2009.37: I'm curious what the highest admission asset is and if there's any sort of, you know, I'm guessing it's something in the international portfolio. 
+asr:0: OUTPUT 2010.77-2018.24: Do you think about M&A in that regard as well? Maybe those are more domestic candidates that kind of accelerate the goal towards getting to your 2030 path? 
+asr:0: OUTPUT 2020.60-2028.47: Yes. So the highest emissions assets in the portfolio, just now in the operated portfolio, is really oil sands. 
+asr:0: OUTPUT 2028.99-2034.49: That's why we're so focused on looking at ways to bring oil sands emissions down. 
+asr:0: OUTPUT 2034.99-2039.04: And we've got a lot of irons in the fire there. 
+asr:0: OUTPUT 2039.36-2047.19: We're going to extend our non-condensable gas injection, which brings down steam oil ratio by keeping heat in the reservoir. 
+asr:0: OUTPUT 2047.49-2051.57: And of course, the steam oil ratio drives the emissions intensity. 
+asr:0: OUTPUT 2052.43-2058.38: We're also going to be deploying more flow control devices. 
+asr:0: OUTPUT 2058.96-2067.47: That brings the steam oil ratio down. We're moving to add some sustaining pads. As some of the pads get older, their steam oil ratio increases. 
+asr:0: OUTPUT 2067.79-2071.33: When you put new pads on that they come in at a very low steam oil ratio. 
+asr:0: OUTPUT 2071.79-2074.51: And there's other technologies that we're looking at there as well. 
+asr:0: OUTPUT 2074.87-2083.42: So what we're doing basically across the board is we're looking at all of our greenhouse gas intensity across every asset that we have. 
+asr:0: OUTPUT 2083.98-2089.39: And we're asking ourselves, what can we do to cost effectively bring that down? 
+asr:0: OUTPUT 2089.81-2095.76: We bring that process together in what we call our marginal abatement cost curve. 
+asr:0: OUTPUT 2097.30-2104.54: And we have about 100 projects in there just now. Some of them are desktop exercises, feasibility studies. 
+asr:0: OUTPUT 2105.55-2109.97: We spent about $90 million this year between capital and operating costs on those projects. 
+asr:0: OUTPUT 2110.83-2117.04: But we look across the whole asset base to try and find ways to bring that down. 
+asr:0: OUTPUT 2119.98-2125.93: Targets Josh, you know that we established the 35 to 45% reduction. 
+asr:0: OUTPUT 2126.33-2130.01: That doesn't require major portfolio changes to go do that. 
+asr:0: OUTPUT 2130.23-2140.00: So we're not talking about having to sell certain assets that Matt described. That's things that we have identified inside the portfolio to work on. 
+asr:0: OUTPUT 2140.12-2143.12: With the portfolio being relatively constant over this time. 
+asr:0: OUTPUT 2144.36-2148.21: It's actually a good point. It's mostly driven by the fact that we're. 
+asr:0: OUTPUT 2148.23-2156.06: It's a strategic shift in where we're investing. We're investing in lower greenhouse gas intensity places. 
+asr:0: OUTPUT 2156.10-2158.66: Like the unconventionals in the US and Canada. 
+asr:0: OUTPUT 2159.10-2163.02: Like Willow up in Alaska, which is very low intensity as well. 
+asr:0: OUTPUT 2163.68-2168.81: So the percentage of our production that's very low intensity increases with time. 
+asr:0: OUTPUT 2169.21-2173.85: And when you combine that with reducing the emissions intensity of existing assets like the oil sands. 
+asr:0: OUTPUT 2174.51-2180.58: That's how we've delivered the reduction in emissions intensity over the next 10 years. 
+asr:0: OUTPUT 2181.42-2186.23: It's not a winged... 
+asr:0: OUTPUT 2188.11-2200.04: And that described sort of the the cost in capital is is is small amounts to get this plan we're not talking about spending others means dollars capital go deliver this this is uh... 
+asr:0: OUTPUT 2200.08-2203.34: Small projects that are currently baked into our plans. 
+asr:0: OUTPUT 2208.83-2217.64: Thank you. Our next question comes from Roger Reed from Wells Fargo. Please go ahead. Your line is open. Hey, thank you and good morning. 
+asr:0: OUTPUT 2220.30-2229.63: I'd like to kick on really kind of a follow up what you're talking about with Josh there. If you think about 21 CAP Act. 
+asr:0: OUTPUT 2229.73-2233.55: Roughly flat and you said you know you ought to be nimble next year for what comes. 
+asr:0: OUTPUT 2234.27-2237.84: What would be the things you would be looking at? 
+asr:0: OUTPUT 2237.88-2244.90: I mean, presumably not simply oil price up or down. I mean, it's I assume it's some macro factors. 
+asr:0: OUTPUT 2245.65-2252.01: Maybe help us kind of understand some of the signals you might look for for getting more optimistic in 21. 
+asr:0: OUTPUT 2254.99-2261.68: Yeah, I mean, it would be natural. We have to see how they... 
+asr:0: OUTPUT 2261.70-2268.11: To. 
+asr:0: OUTPUT 2268.19-2272.17: And especially with Europe and possibly the US coming. 
+asr:0: OUTPUT 2272.65-2280.42: To. 
+asr:0: OUTPUT 2280.44-2282.86: They have a move coming up at the end of November. 
+asr:0: OUTPUT 2284.00-2286.93: And see when we get back to sort of drawing down the inventory. 
+asr:0: OUTPUT 2287.51-2292.25: So the beauty of our position is that we've got incredible flexibility. 
+asr:0: OUTPUT 2292.69-2301.28: We've got a low break-even price to cover for flat production and to cover the dividend. That's sustained from the two companies together. 
+asr:0: OUTPUT 2302.56-2308.23: So we're actually having that flexibility and the ability to respond to. 
+asr:0: OUTPUT 2308.25-2312.67: And what the market is going to give us is very helpful. 
+asr:0: OUTPUT 2312.89-2318.06: So we're not going to rush headlong into trying to grow production into this. That doesn't make any sense to us. 
+asr:0: OUTPUT 2318.40-2322.52: We'll see how things play out here over the next several months. 
+asr:0: OUTPUT 2322.70-2332.59: And then we'll make adjustments between our low break even and our balance sheet. We'll be in very good shape to assess that as we go through. 
+asr:0: OUTPUT 2335.20-2340.00: I would have Roger that. Sorry, I would have Roger that. 
+asr:0: OUTPUT 2341.26-2347.11: Well it's not so much even just what's the strip look like or what it looks like for next year. 
+asr:0: OUTPUT 2347.91-2357.00: It's sort of a longer term trajectory back to what we believe is a reasonable mid-cycle price and we'll be reassessing what that mid-cycle looks like. 
+asr:0: OUTPUT 2357.02-2364.26: Depending on where the demand and supply fundamentals start to kind of shake out with the US title going down. 
+asr:0: OUTPUT 2364.36-2369.05: You know, what happens to the election in Alaska and then. 
+asr:0: OUTPUT 2369.07-2380.04: It's going to make imminent amount of sense as we combine with Concho to optimize and figure out what the right level of activity is between the two companies. 
+asr:0: OUTPUT 2380.06-2388.07: You're right, there's a number of factors that we'll be putting into the mix as we look at not only 2021 plans but the next. 
+asr:0: OUTPUT 2388.09-2394.61: Couple, three years look like as we as this business recovers back to a mid cycle and whether it overshoots or undershoots. 
+asr:0: OUTPUT 2396.74-2400.00: Well, it's the oil industry, so it'll definitely do one or the other, maybe both. 
+asr:0: OUTPUT 2401.38-2407.67: One quick kind of follow up unrelated to the first question, but related to the merger. 
+asr:0: OUTPUT 2407.87-2416.14: Some of the savings that you cited were going to be exploration appraisal spending that doesn't have to happen. 
+asr:0: OUTPUT 2416.60-2423.10: I was curious for the assets that you won't be spending ENA money on in the near future. 
+asr:0: OUTPUT 2423.64-2434.89: Do they just go back into the resource base or is that something that maybe becomes more likely to be disposed of, you know, monetized in a different way? 
+asr:0: OUTPUT 2437.72-2439.24: It's Dominic here, thank you. 
+asr:0: OUTPUT 2440.14-2448.69: What we said was that we will continue focusing our exploration effort on our existing business units such as Alaska, Norway, Malaysia. 
+asr:0: OUTPUT 2448.71-2454.67: Allow us to about half our exploration capital from 300 to 150. So those. 
+asr:0: OUTPUT 2455.28-2461.06: Those areas such as, you know, down in South America, Colombia, Argentina and so on. 
+asr:0: OUTPUT 2461.42-2465.31: We will be working sort of managed exits from those areas. 
+asr:0: OUTPUT 2465.71-2470.21: Course we have a lot of value there, we see a lot of value, there's a lot of good acreage there. 
+asr:0: OUTPUT 2470.45-2478.14: We'll be working to preserve value as we think about how to exit those areas in the future. 
+asr:0: OUTPUT 2478.26-2483.72: A question of dispositions in a managed way rather than those resources staying in the portfolio. 
+asr:0: OUTPUT 2483.80-2491.83: We have such a strong portfolio, we will with Concho, that we just think it's appropriate that we focus the exploration effort. 
+asr:0: OUTPUT 2493.15-2501.66: We've managed those, Roger, to where there's not excessive capital employed associated with those assets, but we'll, as Dominic said, we'll. 
+asr:0: OUTPUT 2502.18-2504.97: We're going to do everything we can to monetize them as best we can. 
+asr:0: OUTPUT 2506.65-2513.43: In. 
+asr:0: OUTPUT 2518.34-2525.27: Thank you. Our next question comes from Scott Hanold from RBC Capital Markets. Please go ahead. Your line is open. 
+asr:0: OUTPUT 2527.39-2533.87: Thanks. Could you give us some color on US natural gas prices? It's been pretty strong in the past. 
+asr:0: OUTPUT 2533.89-2538.76: Is there ability for Conoco to flex for that a little bit? 
+asr:0: OUTPUT 2538.86-2544.16: Where is your opportunity outside of associated gas or is that really the opportunity? 
+asr:0: OUTPUT 2546.83-2556.22: Yeah, I think the main opportunity for us, Scott, is associated gas. We probably have a little bit in the Atatarko Basin, but that's not capturing a lot of our capital right now. 
+asr:0: OUTPUT 2556.48-2566.21: It mostly for us where it's still a pretty big big marketer. So we we were moving over 8 p.c. F a gas a day. 
+asr:0: OUTPUT 2566.77-2568.63: So we see a lot of that. 
+asr:0: OUTPUT 2568.69-2573.97: We're getting some uplift on the commercial side of our business with some of the transport. 
+asr:0: OUTPUT 2573.99-2581.72: We have that takes gas from the Permian to the West Coast and down south to Arizona and even even into Mexico. So. 
+asr:0: OUTPUT 2582.18-2590.87: That's how we're kind of taking advantage of the kind of market as we see it today. And but just an absolute production side, we're not looking to ramp up. 
+asr:0: OUTPUT 2591.37-2596.60: You know dry gas and it's mostly coming from the associated gas with the unconventional production. 
+asr:0: OUTPUT 2599.58-2602.28: Some of the marketing benefits you all see. 
+asr:0: OUTPUT 2605.41-2610.39: Shrek let Bill, he's head of our commercial organization, to maybe provide a bit of color there. 
+asr:0: OUTPUT 2610.87-2616.02: Yeah, sure. So, Scott, we have a very active commercial organization. 
+asr:0: OUTPUT 2616.34-2621.50: Ryan mentioned that we're moving a little over 8 BCF a day. We're the fifth largest gas marketer in the U.S. 
+asr:0: OUTPUT 2622.02-2627.81: And we provide a variety of services to various customers ranging from asset management agreements to. 
+asr:0: OUTPUT 2627.83-2632.27: To offtake agreements and that provides an ability to one have insight into the market. 
+asr:0: OUTPUT 2632.67-2635.56: And also to gain margin across moving across pipelines. 
+asr:0: OUTPUT 2636.42-2642.50: So we continue to look at that and continue to move and we're shipping gas for a profit. 
+asr:0: OUTPUT 2645.47-2651.23: So, you know, of that 800, eight, eight BCF a day. 
+asr:0: OUTPUT 2651.59-2655.64: Know, 500 million cubic feet a day of it is ours, the rest of us third party volume. 
+asr:0: OUTPUT 2656.22-2659.50: And so we're in and out of the market on both sides on a daily basis. 
+asr:0: OUTPUT 2665.25-2671.65: Thank you. Our next question comes from Doug Ligate from Bank of America. Please go ahead. Your line is open. 
+asr:0: OUTPUT 2672.63-2673.95: Thanks. Good morning, everybody. 
+asr:0: OUTPUT 2675.16-2679.48: I wonder, Bill, maybe I could start off with you and ask you to. 
+asr:0: OUTPUT 2679.50-2687.65: The. 
+asr:0: OUTPUT 2688.73-2690.19: I'm sure you guys have looked at this. 
+asr:0: OUTPUT 2690.25-2699.44: But the thing that strikes me as a little bit disturbing is the potential for a minimum 15% P&L tax that puts NOLs. 
+asr:0: OUTPUT 2699.90-2707.29: Under a bit of a spotlight. So I'm just wondering if you guys have thought anywhere about that, any scenarios that you've run, outcomes that you might expect. 
+asr:0: OUTPUT 2711.59-2719.14: Yeah, sure. We've certainly taken a look at the various tax proposals out there, including the Biden tax proposal. 
+asr:0: OUTPUT 2719.50-2724.44: There's two primary elements of that that would impact us. 
+asr:0: OUTPUT 2724.90-2729.85: The first one is obviously the change in the corporate tax rate from 21 to 28%. 
+asr:0: OUTPUT 2730.37-2734.75: And the second one that would be fairly significant would be removal IDCs. 
+asr:0: OUTPUT 2735.22-2742.84: Particularly in our capital program and needing to depreciate those over time. 
+asr:0: OUTPUT 2743.12-2748.19: Those are the two main aspects as we look through it that really would have an impact on us. 
+asr:0: OUTPUT 2750.67-2755.20: I guess I should have been clear I was talking about a potential Biden administration and. 
+asr:0: OUTPUT 2755.78-2762.34: Maybe as a follow-up then, and I know it's something that is a little bit too obvious, but we don't maybe ask it enough. 
+asr:0: OUTPUT 2762.80-2772.39: Ryan, when yourself and Matt put together the tidal wave scenarios and all the other scenarios that you laid out at the strategy day,. 
+asr:0: OUTPUT 2773.59-2782.42: We've now seen what we think is a lot of the signs of a cycle coming to a bottom with consolidation, yourselves being part of that. 
+asr:0: OUTPUT 2782.92-2786.53: How does this, what you're seeing right now, beyond COVID,. 
+asr:0: OUTPUT 2786.55-2793.11: Influence your thoughts on longer-term supply demand as you think about scenario planning. I'll leave it there. Thanks. 
+asr:0: OUTPUT 2795.36-2800.44: I think I'll maybe add a few comments and Matt can jump in as well. 
+asr:0: OUTPUT 2800.84-2807.59: Yeah, we spent a lot of time trying to think about what the trajectory of the recovery looks like. 
+asr:0: OUTPUT 2807.61-2816.08: By a couple of competing factors. We certainly see demand recovery. We uncertain whether it gets fully back to 100 million barrels a day. 
+asr:0: OUTPUT 2816.60-2821.06: But probably taking a bit of a bit of time to get there. 
+asr:0: OUTPUT 2821.64-2828.27: And then I think equally important and maybe overlooked a little bit is what's happening on the supply side. 
+asr:0: OUTPUT 2828.65-2837.74: Maybe masked a little bit today by duck inventory. But you know, when the declines and the declines are hitting in and it was masked by curtailments coming back on. 
+asr:0: OUTPUT 2838.22-2841.42: You know there's going to be a drop in US supply as well. 
+asr:0: OUTPUT 2841.78-2844.70: So i can uh... That can probably try and then uh... 
+asr:0: OUTPUT 2844.72-2854.01: Describe a little bit about the net effect to the scenarios that we're thinking about as we debate our capital program and how much to put back to work. 
+asr:0: OUTPUT 2856.38-2858.86: Doug, if you're with me, I think you and I have discussed. 
+asr:0: OUTPUT 2858.94-2867.37: This. 
+asr:0: OUTPUT 2868.03-2876.98: Is somewhere between 6.5 and 7 million barrels a day. We'll be able to get better calibration on that as we approach the end of the year. 
+asr:0: OUTPUT 2877.58-2882.04: That compares to over 8 million barrels a day in December of last year, 8.2. 
+asr:0: OUTPUT 2883.66-2887.13: And to some extent that drop flatters to deceive. 
+asr:0: OUTPUT 2887.15-2896.54: The. 
+asr:0: OUTPUT 2897.04-2903.18: When we model this, and I know that you do too, the strip prices in the low 40s,. 
+asr:0: OUTPUT 2904.08-2911.01: We think the industry is going to struggle to maintain flat production at December's rates through 2021 and into 2022. 
+asr:0: OUTPUT 2911.57-2917.96: 21 will get a bit of a lift from the ducks, but people are going to live within cash flow. 
+asr:0: OUTPUT 2918.38-2923.70: Going to be a real challenge to see tight oil at 7 million barrels a day. 
+asr:0: OUTPUT 2924.16-2927.33: As it's likely to be less than that in 2021 and 2022. 
+asr:0: OUTPUT 2927.79-2935.06: If you compare that to the trajectory we were on, that's at least 4 million barrels a day less than the pre-COVID trend. 
+asr:0: OUTPUT 2935.60-2945.53: In. 
+asr:0: OUTPUT 2945.97-2950.45: So although there is definitely uncertainty in how much the demand effect will be,. 
+asr:0: OUTPUT 2950.47-2957.08: It's likely to be less of a demand effect than the supply effect, certainly over the next few years. 
+asr:0: OUTPUT 2957.48-2965.87: So to the premise of your question initially, are we setting up for the bottom of a cycle here? It certainly feels that way to us. 
+asr:0: OUTPUT 2966.11-2971.47: And the exact moment of turn will be dependent upon the... 
+asr:0: OUTPUT 2971.49-2976.28: Demand and the COVID and what OPEC do in the short term. 
+asr:0: OUTPUT 2976.34-2984.04: But we're certainly setting up for a tighter supply-demand balance in a year or so, if not before that. 
+asr:0: OUTPUT 2987.43-2996.26: Yeah, so short, medium term, all about demand. Medium, longer term, supply starts to enter the picture as Matt described. 
+asr:0: OUTPUT 2996.42-3001.66: We have a couple of couple two three scenarios around how we how we think what that slope and. 
+asr:0: OUTPUT 3001.68-3003.16: Trajectory look like. 
+asr:0: OUTPUT 3009.67-3015.36: Our next question comes from Paul Chang from Scotia Bank. Please go ahead, your line is open. 
+asr:0: OUTPUT 3016.78-3024.38: Hey guys, good morning. Good morning, Paul. Why is that? Maybe it's a little bit of a curveball here. 
+asr:0: OUTPUT 3025.49-3029.79: If we look at the trading and optimization or commercial operation. 
+asr:0: OUTPUT 3030.31-3036.70: Historically, the US looking at that as a call center, mainly for facilitation. 
+asr:0: OUTPUT 3037.24-3042.20: The European on the other hand take a more aggressive approach and looking at it as a profit-centered. 
+asr:0: OUTPUT 3043.20-3048.59: And they seem to be doing quite well and have a good logic to trade around your physical assets. 
+asr:0: OUTPUT 3049.03-3053.73: So from that standpoint, Will Connickle should look at. 
+asr:0: OUTPUT 3053.87-3060.38: That operation and see whether that could allow you to have a higher performance and higher return. 
+asr:0: OUTPUT 3060.48-3067.85: Or that you think facilitation is better and you don't want to take on that swing in earning and the higher risk. 
+asr:0: OUTPUT 3068.01-3069.19: So that's the first question. 
+asr:0: OUTPUT 3069.99-3076.34: The second question, with the left for argument sake if you decide. 
+asr:0: OUTPUT 3076.42-3086.03: Your longer term 10-year plan has changed due to different market conditions and that's such that your future growth rate is going to be lower. 
+asr:0: OUTPUT 3086.87-3096.52: With the addition of the control asset, what other assets in your portfolio will take more of the backseat and seeing lesser capital investment? 
+asr:0: OUTPUT 3096.70-3101.42: If you can cite, say, the number one, number two on that. 
+asr:0: OUTPUT 3102.18-3103.54: If that's possible. Thank you. 
+asr:0: OUTPUT 3106.43-3109.53: Yeah, so let me take the first one and... 
+asr:0: OUTPUT 3109.75-3117.08: Maybe Matt can chime in on the second one on the capital investments. So the first one, yeah, we're looking at the commercial space and with the addition of Concho,. 
+asr:0: OUTPUT 3117.64-3122.72: You know it is a did you describe all of the kind of a car center inside the company but. 
+asr:0: OUTPUT 3122.74-3128.97: We're looking at expanding that as we think about the future and what the contrasts that spring. 
+asr:0: OUTPUT 3129.49-3137.90: I think as Dominic described earlier, they sell mostly at the wellhead, so we got some opportunity to add value there to both the gas and the oil side. 
+asr:0: OUTPUT 3138.14-3152.29: We're building more export capacity as a company and in fact have done some sales to point sales to customers where we take the middleman out of the equation and we found that quite. 
+asr:0: OUTPUT 3152.31-3161.00: A. 
+asr:0: OUTPUT 3161.02-3163.42: It absolutely represents a. 
+asr:0: OUTPUT 3163.46-3166.07: A big part of. 
+asr:0: OUTPUT 3166.09-3170.67: Of how we can expand the commercial organization and think about it differently too. 
+asr:0: OUTPUT 3171.65-3173.91: Bill described the market share that we have already. 
+asr:0: OUTPUT 3174.33-3178.78: And that's only going to get bigger as we go forward. 
+asr:0: OUTPUT 3178.96-3184.66: We're looking for more contribution from the commercial side across the whole portfolio. 
+asr:0: OUTPUT 3186.27-3193.13: Maybe Matt, if you want to take the capital allocation as a result of integrating the contra assets. 
+asr:0: OUTPUT 3193.23-3200.00: Again, I go back to our, it's a cost of supply primary criteria, but Matt can provide a bit more details about. 
+asr:0: OUTPUT 3200.60-3201.88: What might fall out. 
+asr:0: OUTPUT 3204.10-3213.95: Yes, Paul, as you know, what we do is we try to optimize each of our individual parts of the portfolio to get the optimum pace. 
+asr:0: OUTPUT 3214.43-3215.90: I am using that. 
+asr:0: OUTPUT 3215.96-3217.88: A set of decision criteria. 
+asr:0: OUTPUT 3218.08-3224.36: But the most important of which is that we're not going to invest above an incremental cost of supply of $40. 
+asr:0: OUTPUT 3224.38-3228.81: Barrel and we described that to some length back in November of last year. 
+asr:0: OUTPUT 3229.49-3238.08: We look at the optimization of each and then we put it together and we maybe make a few adjustments, but we're trying to honor the optimum in each of the assets. 
+asr:0: OUTPUT 3239.56-3246.87: There is flexibility across the portfolio and we can adjust the pace of any given project by a year or so. 
+asr:0: OUTPUT 3247.07-3250.13: The rate at which we increase the ramp and the number of rigs. 
+asr:0: OUTPUT 3250.53-3258.62: I wouldn't call out any specific asset. If we decide that we want to grow at 2% instead of 4% or something like that,. 
+asr:0: OUTPUT 3258.84-3267.07: The flexibility across the portfolio to do that and still honor our criteria. That wouldn't bust the criteria. 
+asr:0: OUTPUT 3267.39-3274.41: The obvious places are Lower 48, Alaska, that's where the flexibility mostly exists, and maybe in Canada as well. 
+asr:0: OUTPUT 3274.71-3281.60: I wouldn't really call it a specific asset. We're trying to optimise across the portfolio. 
+asr:0: OUTPUT 3281.90-3290.69: But the issue is, if you're not optimizing across a diverse portfolio, then you're not maximizing the value that the diversification brings you. 
+asr:0: OUTPUT 3291.07-3297.74: So we're trying to do this to make sure that we're running each of these assets at their optimal. 
+asr:0: OUTPUT 3303.18-3309.77: Thank you. Our next question comes from Jeffrey from Tutor Pickering. Please go ahead. Your line is open. 
+asr:0: OUTPUT 3311.11-3313.63: Thanks for taking my questions. 
+asr:0: OUTPUT 3313.69-3318.44: On ESG and the Paris aligned climate risk strategy and I think your commentary earlier. 
+asr:0: OUTPUT 3318.52-3325.21: Answered a lot of what I'm looking for with the oil sands specific examples and just your comments on investment decisions. 
+asr:0: OUTPUT 3326.01-3334.17: But is there anything incremental you can share at this point on other operational changes that you're undertaking and focusing on for the broader portfolio? 
+asr:0: OUTPUT 3334.53-3342.74: Just trying to get a sense for the scope of some of these projects you've mentioned, again, in terms of what's in focus, whether that's new technology around monitoring. 
+asr:0: OUTPUT 3342.76-3346.11: Retrofitting equipment for emissions control or what have you. 
+asr:0: OUTPUT 3349.77-3352.77: Yeah, thanks. It's Dominic. I'll just take that, you know. 
+asr:0: OUTPUT 3352.83-3362.18: I was very much involved in the low of 48 and there's some really important progress we're making there. 
+asr:0: OUTPUT 3362.20-3371.27: I think we announced a couple of things here along with our new Paris aligned strategy. 
+asr:0: OUTPUT 3371.47-3376.32: One was, you know, commitment to zero routine flaring. 
+asr:0: OUTPUT 3376.86-3384.00: And. 
+asr:0: OUTPUT 3384.64-3389.85: This is a real breakthrough for us. We're able to do this now at very reasonable cost. 
+asr:0: OUTPUT 3390.07-3399.66: And we're able to now basically on our key sites we'll have this implemented. I think we'll have about 65% of our low 48 production covered. 
+asr:0: OUTPUT 3400.00-3402.18: By early next year. 
+asr:0: OUTPUT 3402.66-3411.21: And this technology at very low cost allows us to sample the emissions around sites looking for methane every 15 seconds. 
+asr:0: OUTPUT 3411.65-3416.58: And from that we can respond very quickly to any aberrations that we can address very quickly. 
+asr:0: OUTPUT 3417.02-3422.58: The those are a couple of really important initiatives for us that contribute to that overall. 
+asr:0: OUTPUT 3422.68-3429.43: Commitment we have to reduce our GHG intensity by 35 to 45 percent. 
+asr:0: OUTPUT 3429.45-3430.91: By 2030. 
+asr:0: OUTPUT 3432.25-3435.84: And we're really a first mover on this as you'll know uh... Jeff you know uh... 
+asr:0: OUTPUT 3435.92-3441.94: We were the first US-based oil and gas company to set a GHG intensity target and were the first. 
+asr:0: OUTPUT 3441.96-3445.95: US-based oil and gas company to to commit to being Paris aligned. 
+asr:0: OUTPUT 3453.25-3460.32: Thank you. Our next question comes from Pavel Malchanov from Raymond James. Please go ahead. Your line is open. 
+asr:0: OUTPUT 3461.28-3468.75: Thanks for the question. Two quick ones, both regarding Europe. I guess it's about 10% of your gas volumes. 
+asr:0: OUTPUT 3469.59-3478.30: You know, no one is accustomed to seeing North Sea gas prices below $3 an MCF, but we've had that the last two quarters. 
+asr:0: OUTPUT 3479.34-3487.05: Is that a COVID-related demand situation or is there something more structural in that market? 
+asr:0: OUTPUT 3491.51-3495.74: I think that this is Bill. I think that as you think about that, that's. 
+asr:0: OUTPUT 3495.78-3503.30: That's more what we've seen with COVID related and demand related issues right now as we think about long term the macro supply around the world. 
+asr:0: OUTPUT 3505.77-3507.75: We would see markets. 
+asr:0: OUTPUT 3507.77-3517.20: Tend to more arbitrage off of the US Gulf Coast with LNG markets starting to move volumes both into Europe and into Asia as the incremental barrel. 
+asr:0: OUTPUT 3517.94-3524.78: I think that what you're seeing is a short-term response to supply-demand and not a long-term structural change. 
+asr:0: OUTPUT 3525.99-3527.97: And to follow up on that. 
+asr:0: OUTPUT 3528.05-3536.48: In about six weeks, the European climate law will be approved by the EU leaders, which will make the North Sea. 
+asr:0: OUTPUT 3536.50-3542.96: The one part of your portfolio that is covered by a net zero mandate. 
+asr:0: OUTPUT 3544.02-3553.53: Does that change anything in terms of how you were thinking about that asset, given the decarbonization targets for the EU as a whole? 
+asr:0: OUTPUT 3556.82-3563.46: Not really, I think we're continuing to make adjustments. What we're left with in the Europe portfolio is our Norwegian assets. 
+asr:0: OUTPUT 3563.60-3566.57: And uh... You know it's a little. 
+asr:0: OUTPUT 3566.59-3577.88: Carbon intensity assets we have that are offshore and looking at other options to continue to reduce our emissions through electrification and additions there. 
+asr:0: OUTPUT 3577.94-3578.96: As we look at it. 
+asr:0: OUTPUT 3579.06-3582.08: It's minimal addition to the cost of supply. 
+asr:0: OUTPUT 3582.56-3586.55: And it's quite manageable and Norway still is very competitive in the portfolio. 
+asr:0: OUTPUT 3590.77-3594.25: This is Ellen. We'll go ahead and take our last question if you don't mind. Thank you. 
+asr:0: OUTPUT 3597.34-3605.67: Absolutely, thank you. Our next question comes from Phillips Johnson from Capital One. Please go ahead. Your line is now open. 
+asr:0: OUTPUT 3607.73-3613.47: Hey guys, thanks. Just one question for me that relates to your future return of capital to shareholders. 
+asr:0: OUTPUT 3614.35-3621.12: In the last five years, you guys have repurchased a little over $10 billion worth of stock at an average price of around 62 a share. 
+asr:0: OUTPUT 3621.92-3626.19: But at today's share price, the paper loss on that program is pretty substantial. 
+asr:0: OUTPUT 3626.65-3630.43: I realize you guys plan to repurchase more stock here in the fourth quarter, but I've. 
+asr:0: OUTPUT 3631.03-3634.63: Wanted to ask if there's any appetite at the board level to. 
+asr:0: OUTPUT 3634.65-3642.46: To scrap the idea of share repurchases and instead pursue a fixed plus variable dividend strategy that would. 
+asr:0: OUTPUT 3643.38-3648.93: That would target paying out a certain percentage of your free cash flow directly to shareholders each quarter. 
+asr:0: OUTPUT 3651.59-3657.90: I think the most important thing is your last piece of that where we are targeting over 30% of our cash back to the shareholders. 
+asr:0: OUTPUT 3658.20-3668.19: That's what we've committed to and delivered on in excess over the last three to four years since we kind of came out to reestablish a new value proposition for this business. 
+asr:0: OUTPUT 3668.85-3672.75: And I think the dividend today is certainly covering a large share of that. 
+asr:0: OUTPUT 3673.15-3678.88: Also think that buying our shares back at this kind of level is an important thing to do too because. 
+asr:0: OUTPUT 3678.90-3684.08: Shares are certainly well undervalued. It's certainly relative to where we think mid-cycle price should be. 
+asr:0: OUTPUT 3684.38-3687.09: I don't think we'll give up on share repurchases completely. 
+asr:0: OUTPUT 3687.35-3692.77: You made a real point. I mean, we wanted to buy our shares through the cycle and. 
+asr:0: OUTPUT 3693.21-3699.10: This was a pretty significant downturn with curtailed production and the like going on in the second quarter. 
+asr:0: OUTPUT 3699.48-3706.13: So we did suspend for a while. We wanted to restart up because the benefit to really buying your shares is not just buy them. 
+asr:0: OUTPUT 3706.17-3716.62: When you're at mid-cycle price, but continue to buy them through the low end of the cycle, because that's what brings down the average cost of your shares, obviously. 
+asr:0: OUTPUT 3716.74-3721.22: We still think it's going to be a piece of our return to shareholder pie. 
+asr:0: OUTPUT 3721.74-3723.76: And the question begins, what happens? 
+asr:0: OUTPUT 3723.90-3732.25: On. 
+asr:0: OUTPUT 3732.55-3735.14: We've had conversations around that with the market. 
+asr:0: OUTPUT 3735.22-3744.76: And we continue to look at all the different ways to do that and continue to be open to all the different ways to do that. But at this 10 seconds, the dividend more than satisfies our return to shareholders. 
+asr:0: OUTPUT 3748.41-3754.31: Thank you. We have no further questions at this time. I'd like to turn the call back over to Ellen. Thank you. 
+asr:0: OUTPUT 3755.14-3762.92: Great. Thanks, Inara. Thanks to our listeners. By all means, reach back to us if you have any follow-up questions, and we really appreciate your... 
+asr:0: OUTPUT 3762.94-3765.33: Interest and support in ConocoPhillips. Thank you. 
+asr:0: OUTPUT 3767.27-3773.67: Thank you and thank you ladies and gentlemen, this concludes today's conference. Thank you for participating. You may now disconnect. 
+asr:0: END

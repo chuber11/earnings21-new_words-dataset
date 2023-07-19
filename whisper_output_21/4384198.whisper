@@ -1,0 +1,351 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.62-10.21: Greetings and welcome to the new home company third quarter 2020 results conference call. At this time all participants are in a listen only mode. 
+asr:0: OUTPUT 10.57-13.45: A question and answer session will follow the formal presentation. 
+asr:0: OUTPUT 14.01-19.14: If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. 
+asr:0: OUTPUT 19.80-29.21: As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, Drew McIntosh, Investor Relations for the New Home Company. Thank you. You may begin. 
+asr:0: OUTPUT 30.01-37.58: Good morning. Welcome to the new home company earnings conference call. Earlier today, the company released its financial results for the third quarter of 2020. 
+asr:0: OUTPUT 38.30-44.94: Documents detailing these results are available in the investor relations section of the company's website at nwhm.com. 
+asr:0: OUTPUT 46.35-55.36: Before the call begins, I would like to remind everyone that certain statements made in the course of this call which are not historical facts or forward-looking statements that involve risks and uncertainty. 
+asr:0: OUTPUT 56.58-64.70: A discussion of such risks and uncertainties and other important factors that could cause actual operating results to differ materially from those in the forward-looking statements. 
+asr:0: OUTPUT 65.03-74.49: Are detailed in the company's filings made with the SEC, including its most recent annual report on Form 10-K and in its quarterly reports on Form 10-Q. 
+asr:0: OUTPUT 75.36-80.34: The company undertakes no duty to update these forward-looking statements that are made during the course of this call. 
+asr:0: OUTPUT 81.22-85.63: Additionally, non-GAAP financial measures may be discussed on this conference call. 
+asr:0: OUTPUT 86.47-95.30: Reconciliation of these non-GAAP financial measures to the most comparable measures prepared in accordance with GAAP can be accessed through the New Home Company's website. 
+asr:0: OUTPUT 95.32-97.16: And in its filings with the SEC. 
+asr:0: OUTPUT 98.14-106.53: Hosting the call today is Larry Webb, Executive Chairman, Leonard Miller, President and Chief Executive Officer, and John Stevens, Chief Financial Officer. 
+asr:0: OUTPUT 107.09-109.07: With that, I will now turn the call over to Larry. 
+asr:0: OUTPUT 111.03-118.52: Thanks, Drew, and good morning to everyone joining us on the call today as we go over our results for the third quarter of 2020. 
+asr:0: OUTPUT 119.22-124.70: Provide an update of our strategic outlook, and give some additional color on our operations. 
+asr:0: OUTPUT 125.97-133.41: The new home company made significant progress on a series of strategic initiatives and generated a profit in the third quarter of 2020. 
+asr:0: OUTPUT 135.36-143.08: We experience healthy expansion to our home building gross margin while continuing to emphasize overhead cost containment. 
+asr:0: OUTPUT 143.42-148.51: Thanks to several operational improvements and a very strong housing rebound. 
+asr:0: OUTPUT 149.71-159.12: We generated 251 net new orders in the quarter, representing a 102% increase as compared to last year. 
+asr:0: OUTPUT 160.00-168.83: Mainly as a result of a 75% improvement in our sales pace, which came in at 3.5 homes per community per month. 
+asr:0: OUTPUT 170.03-178.70: Order activity improved as the quarter progressed, and we have seen demand trends stay above normal seasonal levels since the quarter ended. 
+asr:0: OUTPUT 180.64-190.37: The new home market is benefiting from several positive factors, including record low interest rates, the scarcity of existing home inventory,. 
+asr:0: OUTPUT 190.39-194.01: And a noticeable shift in attitudes towards home ownership. 
+asr:0: OUTPUT 195.32-198.74: Some of this shift can be attributed to the ongoing pandemic. 
+asr:0: OUTPUT 199.18-205.93: Which has made many Americans rethink how and where they live, given all the ways the virus is impacting our lives. 
+asr:0: OUTPUT 207.11-216.06: But an equally important factor driving the move to homeownership has been the emergence of the millennial age cohort as a buyer demographic. 
+asr:0: OUTPUT 217.42-224.88: This sizable age group was slower to enter the housing market relative to earlier generations due to a number of factors. 
+asr:0: OUTPUT 225.67-230.79: But we are now seeing millennials make up an increasingly large share of the buyer population. 
+asr:0: OUTPUT 231.81-236.16: This demographic shift was occurring well before the pandemic started. 
+asr:0: OUTPUT 236.68-242.30: And we believe it will be a driving force for our industry well after the pandemic. 
+asr:0: OUTPUT 243.62-250.23: While the positive fundamental backdrop for our industry has been a nice tailwind for our business. 
+asr:0: OUTPUT 250.73-257.96: We believe our strong order activity this quarter was also the result of our expansion to more affordable price points. 
+asr:0: OUTPUT 259.40-264.30: Over the last few years, we have been transitioning much of our portfolio. 
+asr:0: OUTPUT 264.32-269.65: Away from high ASP communities and into the more affordable segments of the market. 
+asr:0: OUTPUT 271.05-277.54: The goal is to take our premium brand experience that is centered around industry-leading customer service. 
+asr:0: OUTPUT 277.74-281.12: Best-in-class quality and innovative design. 
+asr:0: OUTPUT 281.94-287.45: And make it more accessible through efficient floor plans and higher density projects. 
+asr:0: OUTPUT 288.81-296.16: This focus has served us well in recent quarters and dovetails nicely with the millennial demographic trends I just mentioned. 
+asr:0: OUTPUT 297.86-306.13: Order activity in our newly opened affordable communities has outpaced our legacy higher price communities by a wide margin. 
+asr:0: OUTPUT 306.95-312.13: And we are seeing better prices and margin trends at these lower price communities as well. 
+asr:0: OUTPUT 314.23-323.30: This pricing power has been a key ingredient in making headway with one of our main initiatives for the year, gross margin expansion. 
+asr:0: OUTPUT 324.20-331.91: Over the past several quarters, our margins have been depressed due to our focus on generating cash, shoring up the balance sheet. 
+asr:0: OUTPUT 331.93-335.36: And turning through higher price legacy communities. 
+asr:0: OUTPUT 336.56-346.47: And now that we are in a much better position from both a financial and product standpoint, we have an opportunity to show real improvement on the gross margin front. 
+asr:0: OUTPUT 347.61-357.46: We posted a 320 basis point year over year increase to our home building gross margin in the third quarter, excluding impairments in the prior year. 
+asr:0: OUTPUT 358.30-366.43: And we feel we can push margins higher over time through steady price increases, better product mix and cost containment. 
+asr:0: OUTPUT 367.41-375.66: While this margin progression will fluctuate depending on the mix of closings, we believe the long-term trajectory is headed in the right direction. 
+asr:0: OUTPUT 377.54-384.90: With a healthy demand outlook, a great product profile, rising margins, and a much improved balance sheet. 
+asr:0: OUTPUT 385.61-393.11: The new home company is in a great position to end the year on a strong note and carry that momentum into the new year. 
+asr:0: OUTPUT 394.45-399.98: With that, I'd like to turn the call over to Leonard, who will provide more detail on our operation. 
+asr:0: OUTPUT 402.22-406.09: Thanks Larry and good morning to everyone joining us on the call today. 
+asr:0: OUTPUT 407.03-411.39: We experienced a widespread acceleration in demand in the third quarter. 
+asr:0: OUTPUT 411.45-416.56: Driven by low mortgage rates, limited existing home supply,. 
+asr:0: OUTPUT 416.58-424.58: A desire from buyers to move to less densely populated areas, and the surge in millennial buyers that Larry mentioned. 
+asr:0: OUTPUT 425.93-431.43: The demand was broad-based, both from a price point and geographic standpoint. 
+asr:0: OUTPUT 431.47-436.32: Which allowed us to push pricing at nearly all of our communities during the quarter. 
+asr:0: OUTPUT 437.40-449.95: Traffic conversion rates are at all-time highs as buyers feel a sense of urgency to move forward with a purchase decision given the lack of available supply and low interest rates. 
+asr:0: OUTPUT 450.97-460.92: As a result, our homes and backlog increased to 329, which represented a 59% year-over-year improvement to end the quarter. 
+asr:0: OUTPUT 462.14-468.69: Looking ahead, we expect order activity to remain above normal seasonal trends in the near term. 
+asr:0: OUTPUT 469.33-476.16: But our focus has shifted slightly given the size of our backlog and our desire to increase margins. 
+asr:0: OUTPUT 476.88-485.21: We want to make sure our sales don't get too far out in front of our starts while also maximizing the profit from each new home sale. 
+asr:0: OUTPUT 486.05-495.84: To that end, we have delayed some sales releases in an effort to align our sales with construction starts and implement additional price increases. 
+asr:0: OUTPUT 496.68-506.55: While this may moderate our sales pace from the levels we have experienced recently, we believe this is a prudent way to manage our backlog and improve our margins. 
+asr:0: OUTPUT 508.31-512.49: In terms of cost, lumber recently hit an all-time high. 
+asr:0: OUTPUT 512.51-522.08: Driven by diminished capacities, tariffs, uncertainty of COVID on workers in the mills, and a rapid increase in sales and starts. 
+asr:0: OUTPUT 522.94-529.29: Fortunately, we have started to see lumber pricing come down from its highs and hope this trend continues. 
+asr:0: OUTPUT 529.97-533.69: Outside of lumber, our material costs have remained relatively flat. 
+asr:0: OUTPUT 534.67-543.72: With respect to our markets, Arizona continues to be the standout performer for us, averaging 4.1 sales per community per month. 
+asr:0: OUTPUT 544.62-551.37: This strong absorption was driven by seven new communities we've recently opened over the past five months. 
+asr:0: OUTPUT 551.39-557.54: Which have also generated gross margins meaningfully higher than the company average. 
+asr:0: OUTPUT 558.44-567.55: Our Mariposa Mini Master Plan consisting of three product segments opened the last week of September and sold 18 homes during the quarter. 
+asr:0: OUTPUT 568.13-573.33: While our Mosaic Mini Master Plan continues to experience solid sales as well. 
+asr:0: OUTPUT 574.43-580.40: We will deliver our first homes from our affordably priced communities in Arizona in the fourth quarter. 
+asr:0: OUTPUT 580.68-586.63: And we expect these communities to contribute significantly to the company's profit in 2021. 
+asr:0: OUTPUT 587.91-594.25: Arizona still remains our most challenged market when it comes to labor and sub-trade availability. 
+asr:0: OUTPUT 594.89-599.22: And we have seen a lengthening of our cycle times by a few weeks as a result. 
+asr:0: OUTPUT 600.10-608.23: We are working hard to overcome these issues and believe Arizona will be a key contributor to our company's success moving forward. 
+asr:0: OUTPUT 609.63-616.68: The market dynamics in California as a whole feel the best that they've been during the current housing cycle. 
+asr:0: OUTPUT 617.48-624.12: Order paces continue to run at high levels and we are seeing cycle times stay relatively consistent. 
+asr:0: OUTPUT 624.88-632.75: In Southern California, our communities averaged a sales pace of 3.1 per month during the quarter. 
+asr:0: OUTPUT 633.29-641.96: Demand was particularly strong in the core areas of the Inland Empire where we can offer our premium brand experience at lower price points. 
+asr:0: OUTPUT 642.80-648.55: We've targeted this region as a key component of our expansion into more affordable product. 
+asr:0: OUTPUT 648.63-655.62: And we anticipate opening five affordably priced communities within the Inland Empire over the next 18 months. 
+asr:0: OUTPUT 656.74-664.70: In Northern California, our communities average 3.6 sales per month for the quarter, with strength across the board. 
+asr:0: OUTPUT 665.57-674.13: Affordability remains an issue for most buyers in the core bay area and we've limited our exposure to this market as we have nearly closed out. 
+asr:0: OUTPUT 674.15-676.94: At our remaining community in Milpitas. 
+asr:0: OUTPUT 677.80-684.18: We continue to see a migration from the Bay Area into the more affordable areas in and around Sacramento. 
+asr:0: OUTPUT 684.84-690.27: Our four communities in Vacaville, California have benefited significantly from this migration. 
+asr:0: OUTPUT 690.81-699.10: As our monthly sales absorption pace was 4.4 homes per community during the 2020 third quarter. 
+asr:0: OUTPUT 700.26-703.92: As we continue to make changes to improve our profitability. 
+asr:0: OUTPUT 704.26-710.35: We believe there is potential in our fee building business and are currently sourcing new opportunities. 
+asr:0: OUTPUT 711.21-720.94: During the third quarter, we started construction on the model complex at Atlas, our fee building community for Five Point at the Great Park in Irvine. 
+asr:0: OUTPUT 721.58-725.21: And expect to open for sales in early 2021. 
+asr:0: OUTPUT 726.01-731.91: This arrangement is different than most of the traditional fee building arrangements we've had in the past. 
+asr:0: OUTPUT 732.53-737.06: As the new home company will also brand, market, and sell these homes. 
+asr:0: OUTPUT 737.72-746.01: We are currently in discussions with other land owners to build four cell housing and single family rental housing on a fee basis. 
+asr:0: OUTPUT 746.75-753.49: These future opportunities will help partially offset a near-term reduction in fee-building revenues. 
+asr:0: OUTPUT 753.51-759.76: Resulting from Irvine Pacific's decision to manage the construction of their home building operations. 
+asr:0: OUTPUT 759.80-764.16: On their own and phase out or be building an arrangement with them. 
+asr:0: OUTPUT 765.31-772.77: As a result, we expect our fee building revenues to decline over the next year and then increase in 2022. 
+asr:0: OUTPUT 772.79-777.66: As new opportunities start generating fee revenue and profits. 
+asr:0: OUTPUT 778.34-786.07: We are excited for these new opportunities and believe they can generate meaningful income in the future using nominal capital. 
+asr:0: OUTPUT 787.19-797.02: In summary, we continue to benefit from extremely strong housing fundamentals in all of our markets, and our recently opened communities have been well received. 
+asr:0: OUTPUT 797.62-806.11: We are working hard to take advantage of the demand strength we are seeing with targeted price increases in an effort to improve our profitability. 
+asr:0: OUTPUT 806.91-812.31: We make good strides on this front in the third quarter and expect to make further progress in the future. 
+asr:0: OUTPUT 813.41-818.28: Now I'd like to turn it over to John for more detail on our financial results this quarter. 
+asr:0: OUTPUT 819.90-821.34: Thank you, Leonard, and good morning. 
+asr:0: OUTPUT 822.04-829.47: For the 2020 third quarter, we generated pre-tax income of $1.5 million compared to $4.8 million. 
+asr:0: OUTPUT 829.49-832.69: Dollars pre-tax loss in the year ago period. 
+asr:0: OUTPUT 833.81-839.64: The 2019 third quarter included a total of 3.6 million of inventory and pyramid charges. 
+asr:0: OUTPUT 839.68-845.67: Had a $1.5 million loss on a land sale in the prior year's third quarter. 
+asr:0: OUTPUT 847.43-851.95: Net income for the quarter was $1.2 million or $0.06 per diluted share. 
+asr:0: OUTPUT 852.65-859.08: Compared to a net loss of $4.6 million, or $0.23 per diluted share in the prior year period. 
+asr:0: OUTPUT 860.28-868.25: Our home sales revenue for the third quarter was $117.4 million, compared to $118.8 million in the prior year period. 
+asr:0: OUTPUT 869.47-878.36: The slight decrease compared to the prior year was attributable to a 22% decrease in average selling price to $748,000. 
+asr:0: OUTPUT 878.38-882.58: Resulting from our continued expansion into lower price points. 
+asr:0: OUTPUT 882.60-887.19: Which was partially offset by a 27% increase in deliveries. 
+asr:0: OUTPUT 888.35-896.76: We estimate 2020 fourth quarter home sales revenue to be between $115 and $125 million. 
+asr:0: OUTPUT 896.78-902.76: And our average selling price for the fourth quarter to be approximately $720,000. 
+asr:0: OUTPUT 904.88-912.11: Our gross margin for the 2020 third quarter was 14.2% versus 9.5% in the prior year period. 
+asr:0: OUTPUT 912.13-915.82: And exceeded the top end of our previously issued guidance. 
+asr:0: OUTPUT 916.84-923.24: The 2019 third quarter gross margin excluding impairments of $1.7 million was 11%. 
+asr:0: OUTPUT 924.34-933.71: The 320 basis point improvement in gross margin, excluding the prior year impairments, was primarily due to a product mix shift to more affordable product. 
+asr:0: OUTPUT 933.77-942.30: Which generally have higher gross margins and to a lesser extent, fewer deliveries from lower margin, move up condominium communities. 
+asr:0: OUTPUT 942.32-945.06: Compared to the 2019 third quarter. 
+asr:0: OUTPUT 946.83-956.72: These positive factors were partially offset by a 60 basis point increase in capitalized interest included in cost of sales due to the mix of homes delivered during the quarter. 
+asr:0: OUTPUT 958.26-961.28: Excluding interest in cost of sales and impairments. 
+asr:0: OUTPUT 961.30-969.07: Our adjusted gross margin from home sales was 20% as compared to 16.2% in the year-ago period. 
+asr:0: OUTPUT 970.37-977.54: For the 2020 fourth quarter, we estimate our gross margin to be between 13.8 and 14.2%. 
+asr:0: OUTPUT 979.12-987.09: Our SG&A rate as a percentage of home sales revenue for the third quarter was 12.3% versus 11.1% in the year ago period. 
+asr:0: OUTPUT 988.31-996.04: The higher SG&A rate in 2020 was primarily the result of higher commissions, incentive compensation, and professional fees. 
+asr:0: OUTPUT 996.06-1004.20: And to a lesser extent, a $300,000 reduction in G&A expenses allocated to fee-building cost of sales. 
+asr:0: OUTPUT 1005.79-1013.05: For the 2020 fourth quarter, we estimate our SG&A rate to be between 12.4 and 12.8%. 
+asr:0: OUTPUT 1014.47-1023.70: The higher projected SG&A rate relative to Q3 is partially the result of a lower anticipated allocation of G&A expenses to the fee business. 
+asr:0: OUTPUT 1023.72-1029.27: Due to lower anticipated fee revenue in q4 due to the Irvine Pacific wind down. 
+asr:0: OUTPUT 1030.95-1041.50: We opened four new communities in Arizona during the quarter and ended the quarter with 25 active communities, which was a 14% increase compared to the prior year, third quarter. 
+asr:0: OUTPUT 1042.82-1049.51: We have one new community that opened in October and expect to sell out of approximately three communities before the end of the year. 
+asr:0: OUTPUT 1051.45-1059.30: C building revenue for the 2020 third quarter was $13.4 million compared to $22.3 million in the prior year period. 
+asr:0: OUTPUT 1060.42-1069.09: The true gross margin for the 2020 third quarter was $268,000 compared to $647,000 in the prior year period. 
+asr:0: OUTPUT 1070.23-1075.76: The reduction in fee building gross margin was primarily due to lower fee building activity in Irvine, California. 
+asr:0: OUTPUT 1076.74-1082.68: For the 2020 fourth quarter, we estimate our fee building revenue to be between $5 and $8 million. 
+asr:0: OUTPUT 1084.44-1086.59: We continue to wind down our joint ventures. 
+asr:0: OUTPUT 1087.25-1091.97: During the quarter, we finalized the sale of our interest in the Bedford Land Development Joint Venture. 
+asr:0: OUTPUT 1091.99-1097.88: And delivered the final homes at our McKinley Village Home Building Joint Venture in Sacramento, California. 
+asr:0: OUTPUT 1099.04-1107.45: Of the company's three remaining active joint ventures, we have seven homes remaining to deliver at the Mountain Shadows Homebuilding Joint Venture in Arizona. 
+asr:0: OUTPUT 1108.19-1112.29: Three home sites to sell at are Davis Land Development Joint Venture in Northern California. 
+asr:0: OUTPUT 1113.03-1119.36: And we continue to actively pursue an exit from the Russell Ranch Land Development Joint Venture in Folsom, California. 
+asr:0: OUTPUT 1120.76-1128.45: During the third quarter, we generated $40 million in operating cash flow and reduced our net debt to capital ratio to 45.1%. 
+asr:0: OUTPUT 1129.39-1136.30: A 980 basis point improvement compared to the year ago period and the lowest level since December 2006. 
+asr:0: OUTPUT 1138.68-1147.65: We ended the quarter with $126 million in cash and cash equivalents and had no borrowings outstanding under our $60 million revolving credit facility. 
+asr:0: OUTPUT 1148.61-1153.93: We also repurchased $5.2 million in principal of our senior notes due 2022 at a discount. 
+asr:0: OUTPUT 1155.60-1160.98: We further strengthen our balance sheet by extending our debt maturity profile subsequent to the quarter end. 
+asr:0: OUTPUT 1161.70-1171.25: In October, we issued $250 million of new 7.25% senior notes due October 2025. 
+asr:0: OUTPUT 1171.27-1174.61: To refinance our existing senior notes due April. 
+asr:0: OUTPUT 1177.82-1185.55: In connection with this refinance, we estimate a one-time pre-tax charge of approximately $8 million to be recorded in the fourth quarter. 
+asr:0: OUTPUT 1186.93-1197.24: We also entered into a new $60 million senior unsecured revolving credit facility on October 30th that has a maturity date of April 30th, 2018. 
+asr:0: OUTPUT 1197.30-1198.30: 2023. 
+asr:0: OUTPUT 1199.02-1202.26: At one and a half year extension from the previous bank credit facility. 
+asr:0: OUTPUT 1203.66-1212.05: The extension of these debt maturities will allow us to make long-term investments as we replenish our land portfolio and position the company for long-term success. 
+asr:0: OUTPUT 1213.43-1217.72: Lastly, we spent $14 million on land and land deposits during the quarter. 
+asr:0: OUTPUT 1218.32-1225.63: We plan on increasing our land spend in the near future, but remain focused on maintaining a proper balance between building liquidity. 
+asr:0: OUTPUT 1225.65-1228.59: Managing leverage, and rebuilding our land pipeline. 
+asr:0: OUTPUT 1229.97-1233.23: I'll now turn the call back to Larry for his concluding remarks. 
+asr:0: OUTPUT 1234.77-1240.62: Thanks, John. We've been working hard as a company to make progress on a number of fronts this year. 
+asr:0: OUTPUT 1241.52-1245.87: And our results for the third quarter demonstrate that we have made significant headway. 
+asr:0: OUTPUT 1247.15-1251.39: We improved our profitability by expanding our gross margins. 
+asr:0: OUTPUT 1251.41-1258.14: And further diversified our operations by continuing to close out legacy high-priced communities. 
+asr:0: OUTPUT 1258.18-1261.84: And open more affordable, faster-selling communities. 
+asr:0: OUTPUT 1262.82-1268.09: We also strengthen their balance sheet by generating strong cash flow from operations. 
+asr:0: OUTPUT 1268.83-1273.81: Reducing our net leverage and extending our debt maturity profile. 
+asr:0: OUTPUT 1274.73-1281.60: These achievements have put us on more stable footing and give us a clear path to better results in the future. 
+asr:0: OUTPUT 1283.32-1288.37: I want to thank all of our team members for how they've performed during these difficult times. 
+asr:0: OUTPUT 1289.47-1298.70: Handling the significant increase in business leave experience would be challenging enough during normal times, let alone in the middle of a pandemic. 
+asr:0: OUTPUT 1299.62-1301.14: And I'm really appreciative. 
+asr:0: OUTPUT 1305.87-1307.29: And now we'd be happy to take. 
+asr:0: OUTPUT 1314.57-1317.78: If you'd like to ask a question, please press star 1 on your telephone key. 
+asr:0: OUTPUT 1319.20-1321.82: Will indicate your line is in the question queue. 
+asr:0: OUTPUT 1322.56-1331.69: You may press star two if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star key. 
+asr:0: OUTPUT 1332.73-1337.52: Our first question comes from the line of Alan Ratner with Zellman & Associates. Please proceed with your question. 
+asr:0: OUTPUT 1340.00-1343.72: Good morning. Congrats on all the progress during the quarter and the strong results. 
+asr:0: OUTPUT 1345.45-1350.33: First question, maybe start off on the pricing side, Larry or Leonard. 
+asr:0: OUTPUT 1350.97-1359.08: So uh... Sounds like you got back from success pushing price and and a quarter and obviously the uh... The longer term margin goal is is uh... Certainly. 
+asr:0: OUTPUT 1359.10-1362.28: I think looking a lot stronger now given the pricing environment but. 
+asr:0: OUTPUT 1362.70-1369.97: I'm curious that if you could maybe just talk a little bit and and quantify maybe people level of price increases you got to push through in the last couple of months and. 
+asr:0: OUTPUT 1370.43-1377.12: And uh... I'm curious if uh... If you see me push back any of those price increases at this point uh... I guess. 
+asr:0: OUTPUT 1377.14-1380.74: Early November, assuming some of those price increases have been more recent. 
+asr:0: OUTPUT 1382.06-1385.25: Leonard, why don't you take it? 
+asr:0: OUTPUT 1386.83-1390.29: Thanks Larry. Thanks Ellen and good morning. 
+asr:0: OUTPUT 1390.81-1396.76: Yeah, I would say across the quarter, you know, we continue to push pricing at all of our communities. 
+asr:0: OUTPUT 1396.78-1400.86: We literally raise prices at 100% of our communities. 
+asr:0: OUTPUT 1401.56-1406.37: On average, the average price increase was a little over 4%. 
+asr:0: OUTPUT 1408.81-1416.38: There's kind of age qualified communities, second home communities at the lower end, and then at the higher end are really some of our suburban. 
+asr:0: OUTPUT 1416.40-1425.81: Communities. We've continued to push those prices all through the quarter and really we haven't seen the resistance yet as of today. 
+asr:0: OUTPUT 1426.69-1430.21: In and continue to look for every opportunity we can to grow margins. 
+asr:0: OUTPUT 1431.99-1435.06: That's great to hear. Second question. 
+asr:0: OUTPUT 1435.52-1444.40: You mentioned, and this is a similar message we've heard from other builders, just about the need to slow things down a little bit, not get backlogs too far extended. 
+asr:0: OUTPUT 1444.96-1454.11: I think that makes a lot of sent although you know for you guys are a little bit of a different situation in that you can hear growing up uh... Admittedly fairly small level of activity. 
+asr:0: OUTPUT 1454.57-1463.68: So i was a little bit surprised that you know you wouldn't be in a position where you could kind of let things run a bit hotter here and i'm curious if you could talk a little bit maybe rank order. 
+asr:0: OUTPUT 1463.70-1471.65: The constraints that you're seeing that would prevent you from letting that go hotter for a longer period in time in terms of your absorption rate. 
+asr:0: OUTPUT 1471.71-1477.40: The land issue i know your lot count has been trending uh... You quite a bit lower and with more recent quarters. 
+asr:0: OUTPUT 1477.74-1484.72: Or is it more difficult to sourcing labor you know perhaps uh... Scale benefit to some of the larger builders have is that. 
+asr:0: OUTPUT 1484.74-1489.73: Working as a disadvantage to you guys and trying to get labor in this tight environment right now. 
+asr:0: OUTPUT 1491.25-1501.68: Yeah, it's lettered again. Probably the latter of the two is driving it more or less, Alan. Like in a perfect world, you'd sell one home per week and start four homes per month. 
+asr:0: OUTPUT 1502.56-1510.33: And really that's what our trade partners are set up for and we've kind of prepared them for that. They've made the commitment to deliver that. So. 
+asr:0: OUTPUT 1510.35-1521.44: You know, we just want to make sure again that our sold and unstarted backlog doesn't get too far out front, especially in an environment of rising prices. We know that future land prices are. 
+asr:0: OUTPUT 1521.50-1523.64: Land's going to cost more in the future. 
+asr:0: OUTPUT 1524.20-1533.15: And so really it's the capacity of our trade partners. So we continue to measure that. We've gone a little bit lighter on sales releases for that reason. 
+asr:0: OUTPUT 1533.67-1536.18: And uh... We think that the best course of action. 
+asr:0: OUTPUT 1538.24-1541.38: If I could add, I really do think it... 
+asr:0: OUTPUT 1541.40-1548.39: It varies by market and also by newer housing program or older housing program. 
+asr:0: OUTPUT 1548.85-1551.47: It isn't just a one-size-fits-all. 
+asr:0: OUTPUT 1552.03-1556.06: Leonard and John have worked pretty carefully at trying to. 
+asr:0: OUTPUT 1556.10-1563.40: Analyze where we have opportunities and where there's more challenges. 
+asr:0: OUTPUT 1563.96-1569.83: In some cases, our goal is to build out of older projects and get through it. 
+asr:0: OUTPUT 1570.41-1576.22: But in other cases, if we're not going to be able to start a house for two or three months. 
+asr:0: OUTPUT 1577.04-1582.94: It doesn't make any sense to put it up for sale in a market that continues to be strong. 
+asr:0: OUTPUT 1583.36-1588.37: And so, you know, I actually think we're being very logical. 
+asr:0: OUTPUT 1588.73-1598.36: And we're attempting to maximize the profits. And if you look at the communities we've opened in the last 12 months,. 
+asr:0: OUTPUT 1598.56-1603.54: You'd see a significant increase in both absorption and margin. 
+asr:0: OUTPUT 1604.52-1611.51: And we're hoping that we're going to be able to keep that absorption steady. 
+asr:0: OUTPUT 1611.53-1614.87: The margins are improving. There's no reason why we shouldn't be able to. 
+asr:0: OUTPUT 1616.84-1621.42: I appreciate that extra color there, Larry. And if I could just sneak in one more here. 
+asr:0: OUTPUT 1622.46-1624.38: You kind of brought up the land market a little bit. 
+asr:0: OUTPUT 1625.45-1634.15: What do you think right now kathina now that the debt refinancing behind you guys you obviously have a little bit more runway and visibility from the balance sheet perspective so i would imagine. 
+asr:0: OUTPUT 1634.65-1644.20: You know you you're kind of stepping on the gas a little bit here on the land side of things and at the same time i would imagine your competitors are as well given how strong selling environment has been so. 
+asr:0: OUTPUT 1644.74-1654.05: What what availability of yes some of those quicker turn deals that you could kind of put independent paper to and then potentially get on the ground here over the next twelve or eighteen months. 
+asr:0: OUTPUT 1656.56-1662.70: Well, it's... It is... Go ahead Larry. Well, let me just start Leonard and then you jump through. 
+asr:0: OUTPUT 1663.96-1669.05: You know, landing the market we're in has always been challenging. Always. 
+asr:0: OUTPUT 1669.59-1677.38: And one of the strengths of our organization has been that we have land relationships that go back over 30 years. 
+asr:0: OUTPUT 1678.08-1681.00: Whether with master developers or with individuals. 
+asr:0: OUTPUT 1682.56-1690.39: And it is tougher now, but we are continuing to find opportunities. 
+asr:0: OUTPUT 1690.81-1698.78: There is no reason why we won't be able to grow the business over the next two to three years. 
+asr:0: OUTPUT 1699.58-1703.86: But one thing you have to be aware of, and our investors. 
+asr:0: OUTPUT 1703.88-1711.33: I hope they all understand is that when California is your strongest marketplace,. 
+asr:0: OUTPUT 1712.81-1719.22: It takes a couple years from when you buy a piece of ground to one year closing houses. 
+asr:0: OUTPUT 1719.44-1724.80: We've been planning that and we understand that that's a situation we're in but. 
+asr:0: OUTPUT 1725.23-1738.02: Don't lose track that if anything, when the market is particularly tough or difficult because of a lot of competition, relationships matter more than ever. 
+asr:0: OUTPUT 1738.64-1743.36: And that's one thing that we have. And we always have and we always will have. 
+asr:0: OUTPUT 1744.40-1748.47: And with that, Leonard, please keep going. 
+asr:0: OUTPUT 1749.85-1772.79: Yeah, I think you hit most of the points, Larry. I would say, Alan, we're certainly back in the market and we are kind of bookending this. We're looking for opportunities that we can basically get control of, that we can open a model home within 12 to 18 months. And then we're, because of somewhat limited capital, we're looking for opportunities to fill our 23, 24. 
+asr:0: OUTPUT 1772.81-1776.66: Pipeline and the profile of those deals would look quite differently. 
+asr:0: OUTPUT 1777.30-1784.76: The land market is really competitive right now, as you would expect. We've had some success. 
+asr:0: OUTPUT 1785.29-1791.87: Tying up some interesting opportunities, and I would say Arizona is the most competitive land environment. 
+asr:0: OUTPUT 1792.35-1797.94: Today and so that's probably our biggest challenge is to identify assets that make sense. 
+asr:0: OUTPUT 1797.98-1803.96: There's positions available, but we want to make sure they make sense and that we can deliver on those returns. 
+asr:0: OUTPUT 1804.42-1808.43: I'd add one other thing to your prior question real quick. 
+asr:0: OUTPUT 1808.79-1818.76: When you talk about kind of sales pace and running it a little bit harder, I will say even with the steps that we've taken and, you know, we just closed the month of October. 
+asr:0: OUTPUT 1819.24-1826.11: October was a really strong month, even with those measures. It's the third strongest sales month in the company's history. 
+asr:0: OUTPUT 1827.01-1829.79: Where your sales are up 65%. 
+asr:0: OUTPUT 1830.85-1841.50: And we averaged average absorption of 3.5 and that's even counting close out communities where we have two, three, four homes left to sell to kind of weight that down a little bit. 
+asr:0: OUTPUT 1841.54-1848.01: Again, it's still an extremely strong market and we're kind of really excited about the future and what it can mean for the company. 
+asr:0: OUTPUT 1850.09-1854.83: Great, thanks a lot guys, and sounds promising and good luck. Thanks, thanks Alan. 
+asr:0: OUTPUT 1857.20-1862.98: Thank you. Ladies and gentlemen, as a reminder, if you'd like to join the question queue, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1863.62-1868.37: Our next question comes from the line of Alex Barrett with Housing Research Center. Please proceed with your question. 
+asr:0: OUTPUT 1870.87-1877.52: Great job. Thanks Alex. Thanks Alex. I was curious. 
+asr:0: OUTPUT 1879.02-1881.24: Mentioned, you're starting to do some. 
+asr:0: OUTPUT 1881.40-1889.43: For five points. Do you have any sense of timing you can share with us when those first delivering the revenue? 
+asr:0: OUTPUT 1889.91-1897.28: This is more on, probably, you book earnings when construction happens. Can you help give us an idea how to. 
+asr:0: OUTPUT 1900.72-1904.24: Sure. This is, good morning Alex, this is Leonard. Yeah, so... 
+asr:0: OUTPUT 1904.34-1913.81: I'm sure you're aware it's a slightly different fee structure than say what we've done with the Urbine company in the past and so in this case we take on. 
+asr:0: OUTPUT 1913.83-1919.10: All of the normal builder responsibilities in the community will be branded under the new home name. 
+asr:0: OUTPUT 1919.12-1925.77: We sell and market the homes, construct them, and then take the back-end service as well. 
+asr:0: OUTPUT 1925.79-1935.92: The community will open during the first quarter and open for sale. So that's when we will go to sell and then within the next two to three months we should see first closing. 
+asr:0: OUTPUT 1935.96-1942.60: So the way the fee structure works is we get a portion of the fee through the life of the project and then we get a back end. 
+asr:0: OUTPUT 1942.62-1945.65: Portion of the fee at the close of the home. 
+asr:0: OUTPUT 1946.03-1955.90: So, even today we'd be recognized a small amount of fee, but the significant fee would start coming in probably the end of Q1, early Q2. 
+asr:0: OUTPUT 1956.38-1964.99: We're also really excited, I think it was noted in the release, that over the last six months we've been approached on several different fronts. 
+asr:0: OUTPUT 1965.01-1972.49: For some pretty exciting fee opportunities, including the single family rental business where we're talking to folks in Arizona. 
+asr:0: OUTPUT 1973.13-1980.00: And we have a really exciting opportunity here in California to build up to 1,300-1,400 homes. 
+asr:0: OUTPUT 1980.30-1989.53: We think it can drive a significant part of our business, help us grow earnings while not having to put any form of significant capital into the business. 
+asr:0: OUTPUT 1991.41-1997.80: And then, on the joint venture side, I noticed there's very few lots left. 
+asr:0: OUTPUT 1998.44-2004.16: Is that basically winding down or will that stay alive, I guess, in future years? 
+asr:0: OUTPUT 2006.45-2007.65: Hey, Alex, this is John Stevens. 
+asr:0: OUTPUT 2008.21-2011.71: Yeah, we are sort of winding down the joint venture business. 
+asr:0: OUTPUT 2012.19-2020.94: We've got, like I said on the call, only a few lots left in our Davis Cannery Project, Northern California. We have about, I think, seven homes. 
+asr:0: OUTPUT 2020.96-2024.54: Left to deliver out of our mountain shadows community. 
+asr:0: OUTPUT 2024.68-2033.47: And then really the remaining lots are at our Folsom Ranch deal up in Northern California called Russell Ranch, and we're in the process of exiting that. 
+asr:0: OUTPUT 2033.49-2034.87: Partnership right now. 
+asr:0: OUTPUT 2034.95-2042.42: And I would say in the near term, we really don't have any plans to enter into any new joint ventures at this time. 
+asr:0: OUTPUT 2042.64-2050.11: It's possible if the right opportunity came along that we would entertain that, but for now, that part of the business is really winding down. 
+asr:0: OUTPUT 2051.63-2057.30: Okay, great. And then, if I could ask one more on the mute that you guys just raised. 
+asr:0: OUTPUT 2058.78-2065.95: Is the plan to pay off the 2022 short term or closer to... Yeah, it's already done. 
+asr:0: OUTPUT 2066.27-2073.21: Yeah, we effectuated that last week. We closed on the new bonds. I believe it was on the 28th of October. 
+asr:0: OUTPUT 2073.81-2077.82: And all the previous 22 notes have been extinguished. 
+asr:0: OUTPUT 2079.84-2081.14: And so that's done. 
+asr:0: OUTPUT 2081.70-2091.45: And then we use some of the cap some of our cash on hand uh... To pay off the balance could be read to her fifty million in the notes and we had about roughly two hundred ninety two million of. 
+asr:0: OUTPUT 2091.47-2093.77: Principle on the old notes. 
+asr:0: OUTPUT 2095.28-2099.64: Great. I'll get back to the kids. Good job. Sure. Thanks. 
+asr:0: OUTPUT 2103.48-2105.13: Comes to mind as Jason's name. 
+asr:0: OUTPUT 2111.35-2113.01: Guys and congratulations on the. 
+asr:0: OUTPUT 2115.28-2119.66: My question really just kind of pertains to the priorities for capital deployment going forward. 
+asr:0: OUTPUT 2120.66-2127.71: You mentioned how you successfully leveraged the balance sheet and extended all maturities and the outlook for the business seems exceptionally strong. 
+asr:0: OUTPUT 2128.75-2131.47: And you guys are significantly generating cash flow. 
+asr:0: OUTPUT 2132.81-2137.42: But with your stock trading at half a book value, or basically half a tangible book value,. 
+asr:0: OUTPUT 2138.04-2143.56: It's hard to imagine there's a better use the cash right now are partly cash right now the by back it up. 
+asr:0: OUTPUT 2144.22-2151.39: What are your thoughts around potential share of purchases? And really, how can we focus and think about priorities for capital deployment going forward? 
+asr:0: OUTPUT 2153.45-2154.95: That's a great question, Jason. Thank you. 
+asr:0: OUTPUT 2155.18-2161.86: Yeah, you know we've we've looked at all aspects of use of our capital and we've been very focused as you mentioned. 
+asr:0: OUTPUT 2161.88-2165.67: On really deleveraging the business and refinancing our bonds and. 
+asr:0: OUTPUT 2165.69-2171.47: Pushing out the revolver extension, which was a big important thing that we completed on Friday. 
+asr:0: OUTPUT 2172.45-2178.98: So it really puts us in a position now where we can reinvest in the business. Obviously, we did buy quite a few shares. 
+asr:0: OUTPUT 2179.04-2188.37: In the front half of the year when we saw the stock price depress very significantly, and I agree with you, trading at half of multiple book value,. 
+asr:0: OUTPUT 2189.07-2196.86: Isn't uh... Where we'd like to be uh... But on the on the other hand we do need to uh... Reinvest in our business a little bit. 
+asr:0: OUTPUT 2197.38-2205.65: And we will evaluate really all aspects of where to allocate the capital going forward. We do have a little bit left on our authorization from our board. 
+asr:0: OUTPUT 2206.21-2208.87: I think it was about 1.7 million left authorized currently. 
+asr:0: OUTPUT 2210.07-2213.93: But again, we've been on pause on the Land Act side. 
+asr:0: OUTPUT 2213.95-2220.96: For a little bit now and we will sort of layer some of that in going forward again. 
+asr:0: OUTPUT 2221.38-2230.99: We do need to sort of balance our capital allocation and it's a fair question, but we do need to reinvest in the business too. So we'll continue to evaluate on all fronts moving forward. 
+asr:0: OUTPUT 2233.05-2242.52: John, do you also want to address the idea of where we are with leverage, where we came from, and where you see us moving to the future? 
+asr:0: OUTPUT 2245.05-2251.61: Yeah, I mean, I think our net debt to caps come down significantly at 45.1% at the end of the quarter. 
+asr:0: OUTPUT 2252.99-2256.34: You know it's down almost a thousand basis points from where we were a year ago. 
+asr:0: OUTPUT 2258.02-2265.89: We will, as I mentioned in my prepared remarks, we will have a charge from the refinance of the old bonds, which will come through in Q4. 
+asr:0: OUTPUT 2267.89-2275.34: But moving forward we're probably running the company with the idea of between forty five and fifty percent on a net debt cap basis moving forward. 
+asr:0: OUTPUT 2280.84-2285.49: Questions? Not from me. Thank you and congratulations again. Good luck. 
+asr:0: OUTPUT 2289.65-2294.49: Our next question is a follow-up from the line of Alex Barron with Housing Research Center. Please proceed with your question. 
+asr:0: OUTPUT 2296.74-2304.22: So, I noticed in Arizona you guys managed to open several communities this quarter. 
+asr:0: OUTPUT 2305.27-2313.07: Just wondering if there's any more in the pipeline going into next year, or is this roughly going to be the community count through next year? 
+asr:0: OUTPUT 2320.00-2330.71: Right. You know, over the last five months, we've opened seven communities in three different locations. And obviously, we're very excited about the early results where we're seeing. 
+asr:0: OUTPUT 2332.05-2338.64: Strong absorption and strong margins. So again, we're really excited about our team there on the ground. 
+asr:0: OUTPUT 2339.00-2344.40: We have one community slated to open in the first half of next year. 
+asr:0: OUTPUT 2344.66-2353.47: And that's, you know, at this point we have other things that we're currently working on, but that's primarily the one that we can talk about today. 
+asr:0: OUTPUT 2353.93-2360.22: And it looks like we're at eight communities now at the end of Q3. I think one of them probably drops off. 
+asr:0: OUTPUT 2360.24-2365.55: In Q4 and then we'll probably run that seven community range plus or minus for the year. 
+asr:0: OUTPUT 2366.29-2370.21: Depending on how quickly we sell through some of these communities. 
+asr:0: OUTPUT 2370.87-2379.06: That's what we're expecting for the bulk of next year, but it may taper a little bit in Q4 of next year until we reload on a few communities we're working on now. 
+asr:0: OUTPUT 2380.98-2382.14: Okay, great. 
+asr:0: OUTPUT 2383.56-2392.71: And then, as far as gross margins, I think you gave us a range for next year, I mean, for next quarter. 
+asr:0: OUTPUT 2392.73-2398.78: Which is a little bit down versus this quarter. Is that mainly because of the impact of lumber or is there something else there? 
+asr:0: OUTPUT 2400.58-2407.59: It really has to do with some of the closeout communities we have on the luxury condominium side. The good news is we're selling through those. 
+asr:0: OUTPUT 2408.01-2414.61: Uh... Downtight is that the margins are a little bit weaker in those communities with on a higher average selling price alex so. 
+asr:0: OUTPUT 2414.65-2420.44: I think once those all get disposed of and delivered in Q4, I think our margins. 
+asr:0: OUTPUT 2420.46-2425.73: Look positive moving forward and again I think 13 8 to 14 to. 
+asr:0: OUTPUT 2425.91-2427.45: We feel pretty good about that. 
+asr:0: OUTPUT 2427.59-2438.50: But again, part of it's going to be what of those higher priced, lower margin communities sort of deliver and close out in Q4s is primarily the impact for the margin. 
+asr:0: OUTPUT 2440.40-2442.32: Okay, awesome. Thanks. Best of luck for... 
+asr:0: OUTPUT 2447.99-2452.37: Ladies and gentlemen, that concludes our question and answer session. I'll turn the floor back to Mr. Webb for any final comments. 
+asr:0: OUTPUT 2454.77-2456.30: Very much. 
+asr:0: OUTPUT 2456.46-2462.02: As all of you can see, we have really made significant progress over the last three months. 
+asr:0: OUTPUT 2463.30-2470.73: And of course, part of it is because of the improved housing market. 
+asr:0: OUTPUT 2471.31-2476.38: A part of it has been in the works for a long time based on our strategic planning. 
+asr:0: OUTPUT 2477.08-2482.40: And I wanted to commend Leonard and John because they've really done a terrific job. 
+asr:0: OUTPUT 2483.74-2493.27: We really believe the future is bright for the new home company and we're extremely excited about the next two years as we move forward. 
+asr:0: OUTPUT 2493.91-2500.00: So with that, I want to thank all of you and stay tuned because again, there's. 
+asr:0: OUTPUT 2504.80-2509.11: This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation. 
+asr:0: OUTPUT 2551.21-2558.84: Please hang up and try your call again. If you'd like assistance, please dial 0 and a TELUS operator will be happy to help you. 
+asr:0: OUTPUT 2561.94-2569.57: Please hang up and try your call again. If you'd like assistance, please dial 0 and a TELUS operator will be happy to help you. 
+asr:0: END

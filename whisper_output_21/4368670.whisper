@@ -1,0 +1,624 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.03-8.05: Welcome to the RWE conference call. 
+asr:0: OUTPUT 8.51-16.28: Markus Greber, CFO of RWE AG, will inform you about the developments in the first half of fiscal 2020. 
+asr:0: OUTPUT 16.58-18.48: I will now hand over to Thomas Denny. 
+asr:0: OUTPUT 20.00-29.17: Good afternoon, ladies and gentlemen, and thank you for joining us today to discuss RWE's results for the first six months of the year. 
+asr:0: OUTPUT 30.09-37.96: I'm joined by our CFO, Markus Kreber, who will run through the presentation before we move on to Q&A later in the call. 
+asr:0: OUTPUT 39.86-48.59: As in Q1 this year, in order to compare like for like, our presentation focuses on the pro-forma figures in comparison to 2019. 
+asr:0: OUTPUT 49.57-58.50: Meaning that assets taken over from E.ON in the third quarter last year are included for adjusted EBITDA and EBIT for the full year 2019. 
+asr:0: OUTPUT 60.20-64.04: And with this, let me hand over to Markus for the update on page 1, 2020. 
+asr:0: OUTPUT 65.57-74.41: Thank you, Thomas, and a warm welcome to everyone on the phone. It's good to speak to you, and I really hope you are safe and sound wherever you are dialing in from today. 
+asr:0: OUTPUT 76.62-81.54: The operational and financial performance in the first half of 2020 has been good overall. 
+asr:0: OUTPUT 81.86-87.19: And so far we have only seen a small impact on the business from the COVID-19 pandemic. 
+asr:0: OUTPUT 88.91-96.48: On a performer basis, year-on-year adjusted EBTA of our core business increased 9% to 1.5 billion euros. 
+asr:0: OUTPUT 97.10-101.74: The RWE Group's adjusted EBTA stands at 1.8 billion euros. 
+asr:0: OUTPUT 103.60-109.31: We confirm our full year guidance and now expect adjusted EBTA to be at the upper end of the guidance. 
+asr:0: OUTPUT 110.31-116.58: We also confirm our target to increase the dividend payment to 85 cents per share for this year. 
+asr:0: OUTPUT 118.78-126.81: Our net debt now stands at 7.8 billion euros. This is a decrease by roughly 900 million euros compared to Q1. 
+asr:0: OUTPUT 128.07-135.40: Our clear target is to meet a leverage factor of around 3 times adjusted core EBDA to net debt at year end. 
+asr:0: OUTPUT 137.66-145.85: And we are delighted that the asset swap with EON is finally fully closed. The legal integration and the HR integration have already been completed. 
+asr:0: OUTPUT 146.19-151.33: The teams are now operating in the target management structure across the entire business. 
+asr:0: OUTPUT 153.51-161.20: Let me remind you that the energy activities which we transferred back to RWE have been recorded in our group figures already. 
+asr:0: OUTPUT 161.60-163.82: As they were commercially assigned to us. 
+asr:0: OUTPUT 164.42-169.27: We do not see any relevant effect from the final closing in our financials. 
+asr:0: OUTPUT 171.21-180.76: What else? We are excited about our latest announcement on the deal to acquire Nordic's 2.7 gigawatt development pipeline in onshore wind and solar. 
+asr:0: OUTPUT 181.78-190.29: This gives us great options for future growth and a broad entry into the French market. I will come back to that in a minute. 
+asr:0: OUTPUT 192.33-199.44: Regarding our coal and nuclear business, we are pleased that the Coal Phase-Out Act, which found broad consensus, was brought into German law. 
+asr:0: OUTPUT 200.20-209.41: The Lignite phase-out is supplemented by a public law contract drawn up by the federal government and the operators, which will pass the German parliament after the summer break. 
+asr:0: OUTPUT 210.17-217.42: The law and contract are subject to approval under EU state aid law. We expect this process to happen in autumn this year. 
+asr:0: OUTPUT 219.08-224.40: With this, we now have a clear path on how to exit from our remaining call operations. 
+asr:0: OUTPUT 226.69-231.47: Ladies and gentlemen, let me briefly come back to the transaction with Nordics on page 4. 
+asr:0: OUTPUT 232.47-239.22: This transaction is a strategic pipeline enhancement and our broad market entry into France. 
+asr:0: OUTPUT 239.74-248.67: Strengthens our existing pipeline of 22 gigawatt and the projects to be built will come on top of the targets announced at the capital market day. 
+asr:0: OUTPUT 249.65-258.14: We expect CUDs as early as next year and additional capacity of approximately 500 MW in operations by 2025. 
+asr:0: OUTPUT 259.46-272.95: We are also pleased that this creates a great opportunity to enter the French market. 1.9 GW of the development projects are in France, of which roughly 300 MW are close to FID or in late development stage. 
+asr:0: OUTPUT 274.09-279.98: France is a very attractive onshore market with huge build-out targets and a solid remuneration framework. 
+asr:0: OUTPUT 280.84-287.37: France was the only large market in Europe where we were missing a pipeline and a strong development team. 
+asr:0: OUTPUT 288.13-297.44: Together with the pipeline, an experienced team of 70 professionals mostly based in France will join us to drive our growth ambitions in France further. 
+asr:0: OUTPUT 299.38-303.58: In markets where we already operate assets, the pipeline gives additional options. 
+asr:0: OUTPUT 303.66-311.35: Spain approximately 400 megawatt, Sweden approximately 400 megawatt, and Poland a small position of more than 10 megawatt. 
+asr:0: OUTPUT 312.61-320.40: What are the next steps? We have agreed an exclusive put option with Nordics on a purchase price of 402.5 million euros. 
+asr:0: OUTPUT 321.18-328.51: NordX kicks off the consultation process with the French Works Council, which needs to be finalized before the put option can be exercised. 
+asr:0: OUTPUT 329.31-336.24: The completion of the transaction is also subject to foreign investment clearance in France and the completion of common carve-out processes. 
+asr:0: OUTPUT 337.30-341.86: It is assumed that the transaction could be completed in the fourth quarter of this year. 
+asr:0: OUTPUT 344.34-348.43: Now back to the financials for H1 2020 on page 5. 
+asr:0: OUTPUT 348.57-354.53: In our core business adjusted EBTA increased by 9% to 1.5 billion euros. 
+asr:0: OUTPUT 354.55-357.78: As a result of a good performance in all segments. 
+asr:0: OUTPUT 358.48-366.67: Broadly speaking, the good H1 result for offshore wind and onshore wind solar was due to the very good weather conditions in the first quarter. 
+asr:0: OUTPUT 366.69-368.83: And onshore capacity additions. 
+asr:0: OUTPUT 369.89-374.96: The hydro biomass gas division mainly benefited from the resumption of the GB capacity market. 
+asr:0: OUTPUT 376.34-383.74: And the Supply and Trading Division outperformed after a successful start into the year, which continued in the second quarter. 
+asr:0: OUTPUT 386.79-396.62: Ladies and gentlemen, our wind and solar business is progressing well. Installed capacity remains unchanged at 8.9 gigawatt, but there is more to come in the second half of the year. 
+asr:0: OUTPUT 397.68-401.30: And we made good progress towards our growth targets for 2020. 
+asr:0: OUTPUT 401.92-406.57: Amongst others, we have taken the FID for the Hickory Park solar farm in the US. 
+asr:0: OUTPUT 406.59-414.77: With a capacity of 196 MW and a co-located 40 MW battery, which is due to be commissioned in 2021. 
+asr:0: OUTPUT 415.72-423.06: The project is under the Investment Tax Credit ITC regime and has secured a 30-year PPA with Georgia Power. 
+asr:0: OUTPUT 424.74-433.23: Regarding the period after 2022, the Abel Emore Offshore Wind Farm has secured an agreement for lease with the Crown Estate. 
+asr:0: OUTPUT 433.39-437.10: The project is an extension of our operating green team, Moor Wind Farm. 
+asr:0: OUTPUT 437.34-440.76: The additional pro rata capacity is 300 megawatts. 
+asr:0: OUTPUT 442.44-450.35: What are the next steps? The development of the project will continue with a view to participating in CFP auction rounds in 3 to 5 years time. 
+asr:0: OUTPUT 452.65-465.31: Furthermore, we welcome the announcement from the Irish government that the Dublin Array offshore project has been designated as one of seven relevant projects, meaning it will be fast-tracked to the new marine planning regime. 
+asr:0: OUTPUT 466.39-471.11: The project will add 300 megawatt per rata capacity and is currently in the development phase. 
+asr:0: OUTPUT 471.49-479.22: Subject to an updated content application, an investment decision construction could begin in 2024 with COD in 2026. 
+asr:0: OUTPUT 481.16-489.45: And lastly, we are now participating in the third floating demonstration project together with the University of Maine as well as Mitsubishi Corporation. 
+asr:0: OUTPUT 489.99-493.33: We will develop a demonstration project off the coast of Maine. 
+asr:0: OUTPUT 493.87-501.82: We continue to drive floating offshore wind because we see great potential for floating wind farms worldwide, in particular in countries like the US. 
+asr:0: OUTPUT 501.84-503.88: With deeper coastal waters. 
+asr:0: OUTPUT 506.71-509.55: Let's move on to an update of our construction program. 
+asr:0: OUTPUT 509.89-516.54: It is progressing well apart from some COVID-19 related delays mainly at US construction sites. 
+asr:0: OUTPUT 516.56-522.76: So that we had to shift the UD of approximately 500 MW from 20 to 21. 
+asr:0: OUTPUT 523.74-532.13: Due to the adjusted commissioning plan, we expect the overall financial impact for this year to be a small to medium double-digit million euro amount. 
+asr:0: OUTPUT 532.87-540.76: Please note that the PTC income level of the US project is secured in any cases at all sites. 
+asr:0: OUTPUT 542.60-549.71: Now we'll take a look at the status of the individual projects we presented to you at Q1, starting with the offshore division. 
+asr:0: OUTPUT 550.55-557.22: Our Triton Oil Project offshore construction work started earlier this year and everything is progressing as planned. 
+asr:0: OUTPUT 558.36-566.93: At the Cascadi project, contracts with main suppliers are signed, so preparation work is continuing and going according to plan. 
+asr:0: OUTPUT 567.93-571.21: The construction work will start in Q3 2021. 
+asr:0: OUTPUT 572.37-578.80: The Klöckeneck Forest onshore wind farm is already generating and receiving revenues from the Contract for Difference. 
+asr:0: OUTPUT 579.38-585.25: As soon as wind farm testing is completed and COD is reached, we will report it as installed capacity. 
+asr:0: OUTPUT 586.79-593.65: Grid availability at the Grinnell onshore site has been achieved and the commissioning of the individual wind turbines is ramping up. 
+asr:0: OUTPUT 594.23-597.32: The actual commissioning date is scheduled for this month. 
+asr:0: OUTPUT 599.22-603.22: We have updated our milestones at our Big Raymond onshore wind project. 
+asr:0: OUTPUT 603.54-606.83: One part of the project, namely Raymond West. 
+asr:0: OUTPUT 607.13-612.23: With 240 megawatt will slip into Q121. 
+asr:0: OUTPUT 612.27-619.02: Whereas the commissioning of Raymond East with 200 MW is expected in the second half of Q4 2020. 
+asr:0: OUTPUT 620.62-625.95: COD of Scotia Ridge has moved within the fourth quarter to the end of December this year. 
+asr:0: OUTPUT 626.65-632.23: On the basis of the adjusted timeline, construction work is on track. Commissioning ramp up will start soon. 
+asr:0: OUTPUT 634.25-641.62: And at the Limondale Solar Farm, the grid registration process took more time than expected due to the current circumstances. 
+asr:0: OUTPUT 642.14-645.23: COD has therefore slipped into Q121. 
+asr:0: OUTPUT 646.27-651.53: In total, we will bring 1.3 gigawatt online in the second half of the year, mainly back-end loaded. 
+asr:0: OUTPUT 652.37-655.76: With that, we can move to the details of the individual segments. 
+asr:0: OUTPUT 657.90-663.08: The offshore wind division realized an adjusted EBTA of 585 million euros. 
+asr:0: OUTPUT 663.24-668.59: Year on year this is an increase of 19% thanks to higher wind speeds in the first quarter. 
+asr:0: OUTPUT 670.13-677.76: Roth's cash investments in H1 amounted to 316 million euros, mainly driven by Triton Null Construction Works. 
+asr:0: OUTPUT 678.02-683.88: The sale of the Sea Breeze installation vessel is the main driver for gross cash divestments. 
+asr:0: OUTPUT 684.62-686.99: We confirm the outlook for the offshore division. 
+asr:0: OUTPUT 689.17-698.40: Our onshore wind solar division increased 12% year on year and adjusted EBTA amounted to 273 million euros at H1. 
+asr:0: OUTPUT 699.60-710.79: Value drivers are an increase in capacity of approximately 380 MW here on year as well as higher earnings in Europe from above average weather conditions in the first quarter this year. 
+asr:0: OUTPUT 713.15-721.54: Most of the gross cash investments are for the US onshore projects Big Raymond, Scottsdale Ridge and Casa Daga as well as Boiling Springs. 
+asr:0: OUTPUT 722.70-731.61: Despite the small to medium double-digit million euro negative impact from tighter commissioning phases and the delay at Big Raymond and Lymonddale,. 
+asr:0: OUTPUT 731.63-734.21: We confirm the outlook for the full year. 
+asr:0: OUTPUT 736.50-744.86: The hydro biomass gas division delivered a good performance over the first six months. Higher earnings results mainly from the British capacity market. 
+asr:0: OUTPUT 746.35-754.81: In contrast to the strong first quarter at H1, earnings from the commercial optimization of our power plant dispatch have normalized. 
+asr:0: OUTPUT 756.40-766.13: In June, we signed a contract to sell our Georgia biomass business to Enviva Partners for a purchase price of $175 million. 
+asr:0: OUTPUT 766.81-771.57: The transaction was closed at the end of July after successful merger clearance. 
+asr:0: OUTPUT 772.61-776.80: The disposal is already reflected in the guidance we gave you in March. 
+asr:0: OUTPUT 777.12-786.51: The EBITDA contribution for Proforma 2019 was a good 30 million euros. In 2020, it is approximately half this amount. 
+asr:0: OUTPUT 788.89-796.60: As we have already reported to the market, the fire at the Eimshaven power plant has caused an interruption to the biomass co-firing. 
+asr:0: OUTPUT 796.62-800.04: Which we expect to last until November 2020. 
+asr:0: OUTPUT 800.96-809.25: This will impact the outlook by a small to medium double-digit million euro amount. Despite this, we also confirm the guidance for this division. 
+asr:0: OUTPUT 812.19-817.32: Moving on to another quarter of favorable earnings development from the Supply and Trading Division. 
+asr:0: OUTPUT 817.84-827.43: NH1 adjusted EBTA amount to 322 million euros on the back of a strong trading performance and good results from the gas and LNG business. 
+asr:0: OUTPUT 828.19-833.93: We didn't expect the division to replicate the exceptional performance of the first six months of last year. 
+asr:0: OUTPUT 834.98-844.00: The division's outlook is 150 to 350 million euros. Given the strong H1, we expect to end at the upper end or even above. 
+asr:0: OUTPUT 847.23-852.65: Ladies and gentlemen, having now reported on the core business, let's move to the coal and nuclear division. 
+asr:0: OUTPUT 853.47-858.42: Adjusted EBTA has doubled year-on-year and amounted to 310 million euros. 
+asr:0: OUTPUT 859.74-868.39: As we already mentioned at Q1, earnings improved due to higher realized wholesale prices and an updated production plan in the Lignite system. 
+asr:0: OUTPUT 869.03-878.54: Nevertheless, we need to consider implications from the implementation of the accelerated exit plan. For the full year, we confirm the division's outlook. 
+asr:0: OUTPUT 881.50-885.00: Moving on to the earnings drivers down to adjusted net income. 
+asr:0: OUTPUT 885.85-893.47: Adjusted net income amounted to 795 million euros due to the high adjusted EBTA of RWE Group. 
+asr:0: OUTPUT 894.85-904.68: The negative effects on the financial result of minus 150 million euros from Q1 were partly compensated by the EON dividend of 182 million euros. 
+asr:0: OUTPUT 904.70-906.71: We received in the second quarter. 
+asr:0: OUTPUT 908.71-916.40: Adjustment in text applied with a general text rate of 15% in line with the expected midterm text level for the group. 
+asr:0: OUTPUT 917.00-920.66: The tax rate of 15% has been derived from all income streams. 
+asr:0: OUTPUT 920.76-930.05: It is based on blended local tax rates, the use of loss carried forward, and the low taxation of dividends, including the EON and AMCREON dividends. 
+asr:0: OUTPUT 932.95-941.64: And now, on to the adjusted operating cash flow. The adjusted operating cash flow shows the impact on net debt from operating activities. 
+asr:0: OUTPUT 942.48-947.83: It is adjusted for special items and timing effects and balance out over time. 
+asr:0: OUTPUT 948.11-951.13: The utilization of nuclear provisions is not included. 
+asr:0: OUTPUT 951.27-960.64: As you remember, we consider this as a financial cash flow, as when the nuclear provisions are utilized, they can be refinanced via financial debt. 
+asr:0: OUTPUT 962.30-963.32: In H1. 
+asr:0: OUTPUT 963.34-972.71: The adjusted operating cash flow topped 2 billion euros and is built upon the high adjusted EBTA as well as the positive effects in working capital. 
+asr:0: OUTPUT 974.21-985.99: The change in operating working capital of 437 million euros is mainly driven by the payment from the British capacity market from 2018 and 2019, which we received in Q1. 
+asr:0: OUTPUT 986.01-989.19: As well as a reduction of gas inventories. 
+asr:0: OUTPUT 991.01-996.62: For the full year 2020, we expect this line item to remain positive for the same reasons. 
+asr:0: OUTPUT 999.42-1007.11: Turning to the details on the development of net debt. At the end of June net debt increased to roughly 7.8 billion euros. 
+asr:0: OUTPUT 1007.95-1015.38: First and foremost, this was due to timing effects from hatching activities of roughly 1 billion euros mainly related to CO2. 
+asr:0: OUTPUT 1017.44-1024.70: Another driver of net debt is the company's net cash investments, clearly linked to our strategy to expand in renewable energy. 
+asr:0: OUTPUT 1025.61-1030.89: The dividend payment for FY 2019 is already reflected in the net debt figure at H1. 
+asr:0: OUTPUT 1032.67-1044.52: We see a leverage factor of around 3 times net debt to core-adjusted EBTA at year-end, which considers the investment of approximately 400 million euros for the acquisition of the 2.7 GW Nordics. 
+asr:0: OUTPUT 1044.54-1045.57: Development pipeline. 
+asr:0: OUTPUT 1047.41-1058.74: Volatility in commodity prices and interest rates could temporarily drive it slightly above three times, but if this is the case, we are confident that we would return to our target level in the medium term. 
+asr:0: OUTPUT 1058.76-1062.10: Without an impact on our planned CAPEX programme. 
+asr:0: OUTPUT 1065.25-1072.49: Finally, moving on to the outlook for fiscal 2020. As I already said, we confirm our outlook for this year. 
+asr:0: OUTPUT 1072.69-1079.90: Adjusted EBTA of the core business will come out between 2.15 and 2.45 billion euros. 
+asr:0: OUTPUT 1080.66-1089.31: Adjusted EBTA for the group will range between 2.7 to 3 billion euros and adjusted EBIT between 1.2 to 1.5. 
+asr:0: OUTPUT 1090.79-1096.74: For both adjusted EBITDA and adjusted EBIT, we expect to see results at the upper end of the guide. 
+asr:0: OUTPUT 1098.28-1109.51: Our guidance for adjusted net income is 850 million to 1.15 billion euros and we expect it to be in the middle of the range due to the negative 1 in the financial result. 
+asr:0: OUTPUT 1109.53-1112.01: Which we experienced in Q1. 
+asr:0: OUTPUT 1113.27-1118.46: The dividend target is unchanged 85 Eurocents per share for fiscal year 2020. 
+asr:0: OUTPUT 1119.62-1123.88: And with this, I conclude my remarks and I'm now happy to take all your questions. 
+asr:0: OUTPUT 1124.66-1130.03: Thank you, Markus. And as always, in view of time, please stick to two questions only. 
+asr:0: OUTPUT 1130.97-1133.55: Operator, please start the Q&A session. 
+asr:0: OUTPUT 1134.61-1141.08: Ladies and gentlemen, if you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1141.38-1146.09: If you change your mind and wish to withdraw your question, please press star 2. 
+asr:0: OUTPUT 1146.45-1148.87: You will be advised when to ask your question. 
+asr:0: OUTPUT 1149.53-1155.24: Our first question is coming from the line of Vanda Serebryanovska from Credit Suisse. Please go ahead. 
+asr:0: OUTPUT 1156.50-1159.72: Two questions for me. 
+asr:0: OUTPUT 1160.30-1162.90: The first one is on the negative power price. 
+asr:0: OUTPUT 1163.34-1166.29: In the UK, there is a clause in the most of the CFDs. 
+asr:0: OUTPUT 1166.97-1173.81: To say that if the prior price goes negative for more than six hours, then basically CFDT is to apply for that time. 
+asr:0: OUTPUT 1174.51-1177.44: Does the rule apply for... 
+asr:0: OUTPUT 1177.46-1186.23: All your assets in the UK and that's the same or similar to exist in other markets than other we operate in. 
+asr:0: OUTPUT 1186.91-1195.32: And the second question is on the renewables target growth, when can we expect RWE to rise the annual renewables target growth? 
+asr:0: OUTPUT 1195.60-1200.62: Seen recently NG, increasing the annual target from three to four gigawatts per annum. 
+asr:0: OUTPUT 1200.64-1201.98: Thank you very much. 
+asr:0: OUTPUT 1203.48-1209.13: Yeah, thanks for your question. I mean, yes, the negative price rule applies to the UK. 
+asr:0: OUTPUT 1209.25-1214.71: And we have a similar one, but the technical details are slightly different also in Germany. 
+asr:0: OUTPUT 1214.87-1217.84: I mean, I have to admit I don't know the exact details. 
+asr:0: OUTPUT 1217.96-1220.10: And so far,. 
+asr:0: OUTPUT 1220.30-1229.43: I think you can usually plan it because you know your power price forecast on a quarterly hour basis for the full year. 
+asr:0: OUTPUT 1229.53-1236.46: And it has not had a significant negative effect which was not planned for us even this year. 
+asr:0: OUTPUT 1236.68-1240.56: So for us it's a minor technicality. 
+asr:0: OUTPUT 1242.18-1249.85: And if you want the details, I think please call the team also to understand where the German measure deviates from the UK one. 
+asr:0: OUTPUT 1250.67-1257.58: On the targets, I mean, we already gave you an indication with the Nordics pipeline that comes on top of our targets. 
+asr:0: OUTPUT 1257.94-1265.02: But I mean our targets have been communicated a couple of months ago. So don't expect us that we give you new targets every month. 
+asr:0: OUTPUT 1265.25-1274.79: So when we deem it appropriate that we need to update the market about new plans or revised plans, we will do it, but we will not do it on a quarterly basis. 
+asr:0: OUTPUT 1276.58-1278.86: Thank you. 
+asr:0: OUTPUT 1278.92-1282.96: Back to me on the details, on the technical details, on the negative power drive. 
+asr:0: OUTPUT 1283.02-1289.65: I know that it's not the issue for this year or next year, but we see more and more often negative power price on the market. 
+asr:0: OUTPUT 1290.35-1291.43: Yes, we will come back. 
+asr:0: OUTPUT 1292.01-1296.26: Thank you very much but i mean i did that that the remark i mean. 
+asr:0: OUTPUT 1297.40-1302.88: The moment it becomes viable, you usually, I mean,. 
+asr:0: OUTPUT 1303.10-1308.75: The team comes back, but I think for us, it's an overrated issue also going forward. 
+asr:0: OUTPUT 1308.81-1314.97: Because what we see is we get more and more flexibility in the system in many markets. 
+asr:0: OUTPUT 1315.28-1320.56: So the period of very negative power prices should naturally come to an end. 
+asr:0: OUTPUT 1320.68-1329.69: I mean, not for the specific plant, you cannot do anything for the CFD plant, but the market overall, because it incentivizes investments in flexibilities like batteries. 
+asr:0: OUTPUT 1330.65-1340.20: And if you get more of that, it will definitely take, at first, the negative power prices away. So we don't see it as a big issue going forward. 
+asr:0: OUTPUT 1347.73-1353.07: Next question is coming from the line of Vincent Ayeral from J.P. Morgan. Please go ahead. 
+asr:0: OUTPUT 1355.40-1359.88: Good morning, good afternoon. Quick one, could you provide. 
+asr:0: OUTPUT 1360.00-1367.93: Us a bit more color on the Nordics pipeline, but at an asset level, we understand we see the geography, so mainly it seems to be. 
+asr:0: OUTPUT 1367.95-1373.29: Of a print in the French onshore market. 
+asr:0: OUTPUT 1373.55-1375.60: So we understand that the strategy behind. 
+asr:0: OUTPUT 1375.92-1382.06: It would be great if we could get a bit more color on the project level, what are the big projects and which are in there. 
+asr:0: OUTPUT 1382.52-1387.37: And basically what is the expected time for contribution there. 
+asr:0: OUTPUT 1388.23-1391.99: So that would be the question one and bouncing back on this. 
+asr:0: OUTPUT 1393.53-1402.48: What is your view regarding acquisition of renewable assets given current prices? Buying a pipeline is one thing, buying an existing operating asset is another one. 
+asr:0: OUTPUT 1403.20-1405.55: Do you see that by your creative and... 
+asr:0: OUTPUT 1405.83-1411.73: Would you, in such a situation, consider potentially even founding larger acquisitions? 
+asr:0: OUTPUT 1412.03-1416.42: By reconsidering your stake in E.ON. Thank you very much. 
+asr:0: OUTPUT 1417.36-1420.00: Yeah, thanks for your question. Let me start with the latter one. 
+asr:0: OUTPUT 1420.30-1426.23: I think for us, having a deep pipeline where we can invest our money. 
+asr:0: OUTPUT 1426.37-1429.21: It would not be... 
+asr:0: OUTPUT 1429.29-1437.40: Let's put it value optimal, to actually acquire existing assets because we want to build them, we want to operate them. 
+asr:0: OUTPUT 1438.22-1443.52: And us becoming a financial investor, I mean, I see it difficult that that is really value accreting. 
+asr:0: OUTPUT 1443.62-1447.91: It's a different thing if you can maybe swap assets here and there. 
+asr:0: OUTPUT 1447.93-1453.79: To change the portfolio mix and get some synergies here and there. 
+asr:0: OUTPUT 1454.15-1457.66: But I don't see it as very relevant for the near future. 
+asr:0: OUTPUT 1457.78-1464.32: So, I mean, we are interested in strengthening our pipeline, especially as we have done with the Nordics. I'll come to that in a minute. 
+asr:0: OUTPUT 1464.80-1474.29: But acquiring existing assets, asset by asset, is not part of our investment plan. 
+asr:0: OUTPUT 1474.81-1481.36: I mean, on the Nordics pipeline, I mean, let me start first with why this was strategically important, as I said in my speech. 
+asr:0: OUTPUT 1481.68-1488.51: Because France is a very attractive onshore market with the double-sided CFD for 20 years,. 
+asr:0: OUTPUT 1489.39-1495.58: We have seen prices in the last auctions between 62 and 67 euros, so you can see that that is very attractive. 
+asr:0: OUTPUT 1496.40-1504.78: And it was on the European landscape the one target market where we really missed a presence. So it was really a good opportunity for us. 
+asr:0: OUTPUT 1505.43-1512.71: We looked into the pipeline in detail, as you can imagine, in the due diligence, and I mean we have very good locations, good wind conditions. 
+asr:0: OUTPUT 1512.83-1517.24: Clusters in geographic proximity that. 
+asr:0: OUTPUT 1517.26-1518.84: Will provide efficiencies. 
+asr:0: OUTPUT 1519.32-1521.26: And I mean,. 
+asr:0: OUTPUT 1521.42-1524.88: I will not talk about specific locations now. 
+asr:0: OUTPUT 1524.92-1534.13: Because the transaction is not closed and we are bound to confidentiality. So I can give you a view of how the portfolio will look like. I will give you more color in a minute. 
+asr:0: OUTPUT 1534.27-1536.44: But I cannot talk about specific sites. 
+asr:0: OUTPUT 1537.92-1542.74: I mean, we can give you more color after the closing of the transaction. 
+asr:0: OUTPUT 1543.74-1553.59: What we have already said is 15% of the pipeline is close to FID or very late development stage and we expect the first CO2s by 2021. 
+asr:0: OUTPUT 1553.89-1561.62: On average, we would at least expect 100 megawatt from the pipeline per annum so that we have by 2025 another 500 megawatt under operation. 
+asr:0: OUTPUT 1564.06-1570.21: Including the purchase price of 402.5 million, we expect that the IRRs of the projects will. 
+asr:0: OUTPUT 1570.23-1578.70: Be within our given range. At the capital market day we said for mature onshore PV markets we expect 4.5. 
+asr:0: OUTPUT 1578.72-1579.88: To 8%. 
+asr:0: OUTPUT 1580.14-1588.59: But please, I mean, this is a very mature market and we had to buy it, so don't expect it at the upper end of the 4.5 to 8%. 
+asr:0: OUTPUT 1588.93-1591.27: But clearly in the range. 
+asr:0: OUTPUT 1591.95-1600.34: We saw the price as attractive. I mean, it's always very difficult to judge or assess the price from the outside in, but we have also seen other pipelines. 
+asr:0: OUTPUT 1600.36-1602.82: We participated in many due diligence in France. 
+asr:0: OUTPUT 1604.00-1608.25: So we know also how other pipelines look like and just looking at it from the outside in. 
+asr:0: OUTPUT 1608.63-1614.79: You have seen acquisitions in that market which were priced at 150 to 250. 
+asr:0: OUTPUT 1614.81-1623.88: Euros per megawatt and we are at the lower end of that. But I mean that is very difficult comparing prices on that level, pipeline by pipeline. 
+asr:0: OUTPUT 1624.42-1634.13: The split of the maturity of the pipeline is more or less in line with the maturity of our overall pipeline. 
+asr:0: OUTPUT 1634.59-1643.68: I mean, around, as I said, 15% is close to FID and late stage. We have around 30% mid-stage. And the remaining part is then early stage development. 
+asr:0: OUTPUT 1650.93-1657.84: Question please. The next question is coming from the line of Peter Bischtega from Bofo Securities. Please go ahead. 
+asr:0: OUTPUT 1660.00-1679.64: Yeah, thanks for taking my question. So just another one on the Nordex portfolio. Could you sort of tell us how the 400 million acquisition price and the, I guess, additional capex that you're going to be spending over the next couple of years fits into your existing 5 billion capex budget? 
+asr:0: OUTPUT 1679.68-1683.04: Does it display something else out of that budget or is it in addition? 
+asr:0: OUTPUT 1683.58-1688.41: And I guess if it's in addition, then where have you found that extra balance sheet capacity, please? 
+asr:0: OUTPUT 1689.35-1693.33: And then my second question, actually was just on carbon. 
+asr:0: OUTPUT 1693.39-1697.20: Which has obviously been very volatile. 
+asr:0: OUTPUT 1697.22-1703.64: Over the last couple of quarters, I guess your supply and trading division might have. 
+asr:0: OUTPUT 1704.92-1710.31: I was just wondering, could you give us your views as to what's actually been driving the carbon price, particularly. 
+asr:0: OUTPUT 1711.61-1715.36: You know, as it's reached the sort of mid to high twenties. Thank you. 
+asr:0: OUTPUT 1716.96-1726.01: Peter, thanks for the question. On the Nordics pipeline, yes, it will come on top of the 5 billion, as we have said with the announcement of the transaction. 
+asr:0: OUTPUT 1726.57-1730.37: And now a question regarding funding. 
+asr:0: OUTPUT 1730.75-1732.49: I mean, as I said in the speech. 
+asr:0: OUTPUT 1732.73-1739.26: We expect to be within the leverage target of the three times net debt to EBITDA. 
+asr:0: OUTPUT 1739.34-1743.96: Including the 400 million and I mean we have a lot of moving parts I mean. 
+asr:0: OUTPUT 1744.34-1748.17: If we assume, and I also hinted to that, that. 
+asr:0: OUTPUT 1748.21-1754.37: Commodity prices, especially gas and CO2, and interest rates stay where they were at end of June. 
+asr:0: OUTPUT 1754.87-1763.90: Then we have a good view what are the moving cash items operating cash flow, investments, we know our divestments are hinted to Georgia Biomass. 
+asr:0: OUTPUT 1764.28-1765.67: We're going to pay back the high growth. 
+asr:0: OUTPUT 1766.01-1771.95: I mean that is all very stable and we can foresee that we end the year at around 3.0. 
+asr:0: OUTPUT 1772.15-1781.52: But of course we cannot control commodity prices and we cannot control interest rates, but these are only timing effects. I mean, this will normalize over time. That's why we are confident. 
+asr:0: OUTPUT 1781.90-1786.71: If we move up, then it will come down without impacting the CAPEX. 
+asr:0: OUTPUT 1787.11-1796.76: Then later, the project investments after the, I mean, when we do CODs, that will be part of the capital allocation approach. 
+asr:0: OUTPUT 1797.04-1802.36: But of course, as I hinted to, it will come on top of our existing target. 
+asr:0: OUTPUT 1802.58-1809.07: But I mean 100 megawatt here and there, that will not move the needle on the company of our size. 
+asr:0: OUTPUT 1814.57-1816.38: Sorry, carbs. Sorry, exactly, carbs. 
+asr:0: OUTPUT 1817.84-1825.93: Yeah, I mean, even within the team here, we have two different views and I think that's a good reflection of how I see the market. 
+asr:0: OUTPUT 1826.69-1829.65: Short term is more bearish because. 
+asr:0: OUTPUT 1829.67-1837.76: I mean, with the COVID situation, with very low gas prices, significant fuel switching, muted industrial demand. 
+asr:0: OUTPUT 1837.94-1845.77: I mean, the demand for carbon certificates is definitely much lower than it has been expected. 
+asr:0: OUTPUT 1847.61-1854.39: On the other hand, it's also clear that the more political mid- to long-term view is more bullish, because, I mean,. 
+asr:0: OUTPUT 1854.55-1862.42: Somehow, the European Commission needs to implement the more aggressive CO2 reduction target and it doesn't matter whether they go to. 
+asr:0: OUTPUT 1862.52-1867.55: I don't know, 50, 55 or even 60% reduction by 2030. 
+asr:0: OUTPUT 1867.79-1874.03: A significant part of that, maybe even more than half, needs to come from the EU ETS. 
+asr:0: OUTPUT 1874.21-1877.06: And that will definitely mean that prices will go up. 
+asr:0: OUTPUT 1877.56-1884.32: And maybe what is different this time than in the last financial crisis, in the last financial crisis we have seen,. 
+asr:0: OUTPUT 1884.34-1890.67: A lot of industrial who were sitting on access certificates. 
+asr:0: OUTPUT 1891.65-1895.18: Were in financial trouble and they needed to sell. 
+asr:0: OUTPUT 1896.02-1898.28: Just to get liquidity. 
+asr:0: OUTPUT 1898.90-1903.40: This is with the huge program of the central banks and the fiscal support now different. 
+asr:0: OUTPUT 1903.48-1910.01: Maybe some industrialists take more the political long-term view and use the liquidity they still have. 
+asr:0: OUTPUT 1910.03-1913.67: To buy cheaper than they expect the prices to be. 
+asr:0: OUTPUT 1913.79-1916.42: These are the two camps, short term, long term. 
+asr:0: OUTPUT 1917.20-1926.29: And since this market is nothing you can fundamentally analyze, it's always a sentiment question. And I think the more dominant factor is definitely the midterm to long-term political. 
+asr:0: OUTPUT 1926.43-1927.89: I. 
+asr:0: OUTPUT 1928.93-1938.60: I can simply not imagine that if prices go down to 15 euros again that the politicians will sit there and do nothing. 
+asr:0: OUTPUT 1943.54-1950.23: The next question is coming from the line of Alberto Gandolfi from Goldman Sachs. Please go ahead. 
+asr:0: OUTPUT 1951.03-1952.61: Thank you and good afternoon. 
+asr:0: OUTPUT 1953.11-1955.74: The first one is to go back to the Eon stake. 
+asr:0: OUTPUT 1956.18-1965.00: We heard in the past that maybe badly counted about half of that could be used against leaknet liabilities and the rest could be used for growth. Could you please confirm that? 
+asr:0: OUTPUT 1965.07-1977.02: When it comes to growth, can you help us understand the logic? Would it be contingent to maybe a big offshore win or perhaps to identifying something external like you just did with Nordex and something even bigger? 
+asr:0: OUTPUT 1977.64-1982.96: And secondly, it's just thinking about M&A from a different perspective, like RWE as a potential target. 
+asr:0: OUTPUT 1983.16-1992.05: So we are seeing oil companies very quickly moving into the space. BP with a 50 gigawatt net target by 2030. 
+asr:0: OUTPUT 1993.27-1998.90: A company like yourself would be like a plug and play, developing with existing capacity,. 
+asr:0: OUTPUT 1999.06-2007.49: Do you think there is a race to scale here and what would be the best way for you to fend off a threat like this one? 
+asr:0: OUTPUT 2011.23-2018.64: Berto, thanks for the question. I mean, on the EON stake, I can just reconfirm that everything is still valid, which we have said in the past. 
+asr:0: OUTPUT 2019.94-2028.95: The EON stack is not tied to the Lignite provisions, we just said we currently use it. We could also back the Lignite provisions by other financial portfolios. 
+asr:0: OUTPUT 2030.09-2033.45: And I mean, when you look at the... 
+asr:0: OUTPUT 2033.49-2036.42: At the potential sourcing of financing yet. 
+asr:0: OUTPUT 2036.62-2044.24: I mean, we potentially need half of it to back the Lignap provision and the other half would be available to capital rotation. 
+asr:0: OUTPUT 2045.25-2049.31: But I mean, that has not changed. It's exactly what we said before. 
+asr:0: OUTPUT 2050.13-2056.14: Usually we have two questions, so you had three. Which one do you want me to answer now? The oil question or the other one? 
+asr:0: OUTPUT 2056.48-2060.00: I start with the old questions and then let's see whether we still have time. 
+asr:0: OUTPUT 2063.30-2064.94: Because I think that's the more interesting one. 
+asr:0: OUTPUT 2065.31-2073.87: I do agree that we couldn't end up in a situation that it's a race for scarcity. 
+asr:0: OUTPUT 2073.91-2081.94: Because it might be difficult if you put together all the capital investment plans. 
+asr:0: OUTPUT 2081.96-2084.99: Of everybody around in this field. 
+asr:0: OUTPUT 2086.11-2095.20: It's almost impossible to employ that amount of money until, let's say, 2030, because there are simply not enough projects and you have more lead times to do it. 
+asr:0: OUTPUT 2095.58-2100.56: So existing pipelines become much more valuable. 
+asr:0: OUTPUT 2101.08-2109.77: I think the investors of big oil and others need to ask themselves the question whether it's really green, a green investment if you buy existing stuff from others. 
+asr:0: OUTPUT 2110.89-2116.30: Because that is not a positive contribution. It's just, I mean, overbidding in price. 
+asr:0: OUTPUT 2117.08-2125.55: So, I mean, on the question whether we could become a target or not, I think your company is well positioned to help the oil companies figuring that out and we sit and wait what happens. 
+asr:0: OUTPUT 2129.05-2132.83: Well, I mean, that's speculation. I mean, that's not in our control whatsoever. What can we do? 
+asr:0: OUTPUT 2133.51-2142.86: I mean, I'm actually happy that also others see the field of renewables and the overall power sector as attractive because that's the core of our strategy. 
+asr:0: OUTPUT 2143.32-2148.83: And I think we have all the ingredients to be successful. We have the very experienced team. 
+asr:0: OUTPUT 2149.17-2153.01: We have a deep pipeline which actually needed to be developed over a decade. 
+asr:0: OUTPUT 2154.01-2160.92: And of course we have investment discipline and will ensure that we put the money where we get a decent return and we will continue doing that. 
+asr:0: OUTPUT 2161.04-2169.89: I mean, developing our pipeline, investing in good projects, and also being on the technological forefront, be it batteries, be it H2. 
+asr:0: OUTPUT 2169.91-2172.19: Or be it floating offshore. 
+asr:0: OUTPUT 2172.91-2178.76: Where I actually don't see limiting factors is the long-term market growth. 
+asr:0: OUTPUT 2178.78-2188.67: Because the long-term market growth of renewables and also power overall is, I mean, tremendous globally, the trend to electrification and to green. 
+asr:0: OUTPUT 2188.73-2192.65: Is very supporting and where I also don't see a limiting factor is fun. 
+asr:0: OUTPUT 2192.75-2199.20: Because if you have good projects, I think investors are actually looking for investment opportunities. 
+asr:0: OUTPUT 2199.28-2202.82: And now you need to ask yourself who actually brings what to the table. 
+asr:0: OUTPUT 2203.12-2205.11: The market closes there itself. 
+asr:0: OUTPUT 2205.23-2207.99: Is not the problem, so what you need is experience in the pipeline. 
+asr:0: OUTPUT 2213.53-2220.50: Next question please. 
+asr:0: OUTPUT 2221.82-2226.43: Hi, yes, good afternoon everyone. So, first question, Marcus. 
+asr:0: OUTPUT 2227.39-2229.75: Is can we talk about the EU recovery fund? 
+asr:0: OUTPUT 2230.15-2238.68: And how do you think internally that RWE will benefit from this? And there's a second part to that, not a second question. 
+asr:0: OUTPUT 2239.02-2240.38: Can you help us understand? 
+asr:0: OUTPUT 2240.40-2248.81: Practically how the money flows from a number on a presentation slide into actual projects because that still seems very unclear. 
+asr:0: OUTPUT 2249.95-2259.36: And the second question, and hopefully a lot simpler, is you have secured some acreage in the UK. Could you provide an update on the process you have for leases for some of the other. 
+asr:0: OUTPUT 2259.62-2264.84: Extensions, you flagged it the CMD, namely, created Gabbard, Galloper and Rampian. 
+asr:0: OUTPUT 2265.89-2270.49: Has that been successful? Is that underway? Or is that not this year's business? Thank you. 
+asr:0: OUTPUT 2271.61-2273.39: Let me start with the easier one, Rob. 
+asr:0: OUTPUT 2274.07-2276.58: I mean, we are working on the lease extensions. 
+asr:0: OUTPUT 2277.06-2284.58: And it will be around 800 to 1.2, 800 megawatt to 1.2 gigawatt. 
+asr:0: OUTPUT 2285.11-2294.59: And we are optimistic that we can finalize it and by then book it as lease secured. 
+asr:0: OUTPUT 2294.61-2296.08: By the end of the year. 
+asr:0: OUTPUT 2297.16-2299.26: But it's going well. 
+asr:0: OUTPUT 2300.00-2305.27: And on the European recovery fund, let me start with the second part of the question. 
+asr:0: OUTPUT 2306.29-2315.88: I think we will learn about it over the next, let's say, two quarters until the end of the year, how the flow of the money will really go. 
+asr:0: OUTPUT 2316.34-2320.00: Because usually the European Union works in a way that it's just. 
+asr:0: OUTPUT 2320.50-2326.91: They have only little funds like the Just Transition Fund and stuff like that, where it's double-digit million. 
+asr:0: OUTPUT 2327.11-2330.85: Where they put money directly into specific projects. 
+asr:0: OUTPUT 2330.89-2340.12: Usually, the European Union's budget is a huge kind of, I mean, shifting mechanism. So people are paying net in and getting money net out. 
+asr:0: OUTPUT 2340.40-2345.73: So what now as a next step needs to happen is that the individual countries. 
+asr:0: OUTPUT 2345.75-2354.33: Needs to come up with programs and plans where to invest the money and if that ticks all boxes they will get their proportional share of the money. 
+asr:0: OUTPUT 2354.59-2364.26: So we need to wait for national actions, where they're going to put and where they want to invest. And how they support certain things is also unclear. 
+asr:0: OUTPUT 2364.66-2373.81: I mean, you can do it with direct subsidy, you can do it with a remuneration framework, simpler financing. I mean, it's still totally unclear. 
+asr:0: OUTPUT 2374.73-2380.04: And the only thing what we can do, and that's the first part of your question, I mean,. 
+asr:0: OUTPUT 2380.24-2387.43: We are also now actively looking especially in the evolving H2 sector. 
+asr:0: OUTPUT 2387.91-2393.53: And of course what is obvious is if more renewable power is needed and you get an indirect. 
+asr:0: OUTPUT 2393.55-2399.60: Renumeration framework for renewable power via the support of demand for green hydrogen. 
+asr:0: OUTPUT 2399.90-2402.44: We are definitely ready to build more renewables. 
+asr:0: OUTPUT 2402.86-2408.65: But we are also willing to invest into the production of hydrogen. That depends on what agreement we find with the partners. 
+asr:0: OUTPUT 2409.05-2418.68: Is it better our money or their and how do you structure the contract? The question is who puts money into transportation, maybe more others. It remains to be seen whether that needs to be unbundled. 
+asr:0: OUTPUT 2419.08-2420.62: I have many open questions. 
+asr:0: OUTPUT 2420.66-2431.39: So I think the important step now is to get the right partners together and think it through what is feasible and you should usually start with the demand. 
+asr:0: OUTPUT 2431.55-2438.10: I mean, who actually needs the hydrogen? And then you do backward re-engineering. 
+asr:0: OUTPUT 2439.40-2441.68: And I mean, I think these are the big fears. 
+asr:0: OUTPUT 2442.26-2449.67: Our current business already, so especially renewables and storage technology, and the new one which will come in addition is hydrogen. 
+asr:0: OUTPUT 2450.03-2456.40: But also I want to kind of not spoil the party, but I mean if you talk about profits from especially hydrogen. 
+asr:0: OUTPUT 2456.44-2465.13: Probably we need to wait a couple of years before it is relevant in terms of investment and also in terms of profitability. 
+asr:0: OUTPUT 2466.25-2468.17: And maybe... 
+asr:0: OUTPUT 2468.19-2477.56: The kickstart of the solar and wind business is a good proxy. It could easily take at least half a decade, maybe a decade before it becomes a relevant profit figure. 
+asr:0: OUTPUT 2480.66-2489.57: That's super interesting, thank you very much and good luck with the lease rounds. Thank you. We will update you whenever we have good news. 
+asr:0: OUTPUT 2491.59-2498.82: Thanks a lot. Next question, please. The next question is coming from the line of Sam Ari from UBS. Please go ahead. 
+asr:0: OUTPUT 2500.18-2506.19: Hi, good afternoon, everybody. Thanks for the presentation and great results today. 
+asr:0: OUTPUT 2506.33-2511.09: I just wanted to ask two questions, one on returns and one on farm ban. 
+asr:0: OUTPUT 2512.23-2517.34: So on returns, I think you had spoken at the CMD. 
+asr:0: OUTPUT 2517.36-2524.70: About 100 to 300 bits spread above whack as being typical in the renewable business. 
+asr:0: OUTPUT 2525.69-2531.43: These days 100 to 300 bits doesn't actually sound that crazy as an estimate of the whack actually. 
+asr:0: OUTPUT 2532.55-2540.36: The lower the WAC, the lower the spread that you need to make the same kind of value creation ratio. 
+asr:0: OUTPUT 2541.42-2550.83: So it just seems to me that a year or two ago, it was common to talk about high single digit returns in renewables or mid to high single digit returns. I'm talking about unlevered project returns. 
+asr:0: OUTPUT 2552.01-2557.74: So are we now more likely to be going into the low single digit returns territory? 
+asr:0: OUTPUT 2558.14-2563.00: And is that possibly a fair outlook for offshore wind as well, where it returns? 
+asr:0: OUTPUT 2563.10-2569.05: It's already been a bit higher. Just love to know what your thoughts are about that at the industry level. 
+asr:0: OUTPUT 2570.03-2577.30: And then my farm down question is just, look, I feel like we're going to see over time,. 
+asr:0: OUTPUT 2577.32-2586.15: More and more pressure from auctions and tenders and developers may be eventually forced to bring the farm down partner with them to the tender. 
+asr:0: OUTPUT 2586.73-2589.45: So if you like the competitive pressure of auctions. 
+asr:0: OUTPUT 2589.47-2596.88: Will mean that this kind of extra value arbitrage that you currently get in a farm down might eventually get captured by the consumer. 
+asr:0: OUTPUT 2596.98-2599.62: Or the public body that's doing the tender. 
+asr:0: OUTPUT 2600.12-2607.53: Do you think that's a reasonable expectation? 
+asr:0: OUTPUT 2607.55-2615.82: Tenders with a finance partner alongside and have you talked to any specific funds or partners about that kind of long-term approach? 
+asr:0: OUTPUT 2616.92-2619.16: So returns and fund downs. Thank you. 
+asr:0: OUTPUT 2620.14-2629.07: Sam, thanks for the discussion. On returns, I agree that we definitely see that the WACs are coming down. 
+asr:0: OUTPUT 2629.17-2634.79: I mean, I also carefully read your report and you also put now very low numbers to wax. 
+asr:0: OUTPUT 2635.20-2637.50: Which I think is the right thing. 
+asr:0: OUTPUT 2638.80-2640.00: And... 
+asr:0: OUTPUT 2640.56-2647.95: But I'm not there that I would say we see now low single digit returns for offshore. 
+asr:0: OUTPUT 2648.11-2650.09: That's not where we are. 
+asr:0: OUTPUT 2650.21-2657.62: Definitely, we have promised you the average IRR of an unlevered project of 650 basis points. 
+asr:0: OUTPUT 2657.64-2662.56: For the investment program, we have outlined until 2022. 
+asr:0: OUTPUT 2663.44-2670.81: Potentially the absolute returns, not the value creation, but the absolute returns of the next CapEx program will be lower. 
+asr:0: OUTPUT 2670.91-2674.07: But also because the WECC is significantly lower. 
+asr:0: OUTPUT 2674.49-2683.46: But when you talk about the absolute level, I'm not at low. I mean low for me is 3 and 3 something. 
+asr:0: OUTPUT 2683.82-2693.47: It will come down, but what we see is not for the projects which we have after the 22 horizon already visibility of the profitability. 
+asr:0: OUTPUT 2693.91-2696.46: I wouldn't call that low, it's more medium. 
+asr:0: OUTPUT 2697.74-2700.20: Calm down, I'm not sure whether I got your question. 
+asr:0: OUTPUT 2700.28-2703.60: I currently don't see that you have tenders. 
+asr:0: OUTPUT 2703.62-2710.35: Where you need to bring your financing or where you have an advantage if you don't go into the auction alone. 
+asr:0: OUTPUT 2711.49-2715.20: And getting an advantage when you already bring the financing partner. 
+asr:0: OUTPUT 2715.34-2722.52: I haven't seen things like that. What is more and more obvious is that also now the new tender design to give you one example for Taiwan. 
+asr:0: OUTPUT 2722.68-2729.73: That local production becomes a dominant theme. 
+asr:0: OUTPUT 2729.85-2736.62: That if you want to put money in some place you need to prove that it's actually good for the regions where you get the least. 
+asr:0: OUTPUT 2736.80-2738.94: It's good for the people, you create jobs. 
+asr:0: OUTPUT 2738.98-2742.52: You use local suppliers that is becoming more and more important. 
+asr:0: OUTPUT 2742.90-2751.87: But what I don't see is that it's advantage that you already with the auction say that you're going to farm down and bring a financing partner. 
+asr:0: OUTPUT 2759.38-2769.37: Helpful or you want to have a clarification? No, no, no, that's fine. I don't want to take up too much time but I'm sure we'll talk about this again and thank you for two helpful answers just then. 
+asr:0: OUTPUT 2770.15-2779.26: Thank you. Thank you, Sam. Next question, please. The next question is coming from the line of John Musk from RBC. Please go ahead. 
+asr:0: OUTPUT 2781.56-2783.48: Yes, morning and good afternoon, everyone. 
+asr:0: OUTPUT 2784.36-2789.03: Firstly, on the hedging of the outright book, it looks. 
+asr:0: OUTPUT 2789.57-2795.50: As if you've accelerated the fully hedged portion, particularly in 2022. 
+asr:0: OUTPUT 2797.28-2801.68: Obviously, this is quite a small chart, but from maybe roughly 30% to 50%, which. 
+asr:0: OUTPUT 2801.70-2811.61: Is probably more than you would normally do in a quarter. So just wanted to understand some thinking behind that. Is there a particular view on power prices or spreads at these levels? 
+asr:0: OUTPUT 2812.65-2819.84: And then secondly, on the three times leverage factor, just to confirm, that's not including. 
+asr:0: OUTPUT 2819.86-2829.21: Any potential asset rotation at the moment because there are some headlines in recent days around some of your offshore assets that you might be looking to sell down. 
+asr:0: OUTPUT 2831.19-2839.72: John, thanks for the question. I mean, on hatching, you are right. We increased the outright hatch. So what we actually closed by that was the spread position. 
+asr:0: OUTPUT 2840.78-2848.23: What you could read into it is if you think threats are fair, it's part of de-risking now to close it. 
+asr:0: OUTPUT 2849.63-2856.96: And I think if you look at current market prices and spread, I think everybody expects 100% recovery by 2022. 
+asr:0: OUTPUT 2857.20-2859.94: And if you want to lock that in, you better close the position now. 
+asr:0: OUTPUT 2860.00-2862.18: And that's what we have. 
+asr:0: OUTPUT 2862.38-2870.39: That doesn't tell you what we, I mean we don't know how the global economy will look like, but it's better to lock it in now than to keep it open. 
+asr:0: OUTPUT 2871.85-2879.06: On the leverage side, the three times net debt to EBITDA includes our plans on. 
+asr:0: OUTPUT 2879.08-2883.90: Capital rotation so it is it is it is our net investment target. 
+asr:0: OUTPUT 2884.10-2890.33: I mean, we have outlined a net investment of around 1.5 to 2 billion per annum. 
+asr:0: OUTPUT 2890.69-2900.08: So if we're going to invest gross more, given the profile, then it also includes divestment. I have already said that we divested. 
+asr:0: OUTPUT 2900.46-2910.09: Which is not yet in the financials, Georgia biomass for close to $200 million, 175 and some adjustments. 
+asr:0: OUTPUT 2910.97-2914.91: And I mean, on the other things, we are considering our options. 
+asr:0: OUTPUT 2915.92-2918.70: So we will bring it to the net figure. 
+asr:0: OUTPUT 2918.78-2924.66: But I now don't want to speculate on gross and net because we always said that the leading metrics is 13 gigawatt net. 
+asr:0: OUTPUT 2924.68-2929.19: So whatever we do on these puzzles, we will reach the 13 gigawatt. 
+asr:0: OUTPUT 2929.71-2933.55: NET and also the EBITDA guidance for 2022 is a NET guidance. 
+asr:0: OUTPUT 2934.37-2944.04: So, and how we're going to achieve this with how much growth and how much disposal that we need to, given the current uncertainties in some markets, we need to have some flexibility. 
+asr:0: OUTPUT 2944.46-2952.39: And I mean, if you now want to get a comment on the rumors, on the proposals, I mean, the comment is no comment. 
+asr:0: OUTPUT 2952.81-2960.00: I mean, we will update you when we have taken a decision. We will not update you whether we have on a certain asset a market test or not. 
+asr:0: OUTPUT 2966.25-2975.03: Thank you, John. Next question, please. The next question is coming from the line of Deepa Venkateswaran from Bernstein. Please go ahead. 
+asr:0: OUTPUT 2976.40-2986.11: Thank you. 
+asr:0: OUTPUT 2986.49-2995.46: I was just wondering how does that change? Would you accelerate the conversion of your pipeline in the US or practically how might it change anything for you? 
+asr:0: OUTPUT 2996.30-3000.34: And my second question is on Germany itself. 
+asr:0: OUTPUT 3000.70-3008.85: So obviously Germany has pretty lofty targets for 2030, but we're seeing the auctions are continuing to go under subscribe on onshore wind. 
+asr:0: OUTPUT 3009.11-3013.83: Do you see this situation changing with any kind of reforms and would you be? 
+asr:0: OUTPUT 3013.85-3020.96: Taking the lead as Germany's national champion on this to also grab maybe more of the share? 
+asr:0: OUTPUT 3020.98-3022.88: In the German renewables market. 
+asr:0: OUTPUT 3023.32-3032.07: Thank you. 
+asr:0: OUTPUT 3032.09-3035.94: Federal election outcome in the US on our business. 
+asr:0: OUTPUT 3036.08-3040.98: I mean, even today, many things depend on state level. 
+asr:0: OUTPUT 3041.96-3044.10: Of course, the tech support is a federal thing. 
+asr:0: OUTPUT 3044.46-3048.93: But also the current administration extended the PTCs. 
+asr:0: OUTPUT 3048.95-3054.59: Given the COVID situation. So, I mean, that's pure speculation. I would say. 
+asr:0: OUTPUT 3055.50-3057.58: It will not make a huge difference. 
+asr:0: OUTPUT 3058.74-3065.93: And on Germany, of course, we would like to do more in onshore and onshore in Germany. 
+asr:0: OUTPUT 3066.75-3075.09: And we see undersubscribed auctions. The problem is that the projects are not ready to be bid into the auctions. 
+asr:0: OUTPUT 3075.48-3079.90: We have permitting issues, we have pending law cases and so on. 
+asr:0: OUTPUT 3080.32-3095.72: But there is some interesting development because the Minister of Economic Affairs, he tabled a law, a draft law yesterday or two days ago, where they really want to accelerate the permitting process and the court proceedings. 
+asr:0: OUTPUT 3095.80-3096.80: And. 
+asr:0: OUTPUT 3096.92-3106.85: They also introduced something which is now heavily discussed also with the NGOs, that even if you dispute a permission in court,. 
+asr:0: OUTPUT 3106.87-3112.91: That should still, until the decision is there, allow the construction to go on. 
+asr:0: OUTPUT 3113.31-3116.68: And that would be both very helpful. So speedier processes. 
+asr:0: OUTPUT 3116.96-3123.58: And you can go straight to the final court level to get a decision and you don't need to go through the hierarchy. 
+asr:0: OUTPUT 3124.00-3130.89: And also that nobody can, by pure tactics in the court, delay projects. 
+asr:0: OUTPUT 3131.21-3138.70: But let's see how the draft will go through Parliament. But the draft version, at least, looks very favorable for the industry. 
+asr:0: OUTPUT 3144.68-3151.41: The next question is coming from the line of Piotr Ciecholowski from Citi. 
+asr:0: OUTPUT 3153.09-3156.36: Good afternoon. I have two questions. 
+asr:0: OUTPUT 3157.08-3159.56: The first one would be a small on Norbex. 
+asr:0: OUTPUT 3159.82-3170.09: Can you say what's the kind of current cost structure of it? How is it significant number, small number in annual Euro figure as you take over the... 
+asr:0: OUTPUT 3170.11-3171.37: The whole company. 
+asr:0: OUTPUT 3171.69-3172.85: And secondly... 
+asr:0: OUTPUT 3172.91-3186.23: I wanted to ask you on the CO2, go back to the discussion, because before the COVID-19, I thought there is an equilibrium which is determined by the switching between coal and gas as power plants. 
+asr:0: OUTPUT 3186.71-3195.46: If we take coal assets out, what will be, according to you, your expectation, the next equilibrium threshold? 
+asr:0: OUTPUT 3195.54-3202.46: How the market will restore longer-term equilibrium on the CO2 prices, we should be looking at. 
+asr:0: OUTPUT 3202.48-3206.31: Elimination of CO2 what's the next thing to look for. 
+asr:0: OUTPUT 3210.71-3218.90: I mean, on Nordics it's easy. I mean, we take over the company, yes, but it's a development company. So what you actually have is. 
+asr:0: OUTPUT 3218.92-3221.82: So salaries and OPEX for the 70 people. 
+asr:0: OUTPUT 3222.22-3229.51: And of course the development expenditures for the to be developed projects, but I mean part of that is also capitalized. 
+asr:0: OUTPUT 3229.97-3235.28: So it's a very, I mean, in terms of addition to the cost base, it's almost not relevant. 
+asr:0: OUTPUT 3236.44-3240.66: I mean, the most relevant one will be the DevEx for the project and then the CapEx. 
+asr:0: OUTPUT 3243.10-3244.78: On CO2 equilibrium. 
+asr:0: OUTPUT 3245.21-3250.37: Actually, the interesting thing is that the current CO2 price is. 
+asr:0: OUTPUT 3250.39-3255.42: Already above the fuel switching price from hard coal to gas. 
+asr:0: OUTPUT 3255.60-3263.88: The current second most of the times looks guess first then then then lignite and then hard coal. 
+asr:0: OUTPUT 3264.44-3267.19: So if you take out... 
+asr:0: OUTPUT 3267.21-3276.34: That shouldn't change the equilibrium for the CO2 relevant fuel switching price. There shouldn't be a change. 
+asr:0: OUTPUT 3276.60-3281.90: The interesting element, as I said, is already trading above the current fuel searching level. 
+asr:0: OUTPUT 3282.44-3288.75: That can only be explained that actually the industry expects a shortage. 
+asr:0: OUTPUT 3289.65-3295.52: But this is always difficult to judge because this market is not an annual market. 
+asr:0: OUTPUT 3295.58-3299.94: It's also since you can easily keep your certificates for longer. 
+asr:0: OUTPUT 3300.54-3304.80: You can also say it's partly a view on what to come in future years. 
+asr:0: OUTPUT 3306.33-3310.81: So I would not overrate the annual price which causes fuel switch. 
+asr:0: OUTPUT 3310.83-3319.94: That was in the old days of oversupply a good indicator, but now with significant more tightness to come, maybe that's not the relevant indicator anymore. 
+asr:0: OUTPUT 3326.47-3333.77: Question please. The next question is coming from the line of Elchin Mamadov from Bloomberg Intelligence. Please go ahead. 
+asr:0: OUTPUT 3335.22-3342.54: I have two questions for you. The first one is on negative prices. I'm sorry if you covered it before. I missed the very beginning. 
+asr:0: OUTPUT 3342.86-3350.77: Basically, what was reported yesterday was a small issue for them because of the price. 
+asr:0: OUTPUT 3350.79-3353.11: Your CFDs and whatnot. 
+asr:0: OUTPUT 3353.27-3354.89: Your country could be disrupted. 
+asr:0: OUTPUT 3355.30-3361.10: So have you seen it being an issue with you for the second quarter? 
+asr:0: OUTPUT 3361.38-3366.33: Do you think the negative prices will become more or less prevalent going forward? 
+asr:0: OUTPUT 3366.73-3368.83: The second question is on hydrogen. 
+asr:0: OUTPUT 3369.39-3372.75: Where do you think the value will lie? 
+asr:0: OUTPUT 3372.97-3379.74: In the production of hydrogen, transportation of hydrogen, converting it to other fuels like. 
+asr:0: OUTPUT 3379.76-3384.98: Where do you think the money will be and will you be a big player there? 
+asr:0: OUTPUT 3387.87-3389.67: If I could answer the last question. 
+asr:0: OUTPUT 3390.23-3392.33: Life would be easier. 
+asr:0: OUTPUT 3392.37-3400.24: I think it's too early to tell. It also depends on how will the incentivization framework look like. 
+asr:0: OUTPUT 3400.26-3402.50: And how big will the market become? 
+asr:0: OUTPUT 3403.08-3411.39: And of course it has two angles. You can incentivize green production and you can incentivize demand for green hydrogen. 
+asr:0: OUTPUT 3412.43-3416.72: And in the end, it will be then kind of. 
+asr:0: OUTPUT 3416.76-3420.70: Demand supply on the different angles. 
+asr:0: OUTPUT 3420.80-3427.27: Where I actually don't see scarcity is the production of green hydrogen in terms of electrolysis. 
+asr:0: OUTPUT 3427.45-3429.05: I mean, that's a proven technology. 
+asr:0: OUTPUT 3429.47-3439.90: Where we definitely have scarcity already today is renewable projects. Because if you believe. 
+asr:0: OUTPUT 3439.92-3444.20: All the demand forecasts, and I have no doubt that that is a good assessment. 
+asr:0: OUTPUT 3444.60-3451.09: We need so much green energy that every project which is actually in the pipeline of somebody needs to be built one day. 
+asr:0: OUTPUT 3451.39-3455.56: Just a question of time. So this is really a scarcity. 
+asr:0: OUTPUT 3456.60-3463.74: On the demand side, I think that will be a competition by the off-takers, who can do it cheaper. 
+asr:0: OUTPUT 3464.14-3471.09: That's nothing for us. If you ask me where I see our role, it's definitely on the... 
+asr:0: OUTPUT 3471.11-3474.81: Production side, green power. 
+asr:0: OUTPUT 3475.24-3481.20: Potentially, depending on how the consortia will look like, also the production of green hydrogen. 
+asr:0: OUTPUT 3481.54-3484.10: And then the structuring of the offtake. 
+asr:0: OUTPUT 3484.26-3490.65: I mean, we are currently also a very relevant player in gas trading and providing solutions to customers. 
+asr:0: OUTPUT 3491.19-3498.10: And that will also our role be in H2 and you can do that without producing as we currently do with LNG and natural gas. 
+asr:0: OUTPUT 3499.20-3507.89: The first question on negative prices, I mean, we have seen it in the UK and Germany, but it was not a relevant issue. 
+asr:0: OUTPUT 3508.15-3509.53: I mean, it was not a big number. 
+asr:0: OUTPUT 3511.19-3512.59: Okay, thanks a lot. I appreciate it. 
+asr:0: OUTPUT 3515.28-3521.56: Next question please. The next question is coming from the line of Ahmed Farman from Jeffries. Please go ahead. 
+asr:0: OUTPUT 3522.68-3526.33: Yes, hi, thank you. Two questions from my side as well. 
+asr:0: OUTPUT 3526.69-3536.60: I was just wondering if we could get a little bit more color from you around the sort of how do you see this as a value creation opportunity relating to the. 
+asr:0: OUTPUT 3536.62-3538.42: NodeX pipeline. 
+asr:0: OUTPUT 3538.46-3540.22: Especially the near-term assets. 
+asr:0: OUTPUT 3540.28-3547.95: You mentioned it's a mature market. Some of the near-term projects are fairly well developed, close to fed. 
+asr:0: OUTPUT 3548.07-3550.99: So the market where RWE had scale in the past. 
+asr:0: OUTPUT 3551.33-3557.76: I was interested in understanding a little bit more how you see the value proposition from commodity. 
+asr:0: OUTPUT 3558.36-3567.99: And I guess the second question is relating to that. I think you mentioned earlier, right, this was one of the markets you didn't have presence and therefore you were looking for opportunities. 
+asr:0: OUTPUT 3568.91-3574.83: Looking at your existing portfolio, either from a pipeline perspective or a skill perspective,. 
+asr:0: OUTPUT 3575.34-3584.14: Are there any sort of specific gaps that you see that you think sort of scaling up could sort of benefit, be quite beneficial? Thank you. 
+asr:0: OUTPUT 3585.11-3593.23: Yeah, thanks for the question. I mean, I would not say that we failed on France because we were simply not present. 
+asr:0: OUTPUT 3594.11-3600.80: It was always a strategic target to get a foot in the door and now we have not only a foot in the door but a significant pipeline. 
+asr:0: OUTPUT 3600.86-3607.97: And the Nordics team was actually very successful in the French market. I think they ranked number two in terms of success rates in two auctions. 
+asr:0: OUTPUT 3608.47-3611.07: In the last year and they have not only built this pipeline. 
+asr:0: OUTPUT 3611.41-3620.48: Their business model was to build and then when they were close to FID and they got them to the auction, they sold the projects to their potential customers. 
+asr:0: OUTPUT 3622.24-3631.21: I mean, what is the value creation potential for us? I mean, if we continue what they have done in the past and we close our strategic gap. 
+asr:0: OUTPUT 3632.11-3637.52: And the team is not there just to deliver the pipeline which we have acquired. They will continuously develop projects. 
+asr:0: OUTPUT 3638.20-3645.19: And the French market overall is very attractive. It's not so densely populated like Germany, so you have more space. 
+asr:0: OUTPUT 3646.33-3653.27: They have huge build-out targets and even better remuneration framework with a double-sided 20-year inflation-linked CFD. 
+asr:0: OUTPUT 3654.57-3661.24: So if you believe that onshore wind in France is good, it will definitely create value. 
+asr:0: OUTPUT 3661.32-3669.25: And we are firm believers that also the political environment in France and their targets to go straight from nuclear to renewables. 
+asr:0: OUTPUT 3670.33-3678.12: Will not be questioned by some of the next governments. So it's a very intact growth platform. 
+asr:0: OUTPUT 3679.78-3687.25: The gaps in our pipeline, I mean, I think it's always good to be honest. I mean, if you look into that, we are very wind heavy. 
+asr:0: OUTPUT 3687.37-3692.15: So doing more on the solar side would definitely be good. 
+asr:0: OUTPUT 3693.19-3694.65: Let's see how we can achieve it. 
+asr:0: OUTPUT 3694.69-3704.64: I mean, we have definitely ramped up our development activities and you will see more to come, especially in the attractive solar markets like in the US. 
+asr:0: OUTPUT 3705.51-3709.75: But still it's compared to the wind side underrepresented. 
+asr:0: OUTPUT 3710.07-3719.44: And the other one, which is definitely significantly tougher, maybe impossible to close, if you look into our offshore pipeline. 
+asr:0: OUTPUT 3719.76-3727.21: There is in terms of COD dates and that's historically explainable because E.ON stopped and energy had also funding issues. 
+asr:0: OUTPUT 3728.23-3732.59: But we have a gap between 22 where we will commission Triton null. 
+asr:0: OUTPUT 3733.03-3739.42: And then maybe the next project will be commissioned according to the current pipeline around 2025, maybe 2026. 
+asr:0: OUTPUT 3739.78-3745.21: And that is, I mean, this is the profile how it looks like. And if you ask me, you have two wishes. 
+asr:0: OUTPUT 3745.93-3749.89: I would like to fill that time gap and I would like to have more on the solar side. 
+asr:0: OUTPUT 3753.13-3754.33: Thank you, very clear, thank you. 
+asr:0: OUTPUT 3755.36-3757.34: Thank you, Ahmed. Next question, please. 
+asr:0: OUTPUT 3758.08-3763.70: The next question is coming from the line of Firmino Morgato from Mann GLG. Please go ahead. 
+asr:0: OUTPUT 3765.63-3773.97: Thanks for allowing me. Two quick questions. One is in deep offshore wind floating. 
+asr:0: OUTPUT 3774.75-3783.30: What's your view in terms of the different technologies that are around and what you envision that will be the role of RWE? 
+asr:0: OUTPUT 3786.05-3792.01: Okay, thanks for the question because I can use it as an opportunity to clarify what our interest is. 
+asr:0: OUTPUT 3792.33-3799.18: We are not turbine manufacturers, so we are not betting on a certain technology. 
+asr:0: OUTPUT 3800.38-3808.05: And I have no view and also the team has no view what is the potential best floating technology for which market and which. 
+asr:0: OUTPUT 3808.07-3810.43: Sea conditions. 
+asr:0: OUTPUT 3811.19-3819.74: So what we said is let's participate in different technologies, be it concrete or steel. 
+asr:0: OUTPUT 3819.88-3824.38: I'm not an expert on that, but probably you are. You have totally different approaches to that. 
+asr:0: OUTPUT 3824.78-3830.81: And what we said is we want to be part of consortiums of several technologies to be an early learner. 
+asr:0: OUTPUT 3831.01-3837.14: We want to learn how this stuff works because it is a bit different than a fixed bottom. 
+asr:0: OUTPUT 3837.32-3845.79: It is in terms of wind yield, in terms of maintenance costs, and so on. And we want to learn that with different technologies. 
+asr:0: OUTPUT 3846.09-3854.75: That doesn't mean that we will in future, if we go into offshore, only use the technologies where we have been a partner early on. We can also use others. 
+asr:0: OUTPUT 3857.64-3865.41: You asked for our role. Our role is we want to construct and we want to operate also offshore wind farms. 
+asr:0: OUTPUT 3867.23-3871.11: We don't want to build the turbines or the foundations. 
+asr:0: OUTPUT 3872.51-3879.20: Just to tie up with Alberto's question and the role of oil companies,. 
+asr:0: OUTPUT 3879.22-3882.32: You see them actually that deep offshore. 
+asr:0: OUTPUT 3882.34-3891.29: It would be better to do in joint venture in conjunction with oil companies that have experience from offshore. 
+asr:0: OUTPUT 3893.35-3894.57: I mean, that's spectacular. 
+asr:0: OUTPUT 3894.89-3899.46: I mean, but if you look at our partnership, like,. 
+asr:0: OUTPUT 3899.54-3905.81: I mean, we are operating one offshore wind farm together with Equinor. I mean, they are partners in one of our farms. 
+asr:0: OUTPUT 3906.17-3913.91: One of the floating technologies we are in, we are together with Shell in, but I think, I mean... 
+asr:0: OUTPUT 3913.93-3921.60: That can go the one way or the other. I mean, it's too early. I mean, we are open to discussions, but we could also do it ourselves. 
+asr:0: OUTPUT 3924.56-3926.71: And related questions. 
+asr:0: OUTPUT 3926.99-3933.29: When I compare RWE and your strategy and what you want to be, I think that you're going. 
+asr:0: OUTPUT 3933.31-3939.08: With the leaders in renewables. 
+asr:0: OUTPUT 3939.50-3945.55: One of the components missing on the investment thesis is the full commitment to a growing dividend. 
+asr:0: OUTPUT 3947.03-3952.11: When do you think that you can have that full commitment? 
+asr:0: OUTPUT 3952.13-3957.60: What kind of growth do you envision that you can sustain? 
+asr:0: OUTPUT 3960.04-3962.26: I mean I would not compare to anal. 
+asr:0: OUTPUT 3962.46-3968.61: I mean, anal is a fully integrated fucility with most of the values sitting in the networks. 
+asr:0: OUTPUT 3968.99-3973.91: And they don't operate offshore. I mean, our business model is different. 
+asr:0: OUTPUT 3975.06-3977.96: We have actually given a clear commitment to a growing dividend. 
+asr:0: OUTPUT 3978.18-3986.19: We said we want to continuously grow the dividend broadly in line with the development of the. 
+asr:0: OUTPUT 3986.21-3989.15: Of the earnings of our operating core business. 
+asr:0: OUTPUT 3990.05-3995.98: And since the core business, given our investment plans, will definitely grow, also the dividend should grow. 
+asr:0: OUTPUT 3996.62-4004.64: And we discussed it before, so I said I'm in a good proxy, maybe the five cents on top every year which we have now delivered for the last year. 
+asr:0: OUTPUT 4005.01-4011.87: It can be maybe even more because of course the percentage goes down if you stick to an absolute cent number. 
+asr:0: OUTPUT 4012.33-4019.50: That's a commitment we have given. We want to grow the dividend in line with earnings development in the core business. 
+asr:0: OUTPUT 4021.12-4027.81: But if the core business for whatever reason cannot grow,. 
+asr:0: OUTPUT 4028.25-4034.01: I mean, what's your commitment? You will cut the dividend in line with the decline of earnings on the core business? 
+asr:0: OUTPUT 4035.01-4042.98: I mean, we should stick to the two questions rule. So I still answer that one, but then we should give the next one the opportunity to ask questions. 
+asr:0: OUTPUT 4043.36-4047.57: Otherwise we need to do it in a one-on-one session over the IR team please. 
+asr:0: OUTPUT 4048.45-4050.91: I mean, if we don't have enough growth opportunities. 
+asr:0: OUTPUT 4051.21-4059.44: I mean the first thing which is questionable then is why do you only pay out 50% of your profit as dividend because you cannot employ it somewhere. 
+asr:0: OUTPUT 4059.48-4063.30: That would totally change the dividend policy, but it's not a question of a capital. 
+asr:0: OUTPUT 4072.17-4079.70: As a reminder, if you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 4079.96-4085.57: The next question is coming from the line of Rob Pauline from Morgan Stanley. 
+asr:0: OUTPUT 4086.67-4094.95: Yeah, hi, Rob Pulleen. I rejoined to ask another question, if that's OK, but given you've answered or not answered the question on the Humber,. 
+asr:0: OUTPUT 4095.26-4099.20: Can I ask about US deferred tax liabilities? A wonderful subject. 
+asr:0: OUTPUT 4099.94-4109.05: A US exposed utility reported yesterday a large tax charge as projects reached COD and they entered into a tax equity partnership. 
+asr:0: OUTPUT 4109.33-4118.22: So, will we see a similar tax impact at RWE as it reaches COD on your US projects? Thank you. 
+asr:0: OUTPUT 4120.00-4126.67: The answer to the text question is easy, no, we don't expect any huge numbers. 
+asr:0: OUTPUT 4127.79-4134.05: But maybe the situation is different because you said a US utility because we don't have the tax capacity ourselves. 
+asr:0: OUTPUT 4134.23-4138.68: So since we don't have tax capacity, our taxes in the US are zero. 
+asr:0: OUTPUT 4139.14-4143.50: And we need to actually bring in financing partners to reap the tax benefits. 
+asr:0: OUTPUT 4143.82-4147.21: So the tax effect on our business is more or less zero for a long time. 
+asr:0: OUTPUT 4148.25-4152.43: Sorry Marcus, I said US exposed company, it's actually a European. 
+asr:0: OUTPUT 4153.83-4161.80: No, we don't see anything like that. And you blame me on not answering a Humber question. What was the Humber question? 
+asr:0: OUTPUT 4164.00-4165.71: We want to. 
+asr:0: OUTPUT 4169.55-4172.55: But probably you don't get a lot of money for some trees. 
+asr:0: OUTPUT 4173.57-4176.54: No, I didn't answer the Humber question because I said, I mean... 
+asr:0: OUTPUT 4176.64-4185.51: This is a rumor and we don't comment on rumors. What I just can reiterate is of course active portfolio management is part of the strategy but we will give you. 
+asr:0: OUTPUT 4185.53-4187.53: An update when we have taken a decision. 
+asr:0: OUTPUT 4188.15-4194.31: And as long as we have not taken a decision to do something, we don't talk about it. Fair enough. Thank you. 
+asr:0: OUTPUT 4198.56-4205.81: Further questions? We have no further questions in the queue so I'll hand you back to your host for any concluding remarks. 
+asr:0: OUTPUT 4207.57-4214.83: Thank you all for dialing in. Stay safe and healthy and speak to you again later at our Q3 results. Have a good day. Bye bye. 
+asr:0: OUTPUT 4216.58-4219.86: Thank you for joining today's call. You may now disconnect. 
+asr:0: END

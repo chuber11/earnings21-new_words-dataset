@@ -1,0 +1,657 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.50-2.54: Please stand by. 
+asr:0: OUTPUT 4.06-9.25: Good morning and welcome everyone to VINC's second quarter 2020 financial results conference call. 
+asr:0: OUTPUT 9.69-18.66: Please note today's call is being recorded. All lines have been placed on mute to prevent any background noise. After the presentation, there will be a question and answer session. 
+asr:0: OUTPUT 19.50-29.11: During this conference call, management may discuss certain forward-looking statements concerning Census future performance and should be considered as good faith estimates made by the company. 
+asr:0: OUTPUT 29.57-34.59: These forward-looking statements reflect management's expectations are based upon currently available data. 
+asr:0: OUTPUT 35.03-41.20: Actual results are subject to future events and uncertainties, which can materially impact the company's actual performance. 
+asr:0: OUTPUT 41.88-47.91: At this time, I would now like to turn the conference over to Eduardo Padilla, FEMA's Chief Executive Officer. 
+asr:0: OUTPUT 48.25-56.54: Please go ahead, sir. Good morning, everyone, and welcome to PENSA's second quarter 2020 results conference call. 
+asr:0: OUTPUT 60.00-68.01: Are also on the line. And today we are also joined by Eugenio Garza. We hope that you and your loved ones are healthy and safe. 
+asr:0: OUTPUT 69.15-73.85: The second quarter was the most challenging period we have faced operationally in many decades. 
+asr:0: OUTPUT 74.47-78.18: Although there were differences in performance among our business units. 
+asr:0: OUTPUT 78.98-86.49: Also we saw a severe impact from a continuing lack of consumer mobility in the geography of the world. 
+asr:0: OUTPUT 87.01-92.17: That translated into soft performance for most of our categories and consumer locations. 
+asr:0: OUTPUT 92.65-98.98: And the challenge was compounded by the lack of beer supply, but only began to recover in the month of June. 
+asr:0: OUTPUT 99.72-102.02: Our health division, far better. 
+asr:0: OUTPUT 102.28-110.43: As demand for its production products remained high, hotels were constrained by strict restrictions imposed. 
+asr:0: OUTPUT 110.45-115.72: And consumers and their ability to move around, particularly in a key South American market. 
+asr:0: OUTPUT 116.52-122.46: The field division was impacted most as vehicle utilization fell quickly and drastically. 
+asr:0: OUTPUT 122.86-128.99: However, from a deeper value and a relative stance, it is the repair operation that it seems to be rebounding faster. 
+asr:0: OUTPUT 129.75-139.34: For its part, CoreQual Offensive was quite resilient, leveraging execution capabilities to once again adapt to consumer needs and minimize the negative impact of the long-term. 
+asr:0: OUTPUT 140.00-145.41: Having said all that, our team continues to execute at a high level in very complex environments. 
+asr:0: OUTPUT 145.97-152.71: And we continue to focus on the safety and health of our people and our customers above all else. 
+asr:0: OUTPUT 154.59-165.55: Moving on to discuss Census Consolidated Quarantine Numbers, total revenue during the second quarter decreased 10.7% while income from operations decreased 37.5%. 
+asr:0: OUTPUT 166.11-174.21: On an organic basis, total revenues decreased 14.3% and income from operations decreased by 40.4%. 
+asr:0: OUTPUT 175.06-179.38: For this quarter, the difference between the portrait and organic figures reflects. 
+asr:0: OUTPUT 179.40-186.85: Two months of our drug stores in Ecuador, a full quarter of the AGB operation in Brazil,. 
+asr:0: OUTPUT 186.89-193.87: And 45 days of the WAC-C and North American general distribution platforms acquired in the United States. 
+asr:0: OUTPUT 194.77-202.70: Net income decreased significantly driven by number one, lower income from operations as I just described. 
+asr:0: OUTPUT 202.98-213.47: Higher other non-operating expenses, including ancillary charges related to the extraordinary payment of almost 8.8 billion pesos agreed with the Mexican tax authority. 
+asr:0: OUTPUT 214.07-221.22: As well as impairments including for certain assets of Coca-Cola FEMSA and the closure of our specialties operations. 
+asr:0: OUTPUT 221.24-229.43: And number three, census participation in hurricane results, which were lower relative to the comparable figure we reported last year. 
+asr:0: OUTPUT 230.87-240.56: In terms of our consolidated net debt position, during the first quarter, it increased by approximately 10 billion pesos compared to the previous quarter. 
+asr:0: OUTPUT 241.06-244.04: To reach a level of 72 billion pesos at the end of June. 
+asr:0: OUTPUT 244.92-251.15: We are investing approximately $900 million in the Washington, North American platforms. 
+asr:0: OUTPUT 251.17-255.32: As well as the majority of the large tax payments mentioned before. 
+asr:0: OUTPUT 256.40-268.11: While we are on the subject of debt, we should mention that during this quarter we placed $700 million in the second reopening award 30-year dollar denomination bond issuance. 
+asr:0: OUTPUT 268.13-274.31: Bringing the total amount to $2.5 billion, which was our original target. 
+asr:0: OUTPUT 275.22-284.36: The weighted average yield for the total insurance was 2.5%, which was also our target back in September when we started with this project. 
+asr:0: OUTPUT 285.25-294.93: And I highlight this because it took us nine months and we went to the market on three separate occasions in order to get the amount we wanted and the cost we wanted. 
+asr:0: OUTPUT 295.50-304.74: We were very patient and it paid off. And this is the approach and the deep treatment what we try to bring for financial decisions. 
+asr:0: OUTPUT 307.23-315.40: Moving on to discuss our operations and beginning with PEMSA's Commercial Procurity Division, we should start with our comment about store openings. 
+asr:0: OUTPUT 315.92-319.82: Well, we managed to open a number of new stores in the quarter. 
+asr:0: OUTPUT 319.84-326.11: We also have to close a small percentage of our store base due to COVID-19 restrictions and effects. 
+asr:0: OUTPUT 326.91-334.87: Some of the closures will be temporary, but some will be permanent as we take this opportunity to remove certain marginal stores from our base. 
+asr:0: OUTPUT 335.70-337.50: The numbers for the quarter went like this. 
+asr:0: OUTPUT 338.38-344.10: 159 new openings, 85 reopening after remodeling and maintenance. 
+asr:0: OUTPUT 344.38-349.01: 24 definite closures, and 260 temporary closures. 
+asr:0: OUTPUT 349.57-357.72: As a result, we recorded a net reduction of 40 stores for the second quarter to reach 950 net store openings for the last 12 months. 
+asr:0: OUTPUT 358.46-366.47: In addition to the store closures, we reduced the number of operating shifts from three to two in a large percentage of our stores. 
+asr:0: OUTPUT 366.89-372.79: As 24-7 operations is not viable or necessary given the current consumer dynamic. 
+asr:0: OUTPUT 375.06-380.16: Also, since the sales were down 12.4% for the second quarter. 
+asr:0: OUTPUT 380.48-389.77: Reflecting a 24.1% decline in store traffic and an increase of 15.4% in average customer tickets. 
+asr:0: OUTPUT 390.43-396.36: Here it is also useful to pause and discuss a little bit what happened in third quarter. 
+asr:0: OUTPUT 396.88-406.41: Because we did see meaningful differences as the quarter went by. During April, as you may recall, we still had relative availability of beer for most of the month. 
+asr:0: OUTPUT 406.67-411.13: As well as some planning buy-in for certain categories of the product consumers. 
+asr:0: OUTPUT 411.75-417.60: And this mitigated the blow and made April the least bad month of the quarter for us. 
+asr:0: OUTPUT 418.44-428.05: During May, however, we basically depleted our beer inventories and we saw the steepest contractions in traffic, making the worst month of the quarter. 
+asr:0: OUTPUT 428.67-435.88: Finally in June we began to record availability and we also began to observe a gradual shift in consumer dynamics. 
+asr:0: OUTPUT 437.00-443.58: In the first part of the quarter, most of the consumer demand weakness came from mobility restrictions and lockdowns. 
+asr:0: OUTPUT 444.26-453.97: With the thirst and craving occasion suffering from the absence of customers going about on the street and the gathering occasion reeling from social distancing. 
+asr:0: OUTPUT 454.57-464.50: However, late in the quarter, the weakness in demand seems to be driven increasingly by economic hardship. Also, many consumers have lost their income. 
+asr:0: OUTPUT 465.05-470.99: Making the crisis today a bit more similar to prior times, but also more pronounced. 
+asr:0: OUTPUT 471.79-480.70: Adding to the headwinds, as much as half of our stores in Mexico were under some type of cooperating restriction from local authorities during the quarter. 
+asr:0: OUTPUT 481.26-488.41: Alternately related to the sale of alcohol in a certain time window, we expect most of these restrictions to be temporary. 
+asr:0: OUTPUT 490.95-502.36: Moving down the income statement for the second quarter, gross margin contracted by 10 basis points, reflecting a negative sales mix effect caused by the beer shortage in May. 
+asr:0: OUTPUT 502.38-511.15: And improve performance of our daily and replenishment categories, partially offset by a high single digit increase of our services category. 
+asr:0: OUTPUT 511.85-518.88: Income for operations decreased almost 66% and operating margin contracting 620 basis points. 
+asr:0: OUTPUT 519.68-522.38: Reflecting significant operating debt delivered. 
+asr:0: OUTPUT 523.82-535.32: Moving on to the Francis Commercial Health Division, we reduced our store count by seven drugstores. A demand of temporary closures was enough to set the number of stores we opened during the quarter. 
+asr:0: OUTPUT 536.00-541.98: Having said that, we have a total of 3,189 open. 
+asr:0: OUTPUT 542.00-546.15: Units across our territories at the end of June. 
+asr:0: OUTPUT 546.23-550.55: And 128 total net news stores for the last two months. 
+asr:0: OUTPUT 551.27-557.50: Revenues increased 2.4% while on an organic basis they decreased 9.1%. 
+asr:0: OUTPUT 558.36-563.38: Since ourselves, decrease an average of 9.8% in Mexican pesos. 
+asr:0: OUTPUT 563.40-570.41: Reflecting the negative impact of the strict mobility restrictions implemented in our South American markets, including curfews. 
+asr:0: OUTPUT 570.55-574.69: Partially offset by a Soviet performance in operations in Mexico. 
+asr:0: OUTPUT 576.36-579.48: Growth margin expanded by 80 basis points in the quarter. 
+asr:0: OUTPUT 579.92-586.59: Reflecting number one, a positive self-mixed effect driven by consumer behavior shifts in connection to the pandemic. 
+asr:0: OUTPUT 587.21-593.09: Number two, more effective collaboration with key supply partners in our operations in South America. 
+asr:0: OUTPUT 593.81-602.28: Number three, better margin performance in our business in Ecuador. Where applying circle forest operational best practices is very, very important. 
+asr:0: OUTPUT 603.90-611.51: Operating margin contracted 130 basis points reflecting lower operating leverage in South America. 
+asr:0: OUTPUT 613.21-621.98: As we anticipated last quarter, the commercial fuel division was most exposed to the current environment of lockdowns and reduced mobility. 
+asr:0: OUTPUT 622.50-625.79: And the impact is visible in our quarterly results. 
+asr:0: OUTPUT 626.43-636.28: While we were able to add one new station to our limited work, same station sales decreased an average of almost 50% in the second quarter. 
+asr:0: OUTPUT 636.90-643.88: Gross margin reached 13.3%, but operating margin was 0.8% of total revenues. 
+asr:0: OUTPUT 644.52-647.01: Reflecting considerable operating delivery. 
+asr:0: OUTPUT 647.57-655.04: Operating expenses decreased 15 percent as a result of tight expense control and increased efficiency. 
+asr:0: OUTPUT 655.84-671.17: As a silver lining in relative terms, it seems this business is the one that is recovering more quickly in relative terms showing the sequential improvement in recent weeks, but rising from a deeper contraction. 
+asr:0: OUTPUT 673.77-687.37: Finally, moving on briefly to Coca-Cola FEMSA, as John highlighted yesterday, the results show a resilient bottling performance in Mexico, improvements in Brazil and Colombia, and continuous strength in Guatemala. 
+asr:0: OUTPUT 688.09-694.51: They made further progress in development of digital and omnichannel initiatives in key markets. 
+asr:0: OUTPUT 694.73-702.08: And managed to deliver solid profitability in Mexico and Central America, even in the context of the current pandemic. 
+asr:0: OUTPUT 702.98-707.33: For more detail, you can listen to the webcast of the Aquarium Reconference Call. 
+asr:0: OUTPUT 710.65-716.22: Looking ahead, uncertainty remains high and it is hard to make predictions. 
+asr:0: OUTPUT 716.64-720.68: However, as I mentioned before, it seems the crisis is generally evolving. 
+asr:0: OUTPUT 721.08-726.03: In the beginning, its main drivers were severe health concerns and the lack of consumer mobility. 
+asr:0: OUTPUT 726.41-734.59: And this remains a problem. However, we're increasingly seeing the signs of another set of more traditional economic headlines coming to play. 
+asr:0: OUTPUT 735.40-739.80: This is not possible, but at least we have more experience with economic downturns. 
+asr:0: OUTPUT 740.30-749.41: As you might imagine, we continue to look for our entire business in an effort to optimize it for the changes taking place today. 
+asr:0: OUTPUT 750.03-755.94: And for those that seem to be on the way. 
+asr:0: OUTPUT 757.26-764.70: And we will continue to work hard to go our company to meet the moment and to come out in better shape on the other side. 
+asr:0: OUTPUT 766.57-771.65: And with that, we can open the call for questions. Operator? 
+asr:0: OUTPUT 773.87-783.74: Thank you. The question and answer session will begin at this time. If you'd like to ask a question during this time, simply press the star, then number one on your telephone keypad. 
+asr:0: OUTPUT 784.28-788.01: If you would like to withdraw your question, press the pound star 2. 
+asr:0: OUTPUT 789.05-796.26: Your question will be taken in the order that it's received. In the interest of time, we ask that you please limit yourself to one question. 
+asr:0: OUTPUT 796.28-800.18: At a time to allow the maximum number of callers to ask their questions. 
+asr:0: OUTPUT 800.70-803.58: Again, that is step one to ask a question. 
+asr:0: OUTPUT 804.82-808.35: And we'll go first to Ben Thurrer of Barclays. 
+asr:0: OUTPUT 811.29-820.00: Good morning. Thank you very much for taking the question. I hope you're all safe and sound. Eduardo, Juan, and well, Orsenio, welcome. Welcome on board. 
+asr:0: OUTPUT 820.76-829.11: My one question would be on the more recent performance in Oxfam. You've elaborated how it went through the quarter. 
+asr:0: OUTPUT 829.47-837.32: But if you could shed a little light on the current performance over the most recent weeks into July, where we've seen. 
+asr:0: OUTPUT 837.34-843.40: More states going into the orange phase, some of the re-openings. 
+asr:0: OUTPUT 843.72-849.71: And if you could also share with us on the temporary store closures. 
+asr:0: OUTPUT 850.63-863.20: How many you currently still have closed and how do you think the reopening is going to evolve considering some of the tourist restrictions as well as office restrictions that are still in place? That would be my question. Thank you. 
+asr:0: OUTPUT 865.27-868.95: Thank you, Ben. Let me tell you, we are making progress. 
+asr:0: OUTPUT 869.89-877.16: As I said in the quarter, 50% have restrictions. Now I will say 35% have restrictions. 
+asr:0: OUTPUT 877.80-885.87: The sensor cells have improved a little bit. Mobility is coming still, but there's still. 
+asr:0: OUTPUT 887.51-893.89: We just pay attention yesterday to the Google Mobility Index. 
+asr:0: OUTPUT 894.33-898.92: And the Google Mobility Index in Mexico is down around 40%. 
+asr:0: OUTPUT 899.58-905.51: And that really, I mean, also really lives by the people are on the go and moving. 
+asr:0: OUTPUT 906.15-910.05: And this is really being the major cost. 
+asr:0: OUTPUT 910.77-918.76: We think that people are beginning to understand and adapt to this new environment. 
+asr:0: OUTPUT 918.78-921.32: Mobility is coming up little by little. 
+asr:0: OUTPUT 921.58-925.73: And not only car mobility but pedestrian mobility too. 
+asr:0: OUTPUT 926.25-933.01: And I think it all depends on what is going to happen with school systems in the next quarter. 
+asr:0: OUTPUT 933.35-937.98: What's going to happen with offices opening or keeping it closed. 
+asr:0: OUTPUT 938.38-943.32: So I think what to me speaking that way that we are understanding the pandemic better. 
+asr:0: OUTPUT 944.16-949.85: I could tell that the lack of contagious. 
+asr:0: OUTPUT 949.87-954.69: Of this pandemic in the stores is very low, very, very low. 
+asr:0: OUTPUT 954.75-959.38: Basically, the problem that we have had with the. 
+asr:0: OUTPUT 959.40-970.91: Our personnel is more because the lockdowns they live in their house and the lack of care they have with connection with some family members. 
+asr:0: OUTPUT 971.05-981.60: And most of the people that have had the pandemic goes to the house, not really from the traffic to the work or the store. 
+asr:0: OUTPUT 982.08-984.38: So we are optimistic. 
+asr:0: OUTPUT 984.94-992.77: But the thing is that we're feeling now the pain that the economic downturn is staying here. 
+asr:0: OUTPUT 992.81-995.62: And. 
+asr:0: OUTPUT 995.74-999.42: We are adopting the offerings too, but... 
+asr:0: OUTPUT 999.44-1002.68: We are cautiously optimistic. 
+asr:0: OUTPUT 1005.43-1015.36: Yep, that's what we have to be. Well, thank you very much. Our next question will come from Bob Ford of Bank of America. 
+asr:0: OUTPUT 1017.62-1021.10: Thank you. Good morning, everybody. And thank you for taking my question. 
+asr:0: OUTPUT 1021.56-1026.23: Eduardo, in your opening comments, you mentioned the 24 quotas for September are currently in balance. 
+asr:0: OUTPUT 1026.69-1028.43: I was just really... 
+asr:0: OUTPUT 1028.45-1036.80: For a wider assessment of the store base and how do you think about the footprint right now in terms of maybe reallocating those resources to other locations or. 
+asr:0: OUTPUT 1036.82-1043.88: Or maybe just trimming in anticipation of these more traditional headwinds in terms of the slowdown in the economy. 
+asr:0: OUTPUT 1046.55-1052.15: Well, as I said, a lot of the lockdowns that we have have had restrictions of alcoholic. 
+asr:0: OUTPUT 1052.17-1060.98: So, we have a lot of information on the web. 
+asr:0: OUTPUT 1061.40-1066.91: And that was the number that we had around 50% have this kind of restriction. 
+asr:0: OUTPUT 1067.63-1071.83: I'd say that now, out of the 19,000 stores,. 
+asr:0: OUTPUT 1071.87-1076.82: There are around 7,000 that have had some kind of restrictions. 
+asr:0: OUTPUT 1077.12-1083.74: For instance, in the state of Tamaulipas, the previous weekend, we were not allowed to sell. 
+asr:0: OUTPUT 1083.86-1091.09: We have to close, not only not sell alcohol, but to completely destroy. 
+asr:0: OUTPUT 1091.59-1102.02: And again, I think local authorities are trying to best adapt and have countermeasures against this pandemic. 
+asr:0: OUTPUT 1102.04-1105.77: Some are effective and some are not. 
+asr:0: OUTPUT 1106.01-1107.01: I would say. 
+asr:0: OUTPUT 1107.03-1121.12: But the thing is, we try to lobby and understand what the authorities are trying to do and help them to accomplish the objectives by. 
+asr:0: OUTPUT 1121.14-1122.16: Bye. 
+asr:0: OUTPUT 1122.18-1126.45: Of struggling the way we work with the stores. 
+asr:0: OUTPUT 1129.01-1138.84: I think another problem is really to the low bound of the lack of social mobility and the social distancing night shifts are very, very weak. 
+asr:0: OUTPUT 1139.86-1142.70: And we have had some besides. 
+asr:0: OUTPUT 1142.72-1149.95: The lockdown restrictions that we have from authorities or selling of alcohol in some stores. 
+asr:0: OUTPUT 1150.07-1156.56: Also, we are really closing some of the light sheets because again, there is no consumers around. 
+asr:0: OUTPUT 1156.96-1163.40: So, but again, we think that will be temporary and we are adapting the best we can. 
+asr:0: OUTPUT 1166.55-1169.39: Thank you very much. 
+asr:0: OUTPUT 1171.23-1179.98: And again, as a reminder, that is star one to ask a question. And if you find that your question has been answered, you can remove yourself from the queue by pressing star two. 
+asr:0: OUTPUT 1180.48-1183.48: We will now go to Miguel Tortorillo of GPM. 
+asr:0: OUTPUT 1186.09-1189.05: Hi, good morning, everyone. Thanks for the questions. 
+asr:0: OUTPUT 1190.25-1196.46: And during the timing of this crisis that came right after you bought or invested in a couple of companies,. 
+asr:0: OUTPUT 1197.08-1202.98: Which of them would you say that has had the most challenging start now in the offensive direction? 
+asr:0: OUTPUT 1205.19-1210.07: You know, we're very happy with our partners and with the companies we acquired. 
+asr:0: OUTPUT 1210.81-1219.96: The Jan Sun business and as you imagine Jan has a great demand for the products. 
+asr:0: OUTPUT 1220.56-1227.03: Out of the two, WACCI is more focused to Jensen and North America and had a more diverse platform. 
+asr:0: OUTPUT 1227.39-1236.38: And in fact, North America has had to sell to some hospitality customers. 
+asr:0: OUTPUT 1236.56-1240.34: And I think probably that is the one that has suffered the most. 
+asr:0: OUTPUT 1240.68-1246.79: But I think both companies have adapted tremendously to the new environment. They've been able to protect. 
+asr:0: OUTPUT 1246.81-1252.99: Their employees and at the very same time trying to serve the customers. 
+asr:0: OUTPUT 1253.53-1255.36: So we're still very happy with him. 
+asr:0: OUTPUT 1255.58-1259.68: We have great partners and I think that we are going to build. 
+asr:0: OUTPUT 1259.70-1266.91: I've met Stripe.com with the help of them and we look forward with a very optimistic future. 
+asr:0: OUTPUT 1269.57-1271.89: I think I would add, Miguel, this is Juan. 
+asr:0: OUTPUT 1273.09-1281.96: Even on the JETRO restaurant depot which is also one of the recent investments which being as exposed as they are to the restaurant sector. 
+asr:0: OUTPUT 1282.56-1288.71: One would think or at least one would have thought a few months ago that this would be a complicated period for them. 
+asr:0: OUTPUT 1288.79-1296.70: Iím not saying it hasnít been complicated, but certainly they have been adjusting and navigating the situation. 
+asr:0: OUTPUT 1297.08-1300.52: Quite frankly exceeding my personal expectations. 
+asr:0: OUTPUT 1300.54-1307.71: Which confirms our view that this is a very well-positioned and very well-run company. 
+asr:0: OUTPUT 1308.07-1312.81: So they have been doing, as I said, better than expected. 
+asr:0: OUTPUT 1313.19-1319.78: Adjusting and I think their customers as well, the little restaurants adapting to curbside delivery. 
+asr:0: OUTPUT 1320.40-1327.17: And things begin to open up in many of the markets that they serve. Overall, I would say on the restaurant depot front,. 
+asr:0: OUTPUT 1327.19-1331.97: A positive surprise. 
+asr:0: OUTPUT 1337.06-1340.88: And now we will take a question from Marcella Rochetta of Credit Suisse. 
+asr:0: OUTPUT 1349.89-1358.86: And, Marcela, if you could check your mute function, we're unable to hear you. Hi. Are you listening me now? Yes. Please go ahead. 
+asr:0: OUTPUT 1360.60-1366.67: Hi, Juan. Hi, Edward. Hope you are well. Just two quick questions here from my side. 
+asr:0: OUTPUT 1367.03-1368.81: The first one is about DNA. 
+asr:0: OUTPUT 1369.15-1377.86: I saw that basically your DNA increased across the business division. So just to understand what's driving such increase. 
+asr:0: OUTPUT 1378.28-1380.30: And secondly, very briefly. 
+asr:0: OUTPUT 1380.54-1388.81: If you can give your impressions about the MaxComp Pension Reform in terms of potential impacts for FEMSA. Thank you very much. 
+asr:0: OUTPUT 1390.27-1396.04: Well, I will go to the second one and I think Juan answered the first one. 
+asr:0: OUTPUT 1396.54-1401.04: The pressure performer I think is this whole web there. 
+asr:0: OUTPUT 1401.30-1409.81: And I think it's a good thing that we all together try to solve it because it will be very difficult for the government to solve. 
+asr:0: OUTPUT 1409.89-1418.44: And what we would like to have to solve it in a desperate way and that could disrupt the economic environment in Mexico. 
+asr:0: OUTPUT 1418.52-1421.08: I think what we have for the future. 
+asr:0: OUTPUT 1421.54-1425.25: It's kind of painful, but I think it's the right thing to do. 
+asr:0: OUTPUT 1425.27-1434.45: And I think between the private companies and the government, I think it's a good sign that we are together here. 
+asr:0: OUTPUT 1434.47-1436.98: To fix the hole for the long run. 
+asr:0: OUTPUT 1437.90-1441.68: And the other one, Juan, why don't you go and try to answer the very first question, please. 
+asr:0: OUTPUT 1443.14-1449.35: Yes, hi Marcela. So we are having some amortization of IT investments. 
+asr:0: OUTPUT 1449.63-1451.05: I think on the Oxford front. 
+asr:0: OUTPUT 1451.13-1460.02: They have continued to invest in their new versions of some of the software as well as developing the digital platforms across the board. 
+asr:0: OUTPUT 1460.86-1467.87: We have had some closures of stores and we've had some asset write downs. 
+asr:0: OUTPUT 1467.91-1472.59: Both at COTE-PHMSA and at PHMSA, so I think that would be playing a part on that. 
+asr:0: OUTPUT 1473.19-1482.52: Obviously, we can also follow up offline in terms of making the numbers match, but I think off the top of our heads that those are concepts that come to mind. 
+asr:0: OUTPUT 1484.38-1488.77: Thank you. Thank you very much, guys. 
+asr:0: OUTPUT 1490.87-1492.15: We will go to Gustavo. 
+asr:0: OUTPUT 1497.38-1506.81: Good morning everyone, thank you for taking my question. It's on OXO gross margin, you mentioned that your numbers are actually very good. 
+asr:0: OUTPUT 1507.21-1516.28: There was a very little contraction there. You mentioned that the beer shortage obviously affected profitability, but that was offset by the service category. 
+asr:0: OUTPUT 1516.52-1518.10: On the recovery. 
+asr:0: OUTPUT 1518.18-1522.66: Do you think that you could actually see an expansion in your gross margin as the. 
+asr:0: OUTPUT 1522.68-1529.59: I don't know if the service category will remain strong and the beer clearly could recover. 
+asr:0: OUTPUT 1530.21-1534.61: Could you please elaborate a bit on the trend for the gross margin for Oxo? 
+asr:0: OUTPUT 1536.42-1544.06: Let me give you a bit of our suppliers and us are concerned with the lack of consumer. 
+asr:0: OUTPUT 1544.90-1550.61: But what we're trying to do is to come up with different offerings to meet the demand. 
+asr:0: OUTPUT 1552.61-1559.00: Here we have our suppliers and our partners and trying to do something. 
+asr:0: OUTPUT 1559.02-1563.92: Great for them, for the consumer in current times. 
+asr:0: OUTPUT 1564.30-1568.87: But I don't know, Juan, where do you go and go for the detail of the numbers, please? 
+asr:0: OUTPUT 1570.17-1571.19: Sure. 
+asr:0: OUTPUT 1571.29-1573.21: I think on the growth margin, I mean... 
+asr:0: OUTPUT 1573.23-1586.49: Historically or at least for a long time now, the two main drivers of gross margin expansion have been the financial services category and the. 
+asr:0: OUTPUT 1586.53-1590.11: The commercial income that we receive from our employees. 
+asr:0: OUTPUT 1590.13-1591.43: Supplier partners. 
+asr:0: OUTPUT 1591.85-1600.02: Right now, as Eduardo has said, I think a positive surprise has been the resilience. 
+asr:0: OUTPUT 1600.68-1604.04: Faster growth of financial services during the downturn. 
+asr:0: OUTPUT 1605.01-1616.48: As consumers have made sure that they're keeping current with their memberships and their utilities and realizing or taking advantage of the fact that it's. 
+asr:0: OUTPUT 1616.50-1621.56: Itís a lot easier to go to OXO than to go to the bank and itís less time consuming. 
+asr:0: OUTPUT 1621.78-1628.81: Even though financial services have been contracting or at least it has been growing less in recent quarters in the last two or three quarters. 
+asr:0: OUTPUT 1629.59-1637.70: This quarter, the growth came in the high single digits which was a positive surprise and I think contributes to the high growth margin. 
+asr:0: OUTPUT 1638.20-1641.18: The other question on commercial income is a little bit trickier. 
+asr:0: OUTPUT 1641.46-1650.01: Because some of those agreements, as Eduardo also referred to, are tied to volume. 
+asr:0: OUTPUT 1650.47-1659.98: And so itís hard to predict. We do need volumes to come up, transactions to go up for commercial income to go up in consequence. 
+asr:0: OUTPUT 1660.44-1665.15: So I would say visibility for growth margin is not as clear as we would like. 
+asr:0: OUTPUT 1666.39-1673.75: I wouldn't necessarily predict at this point that we will continue to expand it more than trend. 
+asr:0: OUTPUT 1674.55-1679.06: But at least during the second quarter, it did kind of hold its own. 
+asr:0: OUTPUT 1683.26-1684.38: I think it's very clear. 
+asr:0: OUTPUT 1687.03-1689.39: I will also add that probably the... 
+asr:0: OUTPUT 1689.41-1694.71: There was a small increase also in the lack of beer. 
+asr:0: OUTPUT 1694.87-1700.36: Also shift demand to some of the alcoholic beverages. 
+asr:0: OUTPUT 1700.86-1707.07: And that those have that the margin a little bit too. 
+asr:0: OUTPUT 1708.85-1712.07: And that actually brings up an interesting point, Eduardo,. 
+asr:0: OUTPUT 1712.11-1721.54: Obviously, youíre right. Consumers did shift to higher consumption of spirits during the. 
+asr:0: OUTPUT 1722.62-1728.13: And interestingly, I think what the OXO colleagues were observing in recent weeks,. 
+asr:0: OUTPUT 1728.15-1735.36: Was that even as the beer came back, that the volume for spirits was still holding up strong. 
+asr:0: OUTPUT 1735.84-1743.58: So maybe in the effort to look for the silver lining or the glass half full,. 
+asr:0: OUTPUT 1743.88-1754.59: If consumers realize what the assortment and the pricing is for spirits at the OXO stores,. 
+asr:0: OUTPUT 1754.61-1760.66: You know that is stronger than historically because historically we haven't sold as much spirits as we are selling right now. 
+asr:0: OUTPUT 1760.68-1765.43: Hopefully this remains after the pandemic is gone. 
+asr:0: OUTPUT 1770.27-1774.69: We'll move on to our next question, and that'll be from Alan Llanos of Centender. 
+asr:0: OUTPUT 1777.62-1779.64: Thank you so much. Good morning, everyone. 
+asr:0: OUTPUT 1790.25-1795.10: That we may have lost Alan. We'll go next to Ulysses Arcos. 
+asr:0: OUTPUT 1800.00-1808.81: Thanks for the space for questions. I wanted to get your thoughts a little bit on any potential product portfolio rationalization there in OXO. 
+asr:0: OUTPUT 1809.43-1821.10: Maybe you can share any color on what you're seeing in terms of the shift in mix more recently. Now in July, maybe going back a little bit more to the more profitable categories that you guys have there. Thank you. 
+asr:0: OUTPUT 1824.02-1829.99: You know, unless we think that this lack of mobility will stay for a very long period of time. 
+asr:0: OUTPUT 1830.67-1834.79: Which we don't think it is the case. 
+asr:0: OUTPUT 1835.42-1845.61: I think we have to adapt better and we have to adapt more to the lack of consumer economic power. 
+asr:0: OUTPUT 1845.75-1855.30: And by probably with a different assortment probably looking for cheaper or less expensive. 
+asr:0: OUTPUT 1855.38-1865.95: Our returnable soft drinks is not as strong as we should have it now. 
+asr:0: OUTPUT 1866.31-1870.51: And those kind of shifts we can foresee for the future. 
+asr:0: OUTPUT 1871.21-1879.94: But not necessarily in the types of consumer demand of first. 
+asr:0: OUTPUT 1879.96-1886.51: Or people gathering depending on the time of day. 
+asr:0: OUTPUT 1887.01-1894.41: We think that eventually those type of consumer demand will stay. 
+asr:0: OUTPUT 1894.57-1903.04: It is more the lack of economic power of the consumer that we're more concerned than the real shift of consumer locations. 
+asr:0: OUTPUT 1906.65-1913.13: That's perfect. And a bit more on the short term, kind of thinking now on June, July, after the beer category is back and etc. 
+asr:0: OUTPUT 1913.41-1918.02: Do you have any color that you can share with us on the shift back in Mixer? 
+asr:0: OUTPUT 1919.76-1921.70: Yeah, one. 
+asr:0: OUTPUT 1921.94-1933.09: I think one thing to kind of highlight and I think Eduardo touched on it in his opening remarks was that the quarter itself was a little bit of a. 
+asr:0: OUTPUT 1933.11-1942.50: I don't know if a V-shape is a little bit of a strong descriptor, but certainly the trough of the trend was the month of May. 
+asr:0: OUTPUT 1943.58-1950.47: And we hope and believe that will mark the lowest point of this downturn, which should be the month of May. 
+asr:0: OUTPUT 1951.25-1958.58: And then as beer comes back, it helps everything, right? It helps operating leverage and it helps margins. 
+asr:0: OUTPUT 1958.60-1965.45: Generally begins to turn this into a more traditional downturn, so to speak. 
+asr:0: OUTPUT 1966.71-1975.38: As I said in the beginning, we are seeing improving metrics and improving traffic and. 
+asr:0: OUTPUT 1975.40-1986.05: Really, the one concern I have is not to convey the view that once the mobility restrictions are gone. 
+asr:0: OUTPUT 1986.07-1988.73: That we go back to normal immediately. 
+asr:0: OUTPUT 1988.75-1997.16: Because we are seeing these symptoms and signs of a more traditional economic driven downturn. 
+asr:0: OUTPUT 1997.22-2004.22: But again, when you go dry, and this has never happened before on the beer side,. 
+asr:0: OUTPUT 2004.90-2010.97: Obviously, you have both of our suppliers on the beer front working hard to restock the shelves. 
+asr:0: OUTPUT 2011.85-2016.18: Consumers themselves are probably buying a little bit more beer than they normally do. 
+asr:0: OUTPUT 2016.80-2024.22: To make sure they don't go dry again. And so, you know, you're seeing positive trends on some of these important categories, especially beer. 
+asr:0: OUTPUT 2025.47-2031.19: I would expect that to continue and we will obviously make the adjustments. 
+asr:0: OUTPUT 2031.21-2036.86: I'd rather reference some in terms of packaging and mix for some important categories. 
+asr:0: OUTPUT 2038.38-2039.78: I think we need to... 
+asr:0: OUTPUT 2039.80-2048.99: To be careful and work hard at understanding how quickly and what the new normal eventually ends up looking like. 
+asr:0: OUTPUT 2049.21-2060.82: In the sense that we will adapt our value proposition to that, whether it means some incremental SKUs or a shift in the mix. 
+asr:0: OUTPUT 2060.84-2063.74: And that sort of thing. 
+asr:0: OUTPUT 2063.86-2066.33: We're still not at the end of this. 
+asr:0: OUTPUT 2066.41-2073.27: But we know more about how the consumer is adjusting habits than we did a couple of months ago. 
+asr:0: OUTPUT 2073.43-2075.92: And we are acting in consequence. 
+asr:0: OUTPUT 2079.56-2088.11: Perfecto. Muchas gracias, Eduardo Juan. Gracias. And we will now go back to Alan Alanes of Santander. 
+asr:0: OUTPUT 2090.39-2096.56: Let's see if this time works. Thank you so much. Thanks for taking my question. And again, good morning. Hope you guys are, your families are safe. 
+asr:0: OUTPUT 2097.48-2105.01: Eduardo Juan, I guess, I mean, we on the sell side, most of us have a buy rating on this talk. 
+asr:0: OUTPUT 2105.35-2109.95: Because of the evaluation of OXO implied here. 
+asr:0: OUTPUT 2110.47-2115.24: Now, the result of this quarter, I guess the question is,. 
+asr:0: OUTPUT 2115.32-2122.82: Is this putting into question the bigger model of Oxford in the long run? 
+asr:0: OUTPUT 2123.08-2128.93: So I guess the specific question is, what, and sorry if I missed it. 
+asr:0: OUTPUT 2129.17-2134.07: What are the expectations regarding store openings going forward? 
+asr:0: OUTPUT 2134.49-2139.98: And the second thing, and this is a question we get a lot, and I'm sure Juan also gets it a lot as well. 
+asr:0: OUTPUT 2140.22-2143.60: Why are they reluctant to stay away from e-commerce? 
+asr:0: OUTPUT 2144.58-2151.79: I'm not sure if it's a good idea to have a company that's not a company that's not. 
+asr:0: OUTPUT 2151.89-2164.36: Why not invest in a basement or in a second floor and as many offices as possible to use them as a distribution for e-commerce and leverage that, especially given that the changes of the pandemic will cost. 
+asr:0: OUTPUT 2164.46-2168.17: And the third and last question has to do with capital deployment. 
+asr:0: OUTPUT 2168.51-2172.67: I think that the pushback has been visibility in terms of capital deployment. 
+asr:0: OUTPUT 2172.99-2175.50: What did you mention about patience and discipline? 
+asr:0: OUTPUT 2175.56-2185.85: I think that it's very clear for investors that you're very patient. But what can you expand on in terms of giving comfort to investors that you will remain disciplined? 
+asr:0: OUTPUT 2186.01-2192.71: In terms of that capital deployment, given the very strong balance sheet and cash flow generation that you generate. 
+asr:0: OUTPUT 2192.85-2194.83: Those will be my questions. Thank you so much. 
+asr:0: OUTPUT 2197.22-2201.50: We are very optimistic of optional in the near and long run. 
+asr:0: OUTPUT 2202.26-2205.45: I think we have a good platform. 
+asr:0: OUTPUT 2205.47-2206.95: It's just... 
+asr:0: OUTPUT 2206.97-2218.04: That we have the right consumer adjustments in the lack of mobility that will help us to be on track again. 
+asr:0: OUTPUT 2220.00-2226.25: In terms of your question about the e-commerce, we're very much. 
+asr:0: OUTPUT 2226.83-2230.55: We are doing things that we are not prepared yet to disclose. 
+asr:0: OUTPUT 2230.97-2236.64: But I think in the financial sector we see the evolution there and we have to be prepared. 
+asr:0: OUTPUT 2237.00-2241.04: And also the loyalty programs related and connected with the national platform. 
+asr:0: OUTPUT 2242.54-2243.86: We, we. 
+asr:0: OUTPUT 2243.88-2246.87: The current, the current, the. 
+asr:0: OUTPUT 2246.91-2255.86: If you want to see, those are the ones, the linkages that we're making with the current platforms like Amazon and everything, we're very optimistic with those too. 
+asr:0: OUTPUT 2256.74-2262.38: What we don't know yet is the home delivery. 
+asr:0: OUTPUT 2262.40-2264.74: Home delivery, steel. 
+asr:0: OUTPUT 2264.76-2273.47: We don't see how it impacts the ones that are doing home delivery in small purchases, not groceries. 
+asr:0: OUTPUT 2273.81-2278.14: But small purchases like the ones we deliver, nobody makes money. 
+asr:0: OUTPUT 2278.74-2284.78: Nobody makes money and they're still trying to catch up and find a better way. 
+asr:0: OUTPUT 2285.29-2292.73: So if we were in the grocery business, without a doubt, that would be delivering a lot of things for the homes. 
+asr:0: OUTPUT 2292.97-2295.44: Because economically, those make sense. 
+asr:0: OUTPUT 2295.76-2305.09: And the other ones we haven't seen yet, although we have some tests to deliver in a very efficient way with some backstores and everything. 
+asr:0: OUTPUT 2305.49-2313.83: But I think there's still some learning and efficiencies to come into place to perform better. 
+asr:0: OUTPUT 2314.21-2317.30: I don't know if you want to add to the question. 
+asr:0: OUTPUT 2318.66-2320.02: Thank you, Raul. Yes, I do. 
+asr:0: OUTPUT 2320.18-2328.41: I think Alan's first attempt at the question didn't work, but the second attempt he made sure that he covered a fair amount of big topics. 
+asr:0: OUTPUT 2328.75-2331.63: I will try to add to some of these. 
+asr:0: OUTPUT 2332.73-2336.92: So on the storefront, Alan, I think what we're seeing is. 
+asr:0: OUTPUT 2337.60-2347.05: We've been opening more stores every year than the previous. We got as high as $1350 at the top. 
+asr:0: OUTPUT 2348.23-2354.53: What we're doing right now is we're taking this opportunity to look at the ______. 
+asr:0: OUTPUT 2354.55-2361.18: There's a layer of stores that are probably marginal in terms of what they're contributing to the numbers. 
+asr:0: OUTPUT 2361.60-2366.47: And we're figuring out which of those doors actually should not be open. 
+asr:0: OUTPUT 2366.79-2372.69: Kind of pruning the base of a small number of stores that should not be open. 
+asr:0: OUTPUT 2372.81-2380.30: And just generally, I think the budget for stores this year before the pandemic kind of reared its ugly head. 
+asr:0: OUTPUT 2380.70-2388.55: We were thinking about 1200 stores for Mexico. That is a level that is a little bit lower than the top that we reached a couple of years ago. 
+asr:0: OUTPUT 2389.79-2398.38: But we were already moving into a phase where you're becoming more demanding about what you expect of your new stores. 
+asr:0: OUTPUT 2398.40-2402.56: In order to ensure profitability and productivity of the new stores. 
+asr:0: OUTPUT 2402.98-2408.91: At the same time, the budget for this year had us with about 150 stores outside of Mexico. 
+asr:0: OUTPUT 2408.93-2415.66: We are in the early stages of that process where international will begin to add. 
+asr:0: OUTPUT 2415.68-2420.00: More meaningful numbers to the number of stores and obviously. 
+asr:0: OUTPUT 2420.20-2428.89: Once you get some scale in Colombia, Chile, eventually hopefully Brazil that it becomes not just a Mexico story but more of a continental story. 
+asr:0: OUTPUT 2429.53-2438.54: So we are at that stage and I think this year with the pandemic, with the dynamics, we decided to start closing a few of those kind of marginal stores. 
+asr:0: OUTPUT 2438.96-2448.03: Iím also optimistic on the storefront for Central and Western Mexico now that we have both portfolios of beers. 
+asr:0: OUTPUT 2448.47-2453.49: That there will be a large number of locations in places like Guadalajara, Leon,. 
+asr:0: OUTPUT 2454.07-2455.28: You need that. 
+asr:0: OUTPUT 2455.36-2466.25: Even the value of Mexico where the fact that you now have the ADI portfolio kind of takes a lot of those locations that were just short of being viable. 
+asr:0: OUTPUT 2466.27-2467.73: Makes them viable. 
+asr:0: OUTPUT 2468.49-2475.26: And again, kind of ensures that we can continue to open large numbers of stores in that part of the country. 
+asr:0: OUTPUT 2476.78-2480.00: I think on the e-commerce front, I mean, a lot of the touch on it in terms of. 
+asr:0: OUTPUT 2480.62-2485.41: Also realizing the potential and the power of the OXO platform. 
+asr:0: OUTPUT 2485.43-2491.59: To bankerize people or to get people to adopt new technologies or new products. 
+asr:0: OUTPUT 2491.69-2501.20: I think we certainly have the Saldaso experience that gives us a lot of comfort in terms of our ability to get people to sign up and adopt. 
+asr:0: OUTPUT 2501.22-2505.63: New means of payment or new means of saving. 
+asr:0: OUTPUT 2506.57-2511.39: But one thing we don't want to do is to overpromise and under deliver. 
+asr:0: OUTPUT 2511.57-2518.30: We are working hard at the three-legged stool of our digital platform at OXO which involves. 
+asr:0: OUTPUT 2518.32-2519.66: Last mile delivery. 
+asr:0: OUTPUT 2519.94-2529.07: I think more importantly the loyalty program and the e-wallet and hopefully we'll have something to show the market toward the end of the year. 
+asr:0: OUTPUT 2529.57-2535.24: And then finally on capital deployment, you've seen us for over the years. 
+asr:0: OUTPUT 2536.20-2542.54: FEMSA basically has a couple of ways that we grow. We either take what we do well to a new geography. 
+asr:0: OUTPUT 2542.90-2548.97: Or we take what we do well and we expand it by a couple of degrees and examples of this abound. 
+asr:0: OUTPUT 2549.89-2556.04: Whether you're talking about Jugo del Valle or Santa Clara or the drugstore business where. 
+asr:0: OUTPUT 2556.06-2561.26: And expanded what it does by a few degrees and decided to go into drug stores. 
+asr:0: OUTPUT 2561.74-2566.99: I think what we're doing right now and I think the market to your point in terms of how you framed the question,. 
+asr:0: OUTPUT 2567.01-2569.77: Is still kind of getting its hands around. 
+asr:0: OUTPUT 2569.93-2577.78: Why it is that we made a couple of investments in the US or how does the Janssen business fit into the overall strategy? 
+asr:0: OUTPUT 2578.50-2585.87: I think you're seeing us do kind of what we usually do, which is figuring out what we do well and then taking it to another country. 
+asr:0: OUTPUT 2586.07-2591.07: Obviously with the benefit of very strong partners as we have in the US. 
+asr:0: OUTPUT 2592.37-2598.36: So we understand that we are adding a little bit of complexity to the org chart. 
+asr:0: OUTPUT 2599.24-2603.82: We will try to address that to the extent that we can by increasing the disclosure. 
+asr:0: OUTPUT 2604.26-2613.45: And we've spoken about how we're going to start opening up the numbers for the logistics business as well as for the Janssen business first quarter of next year. 
+asr:0: OUTPUT 2614.43-2616.74: So capital deployment. 
+asr:0: OUTPUT 2616.76-2626.11: These investments and addressing the complexity that it brings to the equation are very much top of mind for the team and hopefully we are in the process of addressing it. 
+asr:0: OUTPUT 2628.13-2636.98: Thank you so much. You guys are extremely good, not the best in the region in terms of large-scale logistics of moving things. 
+asr:0: OUTPUT 2637.36-2640.54: You forget the puzzle for a lot of investors and analysts. 
+asr:0: OUTPUT 2641.12-2648.69: I mean, that logistic expertise hasn't been moved to, like all the way to small delivery, like Eduardo said, to a large point. 
+asr:0: OUTPUT 2650.01-2658.10: I know I'm going to say something very humbly and things that you already know, but Amazon,. 
+asr:0: OUTPUT 2658.50-2661.44: All of these companies started without making money initially. 
+asr:0: OUTPUT 2661.90-2667.87: And they just gave it hell and these Colombian guys are happy. It's a question mark. 
+asr:0: OUTPUT 2667.89-2672.37: They're going to be able to control the small drop side delivery. 
+asr:0: OUTPUT 2672.75-2679.58: I think a lot of investors think that you have a great opportunity, you have the balance sheet, you have the expertise. 
+asr:0: OUTPUT 2680.04-2685.49: And I think that initially nobody will make money and probably you get in you probably won't make money either. 
+asr:0: OUTPUT 2685.97-2694.43: But once you get the scale, eventually I think consumers will pay a premium for using Uber, for using Paygroup, for using Amazon. 
+asr:0: OUTPUT 2694.45-2697.42: And support, and with a long-term vision that Central has. 
+asr:0: OUTPUT 2698.02-2705.07: I think that a lot of investors are thinking about getting into that with more strength and using your muscle and your expertise. 
+asr:0: OUTPUT 2705.59-2708.81: Thank you so much for taking my questions. Stay safe and have a great day. 
+asr:0: OUTPUT 2710.75-2715.60: I just want to ask that question, the concept or the notion of the super apps. 
+asr:0: OUTPUT 2715.66-2720.84: And how in other geographies obviously things have evolved very quickly. 
+asr:0: OUTPUT 2721.62-2726.57: But we do have the aspiration with the right platform and the right partnerships. 
+asr:0: OUTPUT 2726.59-2732.15: To hopefully become one of those or part of one of those ecosystems down the road. 
+asr:0: OUTPUT 2732.73-2741.16: And leverage, quite frankly, the 20,000 bricks and mortar stores that we have, which are a differentiating factor vis-a-vis other folks. 
+asr:0: OUTPUT 2743.28-2746.29: Thank you so much. 
+asr:0: OUTPUT 2747.67-2754.19: Thanks, all. You're welcome. 
+asr:0: OUTPUT 2756.36-2759.20: Thank you, guys. Thanks for taking my question. 
+asr:0: OUTPUT 2759.84-2768.31: What are your thoughts on the state of the mom and pop stores in Mexico? 
+asr:0: OUTPUT 2768.77-2769.89: And we'll go to him. 
+asr:0: OUTPUT 2770.21-2777.06: Higher unemployment may push many to set up shop in the informal economy. So any thoughts on what you're seeing on the ground would be appreciated. 
+asr:0: OUTPUT 2780.50-2786.57: Well, I think the moments were hardly hit, unfortunately, because of the lack of beer. 
+asr:0: OUTPUT 2787.07-2792.91: And that was, and also the lack of cigarettes because it was not only beer. 
+asr:0: OUTPUT 2793.21-2799.54: I think we were able to prepare ourselves with good inventories. 
+asr:0: OUTPUT 2799.94-2806.05: But again, those two have major effects on the. 
+asr:0: OUTPUT 2807.23-2813.69: In the other hand, I think the traditional malls and bazaars close where people leave. 
+asr:0: OUTPUT 2814.15-2823.18: So I think I would say there are different mountain tops, where mobility was a major role, yet it has been hardly hit. 
+asr:0: OUTPUT 2823.74-2831.27: But these are the ones that are in the neighborhoods, I think they're coming up with a good performance. 
+asr:0: OUTPUT 2832.17-2840.24: I would say also they were better prepared in the returnable bottles, the returnable soft drinks compared with Oxone. 
+asr:0: OUTPUT 2841.12-2845.13: So that was as more advanced as possible. 
+asr:0: OUTPUT 2845.29-2852.21: I think they will recuperate because I think the Coca-Cola system, Bimba and the like. 
+asr:0: OUTPUT 2852.71-2860.02: Are very much willing to support and help and help them to compete. 
+asr:0: OUTPUT 2860.10-2863.60: I do see that the pandemic, those neighbors. 
+asr:0: OUTPUT 2863.70-2867.33: I think it's helping them to sustain. 
+asr:0: OUTPUT 2867.71-2875.72: But yes, they were very hard to hit, the ones that have lack of beer during these initial periods of the downturn. 
+asr:0: OUTPUT 2878.64-2881.30: Thank you. And just related to the last question, I guess. 
+asr:0: OUTPUT 2881.58-2894.23: You have taken some stakes in certain startups and I've seen that one of those, Hostel, has been growing quite a bit. 
+asr:0: OUTPUT 2894.65-2902.32: Any insights or things that you have learned on the delivery in these states that you can. 
+asr:0: OUTPUT 2904.84-2914.55: We've been trying to support with some venture money to support those suppliers that are very much aligned with us. 
+asr:0: OUTPUT 2915.01-2918.66: That will help us to enhance our value proposition. 
+asr:0: OUTPUT 2919.98-2926.41: And I don't know specifically the one you're talking about, Juan, who might have a better idea of this. 
+asr:0: OUTPUT 2926.79-2936.34: Was working not only with technological suppliers but also with normal suppliers where we could help them to become larger. 
+asr:0: OUTPUT 2936.72-2945.39: In fact, we did that with a great supplier that we have with NISCAfenio, which is the one that supported all the coffee operations. 
+asr:0: OUTPUT 2945.85-2951.39: And I think with that knowledge, we could be of great support to them. 
+asr:0: OUTPUT 2951.83-2960.98: So this pandemic, all the small vendors, we are helping them to pay them very quickly. 
+asr:0: OUTPUT 2961.30-2965.35: So they don't have this cash crunch problem that this pandemic will cause to them. 
+asr:0: OUTPUT 2965.77-2971.77: And so, yes, our small scale suppliers are very important. 
+asr:0: OUTPUT 2972.19-2979.34: And the strategic ones, we want to invest with them so they can grow better and faster to become a major competitive advantage to us. 
+asr:0: OUTPUT 2981.54-2987.85: I think on the justo investment, certainly we're trying to... 
+asr:0: OUTPUT 2987.87-2991.87: To help these new ventures through our PHMSA Ventures arm. 
+asr:0: OUTPUT 2992.49-3003.90: But also learn about things that would help us in our own value proposition or the way that we operate uncertainty, distribution, the use of dark. 
+asr:0: OUTPUT 3003.92-3006.33: Dark warehouses or dark kitchens, dark stores. 
+asr:0: OUTPUT 3007.19-3008.59: The handling of perishables. 
+asr:0: OUTPUT 3009.11-3013.57: These are all things that we would love to be better at and to know more about. 
+asr:0: OUTPUT 3013.95-3019.40: And this investment in particular obviously has turned out to be an interesting one. 
+asr:0: OUTPUT 3020.30-3027.89: The amounts involved are not huge relative to the size of FEMSA but certainly it's a startup that is doing very well. 
+asr:0: OUTPUT 3027.91-3034.13: I know that you stay close to these companies and the different rounds of financing and. 
+asr:0: OUTPUT 3034.15-3038.36: And how quickly they're growing and this is so far a very nice success story. 
+asr:0: OUTPUT 3042.26-3052.05: Thanks. It was a lot of fun. 
+asr:0: OUTPUT 3057.04-3058.92: Eduardo Juan. 
+asr:0: OUTPUT 3060.96-3064.36: My question is. 
+asr:0: OUTPUT 3064.88-3078.18: I'm Heineken. I was wondering if you could comment on whether or not your position on the stake, on owning, you know, this 15% has changed. You're not giving the new tax agreement with the Mexican government. 
+asr:0: OUTPUT 3078.24-3083.42: And two, on M&A, fair to say, or an integration mode. 
+asr:0: OUTPUT 3083.52-3093.13: It seemed to be a nice time to take a breather and integrate a lot of the different assets you bought over the last couple of years. 
+asr:0: OUTPUT 3094.55-3095.66: That was my two questions. Thank you. 
+asr:0: OUTPUT 3099.16-3108.99: So the Heineken shares, yes, it's a temporary investment. We just have to find a way to deploy that capital in a better way. 
+asr:0: OUTPUT 3109.41-3118.02: And it is not as optimal as it was in the past, as you're referring to. 
+asr:0: OUTPUT 3118.84-3124.82: But we just have to find the right time and the right path. 
+asr:0: OUTPUT 3124.84-3132.23: To deploy that capital and have that use of those proceeds. 
+asr:0: OUTPUT 3134.05-3140.18: The second question, I forgot the second question. 
+asr:0: OUTPUT 3141.16-3145.13: Are we ready to take a breather after a lot of activity of the M&A front? 
+asr:0: OUTPUT 3146.55-3149.31: I think the answer to that is yes. 
+asr:0: OUTPUT 3149.91-3159.06: For the most part, you should expect us to start integrating, capturing synergies and delivering on the promise of all of these investments. 
+asr:0: OUTPUT 3159.92-3163.70: I would say there's probably one exception. 
+asr:0: OUTPUT 3164.32-3170.95: The GenSign platform, a big part of the attractiveness of that business involves. 
+asr:0: OUTPUT 3172.09-3175.08: And growth through acquisitions and eventual integration. 
+asr:0: OUTPUT 3175.12-3183.06: It's hard to tell at this point whether there will be transactions coming along in the coming months and quarters, but if they were,. 
+asr:0: OUTPUT 3184.06-3190.59: I think we would be interested in taking looks. But other than that, for the most part, I'm understanding that MNA is hard to predict. 
+asr:0: OUTPUT 3191.81-3195.70: Generally speaking, the R-Stands is one of, as you say, kind of. 
+asr:0: OUTPUT 3195.72-3202.02: Sitting a little bit more on our hands and digesting the number of bites that we took over the last 18 months. 
+asr:0: OUTPUT 3203.48-3208.53: Thinking about the fourth platform that we are looking at, I think we already have it. 
+asr:0: OUTPUT 3209.01-3214.79: So we don't think to open a new vector, a different vector for growth. 
+asr:0: OUTPUT 3215.12-3223.42: The ones we have already established, the proximity, health, and now this Janssen platform. 
+asr:0: OUTPUT 3223.74-3228.39: I think we already very much focus into the platform that we already have. 
+asr:0: OUTPUT 3231.73-3240.00: That's very clear. Thank you very much. And now we will take our next question from Sergio Matsumoto. 
+asr:0: OUTPUT 3243.76-3247.25: Yes, hi, good morning. Thank you for taking my question. 
+asr:0: OUTPUT 3247.87-3257.38: I have two questions. One is I want to go back on the portfolio and the assortment question at OXO. 
+asr:0: OUTPUT 3258.98-3266.05: You spoke about how you can change some of the assortments given the economic slowdown,. 
+asr:0: OUTPUT 3266.29-3275.96: Could you explain more on the assortment changes you can make in the face of the reduced mobility. 
+asr:0: OUTPUT 3276.10-3281.58: And especially over the long term if this changes the consumer habits. 
+asr:0: OUTPUT 3281.82-3286.55: Like if the mobility stays low for a long time. 
+asr:0: OUTPUT 3287.01-3294.87: That's the first question. And the second question is, in Brazil logistics, which are the biggest industries that. 
+asr:0: OUTPUT 3294.89-3297.32: Those businesses serve. 
+asr:0: OUTPUT 3300.06-3309.29: I think we have better abilities and competencies to. 
+asr:0: OUTPUT 3309.39-3312.97: Suit the assortment for an economic downturn. 
+asr:0: OUTPUT 3314.55-3324.74: Lack of mobility will be different because it's also a time to serve people on the street. 
+asr:0: OUTPUT 3325.53-3330.43: We have had in the past the daily and replenishment category. 
+asr:0: OUTPUT 3330.89-3339.68: And that is the groceries, but not really buying the groceries and also is really the one that you are. 
+asr:0: OUTPUT 3339.70-3341.12: Left out in the country. 
+asr:0: OUTPUT 3341.52-3345.00: And that's really the patient that we have been serving. 
+asr:0: OUTPUT 3345.69-3359.50: I think through this pandemic we've been able to compel the consumer that we have a good assortment for that country. 
+asr:0: OUTPUT 3359.52-3365.75: Well, to find the people that are left out in your country. 
+asr:0: OUTPUT 3366.27-3371.81: And I think by testing more and finding more, they are finding that we have good prices. 
+asr:0: OUTPUT 3372.81-3380.76: But I think that category, lack of mobility will be in place. 
+asr:0: OUTPUT 3380.90-3393.51: We'll have to expand that category compared with the quench or some other categories that are more designed to serve people that are on the go. 
+asr:0: OUTPUT 3393.97-3402.78: But I think that will take more time and effort than to adapt to the economy downturn. 
+asr:0: OUTPUT 3404.82-3407.45: One. 
+asr:0: OUTPUT 3407.95-3427.79: On that front, it will be interesting for all of us to see whether the consumer begins to privilege proximity even more in terms of these traditionally kind of supermarket type categories and whether our assortment and our pricing is compelling enough. 
+asr:0: OUTPUT 3428.09-3431.17: Which we will expect that it will be. 
+asr:0: OUTPUT 3431.19-3442.46: For some of these consumers to decide to not just buy the cooking oil or the rice that they forgot or that they ran out of between trips to the supermarket. 
+asr:0: OUTPUT 3442.48-3444.97: But that they will use also as a more. 
+asr:0: OUTPUT 3444.99-3449.49: Frequent source of this type of product and then we will make. 
+asr:0: OUTPUT 3449.51-3451.87: The necessary adjustments as we go along. 
+asr:0: OUTPUT 3452.99-3457.64: I think on, and I mentioned earlier the comment about spirits as another. 
+asr:0: OUTPUT 3457.66-3461.38: Potential category where we hopefully. 
+asr:0: OUTPUT 3461.40-3470.63: Will become more top of mind for the consumer in terms of how good an assortment and how good our pricing is for that category. 
+asr:0: OUTPUT 3471.49-3477.10: I think you also touched on the second part of your question on the categories for Brazil logistics. 
+asr:0: OUTPUT 3477.96-3486.39: I think generally as we have been moving towards the LTL, the less than truckload business and specialized workhousing. 
+asr:0: OUTPUT 3487.27-3497.16: Certainly, pharma is an industry that is very well suited for the type of logistics that we do. 
+asr:0: OUTPUT 3497.42-3506.37: Not just in the distribution part but also on the workhousing side. In fact, if you look at AGV, the company that we acquired a few months ago,. 
+asr:0: OUTPUT 3506.63-3512.21: Their biggest category actually has to do with health. 
+asr:0: OUTPUT 3513.11-3517.98: Certainly a big component of animal or veterinary health, but also human health. 
+asr:0: OUTPUT 3518.06-3519.82: I think when you think about the... 
+asr:0: OUTPUT 3519.84-3527.95: The equation or the relationship between the size of the products, the weight, the volume and the cost. 
+asr:0: OUTPUT 3528.67-3534.71: And the type of conditions that they require for the transportation and their storage. 
+asr:0: OUTPUT 3535.56-3543.86: Itís an attractive industry, itís a profitable industry and itís a very good fit with what we do so I would say you should expect us to continue to try to grow and. 
+asr:0: OUTPUT 3544.24-3550.45: Obviously there are others, there are CPG products and categories and companies, electronics companies. 
+asr:0: OUTPUT 3550.59-3559.48: Certainly the health for both human and veterinary stand out as probably one of the biggest, if not the biggest. 
+asr:0: OUTPUT 3565.99-3570.15: And next question will come from Carlos Laboe of HSBC. 
+asr:0: OUTPUT 3572.03-3576.42: Good morning, everyone. 
+asr:0: OUTPUT 3576.62-3583.26: Hi Eduardo, John and Constantino spoke of a concentrate price readjustment yesterday. 
+asr:0: OUTPUT 3584.92-3590.73: As the controlling shareholder and with really important rights in your equity agreement with Koch. 
+asr:0: OUTPUT 3591.93-3601.66: What role is SAMHSA playing in this negotiation and what can you tell us about the long-term clarity of profit splits? 
+asr:0: OUTPUT 3601.76-3605.47: With the brand owner. Are they adequate for you at this point? 
+asr:0: OUTPUT 3607.07-3610.85: These agreements were signed like four years ago. 
+asr:0: OUTPUT 3611.47-3619.84: And yes, we would love to have a more stable and certain long-term relationship model. 
+asr:0: OUTPUT 3620.60-3627.99: And that is something that is important for us and important not only for the PINs and. 
+asr:0: OUTPUT 3628.35-3637.24: Is very important for management because the way we compensate management, they have to have some certainty because that is very important for the long run. 
+asr:0: OUTPUT 3637.52-3639.94: And also for the minority shareholders. 
+asr:0: OUTPUT 3641.20-3646.95: The Coca-Cola Company is on the turn list and I think. 
+asr:0: OUTPUT 3647.11-3650.27: It's really, it's, it's, um... 
+asr:0: OUTPUT 3650.29-3658.32: We have to be creative and empathetic from both sides to understand that we are the same ship. 
+asr:0: OUTPUT 3658.44-3660.00: That is the important because. 
+asr:0: OUTPUT 3660.28-3667.13: Probably in the past we were not as sympathetic to understand the income state of the Coca-Cola company. 
+asr:0: OUTPUT 3667.51-3670.53: And probably they were not as sympathetic to understand our income statement. 
+asr:0: OUTPUT 3670.95-3679.70: And I think with these conversations that we have had with them, we are very much aligned and they have a common understanding that we are on exactly the same boat. 
+asr:0: OUTPUT 3680.12-3687.53: And the current economic circumstances and the current consumer behavior, we have to be very much aligned. 
+asr:0: OUTPUT 3687.95-3691.09: So we're trying to build as much a line as possible. 
+asr:0: OUTPUT 3691.17-3699.28: Alignment as possible and certainty so we can invest and develop and tackle the consumer the best we can. 
+asr:0: OUTPUT 3699.46-3706.07: And as I said, we love and I think the main two objectives are to be fully aligned, fully aligned. 
+asr:0: OUTPUT 3706.09-3712.07: And build trust in the relationship for the long run. 
+asr:0: OUTPUT 3714.51-3724.42: So the tenure of the last agreement was a 10-year agreement. This one, you just got a negotiation four years ago that you just finished making your last payments on it. 
+asr:0: OUTPUT 3724.84-3731.97: Do you know what the tenure of this agreement is going forward or are we just really negotiating a long-term agreement now? 
+asr:0: OUTPUT 3734.97-3738.54: We have this established and... 
+asr:0: OUTPUT 3738.92-3743.66: But it's something that they have the time. 
+asr:0: OUTPUT 3743.68-3752.01: And we cannot disclose this to you without them being fully aware. 
+asr:0: OUTPUT 3752.41-3754.61: But don't worry, we're very happy with it. 
+asr:0: OUTPUT 3754.69-3764.48: In fact, we would love to have this kind of agreement everywhere else, we have building this certainty for the long run and alignment. 
+asr:0: OUTPUT 3764.54-3766.31: Alignment, certainty and trust. 
+asr:0: OUTPUT 3767.79-3769.41: That's helpful. Thank you. 
+asr:0: OUTPUT 3769.51-3771.59: If I could,. 
+asr:0: OUTPUT 3771.65-3780.10: A few weeks ago in one of the group calls that youíve helped us set up with investors,. 
+asr:0: OUTPUT 3780.12-3782.28: You asked me the question of... 
+asr:0: OUTPUT 3782.56-3796.76: Is it possible to have a long-term relationship with Coke where both partners realize a reasonable spread of Royce v. Wack? 
+asr:0: OUTPUT 3796.78-3798.04: Yes, we can. 
+asr:0: OUTPUT 3798.20-3799.90: I mean, yes, it is possible. 
+asr:0: OUTPUT 3799.94-3809.79: I think the point I would make right now is that this is definitely not at odds with what John and Constantino said yesterday. 
+asr:0: OUTPUT 3810.19-3818.84: The alignment that Eduardo is talking about, the expectation that there is a formula where both partners can make the right level of returns. 
+asr:0: OUTPUT 3818.86-3822.88: Is what we are looking for. Thank you. 
+asr:0: OUTPUT 3826.13-3830.37: And now we'll take a question from Ricardo Alvarez of Morgan Stanley. 
+asr:0: OUTPUT 3833.35-3842.22: Good morning, gentlemen. Thanks for the call. Most of my questions have been answered, but if I may just insist a little bit more on the Gensan asset. 
+asr:0: OUTPUT 3842.24-3843.72: Appreciate your comments, Ernie. 
+asr:0: OUTPUT 3844.34-3853.87: Now, perhaps a bit more of a strategic question. How are you going to be unlocking value on these acquisitions in the long run? 
+asr:0: OUTPUT 3854.77-3857.60: One, just mention the M&A potential. 
+asr:0: OUTPUT 3857.72-3863.32: But, as you merge the two companies, you come up with eventual synergies and so forth. 
+asr:0: OUTPUT 3863.44-3868.71: What the plan is in terms of how it fits to the overall sensor platform. 
+asr:0: OUTPUT 3868.77-3871.65: Or perhaps just that the growth profile of these acts. 
+asr:0: OUTPUT 3871.67-3879.10: Just improved a lot with the pandemic and then M&A would really be the key driver for future cash generation. 
+asr:0: OUTPUT 3879.32-3886.91: Just a few thoughts there would be helpful. And then just a quick update on the JVMuseum as well. 
+asr:0: OUTPUT 3889.03-3893.07: I think we have very good platforms for the medium and long run. 
+asr:0: OUTPUT 3893.27-3897.12: Then it has caused some... 
+asr:0: OUTPUT 3897.16-3904.54: I think in the medium and long term we have the health edition and we have the opportunity. 
+asr:0: OUTPUT 3905.21-3906.69: We have the proximity revision. 
+asr:0: OUTPUT 3906.75-3915.80: And then we have a reverse statistic of the performance we're making in South America and the JV we made in Brazil. 
+asr:0: OUTPUT 3916.32-3925.27: And also with our partnerships that we have here in the United States, we're very optimistic. We have two great platforms. 
+asr:0: OUTPUT 3925.29-3933.31: We have the Jetta restaurant, without doubt, Jetta has been eating share out of the bed. 
+asr:0: OUTPUT 3933.69-3940.44: And these are the major competitive strengths that they have and we're very happy about that. 
+asr:0: OUTPUT 3941.04-3946.51: And still began in the giant-scale business. 
+asr:0: OUTPUT 3946.75-3954.05: I think we made the right decision with the companies in West. 
+asr:0: OUTPUT 3954.13-3964.76: With the partners that we have and the platforms that have been established and the opportunities for integration and going forward for a more national approach. 
+asr:0: OUTPUT 3964.78-3966.45: Footprint. 
+asr:0: OUTPUT 3968.25-3971.73: As I said, we don't plan to open up a new vector for growth. 
+asr:0: OUTPUT 3972.13-3977.00: I think the ones are there and we just have to be very keen and. 
+asr:0: OUTPUT 3977.02-3982.80: Probably there is a short-term pandemic disturbance that will cope with it. 
+asr:0: OUTPUT 3982.82-3984.24: Align better. 
+asr:0: OUTPUT 3984.40-3989.03: Make efficiencies and probably make some decisions to adjust ourselves to this new environment. 
+asr:0: OUTPUT 3989.57-3993.73: But we have great platforms for growth in the future. 
+asr:0: OUTPUT 3995.38-4003.76: I think just following up on what you just said, Eduardo, on the whole Janssen platform. 
+asr:0: OUTPUT 4004.30-4008.55: There are certainly, you know, this is an industry that is very highly fragmented. 
+asr:0: OUTPUT 4009.27-4012.05: Where you don't really have a huge incumbent. 
+asr:0: OUTPUT 4013.45-4021.96: The platform that we are forming by combining Waxian and North American already becomes one of the larger players. 
+asr:0: OUTPUT 4022.44-4028.85: You know, wax has a kind of a bias to the West Coast of the U.S. 
+asr:0: OUTPUT 4029.13-4032.11: North American out of Chicago has more of a Midwest. 
+asr:0: OUTPUT 4032.25-4034.51: Uh... All the way down to florida coverage but. 
+asr:0: OUTPUT 4034.61-4042.10: You really don't have players with anything resembling a big national presence and so the synergy component. 
+asr:0: OUTPUT 4042.42-4052.51: And the aspiration to integrate more of these assets at the right time and in the right way is a big part of the aspiration that we have for that business. 
+asr:0: OUTPUT 4052.61-4059.74: Scale is a beautiful thing. We have been the beneficiaries of scale in many of our businesses. 
+asr:0: OUTPUT 4060.58-4065.83: And this is another one where we think that could work. It's magic if done in the right way. 
+asr:0: OUTPUT 4066.91-4072.71: I think you also mentioned at the end of your question something about an update on the JV in Brazil. 
+asr:0: OUTPUT 4074.15-4076.24: Obviously, the pandemic... 
+asr:0: OUTPUT 4076.84-4079.06: Throws a little bit of sand into the gears. 
+asr:0: OUTPUT 4079.14-4084.46: In terms of the phase of openings down there, but quite frankly,. 
+asr:0: OUTPUT 4084.48-4086.77: We are almost on track. 
+asr:0: OUTPUT 4086.79-4095.82: In terms of openings for both the first new stores on the select side, on the gas stations of Raissen,. 
+asr:0: OUTPUT 4096.54-4105.87: But also on the standalone OXO side. We do aspire to start opening OXO stores towards the end of the year. 
+asr:0: OUTPUT 4106.57-4113.33: In Brazil, we're already making progress in terms of setting up our first distribution center down there as well. 
+asr:0: OUTPUT 4114.33-4120.40: So things are going very much according to plan and like I said, I think the pandemic has not. 
+asr:0: OUTPUT 4120.42-4126.15: Forced the team down in Brazil to depart very much from the original plan. 
+asr:0: OUTPUT 4126.63-4136.34: Obviously, as we've said before, this is not going to be a piece of cake. Figuring out the right value proposition for the Brazilian OXO is going to take a little bit of time. 
+asr:0: OUTPUT 4137.28-4147.01: The size of the opportunity and certainly the partnership that we have make us very optimistic that this will eventually be an important part of the portfolio. 
+asr:0: OUTPUT 4149.79-4152.19: And I think the partnership that we have with... 
+asr:0: OUTPUT 4152.21-4161.32: I think we found that the proximity division, the commercial found. 
+asr:0: OUTPUT 4161.34-4163.28: The right way to go into the game. 
+asr:0: OUTPUT 4163.88-4165.95: They are very happy. They are learning a lot. 
+asr:0: OUTPUT 4166.11-4169.19: In fact, they are learning through... 
+asr:0: OUTPUT 4169.27-4176.16: And they are going to adapt some of the select operations to this new scheme. 
+asr:0: OUTPUT 4176.62-4188.33: And I think there is a lot of growth and potential to adjust the value proposition of the select stores and the auction stores in the field. 
+asr:0: OUTPUT 4188.43-4192.27: And that will be very... 
+asr:0: OUTPUT 4192.33-4195.60: But it will take time. It will take time, but I think we're very optimistic. 
+asr:0: OUTPUT 4199.44-4208.01: Thank you so much. 
+asr:0: OUTPUT 4210.15-4212.99: Thank you for taking my follow-up question, if I may. 
+asr:0: OUTPUT 4214.09-4218.76: Yesterday at Womack's conference called the initial. 
+asr:0: OUTPUT 4218.78-4226.81: Some risks with respect to the introduction of the new labeling regulation rules. 
+asr:0: OUTPUT 4226.83-4229.27: That will start already in October. 
+asr:0: OUTPUT 4229.95-4237.80: Could you please help us understand what could be the impact of those new labeling rules in your OXO business? 
+asr:0: OUTPUT 4237.84-4240.20: Perhaps during the transition time now. 
+asr:0: OUTPUT 4240.26-4249.97: As it's implemented in October and perhaps on your supplier's ability to push for sales growth. 
+asr:0: OUTPUT 4253.77-4258.32: We think that we are sometimes... 
+asr:0: OUTPUT 4258.36-4266.51: Too much information for the consumer and it seems like what I've been learning is that. 
+asr:0: OUTPUT 4266.63-4279.98: I think it's very important to inform the consumer so the consumer can make the better decision for their health and nutrition and everything. 
+asr:0: OUTPUT 4281.02-4286.97: Sometimes if the labeling goes a bit too far,. 
+asr:0: OUTPUT 4286.99-4294.59: The consumer might be blocking so much information that he doesn't want to have access to. 
+asr:0: OUTPUT 4294.61-4298.62: He just overloaded by this labeling. 
+asr:0: OUTPUT 4299.38-4301.50: We don't know really where we stand. 
+asr:0: OUTPUT 4302.08-4308.15: And I think that currently we have been working very closely with our suppliers. 
+asr:0: OUTPUT 4308.77-4314.15: And I think we'll be in a very good position to adapt to this new environment. 
+asr:0: OUTPUT 4314.83-4322.20: We don't see major derailments happening. I don't know if you want to add to this one. 
+asr:0: OUTPUT 4323.74-4329.79: Just a point that I think on beverages, certainly on the Coke Fremsa side, generally,. 
+asr:0: OUTPUT 4329.81-4334.31: The consumer has been well informed for many years now. 
+asr:0: OUTPUT 4334.33-4344.44: About the calorie count and that sort of thing and the industry has been involved for a while increasing the percentage of the portfolio that has reduced. 
+asr:0: OUTPUT 4344.46-4345.93: Or no calories at all. 
+asr:0: OUTPUT 4346.87-4353.01: And so I think the challenges from the relabeling involve more the costs. 
+asr:0: OUTPUT 4353.05-4361.68: And kind of the operating conundrums of changing labels or adjusting your packaging, that sort of thing, but not so much in terms of the. 
+asr:0: OUTPUT 4361.70-4364.18: Incremental information that the consumer will receive. 
+asr:0: OUTPUT 4364.56-4372.53: There are other categories where maybe the consumer has not been as exposed to nutritional information. 
+asr:0: OUTPUT 4373.23-4376.46: And I think for those, there will be a period of adaptation. 
+asr:0: OUTPUT 4377.06-4378.14: But to Eduardo's point. 
+asr:0: OUTPUT 4378.76-4387.39: I think also it's very well positioned and the flexibility and the level of dialogue and cooperation with suppliers. 
+asr:0: OUTPUT 4388.33-4394.55: Leads, I think, to what should be a relatively smooth transition when this eventually becomes a fact. 
+asr:0: OUTPUT 4398.72-4400.50: Transition Juan and I. 
+asr:0: OUTPUT 4401.34-4416.92: Do you foresee the risk of a more aggressive markdown just to get rid of the inventory that is with the old labeling or suppliers that are going to assume the cost of that operation. 
+asr:0: OUTPUT 4416.96-4422.16: I think that could impact your 4Q results or perhaps part of your 3Q results. 
+asr:0: OUTPUT 4423.90-4431.39: No, but I think if we, I never, the turnover of inventory in Nelson goes very fast. 
+asr:0: OUTPUT 4432.11-4440.64: And there will be some opportunities there to make some money. Yes, I think we'll be. 
+asr:0: OUTPUT 4440.66-4442.22: I don't know one. 
+asr:0: OUTPUT 4443.78-4451.69: I agree with you that our inventory levels tend to be small and the turnover is fast. 
+asr:0: OUTPUT 4452.13-4456.92: And I'm sure we will work with suppliers and come up with promotional activity if required. 
+asr:0: OUTPUT 4457.88-4461.76: And I don't think it's something that is causing us to lose a lot of sleep at this point. 
+asr:0: OUTPUT 4464.20-4465.47: Thank you very much for the clarification. 
+asr:0: OUTPUT 4471.29-4479.60: Ladies and gentlemen, that is all the time we have for questions today. I will now turn the conference back to Mr. Padilla for posing additional remarks. 
+asr:0: OUTPUT 4481.90-4488.69: Well, thank you everyone. Thank you very much for your participation today. Stay safe and be well. 
+asr:0: OUTPUT 4492.67-4501.14: Ladies and gentlemen, if you wish to replay the webcast for this call, you may do so at Census Investor Relations website. 
+asr:0: OUTPUT 4501.64-4508.39: This concludes our conference for today. Thank you for your participation and have a nice day. All parties may now disconnect. 
+asr:0: END
