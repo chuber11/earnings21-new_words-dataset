@@ -1,0 +1,532 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.38-3.28: Ok, good morning to all. 
+asr:0: OUTPUT 4.78-13.29: Welcome to Znabesti's video conference to discuss the earnings for Q3. My name is Maju. 
+asr:0: OUTPUT 14.13-18.02: I am head of capital markets. 
+asr:0: OUTPUT 18.66-21.32: And investor relations at Sabes. 
+asr:0: OUTPUT 22.28-25.85: Today we have with us here. 
+asr:0: OUTPUT 27.17-33.09: Dr. Benedito Braga, Chairman of Sambeski. 
+asr:0: OUTPUT 34.29-40.62: Mr. Osvaldo Garcia, Director, Financial Economic Director. 
+asr:0: OUTPUT 40.68-48.01: Mr. Marcelo Miyagi, Head of Accounting, Marcelo Sanchez, Superintendent of Regul... For Regulation. 
+asr:0: OUTPUT 48.21-52.11: Before passing the floor to Dr. Braga to begin the conference,. 
+asr:0: OUTPUT 52.47-55.70: I'd like to give some information. 
+asr:0: OUTPUT 55.78-64.54: First, this video conference is being recorded and the presentation will be available for download at our portal. 
+asr:0: OUTPUT 66.03-67.93: Where we already have the press release. 
+asr:0: OUTPUT 69.61-74.63: We will accept questions only in writing through chat. 
+asr:0: OUTPUT 75.66-77.64: Our conference is now over. 
+asr:0: OUTPUT 77.74-86.03: Will be for an hour and 30 minutes, and we will have 45 minutes to answer questions from analysts. 
+asr:0: OUTPUT 86.05-91.73: And at the end, we will have time for questions from journalists. 
+asr:0: OUTPUT 92.31-94.17: To conclude. 
+asr:0: OUTPUT 95.90-97.34: A small disclosure. 
+asr:0: OUTPUT 97.80-109.17: We would like to clarify that any declarations made during this conference concerning the business perspectives of the company. 
+asr:0: OUTPUT 109.19-122.24: Projections, operational and financial goals are based on beliefs and assumptions of the company's board and also information currently available to the company. 
+asr:0: OUTPUT 122.80-131.55: Considerations about the future are not guarantee of performance. They involve risks, uncertainties, because they refer to future events. 
+asr:0: OUTPUT 131.59-135.88: And therefore depend on circumstances that may or may not occur. 
+asr:0: OUTPUT 136.68-142.02: Investors should understand the general economic conditions, industry conditions,. 
+asr:0: OUTPUT 142.04-157.22: And other operational factors may affect the future results of the company and may lead to results that may differ materially from those expressed in these considerations about the future. 
+asr:0: OUTPUT 157.64-160.00: Now. 
+asr:0: OUTPUT 160.72-167.79: I would like to pass the floor to Dr. Braga. 
+asr:0: OUTPUT 169.11-170.61: You have the floor. 
+asr:0: OUTPUT 171.83-173.73: For the opening of this conference. 
+asr:0: OUTPUT 175.66-179.56: Thank you very much, Mario. Good morning. 
+asr:0: OUTPUT 179.62-188.97: To everyone. It's a great satisfaction to bring to you on this rainy morning good news to all. 
+asr:0: OUTPUT 189.55-190.85: We had. 
+asr:0: OUTPUT 191.35-194.75: Very positive financial results. 
+asr:0: OUTPUT 195.10-197.88: But I will. 
+asr:0: OUTPUT 197.96-205.35: Allow our CFO, Dr. Osvaldo Garcia, to talk about this point to you. 
+asr:0: OUTPUT 206.37-214.94: I would like to begin with three or four topics that are of your interest. 
+asr:0: OUTPUT 215.06-221.36: Also, as a result of this good news, we have a rainy morning. 
+asr:0: OUTPUT 221.82-227.51: Concerning the water safety, we had. 
+asr:0: OUTPUT 227.69-231.07: We are actually. 
+asr:0: OUTPUT 232.81-236.04: Having a situation. 
+asr:0: OUTPUT 236.56-240.18: That is an extreme drought in the. 
+asr:0: OUTPUT 240.80-241.80: So... 
+asr:0: OUTPUT 241.88-249.35: And this even affected the electricity sector, and also as Dr. Oswaldo Pinto. 
+asr:0: OUTPUT 249.45-258.58: May explain issues involving cost of energy that went up as a result. 
+asr:0: OUTPUT 259.26-263.22: Of this extreme drought situation that we are having. 
+asr:0: OUTPUT 263.46-272.13: And we were able to get a special authorization from the water. 
+asr:0: OUTPUT 272.49-275.12: Authorities. 
+asr:0: OUTPUT 275.20-283.24: To bring from our reservoir in Jaguari on Paraíba do Sul. 
+asr:0: OUTPUT 283.26-288.07: River 40 million cubic meters. These are additional. 
+asr:0: OUTPUT 288.09-295.78: Until the end of this year, and an additional 40 million cubic meters until the end of this year. 
+asr:0: OUTPUT 295.80-298.36: Increasing our water safety. 
+asr:0: OUTPUT 298.66-306.99: I also inform in this direction, talking about water safety, that the. 
+asr:0: OUTPUT 307.69-315.98: The works for abstraction of water from the Tapanao River to the Reservoir of the Chila. 
+asr:0: OUTPUT 316.18-320.00: In the Alto Tietê system may. 
+asr:0: OUTPUT 321.06-330.33: Remove or may abstract 2.5 million cubic meters of water. 
+asr:0: OUTPUT 330.53-333.35: With their monthly average. 
+asr:0: OUTPUT 334.13-338.76: I like this. The works are going very well. 
+asr:0: OUTPUT 339.04-347.95: And in the first semester of next year, we will have the inauguration of this supplementary system. 
+asr:0: OUTPUT 349.03-352.45: Now concerning rainfall,. 
+asr:0: OUTPUT 352.47-361.26: We had a month of October that was a little above average in terms of rainfall, but a month of November. 
+asr:0: OUTPUT 362.06-371.75: In the first two weeks of November with little rainfall, but we still have hopes that. 
+asr:0: OUTPUT 372.43-373.91: In the. 
+asr:0: OUTPUT 374.83-377.08: In the second part of November. 
+asr:0: OUTPUT 377.40-379.80: We may have more. 
+asr:0: OUTPUT 379.92-397.38: Rainfall to recover our levels at the reservoirs without the need to have any extraordinary measures to guarantee the supply of water in the metropolitan region of Sao Paulo. 
+asr:0: OUTPUT 397.76-402.14: In the interior, we had a situation in the city of Renka. 
+asr:0: OUTPUT 403.96-406.15: In the month of August-September,. 
+asr:0: OUTPUT 406.55-410.37: We had to begin a rationing plan. 
+asr:0: OUTPUT 410.61-417.66: But this situation is over and today the supply of water in the city of Frenc is normal. 
+asr:0: OUTPUT 418.04-420.26: So in the other cities. 
+asr:0: OUTPUT 421.16-429.51: 375 cities, the situation is okay concerning the supply of water. 
+asr:0: OUTPUT 430.29-437.88: Another important piece of news, very important news, is the implementation of NETs and NETApps. 
+asr:0: OUTPUT 438.10-443.26: This platform will allow the new tariff structure that we have. 
+asr:0: OUTPUT 443.42-449.75: This structure where we will have a single tariff for. 
+asr:0: OUTPUT 450.07-451.55: Uh... 
+asr:0: OUTPUT 452.27-455.84: Our cities. 
+asr:0: OUTPUT 456.18-458.36: And this will be applied. 
+asr:0: OUTPUT 458.82-464.24: In 2022 and reminding you that. 
+asr:0: OUTPUT 464.30-477.14: The minimum tariff disappears and we will have a fixed tariff for water connection and plus water consumption. 
+asr:0: OUTPUT 477.38-481.86: So the person will only pay for what they use. 
+asr:0: OUTPUT 482.26-488.39: But there will be a fixed fee in the new structure, in the new tariff structure. 
+asr:0: OUTPUT 489.73-493.69: Also, through this new platform, NetApp,. 
+asr:0: OUTPUT 494.11-502.44: Meta, we will have different interaction with clients, much better interaction with payment via PICS. 
+asr:0: OUTPUT 502.50-510.35: Credit cards, in other words, a modernization, a very important modernization and update. 
+asr:0: OUTPUT 510.87-517.96: Right now, we are implementing this system. There are some initial issues. 
+asr:0: OUTPUT 518.46-521.06: For example, we have... 
+asr:0: OUTPUT 521.48-523.52: And our contact center. 
+asr:0: OUTPUT 523.80-532.93: Also, we had a problem with fake news on fake bills from Sebastis. 
+asr:0: OUTPUT 532.99-541.42: But the Neta system has a much greater efficiency, brings us this greater efficiency. 
+asr:0: OUTPUT 541.50-546.51: And a reduction in delinquency due to. 
+asr:0: OUTPUT 546.99-554.69: The fact that we are working with taxpayer numbers, taxpayer numbers. 
+asr:0: OUTPUT 555.24-556.84: NID numbers. 
+asr:0: OUTPUT 556.92-562.82: Our corporate area did an excellent job, an important job. 
+asr:0: OUTPUT 562.90-570.11: And we inaugurated this new era in terms of relationship with the clients. 
+asr:0: OUTPUT 570.77-580.06: And the monitoring of our meters. 
+asr:0: OUTPUT 580.46-585.53: So this is an important piece of news. We are modernizing the company. 
+asr:0: OUTPUT 585.87-590.33: Now, concerning the new sanitation law and... 
+asr:0: OUTPUT 590.35-593.39: The decree that regulates. 
+asr:0: OUTPUT 593.53-599.46: Article 16b in terms of. 
+asr:0: OUTPUT 599.50-600.86: Proving. 
+asr:0: OUTPUT 600.90-616.54: The economic financial capacity of the company as a result of the goals for 2033 concerning 99% coverage with water and also. 
+asr:0: OUTPUT 616.98-618.52: Sanitation. 
+asr:0: OUTPUT 620.50-622.00: We are very comfortable. 
+asr:0: OUTPUT 622.60-629.17: With these issues, yes. 
+asr:0: OUTPUT 629.85-639.14: We will have conditions to prove our financial economic capacity as a result of the following. 
+asr:0: OUTPUT 639.64-647.67: Our largest consumers, our largest cities will not need investments in capex. 
+asr:0: OUTPUT 647.95-656.46: We had already foreseen getting to a situation of universalization before 2033. 
+asr:0: OUTPUT 656.98-664.99: Also, I can mention here that unfortunately the federal government. 
+asr:0: OUTPUT 665.83-672.47: Did not act on time in regulating this law. 
+asr:0: OUTPUT 672.49-679.22: And published this decree. 
+asr:0: OUTPUT 679.98-684.06: With nine months late. 
+asr:0: OUTPUT 684.24-690.17: The National Water Agency regulated other indices. 
+asr:0: OUTPUT 690.85-693.67: That we will have to follow everything. 
+asr:0: OUTPUT 695.72-703.24: Here late but we are working hard and fast for everything to be done. 
+asr:0: OUTPUT 703.66-713.31: Everything that is from our part until December 31st. And with this, we will be absolutely in agreement with the new. 
+asr:0: OUTPUT 713.63-715.64: Law for sanitation. 
+asr:0: OUTPUT 716.86-717.92: Finally. 
+asr:0: OUTPUT 718.28-724.48: I would like to mention that SubSB was the only company. 
+asr:0: OUTPUT 725.59-733.91: In the southern hemisphere to have an agreement with UNFCCC. 
+asr:0: OUTPUT 734.33-735.82: Which is. 
+asr:0: OUTPUT 735.98-739.70: The platform of the United Nations for. 
+asr:0: OUTPUT 739.88-743.16: Climate change where. 
+asr:0: OUTPUT 743.18-752.69: We are collaborating in this worldwide movement to increase the resilience of the water systems. 
+asr:0: OUTPUT 752.71-758.74: We participated actively in COP26. 
+asr:0: OUTPUT 763.24-771.81: Taking our vision and showing that these discussions of the UN. 
+asr:0: OUTPUT 771.95-773.27: The 26th. 
+asr:0: OUTPUT 774.89-780.02: Have focused a lot on the energy issue, CO2. 
+asr:0: OUTPUT 780.52-788.61: The problems that will happen in the long term, in the future, but. 
+asr:0: OUTPUT 788.87-797.94: They were not concerned with adaptation, which is happening right now. 
+asr:0: OUTPUT 798.34-803.32: You can see the issues concerning the drought. 
+asr:0: OUTPUT 803.34-815.32: We have in Brazil and Saberes V has been an example for the rest of the world, for the sanitation companies in the world, because it prepared itself. 
+asr:0: OUTPUT 815.44-819.04: We adapted ourselves to climate change. 
+asr:0: OUTPUT 819.50-822.68: It is with great satisfaction. 
+asr:0: OUTPUT 822.70-840.00: That we saw that the final report of the chairman of COP26 gave more importance to the adaptation issue, and not only this, the next COP that will happen in Egypt next year,. 
+asr:0: OUTPUT 840.40-850.23: The focus will be on everyone adapting themselves and how this will impact. 
+asr:0: OUTPUT 850.39-857.00: And bring an improvement to the less developed countries in the southern hemisphere. 
+asr:0: OUTPUT 857.54-862.06: Also within this context of ESG. 
+asr:0: OUTPUT 862.32-868.79: The company is alert. The company is getting stronger and stronger in this direction. ESG. 
+asr:0: OUTPUT 869.15-873.75: Well, I believe you are more interested right now. 
+asr:0: OUTPUT 873.77-879.54: In hearing our CFO and the positive results in finance. 
+asr:0: OUTPUT 880.00-882.38: Dr. Rusvall, do you have the floor? 
+asr:0: OUTPUT 888.47-890.97: Good morning Chairman Draga, good morning to all. 
+asr:0: OUTPUT 891.55-900.32: I thank you all for participating in this video conference to discuss the earnings of Q3 2021. 
+asr:0: OUTPUT 902.46-904.50: Beginning on slide three. 
+asr:0: OUTPUT 904.52-913.43: We observe the total volume build with a growth of 3.7% in relation to Q3 20. 
+asr:0: OUTPUT 914.49-917.16: Is considering the volumes of Moab,. 
+asr:0: OUTPUT 917.70-921.24: Which in this quarter is working in retail. 
+asr:0: OUTPUT 921.28-929.23: And in Q3 2020 they were working in, not in retail,. 
+asr:0: OUTPUT 929.67-937.76: While disconsidering the volumes that are exempt from collection and also social and residential categories in shanty towns. 
+asr:0: OUTPUT 938.80-946.53: Going from 957.3 million to 992.7 million cubic meters built. 
+asr:0: OUTPUT 946.71-948.65: This growth is greater. 
+asr:0: OUTPUT 948.67-959.34: In the sewer services 4.1% in relation to the volume built in the segment of water that rose 3.4%. 
+asr:0: OUTPUT 961.16-968.23: The most significant increase happens in the non-residential categories where tariffs are higher. 
+asr:0: OUTPUT 968.51-976.78: 15.7% in public, 7% in commercial and 6.6% in industrial clients. 
+asr:0: OUTPUT 978.36-986.25: In the residential segment, which represents the greatest volume in relation to the total, the growth was 3.2%. 
+asr:0: OUTPUT 987.49-991.67: With the recovery of consumption in non-residential categories. 
+asr:0: OUTPUT 991.71-997.94: We noticed a recovery in the average tariff with favorable impact on revenue. 
+asr:0: OUTPUT 998.34-999.60: Next slide, please. 
+asr:0: OUTPUT 1005.97-1010.91: Now we'd like to see the slide with financial numbers. 
+asr:0: OUTPUT 1011.35-1023.78: The revenue from sanitation services had an increase of 17.7% and it appeared going from 3.6 billion in Q3 20 to 4.3 billion Reais. 
+asr:0: OUTPUT 1023.80-1026.05: In Q3, 21. 
+asr:0: OUTPUT 1026.61-1039.26: Especially as a result of tariff increases applied on clients' bills. In August 2020, 3.4 percent, and since May this year, an increase of 7 percent. 
+asr:0: OUTPUT 1039.94-1047.27: The effects can be seen in the revenue in this quarter when compared to the same quarter last year. 
+asr:0: OUTPUT 1048.35-1054.61: Also, we add the increase of 3.7% in the total volume billed. 
+asr:0: OUTPUT 1054.91-1060.72: Which explains the relevant increase of the total revenue of sanitation services. 
+asr:0: OUTPUT 1060.86-1071.47: And the operation of water distribution and retail in the city of Mawa, which is now 24.7 million. 
+asr:0: OUTPUT 1071.55-1075.52: More in comparison with the same period of last year. 
+asr:0: OUTPUT 1075.76-1089.75: Net revenue went from 4.4 billion to 5.2 billion due to the growth in the volume bills and the inclusion of the price increases mentioned. 
+asr:0: OUTPUT 1090.01-1098.46: As well as with revenue from construction that contributed for the growth of $132.7 million in the period. 
+asr:0: OUTPUT 1099.58-1100.86: The cost... 
+asr:0: OUTPUT 1100.88-1109.95: Administrative expenses and commercial expenses, including the cost of construction, had an increase of 13.8%. 
+asr:0: OUTPUT 1109.97-1119.36: Going from 3.5 billion in Q3 2020 to 3.9 billion in Q3 2021. 
+asr:0: OUTPUT 1121.10-1130.21: When we exclude the construction cost, the increase was 14.3% or R$347.5 million. 
+asr:0: OUTPUT 1132.17-1139.66: Adjusted EBITDA was $275.7 million above the EBITDA of Q3 20. 
+asr:0: OUTPUT 1140.00-1144.16: Resulting in 1.8 billion in Q3. 
+asr:0: OUTPUT 1144.18-1150.17: A positive variance of 18.2%. 
+asr:0: OUTPUT 1151.41-1160.12: Now, concerning the EBITDA margin, which does not consider the revenue and construction costs,. 
+asr:0: OUTPUT 1160.14-1166.07: Was a little higher, going from 44% to 44.4%. 
+asr:0: OUTPUT 1167.63-1172.55: The net profit net income closed at $486.6 million. 
+asr:0: OUTPUT 1172.63-1179.84: 11.1 above the profit in Q3, 2020. 
+asr:0: OUTPUT 1180.00-1183.76: Which was 421.6 million reais. 
+asr:0: OUTPUT 1184.62-1189.93: I'd like to stress that this increase was based on the revenue that grew. 
+asr:0: OUTPUT 1189.95-1201.66: In a more vigorous way with the inclusion of recent price readjustments, a greater volume, recovery of non-residential segments, thus improving the average tariff. 
+asr:0: OUTPUT 1201.82-1207.27: And despite the pressure on costs and expenses due to higher inflation,. 
+asr:0: OUTPUT 1207.29-1213.17: And also with higher interest rates and exchange variations. 
+asr:0: OUTPUT 1216.80-1222.30: Now we go on to the slide for costs and expenses. 
+asr:0: OUTPUT 1222.44-1232.11: The cost and expenses when we disconsider the cost of construction had an increase of 14.3% or $247.5 million. 
+asr:0: OUTPUT 1233.31-1240.34: It's important to remind you that the analysis and comparison of this quarter with that of 2020. 
+asr:0: OUTPUT 1240.40-1244.04: In some cases may lead to distortions. 
+asr:0: OUTPUT 1244.06-1254.77: Because many activities were paralyzed or delayed last year as a result of the measures for social isolation. 
+asr:0: OUTPUT 1255.74-1261.82: The expenses with personnel have a small increase, 1.8%. 
+asr:0: OUTPUT 1262.14-1267.89: The explanation is in the salary increase of 7.75%. 
+asr:0: OUTPUT 1267.91-1275.36: In May this year and medical expenses that were exceptionally low in the previous year. 
+asr:0: OUTPUT 1275.66-1284.78: This variation below the inflation of the period is due to the reduction of around 1,000 employees. 
+asr:0: OUTPUT 1285.89-1299.00: The effects of the impact of the pandemic in Q320 can also be observed with different degrees of magnitude in the expenses with materials and expenses with services. 
+asr:0: OUTPUT 1300.52-1311.27: In general expenses, a significant part of the growth observed of 103 million or 45.9% is explained by the expenses. 
+asr:0: OUTPUT 1311.29-1316.74: With court issues, 53.3 million. 
+asr:0: OUTPUT 1316.76-1330.53: And the increase in accruals or provisions for payments to the Environmental and Infrastructure Sanitation Municipal Funds, resulting in the growth of the revenue and the number of. 
+asr:0: OUTPUT 1330.55-1334.57: Sydney's included worth $32.9 million. 
+asr:0: OUTPUT 1335.22-1345.37: Expenses with electricity were also important. The average increase in the tariffs, ACR, was 30.6%. 
+asr:0: OUTPUT 1346.09-1353.83: And the impact was not greater because we migrated part of the consumption to ACL. 
+asr:0: OUTPUT 1353.85-1357.50: The free environment where the price increases were not that high. 
+asr:0: OUTPUT 1358.46-1370.83: In general, the expenses with electricity had an increase of 20.6%, going from 311 million to 375 million reais in the period. 
+asr:0: OUTPUT 1372.05-1381.30: Different from the revenue that already reflects the recovery in volume and average tariffs in relation to the same period last year. 
+asr:0: OUTPUT 1381.50-1393.49: The estimated losses with credit and bad debts increased by 43.5 million, a growth of 57.9%. 
+asr:0: OUTPUT 1395.04-1409.09: As mentioned by our chairman, due to the beginning of the operation of the new commercial system, we will have a more modern tool to approach and solve these balances that were not collected. 
+asr:0: OUTPUT 1409.19-1410.31: Were not received. 
+asr:0: OUTPUT 1410.59-1415.14: Next slide, please. Financial performance. 
+asr:0: OUTPUT 1415.56-1424.92: The graph for financial performance begins with the profit in Q3 2020 of $421.6 million. 
+asr:0: OUTPUT 1425.09-1429.27: And shows the movement of the results in the period. 
+asr:0: OUTPUT 1430.31-1438.36: Net operational revenue grew $715.4 million due to tariff increases totally. 
+asr:0: OUTPUT 1438.38-1444.66: Included growth in volume and improvement in the average tariff, as already mentioned. 
+asr:0: OUTPUT 1445.15-1452.53: Cost and expenses plus construction costs had an increase of $477.3 million. 
+asr:0: OUTPUT 1453.13-1463.00: Other revenues and operational expenses, including equity, had a positive variation of 2.8 million reais. 
+asr:0: OUTPUT 1464.40-1482.88: This financial result presented a negative variation of 190 million, due especially to the devaluation of 8.7 and 8.3 percent of the Brazilian currency in comparison with the U.S. Dollar and the yen, respectively. 
+asr:0: OUTPUT 1483.12-1492.45: A devaluation that is greater than the one observed in Q320, which was 3.0 and 5.2 percent, respectively. 
+asr:0: OUTPUT 1492.71-1505.29: And also another point, the impact of the higher interest rates and also IPCA index on loans and financing. 
+asr:0: OUTPUT 1505.65-1508.95: Income tax and social contribution. 
+asr:0: OUTPUT 1508.97-1512.33: Had a negative variance for 3.9 million. 
+asr:0: OUTPUT 1512.35-1521.50: Resulting from the increase in net operational revenue of 582.7 million, which excludes the effects of. 
+asr:0: OUTPUT 1521.52-1529.81: Revenue and expenses with construction, the increase in costs and expenses of $347.7 million,. 
+asr:0: OUTPUT 1529.83-1535.78: And greater expenses with exchange variation $141.5 million. 
+asr:0: OUTPUT 1537.44-1544.58: The result was a net profit in Q3 21 of 468.6 million Reais. 
+asr:0: OUTPUT 1546.03-1547.53: This results. 
+asr:0: OUTPUT 1548.55-1555.94: Although better than the one demonstrated in the same period last year, shows that the company still. 
+asr:0: OUTPUT 1555.96-1562.00: Has the effect of the crisis that began in 2020, but we have recovered revenue. 
+asr:0: OUTPUT 1562.12-1563.88: Not only due to. 
+asr:0: OUTPUT 1563.90-1574.65: Higher tariffs, tariff increases, but also the effects in the economy with the recovery in industrial segment and services. 
+asr:0: OUTPUT 1575.22-1581.62: On the other hand, issues like delinquency have not followed the same trend. 
+asr:0: OUTPUT 1582.58-1591.67: And the strong increase in inflation can be seen in the cost of inputs. These are our comments. Now we would like to go on to the Q&A session. 
+asr:0: OUTPUT 1591.97-1593.73: Mind you, you have the floor. 
+asr:0: OUTPUT 1598.28-1603.14: Everybody listening here, I just think YouTube. Hello? 
+asr:0: OUTPUT 1608.39-1614.31: Okay, I'm taking over here. So, I'm starting here. Let's start. 
+asr:0: OUTPUT 1614.75-1619.06: We would like to begin our session. 
+asr:0: OUTPUT 1620.00-1621.70: The Sparwell question. 
+asr:0: OUTPUT 1624.34-1626.75: And with that, I... 
+asr:0: OUTPUT 1628.23-1633.95: Before that, I would like to be that questions. 
+asr:0: OUTPUT 1640.00-1642.04: And at the end of the journal. 
+asr:0: OUTPUT 1644.46-1651.69: Time, restrictions may be some questions that we receive may not be answered. 
+asr:0: OUTPUT 1652.27-1656.70: What we can do, though, is to master in writing. 
+asr:0: OUTPUT 1657.62-1664.86: I will begin with the same first question. Let me get ready. 
+asr:0: OUTPUT 1665.37-1668.29: For this first question. 
+asr:0: OUTPUT 1670.25-1673.01: I will check with Dr. Braga. 
+asr:0: OUTPUT 1674.47-1678.10: The question is from Marcelo Gonçalves. 
+asr:0: OUTPUT 1679.36-1689.15: He asks many questions concerning tariffs and price increases, indicators, period. 
+asr:0: OUTPUT 1689.45-1691.17: And thanks. 
+asr:0: OUTPUT 1692.05-1697.36: When we will have the terrorist structure. 
+asr:0: OUTPUT 1697.88-1700.78: Dr. Braga, please guide us. 
+asr:0: OUTPUT 1703.86-1712.25: The implementation of the new tariff structure will happen in April next year. 
+asr:0: OUTPUT 1713.13-1717.08: And will be implemented in May, will begin in May. 
+asr:0: OUTPUT 1717.54-1722.62: But I see here that there are more detailed questions. 
+asr:0: OUTPUT 1722.70-1727.59: On revenue and so forth, I will ask Osvaldo. 
+asr:0: OUTPUT 1728.25-1734.65: And Marcel to answer these questions. 
+asr:0: OUTPUT 1739.00-1743.72: Marcel, I will try to answer. Please supplement. 
+asr:0: OUTPUT 1745.05-1751.97: Concerning the revenue, we have the amount is 17.5 billion reais. 
+asr:0: OUTPUT 1754.27-1756.90: And if the best be. 
+asr:0: OUTPUT 1757.20-1763.78: Has an expectation in relation to revenue this year. What I can say today. 
+asr:0: OUTPUT 1764.22-1769.25: That it is a little below the required. 
+asr:0: OUTPUT 1769.47-1775.64: Revenue, but only at the end of December will we have the final number. 
+asr:0: OUTPUT 1775.66-1779.74: We believe it will be a little lower, but not very much lower. 
+asr:0: OUTPUT 1780.70-1783.60: Now concerning. 
+asr:0: OUTPUT 1785.09-1794.63: The period of evaluation of inflation, I'd like to say that our P0 was February 2021 and therefore. 
+asr:0: OUTPUT 1794.79-1795.90: Yes. 
+asr:0: OUTPUT 1796.42-1803.38: The way the, since the agency will treat this in March, let's see the index that will be used. 
+asr:0: OUTPUT 1803.64-1807.95: So we can adjust for inflation in the period. 
+asr:0: OUTPUT 1808.31-1812.39: This will be discussed in April and implemented as of May. 
+asr:0: OUTPUT 1814.21-1816.28: Now concerning. 
+asr:0: OUTPUT 1816.66-1825.97: Tariffs the chairman already mentioned. The new system will be implemented in May 2022. 
+asr:0: OUTPUT 1826.77-1830.31: You like to supplement myself. No? Perfect. 
+asr:0: OUTPUT 1832.15-1836.28: The next question is from Gabriel Tietjen. 
+asr:0: OUTPUT 1837.46-1842.82: How is the process concerning a possible privatization of the company? 
+asr:0: OUTPUT 1844.00-1848.35: Dr. Braga, farewell. 
+asr:0: OUTPUT 1849.57-1857.18: Always reminding you that this topic of privatization. 
+asr:0: OUTPUT 1857.80-1863.06: Is up to our controller. 
+asr:0: OUTPUT 1863.74-1868.97: It's not up to us to discuss this point. 
+asr:0: OUTPUT 1869.45-1872.99: I would like to see concerning the progress. 
+asr:0: OUTPUT 1874.41-1878.90: It is what is public, our. 
+asr:0: OUTPUT 1880.02-1882.08: Our. 
+asr:0: OUTPUT 1882.22-1886.81: The economic minister has said, everyone knows that... 
+asr:0: OUTPUT 1886.93-1893.05: The privatization committee of the government is analyzing this topic. 
+asr:0: OUTPUT 1894.45-1900.00: For the company status. 
+asr:0: OUTPUT 1900.74-1906.25: And intends to hire the IFC to prepare a study. 
+asr:0: OUTPUT 1906.75-1911.21: This is the information that is public and everyone knows. 
+asr:0: OUTPUT 1911.97-1919.26: I have no additional information apart from what we read in the press. 
+asr:0: OUTPUT 1922.38-1924.96: Well, we are. 
+asr:0: OUTPUT 1926.27-1928.43: Awaiting more questions. 
+asr:0: OUTPUT 1929.41-1939.40: For the time being we have Marcelo Gonçalves. A question from Marcelo Sandri. The question is. 
+asr:0: OUTPUT 1940.26-1946.41: Please give us an update about the investments in the new Beelzebub River. 
+asr:0: OUTPUT 1947.21-1957.10: So, please talk about the schedule, amount invested, measurement of results, and expectations involving conclusions. 
+asr:0: OUTPUT 1957.42-1965.05: Well, it is a great pleasure to answer this question. In October... 
+asr:0: OUTPUT 1965.51-1971.53: We connected 428,000. 
+asr:0: OUTPUT 1972.39-1976.54: Users of the 530. 
+asr:0: OUTPUT 1977.14-1982.46: 30,000 savings for this project, Yupiñeco River. 
+asr:0: OUTPUT 1983.18-1989.49: We sense first. 
+asr:0: OUTPUT 1990.15-1997.44: We have the concrete hope to finalize until the end of 2023. 
+asr:0: OUTPUT 1997.54-2000.92: All the 533,000. 
+asr:0: OUTPUT 2000.98-2007.81: Savings apart from the quality recovery units or streams. 
+asr:0: OUTPUT 2007.91-2015.08: That feed the Penagos River. We have five stations, total investment $1.7 billion. 
+asr:0: OUTPUT 2015.58-2017.44: We are. 
+asr:0: OUTPUT 2019.68-2021.30: Only pain. 
+asr:0: OUTPUT 2021.70-2026.89: According to results, we have 87%. 
+asr:0: OUTPUT 2026.97-2034.41: Of physical part working ready, but in terms of finance,. 
+asr:0: OUTPUT 2034.53-2035.54: Thank you. 
+asr:0: OUTPUT 2036.34-2041.76: We're close to 30, 40% in terms of payments. 
+asr:0: OUTPUT 2042.06-2047.51: Because the payment is only made when you have the results. 
+asr:0: OUTPUT 2047.95-2056.04: In terms of connections and quality of water in the streams that feed the Pinedos River. 
+asr:0: OUTPUT 2056.60-2066.45: So it's a project that is going very well, very successful, even during the pandemic. 
+asr:0: OUTPUT 2067.23-2075.82: We are going beyond the forecast, as I mentioned. 
+asr:0: OUTPUT 2076.24-2080.02: The forecast was 85%. 
+asr:0: OUTPUT 2080.32-2084.70: In October and we have 87% ready. 
+asr:0: OUTPUT 2088.83-2092.75: Okay, we have a question from Daniel Krabitsky. 
+asr:0: OUTPUT 2093.39-2099.22: And the question is, please comment on expansion plans for. 
+asr:0: OUTPUT 2100.00-2106.29: Operations, participation in auctions for sanitation and expansion to other states. 
+asr:0: OUTPUT 2106.95-2111.69: The company is very. 
+asr:0: OUTPUT 2111.79-2118.90: Connected to new businesses, expansion, Dr. Osvaldo. 
+asr:0: OUTPUT 2120.10-2122.30: And the end. 
+asr:0: OUTPUT 2122.52-2132.41: Financial department has a superintendent allocated to treat this topic of new businesses. 
+asr:0: OUTPUT 2133.29-2139.28: We are looking at this topic with great interest. 
+asr:0: OUTPUT 2140.00-2144.08: We are focusing right now. 
+asr:0: OUTPUT 2144.14-2147.49: On the universalization. 
+asr:0: OUTPUT 2147.69-2157.28: And to reach the goals that we have in our program for 2033, as I mentioned in my initial speech,. 
+asr:0: OUTPUT 2157.64-2161.22: We are observing this. 
+asr:0: OUTPUT 2162.04-2169.65: We have outside consultants for M&A to help us. 
+asr:0: OUTPUT 2170.71-2177.16: We are competing for Eurolundia. 
+asr:0: OUTPUT 2177.54-2184.16: For to take care of the city next close to Franca where we are already present. 
+asr:0: OUTPUT 2184.26-2189.57: But maybe Dr. Osvaldo can supplement with. 
+asr:0: OUTPUT 2191.15-2192.87: Some comments. 
+asr:0: OUTPUT 2193.03-2202.38: In terms of new businesses. Chairman, Mr. Chairman, supplementing this information, it's basically what you mentioned. 
+asr:0: OUTPUT 2202.70-2209.47: Our focus is in serving the 325 contracts. 
+asr:0: OUTPUT 2209.49-2213.73: Improving our economic and financial capacity and capex. 
+asr:0: OUTPUT 2214.03-2219.02: But, of course, after January 1st,. 
+asr:0: OUTPUT 2220.00-2230.29: When we have the confirmation of the financial capacity in the other companies, we expect some action. 
+asr:0: OUTPUT 2231.51-2238.00: Especially new businesses were focused in looking at the opportunities. 
+asr:0: OUTPUT 2238.04-2243.18: First, with priority to our states, Sao Paulo, and then... 
+asr:0: OUTPUT 2244.42-2254.31: Other businesses participating in auctions together or together with other companies. 
+asr:0: OUTPUT 2256.00-2264.34: We have a question from Carolyn Cabrero from Crédit Suisse. The question is,. 
+asr:0: OUTPUT 2264.66-2273.67: On the implementation of the new tool for collection that Dr. Braga mentioned. Specifically, she wants to know. 
+asr:0: OUTPUT 2273.91-2275.70: How long. 
+asr:0: OUTPUT 2276.06-2285.37: Will it take to implement this new tool and expectations to decrease PDD, which would happen in Q4. 
+asr:0: OUTPUT 2288.31-2298.28: We, the tool is already working. What we are improving are. 
+asr:0: OUTPUT 2299.32-2309.01: The better ways to collect, more modern ways to collect, which should happen in the next two, three months. 
+asr:0: OUTPUT 2309.29-2316.94: In the beginning of the year, at the beginning of the year, we will have more news about this. 
+asr:0: OUTPUT 2316.98-2321.96: Using WhatsApp, using PIX for payment. 
+asr:0: OUTPUT 2322.08-2326.41: All these modern tools for payment. 
+asr:0: OUTPUT 2326.85-2332.21: And also more effective ways to reduce delinquency. 
+asr:0: OUTPUT 2332.69-2333.81: But... 
+asr:0: OUTPUT 2335.08-2337.68: The tool is already working. 
+asr:0: OUTPUT 2337.92-2340.00: But... 
+asr:0: OUTPUT 2340.94-2348.47: These upgrades that it allows will happen in the next 3, 4, 5 months. 
+asr:0: OUTPUT 2351.91-2356.34: Thank you. Break now. 
+asr:0: OUTPUT 2357.38-2358.48: We don't have any. 
+asr:0: OUTPUT 2359.26-2360.66: New questions. 
+asr:0: OUTPUT 2362.44-2365.25: I understand. 
+asr:0: OUTPUT 2366.15-2374.29: That the system identifies whether. 
+asr:0: OUTPUT 2374.55-2380.60: These are analysts. Dr. Branga, can we open the floor to journalists? 
+asr:0: OUTPUT 2381.30-2383.66: Yet. So let's wait a little. 
+asr:0: OUTPUT 2384.94-2394.41: Let's see if we receive questions in order to clarify points. So we will wait a little. 
+asr:0: OUTPUT 2400.00-2401.68: How are you? 
+asr:0: OUTPUT 2402.46-2412.09: One point involving logistics. The only way to receive questions is through the Q&A or do we have. 
+asr:0: OUTPUT 2412.41-2420.08: Other ways to receive questions from. 
+asr:0: OUTPUT 2420.30-2421.56: Analysts and journalists. 
+asr:0: OUTPUT 2423.18-2426.63: Only through the Q&A. Questions only through the Q&A. 
+asr:0: OUTPUT 2429.61-2438.40: I didn't see Carolyn's question. Carolyn is an analyst. She had difficulty to ask her question. 
+asr:0: OUTPUT 2440.54-2450.15: Sue, she is an analyst, she has contact with the company, she sent it through WhatsApp and I read the questions. 
+asr:0: OUTPUT 2453.61-2460.22: Okay, we have more questions. Dr. Braga, Dr. Osvaldo. 
+asr:0: OUTPUT 2461.16-2462.58: The question is from... 
+asr:0: OUTPUT 2463.16-2465.89: Juliana, from the Caribbean. 
+asr:0: OUTPUT 2466.73-2473.27: How are the recent changes having an impact on the company? 
+asr:0: OUTPUT 2473.91-2482.44: How is the issue of costs? How are the costs? Very well. The question is for Dr. Osvaldo. 
+asr:0: OUTPUT 2483.80-2493.61: Okay, Mr. Chairman, well, in the macroeconomic system, we have an increase in interest rates. 
+asr:0: OUTPUT 2494.23-2502.92: This will have an impact on our costs with, because of the loans we have and our debts. 
+asr:0: OUTPUT 2503.26-2505.53: Now concerning the other... 
+asr:0: OUTPUT 2505.61-2513.27: It's a great concern of the company, this variation with higher inflation. 
+asr:0: OUTPUT 2513.53-2516.54: This has put pressure on many of our costs. 
+asr:0: OUTPUT 2517.48-2523.92: Operational cost, cost of materials, cost of electricity was. 
+asr:0: OUTPUT 2523.96-2533.47: Had a direct impact not only by inflation, but also the drought, the scarcity of water in the reservoirs. 
+asr:0: OUTPUT 2534.13-2540.00: We are looking at this very careful, that's why I mentioned this point. 
+asr:0: OUTPUT 2540.60-2546.15: But the costs are under control and within the goals that we have projected. 
+asr:0: OUTPUT 2546.99-2555.22: Pressure exists. We are working now for this pressure not to have a great effect. 
+asr:0: OUTPUT 2556.80-2560.64: Okay, I believe we have another question. 
+asr:0: OUTPUT 2562.70-2566.95: I believe was already answered. Arlan Ravagnani. 
+asr:0: OUTPUT 2568.37-2577.86: He asked whether Sabesti intends to participate in sanitation auctions. This was answered. Maybe we can have more comments. 
+asr:0: OUTPUT 2580.90-2590.15: Well, myself and Osvaldo, we answered, we're alert, we're looking at the possibilities. 
+asr:0: OUTPUT 2590.27-2593.29: We may participate. 
+asr:0: OUTPUT 2593.73-2594.73: As. 
+asr:0: OUTPUT 2594.93-2599.86: If it does not affect. 
+asr:0: OUTPUT 2600.56-2603.94: Our contracts, current contracts. 
+asr:0: OUTPUT 2605.21-2611.21: Now with the new regulations, we have an important challenge. 
+asr:0: OUTPUT 2612.95-2619.46: Mark who mentioned this possibility of new businesses, but also there are. 
+asr:0: OUTPUT 2619.66-2627.27: Serious issues because we have goals with our current contracts. 
+asr:0: OUTPUT 2627.31-2633.95: That's why we're focused on reaching the goals in our contract, but as Osvaldo mentioned,. 
+asr:0: OUTPUT 2634.85-2640.74: We are alert. We're looking at the opportunities. 
+asr:0: OUTPUT 2641.22-2649.75: If we can have important financial results enabling an acceleration. 
+asr:0: OUTPUT 2649.81-2656.26: Of the universalization in Apollo, we will consider the opportunities. 
+asr:0: OUTPUT 2656.32-2663.30: It seems that I said that we would deliver the new Beelzebub River. 
+asr:0: OUTPUT 2663.34-2665.21: At the end of 2023. 
+asr:0: OUTPUT 2665.49-2670.77: No, I did not say that. If someone understood 2023, they understood it wrongly. 
+asr:0: OUTPUT 2672.01-2678.70: 2022, next year, clean the Beagles River from our viewpoint. 
+asr:0: OUTPUT 2679.62-2685.27: Okay, Dr. Braga, next question. Marcelo Gonçalves. 
+asr:0: OUTPUT 2685.69-2688.49: Who will ask the questions about revenue. 
+asr:0: OUTPUT 2690.27-2693.69: He asks for details and clarifications. 
+asr:0: OUTPUT 2694.45-2697.12: Concerning the required. 
+asr:0: OUTPUT 2698.08-2700.86: Revenues. 
+asr:0: OUTPUT 2701.44-2706.07: Is it $17.5 billion for 2021? 
+asr:0: OUTPUT 2706.11-2711.97: And based on prices of, is this based on prices of February 2021? 
+asr:0: OUTPUT 2712.09-2714.39: Is this net revenue? 
+asr:0: OUTPUT 2714.99-2716.32: The two cases. 
+asr:0: OUTPUT 2716.42-2722.58: In the two cases, the answer is yes. 
+asr:0: OUTPUT 2727.85-2732.09: Okay. Waiting for more questions. 
+asr:0: OUTPUT 2740.80-2746.99: Reminding you that. 
+asr:0: OUTPUT 2747.87-2756.40: Those who are listening to the translation in English are invited to ask questions. You may ask questions in English too. 
+asr:0: OUTPUT 2756.76-2759.38: So please feel free to ask questions in English. 
+asr:0: OUTPUT 2761.48-2763.20: Is elevating. 
+asr:0: OUTPUT 2764.14-2766.51: You, Sebastian, in the past. 
+asr:0: OUTPUT 2767.93-2772.83: We used two of our periods. 
+asr:0: OUTPUT 2773.97-2777.70: To have the report in Portuguese and then in English. 
+asr:0: OUTPUT 2777.94-2779.82: Now with the Zoom technology. 
+asr:0: OUTPUT 2780.12-2790.03: Today we are doing at the same time the call and also the virtual meeting in English and in Portuguese. 
+asr:0: OUTPUT 2790.53-2800.00: So we are more efficient now. Yes, and this cut the cost of our. 
+asr:0: OUTPUT 2800.28-2802.06: Conference calls. 
+asr:0: OUTPUT 2805.49-2813.43: Well, let's see if we receive more questions. Yes, we have another question. Mariani Moraes. 
+asr:0: OUTPUT 2816.02-2817.30: Could you detail. 
+asr:0: OUTPUT 2818.58-2819.64: The strategy. 
+asr:0: OUTPUT 2820.30-2829.95: How the company is financed, new loans, potential buybacks. 
+asr:0: OUTPUT 2832.13-2836.92: Okay? Osvaldo, please. 
+asr:0: OUTPUT 2837.64-2846.89: This would be better answered by you because you are responsible directly, so please. 
+asr:0: OUTPUT 2848.25-2854.53: Let me answer. Mariana, Mariana, thank you. I will answer in the following way. The company. 
+asr:0: OUTPUT 2856.88-2861.78: Has an intense process of refinancing and loans. 
+asr:0: OUTPUT 2862.86-2870.09: We have tried to diversify the sources of loans apart from the debentures. 
+asr:0: OUTPUT 2871.13-2875.36: And with incentives we have sought. 
+asr:0: OUTPUT 2875.48-2881.76: Multilaterals from the private markets. We had an operation. 
+asr:0: OUTPUT 2881.90-2886.19: At the end of the year, almost a billion riyals would be the best. 
+asr:0: OUTPUT 2887.39-2891.73: In reais, not in foreign currency. Actually, this is a trend. 
+asr:0: OUTPUT 2892.35-2900.96: The company, guided by the board and the council, is trying to reduce as. 
+asr:0: OUTPUT 2901.38-2903.16: Possible, zillion. 
+asr:0: OUTPUT 2903.66-2913.43: Exchange rate exposure. So our strategy is to diversify and anticipate the loans. 
+asr:0: OUTPUT 2913.87-2915.46: Now, concerning. 
+asr:0: OUTPUT 2916.12-2919.24: Potential buybacks. We will see this when... 
+asr:0: OUTPUT 2919.64-2921.02: Opportunities arise. 
+asr:0: OUTPUT 2921.06-2926.93: But certainly the company does manage its debt. 
+asr:0: OUTPUT 2926.99-2936.64: And it can, in the future, maybe pay off the loans that are very expensive in relation to what the market is offering. 
+asr:0: OUTPUT 2937.20-2939.84: The depth we have. 
+asr:0: OUTPUT 2939.86-2947.73: Almost all of them CDI, allow us to pay off the loans in advance. 
+asr:0: OUTPUT 2947.81-2952.03: But always after a period, after the Ishmaelites. 
+asr:0: OUTPUT 2952.37-2954.25: I believe that in general terms... 
+asr:0: OUTPUT 2954.97-2961.72: This is it, reminding you that the company has access to public multilaterals. 
+asr:0: OUTPUT 2961.94-2966.03: Recently, we received approval from ConfiX. 
+asr:0: OUTPUT 2966.51-2968.51: Due for the next step. 
+asr:0: OUTPUT 2968.93-2978.16: For financing of $200 million. It will be in the end with JICA, the public bank. 
+asr:0: OUTPUT 2979.54-2986.39: That does international development from Japan, and this is also. 
+asr:0: OUTPUT 2986.61-2990.21: In our pipeline. So we have. 
+asr:0: OUTPUT 2990.67-3000.64: Many loans from the public bid and World Bank. 
+asr:0: OUTPUT 3002.20-3006.11: These may later be converted to red. 
+asr:0: OUTPUT 3006.67-3013.59: So we have a robust situation to guarantee the liquidity of the company and also guarantee. 
+asr:0: OUTPUT 3013.97-3023.64: The context of the company to reach the goals and deliver the clean Piedmont River on the date that Dr. Braga mentioned. Thank you. 
+asr:0: OUTPUT 3024.86-3033.67: Mario, it seems that Juliana Roche asked the question and Juliana Roche. 
+asr:0: OUTPUT 3043.30-3047.91: Julianna Roshna, journalist from Reed at 11.46. 
+asr:0: OUTPUT 3049.31-3055.03: I did not receive this question. I will read the question. I apologize. 
+asr:0: OUTPUT 3058.08-3065.21: Journalists from Reed Intelligence. Her question details. 
+asr:0: OUTPUT 3065.69-3067.85: About my initial comments. 
+asr:0: OUTPUT 3069.21-3077.78: Habensky does not wait to have rationing. What is the scenario for 2022? 
+asr:0: OUTPUT 3078.44-3083.48: What levels do you expect to see? 
+asr:0: OUTPUT 3084.04-3085.75: To have. 
+asr:0: OUTPUT 3085.77-3093.89: During the droughts. Well, through that, during these years, we had three actions, three movements. One,. 
+asr:0: OUTPUT 3095.28-3097.88: To increase the infrastructure. 
+asr:0: OUTPUT 3099.28-3104.60: Second, reduce losses of water. 
+asr:0: OUTPUT 3104.74-3110.65: And also to bring. 
+asr:0: OUTPUT 3110.67-3116.56: And also to have conscious consumption from consumers. 
+asr:0: OUTPUT 3117.12-3120.10: We were successful in these three. 
+asr:0: OUTPUT 3120.86-3129.45: That is why today we can say that we have no forecast for rationing of water. 
+asr:0: OUTPUT 3129.97-3135.08: We are in November. 
+asr:0: OUTPUT 3135.56-3140.98: We're expecting more rainfall this month of November. 
+asr:0: OUTPUT 3141.50-3146.61: And also during December and January, which are the rainy months. 
+asr:0: OUTPUT 3148.73-3151.05: There we are. 
+asr:0: OUTPUT 3151.33-3160.00: A difference in climate forecast between the institute's research institutes. 
+asr:0: OUTPUT 3161.10-3164.28: Some saying La Nina, others... 
+asr:0: OUTPUT 3165.77-3173.55: Do not foresee La Nina. La Nina means that we would have a dry summer. 
+asr:0: OUTPUT 3175.08-3177.48: Otherwise we would have a normal summer. 
+asr:0: OUTPUT 3178.56-3180.30: So there are uncertainties. 
+asr:0: OUTPUT 3181.30-3182.34: What. 
+asr:0: OUTPUT 3183.34-3186.85: We have in terms of expectations is the average. 
+asr:0: OUTPUT 3187.99-3194.87: What happens more frequently and therefore right now. 
+asr:0: OUTPUT 3195.80-3198.60: We are not. 
+asr:0: OUTPUT 3199.08-3201.30: We are not seeing difficulties. 
+asr:0: OUTPUT 3202.64-3208.87: Now, we will have no difficulties if we have a dry. 
+asr:0: OUTPUT 3209.75-3213.83: Summer because we have alternatives to phase. 
+asr:0: OUTPUT 3214.95-3216.68: A challenge like this one. 
+asr:0: OUTPUT 3217.28-3223.52: We have experience to use technical reserves. We already use them. 
+asr:0: OUTPUT 3223.64-3229.19: For your information, Camparira Reservoir has the technical reserves. 
+asr:0: OUTPUT 3229.55-3234.99: The size of the full reservoir of Guadalpirenga. 
+asr:0: OUTPUT 3235.60-3243.74: Which is the third largest system producing water in the metropolitan region of Sao Paulo. 
+asr:0: OUTPUT 3244.56-3253.77: We, right now, we don't see the need for rationing water. Now. 
+asr:0: OUTPUT 3253.91-3255.50: If we have. 
+asr:0: OUTPUT 3257.06-3263.14: A different situation. For example, in Srnka we did this. Why? Because there. 
+asr:0: OUTPUT 3265.29-3273.35: Next year in the first semester everything will be okay. It rained there, we have no more problems, but. 
+asr:0: OUTPUT 3274.11-3283.80: When we had a more difficult situation, it was necessary to ration the water so people. 
+asr:0: OUTPUT 3285.27-3286.73: Good field there. 
+asr:0: OUTPUT 3287.09-3294.37: Water reservoirs in their homes for their basic needs. But we don't have this. 
+asr:0: OUTPUT 3294.99-3303.38: This perspective in Sao Paulo. We don't see this as necessary in Sao Paulo. 
+asr:0: OUTPUT 3305.25-3308.59: OK now. OK now. 
+asr:0: OUTPUT 3309.39-3316.46: I received the question. Let's continue. We have no further questions. 
+asr:0: OUTPUT 3316.86-3322.78: Dr. Braga. Let's wait another three minutes to receive questions. 
+asr:0: OUTPUT 3325.91-3330.01: Do we conclude or do we wait more? Dr. Brian Gose, all due. 
+asr:0: OUTPUT 3331.87-3340.78: So let's wait another three, four minutes, and if we don't have questions, we can close the conference call. 
+asr:0: OUTPUT 3341.68-3344.40: I think six participants. 
+asr:0: OUTPUT 3345.13-3350.89: We have 106 participants in this meeting. 
+asr:0: OUTPUT 3351.27-3355.86: And certainly those who had questions have already asked their questions. 
+asr:0: OUTPUT 3356.90-3359.80: Okay. 
+asr:0: OUTPUT 3394.55-3396.68: Farewell Mario. 
+asr:0: OUTPUT 3397.60-3399.96: I believe we have no more questions. 
+asr:0: OUTPUT 3403.10-3404.44: Yes, we have a question. 
+asr:0: OUTPUT 3407.93-3409.47: Diego Nascimento. 
+asr:0: OUTPUT 3410.29-3419.96: Is asking, will you announce dividends, Dr. Roosevelt? 
+asr:0: OUTPUT 3422.48-3431.79: Well, the dividends foreseen are the minimum, and this will happen when we close our year-end reports. 
+asr:0: OUTPUT 3432.41-3435.34: We will define the company's profits. 
+asr:0: OUTPUT 3435.78-3444.56: And there is no, we don't intend to change this, 25%, which is the minimum dividend. We have. 
+asr:0: OUTPUT 3445.11-3449.41: We have a strong investment plan. 
+asr:0: OUTPUT 3450.51-3459.00: For according to the new law and we want to really bring universalization of these services to. 
+asr:0: OUTPUT 3459.52-3460.64: The State of Sao Paulo. 
+asr:0: OUTPUT 3461.02-3470.63: Dr. Branca Nosvaldo, we would like to close, so I will pass the floor to Dr. Branca for his final comments. 
+asr:0: OUTPUT 3471.59-3481.36: Well, I would like to thank all the participants. 
+asr:0: OUTPUT 3481.72-3487.93: I would like to thank our directors and our CFO. 
+asr:0: OUTPUT 3488.35-3492.95: And I'd like to see that we continue working hard. 
+asr:0: OUTPUT 3494.29-3504.22: On our challenges, especially to meet the goals and everything that is in the new law. 
+asr:0: OUTPUT 3504.48-3510.57: We will continue in reducing costs, improving efficiency. 
+asr:0: OUTPUT 3511.63-3517.14: So this is what our company intends to do in the near future. 
+asr:0: OUTPUT 3517.42-3527.67: And all those who participated may be sure that we will make our best efforts for our results to be greater. 
+asr:0: OUTPUT 3527.79-3530.45: Both financially. 
+asr:0: OUTPUT 3530.53-3538.14: In terms of the improvement of the standard of life of people that we serve,. 
+asr:0: OUTPUT 3538.34-3542.04: And we supply water and sanitation. Thank you. 
+asr:0: END

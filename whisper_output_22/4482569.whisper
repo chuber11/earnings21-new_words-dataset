@@ -1,0 +1,470 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 6.39-13.21: Ladies and gentlemen, good day and welcome to Dr. Reddy's Q3 FY22 earnings conference call. 
+asr:0: OUTPUT 14.89-23.04: As a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to ask questions after the presentation concludes. 
+asr:0: OUTPUT 23.92-31.33: Should you need assistance during the conference call, please signal an operator by pressing star, then zero on your touchtone phone. 
+asr:0: OUTPUT 32.43-34.89: Please note that this conference is being recorded. 
+asr:0: OUTPUT 36.44-39.92: I now hand the conference over to Mr. Amit Agarwal, Head of Investor Relations. 
+asr:0: OUTPUT 43.00-47.27: Thank you. A very good morning and good evening to all of you. 
+asr:0: OUTPUT 47.93-56.04: And thank you for joining us today for the Dr. Reddy's Earnings Conference Call for the quarter ended December 31st, 2021. 
+asr:0: OUTPUT 57.24-62.54: Earlier during the day, we have released our results, and the same are also posted on our website. 
+asr:0: OUTPUT 63.60-68.97: This call is being recorded and the playback and transcript will be made available on our website soon. 
+asr:0: OUTPUT 69.91-75.76: All the discussions and analysis of this call will be based on the IFRS consolidated financial statements. 
+asr:0: OUTPUT 76.76-82.88: To discuss the business performance and outlook, we have the leadership team of Dr. Reddy comprising Mr. Erez Israeli. 
+asr:0: OUTPUT 82.92-87.07: Our CEO Mr. Parag Arderwal, our CFO and the investor relations team. 
+asr:0: OUTPUT 88.01-97.54: Please note that today's call is a copyrighted material of Dr. Reddy's and cannot be rebroadcasted or attributed in press or media outlets without the company's express written consent. 
+asr:0: OUTPUT 98.38-106.51: Before I proceed with the call, I would like to remind everyone that the safe hours contained in today's press release also pertains to this conference call. 
+asr:0: OUTPUT 107.15-110.77: Now I hand over the call to Mr. Farad Darwaz. Over to you, sir. 
+asr:0: OUTPUT 111.75-115.92: Thank you Amit and greetings to everyone. Hope all of you are keeping well. 
+asr:0: OUTPUT 117.22-124.14: We had yet another quarter of good performance in terms of year-on-year growth in revenues and profit. 
+asr:0: OUTPUT 124.30-127.67: While maintaining healthy EBITDA margin and generating good cash flows. 
+asr:0: OUTPUT 128.89-132.63: Let me take you through the key financial highlights for the quarter in a bit more detail. 
+asr:0: OUTPUT 133.59-140.82: For this section, all the amounts are translated into US dollar at a convenient translation rate of rupees 74.39. 
+asr:0: OUTPUT 140.92-143.92: Which is the rate as of December 31st, 2021. 
+asr:0: OUTPUT 145.37-152.65: Consolidated revenue for the quarter stood at Rs. 5,320 crores, that is USD 715 million. 
+asr:0: OUTPUT 152.75-159.02: And grew by 8% on year-on-year basis and declined by 8% on a sequential quarter basis. 
+asr:0: OUTPUT 160.00-167.29: Year on year growth has been supported by growth across most of our businesses and was driven by good base business performance and recent launches. 
+asr:0: OUTPUT 168.39-180.94: Sequentially, however, our revenues were impacted on a higher base of Q2, which had a higher contribution from COVID-related products and recognition of outlicensing income in our proprietary products business. 
+asr:0: OUTPUT 182.48-189.31: Consolidated gross profit margin for this quarter has been at 63.8% which was flat over previous year. 
+asr:0: OUTPUT 189.33-193.37: However, the margin increased by 40 basis points on a quarter-on-quarter basis. 
+asr:0: OUTPUT 194.49-201.74: Growth margin for the global generic and PSAI were at 57.8% and 22.5% respectively for the. 
+asr:0: OUTPUT 203.10-207.05: The estimated spend for the quarter is Rs. 1,541 crores. 
+asr:0: OUTPUT 207.55-214.57: That is US$207 million, an increase of 7% year on year, and a decrease of 3% quarter on quarter. 
+asr:0: OUTPUT 215.40-224.28: The year-on-year increase is in line with our business growth and on account of continued investment in sales and marketing activities for brands in India and emerging markets. 
+asr:0: OUTPUT 225.43-232.15: And the percentage of sales, or FDMA, has been at 29%, which is lower by 20 basis points year on year. 
+asr:0: OUTPUT 233.27-241.52: The R&D expense for the quarter is Rs. 416 crores, that is US $56 million, and is at 7.8% of stake. 
+asr:0: OUTPUT 242.52-247.73: R&D spend increased by 1% year on year and declined by 7% quarter on quarter. 
+asr:0: OUTPUT 248.61-257.06: The product development activities continue normally during the quarter and we continue to build a healthy pipeline of new products across our market. 
+asr:0: OUTPUT 258.20-266.63: The EBITDA for the quarter is Rs. 1266 crores, that is USD $170 million, and the EBITDA margin is 23.8%. 
+asr:0: OUTPUT 267.49-275.50: The EBITDA margin for the nine months in this fiscal is at 24% and is closely tracking our exploration target of 25%. 
+asr:0: OUTPUT 277.44-283.76: Consequently, our profit before tax stood at Rs. 971 crores, that is US dollars on 31 million. 
+asr:0: OUTPUT 283.78-289.35: Which is a growth of 242% year on year and a decrease of 23% quarter on quarter. 
+asr:0: OUTPUT 290.23-295.82: Adjusted for the environment charges are profits grew by 10.7% over previous year. 
+asr:0: OUTPUT 296.96-304.99: Effective tax rate for the quarter has been at 27.2%. We expect our normal ETR to be in the range of 25 to 26%. 
+asr:0: OUTPUT 306.71-316.06: Profit after tax for the quarter stood at Rs.707 crores i.e. US$95 million. The total EPS for the quarter is Rs.42.48. 
+asr:0: OUTPUT 317.60-327.21: Operating working capital decreased by Rs. 512 crores, which is US $69 million, again back on September 30, 2021. 
+asr:0: OUTPUT 328.65-335.38: The decrease was primarily driven by a decrease in receivables of Rs 616 crores aided by higher collections. 
+asr:0: OUTPUT 336.60-342.00: Our capital investment during the quarter stood at Rs. 414 crores, which is $6.6 billion. 
+asr:0: OUTPUT 342.88-351.95: The free cash flow generated during this quarter was a net inflow of Rs 1,274 crores, which is US$ 171 million. 
+asr:0: OUTPUT 353.21-362.26: Consequently, we now have a net cash surplus of Rs.998 crores, that is US$134 million, as on December 31, 2021. 
+asr:0: OUTPUT 363.54-369.47: Foreign currency cash flow hedges in the form of derivatives for the US dollar are approximately US dollar 360 million. 
+asr:0: OUTPUT 370.11-376.88: Largely held around the range of Rs. 75.4 to Rs. 78.9. 
+asr:0: OUTPUT 377.84-383.52: RUBLE 5875 MILLION at the rate of 0.9909 to the RUBLE. 
+asr:0: OUTPUT 384.12-390.13: Australian dollars 2.5 million and the rate of return is 58.74 to the Australian dollars. 
+asr:0: OUTPUT 390.71-398.46: And South African grant will be 6.9 million at the rate of rupees 4.97 to South African grant, maturing in the next 12 months. 
+asr:0: OUTPUT 399.94-403.32: With this, I now request Elliot to take to the key business items. 
+asr:0: OUTPUT 404.48-411.61: Thank you, Farag. Good morning and good evening to everyone. I hope you and your family are all safe and healthy. 
+asr:0: OUTPUT 412.73-419.80: I'm pleased to share that we had a strong financial performance during the quarter without any benefit from one opt or COVID-related sales. 
+asr:0: OUTPUT 420.80-429.47: We have grown on here across our key businesses and both EBITDA and ROC margins are closer to our aspiration and target of 25% each. 
+asr:0: OUTPUT 430.11-433.07: While we continue to invest in our future growth business. 
+asr:0: OUTPUT 434.01-446.73: We have been able to achieve this despite certain industry-level headwinds, like a higher level of price erosion across the generic segment in the U.S. Market, increasing commodity prices, and higher freight costs. 
+asr:0: OUTPUT 447.61-457.34: This sustained performance shows the resilience we have been able to build with our diversified business model to mitigate such external headwinds. 
+asr:0: OUTPUT 458.62-466.95: We also generated significant cash flow during the quarter and are now having a net cash surplus. 
+asr:0: OUTPUT 466.97-469.85: Which will enable us to invest for future growth. 
+asr:0: OUTPUT 471.47-479.96: Let me take you to the key business highlights for the quarter. The reference of these numbers and these sections are in respective local currencies. 
+asr:0: OUTPUT 481.44-490.23: Our North America generic business recorded sales of $248 million for the quarter, with a year-over-year growth of 6%. 
+asr:0: OUTPUT 490.51-493.25: Or either a sequential quarter decline of 2%. 
+asr:0: OUTPUT 494.07-502.50: During the quarter, we continue to gain market share for some of our key products, including a recent launch of our cost-effective fields of gel. 
+asr:0: OUTPUT 503.32-511.27: However, the sales were impacted due to price erosion for some of our products and has been a case for the entire sector. 
+asr:0: OUTPUT 511.79-519.64: And seasonal demand variation for fuel for key products. We launched four new products in the United States during this course. 
+asr:0: OUTPUT 521.14-528.45: Our euro business recorded sales of 47 million euros and was largely flat both year over year. 
+asr:0: OUTPUT 529.73-535.68: During the quarter, we launched four new products in Germany and one product each in France and Ireland. 
+asr:0: OUTPUT 536.42-542.50: We are expecting few good launches during Q4 which should enable us to return to growth in this market. 
+asr:0: OUTPUT 543.86-553.01: Our emerging market business recorded sale of 1,154 crores rupees with a strong year-on-year growth of 20%. 
+asr:0: OUTPUT 553.47-556.34: However, the history is a sequential decline of 11%. 
+asr:0: OUTPUT 556.46-565.53: The emerging markets, the Russian business grew by 2% on a year-to-year basis and declined by 18% on a quarter-to-quarter basis in consequence. 
+asr:0: OUTPUT 566.61-570.09: Informed earlier the key to performance in Russia was very strong. 
+asr:0: OUTPUT 570.11-577.48: Which supported the seasonal demand and also by similar BEPA season numbers. 
+asr:0: OUTPUT 577.88-585.13: And the rest of the world market sales were supported by one of sales of the COVID-related products. 
+asr:0: OUTPUT 585.69-589.95: During the quarter, we launched 16 new products that cause virus in emerging markets. 
+asr:0: OUTPUT 591.41-600.62: Our India business recorded sales of 1,027 crores rupees with a year-over-year growth of 7% and sequential decline of 10%. 
+asr:0: OUTPUT 601.10-610.27: Adjusted for COVID-related portfolio sales in previous year, and the last quarter, the base business performance has been fairly strong and in line with expectations. 
+asr:0: OUTPUT 611.39-614.95: During the quarter, we launched four new products in India market. 
+asr:0: OUTPUT 615.54-620.98: As per our Cuba report of December 2021, we have grown higher than the market. 
+asr:0: OUTPUT 621.00-627.29: At 23.1% on a net basis against market growth of 18.1%. 
+asr:0: OUTPUT 628.77-637.30: Our PCI business recorded sales of 97 million with an annual growth of 2%, but the quarter declined by 14%. 
+asr:0: OUTPUT 637.74-640.64: We expect it to promise to improve in the coming quarters. 
+asr:0: OUTPUT 641.74-649.49: During the quarter, we filed 32 drug master files globally, including two filing made in the United States. 
+asr:0: OUTPUT 649.99-655.96: We have also filed 22 formulation products across global markets and one under in the United States. 
+asr:0: OUTPUT 656.62-665.13: As of December 31st, 2021, we had 1991 community filing spending for approval within the USFDA. 
+asr:0: OUTPUT 665.15-669.35: Which includes 88 andas and 3505BQ and. 
+asr:0: OUTPUT 672.57-679.56: During the quarter, we have signed a deal with Freselius for commercialization of our biosimilar epixemab in the United States. 
+asr:0: OUTPUT 680.70-690.39: We are also continuing with the global development of five to seven other biosimilar in our portfolio that are in various stages of preclinical and clinical development. 
+asr:0: OUTPUT 691.53-699.36: Earlier during the month, we have launched a new program in India, expanding our portfolio to fight against the ongoing COVID pandemic. 
+asr:0: OUTPUT 699.74-706.63: We are also working on certain export opportunities in line with the United States rights obtained from Iraq. 
+asr:0: OUTPUT 707.95-712.73: With regards to Sputnik, we are now ready with capacities in India. 
+asr:0: OUTPUT 713.19-720.70: We are working actively with the government of India to register Sputnik V as a vaccine and as a booster dose for Sputnik V. 
+asr:0: OUTPUT 721.26-727.89: We have also submitted proposal to DCGI to conduct trial to test put in place booster to other vaccines. 
+asr:0: OUTPUT 728.85-733.87: Sputnik continues to be a viable option for the Turkish, for India and other countries. 
+asr:0: OUTPUT 734.85-741.00: Consistent with our aspiration and healthy balance sheet, M&A remains an integral part of our growth strategy. 
+asr:0: OUTPUT 741.34-746.05: And therefore we are actively pursuing few deals across our focus geographies. 
+asr:0: OUTPUT 746.93-755.42: We are progressing well to strengthen the key processes in core businesses and in the digitalization journey. 
+asr:0: OUTPUT 756.04-764.38: Going forward, we are looking to double down our efforts on very critical and important areas of innovation, as well as ESG. 
+asr:0: OUTPUT 765.04-773.45: There is good progress to deliver on the short term and long term growth levels across our businesses. And we remain committed and optimistic about this. 
+asr:0: OUTPUT 774.69-780.30: I am pleased to share also the recent recognitions of our efforts toward ESG. 
+asr:0: OUTPUT 780.98-790.49: In November 2021, we are position number nine among pharma companies in the world in the Dow Jones Sustainability Index 2021. 
+asr:0: OUTPUT 791.31-798.80: During the quarters, we were also recognized by the UN WEP for gender inclusivity in the workplace. 
+asr:0: OUTPUT 799.26-804.04: Our FTO-SZP1 manufacturing plant in Vizag. 
+asr:0: OUTPUT 804.24-813.73: Was honored with the prestigious National Energy Conversation Award by the Bureau of Energy Efficiency, Ministry of Power, Government of India. 
+asr:0: OUTPUT 814.55-823.90: We have been recognized as the most innovative company for the year of 2021 at the CE2 Industrial Innovation Awards 2021. 
+asr:0: OUTPUT 825.43-830.85: Earlier this month we won a prestige Apex award, Sustainable Corporate of the Year. 
+asr:0: OUTPUT 831.05-836.10: At the 2021 Frost and Sullivan Terry Sustainability 4.0 Award. 
+asr:0: OUTPUT 837.78-845.02: As you can see, LG should continue to remain our focus area, and we are going to increase our efforts in that direction. 
+asr:0: OUTPUT 845.65-849.11: With this, I would like to open the floor for questions and answers. 
+asr:0: OUTPUT 851.05-855.90: Thank you very much, sir. Ladies and gentlemen, we will now begin the question and answer session. 
+asr:0: OUTPUT 856.90-862.34: Anyone who wishes to ask a question, may please press star, then one on the touchtone telephone. 
+asr:0: OUTPUT 863.70-867.61: If you wish to remove yourself from the question queue, you may press star, then two. 
+asr:0: OUTPUT 868.91-871.77: Participants are requested to use handsets while asking a question. 
+asr:0: OUTPUT 873.13-877.18: Anyone who wishes to ask questions, please press star, then 1. 
+asr:0: OUTPUT 885.71-889.67: Next question is from the line of Kunal Damesh from MK Global. Please go ahead. 
+asr:0: OUTPUT 892.43-902.18: And thank you for giving me the opportunity. So the first question is, on the US, you have mentioned that the price erosion has been kind of a little bit slow. 
+asr:0: OUTPUT 904.32-913.13: Of. 
+asr:0: OUTPUT 916.24-921.78: So we did see a... 
+asr:0: OUTPUT 922.80-931.37: I don't see it as a kind of a global phenomenon. It continues to be a product-based situation. 
+asr:0: OUTPUT 931.63-939.18: But in Q4, a relatively larger number of our products faced competition. 
+asr:0: OUTPUT 940.02-947.65: And investors spoke on the overall basis it's more like a double digit. 
+asr:0: OUTPUT 947.89-949.49: But despite that, we are still growing. 
+asr:0: OUTPUT 949.91-958.38: We managed to offset this erosion with new products. 
+asr:0: OUTPUT 958.52-962.48: With market share as well as with productivity activities. 
+asr:0: OUTPUT 962.58-972.11: So this is still remaining the issue and the growth of about, I think now, 9 out of 10. 
+asr:0: OUTPUT 974.83-980.34: And this will continue to be a kind of a phenomenon in the future, in which I do see. 
+asr:0: OUTPUT 982.72-984.80: The non-dramatic that we are still going to. 
+asr:0: OUTPUT 989.47-996.74: Secondly, on the COVID-related contribution across our India and emerging markets,. 
+asr:0: OUTPUT 996.90-999.64: Would that be a percentage of revenue for the first 90 days? 
+asr:0: OUTPUT 1003.08-1011.55: Primarily in the second quarter, not so much in the first quarter. So the first quarter was without a major sense of COVID. 
+asr:0: OUTPUT 1013.71-1020.70: We will see probably also more in the future. 
+asr:0: OUTPUT 1023.66-1032.91: So in this respect, the main contribution of this portfolio will be in the second as well as in the fourth. 
+asr:0: OUTPUT 1035.16-1038.58: India, there was contribution in fast water as well. 
+asr:0: OUTPUT 1040.00-1041.66: The third quarter, not so much. 
+asr:0: OUTPUT 1041.92-1048.07: Why on the sequential basis when you compare India, that's why there is a decline because. 
+asr:0: OUTPUT 1048.11-1053.81: Because it was relatively large contribution during the second quarter, but not so much in the third. 
+asr:0: OUTPUT 1054.61-1056.36: The second day, I have to remember was. 
+asr:0: OUTPUT 1056.48-1059.10: Much was affected by the. 
+asr:0: OUTPUT 1059.26-1067.35: And this one is the Omicron wave in between. Luckily there was no another wave, therefore not so much in our data. 
+asr:0: OUTPUT 1068.99-1072.15: And just on the follow up on that. 
+asr:0: OUTPUT 1073.05-1078.00: Now that we are seeing healthy COVID contribution at least for the past nine months. 
+asr:0: OUTPUT 1078.98-1087.33: Do you see that to continue in FY23 or do you see that COVID contribution would not be a big... 
+asr:0: OUTPUT 1087.53-1088.99: Part in FW3. 
+asr:0: OUTPUT 1090.67-1099.68: So we are preparing for that. We are preparing for that. So all the activities around the prevention, whether it's. 
+asr:0: OUTPUT 1100.24-1101.54: Vaccine for all that. 
+asr:0: OUTPUT 1102.62-1110.45: As well as community treatments, whether it's the products that we have like mulunokovir and additional products that we are working on. 
+asr:0: OUTPUT 1113.73-1118.34: Naturally, we don't know how this pandemic will evolve. 
+asr:0: OUTPUT 1119.82-1125.39: To predict how it's going to be, but we are prepared for that. 
+asr:0: OUTPUT 1128.11-1135.94: Okay, and in case if it doesn't pan out, do we have still have growth levers in place to grow on this way? 
+asr:0: OUTPUT 1136.96-1143.92: Absolutely. We will continue to grow in the spirit that we. 
+asr:0: OUTPUT 1144.62-1148.13: In the past, WDG brought 25, 25. 
+asr:0: OUTPUT 1148.99-1150.49: While financing the business. 
+asr:0: OUTPUT 1163.68-1167.49: The next question is from the line of Neha Manpuria from Bank of America. Please go ahead. 
+asr:0: OUTPUT 1169.39-1175.16: Thank you for taking my question. You just mentioned about double digit trials erosion in the US. 
+asr:0: OUTPUT 1175.88-1185.39: Could you give us some color on how this is trending in the quarter, given it was product-specific? Should we see this abating to more normalized price erosion? 
+asr:0: OUTPUT 1185.75-1187.15: Or any color on that. 
+asr:0: OUTPUT 1189.27-1196.12: It should be, so I believe that most of the products that face the ozone are already there. 
+asr:0: OUTPUT 1197.80-1199.98: I don't anticipate. 
+asr:0: OUTPUT 1201.72-1208.43: The business model that exists in the U.S. Will continue as it's normally done. 
+asr:0: OUTPUT 1209.11-1211.45: The business model will not change, but in terms of... 
+asr:0: OUTPUT 1212.17-1219.36: The products that were affected by that, I believe that most of the most of the effect is behind. 
+asr:0: OUTPUT 1222.70-1227.53: And just to understand, given we saw double digit price erosion in the US,. 
+asr:0: OUTPUT 1228.15-1235.18: But if you look at our generic cross margins, they seem to have improved close to about 100 basis points on quarter. 
+asr:0: OUTPUT 1236.52-1242.94: Any color rooms and you know, despite the fact that we had headwinds in terms of raw material cost, etc. 
+asr:0: OUTPUT 1243.30-1245.91: What drove this improved margin? 
+asr:0: OUTPUT 1247.81-1254.83: So it is a combination of what I discussed. 
+asr:0: OUTPUT 1255.48-1260.06: First launch of the products which changed the mix so it's improved mix. 
+asr:0: OUTPUT 1260.80-1267.51: The second is productivity activity that we are doing on cost improvement programs and others. 
+asr:0: OUTPUT 1268.57-1274.73: And sell this market share with the relevant products in which we have better productivity. 
+asr:0: OUTPUT 1276.04-1280.36: So we were preparing for this phenomenon. 
+asr:0: OUTPUT 1280.84-1287.89: And like I mentioned in my script, we are growing this part of those eggplants. 
+asr:0: OUTPUT 1291.31-1294.93: So I'm not so concerned about that going forward. 
+asr:0: OUTPUT 1297.30-1301.04: My last question is on the India business. 
+asr:0: OUTPUT 1301.78-1311.13: Since you mentioned there was no COVID product contribution, should I assume there was no contribution from or very little contribution from Sputnik 2 in the quarter? 
+asr:0: OUTPUT 1319.32-1325.03: Higher demand because it was very much affected at the time by the Delta wave. 
+asr:0: OUTPUT 1326.77-1333.11: And in this quarter, luckily, there was no such a demand in India. 
+asr:0: OUTPUT 1334.13-1340.00: So what we are going to see is the contribution in India. 
+asr:0: OUTPUT 1360.00-1368.37: Was. 
+asr:0: OUTPUT 1370.79-1372.97: As well as the other products. 
+asr:0: OUTPUT 1374.89-1378.60: Started exporting it in the current quarter or not yet? 
+asr:0: OUTPUT 1391.67-1397.90: Next question is from Damayanti Kerai from HSBC Securities and Capital Markets. 
+asr:0: OUTPUT 1402.42-1407.33: Next question is, can you share your observations on the commodity and raw material price? 
+asr:0: OUTPUT 1407.87-1414.23: Whether you have seen some kind of moderation compared to second quarter and how do you see this. 
+asr:0: OUTPUT 1414.29-1418.86: This part moving up in next few quarters. 
+asr:0: OUTPUT 1421.66-1431.19: Yes, we did see it. We saw it in three areas. Some commodity intermediates especially that are serving us in the API. 
+asr:0: OUTPUT 1432.77-1438.50: The energy cost, especially coal a few months ago, especially in India. 
+asr:0: OUTPUT 1439.50-1443.80: The third is on the freight and the shipping cost. 
+asr:0: OUTPUT 1445.71-1454.35: All of that we absorbed and are within the mountains, so we countermeasure it with other activities to offset all that. 
+asr:0: OUTPUT 1455.24-1464.04: I believe that the trend is behind us in a way that I do not anticipate additional hike in that magnitude. 
+asr:0: OUTPUT 1465.93-1472.47: Some of the prices did not go down yet to the original level, but I don't anticipate additional inflation in that magnitude. 
+asr:0: OUTPUT 1475.96-1484.16: Broadly we can assume that the peak is over and price might see, I'll say, more moderation from here on. 
+asr:0: OUTPUT 1485.93-1489.81: As much as one can predict, it looks better. 
+asr:0: OUTPUT 1491.57-1499.14: How to predict the pandemic and the geopolitical situation in the world, assuming no adverse. 
+asr:0: OUTPUT 1505.51-1507.67: The second question is, can you talk. 
+asr:0: OUTPUT 1507.95-1515.92: Bit about your biosimilar portfolio which you are working on and which are your target markets for key. 
+asr:0: OUTPUT 1520.52-1526.77: For biosimilars? Biosimilars? Yes. We are targeting globally. 
+asr:0: OUTPUT 1528.43-1530.35: We have a. 
+asr:0: OUTPUT 1531.63-1539.82: We have Retuximab, which we have now commercially with most of the emerging markets. 
+asr:0: OUTPUT 1540.64-1545.45: And the primary markets for it today is India and Russia. 
+asr:0: OUTPUT 1546.35-1549.41: And then we have a. 
+asr:0: OUTPUT 1549.61-1557.24: The B. Vasilimov and the additional four biosimilars primarily for emergency markers. 
+asr:0: OUTPUT 1558.24-1561.66: In addition to that, we are in the development. 
+asr:0: OUTPUT 1562.66-1570.39: As I shared in my script, we signed a deal for the United States and with Europe we will do it by ourselves. 
+asr:0: OUTPUT 1571.35-1577.86: So Retuximab is going to be our first global product and we have... 
+asr:0: OUTPUT 1577.88-1587.59: Right now, additional three products in clinical trials, as well as additional products that are in the preclinical stage. 
+asr:0: OUTPUT 1588.65-1593.59: Overall, it's a healthy portfolio. 
+asr:0: OUTPUT 1594.95-1595.96: And just get covered. 
+asr:0: OUTPUT 1596.00-1605.73: Us very nicely from about 2024 until 2031, 2032, in which we will launch all of these products. 
+asr:0: OUTPUT 1607.73-1613.63: My last question is, have you heard any update on your Dubai front from the USFQ? 
+asr:0: OUTPUT 1615.70-1624.14: We did not receive any feedback from the USFDA as of today. 
+asr:0: OUTPUT 1625.49-1630.07: Normally it takes 90 days, 90 days are due sometimes next week. 
+asr:0: OUTPUT 1630.65-1636.32: So we need to around that date we'll probably get a bit better. 
+asr:0: OUTPUT 1638.02-1644.78: We had the two milestones to submit certain data as far as scope of our commitment. 
+asr:0: OUTPUT 1644.80-1649.11: To the response to the USFDA of the 842 that we got. 
+asr:0: OUTPUT 1649.17-1651.37: And we submitted it on time and in full. 
+asr:0: OUTPUT 1652.51-1657.90: And we are awaiting the feedback and hopefully to get an EIR for this. 
+asr:0: OUTPUT 1661.42-1670.85: Thank you. I'll get back in touch. Thank you. The next question is from the line of Ashwini Agarwal from Akash Ganga Investments. Please go ahead. 
+asr:0: OUTPUT 1678.42-1688.33: Q3 FY20. 
+asr:0: OUTPUT 1688.77-1693.81: Can you just update me the status for like what is the right now current situation on that part? 
+asr:0: OUTPUT 1696.48-1700.66: I am sorry we could not get your question. Can you please repeat? 
+asr:0: OUTPUT 1701.16-1709.45: So the question is on with the pad filled grass chain, which we have the pre-filled syringe. 
+asr:0: OUTPUT 1709.71-1713.87: Which we have been, we'll be launching in Q3 FY22. 
+asr:0: OUTPUT 1714.25-1716.80: So can you just update me with the status right now? 
+asr:0: OUTPUT 1718.74-1720.18: So, uh. 
+asr:0: OUTPUT 1720.92-1723.20: Currently it is with Presidium. 
+asr:0: OUTPUT 1723.64-1724.64: Uh,. 
+asr:0: OUTPUT 1724.70-1733.89: For the US and Europe part, we have a deal with Presenius and basically they have guided for calendar 2022. 
+asr:0: OUTPUT 1733.97-1737.48: Launch. So as of now, that's the status. 
+asr:0: OUTPUT 1740.22-1745.61: And my second question would be a bit odd, but actually I wanted to understand on that part. 
+asr:0: OUTPUT 1745.75-1755.66: Whenever we launch the product, what is the average duration at which we can command the premiumization compared to when the. 
+asr:0: OUTPUT 1755.70-1759.34: It becomes a, you can say a normal or a price in product. 
+asr:0: OUTPUT 1763.12-1770.11: I don't think we will be able to comment on that part. 
+asr:0: OUTPUT 1772.23-1778.10: Thank you. 
+asr:0: OUTPUT 1780.04-1787.03: For this opportunity. So just on the pricing situation in the US, what you mentioned,. 
+asr:0: OUTPUT 1788.01-1794.83: Is it largely to doctorately specific that double digit kind of price erosion situation? 
+asr:0: OUTPUT 1795.78-1800.88: And possibly could be because of more number of para 3 launches by you. 
+asr:0: OUTPUT 1801.24-1807.97: Is that the situation or it is broad-based, double-digit kind of price erosion that you have been paying for in the US? 
+asr:0: OUTPUT 1810.15-1819.84: It's the business model in the United States, so naturally every company is facing price erosion. I think the proportion of the price erosion. 
+asr:0: OUTPUT 1821.00-1822.32: It's very nice place. 
+asr:0: OUTPUT 1822.34-1825.67: How many of your products. 
+asr:0: OUTPUT 1825.69-1835.24: Are facing the situation and what is the timing in which the customers are issuing their RFP. 
+asr:0: OUTPUT 1835.26-1836.30: Peace. 
+asr:0: OUTPUT 1836.76-1841.10: So in our case, we have a very good example. 
+asr:0: OUTPUT 1843.00-1849.67: We had, as we launched, let's say in the last three years, about 80 products in the United States. 
+asr:0: OUTPUT 1850.41-1853.37: By design will face competition. 
+asr:0: OUTPUT 1854.15-1857.66: They are larger in proportion out of the entire basket. 
+asr:0: OUTPUT 1860.12-1870.07: That's what percentage per se is less for me at least indicator of the health of the business. 
+asr:0: OUTPUT 1870.31-1875.08: The health of the business, the way I dictate it is growth and EBITDA and ROCE. 
+asr:0: OUTPUT 1875.66-1880.00: So far it's pretty healthy and we are maintaining the mountains and even. 
+asr:0: OUTPUT 1886.51-1895.06: The second point is on the US has so far been the dominant revenue contributor and earning contributor for RBI. 
+asr:0: OUTPUT 1896.02-1903.86: In the recent times, we have obviously thought about diversifying our focus towards emerging markets, new markets like China and all. 
+asr:0: OUTPUT 1904.82-1911.73: And also accordingly reducing the R&D spend focus targeted for the US market. 
+asr:0: OUTPUT 1912.83-1917.22: Let's say five years down the line, is it fair to believe that the same. 
+asr:0: OUTPUT 1917.38-1923.16: Of North America, the future of North America will be meaningfully different than what currently it is. 
+asr:0: OUTPUT 1925.69-1929.09: Did you describe their strategy for the last four years? 
+asr:0: OUTPUT 1930.59-1940.20: So we are investing in other markets for growth, both India and emerging markets, and this is providing us. 
+asr:0: OUTPUT 1941.20-1949.35: By using the same fixed assets, based on the portfolio of assets. 
+asr:0: OUTPUT 1950.43-1955.54: Knowledge, etc. So this is allowing us more growth, more opportunity, and with less risk. 
+asr:0: OUTPUT 1956.58-1960.62: And yes, I think it's fair to say that these markets will grow faster than US. 
+asr:0: OUTPUT 1961.30-1970.05: So the United States will continue to be an important market for us. I just want to emphasize on it. And we will continue to invest and grow in the United States. 
+asr:0: OUTPUT 1972.25-1982.02: The other markets, emerging market and here we go faster than the United States. So therefore, then the average weight in the United States will decrease, is decreasing already. 
+asr:0: OUTPUT 1982.60-1985.17: And would decrease over time. 
+asr:0: OUTPUT 1986.51-1991.95: And the capital allocation is done accordingly to the diversification effort. 
+asr:0: OUTPUT 1993.75-1997.82: Just last one question sir on this generic rev limit. 
+asr:0: OUTPUT 1998.54-2005.55: So whether we are seeing, we have already launched the product in Canada. 
+asr:0: OUTPUT 2005.69-2009.63: And that is also a kind of influence in science market for this product. 
+asr:0: OUTPUT 2010.15-2013.79: So whether we have seen the approach. 
+asr:0: OUTPUT 2013.83-2022.28: Of the product could have generated out of Canada market. 
+asr:0: OUTPUT 2022.36-2032.49: Whether we have achieved the right size revenue out of it as of yet or we'll take longer time to achieve the peak potential out of the market. 
+asr:0: OUTPUT 2032.53-2034.11: From destiny. 
+asr:0: OUTPUT 2035.40-2041.34: In Canada it will take a bit longer because in the way that the. 
+asr:0: OUTPUT 2041.88-2049.55: The Canadian process is working to make it registered in each one of the relevant provinces in Canada. 
+asr:0: OUTPUT 2050.27-2054.07: And then for each one of them to participate in the relevant... 
+asr:0: OUTPUT 2054.47-2060.38: Process, whether tenders or other mechanisms in which each one of the states is providing. 
+asr:0: OUTPUT 2061.60-2070.43: The process is taking a bit longer. It's not the day one launch that you see in the United States. 
+asr:0: OUTPUT 2071.73-2072.79: In any case... 
+asr:0: OUTPUT 2072.99-2074.07: Thank you. 
+asr:0: OUTPUT 2074.09-2083.54: The launch in the US and the launch in Canada are unrelated, as the launch in the US is part of the settlement deal, while in Canada it is naturally. 
+asr:0: OUTPUT 2083.56-2085.59: Free market situation. 
+asr:0: OUTPUT 2086.89-2096.32: I would not draw any conclusion from one market to another. 
+asr:0: OUTPUT 2097.00-2104.88: Last but not least, we are going to launch this product not just in Canada and the United States, we are going to launch it also in Europe as well as in some energy markets. 
+asr:0: OUTPUT 2105.85-2111.25: This is going to be a real bad product for us. Sure, sir. OK, thank you. 
+asr:0: OUTPUT 2116.72-2122.20: The next question is from the line of Sameer Baisiwala from Morgan Stanley. 
+asr:0: OUTPUT 2123.84-2131.31: I thank you very much and good evening to everyone. So the first question is for Aiko Sapin, which is a Vassar in the US. 
+asr:0: OUTPUT 2132.25-2140.40: So good job done on the market share gain. I think it's now stabilizing around 11, 12 percent for last few weeks. You know. 
+asr:0: OUTPUT 2140.78-2148.77: So have we reached the peak or what's the outlook over here? And is it a supply that is holding you back? 
+asr:0: OUTPUT 2151.71-2154.35: We, I think we, um... 
+asr:0: OUTPUT 2156.70-2164.32: I think that the product is doing well and we are planning to continue to do well also in the next quarters to come. 
+asr:0: OUTPUT 2167.27-2175.18: There is still a lot of market to gain with this product as the innovators are still holding. 
+asr:0: OUTPUT 2177.80-2182.14: And in terms of supply, it is not constraining us. 
+asr:0: OUTPUT 2185.71-2195.16: So then why is the market share in early double digit and not much higher if supply is not holding you back? So what's the roadblock? 
+asr:0: OUTPUT 2198.38-2203.92: The third block is the desire of customers to take the product from you. 
+asr:0: OUTPUT 2207.51-2214.31: OK, but that's a little counterintuitive because generic is a lower cost, lower priced. 
+asr:0: OUTPUT 2214.83-2218.68: So most of the time customers are too happy to take generic products. 
+asr:0: OUTPUT 2219.26-2222.18: Is there anything difficult over here? No, nothing. 
+asr:0: OUTPUT 2225.93-2227.47: Okay, okay, that's fine. 
+asr:0: OUTPUT 2228.33-2235.96: The second question is on the Russia-Ukraine business. Given the geopolitical situation,. 
+asr:0: OUTPUT 2237.16-2245.91: You know, what's your read of the situation? Have you seen any disruption or any problem in a business that you are doing over there? 
+asr:0: OUTPUT 2247.71-2250.27: Ukraine-Russia situation is beyond my patience. 
+asr:0: OUTPUT 2256.36-2260.00: We are, we both. 
+asr:0: OUTPUT 2262.48-2268.65: Will continue to be a very important market for us and under a mixed. 
+asr:0: OUTPUT 2269.09-2278.22: Hopefully not, I wish not, but if there will be any adverse events we'll have to accordingly prepare for it. 
+asr:0: OUTPUT 2280.00-2283.88: But I wish that it will be only peace in the world and calmness. 
+asr:0: OUTPUT 2286.53-2293.95: So far, have you seen any impact on the business? No. No. No. 
+asr:0: OUTPUT 2298.34-2304.26: Okay, great. So one final question, if I may, which is on your health tech platform. 
+asr:0: OUTPUT 2306.15-2309.73: Is there any update over here? How has been the progress? 
+asr:0: OUTPUT 2310.35-2320.08: Anything you can share on the physical infrastructure that you have built, especially for online pharmacy fulfillment and diagnostic sites? 
+asr:0: OUTPUT 2320.62-2325.73: And how many cities have you rolled out? What's the plan going forward for next, you know? 
+asr:0: OUTPUT 2325.75-2327.03: For six quarters. 
+asr:0: OUTPUT 2328.33-2336.50: So it is going very nicely. We're basically in the last stages of finishing the pilot. 
+asr:0: OUTPUT 2337.84-2345.17: We are now present in five cities, going to ten cities in the next few weeks. 
+asr:0: OUTPUT 2346.13-2353.85: And this will cover, of course, the main cities of India, including Mumbai and Delhi. 
+asr:0: OUTPUT 2355.40-2364.40: And accordingly, it will be the rollout of the companies that will join this platform. 
+asr:0: OUTPUT 2365.05-2369.77: Our main way to grow this business is by convincing. 
+asr:0: OUTPUT 2369.83-2377.66: Companies to work with us and give treatment to their employees and basically insured by our insurance in this product. 
+asr:0: OUTPUT 2378.74-2384.60: And of course, rolling out a good service by... 
+asr:0: OUTPUT 2384.64-2388.91: Physicians as well as the other vendors to provide excellent service. 
+asr:0: OUTPUT 2391.39-2400.00: This is a very, very neat project and I'm very proud of the beginning and believe in it very much. It's a good thing. 
+asr:0: OUTPUT 2400.48-2404.99: For us and I believe it's a very good thing for India. 
+asr:0: OUTPUT 2408.19-2409.83: Okay, great. Thank you so much. 
+asr:0: OUTPUT 2412.87-2420.00: Thank you. 
+asr:0: OUTPUT 2421.80-2424.28: Hi, good evening and thank you for taking my question. 
+asr:0: OUTPUT 2424.62-2433.97: Just the first one is on the PSAI business. In your opening remarks, Rachel had mentioned we expect performance to improve quarter on quarter. 
+asr:0: OUTPUT 2434.95-2437.32: You know, what's driving that optimism? 
+asr:0: OUTPUT 2438.14-2445.49: Remember last quarter we had the issue of inventory destock from some of our customers. So just can you help us understand the dynamics in the PSAI business? 
+asr:0: OUTPUT 2446.95-2455.52: Sure. So if we are taking out the, let's call it COVID-related behavior by. 
+asr:0: OUTPUT 2455.54-2459.48: By companies and take the business based on its consumption. 
+asr:0: OUTPUT 2462.26-2470.35: The main driver of growth will be the launches that will be in the marketplace of FOS-23. 
+asr:0: OUTPUT 2470.49-2476.78: 24 and 25 by the customers bought by internal users as well as external users. 
+asr:0: OUTPUT 2477.68-2478.80: Nicholas. 
+asr:0: OUTPUT 2479.06-2484.88: The Pareto, meaning the top products that used to drive this, are going to be changed. 
+asr:0: OUTPUT 2485.77-2495.30: By products that will be launched in that area, which will be one more profitable and second, bigger in their size. 
+asr:0: OUTPUT 2496.00-2499.24: This will drive the work on the base API. 
+asr:0: OUTPUT 2501.12-2507.31: PCI is comprised also of CDMO activities that are slightly picking up. 
+asr:0: OUTPUT 2508.11-2512.89: And we very much believe in it. So most of the ceiling that is done now. 
+asr:0: OUTPUT 2513.51-2518.60: With small projects which are in phase one and early phase two. 
+asr:0: OUTPUT 2518.90-2526.03: Make sure some of these products will come to phase 3 and beyond that and of course, share with us your Google Slides. 
+asr:0: OUTPUT 2526.05-2528.75: The CDMO. 
+asr:0: OUTPUT 2528.77-2538.68: Of the business, which is, as I discussed in the past part of our Y2 activities, it's seeding and picking up. 
+asr:0: OUTPUT 2539.68-2551.23: The third is we are selling B2B in the PCI and speaking up with launches of pharmaceutical products that we are serving. 
+asr:0: OUTPUT 2551.45-2556.08: In Japan, as well as in some Middle Eastern and African countries. 
+asr:0: OUTPUT 2556.90-2563.36: So the combination of the three should grow PCR in the future. Got it. That's very helpful. 
+asr:0: OUTPUT 2564.38-2572.71: Is it early days, can you quantify some of the non API sections in the PSA? See, they know the projects that you're talking about. 
+asr:0: OUTPUT 2574.19-2581.54: At this stage, the two sections are not big. We are not going to give you a specific proportion. 
+asr:0: OUTPUT 2582.18-2583.44: But they've got enough peep. 
+asr:0: OUTPUT 2583.96-2592.21: But there will be more and more meaningful. 
+asr:0: OUTPUT 2593.23-2599.54: Most of the PCR comprises of the API process cells. 
+asr:0: OUTPUT 2600.20-2603.10: And in the case of Q2,. 
+asr:0: OUTPUT 2603.16-2606.13: It was a comparison of some COVID cells as well. 
+asr:0: OUTPUT 2606.39-2613.39: So, which was not the rate depth magnitude in Q2. So some of the sequential... 
+asr:0: OUTPUT 2613.43-2617.72: A trend is related to COVID. 
+asr:0: OUTPUT 2618.32-2622.72: Second question is on the Sputnik. I missed some of the early comments. 
+asr:0: OUTPUT 2623.10-2626.97: You said we are actively looking to register Sputnik Lite as a booster. 
+asr:0: OUTPUT 2627.75-2634.39: And the trial, we are doing it as just to, what's the reason for doing the trial with other vaccines? 
+asr:0: OUTPUT 2637.34-2639.90: We will. 
+asr:0: OUTPUT 2641.12-2648.75: We have to get approval from the authorities here in India for the protocol of the trial. 
+asr:0: OUTPUT 2649.57-2659.22: And based on that, pending that approval of that protocol, we will have a trial with other vaccines. So it will serve as another option. 
+asr:0: OUTPUT 2660.30-2664.20: Both private as well as the government for a booster in the future. 
+asr:0: OUTPUT 2665.25-2672.07: We believe that the Bush Terrence will be part of our life and we'll have to take it one or twice a year now. 
+asr:0: OUTPUT 2673.03-2676.30: And we believe that we want to be ready for them. 
+asr:0: OUTPUT 2679.02-2680.98: Got it. Helpful. Last question. 
+asr:0: OUTPUT 2681.54-2684.30: I have an opening remarks here now net cash. 
+asr:0: OUTPUT 2684.78-2693.11: MNA, can you just help us understand what those therapy areas are or is there a geographical splice as well? 
+asr:0: OUTPUT 2693.41-2698.04: Which are some of the assets or products that you will be looking to acquire. 
+asr:0: OUTPUT 2700.02-2704.90: So we are looking for opportunities in all of our spaces, all the geographies. 
+asr:0: OUTPUT 2706.03-2713.81: India, naturally, as well as emerging markets, United States and Europe, in all of those geographies,. 
+asr:0: OUTPUT 2713.85-2716.04: There are now Arctic projects. 
+asr:0: OUTPUT 2717.26-2723.42: Some of them can be faster within the next few weeks, if of course we'll be concluded. 
+asr:0: OUTPUT 2724.34-2725.49: And some of them may be later. 
+asr:0: OUTPUT 2731.17-2736.36: The nature of the capital location will be the same as we discussed in the past. We are not in the shopping street. 
+asr:0: OUTPUT 2737.42-2740.62: We see it as complementary to our organic growth. 
+asr:0: OUTPUT 2742.46-2750.61: At the same time, because we have a very comfortable financial situation, we are planning to use. 
+asr:0: OUTPUT 2750.81-2757.60: So now let's see which of the projects will be actually eventually come to conclusion. 
+asr:0: OUTPUT 2758.28-2764.08: But likely that we will see multiple dreams in the next summer. 
+asr:0: OUTPUT 2766.13-2767.95: Thank you so much, Erez, and all the best. 
+asr:0: OUTPUT 2772.17-2776.64: The next question is from the line of Aashiq Stavkar from Motila Loswala Set Management. Please go ahead. 
+asr:0: OUTPUT 2778.46-2785.15: Thanks for the opportunity. So on the Sputnik, you said, obviously, we have got permission from the government to export. 
+asr:0: OUTPUT 2786.25-2792.89: Can you quantify the doses that we are planning to export or we are open to export any amount or there is a restriction? 
+asr:0: OUTPUT 2797.66-2805.71: But there are no restrictions that prevent us. 
+asr:0: OUTPUT 2809.77-2818.84: The. 
+asr:0: OUTPUT 2819.36-2829.29: It depends on the type of the product that we left for the product. For example, if a Sputnik light will be approved eventually. 
+asr:0: OUTPUT 2829.85-2837.28: As a vaccine and subsequently as a booster for other products. 
+asr:0: OUTPUT 2837.50-2842.12: And we'll obtain WHO, if all of this will happen. 
+asr:0: OUTPUT 2842.44-2844.60: It can create a nice opportunity. 
+asr:0: OUTPUT 2845.53-2853.57: And of course, the quantities will be accordingly. So it depends, of course, on the type of approval that is relevant for this market at this particular time. 
+asr:0: OUTPUT 2857.34-2863.84: Get this thing clear, you cannot export till you get some sort of approvals from various. 
+asr:0: OUTPUT 2864.36-2865.51: Is that a right understanding? 
+asr:0: OUTPUT 2866.95-2869.59: We can export. 
+asr:0: OUTPUT 2869.93-2871.19: Expo. 
+asr:0: OUTPUT 2871.29-2878.52: Export is we can export but naturally our customers will not buy the product that. 
+asr:0: OUTPUT 2878.60-2882.90: Is not approved for use in the relevant markets. 
+asr:0: OUTPUT 2883.12-2885.57: And for the relevant patients that are going to use it. 
+asr:0: OUTPUT 2887.41-2894.41: It has to be approved in that specific country for the use either as a vaccine or as a booster. 
+asr:0: OUTPUT 2895.80-2900.08: This is where the, from there we'll derive the quantities. 
+asr:0: OUTPUT 2902.68-2907.53: But as you understand, this product is approved from most of the Scandinavian countries. 
+asr:0: OUTPUT 2908.11-2909.45: So how about that? 
+asr:0: OUTPUT 2910.93-2918.54: This is not a part of our agreement with the Russians. So this will come directly from Russia, not from us, to this type of matter. 
+asr:0: OUTPUT 2921.18-2922.28: Okay, yeah, got that. 
+asr:0: OUTPUT 2922.94-2929.09: So next question was on this spectral graph team. So all your participants asked this, but I missed it. 
+asr:0: OUTPUT 2929.61-2933.15: We were supposed to launch in quarter three, right? Through FascinatesCADDY. 
+asr:0: OUTPUT 2933.89-2938.78: So we have launched a product or there's a delay and if the delay is there, why so? 
+asr:0: OUTPUT 2956.16-2961.80: Of my. 
+asr:0: OUTPUT 2964.99-2969.33: Launch? No, they have not specified the quantity. 
+asr:0: OUTPUT 2969.93-2977.38: But maybe next one or two quarters it may happen, but obviously we don't know. 
+asr:0: OUTPUT 2981.10-2984.68: Okay, fair enough. So this last question on this price erosion in the US. 
+asr:0: OUTPUT 2985.37-2989.63: It's been quite a while since we have facing double digit price erosion. 
+asr:0: OUTPUT 2990.07-2992.85: But as the investors understood,. 
+asr:0: OUTPUT 2992.93-3001.60: We felt that by the end of March, the intensity of the price erosion should gradually start coming off. 
+asr:0: OUTPUT 3001.90-3004.28: And what do you see in the market? 
+asr:0: OUTPUT 3004.66-3009.69: Would you also say that price erosion intensity would eventually come off by end of March? 
+asr:0: OUTPUT 3012.85-3017.66: Mentioned before, it's price erosion and the magnitude of price erosion. 
+asr:0: OUTPUT 3017.74-3026.63: Is not top-down, it's bottom-up, meaning it depends on the product that is facing that specific competition. 
+asr:0: OUTPUT 3027.71-3030.79: And in our case, most of our portfolio is face-to-face. 
+asr:0: OUTPUT 3031.53-3040.44: So likely, we are not going to see another round for these specific products and hence, we will probably cut. 
+asr:0: OUTPUT 3040.48-3046.39: So it's not a top-down, it's a bottom-up. 
+asr:0: OUTPUT 3046.55-3050.53: This remote. 
+asr:0: OUTPUT 3050.73-3052.27: This level of force. 
+asr:0: OUTPUT 3064.54-3073.09: Mr. Thavkar, do you have any further questions? Mr. Thavkar can't hear you. Please unmute your line and respond. 
+asr:0: OUTPUT 3083.30-3088.69: Once we take the next question from the line of Srikanth Akolkar from Asian Market Securities, please go ahead. 
+asr:0: OUTPUT 3098.12-3099.94: On the Kolkar, your line is unmuted. 
+asr:0: OUTPUT 3129.99-3131.45: One, it's. 
+asr:0: OUTPUT 3135.08-3141.10: Q. How do you see the future of the Indian Army? 
+asr:0: OUTPUT 3144.34-3145.47: For the opportunity again. 
+asr:0: OUTPUT 3146.05-3147.55: So on the actual graph screen. 
+asr:0: OUTPUT 3148.25-3152.79: We are seeing that the launch can happen in the next one or two quarters. 
+asr:0: OUTPUT 3153.09-3159.40: Be supplied any initial inventory to Fresenius Kabi or it will happen once the. 
+asr:0: OUTPUT 3159.42-3161.06: I'll be up to work on it at home. 
+asr:0: OUTPUT 3162.04-3165.01: And I assume that it will also take time, right? It's already not. 
+asr:0: OUTPUT 3167.07-3174.67: So just to, for instance, as part of the deal, all the rights, all the activities,. 
+asr:0: OUTPUT 3180.20-3181.66: And therefore. 
+asr:0: OUTPUT 3182.84-3185.13: We are just ahead of the curve. 
+asr:0: OUTPUT 3185.17-3193.77: Arrangement with those enlists. Once they will go, we will enjoy an extreme of value that will come from their lunch. 
+asr:0: OUTPUT 3194.47-3204.38: We are not supplying and not involved in the launch, and we are not aware of the date. And we are going to be advised by them when they will decide to do that. 
+asr:0: OUTPUT 3206.73-3207.93: Okay, sure. Thank you. 
+asr:0: OUTPUT 3218.42-3223.96: Yeah, thanks for the follow up. I hope my voice is audible. There seems to be some disruption. 
+asr:0: OUTPUT 3224.54-3230.47: So just one final question. How are you thinking about your injectable portfolio for the US market? 
+asr:0: OUTPUT 3231.97-3235.28: As in how many, you know, and has it been filed? 
+asr:0: OUTPUT 3235.32-3243.86: And are there any complex, you know, long acting type, you know, microscope type of product peptide products that you've done the filing? 
+asr:0: OUTPUT 3245.21-3249.25: And when can we start to see the approval cycle begin for these? 
+asr:0: OUTPUT 3252.07-3256.54: So it's naturally very important to us, not just in the US, but also globally. 
+asr:0: OUTPUT 3259.86-3268.99: And the answer is yes, we do have this complex generic asset as part of that effort. 
+asr:0: OUTPUT 3269.55-3273.27: Some of it took a long time to develop. 
+asr:0: OUTPUT 3273.97-3280.08: We are still in development. 
+asr:0: OUTPUT 3280.26-3286.47: To. 
+asr:0: OUTPUT 3293.23-3294.79: Find some of these high value. 
+asr:0: OUTPUT 3298.74-3299.98: We did file some. 
+asr:0: OUTPUT 3309.29-3319.00: Product? Some of these products are coming from Dubai. No, no sir, the question is,. 
+asr:0: OUTPUT 3320.00-3328.39: Pre-approval inspection done by FDA, was it related to one such you know complex large injectable product? 
+asr:0: OUTPUT 3330.15-3340.00: The PII was not related to specific products like that, but naturally when you have a PII, they are not checking only the specific products. 
+asr:0: OUTPUT 3343.10-3345.61: Okay, got it, got it. Thank you so much. 
+asr:0: OUTPUT 3346.93-3353.63: Thank you. Ladies and gentlemen, we take the last question from the line of Alok Dalal from CLSA. Please go ahead. 
+asr:0: OUTPUT 3357.04-3360.26: Please. 
+asr:0: OUTPUT 3360.32-3367.43: You. 
+asr:0: OUTPUT 3369.93-3378.76: First we hope not to have this adverse effect and... 
+asr:0: OUTPUT 3379.72-3384.34: And second, we are not looking for scenarios that we don't have the site. 
+asr:0: OUTPUT 3385.59-3390.87: But these sites are very, very important for the growth in the United States, not just next year, but also in the years to come. 
+asr:0: OUTPUT 3394.47-3400.08: Any update on Neewarring internally? Have you decided to go ahead with the launch or drop it? 
+asr:0: OUTPUT 3401.72-3407.35: We did not finish all the evaluations, but unlikely that you'll see launch in the next few months. 
+asr:0: OUTPUT 3409.19-3412.61: And lastly, any update on Copaxone? 
+asr:0: OUTPUT 3414.47-3418.62: It's still in process. It's now in the FDA court. 
+asr:0: OUTPUT 3419.66-3429.61: The goal is in their court, meaning that we submitted all the relevant information and we are waiting for the response. 
+asr:0: OUTPUT 3429.89-3438.60: I believe that at least I don't think likely to see a launch in the next few months. 
+asr:0: OUTPUT 3441.72-3443.02: Thank you very much for taking my call. 
+asr:0: OUTPUT 3445.31-3452.67: Thank you. Ladies and gentlemen, that was the last question. I now hand the conference over to the management for closing comments. 
+asr:0: OUTPUT 3464.28-3473.73: Thank you very much, sir. Ladies and gentlemen, on behalf of Dr. Reddy's, that concludes this conference. We thank you all for joining us, and you may now disconnect your lines. 
+asr:0: END

@@ -1,0 +1,756 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.06-4.40: Good morning and good evening. 
+asr:0: OUTPUT 4.62-14.17: Thank you all for joining this conference call. And now we will begin the conference on the fiscal year 2021 first quarter earnings results by Samsung Electronics. 
+asr:0: OUTPUT 14.77-19.40: With this conference, we'll start with the presentation followed by a divisional Q&A session. 
+asr:0: OUTPUT 19.88-29.85: If you have a question, please press start 1, that is, start N1 on your phone during the Q&A. For cancellation, please press start 2, that is, start N2 on your phone. 
+asr:0: OUTPUT 30.39-37.70: Now we shall commence the presentation on the FESCO Year 2021 4th Quarter Earnings Results by Samsung Electronics. 
+asr:0: OUTPUT 40.22-47.71: Welcome everyone. This is Ben Seow from Investor Relations. Thank you for joining our fourth quarter 2021 earnings call. 
+asr:0: OUTPUT 49.01-51.91: For additional details regarding our quarterly results,. 
+asr:0: OUTPUT 51.93-61.70: Please refer to our earnings presentation which is available on our IR website at www.samsung.com. 
+asr:0: OUTPUT 63.70-73.25: On the call with me today representing each of our business units are EVP Hanjin Man representing Memory, VP Kenny Han for SystemOSI,. 
+asr:0: OUTPUT 74.15-79.14: EVP Kang Moon Soo for Foundry EVP Choi Kwon Young for Samsung Display. 
+asr:0: OUTPUT 80.20-88.83: VP Kim Sung-gu for Mobile Experience or MX, which is a previous mobile division, and VP ST Chung for Digital Appliances. 
+asr:0: OUTPUT 91.15-95.28: I would like to remind you that some of the statements we will be making today are forward-looking. 
+asr:0: OUTPUT 95.94-98.14: Based on the environment as we currently see it. 
+asr:0: OUTPUT 98.68-107.89: And all such statements are subject to certain risks and uncertainties that may cause our actual results to be materially different from those expressed in today's discussion. 
+asr:0: OUTPUT 109.71-115.90: Also, please note that last December we merged the IM and CE divisions to form the DX division. 
+asr:0: OUTPUT 116.82-119.62: However, as this was just announced in December. 
+asr:0: OUTPUT 119.64-124.22: We have maintained the IM and CE distinction in our earnings call materials. 
+asr:0: OUTPUT 124.24-129.93: As well as in portions of this presentation for consistency with our Q1 to Q3 results. 
+asr:0: OUTPUT 132.29-136.18: With that, I would first like to present the results for the fourth quarter. 
+asr:0: OUTPUT 137.88-146.87: I'm pleased to report that we once again delivered record results by leveraging our differentiated products and technology leadership despite the challenging macro environment. 
+asr:0: OUTPUT 148.27-155.46: Total revenue in the fourth quarter grew 3.5% sequentially to $76.6 trillion won. 
+asr:0: OUTPUT 155.48-161.36: Setting a consecutive all-time quarterly high, driven mainly by our Finnish product businesses. 
+asr:0: OUTPUT 162.68-170.99: We expanded sales of premium smartphones, including photoables, as well as TVs and home appliances amid year-end peak seasonality. 
+asr:0: OUTPUT 173.05-179.38: We set records for total revenue in a respective quarter for each quarter in 2021. 
+asr:0: OUTPUT 179.40-183.52: Resulting in a record annual revenue of 280 trillion won. 
+asr:0: OUTPUT 185.21-192.19: Gross profit increased by 0.5 trillion won sequentially to 31.6 trillion won. 
+asr:0: OUTPUT 192.21-195.66: Led by expanded sales of premium smartphones. 
+asr:0: OUTPUT 195.68-200.86: But gross margin decreased slightly, primarily due to a decline in memory prices. 
+asr:0: OUTPUT 202.96-209.51: SG&A expenses were up 2.5 trillion won quarter on quarter to 17.8 trillion won. 
+asr:0: OUTPUT 209.75-215.58: Mainly due to increased spending on R&D and advertising and promotional activities. 
+asr:0: OUTPUT 216.44-220.36: As a percentage of sales, they increased by 2.6 percentage points. 
+asr:0: OUTPUT 223.20-231.63: Operating profit was $13.9 trillion won down from the previous quarter due to a special bonus payment to employees. 
+asr:0: OUTPUT 231.65-237.26: A decline in memory prices, and a seasonal rise in marketing costs for smartphones. 
+asr:0: OUTPUT 238.40-246.91: On a year-on-year basis, however, both operating profit and operating margin increased substantially driven by our semiconductor businesses. 
+asr:0: OUTPUT 249.05-252.11: I will now briefly review the results of each business unit. 
+asr:0: OUTPUT 253.45-259.00: In memory, results declined versus the prior quarter as ASP edged lower. 
+asr:0: OUTPUT 260.00-267.35: Bit growth for the quarter came in below guidance as, considering our low inventory levels and. 
+asr:0: OUTPUT 267.37-270.87: We refrain from excessive bit shipment efforts. 
+asr:0: OUTPUT 272.45-279.52: Compared to last year, results improved significantly, driven by solid demand across overall applications. 
+asr:0: OUTPUT 279.54-284.08: As well as increases in our advanced node portion and ASP. 
+asr:0: OUTPUT 286.27-292.83: In Foundry, even though increased overall supply resulted in a new high for revenue,. 
+asr:0: OUTPUT 292.85-299.94: Profitability decreased slightly quarter on quarter due to a rise in costs associated with advanced processes. 
+asr:0: OUTPUT 301.38-310.05: On a year-on-year basis, results improved due to the start of operations at the S5 fab in conjunction with price adjustments. 
+asr:0: OUTPUT 312.35-317.28: In display, earnings continue to improve for the mobile panel business. 
+asr:0: OUTPUT 317.30-325.23: Driven by a continuation of solid demand from key customers' new smartphones and increased sales in new application areas. 
+asr:0: OUTPUT 326.53-337.00: However, the large panel business saw its losses widen considerably due to declines in LCD ASPs and initial costs related to QD display. 
+asr:0: OUTPUT 338.92-340.36: For the annex business. 
+asr:0: OUTPUT 340.74-349.59: Revenue increased slightly, led by expanded sales of premium products such as foldables and solid sales of device ecosystem products. 
+asr:0: OUTPUT 351.73-359.98: Profit decreased quarter on quarter due to an increase in year-end marketing costs, including for foldables, but increased year on year. 
+asr:0: OUTPUT 361.40-366.93: The network results improved sequentially as revenue grew both at home and abroad. 
+asr:0: OUTPUT 369.13-373.61: In the CE business, composed of visual display and digital appliances,. 
+asr:0: OUTPUT 373.65-376.60: We delivered record high quarterly revenue. 
+asr:0: OUTPUT 376.62-388.19: On the back of strong sales of premium products during year-end seasonality, but profits declined slightly quarter on quarter amid rising costs, including for logistics. 
+asr:0: OUTPUT 389.91-391.85: Regarding currency effects,. 
+asr:0: OUTPUT 391.87-405.37: Negatives from overall weakness in major emerging currencies against the Korean Won, mainly affecting the Finnish product businesses, were eclipsed by positives from a strong dollar, which mainly affects the DS division. 
+asr:0: OUTPUT 406.77-414.87: The net result was a positive impact of approximately $300 billion won on operating profit compared to the previous quarter. 
+asr:0: OUTPUT 417.76-419.76: Next, I would like to share our business outlook. 
+asr:0: OUTPUT 421.40-424.16: In the first quarter for semiconductor businesses. 
+asr:0: OUTPUT 424.18-428.25: Memory will actively address a projected recovery of demand. 
+asr:0: OUTPUT 428.65-434.39: And Foundry will push to stabilize yield and increase supply of key components for flagship products. 
+asr:0: OUTPUT 435.94-440.72: Our finished product businesses will focus on maintaining solid profitability. 
+asr:0: OUTPUT 440.74-446.15: By strengthening leadership in premium segments with launches of new smartphones and TVs. 
+asr:0: OUTPUT 448.27-457.18: In memory, although there are lingering uncertainties, we will concentrate on optimizing our business portfolio. 
+asr:0: OUTPUT 457.20-463.58: Including through increased sales of advanced Node products to support the server and PC demand recovery. 
+asr:0: OUTPUT 463.68-467.37: And also via sales growth of high value-add products. 
+asr:0: OUTPUT 469.37-477.26: For SystemLSI, we will focus on supplying essential SOCs and CISs for our key customers' flagship products. 
+asr:0: OUTPUT 477.42-485.04: And for Foundry, we will continue to prioritize expanding supply by improving production and yield in advanced processes. 
+asr:0: OUTPUT 487.27-495.50: In display, despite weak seasonality for smartphones, we expect the mobile panel business to deliver improved results year on year. 
+asr:0: OUTPUT 495.52-502.90: Driven by releases of new smartphones by major customers and an expansion of the foldable display customer base. 
+asr:0: OUTPUT 504.50-510.99: In the large panel business, losses are likely to be partially mitigated with the mass production of QD displays. 
+asr:0: OUTPUT 512.97-514.55: The MX business. 
+asr:0: OUTPUT 514.57-519.68: Despite supply constraints, we expect to deliver revenue and profit growth. 
+asr:0: OUTPUT 519.70-524.68: As well as solid margin, led by releases of new flagship models. 
+asr:0: OUTPUT 524.70-531.73: Expanded sales of 5G smartphones for the mass market, and increased sales of tablets and wearables. 
+asr:0: OUTPUT 532.91-538.24: For Network, we target to win new opportunities from European and other global customers. 
+asr:0: OUTPUT 540.26-547.21: Receive businesses amid weak seasonality for TVs and a predicted dip in demand for home appliances. 
+asr:0: OUTPUT 547.23-558.28: We will endeavor to improve profitability by focusing on sales of premium products, expanding our new category product lineup, and increasing the portion of online sales. 
+asr:0: OUTPUT 561.24-564.36: Now let's move on to the outlook for 2022. 
+asr:0: OUTPUT 567.19-570.59: Under expectations of a recovery in global IT demand. 
+asr:0: OUTPUT 571.19-580.24: Our component business will increase their advanced node portion of production and enhance leadership in next generation products and technology. 
+asr:0: OUTPUT 581.28-588.31: And in the finished product businesses, we will continue to strengthen our leadership and lineups in premium segments. 
+asr:0: OUTPUT 588.33-596.06: As we strive to create new user experiences by enhancing connectivity and synergies between our devices. 
+asr:0: OUTPUT 598.00-603.66: However, challenges associated with supply issues and COVID-19 are likely to persist. 
+asr:0: OUTPUT 605.53-606.61: During this year. 
+asr:0: OUTPUT 606.63-614.29: We will also promote partnerships, secure technology, and execute investments to gain leadership in future growth areas. 
+asr:0: OUTPUT 614.31-618.94: Such as 5G, AI, cloud, IoT, and the metaverse. 
+asr:0: OUTPUT 621.50-627.31: For the memory business, we expect demand to increase as enterprises ramp up IT investments. 
+asr:0: OUTPUT 627.33-631.67: Though there are uncertainties such as the extent to which supply issues will ease. 
+asr:0: OUTPUT 633.31-639.70: In accordance, we will continue to enhance our leadership by expanding supply of high-performance products. 
+asr:0: OUTPUT 639.80-643.86: Increasing application of our industry-leading EUV technology. 
+asr:0: OUTPUT 646.41-653.75: This MLSI will grow its business by reinforcing its lineup of SoCs, including models targeting the 5G volume zone. 
+asr:0: OUTPUT 654.77-663.74: And Foundry aims to outpace market growth by extending our technology leadership with mass production of the first generation GAA process. 
+asr:0: OUTPUT 663.76-666.55: Along with increasing supply to global customers. 
+asr:0: OUTPUT 671.21-677.60: For display, in the mobile panel business, we expect demand for OLED to continue to increase. 
+asr:0: OUTPUT 677.62-682.16: Based on rising penetration of 5G and growth of the foldable market. 
+asr:0: OUTPUT 683.78-690.73: And we will further strengthen the foundation for stable growth by expanding OLED into new application areas as well. 
+asr:0: OUTPUT 692.87-701.12: The large panel business will work to secure technology leadership in the premium segment with QD display while it closes the LCD lines as planned. 
+asr:0: OUTPUT 703.56-713.21: The MX business targets increasing market share by concentrating on innovations and flagship products, further differentiating user experiences. 
+asr:0: OUTPUT 713.23-717.04: And also expanding our mass-market 5G smartphone lineup. 
+asr:0: OUTPUT 718.76-725.35: Moreover, we will seek to grow sales of device ecosystem products by enhancing the value delivered to customers. 
+asr:0: OUTPUT 727.05-732.45: For Network, we will focus on capturing 5G network demand and winning new global customers. 
+asr:0: OUTPUT 733.09-739.76: All as we continue to further strengthen our technologies, including custom development of core 5G chips. 
+asr:0: OUTPUT 741.82-747.25: For CE businesses, we will further solidify our market leadership and pursue growth. 
+asr:0: OUTPUT 747.27-752.93: By continuing to expand sales of premium product lines such as Neo QLED and Bespoke. 
+asr:0: OUTPUT 753.67-758.54: And by diversifying the overall lineup with lifestyle and new home appliance products. 
+asr:0: OUTPUT 761.18-766.65: Next, I would like to share some of our key activities and achievements in sustainability management. 
+asr:0: OUTPUT 768.55-775.54: At the CES keynote address on January 4th, we outlined our eco-friendly initiatives for a sustainable future. 
+asr:0: OUTPUT 778.10-785.51: We believe that consumers and companies together can contribute to a better future by embracing sustainable products. 
+asr:0: OUTPUT 786.65-791.37: To this end, we unveiled a range of ambitious eco-friendly activities. 
+asr:0: OUTPUT 792.23-801.16: For example, in manufacturing displays, including for TVs, we are using 30 times more recycled plastic this year than we did last year. 
+asr:0: OUTPUT 802.82-810.41: And we are moving toward incorporating recycled materials in all mobile products and home appliances by 2025. 
+asr:0: OUTPUT 812.35-816.84: In addition, our company ranked fourth in the digital inclusion benchmark. 
+asr:0: OUTPUT 816.86-824.52: Is announced in December by the World Benchmarking Alliance, a global alliance dedicated to sustainability management. 
+asr:0: OUTPUT 826.45-831.93: We earned this accolade thanks to our strong support for the technology innovation ecosystem. 
+asr:0: OUTPUT 831.95-837.46: Through C-Lab Outside, an initiative aimed at nurturing startups in Korea. 
+asr:0: OUTPUT 838.22-846.07: As well as disclosing our AI ethics principles centering on equity, transparency, and responsibility. 
+asr:0: OUTPUT 848.33-857.18: Furthermore, we participated in a pilot project organized by Korea's Ministry of Environment to reduce worksite waste. 
+asr:0: OUTPUT 858.38-864.14: And on December 31st, our Ki-Hoon campus received top honors for its efforts. 
+asr:0: OUTPUT 864.16-868.05: Which included strengthening recycling programs in offices. 
+asr:0: OUTPUT 868.07-877.00: Establishing a standard for minimizing the packaging for raw and semi-processed materials, and expanding recycling of waste materials. 
+asr:0: OUTPUT 878.98-886.23: Our work in this area demonstrates our commitment to creating environmental and social value in addition to achieving growth. 
+asr:0: OUTPUT 886.79-893.79: And we will continue to strengthen our ESG management by fulfilling our social responsibility as a leading global company. 
+asr:0: OUTPUT 897.22-899.32: Let me now move on to capital expenditures. 
+asr:0: OUTPUT 900.54-910.39: The annual CAPEX for 2021 was $48.2 trillion won, with $43.6 trillion won invested in semiconductor. 
+asr:0: OUTPUT 910.41-912.73: And 2.6 trillion won in display. 
+asr:0: OUTPUT 914.35-915.50: By business. 
+asr:0: OUTPUT 915.52-930.91: Memory concentrated its investments on capacity expansions and process migrations at fabs in Pyeongtaek and Sian to address demand for advanced nodes, including EUV-based 15nm DRAM and 6th generation VNAND. 
+asr:0: OUTPUT 930.93-933.75: As well as on infrastructure at P3. 
+asr:0: OUTPUT 936.20-942.56: Investments in memory increased year on year as we are at the lead of an inflection point in technology. 
+asr:0: OUTPUT 942.58-949.35: And are thus preemptively investing in application of next generation technologies such as EUV. 
+asr:0: OUTPUT 950.71-954.87: We are executing the investments with a focus on technology leadership. 
+asr:0: OUTPUT 955.03-963.36: And as a result, we can maintain an efficient investment level when considering our bid share from a mid- to long-term perspective. 
+asr:0: OUTPUT 965.25-972.31: For Foundry, investments concentrated on capacity expansions for advanced 5nm EUV nodes in Pyeongtaek. 
+asr:0: OUTPUT 973.43-977.06: Display investments centered on mobile modules and QD display. 
+asr:0: OUTPUT 981.70-983.78: Finally, let me address the shareholder return. 
+asr:0: OUTPUT 986.23-994.41: The board of directors today approved a quarterly dividend of $361,000 per share for common stock. 
+asr:0: OUTPUT 994.43-998.98: And 362 won per share for preferred stocks. 
+asr:0: OUTPUT 1000.60-1006.67: The total payout for the fourth quarter is approximately 2.45 trillion won. 
+asr:0: OUTPUT 1006.69-1011.37: Which is in line with the totals in 2021's previous quarter. 
+asr:0: OUTPUT 1013.63-1021.04: This represents one-fourth of the annual total of $9.8 trillion in accordance with the current shareholder return policy. 
+asr:0: OUTPUT 1022.74-1028.07: The dividend will be paid after final approval at the annual general meeting of shareholders. 
+asr:0: OUTPUT 1030.57-1036.32: When we announced the current three-year shareholder return policy in January of last year,. 
+asr:0: OUTPUT 1036.34-1043.76: We said that we will disclose the annual free cash flow each year to enhance clarity on the shareholder return pool. 
+asr:0: OUTPUT 1044.98-1051.73: And if 50% of the free cash flow significantly exceeds the annual dividend, we would consider an earlier return. 
+asr:0: OUTPUT 1053.71-1059.38: The total free cash flow for 2021 was $19.6 trillion won. 
+asr:0: OUTPUT 1060.30-1063.78: 50% of which is approximately 9.8 trillion won. 
+asr:0: OUTPUT 1065.25-1072.45: Considering the annual projected annual dividend for 2021 is also 9.8 trillion won. 
+asr:0: OUTPUT 1073.31-1075.66: There was no additional pull for an earlier return. 
+asr:0: OUTPUT 1077.90-1080.76: While we achieved solid results in 2021. 
+asr:0: OUTPUT 1081.28-1089.29: As I mentioned earlier, we required a considerable amount of CAPEX to accelerate migration to next generation technologies in memory. 
+asr:0: OUTPUT 1089.31-1091.73: And to secure competitiveness in foundry. 
+asr:0: OUTPUT 1093.49-1102.82: There were also impacts of increased working capital, such as the need to secure additional inventory amid uncertainties of component supply. 
+asr:0: OUTPUT 1104.90-1107.99: Although he did not generate a surplus in 2021. 
+asr:0: OUTPUT 1108.01-1115.10: We believe our efforts will lead to significant future growth and contribute to increasing shareholder value. 
+asr:0: OUTPUT 1116.80-1118.24: In 2022. 
+asr:0: OUTPUT 1118.26-1125.25: We will once again step up our efforts to improve our performance by extending our product and technology leadership. 
+asr:0: OUTPUT 1125.27-1132.61: Increasing cost competitiveness and improving profitability while also enhancing capital management efficiency. 
+asr:0: OUTPUT 1136.82-1146.55: I will now turn the conference call over to the gentlemen from each business unit to present fourth quarter performances and outlooks for their corresponding business segments. 
+asr:0: OUTPUT 1147.75-1149.97: We will start with the memory business. Thank you. 
+asr:0: OUTPUT 1155.54-1159.68: Good morning. This is Han Jin-man from Memory Global Sales and Marketing Office. 
+asr:0: OUTPUT 1160.86-1165.33: The fourth quarter, memory demand, centered on the server, remained solid. 
+asr:0: OUTPUT 1166.17-1174.87: But our performance declined somewhat compared to the previous quarter due to a continuation of global supply chain issues, a slight drive in ASP,. 
+asr:0: OUTPUT 1174.89-1177.76: And payment of one-off special incentives. 
+asr:0: OUTPUT 1179.20-1184.84: We came in below initial bid growth guidance as we refrained from making excessive bid shipments. 
+asr:0: OUTPUT 1184.88-1189.67: In consideration of our limited inventory conditions and also the market outlook. 
+asr:0: OUTPUT 1191.37-1199.28: In DRAM, impacts on set-bills from global supply chain issues differed by degree but were felt throughout all applications. 
+asr:0: OUTPUT 1200.90-1202.14: But double however. 
+asr:0: OUTPUT 1202.16-1211.93: Demand remained strong thanks to an increase in DM content per box or increased adoption of high-core CPUs amid a continuation of solid end demand. 
+asr:0: OUTPUT 1213.87-1219.26: So graphics card supply shortage remained as demand stayed robust. 
+asr:0: OUTPUT 1219.28-1224.62: Backed by strong demand for gaming PCs along with rising demand for crypto mining. 
+asr:0: OUTPUT 1226.43-1232.03: PC and mobile have felt relatively more effects of set build disruptions caused by component supply issues. 
+asr:0: OUTPUT 1233.19-1237.86: For PC, consumers continue their tendency to adjust inventory. 
+asr:0: OUTPUT 1239.34-1250.25: In mobile, major smartphone manufacturers released new 5G models, but concurrent risk, such as the spread of a COVID variant, impacted memory demand to some extent. 
+asr:0: OUTPUT 1253.17-1259.18: Based on preemptive product mix adjustment, we actively address an increase in server and graphics demand. 
+asr:0: OUTPUT 1259.20-1265.17: And to enhance competitiveness, we continue to increase our cutting-edge portion of processes. 
+asr:0: OUTPUT 1266.07-1275.00: Even so, we were below bid growth guidance as we tried to optimize supply plan considering our inventory condition and market outlook. 
+asr:0: OUTPUT 1276.90-1278.62: Next I will talk about the NAND market. 
+asr:0: OUTPUT 1279.84-1285.05: For server SSD, fundamental demand from major data center customers was robust. 
+asr:0: OUTPUT 1285.81-1290.77: But there are some market effects related to disruptions in the IC component supply chain. 
+asr:0: OUTPUT 1292.43-1301.50: Demand for client SSD was somewhat stagnant because of inventory adjustment by some customers and set-build disruptions caused by component supply issues. 
+asr:0: OUTPUT 1303.66-1310.53: In the case of mobile, supply and demand of APs were disrupted, and memory demand fell slightly. 
+asr:0: OUTPUT 1311.41-1317.06: But the high-density trend continued thanks to impacts of peak end-year seasonality. 
+asr:0: OUTPUT 1318.74-1326.55: He focused on optimizing sales, such as reducing wafer shipments, as well as strengthening high-value solution businesses. 
+asr:0: OUTPUT 1326.57-1329.33: In consideration of our inventory situation. 
+asr:0: OUTPUT 1330.41-1337.32: While identifying impacts on production caused by changes in line operations due to the lockdown in Xi'an. 
+asr:0: OUTPUT 1339.14-1352.27: In addition, we continue to strengthen our competitiveness by increasing our cutting-edge portion of processes and by expanding the server business, we are actively addressing growth in high-end, high-capacity demand. 
+asr:0: OUTPUT 1354.87-1356.86: Now let me share the outlook for the fourth quarter. 
+asr:0: OUTPUT 1358.12-1364.36: In the case of D-RAV, some uncertainties are likely to persist. 
+asr:0: OUTPUT 1364.74-1369.75: But we expect issues related to component supply and demand to dissipate gradually. 
+asr:0: OUTPUT 1370.55-1375.32: We are seeing signs of improvement in set bills, mainly by sovereign people. 
+asr:0: OUTPUT 1377.00-1386.25: Server, we expect demand to remain strong thanks to the high density trend alongside increasing investment centering on data centers. 
+asr:0: OUTPUT 1386.27-1390.13: While the high-core CPU portion continues to increase. 
+asr:0: OUTPUT 1391.89-1401.60: As demand for PC improves, mainly for corporate-oriented high-end laptops, demand will increase for cutting-edge products such as DDR5. 
+asr:0: OUTPUT 1401.62-1409.69: And as some customers complete inventory adjustment, we think impact of flow seasonality will partially ease. 
+asr:0: OUTPUT 1412.55-1424.30: For mobile, we expect the demand base to be reasonably solid as major manufacturers launch products based on new form factors and increase the portion of LPDDR5. 
+asr:0: OUTPUT 1425.23-1434.01: However, risks such as operational restrictions at some production sites due to the spread of COVID variant need to be carefully monitored. 
+asr:0: OUTPUT 1435.58-1439.84: We will keep working to maximize the quality of our business portfolio. 
+asr:0: OUTPUT 1439.86-1450.15: By selling products of our cutting-edge note and expanding sales of high-value products while actively addressing customer demand from overall applications. 
+asr:0: OUTPUT 1452.39-1460.36: In NAND, for server SSD, we expect demand for server builds to be robust, thanks to continuing investment mainly data centers. 
+asr:0: OUTPUT 1460.38-1465.53: We should keep an eye on corporate demand along with the spread of COVID variants. 
+asr:0: OUTPUT 1467.31-1475.50: In the PC market, we think build demand will recover mainly for laptops along with gradual improvements in component supply issues. 
+asr:0: OUTPUT 1476.94-1486.01: And for mobile, despite being amid slow seasonality, we expect the high density trend for storage to persist as manufacturers launch new 5G models. 
+asr:0: OUTPUT 1487.63-1495.12: We plan to minimize risk of supply disruptions by securing a diverse product portfolio centered on high-value products. 
+asr:0: OUTPUT 1495.14-1499.94: While returning to normal production operation after the lockdown in Xi'an being lifted. 
+asr:0: OUTPUT 1501.72-1503.52: Now let's move on to the full year outlook. 
+asr:0: OUTPUT 1505.11-1512.11: Under the risk of demand fluctuations such as ones related to the pace of mitigation of component supply constraints,. 
+asr:0: OUTPUT 1512.13-1516.72: As well as chances of prolonged effects of a COVID-19 variant. 
+asr:0: OUTPUT 1516.74-1522.02: We ask for your understanding that it is difficult to provide specific annual PIT growth guidance. 
+asr:0: OUTPUT 1524.16-1527.81: Therefore, I'd like to share a view of the market situation for each application. 
+asr:0: OUTPUT 1529.31-1530.71: First whatsoever. 
+asr:0: OUTPUT 1530.75-1537.56: DM content per box is projected to keep rising thanks to the adoption of new CPUs supporting DDR5. 
+asr:0: OUTPUT 1537.58-1541.38: And the expansion of AI-oriented servers centered on data centers. 
+asr:0: OUTPUT 1543.06-1544.06: In addition,. 
+asr:0: OUTPUT 1544.08-1553.69: Couple with the expansion of investment by major companies, set-bill demand, deferred by last year's component issues, should lead to solid set-bill growth. 
+asr:0: OUTPUT 1555.36-1560.24: On the other hand, for PCs, we need to monitor detailed impacts on demand. 
+asr:0: OUTPUT 1560.30-1567.81: As a delayed return to daily life triggered by a new variant would impact demand from contactless services. 
+asr:0: OUTPUT 1567.83-1570.31: Such as education, gaming, and others. 
+asr:0: OUTPUT 1570.83-1576.44: A median expected increase in replacement demand and content per box due to the spread of the new wave. 
+asr:0: OUTPUT 1578.86-1589.63: With the resumption of 5G infrastructure investment by countries and the strengthening of 5G lineups by manufacturers, Han Temper Box is likely to keep rising. 
+asr:0: OUTPUT 1590.33-1592.39: Focusing on major manufacturers. 
+asr:0: OUTPUT 1593.07-1600.72: And said shipments, centering on low to mid-price models, are also anticipated to rise amid growth in emerging markets. 
+asr:0: OUTPUT 1603.38-1607.69: Based on preemptively managing our product mix to align with market conditions. 
+asr:0: OUTPUT 1607.71-1617.04: We will proactively address market demand by expanding our supply portion of high-performance products such as HPBM for graphic. 
+asr:0: OUTPUT 1617.06-1620.88: And cutting edge interfaces like DDR5 and LPDDR5. 
+asr:0: OUTPUT 1622.30-1629.79: Based on high value solution oriented portfolio management and our industry leading EUV capabilities. We will focus on. 
+asr:0: OUTPUT 1629.81-1636.30: Qualitative growth through stable, continual cost reductions and strengthened market leadership. 
+asr:0: OUTPUT 1642.70-1646.53: Good morning, this is Kenny Han from the system at SIB. 
+asr:0: OUTPUT 1647.57-1652.05: In the fourth quarter last year, we reached a record high for quarterly revenue. 
+asr:0: OUTPUT 1653.15-1662.76: Driven by an increase in demand for SOCs, DDIs, and PMICs as major mobile customers launched new flagship products. 
+asr:0: OUTPUT 1663.78-1669.59: However, operating profits fell slightly due to the influence of spatial bonuses. 
+asr:0: OUTPUT 1671.33-1674.57: To improve our performance even further in the coming quarters. 
+asr:0: OUTPUT 1675.14-1679.68: We have started supply of our flagship 4 nanometer SOC. 
+asr:0: OUTPUT 1680.00-1685.47: Featuring an AMD GPU for the first time, as well as related products. 
+asr:0: OUTPUT 1686.61-1687.73: In addition,. 
+asr:0: OUTPUT 1687.75-1696.84: Our 108MP image sensors have been increasingly selected by our customers for adoption in their upcoming major models. 
+asr:0: OUTPUT 1698.26-1700.00: In the first quarter of this year. 
+asr:0: OUTPUT 1700.32-1709.47: The effects of year-end weak seasonality for the mobile industry and inventory adjustment by Chinese companies are likely to continue. 
+asr:0: OUTPUT 1710.77-1720.10: But demand for OLED-DDI, NFC, ESE, and PMIC products is expected to stay strong. 
+asr:0: OUTPUT 1722.98-1726.71: As major customers launch flagship smartphones,. 
+asr:0: OUTPUT 1726.73-1738.40: We plan to focus on expanding supply of SoCs with significantly improved GPU and PU capabilities as well as ultra-high resolution image sensors. 
+asr:0: OUTPUT 1740.00-1742.28: In 2022. 
+asr:0: OUTPUT 1742.30-1750.89: High maximizing supply of volume zone 5G SoCs and technology leading 108 and 200 megapixel sensors. 
+asr:0: OUTPUT 1751.79-1759.54: We expect revenue growth to accelerate year-on-year while profitability should rise on the back. 
+asr:0: OUTPUT 1759.56-1761.94: Price of this month. Thank you. 
+asr:0: OUTPUT 1767.49-1770.91: Good morning. This is Moon-Soo Kang from the Foundry Business. 
+asr:0: OUTPUT 1772.55-1780.00: In the fourth quarter, we outpaced industry growth and set a new high for Q4 revenue. In particular,. 
+asr:0: OUTPUT 1780.60-1788.55: We continue to increase sales to large-scale HPC customers and also establish the base for future growth. 
+asr:0: OUTPUT 1788.57-1793.35: By securing orders from new large customers in HPC applications. 
+asr:0: OUTPUT 1795.06-1799.34: In addition, we work to improve our response to customer demand. 
+asr:0: OUTPUT 1799.36-1807.81: With efforts to stabilize the global supply chain, confirming new PEP investments in Taylor USA and in Korea. 
+asr:0: OUTPUT 1809.61-1817.62: However, there were also headwinds as we were unable to fully satisfy customer demand amid a supply disruption. 
+asr:0: OUTPUT 1817.64-1822.82: And profitability per slightly due to delay in ramping of advanced nodes. 
+asr:0: OUTPUT 1825.09-1828.23: In the first quarter of 2022. 
+asr:0: OUTPUT 1828.25-1833.27: We expect the industry to remain in tight supply across all nodes. 
+asr:0: OUTPUT 1833.29-1839.94: And our advanced node portion, which increased significantly from Q4 to keep rising. 
+asr:0: OUTPUT 1841.42-1849.71: Given this, we will focus on improving yield in advanced process nodes to enhance our supply stability and profitability. 
+asr:0: OUTPUT 1852.19-1854.09: To strengthen our technology leadership. 
+asr:0: OUTPUT 1854.85-1864.04: We will complete the qualification of first generation GAA process, 3GAE, for mass production in the first half of this year. 
+asr:0: OUTPUT 1864.84-1871.69: And we will continue to develop the second generation GAA process, 3GAP, as scheduled. 
+asr:0: OUTPUT 1874.39-1876.88: Of the Korean market. 
+asr:0: OUTPUT 1877.84-1886.59: We expect supply to remain tight due to rapid penetration of 5G technology, solid HPC demand,. 
+asr:0: OUTPUT 1886.69-1893.21: Growing outsourcing by IDM, and a need to build up safety inventory amid prolonged pandemic. 
+asr:0: OUTPUT 1895.48-1902.82: We will continue our technology leadership through mass production of the 3GAE process in the first half. 
+asr:0: OUTPUT 1902.84-1910.39: And we aim to exceed market growth on a full year basis by expanding capacity of advanced nodes. 
+asr:0: OUTPUT 1910.41-1918.62: Normalizing prices to ensure future investment, and adding new customers to our global client base. Thank you. 
+asr:0: OUTPUT 1922.86-1927.57: Good morning, I'm Kwon Young Choi from the business planning department at Samsung Display. 
+asr:0: OUTPUT 1928.43-1935.60: In the fourth quarter, the mobile display business sustained upward trend in earnings following. 
+asr:0: OUTPUT 1935.62-1941.82: The previous quarter backed by robust sales of smartphones with the OLED displays. 
+asr:0: OUTPUT 1942.60-1952.03: Which are now mainstream in the premium segment and also by the competitiveness and stability of Samsung Display's supply chain management. 
+asr:0: OUTPUT 1953.77-1960.92: In addition to smartphones, sales and revenues of products for notebook PCs and gaming increased. 
+asr:0: OUTPUT 1960.94-1964.48: Steeply quarter on quarter contributing to our earnings growth. 
+asr:0: OUTPUT 1967.83-1976.26: Meanwhile, in the large display business, we have successfully mass-produced and delivered our QD displays for TVs and monitors. 
+asr:0: OUTPUT 1976.86-1979.98: Which have garnered positive reviews from our customers. 
+asr:0: OUTPUT 1982.54-1987.29: Next, let me share the outlook for the first quarter of 2022. 
+asr:0: OUTPUT 1987.37-2001.42: For the mobile display business, we project that release of our new products by major customers and increasing adoption of flexible displays will mitigate risk effects of weak seasonality. 
+asr:0: OUTPUT 2004.10-2014.67: However, given persistent supply issues for some components, concerns linger over potential short supply of certain products such as DDIs. 
+asr:0: OUTPUT 2016.76-2022.36: For the large display business, with the QD display, TVs, and monitors,. 
+asr:0: OUTPUT 2022.38-2027.49: Having made their official market debut, we expect losses to narrow gradually. 
+asr:0: OUTPUT 2030.45-2037.80: Finally, I will share our look for the display market in Samsung Display's core strategies for 2022. 
+asr:0: OUTPUT 2040.52-2053.79: What are the prospects for the future of the Korean market? 
+asr:0: OUTPUT 2053.81-2058.62: We expect adoption of OID displays to keep expanding this year. 
+asr:0: OUTPUT 2059.60-2065.59: Driven by rising penetration of 5G smartphones and the growth of affordable display markets. 
+asr:0: OUTPUT 2067.33-2073.05: Such market trend should create a favorable business environment for Samsung Display. 
+asr:0: OUTPUT 2078.10-2089.57: As for the IT markets, we expect growth to slow compared to last year, and rising sales in the premium segment are likely to accelerate penetration of OLED displays. 
+asr:0: OUTPUT 2093.69-2101.16: We plan to strike a balance in the mobile display business structure with both flexible and rigid OLD. 
+asr:0: OUTPUT 2104.42-2111.79: To that end, we plan to expand adoption of flexible OLED to more than just high-end devices. 
+asr:0: OUTPUT 2111.81-2118.74: By providing its astounding technological capabilities to the mid-range segment as well. 
+asr:0: OUTPUT 2122.76-2128.17: We'll also diversify application for rigid OAD, ranging from IT. 
+asr:0: OUTPUT 2128.19-2135.14: To gaming, to automotive, based on our unrivaled production capacity and cost competitiveness. 
+asr:0: OUTPUT 2137.30-2139.00: For the large display business. 
+asr:0: OUTPUT 2139.32-2148.43: We expect ultra-large displays and differentiated products to drive solid demand for premium TVs. 
+asr:0: OUTPUT 2148.55-2157.60: And we'll focus on securing leadership in the premium TV and monitor segments through QD displays. Thank you. 
+asr:0: OUTPUT 2161.96-2164.97: Good morning, this is Sung-gu Kim from the MX Business. 
+asr:0: OUTPUT 2166.01-2172.05: I would like to discuss the Q4 2021 results and outlook for the MX and network business. 
+asr:0: OUTPUT 2173.79-2179.80: In Q4 2021, the market grew compared to the previous quarter due to year-end seasonality. 
+asr:0: OUTPUT 2181.66-2188.17: As for the MX business, despite the component supply shortage, revenue increased slightly QoQ. 
+asr:0: OUTPUT 2190.37-2194.67: In particular, in the new market that we created with an innovative form factor,. 
+asr:0: OUTPUT 2195.52-2199.72: Our foldable G-series model, G43 and G-Flip3. 
+asr:0: OUTPUT 2199.78-2208.23: Have garnered positive feedback for their in-depth design, durability, and user experience that are tailored to photo booths. 
+asr:0: OUTPUT 2209.97-2216.14: This contributed to increased sales and we believe foldables are smoothly entering the mainstream. 
+asr:0: OUTPUT 2217.86-2221.36: Also, the Galaxy S series maintains surge momentum. 
+asr:0: OUTPUT 2221.38-2228.77: Thanks to active marketing and even further enhanced user experience with the new ONE UI 4.0. 
+asr:0: OUTPUT 2230.59-2234.23: Accordingly, our premium smartphone sales increased QQ. 
+asr:0: OUTPUT 2236.68-2242.30: A solid series of our device ecosystem products, including PCs, tablets, and wearable devices. 
+asr:0: OUTPUT 2242.32-2247.47: With their enhanced and seamless connected experience also contributed to the performance. 
+asr:0: OUTPUT 2248.97-2258.56: In the meantime, investments in active marketing to mainstream photo booths, and preparations to launch new models in Q1 2022. 
+asr:0: OUTPUT 2258.58-2261.06: Affected profitability to some degree. 
+asr:0: OUTPUT 2263.02-2270.23: The network business improved its performance compared to the previous quarter, driven by the growth of domestic and overseas business. 
+asr:0: OUTPUT 2272.23-2275.30: Now let me give you the outlook for Q1 2022. 
+asr:0: OUTPUT 2276.62-2284.12: Demand for smartphones and tablets is expected to decrease due to seasonality as well as uncertainty surrounding component supply. 
+asr:0: OUTPUT 2285.73-2295.82: In our MX business, we will strive to expand the customer base for our flagship products by fulfilling customer needs with the Galaxy S21 FE. 
+asr:0: OUTPUT 2295.84-2300.36: Which preserves core user experience of Galaxy S21. 
+asr:0: OUTPUT 2300.38-2305.49: And comes in a diverse range of color options all at an affordable price. 
+asr:0: OUTPUT 2307.73-2316.88: Also, a new Galaxy S-series model featuring the best Galaxy performance and experience will enhance customer retention of our premium products. 
+asr:0: OUTPUT 2318.04-2322.68: In turn, this will lift the standard for flagship products even higher. 
+asr:0: OUTPUT 2322.70-2330.53: And contribute to increased sales of our flagship smartphones as well as an increase in overall smartphone ASP. 
+asr:0: OUTPUT 2332.21-2339.76: Also, our competitive 5G lineup for the mass market will act as a volume driver by addressing. 
+asr:0: OUTPUT 2339.78-2344.80: Replacement demand and thus actively seize growth opportunities in the market. 
+asr:0: OUTPUT 2346.33-2351.17: In addition, we will continue to focus on increasing sales of our device ecosystem products. 
+asr:0: OUTPUT 2351.19-2361.42: Such as wearables, PCs, and tablets by actively promoting the in-house competitiveness and seamless connected experience across the product line. 
+asr:0: OUTPUT 2363.02-2371.75: With these efforts, we will strive to secure solid profitability in Q1 2022 amid an unstable component supply situation. 
+asr:0: OUTPUT 2373.35-2379.80: The network business aims to secure additional new contracts in the global markets, including from Europe. 
+asr:0: OUTPUT 2383.34-2386.23: Next, let me provide an outlook for 2022. 
+asr:0: OUTPUT 2387.47-2392.79: Despite current uncertainties including prolonged pandemic and component supply issues,. 
+asr:0: OUTPUT 2393.57-2400.42: We expect the smartphone market to continue to grow in 2022 following substantial growth in 2020. 
+asr:0: OUTPUT 2401.28-2405.79: While the wearable market is projected to see strong double-digit growth. 
+asr:0: OUTPUT 2407.23-2415.48: In our MX business, we will continue to pursue user experience driven innovation to solidify leadership in the flexion market. 
+asr:0: OUTPUT 2416.32-2419.92: We'll also strengthen the tailored experience of each product. 
+asr:0: OUTPUT 2419.94-2424.40: Including the ultimate flagship experience with the Galaxy S series. 
+asr:0: OUTPUT 2424.42-2431.81: And optimized Galaxy G series experience to cater to various lifestyles and needs of our customers. 
+asr:0: OUTPUT 2433.43-2434.53: The mass market. 
+asr:0: OUTPUT 2434.57-2443.54: We will not only strengthen our 5G lineup, but also expand the application of our convenient and differentiated experience and enhanced. 
+asr:0: OUTPUT 2443.56-2445.15: Product completeness. 
+asr:0: OUTPUT 2446.39-2449.87: With these efforts, we aim to increase our smartphone market share. 
+asr:0: OUTPUT 2451.41-2460.42: Also, we will keep enhancing customer value by continually adding to our differentiated user experience, which includes consistent and convenient. 
+asr:0: OUTPUT 2460.44-2464.50: Connected experience across devices in our device ecosystem. 
+asr:0: OUTPUT 2465.61-2468.07: And by further strengthening product competitiveness. 
+asr:0: OUTPUT 2470.23-2477.98: Furthermore, we will extend such convenient connected experience beyond MX production to TVs and home appliances. 
+asr:0: OUTPUT 2478.00-2483.22: To enrich the value that our customers experience in daily lives. 
+asr:0: OUTPUT 2484.92-2493.07: By doing so, we'll strive to achieve material growth in 2022 and bolster profitability with an improved product mix. 
+asr:0: OUTPUT 2493.09-2495.98: And enhanced operational efficiency. 
+asr:0: OUTPUT 2497.96-2507.75: The network business will focus on actively expanding its overseas business while also responding to the extension of the 5G network in the domestic market. 
+asr:0: OUTPUT 2508.87-2519.02: Also, we will thoroughly prepare for the future with continual efforts to strengthen our technology and competitiveness, including our own 5G chipsets. 
+asr:0: OUTPUT 2520.10-2529.73: Thank you for your attention. Good morning. I'm FT Chung from the stage and marketing team of Digital Appliances. 
+asr:0: OUTPUT 2529.87-2534.95: And I will address business conditions of three businesses. 
+asr:0: OUTPUT 2535.80-2542.18: First, I would like to review the market conditions and our performance in the first quarter of 2021. 
+asr:0: OUTPUT 2543.28-2547.67: But he did not get blue call call on me to keep the novelty. 
+asr:0: OUTPUT 2547.69-2554.09: But decreased compared to the previous year when it was affected by strong pent-up demand. 
+asr:0: OUTPUT 2555.80-2558.88: By working closely with the channel partner in advance. 
+asr:0: OUTPUT 2559.70-2569.61: Samsung preemptively targeted seasonal mid-event starting at end of October, and expanded sales mainly of high-value products. 
+asr:0: OUTPUT 2569.63-2573.55: Such as Neo QLED models and lifestyle screen. 
+asr:0: OUTPUT 2574.77-2583.66: However, operating profit decreased slightly due to cost pressure such as global logistics issues. 
+asr:0: OUTPUT 2585.17-2588.33: For digital appliance in the fourth corner. 
+asr:0: OUTPUT 2588.35-2593.73: Market growth slowed due to diminishing impact of the pent-up demand. 
+asr:0: OUTPUT 2593.75-2599.90: And material and logistic costs stayed on an uptrend seen in the previous corner. 
+asr:0: OUTPUT 2601.04-2610.87: Samsung actively addressed various consumer needs. We improved our mix via increasing sales with a focus of premium products. 
+asr:0: OUTPUT 2610.89-2613.49: Such as bespoke and new category products. 
+asr:0: OUTPUT 2615.12-2620.00: In addition, through improving our operation efficiency and reducing costs,. 
+asr:0: OUTPUT 2620.92-2628.25: We achieved better results compared to the previous score, despite numerous risks in the external environment. 
+asr:0: OUTPUT 2629.69-2637.26: Now let us look at the outlook for the first quarter of 2022 and 2022 as a whole. 
+asr:0: OUTPUT 2638.68-2645.83: We expect the overall TV marketing to decrease quarter on quarter following the year-end peak season. 
+asr:0: OUTPUT 2645.89-2650.27: And also coming lower compared to the same period last year. 
+asr:0: OUTPUT 2651.31-2658.28: When it was affected by a continuation of a strong effect of pent-up demand, mainly advanced markets. 
+asr:0: OUTPUT 2659.88-2665.89: We plan to push expand sales by capturing demand, mainly for premium products. 
+asr:0: OUTPUT 2665.91-2674.45: By actively leveraging a number of promotional opportunities, such as those associated with major sporting events. 
+asr:0: OUTPUT 2676.06-2682.66: Furthermore, we will lead the market by strengthening sales in the lifestyle queen category. 
+asr:0: OUTPUT 2682.68-2690.17: Including the freestyle, which was released in CES this year, and improved our results. 
+asr:0: OUTPUT 2691.99-2695.02: So this is applied in the first column. 
+asr:0: OUTPUT 2695.03-2700.76: We expect demand for home appliances to decline slightly year on year. 
+asr:0: OUTPUT 2700.78-2707.09: Also, we expect continued fear the effect of increases in logistics and material costs. 
+asr:0: OUTPUT 2709.51-2712.93: We will target the premium market more aggressively. 
+asr:0: OUTPUT 2712.95-2719.64: By expanding the Bistoco lineup mainly in advanced markets such as North America and New York. 
+asr:0: OUTPUT 2721.04-2727.87: Also, we plan to expand sales by providing our customers with a differentiated experience. 
+asr:0: OUTPUT 2727.89-2733.61: Offering significantly expanded consumer contact points both online and offline. 
+asr:0: OUTPUT 2734.91-2742.36: In addition, we will secure profitability by continuing to improve our cost efficiency throughout our operation. 
+asr:0: OUTPUT 2744.32-2747.43: Regarding the TV market in 2022. 
+asr:0: OUTPUT 2747.45-2750.91: We expect market uncertainty to consist. 
+asr:0: OUTPUT 2750.97-2758.68: In Korea, the number of people infected with COVID-19 is increasing. 
+asr:0: OUTPUT 2760.16-2767.07: However, we also expect demands to keep rising for premium and super big TVs. 
+asr:0: OUTPUT 2767.09-2772.15: Samsung will focus on targeting demand for an increasing phase of innovative. 
+asr:0: OUTPUT 2772.17-2778.26: Premium products including our next-gen micro LED and Neo QLED models. 
+asr:0: OUTPUT 2779.88-2788.11: At the same time, we will strengthen our sales of lifestyle green, our own differentiated product line. 
+asr:0: OUTPUT 2788.13-2797.78: And expand the TV accessory ecosystem while also providing differentiated user experience and creating new demand. 
+asr:0: OUTPUT 2797.80-2805.15: Through various services and platforms, which is optimized for in-home activities. 
+asr:0: OUTPUT 2805.17-2806.67: Like a median game. 
+asr:0: OUTPUT 2808.79-2817.62: In the digital appliance market in 2022, market growth of home appliances will probably be sluggish year on year. 
+asr:0: OUTPUT 2817.64-2822.16: But we expect to see demand edge up for the new category product. 
+asr:0: OUTPUT 2822.18-2827.75: That reflect changing rifle style trend and also slight demand growth in emerging market. 
+asr:0: OUTPUT 2829.73-2836.00: Will continue to grow by strengthening global trade via expanding the areas of. 
+asr:0: OUTPUT 2836.02-2839.76: We hope we differentiated this talk further. 
+asr:0: OUTPUT 2839.98-2843.10: Also by expanding Rhinobion region. 
+asr:0: OUTPUT 2844.88-2853.97: And. 
+asr:0: OUTPUT 2855.54-2862.78: Furthermore, by extending use of modular products and thus increasing productivity,. 
+asr:0: OUTPUT 2862.80-2872.69: Will enhance operational efficiency and also secure supply continuity to preemptively manage future external risks. 
+asr:0: OUTPUT 2873.89-2881.68: Thank you. That sums up the fourth quarter results presentations. 
+asr:0: OUTPUT 2882.46-2887.63: Before we move on to the Q&A session, I would like to share several data points in key business areas. 
+asr:0: OUTPUT 2888.57-2894.21: Considering the heightened macro uncertainties, we will not be providing annual guidance at this time. 
+asr:0: OUTPUT 2896.24-2905.13: In the fourth quarter for DRAM, our bit growth decreased by a percentage in the mid single digits. And ASP declined by a similar magnitude. 
+asr:0: OUTPUT 2906.37-2915.10: In the first quarter of 2022, we expect market bit growth to fall by low single-digit percentage, and we should be similar to the market. 
+asr:0: OUTPUT 2916.46-2923.24: For NAND, in the fourth quarter, both our BitGross and ASP declined in the low single-digit percentage range. 
+asr:0: OUTPUT 2924.26-2934.25: For the first quarter of 2022, we expect market bit growth to decrease by a low single digit, and our bit growth should slightly outperform the market. 
+asr:0: OUTPUT 2936.34-2938.94: In the display business in the fourth quarter. 
+asr:0: OUTPUT 2938.96-2947.73: Our OLED portion of sales was in the high 90% range and OLED sales volume grew by a low single digit percentage. 
+asr:0: OUTPUT 2950.13-2957.08: Turning to wireless, sales volume in the fourth quarter was approximately 72 million units for handsets. 
+asr:0: OUTPUT 2957.12-2963.84: And 7 million units for tablets with a blended ASP of $253. 
+asr:0: OUTPUT 2965.03-2970.35: The smartphone portion of handset sales volume was in the mid 90% range. 
+asr:0: OUTPUT 2971.23-2981.04: For the first quarter of 2022, we expect to see sequential increases in handset and tablet sales volume, as well as in blended ASP. 
+asr:0: OUTPUT 2981.96-2986.31: The smartphone portion of handset sales should stay similar in the mid-90s. 
+asr:0: OUTPUT 2988.13-2997.88: In the TV business in the fourth quarter of 2021, sales volume grew by a percentage approaching the mid-teens. 
+asr:0: OUTPUT 2998.38-3004.12: And in this quarter we expect sales volume to decline by a low single-digit percentage. 
+asr:0: OUTPUT 3007.23-3013.49: With that, I will now move on to the Q&A session. First, we will start taking questions from the conference call. 
+asr:0: OUTPUT 3023.64-3030.11: Foreign. 
+asr:0: OUTPUT 3030.19-3034.29: You. 
+asr:0: OUTPUT 3034.41-3037.08: Now Q&A session will begin. 
+asr:0: OUTPUT 3037.10-3044.96: Please press start 1, that is start N1 if you have any questions. Questions will be taken according to the order you have pressed start N1. 
+asr:0: OUTPUT 3045.05-3050.01: For cancellation, please press star 2, that is star N2 on your phone. 
+asr:0: OUTPUT 3054.31-3062.86: The first question will be presented by JJ Park from J.P. Morgan. 
+asr:0: OUTPUT 3063.24-3065.09: Please go ahead with your question. 
+asr:0: OUTPUT 3080.06-3087.09: Foreign. 
+asr:0: OUTPUT 3088.45-3096.38: Second is about the return on shares. Last year, we paid about half of the free cash flow to Dividend. 
+asr:0: OUTPUT 3097.54-3100.00: I think there was no such suggestion. 
+asr:0: OUTPUT 3120.00-3125.33: The first question is about the memory CAPEX. You said that the memory CAPEX last year. 
+asr:0: OUTPUT 3125.39-3132.15: Increase. 
+asr:0: OUTPUT 3132.61-3135.84: Also, can you give us some guidance for CAPEX memory this year? 
+asr:0: OUTPUT 3136.14-3140.84: Second question is about the shareholder return. During the presentation, you mentioned that. 
+asr:0: OUTPUT 3140.86-3152.59: 50 percent of the free cash flow for last year is roughly the same as the distributable profits for this year and therefore there would not be any additional pool of funds available for shareholder returns. 
+asr:0: OUTPUT 3152.81-3158.32: But I also noticed that the company does have on hand more than 100 trillion won of net cash. 
+asr:0: OUTPUT 3158.58-3167.33: And. 
+asr:0: OUTPUT 3167.35-3171.23: That cash size when it decides shareholder return for this year. 
+asr:0: OUTPUT 3193.33-3196.08: To answer your first question about the memory capex,. 
+asr:0: OUTPUT 3196.22-3199.02: As we mentioned, the overall memory capex in 20... 
+asr:0: OUTPUT 3199.46-3205.43: One did increase year over year. It's difficult to give you the breakdown between DRAM and NAND. 
+asr:0: OUTPUT 3205.63-3210.37: But overall, there was an increase in the facility equipment related capital spending. 
+asr:0: OUTPUT 3223.68-3230.91: Foreign. 
+asr:0: OUTPUT 3236.12-3240.04: Foreign. 
+asr:0: OUTPUT 3241.28-3244.62: To explain the reasons why there was an increase in cat pigs,. 
+asr:0: OUTPUT 3244.70-3247.81: Mainly it's explained by how we have expanded our... 
+asr:0: OUTPUT 3247.83-3261.54: And. 
+asr:0: OUTPUT 3261.72-3273.73: Also, another main reason for our CAPEX is our preemptive investments that we're making in next-generation technology such as EUV as we go through a technology inflection point. 
+asr:0: OUTPUT 3274.07-3278.14: But this all is consistent with our CapEx policy. 
+asr:0: OUTPUT 3278.16-3284.08: Of executing CAPEX equipment investments flexibly in line with the market situation. 
+asr:0: OUTPUT 3295.30-3299.52: Foreign. 
+asr:0: OUTPUT 3307.93-3309.51: And so we believe that. 
+asr:0: OUTPUT 3309.53-3310.53: Supply chain. 
+asr:0: OUTPUT 3310.55-3319.58: Bit growth that we are achieving is in line with the market demand levels because we execute flexibly our equipment related investments. 
+asr:0: OUTPUT 3319.92-3325.39: We do pursue bit group around the leading technology nodes. 
+asr:0: OUTPUT 3325.61-3333.51: And i think that is why compared to at least a bit share that we have our investment size in a mid to long term perspective is not high. 
+asr:0: OUTPUT 3336.70-3350.17: I think. 
+asr:0: OUTPUT 3370.23-3376.92: You've also asked for some guidance for CAPEX this year, actually given the various uncertainties. 
+asr:0: OUTPUT 3377.34-3381.72: We are still discussing specific investment plans for this year. 
+asr:0: OUTPUT 3381.98-3390.47: But our basic approach is that we will tap both investments and productivity improvements in order to generate the bit growth this year. 
+asr:0: OUTPUT 3390.77-3401.18: Also. 
+asr:0: OUTPUT 3401.22-3402.98: Due to the supply chain issue. 
+asr:0: OUTPUT 3405.65-3407.03: I. 
+asr:0: OUTPUT 3409.83-3419.78: Korea. 
+asr:0: OUTPUT 3449.69-3459.38: To answer your second question, when the three-year shareholder return policy that was announced early last year covering periods of 2021,. 
+asr:0: OUTPUT 3459.46-3468.49: To 2023 actually took into account the global uncertainties and the expected increase of cash needs for the company. 
+asr:0: OUTPUT 3469.25-3474.87: Now looking back at the past one year, the global uncertainty actually was more aggravated. 
+asr:0: OUTPUT 3474.97-3480.84: Than we had anticipated and cash need increased as expected. 
+asr:0: OUTPUT 3481.14-3487.49: And so even though last year the business results improved, our net cash position has stayed almost the same. 
+asr:0: OUTPUT 3493.39-3495.32: Global. 
+asr:0: OUTPUT 3499.70-3507.49: In. 
+asr:0: OUTPUT 3509.97-3517.38: The. 
+asr:0: OUTPUT 3520.98-3526.73: On the other hand, as you know, we operate the largest and the highest level of a global. 
+asr:0: OUTPUT 3526.75-3532.41: Production network in the IT industry which requires a large scale of operating capital. 
+asr:0: OUTPUT 3532.93-3538.26: Last year we also went through some unexpected production disruptions in Austin and the Sean fabs. 
+asr:0: OUTPUT 3538.66-3548.35: Also, we always need to keep the capabilities to execute inorganic growth opportunities in order to maintain consistent growth. 
+asr:0: OUTPUT 3560.42-3569.11: To. 
+asr:0: OUTPUT 3572.53-3582.16: So, considering all of those factors, the company believes it is not appropriate at this point to bring any major changes to its shareholder return policy. 
+asr:0: OUTPUT 3582.20-3586.49: Given the fact that conservative cash operation is necessary. 
+asr:0: OUTPUT 3586.73-3593.33: Now that said, raising the efficiency of its capital management is something that the company continues to focus on. 
+asr:0: OUTPUT 3600.78-3604.18: I'm not sure. 
+asr:0: OUTPUT 3604.86-3610.99: The next question will be presented by Sungkyu Kim from Daiwa Capital Market. Please go ahead with your question. 
+asr:0: OUTPUT 3660.56-3662.58: Foreign. 
+asr:0: OUTPUT 3685.15-3689.77: My first question is about the DRAM clean room space use. 
+asr:0: OUTPUT 3690.19-3699.08: Looking at the information, you may actually have a limited clean room space for your DRAM this year. Also, your inventory levels are relatively low. 
+asr:0: OUTPUT 3699.68-3707.53: This. 
+asr:0: OUTPUT 3708.25-3710.97: There was a change of management at the end of last year. 
+asr:0: OUTPUT 3711.39-3719.90: Considering all of that, can you share your opinion regarding the clean room space limitations and how you plan to respond to that? 
+asr:0: OUTPUT 3720.16-3729.51: Second question is about the CE business. There is overall cost increasing factors including raw material prices and logistics cost increasing. 
+asr:0: OUTPUT 3729.83-3735.34: First of all, can you share from the company's perspective until when do you think the situation will continue? 
+asr:0: OUTPUT 3735.60-3740.00: What will be the implications to your CE business and how do you plan to respond? 
+asr:0: OUTPUT 3746.69-3753.23: To. 
+asr:0: OUTPUT 3756.46-3759.56: The. 
+asr:0: OUTPUT 3764.14-3775.76: The. 
+asr:0: OUTPUT 3779.18-3780.76: The first question about the clean room. 
+asr:0: OUTPUT 3781.20-3789.77: Of. 
+asr:0: OUTPUT 3790.77-3796.76: Clean rooms. It's actually a quite large investment and many factors need to be considered. 
+asr:0: OUTPUT 3797.34-3804.68: Deciding a cleanroom investment is a decision that should be made based on a midterm, at least a three to four year horizon perspective. 
+asr:0: OUTPUT 3805.47-3812.65: Looking towards this year, at the current levels, we do not expect any major problems in meeting the demand that's expected in the market this year. 
+asr:0: OUTPUT 3842.16-3844.78: Korean. 
+asr:0: OUTPUT 3850.37-3855.74: What are the high-cost costs for the consumer electronics business? 
+asr:0: OUTPUT 3856.04-3864.00: Of course, there are many reasons that are driving the elevated level of raw material and logistic prices. There's large demand for logistics. 
+asr:0: OUTPUT 3864.08-3868.29: But there is a shortage of workers to man the ships and the ports. 
+asr:0: OUTPUT 3868.85-3874.35: And there is overall inflation driving an upward trend of raw material prices. 
+asr:0: OUTPUT 3874.63-3884.24: As we mentioned during the presentation, the company does expect this heightened level of raw material and logistics cost risk to continue throughout this year. 
+asr:0: OUTPUT 3886.47-3893.75: The. 
+asr:0: OUTPUT 3896.04-3903.96: To. 
+asr:0: OUTPUT 3907.07-3914.23: The. 
+asr:0: OUTPUT 3916.54-3920.18: On. 
+asr:0: OUTPUT 3922.48-3935.80: In response to this assumption of heightened risk, we are thoroughly analyzing the situation of each of our key manufacturing hubs in order to improve the overall supply competitiveness. 
+asr:0: OUTPUT 3935.82-3941.40: What are your thoughts? 
+asr:0: OUTPUT 3941.42-3944.04: Executing overall operational improvements. 
+asr:0: OUTPUT 3944.64-3953.47: Also. 
+asr:0: OUTPUT 3953.49-3955.84: And continuously launching new models. 
+asr:0: OUTPUT 3959.42-3964.88: I'm sorry. 
+asr:0: OUTPUT 3965.03-3973.75: The next question will be presented by Peter Lee from City Group. Please go ahead with your question. 
+asr:0: OUTPUT 3980.08-3985.85: Korean. 
+asr:0: OUTPUT 3985.89-3990.35: I'm sorry. 
+asr:0: OUTPUT 3993.07-3997.16: The reason why I said that is because I have a lot of questions about the Korean government's. 
+asr:0: OUTPUT 4016.58-4020.30: I hope you will be interested in the smartphone market outlook in 2022. 
+asr:0: OUTPUT 4021.60-4025.81: I wonder what Samsung Electronics' smartphone market expectations are for this year. 
+asr:0: OUTPUT 4027.01-4034.23: And whether Samsung Electronics' smartphone sales will increase market share this year. 
+asr:0: OUTPUT 4036.54-4040.00: My first question is about the memory side. 
+asr:0: OUTPUT 4040.52-4044.18: Even though overall memory demand was quite solid last year,. 
+asr:0: OUTPUT 4044.30-4047.67: Fourth quarter, we noticed that both your DRAM and NAND shipments. 
+asr:0: OUTPUT 4047.69-4057.18: Actually performed under the guidance and competitors. Can you give us some explanations as to why this happened, which appears to be quite unusual, especially given the... 
+asr:0: OUTPUT 4057.20-4061.48: Given where the market and you were in the second quarter of last year. 
+asr:0: OUTPUT 4062.06-4070.53: We do notice that the company's management was changed at the end of the year. Is this an implication of any strategy change on the part of the company? 
+asr:0: OUTPUT 4071.05-4073.69: Second question is about the mobile side. 
+asr:0: OUTPUT 4074.13-4080.78: From the market. 
+asr:0: OUTPUT 4081.26-4090.07: Can you share with us your demand outlook for smartphones this year? And do you expect to increase your market share by outgrowing the market again? 
+asr:0: OUTPUT 4092.93-4094.77: Korean. 
+asr:0: OUTPUT 4120.00-4128.01: And the possibility of production due to the current lockdown. 
+asr:0: OUTPUT 4130.07-4132.37: Korean. 
+asr:0: OUTPUT 4134.35-4144.18: So, to answer your question of why our bid growth was below market in fourth quarter, as you mentioned, yes, in fourth quarter, demand was solid, but especially around the servers. 
+asr:0: OUTPUT 4144.44-4154.31: On the other side, there were some downstream production disruptions due to the global supply chain issue, even though the degree of the disruption varies depending on the customer. 
+asr:0: OUTPUT 4154.91-4158.36: And this did have an impact on memory demand in the fourth quarter. 
+asr:0: OUTPUT 4158.94-4168.27: A. 
+asr:0: OUTPUT 4168.53-4174.21: And. 
+asr:0: OUTPUT 4174.41-4187.49: And this was the main reason why our bid growth was below guidance in fourth quarter. 
+asr:0: OUTPUT 4220.42-4230.21: Now, the reason why we made that decision was because of our insight into a change in the nature of the market that has been happening recently. 
+asr:0: OUTPUT 4230.47-4238.08: We do notice that the memory market actually is becoming more diversified. The product lineup is much more diversified before. 
+asr:0: OUTPUT 4238.46-4241.48: And given the wide diversity of product lineups,. 
+asr:0: OUTPUT 4241.80-4252.01: We thought that most critical capability was the ability to supply the products that the customer needs based on having an optimized product mix. 
+asr:0: OUTPUT 4252.53-4260.34: And. 
+asr:0: OUTPUT 4260.36-4267.01: Order for us to be able to supply the products that the customer needs stably from a long-term perspective. 
+asr:0: OUTPUT 4282.32-4289.05: We are a series of foldable devices that emphasize the differentiation of the parties. 
+asr:0: OUTPUT 4292.43-4295.56: Foreign. 
+asr:0: OUTPUT 4296.90-4298.76: Korean. 
+asr:0: OUTPUT 4300.52-4308.43: And. 
+asr:0: OUTPUT 4310.23-4318.50: To. 
+asr:0: OUTPUT 4318.64-4327.81: Of the year. 
+asr:0: OUTPUT 4328.19-4336.72: Our strategy at the flagship level is to continue to expand the sales of flagships and to improve our product mix. 
+asr:0: OUTPUT 4336.74-4349.05: Of. 
+asr:0: OUTPUT 4349.07-4353.13: Of females as well as the customers of the competitors. 
+asr:0: OUTPUT 4354.07-4356.30: Also, a part of our... 
+asr:0: OUTPUT 4356.32-4364.90: Flagship strategy would be the S-series, the new model of the S-series, which will contribute to retention of existing customers. 
+asr:0: OUTPUT 4364.92-4371.23: And also to further widen the premium customer base through the S21 FE. 
+asr:0: OUTPUT 4381.24-4385.05: The. 
+asr:0: OUTPUT 4395.20-4400.00: Of. 
+asr:0: OUTPUT 4403.50-4415.56: Are. 
+asr:0: OUTPUT 4415.60-4420.42: And also to continue to produce global mega-hit models in the mass tier. 
+asr:0: OUTPUT 4420.44-4423.26: That provide core user experiences. 
+asr:0: OUTPUT 4423.28-4425.19: That the users appreciate. 
+asr:0: OUTPUT 4425.95-4435.60: Therefore, we will use the mass tier models to become clear volume drivers that can respond preemptively to mass tier brands. 
+asr:0: OUTPUT 4436.22-4443.42: By the two strategies, we plan to not only increase our entire market share in the smartphone market this year,. 
+asr:0: OUTPUT 4443.68-4446.69: Also further increase the leadership we have. 
+asr:0: OUTPUT 4446.75-4455.58: In the premium market. 
+asr:0: OUTPUT 4459.08-4465.03: Next question will be presented by Do-yeon Choi from Shinhan Investments. Please go ahead with your question. 
+asr:0: OUTPUT 4496.88-4499.24: For the mobile, the MSNBC. 
+asr:0: OUTPUT 4500.00-4503.84: Division. Last year you successfully. 
+asr:0: OUTPUT 4503.86-4511.45: Mainstream, the foldable form factor received strong response from the market, but you also have the Galaxy series. 
+asr:0: OUTPUT 4511.51-4516.76: And so combining the two, can you share with us your overall strategy in the flagship this year? 
+asr:0: OUTPUT 4528.41-4536.76: Ecosystem. 
+asr:0: OUTPUT 4540.38-4544.22: The. 
+asr:0: OUTPUT 4545.47-4552.67: Foreign. 
+asr:0: OUTPUT 4555.28-4557.48: Marketing. 
+asr:0: OUTPUT 4558.18-4566.67: Marketing. 
+asr:0: OUTPUT 4568.65-4570.33: To answer your question,. 
+asr:0: OUTPUT 4570.35-4580.22: Actually, the key point of our flagship tier, premium tier strategy would be to further concentrate on strengthening. 
+asr:0: OUTPUT 4580.24-4581.70: User experience. 
+asr:0: OUTPUT 4582.26-4585.45: This will enhance the value of the flagship product. 
+asr:0: OUTPUT 4585.47-4590.65: By providing not only the best hardware but also software services and ecosystem. 
+asr:0: OUTPUT 4591.83-4600.24: Also. 
+asr:0: OUTPUT 4600.26-4603.08: Providing the best flagship experience. 
+asr:0: OUTPUT 4603.10-4612.03: Z-Series providing the optimized foldable experience in order to satisfy the diverse lifestyles and needs of the consumers. 
+asr:0: OUTPUT 4612.77-4618.82: Also, we will be refocusing our marketing strategy around customer experience. 
+asr:0: OUTPUT 4619.12-4627.33: And also continue a full year brand marketing campaign to make the brand more aspired. 
+asr:0: OUTPUT 4627.35-4633.63: And strengthen the premium brand position to maximize our flagship sales volume. 
+asr:0: OUTPUT 4635.30-4636.60: Thank you. 
+asr:0: OUTPUT 4640.02-4643.54: This is Kim Dong-won from KBPBS News. 
+asr:0: OUTPUT 4643.96-4650.23: The next question will be presented by Dong Won Kim from KB Securities. Please go ahead with your question. 
+asr:0: OUTPUT 4680.78-4689.13: Do you think the opinion on the current price outlook and the recently shortened dram cycle cycle will continue in the future? 
+asr:0: OUTPUT 4691.15-4694.49: QD display. 
+asr:0: OUTPUT 4695.44-4698.82: QD display. 
+asr:0: OUTPUT 4699.06-4705.73: I wonder how much the current level of technology and the competitive price are. 
+asr:0: OUTPUT 4710.05-4716.64: My first question is about the DRAM prices. After DRAM price being increased in first quarter,. 
+asr:0: OUTPUT 4716.68-4720.54: Now back to a downward trend in three quarters time. 
+asr:0: OUTPUT 4721.02-4727.61: But there are different views as to where it will go further. Some are expecting that. 
+asr:0: OUTPUT 4727.89-4733.03: Others are saying it's not likely the prices to improve in the second half of this year. 
+asr:0: OUTPUT 4733.25-4739.52: As a leader in this segment, what is your outlook on the D-RAM movement going forward? 
+asr:0: OUTPUT 4739.72-4747.63: Also, it appears that the cycle itself is getting shorter. Do you think the cycle will stay this way in the future? 
+asr:0: OUTPUT 4748.15-4750.67: My second question is about the QD display. 
+asr:0: OUTPUT 4751.27-4760.34: I'm hearing that the customers have received a QD display supply. Can you share with us your customers' response to the QD display? 
+asr:0: OUTPUT 4760.56-4767.65: And also can you share with us some details about where you think your technology level is and how you compare in terms of cost competitiveness? 
+asr:0: OUTPUT 4774.27-4800.42: And the price of raw materials, and the risk of intellectual property. However, the high-core CPUs are being expanded, and new CPUs that support DDR5 are being released. And the main IT companies are investing. 
+asr:0: OUTPUT 4809.65-4818.98: To. 
+asr:0: OUTPUT 4819.02-4820.82: About the market outlook. 
+asr:0: OUTPUT 4820.92-4830.59: Of. 
+asr:0: OUTPUT 4830.61-4836.00: The possibility of additional increase in raw materials and various geopolitical risks. 
+asr:0: OUTPUT 4836.34-4842.08: But looking at the market, there are many factors that support a strong demand side. 
+asr:0: OUTPUT 4842.22-4849.99: For example, there will be increased adoption of high-core CPUs, launch of new CPU that supports DDR5. 
+asr:0: OUTPUT 4850.09-4854.49: And also expected increase of IT investment by major companies. 
+asr:0: OUTPUT 4854.93-4862.54: So this supports the view that there will be fundamental strong demand, especially around servers. 
+asr:0: OUTPUT 4862.90-4869.95: Also, if we look at the mobile side, demand is expected to remain solid given the likely penetration of 5G. 
+asr:0: OUTPUT 4869.97-4874.49: And also the adoption of new form factors by the major mobile OEMs. 
+asr:0: OUTPUT 4900.00-4906.05: Supply side, there is definitely lead time for the equipment overall and the industry is getting longer. 
+asr:0: OUTPUT 4906.37-4912.27: Also, it's becoming more and more challenging to maintain the node migration and investment efficiency. 
+asr:0: OUTPUT 4912.65-4920.48: And. 
+asr:0: OUTPUT 4920.54-4923.34: In a timely manner by maintaining the right product mix. 
+asr:0: OUTPUT 4925.07-4927.09: Oh, honey, she's a major eater. 
+asr:0: OUTPUT 4929.39-4935.78: Memory cycle. 
+asr:0: OUTPUT 4939.38-4944.36: To. 
+asr:0: OUTPUT 4950.03-4955.42: On. 
+asr:0: OUTPUT 4958.98-4963.16: Regarding price, of course it's difficult for us to also predict price at this point. 
+asr:0: OUTPUT 4963.58-4972.87: But we also noticed, as you mentioned, a clear tendency of the memory market cycle height and also the length getting shorter than before. 
+asr:0: OUTPUT 4973.57-4977.62: Also considering that our inventory remains to be at fair levels,. 
+asr:0: OUTPUT 4977.82-4981.86: These are all signs that indicate a possible stabilizing of the market. 
+asr:0: OUTPUT 4982.08-4991.23: Also recently, a third-party agency did announce its view that the market may actually change direction during the first half. 
+asr:0: OUTPUT 4991.27-4994.63: And so we are adding this as one of the possible scenarios. 
+asr:0: OUTPUT 4999.12-5007.89: Q. I have a question about QD display. 
+asr:0: OUTPUT 5010.05-5019.14: As the media reported, STC started mass production of QD display in the 4th quarter of this year, and it was successfully sold to customers. 
+asr:0: OUTPUT 5080.06-5082.42: Premiums. 
+asr:0: OUTPUT 5084.00-5090.99: Korea. 
+asr:0: OUTPUT 5093.23-5100.22: Q. To answer your question about the QT display, yes, we have heard that the market has high expectations but also some concerns about the QT. 
+asr:0: OUTPUT 5100.24-5107.29: We started mass production of the QT display fourth quarter last year and have made deliveries to the customers. 
+asr:0: OUTPUT 5107.91-5115.52: The customer response is that the QD display has definitely advantages compared to competing products. 
+asr:0: OUTPUT 5116.58-5126.09: We are currently working with customers to have TVs and monitors using the QD display be positioned in the higher end of the premium product lineup. 
+asr:0: OUTPUT 5126.71-5134.37: We believe that as our utilization improves, we would also be able to increase the shipments of our QD display. 
+asr:0: OUTPUT 5135.03-5140.94: We believe that the QD display definitely will take position as a premium display. 
+asr:0: OUTPUT 5141.00-5151.77: And we believe that as we are able to increase our shipments with improving utilization towards the end of this year,. 
+asr:0: OUTPUT 5151.79-5158.18: We will be able to see an increase in demand, especially around the premium products. 
+asr:0: OUTPUT 5158.20-5167.87: By offering QD as a way of differentiating the performance in the ultra-large size TV and monitor market. 
+asr:0: OUTPUT 5178.36-5180.14: Kwon Hye-yi, Won-sik Lee. 
+asr:0: OUTPUT 5180.68-5185.67: The next question will be presented by Won Sik-lee from Korea Investment and Securities. 
+asr:0: OUTPUT 5186.15-5187.55: Please go ahead with your question. 
+asr:0: OUTPUT 5187.57-5215.44: Thank you for the opportunity to ask questions. I will ask questions on the foundry side and the display side. First, the foundry part is constantly raising the demand for our 4nm, 5nm and 3nm processes. Please tell us about the current demand situation for these processes and future demand improvement plans. The next display part is that the competition between our medium-sized plastic OLED market companies is intensifying day by day. 
+asr:0: OUTPUT 5221.78-5230.65: My first question is about the foundry. There is continuous noise regarding the foundry low yield in the advanced nodes. 
+asr:0: OUTPUT 5230.67-5234.71: Can you give us an update on the yield and how you plan to address this? 
+asr:0: OUTPUT 5235.16-5243.74: Second question is about the flexible oil ED market. In the small and mid-sized flexible oil ED market, competition is becoming. 
+asr:0: OUTPUT 5243.76-5245.09: More intense. 
+asr:0: OUTPUT 5245.21-5246.63: How do you plan to respond? 
+asr:0: OUTPUT 5246.65-5263.86: To this. 
+asr:0: OUTPUT 5271.19-5280.46: What are the latest developments in the global economy? 
+asr:0: OUTPUT 5280.48-5286.71: Investments and development and is maintaining the technology leadership in the advanced nodes. 
+asr:0: OUTPUT 5287.23-5296.84: As we move on to the advanced nodes, the challenge of maintaining and securing initial stable yield has increased. 
+asr:0: OUTPUT 5301.94-5308.55: The. 
+asr:0: OUTPUT 5311.63-5321.70: Space. 
+asr:0: OUTPUT 5325.19-5333.27: In terms of response, even though there has been somewhat of a delay in our initial advanced node ramp-up versus our plan,. 
+asr:0: OUTPUT 5333.49-5336.88: We do expect this to improve and stabilize gradually. 
+asr:0: OUTPUT 5337.30-5347.13: In order to address this, we are considering looking into, for example, establishing the multi-path faster than originally scheduled by securing the infrastructure space. 
+asr:0: OUTPUT 5347.15-5351.49: And making the optimized timing of investment program. 
+asr:0: OUTPUT 5351.69-5361.58: And also working with the research center dividing roles in order to establish plans of better achieving a yield early on in the advanced nodes. 
+asr:0: OUTPUT 5371.41-5376.74: Foreign. 
+asr:0: OUTPUT 5402.36-5404.08: Uh. 
+asr:0: OUTPUT 5408.59-5414.05: Display. 
+asr:0: OUTPUT 5416.54-5419.48: In. 
+asr:0: OUTPUT 5421.06-5427.71: In. 
+asr:0: OUTPUT 5431.81-5434.05: For. 
+asr:0: OUTPUT 5436.98-5445.09: In. 
+asr:0: OUTPUT 5460.68-5467.73: As you mentioned, the competition in the flexible oil leading market is getting more intense. 
+asr:0: OUTPUT 5467.97-5477.98: Of the year. 
+asr:0: OUTPUT 5478.20-5482.58: And we are continuing to focus from various angles to maintain that leadership. 
+asr:0: OUTPUT 5483.76-5488.59: We were the first company to succeed in mass production. We pioneered the oil-leading market. 
+asr:0: OUTPUT 5488.63-5497.16: And during the past several decades of investments in R&D, we have accumulated a huge body of patents and know-how. 
+asr:0: OUTPUT 5497.70-5504.18: Also, in order to protect our differentiated technology and further enhance the value. 
+asr:0: OUTPUT 5504.46-5508.91: We have actually branded our proprietary oil LED technology. 
+asr:0: OUTPUT 5508.93-5515.12: Such as Diamond Pixel or the Echo 2 display OLED for low-power technology. 
+asr:0: OUTPUT 5515.32-5520.26: In order to establish our position and also to actively communicate to the market. 
+asr:0: OUTPUT 5521.46-5534.13: We also believe that receiving the recognition for our IP and receiving the fair compensation for it is an important part of our obligations and responsibility. 
+asr:0: OUTPUT 5534.15-5539.58: And currently we're looking into various ways in order to get that guaranteed. 
+asr:0: OUTPUT 5541.52-5549.49: Under today's ESG environment, it's important that proper business practices are honored, and we will do our best to have that happen. 
+asr:0: OUTPUT 5554.19-5556.36: Conference call. 
+asr:0: OUTPUT 5561.68-5565.57: The last question is from Nikola Godoa of UBS. 
+asr:0: OUTPUT 5565.97-5572.13: The last question will be presented by Nicola Godua from UBS. Please go ahead with your question. 
+asr:0: OUTPUT 5574.41-5576.78: Yes, good morning. Thanks for taking my question. 
+asr:0: OUTPUT 5577.66-5583.70: On NandFlash, there's been several announcements from your peers on 7th generation. 
+asr:0: OUTPUT 5583.72-5589.05: 3D NAND technology as well as QLC 4-bit for products. 
+asr:0: OUTPUT 5589.07-5590.23: Recently. 
+asr:0: OUTPUT 5590.89-5599.08: In that context, could you update us on Samsung's strategy and roadmap for both, please? Thank you. 
+asr:0: OUTPUT 5634.11-5642.98: And the enterprise-oriented QSSH market. 
+asr:0: OUTPUT 5643.02-5650.29: To answer your question, actually we have been delivering for server and consumer applications. 
+asr:0: OUTPUT 5650.31-5656.96: Starting from the fifth generation of VNANs that actually adopt the CTFQLC technology. 
+asr:0: OUTPUT 5659.44-5669.27: And also we have actually maintained the technology leadership in the market, especially for the enterprise QLC SSDs. 
+asr:0: OUTPUT 5671.99-5679.98: And. 
+asr:0: OUTPUT 5693.81-5700.76: Now for the seventh generation V-NAND, our focus is on establishing a technology leadership. 
+asr:0: OUTPUT 5700.78-5705.89: That satisfies the demands of all applications including SSD and eStorage. 
+asr:0: OUTPUT 5706.23-5714.05: And another focus is actually creating an ecosystem through cooperation with partners in preparation of a wider adoption of QLC. 
+asr:0: OUTPUT 5717.68-5721.54: And. 
+asr:0: OUTPUT 5723.28-5724.92: Foreign. 
+asr:0: OUTPUT 5727.11-5735.98: The market. 
+asr:0: OUTPUT 5738.14-5739.74: You asked about our road map. 
+asr:0: OUTPUT 5740.02-5743.52: And for the 7th generation WIN and QLC,. 
+asr:0: OUTPUT 5743.64-5750.97: Of the day. 
+asr:0: OUTPUT 5751.27-5760.16: For reference, we're expecting at the PC application level, the demands of customers for QLC products will. 
+asr:0: OUTPUT 5760.18-5763.14: Become more visible and tangible after this year. 
+asr:0: OUTPUT 5768.45-5769.59: Online. 
+asr:0: OUTPUT 5774.01-5779.92: Foreign. 
+asr:0: OUTPUT 5800.00-5807.83: Finally, we will answer questions that were submitted online in advance, starting from the last. 
+asr:0: OUTPUT 5807.85-5811.95: Our earnings call, we have been accepting questions via our web page. 
+asr:0: OUTPUT 5811.97-5820.32: In advance of an earnings release as part of our efforts to strengthen communication with individual investors and to enhance understanding of the company. 
+asr:0: OUTPUT 5820.64-5823.62: A variety of questions were submitted this quarter as well. 
+asr:0: OUTPUT 5824.04-5829.55: I believe the majority of the submitted questions have already been sufficiently answered during the Q&A session. 
+asr:0: OUTPUT 5829.77-5838.02: So we will answer two more questions on topics that garnered a high level of interest from shareholders but were not addressed during the Q&A session. 
+asr:0: OUTPUT 5840.02-5847.79: Korean translation. 
+asr:0: OUTPUT 5849.79-5854.75: Samsung, what is the difference between competitors for acceleration of growth? 
+asr:0: OUTPUT 5856.92-5860.56: I will leave that to the vice president of Foundry, Kang Moon Soo. 
+asr:0: OUTPUT 5862.30-5870.47: The first question is the following. The company has been treating the foundry like a new business to nurture, but the market is fiercely competitive. 
+asr:0: OUTPUT 5870.83-5878.02: I would like to hear your opinion on what distinctive advantage Samsung has over its competitors to accelerate growth. 
+asr:0: OUTPUT 5878.52-5882.48: This will be answered by EVP Moon Soo Kang on behalf of the Foundry Division. 
+asr:0: OUTPUT 5887.17-5889.11: Foreign. 
+asr:0: OUTPUT 5896.04-5905.29: Foreign. 
+asr:0: OUTPUT 5905.59-5908.69: The. 
+asr:0: OUTPUT 5911.99-5922.76: To answer your question, as you mentioned, yes, in order to develop our founding business, we have been executing unprecedented scale of investments and also focused on developing technology. 
+asr:0: OUTPUT 5923.94-5928.07: And in addition to securing the technology leadership through these efforts,. 
+asr:0: OUTPUT 5928.09-5938.20: Another focus of our foundry business is to further expand the ecosystem by building strong partnerships with other companies within the foundry industry. 
+asr:0: OUTPUT 5938.50-5944.94: We believe this will help alleviate customers' concerns about foundry stores' concentration. 
+asr:0: OUTPUT 5945.21-5950.63: And also will be able to provide meaningful solutions for the entire foundry industry. 
+asr:0: OUTPUT 5964.04-5976.12: Of. 
+asr:0: OUTPUT 5976.16-5978.60: So our focus is on developing. 
+asr:0: OUTPUT 5978.62-5985.93: Developing a total system level solution using, for example, advanced packaging technology such as. 
+asr:0: OUTPUT 5985.95-5991.79: 2.5D and 3D, which can maximize both the density and performance. 
+asr:0: OUTPUT 5992.17-6000.00: Also, we're leveraging our collaborative relationship with the memory division in order to provide solutions that are different. 
+asr:0: OUTPUT 6000.14-6001.44: From other companies. 
+asr:0: OUTPUT 6001.56-6015.26: Is. 
+asr:0: OUTPUT 6025.65-6032.59: The global market demand for 5G smartphones is expected to grow significantly this year. 
+asr:0: OUTPUT 6032.61-6039.60: Against this backdrop, what are Samsung Electronics' strategy on the lineup and sales expansion. 
+asr:0: OUTPUT 6039.62-6042.70: This will be answered by VP Sung-guk Kim. 
+asr:0: OUTPUT 6042.74-6044.12: Of the MX division. 
+asr:0: OUTPUT 6047.71-6060.68: The smartphone market is growing rapidly, and it is expected that more than half of the smartphone sales will be 5G phones this year. 
+asr:0: OUTPUT 6061.14-6062.90: Is. 
+asr:0: OUTPUT 6064.08-6072.61: And the price of the MES entry level. 
+asr:0: OUTPUT 6074.21-6081.02: Yes, as you mentioned, the 5G smartphone market has been growing very rapidly. It is expected to continue this growth. 
+asr:0: OUTPUT 6081.30-6088.77: A market outlook is that this year, 5G smartphones would account for more than half of the smartphone shipments in the entire market. 
+asr:0: OUTPUT 6089.21-6093.93: Now in order to actively absorb this mass of 5G replacement demand,. 
+asr:0: OUTPUT 6094.15-6103.42: We have prepared a full 5G lineup across the entire price range, starting from the flagship models of the S-family and the foldable Z-series. 
+asr:0: OUTPUT 6103.44-6106.03: As well as the mass entry level. 
+asr:0: OUTPUT 6108.79-6112.99: The. 
+asr:0: OUTPUT 6113.67-6119.04: With. 
+asr:0: OUTPUT 6122.02-6131.79: The. 
+asr:0: OUTPUT 6134.21-6137.96: And continue to grow higher than the market this year. 
+asr:0: OUTPUT 6140.08-6148.45: So our, especially our focus in terms of strategy as we respond to the compete competition, the intense competition. 
+asr:0: OUTPUT 6148.47-6153.99: And the mass segment is to leverage the galaxy experience that we have. 
+asr:0: OUTPUT 6154.49-6168.15: We have the excellent S-series experience, which we will roll out even to the mass tier model so that all Galaxy users will be able to share and enjoy the premium Galaxy experience. 
+asr:0: OUTPUT 6168.63-6176.36: Also on the sales side, we will be proposing 5G handsets, mass 5G handsets to all of our channels. 
+asr:0: OUTPUT 6176.62-6180.68: And also look into collaboration with the carriers. 
+asr:0: OUTPUT 6180.70-6188.23: In order to increase 5G handset sales, which will also benefit the carriers in terms of further upside and their ARPU. 
+asr:0: OUTPUT 6188.67-6195.52: Through these initiatives, we will focus on continuing the high growth momentum versus market this year. 
+asr:0: OUTPUT 6199.92-6202.50: Foreign. 
+asr:0: OUTPUT 6218.50-6220.14: I wish you all the best. Thank you. 
+asr:0: OUTPUT 6221.16-6234.33: Due to time constraints, we are unfortunately unable to answer every question that was submitted. However, I would like to thank everyone who shared their opinion, providing us with valuable information to refer in our decision-making process. 
+asr:0: OUTPUT 6234.89-6242.06: That completes our conference call this quarter. We wish all of you and those close to you stay strong and in good health. Thank you. 
+asr:0: END

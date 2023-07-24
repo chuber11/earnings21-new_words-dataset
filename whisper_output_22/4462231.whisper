@@ -1,0 +1,381 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.75-12.23: Good day and welcome to the Texas Instruments Q3 2021 earnings release conference call. 
+asr:0: OUTPUT 13.41-19.52: Today's conference is being recorded. At this time, I would like to turn the conference over to Dave Paul. 
+asr:0: OUTPUT 28.11-32.95: Good afternoon, and thank you for joining our third quarter 2021 earnings conference call. 
+asr:0: OUTPUT 33.59-38.88: For any of you who missed the release, you can find it on our website at ti.com slash IR. 
+asr:0: OUTPUT 40.06-44.50: This call is being broadcast live over the web and can be accessed through our website. 
+asr:0: OUTPUT 45.37-47.41: A replay will be available through the web. 
+asr:0: OUTPUT 48.19-57.02: This call will include forward-looking statements that involve risk and uncertainties that could cause TI's results to differ materially. 
+asr:0: OUTPUT 57.04-59.54: For management's current expectations. 
+asr:0: OUTPUT 60.00-73.43: We encourage you to review the Notice Regarding Forward-Looking Statements contained in the earnings release published today, as well as TI's most recent SEC filings, for a more complete description. 
+asr:0: OUTPUT 74.61-84.32: Our Chief Financial Officer, Rafael Lizardi, is with me today and will provide the following updates. First, I'll start with a quick overview of the quarter. 
+asr:0: OUTPUT 85.85-94.71: Next, I'll provide insight into third quarter revenue results with some details of what we're seeing in respect to the customers and markets. 
+asr:0: OUTPUT 95.44-102.40: And I'll also provide details by end market, including some sequential performance as we have the last few quarters. 
+asr:0: OUTPUT 103.38-111.01: As sequential data begins to be less insightful, we'll move back to reporting only year over year per our normal practice. 
+asr:0: OUTPUT 111.99-121.80: And lastly, Rafael will cover the financial results, an update of our capacity expansion plans, and our guidance for fourth quarter 2021. 
+asr:0: OUTPUT 123.28-124.94: Starting with a quick overview of the quarter. 
+asr:0: OUTPUT 126.81-139.16: Revenue in the quarter was $4.6 billion, an increase of 1% sequentially and 22% year over year, driven by demand in industrial, automotive, and personal electronics. 
+asr:0: OUTPUT 140.42-146.69: On a sequential basis, analog grew 2%, and embedded processing declined 5%. 
+asr:0: OUTPUT 147.57-153.67: On a year-over-year basis, analog revenue grew 24% and embedded processing grew 13%. 
+asr:0: OUTPUT 154.63-158.00: Our other segment grew 19% from the year ago quarter. 
+asr:0: OUTPUT 159.42-166.17: Now let me comment on the current environment to provide some context of what we're seeing with our customers and markets. 
+asr:0: OUTPUT 166.77-174.03: Overall, the quarter came in generally as we expected across product segments and markets and geographies. 
+asr:0: OUTPUT 175.32-180.74: Lead times for the majority of our products remain stable, but hot spots continue to exist. 
+asr:0: OUTPUT 181.56-186.87: However, customers are becoming more selective in their expedite requests. 
+asr:0: OUTPUT 186.89-193.57: Focusing on products that complete a matched set rather than expediting products across the board. 
+asr:0: OUTPUT 194.55-200.34: This behavior is not specific to any product family and market or geography. 
+asr:0: OUTPUT 202.04-209.57: Discussions with customers confirm a high-level interest in our commitment to expanding our internal manufacturing capacity roadmap. 
+asr:0: OUTPUT 210.17-219.66: Including 300 millimeter wafer fabs, RFab2 and Lehigh, or what we call LFab, and the associated assembly test expansions. 
+asr:0: OUTPUT 220.80-226.15: These investments to strengthen our manufacturing and technology competitive advantage. 
+asr:0: OUTPUT 226.17-230.87: Will provide lower costs and greater control of our supply chain. 
+asr:0: OUTPUT 231.95-243.42: And while there is a growing recognition that the near-term supply, demand, and balance will end at some point, the secular growth of semiconductor content per system will continue to grow. 
+asr:0: OUTPUT 243.76-250.81: And this requires a robust manufacturing capacity roadmap for 2025 and beyond. 
+asr:0: OUTPUT 251.87-256.04: Moving on, I'll provide some insight into our third quarter revenue by end market. 
+asr:0: OUTPUT 257.52-264.76: First, the industrial market was down mid-single digits sequentially and up about 40% from a year ago. 
+asr:0: OUTPUT 265.89-272.23: The changes both sequentially and from the year ago were generally consistent across the diverse set of sectors. 
+asr:0: OUTPUT 273.77-279.10: The automotive market again grew sequentially and was up more than 20% from the year ago. 
+asr:0: OUTPUT 280.00-287.25: When comparing to pre-pandemic levels of Q4 2019, revenue is up almost 30%. 
+asr:0: OUTPUT 288.39-295.24: Personal electronics grew low double digits sequentially and was up low double digits compared to a year ago. 
+asr:0: OUTPUT 296.24-302.80: The strength sequentially in the year ago was due to mobile phones, PC notebooks, and tablets. 
+asr:0: OUTPUT 304.70-312.27: Next, communications equipment was down mid-single digits sequentially and was down upper teens from a year ago. 
+asr:0: OUTPUT 313.73-318.14: Enterprise systems grew sequentially and from the year ago quarter. 
+asr:0: OUTPUT 319.38-324.56: Rafael will now review profitability, capital management, and our outlook. 
+asr:0: OUTPUT 325.89-334.09: Thanks, Dave, and good afternoon, everyone. As Dave mentioned, third quarter revenue was $4.6 billion, up 22% from a year ago. 
+asr:0: OUTPUT 335.26-339.62: Gross profit in the quarter was $3.2 billion or 68% of revenue. 
+asr:0: OUTPUT 340.26-344.40: From a year ago, gross profit margin increased 360 basis points. 
+asr:0: OUTPUT 345.91-352.11: Operating expenses in the quarter were $800 million, up 1% from a year ago and about as expected. 
+asr:0: OUTPUT 353.03-357.32: On a trailing 12-month basis, operating expenses were 18% of revenue. 
+asr:0: OUTPUT 358.20-362.16: Over the last 12 months, we have invested $1.6 billion in R&D. 
+asr:0: OUTPUT 364.20-371.93: Acquisition charges and non-cash expense were $47 million in the third quarter and will go to zero beginning in fourth quarter of 2021. 
+asr:0: OUTPUT 373.39-381.68: Operating profit was $2.3 billion in the quarter, or 50% of revenue. Operating profit was up 43% from the year-ago quarter. 
+asr:0: OUTPUT 383.32-388.41: Net income in the third quarter was $1.9 billion or $2.07 per share. 
+asr:0: OUTPUT 390.09-394.73: Let me now comment on our capital management results, starting with our cash generation. 
+asr:0: OUTPUT 395.54-402.72: Cash flow from operations was $2.4 billion in the quarter. Capital expenditures were $486 million in the quarter. 
+asr:0: OUTPUT 403.50-407.59: Free cash flow on a 12-month basis was $7.1 billion. 
+asr:0: OUTPUT 408.57-417.00: In September, we announced we would increase our dividend by 13% effective this month, marking our 18th consecutive year of dividend increases. 
+asr:0: OUTPUT 417.76-424.76: In the quarter, we paid $942 million in dividends and repurchased $139 million of our stock. 
+asr:0: OUTPUT 426.21-436.06: In total, we have returned $4.2 billion in the past 12 months. Over the same period, our dividend represented 53% of free cash flow, underscoring its sustainability. 
+asr:0: OUTPUT 437.20-443.22: Our balance sheet remains strong with $9.8 billion of cash and short-term investments at the end of the third quarter. 
+asr:0: OUTPUT 444.20-450.67: In the quarter, we've issued $1.5 billion of debt in three tranches of $500 million each. 
+asr:0: OUTPUT 451.19-455.44: The first has a coupon of 1.125% which is due in five years. 
+asr:0: OUTPUT 455.94-462.40: The second, a 1.9% due in 10 years. And the last, a 2.7% due in 30 years. 
+asr:0: OUTPUT 463.12-469.11: This resulted in total debt of $7.8 billion with a weighted average coupon of 2.6%. 
+asr:0: OUTPUT 470.51-477.04: Regarding inventory, TI inventory dollars were up $7 million from the prior quarter and days were 112. 
+asr:0: OUTPUT 477.70-481.04: Up one day sequentially, but still below desired levels. 
+asr:0: OUTPUT 482.02-489.39: For the fourth quarter, we expect TI revenue in the range of $4.22 to $4.58 billion. 
+asr:0: OUTPUT 490.01-495.62: And earnings per share to be in the range of $1.83 to $2.07. 
+asr:0: OUTPUT 496.28-501.76: The Lehigh acquisition closed last Friday, but the costs are not included in our guidance. 
+asr:0: OUTPUT 502.44-506.03: We will provide those details when we report fourth quarter results. 
+asr:0: OUTPUT 506.65-511.07: Just as a reminder, the purchase price was about $900 million. 
+asr:0: OUTPUT 511.77-517.70: And we expect ongoing costs of about $75 million per quarter through 2022. 
+asr:0: OUTPUT 519.28-528.59: We continue to expect our annual operating tax rate for 2021 to be about 14% and our effective tax rate to be about 13%. 
+asr:0: OUTPUT 529.73-534.63: As you are looking at your models for 2022 without any changes to tax law. 
+asr:0: OUTPUT 535.10-541.24: We would expect our annual operating and effective tax rates to remain about what they are this year. 
+asr:0: OUTPUT 542.20-548.53: With a similar quarterly profile of discrete tax benefits that are higher in the first quarter compared to the rest of the year. 
+asr:0: OUTPUT 550.47-557.48: In closing, we continue to invest to strengthen our competitive advantages and in making our business stronger. 
+asr:0: OUTPUT 558.24-565.73: Our investments in our long-term roadmap for capacity expansion, both in LFAB and RFAB2, are great examples. 
+asr:0: OUTPUT 566.93-576.30: As a reminder, our CAPEX will be higher on an absolute level as well as a percentage of revenue as we strengthen this advantage. 
+asr:0: OUTPUT 577.34-585.79: We are working through detailed plans of our long-term roadmap and we'll have specifics of timing and cap expending in our capital management goal in February. 
+asr:0: OUTPUT 586.51-594.29: We continue to believe owning and controlling our supply chain will be of growing strategic importance. With that, let me turn it back to Dave. 
+asr:0: OUTPUT 595.10-604.44: Thanks, Rafael. Operator, you can now open the lines up for questions. In order to provide as many of you as possible an opportunity to ask a question,. 
+asr:0: OUTPUT 604.46-606.57: Please limit yourself to a single question. 
+asr:0: OUTPUT 607.05-611.77: After our response, we'll provide you an opportunity for an additional follow-up. Operator? 
+asr:0: OUTPUT 615.76-621.38: Thank you. 
+asr:0: OUTPUT 621.86-626.15: And if you're on speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. 
+asr:0: OUTPUT 626.31-628.27: Again, press star 1 to ask a question. 
+asr:0: OUTPUT 629.23-632.27: We'll pause just a moment to allow everyone an opportunity to signal for questions. 
+asr:0: OUTPUT 636.42-640.40: And we will go first to John Pitzer of Credit Suisse. 
+asr:0: OUTPUT 641.84-643.90: Yeah, good afternoon guys. Thanks for letting me ask the question. 
+asr:0: OUTPUT 644.44-651.07: Dave, I know in this sort of environment seasonality doesn't make a lot of sense, but when you look at the September quarter,. 
+asr:0: OUTPUT 651.09-655.52: I'm just kind of curious, the June quarter came in well above your guidance range. 
+asr:0: OUTPUT 655.98-664.97: September was well above the midpoint but still within the guidance range. We're hearing of logistical constraints and supply constraints across the economy. 
+asr:0: OUTPUT 665.00-671.81: I'm kind of curious when you look at sort of the lower level upside in the September quarter versus the June quarter. 
+asr:0: OUTPUT 672.01-681.62: To what extent might have that been supply constraints outside of your control? To what extent do you think it's customers just being more selective about what they're pulling from you? 
+asr:0: OUTPUT 681.72-683.10: Any color there would be helpful. 
+asr:0: OUTPUT 684.30-687.15: And thanks for the question. 
+asr:0: OUTPUT 687.53-693.07: Yeah, I really think it depends on the customers, the bill of material. I think that there are supply constraints that are. 
+asr:0: OUTPUT 693.09-697.44: Widely reported across different components. 
+asr:0: OUTPUT 697.60-703.46: As we mentioned in our prepared remarks,. 
+asr:0: OUTPUT 703.54-706.45: The behavior that we're seeing that's different. 
+asr:0: OUTPUT 706.89-711.41: Our customers are showing up and requesting, you know, we have meetings with them. 
+asr:0: OUTPUT 711.79-717.40: Rather than showing up with long lists of devices that they're asking us to expedite. 
+asr:0: OUTPUT 717.42-720.88: They're really just short lists. So they're looking for. 
+asr:0: OUTPUT 720.90-728.45: You know, particular parts that complete those match sets so that they, you know, can complete those builds for them. So,. 
+asr:0: OUTPUT 728.77-733.33: It is a different behavior that we're seeing this quarter versus the prior quarters. 
+asr:0: OUTPUT 733.91-735.05: So, no follow on. 
+asr:0: OUTPUT 736.28-738.92: I know you're going to give us more color. 
+asr:0: OUTPUT 738.94-745.21: About LFAB expenses and RFAB expenses as we get into next year, but I'm wondering if you could just help us. 
+asr:0: OUTPUT 745.23-751.05: Set the stage a little bit. Next year is obviously going to be kind of a capacity build-out year for you. 
+asr:0: OUTPUT 751.69-759.32: And I guess all else being equal, how should we think about the gross margin impact on calendar year 22 as you layer in these investments? 
+asr:0: OUTPUT 760.62-769.05: Yeah, I'll take that one. First, as you know, you've known us for a long time. We don't manage the business to gross margins. 
+asr:0: OUTPUT 769.37-772.41: We manage for a long-term growth of free cash flow per share. 
+asr:0: OUTPUT 772.85-776.26: And that starts with driving the top line. 
+asr:0: OUTPUT 776.56-782.06: And that's why we're making these investments, right, to support revenue growth. And as we do that is. 
+asr:0: OUTPUT 782.36-791.31: Is extending our low-cost manufacturing advantage that gives us the great structural cost advantage with 300 millimeters. And in addition to that,. 
+asr:0: OUTPUT 791.63-793.75: We're controlling the supply chain. 
+asr:0: OUTPUT 795.46-799.64: And specifically on your question, you know, take our 5 to. 
+asr:0: OUTPUT 799.66-806.95: All in, that's about a $6 billion expense. About a billion of that is the building, which depreciates over 30 years or so. 
+asr:0: OUTPUT 807.49-814.01: The balance of the rest is equipment, and we're going to be putting that equipment starting next year and over the coming years. 
+asr:0: OUTPUT 814.83-820.84: With LFAB, obviously a $900 million purchase price. 
+asr:0: OUTPUT 821.14-830.65: And some of that is building, some of that is equipment. And then on top of that, we'll put about $3 billion of CAPEX over a number of years as we ramp that up. 
+asr:0: OUTPUT 832.01-841.50: So we'll give you additional details on that and the bigger, longer-term picture of how we're going to support the longer-term growth. 
+asr:0: OUTPUT 841.82-844.76: We'll give you those details in February at the capital management call. 
+asr:0: OUTPUT 845.37-848.83: Okay. Thank you, John. And we'll go to the next caller, please. 
+asr:0: OUTPUT 850.01-852.81: And we'll go next to Timothy Arcuri of UBS. 
+asr:0: OUTPUT 854.55-858.46: Hi, thanks. Rafael, I was wondering if you could talk about pricing. 
+asr:0: OUTPUT 859.68-863.54: Obviously, you're seeing some increases in your. 
+asr:0: OUTPUT 863.56-873.39: Input costs. Can you talk about whether you're passing those on to customers and sort of how ubiquitous any price increases on your side might be? 
+asr:0: OUTPUT 874.81-879.70: Yeah, what I would tell you, our strategy on pricing has not changed. We regularly monitor. 
+asr:0: OUTPUT 879.72-888.85: And our goal is to be competitive. And it's really, frankly, independent of the input and the input cost to the largest degree. 
+asr:0: OUTPUT 889.63-898.16: But our goal is to be competitive and if prices move higher, we adjust those over time. And we have been adjusting those over time. 
+asr:0: OUTPUT 899.38-905.31: I did, Dave. Thanks. And I guess I'll ask the same question that I've asked the last, I think, three calls about ShareRepo. 
+asr:0: OUTPUT 906.53-907.71: It was pretty low again. 
+asr:0: OUTPUT 908.21-914.49: I guess, can you help us think through maybe what the triggers might be for you to start to buy back? 
+asr:0: OUTPUT 914.51-919.62: More stock is there a target cash level where maybe you'd say that the balance sheet is getting a little bit over. 
+asr:0: OUTPUT 919.72-925.33: Capitalized and you'd start to buy back more stock. Obviously, you're not buying back much, but. 
+asr:0: OUTPUT 925.59-930.53: But I'm just kind of wondering if you can talk us through what triggers you might be looking for to start that back again. Thanks. 
+asr:0: OUTPUT 931.55-941.48: Yeah, you know, stepping back and just to remind everybody how we think about returns, our objective is to return all free cash flow to the owners of the company over the long term. 
+asr:0: OUTPUT 941.60-943.70: And we do that through dividend and buyback. 
+asr:0: OUTPUT 944.08-947.99: You look at our 18-year history on that, and it's really consistent. 
+asr:0: OUTPUT 948.05-955.14: We've, many years, most years, we've averaged well over 100% of return. 
+asr:0: OUTPUT 956.16-965.09: During that time, we have, I would remind you, we have increased the proportion of the return that comes into dividends. So that also plays into that. 
+asr:0: OUTPUT 965.39-968.91: As long as we think the buybacks are accretive,. 
+asr:0: OUTPUT 969.01-972.45: To long-term owners, we're going to have some buybacks. And as you have seen,. 
+asr:0: OUTPUT 972.49-980.20: As you pointed out, the last three quarters we have – in fact, I don't think there's been a single quarter in the last 18 years or so that we have not. 
+asr:0: OUTPUT 980.22-986.41: Purchase, return cash to the owners through buybacks in one form or another. 
+asr:0: OUTPUT 987.59-989.97: Okay, thank you, Tim, and we'll go to the next caller, please. 
+asr:0: OUTPUT 991.61-993.67: We'll go next to Harlan Soar of J.P. Morgan. 
+asr:0: OUTPUT 996.10-1003.28: Good afternoon. Thanks for taking my question. On finished goods inventory, most of which I assume is sitting at customer consignment hubs. 
+asr:0: OUTPUT 1003.88-1010.31: This has come down faster than overall inventories, right? Finished goods dropped 8% sequentially in Q3. 
+asr:0: OUTPUT 1010.81-1018.48: Dropped 9% in Q2, they're down 25% from the beginning of this year, and down 33% pre-COVID-19. 
+asr:0: OUTPUT 1018.54-1022.04: I assume due to the strong demand profile from your direct customers. 
+asr:0: OUTPUT 1022.60-1029.65: So how far below normal are consignment inventories relative to your customers' target levels. 
+asr:0: OUTPUT 1030.27-1035.24: And is part of the muted Q4 outlook to replenish these very low inventories? 
+asr:0: OUTPUT 1035.66-1043.20: Or does the demand profile backlog and forecast actually reflect a sequential decline here in the fourth quarter? 
+asr:0: OUTPUT 1044.78-1049.79: Yeah, so I'll start and Dave, you want to chime in after that. 
+asr:0: OUTPUT 1050.29-1057.82: I think where you're going with that, let me maybe step back. Yeah, obviously inventory levels are below desired levels. 
+asr:0: OUTPUT 1057.88-1059.40: I wear it 112 days. 
+asr:0: OUTPUT 1059.92-1065.91: Our target is 130 to 190 days, so clearly we're well below where we want to be. 
+asr:0: OUTPUT 1066.35-1073.47: And inside of that, as you pointed out, finished goods, all finished goods, whether it's in consignment or at our product distribution centers. 
+asr:0: OUTPUT 1073.49-1082.26: Are the ones that are decreasing most. In fact, even though inventory, total inventory level stayed about flat, slightly up,. 
+asr:0: OUTPUT 1082.28-1086.17: Second to third quarter finished goods decreased. 
+asr:0: OUTPUT 1086.37-1090.03: And then WHIP and rheumatoid increase a little bit to offset that. 
+asr:0: OUTPUT 1091.09-1099.36: So our goal, as soon as capacity increases or there's an adjustment in demand, we will build those inventory levels back up. 
+asr:0: OUTPUT 1099.38-1102.00: To be at a more healthy level. 
+asr:0: OUTPUT 1102.70-1112.31: And given our business model, it's just a great bet, just given the low obsolescence of our inventory, the diversity of positions, diversity of products. 
+asr:0: OUTPUT 1112.61-1121.62: That we can afford, not only we can afford, it makes sense for us to build that inventory, have it ready for the secular growth that we're confident will happen beyond that. 
+asr:0: OUTPUT 1122.14-1131.97: You know, and I think maybe tactically where you were going on consignment inventory, frankly, those tend to be pretty lean to begin with. That's how that process is designed to just keep a couple weeks. 
+asr:0: OUTPUT 1132.49-1138.34: So I wouldn't expect that by itself to build significantly, purely consignment. 
+asr:0: OUTPUT 1138.46-1143.20: Where I would expect the bill to happen is more at our product distribution centers. 
+asr:0: OUTPUT 1143.56-1148.73: And that gives us more flexibility to then ship where the demand is most needed. 
+asr:0: OUTPUT 1149.83-1152.55: Do you have? I think that's well said. 
+asr:0: OUTPUT 1152.79-1158.92: I think it's just tactically whether we keep it in our hubs where we would prefer it or. 
+asr:0: OUTPUT 1158.96-1167.07: You know, if we push it out to a consignment center, that'll just be reflective of our expectation that a customer will pull it. 
+asr:0: OUTPUT 1167.27-1170.07: That's just a tactical decision. 
+asr:0: OUTPUT 1170.71-1173.97: I'd also point out that, as you said, Rafael,. 
+asr:0: OUTPUT 1174.07-1179.44: We do plan to bring on more capacity incrementally as we have each quarter. 
+asr:0: OUTPUT 1179.46-1184.62: Through this year and through the middle of next year. 
+asr:0: OUTPUT 1184.72-1189.27: And in the back half of of 2022. 
+asr:0: OUTPUT 1189.41-1194.93: RFAB 2 will come online and then that will be followed by. 
+asr:0: OUTPUT 1194.95-1199.52: LFAB, as Rafael pointed out, we did close. 
+asr:0: OUTPUT 1199.56-1204.22: On on that factory on Friday of last week. 
+asr:0: OUTPUT 1204.66-1213.59: And so that is on target to come online in early 2023 to support growth in the future. 
+asr:0: OUTPUT 1214.21-1215.80: So did you have a follow-up, Harlan? 
+asr:0: OUTPUT 1217.48-1220.06: Yeah, thanks, I appreciate the insightful answer. 
+asr:0: OUTPUT 1220.70-1228.93: Exiting last year, the direct business, which includes consignment, that was about 65% of revenues. Where does that mix roughly sit today? 
+asr:0: OUTPUT 1228.95-1233.41: Did the team drive a positive book-to-bill ratio in Q3 if you could maybe quantify? 
+asr:0: OUTPUT 1235.72-1242.60: So on the book to bill, we don't think that's relevant, frankly. I admit you haven't disclosed that in a while. 
+asr:0: OUTPUT 1242.94-1246.05: And we're not disclosing that anymore. 
+asr:0: OUTPUT 1246.81-1248.83: On your first question, I'm percent. 
+asr:0: OUTPUT 1249.09-1252.33: I think you asked for a cent of our revenue from consignment, is that right? 
+asr:0: OUTPUT 1252.73-1259.18: Yeah, that's the first part. Yeah, did you just repeat it to Harlan so we got make sure we got it right what you're asking on the first question? 
+asr:0: OUTPUT 1261.48-1264.30: Are you there. 
+asr:0: OUTPUT 1265.23-1266.95: I think. 
+asr:0: OUTPUT 1268.37-1269.53: Oh, direct business. 
+asr:0: OUTPUT 1269.91-1277.74: So, yeah, so we left last year with about two thirds of our revenues direct. 
+asr:0: OUTPUT 1278.30-1283.32: So, we expect that that percentage will increase over time. 
+asr:0: OUTPUT 1284.06-1289.79: We'll provide an update of what we've done with that this year in our February call. 
+asr:0: OUTPUT 1290.09-1295.90: A cap management call in February of actually what that looks like. 
+asr:0: OUTPUT 1295.98-1303.46: Just to say over time that we do expect that that will move up slightly over time. 
+asr:0: OUTPUT 1303.98-1309.87: So, and just the other color with with Rafael talking about book the bill. 
+asr:0: OUTPUT 1310.67-1315.54: As we've got a lot of our revenue on consignment, we've got TI.com. 
+asr:0: OUTPUT 1316.06-1321.20: You know, the actual backlog isn't quite as meaningful as what it used to be. 
+asr:0: OUTPUT 1321.22-1326.39: As he said, it's just not a number that we look at or measure. 
+asr:0: OUTPUT 1326.41-1330.79: Or we've talked about in some time, so it isn't quite as helpful as what it used to be. 
+asr:0: OUTPUT 1331.03-1333.79: So thank you, Harlan, and we'll go to the next caller, please. 
+asr:0: OUTPUT 1336.14-1338.92: And we'll go next to Stacey Raskin of Bernstein Research. 
+asr:0: OUTPUT 1340.46-1341.82: Thanks for taking my questions. 
+asr:0: OUTPUT 1342.44-1349.49: For the first one, I wanted to ask about the near-term micron impact. I know you said $75 million in cost impact in the model next year. 
+asr:0: OUTPUT 1350.05-1355.30: Those costs don't go away, right? That's 75 million a quarter is people, correct? 
+asr:0: OUTPUT 1355.82-1361.20: And does it include depreciation or anything else? How do you think about that incremental cost long term? 
+asr:0: OUTPUT 1362.22-1372.17: Very good, Stacy. Good direct question. So, yes, that 75 million is mainly people and direct costs, not depreciation. 
+asr:0: OUTPUT 1372.81-1380.50: Depreciation will not start until about first quarter 23 when we start production, just the way the rules work on that front. 
+asr:0: OUTPUT 1381.56-1383.48: And that 75 million. 
+asr:0: OUTPUT 1383.52-1386.79: We're still working through the details, but. 
+asr:0: OUTPUT 1386.81-1393.71: We currently believe that the most likely scenario is that most of that cost will go through the restructuring charges slash other line. 
+asr:0: OUTPUT 1394.01-1395.56: Until we start production. 
+asr:0: OUTPUT 1395.68-1400.32: And at that point, the majority of the cost would go to the COR line. 
+asr:0: OUTPUT 1400.96-1405.59: Now, the costs actually do increase over time as we increase production. 
+asr:0: OUTPUT 1405.95-1413.03: But I think where you're going is that as that happens and those costs are then absorbed by revenue. 
+asr:0: OUTPUT 1413.95-1422.30: Now, how quickly those are absorbed beyond utilization, underutilization, etc., that just depends how quickly we ram that factory, right? 
+asr:0: OUTPUT 1422.32-1430.77: Clearly, at the beginning, there won't be 100% absorption, and we'll get to that at some point. 
+asr:0: OUTPUT 1430.83-1437.82: You know, we're not gonna, you know, that's that's in 2023. So we'll get to that at some point to give you to give you some details. 
+asr:0: OUTPUT 1438.24-1446.33: And in February, the capital management goal, I think we'll frame it, kind of the bigger picture of that, along with our other CapEx investments, and you'll get a better sense of. 
+asr:0: OUTPUT 1446.35-1449.61: Of how that's going to play out. 
+asr:0: OUTPUT 1451.75-1460.86: It looks like Stacy has disconnected. Okay. Okay. If you have a follow-on, let us know, Stacy. We'll go to the next caller, please. 
+asr:0: OUTPUT 1463.02-1465.53: And we'll go next to Ross Seymour of Deutsche Bank. 
+asr:0: OUTPUT 1467.47-1468.97: Hey guys, thanks for letting me ask a question. 
+asr:0: OUTPUT 1469.51-1475.80: Dave and Rafael, I want to talk about the quarterly reported and get into some of the supply demand dynamics. 
+asr:0: OUTPUT 1475.82-1484.42: It was the smallest beat to your original revenue guidance you guys have had in a year, and I realize that it's been exceedingly volatile in the last year. 
+asr:0: OUTPUT 1484.90-1487.41: But I wondered, was that the demand? 
+asr:0: OUTPUT 1487.43-1493.45: The demand profile changing from those investors, that selectivity changing that you're talking about. 
+asr:0: OUTPUT 1493.67-1505.00: Or did supply play a role in that where you just couldn't meet up to the demand? Just trying to get what really changed versus whatever level of conservatism you had built into the prior quarters when you beat by bigger deltas. 
+asr:0: OUTPUT 1506.45-1514.99: Yeah, I think you said demand from investors. I think you might say demand from customers, right? Right. Yes. Sorry about that. Yeah. Yeah. Okay. 
+asr:0: OUTPUT 1515.92-1521.06: Certainly, if any investors want to buy semiconductors from us, we'll be happy to sell them. 
+asr:0: OUTPUT 1522.76-1527.67: But yeah, so I just say that overall the quarter came in as we expected it to, right? 
+asr:0: OUTPUT 1527.75-1530.93: And. 
+asr:0: OUTPUT 1531.09-1536.24: And that's a statement, as we said in the prepared remarks, and we looked across. 
+asr:0: OUTPUT 1536.26-1543.40: Geographies and products and product groups and markets, those types of cuts. 
+asr:0: OUTPUT 1543.66-1550.47: So, there wasn't like 1 area that was underperformed or outperformed what we were expecting. 
+asr:0: OUTPUT 1551.45-1560.14: But again, the main thing of what was different this quarter versus last quarter was really where customers were coming in and. 
+asr:0: OUTPUT 1560.16-1563.48: Requesting expedites and upsides from us. 
+asr:0: OUTPUT 1564.20-1570.25: And those upsides were much, much more narrow and focused just on a few products. 
+asr:0: OUTPUT 1570.87-1580.56: That was really what the difference was. If you're looking for what was different this quarter versus last quarter and those types of things, that's what I would point to to say what's. 
+asr:0: OUTPUT 1580.60-1582.68: Changed in the last 90 days. 
+asr:0: OUTPUT 1585.15-1594.31: Thanks for the help on that. And I guess as my follow up, a similarly toned question, you mentioned that lead times remain extended, but are stable. And then you talked about that whole selectivity dynamic. 
+asr:0: OUTPUT 1595.16-1602.06: What would you imagine would change the lead times? Is it going to be your supply incrementally rising or more so with Lehigh? 
+asr:0: OUTPUT 1602.52-1607.67: Or is the selectivity something, as you guys look back and are students of cycles. 
+asr:0: OUTPUT 1608.25-1613.67: Is the demand side and that selectivity side more likely to impact the lead times going forward? 
+asr:0: OUTPUT 1615.02-1622.20: Well, as you know, you've been through many cycles with us, right? It's always a combination of both and. 
+asr:0: OUTPUT 1623.54-1630.37: You know, we will continue to add incremental capacity as we have planned for some time. 
+asr:0: OUTPUT 1631.51-1640.84: And certainly, as we go out in time, as we get the bigger tranches of capacity coming on with RFAB 2 and then LFAB,. 
+asr:0: OUTPUT 1641.28-1643.98: We'll be able to make more progress on that front. 
+asr:0: OUTPUT 1645.05-1651.05: And at some point, you know, we know that, you know, things will change from a demand standpoint. 
+asr:0: OUTPUT 1651.21-1656.88: And so we don't spend time trying to predict that, but we'll be ready for it. 
+asr:0: OUTPUT 1657.54-1666.99: We know what we'll want to do. And as Rafael talked about, one of the top things there is we'll want to rebuild inventory to prepare for the next time that the demand strengthens. 
+asr:0: OUTPUT 1667.49-1673.19: So we have a long list of things that we're doing to invest in the company to make it stronger. So. 
+asr:0: OUTPUT 1673.67-1678.10: We won't control the timing of that, but we'll be ready for it. 
+asr:0: OUTPUT 1678.60-1679.62: And just to emphasize that point. 
+asr:0: OUTPUT 1679.66-1689.05: When that adjustment happens, whenever that is, we will continue investing in R&D, focus on the areas of auto and industrial. 
+asr:0: OUTPUT 1689.07-1691.39: For the secular long-term growth. 
+asr:0: OUTPUT 1692.05-1700.74: We'll continue to invest on CapEx to set up the company for the next 10 to 15 years with a great long-term roadmap. 
+asr:0: OUTPUT 1701.08-1704.68: And we will build inventory. That's what Dave mentioned. 
+asr:0: OUTPUT 1704.80-1714.09: Our range is 130 to 190 days. Frankly, we'll probably end up being at the higher end of that range just because we feel so good about the business model and how good that inventory will be. 
+asr:0: OUTPUT 1714.33-1722.00: And how it sets us up for the next upturn on the other side, given the long-lived nature of that inventory. 
+asr:0: OUTPUT 1722.50-1725.75: Okay, thank you, Ross, and we'll go to the next caller, please. 
+asr:0: OUTPUT 1727.47-1730.15: Next we'll go next to Vivek Hara of Bank of America. 
+asr:0: OUTPUT 1732.65-1733.65: Thanks for taking my question. 
+asr:0: OUTPUT 1734.59-1737.50: I just want to get the supply side right. 
+asr:0: OUTPUT 1737.76-1739.16: Are customers not. 
+asr:0: OUTPUT 1739.18-1750.85: Ordering as much from you because they don't have enough from you on the component side or they don't have enough from others that they need to complete their bill of materials. 
+asr:0: OUTPUT 1751.81-1757.42: It's both, you know, there is there are instances of both of those. 
+asr:0: OUTPUT 1758.64-1763.46: Sometimes it's not even semiconductors, right? It may be other components that they may be missing. 
+asr:0: OUTPUT 1764.36-1768.79: So yeah, it's a combination of those things. You know, supply chains are complex. 
+asr:0: OUTPUT 1768.81-1776.44: It depends on the bill of materials and the systems that they're building. 
+asr:0: OUTPUT 1776.80-1778.30: It depends. 
+asr:0: OUTPUT 1778.62-1783.98: Yeah, and the nuance changes, you know, 90 days ago, 180 days ago, they were exploiting everything. 
+asr:0: OUTPUT 1784.14-1790.05: Almost regardless of match set position. Now they're more selective. 
+asr:0: OUTPUT 1790.11-1794.37: In what they're expediting. 
+asr:0: OUTPUT 1797.16-1800.60: Could you talk specifically to the automotive market? 
+asr:0: OUTPUT 1801.58-1810.55: You know, this year it's clear the production has not been that strong, but auto semiconductor sales have been pretty strong. 
+asr:0: OUTPUT 1811.05-1816.52: As it applies to TI, what do you think has been the interplay between content and mix. 
+asr:0: OUTPUT 1816.58-1823.44: Or do you think that there is perhaps inventory stuck in the automotive supply chain somewhere that we should watch out for? 
+asr:0: OUTPUT 1825.13-1830.61: I'll comment on automotive. I think I'll even extend it into industrial. 
+asr:0: OUTPUT 1831.09-1838.16: You know, those are two markets that we have long talked about that we believe that there is content growth in those markets. 
+asr:0: OUTPUT 1838.18-1842.46: Content per system, it's easy to see in cars and. 
+asr:0: OUTPUT 1842.60-1849.41: You know, well, reported on I know that in your reports that you've reported on that content growth. You can see it in. 
+asr:0: OUTPUT 1849.89-1855.40: In automotive, it's happening in industrial across 13 different sectors, so harder to see. 
+asr:0: OUTPUT 1856.26-1864.48: And, you know, we invest in all the markets, but we have a strategic focus on automotive and industrial. So. 
+asr:0: OUTPUT 1864.50-1869.59: You're beginning to see some of the benefits of that strategic bias that we have. 
+asr:0: OUTPUT 1870.59-1875.80: Our channel advantages, the breadth of our products advantage us in those markets as well. 
+asr:0: OUTPUT 1876.18-1877.74: So there's components of that. 
+asr:0: OUTPUT 1878.56-1886.67: But that said, anytime that we have supply shortages in the industry, customer behavior is always very consistent. 
+asr:0: OUTPUT 1886.85-1891.99: And that behavior is that they will want to build inventory to protect themselves. 
+asr:0: OUTPUT 1892.43-1897.32: So, you know, whether they've already begun that, or have already done that. 
+asr:0: OUTPUT 1897.58-1907.03: They certainly will want to do that. And at some point, they'll have too much product and that's what creates the cycles in our industry. 
+asr:0: OUTPUT 1907.85-1917.40: It won't surprise us if the cycle comes to an end at some point. We'll be prepared for that and we'll know what we'll want to do at that point. 
+asr:0: OUTPUT 1918.24-1924.82: Thank you for those questions, and we'll go to the next caller, please. We'll go to Joe Moore of Morgan Stanley. 
+asr:0: OUTPUT 1927.31-1930.81: Great, thank you. I wonder if you could talk to the hotspots. 
+asr:0: OUTPUT 1931.25-1936.72: Is there any particular pattern that's driving which products you have in short supply? 
+asr:0: OUTPUT 1937.26-1942.86: You know, we see it most in areas like enterprise and some of the personal electronics. 
+asr:0: OUTPUT 1943.22-1945.47: I'm not sure if that is true for the higher. 
+asr:0: OUTPUT 1945.85-1953.91: Is that something that you guys would agree with? And do you think is it, you know, is there more foundry versus internal fabs? Like, is there anything in particular driving those hotspots? 
+asr:0: OUTPUT 1955.80-1960.00: I wouldn't put it down on any one thing, Joe. 
+asr:0: OUTPUT 1960.20-1968.71: And certainly, you know, there's, you know, reports of the tightness across boundaries. So, obviously, we see that as well. 
+asr:0: OUTPUT 1969.31-1971.93: There's tightness in some leaf frames. 
+asr:0: OUTPUT 1972.27-1974.03: So, you know, we see that as well. 
+asr:0: OUTPUT 1975.08-1979.14: Other input raw materials, mold compounds. 
+asr:0: OUTPUT 1979.78-1988.75: We have testers in some cases, some process technologies, some particular products themselves. 
+asr:0: OUTPUT 1988.77-1993.21: That have a large number of customers. 
+asr:0: OUTPUT 1994.05-2003.52: And those hotspots move around as our operations teams will sometimes move capacity from one area to the other. 
+asr:0: OUTPUT 2003.92-2007.61: So they're not always consistent or persistent. 
+asr:0: OUTPUT 2008.87-2018.58: Sometimes they are, but sometimes they're not. And there's things that we can do to mitigate those or actually completely alleviate them. 
+asr:0: OUTPUT 2019.34-2027.91: And that's why, as we describe them, it's not just one particular product area or one particular product set that or even one particular market. 
+asr:0: OUTPUT 2028.89-2034.67: Or even, I'd say, even one particular customer that would be impacted by that, as you may say. 
+asr:0: OUTPUT 2035.10-2041.64: And just to highlight something for my new listeners, Dave mentioned the foundries. 
+asr:0: OUTPUT 2041.66-2046.45: Only about 20% of our wafers come from foundries. 
+asr:0: OUTPUT 2046.99-2049.59: The vast majority, 80%, and growing. 
+asr:0: OUTPUT 2050.47-2057.64: With our investments in 300 millimeter are internal wafers, and that just gives us much better control. 
+asr:0: OUTPUT 2057.66-2066.45: Of our destiny and for all the reasons Dave mentioned and then the low-cost, structural low-cost that we get with 300-millimeter. 
+asr:0: OUTPUT 2066.99-2076.10: I think that makes it especially clear why we believe that continues to be a strategic advantage for us in times like this. So you have a follow on Joe? 
+asr:0: OUTPUT 2077.40-2085.63: Douglas Goldstein, CFP®, is the director of Profile Investment Services and the host. 
+asr:0: OUTPUT 2085.65-2094.85: Tight or are there actual areas where, you know, I know there's always a little bit of this, but on a broad scale where you're not meeting kind of commitments that you had made because of some of those things that are upstream from you? 
+asr:0: OUTPUT 2096.04-2099.68: I think there's probably both of those that exist. 
+asr:0: OUTPUT 2099.70-2109.43: I mean, at 112 days of inventory, it is harder to respond to upsides than if we were at 150, 160, 190 days, of course. 
+asr:0: OUTPUT 2109.53-2111.17: Yep, for sure. 
+asr:0: OUTPUT 2111.71-2119.94: Okay, well, thank you, Joe. We'll go to the next caller, please. And our next question comes from Christine Lee of Citi. 
+asr:0: OUTPUT 2122.98-2131.97: Hey, thanks guys. So Dave and Rafael, you mentioned that the lead times haven't really changed, but the expedites are getting better or less bad. 
+asr:0: OUTPUT 2133.05-2138.16: Why do you think that is? Do you think that your competitors are reducing lead times? Do you think that the. 
+asr:0: OUTPUT 2138.18-2145.99: The supply chain has had a little bit of a chance to build some buffer inventory, why do you think the situation is getting, I guess, either better or less bad? 
+asr:0: OUTPUT 2147.43-2148.77: Yeah, you know, Chris. 
+asr:0: OUTPUT 2148.79-2157.20: I think that's a great question. I don't know that we know the answer specifically to that question. So I think we're trying to stick to the facts of. 
+asr:0: OUTPUT 2157.22-2159.42: We can observe that behavior change. 
+asr:0: OUTPUT 2159.90-2167.99: I think you're offering some good theories of why that behavior may be changing. 
+asr:0: OUTPUT 2168.97-2174.11: But what we're trying to do is to stick to the facts of what's going on. 
+asr:0: OUTPUT 2174.41-2177.20: There's multiple reasons why it might be changing. 
+asr:0: OUTPUT 2177.64-2186.27: And we'd rather not venture into guessing or predicting or calling what's driving that behavior. 
+asr:0: OUTPUT 2187.01-2192.27: So, you have a follow on? Yeah, I guess you can leave the guessing and predicting up to us all ciders. 
+asr:0: OUTPUT 2193.45-2199.70: Since you guys don't talk about gross margin, but you do talk about free cash flow margin. 
+asr:0: OUTPUT 2200.34-2210.11: I think you had an all-time high in free cash flow margin in Q3, and it looks like there's some headwinds coming down the pike in the, I guess, near to medium term. 
+asr:0: OUTPUT 2210.73-2214.89: Is there any reason for us to believe that? 
+asr:0: OUTPUT 2214.91-2222.04: You know, you've seen your all-time peak in free cash flow margin, or eventually could it get back above where it was in the most recent quarter? 
+asr:0: OUTPUT 2223.32-2228.77: Sure, I'll take that, Chris. And Chris, you know us very well. You've followed us for a long time. 
+asr:0: OUTPUT 2229.27-2237.06: You know we do not manage to free cash flow margin percent, right? That is not what drives a long-term value for the owners. 
+asr:0: OUTPUT 2237.10-2240.34: Is the long term growth of free cash flow dollars right. 
+asr:0: OUTPUT 2241.08-2249.91: And to your point, there are some headwinds on that with the CapEx that we're talking about to set up the company well for the future. 
+asr:0: OUTPUT 2250.27-2258.88: But of course, we're only doing that because we think that is going to drive even faster growth of the long-term trend of free cash flow dollars. 
+asr:0: OUTPUT 2258.92-2264.78: We'll continue to focus on that because we think that is what drives value for the long-term owner. 
+asr:0: OUTPUT 2266.09-2273.91: Okay, thank you, Chris. And we've got time for one more call. 
+asr:0: OUTPUT 2276.16-2284.08: Thank you for squeezing me in. As far as the question on controlling the supply chain, you talked about 80% outsourced now. 
+asr:0: OUTPUT 2284.14-2286.27: I believe that's kind of the more advanced nodes. 
+asr:0: OUTPUT 2286.77-2292.91: Should we assume that that 80% is just going to grow and that you're going to rely less and less on founders going forward? 
+asr:0: OUTPUT 2293.83-2299.42: Yeah, so you said 80 outsourced, it's 80 insourced, just to make sure. 80%... 
+asr:0: OUTPUT 2300.52-2303.94: Yeah, so 80% are on wafers. 
+asr:0: OUTPUT 2305.15-2313.07: Yes, that should grow over time as we continue to add this wafer fabs that we're talking about all in 300 millimeter, which. 
+asr:0: OUTPUT 2313.09-2317.04: With the efficiency of 300 millimeter is huge right because. 
+asr:0: OUTPUT 2317.06-2322.78: A 300-millimeter wafer accounts for almost 2.3 times a 200-millimeter wafer. 
+asr:0: OUTPUT 2323.10-2329.81: And these are pretty large wafers for efficiency purposes. In fact, R5-2 is going to be bigger than R5-1. 
+asr:0: OUTPUT 2330.11-2335.94: So yeah, it's reasonable to deduce that that percent will increase over time. 
+asr:0: OUTPUT 2337.64-2342.10: I don't want to steal your thunder from February, but I think we're going to have to wait a. 
+asr:0: OUTPUT 2342.12-2349.15: In the past, we've talked about capacity of $22 billion. Obviously, you're going to go through capacity expansion here for the next 12 to 18 months. 
+asr:0: OUTPUT 2350.43-2355.50: Would you share any new numbers with those? I don't know, 25, 28, anything at all? 
+asr:0: OUTPUT 2356.48-2359.36: Yeah, no, so great question. Thanks for the setup for February. 
+asr:0: OUTPUT 2359.86-2364.56: We will talk about that in February. So until then. 
+asr:0: OUTPUT 2364.82-2369.51: What I would tell you is, you've heard us talk about DEMO 6 and RFI 1. 
+asr:0: OUTPUT 2369.55-2377.90: Roughly, that's a potential of about $8 billion of annual revenue on 300-millimeter. 
+asr:0: OUTPUT 2378.02-2382.82: And this is all dependent, highly dependent on mix, right? So these are not exact numbers, but. 
+asr:0: OUTPUT 2383.20-2392.33: RFAP2, with that caveat, RFAP2 should add another $5 billion of annual revenue, again, when it's fully equipped, right, so obviously not on day one. 
+asr:0: OUTPUT 2392.89-2398.02: And Lehigh should add three to four billion of annual revenue. So, you know, we're thinking. 
+asr:0: OUTPUT 2398.24-2407.81: In terms of that, and we're thinking even beyond that, right? Because as we look at the company's potential for growth into the next 10 and 15 years,. 
+asr:0: OUTPUT 2407.93-2417.74: Then we're not stopping just thinking in the next four or five years. We're thinking 10, 15 years. We'll talk about that in February in more detail. 
+asr:0: OUTPUT 2418.74-2423.76: Great. And I think we can go ahead and wrap up, Rafael. 
+asr:0: OUTPUT 2423.94-2428.79: Okay, so let me wrap up by reiterating what we have said previously. 
+asr:0: OUTPUT 2429.45-2433.31: At our core, we're engineers and technology is the foundation of our company. 
+asr:0: OUTPUT 2433.69-2440.34: But ultimately, our objective and the best metric to measure progress and generate long-term value for owners is the growth of free cash over share. 
+asr:0: OUTPUT 2441.00-2448.37: While we strive to achieve our objective, we will continue to pursue our three ambitions. We will act like owners who will own the company for decades. 
+asr:0: OUTPUT 2448.91-2456.96: We will adapt and succeed in a world that's ever-changing, and we will be a company that we're personally proud to be a part of and would want as our neighbor. 
+asr:0: OUTPUT 2457.32-2461.42: When we're successful, our employees, customers, communities, and owners all benefit. 
+asr:0: OUTPUT 2461.88-2462.90: Thank you and have a good. 
+asr:0: OUTPUT 2467.87-2473.59: And so this concludes today's call. Thank you for your participation. You may now disconnect. 
+asr:0: END

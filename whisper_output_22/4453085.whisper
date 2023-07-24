@@ -1,0 +1,497 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.22-12.73: Ladies and gentlemen, and welcome to the CD Projekt Group financial results for H1 2021 conference call. Today's call is being recorded. 
+asr:0: OUTPUT 12.75-16.90: At this time I turn the conference over to Adam Kaczynski. Please go ahead. 
+asr:0: OUTPUT 19.24-28.19: Thank you very much. Good evening. Welcome to the teleconference dedicated to Center Project Group's earnings of the first half of 2021. 
+asr:0: OUTPUT 29.05-34.51: Today, as usual, I'll be running this call together with Piotr Pieniubowicz and Michał Nowakowski. 
+asr:0: OUTPUT 35.88-46.07: The webcasts of the presentation along with the audio feed are also streamed on our corporate website cdprojekt.com and on our IR YouTube channel. 
+asr:0: OUTPUT 47.79-57.94: Let's start off with Cyberpunk 2077 franchise and a brief summary of what we've accomplished so far with regard to supporting the game. 
+asr:0: OUTPUT 59.46-65.69: In the first half of the year, we are focused on supporting cyberpunk by rolling out success improvements. 
+asr:0: OUTPUT 67.19-71.57: So far, four patches and three hotfixes have been done in Raspbian. 
+asr:0: OUTPUT 73.11-82.82: What's more, we recently released Arch 1.3, also included additional free content referred to as DLT. 
+asr:0: OUTPUT 84.20-92.39: With each update, we address multiple performance and stability issues, improving the overall gameplay experience for players. 
+asr:0: OUTPUT 94.03-102.58: Restoring Cyberpunk 2077 to the Digital Station's top front in the second half of June was an important milestone for us. 
+asr:0: OUTPUT 103.58-107.71: Reinforcing our confidence in our plans to improve the game. 
+asr:0: OUTPUT 108.97-114.27: In terms of support, work on Cyberpunk will continue for as long as it's necessary. 
+asr:0: OUTPUT 115.00-121.12: Our ultimate goal is to deliver on the promise we gave to gamers and regain their trust. 
+asr:0: OUTPUT 122.10-129.81: We are fully committed to ensuring that Cyberpunk lives up to its full potential and becomes a long-term success. 
+asr:0: OUTPUT 131.01-139.12: At the same time, we are focused on the development of the next-gen version of the game, which brings me to slide number four. 
+asr:0: OUTPUT 140.86-145.41: Our target date for the release of the Next-Gen update is late 2021. 
+asr:0: OUTPUT 146.05-153.85: Please note, however, that as the game is still in development, products and plans might be subject to change. 
+asr:0: OUTPUT 154.59-159.88: The next generation is an important step on our adventure in the cyberpunk universe. 
+asr:0: OUTPUT 161.10-165.51: As I said before, we strongly believe in the long-term potential of this IP. 
+asr:0: OUTPUT 166.37-176.24: That's why we are currently working on the first expansion for the game, although I cannot say anything more about it at this point in time. 
+asr:0: OUTPUT 177.64-183.50: Now let's move on to the Witcher franchise. Please move on to the next slide. 
+asr:0: OUTPUT 186.99-193.65: The two most significant events related to the Witcher universe took place after the close of the reporting period. 
+asr:0: OUTPUT 194.53-200.38: In July, together with Netflix, we co-organized the first ever edition of the Uccer Con. 
+asr:0: OUTPUT 200.86-204.84: A two-day virtual event for fans of the Witcher universe. 
+asr:0: OUTPUT 205.85-212.27: This event attracted great community attention and was streamed by a number of key influencers. 
+asr:0: OUTPUT 212.99-222.70: At the WitcherCon, apart from interviews and panels attended by project creators as well as the Witcher series staff and cast members,. 
+asr:0: OUTPUT 222.80-236.26: We announced that the base edition of The Witcher 3 Wild Hunt, along with its next-generation will, regardless of the platform, contains some extra content inspired by the Netflix series. 
+asr:0: OUTPUT 237.60-247.21: As with Cyberpunk 2077, our target date for the release of the next-gen version of The Witcher 3 Wild Hunt is late 2021. 
+asr:0: OUTPUT 248.89-250.53: Let's move on to slide 8. 
+asr:0: OUTPUT 251.81-257.88: The Witcher Month is a mobile location-based AR game developed and published by the. 
+asr:0: OUTPUT 257.90-263.30: By our daughter company Spoko was launched on the 21st of July. 
+asr:0: OUTPUT 264.58-269.85: We are very satisfied with how the game has been reviewed and rated by gamers. 
+asr:0: OUTPUT 270.91-277.88: Its ratings currently stand at 4.5 on Austor and 4.1 on Google Play. 
+asr:0: OUTPUT 279.40-289.05: Regular users, as well as experts, point to, among others, strong focus on storytelling and the game's immersive nature driven by AR. 
+asr:0: OUTPUT 289.95-291.95: We're not even brothers. 
+asr:0: OUTPUT 292.41-301.62: We are in the process of collecting and analyzing data, in-game stats and feedback from gamers, and we have ambitious plans for the coming quarters. 
+asr:0: OUTPUT 302.98-309.83: We plan to roll out new content including new adventure seasons, monsters and features. 
+asr:0: OUTPUT 310.75-313.17: Now let's move to slide 9. 
+asr:0: OUTPUT 314.85-323.42: In July, following the signing of the Takeover Agreement, Digital Scapes formally became a member of the CD Projekt family. 
+asr:0: OUTPUT 324.36-328.41: Studio was subsequently rebranded as Telepro Equipment Vancouver. 
+asr:0: OUTPUT 329.41-338.76: The Canadian studio has set itself an ambitious goal to triple in size by the end of the calendar year, with a target. 
+asr:0: OUTPUT 338.78-340.86: In size of approximately 40 gigahertz. 
+asr:0: OUTPUT 342.22-350.77: It will focus on supporting third-party efforts related to technology and gameplay programming for the studio's core IPs. 
+asr:0: OUTPUT 352.13-357.00: Let's move to the final slide of this part of the presentation, number 11. 
+asr:0: OUTPUT 358.34-366.29: In accordance with our promise to Glamours, we intend to keep improving Cyberpunk for, as I said, as long as it takes. 
+asr:0: OUTPUT 366.69-374.77: Meanwhile, we do not lose sight of the bigger picture. We want to develop other products based on our franchises. 
+asr:0: OUTPUT 374.79-377.46: And to keep growing our core business. 
+asr:0: OUTPUT 378.44-379.50: Right now. 
+asr:0: OUTPUT 379.52-388.87: 160 people are working on the size expansion for Cyberpunk, while nearly 70 more are involved in other unannounced projects. 
+asr:0: OUTPUT 390.75-397.46: That's all from me for now. Let's move on to slide 12, Piotr. The floor is yours. 
+asr:0: OUTPUT 402.10-404.68: For the first half of the season. 
+asr:0: OUTPUT 410.91-419.02: This year, our revenues from sales of products reached 367 million zloty and were 54% higher than a year ago. 
+asr:0: OUTPUT 419.64-425.63: While 2020 has been our best H1 in years, the first half of this year was even better. 
+asr:0: OUTPUT 426.83-436.08: Though we saw lower sales of the Witcher franchise this year, which is natural and expected, Cyberpunk 2077 has been more than made up for this decrease. 
+asr:0: OUTPUT 436.90-443.50: The TCP was the most important source of revenue this year and most of the sales came from digital channels. 
+asr:0: OUTPUT 444.20-450.81: As you may remember, at the end of 2020, we booked some provisions, mainly for supplements with our physical distributors. 
+asr:0: OUTPUT 451.33-454.93: You this year we were adjusting and utilizing them. 
+asr:0: OUTPUT 455.42-464.18: We've analyzed the situation and possible settlements of contracts with our distributors and have decided to decrease part of our unused case provisions. 
+asr:0: OUTPUT 464.20-468.65: By nearly $40 million, which boosted our product sales revenues. 
+asr:0: OUTPUT 468.67-476.38: And at the same time, we did increase our cost provisions related to operation with CP distributors by 14 million Zlotys. 
+asr:0: OUTPUT 476.42-478.88: Which boosted our cost of product sales. 
+asr:0: OUTPUT 479.44-485.19: These two changes were effectively neutral with regard to the gross margin. 
+asr:0: OUTPUT 485.33-491.27: However, they reflect our updated estimation of future settlements of contracts of our distributors. 
+asr:0: OUTPUT 492.05-497.34: There is also one more important new element in the cost of products and services sold line. 
+asr:0: OUTPUT 497.88-504.74: During the first half of last year, it included mostly the depreciation of the Witcher 3, Switch Edition, Gwent and Thronebreaker. 
+asr:0: OUTPUT 505.43-511.45: This year it also includes depreciation of cyber fines in the amount of 34 million zloty. 
+asr:0: OUTPUT 511.95-516.82: Tens, nearly 88 million zloty total value of cost of products and services sold. 
+asr:0: OUTPUT 518.62-523.24: Revenues from sales of goods and materials, we reported a decrease by 20%. 
+asr:0: OUTPUT 523.84-531.07: GOG sales of goods and materials stayed at the same level as last year, although the slot is visibly stronger against the dollar. 
+asr:0: OUTPUT 531.09-534.37: While at telephonic RAT, the line decreases. 
+asr:0: OUTPUT 535.94-541.18: At sales of relatively low margin physical goods and materials on the way to the cyberpunk premium. 
+asr:0: OUTPUT 541.76-549.57: This year it's back to normal in this respect. Hence lower sales and costs of goods and materials sold at Selle Projekt. 
+asr:0: OUTPUT 550.53-559.30: All in all, our total sales revenues for this year reached 407 million zloty and were 29% above the sales of the first half of 2020. 
+asr:0: OUTPUT 560.12-566.43: Our gross profit from sales reached 308 million zloty, which is one fifth more than a year ago. 
+asr:0: OUTPUT 567.27-572.71: Moving to the operating costs, our selling costs increased this year to $131 million. 
+asr:0: OUTPUT 573.51-582.80: Being driven by the cyberpunk servicing costs. A large number of our developers and testers were working on updates and patches to the game. 
+asr:0: OUTPUT 583.40-589.03: This year alone, the total cost allocated to cyberpunk servicing reached nearly 48 million dollars. 
+asr:0: OUTPUT 589.87-593.53: GNA costs also increased versus last year. 
+asr:0: OUTPUT 593.99-601.10: Among others, we included in this position some of the early project research phase costs in the amount of 11 million zloty. 
+asr:0: OUTPUT 601.14-606.31: And also a 10 million zloty increase in cost of our incentive program compared to a year ago. 
+asr:0: OUTPUT 607.13-615.56: Our financial activity presents a negative outcome due to the negative effects differences and missing interest on deposits due to the low interest rate. 
+asr:0: OUTPUT 616.58-624.04: Now, our effective income tax rate was around 9%. This is slightly above the level of last year when it was just below 9%. 
+asr:0: OUTPUT 624.94-632.87: All in all, our net profit for the first half of this year reached 105 million zlotys, 28% less than a year ago. 
+asr:0: OUTPUT 633.57-639.66: As GOG positive negative results, 109 million dollars net profit was generated by the private class. 
+asr:0: OUTPUT 640.58-645.61: Perspective. Let's go to the next slide, number 13. 
+asr:0: OUTPUT 648.01-653.47: Of each of the four bars represents revenues for the first six months of each of the presented years. 
+asr:0: OUTPUT 654.15-660.74: From these revenues we covered our costs and expenses marked grey and earned our net profits marked blue. 
+asr:0: OUTPUT 661.42-668.07: However, this year, our cost structure was different than a year before. Please go to the next slide. 
+asr:0: OUTPUT 670.53-678.36: CP service in bus. This is our commitment to gamers but also I believe an extensive inquiry in nature. 
+asr:0: OUTPUT 678.92-687.87: The yellow slice represents the creation of something natural after the release, yet non-existing last year and of a non-monetary nature this year. 
+asr:0: OUTPUT 688.31-693.39: And the red part, these are the early phase research expanses, mostly of Q1. 
+asr:0: OUTPUT 693.95-701.80: And finally, the dark gray pattern represents adjustments for the increase of sales revenues due to derevaluation of our sales provisions. 
+asr:0: OUTPUT 701.82-704.94: That as I explained. 
+asr:0: OUTPUT 704.97-708.37: Was neutralized by a cost provision of a similar value. 
+asr:0: OUTPUT 709.39-713.57: Let's move to the next slide, number 15, our consolidated balance sheet. 
+asr:0: OUTPUT 715.86-722.68: Of this year, our net expenditures on the development projects balance decreased by 27 million dollars. 
+asr:0: OUTPUT 723.34-726.55: Mainly due to the depreciation of cyberpunk I just mentioned. 
+asr:0: OUTPUT 727.15-736.84: At the same time, our long and short-term other financial assets increased in line with our purchases of T-bonds as a way of diversifying our financial reserves. 
+asr:0: OUTPUT 737.70-747.19: All the financial assets and cash are marked with a star and summed up under the total assets table to the amount of 1.1 billion Zlotys. 
+asr:0: OUTPUT 749.31-756.52: Assets, the significant decrease of receivables by over 1 billion zloty down to nearly 250. 
+asr:0: OUTPUT 756.84-760.94: Comes from collection of our receivables due to us after the release of Cyberpunk. 
+asr:0: OUTPUT 761.58-766.39: I will elaborate more on how this cash flow was allocated in a moment. 
+asr:0: OUTPUT 767.45-776.84: Our equity decreased over the first six months of 2021, mainly due to the 2020 dividend payout, which in some part was compensated by profits for the year. 
+asr:0: OUTPUT 777.62-785.79: I did not elaborate much on the expenditures on development projects as I wanted to share with you one more slide. Please go to the next page, number 16. 
+asr:0: OUTPUT 787.87-796.88: That's expenditures on research, development, and service of released games, continuation of what I was presenting during our Q1 conference. 
+asr:0: OUTPUT 797.72-804.70: In Q2, the yellow part, our total costs of servicing our released games decreased visibly versus Q1. 
+asr:0: OUTPUT 805.35-810.11: Since the release of Cyberpunk this part is mostly dedicated to CPU. 
+asr:0: OUTPUT 810.65-816.84: Also the green part, which is the early research phase costs, were much lower in Q2 versus Q1. 
+asr:0: OUTPUT 816.86-822.18: And at the same time the blue part, actual development of new projects visibly increased. 
+asr:0: OUTPUT 822.78-832.27: This is in line with what Adam was presenting just now regarding involvement of RIT. And simplified cash flow on slide 17. 
+asr:0: OUTPUT 833.29-845.25: The money flowing in from reduction of receivables by 1 billion 29 million zloty was mainly dedicated to paying the dividend in the amount of 503 million zloty. 
+asr:0: OUTPUT 845.29-850.99: And decreasing our long-term charged liabilities and provisions by $366 million. 
+asr:0: OUTPUT 851.69-860.60: Altogether, with the 105 million LL net profit for the period, it increased our financial reserves by 255 million LL. 
+asr:0: OUTPUT 860.62-867.97: Up to $1,129,000,000 worth of cash, bank deposits and T-bonds as of the end of June 2020. 
+asr:0: OUTPUT 869.41-879.06: This is the source of financing for our future projects and developments. That's all from me for now. Thank you for your attention. Let's now move to the Q&A section. 
+asr:0: OUTPUT 881.62-887.97: Thank you. Ladies and gentlemen, if you would like to ask a question, you may do so by pressing star 1 on your telephone keypad. 
+asr:0: OUTPUT 888.31-892.47: Please make sure the mute function on your phone is turned off so the signal can be read by our equipment. 
+asr:0: OUTPUT 893.59-896.78: Star 1 for questions, we'll pause a moment to assemble our phone queue. 
+asr:0: OUTPUT 902.68-907.67: We'll take our first question from Omar Sheikh with Morgan Stanley. Please go ahead. 
+asr:0: OUTPUT 909.89-912.99: Thanks very much and good evening everyone. I've got three questions if I could. 
+asr:0: OUTPUT 913.51-919.92: So first of all I wanted to just check in on the timing of the releases of the next gen versions of Cyberpunk and The Witcher. 
+asr:0: OUTPUT 921.00-926.51: You said late 2021 but I guess arguably any day from tomorrow is late 2021. 
+asr:0: OUTPUT 926.83-929.41: If you could maybe just be a bit more specific on. 
+asr:0: OUTPUT 929.59-937.06: When during the next four months you broadly anticipate the release of these two titles. 
+asr:0: OUTPUT 937.10-940.74: Maybe you could comment on the risk of, or not the risk, but I guess. 
+asr:0: OUTPUT 940.76-946.61: Your attitude towards pushing the release of these titles into 2022? 
+asr:0: OUTPUT 946.69-948.15: That's the first question. 
+asr:0: OUTPUT 948.97-955.76: Secondly, I don't know whether I missed it, but if you could just clarify what percentage of the total revenues or. 
+asr:0: OUTPUT 955.78-962.88: Maybe the percentage of the sales of a product came from Cyberpunk in Q2, that would be helpful. 
+asr:0: OUTPUT 963.28-967.93: And then thirdly, I just want to refer to slide 10. 
+asr:0: OUTPUT 968.29-973.57: I can see from what you said there that if you look at other projects. 
+asr:0: OUTPUT 973.85-981.04: Does that include the next AAA release? I'm thinking about The Next Witcher, for example. 
+asr:0: OUTPUT 981.34-986.59: Is that included in other projects? And secondly, on this slide. 
+asr:0: OUTPUT 986.89-995.00: Should we assume that given the second biggest chunk of the current split of your development staff,. 
+asr:0: OUTPUT 995.22-997.04: Is in the expansion for Cyberpunk. 
+asr:0: OUTPUT 997.62-1002.66: We assume that that's the next thing that we'll see in terms of a big release. Thank you very much. 
+asr:0: OUTPUT 1007.03-1009.79: This has been Adam Akowski and I'll start with the first one. 
+asr:0: OUTPUT 1010.79-1019.88: Hi Omar, so thanks for the questions. I'll tackle the first one which I believe was about the next-gen releases of Cyberpunk and which I think you kind of combined. 
+asr:0: OUTPUT 1020.86-1022.62: The question. So I'll start with cyberbind. 
+asr:0: OUTPUT 1023.08-1033.03: Our target is to release the next-gen version of CP27.7 late this year, which is something that Adam mentioned in his opening statement. 
+asr:0: OUTPUT 1033.59-1042.28: At the same time, keeping in mind the lessons we have learned during the past year and taking into account the fact that this project still remains in development. 
+asr:0: OUTPUT 1043.16-1048.25: We can't say with full certainty that the production schedule will not change, of course. 
+asr:0: OUTPUT 1048.89-1056.88: With The Witcher 3, the situation is slightly different in a way that this is being tackled by the external team mainly. 
+asr:0: OUTPUT 1056.90-1060.74: Which is Sabre Interactive, the company we have worked before. 
+asr:0: OUTPUT 1061.34-1067.29: On Switch and also the updates in the past. 
+asr:0: OUTPUT 1067.95-1075.05: And as with Cyberpunk 2077, our goal is to release that game still in late 2021. 
+asr:0: OUTPUT 1076.54-1080.84: However, similarly, development process is ongoing. 
+asr:0: OUTPUT 1082.06-1091.59: We cannot be absolutely certain that the release schedule will not change, but for the time being, we definitely are aiming for both titles for late 2021. 
+asr:0: OUTPUT 1091.89-1094.89: I don't want to be more specific at this moment in time. 
+asr:0: OUTPUT 1096.84-1100.26: Thank you. 
+asr:0: OUTPUT 1100.34-1106.93: I was not referring to any precise revenue split for Cyberpunk or other products. 
+asr:0: OUTPUT 1107.49-1115.22: What I can confirm is that Cyberpunk was the leading source of revenue for us during the first half of 2021. 
+asr:0: OUTPUT 1120.48-1127.45: Hi Omar, Adam here. I'll take the third one regarding slide 10. 
+asr:0: OUTPUT 1127.75-1134.53: So the yellow part is strictly related to Cyberpunk 2077. 
+asr:0: OUTPUT 1134.97-1137.72: The game which is already released. 
+asr:0: OUTPUT 1138.24-1140.00: That maybe the... 
+asr:0: OUTPUT 1140.24-1150.71: The part which is not covered there yet, because we are in the transformation, is technology. 
+asr:0: OUTPUT 1150.73-1155.10: And part of technology would be a separate division. 
+asr:0: OUTPUT 1155.20-1160.00: But for now, it's assigned to projects. 
+asr:0: OUTPUT 1160.06-1161.66: Besides this,. 
+asr:0: OUTPUT 1161.68-1170.33: The yellow bar just represents working on the game itself Cyberpunk 2077 and. 
+asr:0: OUTPUT 1170.35-1180.58: And the other projects are AAAs which are not announced yet. 
+asr:0: OUTPUT 1183.68-1184.96: So we... 
+asr:0: OUTPUT 1185.01-1188.39: We do not provide any comments on. 
+asr:0: OUTPUT 1188.41-1197.02: So I can't confirm anything more than this is about games which. 
+asr:0: OUTPUT 1197.04-1206.21: Which we haven't announced yet. And the next... 
+asr:0: OUTPUT 1206.23-1213.45: Big AAA content will be obviously EP1, which you can see on the slide as well. 
+asr:0: OUTPUT 1217.08-1218.42: Sounds good. Thanks very much guys. 
+asr:0: OUTPUT 1222.10-1226.43: We'll take our next question from Nick Dempsey with Barclays. Please go ahead. 
+asr:0: OUTPUT 1228.17-1230.11: Yeah, good afternoon guys. I have three. 
+asr:0: OUTPUT 1230.89-1234.01: So first up, just looking at these provisions. 
+asr:0: OUTPUT 1234.11-1243.02: So to understand it, you are unwinding a negative provision in the revenue lines around 40 million zloty. 
+asr:0: OUTPUT 1243.50-1248.39: And then you have a new provision of around 40 million zloty in the cost line. 
+asr:0: OUTPUT 1248.63-1255.66: Effectively, without those things, you're boosting the revenue line by about 40 million. 
+asr:0: OUTPUT 1256.00-1260.90: But the operating profit is more or less unchanged by that activity. 
+asr:0: OUTPUT 1261.12-1263.20: But first of all, I want to understand if that is correct. 
+asr:0: OUTPUT 1263.70-1271.53: And secondly, can we expect any other provisions in the rest of the year in relation to these areas? 
+asr:0: OUTPUT 1273.13-1282.66: Second question, did you sell more or fewer units of Cyber Department 77 in Q2 versus Q1? 
+asr:0: OUTPUT 1282.72-1286.57: Are you able to give us an indication there, even if you don't give us the number? 
+asr:0: OUTPUT 1287.17-1295.20: And the third question, there's a comment in your release about Q3 being a lower quarter in general than Q2 and Q4. 
+asr:0: OUTPUT 1296.78-1302.44: Are you pointing us towards Q3 being a lower revenue quarter than Q2? 
+asr:0: OUTPUT 1312.05-1314.47: I'll take the first two questions regarding provisions. 
+asr:0: OUTPUT 1315.68-1324.14: So yes, your understanding is correct. Both are due to the, let's say in very simplified terms, reclassification of provisions. 
+asr:0: OUTPUT 1324.96-1329.33: So decrease of sales provisions and increase of cost provisions. 
+asr:0: OUTPUT 1330.77-1339.06: Our gross margin or gross profits were not affected because those values are very close to 40 million dollars. 
+asr:0: OUTPUT 1339.28-1343.90: Actually the cost provision was slightly bigger than the tax provision. 
+asr:0: OUTPUT 1345.81-1351.83: As far as the other provisions are concerned,. 
+asr:0: OUTPUT 1352.23-1362.40: We still have 160 million slots of provisions to be used for the second half of the year or for the future. Maybe not all of them are. 
+asr:0: OUTPUT 1362.42-1364.66: Exactly for the second half of the year. 
+asr:0: OUTPUT 1365.69-1371.01: We have them up to our best knowledge estimated for the publication date. 
+asr:0: OUTPUT 1371.61-1381.22: And yeah, that's what is our judgment on the future potential settlements with distributors and the contracts we have. 
+asr:0: OUTPUT 1381.24-1390.45: Is reflected into this amount. This amount also includes provisions for bonuses for the team for the first half of this year. 
+asr:0: OUTPUT 1390.97-1392.35: I hope it answers the question. 
+asr:0: OUTPUT 1401.44-1409.73: We'll take our next question from Matthew Walker with Credit Suisse. Please go ahead. Actually, hold on. I don't think we answered all the questions. 
+asr:0: OUTPUT 1411.73-1413.07: Sorry, there were two more actually. 
+asr:0: OUTPUT 1414.31-1415.54: Sorry, and this is me. 
+asr:0: OUTPUT 1415.98-1424.68: Regarding the Q2 of a Q1 CP unit, we're not really commenting the number of unit cells for the time being. 
+asr:0: OUTPUT 1424.90-1430.57: As for the third question on the revenue, I think that's probably going to be taken by Piotr. Sorry, I'm going to switch off right now. 
+asr:0: OUTPUT 1433.09-1441.56: Guiding on future sales results or future profits but usually the third quarter of the year is the weakest quarter. 
+asr:0: OUTPUT 1442.14-1444.76: It covers the summer time. 
+asr:0: OUTPUT 1444.80-1453.41: It misses the big promo events like the summer promo or the promos that happen around Black Friday in the fourth quarter. 
+asr:0: OUTPUT 1453.93-1462.26: So I would say that the traditional seasonality for the third quarter is to expect it lower. 
+asr:0: OUTPUT 1463.16-1472.13: But it's just general rule, and I'm not intending to guide you on any specific results we may achieve with this particular third quarter. 
+asr:0: OUTPUT 1491.69-1494.15: Yeah, now we have finished. 
+asr:0: OUTPUT 1495.14-1499.50: Thank you very much. We'll take our next question from Matthew Walker. Please go ahead. 
+asr:0: OUTPUT 1501.70-1506.51: Thanks, everyone. Can you hear me okay? Yes, sir. Perfect. Thanks a lot. 
+asr:0: OUTPUT 1507.17-1511.91: Yes, could you just explain the first of all on the provision side? 
+asr:0: OUTPUT 1511.93-1519.86: Can you just go back to first principles and explain why you took these provisions in the first place? 
+asr:0: OUTPUT 1520.40-1523.84: And now why you're releasing them into the revenue line. 
+asr:0: OUTPUT 1524.68-1531.69: And explain about the provisions that you've dissolved in the period as well. 
+asr:0: OUTPUT 1533.05-1535.22: That's the first question. 
+asr:0: OUTPUT 1535.62-1540.48: The second question is on, you said, I think maybe I got it wrong, but did you say that you had... 
+asr:0: OUTPUT 1540.50-1549.67: 160 million of potential provisions that you could release into the sales line in the second half of the year. 
+asr:0: OUTPUT 1549.93-1553.09: Can you just explain that for us as well? 
+asr:0: OUTPUT 1553.87-1568.09: And then could you also maybe give us an indication of how many units you got through putting it back onto the PlayStation in the latter part of June? 
+asr:0: OUTPUT 1568.57-1574.41: And then just confirm when you're talking about the expansion for Cyberpunk. 
+asr:0: OUTPUT 1574.91-1583.44: Are you talking about the first paid DLC which is coming in 2022? Is that what you're referring to? 
+asr:0: OUTPUT 1601.38-1605.99: Question was why we took the provisions in the first place. 
+asr:0: OUTPUT 1606.77-1613.13: So we set some provisions in the first place back in 2020 upon releasing CyberFunk. 
+asr:0: OUTPUT 1614.07-1624.42: The provisions included both expected costs of releasing the game that were not invoiced to us back in 2020 and we expected the invoices to come into the company. 
+asr:0: OUTPUT 1624.90-1631.75: And also potential returns or price protections that we were expecting to happen later on. 
+asr:0: OUTPUT 1632.19-1639.78: However, we're supposed to correct the same switch we already invoiced back in Q4 2020. 
+asr:0: OUTPUT 1640.28-1649.83: So the provisions for costs or sales revenues originate mostly from the premier back in 2020. 
+asr:0: OUTPUT 1651.73-1656.00: Each quarter we have to evaluate them and we have to adjust them. 
+asr:0: OUTPUT 1656.52-1664.60: Right now, based on the market situation, based on the reports from our distributors, we decided to re-evaluate them. 
+asr:0: OUTPUT 1664.66-1672.13: And in very simple terms we reclassified some of the sales provisions into cost provisions. 
+asr:0: OUTPUT 1673.89-1681.54: Hence the close to neutral effect of this transactions to our gross profit. 
+asr:0: OUTPUT 1682.06-1686.75: But we believe having the knowledge we have today that they better present. 
+asr:0: OUTPUT 1686.81-1694.23: What should happen to our profit and loss calculation. So the company should have higher sales. 
+asr:0: OUTPUT 1694.35-1698.94: But at the same time our main goal is to make it as easy as possible for the users to use. 
+asr:0: OUTPUT 1699.68-1709.39: Settlements with distributors will include more costs that we will refund based on the contracts we have with them. 
+asr:0: OUTPUT 1710.21-1714.51: At the same time having higher sales and higher incomes from that. 
+asr:0: OUTPUT 1715.08-1719.64: So that's kind of technical booking, I would say. 
+asr:0: OUTPUT 1719.96-1727.69: That better reflects how we should present it book-wise and how we decided to adjust it. 
+asr:0: OUTPUT 1727.71-1730.69: Based on the current knowledge we have right now. 
+asr:0: OUTPUT 1731.27-1738.24: As far as how much of the provisions were used and how much of the provisions were adjusted,. 
+asr:0: OUTPUT 1738.78-1748.45: I would love to point you to note 12 as far as I remember, other provisions of our financial. 
+asr:0: OUTPUT 1748.89-1756.92: And there are two tables precisely showing what sales provisions, what cost provisions and what bonus provisions we need. 
+asr:0: OUTPUT 1756.96-1759.18: Hats for the beginning of the period. 
+asr:0: OUTPUT 1759.40-1761.76: How they were used. 
+asr:0: OUTPUT 1761.78-1765.99: Which were consumed and which were added and which were. 
+asr:0: OUTPUT 1766.01-1768.79: Cancelled over the first six months. 
+asr:0: OUTPUT 1769.85-1775.26: I believe this will be much more convenient than describing all of the numbers right now. 
+asr:0: OUTPUT 1775.78-1782.24: If you would happen to have any additional questions, I will be happy to answer them directly. 
+asr:0: OUTPUT 1784.08-1789.11: Thank you. I believe that's all from my side on the first two provision questions. 
+asr:0: OUTPUT 1791.25-1796.10: And Michal Nowakowski again, I'll jump in on the fourth question. 
+asr:0: OUTPUT 1796.40-1801.36: Regarding the how many units were. 
+asr:0: OUTPUT 1801.38-1809.37: Sold on CP when we came back to the Sony store. We're not really commenting the units as we mentioned before. 
+asr:0: OUTPUT 1809.91-1812.55: So I can't go deeper in that question either. 
+asr:0: OUTPUT 1813.45-1820.22: Regarding the fourth question about the expansion that Adam mentioned in his opening statement,. 
+asr:0: OUTPUT 1821.10-1839.24: I'd actually like to first focus on the naming conventions here because we actually make a distinction when we speak about DLCs. We mean small things like a skin for the character, like a new jacket or a new color of the hair or something similarly. 
+asr:0: OUTPUT 1839.26-1844.84: Well, not sizable. When we speak about expansions, then yes, we're talking about. 
+asr:0: OUTPUT 1844.86-1851.01: A bigger thing like in the past was blood and wine or hearts of stone for example. 
+asr:0: OUTPUT 1851.05-1864.06: So when Adam was mentioning in the opening statement the people working on the expansion, he did mean the bigger one which historically has been paid. I hope that explains. 
+asr:0: OUTPUT 1865.47-1867.79: Yeah, okay. Thank you very much. Thanks a lot. 
+asr:0: OUTPUT 1873.29-1877.70: We'll take our next question from Ken Rumpf with Jefferies. Please go ahead. 
+asr:0: OUTPUT 1880.00-1889.69: Hello everybody. I suppose I'll try a further go at the provisions just to see if I'm understanding it in real world terms. 
+asr:0: OUTPUT 1890.67-1897.34: So are we to take it that you think that you will have sold more units? 
+asr:0: OUTPUT 1897.36-1901.46: But suppliers will make use of the... 
+asr:0: OUTPUT 1901.48-1909.11: I think you get my idea. 
+asr:0: OUTPUT 1909.13-1912.77: Causing this reallocation of provisions if there's a way of explaining that. 
+asr:0: OUTPUT 1913.45-1920.96: My questions, however, were going to be mainly about slide 10, about staff. Firstly, any comment on staff turnover? 
+asr:0: OUTPUT 1921.44-1928.73: Secondly, these are percentage numbers, approximately where are the absolute numbers between the end of the year and now. 
+asr:0: OUTPUT 1929.99-1934.45: And probably finally, I was a little bit surprised how large the Gwent number was. 
+asr:0: OUTPUT 1936.40-1942.20: Is this just kind of the normal number of people for GWENT given that it has expanded to mobile now? 
+asr:0: OUTPUT 1942.74-1943.88: Or is. 
+asr:0: OUTPUT 1943.90-1953.71: Is there perhaps more going on in terms of development of that game than I'd realized? It's a bigger share of the total than I would have expected. Thank you. 
+asr:0: OUTPUT 1958.76-1960.40: Again. 
+asr:0: OUTPUT 1960.48-1964.38: No, they are not directly related to unit cells. 
+asr:0: OUTPUT 1964.44-1984.18: Obviously the fails are the data on which we base estimating the reserves and potential future outcome of settlements of our contracts with distributors, but it's not that number of units generated. 
+asr:0: OUTPUT 1984.20-1986.17: This result. 
+asr:0: OUTPUT 1987.27-1994.41: We cooperate with a number of distributors and with some of them we were adjusting the reserves this way with other the other way. 
+asr:0: OUTPUT 1995.70-2001.58: And we came to a conclusion, closing the books for the first half of this year. 
+asr:0: OUTPUT 2001.68-2012.63: That all in all the sales provisions should be smaller but at the same time provisions for costs of cooperation with the distributors and settling our accounts with them. 
+asr:0: OUTPUT 2012.65-2014.01: Should also be higher. 
+asr:0: OUTPUT 2014.51-2019.12: It happens that both amounts are close to being equal. 
+asr:0: OUTPUT 2019.78-2022.40: The cost is slightly higher than the sales. 
+asr:0: OUTPUT 2022.52-2027.09: It's not directly related or linked one to another. 
+asr:0: OUTPUT 2027.13-2036.02: And neither it's linked to any specific situation with more unit cells than we expected or less unit cells. 
+asr:0: OUTPUT 2036.70-2044.97: That's the effect of total calculation of a number of contracts with distributors and number of markets we evaluated for this purpose. 
+asr:0: OUTPUT 2049.61-2053.57: Okay. Shall we move on to the staff? Thanks. 
+asr:0: OUTPUT 2056.12-2060.00: I'll try to cover it. 
+asr:0: OUTPUT 2060.44-2068.37: Of course, we are observing increased trends this year. This is normal. This is what we expected. 
+asr:0: OUTPUT 2068.79-2072.95: After the conclusion of the large project, it always. 
+asr:0: OUTPUT 2073.31-2074.37: It's always like this. 
+asr:0: OUTPUT 2076.48-2081.20: We have also intensified our recruitment activities. 
+asr:0: OUTPUT 2082.02-2093.61: And what I can say is that the total number of employees to the project was by the end of June. 
+asr:0: OUTPUT 2093.73-2099.82: It's very similar, comparable to what we had at the end of 2020. 
+asr:0: OUTPUT 2100.00-2102.72: So, no big changes there. 
+asr:0: OUTPUT 2103.12-2110.59: And in terms of Chan, it's comparable what we had after Richard's. 
+asr:0: OUTPUT 2110.83-2120.00: So, so far, nothing unexpected. 
+asr:0: OUTPUT 2120.50-2128.69: This is related to the project and GWENT team sometimes a bit bigger, sometimes a bit smaller. 
+asr:0: OUTPUT 2129.01-2133.09: So nothing under this. 
+asr:0: OUTPUT 2133.45-2135.96: It's a normal, normal situation. 
+asr:0: OUTPUT 2136.22-2142.20: So, so apparently at the end of of of. 
+asr:0: OUTPUT 2142.24-2147.33: H1 the number was like this but it might it might change in the future as well. 
+asr:0: OUTPUT 2149.41-2151.85: Okay. Could I ask a couple of supplementaries? 
+asr:0: OUTPUT 2152.37-2155.28: One is to say, without going too much into. 
+asr:0: OUTPUT 2155.30-2164.00: Of current trading but where do we stand at the end of August in terms of employees, employees. 
+asr:0: OUTPUT 2164.20-2173.21: Just do your comments regarding churn and against that recruitment still apply? Has there been any dramatic change kind of in July and August? 
+asr:0: OUTPUT 2174.05-2180.78: And the other question I was going to ask was, you referred to the fact that at the moment, kind of technology slash engine. 
+asr:0: OUTPUT 2180.80-2187.39: Staff are kind of included within the other groups, largely within the cyberpunk. 
+asr:0: OUTPUT 2187.41-2189.33: I was yellow bar. 
+asr:0: OUTPUT 2190.21-2194.83: What's your idea for how large that group would be? 
+asr:0: OUTPUT 2194.85-2204.00: Either in absolute or percentage terms, kind of on the new model when you're working under the new sort of central resource for technology and engine model. 
+asr:0: OUTPUT 2205.83-2209.73: Thank you. 
+asr:0: OUTPUT 2209.79-2217.86: After the end of July, there was no dramatic change. 
+asr:0: OUTPUT 2217.88-2219.16: Nothing. 
+asr:0: OUTPUT 2219.98-2225.89: New in terms of what we had at the end of H1. 
+asr:0: OUTPUT 2226.79-2230.91: In terms of technology, it is still in discussion. 
+asr:0: OUTPUT 2231.17-2241.72: So, hard to say where we'll be a year from now. Definitely a big part of tech will. 
+asr:0: OUTPUT 2241.74-2248.97: Support more than one project at a time, but it is still in discussion. 
+asr:0: OUTPUT 2249.19-2260.00: In the middle, first part in the middle of transformation, so hard to say anything precise regarding numbers. 
+asr:0: OUTPUT 2260.18-2269.91: But definitely there will be people working on technology, not necessarily at least bookkeeping-wise assigned to. 
+asr:0: OUTPUT 2269.93-2274.33: The projects. Okay, thank you very much. 
+asr:0: OUTPUT 2278.46-2282.92: We'll take our next question from Maddie Linton with Bernstein. Please go ahead. 
+asr:0: OUTPUT 2285.21-2289.53: Thank you. Good afternoon. First question on revenue recognition. 
+asr:0: OUTPUT 2290.03-2302.90: So just to check that, would all the days in June for PlayStation Digital Units and Steam Summer Sale Units. 
+asr:0: OUTPUT 2302.92-2306.73: Be already recognizing Q2 revenue. 
+asr:0: OUTPUT 2307.11-2315.74: So in other words, where all the June days from those channels included in the Q2 sales number. 
+asr:0: OUTPUT 2316.50-2324.24: The second question is related to Red Engine 4. You mentioned the technology investment. 
+asr:0: OUTPUT 2325.49-2329.59: If we were to talk hypothetically about your next big project. 
+asr:0: OUTPUT 2330.85-2334.79: Would it be correct to assume that the. 
+asr:0: OUTPUT 2334.81-2343.92: Technological investment in the engine required to get the next big game out would be less than that between Witcher 3 and. 
+asr:0: OUTPUT 2343.94-2352.85: Cyberpunk 2077 where you update it to a whole new version of the Red Engine while you're also working on the game. Thank you. 
+asr:0: OUTPUT 2357.54-2363.68: With revenues from digital storefronts, specifically Steam and PlayStation. 
+asr:0: OUTPUT 2364.32-2366.85: So all of the sales by the end of June. 
+asr:0: OUTPUT 2367.11-2374.83: That were reported to us and basically all of them were reported to us are included in the revenues for the first half of the year. 
+asr:0: OUTPUT 2375.36-2384.48: You mentioned the Steam Summer Sale. As far as I remember, this action started in June but ended in July. 
+asr:0: OUTPUT 2385.01-2392.63: So not the whole team summer promo was included in the first half results. 
+asr:0: OUTPUT 2392.97-2397.12: Only the sales achieved by the end of June. 
+asr:0: OUTPUT 2397.56-2405.57: The July sales, the finish of the summer promo will be part of the Q3 report from us. 
+asr:0: OUTPUT 2410.13-2414.47: Adam on this end, I'll take the second, about Red Engine. 
+asr:0: OUTPUT 2415.52-2419.14: To be honest, it's too early to say because we are still. 
+asr:0: OUTPUT 2419.42-2425.53: Very deep in working on the current technology for Cyberpunk 2077. 
+asr:0: OUTPUT 2425.95-2429.33: And we are evaluating and discussing future avenues. 
+asr:0: OUTPUT 2429.59-2431.13: In this regard. 
+asr:0: OUTPUT 2431.15-2440.82: It is definitely not the right moment to say precisely or firmly where it will go and what will be the impact. 
+asr:0: OUTPUT 2440.84-2441.90: I. 
+asr:0: OUTPUT 2441.92-2444.84: To our books regarding technology. 
+asr:0: OUTPUT 2448.07-2454.47: Thank you very much, both. 
+asr:0: OUTPUT 2454.65-2460.86: Next question from Vladimir Vespalov with VTB Capital. Please go ahead. 
+asr:0: OUTPUT 2462.60-2466.21: Hello and thank you for taking my questions. I have actually two. 
+asr:0: OUTPUT 2467.31-2476.02: During the first quarter conference, you mentioned that each quarter fewer people would work on fixing cyberpunk. 
+asr:0: OUTPUT 2476.08-2482.28: Will it be the case in the third quarter and should we expect some improvement in profitability. 
+asr:0: OUTPUT 2482.30-2486.01: As a result, I would assume more people would work. 
+asr:0: OUTPUT 2486.09-2493.13: Even within the cyberpunk project on expansions and these costs could be capitalized, I assume. 
+asr:0: OUTPUT 2493.77-2498.90: And the second question is on Spoka. You haven't consolidated it yet. 
+asr:0: OUTPUT 2499.36-2503.84: But given the release of the Monster Slayer game. 
+asr:0: OUTPUT 2505.27-2510.93: Are you going to consolidate it from the third quarter? And if you are going to consolidate. 
+asr:0: OUTPUT 2511.37-2519.90: What could we expect in terms of revenues, costs, and just the overall effect on CD Projekt. 
+asr:0: OUTPUT 2520.00-2521.60: Financials. Thank you. 
+asr:0: OUTPUT 2532.23-2537.70: With regards to Cyberpunk, we realized the game still needs improvements. 
+asr:0: OUTPUT 2537.92-2541.44: And we will continue to work on it as long as necessary. 
+asr:0: OUTPUT 2541.56-2551.51: However, as the developers naturally move to other projects, the number of team members engaged in the support of the game decreases with each month. 
+asr:0: OUTPUT 2551.63-2553.53: That's the state of the score for now. 
+asr:0: OUTPUT 2554.19-2558.24: You asked whether it will increase profitability. 
+asr:0: OUTPUT 2558.66-2566.71: Well, I would say it will decrease our costs for the period directly booked into the P&L. That's probably more. 
+asr:0: OUTPUT 2567.67-2570.11: Proper to put it this way. 
+asr:0: OUTPUT 2580.00-2581.10: In Spock Company. 
+asr:0: OUTPUT 2581.84-2585.73: So we have certain rules for. 
+asr:0: OUTPUT 2585.75-2594.57: Consolidating companies will evaluate the group results versus the SPOCA results, both. 
+asr:0: OUTPUT 2594.61-2602.42: And the balance, the total value of their assets. 
+asr:0: OUTPUT 2602.96-2610.47: As far as I remember, that's the second criteria and based on that, having the Q3 results will make final decisions. 
+asr:0: OUTPUT 2611.59-2619.68: It is not decided yet whether SPARCA should be consolidated in starting from... Potentially should be consolidated in starting from... 
+asr:0: OUTPUT 2619.70-2627.31: Q3 or starting from the full year results for 2021. 
+asr:0: OUTPUT 2628.69-2633.59: And the question was how Spocko results will... 
+asr:0: OUTPUT 2633.61-2640.48: Influence our group results. That's obviously a question about future results that are still in front of us. 
+asr:0: OUTPUT 2642.16-2646.31: We are not guiding on that. We've not calculated this yet ourselves. 
+asr:0: OUTPUT 2646.97-2654.05: So please be patient, please be with us and we'll cover it as soon as we have some news to share. 
+asr:0: OUTPUT 2661.32-2665.97: We'll take our next question from Maria Mikowicz with Wood and Company. Please go ahead. 
+asr:0: OUTPUT 2668.01-2674.97: Good afternoon. I've got two questions. First, sorry for another follow-up on provisions. 
+asr:0: OUTPUT 2675.38-2682.72: I'm just trying to understand, looking at the note, 12, that you mentioned of your financial statement. 
+asr:0: OUTPUT 2683.08-2700.48: I can see for provisions for returns that actually those created in FASTHUB are almost 43 million, but dissolved or released provisions seem to be 82 million. 
+asr:0: OUTPUT 2701.62-2710.83: So like first look could imply that the impact on your P&L would be still positive, but you are saying. 
+asr:0: OUTPUT 2710.87-2719.56: It's useful and referring to release provisions of 40 million rather than 82. So if you could just. 
+asr:0: OUTPUT 2719.58-2725.57: Explain the difference that I'm probably not seeing in those numbers. 
+asr:0: OUTPUT 2726.15-2736.00: So that will be the first question. And the other question would just refer to the revenues of CD Projekt Red. 
+asr:0: OUTPUT 2736.36-2745.61: So basically, if you could just explain what was the reason, the main reason for quarter on quarter growth in revenues. 
+asr:0: OUTPUT 2747.15-2751.21: If we exclude the positive impact of provision. 
+asr:0: OUTPUT 2751.27-2756.16: So if we just adjust these 40 million provisions for. 
+asr:0: OUTPUT 2756.18-2763.74: For the second quarter, it would be still quite visibly higher revenues than in first quarter. 
+asr:0: OUTPUT 2764.40-2776.00: I'm aware that you are not commenting specifically on the numbers for Cyberpunk or Witcher, but maybe you could just at least say whether this growth came mainly. 
+asr:0: OUTPUT 2776.06-2782.54: Mostly from cyberpunk or sales increase quarter on quarter or witcher or anything else. 
+asr:0: OUTPUT 2783.54-2785.91: That's all for my side, thank you. 
+asr:0: OUTPUT 2791.95-2793.87: And. 
+asr:0: OUTPUT 2793.95-2799.94: 40 million is the balance of all the adjustments. 
+asr:0: OUTPUT 2799.98-2804.08: We've made or the number of distributors we work with. 
+asr:0: OUTPUT 2804.78-2809.11: So if you look at the referred note in our financial statement. 
+asr:0: OUTPUT 2810.53-2820.00: Actually, nearly 70 million Vladech provisions were consumed, so they were effectively used during this period. 
+asr:0: OUTPUT 2820.66-2826.85: There were 82 million Zlotych provisions dissolved and 42 million Zlotych created. 
+asr:0: OUTPUT 2827.33-2830.35: So the balance of the 82 minus 42. 
+asr:0: OUTPUT 2830.47-2839.28: Is the 40 million Vladec that influence directly our revenues for the period and then I mentioned in my presentation. 
+asr:0: OUTPUT 2840.16-2848.41: As I said, there is more than one customer, there is more than one contract that we monitor and that we reflect. 
+asr:0: OUTPUT 2848.43-2854.77: In our provisions assessment and the 40 around 40 million Zloty. 
+asr:0: OUTPUT 2854.79-2858.56: Net effect is the outcome of all of the calculations. 
+asr:0: OUTPUT 2859.94-2866.03: The second question was, what influenced the Q2 results being better than the Q1? 
+asr:0: OUTPUT 2866.99-2875.82: As I said, the biggest revenue driver was cyberpunk and most of the sales generated during this period on cyberpunk. 
+asr:0: OUTPUT 2875.84-2877.68: Came from digital distribution. 
+asr:0: OUTPUT 2878.70-2882.66: During Q1, we were not present on Sony PlayStation Store. 
+asr:0: OUTPUT 2884.34-2893.21: Cyberpunk came back to sales. It was an event for us, but it also allowed us to generate some extra revenues. 
+asr:0: OUTPUT 2893.71-2895.86: That were not present in the Q1. 
+asr:0: OUTPUT 2897.08-2900.08: And so other... 
+asr:0: OUTPUT 2903.22-2912.53: Cyberpunk in other stores like Steam added to the sales and all in all made Q2 better in this respect than the. 
+asr:0: OUTPUT 2912.55-2913.65: Yeah, I think you are. 
+asr:0: OUTPUT 2916.40-2919.50: Can comment from the top of my head. 
+asr:0: OUTPUT 2930.49-2935.96: We'll take our next question from Tomas Rudak with BOS Brokerage House. Please go ahead. 
+asr:0: OUTPUT 2939.44-2941.60: Yes, sir. 
+asr:0: OUTPUT 2943.52-2947.29: Hi, thank you for taking my questions. First question. 
+asr:0: OUTPUT 2947.77-2956.08: The first question is related to the reduction of provision and it's fairly simple I think. 
+asr:0: OUTPUT 2956.18-2962.22: Does it, the fact that you reduced the provision. 
+asr:0: OUTPUT 2962.68-2972.67: Does it to any extent mean that the sale of cyberpunk in physical channels is better than you expected when you were creating this provision? 
+asr:0: OUTPUT 2973.07-2976.70: Or is it at all not connected with? 
+asr:0: OUTPUT 2977.34-2978.48: With this. 
+asr:0: OUTPUT 2979.02-2988.11: And with regards to the second half of this year,. 
+asr:0: OUTPUT 2989.47-2996.40: You will probably be maybe reducing the provisions in the future in the second half. 
+asr:0: OUTPUT 2998.18-3007.33: Is there any chance that the reduction of provision in the second half will be profit contributing? 
+asr:0: OUTPUT 3008.37-3019.18: If yes, what would have to happen to make the reduction of provision profit contributing? 
+asr:0: OUTPUT 3019.92-3021.24: And... 
+asr:0: OUTPUT 3024.88-3029.17: If you could you give us some,. 
+asr:0: OUTPUT 3029.21-3036.50: Some information on the digital versus physical revenue structure. 
+asr:0: OUTPUT 3036.92-3039.62: In the first quarter and second quarter. 
+asr:0: OUTPUT 3043.20-3044.34: And that's it. Thank you. 
+asr:0: OUTPUT 3051.15-3055.90: With distributors have a number of possible ways of settling. 
+asr:0: OUTPUT 3056.76-3064.86: In some cases, we get sales revenues, but in some other, we are also liable to refund them some of the expenses they covered on their side. 
+asr:0: OUTPUT 3065.55-3072.21: The fact that we dissolved part of the sales provisions but increased the cost provisions. 
+asr:0: OUTPUT 3072.57-3081.90: Does not naturally mean that we expect better sales on the sales side or worse sales on the cost side of the provisions. 
+asr:0: OUTPUT 3082.86-3090.69: That's the effect of our estimation of what the future may bring in respect of our settlements with distributors. 
+asr:0: OUTPUT 3091.21-3093.73: It happened to be close to neutral. 
+asr:0: OUTPUT 3093.83-3095.12: For the gross profit. 
+asr:0: OUTPUT 3095.14-3103.96: But it's based on the amounts we contractually expect to be set to the distributors and not directly on the units sold by them. 
+asr:0: OUTPUT 3104.74-3107.13: So your question whether we could be... 
+asr:0: OUTPUT 3107.15-3116.40: Evaluating the provisions in the third or fourth quarter and will it affect our profitability? 
+asr:0: OUTPUT 3116.88-3120.52: Yes, we are evaluating the provisions every quarter. 
+asr:0: OUTPUT 3121.10-3128.13: And depending on what the future market situation will be, we may either be required to increase them. 
+asr:0: OUTPUT 3128.19-3132.43: Or if we were to secure. 
+asr:0: OUTPUT 3132.47-3139.88: Maybe we will be lucky to lower the amount of provisions. 
+asr:0: OUTPUT 3139.92-3143.40: But what we booked for the end of June. 
+asr:0: OUTPUT 3143.42-3154.31: Reflect our estimations on future cooperation with distributors and our and their future liabilities arising from the contracts we have. 
+asr:0: OUTPUT 3154.35-3156.70: That's our best knowledge on this. 
+asr:0: OUTPUT 3159.12-3164.38: Regarding the physical digital speed of our revenues in both Q2 and Q1,. 
+asr:0: OUTPUT 3164.76-3171.11: I would say digital from the top of my head without checking in the tables. 
+asr:0: OUTPUT 3171.63-3178.82: Digital was definitely the most important part of the most important source of revenues for us. 
+asr:0: OUTPUT 3180.00-3182.32: As you case a physical. 
+asr:0: OUTPUT 3182.34-3189.91: For vast majority of our cooperation with distributors due to the nature of physical distribution that first. 
+asr:0: OUTPUT 3189.93-3193.71: High quantities of games are shipped to the market. 
+asr:0: OUTPUT 3193.81-3199.84: And then you manage the stock in the retail channels. 
+asr:0: OUTPUT 3200.04-3208.11: Most of the cooperation and most of the revenues with physical distribution partners are settled right now on the level of provision. 
+asr:0: OUTPUT 3208.81-3216.00: So the new royalties and new revenues by the private grant are generated mostly. 
+asr:0: OUTPUT 3216.04-3221.34: Via the distribution channels for now. Okay, thank you. 
+asr:0: OUTPUT 3224.38-3231.35: Ladies and gentlemen. As a reminder, if you'd like to ask a question, star one will pause a moment to reassemble the queue. 
+asr:0: OUTPUT 3245.61-3250.19: We have no further questions at this time. On the phones. 
+asr:0: OUTPUT 3257.44-3262.38: I would like to turn the conference back to your speakers for any additional remarks or chat questions. 
+asr:0: OUTPUT 3267.89-3273.85: Hello, Adam here. I'll take the question from the chat. 
+asr:0: OUTPUT 3275.20-3281.76: Does the management board have any idea how to manage the supply of the employee shares? 
+asr:0: OUTPUT 3282.54-3285.05: Yes, we do have an idea. 
+asr:0: OUTPUT 3285.71-3294.75: Piotr, maybe you can cover this because I think that you are running this project, if you may. 
+asr:0: OUTPUT 3303.08-3311.79: The brokerage house which mediated the take up of shares at the beginning of the 1990s. 
+asr:0: OUTPUT 3311.81-3315.72: The program when when we were making back in 2012. 
+asr:0: OUTPUT 3315.78-3323.30: We'll reach out to program participants who are contemplating potentially contemplating sale of shares. 
+asr:0: OUTPUT 3323.64-3333.39: Soon after the lock-up period is over and present them with a comprehensive offer which should enable such transactions to be carried out in an organized manner. 
+asr:0: OUTPUT 3334.21-3343.08: The offer would also enable to the product to inform the market ahead of time how such sale orders should be carried out. 
+asr:0: OUTPUT 3343.82-3351.59: As with the transactions carried out last year, all sales orders placed by our shareholders would be aggregated. 
+asr:0: OUTPUT 3351.61-3355.88: And processed by an experienced team of Trigon brokers. 
+asr:0: OUTPUT 3356.58-3359.90: We expect these transactions to be spread over. 
+asr:0: OUTPUT 3359.92-3381.90: Some time and to have a limited share in our daily turnover. That's the idea which we discussed with Strygon when preparing for the end of the lock-up to be able to offer them to come to our employees with a proposal of. 
+asr:0: OUTPUT 3381.92-3390.83: Some organized solution how to potentially help them if they decide to sell their shares. 
+asr:0: OUTPUT 3391.43-3398.28: But at the same time, I can say that we've discussed it with my colleagues from the board. 
+asr:0: OUTPUT 3398.54-3406.55: And none of the board members intend to sell their shares following the end of the lock-up period. 
+asr:0: OUTPUT 3408.19-3410.89: That will expire this September. 
+asr:0: OUTPUT 3411.73-3414.65: So that's the info on this I can share. 
+asr:0: OUTPUT 3421.62-3431.23: And the next question I have is, we have here, sorry, this is Michał Rakowski, it's from Konrad Krasuski from Bloomberg News. And there's two questions actually. 
+asr:0: OUTPUT 3432.15-3442.00: So the first one is regarding the expansion to Cyberpunk, when should we expect it? And the question is here 2022. 
+asr:0: OUTPUT 3442.78-3447.77: And is it finally agreed it will be paid and what scale of price should we expect similar to voucher expansions? 
+asr:0: OUTPUT 3448.11-3452.95: So I'll cover that first and then I'll read the other one before switching off. 
+asr:0: OUTPUT 3454.23-3455.68: Regarding the expansion. 
+asr:0: OUTPUT 3457.92-3467.65: As we mentioned earlier, it's in development, but we're not providing any specifics about the dates. 
+asr:0: OUTPUT 3468.03-3470.45: I know 2022 is a broader question. 
+asr:0: OUTPUT 3470.51-3480.34: Super specific like XYZ even month, but we still would like to keep up the rule that we're not committing the dates until... 
+asr:0: OUTPUT 3480.36-3484.12: Ready to deliver that. So I'll refrain from going deeper here. 
+asr:0: OUTPUT 3484.70-3491.47: And regarding the price, what it will be paid, what scale of price should we expect. 
+asr:0: OUTPUT 3491.49-3496.64: Expansions have been paid, as you have rightly noted, with the Witcher. 
+asr:0: OUTPUT 3497.88-3507.01: However, it is definitely way too early to talk about price since we're not even giving the date. So again, I cannot give any details. 
+asr:0: OUTPUT 3507.05-3511.33: And then the second question that was asked here was regarding your cover of reports. 
+asr:0: OUTPUT 3511.67-3512.99: You came back to Geraltine. 
+asr:0: OUTPUT 3513.35-3517.54: Does it suggest that you refocus on Witcher 3 next gen or Witcher 4 maybe? 
+asr:0: OUTPUT 3518.88-3527.03: The choice of course is very often purely aesthetic, relying on aesthetics. 
+asr:0: OUTPUT 3527.73-3533.73: I don't think any of us actually thought about it like you suggested here but obviously there's a free election coming. 
+asr:0: OUTPUT 3533.75-3540.88: So I guess you could tie it to that. I hope that that covers the question. I'm switching off now. 
+asr:0: OUTPUT 3551.49-3561.42: All right, the time, this is 7 p.m. In Poland at least, and this is the end of the conference. 
+asr:0: OUTPUT 3561.88-3567.87: Thank you very much. If you have any further questions, please contact our IR. 
+asr:0: OUTPUT 3567.89-3574.09: And we're glad to answer all the questions, of course, that questions we can answer. 
+asr:0: OUTPUT 3574.45-3583.02: Thank you very much. Bye-bye. 
+asr:0: END

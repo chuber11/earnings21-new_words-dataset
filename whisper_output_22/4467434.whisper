@@ -1,0 +1,417 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.78-8.47: Good day ladies and gentlemen and welcome to the NetOne UEPS Technologies Inc first quarter 2022 earnings call. 
+asr:0: OUTPUT 9.59-15.56: All participants will be in listen-only mode and there will be an opportunity to ask questions later during the conference. 
+asr:0: OUTPUT 16.90-24.82: Should you need assistance during the call, please signal an operator by pressing star and then zero. Please also note that this event is being recorded. 
+asr:0: OUTPUT 25.81-29.27: I would now like to turn the conference over to Ms. Donna Dukes. Please go ahead. 
+asr:0: OUTPUT 32.53-36.76: Thank you, operator. Welcome to our first quarter 2022 earnings call. 
+asr:0: OUTPUT 37.12-43.98: With me today are Chris Meyers, Group CEO, Lincoln Valley, South Africa CEO, and Alex Smith, CFO. 
+asr:0: OUTPUT 44.60-53.77: Press release and supplementary investor presentations are available on our investor relations website at ir.netone.com. 
+asr:0: OUTPUT 54.31-62.60: As a reminder, during this call, we'll be making forward-looking statements, and I ask you to look at the cautionary language contained in our Form 10-2. 
+asr:0: OUTPUT 62.62-66.35: Regarding the risks and uncertainties associated with for-looking statements. 
+asr:0: OUTPUT 67.09-70.91: Also, we will discuss the results of South African RAN, which is non-GET. 
+asr:0: OUTPUT 71.45-79.38: We analyze our results of operations and our pressure relief in RAND and assist investors' understanding of the underlying trends in our process. 
+asr:0: OUTPUT 80.00-88.11: As you know, the company's results can be significantly affected by the currency fluctuations between the US dollar and South African rand. 
+asr:0: OUTPUT 89.27-96.74: We will start the call today with an update on strategy, then Lincoln will provide an update on the turnaround of the South African operation. 
+asr:0: OUTPUT 96.96-102.16: And finally, Alex will go through the results of the first quarter. Following that, we'll have a Q&A session. 
+asr:0: OUTPUT 102.60-104.22: I was like during the fall of her. 
+asr:0: OUTPUT 106.57-112.87: Thank you, Dara, and good morning, good afternoon, and thank you to all for joining us for our first quarter earnings call today. 
+asr:0: OUTPUT 114.09-121.26: So this earnings call marks my first full quarter and in essence I suppose my 100 days in the role as Group CEO. 
+asr:0: OUTPUT 121.86-130.53: And I couldn't be more pleased with the progress and focused execution of the management team and all of the committed NetOne team members in advancing our strategic priorities. 
+asr:0: OUTPUT 131.63-139.66: As this is my second earnings call as Group CEO, I thought it would be worth repeating what I have stated about the vision and mission of NetOne. 
+asr:0: OUTPUT 139.68-143.26: And our intense focus on repositioning the business for growth. 
+asr:0: OUTPUT 144.66-152.77: Our vision is to build and operate the leading South African full-service FinTech platform, offering payment processing and financial services. 
+asr:0: OUTPUT 152.79-155.10: To underserved merchants and consumers. 
+asr:0: OUTPUT 155.98-163.70: Aligned with that vision is our core purpose to improve people's lives by bringing financial inclusion to the underserved in South Africa. 
+asr:0: OUTPUT 164.54-174.83: This is a tremendous growth opportunity in the Southern African market, which is primarily a cash-based economy with approximately 60% of transactions still conducted in cash. 
+asr:0: OUTPUT 175.58-183.20: We've also previously explained that our mission leads us to a total addressable market of over 150 billion Rand. 
+asr:0: OUTPUT 183.22-188.03: Comprising more than 26 million adults in LSMs 1 to 6. 
+asr:0: OUTPUT 188.05-198.24: As well as approximately 700,000 formal and 1.4 million informal, micro, small and medium enterprises or MSMEs. 
+asr:0: OUTPUT 198.26-199.32: Across South Africa. 
+asr:0: OUTPUT 200.66-210.07: We plan to address this growth opportunity both organically and through acquisitions, such as the transformative acquisition of the Connect Group that was announced last week. 
+asr:0: OUTPUT 210.95-218.36: The announcement of the Connect Group acquisition marks the start of a transformative opportunity to unlock the next phase of NetOne's growth. 
+asr:0: OUTPUT 219.18-229.57: And the combined entity provides our stakeholders with the opportunity to be a part of building the leading financial technology platform in Southern Africa focused on financial inclusion. 
+asr:0: OUTPUT 230.55-240.00: I think that it is important to point out that none of this would have been possible without the dedication of our exceptional team members across our group. And I wanted to thank them. 
+asr:0: OUTPUT 240.36-245.53: All for their commitment to our customers, our communities, and to our growth ambition. 
+asr:0: OUTPUT 246.37-253.19: As a reminder, the Connect Group transaction is subject to regulatory approvals and other customary closing conditions. 
+asr:0: OUTPUT 253.23-258.92: And as such we expect the transaction to close in the quarter ending March 2022. 
+asr:0: OUTPUT 259.02-263.36: And the focus of this presentation will therefore be on our existing NetOne business. 
+asr:0: OUTPUT 265.09-274.53: While the economy in South Africa remains challenging, I am encouraged by the continued progress being made in the turnaround of our consumer financial services business. 
+asr:0: OUTPUT 275.01-285.73: And in particular the momentum we are seeing in the rate of new account openings and the ability of our team to take action in improving our financial performance. 
+asr:0: OUTPUT 286.61-294.25: However, I want to remind everyone that we are still early in our transformative journey and there's still a lot of work to be done. 
+asr:0: OUTPUT 294.93-300.50: As mentioned on the last earnings call, we have started to address legacy organizational dynamics. 
+asr:0: OUTPUT 300.52-306.81: In an effort to provide the necessary foundation for the company to execute on its growth ambition and vision. 
+asr:0: OUTPUT 307.67-314.55: We believe that we now have the right team, culture and strategic priorities to take the company to the next level. 
+asr:0: OUTPUT 314.93-320.50: Creating a competitively stronger company that can unlock value for all of our stakeholders. 
+asr:0: OUTPUT 322.46-330.97: The key strategic imperative is to return the consumer financial service business to break even and then into profitability as soon as possible. 
+asr:0: OUTPUT 331.59-337.76: This is our business comprising Easy Pay Everywhere, EPE, Moneyline, and Smart Life. 
+asr:0: OUTPUT 338.46-347.39: It is a scale business that requires operational leverage where the products and infrastructure were built originally to service a base of over 10 million clients. 
+asr:0: OUTPUT 348.09-351.91: As you know, the offering now has a million clients and is thus loss making. 
+asr:0: OUTPUT 352.81-358.70: Our objective is to achieve a monthly break-even run rate in this business by June 2022. 
+asr:0: OUTPUT 359.34-367.37: Our strategy for achieving this has three key levers. Firstly, growth in active EPE account numbers. 
+asr:0: OUTPUT 368.03-373.77: Second, we will drive increased ARPU. Third, cost optimization. 
+asr:0: OUTPUT 375.24-384.88: In terms of EP account growth, we've invested in a new sales capability and are in the process of realigning our distribution model to best serve our customers. 
+asr:0: OUTPUT 385.71-392.83: We have seen good momentum and are now consistently signing up around 50,000 new EPE accounts each month. 
+asr:0: OUTPUT 393.59-402.50: This has meant that our account opening rate has jumped from around 2% of active accounts in May this year to currently around 5% of active accounts. 
+asr:0: OUTPUT 403.60-406.69: Account activation rates are a key focus for us. 
+asr:0: OUTPUT 407.55-415.48: This means receiving a grant payment into the new EPE account such that these account holders become revenue earning customers for us. 
+asr:0: OUTPUT 416.32-419.40: We are seeing cumulative activation rates. 
+asr:0: OUTPUT 419.42-427.41: Of 45 to 50 percent within three months of an account opening, which is broadly in line with the expectations at this time. 
+asr:0: OUTPUT 428.25-437.88: This means that we expect to see growth in active accounts of 20 to 25,000 consistently per month from November 2021. 
+asr:0: OUTPUT 438.68-445.57: And this is a pleasing trend from the past calendar three years where active accounts were consistently declining. 
+asr:0: OUTPUT 447.35-451.45: The second lever is to improve our average revenues per customer. 
+asr:0: OUTPUT 452.11-459.40: To achieve this, we are focused on providing access to our broader suite of products, in particular Smart Life and Money Life. 
+asr:0: OUTPUT 460.04-467.69: Our sales teams are being supported and assisted with training, and we are building a more integrated cross-product approach to customer solutions. 
+asr:0: OUTPUT 468.77-477.92: The third lever is cost. And this is a lever where we as management have full control. And here I can report significant progress to date. 
+asr:0: OUTPUT 478.90-483.52: We have managed to reduce the break-even active EPE account number. 
+asr:0: OUTPUT 483.54-490.43: From approximately 1.65 million accounts in June 21 to 1.55 million accounts. 
+asr:0: OUTPUT 490.45-493.25: To direct cost actions taken during the quarter. 
+asr:0: OUTPUT 494.57-501.96: It's important to note that we previously indicated a break-even level of between 1.4 and 1.5 million accounts. 
+asr:0: OUTPUT 502.34-508.51: I wanted to clarify that this was for the SA business alone and excluded our group costs. 
+asr:0: OUTPUT 509.11-514.95: The numbers I'm now disclosing will be the break-even point for net one UPS at a group level. 
+asr:0: OUTPUT 517.22-519.00: In order to achieve these things,. 
+asr:0: OUTPUT 519.02-525.09: We have closed over 3,000 mobile payments across the country. 
+asr:0: OUTPUT 525.11-533.51: And replaced them with 114 new express and satellite branches, providing similar reach and access for our target client base. 
+asr:0: OUTPUT 534.25-536.56: The change in our point of presence strategy. 
+asr:0: OUTPUT 536.58-543.44: When combined with other cost actions taken in this quarter will translate into approximately R185 million. 
+asr:0: OUTPUT 543.46-546.71: Of cost savings over the remainder of the fiscal year. 
+asr:0: OUTPUT 547.37-555.28: Which in turn translates into an 18% reduction in fixed costs within the consumer financial services business this year. 
+asr:0: OUTPUT 556.24-557.24: Ultimately,. 
+asr:0: OUTPUT 557.26-561.84: Our aim is to further reduce the break-even active EP account numbers. 
+asr:0: OUTPUT 561.86-567.53: To closer to a million accounts through further cost optimization strategies that we are exploring. 
+asr:0: OUTPUT 568.15-577.54: We will report in more detail on the specifics of these strategies and the implementation thereof at our next quarterly results presentation. 
+asr:0: OUTPUT 578.94-582.08: Taken together, once completed, these. 
+asr:0: OUTPUT 582.10-591.21: Three levers mean we are targeting for future growth in our EPE account base to translate into direct contribution to profitability. 
+asr:0: OUTPUT 592.13-600.34: In summary, I'm pleased with the significant management actions taken this quarter, which will have a positive impact on our financial results going forward. 
+asr:0: OUTPUT 600.58-606.07: And I'm positive about our long-term prospects, which will be aided by our acquisition of Connect Group. 
+asr:0: OUTPUT 606.23-614.65: As we move closer to our longer-term vision to be the leading financial technology platform in Southern Africa focused on financial inclusion. 
+asr:0: OUTPUT 615.52-623.32: As part of this, we are also reviewing our branding and we look to have something new to announce on that front in the coming months. 
+asr:0: OUTPUT 624.20-632.39: And with that, I'd now like to hand over to my colleague, Lincoln Marley, for a fuller update on the turnaround of the South African operations. Lincoln. 
+asr:0: OUTPUT 633.39-639.96: Thank you, Chris. Thank you for your passion. Thank you for your drive and leadership during the last few months. 
+asr:0: OUTPUT 640.90-648.69: I'd like to go into much more detail on how we plan to address some of the issues that have been highlighted by Chris in his comments. 
+asr:0: OUTPUT 649.81-652.93: Our plan will focus on three primary objectives. 
+asr:0: OUTPUT 653.57-661.68: One, building your sales culture. Two, improving our account performance. And three, launching new products. 
+asr:0: OUTPUT 662.70-668.05: First, let me begin by the focus on building a sales culture. 
+asr:0: OUTPUT 668.97-680.38: We have embarked on an ambitious and necessary journey to change the mindset, service orientation, corporate culture and skill set of our distribution network. 
+asr:0: OUTPUT 680.40-685.49: From a cash logistics to a client-focused, sales-driven culture. 
+asr:0: OUTPUT 686.47-690.95: This mindset is largely based on four important pillars. 
+asr:0: OUTPUT 691.69-694.87: One, create a culture of communication. 
+asr:0: OUTPUT 694.89-703.52: Engagement, transparency, and empowerment among our staff to give them pride and dignity about working for NetOne. 
+asr:0: OUTPUT 704.20-708.37: Two, develop a focus on individual customer experience. 
+asr:0: OUTPUT 709.65-718.02: This is about treating our customers with respect and dignity and ensure that we have meaningful conversations about their financial needs. 
+asr:0: OUTPUT 719.06-725.75: Three, building a sense of accountability about individual, team, and company performance. 
+asr:0: OUTPUT 726.25-735.42: And lastly, train and ensure that our teams align their daily activities and focus areas with our vision and purpose. 
+asr:0: OUTPUT 736.38-743.84: We have been humbled by the positive response to this new culture by our teams at all levels of the organization. 
+asr:0: OUTPUT 744.99-754.43: This is evident in the increased visibility of our staff and communities, as well as the reemergence of our brand in the competitive market. 
+asr:0: OUTPUT 755.28-763.64: I am humbled by the feedback from our frontline leaders who are daily driving this change on an ongoing basis. 
+asr:0: OUTPUT 764.78-770.63: Our training program has already been implemented for over 90% of our team. 
+asr:0: OUTPUT 770.75-780.36: And we believe that these ongoing efforts and better visibility of metrics and performance should assist us in increasing revenue per customer. 
+asr:0: OUTPUT 781.80-787.49: I now want to get to the issue of our focus on improving our account performance. 
+asr:0: OUTPUT 788.25-789.79: As Chris has mentioned,. 
+asr:0: OUTPUT 789.81-799.46: To date, approximately 45 to 50 percent of the gross customer additions become active within three months of account opening. 
+asr:0: OUTPUT 799.90-802.26: And commence transaction on their accounts. 
+asr:0: OUTPUT 803.02-812.97: This number is in line with historic expectations. However, we are still putting on more focus in improving overall activation rate. 
+asr:0: OUTPUT 813.61-821.14: How are we doing so? One, by regular engagement with our SASA colleagues at a provincial and local level. 
+asr:0: OUTPUT 821.68-830.97: Two, by encouraging our customers to approach SASA offices after accounts are opened in order to activate those accounts. 
+asr:0: OUTPUT 831.81-840.10: 3. By monitoring activation rates on a regular basis and through increased visibility of activation metrics,. 
+asr:0: OUTPUT 840.44-849.39: And lastly, engaging SASA on their plan to digitize the onboarding process long term beyond the SRG grant. 
+asr:0: OUTPUT 850.95-859.72: NetOne is committed to be part of creating solutions to the system and process-related challenges, as this is an imperative. 
+asr:0: OUTPUT 859.74-865.55: For our business about how we are on board. 
+asr:0: OUTPUT 865.57-869.75: For grant recipients and make sure that their account is active. 
+asr:0: OUTPUT 870.63-875.54: I want to shift now to the third area of focus, which is launching of new products. 
+asr:0: OUTPUT 876.50-885.99: In line with our vision and purpose, we are focusing on financial inclusion for the underbanked and unbanked consumers beyond social grant recipients. 
+asr:0: OUTPUT 886.69-894.43: We've been working hard to understand customer needs and are proud to have launched the EPEPE light. 
+asr:0: OUTPUT 894.45-900.68: And Smart Wine Funeral Plan into the market as of the 1st of November 2021. 
+asr:0: OUTPUT 901.56-903.64: Fire starts with EPE light. 
+asr:0: OUTPUT 904.70-909.03: The EPE-Lite proposition is competitively placed in the market. 
+asr:0: OUTPUT 909.05-920.28: And responds to the market requirements for a basic transactional account that is affordable, secure, and does not include freedom capabilities that the consumer. 
+asr:0: OUTPUT 920.30-921.54: May not require. 
+asr:0: OUTPUT 922.16-928.41: This account is aimed at a younger customer base between the ages of 18 and 30. 
+asr:0: OUTPUT 929.21-938.58: The customer base may include students, young grand recipients, and any other customer who seeks a lower-cost transactional account. 
+asr:0: OUTPUT 940.80-945.09: Now I want to come to the next account, which is smart one. 
+asr:0: OUTPUT 945.57-953.91: In addition to the EPE live transaction account, we've also successfully launched an enhanced funeral plan called Smart One. 
+asr:0: OUTPUT 954.69-964.00: SmartOne is a standalone funeral plan that can be purchased via the NetOne network and is offered under the Smart Life Insurance License. 
+asr:0: OUTPUT 964.88-968.29: In keeping with the financial inclusion ethos of NET1. 
+asr:0: OUTPUT 968.49-972.21: SmartOne offers affordable solar panel cover. 
+asr:0: OUTPUT 972.23-982.02: For the primary beneficiary as well as the extended family with additional support benefits that are required by our customers in their times of need. 
+asr:0: OUTPUT 982.68-987.55: The target market are customers between the ages of 18 and 79. 
+asr:0: OUTPUT 988.33-993.87: It can be customized uniquely to include a spouse or up to six children. 
+asr:0: OUTPUT 994.71-1001.48: We are very proud of these new offerings and we believe that they will do well in the market in response to customer needs. 
+asr:0: OUTPUT 1002.92-1008.83: In order to further broaden our reach into our chosen customer base beyond grand recipient. 
+asr:0: OUTPUT 1009.17-1019.26: We are also engaging with prospective strategic partners to jointly develop and deliver tailored banking, lending and insurance solutions. 
+asr:0: OUTPUT 1019.88-1028.19: We expect these new propositions, in addition to our existing and prospective offerings, to answer to the needs of our customers. 
+asr:0: OUTPUT 1028.21-1031.99: And to accelerate the growth of the financial services business. 
+asr:0: OUTPUT 1033.71-1036.78: I want to now talk about our ATM business. 
+asr:0: OUTPUT 1037.52-1044.16: Another focus area for customer expansion and revenue growth is our ATM channel optimization plan. 
+asr:0: OUTPUT 1045.47-1054.13: Transaction volumes in our ATM business went down by 12% on the previous quarter and by 10% on the prior year. 
+asr:0: OUTPUT 1054.65-1058.60: But this was largely due to the impact of the social unrest. 
+asr:0: OUTPUT 1059.80-1064.32: Volumes had now largely recovered in September 2021. 
+asr:0: OUTPUT 1064.98-1073.11: This is part of our business that was affected by the social unrest with over 10% of our ATMs destroyed. 
+asr:0: OUTPUT 1073.99-1076.94: While we now have a smaller AGM fleet,. 
+asr:0: OUTPUT 1077.12-1086.53: Our focus is on improving transaction volumes to compensate for this, with a focus on expanding the presence of our ATMs in various retailers. 
+asr:0: OUTPUT 1087.63-1105.49: During the last three months, we have reviewed NET1 branches with multiple ATMs to evaluate the rationale of the placement and the machines that are there have been relocated in those environments where those machines are not performing. 
+asr:0: OUTPUT 1106.17-1113.23: We are also focusing on placing more machines in retail outlets where there is high food traffic. 
+asr:0: OUTPUT 1113.25-1119.56: For the full duration of the month and the ATM is accessible to customers seven days a week. 
+asr:0: OUTPUT 1121.54-1132.41: It is our belief that our focus optimization should not only result in higher transaction volume, but should also improve our bottom line performance over time. 
+asr:0: OUTPUT 1134.09-1143.46: At this time, I think it's important for us to give you a sense about how we're rebuilding and establishing relationships with key stakeholders. 
+asr:0: OUTPUT 1143.48-1146.81: That we work with as part of our growth strategy. 
+asr:0: OUTPUT 1147.83-1156.00: We have had several very constructive engagements with SAFA after having challenging relationships over the last few years. 
+asr:0: OUTPUT 1156.72-1160.52: Let me share one example of this new renewed relationship. 
+asr:0: OUTPUT 1161.38-1168.11: SASA has recently issued an RFP to the Banking Association of South Africa, BASA members,. 
+asr:0: OUTPUT 1168.13-1176.00: To respond to a tender covering specific social grant payments for a period of time ending in March 2023. 
+asr:0: OUTPUT 1176.74-1183.28: The expectation is for more than one bank to be appointed to administer the payments under this tender. 
+asr:0: OUTPUT 1184.04-1189.33: Green Road Bank will partner with NetOne to make a joint bid on this tender. 
+asr:0: OUTPUT 1190.17-1203.08: At NET1, we see this joint submission as a positive step in our continued relationship with Kinrod and confirms the growing strength of our relationship with them. 
+asr:0: OUTPUT 1204.12-1209.43: Secondly, in addition, we established net one representation. 
+asr:0: OUTPUT 1209.45-1214.75: At the Banking Association of South Africa through our partnership with Greenrock. 
+asr:0: OUTPUT 1215.78-1223.60: Thirdly, we also now have a direct membership to the South African Bank Risk Information Center, known as SUBRIC. 
+asr:0: OUTPUT 1223.62-1232.17: To ensure that we are part of all efforts to deal with security, cybercrime, and all other related crime matters. 
+asr:0: OUTPUT 1233.43-1242.80: Four, I'm pleased to update you about a longstanding legal matter between NetOne and the National Credit Regulator, NCR. 
+asr:0: OUTPUT 1243.18-1249.43: That originated in our Moneyline Financial Services business in September 2014. 
+asr:0: OUTPUT 1250.09-1255.60: The legal matter has now been settled to the mutual satisfaction of both parties. 
+asr:0: OUTPUT 1255.68-1262.60: And this now sets a positive tone for the relationship with the National Credit Regulator going forward. 
+asr:0: OUTPUT 1263.62-1270.29: Taken together, we believe our approach to key stakeholder management is showing good results. 
+asr:0: OUTPUT 1270.45-1274.83: And we will continue to grow these relationships going forward. 
+asr:0: OUTPUT 1275.90-1282.38: In summary, the work that has been done in the last six months by the leadership and management and teams. 
+asr:0: OUTPUT 1282.40-1299.22: As well as all of our staffs in NetOne, lays the foundation and moves us in the direction required to transform the consumer financial services business into a full service, profitable and leading FinTech company serving South Africa. 
+asr:0: OUTPUT 1300.10-1310.05: I'd like to echo the sentiments of my colleague Chris. I'd like to thank the NetOne team for their resilience and their performance during this difficult time. 
+asr:0: OUTPUT 1310.65-1312.85: We are determined to succeed. 
+asr:0: OUTPUT 1313.31-1319.14: I will now hand over to my colleague Alex to talk about our content a little bit. Alex. 
+asr:0: OUTPUT 1320.52-1329.45: Thank you, Lincoln, and good morning, everybody. Now let's turn to the financial metrics for the quarter, as well as some brief comments on our Connect Group acquisition. 
+asr:0: OUTPUT 1331.03-1338.76: Total revenue for the quarter was $34.5 million, which was a 2% decrease year over year in US dollar terms. 
+asr:0: OUTPUT 1338.78-1341.44: And a 14% decrease in RAND terms. 
+asr:0: OUTPUT 1342.54-1348.03: This was primarily due to fewer prepaid airtime and hardware sales and lower account revenues. 
+asr:0: OUTPUT 1349.57-1354.03: The US dollar was 13% weaker against the RAM during the first quarter of 2022. 
+asr:0: OUTPUT 1354.17-1360.56: Compared to the same period in the prior year, which also impacted our reported results. 
+asr:0: OUTPUT 1362.52-1366.63: We reported an adjusted EBITDA loss of $10.1 million. 
+asr:0: OUTPUT 1366.67-1374.21: Which was 4% worse than the $9.7 million EBITDA loss reported for the first quarter of 2021. 
+asr:0: OUTPUT 1374.23-1376.62: Though 10% better in constant currency. 
+asr:0: OUTPUT 1377.82-1384.62: This was mainly as a result of the closure of IPG, which incurred a loss of $2.8 million in the prior period. 
+asr:0: OUTPUT 1386.11-1395.06: The core South African operations saw EBITDA losses for the quarter of $8.6 million compared to the $4.3 million in the prior period. 
+asr:0: OUTPUT 1395.26-1397.72: Primarily due to the lower revenue levels. 
+asr:0: OUTPUT 1397.74-1405.04: As well as weaker profitability in the financial services segment linked to increased insurance claims related to the Covid pandemic. 
+asr:0: OUTPUT 1406.33-1411.05: Otherwise, the cost base remains stable and we have significant available capacity. 
+asr:0: OUTPUT 1413.19-1421.72: Transaction volumes through our EasyPay switch were up 11% compared to the prior quarter, while transaction values also increased by around 4%. 
+asr:0: OUTPUT 1423.18-1428.05: This was in line with expectations, this is a higher volume period from a seasonality perspective. 
+asr:0: OUTPUT 1429.31-1434.55: But within this portfolio there is an encouraging sustained growth in bill payment volumes over the previous year. 
+asr:0: OUTPUT 1437.24-1444.62: In our financial services business, the loan book finished September 30th, 2021 at 346 million round. 
+asr:0: OUTPUT 1444.66-1452.77: Versus 384 million on the 30th of September 2020 and 336 million at 30th of June 2021. 
+asr:0: OUTPUT 1454.51-1458.24: The other significant contributor in this segment is our insurance business. 
+asr:0: OUTPUT 1458.26-1465.89: Which saw its number of active policies increased to 251,000 from 235,000 a year ago. 
+asr:0: OUTPUT 1467.07-1474.09: However, a marked increase in claims, which were 42% higher in quarter 1.22 than in quarter 1.21,. 
+asr:0: OUTPUT 1474.11-1479.52: Due to the pandemic meant that this was the main driver of the increased loss in financial services. 
+asr:0: OUTPUT 1482.04-1488.83: During the quarter, we recognized our share of FinBonds losses for the six months ended August 31, 2021. 
+asr:0: OUTPUT 1488.87-1492.63: As they report their interim results during this reporting cycle. 
+asr:0: OUTPUT 1494.11-1502.80: The losses in the period had reduced from the prior period, which had been adversely affected by the pandemic, but they continue to incur losses due to various challenges. 
+asr:0: OUTPUT 1504.08-1512.35: Our share of the losses amounted to $1.2 million, which reduced our effective carrying value of FinBond to $7.6 million. 
+asr:0: OUTPUT 1512.37-1515.40: Which is substantially lower than the current share price. 
+asr:0: OUTPUT 1518.06-1520.00: Turning to our various investments. 
+asr:0: OUTPUT 1521.28-1522.78: Firstly, we have MobyQuix. 
+asr:0: OUTPUT 1523.74-1532.17: We continue to hold our investment in MobyQuick at $76 million, in line with the valuation achieved in the most recent investor fundraising round. 
+asr:0: OUTPUT 1533.37-1541.46: We only adjust our carrying value in the event of observable transactions and there were none occurring during this quarter. 
+asr:0: OUTPUT 1543.44-1547.25: We also continue to hold our investment in cell C at zero at no value. 
+asr:0: OUTPUT 1548.87-1556.72: We noted the renewal of the cautionary by Blue Label Telecoms in respect of the recapitalization and are optimistic about their prospects of achieving this. 
+asr:0: OUTPUT 1558.20-1567.87: It would again like to highlight that we continue to hold around 233 million rand or $15.4 million of Celsius airtime within our inventory balances. 
+asr:0: OUTPUT 1568.73-1573.43: Which we only expect to recover once the recapitalization is complete. 
+asr:0: OUTPUT 1574.87-1584.64: In August 2021, we increased our short-term credit facilities for our fixed ATMs from 1.2 billion Rand to 1.4 billion Rand. 
+asr:0: OUTPUT 1584.66-1588.15: In order to access the necessary cash to stock our ITMs. 
+asr:0: OUTPUT 1589.23-1597.32: These facilities are only available for use in respect of our ATMs and we believe are currently sufficient to optimally operate our ATM business. 
+asr:0: OUTPUT 1599.54-1607.41: At September 30, 2021, we had unrestricted cash of $188.5 million and effectively no debt. 
+asr:0: OUTPUT 1608.43-1613.63: US dollar denominated balances were $162.5 million out of that total. 
+asr:0: OUTPUT 1615.04-1621.34: This represents $3.49 per share in cash and about 58% of our current net asset value. 
+asr:0: OUTPUT 1623.14-1630.77: Our operational cash burn for the quarter amounted to $8 million, though this did include a $2 million release from working capital. 
+asr:0: OUTPUT 1633.65-1642.44: As Chris highlighted, we announced a definitive agreement to acquire 100% of the Connect Group last week for a consideration of approximately 3.7 billion Rand. 
+asr:0: OUTPUT 1643.52-1651.01: Expect to finance the transaction using cash on hand, our existing credit facility and issuance of NetOne common stock. 
+asr:0: OUTPUT 1652.27-1657.04: The acquisition is expected to close in the quarter ending March 31, 2022. 
+asr:0: OUTPUT 1657.06-1662.30: As it is subject to regulatory approval and satisfaction of customary closing conditions. 
+asr:0: OUTPUT 1664.12-1668.11: Having signed the definitive agreements last week, we will now commence the process. 
+asr:0: OUTPUT 1668.13-1675.78: In conjunction with Connect Group management of preparing Connect Group accounts under US GAAP. 
+asr:0: OUTPUT 1675.80-1680.48: So that we can prepare pro forma results to share with the market. 
+asr:0: OUTPUT 1680.64-1682.46: After closing and under. 
+asr:0: OUTPUT 1682.68-1684.22: Regulatory requirements. 
+asr:0: OUTPUT 1686.13-1690.41: With that operator, we'd like to turn the call back over to you for the Q&A portion of our call. 
+asr:0: OUTPUT 1691.29-1693.63: Thank you. Thank you very much, sir. 
+asr:0: OUTPUT 1694.41-1702.72: Ladies and gentlemen, if you wish to ask a question, please press star and then one on your touch-tone phone or on the keypad on your screen. 
+asr:0: OUTPUT 1704.04-1709.33: If you wish to withdraw your question, please press star and then 2 to remove yourself from the queue. 
+asr:0: OUTPUT 1710.51-1717.98: And if you wish to ask a question, please press star and then one now. You will hear a confirmation tone that you have joined the queue. 
+asr:0: OUTPUT 1725.11-1729.19: Our first question is from Raj Sharama of B Raleigh. 
+asr:0: OUTPUT 1732.65-1738.12: Good morning, guys. Thank you for laying out a definitive plan. 
+asr:0: OUTPUT 1738.90-1744.24: Could you talk a little bit about the cost base? 
+asr:0: OUTPUT 1744.80-1750.43: That you are referring to currently and where that goes to by June. 
+asr:0: OUTPUT 1755.60-1758.20: I thought there was an 18 to 20% reduction. 
+asr:0: OUTPUT 1758.66-1768.03: If you could talk a little bit about that and then what do you expect in June the level of counts to be in EPE? 
+asr:0: OUTPUT 1770.83-1776.10: Sure, Raj. So just to clarify on the cost reductions, so. 
+asr:0: OUTPUT 1776.14-1784.24: We've identified about $185 million of costs that we will be able to take out this fiscal year. 
+asr:0: OUTPUT 1785.53-1788.49: And that's predominantly coming out of the fixed cost base. 
+asr:0: OUTPUT 1789.73-1797.08: And when we break down, and obviously very focused on financial services, because that's where we're looking to achieve the profitability. 
+asr:0: OUTPUT 1798.52-1802.36: So when we break down our cost base between fixed and variable. 
+asr:0: OUTPUT 1803.16-1808.79: We estimated that most of that $185 million is coming out of the fixed cost base. 
+asr:0: OUTPUT 1809.37-1814.99: And that's about an 18% reduction in the fixed cost base that we'll achieve this year. 
+asr:0: OUTPUT 1818.88-1822.58: Right. And that would be. 
+asr:0: OUTPUT 1822.60-1829.41: Indicative of about 1.5 million EPE accounts by June of 2020. 
+asr:0: OUTPUT 1829.43-1830.69: By the end of this point. 
+asr:0: OUTPUT 1831.59-1833.03: Is that the way to look at it? 
+asr:0: OUTPUT 1835.62-1840.00: We're targeting a little bit less than that in terms of. 
+asr:0: OUTPUT 1840.98-1844.60: Of achieving break-even at the SA level. 
+asr:0: OUTPUT 1845.69-1854.31: But we estimate that we need to be at 1.55 million to achieve break even at the group, at the UEPS group level. 
+asr:0: OUTPUT 1854.43-1860.02: So I think in the past we've always indicated break-evens at the SAE group level. 
+asr:0: OUTPUT 1860.50-1866.17: We're now trying to give some guidance around including the cost that we hold at the group level. 
+asr:0: OUTPUT 1867.61-1873.63: So that's what lifts the break-even point up to the 1.55 million account level. 
+asr:0: OUTPUT 1874.47-1878.10: If I could add, Roger, it's Chris maybe. Would the consumer, sorry, go ahead. 
+asr:0: OUTPUT 1881.08-1883.24: So I think just to summarize. 
+asr:0: OUTPUT 1884.66-1892.41: The actions taken in this quarter will have moved our break-even point down by 100,000 accounts. 
+asr:0: OUTPUT 1893.13-1902.40: That's what it equates to. And an 18% fall reduction in the fixed cost base of our financial services business. 
+asr:0: OUTPUT 1902.72-1910.87: And I think the other point to add is we have a number of other areas under review. 
+asr:0: OUTPUT 1911.17-1918.72: And we're working very hard on the cost basis within the financial services business, the consumer financial services business. 
+asr:0: OUTPUT 1919.26-1928.31: And our aim is to bring that break-even point down, as I was saying earlier, as close to our existing account base as possible. 
+asr:0: OUTPUT 1928.45-1930.41: That's what we're trying to do. 
+asr:0: OUTPUT 1930.57-1934.69: I think the important message we're trying to deliver is, I think,. 
+asr:0: OUTPUT 1934.83-1941.50: Historically there was purely one lever being focused on which was the lever of grow account numbers. What we're saying is. 
+asr:0: OUTPUT 1941.54-1946.29: There are three levers here. Lever one is let's grow account numbers. 
+asr:0: OUTPUT 1946.75-1950.85: But more importantly, we believe we can optimize the cost base in this business. 
+asr:0: OUTPUT 1951.35-1956.18: Or as importantly, we believe we can optimize the cost base in this business. 
+asr:0: OUTPUT 1956.64-1966.31: And we are focused on bringing down the break-even point to as close as possible to our current active EPA account base as possible. 
+asr:0: OUTPUT 1966.53-1967.59: So that's really important. 
+asr:0: OUTPUT 1967.95-1972.51: And then the third point to add is, you know, to pick up on something that Lincoln was saying earlier. 
+asr:0: OUTPUT 1972.89-1980.24: We want to, we're putting a real focus on the average revenue per client, and that's through. 
+asr:0: OUTPUT 1980.28-1990.21: Training and focusing our staff across the country in terms of the broader product set, money line, smart life. 
+asr:0: OUTPUT 1990.39-1998.18: And therefore offering a greater product offering to our client base and improving that overall revenue per client. 
+asr:0: OUTPUT 2000.88-2004.18: So if I understand it correctly, the 100,000. 
+asr:0: OUTPUT 2004.20-2011.41: Accounts that is going to be lowered by the end of the fiscal year goes from 1.55 to 1.45. 
+asr:0: OUTPUT 2011.55-2014.87: Is that right, 1.55 or 1.45? 
+asr:0: OUTPUT 2015.68-2019.42: Got it. 
+asr:0: OUTPUT 2019.62-2025.77: And then by that time, you're saying that's the overall group level that you're going to achieve break even. 
+asr:0: OUTPUT 2025.81-2031.03: So would, at that level, would the consumer group be. 
+asr:0: OUTPUT 2031.05-2032.47: Break even, it wouldn't be. 
+asr:0: OUTPUT 2033.35-2037.20: No, we're not saying that. So we think those are identified costs. 
+asr:0: OUTPUT 2037.22-2044.08: That we've already actioned and have managed to reduce the break-even point to 1.55. All right, that's the first question. 
+asr:0: OUTPUT 2044.46-2053.17: And secondly, our aim, our intention is to get this business to a break-even point, to a run rate break-even in June 2022. 
+asr:0: OUTPUT 2053.19-2054.51: Through further actions. 
+asr:0: OUTPUT 2054.85-2057.82: Within those three levers that I've just described to you. 
+asr:0: OUTPUT 2059.86-2066.05: And does the ARPU, and I know that I think Lincoln talked about, you guys talked about ARPU increase. 
+asr:0: OUTPUT 2067.23-2076.22: Does that change the metric significantly, you know, from 250 in a count a month? 
+asr:0: OUTPUT 2076.24-2083.86: In financial and processing, does that change that? I think the expectation was to go to three. 
+asr:0: OUTPUT 2084.72-2088.33: And I'm talking about dollars per account per month. 
+asr:0: OUTPUT 2088.43-2091.09: Is that also expecting to change? 
+asr:0: OUTPUT 2091.89-2100.34: Because you're bringing on some light products, the EPE light and the smart one, would that lower your output in the business? 
+asr:0: OUTPUT 2103.16-2104.96: Raj, could you just repeat that last section? 
+asr:0: OUTPUT 2107.01-2112.17: So the last section was, you know, you're going to introduce the, or you have introduced the GPP Lite, the smart one. 
+asr:0: OUTPUT 2113.69-2116.54: My question is, the overall arc will go down. 
+asr:0: OUTPUT 2116.92-2119.66: As a result of you have the growth. 
+asr:0: OUTPUT 2119.68-2128.61: In the accounts and you have the growth in the overall revenue levels, but does the ARPU level go down because of offering these? 
+asr:0: OUTPUT 2128.63-2130.41: Life products. 
+asr:0: OUTPUT 2131.39-2138.52: So the EPE light might dilute slightly, but it's unlikely to have a significant effect. 
+asr:0: OUTPUT 2139.16-2148.57: The smart one product is more of a rebranding and positioning and actually, you know, may enhance our RPU slightly. 
+asr:0: OUTPUT 2149.33-2156.78: Well, can enhance it quite significantly actually, because we feel that the penetration of the insurance product into the base is quite low. 
+asr:0: OUTPUT 2158.00-2159.58: And also if I can come in, I think the... 
+asr:0: OUTPUT 2159.60-2165.13: The light product, the EPE light, is intended to broaden our. 
+asr:0: OUTPUT 2165.15-2174.67: You know, are offering, you know, beyond the social grant recipient market. So, the numbers we're talking about, this would be in addition to that in a sense. 
+asr:0: OUTPUT 2176.00-2184.38: I could also add, Raj, if you think about this, SMART1 also goes beyond the social ground base. 
+asr:0: OUTPUT 2185.41-2190.59: This is again people on the stand alone who are looking for a funeral policy. 
+asr:0: OUTPUT 2190.85-2197.30: And again it breaks the mold that our focus is not only on social grant recipients,. 
+asr:0: OUTPUT 2197.40-2202.26: But any other person who's looking for a product of that nature. 
+asr:0: OUTPUT 2202.62-2207.87: So collectively, this should be more positive than negative. 
+asr:0: OUTPUT 2210.25-2218.58: Thank you for that. So on the account growth, you're saying that you're doing about 50,000. 
+asr:0: OUTPUT 2218.60-2223.02: New accounts a month. 
+asr:0: OUTPUT 2224.16-2225.91: Did I catch that correctly? 
+asr:0: OUTPUT 2226.51-2230.07: Current run rate. We've seen that for the last few months. 
+asr:0: OUTPUT 2232.69-2236.74: And that's what gets you to the break-even level of 1.55 million. 
+asr:0: OUTPUT 2240.52-2242.88: The 1.5 by the end of the fiscal year. 
+asr:0: OUTPUT 2244.02-2251.03: Sorry again, Raj, so the 1.55 is what we would see as our break even based on our cost base and our assumptions on revenues. 
+asr:0: OUTPUT 2253.87-2255.06: And we. 
+asr:0: OUTPUT 2255.14-2256.54: We are. 
+asr:0: OUTPUT 2256.60-2266.47: We are saying that our aim is to get to break even by June 2022, run rate break even in June 2022 through the combination of three levers. 
+asr:0: OUTPUT 2266.55-2272.59: Which would be growing our account base, as we currently set out. 
+asr:0: OUTPUT 2272.75-2274.99: Secondly, increasing the revenue per client. 
+asr:0: OUTPUT 2275.44-2282.18: Thirdly, and probably most materially of the three at this point, is the cost levers that we are focused on. 
+asr:0: OUTPUT 2285.61-2293.85: Got it. And then this account growth, are you, I know that Lincoln was talking about the,. 
+asr:0: OUTPUT 2293.87-2297.90: Initiatives with SASA and the joint bid. 
+asr:0: OUTPUT 2298.24-2301.56: Are you in any of this account growth? 
+asr:0: OUTPUT 2301.58-2308.87: Is there any number that you're assuming for growth of the SAFTA accounts, the grant accounts, the grant recipients? 
+asr:0: OUTPUT 2310.09-2318.22: We have infected in the tender in our projections. 
+asr:0: OUTPUT 2319.20-2324.98: The issues I was talking about was that in our day-to-day interaction. 
+asr:0: OUTPUT 2325.73-2328.37: We are seeing more collaboration with SAFSA. 
+asr:0: OUTPUT 2328.83-2335.10: There are, for example, environments where SBASA has invited us to be in their offices. 
+asr:0: OUTPUT 2335.12-2342.16: To help capture the accounts and that will drive activation to be better. 
+asr:0: OUTPUT 2342.52-2353.21: We've also been invited by SASA and some of the provinces to go with them in their outreach programs so that we can open new accounts in those environments. 
+asr:0: OUTPUT 2353.47-2361.38: But for the tender itself, we have not factored that in, into the numbers, because we want to get a better sense. 
+asr:0: OUTPUT 2361.40-2364.92: If we are fortunate to be one of the banks. 
+asr:0: OUTPUT 2364.94-2374.23: That win this, and then obviously we'll be in a better situation to kind of assess what the revenue implications are of that win. 
+asr:0: OUTPUT 2374.53-2379.46: But we have not factored that in, in the projections of a control. 
+asr:0: OUTPUT 2382.32-2385.15: So Lincoln, that's very helpful. Are there any... 
+asr:0: OUTPUT 2385.17-2390.99: Any sort of expectation of a certain number of accounts that you could? 
+asr:0: OUTPUT 2391.01-2396.00: Gain over the next year, two years, or is that too early to tell? 
+asr:0: OUTPUT 2397.42-2403.70: Yeah, it's too early to tell Raj, because the biggest thing is... 
+asr:0: OUTPUT 2403.72-2407.67: All of the work of changing the culture. 
+asr:0: OUTPUT 2407.89-2411.09: All of the work of training the staff. 
+asr:0: OUTPUT 2411.33-2417.14: All of the work of changing the mindset from a logistics company to a financial services. 
+asr:0: OUTPUT 2417.20-2429.45: All of the work of improving our relationship with Sasa and all of the work of being in the market, competing and launching new products. 
+asr:0: OUTPUT 2429.91-2437.82: All of those are early days to be making definitive projections. 
+asr:0: OUTPUT 2438.00-2440.28: What we can see now. 
+asr:0: OUTPUT 2440.84-2444.80: Are these three months where there's a growth of 50,000 accounts? 
+asr:0: OUTPUT 2445.39-2448.37: That's the earliest stage of what we can see. 
+asr:0: OUTPUT 2448.85-2458.74: We want to know whether when we speak to you in a quarter of time, is there a much more discernible pattern that's emerging. 
+asr:0: OUTPUT 2458.94-2467.17: So it is quite early days to be able to put higher projections which then do not come to pass. 
+asr:0: OUTPUT 2467.57-2473.97: Which then reinforces again Chris's point that said of the three levers. 
+asr:0: OUTPUT 2474.75-2482.94: The one that is so immediately in our control and doesn't depend on a number of other variables. 
+asr:0: OUTPUT 2482.96-2489.05: Is the cost that we see that are outsized versus the opportunity. 
+asr:0: OUTPUT 2489.43-2494.15: And those costs are costs that we will look at and do something about those costs. 
+asr:0: OUTPUT 2494.39-2500.98: While simultaneously doing other things of improving our uphold and improving our control. 
+asr:0: OUTPUT 2504.28-2509.13: That's very helpful. And then just the last bit is on... 
+asr:0: OUTPUT 2509.15-2521.46: If you can talk about any synergies related to the Connect Group, are you assuming any increase in customer accounts from the acquisition of Connect Group? 
+asr:0: OUTPUT 2523.58-2527.47: Access to consumer accounts through the merchants, through those merchants. 
+asr:0: OUTPUT 2528.57-2537.60: At this point, Rod, we haven't factored in any synergistic benefits into our current growth or revenue growth. 
+asr:0: OUTPUT 2537.62-2539.92: Poor costs at all. 
+asr:0: OUTPUT 2540.90-2544.96: You know, we've only looked at this purely on a standalone basis. 
+asr:0: OUTPUT 2546.53-2551.83: That said, there are some clear synergies that we believe do exist between the two businesses. 
+asr:0: OUTPUT 2553.47-2563.02: We are very focused on, once the transaction, assuming the transaction gets the approval of the competition commission and the other. 
+asr:0: OUTPUT 2563.04-2566.49: Requirements out of the way. We'll be very focused on delivering. 
+asr:0: OUTPUT 2566.69-2570.95: Give you a flavor, the things we see in terms of synergies. 
+asr:0: OUTPUT 2571.15-2579.70: Firstly, there's the opportunity of a payment switch integration between EasyPay and Kazang. It's a real opportunity. 
+asr:0: OUTPUT 2580.20-2593.49: Secondly, there's an opportunity in terms of the cost of cash processing within the combined group. The Connect Group is a generator of cash as a commodity through the Smart Safe business, whereas the NetOne ATM. 
+asr:0: OUTPUT 2593.51-2595.60: The state requires cash. 
+asr:0: OUTPUT 2596.40-2601.78: And then thirdly, this is, you know, to your point,. 
+asr:0: OUTPUT 2602.78-2608.35: Kazang has a footprint of over 35,000 informal merchants around the country. 
+asr:0: OUTPUT 2609.09-2614.41: And we believe there's an opportunity to align and partner better between NetOne and Kazang. 
+asr:0: OUTPUT 2614.83-2621.82: In terms of accessing consumers that would, you know, attend those informal merchant sites. 
+asr:0: OUTPUT 2622.90-2632.15: And the fourth one is, you know, we have a very strong presence in places like the Eastern Cape and KwaZulu-Natal. 
+asr:0: OUTPUT 2632.53-2638.24: Whereas, you know, Kazang traditionally is stronger in the Western Cape and Hateng. 
+asr:0: OUTPUT 2638.56-2641.82: So we feel there's an opportunity to help rapid growth in those markets. 
+asr:0: OUTPUT 2642.42-2648.01: There are those opportunities, they're not built into these numbers. We've tried to remain conservative. 
+asr:0: OUTPUT 2648.39-2653.11: I think just to emphasize another point, I think Lincoln made very eloquently, which is. 
+asr:0: OUTPUT 2653.61-2662.14: You know, this is early days for us, Rog. We as a new management team want to give you clarity with as much certainty as possible around where we're going. 
+asr:0: OUTPUT 2663.26-2671.33: The trends are starting to become clear in terms of account growth and activation and so forth, but it's a developing picture. 
+asr:0: OUTPUT 2671.59-2679.78: So we've got a balance, trying to give you an earlier view on what we're seeing with the confidence that what we're seeing is deliverable. 
+asr:0: OUTPUT 2680.02-2688.31: We feel we're moving in that direction and we're very excited about it. But we are just asking, hopefully we've given you a lot more than we gave you two months ago. 
+asr:0: OUTPUT 2688.51-2690.61: We will want to give you more in another three months. 
+asr:0: OUTPUT 2693.15-2701.96: Absolutely. Thank you so much for the detail and thank you for the added color by Lincoln on the operations as well. 
+asr:0: OUTPUT 2703.00-2704.38: I'll take it offline. Thank you. 
+asr:0: OUTPUT 2706.41-2711.57: Thank you. The next question is from Kumbe Gundani of Standard Bank. Please go ahead. 
+asr:0: OUTPUT 2713.49-2719.22: Thank you. Thanks Lincoln and team for the presentation thus far. 
+asr:0: OUTPUT 2719.78-2727.27: I know it's quite early, but have you seen any impact from the likes of Vodapay on EasyPay and the numbers? 
+asr:0: OUTPUT 2727.35-2733.15: And what's your expectation with mobile money providers looking to get into the space? Thank you. 
+asr:0: OUTPUT 2734.67-2744.40: Yeah, this is an exciting environment. It's a very competitive environment. We are rebuilding a team there. We have. 
+asr:0: OUTPUT 2744.42-2746.77: Higher diversity in the executive. 
+asr:0: OUTPUT 2746.81-2754.61: Andrew Wilmot who is repositioning our business in order for it to be able to compete. 
+asr:0: OUTPUT 2755.16-2762.54: It's been early days to see what Vodapay has been able to do. 
+asr:0: OUTPUT 2763.02-2768.29: But we've got a competitively strong position to maintain in that environment. 
+asr:0: OUTPUT 2768.71-2775.88: And if you combine what we've got with what is possible with a connect group,. 
+asr:0: OUTPUT 2775.98-2779.46: The talent and the leadership in both teams. 
+asr:0: OUTPUT 2779.48-2782.92: I think we will be a formidable competitor to ourselves. 
+asr:0: OUTPUT 2783.26-2787.09: And will be able to compete in that space quite adequately. 
+asr:0: OUTPUT 2787.37-2791.19: So we're watching that space quite closely. 
+asr:0: OUTPUT 2791.95-2798.28: Some of the people that are behind Vodapay are people I've certainly worked with. I know they're very smart guys. 
+asr:0: OUTPUT 2798.64-2802.64: Very committed guys so we are not underestimating what's out there. 
+asr:0: OUTPUT 2803.06-2808.63: But again, our focus is we want to make a real difference. 
+asr:0: OUTPUT 2808.65-2814.09: In underserved merchants, particularly in the informal space. 
+asr:0: OUTPUT 2814.53-2820.82: And that combination of what we've got and what Kazang Pay brings to the party. 
+asr:0: OUTPUT 2820.98-2827.57: I think that that's going to be an amazing combination and we look forward to be able to compete on that basis. 
+asr:0: OUTPUT 2834.77-2840.46: And also your questions convey? Yes, it does. Thank you very much. Thank you very much. 
+asr:0: OUTPUT 2841.72-2846.95: Ladies and gentlemen we have no further questions in the queue and I'd like to hand the conference back to Mr Mayor for some closing remarks. 
+asr:0: OUTPUT 2850.41-2858.14: Thank you. Thank you very much, operator. And just to conclude, thank you very much, everybody, for joining us on the call. 
+asr:0: OUTPUT 2858.82-2861.62: Thank you for the questions and thank you for the interest in our business. 
+asr:0: OUTPUT 2862.32-2872.07: And hopefully you've heard the excitement that we feel around our transformation, turning around the consumer financial services business through the customer acquisition, reduced costs. 
+asr:0: OUTPUT 2872.09-2877.44: And I focus on building the leading South African FinTech platform for underserved consumers and merchants. 
+asr:0: OUTPUT 2877.94-2884.46: We're all very, very committed to this and we look forward to sharing more on the journey in future calls. Thank you very much for joining us. 
+asr:0: OUTPUT 2887.07-2892.67: Thank you very much, sir. Ladies and gentlemen, that concludes this conference and you may now disconnect. 
+asr:0: END

@@ -1,0 +1,470 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 6.67-9.45: Just please simply type in your question at any time and press send. 
+asr:0: OUTPUT 9.89-15.74: The company may not be in a position to answer every question it receives during the meeting itself. However, the company review all questions submitted today. 
+asr:0: OUTPUT 15.94-22.38: And publish responses where it's appropriate to do so. These will be available via your InvestorMeet company dashboard and we'll send you an email when they're ready for your review. 
+asr:0: OUTPUT 22.82-25.71: I'd also like to remind you that this presentation is being recorded. 
+asr:0: OUTPUT 26.33-36.16: As usual, before we begin, we'd like to submit the following poll and I'm sure the company would be most grateful for your participation. And I'd now like to hand over to Neil Ricketts, CEO from Vercerin. Good afternoon, Neil. 
+asr:0: OUTPUT 37.06-39.24: Good evening, everybody, and thank you, Mark, for the introduction. 
+asr:0: OUTPUT 39.74-46.05: I'm joined today by Chris, who's going to walk us through the first half interim to the financial details. 
+asr:0: OUTPUT 46.53-56.26: And then I'm going to be joined by Steve, who's going to specifically talk about the activities in South Korea and what's been going on out there. 
+asr:0: OUTPUT 56.34-60.68: Obviously, as Mark said, we'll be answering some of the questions as we go through the presentation. 
+asr:0: OUTPUT 60.76-66.45: And any live questions that come in we'll do our best to answer but all questions will be answered post event. 
+asr:0: OUTPUT 66.75-70.95: So Chris, could you lead us through the interim results, please? 
+asr:0: OUTPUT 72.23-74.19: Yes of course and good evening everybody. 
+asr:0: OUTPUT 75.64-83.22: As you're aware, we publish the results on Monday and I will just very briefly take you through those results. 
+asr:0: OUTPUT 84.10-90.93: The first slide that we're going to look at just summarizes those results and the headlines. I think most people will have actually seen them. 
+asr:0: OUTPUT 91.59-94.49: But just for the sake of those who may not have done. 
+asr:0: OUTPUT 95.16-104.92: We were pleased to report that the group revenues from continuing operations were up 41%, 3.8 million from 2.7 million the previous period. 
+asr:0: OUTPUT 105.59-114.43: We refer to continuing operations here because we have classified the revenues that were from the aluminium business that was based in Cheltenham. 
+asr:0: OUTPUT 114.45-118.98: Which were announced as being discontinued as a discontinued activity. 
+asr:0: OUTPUT 119.02-123.52: And consequently in these results they're classified as such. 
+asr:0: OUTPUT 124.28-126.33: Which means from an accounting perspective. 
+asr:0: OUTPUT 126.35-135.56: We have to structure the income statement slightly differently from that which we've done previously and bring in the net results of those discontinued activities as one line. 
+asr:0: OUTPUT 135.58-140.46: Hence the reason that referring to continuing operations here. 
+asr:0: OUTPUT 142.02-148.81: It's worth noting that any relocation or redundancy costs in relation to that move are classified as exceptional. 
+asr:0: OUTPUT 148.83-152.49: And there's a note in the interim statement which which details that. 
+asr:0: OUTPUT 153.31-161.18: Also, the ongoing lease costs at Longhope are broadly similar to that at Cheltenham, but of course they provide upgraded facilities and space for expansion. 
+asr:0: OUTPUT 163.02-169.49: The revenues that were derived from our graphene activities were up 166% to 0.93 million. 
+asr:0: OUTPUT 169.89-173.67: In the comparative period last year they were 0.35 million. 
+asr:0: OUTPUT 174.45-177.62: And we'll come on to a little bit more analysis of that later on. 
+asr:0: OUTPUT 178.72-185.04: The adjusted LBITDAR, which is this primary measure that we use to report for the business,. 
+asr:0: OUTPUT 185.07-193.23: On continuing operations had reduced by 37 percent so those losses were down by 37 percent to 0.71 million. 
+asr:0: OUTPUT 193.25-197.40: From 1.16 million in the comparative period. 
+asr:0: OUTPUT 198.72-207.97: The reported loss for the business as a whole, including the discontinued operations, was 3.1 million compared to 4.34 million in the previous period. 
+asr:0: OUTPUT 208.55-216.40: And the loss before tax for continuing operations was 2.96 million, again down from 4.3 million in the previous period. 
+asr:0: OUTPUT 217.46-227.33: And at the balance sheet date of 30 September, our cash was up to 3.5 million compared to 2.4 million at the previous period. 
+asr:0: OUTPUT 229.73-233.01: So just a little bit more about the key points for the revenue. 
+asr:0: OUTPUT 233.91-238.78: That increase in revenue of 1.1 million came from two sources. 
+asr:0: OUTPUT 239.26-245.09: Half a million pounds is from the recovery in the two mature businesses AAC and TC. 
+asr:0: OUTPUT 245.71-252.11: And you may recall we now report in two business segments, one is mature businesses, one is technology businesses. 
+asr:0: OUTPUT 252.71-259.80: And the graphene revenues of 0.9 million reported come from two sources as well. 
+asr:0: OUTPUT 260.22-265.85: They are derived from product sales, 0.3 million comes from product revenues. 
+asr:0: OUTPUT 266.23-274.47: And 0.6 million comes from Graphene Product Development Agreement, being the DSTL agreement that we announced back in November. 
+asr:0: OUTPUT 274.51-275.74: 2020. 
+asr:0: OUTPUT 276.66-284.50: And it's worth just noting that since we started work on that development agreement for product for DSTL,. 
+asr:0: OUTPUT 285.65-293.33: The total contract was 1.95 million, which we announced, and the total income that we've recognized to date on that. 
+asr:0: OUTPUT 293.35-299.40: On that project is 0.9 million, so there's still a further million pounds to recognize. 
+asr:0: OUTPUT 299.42-301.22: On that particular project. 
+asr:0: OUTPUT 304.40-311.31: If we look at the cash flow and the balance sheet and we look at the burn rate for H1,. 
+asr:0: OUTPUT 312.27-320.66: The monthly burn rate is roughly 0.4 million and that is made up of the net cash that's used in operations of 1.2 million. 
+asr:0: OUTPUT 321.52-327.21: The intangibles that we have capitalized for G-Scale primarily, 0.9 million. 
+asr:0: OUTPUT 327.75-331.69: And any HP stroke lease replenishments we've made of 0.4 million. 
+asr:0: OUTPUT 332.79-341.26: That comes to a total of 2.5, so for six months, roughly our monthly burn rate is 0.4 million as reported for the first half. 
+asr:0: OUTPUT 343.30-349.71: If you compare that to the cash and the headroom we've got of six million at that same date,. 
+asr:0: OUTPUT 350.67-355.98: We reported in the balance sheet that we had bank balances of three and a half million. 
+asr:0: OUTPUT 356.56-362.34: We had headroom on our invoice finance facilities that we could draw down if we wished to of 0.8 million. 
+asr:0: OUTPUT 362.92-368.65: And we had 1.7 million that was still undrawn from the Innovate UK loan. 
+asr:0: OUTPUT 369.01-375.72: Which is the total of the 5.5 million less the 3.3 million that we had drawn at the balance sheet date. 
+asr:0: OUTPUT 377.04-385.59: We also have proceeds from Lancet, which will be coming in over the next few months until 2022. 
+asr:0: OUTPUT 386.41-388.45: They're obviously dependent upon the share price. 
+asr:0: OUTPUT 389.47-395.64: The first Lensit instrument expires in April 22 and the second one in July 22. 
+asr:0: OUTPUT 396.52-404.99: So, you know, if we're looking at our monthly burn rate of 0.4 million, our cash strike entry with 6 million further proceeds from the Lensd instrument. 
+asr:0: OUTPUT 406.29-411.91: We can, I think we can leave you to draw your own conclusions about the level of funding that we actually have. 
+asr:0: OUTPUT 412.79-419.06: We've also expended 1.1 million in the first period on scale-up equipment, which is a significant amount for us. 
+asr:0: OUTPUT 420.02-424.38: And we should also bear in mind that the Innovate UK is a loan. 
+asr:0: OUTPUT 424.76-435.06: But that that loan does not start to become repayable until 2024. So we're some time away from having to consider the repayments on that particular loan. 
+asr:0: OUTPUT 439.98-446.13: So that's the that's the sort of the main part of the numbers. 
+asr:0: OUTPUT 446.93-450.97: So I'll hand you back to Neil to take you through some other things. 
+asr:0: OUTPUT 451.77-454.03: So in terms of operational highlights. 
+asr:0: OUTPUT 454.07-461.84: Obviously, we announced the investment from Graphene Lab Ltd in South Korea, just short of £2 million. 
+asr:0: OUTPUT 462.50-466.07: Includes also a royalty agreement and the trademark agreement. 
+asr:0: OUTPUT 467.99-475.88: Kind of part of our strategy moving forward which is to have these key kind of associations with. 
+asr:0: OUTPUT 475.90-478.12: Our customers and our suppliers. 
+asr:0: OUTPUT 479.56-480.92: Other things that happened. 
+asr:0: OUTPUT 481.04-490.85: We're now in the process of commissioning the Spanish assets. That's an entire factory that was moved over from Spain in this period, including all of the machinery, the testing equipment. 
+asr:0: OUTPUT 490.97-494.05: Which I'll touch on later on when we talk about the expansion at Long Hope. 
+asr:0: OUTPUT 495.20-502.38: We've, as Chris said, we've spent £1.1 million on scaling up our processes again, something that we'll talk about a little bit later in the presentation. 
+asr:0: OUTPUT 503.36-511.79: In terms of things that have happened on the customer side, we're very focused around our textile developments and also our concrete developments. 
+asr:0: OUTPUT 511.97-517.06: And you'll have seen that we've signed agreements with cross let and across leach. I say. 
+asr:0: OUTPUT 517.08-518.70: And also super dry. 
+asr:0: OUTPUT 518.72-529.33: I was very fortunate to go with the designers and the ceiling management to the opening of their new store where we talked about the impact of graphene on their garments moving forward. 
+asr:0: OUTPUT 530.41-539.38: In terms of uh... Other things that are going on within the business although we're focused on uh... The textiles and the construction. 
+asr:0: OUTPUT 539.72-547.95: We also have a number of other agreements in place where we're developing through Steve's team things like materials for the packaging industry. 
+asr:0: OUTPUT 548.07-551.99: And we're very pleased to be working with some of the largest patching companies. 
+asr:0: OUTPUT 552.01-559.12: That are out there. So it shows that the business has a huge amount of traction now and is moving forward in a very focused way. 
+asr:0: OUTPUT 560.06-565.00: In terms of the post-period highlights, we obviously secured. 
+asr:0: OUTPUT 565.02-570.95: Under Steve's leadership, a grant with a number of key. 
+asr:0: OUTPUT 570.97-577.94: Partners in terms of developing our nanomatte technology out of Spain into pseudo capacitors. 
+asr:0: OUTPUT 578.46-582.88: These are required where we're looking at electrification of transport. 
+asr:0: OUTPUT 583.76-589.57: I've already talked about SuperDry and how we're working with SuperDry on multiple projects. 
+asr:0: OUTPUT 590.61-595.66: And lastly, we managed to sneak into the interims there. 
+asr:0: OUTPUT 595.68-603.42: A royalty agreement that's been signed with Gdaŭ who are one of the largest steel manufacturers, if not the largest steel manufacturer in. 
+asr:0: OUTPUT 603.44-611.89: Brazil, who have started up a graphene production, graphene exploitation plan to look at replacing their steel business. 
+asr:0: OUTPUT 612.71-618.82: We're working closely with those on a number of projects, but the first one which has come out as a royalty agreement is around. 
+asr:0: OUTPUT 618.84-624.22: Using our mask predominantly in Latin America where unfortunately COVID is still. 
+asr:0: OUTPUT 624.24-625.65: Very prevalent. 
+asr:0: OUTPUT 627.13-634.83: I think that's a great step for the business in terms of getting Gadao on board and working very closely. 
+asr:0: OUTPUT 635.18-639.42: Both at the Graphene Engineering Innovation Centre up at Manchester where our. 
+asr:0: OUTPUT 639.44-648.41: Some of our graphene development happens, but also looking at our global footprint, which now includes South Korea, North America,. 
+asr:0: OUTPUT 648.43-652.19: Europe, the UK, and also Latin America. 
+asr:0: OUTPUT 654.13-660.24: One of the things that shareholders asked about during the pre-submitted questions was what's happening at Longhope. 
+asr:0: OUTPUT 660.48-665.07: This is the very latest picture of our innovation center, which is being constructed at the moment. 
+asr:0: OUTPUT 665.91-674.95: That's about a 10,000 square foot facility and includes a state-of-the-art laboratory using some of the equipment that was purchased in Spain. 
+asr:0: OUTPUT 675.66-677.94: We'll also be doing our own materials testing. 
+asr:0: OUTPUT 678.80-687.33: People have asked, you know, what's the main focus of that? Well, it's really about commercial things that customers are not happy being in a more open environment. 
+asr:0: OUTPUT 687.75-693.05: But it's also about defence and it's about also looking at the next stages of graphene. 
+asr:0: OUTPUT 693.11-702.02: So making graphene is one thing, but then actually taking that graphene and using it in applications takes an awful lot of time. 
+asr:0: OUTPUT 702.04-705.11: Expertise and an effort. 
+asr:0: OUTPUT 705.47-714.19: And so this, in my view, will be the way that we take the graphene that's produced in Longhope and then feed it into customer applications. 
+asr:0: OUTPUT 714.59-719.94: How do we get it into a bigger variety of materials as the business continues to expand? 
+asr:0: OUTPUT 720.64-729.45: Within the Long Hope facility, we've actually moved our graphene production from about a 2,000 square foot footprint up to about an 18,000 square foot footprint. 
+asr:0: OUTPUT 729.85-735.16: And that includes the 17 innovation area where our robot will be based. 
+asr:0: OUTPUT 735.84-743.70: Unfortunately, there's been a little bit of a delay due to supplier issues and getting the machine from Europe. 
+asr:0: OUTPUT 744.46-752.39: We're still anticipating that we'll have that in place and we'll be commissioning it over the Christmas period and the New Year. 
+asr:0: OUTPUT 753.45-762.32: We already have some work to do and we'll be learning how to use that machine, developing this brand new technique. 
+asr:0: OUTPUT 762.76-769.01: And if we get time towards the end of this presentation we'll run the full video that we showed last time just to give you an indication of. 
+asr:0: OUTPUT 769.03-770.87: The capability of that machine. 
+asr:0: OUTPUT 771.63-779.24: A long hope, we've increased our ink production as Chris said, so the ink used in not only our textiles but our construction. 
+asr:0: OUTPUT 779.44-782.44: We use graphene nanoplatelets also in construction. 
+asr:0: OUTPUT 782.84-785.61: And we've increased the capacity using the Spanish assets. 
+asr:0: OUTPUT 786.31-791.99: That's in the process of commissioning, as I said last time. So we've got the first machine set up. 
+asr:0: OUTPUT 792.89-800.50: And we're now doing the electrical installation and the control systems set up so that we can meet the UK regulations now as well. 
+asr:0: OUTPUT 801.02-810.77: We're increasing the ability for us to be able to test the materials that we're producing and we're looking at a range of standard materials, utilizing the graphene reinforcement. 
+asr:0: OUTPUT 811.43-814.63: But we're also increasing this research area. 
+asr:0: OUTPUT 815.08-822.88: The slab itself will have a brand new product in it in terms of recycled polypropylene fibers which have been reinforced with graphene as well. 
+asr:0: OUTPUT 823.24-832.79: So this will be a real place to be able to demonstrate and hopefully, you know, COVID permitting, we'll be able to invite shareholders along to see some of these facilities. 
+asr:0: OUTPUT 833.57-837.80: Shareholders are invited, in fact any visitor that comes to this site. 
+asr:0: OUTPUT 838.00-845.13: Will require an NDA and obviously we're trying to keep all of our information as confidential as possible. 
+asr:0: OUTPUT 845.43-853.85: So access is really quite limited, but we do hope to hold some events so that shareholders can get. 
+asr:0: OUTPUT 853.87-859.68: To touch and feel the facility and get an idea of how that has expanded, as I say, from. 
+asr:0: OUTPUT 859.84-860.84: Out of the square foot. 
+asr:0: OUTPUT 860.86-862.50: To almost 28,000 square feet. 
+asr:0: OUTPUT 864.92-866.03: Catch my breath slowly. 
+asr:0: OUTPUT 867.53-869.17: So, moving on. 
+asr:0: OUTPUT 869.19-880.42: I'm going to pass over now to Steve. Steve is down in Cambridge and has recently been to South Korea and he's going to give you an update as to what's been going on in South. 
+asr:0: OUTPUT 880.44-881.86: Korea. 
+asr:0: OUTPUT 882.44-885.43: Thanks Neil and Annyeonghaseyo to everybody. That's hello in Korean. 
+asr:0: OUTPUT 886.77-895.20: So as Neil mentioned, just to give a review, it's almost been one year now since the acquisition of assets from Hanwha Techwin. 
+asr:0: OUTPUT 895.88-899.04: So just to go through the history of where it all started. 
+asr:0: OUTPUT 900.00-909.69: And so Samsung Techwin back in 2009, they initiated the graphene business under their semiconductor parts operation department. 
+asr:0: OUTPUT 909.87-918.84: They worked on predominantly three national projects, one with the Ministry of Trade, Industry and Energy, MOTI. 
+asr:0: OUTPUT 918.88-923.52: And others with the MSIT, that's the Ministry of Science and ICT. 
+asr:0: OUTPUT 924.04-926.45: And those amounted to around £24 million. 
+asr:0: OUTPUT 926.95-936.28: And the main goals there were to achieve quite large scale growth of single layer graphene via the chemical vapor deposition, CVD approach. 
+asr:0: OUTPUT 937.32-943.86: Lots of effort and activity were going towards development of graphene in different applications, particularly those that. 
+asr:0: OUTPUT 943.88-948.39: Will rely on roll-to-roll, very high throughput manufacturing. 
+asr:0: OUTPUT 949.19-957.74: So a lot of work has been done on looking at the replacement or substitution of indium tin oxides that we find in most of our displays and devices. 
+asr:0: OUTPUT 958.42-971.07: And so also along those lines, systems were built capable of producing around 1.6 meter by 90 centimeter scale graphene. 
+asr:0: OUTPUT 971.19-977.30: So that was followed by a takeover by Hanwha Techwin in 2015. 
+asr:0: OUTPUT 977.68-986.83: Who then launched further projects with MSIT and those were looking to develop new equipment for testing and characterizing. 
+asr:0: OUTPUT 986.87-988.79: Graphene in a non-destructive way. 
+asr:0: OUTPUT 988.85-993.29: Many of the techniques that we have to use for characterizing graphene can be destructive. 
+asr:0: OUTPUT 994.19-1002.70: But obviously, there's quite a lot of interest in, once we've made large-scale samples, how to put those into an application and analyze the quality without destroying those. 
+asr:0: OUTPUT 1003.20-1008.91: So there's several pieces of inspection equipment which have now been transferred over to Vissarion Korea. 
+asr:0: OUTPUT 1009.93-1016.38: And two of the previous ongoing projects were then completed during that phase as well, between 2015 and 2020. 
+asr:0: OUTPUT 1017.20-1025.21: Obviously the discussions with Hanwha Techwin have taken many months during 2020 and I'll go through what's been happening since then. 
+asr:0: OUTPUT 1026.53-1028.11: So on to the next slide. 
+asr:0: OUTPUT 1029.43-1031.89: Our story didn't start there. 
+asr:0: OUTPUT 1031.93-1040.08: We date back to around 2017 when Neil first went out to Japan and Korea as part of a Megatech trade mission. 
+asr:0: OUTPUT 1040.82-1043.30: That was a UKTI-led mission. 
+asr:0: OUTPUT 1043.80-1048.39: And that was where we first met Matt Walker, part of DIT, Department of International Trade. 
+asr:0: OUTPUT 1049.03-1055.68: And then in the subsequent years, in June and September 2018, Neil again visited Korea. 
+asr:0: OUTPUT 1056.18-1061.12: We're also involved in Innovate UK global business innovation program, GBIP. 
+asr:0: OUTPUT 1061.14-1066.51: Focused on advanced materials and again that led to new collaborations and partnerships in South Korea. 
+asr:0: OUTPUT 1067.69-1074.27: October 2018 we appointed Rachel Kim as our Korean representative who's still with the business. 
+asr:0: OUTPUT 1074.99-1082.68: And in those years leading up to the first discussions, myself and Matt Walker, again, since he joined the business,. 
+asr:0: OUTPUT 1083.22-1089.59: We visited to again build networks, build collaborations and that was all supported by Rachel Kim. 
+asr:0: OUTPUT 1091.01-1095.54: So probably June last year was the time where we started. 
+asr:0: OUTPUT 1095.72-1103.64: We heard about the opportunity to acquire the graphene business from Hanwha Techwin. 
+asr:0: OUTPUT 1103.66-1109.89: Discussions, assessing the IP, due diligence and negotiations, all with COVID going on in the background. 
+asr:0: OUTPUT 1110.51-1117.66: And then it wasn't until December 2020 that we finally acquired the assets and the IP from Panware Aerospace. 
+asr:0: OUTPUT 1119.00-1132.27: So that was a busy year last year and this acquisition, as we presented before, this covers more than 100 patents across 29 different families with protection in many parts of the world. 
+asr:0: OUTPUT 1132.29-1135.94: And that's covering everything from the process equipment. 
+asr:0: OUTPUT 1135.96-1140.68: Recipes and graphene growth recipe manufacturing methods. 
+asr:0: OUTPUT 1141.38-1147.03: Obviously, before we even start the graphene growth, we need to use a metal substrate. 
+asr:0: OUTPUT 1147.55-1154.21: And also those substrates depending on their cleanliness and the quality and the size of the metallic crystals. 
+asr:0: OUTPUT 1154.93-1164.40: That really affects the graphene growth. So there's lots of know-how and IP based on what we do to that metal before it even goes in the furnace, before we even switch on the machines. 
+asr:0: OUTPUT 1165.55-1168.11: Once we actually make the single-layer graphene,. 
+asr:0: OUTPUT 1168.99-1175.38: Lots of things you can do after the process because naturally once it's exposed to the environment, it's picked up certain molecules. 
+asr:0: OUTPUT 1175.88-1178.60: It can have what we call doping, so it can be... 
+asr:0: OUTPUT 1178.62-1184.04: P-doped or n-doped and that might then affect the the final application that you're trying to develop. 
+asr:0: OUTPUT 1184.06-1189.33: So there's lots of things post-treatment wise you can add certain chemicals to the graphene surface. 
+asr:0: OUTPUT 1189.35-1194.93: To get electrons to either move into graphene or move out of graphene so that you can. 
+asr:0: OUTPUT 1194.95-1196.76: You can start from a clean platform. 
+asr:0: OUTPUT 1198.28-1205.49: Obviously we're growing on a metal and the graphene, if you want to make a semiconductor device that has to be transferred. 
+asr:0: OUTPUT 1205.51-1209.07: One of the key processes is looking at how we can get rid of that metal. 
+asr:0: OUTPUT 1209.65-1220.68: And so there's a range of both wet chemical processes and also dry processes to get the graphene from the copper or metal onto the substrate of your choice, whether that's plastic, that's glass. 
+asr:0: OUTPUT 1221.64-1223.56: Or could even be a textile substrate. 
+asr:0: OUTPUT 1225.91-1227.11: Lots of... 
+asr:0: OUTPUT 1227.13-1231.73: IP there is also on that metal removal and that's the chemical process. 
+asr:0: OUTPUT 1232.11-1239.26: And also looking at end electronic devices and so several application IP there that we can look to harness. 
+asr:0: OUTPUT 1241.00-1242.26: So moving on to the next slide. 
+asr:0: OUTPUT 1242.66-1244.42: This is really the story of the last year. 
+asr:0: OUTPUT 1244.48-1249.05: So month by month, once we did that acquisition last December,. 
+asr:0: OUTPUT 1250.09-1256.72: The first few months we're looking for a new facility for all of the equipment and looking for strategic partners out in South Korea. 
+asr:0: OUTPUT 1257.20-1266.95: That took about three months. We were searching different provinces in South Korea, looking and making sure that we fit in with all of the local environmental policies. 
+asr:0: OUTPUT 1267.19-1268.29: Um. 
+asr:0: OUTPUT 1268.35-1277.34: And yeah, three months later and following strategic investment from Graphene Lab in Korea, we moved into a new facility in May. 
+asr:0: OUTPUT 1277.42-1280.00: And I'll go on to the next slide where that's based in. 
+asr:0: OUTPUT 1281.16-1287.83: May was the month where the big move happened, moving everything from Hanwha to the new Viserion career premises. 
+asr:0: OUTPUT 1288.25-1290.35: And then subsequent months June, July. 
+asr:0: OUTPUT 1290.67-1300.14: Fitting out the labs, installing commissioning equipment, repairing some parts, hiring new staff. So we've had new technical and business development staff join the company. 
+asr:0: OUTPUT 1300.46-1303.42: And they've moved across from Hanwha Techwin, so they've got all of that. 
+asr:0: OUTPUT 1303.80-1305.31: Know-how and expertise. 
+asr:0: OUTPUT 1305.99-1308.09: That was critical to continuing the business. 
+asr:0: OUTPUT 1309.49-1316.50: In August and September, we were involved in a Korean news program, YTN, one of the most famous news channels. 
+asr:0: OUTPUT 1317.16-1320.14: And that was with myself and Matt Walker taking part from the UK. 
+asr:0: OUTPUT 1320.90-1330.29: And then probably quicker than I'd expected, we were producing first samples by October. So first quite good quality single-layer graphene samples. 
+asr:0: OUTPUT 1331.23-1339.02: And then obviously we've needed to continue optimizing and improve that process, not just the graphene growth, but the transfer processes as well. 
+asr:0: OUTPUT 1340.06-1347.93: So I visited beginning of November for around 10 days and that was a great opportunity to meet the new staff to look at what progress has been made. 
+asr:0: OUTPUT 1348.79-1355.92: Meets Graphene Lab, obviously as our strategic partner, we want to have a very good relationship, very strong collaboration. 
+asr:0: OUTPUT 1356.38-1361.66: Also had the opportunity to go and visit several academic institutes, meet other commercial. 
+asr:0: OUTPUT 1361.68-1367.33: Partners that we want to work with and also sign some collaboration agreements. 
+asr:0: OUTPUT 1368.45-1372.79: While I was there, we also installed a class 1000 clean room. 
+asr:0: OUTPUT 1373.87-1380.54: And that basically means we have a very low number of particles of dust and contamination in the room. So that will enable us to... 
+asr:0: OUTPUT 1380.56-1384.44: Provides even high quality graphene materials. 
+asr:0: OUTPUT 1384.96-1391.45: And then end of November, we've even seen our first sales of CVD graphene material. So that's a huge step. 
+asr:0: OUTPUT 1391.87-1394.55: And now we're looking to really... 
+asr:0: OUTPUT 1394.57-1402.94: Create high quality data sheets that we can supply to the market and provide samples to both academic and commercial partners. 
+asr:0: OUTPUT 1407.45-1408.81: So here's a map of South Korea. 
+asr:0: OUTPUT 1409.57-1418.14: So the orange point is our new location. So we're in the Gyeonggi province. That's just south of the center of Seoul. We're about one hour south of Gangnam. 
+asr:0: OUTPUT 1419.06-1428.77: We're about one and a half hours from Incheon Airport and about 30 minutes south of where Hanwha Techwin were formerly based. So that's in a city called Songnam. 
+asr:0: OUTPUT 1428.93-1438.58: So it's quite a convenient location, good for getting around Korea and as I say, traveling to and from the city center or outlying areas. 
+asr:0: OUTPUT 1438.82-1443.22: Quite a lot of areas around, we're based in a place called Hwasong. 
+asr:0: OUTPUT 1443.32-1450.77: And there's lots of other kind of industrial cities around that area so it's a very good location. 
+asr:0: OUTPUT 1451.83-1456.04: Probably a one hour in the south city called Daejeon. 
+asr:0: OUTPUT 1456.60-1464.66: Many large companies and academic institutes are based in that city as well, so we're quite well placed at the moment. 
+asr:0: OUTPUT 1465.87-1474.95: Couple of pictures of the building, you may have seen some of these before. And some photos here, we've posted some of these on Twitter. 
+asr:0: OUTPUT 1475.14-1479.82: Unfortunately I can't have videos for you today but you may have seen me posting some. 
+asr:0: OUTPUT 1479.84-1488.99: Images and videos of machinery being moved from a basement level building up and onto these large vehicles. 
+asr:0: OUTPUT 1490.05-1496.20: Also another piece of kit that required shutting down one of the highways in South Korea. 
+asr:0: OUTPUT 1496.58-1499.62: Was the installation of the scrubber. 
+asr:0: OUTPUT 1499.74-1509.11: That's a piece of equipment which sits outside the building which is taking all of the extracts from our processing, cleaning it and then emitting cleaner air. 
+asr:0: OUTPUT 1511.27-1519.38: So plenty going on. Here's a few snapshots from our YTN TV news channel with myself as I said. 
+asr:0: OUTPUT 1519.40-1523.54: Due to COVID we weren't able to travel at that time, but we were able to. 
+asr:0: OUTPUT 1523.56-1529.61: To film and this is Mr. Kwon who's the CTO of Graphene Lab. 
+asr:0: OUTPUT 1529.71-1531.07: And we have. 
+asr:0: OUTPUT 1531.09-1536.78: Quite frequent get-togethers to again discuss collaborations and discuss what the future holds. 
+asr:0: OUTPUT 1538.86-1547.81: Here's a few pictures of the clean rooms. So I mentioned we've recently had a class 1000 room installed, so the square room in the background. 
+asr:0: OUTPUT 1548.63-1557.64: We probably won't show you inside that, but that's where the graphene is being synthesized. And that's where we do some of the other processes called lamination, transfer, and stacking. 
+asr:0: OUTPUT 1558.78-1563.34: The rest of the room is hosting quite a lot of chemical testing. 
+asr:0: OUTPUT 1563.36-1572.03: And graphene characterization, so measuring electronic properties, measuring things like the environmental tolerance of the graphene that's produced. 
+asr:0: OUTPUT 1572.89-1578.46: There's a room in the back, which I'll show a picture of in a second, which is another characterization suite. 
+asr:0: OUTPUT 1579.24-1586.15: And off the page to the right hand side, we actually have a wet chemical etching system. 
+asr:0: OUTPUT 1586.67-1594.33: As I mentioned, there's two routes to remove copper from the process, and that can be through a chemical dissolution. 
+asr:0: OUTPUT 1595.10-1600.42: And so there's different systems here for doing on a batch. On the left hand side is a batch scale. 
+asr:0: OUTPUT 1601.10-1607.37: And on the right hand side is doing more roll to roll processing so you can do much larger, larger scale, higher throughput. 
+asr:0: OUTPUT 1609.91-1614.03: Here's a final snapshot of the characterization lab. 
+asr:0: OUTPUT 1614.29-1618.26: Not everything here, but just you can see a Raman spectrometer on the left. 
+asr:0: OUTPUT 1618.40-1628.15: We have a scanning electron microscope in the center, and that has other x-ray characterization capabilities for elemental analysis and things like that. 
+asr:0: OUTPUT 1629.05-1637.92: Yeah, very well tooled up now with tools which also can help support activities in the UK because there's equipment there that we don't have in the UK. 
+asr:0: OUTPUT 1640.34-1643.50: Here are some of the first samples that we've actually sold. 
+asr:0: OUTPUT 1644.02-1647.43: So a customer wanting. 
+asr:0: OUTPUT 1647.47-1655.24: Four inch squares of graphene on different substrates. So actually we've supplied it with what we call a thermal release film. 
+asr:0: OUTPUT 1655.30-1660.86: So this means you can transfer the graphene from that copper using a thermal release tape. 
+asr:0: OUTPUT 1660.98-1664.56: And so it's a dry process, doesn't involve any... 
+asr:0: OUTPUT 1664.58-1665.87: Any chemistry. 
+asr:0: OUTPUT 1666.25-1672.11: But what we also do, we're growing the graphene as a single atomic, single layer of atoms. 
+asr:0: OUTPUT 1672.39-1677.38: But then we can actually stack this up. And we do that stacking these layers one by one. 
+asr:0: OUTPUT 1678.28-1683.80: Because for certain applications you might need a lower sheet resistance, so you want something that has a bit more conductivity. 
+asr:0: OUTPUT 1685.03-1687.29: And obviously still is optically transparent. 
+asr:0: OUTPUT 1688.79-1697.82: So we have a lot of expertise in not just the growth but also this this stacking and transfer process which is crucial to so many of the. 
+asr:0: OUTPUT 1697.84-1699.56: Applications being developed. 
+asr:0: OUTPUT 1702.02-1706.39: So that's me in the lab with one of our technical guys and. 
+asr:0: OUTPUT 1706.41-1712.57: Again, one of on the right hand side, signing a collaboration agreement with one of our partners ST lab. 
+asr:0: OUTPUT 1713.51-1721.84: And so that again is possibly more focused for the UK business, but would involve technology from the Seren career. 
+asr:0: OUTPUT 1721.98-1730.19: So SD-Lab are developing novel antimicrobial devices and coatings that. 
+asr:0: OUTPUT 1730.31-1734.93: Or sit nicely alongside our existing technology developed with nanomats. 
+asr:0: OUTPUT 1735.52-1743.26: So that should be a good collaboration. And there's further potential there to work on different kinds of sensor to detect antimicrobial species. 
+asr:0: OUTPUT 1743.42-1746.59: Which will go alongside some of their intended products. 
+asr:0: OUTPUT 1747.27-1754.65: So that's really exciting and I think one of the questions on the channel was. 
+asr:0: OUTPUT 1754.67-1761.30: Is Korea just going to be focusing on CVD graphene? And the answer is no, definitely not because. 
+asr:0: OUTPUT 1761.32-1768.33: Obviously we want to further establish and push what we're doing in the UK out into Asia. 
+asr:0: OUTPUT 1769.49-1774.03: So although predominantly the focus will be on manufacturing CVD graphene for sale. 
+asr:0: OUTPUT 1774.69-1778.86: We need to develop further academic and commercial opportunities. 
+asr:0: OUTPUT 1779.20-1787.43: And also we can now support those CVD activities in the UK, Europe and the US and other parts where. 
+asr:0: OUTPUT 1787.45-1789.43: Verserin already has a footprint. 
+asr:0: OUTPUT 1790.79-1799.20: Of course, key to this is forming that strong relationship with Graphene Lab, who are a strategic investor. 
+asr:0: OUTPUT 1800.04-1805.63: And with them, we're looking to develop commercial sensors and other... 
+asr:0: OUTPUT 1805.65-1812.81: Optoelectronic devices and also work alongside potentially some national projects that are key to South Korea. 
+asr:0: OUTPUT 1813.57-1818.52: Yeah, absolutely, looking to further extend the nanoplatelets and other products that we're. 
+asr:0: OUTPUT 1818.54-1825.55: The GP500 is a material produced from the UK NANINE GMP HP materials. 
+asr:0: OUTPUT 1825.69-1835.68: The Spanish assets that Neil's talked about, hexatine is still being produced and we're looking to develop new applications with the hexagonal boron nitride. 
+asr:0: OUTPUT 1836.28-1845.93: The GraphInks, again, a lot of scale up going on in Longhope at the moment. And I call them DNAX, but nanomass materials, which are quite a wide portfolio at the moment. 
+asr:0: OUTPUT 1846.85-1853.15: And then of course, the product 17 polygrene graphene. We're hoping to push these out into South Korea as soon as we can. 
+asr:0: OUTPUT 1854.73-1858.94: I think that's it from me. Neil, I'll pass back to yourself to finish up. 
+asr:0: OUTPUT 1859.82-1869.49: Yeah, just going back to that last slide actually, Steve, we've already started that, those conversations with our standard range of products and processes. 
+asr:0: OUTPUT 1869.51-1874.27: That's something that we're continuing to brief our people on. 
+asr:0: OUTPUT 1874.81-1881.82: The last slide of the presentation is really about our environmental statement, which is, you know, we believe that this area is in a unique position. 
+asr:0: OUTPUT 1881.84-1888.07: To deliver substantial environmental gains by using the key technologies that we've developed. 
+asr:0: OUTPUT 1889.27-1897.38: If we look at concrete, we know that we could reduce the environmental impact by up to 30%, which is obviously very topical at the moment. 
+asr:0: OUTPUT 1897.72-1900.68: That's not the only thing that this area could affect. 
+asr:0: OUTPUT 1901.18-1903.10: Things like lightweighting. 
+asr:0: OUTPUT 1903.18-1909.73: Automotive and aerospace applications and Steve's team still continue to work on the European. 
+asr:0: OUTPUT 1909.77-1917.30: Graphene flagship project where we're looking at key components for the aerospace industry to change the way they do things. 
+asr:0: OUTPUT 1917.90-1919.52: A really disruptive technology. 
+asr:0: OUTPUT 1920.32-1925.59: But we're also looking at advanced building materials. We're looking at recycling, bioplastics. 
+asr:0: OUTPUT 1926.37-1934.65: And so pretty much everything that we're involved in, including energy, has been someone talked about in the questions and answers that have been going on at the moment. 
+asr:0: OUTPUT 1935.12-1944.78: They all have a massive impact in the way that the environment is currently being looked at. So very topical. 
+asr:0: OUTPUT 1946.37-1952.63: That concludes the kind of presentation, but we've got some questions here and it'd be interesting to go through some of the questions. 
+asr:0: OUTPUT 1954.19-1963.68: Let me just give you a small pause so you can break between the Q&A. So thank you to you all for your presentation. Ladies and gentlemen, please do continue to submit your questions. 
+asr:0: OUTPUT 1964.08-1970.45: Using the Q&A tab on the right hand corner of your screen, but just while the guys take a few moments to review the investor questions submitted during today's meeting. 
+asr:0: OUTPUT 1970.79-1978.22: I'd like to remind you that a recording of this presentation, along with a copy of the slides and the published Q&A, can be accessed via your dashboard on the InvestorMeet Company platform. 
+asr:0: OUTPUT 1978.68-1986.05: I'd also like to remind you that your feedback will be important to the company and immediately after this presentation is ended, you'll be redirected in order that you can provide the company. 
+asr:0: OUTPUT 1986.07-1989.13: With your thoughts, views and expectations. 
+asr:0: OUTPUT 1989.97-1994.27: Neil, not a lot of time to look at those questions, but I guess you've had a bit of time throughout the presentation. 
+asr:0: OUTPUT 1994.55-2000.08: If I may, can I just hand back to you to read out the questions where you think it's appropriate to give responses to? 
+asr:0: OUTPUT 2000.46-2008.13: And obviously, as you previously mentioned, that the Q&A that was pre submitted, obviously that you have a chance to review that and put some responses to that as well. 
+asr:0: OUTPUT 2008.55-2011.35: So if I may just hand back to you just to read out the questions, that'd be great. 
+asr:0: OUTPUT 2011.89-2018.12: Thank you very much, Mark. We've tried to answer as many of the pre submitted ones as we can as as we go through the presentation, but. 
+asr:0: OUTPUT 2018.16-2020.88: What we'll do is we'll do our best to answer all of those. 
+asr:0: OUTPUT 2020.90-2024.78: There were a few questions about gross margin and about. 
+asr:0: OUTPUT 2024.80-2031.25: Forward looking statements and stuff like that. And that's not really our job in this presentation. 
+asr:0: OUTPUT 2031.29-2036.24: Those kind of things will be covered by certain research notes, so you know. 
+asr:0: OUTPUT 2036.26-2041.54: We can look forward to getting some coverage there and that should answer some of those questions. 
+asr:0: OUTPUT 2042.60-2052.29: Steve, Mike had a specific question about the South Korean facility and whether that's currently set up to do samples or does it need to be scaled up? 
+asr:0: OUTPUT 2052.33-2061.24: My response would be we're always in the process of scaling up, there's always a need to get bigger to look at more available markets. But what's your view? 
+asr:0: OUTPUT 2063.26-2065.81: Yeah, it's very application dependent. 
+asr:0: OUTPUT 2065.83-2074.89: If you are wanting to go into the display market, you obviously need to make graphene as big as possible and as high throughput as possible. 
+asr:0: OUTPUT 2075.46-2084.08: However, there's tons of applications. If you want to make a sensor, you can make thousands of sensors with just like one centimeter square of material. 
+asr:0: OUTPUT 2085.53-2094.95: Yeah, it really depends on application, but we have everything in place to be able to make graphene useful in a range of applications. 
+asr:0: OUTPUT 2095.06-2099.56: We will obviously need to work with other partners. We need to find other, because we will not be able to do everything. 
+asr:0: OUTPUT 2100.00-2103.40: We were not about to make a final product. 
+asr:0: OUTPUT 2103.50-2112.85: And also, for example, working on things like biosensing, we need to work with some other partners that actually have some of that expertise that they can bring to us. 
+asr:0: OUTPUT 2113.33-2120.00: Yeah, we've got everything we need to develop prototypes and other... 
+asr:0: OUTPUT 2121.34-2130.27: But for a number of different applications. I don't know if you want anything else there, Neil. No, that's fine, thanks, Steve. Hopefully that's answered your question, Mike. 
+asr:0: OUTPUT 2130.87-2137.10: Ken asked about initiatives in the field of batteries. Well, obviously that's covered by our European subsidiary, Nanomat. 
+asr:0: OUTPUT 2137.36-2143.58: Where we have a majority stake. They're looking at using the graphenes that we produce. 
+asr:0: OUTPUT 2143.60-2147.63: And that's how we came to know about the Spanish assets. 
+asr:0: OUTPUT 2148.59-2160.58: And then functionalizing those and modifying those graphene materials suitable for supercapacitors and battery materials. And they've been involved in quite a few projects now. 
+asr:0: OUTPUT 2160.70-2169.09: They're still at the time of acquisition at a very early stage, but obviously that's a big market to be involved in and one that the. 
+asr:0: OUTPUT 2169.13-2178.20: Look forward to seeing quite a lot of progress in. So yes, we are involved in the field of energy, I would say, and that's going to become more relevant as we. 
+asr:0: OUTPUT 2178.24-2179.84: The environmental factors change. 
+asr:0: OUTPUT 2181.28-2190.55: In terms of specifics around where the CVD was sold, well we're not going to tell you that unfortunately because that will let our competitors. 
+asr:0: OUTPUT 2190.89-2192.33: Know exactly where to go hunting. 
+asr:0: OUTPUT 2192.97-2197.64: But Jane asked, you know, was that supplied into South Korea? And I believe it was supplied into South Korea. 
+asr:0: OUTPUT 2197.74-2206.57: What we see is that we're using the global footprint so that the materials that we're producing in the UK, we can sell those in South Korea. 
+asr:0: OUTPUT 2206.89-2213.15: And vice versa, the materials that are produced in South Korea, we can then start to sell those in the UK. 
+asr:0: OUTPUT 2213.95-2219.36: Steve said there's some constraints around that in terms of this isn't a massive factory. 
+asr:0: OUTPUT 2220.00-2224.12: But it is enough to be able to satisfy our demands at the moment. 
+asr:0: OUTPUT 2224.84-2230.15: Not looking at substantial amounts of capital equipment in the New Year either, I wouldn't discount. 
+asr:0: OUTPUT 2230.17-2239.28: The need if it was driven by a commercial decision. But as it stands at the moment, we've scaled up our main primary processes. 
+asr:0: OUTPUT 2239.46-2244.88: And now it's time to look for the commercial draw that's needed there. 
+asr:0: OUTPUT 2245.39-2249.87: Let's get all that equipment commissioned and set up. 
+asr:0: OUTPUT 2249.91-2258.88: And then produce the sales from that equipment before we look too far. There was a question, a pre-submitted question actually, which is quite interesting. 
+asr:0: OUTPUT 2259.42-2264.60: Which is, do you see what's your business model around the production of graphene? 
+asr:0: OUTPUT 2265.47-2272.21: And I kind of think that at the moment we would look towards following both. 
+asr:0: OUTPUT 2272.39-2281.00: So we wouldn't discount centralized giga type factories, but we also wouldn't discount a distributed model where it makes sense. 
+asr:0: OUTPUT 2281.44-2288.09: For instance, if you've got a concrete manufacturer, then it makes sense to have a graphene manufacturing plant. 
+asr:0: OUTPUT 2288.11-2297.34: Very close to that to cut the logistics of the environmental impact of producing graphene to the very minimum it can be. 
+asr:0: OUTPUT 2298.46-2305.29: Martin's just asked a question now about the green mark and I think yes, we have talked about that. 
+asr:0: OUTPUT 2305.83-2311.43: We've not quite seen it yet, but it would be part of our environmental push. 
+asr:0: OUTPUT 2311.45-2318.66: To look at the green mark and other environmental changes and accreditations. 
+asr:0: OUTPUT 2320.22-2325.97: Paul Denny, who is working on a lot of our G-scale projects, is our head of sustainability. 
+asr:0: OUTPUT 2326.29-2331.21: And that's part of his role to look at our sustainability policies. 
+asr:0: OUTPUT 2331.55-2339.78: And to make sure that we're minimizing the impact not only of our factories but also working with our customers to minimize. 
+asr:0: OUTPUT 2339.80-2342.20: The CO2 impact of their processes as well. 
+asr:0: OUTPUT 2345.49-2354.79: There was a question about why Samsung and Hanwha relinquished the patents and equipment. Well, you'll have seen that roughly 24 million pounds was, or 24 million dollars,. 
+asr:0: OUTPUT 2355.16-2362.08: Was actually put into the business through national projects and investments. 
+asr:0: OUTPUT 2363.38-2364.46: The. 
+asr:0: OUTPUT 2364.50-2373.97: The business of Techwin was sold to Hanwha and that included the graphene assets as part of a corporate deal in South Korea. 
+asr:0: OUTPUT 2374.35-2380.00: And then subsequently uh... And while i'm not in the business of uh... Developing graphene. 
+asr:0: OUTPUT 2380.80-2387.77: So we had the opportunity to buy those assets and to take on that development for them. 
+asr:0: OUTPUT 2388.01-2395.88: You know, so that's kind of my understanding, but you're never quite sure in these corporate transactions what the main driver is. 
+asr:0: OUTPUT 2398.00-2404.99: There's lots of questions coming in now, so there's some technical financial questions which will will refer to after the meeting. 
+asr:0: OUTPUT 2405.33-2409.25: There's some questions about super dry oat. I answered some of those. 
+asr:0: OUTPUT 2409.85-2418.18: We're not going to get graphene into every product, unfortunately, because there are price points and a kind of benefit analysis that needs to be done. 
+asr:0: OUTPUT 2418.52-2428.37: But we are working with Superdrive on a large number of projects. Well, I consider it to be a large number of projects. It's definitely challenging for the team as it stands at the moment. 
+asr:0: OUTPUT 2428.87-2436.26: And they cover a wide variety of different products, so obviously we can't say too much because that's a cut and I saw. 
+asr:0: OUTPUT 2436.28-2441.50: Engagement and that's been key to our development in the textile industry. 
+asr:0: OUTPUT 2441.94-2446.71: Superdrive not the only people that we're working with, we are working with a number of other people that we've talked about already. 
+asr:0: OUTPUT 2447.83-2452.09: We're not going to talk about our competitors. What our competitors do is up to them. 
+asr:0: OUTPUT 2452.73-2459.34: We're focused on what Viserion's doing. We have a very strong strategy. Really looking forward to Diane joining us. 
+asr:0: OUTPUT 2459.44-2461.48: As the new chairperson in January. 
+asr:0: OUTPUT 2461.64-2467.47: She comes from a background of taking a business very similar to ours. 
+asr:0: OUTPUT 2467.49-2473.93: In terms of its size through to a main exchange listing. 
+asr:0: OUTPUT 2474.45-2479.76: And being involved in that whole scale up. So I've worked with Diane and known Diane for a. 
+asr:0: OUTPUT 2480.00-2484.10: I like the way that she works, you know, she's very challenging as a chairperson. 
+asr:0: OUTPUT 2484.66-2492.79: She's very good at corporate governance and for me it's about not only exploiting her relationships and her experience,. 
+asr:0: OUTPUT 2493.27-2496.96: But for the good of the company. 
+asr:0: OUTPUT 2496.98-2505.25: Also learning from some of the mistakes and looking and reflecting on how we can do things. 
+asr:0: OUTPUT 2505.29-2514.41: Within the company much better and Diane is very good at that. She comes from an operational background where the business had to scale very quickly and I think. 
+asr:0: OUTPUT 2514.43-2518.76: That that experience will be absolutely key to us. 
+asr:0: OUTPUT 2521.44-2529.29: There's lots of questions about forward-looking statements and things like that. We can't answer those, unfortunately. 
+asr:0: OUTPUT 2529.63-2539.30: But we will, as I said before, take those up with various bits of research that we're doing. 
+asr:0: OUTPUT 2540.24-2543.02: I'm trying to look at the questions as I'm talking as well. 
+asr:0: OUTPUT 2544.84-2553.93: I think also worth pointing out that a lot of these technical questions, maybe there's answers in our previous presentation given last month on this platform. 
+asr:0: OUTPUT 2554.91-2561.08: Yeah, exactly, Steve. And this is a quarterly update. 
+asr:0: OUTPUT 2561.20-2565.21: It's very close to the previous one because the previous one was reset schedule. 
+asr:0: OUTPUT 2565.83-2571.29: And we hope to have another one of these in the next three months. 
+asr:0: OUTPUT 2571.31-2578.60: So that we can keep our shareholders up to date with what's happening and that's also an opportunity for you to ask as many questions as you can. 
+asr:0: OUTPUT 2580.46-2583.02: Just looking through if there's anything here. 
+asr:0: OUTPUT 2587.71-2591.71: Do we have any... Brian looks like he's been busy in the US, which is true. 
+asr:0: OUTPUT 2592.07-2598.24: We've got a number of good opportunities in the US. Have you got plans for a manufacturing base? 
+asr:0: OUTPUT 2599.42-2603.30: Well, that will come on the back of commercial success if it's relevant. 
+asr:0: OUTPUT 2603.36-2612.03: So that's one that we're keeping a watchful eye on at the moment. We're quite able to supply that from the UK. 
+asr:0: OUTPUT 2613.59-2623.14: Did Vistaeria supply the graphene that went into, it was actually 7km of the A1M, yes we did. That was in the public domain. 
+asr:0: OUTPUT 2623.60-2628.59: Any news on the university trials in terms of textiles yes. 
+asr:0: OUTPUT 2628.63-2637.68: And Bobby sat through a presentation a few weeks ago about the test results. Very, very good news as far as I'm concerned. 
+asr:0: OUTPUT 2638.10-2641.26: Transforming the basis of not only the grapheme where. 
+asr:0: OUTPUT 2641.32-2649.75: Website, but also, which Bobby's working on at the moment, but also a white paper, which I'm hoping Steve will be working on as well. 
+asr:0: OUTPUT 2650.89-2658.40: So how far are we away from making any decisions? 
+asr:0: OUTPUT 2658.66-2664.38: At the moment demonstrating our technology to a range of customers. So that's not a decision that we need to make in the immediate future. 
+asr:0: OUTPUT 2666.03-2669.67: God, there's lots of questions here now. I wish I'd asked them a little bit earlier. 
+asr:0: OUTPUT 2671.45-2679.10: We have sufficient production capacity, I think I mentioned that earlier, as it stands at the moment, yes, we've got plenty of capacity for what we have. 
+asr:0: OUTPUT 2679.12-2684.00: Currently planned, although we don't, we're constantly monitoring that. 
+asr:0: OUTPUT 2686.53-2694.25: Large companies take a long time to move and sometimes it's much better to look at. 
+asr:0: OUTPUT 2694.27-2697.58: Smaller smaller ones we've got a question. Yeah. 
+asr:0: OUTPUT 2701.12-2706.03: This is one for you, Chris. How much of the loan is due in 2024? 
+asr:0: OUTPUT 2706.09-2715.18: It's a scheduled payment that goes on for what we would classify as a relatively soft loan. 
+asr:0: OUTPUT 2715.96-2725.03: I think we said back when we issued the R&S, we gave the details of that, which was it's repayable quarterly over three years. 
+asr:0: OUTPUT 2725.93-2732.57: So that's the capital. We're really paying interest on this as well. So. 
+asr:0: OUTPUT 2733.57-2736.50: Yeah. 
+asr:0: OUTPUT 2737.68-2744.40: There's a question here from Andy. Did you enjoy Puzzle X and the panel you were on? Yes, I did. 
+asr:0: OUTPUT 2744.48-2752.83: I did enjoy Puzzle X. It gave me a great opportunity to sit down with Jose Antonio, who came as part of the Spanish assets. 
+asr:0: OUTPUT 2753.03-2755.22: And Roberto. 
+asr:0: OUTPUT 2755.50-2759.60: To talk about our plans for Viserion Europe. 
+asr:0: OUTPUT 2760.00-2768.83: We're kind of hedging our bets over Brexit when we set up for Syria and Europe. But I'm pleased to say that Jose Antonio is now part of our team. 
+asr:0: OUTPUT 2768.95-2774.89: I wanted him when we were first talking to the guys in Spain, so that's a great result for the company. 
+asr:0: OUTPUT 2774.95-2777.12: He's also part of our business development team. 
+asr:0: OUTPUT 2777.28-2782.88: Someone asked you know do we have an international footprint well we have guys in South. 
+asr:0: OUTPUT 2782.92-2786.57: South Korea, we have people in Europe and we have people in the UK. 
+asr:0: OUTPUT 2786.95-2789.21: Obviously Brian out in the US as well. 
+asr:0: OUTPUT 2790.19-2792.65: Do we have any thoughts about future takeovers? 
+asr:0: OUTPUT 2793.89-2797.08: Well, that's always an interesting thing. 
+asr:0: OUTPUT 2797.10-2806.95: An eye out on what's happening. We're monitoring the competitive environment in which we work. We've seen a lot of people fall by the wayside. 
+asr:0: OUTPUT 2806.97-2809.77: We've seen some new entrants and we keep our eye on. 
+asr:0: OUTPUT 2809.97-2811.73: We support as many people as possible. 
+asr:0: OUTPUT 2812.07-2817.64: The reason that we support them is that it's very important for the industry to have options. 
+asr:0: OUTPUT 2817.70-2826.19: Know if you have a monopoly it's very very difficult for large companies to actually. 
+asr:0: OUTPUT 2826.21-2830.95: To actually build a competitive supply chain. 
+asr:0: OUTPUT 2830.97-2838.64: I actually look forward to having good competitors in the market because it drives development and it keeps everybody honest. 
+asr:0: OUTPUT 2839.46-2846.49: And there we have a situation where we're seeing consolidation in the market. 
+asr:0: OUTPUT 2846.65-2852.89: So yeah, we do keep an eye out on all of our competitors and I'm sure that there'll be opportunities in the future. 
+asr:0: OUTPUT 2853.97-2861.18: We also look for acquisitions, as we've always stated, where they can advance the adoption of our technologies. 
+asr:0: OUTPUT 2861.32-2866.73: Looking for people both behind us in terms of our supply chain but also in front of us. 
+asr:0: OUTPUT 2867.25-2872.53: That's an activity that keeps both myself and Chris busy. 
+asr:0: OUTPUT 2873.29-2881.98: Unfortunately, you have to kiss a lot of frogs until you find a prince. Well, acquisitions, there's no truer statement, unfortunately. 
+asr:0: OUTPUT 2885.39-2886.73: I'm kind of running out of steam here. 
+asr:0: OUTPUT 2890.27-2895.78: There's a question mark about how advanced the commissioning of the new 100 tonne equipment is. That's advancing well. 
+asr:0: OUTPUT 2896.38-2903.98: The mechanical side of the first machine is now complete and as I said earlier we're looking at the control systems because it came from Europe. 
+asr:0: OUTPUT 2904.02-2906.67: Compliant with the UK. 
+asr:0: OUTPUT 2906.75-2913.79: And we're in the process of making some minor changes to the control system there to accommodate that. 
+asr:0: OUTPUT 2915.34-2925.25: In terms of communication, we're trying to communicate as much as we can. 
+asr:0: OUTPUT 2925.79-2932.39: Unfortunately myself Chris and Steve are actively involved in the business as well. So that limits the amount of. 
+asr:0: OUTPUT 2932.41-2936.06: Communication sometimes we can do. We work quite long hours. 
+asr:0: OUTPUT 2936.70-2943.08: But we try to keep the businesses or the shareholders as informed as possible through every channel we can. 
+asr:0: OUTPUT 2943.68-2949.25: So that includes podcasts, that includes social media where we have a very tight policy. 
+asr:0: OUTPUT 2949.75-2955.04: And also events like this. So we do. 
+asr:0: OUTPUT 2955.14-2958.72: We do like doing events with shareholders. 
+asr:0: OUTPUT 2958.78-2965.95: They can get to see the business and hold the directors accountable. So as far as I'm concerned that's a. 
+asr:0: OUTPUT 2965.97-2967.81: Important thing for us to do. 
+asr:0: OUTPUT 2970.29-2973.93: Good. I think that's just about us, Mark. 
+asr:0: OUTPUT 2973.95-2980.54: Looking at any of the questions that we that we may be able to answer some of these we may have to answer after the meeting unfortunately but we'll do our. 
+asr:0: OUTPUT 2980.68-2982.40: Our best long-term care we can. 
+asr:0: OUTPUT 2982.82-2989.27: That's absolutely no problem at all, Neil. And thank you very much indeed to all those investors that have taken the time to submit questions today. 
+asr:0: OUTPUT 2990.19-2994.65: I'll shortly redirect investors to provide you with their thoughts and expectations and give you their feedback. 
+asr:0: OUTPUT 2995.24-3000.80: But I guess before doing so, if you've got a few last words, that would be great. And then I'll redirect everybody. 
+asr:0: OUTPUT 3001.30-3007.93: Yeah i mean i think uh... You know the first thing is uh... Thank you for your support thank you for all your questions and. 
+asr:0: OUTPUT 3008.43-3015.03: I guess it falls on the management team to wish you all the very best of season's greetings. 
+asr:0: OUTPUT 3016.48-3024.24: It's been a very trying time for anybody that's been involved in business over the last two years, but we've seen a huge amount of progress in the business. 
+asr:0: OUTPUT 3024.38-3029.35: Not least the production capacity but also from Steve's team on the technical side. 
+asr:0: OUTPUT 3029.63-3037.62: I'd like to thank all of our employees who have gone the extra mile in some very, very difficult conditions. 
+asr:0: OUTPUT 3038.34-3042.30: And I'd also like to thank the directors for all of their efforts as well. 
+asr:0: OUTPUT 3043.20-3045.53: So that's all for me, Mark. 
+asr:0: OUTPUT 3046.11-3050.39: That's great. Neil, Chris, Steve, thank you once again for updating investors this evening. 
+asr:0: OUTPUT 3050.77-3060.18: Could I please ask investors not to close this session as I'll now automatically redirect you for the opportunity to provide your feedback in order that the management team can really better understand your views and expectations. 
+asr:0: OUTPUT 3060.52-3064.16: This may take a few moments to complete, but I'm sure we'll be warmly welcomed by the company. 
+asr:0: OUTPUT 3064.60-3071.63: On behalf of the management team of Vissarion PLC, we'd like to thank you for attending today's presentation. That now concludes today's session and good evening to you all. 
+asr:0: END

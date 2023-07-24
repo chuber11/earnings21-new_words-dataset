@@ -1,0 +1,407 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.74-6.17: Good morning ladies and gentlemen, welcome to the ATS automation third quarter conference call and webcast. 
+asr:0: OUTPUT 6.55-15.14: This call is being recorded on February 2nd, 2022 at 830 AM Eastern Time. Following the presentation, we will conduct a question and answer session. 
+asr:0: OUTPUT 15.24-18.64: Instructions will be provided at that time for you to queue up for questions. 
+asr:0: OUTPUT 19.12-25.01: If anyone has difficulties during the conference, please press star followed by zero for operator assistance at any time. 
+asr:0: OUTPUT 25.49-29.99: I will now turn the call over to Stuart McQuagg, Vice President, General Counsel, ATS. 
+asr:0: OUTPUT 31.19-38.06: Thanks, operator, and good morning, everyone. Your main hosts today are Andrew Heider, Chief Executive Officer of ATS, and Ryan McLeod, Chief Financial Officer. 
+asr:0: OUTPUT 38.74-48.05: We note that our remarks today are accompanied by a slide deck displayed on the screen in the webcast, and which is also available, including for those joining by phone, at atsautomation.com. 
+asr:0: OUTPUT 48.49-52.75: We caution that the statements made on the webcast and call may contain forward-looking information. 
+asr:0: OUTPUT 52.79-59.88: And our cautionary statement regarding such information, including the material factors that could cause actual results to differ materially from the statement,. 
+asr:0: OUTPUT 59.90-65.81: And the material factors or assumptions applied in making the statements are detailed on slide two of the slide deck. 
+asr:0: OUTPUT 66.11-68.17: Now it's my pleasure to turn the call over to Andrew. 
+asr:0: OUTPUT 70.85-75.78: Thank you, Stuart. Good morning, ladies and gentlemen, and thank you for joining us. 
+asr:0: OUTPUT 76.74-80.26: We're pleased to report another strong quarter for ATS. 
+asr:0: OUTPUT 80.28-88.11: Featuring order bookings, order backlog, and revenue records, and adjusted EBIT margin expansion. 
+asr:0: OUTPUT 89.49-95.68: Although the pandemic and supply chain disruptions created a challenging and fluid business environment,. 
+asr:0: OUTPUT 96.40-104.04: Organic revenue growth was robust. Newly acquired businesses performed a plan, and we completed two acquisitions. 
+asr:0: OUTPUT 105.25-111.87: SP Industries expands our capabilities and offerings throughout the life cycle of pharmaceutical development. 
+asr:0: OUTPUT 113.23-122.90: DF enhances our offerings and ASAP pick fill finish. Today, I will update you on our business, and then Ryan will provide his financial report. 
+asr:0: OUTPUT 125.51-131.87: Starting with our value drivers, Q3 revenues were $547 million. 
+asr:0: OUTPUT 133.09-141.86: Up 48% from Q3 last year. Driven by a combination of acquired businesses and strength across our core operations. 
+asr:0: OUTPUT 142.92-146.83: Organically, revenues grew 22% year over year. 
+asr:0: OUTPUT 147.59-153.13: A positive result that was augmented by the pandemic impact on Q3 revenues in the prior year. 
+asr:0: OUTPUT 155.40-162.64: Two or three order bookings were a record $671 million, up 54% year over year. 
+asr:0: OUTPUT 163.80-171.11: CFT, BioDOT, and SB contributed approximately two-thirds of order bookings growth versus last year. 
+asr:0: OUTPUT 172.49-179.96: Bookings were strong across most market verticals with large customer rewards and consumer products and transportation. 
+asr:0: OUTPUT 182.00-191.47: Our adjusted EBIT margin for the quarter was 12.9%, representing margin expansion of over 100 basis points from Q3 of last year. 
+asr:0: OUTPUT 194.27-195.50: Moving to our outlook. 
+asr:0: OUTPUT 196.84-202.04: Our backlog grew to a record $1.5 billion at the end of the quarter. 
+asr:0: OUTPUT 202.90-207.39: Providing us with a solid base of business and good revenue visibility. 
+asr:0: OUTPUT 208.71-211.03: The pandemic situation remains fluid. 
+asr:0: OUTPUT 211.59-219.88: And we continue to work with our customers and employees to manage the challenges, including newly imposed travel restrictions in certain jurisdictions. 
+asr:0: OUTPUT 219.90-228.99: And supply chain interruptions. Despite the challenges, our teams have done an excellent job to ensure customer needs are met. 
+asr:0: OUTPUT 230.89-240.02: By market, conditions remain positive in life sciences, with good activity in our key sectors of medical devices, pharma,. 
+asr:0: OUTPUT 240.08-241.08: And radiopharma. 
+asr:0: OUTPUT 242.42-247.55: Today, our funnel is comprised of more traditional non-COVID related opportunities. 
+asr:0: OUTPUT 249.73-256.40: In EV, we continue to see robust activity levels with rapid growth in the battery assembly market. 
+asr:0: OUTPUT 257.50-262.74: We won several mandates during the quarter, including a large award from a repeat customer. 
+asr:0: OUTPUT 263.98-268.99: As our customers experience new complexities from evolving battery technologies. 
+asr:0: OUTPUT 269.01-274.93: Our long track record and proven expertise in the battery assembly and test space. 
+asr:0: OUTPUT 274.98-277.48: Position ATS as a trusted partner. 
+asr:0: OUTPUT 279.24-285.57: In food and beverage, our order funnel remains strong with opportunities and food processing leading the way. 
+asr:0: OUTPUT 286.85-290.53: In consumer, we're seeing continued activity in warehouse automation. 
+asr:0: OUTPUT 292.75-299.50: In energy, the market for automated tools and related services for nuclear refurbishment is expanding. 
+asr:0: OUTPUT 300.60-307.59: The decommissioning market also continues to evolve, and we see prospects in both North America and globally. 
+asr:0: OUTPUT 309.09-316.80: There are also emerging opportunities in isotope production and small modular reactor markets, as well as grid batteries. 
+asr:0: OUTPUT 319.60-325.95: On services, order bookings grew, both year over year and sequentially. 
+asr:0: OUTPUT 327.65-337.06: Utilization and expansion of our regional service network coupled with the use of digital support tools have improved our ability to support our customers. 
+asr:0: OUTPUT 337.76-342.80: In turn, our customers continue to embrace our digital services platform. 
+asr:0: OUTPUT 343.98-349.95: We see opportunities to expand our aftermarket services footprint and add to our digital capabilities. 
+asr:0: OUTPUT 352.59-359.22: Operationally, we faced a challenging business environment resulting from global supply chain issues and the pandemic. 
+asr:0: OUTPUT 359.68-366.15: We've experienced some supplier lead time extensions, and our team has completed several related problem solving events. 
+asr:0: OUTPUT 367.05-369.49: These challenges are likely to persist in the near term. 
+asr:0: OUTPUT 371.71-376.44: To summarize our outlook, this quarter included record order bookings. 
+asr:0: OUTPUT 376.92-383.66: Record order backlog, and a robust funnel. We're encouraged by recent activity levels. 
+asr:0: OUTPUT 383.82-390.37: However, global supply chain and labor market dynamics represent a challenge and uncertainty. 
+asr:0: OUTPUT 391.45-396.86: The situation is actively monitored and countermeasures implemented wherever possible. 
+asr:0: OUTPUT 399.50-403.46: Moving to the ABM, our continuous improvement playbook. 
+asr:0: OUTPUT 405.00-412.95: This was another busy quarter with continued emphasis on improving our value drivers, both operationally and commercially. 
+asr:0: OUTPUT 414.65-419.86: Our linear motion business held the Kaizen to remove waste from a critical assembly process. 
+asr:0: OUTPUT 420.92-429.03: The Kaizen resulted in a 50% reduction in floor space, lower inventory requirements, and a 20% improvement in cycle time. 
+asr:0: OUTPUT 430.55-440.42: A life sciences division held a Kaizen on their spur parts order processing. Through collaborative efforts, they were able to improve efficiency by 50%. 
+asr:0: OUTPUT 442.16-451.77: Our services business held a joint Kaizen with a customer to define requirements for a turnkey training, execution, and spare parts management program. 
+asr:0: OUTPUT 452.75-459.44: These joint efforts are a great way to provide value to our customers while also strengthening our relationships. 
+asr:0: OUTPUT 461.72-470.27: We continue to employ our global virtual ABM boot camps on the back of similar successful events in preceding quarters. 
+asr:0: OUTPUT 470.89-477.88: The camp runs over a six-week period and combines self-paced learning and real-time discussions with ABM leaders. 
+asr:0: OUTPUT 478.74-481.20: This modified virtual format. 
+asr:0: OUTPUT 481.42-490.75: Enables us to continue scaling our training and demonstrates how businesses across ATS use the ABM to drive tangible results. 
+asr:0: OUTPUT 492.09-493.47: I'm Emily. 
+asr:0: OUTPUT 493.51-502.44: Acquisitions and strategic core markets continue to be an important complement to ATS's organic growth. 
+asr:0: OUTPUT 503.84-509.57: During the quarter, we closed two acquisitions, SP being the largest in ATS history. 
+asr:0: OUTPUT 511.11-516.10: SP is a designer and manufacturer of high-grade biopharma processing equipment. 
+asr:0: OUTPUT 516.98-520.40: Life sciences equipment, and lab apparatus products. 
+asr:0: OUTPUT 521.32-529.05: SP expands our life sciences capabilities and offerings through the addition of its aseptic and non-aseptic Lyle portfolio. 
+asr:0: OUTPUT 530.21-533.77: Notably, the combination of ATS and SP. 
+asr:0: OUTPUT 533.79-540.86: Will allow us to better support the needs of our customers throughout the life cycle of pharmaceutical development and production. 
+asr:0: OUTPUT 543.04-548.57: After deploying capital to these latest acquisitions, our balance sheet remains strong. 
+asr:0: OUTPUT 549.33-555.72: We will continue to cultivate and evaluate acquisition opportunities consistent with our proven strategy. 
+asr:0: OUTPUT 556.68-566.27: Of course, timing of acquisitions will be variable, and our approach to deploying our balance sheet will be disciplined and strategic, as will the integrations that follow. 
+asr:0: OUTPUT 568.01-573.15: Of note, we continue to make progress in the integration of previous acquisitions. 
+asr:0: OUTPUT 574.09-581.96: Including CFT, which was acquired last March, Biodat, acquired in June, and NCC, which joined in September. 
+asr:0: OUTPUT 583.10-589.03: At BioDOT, administrative tasks associated with the integration are largely complete. 
+asr:0: OUTPUT 589.69-593.63: And our efforts are focused on continuing to deploy the ABM playbook. 
+asr:0: OUTPUT 594.96-599.52: At CFT, we continue to roll out the ATS business model. 
+asr:0: OUTPUT 599.92-607.43: Focused on opportunities to further synergies in our supply chains and cost structures, and completed several ABM activities. 
+asr:0: OUTPUT 608.35-614.83: These included standard work events, a raw material problem solving event, and a communication Kaizen. 
+asr:0: OUTPUT 614.85-618.50: Which drove increased awareness and engagement across the business. 
+asr:0: OUTPUT 621.30-628.77: At ATS, our innovation activities are ongoing as they form part of our EXPAND strategy. 
+asr:0: OUTPUT 630.55-640.00: In the past quarter, we have completed a number of projects and initiatives that have resulted in the launch of a new high-speed debug camera. 
+asr:0: OUTPUT 640.70-644.82: GMP testing and certification of our SuperTrac Pharma product. 
+asr:0: OUTPUT 645.43-653.69: And the development of a new energy management software program that will enable customers to track and reduce their carbon footprint. 
+asr:0: OUTPUT 655.14-658.32: We're pleased that our acquired company are also innovators. 
+asr:0: OUTPUT 659.62-662.46: At the recent Chicago Process Expo. 
+asr:0: OUTPUT 663.12-670.83: Our NCC business won the Innovation Award for the sanitary design of the NCC side drive conveyance system. 
+asr:0: OUTPUT 672.03-678.36: We have filed a patent for this system, which has multiple applications, including raw and packaged food products. 
+asr:0: OUTPUT 679.30-682.80: Congratulations to the whole NCC team. Well done. 
+asr:0: OUTPUT 683.96-686.19: In summary,. 
+asr:0: OUTPUT 687.83-695.66: The results of the quarter and year to date demonstrate the strength and resiliency of our business and portfolio offerings. 
+asr:0: OUTPUT 697.22-704.30: Record order booking activity reflects the alignment we have with our customers in providing best-in-class solutions. 
+asr:0: OUTPUT 706.23-711.99: Going forward, we are unwavering in our commitment to protecting and engaging our employees. 
+asr:0: OUTPUT 712.57-716.80: Serving our customers well, and creating value for our shareholders. 
+asr:0: OUTPUT 717.96-726.29: We will execute on these priorities through the application of the ABM playbook with the goal of driving continuous improvement in our performance. 
+asr:0: OUTPUT 727.75-731.01: Our record order backlog provides good revenue visibility. 
+asr:0: OUTPUT 731.77-737.98: While the healthy balance sheet enables pursuit of organic growth and strategic M&A opportunities. 
+asr:0: OUTPUT 739.90-747.13: Our objective is to build a great ATS business. And we're making progress every day towards our collective goal. 
+asr:0: OUTPUT 748.25-751.55: Now I will turn the call over to Ryan. Ryan, over to you. 
+asr:0: OUTPUT 752.47-754.79: Thank you, Andrew, and good morning, ladies and gentlemen. 
+asr:0: OUTPUT 755.64-763.52: This morning I will provide an overview of our Q3 operating results that featured growth in revenues both year over year and sequentially. 
+asr:0: OUTPUT 763.54-768.13: Adjusted EBIT margin expansion, and record order bookings and backlog. 
+asr:0: OUTPUT 768.81-775.44: I will then review our balance sheet, which we have deployed strategically to expand our customer capabilities and earnings potential. 
+asr:0: OUTPUT 776.54-777.70: Starting with the operating results. 
+asr:0: OUTPUT 778.88-784.34: Bookings were $671 million, up 54% compared to Q3 last year. 
+asr:0: OUTPUT 785.17-791.59: Organic growth in bookings was 18%, partially offset by a 5% headwind from foreign exchange translations. 
+asr:0: OUTPUT 793.09-797.60: Organic growth came from transportation as a result of new and follow-on work in EV. 
+asr:0: OUTPUT 798.34-804.36: Energy markets due to follow on work and consumer products due to a large customer program won during the quarter. 
+asr:0: OUTPUT 805.31-814.59: Acquisitions contributed 41% growth in order bookings, with the majority coming in food and beverage due to several new programs booked by our CFT businesses. 
+asr:0: OUTPUT 815.90-823.88: On a trailing 12-month basis, our book-to-bill ratio was 1.15 to 1, positioning us well for continued organic revenue growth. 
+asr:0: OUTPUT 826.47-831.83: Moving to revenues, our Q3 top line increased 48% over Q3 last year. 
+asr:0: OUTPUT 832.63-840.54: Organic growth was 22% due to higher order backlog entering the quarter, as well as year-over-year growth in service and parts revenues. 
+asr:0: OUTPUT 841.48-844.84: Foreign exchange was a 5% headwind compared to Q3 last year. 
+asr:0: OUTPUT 845.73-852.01: Acquired companies added 31% to revenue growth with CFT and SP the primary contributors. 
+asr:0: OUTPUT 853.15-858.14: Due to seasonality and as expected, CFT revenues were lower in comparison to Q2. 
+asr:0: OUTPUT 858.80-865.81: Going forward, CFT is well positioned with a healthy order backlog following a very strong order booking result in Q3. 
+asr:0: OUTPUT 867.89-873.45: Our Q3 ending backlog of $1.5 billion was 50% higher than Q3 last year. 
+asr:0: OUTPUT 874.21-881.14: Looking forward, our revenue conversion for Q4 is estimated to be in the 35 to 40% range of order backlog. 
+asr:0: OUTPUT 881.86-891.07: As a reminder, this estimate is based on revenue expectations for both the execution of projects from backlog and work that will be booked and billed within the quarter. 
+asr:0: OUTPUT 894.01-903.82: Moving to margins, Q3 gross margin included $5.1 million of costs related to the fair value adjustment of inventories acquired through acquisition activity. 
+asr:0: OUTPUT 904.60-913.07: Excluding this adjustment, Q3's adjusted gross margin was 29.8%, 200 basis points higher than the comparable period a year ago. 
+asr:0: OUTPUT 913.91-918.70: Higher gross margin reflected operating efficiencies from the strong project execution. 
+asr:0: OUTPUT 918.72-928.67: Improvements in the cost structure of our core business through previous reorganizations, increased service revenues, and other continuous improvement efforts achieved by deploying our AVF. 
+asr:0: OUTPUT 930.05-937.14: Disruptions in supply chain have led to increased lead times and in some cases increases in cost in our supply base. 
+asr:0: OUTPUT 938.02-941.28: To date, this has not had a material impact on our profitability. 
+asr:0: OUTPUT 941.96-952.39: Our teams have implemented countermeasures, including advancing order timing and securing alternative sources of supply to mitigate inflationary pressures and lengthening lead times. 
+asr:0: OUTPUT 953.81-961.20: Even with these countermeasures, supply chain pressures remain dynamic and will continue to present a challenge to our mitigation efforts going forward. 
+asr:0: OUTPUT 962.78-967.71: Moving to SG&A, expenses were $43.6 million higher than Q3 last year. 
+asr:0: OUTPUT 968.43-977.44: This year's costs included $16.7 million of acquisition-related amortization and $6.3 million of acquisition-related transaction costs. 
+asr:0: OUTPUT 978.28-980.28: Excluding these items in both periods. 
+asr:0: OUTPUT 980.62-986.91: Q3's SG&A was $79.9 million, $25.9 million higher than last year. 
+asr:0: OUTPUT 986.93-993.23: Reflecting incremental SG&A costs from acquired companies, primarily CFT, BioDOT, and SP. 
+asr:0: OUTPUT 994.67-1001.16: Third quarter stock compensation expense was $12.7 million up from $4.9 million last year. 
+asr:0: OUTPUT 1003.56-1012.91: Q3 adjusted earnings from operations were $70.4 million or 12.9% compared to $43.8 million or 11.8% last year. 
+asr:0: OUTPUT 1013.59-1020.54: The increase in margin reflected efficiency gains made in our cost structure through effectively implemented reorganizations. 
+asr:0: OUTPUT 1020.56-1026.03: Improved program execution, and increased after-sales service revenues compared to a year ago. 
+asr:0: OUTPUT 1027.17-1033.95: Excluding acquisitions, our core business operated with a 14.3% adjusted earnings from operations margin. 
+asr:0: OUTPUT 1034.47-1037.48: Up 250 basis points over Q3 last year. 
+asr:0: OUTPUT 1038.74-1042.54: Adjusted earnings margins from our acquired businesses were 7.4%. 
+asr:0: OUTPUT 1043.24-1052.13: As expected, we saw a sequential reduction in earnings at Biodot as business volumes normalized following a period of higher demand for COVID-related products. 
+asr:0: OUTPUT 1053.99-1058.32: As expected, CFT operated at a low single digit even margin in the third quarter. 
+asr:0: OUTPUT 1058.98-1065.73: Actions to improve the cost structure of the business and drive savings through supply chain synergies are underway and on track. 
+asr:0: OUTPUT 1066.61-1072.19: In the quarter supply chain savings were partially offset by increased costs of materials such as stainless steel. 
+asr:0: OUTPUT 1073.27-1079.80: We are confident that the ongoing deployment of the ABM at CFT, including core tools such as daily visual management,. 
+asr:0: OUTPUT 1079.98-1083.62: Problem solving in Kaizen events will drive improvements in the business. 
+asr:0: OUTPUT 1084.94-1093.95: As previously announced, we also took action to reorganize certain CFT subsidiaries, including closing two facilities and consolidating product lines. 
+asr:0: OUTPUT 1094.79-1101.24: These actions will drive cost efficiencies in line with our plan and bring focus to areas with a stronger value proposition. 
+asr:0: OUTPUT 1102.00-1105.51: Restructuring costs of $4.2 million were incurred in the third quarter. 
+asr:0: OUTPUT 1108.03-1110.91: Integration of SP and DF are in the early stages. 
+asr:0: OUTPUT 1111.09-1120.58: Our teams are working to achieve identified synergies between our pharma businesses, including ATS Life Sciences, Coma Chair, and now with the addition of SPNDF. 
+asr:0: OUTPUT 1122.18-1132.07: Q3 adjusted EPS was $0.52 per share compared to $0.30 per share last year. The increase is primarily attributable to growth in revenues and improved operating margins. 
+asr:0: OUTPUT 1133.61-1139.32: Moving to the balance sheet, in Q3 we generated cash from operations of $82.1 million. 
+asr:0: OUTPUT 1139.34-1144.76: Up from 78.9 million last year on growth in revenues and operating margins. 
+asr:0: OUTPUT 1145.81-1151.61: Our non-cash working capital as a percentage of revenue remained low at 6.3% in Q3. 
+asr:0: OUTPUT 1152.03-1159.72: Up slightly from 6% in Q2 and well within our target of maintaining working capital as a percentage of revenues below 15%. 
+asr:0: OUTPUT 1161.22-1167.91: We invested $11.3 million in CapEx and intangible assets in Q3, compared to $7 million in Q3 last year. 
+asr:0: OUTPUT 1168.71-1174.39: Higher investments primarily related to the expansion and improvement of facilities and investments in IT. 
+asr:0: OUTPUT 1175.62-1180.88: On leverage, our December net debt to adjusted EBITDA ratio was 3.1 to 1. 
+asr:0: OUTPUT 1180.90-1185.91: As we drew on a revolving credit facility to fund the acquisition of SP in Q3. 
+asr:0: OUTPUT 1187.05-1192.15: As we've said previously, we are willing to temporarily increase our leverage for the right opportunities. 
+asr:0: OUTPUT 1193.19-1203.10: On a pro forma basis, including the trailing 12-month EBITDA contributions of acquired businesses, our net debt to adjusted EBITDA ratio was approximately 2.6 to 1. 
+asr:0: OUTPUT 1204.68-1211.43: We ended the quarter with $200 million of cash and availability on our credit facilities of approximately $171 million. 
+asr:0: OUTPUT 1212.27-1220.78: Going forward, we're focused on maintaining our strong balance sheet and flexibility in our financing to continue supporting our growth strategies. 
+asr:0: OUTPUT 1222.48-1229.59: In summary, strong growth continued in Q3, including record quarterly revenues, bookings and backlog. 
+asr:0: OUTPUT 1230.13-1232.51: And we pursued margin expansion with good results. 
+asr:0: OUTPUT 1233.29-1242.78: These accomplishments reflected organic growth, on-plan contributions from our newly acquired businesses, and the ongoing application of our ABM playbook. 
+asr:0: OUTPUT 1243.80-1252.43: Our global teams have demonstrated strong performance in challenging business conditions as we continue to deliver value to our customers and shareholders. 
+asr:0: OUTPUT 1253.51-1258.44: Now we will open the call to questions from our analysts. Operator, could you please provide instructions? Thank you. 
+asr:0: OUTPUT 1260.00-1269.13: Ladies and gentlemen, we will now conduct a question and answer session. To allow as many voices to be heard as possible, please limit yourself to two questions per turn. 
+asr:0: OUTPUT 1269.69-1273.45: If you have a question, please press the star followed by the one on your touchtone phone. 
+asr:0: OUTPUT 1273.95-1276.80: Your questions will be pulled in the order they're received. 
+asr:0: OUTPUT 1277.22-1283.72: Please ensure you leave the handset if you are using a speakerphone before pressing any keys. One moment please for your first question. 
+asr:0: OUTPUT 1284.14-1288.17: Your first question comes from Charlene Rathborn, GD Securities. Please go ahead. 
+asr:0: OUTPUT 1289.33-1290.81: Thanks very much and good morning. 
+asr:0: OUTPUT 1292.61-1305.69: Andrew, as we think about your M&A agenda after a very busy 12 months, can you give us a sense of how much white space is left in life sciences for you and where your areas of focus will be going forward? 
+asr:0: OUTPUT 1308.27-1315.72: Yeah, good, good, good morning, Sherilyn. So we'll walk through first, really pleased with the progress you've made here. 
+asr:0: OUTPUT 1316.54-1322.56: And as we continue to build out our focus on key markets, key areas. 
+asr:0: OUTPUT 1322.62-1331.07: We've also increased what we view as the potential. And so our funnel was healthy and remains healthy in this space. 
+asr:0: OUTPUT 1331.17-1335.52: And there are multiple areas we like, as you're well aware. One is in life sciences. 
+asr:0: OUTPUT 1336.00-1343.20: And even with the addition of SP, not only do we view biopharma as having additional opportunity. 
+asr:0: OUTPUT 1343.34-1347.59: When we look at their life sciences equipment space. 
+asr:0: OUTPUT 1347.85-1352.45: It opens up new niche markets that we view have potential for ATS in the future. 
+asr:0: OUTPUT 1353.75-1357.88: Couple items to highlight, our balance sheet remains strong. 
+asr:0: OUTPUT 1358.34-1364.84: But secondly, the cultivation activity that we do today oftentimes will pay off two years from now. 
+asr:0: OUTPUT 1365.75-1369.69: So when we look at our strategic layout and our strategic structure,. 
+asr:0: OUTPUT 1370.47-1375.14: We're constantly focused on how to ensure that we build those relationships. 
+asr:0: OUTPUT 1375.18-1381.84: We put us in a position that when an available target becomes available, ATF can win. 
+asr:0: OUTPUT 1382.26-1383.68: And as you're well aware. 
+asr:0: OUTPUT 1384.26-1392.83: We look at niche applications that are leaders in their spaces, leaders in technology that we can bring together and really provide solutions for our customers. 
+asr:0: OUTPUT 1395.66-1397.00: That's great. That's great color. 
+asr:0: OUTPUT 1398.10-1406.63: And then for Ryan, your backlog conversion has been above guidance for the last several quarters, and I was hoping you could help us understand that. 
+asr:0: OUTPUT 1406.89-1418.00: Is that because there are now certain short cycle revenues that aren't factored into the backlog conversion, or is the company just continuing to exceed its own expectations for backlog conversion? 
+asr:0: OUTPUT 1420.58-1422.28: Yeah, good morning, Sherrilyn. 
+asr:0: OUTPUT 1423.08-1433.79: So I'll start, this is something that we do look at every quarter and we base the estimate on what is in our backlog or expectations and. 
+asr:0: OUTPUT 1434.27-1441.96: Specifically to your question, we have added faster turning businesses. So SP is a. 
+asr:0: OUTPUT 1441.98-1444.54: As an example, is a quick returning business. 
+asr:0: OUTPUT 1444.56-1453.35: Their projects are generally shorter cycle than the core ATS business. They also have the labware and glassware business, which is. 
+asr:0: OUTPUT 1453.37-1455.70: A faster turning business. 
+asr:0: OUTPUT 1457.00-1462.36: In this quarter, we were a bit higher than that 35 to 40% range. 
+asr:0: OUTPUT 1464.14-1472.41: Just over half of that, just over 1% was related to SP, which was not part of our business when we provided that range last quarter. 
+asr:0: OUTPUT 1473.81-1483.50: So, in the short term, we are dealing with supply chain headwinds. There's been an uptick in employee absenteeism related to covet. 
+asr:0: OUTPUT 1484.02-1489.69: And so that's led us to keep that rate in that 35 to 40% range. 
+asr:0: OUTPUT 1490.31-1498.70: Over time, again, to your question, given the addition of more products, technologies, growth in services,. 
+asr:0: OUTPUT 1498.96-1506.77: We may see this rate increase, but in today's environment, our outlook is in that 35 to 40% range. 
+asr:0: OUTPUT 1507.49-1510.55: Okay, that makes a lot of sense. Thank you. That's all for me. 
+asr:0: OUTPUT 1513.17-1517.74: Thank you. Your next question comes from Mark Neville with Scotia Bank. Please go ahead. 
+asr:0: OUTPUT 1519.68-1523.02: Hey, good morning guys. Excuse me. Another great quarter. 
+asr:0: OUTPUT 1524.28-1530.07: I guess just on the supply chain prices, again, you're calling this out longer lead times, labor, et cetera. 
+asr:0: OUTPUT 1530.93-1538.28: I guess I'm just curious, sort of incrementally, have things gotten materially worse or not? 
+asr:0: OUTPUT 1539.02-1545.39: Because again, we're not really seeing it in the numbers. I'm just trying to sort of gauge what it means for the next quarter. 
+asr:0: OUTPUT 1547.57-1552.99: Yeah, good good. Good morning. Mark. I'll start then Ryan feel free to jump in if there's areas you want to add. 
+asr:0: OUTPUT 1554.31-1555.74: So to start. 
+asr:0: OUTPUT 1556.78-1566.41: We have and I'll just walk through this quickly. We've really launched our view of the ADM around this and it's something we call daily visual management. 
+asr:0: OUTPUT 1567.91-1572.07: Effectively, what you're doing is you're looking at every business, every site, every area. 
+asr:0: OUTPUT 1572.57-1573.83: On a daily basis. 
+asr:0: OUTPUT 1573.85-1591.45: And you know, red or green, do you have an issue or not? And if you have an issue, how do you then resolve that issue and drive? And so we know from not only from a regional, from a site specific area, at my level across the enterprise, I can pull it weekly, I can pull it daily if needed. 
+asr:0: OUTPUT 1591.97-1600.54: What's going on in our supply chain and what do we really need to drive to assess? And so quite candidly, it has gotten worse and quite candidly. 
+asr:0: OUTPUT 1600.70-1607.53: You know, it is a challenge today, one that we're planning for, for the remainder of the calendar year. Now there's... 
+asr:0: OUTPUT 1607.55-1617.32: Different opinions on when that will call it come back to normal. But our view has been tactically, how do we drive impact here? How do we minimize the impact? 
+asr:0: OUTPUT 1617.70-1626.55: Additionally, how do we set ourselves up for success in the long term? And so, but candidly, it has increased our team continues to perform. 
+asr:0: OUTPUT 1626.95-1634.15: It is an area that we are very focused on and we're identifying short-term and mid-term countermeasures on a daily basis. 
+asr:0: OUTPUT 1634.17-1636.98: To ensure that we stay ahead of any challenges. 
+asr:0: OUTPUT 1637.24-1639.78: Whether it's supply chain or general inflation. 
+asr:0: OUTPUT 1643.04-1649.85: Know that that's helpful. And I guess to follow up sort of on Sherilyn's question just around backlog conversion,. 
+asr:0: OUTPUT 1650.43-1657.08: Again, like this, your guides would sort of capture the supply chain issues. 
+asr:0: OUTPUT 1657.10-1661.20: And again, sort of anything that you might book and burn in the court. 
+asr:0: OUTPUT 1661.26-1669.17: And it does feel like structurally the business has become sort of a higher or converging businesses with recent M&A. 
+asr:0: OUTPUT 1673.11-1681.16: Yeah, so again, that's a fair comment. 
+asr:0: OUTPUT 1682.06-1685.61: I won't rehash the whole discussion, but. 
+asr:0: OUTPUT 1687.51-1691.79: As I said, as we add more products, technology services. 
+asr:0: OUTPUT 1692.91-1698.42: And SP is a shorter cycle business and it has more products. 
+asr:0: OUTPUT 1699.14-1704.16: I do expect that the rate will continue to increase, but. 
+asr:0: OUTPUT 1704.26-1709.71: Yeah, in today's environment, it's, you know, as Andrew just said, it's very dynamic. 
+asr:0: OUTPUT 1711.01-1713.47: There's there's headwinds and supply chain. 
+asr:0: OUTPUT 1713.87-1718.74: There's headwinds still related to COVID and the resurgence there. 
+asr:0: OUTPUT 1719.34-1725.25: You know, we're being prudent in this and, you know, I think that's appropriate. 
+asr:0: OUTPUT 1727.05-1730.95: If you're gonna ask a second question, just on M&A, I guess two-part question. 
+asr:0: OUTPUT 1731.71-1740.00: I think sequentially the contribution was down quarter over quarter and I'm guessing that's why we're up and then second question I'm going to. 
+asr:0: OUTPUT 1740.14-1746.01: And you've got that base shelf perspective, so go ahead and maybe just share comments on sort of your thoughts around having that available. 
+asr:0: OUTPUT 1748.19-1756.84: Yeah, so on bio dot yes, correct. It is it was down in revenues and that that was expected as I said, my prepared comments. 
+asr:0: OUTPUT 1757.88-1765.89: That business had quite a strong COVID tailwind related to a couple of products that they offer. 
+asr:0: OUTPUT 1766.55-1773.27: And we did expect that to normalize. It did happen in the quarter and the business is really. 
+asr:0: OUTPUT 1773.29-1779.10: I'd say in line with expectations, but the reality is it's still ahead of our expectations in terms of its performance. 
+asr:0: OUTPUT 1779.42-1780.60: So we're very pleased there. 
+asr:0: OUTPUT 1782.52-1785.57: Your second question, I think, was on the base shelf filing so. 
+asr:0: OUTPUT 1787.39-1793.93: We really look at this as a tool and what has helped us be successful. 
+asr:0: OUTPUT 1793.95-1801.74: And I think that's a really good point. 
+asr:0: OUTPUT 1801.86-1804.46: In particular without financing conditions. 
+asr:0: OUTPUT 1805.15-1808.87: And from a seller's perspective, that takes a lot of risk out of the process. 
+asr:0: OUTPUT 1809.41-1814.05: And so as we're looking forward,. 
+asr:0: OUTPUT 1814.13-1821.78: We've talked about our growth strategy. M&A is a big part of that. We want to continue to have financial flexibility. 
+asr:0: OUTPUT 1821.80-1831.47: Having this base shelf in place is an important part of that flexibility going forward. Got it. Thanks, Niggas. 
+asr:0: OUTPUT 1834.49-1841.88: Thank you. Your next question comes from David Ocampo with Cormac Securities. Please go ahead. Good morning, everyone. 
+asr:0: OUTPUT 1843.88-1851.29: Ryan, last quarter you provided, I guess, organic operating margins for the base business. 
+asr:0: OUTPUT 1852.09-1859.56: Since there's a lot of moving parts in the quarter as it relates to acquisitions as well as supply chain issues, I was just wondering. 
+asr:0: OUTPUT 1859.58-1862.42: Where your base operating margins are right now. 
+asr:0: OUTPUT 1864.64-1873.33: So, so I, I did mention this in my prepared remarks, but we are in the mid 14% range. So, 14.3%. 
+asr:0: OUTPUT 1873.83-1879.02: We were actually down slightly. We were 14 for in the prior sequential quarter. 
+asr:0: OUTPUT 1880.22-1889.05: And the headwind there was related to stock comp. It was about a 30 to 40 basis point impact on our core margins. 
+asr:0: OUTPUT 1889.07-1896.48: Our gross margin and operating margins were both at excluding stock comp. 
+asr:0: OUTPUT 1897.74-1903.62: And then the acquisitions were in the high single digit range, 7.5%. 
+asr:0: OUTPUT 1904.48-1909.59: And I talked through the different components there, but just to reiterate, so CFT has. 
+asr:0: OUTPUT 1909.63-1915.94: Historically been at a low single digit even margin and they continue to be in line there. So. 
+asr:0: OUTPUT 1917.80-1922.80: We've made progress, some of the day one costs that we expected have come out. 
+asr:0: OUTPUT 1924.44-1934.03: We've had some early wins in supply chain. Now, again, there's other areas in supply chain, for example, commodities, and I mentioned stainless steel. 
+asr:0: OUTPUT 1934.79-1941.74: They're a large consumer of that. And that's an area where we do have more of a challenge to offset those cost increases. 
+asr:0: OUTPUT 1943.40-1951.51: So they're performing to plan. The restructuring we announced will further help with their cost and operating efficiencies. 
+asr:0: OUTPUT 1952.71-1958.74: The other big piece of our acquisition margins was BioDOT. 
+asr:0: OUTPUT 1958.76-1968.15: You know, that's been a very strong performer for us really driven by some of those tailwinds and we did see that as I said, normalize in the quarter and. 
+asr:0: OUTPUT 1968.55-1974.45: So their margins are still accretive to our overall margins, but they did come down relative to Q2. 
+asr:0: OUTPUT 1977.04-1978.48: And you guys did note. 
+asr:0: OUTPUT 1978.50-1984.94: That product sales is becoming a bigger piece of your business here in the release. 
+asr:0: OUTPUT 1984.96-1995.26: I was just curious, what's the split now between internal equipment versus third-party equipment that you guys are using for, I guess, the entirety of your sales? 
+asr:0: OUTPUT 1997.52-2002.96: So it hasn't really changed. It's still in that 40% range. 
+asr:0: OUTPUT 2003.56-2009.79: Which is typically where it's been it it ranges a little bit 40 to 45 but it's still not 40% range. 
+asr:0: OUTPUT 2011.21-2012.71: That's 40% internal rent. 
+asr:0: OUTPUT 2015.46-2019.92: Yes, correct. And do you guys have a target on where that. 
+asr:0: OUTPUT 2020.90-2026.81: David, sorry, I misunderstood your question. That's 40% is third party equipment. 
+asr:0: OUTPUT 2028.19-2029.51: Okay, thank you. 
+asr:0: OUTPUT 2033.03-2038.94: Thank you. Ladies and gentlemen, as a reminder, should you have any questions, please press star 1. 
+asr:0: OUTPUT 2040.20-2044.60: Your next question comes from Justin K. Wood with Stifel GMP. Please go ahead. 
+asr:0: OUTPUT 2045.69-2050.07: All right good morning uh... Thanks for taking my call nice to see the continued strength in the business. 
+asr:0: OUTPUT 2050.67-2055.40: On the organic growth uh... It was uh... Struck again at twenty one point five percent. 
+asr:0: OUTPUT 2055.74-2062.20: I'm wondering if we just take a step back and if you could describe some of the factors driving that organic growth. 
+asr:0: OUTPUT 2062.22-2068.81: Across the different segments and how you see organic growth playing out in the near term and medium term. 
+asr:0: OUTPUT 2071.45-2073.59: You know, sure. Good morning, Justin. 
+asr:0: OUTPUT 2074.21-2079.00: No, so I'll characterize this at the top level, but I'll go into specifics. 
+asr:0: OUTPUT 2079.12-2084.60: So if we look at the markets, we generally state the markets are favorable and good. 
+asr:0: OUTPUT 2085.27-2088.55: And then if we look at our funnel, as I mentioned, our funnel remains solid. 
+asr:0: OUTPUT 2089.63-2096.62: I then would be remiss to not add in the operating environment, which we would say is challenging. 
+asr:0: OUTPUT 2096.74-2103.50: And we would say not only from a supply chain, but also when you look at the pandemic impact. 
+asr:0: OUTPUT 2103.58-2107.65: So it is a challenging environment, but our teams continue to perform and continue to drive. 
+asr:0: OUTPUT 2108.61-2115.50: Then if I step into each segment, and I did talk a bit about this in the prepared remarks, but to add a little additional color. 
+asr:0: OUTPUT 2116.24-2117.70: You know, life sciences. 
+asr:0: OUTPUT 2118.34-2124.98: When we look at this area, it's largely comprised of non COVID opportunities now and. 
+asr:0: OUTPUT 2125.01-2132.43: And, you know, things do get a little bit blurry in that vaccine rollout and as we get more biopharma, more pharma. 
+asr:0: OUTPUT 2132.69-2141.12: It really does impact whether it's that or new drugs or new discoveries, but that market, call it year-to-date growth is roughly 15%. 
+asr:0: OUTPUT 2141.14-2146.35: This quarter was a little more impacted by some delays in elective surgeries. 
+asr:0: OUTPUT 2146.43-2149.11: And so we did see some impact this quarter. 
+asr:0: OUTPUT 2149.39-2157.42: But as we look at our year-to-date number, we still see this as a solid market and one that provides opportunities for the future. The funnel remains healthy here. 
+asr:0: OUTPUT 2157.92-2167.19: In EV, look, we're seeing activity continue to pick up. And we booked a large award within the quarter. And we continue to work with a new customer in Europe. 
+asr:0: OUTPUT 2168.43-2169.99: And, you know. 
+asr:0: OUTPUT 2170.01-2177.74: As you look at the stricter emissions and you look at the focus on driving this in that sector, in that space,. 
+asr:0: OUTPUT 2178.18-2186.89: We do view that we are positioned well to help our customers through that and we do view this as an area that we can continue to support and drive growth within. 
+asr:0: OUTPUT 2186.91-2192.87: Our solution set, within our technology, within our value within the market. 
+asr:0: OUTPUT 2193.71-2203.02: Consumer, we saw good activity in warehouse automation and we are seeing some, some pickup in in the cosmetic space. As a matter of fact. 
+asr:0: OUTPUT 2203.14-2205.73: I recently visited a customer in this area. 
+asr:0: OUTPUT 2206.01-2211.63: And it's fascinating because this customer specifically walked through their model, their business with me where. 
+asr:0: OUTPUT 2212.03-2217.30: They said that they're impacted by a reduced sunscreen because of the limited travel. 
+asr:0: OUTPUT 2217.56-2225.01: But yet their home care products have skyrocketed and skyrocketed to them was a big number, but I don't reference what that number is. 
+asr:0: OUTPUT 2225.55-2231.09: And so we have seen that market start to come back and we have seen the funnel really aligned with that. 
+asr:0: OUTPUT 2231.23-2236.46: And then to round this out, our food business,. 
+asr:0: OUTPUT 2236.66-2246.03: You know, when we think about primary processing, you know, I think, think tomato to initial processing. So, you know, from buying to puree. 
+asr:0: OUTPUT 2246.39-2247.83: It was a solid quarter. 
+asr:0: OUTPUT 2247.87-2256.12: And, you know, we are seeing a bit of an uptick there and a favorable setup for the harvest season that's coming up. 
+asr:0: OUTPUT 2256.94-2261.62: Energy, I mentioned this in the announcement, in the update. 
+asr:0: OUTPUT 2261.82-2267.89: This continues to be a strong market for us, continues to be an area that we view we can offer high value for our customer base. 
+asr:0: OUTPUT 2267.97-2275.06: We're continuing to look at opportunities to expand a niche application to ensure that it's high value in the markets we serve. 
+asr:0: OUTPUT 2275.74-2285.43: And lastly, boy, our services team continues to execute. And if you look at versus prior quarter and year over year, the growth that they've seen. 
+asr:0: OUTPUT 2286.05-2293.69: And this is an interesting one and one to highlight where even in my tenure here, this has gone from a nice to have. 
+asr:0: OUTPUT 2294.11-2298.72: To a strategic imperative for our customers where when they. 
+asr:0: OUTPUT 2298.80-2307.61: When they came to us in the beginning was, well, do you have services and what can you offer and going through now? It's because of the pandemic because of the supply chain disruptions because of. 
+asr:0: OUTPUT 2307.63-2310.63: You know, machine dependency and or turnover. 
+asr:0: OUTPUT 2310.67-2314.07: They're looking at our services organization as a key enabler. 
+asr:0: OUTPUT 2314.67-2319.00: And so when companies and customers in, say, the UK. 
+asr:0: OUTPUT 2319.02-2328.93: Went down and went on lockdown, ATF could still execute, ATF could still provide that value because we launched digital tools, because we had the regional service network. 
+asr:0: OUTPUT 2328.95-2340.14: I truly think this has been an enabler for us to keep driving share and driving that value for our customers. And so overall, I would say, to get back to my initial point, generally favorable in the markets. 
+asr:0: OUTPUT 2340.16-2345.91: Positive and and our funnel remains healthy and aligned around it, but the operating environment is challenging. 
+asr:0: OUTPUT 2347.51-2352.15: Thank you, very helpful context and good to hear the new EV customer win in Europe. 
+asr:0: OUTPUT 2352.85-2357.64: Just on the services growth that you mentioned, what was that in the quarter? 
+asr:0: OUTPUT 2357.68-2362.36: And just to provide some context if we look at aftermarket services. 
+asr:0: OUTPUT 2362.38-2367.73: As a percentage of sales. What was that prior to the pandemic or a couple of years ago? 
+asr:0: OUTPUT 2367.81-2371.61: What is it today and what would be the long-term target for that area. 
+asr:0: OUTPUT 2373.47-2380.00: So in terms of after sales services as a percentage of revenues,. 
+asr:0: OUTPUT 2380.32-2384.78: It's mid to high teens today, so it's been in the. 
+asr:0: OUTPUT 2385.07-2392.65: And it's while it's growing, the rest of our business has grown too. So it's it's had to keep up which which it has. 
+asr:0: OUTPUT 2393.87-2402.92: A few years ago, and I don't have the data in front of me, but if we went back four or five years, it would have been in the low teens, maybe 10, 12%. 
+asr:0: OUTPUT 2403.18-2406.49: It's growth has outpaced. 
+asr:0: OUTPUT 2406.51-2415.80: The equipment side of the business, which we view as very positive and much for the reasons that Andrew just outlined. 
+asr:0: OUTPUT 2417.02-2426.87: One other item that I would just want to highlight as well as is the growth in our digital solutions around whether it's illuminate or what what is doing and. 
+asr:0: OUTPUT 2426.95-2429.37: And their business to really provide. 
+asr:0: OUTPUT 2429.43-2439.74: Not only data collection, but then utilizing the data to then bring back in a solution set that helps customers improve their process. And so. 
+asr:0: OUTPUT 2439.76-2442.56: We have seen that be a real, call it,. 
+asr:0: OUTPUT 2442.58-2446.07: Bright spot in growth, but it's still relatively small across the. 
+asr:0: OUTPUT 2446.11-2452.71: The total business, but we do view that as an area of growth for our organization and one we can help our customers as they navigate this time. 
+asr:0: OUTPUT 2454.19-2455.88: That's helpful thank you for taking my questions. 
+asr:0: OUTPUT 2459.30-2464.00: Thank you. Your next question comes from Maxim Shichiev with National Bank. Please go ahead. 
+asr:0: OUTPUT 2466.05-2469.53: Hi, good morning, gentlemen. Good morning, Max. Morning. 
+asr:0: OUTPUT 2470.93-2476.90: Andrew, maybe just the first question for you in terms of how we think about M&A and the timing of it. 
+asr:0: OUTPUT 2477.20-2486.77: How do you balance that dynamic with obviously the need to properly integrate, especially SP, which was a pretty sizable transaction? 
+asr:0: OUTPUT 2486.93-2490.73: So do you mind maybe just walking us through your thought process there? 
+asr:0: OUTPUT 2492.95-2497.14: Yeah, and Max, there's no perfect answer here. What I can walk you through is... 
+asr:0: OUTPUT 2497.16-2507.01: We've developed an integration playbook. It's very standard around how we operate and how we walk into businesses. And as you are well aware, when we. 
+asr:0: OUTPUT 2507.03-2509.71: Look at an acquisition. We have four criteria. 
+asr:0: OUTPUT 2509.89-2512.85: And its markets, its strategic rationale. 
+asr:0: OUTPUT 2513.41-2517.02: One of them is the management assessment. 
+asr:0: OUTPUT 2517.10-2528.51: And their ability to align around the ABM and so we do assess that going in and then ultimately in the early days of the integration, you start to align around where they are in their journey and where do we need to press? Where do we need to. 
+asr:0: OUTPUT 2528.53-2535.05: You know, help in that solution set. So we have a very good indication when we acquire a business of where they are in that journey and. 
+asr:0: OUTPUT 2535.14-2537.22: And where we can help. 
+asr:0: OUTPUT 2537.24-2538.84: What I can tell you is,. 
+asr:0: OUTPUT 2538.90-2544.04: We have built out our capability and our ability within our leadership team. 
+asr:0: OUTPUT 2544.06-2549.51: To be able to align and continue to build out their portfolio of solutions. 
+asr:0: OUTPUT 2550.15-2554.05: We are selective in what we are going to add. 
+asr:0: OUTPUT 2554.27-2563.16: And we look at it from a value creation perspective, both from a shareholder and a customer perspective from what we can offer, whether it's technology or solutions. 
+asr:0: OUTPUT 2563.80-2570.93: And as you're well aware, the cultivation activity, while I will say it often,. 
+asr:0: OUTPUT 2571.29-2579.36: Oftentimes, we'll play out two, three, four years from now. And so we are not slowing down this activity. 
+asr:0: OUTPUT 2579.40-2582.74: We do view that there's a lot of opportunity for us to continue to add here. 
+asr:0: OUTPUT 2582.82-2584.72: But we're going to be extremely disciplined. 
+asr:0: OUTPUT 2585.23-2589.93: And so to answer your question head on, we have built our capability among our team. 
+asr:0: OUTPUT 2590.55-2600.18: We certainly are taking and ensuring that we have a key focus on SP to execute to ensure that they meet and exceed our expectations. 
+asr:0: OUTPUT 2600.70-2608.63: And then lastly, we're not slowing down our cultivation and we're going to continue in the areas that we view are going to add value over the long term for ATF. 
+asr:0: OUTPUT 2610.39-2615.58: Okay, that makes a lot of sense. Thank you for that. And then just one quick follow up on SP. 
+asr:0: OUTPUT 2616.26-2621.28: In terms of the ability to cross sell their consumables business, do you mind maybe just. 
+asr:0: OUTPUT 2621.30-2628.23: Providing some data points there because my understanding is that I think most of the sales process there is going through distributors. 
+asr:0: OUTPUT 2628.57-2635.68: And I'm just curious to see how you think about sort of leveraging that potential business into the rest of the ATS if it's possible. 
+asr:0: OUTPUT 2637.32-2644.64: So, so match it, you know, I, I think just to confirm you're asking about the lab work last word business. Exactly. 
+asr:0: OUTPUT 2646.31-2648.23: Yes. 
+asr:0: OUTPUT 2648.29-2660.70: We certainly did a lot of diligence to understand this space and the stickiness with their Bell Art portfolio as well as the other areas within that space. 
+asr:0: OUTPUT 2661.14-2669.37: We view this as a business that, while it's low single digits, it's a market that. 
+asr:0: OUTPUT 2669.39-2672.09: Has consistent continued revenue. 
+asr:0: OUTPUT 2672.23-2678.28: And when we think about the consistency there, it's one we like from a standpoint of their. 
+asr:0: OUTPUT 2678.54-2681.66: We don't want to call it consumable, but they're reoccurring revenue. 
+asr:0: OUTPUT 2681.78-2689.17: And their approach around the brand being a strong brand in the markets they serve. 
+asr:0: OUTPUT 2689.27-2690.65: It does go through distribution. 
+asr:0: OUTPUT 2691.35-2696.80: It's an area that we certainly see value in continuing to help them execute their plan. 
+asr:0: OUTPUT 2697.70-2707.35: Does it help sell biofarmer processing equipment? We think it's a potential adder, but it would not draw that total processing equipment in. 
+asr:0: OUTPUT 2707.69-2710.63: We would view the alignment with Coma Chair. 
+asr:0: OUTPUT 2710.65-2719.50: To IDOSI-Techno to Hull as really being the thesis and the alignment on the biopharma processing piece. 
+asr:0: OUTPUT 2719.90-2724.04: And then, you know, to round this out, they've got Genevac and life sciences equipment. 
+asr:0: OUTPUT 2724.24-2732.27: And and and there's a lot to like around those those areas of what we can have from a from an. 
+asr:0: OUTPUT 2732.29-2738.86: Coma chair SP integration to offer that full process solution. 
+asr:0: OUTPUT 2738.90-2740.50: Whether it's bio pharma. 
+asr:0: OUTPUT 2740.64-2741.68: Pharma processing. 
+asr:0: OUTPUT 2743.50-2745.13: That's super helpful, thank you so much, that's it for me. 
+asr:0: OUTPUT 2761.60-2769.99: Operator? 
+asr:0: OUTPUT 2770.87-2778.70: Great. Well, we will conclude and if I step back, we're pleased with the performance this quarter. 
+asr:0: OUTPUT 2780.00-2787.13: And recognize the hard work and dedication of our teams across ATS that made this possible. 
+asr:0: OUTPUT 2787.91-2794.33: Thank you for joining us. I look forward to speaking to you on our Q4 call in May. Stay safe and goodbye for now. 
+asr:0: END

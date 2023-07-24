@@ -1,0 +1,475 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 8.03-10.59: Ladies and gentlemen, thank you for standing by. 
+asr:0: OUTPUT 11.31-18.32: Welcome to the Itaew Corp Banker First Quarter 2021 Financial Results Conference Call. 
+asr:0: OUTPUT 19.28-25.67: At this time, all attendees are in a listen-only mode. After the speaker's remarks, there will be a question and answer session. 
+asr:0: OUTPUT 26.19-31.07: If you would like to ask a question, simply press star then the number one on your telephone keypad. 
+asr:0: OUTPUT 31.61-35.14: If you require any further assistance, please press star zero. 
+asr:0: OUTPUT 35.84-42.74: Thank you. Now I would like to welcome Miss Claudia Labille. Ma'am, the floor is yours. 
+asr:0: OUTPUT 44.60-52.79: Thank you. Good morning. Thank you for joining our conference call for our first quarter 2021 financial results. 
+asr:0: OUTPUT 53.59-60.08: Before proceeding, let me mention that our remarks may include forward-looking information. 
+asr:0: OUTPUT 60.16-64.14: And actual performance could differ materially. 
+asr:0: OUTPUT 64.16-73.65: From that anticipated in any forward-looking comments as a result of macroeconomic conditions, market risk, and other factors. 
+asr:0: OUTPUT 74.55-82.88: I would also like to draw your attention to the financial information included in this management discussion and analysis presentation. 
+asr:0: OUTPUT 83.42-89.57: Which is based on our managerial model in which we adjust for non-recurring events. 
+asr:0: OUTPUT 89.59-94.87: And we apply managerial criteria to disclose our income statement. 
+asr:0: OUTPUT 95.58-110.07: This managerial financial model reflects how we measure, analyze, and discuss financial results by segregating commercial performance, financial risk management, credit risk management, and cost efficiency. 
+asr:0: OUTPUT 110.57-120.30: We believe this form of communicating our results will give you a clearer and better view of our performance through these different perspectives. 
+asr:0: OUTPUT 120.88-125.77: Please refer to pages 9 to 12 of our report for further details. 
+asr:0: OUTPUT 126.67-134.51: With us today in this conference call are Mr. Gabriel Mora, CEO, and Mr. Rodrigo Couto, CFO. 
+asr:0: OUTPUT 135.01-143.92: Mr. Mora will comment on 2021 first quarter results and our strategic evolution as well as recent events. 
+asr:0: OUTPUT 144.56-149.99: Afterwards, we will be available for a question and answer session. 
+asr:0: OUTPUT 150.57-159.46: We have included a Q&A box on the console where you can type in your questions if you are not connected by phone. 
+asr:0: OUTPUT 160.00-164.18: We will take questions from both the phone and the console. 
+asr:0: OUTPUT 164.64-168.87: For the latter, we will read and answer your questions verbally. 
+asr:0: OUTPUT 169.71-173.01: It is now my pleasure to turn the call over to Gabrielle. 
+asr:0: OUTPUT 175.96-182.76: Thank you, Claudia. Hello everyone. And thank you for joining us for our 2021 First Quarter Earnings Call. 
+asr:0: OUTPUT 183.34-187.99: Today's presentation has three parts, an update on COVID-19,. 
+asr:0: OUTPUT 188.15-194.63: Our first quarter 2021 results and an update on our transformation plan and business strategy. 
+asr:0: OUTPUT 195.34-197.30: So move you straight into slide three. 
+asr:0: OUTPUT 198.26-207.29: While Chile gained international attention for the speed of its vaccination process during the first quarter of 2021, new infections surged to record levels. 
+asr:0: OUTPUT 207.75-213.51: As a result, mobility restrictions were reintroduced and international borders were closed. 
+asr:0: OUTPUT 214.01-221.46: These strict quarantine measures, which for a while affected almost 90% of the population, are now being rolled back. 
+asr:0: OUTPUT 222.18-225.69: Chile's vaccination process has been one of the fastest in the world. 
+asr:0: OUTPUT 225.71-233.19: Outpacing both the U.S. And the U.K. In terms of the doses administered per 100 inhabitants. 
+asr:0: OUTPUT 234.31-242.26: As of April 30, 8.1 million people in Chile had received at least one dose of the vaccine. 
+asr:0: OUTPUT 242.28-247.69: And 83% of the people over 60 years old have received both. 
+asr:0: OUTPUT 248.53-256.74: We expected this speedy vaccination effort to pave the way for a significant economic reopening in the coming months. 
+asr:0: OUTPUT 257.44-258.98: So let's move to slide four. 
+asr:0: OUTPUT 259.74-265.25: The Chilean authorities continue to act swiftly as well as on the economic recovery fronts. 
+asr:0: OUTPUT 265.85-275.12: The government announced an expansion to the two-year COVID fund by over $6 billion. That's 2% of the Chilean GDP. 
+asr:0: OUTPUT 275.76-284.12: The Central Bank of Chile also has launched the third stage of its credit facility conditional on increasing lending. 
+asr:0: OUTPUT 284.14-286.13: The CAC 3. 
+asr:0: OUTPUT 286.15-289.87: Amounting to $10 billion over six months. 
+asr:0: OUTPUT 290.45-298.06: Congress has also approved the expansion of the uses and the benefits of the Guarantee Fund for SMEs. 
+asr:0: OUTPUT 298.74-303.34: Legislators also approved a third 10% pension withdrawal. 
+asr:0: OUTPUT 304.36-311.01: We once more demonstrated our commitment to being part of the solution through our participation in the Fugapi reactivation program. 
+asr:0: OUTPUT 311.57-317.86: We granted almost 268 billion pesos of POGAPI Reativa, guaranteed loans. 
+asr:0: OUTPUT 317.88-325.85: Achieving a participation of 11.3%, which is higher than our overall market share. 
+asr:0: OUTPUT 326.55-336.30: Collectively, the Chilean authorities have acted decisively in responding to the pandemic crisis, both on the sanitary and economic fronts. 
+asr:0: OUTPUT 336.32-339.68: With positive impact both in economic activity. 
+asr:0: OUTPUT 339.70-340.80: And on the credit side. 
+asr:0: OUTPUT 341.64-350.23: Nevertheless, there are medium to long-term consequences of the economic measures that are difficult to assess and may turn out to be significant in the future. 
+asr:0: OUTPUT 351.31-353.47: If we can please move to slide five. 
+asr:0: OUTPUT 354.67-356.86: Prior to the latest lockdown in Chile. 
+asr:0: OUTPUT 356.96-358.90: Activity was building strong momentum. 
+asr:0: OUTPUT 359.48-364.78: In the short term, the latest quarantine measures temporarily hinder economic activity. 
+asr:0: OUTPUT 365.35-367.83: But the sustained progress of the vaccination. 
+asr:0: OUTPUT 367.85-371.61: A strong external impulse for better terms of trade. 
+asr:0: OUTPUT 371.63-379.60: Support from macro policies and the carryover effect are consistent with a significant growth rebound this year. 
+asr:0: OUTPUT 380.26-388.15: We continue to see GDP expanding 6.5% in 2021, following the 5.8% decline last year. 
+asr:0: OUTPUT 388.67-391.95: Moreover, risks remain tilted to the upside. 
+asr:0: OUTPUT 393.09-401.26: We still see inflation close to the 3% target over our forecast horizon, as the output gap is still wide. 
+asr:0: OUTPUT 401.90-408.99: Lastly, we expect the first rate hike of the cycle to come in the last quarter of 2021. 
+asr:0: OUTPUT 409.47-412.63: From the first quarter of 2022 previously. 
+asr:0: OUTPUT 413.37-420.10: While we see only 125 basis points rate hike this year in the last meeting of 2021, we. 
+asr:0: OUTPUT 420.12-433.17: A faster reopening of the economy than we currently expect in an environment of high terms of trade would probably lead the central bank to increase rates by more before the year ends. 
+asr:0: OUTPUT 433.87-443.18: In Colombia, we expect the economy to bounce back with growth of 5% this year after shrinking by 6.8% in 2020. 
+asr:0: OUTPUT 443.78-447.63: We also expect a broadly stable current account deficit this year. 
+asr:0: OUTPUT 448.09-454.61: And a wide 3.4% of GDP compared with 3.3% of GDP last year. 
+asr:0: OUTPUT 455.32-459.52: Inflation is on track to close this year at 2.8%. 
+asr:0: OUTPUT 460.08-473.65: We believe that the still large output gap, along with well-behaved inflation and inflation expectations, support rates remain stable at a low 1.75% for the remainder of this year. 
+asr:0: OUTPUT 474.21-481.82: However, the risk still toward early rate hikes if global financial conditions keep. 
+asr:0: OUTPUT 482.62-490.25: Now moving forward, let's talk about how the bank performed for these three months of 2021. 
+asr:0: OUTPUT 491.95-497.32: On slide seven, we share some of the highlights for the first quarter 2021. 
+asr:0: OUTPUT 497.82-506.79: Our consolidated net income was 95.1 billion Chilean pesos and 84 billion Chilean pesos in Chile. 
+asr:0: OUTPUT 506.95-510.79: Which is the highest quarterly net income in our history. 
+asr:0: OUTPUT 511.45-522.50: Consolidated return on tangible equity was 21.5% and return on tangible equity for our Chilean operation was 25.4%. 
+asr:0: OUTPUT 523.28-526.77: Our revenues in Chile were boosted by financial margins with the market. 
+asr:0: OUTPUT 526.85-533.47: Expense growth remained subdued, with cost declining 0.4% quarter-on-quarter. 
+asr:0: OUTPUT 534.13-538.54: Cost of credit was quite benign across all our portfolios. 
+asr:0: OUTPUT 538.56-548.17: Resulting in an 89.3% reduction relative to last quarter when we reinforced provisions for corporate and SME clients. 
+asr:0: OUTPUT 548.91-554.77: Why do we do not believe that the levels of profitability achieved in the first quarter will be maintained going forward? 
+asr:0: OUTPUT 555.08-561.98: We do believe that this strong first quarter sets up for a significant rebound in profitability this year. 
+asr:0: OUTPUT 563.12-570.27: Moving on to slide eight, we show that our loan portfolio grew by 1.4% in the first quarter. 
+asr:0: OUTPUT 570.29-577.62: Which is broadly in line with our guidance of mid-signal digit loan growth for 2021. 
+asr:0: OUTPUT 578.26-582.58: Our portfolio grew 2.3% in retail and 1% in wholesale. 
+asr:0: OUTPUT 583.10-592.45: Also in line with our strategy and guidance of focusing on retail growth while being selective in terms of the returns for wholesale land. 
+asr:0: OUTPUT 593.27-601.24: Our strategy for wholesale has enabled us to significantly improve margins and therefore to achieve higher returns on capital. 
+asr:0: OUTPUT 602.08-609.67: On slide nine, we see that our financial margins with clients in Chile decreased 1.6% in the first quarter. 
+asr:0: OUTPUT 610.07-616.62: Mainly due to seasonal effect of the sale of the student loan portfolio in the fourth quarter of 2020. 
+asr:0: OUTPUT 617.36-622.78: On the graphic below, which explains the change in our first quarter 21 margins with clients. 
+asr:0: OUTPUT 622.80-630.15: Versus the fourth quarter of 2020, we see the effect of higher margins on commercial loans as well as on the deposit. 
+asr:0: OUTPUT 630.97-636.06: Those positive contributions were upset by a change in credit portfolio mix. 
+asr:0: OUTPUT 636.62-644.56: Mainly due to the contraction of the consumer portfolio as a result of the pandemic, as well as by a reduction in average loan volume. 
+asr:0: OUTPUT 645.89-655.58: Moving on to slide 10, we show that our financial margins with the market was 60.5 billion pesos in the first quarter. 
+asr:0: OUTPUT 655.90-661.78: About 21 billion pesos higher than that of the fourth quarter of 2020. 
+asr:0: OUTPUT 661.90-668.93: Despite a lower exposure to the U.S., a decrease in 500 billion pesos and a lower inflation. 
+asr:0: OUTPUT 669.93-677.82: Revenues were high across our trading and banking businesses, despite a 45% reduction in inflation exposure. 
+asr:0: OUTPUT 677.84-680.10: Since the third quarter of last year. 
+asr:0: OUTPUT 681.48-687.33: Here on slide 11, we can see our main credit risk indicators in Chelsea. 
+asr:0: OUTPUT 688.23-693.41: Cost of credit in the first quarter was 24.8 billion Chilean pesos. 
+asr:0: OUTPUT 693.61-698.54: Which corresponds to 0.5% of our average loan portfolio. 
+asr:0: OUTPUT 699.60-703.90: We are seeing a quite benign credit risk across our portfolios. 
+asr:0: OUTPUT 704.16-708.45: In retail, the NPLs of the retail and consumer credits. 
+asr:0: OUTPUT 708.47-714.45: That did not receive any payment relief are below mid-2019 levels. 
+asr:0: OUTPUT 714.89-718.68: That is pre-pandemic and pre-social unrest. 
+asr:0: OUTPUT 719.24-727.71: The credits that did receive payment relief are in all repayment now and performing better than expected. 
+asr:0: OUTPUT 728.39-732.51: In wholesale, we did have one corporate case rolling to NPL. 
+asr:0: OUTPUT 732.95-738.72: But it was already adequately provisioned, so it did not have any significant impact on P&L. 
+asr:0: OUTPUT 739.48-750.03: The movements that you see in commercial NPLs, total NPLs, and NPL coverage are mostly explained by that one case and therefore do not reflect overall portfolio trends. 
+asr:0: OUTPUT 750.77-753.95: As a result of the provisions we established in 2020,. 
+asr:0: OUTPUT 754.05-761.88: Our NPL coverage ratio remains very high in historical terms despite the decrease shown in the spotter. 
+asr:0: OUTPUT 762.48-768.69: Our coverage evolution quarter over quarter is consistent with our expected loss provisioning model. 
+asr:0: OUTPUT 768.71-775.28: Which allow us to be ahead of the NPL cycle while maintaining high levels of protections through the cycle. 
+asr:0: OUTPUT 776.16-789.67: As for our perspective for the year, we are training towards the low end of the range we provided as guidance for cost of credit, which was between 1% and 1.3%. 
+asr:0: OUTPUT 790.99-799.26: On slide 12, we show non-interest expenses for the quarter, which have remained very much under control. 
+asr:0: OUTPUT 799.40-808.23: Decreasing 0.4% quarter over quarter, while the efficiency ratio improved by 5 percentage points. 
+asr:0: OUTPUT 808.75-812.97: Despite the above inflation increasing costs year over year,. 
+asr:0: OUTPUT 812.99-822.68: Which resulted mainly from the fact that in the first quarter 2020 was positively affected by reversal of variable compensation provisions. 
+asr:0: OUTPUT 823.12-829.07: We maintain our guidance of a cost growth below inflation for 2021. 
+asr:0: OUTPUT 830.33-836.42: Now moving on to slide 13, we show that our liquidity provisions remains very strong. 
+asr:0: OUTPUT 836.44-843.90: With both LCR and NSFR at historically high levels since 2020. 
+asr:0: OUTPUT 844.26-847.23: Boosted in part by government liquidity support measures. 
+asr:0: OUTPUT 848.35-849.87: In slide 14. 
+asr:0: OUTPUT 849.89-854.83: We can see that Colombia as well had a positive impact on the quadrant. 
+asr:0: OUTPUT 854.93-860.24: Reaching an 8.2% managerial return over tangible equity. 
+asr:0: OUTPUT 860.82-873.85: Operating trends were positive as well, with 3% quarter-on-quarter loan growth, a rebound in operation revenues, and a normalization of cost of credit at significantly lower cost. 
+asr:0: OUTPUT 875.62-884.52: On slide 15, we see our fully loaded SEP1 capital ratio increased by 50 basis points year over year. 
+asr:0: OUTPUT 885.02-887.87: In 20 basis points quarter over quarter. 
+asr:0: OUTPUT 888.51-894.27: We expect our capital ratios to improve steadily going forward as our profitability recovers. 
+asr:0: OUTPUT 894.29-898.52: And we continue to advance in our capital efficiency efforts. 
+asr:0: OUTPUT 899.26-908.03: As I mentioned in the last call, we are discussing internally at the highest levels how best to address our capitalization ratios going forward. 
+asr:0: OUTPUT 908.47-916.92: Considering our upcoming acquisition of additional interest in Itaú-Corpanca, Colombia, as well as the role of Basel III. 
+asr:0: OUTPUT 917.40-922.56: We will make the relevant disclosures of information as it becomes available. 
+asr:0: OUTPUT 924.06-926.87: Let's move on to the next part of the presentation. 
+asr:0: OUTPUT 927.57-933.51: On slide 17, I will recap our evolution in the last 12-month period. 
+asr:0: OUTPUT 933.53-938.28: On the following slides, I will share the progress that we have made so far. 
+asr:0: OUTPUT 939.08-947.57: When facing a crisis scenario of a scenario never seen before in March 2020, our adaptation and management capabilities were tested. 
+asr:0: OUTPUT 948.11-957.04: Our robust governance and solid risk management allow us to continue to run the bank for under those challenging circumstances. 
+asr:0: OUTPUT 957.60-964.24: As you know, we promptly organized our operations and prepared the bank for the crisis. 
+asr:0: OUTPUT 964.68-973.15: We acted quickly to ensure our customers had appropriate remote access to the bank, while at the same time developing solutions needed for that period. 
+asr:0: OUTPUT 973.71-981.32: It was a time of taking care of our people, our customers, and the bank, and we fully focused on that. 
+asr:0: OUTPUT 982.10-989.25: From September 2010 to 20 onwards, we began to shift our focus to building the bank of the future. 
+asr:0: OUTPUT 989.63-993.21: Leveraging what we learn and develop during the crisis. 
+asr:0: OUTPUT 993.81-998.66: In the months that followed, we developed our transformation plan. 
+asr:0: OUTPUT 998.68-1006.59: Based on the pillars of a strategic focus on disruption, customer centricity, simplicity in digitization,. 
+asr:0: OUTPUT 1006.61-1012.77: And an agile working model and a disciplined approach to achieving sustainable results. 
+asr:0: OUTPUT 1013.79-1016.14: If we can please move to slide 18. 
+asr:0: OUTPUT 1017.88-1025.47: Before sharing some of the advances in this strategy, I would like to first to introduce our new organizational structure. 
+asr:0: OUTPUT 1026.39-1031.03: We made important changes to our executive committee to ensure that we have. 
+asr:0: OUTPUT 1031.05-1037.48: The right structure and the right talent with the necessary skill set to lead this transformation process. 
+asr:0: OUTPUT 1038.18-1045.55: The most relevant structural changes are, one, we created a digital business development and management division. 
+asr:0: OUTPUT 1045.65-1052.79: Which is in charge of our transformation overall, as well as the most innovative elements of our plan. 
+asr:0: OUTPUT 1053.35-1060.04: And to the decentralization of our operations, which was key to reinforce customer centricity and agility. 
+asr:0: OUTPUT 1060.48-1068.59: In addition to structural changes, we also brought over new heads of technology for the wholesale bank. 
+asr:0: OUTPUT 1069.95-1079.82: On slide 19, we introduce Eduardo Neves as the new head of IT, who has been working with us since April, and Sebastiano Romero. 
+asr:0: OUTPUT 1080.00-1086.09: As head of the wholesale banking, replacing Christian Tauber, who will leave us in September. 
+asr:0: OUTPUT 1086.65-1097.38: Both Eduardo and Sebastiano are top executives with experience in the industry and strong track records, as you can see in their mini bios on this page. 
+asr:0: OUTPUT 1098.38-1104.24: On the light 20, I would like to reintroduce Jorge Novis. 
+asr:0: OUTPUT 1104.26-1108.81: As the head of our new digital business development division. 
+asr:0: OUTPUT 1109.59-1115.00: Jorge has been with us for a few years now, Leslie as head of operations. 
+asr:0: OUTPUT 1115.54-1119.82: Previously, he led several business transformation programs at Itaunibank. 
+asr:0: OUTPUT 1120.00-1130.53: Which gave him relevant experience and made him the best person to lead the transformation office we have created to implement our new strategy. 
+asr:0: OUTPUT 1131.19-1140.30: The transformation office will coordinate and oversee the transformation process supported by dedicated IT, finance, and HR cells. 
+asr:0: OUTPUT 1140.32-1145.07: In working closely with each of the workstream leaders and teams. 
+asr:0: OUTPUT 1145.95-1153.03: It is worth mentioning that this structure and the overall methodology we are following to implement the transformation. 
+asr:0: OUTPUT 1153.05-1160.14: Has been successfully deployed in Itaunibanco as well as in other banks and companies in different regions. 
+asr:0: OUTPUT 1160.80-1170.73: After describing how we are setting ourselves up to deliver the transformation plan, I will now comment on the progress we have already made over the last few months. 
+asr:0: OUTPUT 1171.01-1173.01: Starting on slide 21. 
+asr:0: OUTPUT 1174.49-1177.76: We recently announced a strategic alliance with HAPI. 
+asr:0: OUTPUT 1177.78-1181.04: A leading digital player in Latin America. 
+asr:0: OUTPUT 1181.08-1190.81: Through which we seek to bring innovative and disruptive ways of providing financial services to both individuals and companies in Chile. 
+asr:0: OUTPUT 1191.43-1197.12: Through this partnership, we are integrating financial services into a large ecosystem. 
+asr:0: OUTPUT 1197.14-1205.75: Which enable us to assess a large customer base to boost our growth while adding value to the ecosystem. 
+asr:0: OUTPUT 1206.39-1212.63: We expect to launch the first products of our partnerships on the third quarter of this year. 
+asr:0: OUTPUT 1214.67-1224.00: In our journey of customer experience transformation, we have made significant progress over the last year, as you can see on the left-hand side of slide 22. 
+asr:0: OUTPUT 1224.74-1232.97: Having said that, we are not at all satisfied as we regard the low NPS of the Banking Industry General Chile as a. 
+asr:0: OUTPUT 1232.99-1236.04: Clear opportunity for us to disrupt the market. 
+asr:0: OUTPUT 1236.84-1238.18: On the digital front. 
+asr:0: OUTPUT 1238.20-1247.49: We have made huge progress with our new app, which is now ranked number one in Chile in the three major app stores. 
+asr:0: OUTPUT 1248.21-1257.00: As you might recall, in the fourth quarter 2020, we launched a digital wallet that allows payments in smartphones and smartwatches. 
+asr:0: OUTPUT 1257.02-1263.60: Making them easier and safer, as well as offering both Visa and MasterCard options for our clients. 
+asr:0: OUTPUT 1264.46-1269.15: Three months later, we have seen an increasing adoption of this functionality. 
+asr:0: OUTPUT 1269.99-1274.61: A few weeks ago, we launched the Invertit Master. 
+asr:0: OUTPUT 1274.63-1281.00: Checking account, which enables quick and easy access to our open investment platform. 
+asr:0: OUTPUT 1281.02-1287.25: Through a 100% digital platform with a hassle-free onboarding. 
+asr:0: OUTPUT 1288.53-1293.79: On slide 23, we present our innovative organization model at a glance. 
+asr:0: OUTPUT 1294.31-1301.30: We are moving towards an agile working model at scale with full integration across all areas. 
+asr:0: OUTPUT 1301.70-1311.65: The first step on this journey is integrating business and technology in joint teams, pursuing business objectives broken down into three months. 
+asr:0: OUTPUT 1312.73-1318.56: This migration towards an agile operation model allows us to simplify the organization structure. 
+asr:0: OUTPUT 1318.58-1324.38: And therefore accelerate decision-making through empowered multidisciplinary teams. 
+asr:0: OUTPUT 1325.09-1329.47: This year, we also have been recognized for our excellence in key areas. 
+asr:0: OUTPUT 1330.03-1334.63: For example, the best trade finance provider by Global Finance and Banking. 
+asr:0: OUTPUT 1334.69-1338.42: Best asset management in fixed income by Morningstar. 
+asr:0: OUTPUT 1338.44-1347.89: And the Deal of the Year by IFR Awards for our role in the admission of the Peruvian government. 
+asr:0: OUTPUT 1348.81-1356.14: Wrapping up, we started 2021 strong, which is just the first step on the journey to achieving sustainable results. 
+asr:0: OUTPUT 1356.66-1359.94: We are fully conscious that much remains to be done. 
+asr:0: OUTPUT 1360.62-1368.87: And that is why we are in full transformation mode to achieve our medium to long-term performance aspirations. 
+asr:0: OUTPUT 1369.73-1377.06: With this, we conclude the presentation part we have for you today, and we would gladly take any questions that you might have. 
+asr:0: OUTPUT 1381.56-1391.23: Thank you. Ladies and gentlemen, we will now begin the question and answer session. As a reminder, if you wish to ask a question, please press star 1 on your telephone. 
+asr:0: OUTPUT 1391.29-1395.20: Or on the webcast, you can submit the question using the Q&A box. 
+asr:0: OUTPUT 1395.60-1398.16: Once again, that's star 1 on your telephone keypad. 
+asr:0: OUTPUT 1407.03-1412.07: Your first question is from the line of Jason Mullin from Scotia Bank. Your line is now open. 
+asr:0: OUTPUT 1414.39-1419.80: So thanks for the opportunity to ask questions, Gabrielle, Rodrigo, Claudia. 
+asr:0: OUTPUT 1421.30-1431.07: My first question is just on overall profitability. You highlighted the trend in cost of risk and the strong trading. 
+asr:0: OUTPUT 1431.73-1435.58: And we have some guidance for the full year. 
+asr:0: OUTPUT 1435.90-1442.04: I'm just trying to get a sense if we kind of normalize the provisions and normalize trading. 
+asr:0: OUTPUT 1442.92-1448.81: I mean, I think you some kind of 20 percent tax rate around there. 
+asr:0: OUTPUT 1449.83-1456.68: It seems to me that your return on equity that you're showing, almost 21%, is pretty impressive. 
+asr:0: OUTPUT 1457.44-1463.02: But when we normalize, we would be at probably half that level or even slightly below. 
+asr:0: OUTPUT 1463.54-1468.23: And I just wanted to get a sense if I'm thinking about that right for the rest of the year. 
+asr:0: OUTPUT 1469.33-1479.04: And then my second question is related to your agreement with RAPI. Is this an exclusive agreement? 
+asr:0: OUTPUT 1479.16-1487.03: I think you talked about some terms. I think there's some period for which it may be, but if you can talk a little bit on how that's going to work. 
+asr:0: OUTPUT 1488.35-1493.83: Thank you. Sure. Thank you for your question, Jason. 
+asr:0: OUTPUT 1494.93-1498.92: As you mentioned in your first question,. 
+asr:0: OUTPUT 1499.04-1502.76: I don't think that we are saying that. 
+asr:0: OUTPUT 1502.78-1510.37: We are going to have a 25% return on tangible equity in the operation in Chile on a sustainable basis. 
+asr:0: OUTPUT 1510.41-1511.43: I think it was. 
+asr:0: OUTPUT 1511.45-1521.36: A very good quarter in terms of financial margins with the market as well as a cost of credit below $1. 
+asr:0: OUTPUT 1521.38-1525.91: What we thought we might have for this year. 
+asr:0: OUTPUT 1527.97-1535.90: As I previously mentioned, we do see a lot of potential for the asset that we have in. 
+asr:0: OUTPUT 1537.02-1546.99: I think that the guidance that we had for long term cost of credit was something around 0.8%. 
+asr:0: OUTPUT 1547.01-1555.44: We discussed this number as a business as usual, sustainable cost of credit given. 
+asr:0: OUTPUT 1555.46-1558.24: Our mix of portfolio. 
+asr:0: OUTPUT 1560.00-1562.68: The number that we saw was 0.5%. 
+asr:0: OUTPUT 1562.96-1572.25: As a matter of fact, if you take the numbers for Itaú, Chile and Corobanco on a separate basis between 2012 and 2013,. 
+asr:0: OUTPUT 1572.27-1577.22: In 2015, I think that you're going to have an average of 0.5%. 
+asr:0: OUTPUT 1577.76-1583.26: So it's nothing that new. Of course, we didn't expect for this credit cycle. 
+asr:0: OUTPUT 1583.92-1593.05: So I would say if we normalize this and normalize the financial margins with the market, we will encounter a lower return on tangible equity. 
+asr:0: OUTPUT 1593.47-1600.32: Having said that, I'm quite optimistic with the year that we have. We're seeing good results. 
+asr:0: OUTPUT 1600.34-1607.59: In terms of spreads, we were able to increase the spread on the wholesale portfolio. 
+asr:0: OUTPUT 1608.29-1611.71: We still have some challenges on the consumer portfolio. 
+asr:0: OUTPUT 1612.13-1620.44: And as I mentioned before, when I think about the potential of return on tangible equity for operations,. 
+asr:0: OUTPUT 1620.78-1628.75: I think 16% is something achievable from what I see here in the projections that we have. 
+asr:0: OUTPUT 1630.31-1635.42: So we don't have any specific guidance for the year. 
+asr:0: OUTPUT 1635.82-1643.80: But I'm hoping for better numbers than the ones that you mentioned for the return that we have for this year. 
+asr:0: OUTPUT 1644.22-1650.89: And we hope for better returns approaching the 15-16% return on tangible equity. 
+asr:0: OUTPUT 1650.91-1655.24: On a sustainable basis for the bank. At least this is the plan that we have. 
+asr:0: OUTPUT 1656.68-1658.10: For happy. 
+asr:0: OUTPUT 1658.34-1667.97: We have negotiated for six months with Simon Borreiro, who is the CEO with Hapi. 
+asr:0: OUTPUT 1669.35-1675.96: Globally for this joint venture that we have with them. We have exclusivity over the. 
+asr:0: OUTPUT 1675.98-1680.84: Of HAPI for the distribution of financial services. 
+asr:0: OUTPUT 1681.12-1686.45: Both for the clients that Hoppy has, it has over one million clients. 
+asr:0: OUTPUT 1687.19-1693.29: In Chile as well as on the company side for all the providers that HAPI has. 
+asr:0: OUTPUT 1693.31-1697.62: Of companies that are selling these services through the platform. 
+asr:0: OUTPUT 1697.74-1702.06: We also have the exclusivity for the distribution of financial services. 
+asr:0: OUTPUT 1702.64-1713.31: It's a new model. If you take our experience in Itaú Unibanco of doing partnerships with retailers, we were quite successful. 
+asr:0: OUTPUT 1713.33-1716.42: In achieving that. 
+asr:0: OUTPUT 1716.52-1731.23: We are developing this model with Chile, with Hapi, so I think there are good opportunities for us with all the flow of clients that they have, incorporating a new attraction model for the bank. 
+asr:0: OUTPUT 1731.71-1737.04: As well as to learn more from a company that has been widely successful. 
+asr:0: OUTPUT 1737.06-1742.04: In developing its digital model throughout Latin America. 
+asr:0: OUTPUT 1742.32-1746.49: To learn from them and apply what we learn into our business. 
+asr:0: OUTPUT 1746.99-1750.75: That's at least the ambition that we have for Hoppy. 
+asr:0: OUTPUT 1755.40-1757.92: Thank you very much. 
+asr:0: OUTPUT 1760.50-1766.21: Your next question is from Sebastian from Credit Corp Capital. Your line is now open. 
+asr:0: OUTPUT 1769.23-1777.26: Hello, everyone. Gabriel, Claudia, and the rest of the team. Rodrigo, thank you for the presentation. 
+asr:0: OUTPUT 1777.82-1780.34: I have several questions today. 
+asr:0: OUTPUT 1780.44-1788.51: The first one on capital, Gabriel, you mentioned during the presentation that the. 
+asr:0: OUTPUT 1788.53-1791.91: New information will be disclosed when it is available. 
+asr:0: OUTPUT 1793.27-1799.36: The key question here is what are your initial thoughts considering the recovery of profitability. 
+asr:0: OUTPUT 1800.00-1803.58: The potential needs that the bank may have. 
+asr:0: OUTPUT 1803.60-1810.47: And when do you expect to have these disclosures for the market? 
+asr:0: OUTPUT 1810.73-1812.43: That will be the initial question. 
+asr:0: OUTPUT 1813.37-1819.92: The second question is regarding overall profitability, going back to the question of Jason. 
+asr:0: OUTPUT 1821.40-1828.93: Because you talk a lot about how sustainable a return on tangible equity will be. 
+asr:0: OUTPUT 1828.95-1831.87: Between 15 to 16% in Chile. 
+asr:0: OUTPUT 1832.67-1839.92: But you continue to fail to talk about consolidated profitability and talk about. 
+asr:0: OUTPUT 1839.94-1842.40: The picture in Colombia. 
+asr:0: OUTPUT 1842.42-1850.19: So my specific question here would be, what are the trends that you're looking at on a consolidated basis? 
+asr:0: OUTPUT 1850.21-1858.26: For profitability and what's the outlook including from a strategic point of view in Colombia. 
+asr:0: OUTPUT 1858.32-1863.60: Also considering recent challenges at the fiscal front. 
+asr:0: OUTPUT 1864.68-1867.11: And the third question. 
+asr:0: OUTPUT 1867.19-1869.49: Will be, we saw a minor. 
+asr:0: OUTPUT 1869.53-1877.82: We saw a minor impairment on the managerial result and I'm wondering. 
+asr:0: OUTPUT 1877.86-1883.60: If you could expand on that impairment charge that you made during the quarter. 
+asr:0: OUTPUT 1883.92-1890.09: And if we should expect new impairments throughout the year. Thank you very much. 
+asr:0: OUTPUT 1892.63-1902.44: Thank you for your question, Sebastian. First, on capital, as I mentioned in the previous call,. 
+asr:0: OUTPUT 1903.70-1911.67: When we take a look at the first plan that we have of doing all the convergence to PASEL 3,. 
+asr:0: OUTPUT 1911.69-1917.90: With generating and retaining capital prior to 2025. 
+asr:0: OUTPUT 1918.46-1925.29: I think that plan was mostly affected by the effects that we saw in 2020-2019. 
+asr:0: OUTPUT 1925.41-1932.33: In 2019 due to the social unrest in Chile and the cost of credit that entailed. 
+asr:0: OUTPUT 1932.85-1934.55: And of course,. 
+asr:0: OUTPUT 1934.57-1948.87: With the dividend payment that we had of a dividend payout of 100% in the past as well as all the pandemic adjustments that we did on the portfolio last year. 
+asr:0: OUTPUT 1949.63-1956.86: So, taking the time that went through and taking our ability to generate and retain capital during those years,. 
+asr:0: OUTPUT 1957.32-1961.20: I think that the plan has to change. 
+asr:0: OUTPUT 1961.82-1965.99: And this is the discussion that we now have with the board. 
+asr:0: OUTPUT 1966.37-1970.01: And with the controlling shareholder in terms. 
+asr:0: OUTPUT 1970.03-1976.52: Of the capital structure that we have in the bank and how we will converge through time. 
+asr:0: OUTPUT 1978.62-1986.55: We do not have any specific information to share with you right now regarding timing and also. 
+asr:0: OUTPUT 1986.57-1990.87: Of an eventual capitalization of the bank. 
+asr:0: OUTPUT 1991.37-1997.32: But I can tell you that we will have new information this year to share with you. 
+asr:0: OUTPUT 1998.62-2001.68: And your second question was about overall profitability. 
+asr:0: OUTPUT 2002.88-2007.83: When I take a look at Chile, the answer is the same that I gave to Jason. 
+asr:0: OUTPUT 2008.17-2012.87: When I take a look at Colombia, I think things are more challenging. 
+asr:0: OUTPUT 2012.89-2021.96: We had a dilution of basically three or four percentage points. 
+asr:0: OUTPUT 2021.98-2023.06: In Colombia. 
+asr:0: OUTPUT 2023.26-2027.21: That's coming from 25 if I'm coming out of 16 for instance. 
+asr:0: OUTPUT 2027.23-2035.10: The potential dilution will be lower than that, something around 2%, as I mentioned in previous calls. 
+asr:0: OUTPUT 2036.34-2042.34: I think it has been challenging in Colombia because we were affected in our go to market strategy. 
+asr:0: OUTPUT 2042.76-2050.37: As things also become more complicated in Colombia, especially because of the pandemic. 
+asr:0: OUTPUT 2051.17-2061.12: I still think that it's possible for the Colombian business to converge to its cost of equity around 12%. 
+asr:0: OUTPUT 2062.58-2065.69: And we had an 8% return on the first quarter. 
+asr:0: OUTPUT 2066.17-2071.27: I think it's not different from Chile. 
+asr:0: OUTPUT 2071.67-2076.90: I think that we're probably going to see a lower return in Colombia than 8% for this. 
+asr:0: OUTPUT 2078.04-2081.80: I don't think that Colombia will dilute as more than 2%. 
+asr:0: OUTPUT 2082.28-2086.19: But we are now discussing what are the options that we have. 
+asr:0: OUTPUT 2086.21-2092.49: To increase our shareholder's equity value creation. 
+asr:0: OUTPUT 2092.51-2094.45: Start the business in Columbia. 
+asr:0: OUTPUT 2095.30-2099.04: And I think that the best answer that we have so far. 
+asr:0: OUTPUT 2099.06-2101.70: And focus more on the bank. 
+asr:0: OUTPUT 2101.72-2110.19: In some specific segments and we're going to share this with you this year as well. 
+asr:0: OUTPUT 2110.73-2118.38: For the impact of the impairment, I think it would be a good idea if Rodrigo can discuss this with you. Rodrigo? 
+asr:0: OUTPUT 2121.28-2128.85: Yes, hello, selection. So we have two things in our Mary Kay results. 
+asr:0: OUTPUT 2129.29-2135.54: One is the amortization of the intangibles generated through business combinations. 
+asr:0: OUTPUT 2135.94-2140.92: That's a treatment that we have every quarter, so there's nothing new there. 
+asr:0: OUTPUT 2141.36-2148.13: And I can tell you that there was no impairment either of goodwill or of intangibles to business combinations. 
+asr:0: OUTPUT 2148.51-2153.23: So the only thing there was was the regular amortization of this combination. 
+asr:0: OUTPUT 2153.99-2157.24: The impairment that we did have, which is like a... 
+asr:0: OUTPUT 2157.26-2170.15: 1.3 billion pesos was related to some technology assets related to the system consolidation. 
+asr:0: OUTPUT 2170.29-2180.14: You might remember we did a larger impairment in December and these are some residual impairments. 
+asr:0: OUTPUT 2180.62-2183.60: We do not expect any major impairment going forward. 
+asr:0: OUTPUT 2184.02-2191.33: Having said that, we review our intangible assets and we also review our fixed assets continuously. 
+asr:0: OUTPUT 2191.37-2195.34: And you might have some small movements throughout the year. 
+asr:0: OUTPUT 2199.12-2201.32: Thank you very much for the answer. 
+asr:0: OUTPUT 2206.13-2215.26: Once again, if you wish to ask a question, simply press star, then the number one on your telephone keypad, or send a question via your webcast tool using the Q&A box. 
+asr:0: OUTPUT 2215.88-2220.68: Your last question is from the line of George Friedman from Citibank. Your line is now open. 
+asr:0: OUTPUT 2223.52-2227.17: Hello, good morning everyone. Thank you for the opportunity to make questions. 
+asr:0: OUTPUT 2228.27-2235.74: I'd like to try to get a bit more color about your expectations on the revenue front. 
+asr:0: OUTPUT 2236.58-2239.00: I think it was very clear already. 
+asr:0: OUTPUT 2239.02-2241.22: From the comments of Gabriel. 
+asr:0: OUTPUT 2241.24-2251.95: What to expect in terms of profitability for the year, but just to get a bit more sense about how to get there. 
+asr:0: OUTPUT 2252.39-2281.34: If you could, Gabriel, remind us what are the trends that support your ALM results? Because even though everybody makes a call on how unsustainable these numbers might be, I also noticed that last quarter it was strong. 
+asr:0: OUTPUT 2281.78-2290.31: And this quarter goes strong and I think it might be associated with ALM given levels of rates or something else. 
+asr:0: OUTPUT 2290.65-2295.20: So if you could help us through understanding. 
+asr:0: OUTPUT 2295.36-2303.58: What has sustained these levels of NII with the market that would be helpful? 
+asr:0: OUTPUT 2304.06-2308.57: The second question, but also focusing on revenue generation,. 
+asr:0: OUTPUT 2309.47-2319.62: If you could give us some ideas about what are the trends expected for Fincom, one of your competitors last week? 
+asr:0: OUTPUT 2320.00-2322.74: Release the guidance expecting. 
+asr:0: OUTPUT 2322.78-2331.09: 8 to 10% increase of income throughout the year as the reopening takes place and activity increases. 
+asr:0: OUTPUT 2332.17-2339.56: Is this a trend that we could also expect for the other banks in the banking system? Thank you very much. 
+asr:0: OUTPUT 2341.26-2343.98: Sure, thank you for your question, Jörg. 
+asr:0: OUTPUT 2345.33-2349.93: I think that when I take a look over the next few years,. 
+asr:0: OUTPUT 2350.45-2359.20: I think that revenue generation will be key in order to maintain the levels of results that I mentioned before. 
+asr:0: OUTPUT 2360.38-2368.89: But through this year, I think that we're still going to be a little bit shy than the long-term projections that we have on revenues. 
+asr:0: OUTPUT 2369.31-2371.71: Mainly because of two things. 
+asr:0: OUTPUT 2372.15-2376.98: We still see, at least in the first semester of this year,. 
+asr:0: OUTPUT 2377.90-2384.62: A little bit shy the volumes, especially on the consumer front. 
+asr:0: OUTPUT 2384.97-2393.55: We saw some resilience on the mortgages portfolio. We are increasing 8% year-over-year. 
+asr:0: OUTPUT 2395.12-2404.14: Indeed, it was a market that is more resilient and has a higher latency in terms of being affected by economic downturn. 
+asr:0: OUTPUT 2405.47-2413.01: On the other hand, if you take a look at how interest rates. 
+asr:0: OUTPUT 2413.03-2420.00: Have fallen for the past few years. The resilience that we had on spreads. 
+asr:0: OUTPUT 2420.74-2427.13: I think it was quite good, especially on the wholesale part of the portfolio, as you mentioned. 
+asr:0: OUTPUT 2428.05-2437.00: We were very focused on making sure that we are increasing the value creation of the credits that we are in. 
+asr:0: OUTPUT 2437.92-2446.91: We are able to maintain or expand the spread on the retail side. 
+asr:0: OUTPUT 2447.31-2452.93: But, of course, if you take a look at the portfolio as a whole in terms of the. 
+asr:0: OUTPUT 2452.95-2458.76: The mix was affected as we are decreasing. 
+asr:0: OUTPUT 2458.78-2464.80: Less than the market, but truly decreasing the consumer portfolio as all the effects of the pandemic. 
+asr:0: OUTPUT 2466.13-2476.04: If you take a look at the fees, as you mentioned, I mean, growing out fees by 8% from the fall that we have. 
+asr:0: OUTPUT 2476.06-2485.95: Last year. I think it's something feasible, but it has to do more with the stocking base than we have compared to the numbers that we had in. 
+asr:0: OUTPUT 2486.03-2491.01: 2019 and I think that product that comment goes as well for the industry. 
+asr:0: OUTPUT 2491.37-2498.36: You have to remember that in Chile, not like Brazil, which the fees are more on. 
+asr:0: OUTPUT 2498.38-2505.11: The service side, the fees in CHILD, especially in our case, are more linked to credit concessions. 
+asr:0: OUTPUT 2505.47-2513.45: In terms of the insurance products that we have, in terms of the fees that we charge for structuring credits on the wholesale. 
+asr:0: OUTPUT 2513.89-2519.80: So, as we see on the second semester, a better activity on credit concessions. 
+asr:0: OUTPUT 2520.08-2527.93: I do see a rebound in fees and I think that the numbers that you mentioned are. 
+asr:0: OUTPUT 2528.01-2532.29: Are very reasonable for the year that we have. 
+asr:0: OUTPUT 2533.57-2539.10: But the main drivers that we are seeing in terms of the profitability for this year. 
+asr:0: OUTPUT 2539.14-2544.54: Is growing the. 
+asr:0: OUTPUT 2544.56-2547.43: The revenues that we have, I'm sorry. 
+asr:0: OUTPUT 2548.55-2555.52: But I see the normalization of our cost of credit and a strong cost control. 
+asr:0: OUTPUT 2556.38-2562.00: I think that for this year, that will be the main highlight for the bank. 
+asr:0: OUTPUT 2562.32-2564.72: As you saw, we're doing well in treasury. 
+asr:0: OUTPUT 2564.78-2571.01: We are the first bank, for instance, in Chile for FX trading. 
+asr:0: OUTPUT 2571.03-2577.78: For our clients and also for derivatives. We do see a strong treasury. 
+asr:0: OUTPUT 2577.80-2582.06: In terms of the activity with clients, you see those numbers. 
+asr:0: OUTPUT 2583.98-2592.23: But then again, I think that converging to the bottom, or perhaps better than the bottom of the guidance that we issued. 
+asr:0: OUTPUT 2592.25-2594.57: For cost of credit. 
+asr:0: OUTPUT 2595.01-2597.16: It's a strong driver. 
+asr:0: OUTPUT 2597.52-2606.25: I don't feel that if we are at the bottom of the range or even lower than the range that we provided with cost of credit. 
+asr:0: OUTPUT 2606.63-2616.02: Is something that is not sustainable for the bank. As I mentioned several times before, what I do see is a cost of credit. 
+asr:0: OUTPUT 2616.04-2621.58: On a business as usual, the situation for the bank is something around 0.8%. 
+asr:0: OUTPUT 2622.58-2632.05: So converging on that, strong cost efficiency and growing revenue steadily for the next few years. 
+asr:0: OUTPUT 2632.89-2639.38: I think that will converge the profitability to what we mentioned before. 
+asr:0: OUTPUT 2640.66-2643.00: I don't know if I answered your question. 
+asr:0: OUTPUT 2644.20-2653.21: Thank you very much, Gabriel. Actually, you answered even more than what was questioned, and I really appreciate the caller. 
+asr:0: OUTPUT 2653.63-2660.00: But if you could just touch base once again on an AI with the market. 
+asr:0: OUTPUT 2660.30-2677.14: What are the trends we should monitor to understand the levels of these results or whether we should expect already for the coming quarters a reversion to the mean. 
+asr:0: OUTPUT 2677.24-2680.96: Which was over the last year something around. 
+asr:0: OUTPUT 2680.98-2684.08: 25 billion pesos per quarter. Thank you. 
+asr:0: OUTPUT 2685.85-2691.99: What we are probably going to see are lower returns on treasury. 
+asr:0: OUTPUT 2692.05-2697.54: I don't think that we can repeat the part that we have sustainably going forward. 
+asr:0: OUTPUT 2698.96-2708.07: I do see good results for the next quarter but then again maintaining the level of profitability and financial margins with the market I think would be tough. 
+asr:0: OUTPUT 2708.91-2714.15: But I do see reactivation of volumes in other forms. 
+asr:0: OUTPUT 2714.25-2724.20: I think that we will not fully compensate the lower return on the financial margins with the market throughout the year. 
+asr:0: OUTPUT 2724.24-2728.67: With financial margins with clients that takes a little bit of timing. 
+asr:0: OUTPUT 2729.57-2736.62: But then again, as I mentioned, with the Fugapi loans that we put forward, that we have a good guarantee. 
+asr:0: OUTPUT 2736.90-2740.84: And I think that we were able to put forward a good portfolio. 
+asr:0: OUTPUT 2740.86-2742.00: On SMEs. 
+asr:0: OUTPUT 2742.68-2746.73: The level of profitability that we have for our deposit. 
+asr:0: OUTPUT 2746.81-2755.18: If you take a look at deposits year over year, at retail we rose almost 70% of our current account deposits. 
+asr:0: OUTPUT 2756.32-2760.38: So those operational trends, they are quite good. 
+asr:0: OUTPUT 2760.80-2766.59: But then again, I think that what we are going to see on the first semester of the year. 
+asr:0: OUTPUT 2766.61-2771.33: Is more a market-dominant return. 
+asr:0: OUTPUT 2771.69-2777.62: In what we are going to see on the second semester is more client-dominated return. 
+asr:0: OUTPUT 2777.92-2782.72: And I think I like better the second one because it's more sustainable throughout time. 
+asr:0: OUTPUT 2783.00-2790.71: Even though if you take a look at the results that we have in Treasury for the last few years, they are quite good and sustainable. 
+asr:0: OUTPUT 2791.13-2799.72: I think that to achieve the level of returns that we are talking about for this year,. 
+asr:0: OUTPUT 2800.30-2807.57: Probably it's going to be more concentrated on second semester in terms of the growth of the portfolio. 
+asr:0: OUTPUT 2807.63-2812.93: To the mid-single digits that we have talked about within the guidance. 
+asr:0: OUTPUT 2813.03-2821.60: If you take our guidance and put it forward, probably you will arrive at the returns that we're talking about. 
+asr:0: OUTPUT 2823.12-2827.21: That's perfect. Super clear. Thank you very much. Thank you, Joao. 
+asr:0: OUTPUT 2830.19-2832.77: There are no further questions. Claudia, please go ahead. 
+asr:0: OUTPUT 2835.22-2844.99: Hello. We have two questions from the console that we will answer now. So the first question coming from Florencia Stefani with Lara in the audience. 
+asr:0: OUTPUT 2845.95-2854.25: And Florencia says, hi, Gabrielle, could you give us some guidance about the net income for this year and the evolution in coming years? 
+asr:0: OUTPUT 2857.72-2863.22: I think it is similar to the discussion that we had on the previous answers. 
+asr:0: OUTPUT 2863.66-2869.81: But I think it gives me the opportunity of making something clear. 
+asr:0: OUTPUT 2870.91-2875.92: I don't think that we are saying that. 
+asr:0: OUTPUT 2875.94-2884.12: We do believe that for the Chilean operation, even for the consolidated return of 20%-plus. 
+asr:0: OUTPUT 2884.24-2888.61: It's something that is sustainable, taking a look at the future of the bank. 
+asr:0: OUTPUT 2889.05-2902.22: In the same way, I think it's reasonable to say that the results that we went through over the last few years, given all the adjustments that we needed to do in the portfolio,. 
+asr:0: OUTPUT 2902.24-2907.17: Do not fully represent the potential value that we have for the bank. 
+asr:0: OUTPUT 2907.81-2912.59: So I think it's important to take a look at the balance of both things. 
+asr:0: OUTPUT 2912.91-2918.82: Because it's easy to somehow discontract the results that we are having this quarter. 
+asr:0: OUTPUT 2919.10-2923.36: But it's also important to take a look at the context of the results that we have in the past. 
+asr:0: OUTPUT 2924.40-2927.85: Seen the big picture, as we always mentioned. 
+asr:0: OUTPUT 2928.13-2935.96: I think for the Chilean operation, we can clearly see a result sustainable between 15% and 16% of return on tangible equity. 
+asr:0: OUTPUT 2937.42-2944.98: It's true that we have still to solve the Columbia operation. 
+asr:0: OUTPUT 2945.29-2954.13: As I mentioned before, we think that the Colombian operation is at least two years behind what we did in Chile. 
+asr:0: OUTPUT 2954.53-2964.44: I still think it's possible for the Colombian operation to converge to a return on tangible equity around 12%, which is the cost of equity that we assign to Colombia. 
+asr:0: OUTPUT 2964.70-2972.01: And given that the dilution, especially because we have around 20% of the assets,. 
+asr:0: OUTPUT 2972.03-2977.24: On the Colombian operation will be less than 2% on the overall picture. 
+asr:0: OUTPUT 2978.40-2981.22: I think it's important to see through the cycle. 
+asr:0: OUTPUT 2981.72-2990.17: In the same way that we were optimistic taking a look at the future when we did all the adjustments that was necessary for the bank. 
+asr:0: OUTPUT 2990.45-2994.49: During the pandemic and before the pandemic, mainly on the cost of credit. 
+asr:0: OUTPUT 2994.89-3001.58: I think it's possible and reasonable to have the same expectation that we have right now. 
+asr:0: OUTPUT 3002.00-3011.09: I do feel that we have a strong asset and that it's possible to achieve the results that we're seeing. 
+asr:0: OUTPUT 3011.59-3015.78: And I do feel that the transformation process that we are going through. 
+asr:0: OUTPUT 3016.52-3023.62: Will give strong base for this bank to continue to grow and maintain those levels throughout the future. 
+asr:0: OUTPUT 3026.95-3035.44: Thank you, Gabriel. We have one last question today coming from Felipe Torres at Bicecorp. Felipe says,. 
+asr:0: OUTPUT 3035.88-3042.88: Thanks for the presentation. Could you give us some guidance regarding loan growth, cost of risk,. 
+asr:0: OUTPUT 3042.90-3046.39: Means and net income regarding the Colombian operation? 
+asr:0: OUTPUT 3049.23-3056.38: Felipe, we do not disclose guidance for the Colombian operation. 
+asr:0: OUTPUT 3056.78-3062.62: Because we are still stabilizing the operation as we mentioned before. 
+asr:0: OUTPUT 3063.36-3071.29: It's hard for us to come up with some numbers for Colombia, given all the volatility that the bank has. 
+asr:0: OUTPUT 3071.33-3073.83: And also the volatility of the market. 
+asr:0: OUTPUT 3074.35-3076.20: Having said that,. 
+asr:0: OUTPUT 3076.22-3080.16: I think that the Colombian operation is experiencing. 
+asr:0: OUTPUT 3080.36-3089.61: The same effects that we saw in Chile, that all the work that was done throughout the past few years. 
+asr:0: OUTPUT 3089.85-3094.97: Are generating results. 
+asr:0: OUTPUT 3095.30-3099.78: It's much more stable given all the provisions that we did last year. 
+asr:0: OUTPUT 3099.98-3105.13: And the years before that as well. 
+asr:0: OUTPUT 3105.15-3111.01: We were able to grow expenses less than inflation and less than the market. 
+asr:0: OUTPUT 3111.83-3117.44: So those are two comments for cost of credit and also for expenses. 
+asr:0: OUTPUT 3117.86-3122.32: I think that the main volatility that we have is for income. 
+asr:0: OUTPUT 3122.70-3131.57: I think that we had a portfolio that didn't perform in terms of commercial performance as we would like. 
+asr:0: OUTPUT 3133.53-3145.81: Then again, I think that works in our favor in this moment that the relationship between risk and return is more opaque during the pandemic. 
+asr:0: OUTPUT 3145.85-3150.45: We didn't grow 25%. 
+asr:0: OUTPUT 3150.47-3156.86: Commercial portfolio as we saw some banks growing in Colombia in 2019. 
+asr:0: OUTPUT 3156.88-3166.47: I think that went in our favor. We also went out of some portfolios that we thought had higher risk. 
+asr:0: OUTPUT 3166.95-3175.96: We were able to adjust the bank in terms of its balance sheet and operational value. 
+asr:0: OUTPUT 3176.26-3179.18: And now we have to construct over this. 
+asr:0: OUTPUT 3180.08-3184.36: As we mentioned, we are thinking about how to better tackle this. 
+asr:0: OUTPUT 3185.19-3194.61: Probably the strategy that we had, which was a strategy based on being a universal bank for all segments. 
+asr:0: OUTPUT 3194.63-3195.98: In Colombia. 
+asr:0: OUTPUT 3197.02-3202.30: Is a strategy that it's very difficult to implement given the scale that we have. 
+asr:0: OUTPUT 3203.42-3209.27: And we would like more to focus on our operation in some specific segments. 
+asr:0: OUTPUT 3209.65-3216.70: Having said that, I think that's something that we can discuss a few months in the future as we work out the plan that we have. 
+asr:0: OUTPUT 3225.89-3231.19: This was our last question, Gabriel. So I think that you can take final remarks. 
+asr:0: OUTPUT 3233.01-3238.80: Brilliant. Thank you so much for your participation and for the questions that you have. 
+asr:0: OUTPUT 3239.06-3244.50: As always, Rodrigo, Claudia, and I, I'm always available for you. 
+asr:0: OUTPUT 3246.19-3251.67: I'm very positive with the year that we have, looking forward. 
+asr:0: OUTPUT 3251.97-3260.02: And also with all the changes that we are doing with the bank. I think that it's the beginning of a new chapter in our history. 
+asr:0: OUTPUT 3260.28-3265.11: And we will keep you updated as we move along. Thank you very much. 
+asr:0: OUTPUT 3269.89-3275.88: And with that, this concludes today's conference call. Thank you for attending. You may now disconnect. Presenters, please stand by. 
+asr:0: END

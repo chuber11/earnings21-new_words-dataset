@@ -1,0 +1,688 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 9.03-17.12: Good afternoon. Welcome everyone to Brasilagos Q1 2022 results conference call. 
+asr:0: OUTPUT 17.40-25.67: Today I'm here with Mr. André Guillaumont, CEO, and Mr. Gustavo Lopes, Administrative Officer and Investor Relations Officer. 
+asr:0: OUTPUT 26.15-30.35: The company's year begins on July 1st. 
+asr:0: OUTPUT 31.29-39.24: So that is why we are reporting Q1, the three months that ended on September 30th, 2021. 
+asr:0: OUTPUT 41.24-45.79: Well, this transmission is being recorded. 
+asr:0: OUTPUT 46.23-53.15: It is transmitted at our website and also on YouTube. And here we're talking about estimates and declarations. 
+asr:0: OUTPUT 55.24-63.12: Concerning the business perspectives of the companies, projections, operational goals based on. 
+asr:0: OUTPUT 65.81-72.31: Now I would like to pass the floor to Mr. Andre to begin our presentation. 
+asr:0: OUTPUT 72.83-79.06: Thank you. Thank you, Gustavo, to all of you who are here in our conference calls. 
+asr:0: OUTPUT 79.32-88.75: It's a great pleasure to be sharing with you good news. Even before I arrived, I asked the team, gee. 
+asr:0: OUTPUT 89.17-96.20: Where are we going to have our bar? We're raising the bar of the results during this quarter. 
+asr:0: OUTPUT 97.40-104.58: Would are the same as the ones that we would celebrate as the year's results. So the company is on a new level. 
+asr:0: OUTPUT 105.35-111.01: We have a better prepared company in terms of real estate and operations. 
+asr:0: OUTPUT 111.51-117.32: It is a company that is totally different today. So we will begin with the highlights of our quarter. 
+asr:0: OUTPUT 117.80-122.40: And then, as usual, we will be open to have our Q&A. 
+asr:0: OUTPUT 124.70-130.31: Well, those who are sharing, let's begin with the first slide. 
+asr:0: OUTPUT 132.79-139.68: Okay, the highlights that we bring here for Q1. 
+asr:0: OUTPUT 140.00-145.89: As Anna reminded us very well, this is Q1 which began on July 1st. 
+asr:0: OUTPUT 146.25-151.03: We had a net revenue of $378 million in this period. 
+asr:0: OUTPUT 151.65-160.04: We had a net profit of $107.9 million and an adjusted EBIT of $190.6 million. 
+asr:0: OUTPUT 160.94-170.59: The estimate for the harvest that we are ending, the numbers, 2.6 million tons of grains. 
+asr:0: OUTPUT 170.61-172.93: Cotton and sugar cane. 
+asr:0: OUTPUT 174.03-179.72: 168,000 hectares in production. 
+asr:0: OUTPUT 180.66-184.12: And now we have the excellent news. 
+asr:0: OUTPUT 184.14-193.15: That we gave in the last meetings of the company concerning the General Assembly on October 27. 
+asr:0: OUTPUT 193.69-197.78: The approval for a record dividend payment. 
+asr:0: OUTPUT 198.38-206.25: 260 million in dividends for the previous year, 2.62 Reais per share. 
+asr:0: OUTPUT 206.69-210.53: So, always bringing to the investor. 
+asr:0: OUTPUT 210.81-215.62: Last year was a great investment if we consider. 
+asr:0: OUTPUT 215.64-219.24: The appraisal of our shares. 
+asr:0: OUTPUT 219.26-226.49: And also the size of the dividend that we are paying that will represent approximately 9% this year. 
+asr:0: OUTPUT 226.57-230.47: 9%. Next slide. 
+asr:0: OUTPUT 231.23-240.00: Well, in the highlights in the last call, or the call before last, we said, we are in the. 
+asr:0: OUTPUT 241.00-243.20: We are sellers. 
+asr:0: OUTPUT 243.88-250.17: We are working on purchases too. In the last call... 
+asr:0: OUTPUT 251.05-254.92: We already had these two transactions in progress. 
+asr:0: OUTPUT 255.42-263.00: The negotiations in progress and during Q1 we finalized the sale of these two farms. 
+asr:0: OUTPUT 263.52-270.05: I'd like to remind you last year when we talked about 260 million in dividends. 
+asr:0: OUTPUT 270.35-274.97: They are linked to an excellent operational result. 
+asr:0: OUTPUT 275.06-281.06: Last year and a small part of this came from the sale of farms, real estate. 
+asr:0: OUTPUT 281.44-289.77: Here we already have relevant results from the sale of real estate. The first sale is Rio do Meio. 
+asr:0: OUTPUT 290.77-299.00: Those who have been with us for a short time, this came from the acquisition that we made from AgriFirmas. 
+asr:0: OUTPUT 299.62-304.36: We acquired two farms, Bila Dumein Rojadin, and we're selling a third. 
+asr:0: OUTPUT 304.86-313.51: This farm has approximately 8,000 hectares and we're selling 2,800. 
+asr:0: OUTPUT 314.39-317.68: We acquired this recently, January 2020. 
+asr:0: OUTPUT 317.72-320.24: The value of the transaction. 
+asr:0: OUTPUT 321.16-330.75: The NAB, this one-third of the farm represents the value of the whole acquisition of the farm. 
+asr:0: OUTPUT 330.79-338.36: So this shows the potential and of value generation that the company has in terms of real estate results. 
+asr:0: OUTPUT 339.56-345.23: The second sale, the most important sale of the company,. 
+asr:0: OUTPUT 345.25-351.23: Higher volume, 589 million Reais. 
+asr:0: OUTPUT 351.77-360.18: And also we told the market about a firm that we acquired in the past in 2006. 
+asr:0: OUTPUT 361.92-363.28: 2006. 
+asr:0: OUTPUT 363.70-371.69: Worth 10,000 per hectare and now we're selling at 150,000, 160,000 per hectare. 
+asr:0: OUTPUT 372.23-377.78: And I would like to mention two fundamental points for you. 
+asr:0: OUTPUT 379.68-382.54: This sale will be recorded. 
+asr:0: OUTPUT 382.56-391.23: Both the first sale, Rio de Mayo, and the second will be recorded in our accounting during the next quarter. 
+asr:0: OUTPUT 391.63-393.77: And the sail about Taquari. 
+asr:0: OUTPUT 393.79-397.56: Has a different recording different postings. 
+asr:0: OUTPUT 397.90-407.67: We sold 2,700 hectares, and this sale of 2,700 hectares we will record in two moments. 
+asr:0: OUTPUT 407.93-412.07: When we deliver, we will deliver. 
+asr:0: OUTPUT 412.33-418.98: 1,500 hectares initially, and we will record this part. 
+asr:0: OUTPUT 419.36-421.88: This result on the 1,500 hectares. 
+asr:0: OUTPUT 422.14-424.94: What will we do with the other 1200 hectares? 
+asr:0: OUTPUT 425.29-426.97: We will continue exploring. 
+asr:0: OUTPUT 427.17-429.03: It has sugar cane. 
+asr:0: OUTPUT 429.11-432.05: We will continue. 
+asr:0: OUTPUT 432.07-440.10: Until the harvest of 2023 and then we will deliver the second part and then we will record the sale. 
+asr:0: OUTPUT 440.64-446.41: So this is how we do our accounting. Next slide, please. 
+asr:0: OUTPUT 448.07-451.69: Well, what I'd like to see here, two points. 
+asr:0: OUTPUT 451.81-459.14: First, the company's capacity to increase its operational area. 
+asr:0: OUTPUT 459.48-464.36: Even being a very efficient company in terms of the sale of real estate. 
+asr:0: OUTPUT 464.72-471.21: So if we look year after year, we have a growth of 10% of the cultivated area, planted area. 
+asr:0: OUTPUT 471.63-479.38: And this comes from our own land, leased land, development of land, but shows to you investors, those who follow us,. 
+asr:0: OUTPUT 479.48-487.53: The capacity to increase more and more operational results in an efficient way and in a safe way. 
+asr:0: OUTPUT 487.95-493.89: The graph. Also, beside you shows the breakdown of the types of crops. I'd like to call your attention. 
+asr:0: OUTPUT 494.75-497.92: Basically in the harvest 21-22. 
+asr:0: OUTPUT 498.22-505.81: We are increasing the cultivated area of winter crop for corn, corn winter crop. 
+asr:0: OUTPUT 506.15-508.29: Later on, we will talk about prices. 
+asr:0: OUTPUT 508.63-516.30: So we see an optimistic scenario for winter corn. 
+asr:0: OUTPUT 517.14-526.91: And also more and more maintaining products that have more added value, maintaining the areas with beans. 
+asr:0: OUTPUT 529.29-535.92: Well, here we have a summary we will throw in production. 
+asr:0: OUTPUT 537.04-542.68: Here we see 2021 and what we're estimating for 2022 harvest. 
+asr:0: OUTPUT 543.22-550.21: Soybean, an important increase from 173,000 tons to 196,000 tons. 
+asr:0: OUTPUT 550.63-557.44: Winter corn, the most important leap. Some areas were intensifying. 
+asr:0: OUTPUT 557.46-562.82: The planting of corn because of the prices that you are following. 
+asr:0: OUTPUT 563.34-566.45: So corn, winter crop. 
+asr:0: OUTPUT 566.81-575.38: Here we see also in other areas in Bahia, for example. 
+asr:0: OUTPUT 576.32-584.18: And here we see an overlap of winter corn and corn. 
+asr:0: OUTPUT 585.15-589.73: And here we can continue seeing the numbers. 
+asr:0: OUTPUT 589.95-596.50: We have the crop, we had some drought in Mato Grosso and in the northeast. 
+asr:0: OUTPUT 596.84-600.10: So the winter crop has an increase. 
+asr:0: OUTPUT 600.58-609.33: But it does not refer to the area. It refers to a recovery or maintenance of our normal. 
+asr:0: OUTPUT 609.45-610.75: Results. 
+asr:0: OUTPUT 611.99-613.63: When we look. 
+asr:0: OUTPUT 613.65-623.20: Year after year, when we look at total growth in production, we went from 287 to 398,000 tons. 
+asr:0: OUTPUT 624.06-627.95: Last column. Well, this is a thermometer. 
+asr:0: OUTPUT 628.23-636.72: This is a new slide, and Apollo prepared this. It's very good to show. First, on the graph below. 
+asr:0: OUTPUT 637.38-643.68: Here, the graph below represents the ideal window for planting. 
+asr:0: OUTPUT 644.32-653.65: This is a picture of the company. We'd like to remind you that these numbers are from Friday. So we can see here. 
+asr:0: OUTPUT 654.33-656.08: The amount planted. 
+asr:0: OUTPUT 656.70-665.63: Also another point, we have operations in Mato Grosso, part of the plant with soybean is in the northeast. 
+asr:0: OUTPUT 666.15-668.87: It is a window that is different from Mato Grosso. 
+asr:0: OUTPUT 670.97-679.62: And there we are also seeing the results from Xingu too. 
+asr:0: OUTPUT 682.08-684.12: We will continue. 
+asr:0: OUTPUT 685.27-687.09: And. 
+asr:0: OUTPUT 687.89-697.06: We can see here the results soybean, corn, cotton and beans in the harvest 2021-2022. 
+asr:0: OUTPUT 697.16-705.31: Thank you. 
+asr:0: OUTPUT 725.25-732.99: We can also see here 2021 and 22 harvest year in cattle raising. 
+asr:0: OUTPUT 734.55-739.54: We can see here cattle heads, pasture, and ADG. 
+asr:0: OUTPUT 742.60-750.69: So, beans, we have some of the results ready and by your next, please. 
+asr:0: OUTPUT 752.81-758.96: Well, here sugar cane. I would like to say that. 
+asr:0: OUTPUT 759.68-765.53: We see a great evolution in the number. 
+asr:0: OUTPUT 768.87-778.84: You can see here the production in thousands of tons and the number of hectares for sugarcane, then the harvest area. 
+asr:0: OUTPUT 779.48-780.88: And the number of tons. 
+asr:0: OUTPUT 781.46-782.48: The. 
+asr:0: OUTPUT 786.87-796.58: Here we see the difference between the estimates and the actual numbers for sugarcane. 
+asr:0: OUTPUT 806.35-815.78: I'm going to go ahead and close the window. 
+asr:0: OUTPUT 816.46-820.72: That's the hurdle. 
+asr:0: OUTPUT 831.23-832.33: Okay. 
+asr:0: OUTPUT 834.27-839.06: The. 
+asr:0: OUTPUT 839.50-849.23: Sugarcane was not affected by the drought. We have irrigation through our agreement with Agrocele. 
+asr:0: OUTPUT 849.53-851.39: And in the case of the Midwest... 
+asr:0: OUTPUT 851.75-854.77: It is not irrigated but the risk is much smaller. 
+asr:0: OUTPUT 855.50-860.96: So when we look at Brazil agro and Brazil in sugar cane. 
+asr:0: OUTPUT 861.88-867.47: We have almost 580, 590, which is. 
+asr:0: OUTPUT 867.97-877.34: And we see the harvest at the end of now with 520,000 tons the company had a drop. 
+asr:0: OUTPUT 877.50-879.10: More. 
+asr:0: OUTPUT 911.63-914.59: And understanding the capabilities, generation, and results. 
+asr:0: OUTPUT 915.06-924.02: Here we see the generation of results, bringing a lot of results from real estate sales. So what did we do here? 
+asr:0: OUTPUT 924.72-933.09: So during a time of spectacular prices, we have to maximize our inventory. 
+asr:0: OUTPUT 933.41-935.42: We had an inventory of cattle. 
+asr:0: OUTPUT 935.52-944.72: At a low price last year, we had a good strategy to decrease the volume to be more aggressive in sales, generating results. 
+asr:0: OUTPUT 944.97-953.17: And apart from all of this, we generated spectacular results in the business units when we closed on June 30. 
+asr:0: OUTPUT 953.45-955.26: And this is a picture now. 
+asr:0: OUTPUT 956.98-963.30: The 2020, we had a GMD, the highest in history. 
+asr:0: OUTPUT 964.04-969.69: Maybe part of this comes from a lower load when you... 
+asr:0: OUTPUT 971.83-979.40: So, with less pressure in the pasture land and GMD had. 
+asr:0: OUTPUT 979.42-987.53: Again, we gained 500 grams of GMD, very similar to the mark that we're estimating now. 
+asr:0: OUTPUT 987.55-990.37: The closing with zero seven. 
+asr:0: OUTPUT 990.73-999.50: This is what places the company as an excellent producer of sugarcane, excellent producer of beef, and other. 
+asr:0: OUTPUT 999.66-1000.78: Also with their crops. 
+asr:0: OUTPUT 1001.52-1018.88: Here what I'd like to stress is the company's capacity, resilience of the company to move this inventory, capture the good prices, and the last bubble, the last slide shows that cattle raising in the company is being done with. 
+asr:0: OUTPUT 1018.90-1020.38: A lot of... 
+asr:0: OUTPUT 1020.40-1024.50: Operational results and good techniques. Next slide, please. 
+asr:0: OUTPUT 1025.69-1030.49: Well, here we're talking about the current. 
+asr:0: OUTPUT 1030.51-1032.41: Harvest. 
+asr:0: OUTPUT 1033.15-1041.82: And here, I'd like to repeat this, we're always with a good contribution margin, what we expect per hectare. 
+asr:0: OUTPUT 1042.04-1047.79: So we have a moral obligation to make progress every time we have a good contribution margin. 
+asr:0: OUTPUT 1048.13-1054.39: And depending on the price of sale, we're always looking at contribution margin, the difference. 
+asr:0: OUTPUT 1054.41-1059.94: Of between sale and cost on this date. 
+asr:0: OUTPUT 1062.94-1070.41: We can see the amount of corn sold at a price of 66.96. 
+asr:0: OUTPUT 1070.79-1074.99: Most of the corn production is winter crop. 
+asr:0: OUTPUT 1075.18-1084.74: So here we have a mix of prices between corn in the northeast, then in the midwest,. 
+asr:0: OUTPUT 1085.85-1088.89: So we have 50% of the next harvest. 
+asr:0: OUTPUT 1089.33-1095.96: When we look at this in comparison with last year, with the same mix,. 
+asr:0: OUTPUT 1096.62-1099.64: 50 Reis and now 67 Reis. 
+asr:0: OUTPUT 1100.32-1102.20: At the bottom we see soybeans. 
+asr:0: OUTPUT 1103.76-1110.09: We're also making progress in soybeans. 
+asr:0: OUTPUT 1110.85-1119.04: Here we can see the main figures, revenues from operations, when we look at the future, and the exchange rates. 
+asr:0: OUTPUT 1120.32-1127.87: Closing at 5.57 reais per dollar. 
+asr:0: OUTPUT 1128.09-1136.92: A little higher than the previous harvest when we had 5.51 Riyals per dollar. 
+asr:0: OUTPUT 1137.16-1147.23: This will help us with an even more robust result this year because we have prices that are higher than last year for the grain. 
+asr:0: OUTPUT 1147.29-1149.17: The last line is cotton. 
+asr:0: OUTPUT 1149.75-1156.74: Where we have progress, an important progress, 68% in sales. 
+asr:0: OUTPUT 1156.80-1162.10: In relation to the previous harvest, actually in relation to this harvest. 
+asr:0: OUTPUT 1162.18-1165.91: With a price of 163 Reais. 
+asr:0: OUTPUT 1166.03-1170.85: When we look at the price of the previous, it was at 108 reais. 
+asr:0: OUTPUT 1171.59-1180.00: And you will see we also intensified the area with cotton this year. We had an important increase. 
+asr:0: OUTPUT 1180.48-1186.35: Due to what we can see in terms of margin for cotton. Next slide. 
+asr:0: OUTPUT 1188.75-1196.36: Well, here I'd like to pass the floor to Gustavo to talk about the numbers, and then we will be back. 
+asr:0: OUTPUT 1198.76-1200.94: Thank you, Andre. Good afternoon. 
+asr:0: OUTPUT 1201.72-1205.13: Here we're showing. 
+asr:0: OUTPUT 1205.63-1213.15: The main numbers of the quarter as Anna mentioned. 
+asr:0: OUTPUT 1214.43-1223.14: And our, this is the year until June 30 next year, and here what we can see an increase. 
+asr:0: OUTPUT 1223.78-1227.15: Of 83% in net revenue of the company. 
+asr:0: OUTPUT 1227.67-1234.43: We see a net profit 107 million reais, 43% above last year. 
+asr:0: OUTPUT 1235.50-1238.22: And it's important to stress. 
+asr:0: OUTPUT 1240.00-1247.57: And the increase in price for corn, soybean, and especially in sugarcane. 
+asr:0: OUTPUT 1247.91-1251.33: Is what leveraged all these results. 
+asr:0: OUTPUT 1253.21-1257.16: It's important to mention that during this quarter,. 
+asr:0: OUTPUT 1257.18-1263.48: We harvested almost 1 million tons of sugar cane. 
+asr:0: OUTPUT 1263.66-1265.99: And. 
+asr:0: OUTPUT 1266.97-1268.65: We should expect. 
+asr:0: OUTPUT 1270.53-1276.20: Results that will continue to come in from sugar cane. 
+asr:0: OUTPUT 1276.80-1285.53: And our expectation is that the price increases will continue leveraging or improving the operational results. 
+asr:0: OUTPUT 1286.37-1288.47: When we look at a just a day bidder. 
+asr:0: OUTPUT 1290.25-1296.68: And this shows the performance. 
+asr:0: OUTPUT 1299.08-1306.21: And here we include derivatives as Andrei mentioned in the previous page. 
+asr:0: OUTPUT 1308.57-1313.99: So we see 190 million. 
+asr:0: OUTPUT 1314.87-1316.58: Reyes last year. 
+asr:0: OUTPUT 1318.14-1321.62: We had a sale. 
+asr:0: OUTPUT 1322.50-1328.89: And this year we're expecting for next quarter to record the sale. 
+asr:0: OUTPUT 1329.69-1336.50: Of Rio de Janeiro farm and part of the second farm, as Andre mentioned. 
+asr:0: OUTPUT 1338.62-1343.24: On the next page, here. 
+asr:0: OUTPUT 1344.84-1353.33: The highlight is the 190 million Reais. We see adjusted a bit to here last year. 
+asr:0: OUTPUT 1354.91-1356.30: Here we see. 
+asr:0: OUTPUT 1357.76-1360.60: The price of sugarcane which almost doubled. 
+asr:0: OUTPUT 1361.46-1366.39: Last year we had 68 RPM per kilogram. 
+asr:0: OUTPUT 1366.81-1369.05: Now it's 130, 135. 
+asr:0: OUTPUT 1369.35-1377.54: Reminding you that there is an expectation in the market to close at 196, 195. 
+asr:0: OUTPUT 1377.60-1383.70: And we have a premium of 20% in the contract with Saint-Joseph. 
+asr:0: OUTPUT 1385.99-1390.01: The weight. 
+asr:0: OUTPUT 1390.63-1396.42: Of sugar cane this year from sugar cane will be much higher. 
+asr:0: OUTPUT 1398.52-1403.96: Than before. Reminding here in the case of soybean and cotton. 
+asr:0: OUTPUT 1403.98-1410.09: We're selling the inventory of the harvest that we collected recently. 
+asr:0: OUTPUT 1412.45-1420.84: And with prices in soybean 45% higher and in the case of corn 32%. 
+asr:0: OUTPUT 1422.22-1424.34: So, will you reinforce? 
+asr:0: OUTPUT 1424.44-1435.48: We're expecting an EBITDA that will be very similar to that of June 30 last year, but the impact in the price of sugar came. 
+asr:0: OUTPUT 1435.52-1440.66: Will provoke a significant increase. 
+asr:0: OUTPUT 1442.06-1443.18: On the next page. 
+asr:0: OUTPUT 1444.34-1447.15: We can see here the companies. 
+asr:0: OUTPUT 1448.37-1455.74: Numbers we continue with a year-end report that is stable, strong. 
+asr:0: OUTPUT 1455.90-1459.26: We see here assets. 
+asr:0: OUTPUT 1459.34-1461.22: 4.1%. 
+asr:0: OUTPUT 1462.36-1470.01: Also, the company's cash on September 30th. 
+asr:0: OUTPUT 1470.07-1473.15: It had an increase in relation to June 30. 
+asr:0: OUTPUT 1473.67-1478.88: Because we're selling the inventory of soybean and corn. 
+asr:0: OUTPUT 1479.12-1488.65: It's important to say that accounts receivables, accounts receivable short-term, long-term, 400 million Reais,. 
+asr:0: OUTPUT 1488.93-1497.18: Due to the sale of farms, here we're including receivables of the new farms. 
+asr:0: OUTPUT 1497.96-1502.46: That we sold and we will record in the next quarter. 
+asr:0: OUTPUT 1502.90-1510.73: We see also property for investment, the company's farms, one billion reais. 
+asr:0: OUTPUT 1511.85-1517.86: And we see cash, total indebtedness, and. 
+asr:0: OUTPUT 1519.08-1523.58: And we will see more details on the next page. While here... 
+asr:0: OUTPUT 1525.75-1534.63: We see in terms of short term, 325 million riyals, short term debts, long term 300 million riyals. 
+asr:0: OUTPUT 1534.93-1537.90: Total 626 million reais. 
+asr:0: OUTPUT 1538.72-1541.94: 5% lower than on June 30th. 
+asr:0: OUTPUT 1542.84-1551.17: One objective we had in the past that we mentioned to you, to have a longer debt,. 
+asr:0: OUTPUT 1552.37-1554.47: 240 million. 
+asr:0: OUTPUT 1556.28-1558.24: We have for five years. 
+asr:0: OUTPUT 1558.82-1566.91: And 300 million reais, which is what we need to plant and the company's operation. 
+asr:0: OUTPUT 1567.55-1572.59: So this, we are working to renew these deaths. 
+asr:0: OUTPUT 1573.63-1583.46: When we consider the gross debt, adjusted gross debt or net gross debt, in net. 
+asr:0: OUTPUT 1583.50-1584.84: Gross Dads? 
+asr:0: OUTPUT 1585.15-1586.43: We see it's negative. 
+asr:0: OUTPUT 1587.81-1595.12: But we expect to make some investments, especially. 
+asr:0: OUTPUT 1596.68-1600.00: In purchasing farms. 
+asr:0: OUTPUT 1600.56-1604.93: Transformation of areas that we have in the land bank. 
+asr:0: OUTPUT 1607.13-1609.49: And we will be very careful. 
+asr:0: OUTPUT 1610.61-1613.73: With the company's cash, but. 
+asr:0: OUTPUT 1615.76-1618.44: During these times of volatility we know. 
+asr:0: OUTPUT 1618.72-1624.82: But we're trying instruments to maintain. 
+asr:0: OUTPUT 1624.86-1630.81: The company's numbers, the company's debt at reasonable levels. 
+asr:0: OUTPUT 1631.19-1634.39: Here we have the cost 8.5%. 
+asr:0: OUTPUT 1634.51-1642.30: If we consider the future curves and interest rates. On the next page, here,. 
+asr:0: OUTPUT 1644.46-1646.65: This is, we'd like to. 
+asr:0: OUTPUT 1646.69-1655.12: Say that the General Assembly approved the payment of 260 million reais in dividends, we will... 
+asr:0: OUTPUT 1655.98-1660.94: Pay on the 10th after tomorrow, November 10th after tomorrow. 
+asr:0: OUTPUT 1661.14-1669.17: And here I'd like to stress that although we don't have a clear dividend policy,. 
+asr:0: OUTPUT 1669.39-1676.72: The objective of the company is. 
+asr:0: OUTPUT 1677.50-1679.96: No, no, no, no. 
+asr:0: OUTPUT 1680.90-1685.63: To have a dividend yield of 5.3%. 
+asr:0: OUTPUT 1686.15-1689.65: So this is what we will have as a goal. 
+asr:0: OUTPUT 1689.91-1694.43: On the next page, we will see. 
+asr:0: OUTPUT 1695.70-1701.18: Net asset value 3.2 million Reais. 
+asr:0: OUTPUT 1703.12-1710.71: Here, this is the cost, these are the numbers, these numbers reflect the cost. 
+asr:0: OUTPUT 1711.87-1721.06: The value of the property of the company with an internal evaluation lower than that of Deloitte's evaluation. 
+asr:0: OUTPUT 1722.14-1728.97: Deloitte had said 3.4 billion reais. 
+asr:0: OUTPUT 1729.75-1734.81: The net value of the company 4.3, 4.4 billion Reais. 
+asr:0: OUTPUT 1735.20-1739.80: And with the number of shares. 
+asr:0: OUTPUT 1739.82-1745.37: 42.75, 42.75 rai per share. 
+asr:0: OUTPUT 1746.41-1748.19: So once again,. 
+asr:0: OUTPUT 1748.65-1758.64: We like to talk about the great potential for Upside and we invite you to continue to invest in our company. 
+asr:0: OUTPUT 1761.46-1765.43: On the next page, the last slide. 
+asr:0: OUTPUT 1766.09-1767.67: We see an evolution. 
+asr:0: OUTPUT 1768.57-1776.46: Of the stock market and our share, Agro 3. 
+asr:0: OUTPUT 1777.88-1779.12: On November 4th. 
+asr:0: OUTPUT 1782.98-1787.17: Here we show the performance of the company. 
+asr:0: OUTPUT 1788.57-1795.04: So this is the market is booming for agribusiness and the company too. 
+asr:0: OUTPUT 1795.60-1804.18: With positive results, so we believe that our company is excellent opportunity for investments. 
+asr:0: OUTPUT 1804.52-1809.55: We thank you for participating and now we will go on to the Q&A session. 
+asr:0: OUTPUT 1817.12-1823.40: While reminding you, if you have a question, please, through the webcast in writing,. 
+asr:0: OUTPUT 1824.94-1828.95: We're receiving the questions here and I will read them. 
+asr:0: OUTPUT 1851.93-1859.72: The first question, Carlos Herrera, what is the difference between NAV and price of shares? 
+asr:0: OUTPUT 1860.40-1861.72: 68%. 
+asr:0: OUTPUT 1862.04-1870.79: Do you see opportunities to buy back shares? Carlos. 
+asr:0: OUTPUT 1874.83-1878.14: Looking, of course. 
+asr:0: OUTPUT 1879.40-1883.16: We have an important gap. 
+asr:0: OUTPUT 1883.28-1891.29: But we have worked to increase the shareholder base, to increase the free flow of the company. 
+asr:0: OUTPUT 1891.91-1895.44: I'd like to remind you before the pre-follow-on. 
+asr:0: OUTPUT 1895.76-1904.90: We traded 1 to 2 million and since the follow on 25 to 30 million are being traded every day. 
+asr:0: OUTPUT 1905.27-1906.59: We monitor this. 
+asr:0: OUTPUT 1906.95-1916.48: And when we believe this will make sense, yes, we will approve that through the counsel of the company, the company's counsel today. 
+asr:0: OUTPUT 1918.46-1926.17: We consider the evaluation of the properties, it's as if it were worth 1.5 billion. 
+asr:0: OUTPUT 1926.63-1929.67: And we know we have a portfolio of 3.4 billion. 
+asr:0: OUTPUT 1930.29-1939.78: So we are now having the farms that are the cheapest in the Brazilian market. 
+asr:0: OUTPUT 1939.98-1947.15: We're looking to see if there are opportunities to launch a new program. 
+asr:0: OUTPUT 1947.27-1952.73: Maybe not with such high volumes, but we might buy back shares. 
+asr:0: OUTPUT 1954.99-1958.38: To show to the market the value of the shares. 
+asr:0: OUTPUT 1959.06-1960.18: Also, Carlos. 
+asr:0: OUTPUT 1961.00-1968.51: The resources that we're raising with the sale of farms. How will we use these resources? 
+asr:0: OUTPUT 1969.01-1972.59: Will it be used to pay dividends, the sale of farms? 
+asr:0: OUTPUT 1974.09-1980.00: Carlos, a good question. It's important to stress. 
+asr:0: OUTPUT 1980.54-1984.58: The company in the sale of farms. 
+asr:0: OUTPUT 1985.23-1993.95: We have a lower cost of capital than the producer. So we can finance the transaction. 
+asr:0: OUTPUT 1994.67-2002.80: So in purchases we're more aggressive with cash purchases. 
+asr:0: OUTPUT 2003.86-2007.75: Because we have a cost of capital that makes sense. 
+asr:0: OUTPUT 2007.93-2011.43: So I would say to you that first, it's important to stress. 
+asr:0: OUTPUT 2011.83-2021.46: These sales were made with a duration of 2.5 in one transaction, 2.9 in the other. 
+asr:0: OUTPUT 2022.06-2029.01: Approximately 2.5, 2.6, so the revenue from these transactions. 
+asr:0: OUTPUT 2029.71-2030.83: I'd like to stress. 
+asr:0: OUTPUT 2031.13-2033.31: The sale of taquari was made. 
+asr:0: OUTPUT 2033.33-2042.78: In two times, it will be recorded in two instances. We should record 330 million during this year. 
+asr:0: OUTPUT 2043.10-2046.67: And the remainder, the 590 million,. 
+asr:0: OUTPUT 2046.69-2054.71: Only in 2024 and the sale of Rio do Meio should also be recorded. 
+asr:0: OUTPUT 2054.91-2059.72: But it is also sold in installments. 
+asr:0: OUTPUT 2059.96-2069.45: So I joke, we buy with down payments cash and we sell in installments. 
+asr:0: OUTPUT 2069.67-2078.68: This will give us a result. Gustavo showed us how we're showing the results of Q1 with higher prices, better results. 
+asr:0: OUTPUT 2079.36-2086.91: And different from last year, right Carlos? Last year we had very few sales of real estate in the company's results. 
+asr:0: OUTPUT 2087.39-2092.29: So the company will be aggressive once again due to the results we will have. 
+asr:0: OUTPUT 2092.69-2099.70: And I always say, with good opportunities, we will buy farms without good opportunities. 
+asr:0: OUTPUT 2099.72-2108.95: Or limited opportunities, we will be aggressive in distributing dividends to our shareholders. 
+asr:0: OUTPUT 2109.33-2114.81: But we should have an even more robust result than last year. Thank you, Carlos. 
+asr:0: OUTPUT 2115.94-2125.29: We also had a question from Damien in line with the previous question concerning the buyback of shares. 
+asr:0: OUTPUT 2127.13-2129.97: So I believe we have already... 
+asr:0: OUTPUT 2130.85-2138.36: Answer now Vitor Saragiotou-Credisuiz. He says congratulations for the results. 
+asr:0: OUTPUT 2139.02-2147.29: And many concerns in relation to the price of fertilizer that went up during the last months. 
+asr:0: OUTPUT 2147.99-2154.83: So do you have delays in the delivery of fertilizer for this harvest? Oh. 
+asr:0: OUTPUT 2156.08-2160.06: I was in Xingu this week, I came back on Saturday. 
+asr:0: OUTPUT 2161.70-2168.49: It's a pity that it's not live. We were there. We went to visit large areas of the region. We were very happy with what we saw. 
+asr:0: OUTPUT 2168.85-2173.21: So we had operations, we went to look at new areas for acquisitions. 
+asr:0: OUTPUT 2173.67-2181.94: And you did not go with me. We are always inviting you to come to go with us to Shingle. But going back to your question,. 
+asr:0: OUTPUT 2183.14-2187.51: We are following the price of fertilizer. 
+asr:0: OUTPUT 2188.39-2195.18: I believe it's very important to see the results, how things are happening. 
+asr:0: OUTPUT 2195.58-2200.64: The fertilizer industry, phosphate or nitrogen. 
+asr:0: OUTPUT 2200.70-2206.19: Most of it is born from natural gas. You produce natural gas. 
+asr:0: OUTPUT 2207.31-2215.62: I also have this. So you have to produce also from nitrogen urea. 
+asr:0: OUTPUT 2216.04-2220.80: And with nitrogen, urea or ammonia and natural gas. 
+asr:0: OUTPUT 2221.82-2226.85: This is the raw material for phosphate based fertilizer. 
+asr:0: OUTPUT 2227.17-2234.81: So being frank, we don't believe in a price drop for fertilizers in the next six months. Why six months? 
+asr:0: OUTPUT 2235.56-2243.66: Because we are now at a time of greater consumption of natural gas in the world. 
+asr:0: OUTPUT 2244.44-2248.33: Due to the winter in the northern hemisphere. 
+asr:0: OUTPUT 2248.59-2255.40: So in December January we have the highest consumption of natural gas for heating homes. 
+asr:0: OUTPUT 2256.04-2264.20: So we have a competitor. This always happens every year. And now we have very high prices for natural gas. 
+asr:0: OUTPUT 2265.03-2268.61: You can see the prices, the price of natural gas. 
+asr:0: OUTPUT 2269.43-2275.54: But in Europe too the price of natural gas went up 208% in the last six months. 
+asr:0: OUTPUT 2276.20-2278.94: So it's fundamental to see this industry in this way. 
+asr:0: OUTPUT 2279.36-2285.45: The fertilizer industry on a global level has raw materials. 
+asr:0: OUTPUT 2286.13-2293.77: I know that many potassium plants will begin producing, phosphate plants will begin producing. 
+asr:0: OUTPUT 2294.33-2300.62: And in terms of nitrogen, we have this great concern with gas, which has a direct effect. 
+asr:0: OUTPUT 2301.16-2302.80: So the way we see it, Victor,. 
+asr:0: OUTPUT 2303.16-2310.11: There will be an impact, an important impact for Brazil in terms of the second. 
+asr:0: OUTPUT 2310.13-2318.86: Crop, the winter crop, same for a Brazil Agro, we're projecting this in our numbers, an important impact for the second crop. 
+asr:0: OUTPUT 2320.00-2327.71: For the previous one, we have all the fertilizer bots. 
+asr:0: OUTPUT 2328.15-2335.10: So we have a crop with the previous prices, but they will go up. 
+asr:0: OUTPUT 2335.62-2345.43: It's important to see when we look at the price of last year, the price of sale for this harvest, we're expecting very positive margins for us. 
+asr:0: OUTPUT 2345.97-2351.23: The great question in the market is what will happen in the future from now on. 
+asr:0: OUTPUT 2351.69-2357.20: We're looking at fertilizer but also agrochemicals with increases in U.S. Currency. 
+asr:0: OUTPUT 2357.60-2364.30: We're talking about increases in dollars, 10 to 15 percent depending on the chemical. 
+asr:0: OUTPUT 2364.70-2368.87: So it's a, we have to be careful. 
+asr:0: OUTPUT 2369.59-2377.30: There are many consequences for the increase in prices in chemicals. Fertilizer. 
+asr:0: OUTPUT 2377.72-2381.92: Is based on the increase in the price of natural gas. 
+asr:0: OUTPUT 2382.88-2386.99: So this is for the harvest 22-23, we're monitoring. 
+asr:0: OUTPUT 2387.33-2393.43: We're already monitoring this victory, as I always say, when we believe that. 
+asr:0: OUTPUT 2393.45-2401.16: There is something to do. We are making decisions. Fertilizers, nothing yet, but agrochemicals, yes. 
+asr:0: OUTPUT 2401.64-2405.71: We have already, we already have a strategy. 
+asr:0: OUTPUT 2406.85-2410.87: In terms of logistics, no problems until now. 
+asr:0: OUTPUT 2411.31-2419.12: Gustavo reminded us we put pressure for delivery until now, no problems, no lack of fertilizer. 
+asr:0: OUTPUT 2419.48-2427.69: All our fertilizers for this that was planted from October to December is already. 
+asr:0: OUTPUT 2427.71-2429.53: In. 
+asr:0: OUTPUT 2429.55-2431.91: In our properties. 
+asr:0: OUTPUT 2432.23-2436.82: Winter crop we bought most of it. There is a part in nitrogen to buy. 
+asr:0: OUTPUT 2437.20-2443.60: But phosphate, I was looking this week and I said, why so much fertilizers here? 
+asr:0: OUTPUT 2443.96-2451.55: And they said, no, this is the fertilizer for the winter crop. We're receiving fertilizer for the winter crop. 
+asr:0: OUTPUT 2454.77-2457.16: Well, in line with Victor's question,. 
+asr:0: OUTPUT 2457.18-2471.35: Hey Ricky from BTG Pactual, as concerning the cost of production. The company's estimates for 2021-22 show important increases in the cost for the main crops. 
+asr:0: OUTPUT 2471.53-2477.98: Please comment on how you expect this will impact the profitability this year. 
+asr:0: OUTPUT 2478.84-2480.00: And apply. 
+asr:0: OUTPUT 2480.16-2483.36: And now we know the price of commodities is favorable. 
+asr:0: OUTPUT 2483.90-2493.59: Do you believe there will be a risk for this harvest or next? I believe Andre has already answered these questions. 
+asr:0: OUTPUT 2496.88-2506.73: And the next question, Leonardo Alencar, Shispe Investments. First, he says, congratulations for the results. Thank you. 
+asr:0: OUTPUT 2507.15-2512.93: I believe you have the harvest for soybean and the winter crop for corn. 
+asr:0: OUTPUT 2513.31-2515.24: I believe you have bought the fertilizer. 
+asr:0: OUTPUT 2516.04-2518.02: How about the future? 
+asr:0: OUTPUT 2518.04-2522.60: Fertilizer for 22 23 have you bought the fertilizer. 
+asr:0: OUTPUT 2522.74-2531.39: What is your vision concerning the fertilizer market? Andrea has already answered all these questions from Leonardo. 
+asr:0: OUTPUT 2532.55-2534.09: And the next question. 
+asr:0: OUTPUT 2535.36-2537.50: I believe that in this question... 
+asr:0: OUTPUT 2537.52-2539.66: I'd like to say. 
+asr:0: OUTPUT 2539.84-2547.83: This is it. We have two concerns. We have the sugar cane harvest that begins in April, May. 
+asr:0: OUTPUT 2548.73-2551.25: With nitrogen fertilizers. 
+asr:0: OUTPUT 2551.53-2559.68: Our perspective is, we said, the base industry, the base raw material is natural gas. 
+asr:0: OUTPUT 2560.00-2567.89: Natural gas, we don't believe in a drop in natural gas, especially now with the cold season in the northern hemisphere. 
+asr:0: OUTPUT 2568.25-2576.26: The way we see it, after winter in the northern hemisphere with more natural gas available,. 
+asr:0: OUTPUT 2576.40-2581.34: At the end of the first semester next year, beginning of the second semester 2020. 
+asr:0: OUTPUT 2581.78-2588.03: Two, we can expect a drop in the price of fertilizer, especially nitrogen and phosphate. 
+asr:0: OUTPUT 2592.49-2599.24: The next question, Flavia Bica. Congratulations for the results. 
+asr:0: OUTPUT 2600.04-2606.01: Could you tell us more about rainfall in the various farms? 
+asr:0: OUTPUT 2607.01-2613.15: Flavius, thank you for the question. It's a great pleasure to talk to you. I would say the following. 
+asr:0: OUTPUT 2614.01-2615.32: This year... 
+asr:0: OUTPUT 2615.56-2624.90: The behavior is much better than last year. You can see, you follow us, not only the company, but all the market information. 
+asr:0: OUTPUT 2625.09-2631.59: Mato Grosso, as I said, is finishing the planting last year. 
+asr:0: OUTPUT 2631.71-2640.34: We had a lot of problems in the state of Mato Grosso during the planting season, a lot of complexity. 
+asr:0: OUTPUT 2640.88-2649.69: You heard me talking about replanting in Mato Grosso, in the press, in the company, or even in other companies. 
+asr:0: OUTPUT 2649.93-2659.70: No one is talking about this this year because it's not happening. The climate is well with a good window, a good distribution. 
+asr:0: OUTPUT 2660.02-2666.69: And the good news is that the region in Mapito also has good rainfall. 
+asr:0: OUTPUT 2667.41-2669.35: Rainfall began a little earlier. 
+asr:0: OUTPUT 2669.53-2673.89: We have a lot of soybean planted in Maranhão, Piauí, Bahia too. 
+asr:0: OUTPUT 2674.55-2680.22: Things that we know that historically these are regions. 
+asr:0: OUTPUT 2680.82-2686.45: We have rainfall in Mapito in November and this year already in October. 
+asr:0: OUTPUT 2686.75-2692.19: So in terms of Brazil, when we talk about. 
+asr:0: OUTPUT 2692.65-2696.90: The situation this is it. Now in the long term things are positive. 
+asr:0: OUTPUT 2697.36-2699.58: We have a year. 
+asr:0: OUTPUT 2700.00-2703.96: That is running. 
+asr:0: OUTPUT 2704.20-2714.85: And this allows us a good distribution of rainfall in Mapito, within average in the Midwest, and we're always concerned with the south of Brazil. 
+asr:0: OUTPUT 2715.76-2724.56: When we talk about the south of Brazil, so talking about Brasilago, our concern this year is Paraguay. 
+asr:0: OUTPUT 2725.23-2728.21: Paraguay, we had good rain. 
+asr:0: OUTPUT 2728.43-2736.58: But we know that we begin to plant in the end of November, we have good rainfall. 
+asr:0: OUTPUT 2736.96-2740.72: But we're always looking at the climate in Paraguay, the rainfall in Paraguay. 
+asr:0: OUTPUT 2741.14-2745.55: We reduce the exposure in Paraguay to new areas. 
+asr:0: OUTPUT 2746.01-2750.69: Areas where we have coverage, where we have been working for a long time, we will continue. 
+asr:0: OUTPUT 2751.09-2760.96: We will continue planting, respecting and planting in a defensive way. 
+asr:0: OUTPUT 2761.38-2764.99: But we're concerned with Paraguay. 
+asr:0: OUTPUT 2765.55-2773.39: And we're also concerned with the south of Brazil and also Argentinians should also be concerned with their climate. 
+asr:0: OUTPUT 2773.67-2778.64: In Bolivia, the climate is normal. We're beginning, we began. 
+asr:0: OUTPUT 2778.76-2783.68: 15 days ago, the second harvest for soybean. 
+asr:0: OUTPUT 2783.70-2789.05: The winter crop for soybean is more representative than the previous. 
+asr:0: OUTPUT 2789.31-2795.52: So we're beginning and the rainfall in Bolivia is within the average. 
+asr:0: OUTPUT 2795.54-2802.40: In April, May we had a little bit of stress but now rainfall is normal in Bolivia. 
+asr:0: OUTPUT 2803.24-2806.45: There we have a lot of sugarcane. So Flavio, in a nutshell... 
+asr:0: OUTPUT 2807.07-2812.59: The company is doing very well, all of Brazil, Midwest and upwards. 
+asr:0: OUTPUT 2813.65-2820.50: And we have the concern with Paraguay and the south of Brazil. 
+asr:0: OUTPUT 2820.98-2827.61: The forecast for the year is good in these regions with the exception of the South and Paraguay. 
+asr:0: OUTPUT 2830.93-2839.04: Well, the next question comes from Walter. Bearing in mind the taxes on dividends. 
+asr:0: OUTPUT 2840.12-2845.81: Do you intend to anticipate dividends for 2021-2022? 
+asr:0: OUTPUT 2845.83-2850.43: The government intends to charge. 
+asr:0: OUTPUT 2850.47-2851.71: Income tax. 
+asr:0: OUTPUT 2852.05-2859.68: We have no forecast but we're looking at the reforms from the government. We're prepared. The company is prepared for this. 
+asr:0: OUTPUT 2859.92-2863.54: Taxation of dividends as the government wants to do. 
+asr:0: OUTPUT 2865.43-2874.31: This received a lot of attention when we saw the tax reform being prepared. The company is prepared. 
+asr:0: OUTPUT 2874.37-2883.18: If this actually happens, if this reduces the profitability of the. 
+asr:0: OUTPUT 2883.50-2887.59: For the investors. We're looking at the tax reform. 
+asr:0: OUTPUT 2893.61-2896.86: Well, the next question comes from Adrian Pattinson. 
+asr:0: OUTPUT 2898.00-2907.81: Concerning fertilizers and chemicals, how much was spent in 2021 and what is the cost for 2022? 
+asr:0: OUTPUT 2914.95-2924.14: Well, here we can talk about percentages without. 
+asr:0: OUTPUT 2924.78-2929.23: Looking at each product. Gustavo helped me with the numbers. 
+asr:0: OUTPUT 2930.29-2931.41: Or the different layers. 
+asr:0: OUTPUT 2932.05-2940.58: Now, last year we had a cost of production in soybean 2600 to 2800 depending on the region. 
+asr:0: OUTPUT 2940.98-2947.89: This year, 3,200 to 3,400. 
+asr:0: OUTPUT 2948.89-2954.31: These are, there are different farms regions where you have differences, but this is it. 
+asr:0: OUTPUT 2954.67-2962.62: In the case of corn, help me with corn. 4,000, 3,800 reais. 
+asr:0: OUTPUT 2964.20-2967.83: Last year, 2800. Corn. 
+asr:0: OUTPUT 2969.03-2973.01: It has a higher cost. It uses more fertilizer. 
+asr:0: OUTPUT 2973.49-2982.02: And it also uses more fertilizers with nitrogen. These were the ones that had the highest price increases. 
+asr:0: OUTPUT 2982.82-2986.61: So, quantum suffers twice. 
+asr:0: OUTPUT 2986.89-2994.11: Now in relation to agrochemicals, in the harvest 2021-2022, we had no. 
+asr:0: OUTPUT 2994.21-2998.40: We have no expressive differences in U.S. Dollars. 
+asr:0: OUTPUT 2998.94-3008.81: We have problems with the exchange rate. When I mentioned previously an increase 10 to 15 percent in dollars,. 
+asr:0: OUTPUT 3009.31-3012.79: This is for the harvest 2022-2023. 
+asr:0: OUTPUT 3013.15-3018.34: This is a forecast for the next harvest, not this harvest that we're planting now. 
+asr:0: OUTPUT 3018.60-3028.93: We're talking about 2022, 2023. We're estimating a possible increase in the price of agrochemicals due to many points, natural gas,. 
+asr:0: OUTPUT 3029.07-3033.25: Environmental restrictions, ocean freight. 
+asr:0: OUTPUT 3033.27-3036.98: That had high increases. 
+asr:0: OUTPUT 3037.78-3046.37: And we know that the chemical molecules in Brazil, the finished products, are imported in containers, so ocean freight. 
+asr:0: OUTPUT 3047.15-3051.07: And this issue of containers, lack of containers that you see. 
+asr:0: OUTPUT 3052.25-3058.02: Lack of containers, containers that came from China to America for $1,400. 
+asr:0: OUTPUT 3058.12-3064.26: Now, $18,000-$20,000. So we begin to have important increases. 
+asr:0: OUTPUT 3064.80-3068.89: I'm sure that industry will raise their prices for us. 
+asr:0: OUTPUT 3072.07-3081.92: As Andre mentioned, in the harvest 2020 and 2021, we had approximately an increase. 
+asr:0: OUTPUT 3083.08-3087.99: Roughly 15 to 20 percent in soybean and 30 percent in corn. 
+asr:0: OUTPUT 3088.89-3098.68: For the next, also 23-25% for soybean increase. 
+asr:0: OUTPUT 3099.58-3103.90: Why? Because we were able to buy in advance. 
+asr:0: OUTPUT 3104.99-3112.35: We also made payments when the U.S. Currency was around 5 reais to a dollar. 
+asr:0: OUTPUT 3112.85-3116.52: And now we have the winter crop. 
+asr:0: OUTPUT 3118.26-3120.28: We. 
+asr:0: OUTPUT 3120.62-3128.73: We took more time to buy this in. We're expecting an increase of 70% in relation to last year. 
+asr:0: OUTPUT 3129.19-3131.73: Why are we making this decision last year? 
+asr:0: OUTPUT 3132.67-3139.44: In Xingu we had an expectation of sales 35, 36 reais per bag. 
+asr:0: OUTPUT 3139.82-3147.21: Today we're selling, in an anticipated way, around 60, 65 reais per bag. 
+asr:0: OUTPUT 3148.35-3150.37: So in terms of margin. 
+asr:0: OUTPUT 3151.71-3158.48: They are similar or even better than the increase of the price of fertilizer. 
+asr:0: OUTPUT 3159.54-3165.49: Also, in relation to production costs, a question from Rafael Sommer Lagos. 
+asr:0: OUTPUT 3166.03-3169.89: Concerning the price of inputs for sugar cane. 
+asr:0: OUTPUT 3171.05-3173.99: A greater prize. I will answer this for a family. 
+asr:0: OUTPUT 3174.51-3178.62: So last year, this year, we began. 
+asr:0: OUTPUT 3178.64-3187.55: To include the cost of leasing in sugarcane if you purge this effect, which was not considered last year. 
+asr:0: OUTPUT 3187.63-3191.49: The increase is very similar to the other crops. 
+asr:0: OUTPUT 3191.51-3194.07: 30%, around 30%. 
+asr:0: OUTPUT 3194.47-3197.34: Later on I can give you. 
+asr:0: OUTPUT 3197.36-3205.31: The details, but approximately a thousand reais more in the production price of sugar cane. 
+asr:0: OUTPUT 3205.33-3209.09: Due to the leasing rental of the farms. 
+asr:0: OUTPUT 3209.55-3212.03: The next question, Fabiano Zancano. 
+asr:0: OUTPUT 3212.81-3217.60: The company, does the company have a hedging policy for contribution margin? 
+asr:0: OUTPUT 3218.60-3223.36: The hedge is done at cost or you hedge 100%. 
+asr:0: OUTPUT 3228.49-3229.85: Fabiano Zancaner. 
+asr:0: OUTPUT 3231.75-3234.93: I had a colleague in Catalooga, had the same name. 
+asr:0: OUTPUT 3237.26-3239.60: I had a colleague in Israel. 
+asr:0: OUTPUT 3240.02-3246.07: Answering you. We do hedging. We're always monitoring the total revenue of the product. 
+asr:0: OUTPUT 3246.65-3250.67: And the contribution margin we monitor the cost and revenue. 
+asr:0: OUTPUT 3251.27-3259.92: So when the number that we showed, almost 57% in soybean, that is not the cause. 
+asr:0: OUTPUT 3260.00-3267.25: It's 50% of the volume of soybean produced in the case of corn, 56. 
+asr:0: OUTPUT 3267.27-3276.18: The expected volume. Cotton, it's the total volume of cotton expected. 
+asr:0: OUTPUT 3276.22-3280.78: In relation to our budget, the best expectation of productivity. 
+asr:0: OUTPUT 3282.04-3286.41: So hedging for us is total volume projected. 
+asr:0: OUTPUT 3286.63-3288.29: What is important to. 
+asr:0: OUTPUT 3289.73-3295.34: We have also receivables from farms, which is important for the company. 
+asr:0: OUTPUT 3295.76-3300.92: And the receivables from farms are also in bags of soybeans. 
+asr:0: OUTPUT 3301.42-3310.95: So all the receivables that mature in that year, they become part of the P&L of soybean to be sold. 
+asr:0: OUTPUT 3311.35-3316.58: The producer can pay us based on soybeans. 
+asr:0: OUTPUT 3316.96-3324.74: So we consider the receivables from farms of the year in our analysis of derivatives. 
+asr:0: OUTPUT 3325.81-3335.20: And this analysis is also done every quarter by Gustavo based on future perspectives of receivables. 
+asr:0: OUTPUT 3335.36-3344.00: So answering your question, we look at the number that you saw as a result of the estimate of production. 
+asr:0: OUTPUT 3344.86-3354.61: And the policy foresees that we will be able to sell up to 50% of the harvest. 
+asr:0: OUTPUT 3355.58-3360.56: When we plant then we monitor the evolution of the crump. 
+asr:0: OUTPUT 3361.00-3366.61: And we can get to 80% at the time of harvest, sale of 80%. 
+asr:0: OUTPUT 3367.69-3371.79: So we're very strict in following this policy. 
+asr:0: OUTPUT 3372.95-3375.28: Fabiano said that he is from Cataluba. 
+asr:0: OUTPUT 3376.66-3384.42: Thank you. I had a great friend who graduated with me, Rodrigo Zancaner. 
+asr:0: OUTPUT 3387.27-3394.97: Some questions concerning the market of land, the price of land. 
+asr:0: OUTPUT 3397.92-3403.20: What does the company think in terms of acquisition of new areas, new sales? 
+asr:0: OUTPUT 3403.98-3412.27: There is a question from Murillo. Then we have Eder Koster. Questions on the price of land. 
+asr:0: OUTPUT 3414.47-3419.58: And we're seeing the growth of almost 100%. 
+asr:0: OUTPUT 3419.60-3426.91: In the price of land. Do you believe that these higher prices will continue for land? 
+asr:0: OUTPUT 3429.75-3435.26: Well, Moody, Lwader, first let's talk about how we think about this. 
+asr:0: OUTPUT 3435.70-3439.48: We always say that we have to be an anti-cyclical. 
+asr:0: OUTPUT 3439.50-3445.75: Company. Whenever it wants to sell, we buy. Whenever it wants to buy, we. 
+asr:0: OUTPUT 3446.35-3447.97: When everyone wants to sell Weeby. 
+asr:0: OUTPUT 3448.65-3457.16: So we buy the acids that are ready, the farm that is producing sugar cane or producing soybean. 
+asr:0: OUTPUT 3458.80-3464.76: They are very similar to what you asked. 
+asr:0: OUTPUT 3465.29-3473.95: This area due to the price of increase in commodities, also the price of land went up. When you look at the other areas, pasture,. 
+asr:0: OUTPUT 3474.13-3479.26: Our areas to be transformed, we also see. 
+asr:0: OUTPUT 3479.28-3488.59: Price increases but not as strong as the soybean areas. Soybean areas are multiples of the bag of soybean. 
+asr:0: OUTPUT 3488.91-3491.83: If a bag of soybean is worth 70, it's a multiple. 
+asr:0: OUTPUT 3492.25-3496.36: If it's worth 150, it's x times 150. That's the first point. 
+asr:0: OUTPUT 3498.86-3503.22: So we believe that the price of land will be on a new level. 
+asr:0: OUTPUT 3503.52-3508.97: Because we're not going to talk about soybean worth 70-80. 
+asr:0: OUTPUT 3509.65-3514.27: Soybean wedding and you are much more smarter than we are. 
+asr:0: OUTPUT 3514.57-3520.50: We believe that in the long term we should have soybean around $11. 
+asr:0: OUTPUT 3520.62-3529.25: We're talking about a balance as a result of tax adjustments. 
+asr:0: OUTPUT 3529.27-3535.76: But the price should converge to a balance. 
+asr:0: OUTPUT 3535.88-3537.22: This should come to about. 
+asr:0: OUTPUT 3537.70-3547.21: In terms of acquisition, we're very active. We have spent, we have traveled a lot. 
+asr:0: OUTPUT 3547.23-3549.17: We have many things in the radar. 
+asr:0: OUTPUT 3549.87-3558.32: With difference in relation to three years, but we're also selling at higher numbers than three years ago. 
+asr:0: OUTPUT 3558.66-3561.52: We should have an efficient allocation. 
+asr:0: OUTPUT 3561.56-3567.47: We are doing everything to guarantee this profitability. 
+asr:0: OUTPUT 3567.65-3571.75: We have to be very good at buying and transforming the land. 
+asr:0: OUTPUT 3572.23-3574.85: And with these new levels. 
+asr:0: OUTPUT 3574.87-3582.10: And the size of the land, we should be able to transform land more quickly. 
+asr:0: OUTPUT 3582.12-3587.73: And be able to guarantee good returns for investors. 
+asr:0: OUTPUT 3587.79-3589.27: It's an excellent question. 
+asr:0: OUTPUT 3589.57-3592.47: Prices have changed for purchase and sale. 
+asr:0: OUTPUT 3592.93-3602.78: As I said, we're always buying farms that are not ready, that are not generating this interesting flow with commodities. We always buy land. 
+asr:0: OUTPUT 3602.80-3607.07: That needs development, needs CapEx management human capital. 
+asr:0: OUTPUT 3607.09-3608.77: To transform these areas. 
+asr:0: OUTPUT 3609.15-3611.47: So there will always be opportunities. 
+asr:0: OUTPUT 3611.79-3613.85: This is a very large market. 
+asr:0: OUTPUT 3614.25-3622.90: We must have discipline, resilience to do what we have done during the last 15 years with a lot of resilience, a lot of discipline. 
+asr:0: OUTPUT 3623.40-3625.89: So this is the message we have to all of you. 
+asr:0: OUTPUT 3627.95-3635.80: Thank you, Andre. Question from Anani Sikita. Purchase of land, I believe Andre has answered. 
+asr:0: OUTPUT 3636.28-3645.27: Now we have two questions from John Wayne and Eder Castro concerning sugarcane. 
+asr:0: OUTPUT 3645.63-3652.09: Do you believe that the prices of sugar cane should continue at high levels? 
+asr:0: OUTPUT 3652.11-3655.86: Due to ethanol for decarbonization. 
+asr:0: OUTPUT 3656.18-3657.88: How do you see this scenario? 
+asr:0: OUTPUT 3658.16-3661.18: And answers questions in relation to sugar cane. 
+asr:0: OUTPUT 3663.46-3669.83: He wants a guidance in relation to sugarcane for the next harvest. 
+asr:0: OUTPUT 3671.39-3674.45: Whether they will continue at the current levels. 
+asr:0: OUTPUT 3675.84-3682.28: Well, two excellent questions. I'd like to spend all afternoon. First, John. 
+asr:0: OUTPUT 3683.68-3692.03: First, we have a clean energy ethanol. 
+asr:0: OUTPUT 3692.57-3700.00: Not only ethanol as a source to substitute fossil fuels, but ethanol. 
+asr:0: OUTPUT 3701.20-3703.02: Also for hybrid cars. 
+asr:0: OUTPUT 3703.18-3712.07: We believe that if we migrate to an auto industry too that wants to decarbonize,. 
+asr:0: OUTPUT 3712.11-3718.94: Decarbonization, we need a matrix that will generate fuel for electric cars. 
+asr:0: OUTPUT 3719.12-3726.19: So we believe a lot that ethanol becomes fundamental. 
+asr:0: OUTPUT 3727.01-3734.59: What I'd like to say too, John, Brazil was a country that approved. 
+asr:0: OUTPUT 3735.44-3742.24: Right now in decarbonization, a new program which is Renovabil. 
+asr:0: OUTPUT 3743.56-3745.51: It's a government program. 
+asr:0: OUTPUT 3746.65-3748.83: Can other views of state program? 
+asr:0: OUTPUT 3749.49-3755.78: That is here to be another source of revenue for producers of ethanol. 
+asr:0: OUTPUT 3755.92-3761.10: And to compensate the industry. 
+asr:0: OUTPUT 3761.16-3763.66: That produces fossil fuels. 
+asr:0: OUTPUT 3763.96-3769.47: So I'm sure that ethanol will be more and more relevant. 
+asr:0: OUTPUT 3769.93-3778.44: I get sad when I see the world working for a more balanced situation. 
+asr:0: OUTPUT 3779.06-3786.47: And companies saying, oh, now it's better to buy gasoline instead of ethanol. 
+asr:0: OUTPUT 3786.73-3789.61: We have to decide what we want. 
+asr:0: OUTPUT 3790.29-3799.78: Do we want less emissions? Then ethanol will be important in this industry in the next few years. 
+asr:0: OUTPUT 3800.82-3808.85: Edgar's question is very good. Why is it good? Because sugar cane is a crop with annual cycles. 
+asr:0: OUTPUT 3810.19-3812.35: It is flurry annual. 
+asr:0: OUTPUT 3812.89-3815.28: So the effects that we have in a harvest. 
+asr:0: OUTPUT 3816.90-3819.08: They continue until the next harvest. 
+asr:0: OUTPUT 3819.76-3821.84: So why do I see the continue? 
+asr:0: OUTPUT 3822.64-3827.43: We had two large important effects in sugarcane and Brazilian production. 
+asr:0: OUTPUT 3827.95-3837.34: We have the first, the intensity of the drought. So we have rainfall that stopped earlier. 
+asr:0: OUTPUT 3837.92-3840.00: And we had important results. 
+asr:0: OUTPUT 3840.36-3848.91: And a second, we had a second when we had severe cold in the South. 
+asr:0: OUTPUT 3850.31-3851.85: The dead drought. 
+asr:0: OUTPUT 3853.01-3860.68: Is known, it hurts, but if the next year we have rainfall within the average, you can recover. 
+asr:0: OUTPUT 3861.02-3867.39: The great problem is that when we have cold weather, when it happened in July-August,. 
+asr:0: OUTPUT 3867.79-3870.79: We have most of the sugar cane already harvested. 
+asr:0: OUTPUT 3871.99-3875.78: And planted, which is for the next harvest, so you can imagine. 
+asr:0: OUTPUT 3876.20-3884.42: The plant had used its reserves to, and suddenly comes the cold, and it has to begin again. 
+asr:0: OUTPUT 3885.05-3892.71: So our experience when this happens for any reason, due to fire, or cold, or. 
+asr:0: OUTPUT 3892.95-3897.02: We have an important drop. 
+asr:0: OUTPUT 3897.10-3902.74: Because the plant used its energy. 
+asr:0: OUTPUT 3903.28-3911.71: So I would say to you, next year, two scenarios, one optimistic, one pessimistic. 
+asr:0: OUTPUT 3911.97-3915.14: And this is not from us, it's not from Andre or Gustavo. 
+asr:0: OUTPUT 3916.08-3923.18: This is the pessimistic one, it's 530 million tons, and the optimistic 550. 
+asr:0: OUTPUT 3923.32-3926.31: Due to these problems with frost and everything. 
+asr:0: OUTPUT 3926.77-3931.63: So if you ask me, I believe in a year of favorable prices for sugarcane. 
+asr:0: OUTPUT 3932.39-3934.63: So for Brazilian production. 
+asr:0: OUTPUT 3934.95-3943.16: We have to look, it's important to look outside Brazil, the production of sugar in India, especially in India. 
+asr:0: OUTPUT 3943.74-3949.29: We're having a recovery, a modest recovery in the production of sugar in India. 
+asr:0: OUTPUT 3949.89-3956.52: And you can see this with the prices of pound per sugar in New York. 
+asr:0: OUTPUT 3957.56-3966.75: I don't remember having seen sugarcane at 21 cents like we had a few months ago. 
+asr:0: OUTPUT 3967.07-3975.40: So the scenario for next year, since it's a plurianual crop, the impact we have this year will continue next year. 
+asr:0: OUTPUT 3975.88-3984.64: We will have low inventories of raw material and that puts pressure on the price during the next year. 
+asr:0: OUTPUT 3988.11-3991.55: Well, the next question comes from Anthony Gordon, Gen I Group. 
+asr:0: OUTPUT 3991.57-3993.57: As announced. 
+asr:0: OUTPUT 3993.59-4003.08: In the summit of COP26 last year, Brazil signed the Treaty and Agreement for Deforestation. 
+asr:0: OUTPUT 4003.10-4005.77: Ending deforestation by 2030. 
+asr:0: OUTPUT 4007.41-4011.75: How will this affect our company? 
+asr:0: OUTPUT 4015.26-4018.96: Anthony, good afternoon. It's a great pleasure to talk to you. 
+asr:0: OUTPUT 4019.64-4023.80: I believe it's important to understand what they proposed. 
+asr:0: OUTPUT 4026.01-4028.31: Prison. 
+asr:0: OUTPUT 4028.71-4037.32: I believe what Brazil signed is our obligation, zero deforestation, illegal deforestation by 2030. 
+asr:0: OUTPUT 4037.84-4039.10: This is what they signed. 
+asr:0: OUTPUT 4039.66-4048.27: In other words, to zero illegal deforestation in Brazil. We're talking about illegal deforestation. 
+asr:0: OUTPUT 4050.03-4057.00: Okay, let's look at us, independent whether it's legal or illegal. 
+asr:0: OUTPUT 4057.36-4061.38: We have a few areas in our pipeline to be transformed. 
+asr:0: OUTPUT 4061.64-4070.97: And all of them are savannah lands being transformed, in the Chaku that are being transformed. 
+asr:0: OUTPUT 4071.51-4077.66: And we have the best expectations to finish this development by 2025. 
+asr:0: OUTPUT 4078.26-4083.36: So illegal deforestation, yes, is what Brazil signed. 
+asr:0: OUTPUT 4083.92-4090.19: And every time we see these commitments,. 
+asr:0: OUTPUT 4090.89-4099.46: And they become a reality for companies like ours, companies that have governance, companies that respect the environment, that have management. 
+asr:0: OUTPUT 4099.90-4106.43: I believe it's even more decisive for us to take action. 
+asr:0: OUTPUT 4106.49-4110.49: We... 
+asr:0: OUTPUT 4111.41-4120.64: The great one problem in Brazil is that. 
+asr:0: OUTPUT 4121.08-4130.03: There is illegal, not in agribusiness I would say, illegal deforestation in the Amazon. 
+asr:0: OUTPUT 4131.47-4136.46: That is illegal, government areas, Indian reservations. 
+asr:0: OUTPUT 4137.60-4138.68: Thank you, Andre. 
+asr:0: OUTPUT 4139.30-4148.29: Question from Victor Pauli Talevanti concerning, can you talk about the technology projects in the field? 
+asr:0: OUTPUT 4148.35-4149.87: How can 5G help? 
+asr:0: OUTPUT 4152.01-4157.96: We will stay here until tomorrow. So I'll ask Andre to be. 
+asr:0: OUTPUT 4160.82-4170.59: We have another question. Victor, excellent question. As Anna said, I love this topic. I will give you some numbers from Imbrapa. 
+asr:0: OUTPUT 4172.47-4177.98: Brazil with investments of 4,500 antennas. 
+asr:0: OUTPUT 4178.82-4183.80: Today Brazil has a coverage of 5G 70 to 20%. 
+asr:0: OUTPUT 4184.24-4187.07: With 4,500 new antennas. 
+asr:0: OUTPUT 4187.47-4189.95: We will take 5G coverage. 
+asr:0: OUTPUT 4189.97-4195.38: To 50% of the agricultural land with 15,000 antennas. 
+asr:0: OUTPUT 4195.60-4200.46: Which is not a very high investment. We take coverage of 5G. 
+asr:0: OUTPUT 4200.48-4204.82: Around 80% of the areas in production in Brazil. 
+asr:0: OUTPUT 4205.75-4209.91: I'll give you a number, I will share with you a number from Imrap. 
+asr:0: OUTPUT 4210.43-4214.31: This first coverage. 
+asr:0: OUTPUT 4214.53-4220.60: Around 50% of the Brazilian agricultural area. 
+asr:0: OUTPUT 4221.02-4228.31: That would be another 50, 60 billion reais from agriculture. 
+asr:0: OUTPUT 4228.59-4233.31: If we can take this to 80% the estimates. 
+asr:0: OUTPUT 4233.93-4237.38: And of course, we're talking about technology. 
+asr:0: OUTPUT 4237.96-4240.10: We can get to. 
+asr:0: OUTPUT 4240.42-4249.55: Numbers upwards of 110 billion rands generated to add to our GDP. 
+asr:0: OUTPUT 4249.99-4254.59: So Gustavo and I are leading projects. 
+asr:0: OUTPUT 4254.98-4261.90: The company has some units where we have coverage, not all the farm, but not only 5G. 
+asr:0: OUTPUT 4262.38-4265.11: Also other technologies. 
+asr:0: OUTPUT 4265.47-4270.21: Biological connectivity linked to 5G. 
+asr:0: OUTPUT 4270.23-4278.20: Innovation of many things, many tools, drones for monitoring, many things that are being done in agribusiness. 
+asr:0: OUTPUT 4278.60-4280.00: And. 
+asr:0: OUTPUT 4280.34-4285.97: This will represent the new green revolution that agribusiness can bring. 
+asr:0: OUTPUT 4288.47-4291.01: The next question Antonio Sicri. 
+asr:0: OUTPUT 4294.23-4304.08: Concerning the measurement of ESG policies in Brazil, environment, social and governance. 
+asr:0: OUTPUT 4306.09-4315.36: Antonio, we here in the company, we feel at ease to talk about ESG. 
+asr:0: OUTPUT 4316.14-4323.86: I will look at the three letters when we talk about governance. We're the first company in agribusiness to be listed in Novo Mercado. 
+asr:0: OUTPUT 4324.16-4327.27: The elite companies in the stock market. 
+asr:0: OUTPUT 4327.81-4332.39: The only one also listed in New York. 
+asr:0: OUTPUT 4334.13-4338.82: Also, Plessy-Deckel with more governance. 
+asr:0: OUTPUT 4339.20-4341.72: Even the SOX legislation. 
+asr:0: OUTPUT 4342.18-4344.82: So when we look inside we were born this way. 
+asr:0: OUTPUT 4345.15-4353.83: It's in our DNA. When you talk about social, for being in boundaries, we did a lot of this. 
+asr:0: OUTPUT 4355.74-4359.00: We made many investments in social programs. 
+asr:0: OUTPUT 4359.48-4363.10: When you take SAP to these regions, you have to. 
+asr:0: OUTPUT 4363.12-4370.09: Train people, invest resources, and the company has invested a lot in social programs. 
+asr:0: OUTPUT 4370.49-4380.26: We created the Brazil Agro Institute and Apollo is the director of the institute. We invest 1.5 to 2% of our results. 
+asr:0: OUTPUT 4380.28-4387.43: In projects with focus on education in the regions where we are present. 
+asr:0: OUTPUT 4387.67-4389.53: When we talk about the environment. 
+asr:0: OUTPUT 4389.87-4399.24: The company had the capacity and the efficiency to manage the assets it had to transform more than 135,000 hectares. 
+asr:0: OUTPUT 4400.08-4406.85: You can see this is linked to conservation preservation. 
+asr:0: OUTPUT 4407.71-4414.49: We have thousands of hectares of protected areas. 
+asr:0: OUTPUT 4416.38-4425.07: And this, the environmental, these are the actions in the environment to preserve biodiversity. 
+asr:0: OUTPUT 4425.63-4434.17: So I would say that agribusiness has everything to lead other sectors in terms of ESG. 
+asr:0: OUTPUT 4438.30-4440.00: While we'd like to close. 
+asr:0: OUTPUT 4440.22-4448.89: Once again, thank you for participating, Andrei, Gustavo, and we will see you again in the next quarter. Thank you. 
+asr:0: OUTPUT 4449.79-4457.32: Thank you, Ana. Thank you, Gustavo. Thank you, participants who are with us with many questions. 
+asr:0: OUTPUT 4459.44-4466.71: We have the greatest number of questions, very good questions, intelligent questions, focused on our business model. 
+asr:0: OUTPUT 4468.39-4476.70: Thank you for your attention. Once again, count on our team, team of people. We're showing the result of a team. 
+asr:0: OUTPUT 4476.72-4478.78: Which has been doing. 
+asr:0: OUTPUT 4478.80-4485.65: Good work, committed with the results of the company, committed with the investors, to the investors. 
+asr:0: OUTPUT 4485.67-4490.91: We will continue, continue this way, delivering resilient results. 
+asr:0: OUTPUT 4491.15-4493.15: Thank you. We wish you a good afternoon. 
+asr:0: END

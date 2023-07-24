@@ -1,0 +1,584 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.64-6.83: Ladies and gentlemen, good evening and welcome to HDFC Bank Limited Q3 FY22. 
+asr:0: OUTPUT 7.21-13.03: Earnings Conference Call on the financial results presented by the management of HDFC Bank. 
+asr:0: OUTPUT 13.83-23.00: As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask questions after the brief commentary by the management. 
+asr:0: OUTPUT 24.46-34.01: Should you need assistance during the conference call, please signal an operator by pressing star then zero on your touchtone phone. Please note that this conference is being recorded. 
+asr:0: OUTPUT 35.50-40.00: I would now like to hand the conference over to Mr. Srinivasan Bajanathan, Chief Financial Officer. 
+asr:0: OUTPUT 45.87-48.53: Good evening and a warm welcome to all the participants. 
+asr:0: OUTPUT 49.75-58.22: First to start with, the involvement of the policies that we operated in the quarter were conducive for growth with good tailwind from monetary and fiscal policies. 
+asr:0: OUTPUT 58.64-59.88: You all know about the activity. 
+asr:0: OUTPUT 59.94-65.45: Indicators varying better in Q3, like the PMI, GST collections, e-waivers, et cetera, et cetera. 
+asr:0: OUTPUT 65.71-70.75: We're also up to date about the CPIR, RBI policy rate strands, and the liquidity conditions. 
+asr:0: OUTPUT 71.39-80.92: In that backdrop, the equity capital market was robust in the quarter. Private issuers raising almost 82,000 crores. We were mandated for eight IPOs. 
+asr:0: OUTPUT 81.42-87.45: Indian bond market also saw total fund raise of approximately 1.87 lakh crores in the quarter. 
+asr:0: OUTPUT 87.51-91.43: The bank maintained its ranking as one of the top three arrangers in the INR bond market. 
+asr:0: OUTPUT 92.13-97.16: Now with that, let's go through five themes at a high level before we delve into the quarter financial. 
+asr:0: OUTPUT 97.74-107.25: One, on the balance sheet continues to get stronger. For instance, the capital adequacy ratio is at 19.5%, CET1 at 17.1%. 
+asr:0: OUTPUT 107.81-111.77: Liquidity is strong as reflected in our average LCR for the quarter at 123%. 
+asr:0: OUTPUT 112.63-116.72: Balance sheet remains resilient. The GNP ratio is at 1.26%. 
+asr:0: OUTPUT 116.96-123.24: Floating and contingent provisions aggregating to rupees 10,100 crores has been de-risking the balance sheet and positioning for quotes. 
+asr:0: OUTPUT 124.44-133.97: Two, investments in key enablers are picking up in executing our strategy. We opened 93 branches in the quarter, 171 branches here today, nine months period. 
+asr:0: OUTPUT 134.43-142.76: To give additional context, we have added 525 branches over the past 21 months, that is during the COVID period, positioning us for capitalizing the opportunity. 
+asr:0: OUTPUT 143.20-149.51: We onboarded a little more than 5,000 people in the quarter, 14,300 plus people during the nine months period. 
+asr:0: OUTPUT 150.05-158.78: We have onboarded about 17,400 people over the past 21 months during the COVID period to get the people ahead on the productivity curve as the economy accelerates further. 
+asr:0: OUTPUT 159.58-168.39: There is a growing impetus on digital, and we have taken the steps necessary to ensure our customers have great and consistent experience in whatever channel they choose to bank with us. 
+asr:0: OUTPUT 168.83-177.16: Key initiatives like a streamlined, modern customer experience hub, allowing access to content across channels and devices will be introduced soon. 
+asr:0: OUTPUT 177.56-183.52: We are also committed to continuously enhancing the digital experience for our customers through fully revamped payment offerings. 
+asr:0: OUTPUT 184.08-191.87: We have taken multiple steps to ensure robust, scalable, and secure technology setup strengthened even further. 
+asr:0: OUTPUT 192.15-195.44: Some key initiatives include capacity for UPA has been tripled. 
+asr:0: OUTPUT 195.56-200.48: Net banking and mobile banking capacity has been doubled to manage 90,000 users concurrency. 
+asr:0: OUTPUT 200.50-206.95: A significant step as most of our customers now rely on digital channels for banking needs. 
+asr:0: OUTPUT 207.47-211.89: The bank has migrated core data centers in Bangalore and Mumbai to state-of-the-art facilities. 
+asr:0: OUTPUT 211.91-219.46: The bank is moving to next level of disaster recovery with DR automation and implementation of RDR active-active setup for key applications. 
+asr:0: OUTPUT 219.88-225.51: Significant upgrades in network and security infrastructure to support our exponential growth in digital transactions. 
+asr:0: OUTPUT 227.77-231.51: Our digital capability is coupled with rich data and customer's behavior. 
+asr:0: OUTPUT 231.97-233.49: Take for instance,. 
+asr:0: OUTPUT 233.51-242.66: Take for instance a traditional retail product wherein close to 80% new loans go through digital scorecards or automated underwriting. 
+asr:0: OUTPUT 243.12-251.71: In Q3, we received a total of 245 million visits on our website, averaging 31 million unique customers per month. 
+asr:0: OUTPUT 252.01-256.70: As per our analysis, we had 30 to 70% more visits on our website. 
+asr:0: OUTPUT 256.92-264.00: With our public private sector peers. Close to 60% of the visits were through mobile device, indicating the mobile centricity of the food farm. 
+asr:0: OUTPUT 264.64-273.39: Three, on customers, acquiring new liability relationship is setting new high, preparing for broad basing and deepening relationship in times to come. 
+asr:0: OUTPUT 273.81-278.10: During the quarter we opened about 2.4 million new liability relationships. 
+asr:0: OUTPUT 278.14-285.87: 6.4 million new liability relationships during the nine months period of this financial year, exhibiting a growth of 29% over the same period last year. 
+asr:0: OUTPUT 286.55-290.13: Four, our market leadership in digitizing the economy is setting new high. 
+asr:0: OUTPUT 290.63-295.76: In Q3, we achieved the highest ever issuance of 9.5 lakh card issuance. 
+asr:0: OUTPUT 296.38-302.46: Since late August when we recommenced issuance of new cars, we have so far issued 13.7 lakh cars. 
+asr:0: OUTPUT 303.42-309.21: Credit card spend for the bank has grown 24% year on year and debit card spend has grown 14% year on year. 
+asr:0: OUTPUT 309.67-315.94: The spend growth reflect both increased customer engagement and economy improvement from a consumption perspective. 
+asr:0: OUTPUT 317.04-324.46: In similar lines to our CSE partnership and to scale our business further, we have signed MOUs with two large payment banks for distributing certain products. 
+asr:0: OUTPUT 324.99-333.37: This opens up further opportunity to scale among other places, growth in semi-urban and rural areas, leveraging partner distribution access points and feet on street. 
+asr:0: OUTPUT 334.63-342.26: We have further scaled emerging growth segments such as EZ-EMI, consumer durable, targeting our preferred customers through segmented sales and marketing. 
+asr:0: OUTPUT 342.62-346.69: Consumer finance business as one plus one lakh plus active distribution point. 
+asr:0: OUTPUT 347.07-349.89: We have over 5 million customers with easy EMI options. 
+asr:0: OUTPUT 350.53-355.58: The bank merchant offering is scaling to provide enhanced value-added services across various segments. 
+asr:0: OUTPUT 355.92-361.78: The bank has 2.85 million acceptance pointers of December with a year on year growth of 35%. 
+asr:0: OUTPUT 362.14-371.43: The bank's acquiring market share stands at approximately 47% with a 19% share in terminals, processing about 300 million transactions per month. 
+asr:0: OUTPUT 372.97-379.16: Bank has been focusing in Suru locations and is investing in training and offering segment specific solutions. 
+asr:0: OUTPUT 379.20-384.38: Over 50 percent of new merchant sourcing is from Suru locations. 
+asr:0: OUTPUT 384.82-391.31: Asset volumes are gaining momentum to reach new heights driven through relationship management, digital offering, and breadth of products. 
+asr:0: OUTPUT 391.73-397.68: In the wholesale segment, Carpex continues to generate strong cash flows across sectors, resulting in fair degree of prepayments. 
+asr:0: OUTPUT 398.04-406.45: Trade continued to be an opportunity for credit growth, factoring, invoice financing, export financing, import financing, or some of the products we participated in to grow. 
+asr:0: OUTPUT 406.91-411.21: We are also making progress in MNC segment with our ambition to be the largest player in the space. 
+asr:0: OUTPUT 411.71-418.56: Corporate banking and other wholesale loans grew by 7.5% over prior year and 4.4% over prior quarter. 
+asr:0: OUTPUT 418.94-420.14: On the retail assets front. 
+asr:0: OUTPUT 420.62-427.13: The momentum picked up observed pick up observed during Q2 continued its stride in Q3 as well. 
+asr:0: OUTPUT 427.51-433.49: Witnessing a robust sequential asset growth of 4.7 percent and year on year growth of 13.3 percent. 
+asr:0: OUTPUT 433.97-438.60: This has been on the back of a strong incremental dispersals during the course. 
+asr:0: OUTPUT 439.26-448.57: Commercial and rural banking businesses are robust growth this quarter, registering a sequential growth of 6.1% and year-on-year growth of 29.4%. 
+asr:0: OUTPUT 448.59-452.45: Reflecting underlying economic activity and continued market share gain. 
+asr:0: OUTPUT 453.03-455.02: Now let's start with nature evidence. 
+asr:0: OUTPUT 455.54-464.10: Net revenues grew by 12.1% to 26,624 crores driven by an advance growth of 16.5% and a deposit growth of 13.8%. 
+asr:0: OUTPUT 465.05-473.55: Interest income for the quarter which is at 69 percent of net revenues grew by 13 percent year on year and registered a sequential growth of 4.3 percent. 
+asr:0: OUTPUT 474.17-477.76: The core net interest margin for the quarter was was at 4.1 percent. 
+asr:0: OUTPUT 478.20-479.80: This is the similar range of previous one. 
+asr:0: OUTPUT 480.36-488.07: Net interest income growth is reflective of underlying shift from unsecured lending, essentially gravitating towards higher rated segments in the COVID period. 
+asr:0: OUTPUT 488.41-494.15: This is also represented in our ratio of net interest income to RWA, which is consistent at around 6%. 
+asr:0: OUTPUT 495.28-504.64: Moving on to details of other income, which is at 8,184, so that's up 9.9% versus prior year and up 10.6% versus prior quarter. 
+asr:0: OUTPUT 506.23-516.92: Fees and commission income constituting about two-thirds of other income was at 5075 crores and grew by 2% compared to prior year and 2.6% compared to prior quarter. 
+asr:0: OUTPUT 517.38-522.36: Retail constitutes approximately 93% and wholesale constitutes 7% of retail commission income. 
+asr:0: OUTPUT 523.08-527.03: Fees excluding payment products grew year on year by 17%. 
+asr:0: OUTPUT 527.33-533.27: And fees on the payment products decrease year on year due to lower fees on card loan products, cash advances. 
+asr:0: OUTPUT 533.31-538.80: Overlimit fees, reflective of a cautious approach to card-based lending, as well as customer preferences. 
+asr:0: OUTPUT 539.20-540.74: However, card sales. 
+asr:0: OUTPUT 540.76-549.99: ANR and interchange have come out robustly, which positions us for future growth and the customer propensity to use card product for loans and revolver increases. 
+asr:0: OUTPUT 550.41-555.46: In addition, during the festive period, we offered certain fee waivers to incentivize customer engagement. 
+asr:0: OUTPUT 556.06-563.84: Effects and derivatives income at 949 crores was higher by 69% compared to prior year, reflecting pickup and activities and spread. 
+asr:0: OUTPUT 564.38-567.03: Trading income was 1046 crores for the quarter. 
+asr:0: OUTPUT 567.39-575.84: Prior year was at 1,109 crores and prior quarter was at 676 crores. Some of the gains from investments were monetized in line with our strategy. 
+asr:0: OUTPUT 577.56-583.76: Other miscellaneous income of 1113 crores includes recoveries from written off accounts and dividends from subsidiaries. 
+asr:0: OUTPUT 584.28-591.83: Now moving on to expenses for the quarter at 9,851 crores, an increase of 14.9% over previous year. 
+asr:0: OUTPUT 592.25-597.70: On year we added 294 branches bringing the total branches to 5,779. 
+asr:0: OUTPUT 598.26-606.27: Since last year, we added 1697 ATM cash deposit and withdrawal machines, taking the total to 17238. 
+asr:0: OUTPUT 606.73-616.50: We have 15,436 business correspondence managed by Common Service Centers, which is higher by about 1,900, slightly over 1,900 compared to the same time last year. 
+asr:0: OUTPUT 617.98-622.62: Income ratio for the quarter was at 27 percent which is similar to the prior year level. 
+asr:0: OUTPUT 623.02-628.99: As previously mentioned when technology investments are further stepped up and retail segments pick up further. 
+asr:0: OUTPUT 629.09-635.72: We anticipate the spend levels to increase driven by incremental volumes, sales and promotional activities and other discretionary spending. 
+asr:0: OUTPUT 636.20-639.06: Moving on to asset quality. 
+asr:0: OUTPUT 639.62-646.01: Gene PA ratio was at 1.26% of gross advances as compared to 1.35% in prior quarters. 
+asr:0: OUTPUT 646.11-649.63: And 1.38 percent on a performance basis in prior years. 
+asr:0: OUTPUT 652.41-658.26: It is pertinent to note that of the 1.26 percent GNP ratio, about 18 basis points are standard. 
+asr:0: OUTPUT 658.68-662.66: These are included by the NPA as one of the other facility of the borrower. 
+asr:0: OUTPUT 663.34-670.07: Net NPA ratio was at 0.37% of advances, net advances. Preceding quarter was at 0.4. 
+asr:0: OUTPUT 670.53-678.16: Annualized slippage ratio for the current quarter is at 1.6, about 4600 crores as against 1.8% in prior quarter. 
+asr:0: OUTPUT 678.70-684.80: Agri seasonally has contributed approximately 1000 crores to slippages or about 25 basis points annually. 
+asr:0: OUTPUT 685.83-691.63: The quarter, recoveries and upgrades were about 2400 crores or approximately 25,000. 
+asr:0: OUTPUT 692.79-695.92: And the corporates were 2200 crores approximately. 
+asr:0: OUTPUT 697.84-704.78: NPA about 260 crores, approximately two basis points in the quota included in one of the categories above. 
+asr:0: OUTPUT 705.75-708.85: Now looking at check bonds and restructuring and so on. 
+asr:0: OUTPUT 709.35-718.66: The check bounce rate continues to improve in December across most of the retail products and is not only back to pre-pandemic level, but also marginally better. 
+asr:0: OUTPUT 719.10-722.84: Further, the early January bounce rate shows continued improvement. 
+asr:0: OUTPUT 723.24-731.31: Similarly, demand resolution at 97, 98 percent for most of the products back to pre-COVID level and in some cases better than pre-COVID level. 
+asr:0: OUTPUT 732.57-741.58: The better improvement, the improvement in bonds and demand resolution rates at aggregate level amongst other things illustrates the overall portfolio policy. 
+asr:0: OUTPUT 742.30-748.99: The restructuring under RBI resolution framework for COVID-19 as of December end stands at 137 basis points. 
+asr:0: OUTPUT 750.25-759.24: Is at the borrower level and includes approximately 28 basis of points of other facilities of the same borrower which are not restructured, but included here. 
+asr:0: OUTPUT 759.90-768.51: To give some color on restructured accounts, 40% are secure with good collateral and the predominant good Sibyl score, which we feel is comfortable. 
+asr:0: OUTPUT 769.07-778.72: Of the unsecured portion, approximately two-thirds are salaried customers and about 40% are good civil scores more than 700. The demand resolution is showing encouraging trends. 
+asr:0: OUTPUT 779.32-784.66: COVID restructuring has been an enabler for our customers to tide over the uncertainty in the last few quarters. 
+asr:0: OUTPUT 785.15-792.77: Initial indicators suggest that most of these customers are now positioned to resume their payment with minimal impact to overall quality of the advances of the pack. 
+asr:0: OUTPUT 793.25-801.74: As mentioned previously, impact of restructuring on our GNPA ratio could not, can be 10 to 20 basis points at any given quarter. 
+asr:0: OUTPUT 802.10-804.30: We talked about it last quarter and mentioned that. 
+asr:0: OUTPUT 804.80-805.89: The core provisions. 
+asr:0: OUTPUT 805.91-815.26: The core specific loan loss provisions for a quarter were 1821 crores as against 2286 crores during the prior quarter. 
+asr:0: OUTPUT 815.92-823.16: Total provisions reported were 2994 crores against 3924 crores during the prior quarter. 
+asr:0: OUTPUT 823.74-829.19: Total provisions in the current quarter included additional contingent provisions of approximately 900 crores. 
+asr:0: OUTPUT 831.49-838.24: The specific provision coverage ratio was at 71%. There are no technical write-offs or head office and branch books are fully integrated. 
+asr:0: OUTPUT 838.90-847.81: At the end of current quarter, contingent provision towards loans were approximately 8,600 crore. The bank's floating provisions remained at 1,400 crore. 
+asr:0: OUTPUT 848.39-850.37: And general portions were at 6000 crores. 
+asr:0: OUTPUT 851.15-860.84: Total portions comprising specific floating contingent and general portions were 172% of gross non-performing loads. This is in addition to security held as collateral in several of the cases. 
+asr:0: OUTPUT 861.44-868.95: Looking at through another lens, floating contingent and general provisions were 1.27 percent of gross advances as of December 2010. 
+asr:0: OUTPUT 869.99-871.43: Now coming to credit cost ratio. 
+asr:0: OUTPUT 871.91-883.92: The core credit cost ratio that is the specific loan loss ratio is at 57 basis points for the quarter against the 76 basis points for the prior quarter and 116 basis points on a pro forma basis for prior year. 
+asr:0: OUTPUT 884.40-892.39: Recoveries which are recorded as miscellaneous income amount to 25 basis points of gross advances for the quarter against 23 basis points in the prior quarter. 
+asr:0: OUTPUT 893.17-901.98: Total annualized credit costs for the quarter was at 94 basis points, which includes impact of contingent provision of approximately 30 basis points. 
+asr:0: OUTPUT 902.46-907.39: Prior year was at 125 basis points, prior quarter was at 130 basis points. 
+asr:0: OUTPUT 908.13-917.24: Net profit for the quarter at 10,342 crores grew by 18.1% over prior year. We'll give you some balance sheet items, color on some balance sheet items. 
+asr:0: OUTPUT 917.78-924.10: Total deposits amounting to Rs. 14,45,918 crore is up 13.8% over prior year. 
+asr:0: OUTPUT 924.28-930.01: This is an addition of approximately 40,000 crores in the quarter and 1,75,000 crores since prior year. 
+asr:0: OUTPUT 930.45-936.50: Retail constituted about 83% of total deposits and contributed to the entire deposit growth since last year. 
+asr:0: OUTPUT 937.04-939.88: Capital deposits registered robust growth. 
+asr:0: OUTPUT 939.90-952.09: Of 24.6% year on year ending the quarter at 6,81,225 crores with savings account deposits at 4,71,000 crores, current account deposits at 2,10,000 crores. 
+asr:0: OUTPUT 953.73-960.52: Time deposits at 7,64,693 crores grew by 5.6 percent over previous year. 
+asr:0: OUTPUT 960.92-963.78: Time deposits in retail segment grew by 8.3%. 
+asr:0: OUTPUT 964.26-968.15: Time deposit to wholesale segment decreased by 2.8% year on year. 
+asr:0: OUTPUT 968.75-973.65: Deposit comprise 47 percent of total deposits as of December end. 
+asr:0: OUTPUT 974.21-983.20: Total advances were 12,60,863 crores grew by 5.2 percent sequentially and 16.5 percent over prior year. 
+asr:0: OUTPUT 983.62-989.59: Is an addition of approximately 62,000 crores during the quarter and 1,79,000 crores since prior year. 
+asr:0: OUTPUT 991.89-999.86: Moving on to CAPAC, which I covered at the beginning. According to Basel III guidelines, total capital adequacy is 19.5%. 
+asr:0: OUTPUT 1000.98-1005.29: Here one 18.4% CET at 17.1% which I covered previously. 
+asr:0: OUTPUT 1005.91-1010.09: Now getting on to some highlights on HDBFS this will be on India space. 
+asr:0: OUTPUT 1011.65-1019.84: The total loan book as on December 31st stood at 60,478 crores with a secured loan book comprising 74% of the total loan. 
+asr:0: OUTPUT 1020.84-1030.09: Conservative underwriting policies on new customer acquisition which was implemented during COVID continues to be in place and will be reviewed in due course based on external environment. 
+asr:0: OUTPUT 1030.57-1035.38: The investments are picked up in Q3, growing 9% quarter on quarter and 11% year on year. 
+asr:0: OUTPUT 1036.14-1044.30: For the quarter HDB FSL net revenues were 1982 crores a growth of 15 percent. 
+asr:0: OUTPUT 1045.09-1054.49: And contingencies for the core were at 540 crores including 97 crores of management overlays against 1024 crores for prior year. 
+asr:0: OUTPUT 1055.10-1056.38: I also got some facts. 
+asr:0: OUTPUT 1056.40-1066.37: For the quarter was 304 crores compared to a loss of 146 crores for the prior year quarter and a profit after tax of 192 crores for the sequential quarter. 
+asr:0: OUTPUT 1067.13-1072.63: Of December end, gross stage 3 stood at 6.05 percent flat sequential quota. 
+asr:0: OUTPUT 1073.25-1080.76: 80% of the stage three book is secured, carrying provision coverage of about 41% as of December end, and is fully collateralized. 
+asr:0: OUTPUT 1081.98-1087.15: 20% of the stage three book which is unsecured had a provision coverage of 84%. 
+asr:0: OUTPUT 1087.81-1094.39: The liquidity coverage ratio was strong at 222%. The STB is funded with a cost of funds of 5.9%. 
+asr:0: OUTPUT 1094.93-1100.64: Total capital adequacy ratio is at 20.3 with the tier 1 at 14.9. 
+asr:0: OUTPUT 1101.14-1106.31: With markets opening up and customer accessibility improved to near pre-COVID levels,. 
+asr:0: OUTPUT 1106.33-1112.97: We believe the company is well poised for a healthy growth from here on subject to any impact on further waves of COVID. 
+asr:0: OUTPUT 1114.35-1117.12: Now few words on HSL again on India's basis. 
+asr:0: OUTPUT 1117.88-1125.35: HSL, HTSC security is limited with its wide network presence of 213 branches and 147 cities and towns. 
+asr:0: OUTPUT 1125.85-1131.77: Country has shown an increase of 58 percent year on year in total revenue to 536 crores. 
+asr:0: OUTPUT 1132.71-1142.40: Net profit after tax of 258 crores in Q3 is an increase of 58% year on year. HSL's digital account opening journeys are running successfully. 
+asr:0: OUTPUT 1142.86-1150.11: There has been a significant increase in overall client base to 3.4 million customers as of end December, an increase of 30% over prior year. 
+asr:0: OUTPUT 1151.63-1161.28: In summary, we have reasonably overcome the effects of pandemic over the past 21 months across broad contours of balance sheet P&L and human capital. 
+asr:0: OUTPUT 1161.84-1167.73: While the effect of the latest COVID wave is not clear, which we'll have to watch out over the next few weeks to see where it turns. 
+asr:0: OUTPUT 1168.21-1172.21: We are confident of navigating through this, applying our learning from past waves. 
+asr:0: OUTPUT 1172.65-1176.62: Our growth is accelerating, leveraging on our people, product, distribution, and technology. 
+asr:0: OUTPUT 1176.98-1181.60: The quota results reflect the positive growth of 14%, advanced growth of 16%. 
+asr:0: OUTPUT 1182.02-1186.47: Profit after tax increased by 18% delivering the return on asset over 2%. 
+asr:0: OUTPUT 1186.59-1195.03: Earnings per share in the quarter of rupees 18.7, book value per share increased in the quarter by rupees 19.4 to 414.3. 
+asr:0: OUTPUT 1195.96-1200.42: With that, thank you very much. With that, may I request the operator to open up for questions. 
+asr:0: OUTPUT 1204.62-1209.05: Much. Ladies and gentlemen, we will now begin the question answer session. 
+asr:0: OUTPUT 1210.15-1215.14: Anyone who wishes to ask a question may press star and 1 on your touchtone telephone. 
+asr:0: OUTPUT 1216.18-1225.97: If you wish to remove yourself from the question queue, you may press star and two. Participants are requested to use handsets while asking a question. 
+asr:0: OUTPUT 1226.49-1229.71: We will wait for a moment while the question to the... 
+asr:0: OUTPUT 1245.79-1249.91: This question is from the line of Maru Kajaniya from Illara capsule. Please go ahead. 
+asr:0: OUTPUT 1252.29-1257.64: Hello, congratulations. My first question is on credit cost. 
+asr:0: OUTPUT 1258.16-1265.41: So the total credit cost including contingencies has come below 100 after many quarters, around three years. 
+asr:0: OUTPUT 1266.11-1273.99: Now, assuming that there's no further COVID wave, is that the new normal we are likely to see over the next few quarters? 
+asr:0: OUTPUT 1281.28-1289.05: I hope I can, yeah, this sound okay. 
+asr:0: OUTPUT 1290.33-1293.41: Okay, all right, yeah, I moved my chair, but it's okay. 
+asr:0: OUTPUT 1295.34-1300.92: Thank you. Yes, valid question and appropriate. Thanks for asking that. 
+asr:0: OUTPUT 1301.94-1309.39: See, we are coming from a COVID cycle where our booking have been... 
+asr:0: OUTPUT 1309.41-1313.15: From a retail point of view have been benign. 
+asr:0: OUTPUT 1314.11-1319.18: Second, from a wholesale point of view, which we have shown, very highly rated cost. 
+asr:0: OUTPUT 1320.00-1324.76: So, we come through the cycle and now starting to begin to get the retail. 
+asr:0: OUTPUT 1325.63-1329.21: The recent vintage, when we look at the recent vintage performance,. 
+asr:0: OUTPUT 1330.21-1338.92: They are far superior both the entry level scores and the customer profile in terms of how we opened up and started, they are superior. 
+asr:0: OUTPUT 1340.12-1345.87: And whether this is a new norm, I would not say that this is a new norm. 
+asr:0: OUTPUT 1346.87-1352.73: To look at credit cost normally over a cycle or period of a few years you have to look. 
+asr:0: OUTPUT 1354.29-1356.12: That's all you need to look at. 
+asr:0: OUTPUT 1356.78-1366.03: At the NPA 1.26 can bounce around at any time, 10 to the basis points up and down, two quarters ago 1.47, now 1.26. 
+asr:0: OUTPUT 1366.33-1369.57: You can go up and down within a small range. That's where it can come. 
+asr:0: OUTPUT 1370.05-1375.88: From a credit cost point of view, we are not given a particular outlook as such. 
+asr:0: OUTPUT 1376.34-1378.38: But we have averaged in the past. 
+asr:0: OUTPUT 1378.40-1387.85: Call it 1.2, 1.3, thereabouts. That's the kind of range at which the total cost of credit, total provisions that have come up with. 
+asr:0: OUTPUT 1388.33-1393.61: Current quarter is at about 95. So that's, they call it a little lower than that. 
+asr:0: OUTPUT 1394.05-1401.44: So in a broad range, if you think about 100 to 120 kind of a basis points, that's where in a,. 
+asr:0: OUTPUT 1401.46-1406.55: Last, go back to pre-COVID, that's the kind of range at which we have operated. 
+asr:0: OUTPUT 1407.77-1410.83: And if the credit costs are lower. 
+asr:0: OUTPUT 1411.77-1416.80: Then the way we look at it is it calls for experimenting a few things. 
+asr:0: OUTPUT 1417.16-1426.85: It calls for opening up for policy. So there is a policy reaction that comes in. There is always that pull and pressure between the business and the credit that happens. 
+asr:0: OUTPUT 1427.59-1438.52: So I will take that 50 or 60 basis points total credit cost or the specific losses or the total cost of 95 basis points as a good standard for. 
+asr:0: OUTPUT 1438.54-1439.88: For a long time to come. 
+asr:0: OUTPUT 1447.21-1455.52: Okay, thank you. So my next question is on fees. You did mention that payment and credit card related fees decline. 
+asr:0: OUTPUT 1456.10-1459.32: I mean, if you could give more color,. 
+asr:0: OUTPUT 1459.56-1463.98: Any one of the big time promotional expenses which won't recur. 
+asr:0: OUTPUT 1464.30-1470.63: So that we know, or we can get a clear outlook on the trajectory in the next few quarters. 
+asr:0: OUTPUT 1471.65-1474.73: Okay, yeah, again, a good question, thank you. 
+asr:0: OUTPUT 1475.44-1479.50: See the fees, 5,000 across that we reported is 2%, right? 
+asr:0: OUTPUT 1479.96-1489.39: In the past, we have done pre-COVID, if you think about it, before there were waivers and so on and so forth, we have done 20 odd percent of. 
+asr:0: OUTPUT 1490.31-1492.89: We have consistently said the way to think about the fees. 
+asr:0: OUTPUT 1493.97-1500.52: Is somewhere where it should settle is mid to high teens kind of places where it can settle right normally. 
+asr:0: OUTPUT 1501.34-1508.19: And again, this quarter, if you think about excluding the payment products, it is at about 17%. 
+asr:0: OUTPUT 1508.97-1514.23: Payment products has been unusually low. There are a few things to think about on the payment products. 
+asr:0: OUTPUT 1514.65-1521.08: One, as I alluded to, we offered certain fee waivers to incentivize customer engagement. 
+asr:0: OUTPUT 1521.46-1529.11: So that's one thing which doesn't need to occur every quarter, but it can happen every other quarter depending on what programs we run. 
+asr:0: OUTPUT 1529.31-1534.93: But that's part of running the business and that's part of growing the franchise. So that's one thing to think about. 
+asr:0: OUTPUT 1535.44-1538.26: Second, even from a cost point of view,. 
+asr:0: OUTPUT 1538.28-1546.43: From a credit, I think I alluded to in terms of how customer behavior from a late payment point of view. 
+asr:0: OUTPUT 1547.53-1556.76: Is that the customers are paying very much on time. So that is reflected there too. So the opportunity that we used to get from a late payment doesn't come through. 
+asr:0: OUTPUT 1557.74-1567.47: Customers used to take cash advances, that is on the lower end. So the cycle has to turn a little more on that. And so you'll see some cash advances coming through. 
+asr:0: OUTPUT 1568.59-1577.78: From a policy point of view, until recently, we were tight on the credit limits, right? So there is a credit limit over the credit limit, there is some fees that will come. 
+asr:0: OUTPUT 1578.30-1582.10: Is also lower because from a policy point of view, we've been cautious on that. 
+asr:0: OUTPUT 1582.46-1590.07: But as we speak now, the policy review has taken place and we are getting to business as usual subject to another wave of what it does and so on. 
+asr:0: OUTPUT 1590.17-1598.68: So that is one aspect that you think in terms of the impact. But then the broader context is required in terms of what is the overall. 
+asr:0: OUTPUT 1599.38-1604.24: So if you think about the customers itself, particularly I'm talking about the payment products, the card customers. 
+asr:0: OUTPUT 1604.98-1611.27: The credit line utilization is at a low, it's like on gate X of the pre-pandemic level. 
+asr:0: OUTPUT 1611.31-1614.99: So, the while the spend levels are up 24 percent. 
+asr:0: OUTPUT 1615.52-1620.24: And the interchange is quite robust and good, with a good yield that we get on that. 
+asr:0: OUTPUT 1620.86-1629.81: But the credit line utilization has got much more to go to get back to the pre-pandemic level. So that's one thing on the people who are spending. So the thing they're facing. 
+asr:0: OUTPUT 1630.49-1634.41: And then if you think about this, they are all paying what is happening to their revolver types, right? 
+asr:0: OUTPUT 1635.26-1640.06: That is also at about 0.7 to 0.8 of the pre-COVID levels in terms of the revolving on cars. 
+asr:0: OUTPUT 1640.38-1645.47: There's much more room for people to get into those revolver types. 
+asr:0: OUTPUT 1646.17-1649.33: So that's part of what the strong quality of the book that exists today. 
+asr:0: OUTPUT 1650.13-1656.88: And that is part of what some of the fees that come are also muted, which are connected to that. 
+asr:0: OUTPUT 1657.28-1662.50: I'll give you another perspective to think about on the cost of the customer's liquidity. 
+asr:0: OUTPUT 1663.64-1672.11: Deposit balances, you know, most of our card customers, you know, have liability relationships with us, right? We have a good amount of liability relationships. 
+asr:0: OUTPUT 1672.81-1678.04: Card customers contributed almost 4 x, this is pre-code. 
+asr:0: OUTPUT 1679.28-1687.19: If we access the AMR of cars, which is the car loans on both, at an aggregate level,. 
+asr:0: OUTPUT 1687.57-1694.13: At an aggregate level, the liability balances of the card customers were typically 4x. Right now it is 5x. 
+asr:0: OUTPUT 1694.41-1700.94: So which means customers are sitting in a good amount of deposits and liability balances with that. 
+asr:0: OUTPUT 1701.70-1707.69: This is the economy has come down and now this with a huge amount of liquidity and cash at disposal with people. 
+asr:0: OUTPUT 1707.97-1709.59: Now it is starting to pick up on goal. 
+asr:0: OUTPUT 1710.09-1714.33: And so this is part of the cycle growth that we expect that to come back to a reversion, right? 
+asr:0: OUTPUT 1714.81-1721.76: From a long-term point of view, mid-teens to high-teens is what we have said in the past, that that's what one should expect from a cost-based point of view. 
+asr:0: OUTPUT 1724.12-1730.13: But how in your assessment, how many quarters would it take to reach that long-term goal? 
+asr:0: OUTPUT 1733.27-1736.24: Combination of both the environment, the economic environment and the environment. 
+asr:0: OUTPUT 1736.34-1743.80: Economic activity in the environment and the customer behavior to get on with that. 
+asr:0: OUTPUT 1744.74-1753.83: Could be two, three, four quarters. I would expect that. I don't want to venture to predict exactly what it is because there's no exact science that tells where it is. 
+asr:0: OUTPUT 1753.89-1759.92: But typically that is what you would see that it takes for a maturity model to operate. 
+asr:0: OUTPUT 1761.88-1768.97: Similarly, the same thing applies to if you think about the PPOP, it is very similar. 
+asr:0: OUTPUT 1769.33-1772.67: Whether as the zone growth gets back. 
+asr:0: OUTPUT 1773.05-1780.28: The PPOP should more or less mimic the loan growth. That is what historically that we have shown, that is where historically we have performed. 
+asr:0: OUTPUT 1780.54-1788.67: That is the kind of what the loan growth is the headline. That's what most of the lines operate tend to be similar as we go along. 
+asr:0: OUTPUT 1791.69-1801.46: Okay, thanks. Thanks a lot. That's helpful. Thank you. The next question is from the line of Alpesh Mehta from IISL Security. Please go ahead. 
+asr:0: OUTPUT 1803.84-1805.71: So thanks for taking my question and congrats. 
+asr:0: OUTPUT 1807.63-1811.95: The first question is about the reconciliation between the unstructured load and the unstructured. 
+asr:0: OUTPUT 1812.33-1818.26: What we see in the notes to accounts that works out to be around 23,000. And 1.37 works out to be around 17,000. 
+asr:0: OUTPUT 1818.94-1820.80: So how do you reconcile both these numbers? 
+asr:0: OUTPUT 1823.62-1828.47: You're seeing what you said. 
+asr:0: OUTPUT 1828.51-1835.14: The total number works out to be around 18,000 Garums plus there would be a R1 number. 
+asr:0: OUTPUT 1835.58-1843.04: So both put together is around 25,900. Notes to Account also mentions that the double counting between R1 and R2 is around 25,900. 
+asr:0: OUTPUT 1843.18-1846.41: In R2 is around 2700 crores or something. 
+asr:0: OUTPUT 1847.09-1854.61: So the net number works out to be around 23,200 crores whereas our comment shows that it's around 17,200. 
+asr:0: OUTPUT 1855.34-1857.28: So that is the gap of this around 6000. 
+asr:0: OUTPUT 1860.00-1868.65: See, it is based on what the template, right? Somebody signed the template and we filled the template up and put up there, right? So that's something different. 
+asr:0: OUTPUT 1869.15-1870.99: It's a good point that you raised. 
+asr:0: OUTPUT 1872.05-1873.83: The 25,000, what was there? 
+asr:0: OUTPUT 1874.15-1883.28: Is what did you grant as a restructuring in R1 and R2 when you add up that is what it is and if you eliminate the. 
+asr:0: OUTPUT 1883.34-1885.61: Eliminate the double coil it is that. 
+asr:0: OUTPUT 1887.55-1896.60: This is originally as granted in several points in time that means whenever it was granted at those points in time, what was the number that is what you see there. 
+asr:0: OUTPUT 1897.74-1901.88: September we reported 18,000 crores right last September. 
+asr:0: OUTPUT 1902.44-1907.47: And currently, we say 1.37, that is 17,500 crores or so far. 
+asr:0: OUTPUT 1908.55-1913.67: The 18,400 to 17,500, the movement. 
+asr:0: OUTPUT 1914.27-1922.14: They call that about 900 crores per woman, that half of it is moved to NPA, half of it is a net of various recoveries and adjustments. 
+asr:0: OUTPUT 1922.32-1926.11: So that is part of what from September to December, things have moved. 
+asr:0: OUTPUT 1926.93-1930.51: But between the 22 to what we reported in September 18,000. 
+asr:0: OUTPUT 1930.79-1939.54: That is the net of whatever happened before September, which is between what happened to NPA, what happened to various recoveries and adjustment around that time. 
+asr:0: OUTPUT 1940.00-1941.48: As we speak in September. 
+asr:0: OUTPUT 1941.90-1950.15: That's part of, I think some of you picked up the number of what was originally granted, but what was outstanding as of September is 18,000. 
+asr:0: OUTPUT 1950.21-1952.11: And now it is 17,500. 
+asr:0: OUTPUT 1954.15-1958.74: So, Srini just correct me if I am wrong, if I look at the September disclosure right. 
+asr:0: OUTPUT 1959.30-1966.69: The R1 plus R2 minus the double counting, as per the notes to accounts was around 22,500. 
+asr:0: OUTPUT 1967.63-1975.34: Of which there were NPLs and the amount repaid of the R1 amount that you mentioned in the MOOC's flow form. So that number was around 20,400. 
+asr:0: OUTPUT 1975.82-1978.76: Whereas as per your disclosure in September was 18,000. 
+asr:0: OUTPUT 1979.54-1987.59: 2000 crores was the difference between the amount which was reported as of September and between the year result date. Is that my understanding correctly? 
+asr:0: OUTPUT 1988.55-1993.29: And various other recoveries and other things that came until the reporting date. 
+asr:0: OUTPUT 1995.26-2002.88: Okay, okay and right now also is a similar situation wherein you have not reported the NPLs and the repaid amount out of R1 and R2. 
+asr:0: OUTPUT 2003.44-2011.49: So the, as far as the notes to account, it could be around 23,200, but after the recovery and everything and the repayment. 
+asr:0: OUTPUT 2020.00-2027.15: The calls for reporting only R2 as originally granted which is reflecting 18,000 crores or something in the notes. 
+asr:0: OUTPUT 2027.67-2036.90: 18,000 crore is not the outstanding, 17,500 is outstanding. So whatever was mandated to show in the notes, that's what we showed. 
+asr:0: OUTPUT 2037.38-2043.02: Both when I talked and I gave the 1.37 that is the 17000. 
+asr:0: OUTPUT 2044.70-2050.79: Which is R1, R2 whatever is the restructuring outstanding on the balance sheet that is the number that you are mentioning. 
+asr:0: OUTPUT 2053.59-2054.67: The second question. 
+asr:0: OUTPUT 2054.69-2064.66: Can you just give some qualitative comments related to the tenure of this book? You mentioned as one of your comment that 10-20 basis points would be shifting to cross NPN. 
+asr:0: OUTPUT 2065.01-2066.39: At any given point in time. 
+asr:0: OUTPUT 2066.71-2072.09: That could be a situation that almost 25-30% of this group can sleep over a period of next one year. 
+asr:0: OUTPUT 2073.13-2079.22: When we are talking about 10-20 basis points of that particular quarter or over the tenure of the book. 
+asr:0: OUTPUT 2079.30-2086.33: Example, if it's around 1.37, then out of this 1.37, only 20 business points can slip into NQL category. I just wanted to clarify that. 
+asr:0: OUTPUT 2088.79-2093.13: And by the way, there is no particular signs of 10, 20 or something, this is based on the. 
+asr:0: OUTPUT 2093.15-2097.58: What our analytics comes up to say based on what experience we have seen. 
+asr:0: OUTPUT 2097.82-2104.96: Based on the customer profile which I alluded to say for example, the one that I gave, about 40% are secure. 
+asr:0: OUTPUT 2106.09-2111.05: Fully collateralized and we with a good good civil score. 
+asr:0: OUTPUT 2111.61-2112.97: Which we feel very comfortable with. 
+asr:0: OUTPUT 2114.07-2122.38: Then on the unsecured portion, we said about, call it roughly about two-thirds or so of salaried customers where we feel quite comfortable. 
+asr:0: OUTPUT 2124.06-2131.75: And then on the balance, where we keep watch, about 40% or so good Sibyl scores, Sibyl scores more than 700 or so. 
+asr:0: OUTPUT 2132.55-2137.80: So, based on various these kind of analysis that is where we if you said we feel comfortable. 
+asr:0: OUTPUT 2137.84-2143.70: That tend to the basis points at any particular point in time that can be within our tolerable range. 
+asr:0: OUTPUT 2144.74-2152.05: And from a restructuring point of view, generally the restructuring can run up to two years. 
+asr:0: OUTPUT 2153.13-2160.66: And again, if there was one year of a loan left and two years granted, now the person has got it for over three years to go. 
+asr:0: OUTPUT 2163.74-2170.73: So again, just again clarifying over here is almost 15 to 20% of the book can split as per your analysis. 
+asr:0: OUTPUT 2171.55-2173.43: Is that T number correct now? 
+asr:0: OUTPUT 2173.59-2183.34: That 10, 20 business points is so of 1.37% so it's around whatever that 7 to 15% of the book can see based on your analytics or the customer. 
+asr:0: OUTPUT 2183.60-2184.72: So. 
+asr:0: OUTPUT 2187.25-2193.67: I don't want to venture into extrapolating the 10, 20 basis points into various time periods. 
+asr:0: OUTPUT 2197.94-2199.38: Any questions related to this? 
+asr:0: OUTPUT 2199.54-2204.46: Credit growth of historical we had a multiple X multiple of the. 
+asr:0: OUTPUT 2204.48-2210.89: System credit growth that we always used to guide about, but as just an indicated number. 
+asr:0: OUTPUT 2211.25-2218.22: But now when I see at the system level, because of the consolidation in the larger segment within the PSU band. 
+asr:0: OUTPUT 2218.40-2223.70: The system may be growing at X percent, but the private sector banks are growing much faster than that. 
+asr:0: OUTPUT 2224.18-2230.01: And some of our larger peers are also growing at a significantly higher rate than that of the system. 
+asr:0: OUTPUT 2230.85-2238.60: How do we see our credit growth? Do we still maintain that X percentage that we used to talk about in the past or we can have a. 
+asr:0: OUTPUT 2238.62-2242.00: Better opportunities to grow much faster and gain market share. 
+asr:0: OUTPUT 2242.62-2251.87: Secondly, your comments on the three specific products. One is payment product. Second one is the commercial and rural bank. It is growing very fast at around almost 30% by Hawaii. 
+asr:0: OUTPUT 2252.31-2260.70: And lastly, corporate and wholesale banking, since we have developed quite a bit of capabilities over the last two years and grown this more compressively as a share of overall. 
+asr:0: OUTPUT 2261.10-2262.60: So good night. 
+asr:0: OUTPUT 2264.52-2269.09: Thank you, long question, but I'll try to be as short and crisp as possible. 
+asr:0: OUTPUT 2270.63-2273.57: If you think about the loan growth and the market share. 
+asr:0: OUTPUT 2274.55-2281.78: One thing is that our loan growth is consistent, right? Consistently growing, including during the COVID period. 
+asr:0: OUTPUT 2282.60-2287.27: And one has to look at it not one quarter, two quarters, but over a longer period of time. 
+asr:0: OUTPUT 2287.63-2293.01: Want us to look at how we are growing rather than the one period. 
+asr:0: OUTPUT 2293.37-2296.42: Essentially looking at the consistency of growth over a longer period. 
+asr:0: OUTPUT 2296.66-2300.22: For example, you can take a two year growth, right, a longer period. 
+asr:0: OUTPUT 2300.98-2308.53: And that includes the COVID period too. We have grown at 35%, right? Let's call it high teens annual, that kind of a growth rate, that's why. 
+asr:0: OUTPUT 2309.27-2314.61: And similarly, you can go back five years, five years, right between 2016 to 21 or something like that. 
+asr:0: OUTPUT 2315.24-2321.04: Again about two plus, a little more than double, call it high teens type of crop. 
+asr:0: OUTPUT 2321.20-2322.48: That's what we have. 
+asr:0: OUTPUT 2323.30-2330.33: So one has to evaluate in the current circumstances, one also has to evaluate based on the incremental basis, right, what we have grown. 
+asr:0: OUTPUT 2331.17-2339.04: We believe based on an incremental basis, we have a share of more than 25% or so on an incremental basis, right, from what has happened. 
+asr:0: OUTPUT 2340.28-2346.43: If you think about it, a lot in 79,000 crores in the past 12 months, 325,000 crores in 24 months. 
+asr:0: OUTPUT 2347.51-2355.52: And again, we focus on appropriate products. We touched upon the categories of commercial and rural or wholesale and retail. 
+asr:0: OUTPUT 2356.36-2358.10: At some point in time. 
+asr:0: OUTPUT 2358.96-2367.21: We did grow a good amount of wholesale. It's a good demand. We were there for the customers to support them in terms of the wholesale, very highly rated. 
+asr:0: OUTPUT 2367.81-2373.61: And now we see a lot of pre-payments happening. That's about 7% is what year on year we see in the whole state. 
+asr:0: OUTPUT 2374.29-2383.52: On the commercial and rural, enormous opportunity and very fast growing. About a third of the country's GDP is contributed by that kind of a segment. 
+asr:0: OUTPUT 2384.90-2392.83: And we want to participate more vehemently in that group, in that segment, and we will continue to bounce on that one. 
+asr:0: OUTPUT 2393.47-2403.40: On the retail, we were subdued, rightfully so from a policy point of view, we are back. And that is what you're seeing in the sequential growth at 4.5% or so. 
+asr:0: OUTPUT 2403.64-2407.11: So, coming back to the same summary. 
+asr:0: OUTPUT 2407.49-2414.85: Which is not one quarter or two quarters doesn't establish what the growth is. It's about the consistency of growth and over a period of time. 
+asr:0: OUTPUT 2415.34-2421.02: And that's how you must look at it in terms of our growth and we will continue to capture market share. 
+asr:0: OUTPUT 2422.66-2430.95: And again, in a balanced portfolio across secured, unsecured in retail, across commercial and rural and wholesale. 
+asr:0: OUTPUT 2431.01-2434.37: So across various product spectrum, customer spectrum. 
+asr:0: OUTPUT 2443.20-2450.53: Thank you. The next question is from the line of Akriti Kakkar from Goldman Sachs. Please go ahead. 
+asr:0: OUTPUT 2452.99-2455.68: Thanks, hi, Srini. Good evening, Rahul here. 
+asr:0: OUTPUT 2456.74-2464.08: A couple of questions. First one on the asset quality bit. Just wanted to confirm, was there any new restructuring that we did in this course? 
+asr:0: OUTPUT 2466.03-2474.03: No, no new restructuring, but part of that net change that I gave you 500 crores is a plus and a minus net of 500. 
+asr:0: OUTPUT 2474.35-2477.52: Is whatever was in the pipeline that came out of the pipeline. 
+asr:0: OUTPUT 2477.62-2485.29: So, that is the first part of the presentation. 
+asr:0: OUTPUT 2485.91-2491.33: But then the paydowns and other things that happen. So net net, it is at 17,500 on point three. 
+asr:0: OUTPUT 2494.25-2497.84: Second, which is only slippages and credit cost. 
+asr:0: OUTPUT 2497.86-2506.83: I think Maru also asked this question. On the credit cost also, 95 basis point and slippages also are one of the lowest that we've seen in the last three quarters. 
+asr:0: OUTPUT 2507.29-2512.87: Assuming no pandemic impact, you think this could be a new normal over the next few quarters? 
+asr:0: OUTPUT 2513.37-2520.02: And then in that context, how do you plan to build up the PCR buffer from here? Shall we continue to see more and more protein-providing. 
+asr:0: OUTPUT 2523.06-2528.89: Good question used to touch upon another aspect of what Mark also touched upon. 
+asr:0: OUTPUT 2529.63-2536.66: But as a bank, we don't need one particular outlook or forecast in terms of how to look at a credit. 
+asr:0: OUTPUT 2537.08-2539.00: All I can point to is to historical. 
+asr:0: OUTPUT 2539.86-2545.97: To say that in the recent COVID time period, we operated 1.2, 1.3% kind of thing. 
+asr:0: OUTPUT 2546.27-2552.25: If you go to a little before the COVID period, 100 to 120 basis points, somewhere there we operated. 
+asr:0: OUTPUT 2552.85-2557.84: Currently including the contingent provisions about 95 basis points. 
+asr:0: OUTPUT 2558.62-2561.48: But yes, over a period of time, again, when you look at it. 
+asr:0: OUTPUT 2561.56-2569.13: We should revert to that kind of a what was the pre-COVID mean, a type of a mean reversion should happen towards there, right? 
+asr:0: OUTPUT 2570.35-2580.18: So, the current quarter is reflective of what we have booked because the recent vintages, call it the 18 months or 15, 18, 21 months type of vintages that we have booked. 
+asr:0: OUTPUT 2580.94-2583.80: Across various segments, right, across various segments. 
+asr:0: OUTPUT 2584.24-2589.93: They are of very good quality. Retail book, you know, is typically two years on an average retail book. 
+asr:0: OUTPUT 2590.59-2592.31: And it is of a very good quality. 
+asr:0: OUTPUT 2592.69-2599.78: And our innovation lab is working on several things, including opening up new to bank, right? So that means. 
+asr:0: OUTPUT 2599.86-2608.61: What previously that we had about call it 80% of existing to existing to bank a personal loan or. 
+asr:0: OUTPUT 2608.63-2613.23: Or call it two-thirds to 70% existing to bank card loans. 
+asr:0: OUTPUT 2613.69-2616.90: Now, the innovation lab is making progress. 
+asr:0: OUTPUT 2616.92-2624.16: Towards using alternative data from the market to see how new to bank could be as efficiently scored. 
+asr:0: OUTPUT 2624.18-2627.83: And pass through the master on the scoring models to get it. 
+asr:0: OUTPUT 2628.61-2633.19: So yes, I wouldn't ask you to project based on the current quarter. 
+asr:0: OUTPUT 2633.75-2639.74: But if you think about it from a pre-COVID norm, what it is, and that's the kind of. 
+asr:0: OUTPUT 2640.00-2643.54: Second aspect of the question on the building of the provisions and so on. 
+asr:0: OUTPUT 2644.54-2650.19: Our buildup of the contingent provisions goes back several quarters and much before the onset of the COVID-19 pandemic. 
+asr:0: OUTPUT 2651.35-2657.18: For example, if you look at June 19 or so, when we initiated a build of our contingent provisions. 
+asr:0: OUTPUT 2657.80-2663.90: Was to argument our counter cyclical solutions then. At that time the contingent solutions were less than 1000 crores. 
+asr:0: OUTPUT 2664.62-2673.51: Today it's built up, it's more than 8,500 crores, right? Or about 70 basis points of gross advances, or 80 basis points including floating portion. 
+asr:0: OUTPUT 2673.99-2675.54: The way whichever way you look at it. 
+asr:0: OUTPUT 2676.36-2685.67: What it does is that it makes the balance sheet much more resilient for any shocks, uncertainty pandemic can bring. And what does such resiliency do? 
+asr:0: OUTPUT 2685.89-2693.35: It supports good execution on the frontline for our growth, including making several experiments in our lab, as I alluded to. 
+asr:0: OUTPUT 2693.99-2700.26: So that is how we should think about, we evaluated quarter to quarter, there is no pre-planned type of. 
+asr:0: OUTPUT 2700.56-2705.63: How this runs, we take it as it comes in a quarter and evaluate. 
+asr:0: OUTPUT 2707.61-2713.55: On it. Just two more questions. The other question was on the credit card or the payment. 
+asr:0: OUTPUT 2714.39-2718.18: You laid out a few points why it was stupid this quarter. 
+asr:0: OUTPUT 2719.14-2724.28: But when you think about the structural profitability of this product and also what regulators are thinking. 
+asr:0: OUTPUT 2725.13-2732.37: Any thoughts as to how we should think about what are the components that would still remain remunerative while the components which would witness some pressure. 
+asr:0: OUTPUT 2732.71-2738.48: You pointed about the fee waiver, the repayment fee, et cetera, sort of coming down. 
+asr:0: OUTPUT 2739.02-2741.24: So how should we think about more from a one to two year? 
+asr:0: OUTPUT 2742.90-2752.87: Good question, right. We'll come to that, the regulatory or any other thing that will come to that. But from an overall buoyancy point of view. 
+asr:0: OUTPUT 2753.17-2757.42: See the first aspect of a card is about the spin. 
+asr:0: OUTPUT 2757.94-2765.33: And the trend is quite picked up, 24% or so year on year growth. So that is something that has happened. 
+asr:0: OUTPUT 2766.13-2774.93: The next thing as the spend goes up, the credit line utilization needs to go up as I said. The credit line utilization due to the spend coming down over the period of the COVID came down. 
+asr:0: OUTPUT 2775.26-2782.14: Now it needs to go up, but the still credit line utilization is at about 0.8 of the pre-pandemic level. So that should start to go up. 
+asr:0: OUTPUT 2782.24-2786.33: And along with that gets to the revolving and so on and so forth everything else that. 
+asr:0: OUTPUT 2787.33-2792.33: And from a fee charging point of view, there's various fees. 
+asr:0: OUTPUT 2792.73-2801.54: The. 
+asr:0: OUTPUT 2801.56-2803.06: Routine and will happen. 
+asr:0: OUTPUT 2803.08-2805.07: Moves on as the volumes come. 
+asr:0: OUTPUT 2806.99-2810.41: Any other type of fees that where there can be a regulatory constraint. 
+asr:0: OUTPUT 2810.71-2817.66: Also comes to the cost. So that means you need to think about not just the fees, it's also you need to think about the cost that goes to the fees. 
+asr:0: OUTPUT 2818.10-2825.89: So, what is the cost of that? 
+asr:0: OUTPUT 2826.97-2836.76: You see that there is a balance between what you earn on the fees and what you spend on the expenses. Call it the reward. Call it the cashback. Call it the sales promotion, the marketing promotion. 
+asr:0: OUTPUT 2837.06-2842.68: They all have some linkages across the P and L right from top to bottom, these are the kind of linkages. 
+asr:0: OUTPUT 2843.14-2846.61: One cannot look at only one isolation as a structural change. 
+asr:0: OUTPUT 2847.03-2848.25: There is no such structural change. 
+asr:0: OUTPUT 2848.51-2855.88: But if there were to be a structural change, one has to look at it across all the lines in terms of what is discretionary and what supports what. 
+asr:0: OUTPUT 2856.58-2865.87: Then accordingly one has to model. But from an aggregate sense, the cost profitability model should remain intact irrespective of whatever. 
+asr:0: OUTPUT 2868.87-2874.55: Last question on the digital strategy, you know, partnership. 
+asr:0: OUTPUT 2874.57-2884.52: So, can you just talk about this partnership with PENTAX or the entities that you're looking about and how does it sort of feed into your digital tools or tools strategy? 
+asr:0: OUTPUT 2884.54-2886.77: To acquire and retain the customers. 
+asr:0: OUTPUT 2888.65-2891.15: And also from operating leverage point of view. That is the last question. 
+asr:0: OUTPUT 2891.37-2895.70: Thank you. 
+asr:0: OUTPUT 2896.40-2904.36: It is a key question and getting talked about everywhere in terms of partnerships and how you think about and the cost of income and so on and so forth. 
+asr:0: OUTPUT 2904.99-2914.65: Maybe it's a time I'll take two, three minutes or so to describe, right? How we think about it and you can see whether it fits in with what you're all thinking. 
+asr:0: OUTPUT 2915.84-2924.28: See, in a bank, you'll have to look at things in three different kind of activity, call it like that. 
+asr:0: OUTPUT 2925.35-2931.71: One is the customer acquisition. The second one is the customer servicing. And third one is relationship management. 
+asr:0: OUTPUT 2932.59-2937.06: This is the continuum of how one engages with the customer at workshop. 
+asr:0: OUTPUT 2937.92-2944.26: The various FinTechs and the partnerships that we are all talking about is on the front end there, on the customer acquisition side. 
+asr:0: OUTPUT 2945.17-2953.11: We have several channels for acquisition branch, we have a virtual relationship model, we have a feet on street model, we have a physical DSA model. 
+asr:0: OUTPUT 2954.19-2959.22: And then now we have a digital marketing model developed over the last 3 years based on analytics. 
+asr:0: OUTPUT 2959.54-2966.79: And now we have a partnership model, whether call it a FinTech partnership or any other type of partnership that you think about, that is another model. 
+asr:0: OUTPUT 2967.39-2974.09: And we do get, gave you some time ago in terms of regarding 2.4 million liability relationship. 
+asr:0: OUTPUT 2974.17-2979.54: That's the key ingredient that comes in based on which every other product starts to work on that. 
+asr:0: OUTPUT 2980.76-2983.10: So that is the kind of inflow of customers. 
+asr:0: OUTPUT 2983.34-2987.23: So you get a little more accelerated customer acquisition. 
+asr:0: OUTPUT 2987.45-2995.02: At the end of the day, you measure the effectiveness of that through the better cost of acquisition, which is the optimal cost of acquisition, that's where it gravitates to. 
+asr:0: OUTPUT 2995.24-3004.82: If a branch brings in accounts, brings in relationships at a cost that is much better than the FinTech or better than a partnership, that is where things gravitate to. 
+asr:0: OUTPUT 3005.15-3008.69: That's part of the cost of acquisition model, that's how you think about that. 
+asr:0: OUTPUT 3009.21-3016.80: In certain other FinTech or service or a mobile banking feature or various other things that go that goes in customer servicing. 
+asr:0: OUTPUT 3016.94-3021.74: That is enabling customers to do things where it can be done on self-service. 
+asr:0: OUTPUT 3021.90-3028.05: Or where it is done through a relationship management, how on a straight through basis, on a paperless basis that we execute. 
+asr:0: OUTPUT 3028.35-3037.06: That's where you measure that to a cost to income. Are you at an optimum level in a cost to income where you're able to support the customer's activity in an optimum manner? 
+asr:0: OUTPUT 3037.28-3042.54: So that is, that you measure through how we are executing on that aspect of it. 
+asr:0: OUTPUT 3044.08-3053.27: Now on the relationship management, which is where the most of the money, right? Which somewhere in the past we have done, we have said, last year I think we mentioned it. 
+asr:0: OUTPUT 3053.29-3060.88: I think that is a good point. 
+asr:0: OUTPUT 3061.74-3064.80: And 30% of the customers are the ones where we have a relationship. 
+asr:0: OUTPUT 3065.53-3073.51: So at the end of the day, you can bring in any customers through any channel, optimum cost of acquisition, you service them through digital approach to any way. 
+asr:0: OUTPUT 3073.91-3077.54: At the end of the day, the value, it comes through relationship management. 
+asr:0: OUTPUT 3078.10-3084.94: That's what at least in our case, we have published that and we have talked about it in the past. So it is about the relationship management that brings it. 
+asr:0: OUTPUT 3085.29-3088.13: Now, there are certain things in relationship management. 
+asr:0: OUTPUT 3088.51-3095.46: For example, in the relationship management, we implemented, we talked about over the last 12 months, actually during the COVID period. 
+asr:0: OUTPUT 3095.56-3100.36: The analytics-based engagement with the customer, the next best action. 
+asr:0: OUTPUT 3101.06-3102.50: That we implemented. 
+asr:0: OUTPUT 3103.28-3108.79: In terms of how it rank orders customer preferences based on products, behavior. 
+asr:0: OUTPUT 3108.85-3114.11: And the intent to purchase and that the recommendations that come we have for 20 million customers. 
+asr:0: OUTPUT 3114.61-3123.86: We have recommendations that we have an engagement with MOP. Again, it is digitally driven, proprietary driven internally through analytics. Technology helps there. 
+asr:0: OUTPUT 3124.14-3131.77: Delivery is through relationship management. So this is, it can't be delivered through a mobile banking or an internet banking or a FinTech partnership. 
+asr:0: OUTPUT 3132.03-3137.10: Other partnership can't be delivered. It gets delivered through because that's where the value comes through a through. 
+asr:0: OUTPUT 3137.50-3142.12: So that is something that the capability is coming from there. 
+asr:0: OUTPUT 3142.52-3150.25: So that's probably I leave it there. I've taken a minute or two more than what I said I will do on that. Hope that gives a perspective of how we think about. 
+asr:0: OUTPUT 3151.67-3154.85: Yes, yes. Thank you so much, Srini. We will definitely take it offline as well. Thank you. 
+asr:0: OUTPUT 3156.38-3160.76: Thank you. The next question is from the line of Saurabh from J.P. Morgan. Please go ahead. 
+asr:0: OUTPUT 3162.08-3169.69: Hi, good evening Srini. So just one question. One, this is on your net interest margin. So how should we think about the progression from here? 
+asr:0: OUTPUT 3169.89-3172.67: The book mix clearly seems to be getting better. 
+asr:0: OUTPUT 3172.69-3176.84: And you know, if rates rise, you clearly seem to be better positioned. 
+asr:0: OUTPUT 3177.34-3182.60: So would you expect that the NIN should go up from here and in that context you. 
+asr:0: OUTPUT 3182.64-3189.77: Your earlier comment that the people will grow in line with loan growth. Shouldn't I get this could be better? Thanks. 
+asr:0: OUTPUT 3192.93-3198.70: So thanks for asking again, a very key part of the dynamics from the PNL to think about. 
+asr:0: OUTPUT 3199.98-3206.51: Historically over a period of 3 years, 5, 10, 15, we have seen all of those which you have seen too. 
+asr:0: OUTPUT 3207.45-3213.39: Bank has operated in the band of call it 3.94 to 4.45. 
+asr:0: OUTPUT 3214.11-3221.32: 4.4, 4.5%. That's the band at which, by the way, that is based on average assets, not interest earning assets. 
+asr:0: OUTPUT 3221.76-3229.67: I do not want to get confused with the denominator being what it is, denominator in this case that I quoted the numbers is average assets. 
+asr:0: OUTPUT 3229.79-3235.82: Because there is a process I think in the industry about using interest earning assets, but that's a different matter. 
+asr:0: OUTPUT 3236.70-3240.80: 3.94 to 4.4, 4.5, right? That's the bandwidth. 
+asr:0: OUTPUT 3241.14-3243.08: We are at the low end of the band. 
+asr:0: OUTPUT 3243.46-3252.25: Because the retail products where we see much more of yield coming, much more of a spread. 
+asr:0: OUTPUT 3252.51-3254.93: And it comes with higher RWA. 
+asr:0: OUTPUT 3255.60-3260.16: Comes with a better, with a higher risk rating on those, right, that comes there. 
+asr:0: OUTPUT 3261.12-3267.31: We brought that down in the mid-40s and it's starting to take its own legs and start to grow. 
+asr:0: OUTPUT 3268.07-3273.99: So one is that it needs to take its time to grow back to what it was, call it two years ago. 
+asr:0: OUTPUT 3274.55-3283.28: That's the journey and the journey if you look at the sequential that you have seen about four and a half percent call it 18 percent or so is the growth on the retail portfolio. 
+asr:0: OUTPUT 3284.16-3287.59: And the next part of that could also be on the retail front itself. 
+asr:0: OUTPUT 3288.35-3297.76: The mix of the retail fund, right, whether in the current rate scenario, what sort of loans that that is right. It also depends on the segment in which we operate. 
+asr:0: OUTPUT 3298.46-3308.35: In the recent past, we have had a good growth in retail, this quarter 4.5, last quarter also it was 4 something. So it's going to take a few quarters for that to come back to life. 
+asr:0: OUTPUT 3308.71-3312.39: But within that, as we came out of COVID and started to focus on this,. 
+asr:0: OUTPUT 3312.59-3319.22: We have five categorization for the carpet salaried segment which where many of our high yield products are targeted to. 
+asr:0: OUTPUT 3320.12-3322.02: Category A, B, C, D, E. 
+asr:0: OUTPUT 3322.98-3332.33: And category A, B, C, category A, category B, category C is a kind of a very popular where we have had a good success to start with right. 
+asr:0: OUTPUT 3333.01-3337.66: And we should have broad base as we go along with better yield on the rates also going. 
+asr:0: OUTPUT 3338.22-3343.24: That is something to keep in mind. And the other aspect of it is also the government's. 
+asr:0: OUTPUT 3344.32-3353.29: The government segment in our risk analytics model can typically be a low risk relative to the rest. 
+asr:0: OUTPUT 3353.65-3362.94: And we'll come in a risk-based pricing model, it will come with a relatively lower yield than the rest. So that is something also we are focused and continue to focus on that also. 
+asr:0: OUTPUT 3363.40-3364.66: So at the end of the day. 
+asr:0: OUTPUT 3364.68-3374.55: It will take few quarters for this mix of retail and within the mix of retail should be much more broad based across all the segments within the retail that we are talking about to come up. 
+asr:0: OUTPUT 3374.59-3378.60: So that is one aspect of what you can think about the NIM coming up. 
+asr:0: OUTPUT 3379.08-3382.20: The other aspect of the NIM is also about the race itself. 
+asr:0: OUTPUT 3383.50-3386.91: If you think about the repo rate, loans linked to repo rate. 
+asr:0: OUTPUT 3387.51-3389.89: Slightly under a third right now right about. 
+asr:0: OUTPUT 3389.91-3398.78: 31, 32, slightly under one third of our loan book is linked to a repo rate and about the little mid single digit or so is linked to T-bills. 
+asr:0: OUTPUT 3399.72-3405.39: And so which is if you go back two, three years ago, when we were in the mid to high end of that NIM range. 
+asr:0: OUTPUT 3406.25-3412.33: The components that that means the composition of these two were very meager. 
+asr:0: OUTPUT 3412.39-3416.90: Very low call it I would not call it single digit but very low it was. 
+asr:0: OUTPUT 3417.22-3422.10: So it has moved up and now the rate starts to move up, that is going to give something. 
+asr:0: OUTPUT 3422.64-3426.53: And of course, the cost of the rate starts to move, but that will have an impact on the cost of funds too. 
+asr:0: OUTPUT 3426.89-3435.34: But the cost of funds can come with a lag and savings deposits not necessarily on the time deposits which can come with a lag. 
+asr:0: OUTPUT 3435.98-3444.64: So that's the kind of way you think about it, saying one is the rate environment and another is a mix of retail that can come and bring in that. 
+asr:0: OUTPUT 3446.49-3451.47: Got it Srini. So idly it should move up. So that's what I was coming to that if you're. 
+asr:0: OUTPUT 3451.49-3457.52: And I am going to move up. Shouldn't your operating profit be better than drone growth is the limited point. I was trying to get that. 
+asr:0: OUTPUT 3459.32-3469.09: So that was a good point that you say, right, but from at least my point of view, my perspective, I will tell you that you need to be continuously investing. 
+asr:0: OUTPUT 3470.43-3475.26: And when you make those continuous investments, then that is where you get to the long term. 
+asr:0: OUTPUT 3475.38-3481.68: In a static book, what you say is right. If you look at it in the short term, say, hey, don't make any other change. 
+asr:0: OUTPUT 3482.14-3490.53: So, this is the basic idea of the loan. 
+asr:0: OUTPUT 3490.75-3492.47: And should that be, yes, it will be. 
+asr:0: OUTPUT 3492.83-3496.36: But you know that it is not a unidimensional model. 
+asr:0: OUTPUT 3496.54-3500.18: It should be a dynamic model where you invest for the future. 
+asr:0: OUTPUT 3500.28-3507.15: That is why I alluded to in my opening remarks that about the branch investment, about the people investment, about the technology investment. 
+asr:0: OUTPUT 3507.69-3510.57: You need to do that for the future. You don't see a return on it today. 
+asr:0: OUTPUT 3510.95-3512.87: You will see the result on it in a couple of years. 
+asr:0: OUTPUT 3513.39-3521.92: Because a branch maturity model takes anywhere from two to three years to be in a reasonable state and between five to 10 years to get to be a robust state. 
+asr:0: OUTPUT 3522.62-3523.82: Stable people productivity. 
+asr:0: OUTPUT 3524.60-3528.97: And so we need to make those continuous investments on those and so that is why. 
+asr:0: OUTPUT 3528.99-3537.98: The one that I mentioned that the pre-provision operating profit or PPOP mimicking kind of a lending growth rate. 
+asr:0: OUTPUT 3538.66-3547.47: That's how historically we've been, because continuously we have added branches. So if you think about in the last five to 10 years, we've added 2,600 branches in the last five to 10 years. 
+asr:0: OUTPUT 3548.05-3551.95: In the last 1 to 3 years we have added 1100 branches. 
+asr:0: OUTPUT 3553.67-3560.60: So, these are the kind of investments continuously we do to model, so that it is dynamically maintained for a long time. 
+asr:0: OUTPUT 3560.94-3563.68: Thank you, Srini. 
+asr:0: OUTPUT 3568.23-3570.13: From the line of the race. 
+asr:0: OUTPUT 3575.92-3585.33: On the fees for the payments products in the sense that are you seeing pressure on interchange fees or the MDR levels coming down? 
+asr:0: OUTPUT 3585.67-3590.11: The reason why I'm asking this question is that first of course you can just tell us what has been the experience. 
+asr:0: OUTPUT 3590.63-3597.60: Secondly, from the new digital payments paper, I know it's always difficult to second guess what the regulator is thinking. 
+asr:0: OUTPUT 3597.90-3606.59: But do you really think there can be further reduction with respect to MDRs on debit cards? Can there be something on credit cards? 
+asr:0: OUTPUT 3606.93-3608.51: Can UPI be monetizable? 
+asr:0: OUTPUT 3608.73-3617.16: I'm just asking all these questions because everything has got to do with the payment related fees. So if the regulator is thinking only in one direction, that's to bring down the transaction cost. 
+asr:0: OUTPUT 3617.50-3625.49: Then this is not going to be one sort of phenomenon. You're going to be prepared for subsequent several quarters. How is the management thinking about taking care of some of the regulatory challenges here? 
+asr:0: OUTPUT 3625.83-3633.89: Thanks so much, Srini. Thank you, Suresh. It's indeed important to address it and say about what we think. 
+asr:0: OUTPUT 3634.73-3644.12: There are two aspects to this. One is the experience itself in terms of what we see on the interchange or the MDR. 
+asr:0: OUTPUT 3646.01-3653.19: There has been no pressure on interchange or MDR from a rate point of view, right? It has been quite steady and quite nice. 
+asr:0: OUTPUT 3653.43-3661.08: So that is something from our recent experience that has not been inhibiting our kind of a feline. 
+asr:0: OUTPUT 3661.68-3663.30: The rate is quite all right. 
+asr:0: OUTPUT 3664.10-3670.39: Now, when the MDR will address that because it is easy to address will come to interchange. 
+asr:0: OUTPUT 3671.05-3675.74: MDR we do not make on a net basis, we do not make much of it. 
+asr:0: OUTPUT 3675.92-3682.82: We don't make anything on India for that matter. That means if it is an internal customer,. 
+asr:0: OUTPUT 3683.08-3684.42: We have a. 
+asr:0: OUTPUT 3686.77-3688.63: Space entertains to the. 
+asr:0: OUTPUT 3690.39-3699.04: And if it is a third party card, office card, our MDR business case interchange to a third party issued business card. 
+asr:0: OUTPUT 3700.00-3703.12: So MDR business as such is pretty neutral. 
+asr:0: OUTPUT 3703.50-3711.65: But we still very, very vehemently pursue MBA relationship or merchant relationship 2.85 million. 
+asr:0: OUTPUT 3711.69-3713.73: And continuously grow that because of the. 
+asr:0: OUTPUT 3713.75-3714.91: The sandwich strategy. 
+asr:0: OUTPUT 3714.93-3719.86: Which is along with that comes the liability and comes the asset value. 
+asr:0: OUTPUT 3720.48-3728.01: Which liability we have already started and assets we are working on various models and we have come to a reasonable value. 
+asr:0: OUTPUT 3728.73-3737.78: You still have to do a lot to grow there, but that's part of that strategy so that NDR as such, there is nothing to take it away on NDR because there's nothing there to take it away. 
+asr:0: OUTPUT 3738.52-3742.24: So that's one. Now coming to the interchange, it is being held steady. 
+asr:0: OUTPUT 3743.90-3750.57: There is any other pressure on interchange, Suresh, I alluded to a little earlier in some other context of the question. 
+asr:0: OUTPUT 3750.89-3758.54: Which is see interchange and isolation perhaps should not be looked at interchange should be looked at in the context of the. 
+asr:0: OUTPUT 3759.72-3768.73: What is the reward that is offered on the car? What are the cost of the reward points? Cost of the cashback points that are cashback cost which is there. 
+asr:0: OUTPUT 3769.27-3772.53: Of the sales and promotion marketing type of costs that are there. 
+asr:0: OUTPUT 3773.21-3780.16: So, that means keep the revolvers to the side. 
+asr:0: OUTPUT 3780.34-3789.37: Keep those people who do the cash advances and who do the limit enhancements or spend more than the limits and who habitually pay more. 
+asr:0: OUTPUT 3789.41-3791.21: And keep them to the side, right? 
+asr:0: OUTPUT 3791.65-3796.78: So, this is a pure pure transactors if you see and you draw a P and L on the transactors. 
+asr:0: OUTPUT 3797.16-3800.72: It is like the MDR sandwich strategy. 
+asr:0: OUTPUT 3800.92-3807.33: You keep the customer engaged because you've got a flow from the liability side to the customer and you're able to do certain. 
+asr:0: OUTPUT 3807.57-3808.83: On the office plate of the customer. 
+asr:0: OUTPUT 3809.21-3814.89: So, if they interchange for any reason right which we cannot predict, but if any reason that has to move up or down. 
+asr:0: OUTPUT 3815.44-3819.28: Then you get the other liver on the field and get operate. 
+asr:0: OUTPUT 3820.08-3826.77: Which is when you look at reward, when you look at your cashback, then you look at your marketing and sales promotion. 
+asr:0: OUTPUT 3827.27-3830.79: So you look at all of those and try to manage the PNL2 properly. 
+asr:0: OUTPUT 3832.45-3836.86: Okay, okay. Thanks. 
+asr:0: OUTPUT 3839.64-3841.24: Ladies and gentlemen, that was the last. 
+asr:0: OUTPUT 3841.46-3844.48: For today, I would now like to hand the conference over to Mr. 
+asr:0: OUTPUT 3845.15-3846.15: Hope you're informed. 
+asr:0: OUTPUT 3849.05-3853.23: All the participants for dialing in today. We appreciate your engagement. 
+asr:0: OUTPUT 3853.95-3859.68: And if you do have anything more that we could help you from your understanding, I. 
+asr:0: OUTPUT 3860.06-3864.78: Shetty in our investor relations will be available to talk at some point in time. 
+asr:0: OUTPUT 3864.92-3867.21: Please stay in touch with us. 
+asr:0: END

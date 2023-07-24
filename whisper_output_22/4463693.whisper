@@ -1,0 +1,458 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.90-9.67: Good morning and good afternoon. Thank you for joining Elde Electronics Earnings Release Conference Call for the third quarter of 2021. 
+asr:0: OUTPUT 11.55-17.74: This conference call will start with a presentation on the earnings results followed by a Q&A session. 
+asr:0: OUTPUT 17.76-23.48: At which time, if you wish to ask a question, you will need to press star and one on your telephone. 
+asr:0: OUTPUT 24.16-27.03: I would now like to hand the conference over to the first speaker. 
+asr:0: OUTPUT 30.13-39.02: Good afternoon, my name is Sangbo Shim from Investor Relations. Thank you for joining LD Electronics earnings release conference call for the third quarter of 2021. 
+asr:0: OUTPUT 39.58-48.21: With me are representatives of business management division of each business, Mr. Egon Kim from Home Appliance and Air Solution, Mr. Changhee Lee from Home Entertainment,. 
+asr:0: OUTPUT 48.45-53.47: Mr. Joo Young Kim from Vehicle Component Solutions, Mr. Choong Hyun Park from Business Solutions. 
+asr:0: OUTPUT 53.79-61.90: We are also joined by Mr. Sangho Park from Corporate Business Management Division, Mr. Hyungyu Lee from Finance Division, and Mr. Hongsu Lee from Accounting Division. 
+asr:0: OUTPUT 63.62-72.81: Please note that all statements we will be making today regarding our financial results of the third quarter are subject to change in accordance with the results of the external review. 
+asr:0: OUTPUT 73.33-82.98: I would also like to remind you that uncertainties in the market and changes in strategies may cause our results to be different from the outlooks and forward-looking statements made today. 
+asr:0: OUTPUT 84.06-90.65: Today I will outline the overall performance results of the third quarter of 2021 and the outlook for the fourth quarter. 
+asr:0: OUTPUT 90.95-96.04: After that, each division will take turns to deliver its business results and outlook. 
+asr:0: OUTPUT 97.70-104.72: Now let me start with the consolidated financial results of the third quarter of 2021 and the outlook for the fourth quarter. 
+asr:0: OUTPUT 107.17-114.91: The consolidated sales of the third quarter was 18.8 trillion won and operating profit was 540.7 billion won. 
+asr:0: OUTPUT 115.56-125.37: And sales grew 22% year-on-year, driven by increased sales of premium and new appliances in HNA and strong sales of OLED TVs in HE. 
+asr:0: OUTPUT 127.75-132.37: Though operating profit was affected by the provision for GM bolt recalls,. 
+asr:0: OUTPUT 132.39-143.10: We achieved sound performance in profitability by offsetting the impact from rising costs through steady growth in overseas markets and higher sales proportion of premium products. 
+asr:0: OUTPUT 144.28-148.01: I will now briefly review the third quarter performance of each business. 
+asr:0: OUTPUT 149.49-157.88: HNA recorded 7.1 trillion won in sales, 505.4 billion won in operating profit, and 7.2% in profitability. 
+asr:0: OUTPUT 158.60-166.49: HEE recorded 4.2 trillion won in sales, 208.3 billion won in operating profit, and 5% in profitability. 
+asr:0: OUTPUT 167.45-174.11: DS recorded 1.7 trillion won in sales and 537.6 billion won in operating loss. 
+asr:0: OUTPUT 175.24-181.30: The S recorded 1.7 trillion won in sales and 12.3 billion won in operating loss. 
+asr:0: OUTPUT 182.56-188.13: Each business will later share its respective business results and outlooks in detail. 
+asr:0: OUTPUT 191.39-194.98: Let's move on to the profit and loss and cash flow of the third quarter. 
+asr:0: OUTPUT 195.86-200.28: In terms of profit and loss, reflecting financial income and expense, equity,. 
+asr:0: OUTPUT 200.30-207.41: Equity-matched gain and loss, other non-operating income and expense, corporate income tax, and income and loss from discontinued operations. 
+asr:0: OUTPUT 207.43-210.95: We posted 516.5 billion won in net income. 
+asr:0: OUTPUT 211.37-212.41: Next on Cash Flow. 
+asr:0: OUTPUT 212.83-218.28: Cash flow from operating activities of the third quarter was 568.1 billion won. 
+asr:0: OUTPUT 218.30-223.02: And cash flow from investment activities was negative 907.3 billion won. 
+asr:0: OUTPUT 223.46-233.25: As a result, net cash flow amounted to negative 185.5 billion won and when we're collecting cash flow from financial activities of 630.3 billion won,. 
+asr:0: OUTPUT 233.27-238.10: Net change in cash increased by $444.8 billion won from the previous quarter. 
+asr:0: OUTPUT 238.38-243.90: After reflecting changes in cash classified by helper cells of negative 11.3 billion won,. 
+asr:0: OUTPUT 243.92-247.89: Cash balance at the end of the third quarter came to stand at 6.6 trillion won. 
+asr:0: OUTPUT 248.45-252.77: Next is the key financial position and indicators for the third quarter of 2021. 
+asr:0: OUTPUT 253.29-262.28: As of the end of the third quarter, our assets stood at 54.6 trillion won, liability at 34.3 trillion won, and equity at 20.3 trillion won. 
+asr:0: OUTPUT 262.70-272.23: All leverage ratios, liability to equity, debt to equity, and net debt to equity, decrease quarter on quarter and year on year, continue to maintain a healthy financial condition. 
+asr:0: OUTPUT 273.87-275.90: Next is the outlook for the fourth quarter. 
+asr:0: OUTPUT 276.26-284.76: In terms of the macro environment, recovery in the real economy is expected on the back of COVID-19 vaccinations and the plan to coexist with the coronavirus. 
+asr:0: OUTPUT 285.09-292.39: But there are also uncertainties stemming from raw material and component price hikes, monetary policy normalization, and the threat of global inflation. 
+asr:0: OUTPUT 293.03-299.22: Miss this environment, we will focus on expanding sales of premium products through differentiated marketing activities. 
+asr:0: OUTPUT 299.24-306.03: And respond preemptively to market volatilities by continuously improving cost structures and proactively managing risk. 
+asr:0: OUTPUT 306.83-311.15: We expect our fourth quarter revenue to grow quarter on quarter and year on year. 
+asr:0: OUTPUT 311.17-317.00: With increased sales of premium appliances and TVs and recovery in the B2B business. 
+asr:0: OUTPUT 317.70-326.39: In terms of profitability, there are risks regarding raw material and logistics costs, but we will secure stable profitability through better product mix and efficient spending. 
+asr:0: OUTPUT 327.21-333.99: Now let's move on to the third quarter results and outlook by business. First is HNA. 
+asr:0: OUTPUT 338.10-340.54: Let me share the third quarter results of AT&A. 
+asr:0: OUTPUT 341.80-351.55: Sales did at 7.1 trillion won with a 15% increase year-on-year driven by growth in overseas markets such as North America, Europe, and Latin America. 
+asr:0: OUTPUT 352.79-357.02: Despite the upside of revenue growth and marketing cost savings,. 
+asr:0: OUTPUT 357.04-364.26: Operating profit decreased year-on-year due to increased raw material prices and logistics and labor cost hikes. 
+asr:0: OUTPUT 366.59-368.79: Next is the outlook for the fourth quarter. 
+asr:0: OUTPUT 370.23-379.00: The growth in global demand is projected to slow down, but the situation is expected to unfold differently for each region and segment. 
+asr:0: OUTPUT 379.76-385.33: The burden from raw material price hikes and increased logistics costs are expected to persist. 
+asr:0: OUTPUT 386.31-395.74: Amidst this environment, we will actively enhance sales efforts armed with our strong product competitiveness to maintain a double-digit growth in revenue. 
+asr:0: OUTPUT 396.98-402.56: And also increase selling price and optimize cost to maintain stable profitability. 
+asr:0: OUTPUT 407.97-410.83: I will share the third quarter results of HE. 
+asr:0: OUTPUT 412.45-421.40: Sales grew year on year thanks to robust product sales of OLED TVs on the back of rising demand for premium products. 
+asr:0: OUTPUT 422.94-435.26: We maintained sound profitability by offsetting the high LCD TV panel price burden with effects from increased OLED TV sales and efficient resource management. 
+asr:0: OUTPUT 436.90-439.98: Now let me share the outlook for the fourth quarter. 
+asr:0: OUTPUT 441.46-450.01: In the market, global TV demand is projected to decrease slightly year on year as people spend less time at home. 
+asr:0: OUTPUT 450.03-453.05: With the progress in COVID-19 vaccinations. 
+asr:0: OUTPUT 454.49-461.48: We expect marketing spending to increase to respond to the intensifying competition in the TV market. 
+asr:0: OUTPUT 461.88-469.49: But we will maintain revenue growth and secure solid profitability by improving product mix with a focus on premium products. 
+asr:0: OUTPUT 474.23-476.54: Let me share the third quarter results of the F. 
+asr:0: OUTPUT 477.20-484.82: Despite the decrease of vehicle production in the market due to the supply shortage of automotive semiconductors, sales... 
+asr:0: OUTPUT 484.84-490.81: Grew year on year thanks to increased volumes from new projects and revenue growth of electric vehicle components. 
+asr:0: OUTPUT 491.15-496.12: Profitability showed a temporary decrease as the provision for GM bulk recalls was reflected. 
+asr:0: OUTPUT 496.80-501.78: For the fourth quarter outlet with the spread of the COVID-19 Delta variant. 
+asr:0: OUTPUT 502.42-509.39: The supply shortage of auto-semiconductors is expected to persist, leading to a consequent shutdown of major OEM plants. 
+asr:0: OUTPUT 509.73-512.95: This in turn may lead to a decrease in demand for vehicle components. 
+asr:0: OUTPUT 513.35-525.75: We expect the continued supply issue of automotive semiconductors and subsequent risk of disruption in auto production to have an impact on profitability, lowering the probability of achieving a turnaround in the fourth quarter. 
+asr:0: OUTPUT 529.57-532.61: I will share the third quarter results of BS. 
+asr:0: OUTPUT 532.63-540.64: Sales grew 14% year-on-year on the back of expanded sales of information display products with the recovery in the B2B market. 
+asr:0: OUTPUT 540.66-543.50: And sound revenue growth in IT business. 
+asr:0: OUTPUT 545.89-553.05: Operating profit declined year on year due to rising prices of major components such as LCD panels and wafers. 
+asr:0: OUTPUT 553.07-556.52: And the impact from increased global logistics costs. 
+asr:0: OUTPUT 558.36-560.20: Now the outlook for the fourth quarter. 
+asr:0: OUTPUT 562.42-571.85: There are both opportunities and risks in the market. Demand for IT products, including gaming monitors, is expected to remain strong in line with non-face-to-face trends. 
+asr:0: OUTPUT 572.17-575.78: And the B2B market is predicted to show a gradual recovery in demand. 
+asr:0: OUTPUT 576.08-582.60: But there may be impact from the semiconductor shortage and increased prices of major components like LCD panels. 
+asr:0: OUTPUT 583.80-585.37: In this environment. 
+asr:0: OUTPUT 585.39-594.55: We expect sales to grow quarter on quarter and year on year with the seasonality effect in IT business and the recovering demand in the B2B market. 
+asr:0: OUTPUT 595.74-603.76: But improvements in profitability are presented to be limited due to the continuing cost increase and intensifying competition. 
+asr:0: OUTPUT 604.10-611.45: We seek to secure momentum in enhancing profitability by improving product mix and strengthening cost competitiveness. 
+asr:0: OUTPUT 615.28-620.04: And that brings us to the end of the third quarter earnings release and the outlook for the fourth quarter. 
+asr:0: OUTPUT 622.66-626.01: We will now take questions. Operator, please commence with the Q&A. 
+asr:0: OUTPUT 629.99-637.02: We will start the Q&A session now. If you have any questions, please press the star and 1 on the phone. 
+asr:0: OUTPUT 637.50-641.28: If you wish to cancel your order, please press star and 2. 
+asr:0: OUTPUT 641.78-646.41: Now Q&A session will begin. Please press star and one if you have any questions. 
+asr:0: OUTPUT 646.87-654.69: Questions will be taken according to the order you have pressed, star and number 1. For cancellation, please press star and 2 on your phone. 
+asr:0: OUTPUT 657.40-661.70: The first person to ask a question is Kim Dong-won, a KBS reporter. 
+asr:0: OUTPUT 662.16-668.49: The first question will be presented by Dongwon Kim from KB Securities. Please go ahead with your question. 
+asr:0: OUTPUT 700.76-704.00: I'd like to post two questions on HNA. 
+asr:0: OUTPUT 704.52-712.11: First, with a spike in largest cost, I'm wondering about the impact on the profitability level of H&M companies. 
+asr:0: OUTPUT 712.59-720.48: And also I'm wondering what will be your corporate strategy in response to the logistic disruption that is appearing recently? 
+asr:0: OUTPUT 721.06-724.26: My second question is related to HNA as well. 
+asr:0: OUTPUT 725.04-728.61: I'd like to understand the proportion of new appliance sales. 
+asr:0: OUTPUT 728.83-737.36: And its trend, and can you forecast the new appliances business down the road by region? 
+asr:0: OUTPUT 760.36-769.43: Question on HNA. It was about our corporate response and strategy with respect to logistics disruption. 
+asr:0: OUTPUT 769.73-777.06: As you know, the air and sea transportation costs are hitting a record high every day. 
+asr:0: OUTPUT 777.40-780.50: And that is hampering the profitability of H&A companies. 
+asr:0: OUTPUT 795.14-798.12: According to many research firms, it is forecast. 
+asr:0: OUTPUT 798.14-802.32: That the phenomenon will persist until the first half of the year. 
+asr:0: OUTPUT 802.36-808.71: And even up until the second half of next year, and some predict that it will take another one to two years more. 
+asr:0: OUTPUT 837.18-844.94: If you look at its impact on our top line revenue, it is decreasing our top line revenue by 2% on a year-on-year basis. 
+asr:0: OUTPUT 845.45-852.89: And in line with this, we are trying to deploy more extra ships in collaboration with global shipping companies. 
+asr:0: OUTPUT 853.19-856.72: So that we can minimize its impact on our supply side. 
+asr:0: OUTPUT 857.18-864.24: Also, we are trying to curb the spike of logistic costs by optimizing our global supply chain. 
+asr:0: OUTPUT 884.70-893.15: 2022 as well, based on a solid supply chain and logistic network, we are going to make timely decisions and take. 
+asr:0: OUTPUT 893.27-897.12: Into action with speed so that we can minimize the risk on. 
+asr:0: OUTPUT 897.26-898.58: Supply side. 
+asr:0: OUTPUT 902.60-906.99: And. 
+asr:0: OUTPUT 911.93-917.38: Foreign. 
+asr:0: OUTPUT 926.09-930.01: Based on a solid partnership with our partnership in. 
+asr:0: OUTPUT 930.39-931.53: We are working on the. 
+asr:0: OUTPUT 931.83-938.14: To create a win-win operation for both of us. And also by leveraging the SDS-V. 
+asr:0: OUTPUT 938.88-942.78: And logistic competitiveness that we have built thus far. 
+asr:0: OUTPUT 943.22-948.47: We are going to put the first priority in meeting our delivery commitment with our customers. 
+asr:0: OUTPUT 948.77-953.65: We will strive to continue to become the leader in the market. 
+asr:0: OUTPUT 978.38-983.00: Let me take your question on the proportion of new appliance sales. 
+asr:0: OUTPUT 983.52-990.41: I would say that the sales of new appliance has been recording a two-digit level growth every year. 
+asr:0: OUTPUT 990.81-999.46: So we are seeing the rise of the proportion from 14% in 2018 to around 17 to 18% in 2021. 
+asr:0: OUTPUT 999.86-1006.09: So I will say that the proportion of new appliances sales is increasing within H&A companies. 
+asr:0: OUTPUT 1028.43-1034.33: COVID-19 pandemic combined with the trend of state-to-state activities. 
+asr:0: OUTPUT 1034.81-1039.04: Nowadays, consumers have easier access to product information. 
+asr:0: OUTPUT 1039.96-1048.21: And the hygiene and health care functions of our home appliances have become a critical component or part of their decision making. 
+asr:0: OUTPUT 1056.28-1065.35: Foreign. 
+asr:0: OUTPUT 1066.65-1068.83: Foreign. 
+asr:0: OUTPUT 1071.83-1076.16: If you look at a pattern of this sales by region. 
+asr:0: OUTPUT 1076.52-1082.26: We see that this pattern is more pronounced in the advanced market, North American Europe. 
+asr:0: OUTPUT 1082.82-1087.79: And as the theme is deeply associated with hygiene and healthcare. 
+asr:0: OUTPUT 1088.11-1097.70: We believe that we were able to record a high growth with our steam function home appliances such as styler dryer and dishwasher. 
+asr:0: OUTPUT 1111.35-1120.02: Foreign. 
+asr:0: OUTPUT 1128.37-1134.87: In the emerging markets, on the other hand, we see the demand for those products to continue to go up. 
+asr:0: OUTPUT 1135.58-1142.10: So we are trying to make those products featuring hygienic and healthcare functions as an essential product for consumers. 
+asr:0: OUTPUT 1142.12-1147.79: By offering those products at a more affordable price range to increase up our sales furthermore. 
+asr:0: OUTPUT 1148.33-1154.35: So also for the consumer's awareness, we're trying to leverage the successful cases in the Korean market. 
+asr:0: OUTPUT 1154.49-1161.30: So for this end, we are continuing our investment in the brand and we will try to enhance the brand. 
+asr:0: OUTPUT 1161.34-1162.46: In the market. 
+asr:0: OUTPUT 1162.52-1163.54: Through these efforts. 
+asr:0: OUTPUT 1171.89-1175.82: For more information, please contact Lee Jongwook of Samsung Electronics. 
+asr:0: OUTPUT 1176.42-1180.24: The next question will be presented by Jong-uk Lee from Samsung Securities. 
+asr:0: OUTPUT 1180.92-1187.29: Please go ahead with your question. 
+asr:0: OUTPUT 1198.68-1206.65: QDOLG QBZ. 
+asr:0: OUTPUT 1206.99-1212.29: I'm curious about the benefits of this. 
+asr:0: OUTPUT 1212.71-1218.66: The impact of the WLED TV business on the company's 2G OLED. 
+asr:0: OUTPUT 1218.92-1220.00: Foreign. 
+asr:0: OUTPUT 1224.84-1231.57: Thank you for taking my questions. I have two questions. My first question is about the power crisis in China. 
+asr:0: OUTPUT 1232.13-1239.44: Did power shortage in China cause any damage in divisions of LGE? And if any, how much is the damage? 
+asr:0: OUTPUT 1239.76-1241.88: My second question is for H.E. 
+asr:0: OUTPUT 1242.32-1250.79: Samsung Electronics officially adopted QD OLED TVs as the next year's TV lineup. What's your position about this move? 
+asr:0: OUTPUT 1250.81-1258.76: And what impact do you think it will have on LG's WOL activity business and what will be the competition landscape going forward? 
+asr:0: OUTPUT 1264.22-1269.73: I will answer the question first. 
+asr:0: OUTPUT 1272.61-1278.12: And. 
+asr:0: OUTPUT 1280.00-1285.91: Answering your question on power shortage in China and its impact on production for caterers in China. 
+asr:0: OUTPUT 1285.95-1291.05: We received a request to reduce data and power usage in some locations. 
+asr:0: OUTPUT 1291.07-1296.70: Including HE Division's production subsidiary in Gwangdong Province from mid-September. 
+asr:0: OUTPUT 1298.06-1303.48: For. 
+asr:0: OUTPUT 1306.73-1315.64: And the use of non-production strategies. 
+asr:0: OUTPUT 1320.00-1325.75: By converting daytime production to the nighttime without significant disruptions. 
+asr:0: OUTPUT 1325.85-1330.35: Moreover, in preparation of any worse situation, we added. 
+asr:0: OUTPUT 1330.37-1338.74: Self-generation facilities and are controlling use of power for non-production purpose based on our emergency response plan. 
+asr:0: OUTPUT 1360.00-1362.66: With local governments and energy authorities. 
+asr:0: OUTPUT 1362.70-1369.11: We have secured an information sharing system to know power control plans in advance. 
+asr:0: OUTPUT 1369.13-1376.36: And we are constantly monitoring any change in power supply status based on the preemptive response system. 
+asr:0: OUTPUT 1384.42-1391.15: Q. What are your thoughts on the QDOL lineup? 
+asr:0: OUTPUT 1402.10-1404.78: Regarding the question about the HE. 
+asr:0: OUTPUT 1405.31-1413.67: The question was about the launch of a 2D OLED TV next year by Samsung Electronics and the competition that outlives. 
+asr:0: OUTPUT 1414.75-1423.84: And there are, of course, the concerns about the new product launch with the adoption of a 2D OLED by the competitor, especially about. 
+asr:0: OUTPUT 1423.86-1425.37: The intense competition. 
+asr:0: OUTPUT 1426.75-1430.89: Foreign. 
+asr:0: OUTPUT 1437.38-1443.68: However, we think there is a positive aspect because it can expand the OLED ecosystem. 
+asr:0: OUTPUT 1454.43-1455.82: I'm. 
+asr:0: OUTPUT 1457.18-1467.71: And. 
+asr:0: OUTPUT 1470.63-1477.78: So as a response strategy, we want to solidify our image as a leader in OLED. 
+asr:0: OUTPUT 1477.94-1480.92: That we have built for the past 10 years. 
+asr:0: OUTPUT 1481.30-1484.80: And also we will lead the OLED technology. 
+asr:0: OUTPUT 1485.09-1491.63: That the customers can experience as intrinsic values such as picture quality and form factors. 
+asr:0: OUTPUT 1509.25-1517.20: And we will continue to maximize our capability as a top OLED TV manufacturer by. 
+asr:0: OUTPUT 1517.24-1520.12: So strengthening the premium. 
+asr:0: OUTPUT 1520.20-1521.52: China and the meat here is very good. 
+asr:0: OUTPUT 1522.54-1525.47: Needs so that we think we will be able to. 
+asr:0: OUTPUT 1525.71-1533.09: You need to lead the market. 
+asr:0: OUTPUT 1537.78-1545.33: The next question will be presented by Ji Sun Kim from Kiwoom Securities. Please go ahead with your question. 
+asr:0: OUTPUT 1562.26-1565.83: Korean. 
+asr:0: OUTPUT 1577.68-1580.78: My first question is on VS. 
+asr:0: OUTPUT 1582.98-1589.81: I'm wondering about the impact of the short supply of automotive semiconductor and especially its impact on your performance. 
+asr:0: OUTPUT 1590.31-1596.24: If you think the impact was not big, I'd like to understand the reason why. My second question is on DS. 
+asr:0: OUTPUT 1597.00-1604.16: Recently we see that there is a fierce competition in the solar module industry due to the emergence of the. 
+asr:0: OUTPUT 1604.18-1609.95: Chinese makers, so I'd like to understand your corporate strategy to enhance your profitability. 
+asr:0: OUTPUT 1613.21-1615.98: The. 
+asr:0: OUTPUT 1621.14-1628.81: We believe that the risk of the shortage of automatic semiconductor is not a temporary phenomenon. 
+asr:0: OUTPUT 1629.19-1632.41: But is likely to proceed for quite some time. 
+asr:0: OUTPUT 1648.11-1650.25: In particular,. 
+asr:0: OUTPUT 1650.85-1651.89: Supply chain issues. 
+asr:0: OUTPUT 1651.95-1658.90: In Southeast Asia, threatened by the resurgence of COVID-19, the shortage further deteriorated in the third quarter. 
+asr:0: OUTPUT 1659.56-1663.00: As it is forecast to drag on further into the fourth quarter,. 
+asr:0: OUTPUT 1663.38-1665.57: We're keeping a close eye on the market. 
+asr:0: OUTPUT 1665.63-1674.41: Situation. 
+asr:0: OUTPUT 1685.69-1694.53: Also, we received some impact due to the shutdown measures of tier 1 suppliers and increase of automotive component prices. 
+asr:0: OUTPUT 1694.85-1701.34: However, we collaborated with suppliers OEM and we also pulled in some of the automotive. 
+asr:0: OUTPUT 1701.38-1707.67: In advance and also we applied dual sourcing in order to minimize its impact on our supply side. 
+asr:0: OUTPUT 1721.30-1725.59: This is the polysilicone. 
+asr:0: OUTPUT 1727.97-1731.89: Foreign. 
+asr:0: OUTPUT 1740.00-1743.36: Business. 
+asr:0: OUTPUT 1743.38-1751.77: The price of polysilicon on top of the value chain for solar module business has increased by fourfold on a year-on-year basis. 
+asr:0: OUTPUT 1752.41-1760.00: With a spike on raw material prices, the cost level deteriorated, which hampered the profitability of most of the module makers. 
+asr:0: OUTPUT 1767.35-1775.46: We have been running a global business. 
+asr:0: OUTPUT 1796.50-1801.96: You know, we've been running our business centering around high output, high efficient products. 
+asr:0: OUTPUT 1802.74-1806.43: We will be leveraging our LG brand and global sales capability. 
+asr:0: OUTPUT 1806.81-1811.93: Also, through our development capability for high efficiency, high output products. 
+asr:0: OUTPUT 1812.31-1820.00: We will continue to extend sales opportunities in the residential market and advanced countries, showing a clear preference for high output. 
+asr:0: OUTPUT 1821.28-1828.13: At the same time, we will strive to raise profitability by improving cost level and output of our products. 
+asr:0: OUTPUT 1840.04-1847.75: The next question will be presented by SK Kim from Daiwa Capital Market. Please go ahead with your question. 
+asr:0: OUTPUT 1880.06-1881.32: I'm. 
+asr:0: OUTPUT 1883.28-1891.03: Please give us your opinion on the direction of the change in the outlook for performance, including the turnaround of our business. 
+asr:0: OUTPUT 1894.33-1899.86: Recall. 
+asr:0: OUTPUT 1906.39-1914.25: In the official content, there was a mention of a method of selection and replacement using software. 
+asr:0: OUTPUT 1916.24-1919.86: I'm. 
+asr:0: OUTPUT 1924.22-1925.91: Thank you for the opportunity to speak. 
+asr:0: OUTPUT 1926.31-1930.31: I have two questions and both go to the DS division. 
+asr:0: OUTPUT 1930.79-1937.14: And the first one is about the DS's automotive electronics business. 
+asr:0: OUTPUT 1937.52-1944.08: The market expectations have been so high about the automotive electronics business of the VES. 
+asr:0: OUTPUT 1944.42-1952.53: However, the raw material costs are increasing and there has been a shortage of semiconductors. 
+asr:0: OUTPUT 1952.63-1957.92: So, worsening the outlook for the performance of the VF division. 
+asr:0: OUTPUT 1958.48-1965.55: And the semiconductor issue will continue and will continue until the fourth quarter. 
+asr:0: OUTPUT 1965.57-1971.47: And so raising the concern about the turnaround, the target of the VR. 
+asr:0: OUTPUT 1971.97-1977.52: So what's your outlook for the performance and what's your opinion about the current situation? 
+asr:0: OUTPUT 1978.02-1983.10: My second question is about the provision for the recalls of cost. 
+asr:0: OUTPUT 1983.42-1989.67: According to the disclosure, the provision has been set aside for the recall the cost. 
+asr:0: OUTPUT 1989.97-1995.54: However, the provision amount seems greater than the actual needs. 
+asr:0: OUTPUT 1996.10-2000.82: Also, is there a possibility that you will reverse the provision? 
+asr:0: OUTPUT 2020.00-2029.93: The viewers a question about the business outlook and then these production of the OEMs complete car is expected to decline by 10%. 
+asr:0: OUTPUT 2046.53-2048.07: Responding to the situation. 
+asr:0: OUTPUT 2048.77-2050.19: However, it was that. 
+asr:0: OUTPUT 2050.35-2059.56: Unavoidable situation because it was the impact on the production disruption at the top tier one, the vendors and OEM side. 
+asr:0: OUTPUT 2064.88-2072.95: Foreign. 
+asr:0: OUTPUT 2076.76-2080.50: In regards to the profit turnaround of the BS business next year,. 
+asr:0: OUTPUT 2080.90-2089.93: The risk of automotive component demand reduction is expected to continue until the first quarter of the next year or even the second quarter of next year. 
+asr:0: OUTPUT 2112.13-2115.76: The affluenties still remain in the global automotive market. 
+asr:0: OUTPUT 2115.78-2122.38: But we will minimize sales disruption through close cooperation with OEM and the diversified supply chain. 
+asr:0: OUTPUT 2122.76-2129.45: Moreover, in terms of profitability, we will make concerted efforts to achieve meaningful outcome in 2020. 
+asr:0: OUTPUT 2129.67-2135.16: By focusing on improving the profit and loss structure through continued cost-saving activities. 
+asr:0: OUTPUT 2143.04-2148.95: Answering your question on the possibility of the recall, the provision, the reversal. 
+asr:0: OUTPUT 2160.36-2169.27: GM is a plan to recall about 140,000 bulbs easy manufactured and sold from 2016 to the first half of 2021. 
+asr:0: OUTPUT 2172.49-2178.26: Foreign. 
+asr:0: OUTPUT 2180.64-2185.75: The total amount of provision was calculated using the most reasonable estimation. 
+asr:0: OUTPUT 2185.91-2192.13: Based on the recall method agreed between the three companies and what has been identified so far. 
+asr:0: OUTPUT 2207.51-2214.31: In addition, LCE and LC-CHEM evenly split the recall cost to book the provision expenses. 
+asr:0: OUTPUT 2214.53-2221.58: And the final cost sharing ratio will be later decided depending on the liabilities of LGE and LG Chem. 
+asr:0: OUTPUT 2229.83-2239.06: Therefore, please understand that it's difficult to tell you about the possibility of the reversal of the preset provision just based on the assumptions. 
+asr:0: OUTPUT 2248.01-2256.28: The next question will be presented by Sungryul Kwon from DB Financial Investment. 
+asr:0: OUTPUT 2257.08-2263.30: Please go ahead with your question. 
+asr:0: OUTPUT 2271.23-2281.26: I'm curious about the sales goal for 2021 and 2022. 
+asr:0: OUTPUT 2281.44-2283.36: Foreign. 
+asr:0: OUTPUT 2284.68-2289.67: I'm going to ask you a question. 
+asr:0: OUTPUT 2291.09-2300.00: Second, the price of LCD panel is very expensive. 
+asr:0: OUTPUT 2320.00-2324.76: First, this year you've recorded such a solid performance with your TV product. 
+asr:0: OUTPUT 2325.33-2330.61: I think that with this performance, you'll be able to achieve 4 million units of sales this year. 
+asr:0: OUTPUT 2331.33-2337.44: So I'm wondering how you forecast this year, 2021 and next year in terms of the sales of Owet TV. 
+asr:0: OUTPUT 2337.92-2346.07: If you meet the target of sales, I'm wondering what will be the proportion of OLED TV sales out of the total TV revenue. 
+asr:0: OUTPUT 2346.71-2354.57: My second question is also on HE. We see the price level of LCD TVs is going down very rapidly. 
+asr:0: OUTPUT 2355.18-2357.90: I think compared to OLED TV,. 
+asr:0: OUTPUT 2357.92-2365.35: With this price decrease, the LCD TV will be able to recover its price competitiveness in the market. 
+asr:0: OUTPUT 2366.05-2373.29: I'm wondering about the impact of this trend on the sales and profitability of your OLED business. 
+asr:0: OUTPUT 2373.31-2376.40: Can you share your corporate opinion on this? 
+asr:0: OUTPUT 2380.98-2388.03: I have a question. 
+asr:0: OUTPUT 2390.25-2397.28: Korean translation. 
+asr:0: OUTPUT 2400.04-2406.91: Let me take your first question on HE, in particular regarding the forecast of OLED TV sales. 
+asr:0: OUTPUT 2407.45-2416.76: So looking at the performance of OLED TV sales in the third quarter of this year, we are meeting the plan for OLED TV sales 100%. 
+asr:0: OUTPUT 2419.70-2427.89: Due to the economic uncertainty and the COVID-19, there is a risk of TV demand reduction. 
+asr:0: OUTPUT 2427.93-2440.38: However, looking into the fourth quarter, there is concern or the risk of the slowdown of TB demand globally because of the uncertainty in the global economy and expansion of. 
+asr:0: OUTPUT 2440.42-2442.26: Living with COVID-19. 
+asr:0: OUTPUT 2447.45-2451.69: Foreign. 
+asr:0: OUTPUT 2456.38-2459.96: However, we think that there would be no difficulty. 
+asr:0: OUTPUT 2459.98-2469.05: In achieving our target of meeting 4 million units of sales that we set up early this year, which is double the target of the previous year. 
+asr:0: OUTPUT 2470.07-2473.67: Korean translation. 
+asr:0: OUTPUT 2474.61-2481.36: Foreign. 
+asr:0: OUTPUT 2483.10-2492.85: If this is the case, we forecast the proportion of OLED TV sales to be around 32%, showing 24% of growth on a year-on-year basis. 
+asr:0: OUTPUT 2494.59-2502.72: The goal of the 2022 OLED TV sales is not yet confirmed, but there are plans to simulate. 
+asr:0: OUTPUT 2504.00-2507.77: Regarding the target for the next year with our OLED TV. 
+asr:0: OUTPUT 2507.97-2515.32: We haven't finalized our target yet, and we are working on the planning and simulation to set up the target for the next year. 
+asr:0: OUTPUT 2516.16-2523.04: Foreign. 
+asr:0: OUTPUT 2523.90-2532.29: The. 
+asr:0: OUTPUT 2535.08-2543.96: However, if we do a close analysis on the TB market trend, both for TB steps and panels and consumer needs,. 
+asr:0: OUTPUT 2544.56-2548.49: Be forecast that the demand for premium products will continue to go up. 
+asr:0: OUTPUT 2548.83-2554.81: So in line with this, we're going to continue to increase the proportion of our online OLED TV sales down the road. 
+asr:0: OUTPUT 2561.28-2568.27: The. 
+asr:0: OUTPUT 2570.59-2573.15: I'll take your second question. It was on. 
+asr:0: OUTPUT 2573.17-2580.90: The impact of decrease of LCD TV prices on the profitability and top line revenue of OLED TVs. 
+asr:0: OUTPUT 2582.90-2585.03: Foreign. 
+asr:0: OUTPUT 2589.19-2595.58: And the price of LED TVs. 
+asr:0: OUTPUT 2596.78-2606.61: Based on our understanding on the market dynamics, we understand that the competitor has given a price discount meaning to the mini OLED TV these days. 
+asr:0: OUTPUT 2608.15-2614.45: Foreign. 
+asr:0: OUTPUT 2615.24-2619.80: Korean. 
+asr:0: OUTPUT 2628.23-2636.50: However, looking at various external factors, such as the LCD panel supply led by the Chinese panel makers. 
+asr:0: OUTPUT 2637.06-2639.52: A short supply of semiconductor components. 
+asr:0: OUTPUT 2639.88-2648.03: And increase in largest cost, we believe that it won't be easy to give that much price discount to the LCD TV. 
+asr:0: OUTPUT 2649.71-2654.35: Foreign. 
+asr:0: OUTPUT 2655.18-2659.84: I'm sorry. 
+asr:0: OUTPUT 2673.01-2675.34: Given that,. 
+asr:0: OUTPUT 2675.48-2683.62: There will be some impact on the demand of OLED TV because of this limited price discount of LCD TVs. 
+asr:0: OUTPUT 2684.06-2690.69: However, we can make use of this trend of increasing demand for premium products, especially over TVs. 
+asr:0: OUTPUT 2690.79-2694.41: And the strength of the Ovatv. 
+asr:0: OUTPUT 2694.43-2700.60: I believe that we will be able to maintain this solid relationship with the government. 
+asr:0: OUTPUT 2700.70-2703.88: Top line revenue and profitability for the next year. 
+asr:0: OUTPUT 2713.15-2721.70: The next question will be presented by Nicola Godua from UBS. Please go ahead with your question. 
+asr:0: OUTPUT 2723.74-2726.53: Yes, good afternoon. Thanks for taking my questions. 
+asr:0: OUTPUT 2727.63-2730.55: Going back to semi-supply constraints. 
+asr:0: OUTPUT 2730.61-2737.96: You talked about automotive, but what has been the overall impact across all of your businesses? 
+asr:0: OUTPUT 2738.12-2740.66: How you managing this as you go to. 
+asr:0: OUTPUT 2740.68-2744.84: Better or worse as well for the course of 2021. 
+asr:0: OUTPUT 2746.19-2753.77: And what has been the impact on revenues and margins so that both revenues and margins are not just revenues. 
+asr:0: OUTPUT 2755.16-2761.66: And certainly on appliances, you also talked about the impact of logistic costs going up. 
+asr:0: OUTPUT 2762.58-2770.87: But what has been the impact of material price increases on appliances margins in the last quarter, in Q3 21? 
+asr:0: OUTPUT 2771.31-2774.69: And what could we expect to see going forward. Thank you. 
+asr:0: OUTPUT 2778.02-2780.00: Thank you. 
+asr:0: OUTPUT 2860.00-2866.83: The pressure issue, my answer can be divided into the TV business and the automotive component business. 
+asr:0: OUTPUT 2883.10-2892.27: But the T1 supply chain was not enough for the car, so the car was not sold. 
+asr:0: OUTPUT 2897.76-2903.14: I think this question raises a concern mainly about the automotive semiconductor shortage. 
+asr:0: OUTPUT 2903.48-2913.15: In sourcing, the SINIC conductors required for our product, we don't have significant issues except for some impact on the price increase. 
+asr:0: OUTPUT 2913.55-2917.40: However, as other Tier 1 vendors offer many... 
+asr:0: OUTPUT 2917.42-2926.59: Semiconductor shortage and problems in supplying components, it has resulted in intermittent production disruptions in major OEMs. 
+asr:0: OUTPUT 2941.76-2945.71: Foreign. 
+asr:0: OUTPUT 2949.01-2958.00: The. 
+asr:0: OUTPUT 2960.36-2962.88: For the impact on our performance. 
+asr:0: OUTPUT 2962.90-2970.97: We have been affected to some degree by the supply disruption of OEM because these are our demand. 
+asr:0: OUTPUT 2971.23-2977.66: On our site has decreased. And also, there have been some price hikes of the component. 
+asr:0: OUTPUT 2978.26-2985.31: However, our diversified supply chain management system enables us to fulfill customer orders on time. 
+asr:0: OUTPUT 2985.87-2988.81: So therefore, so once this issue is resolved. 
+asr:0: OUTPUT 2988.85-2993.57: Because we are ready to fulfill customers' orders and their. 
+asr:0: OUTPUT 2993.59-2998.86: Prompt manner, we anticipate that we can achieve more meaningful growth down the road. 
+asr:0: OUTPUT 3000.38-3008.57: Korea. 
+asr:0: OUTPUT 3009.67-3016.16: Foreign. 
+asr:0: OUTPUT 3022.62-3026.49: Business as a market leader in the industry. 
+asr:0: OUTPUT 3026.83-3032.99: We have by procuring power and deep trust and partnership with suppliers. 
+asr:0: OUTPUT 3033.75-3040.04: With that, we have seen the managing an appropriate level of inventory and the. 
+asr:0: OUTPUT 3040.34-3047.55: By doing so, we have minimized the impact on our business by securing the DDIC and SOC. 
+asr:0: OUTPUT 3047.63-3048.73: And other components. 
+asr:0: OUTPUT 3073.79-3081.30: For the raw material cost and the impact on the HNA business in 2021. 
+asr:0: OUTPUT 3081.60-3083.92: We would say that the impact of. 
+asr:0: OUTPUT 3084.04-3085.71: On our annual sale for. 
+asr:0: OUTPUT 3085.81-3094.13: Year will be 2.5% to 3% and this estimation include the outlook for the fourth quarter. 
+asr:0: OUTPUT 3100.12-3109.37: In. 
+asr:0: OUTPUT 3112.75-3120.08: Our major raw materials such as steel, the resin, and the copper, so I have seen a price increase on. 
+asr:0: OUTPUT 3121.70-3124.02: This trend will continue even. 
+asr:0: OUTPUT 3125.13-3126.43: So for a. 
+asr:0: OUTPUT 3127.29-3132.25: It is serving as a factor in worsening our profitability outlook. 
+asr:0: OUTPUT 3141.42-3143.04: The. 
+asr:0: OUTPUT 3146.97-3148.73: Again, in 2021. 
+asr:0: OUTPUT 3149.19-3153.99: The raw material supply and demand imbalance work will continue. 
+asr:0: OUTPUT 3154.59-3160.00: And also we expect that especially the steel price will increase deeply. 
+asr:0: OUTPUT 3161.64-3169.85: Korea is working on a joint effort to address this issue. 
+asr:0: OUTPUT 3170.25-3172.37: So,. 
+asr:0: OUTPUT 3173.87-3177.12: And minimize the impact of the virus on the population. 
+asr:0: OUTPUT 3179.04-3183.38: Under these circumstances, along with globally integrated negotiations,. 
+asr:0: OUTPUT 3183.68-3197.92: We are minimizing need for raising product prices by fostering the key makers in each region, adopting diversified sourcing, and they optimize FCM and the other many others. 
+asr:0: OUTPUT 3197.94-3199.20: Activity. 
+asr:0: OUTPUT 3200.74-3206.33: And. 
+asr:0: OUTPUT 3210.21-3218.84: Foreign. 
+asr:0: OUTPUT 3224.46-3232.55: In addition, as macroeconomic factors and external factors, especially China, have suddenly increased. 
+asr:0: OUTPUT 3232.77-3241.00: We are focusing our organizational capabilities on proactively responding to current price hikes and offsetting risk from unforeseen risks. 
+asr:0: OUTPUT 3241.14-3246.01: Supply through timely inter-regional sourcing and the price for. 
+asr:0: OUTPUT 3260.06-3264.12: I'm Tongjie Wu from Bank of America. Please go ahead with your questions. 
+asr:0: OUTPUT 3284.99-3287.71: Foreign. 
+asr:0: OUTPUT 3295.28-3320.22: And the interest rate is very high in the first half of the year. In the second half of the year, there is a risk that the interest rate will be drastically reduced if the past patterns are repeated. If not, as has already been proven, even if the interest rate is good in the first half of the year, there is a risk that the interest rate will be as high as in the second half of the year. 
+asr:0: OUTPUT 3322.60-3327.81: And HMA. 
+asr:0: OUTPUT 3330.09-3335.02: You can also use ESG to reduce emissions. 
+asr:0: OUTPUT 3360.82-3368.89: So I'd like to pose two questions. My first question is on HNA and HE. 
+asr:0: OUTPUT 3371.47-3374.83: If you look at the operating income on a quarterly basis,. 
+asr:0: OUTPUT 3375.22-3383.20: You used to show a great fluctuation for many, many years so far in terms of TV and home appliances. 
+asr:0: OUTPUT 3383.72-3391.73: However, looking at the fourth quarter, the performance of the fourth quarter is decreasing more slowly than what has been happening in the past. 
+asr:0: OUTPUT 3392.23-3394.75: Can you explain the reason why behind this phenomenon? 
+asr:0: OUTPUT 3395.36-3402.06: And also, I'm wondering if there will be any risk of showing a high performance, solid performance in the first half. 
+asr:0: OUTPUT 3402.08-3407.41: And then showing a decrease of the performance in second half once again like the past. 
+asr:0: OUTPUT 3407.79-3411.65: Or you have already established a stable business model. 
+asr:0: OUTPUT 3411.67-3417.82: With TV and AT&T products showing even performances between first half and the latter half. 
+asr:0: OUTPUT 3418.46-3420.78: And my second question is on beer. 
+asr:0: OUTPUT 3421.30-3428.49: Recently, many agencies or governments are announcing their ESG or emission-related policies. 
+asr:0: OUTPUT 3429.09-3431.85: As you have already explained about your solar business. 
+asr:0: OUTPUT 3432.01-3436.94: I'm wondering and I'd like to understand the overall progress of your. 
+asr:0: OUTPUT 3436.96-3443.02: Renewable energy business-related strategy and ongoing project in line with this trend. 
+asr:0: OUTPUT 3446.27-3451.43: I will answer that. 
+asr:0: OUTPUT 3454.59-3459.48: Foreign. 
+asr:0: OUTPUT 3461.78-3467.59: The. 
+asr:0: OUTPUT 3472.33-3480.36: I can tell you that the profitability of the second half of the year is slightly weak, but it is in the early stages. 
+asr:0: OUTPUT 3481.94-3490.49: The trend for the past four years, including 2021, especially looking at the two years, 2018 and 2019. 
+asr:0: OUTPUT 3490.61-3495.72: The preferable ratio was around 7 to 3 between first half and the second half. 
+asr:0: OUTPUT 3496.36-3500.12: Maybe it's driven by the pent-up impact. 
+asr:0: OUTPUT 3500.14-3505.87: Caused by the COVID-19 for the past two years, recent two years, 2020 and 2021. 
+asr:0: OUTPUT 3505.99-3511.13: The performance was around 6 to 4, first half and second half. 
+asr:0: OUTPUT 3511.51-3515.64: So we are seeing a gradual improvement of profitability in the second half. 
+asr:0: OUTPUT 3518.02-3526.63: Foreign. 
+asr:0: OUTPUT 3527.01-3531.33: Foreign. 
+asr:0: OUTPUT 3532.89-3537.36: Foreign. 
+asr:0: OUTPUT 3538.36-3540.02: Foreign. 
+asr:0: OUTPUT 3544.14-3546.27: As you are already aware,. 
+asr:0: OUTPUT 3546.71-3554.33: Most of the promotional seasons, including the United States, are concentrated in the second half or a particular fourth. 
+asr:0: OUTPUT 3554.35-3558.72: Quarter, which is driving off the cost of that period. 
+asr:0: OUTPUT 3558.94-3564.32: And also we are impacted by the seasonality related to the AC business. 
+asr:0: OUTPUT 3564.84-3572.09: So that's the reason why we have the structure of showing a lower profitability in the second half compared to that of the first half. 
+asr:0: OUTPUT 3573.57-3575.18: Korean. 
+asr:0: OUTPUT 3593.37-3601.38: Of course, there were some impacts coming from the pent-up demand in improving our performance in the second half for the past two years. 
+asr:0: OUTPUT 3601.86-3607.77: However, we internally made continuous efforts to improve the profitability in the second half. 
+asr:0: OUTPUT 3607.79-3619.02: And also we strive to execute our expenses in a more efficient manner. 
+asr:0: OUTPUT 3631.45-3639.62: So as of yet, we couldn't overcome this pattern of showing a lower performance in the second half fully. 
+asr:0: OUTPUT 3639.98-3649.15: Compared to the past, we're able to make gradual, small but important improvements, showing better performance in the second half. 
+asr:0: OUTPUT 3650.19-3658.34: With this gradual improvement, I believe that this pattern of showing a lower pressure of leaching the second NF will continue to persist for the time being. 
+asr:0: OUTPUT 3662.38-3664.38: Foreign. 
+asr:0: OUTPUT 3668.89-3671.03: Regarding new renewable energy. 
+asr:0: OUTPUT 3673.99-3679.28: As ESG became more important,. 
+asr:0: OUTPUT 3687.49-3694.35: As ESG grows in importance, major countries are expanding their green policies to tackle climate change. 
+asr:0: OUTPUT 3694.87-3700.56: In light with this trend, the demand for new renewable energy is forecast to grow continuously. 
+asr:0: OUTPUT 3719.58-3725.53: Regarding your question about the progress of new projects, please understand that it is difficult to share specific information. 
+asr:0: OUTPUT 3726.09-3733.89: But I like to say we're keeping a close watch on additional business opportunities arising in the energy business ecosystem. 
+asr:0: OUTPUT 3744.72-3753.17: For example, we are reviewing a solution as to how we can offer an optimized solution for efficient power consumption at home. 
+asr:0: OUTPUT 3759.00-3764.18: Next question, please. 
+asr:0: OUTPUT 3764.80-3769.05: If you have any questions, please press the star and 1 on the phone button. 
+asr:0: OUTPUT 3769.35-3775.46: Currently there are no participants with questions. Please press star 1, star N1 to give your question. 
+asr:0: OUTPUT 3777.26-3780.00: Next question is from Bank of America. 
+asr:0: OUTPUT 3800.24-3805.61: Foreign. 
+asr:0: OUTPUT 3807.29-3809.19: Korean. 
+asr:0: OUTPUT 3812.03-3819.20: It's October, so I'd like to remind you again about the backlog. 
+asr:0: OUTPUT 3821.08-3823.68: I think it's a more meaningful distribution. 
+asr:0: OUTPUT 3824.76-3831.07: I'm. 
+asr:0: OUTPUT 3832.57-3839.50: Korean. 
+asr:0: OUTPUT 3848.05-3850.49: I have one question about the VS. 
+asr:0: OUTPUT 3852.05-3855.24: When we look at the quarterly sales performance. 
+asr:0: OUTPUT 3856.90-3860.78: Is hovering around or under 2 trillion won. 
+asr:0: OUTPUT 3861.20-3869.43: And the VF division explained many of the reasons, including the component shortage and the disruption on the customer side. 
+asr:0: OUTPUT 3870.05-3876.46: And the Can You that again provided the high level overview about your business situation. 
+asr:0: OUTPUT 3877.04-3884.60: And as in regards to the order backlog, as of October, is it about 60 trillion won? 
+asr:0: OUTPUT 3885.57-3901.26: And when can you make a turnaround in prospect by the recordings over 2 trillion one and even 3 trillion one in the field? So I'm wondering when will be the inflection point of a prospect? 
+asr:0: OUTPUT 3901.48-3906.03: And is it, can we expect that it's going to be the third quarter 2022? 
+asr:0: OUTPUT 3906.75-3912.11: And also the out of in-state backlog is 60 trillion won. 
+asr:0: OUTPUT 3912.61-3917.02: What is the portion of our EEVs related component business. 
+asr:0: OUTPUT 3932.59-3937.02: Your questions on the order deck book, the ASLE communicator. 
+asr:0: OUTPUT 3937.20-3942.26: The order backlog is of the 2021 is over 6 trillion won. 
+asr:0: OUTPUT 3942.48-3948.41: And is continuously rising. 
+asr:0: OUTPUT 3957.20-3959.18: And if you look at the proportions. 
+asr:0: OUTPUT 3959.52-3963.92: Out of all the backlogs, the infotainment. 
+asr:0: OUTPUT 3963.94-3973.05: Account for 60% and the remaining parts is the LG, the magnet related EV component and the ZKW lamp product. 
+asr:0: OUTPUT 3983.60-3987.75: Considering the high growth potential of the EV industry,. 
+asr:0: OUTPUT 3988.09-3996.96: So we believe that these backlogs from the EVs, the component related business, will increase with the... 
+asr:0: OUTPUT 3996.98-3999.68: LG Next-LJD participation. 
+asr:0: OUTPUT 4011.57-4021.04: And as you mentioned, the sales have been stagnant because the semiconductor shortage caused by the disruption in the OEM plant. 
+asr:0: OUTPUT 4031.39-4036.74: However, when we see the trend of older backpacks,. 
+asr:0: OUTPUT 4037.10-4042.52: Once this semiconductor issue is resolved, we can say that we can start to. 
+asr:0: OUTPUT 4042.80-4044.10: A meaningful outcome. 
+asr:0: OUTPUT 4050.05-4058.90: Please. 
+asr:0: OUTPUT 4060.00-4065.13: Currently there are no participants with questions. Please press star 1, star N1 to give your. 
+asr:0: OUTPUT 4074.25-4080.04: Once again, currently there are no. 
+asr:0: OUTPUT 4081.36-4085.03: We will wait for a second until there is another question. 
+asr:0: OUTPUT 4102.72-4109.35: That brings us to the end of LG Electronics' earnings release conference call for the third quarter of 2021. 
+asr:0: OUTPUT 4109.37-4114.07: For further questions, please contact the RN team. Thank you for your participation. 
+asr:0: END

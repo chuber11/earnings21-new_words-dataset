@@ -1,0 +1,542 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 7.45-12.99: Ladies and gentlemen, thank you for standing by. Welcome to KKR's fourth quarter 2021 earnings conference call. 
+asr:0: OUTPUT 13.65-20.98: During today's presentation, all parties will be in a listen-only mode. Following management's prepared remarks, the conference will be open for questions. 
+asr:0: OUTPUT 21.62-26.71: If you should require operator assistance during the call, please press star zero on your telephone keypad. 
+asr:0: OUTPUT 27.19-35.52: As a reminder, today's call is being recorded. I'll now hand the call over to Craig Larson, Head of Investor Relations for KKR. Please go ahead. 
+asr:0: OUTPUT 36.68-45.25: Thank you, operator. Good morning, everyone. Welcome to our fourth quarter 2021 ONYs call. As usual, I'm joined this morning by Rob Lewin, our CFO. 
+asr:0: OUTPUT 46.11-48.59: And Scott Nottle, our Co-Chief Executive Officer. 
+asr:0: OUTPUT 50.71-57.76: We'd like to remind everyone that we'll refer to non-GAAP measures on the call, which are reconciled to GAAP figures in our press release. 
+asr:0: OUTPUT 57.78-61.28: Which is available on the Investor Center section at KTR.com. 
+asr:0: OUTPUT 61.94-66.35: And as a reminder, we report our segment numbers on an adjusted share basis. 
+asr:0: OUTPUT 67.43-73.31: Our call will contain forward-looking statements which do not guarantee future events or performance. 
+asr:0: OUTPUT 73.33-79.08: Please refer to our earnings release and SEC filings for cautionary factors about these statements. 
+asr:0: OUTPUT 81.08-86.31: Now before we jump into our results for the quarter, we'd like to take a step back and talk about Kikki Arnful. 
+asr:0: OUTPUT 87.69-90.33: As we look at our business, we see four things. 
+asr:0: OUTPUT 91.01-99.36: First, we see scaling. Organically, over the last 12 months, AUM at KKR increased 48%. 
+asr:0: OUTPUT 100.48-104.99: For an asset management business of our size, that alone is a pretty remarkable statistic. 
+asr:0: OUTPUT 105.47-111.65: And including the Global Atlantic Acquisition, AAUM increased 87% year over year. 
+asr:0: OUTPUT 113.13-118.58: Second, you're seeing the impact of this scaling across many of the numbers that we're reporting today. 
+asr:0: OUTPUT 119.80-127.59: You see it in our financials. Management fees for the year increased 44%. Fee-related earnings increased 54%. 
+asr:0: OUTPUT 128.55-130.77: While distributable earnings more than doubled. 
+asr:0: OUTPUT 131.79-133.97: All of these figures are at a record level for us. 
+asr:0: OUTPUT 135.50-141.16: And you also see it in our operating statistics. Investment activity, for example, is at a new level. 
+asr:0: OUTPUT 142.18-150.25: In 2020, we invested $30 billion across the firm. In 2021, that increased to over $70 billion. 
+asr:0: OUTPUT 151.29-156.86: A new capital raised of $121 billion for the year reflects breadth and diversification. 
+asr:0: OUTPUT 158.20-166.09: Approximately one third of that capital was raised from the broad private equity franchise. So, including our growth strategies and core PE. 
+asr:0: OUTPUT 167.33-173.95: Another one-third came from our real assets businesses, with the remaining one-third coming from public markets. 
+asr:0: OUTPUT 174.75-178.02: So fundraising was truly diversified across the firm. 
+asr:0: OUTPUT 178.94-187.59: And the other neat point about that $121 billion is that 45% of it came from strategies that didn't exist at KKR five years ago. 
+asr:0: OUTPUT 188.51-191.89: We think that says a lot about our culture and our focus on innovation. 
+asr:0: OUTPUT 193.89-202.76: Third, looking forward, we remain very constructive on the opportunities we have ahead of us with multiple identifiable growth avenues on a global basis. 
+asr:0: OUTPUT 203.88-208.37: Rob's going to touch on our fundraising pipeline and our areas of focus in a few minutes. 
+asr:0: OUTPUT 209.71-213.67: And finally, remember, we feel advantaged during periods of dislocation. 
+asr:0: OUTPUT 214.71-221.84: There are very few long-dated pools of capital as large as ours that can take advantage of dislocations. 
+asr:0: OUTPUT 222.80-229.83: And we have a unique business model and a unique culture that we think can lead to differentiated outcomes during these periods. 
+asr:0: OUTPUT 229.85-233.59: And that's all alongside of 112 billion of dry powder. 
+asr:0: OUTPUT 235.06-242.32: Suffice to say, there's plenty to focus on and a lot of compelling opportunities in the uncertain world in which we all find ourselves. 
+asr:0: OUTPUT 244.00-248.79: Now turning to our results. The fourth quarter was another very strong quarter for us. 
+asr:0: OUTPUT 249.95-259.38: Fee-related earnings per share of 69 cents, and after-tax distributable earnings of $1.59 per share are record quarterly figures for us. 
+asr:0: OUTPUT 260.04-263.70: And full year FRE of $2.23 per share. 
+asr:0: OUTPUT 264.26-270.59: An after-tax DE of $4.44 per share, our record annual figures for us. 
+asr:0: OUTPUT 271.73-281.62: Looking at the quarter's operating metrics, new capital raised, total $19 billion, driven by several strategies across private equity, infrastructure, real estate, and credit. 
+asr:0: OUTPUT 282.66-291.91: Notably, healthcare strategic growth too held its final close, bringing the fund to almost $4 billion, or approximately three times larger than its predecessor. 
+asr:0: OUTPUT 293.23-297.20: This brings new capital raised for 2021 to $121 billion. 
+asr:0: OUTPUT 297.42-305.27: And this record fundraising and the addition of $98 billion from the Global Atlantic acquisition in February significantly increased our asset base. 
+asr:0: OUTPUT 306.11-310.99: AAUM now totals $471 billion, up 87% year over year. 
+asr:0: OUTPUT 312.53-321.28: The strength of this year's fundraising is importantly quite diverse, as I mentioned a minute ago, with about $70 billion from non-flagship strategies. 
+asr:0: OUTPUT 322.20-331.55: Our younger strategies are scaling as they enter their second or third fund life, and we continue to innovate and expand into adjacencies across strategies and across geographies. 
+asr:0: OUTPUT 332.87-338.08: And GA grew by $25 billion through block activity alongside of organic inflows in the air. 
+asr:0: OUTPUT 340.00-347.23: We deployed $23 billion in the quarter. Capital invested in both traditional private equity and core private equity was strong. 
+asr:0: OUTPUT 348.07-357.30: Our real estate platform continues to see robust deployment with real estate credit, particularly operating a high run rate, and that's been amplified by Global Atlantic. 
+asr:0: OUTPUT 358.42-365.93: Similarly, on the public market side, GA has added to the rate of private credit deployment in the quarter, most meaningfully in asset-based finance. 
+asr:0: OUTPUT 366.13-370.35: With additional deployment and direct lending and opportunistic strategies. 
+asr:0: OUTPUT 371.53-378.92: Q4's activity brings capital invested for 2021 to $73 billion, up 2.5x year over year. 
+asr:0: OUTPUT 380.06-389.87: We've seen a step function type change in the level of deployment driven by the size and diversity of our capital base, while at the same time remaining judicious in choosing our spot. 
+asr:0: OUTPUT 392.69-400.92: Now just as we continue to see strength on the fundraising and deployment front, our funds and strategies continue to perform at a very high level. 
+asr:0: OUTPUT 401.22-408.75: You can see this on page seven of the earnings release, where we detail investment performance for the quarter and the year across investment strategies. 
+asr:0: OUTPUT 410.35-414.67: And finally, I want to touch on capital return before Rob walks through our earnings profile. 
+asr:0: OUTPUT 416.12-418.78: As you can see at the bottom of page two of the release. 
+asr:0: OUTPUT 418.80-426.59: Consistent with historical practice, we're pleased to announce an increase in our annual dividend from 58 cents to 62 cents per share. 
+asr:0: OUTPUT 427.69-432.35: This is the third consecutive year we've increased our dividends since we changed our corporate structure. 
+asr:0: OUTPUT 433.27-438.86: And the change will go into effect beginning with any dividends to be announced for the first quarter of 2022. 
+asr:0: OUTPUT 440.72-448.23: And since our third quarter earnings call in November through last week, we repurchased $363 million of our stock in the open market. 
+asr:0: OUTPUT 448.93-453.25: With the majority of that coming in 2022 in the midst of all of this volatility. 
+asr:0: OUTPUT 454.01-460.30: And with that, I'll turn the call over to Rob. Thanks a lot, Craig. Now to walk you through our quarterly P&L. 
+asr:0: OUTPUT 461.62-465.63: Our management fees increased by 49% this quarter versus Q4 of 2008. 
+asr:0: OUTPUT 467.55-471.31: Management fee growth was driven by closures across a number of active funds in the quarter. 
+asr:0: OUTPUT 472.37-478.44: These closes, alongside our investment activity, bring free-paying AUM to $357 billion. 
+asr:0: OUTPUT 479.56-489.17: The fundraising success experienced over the past few quarters is really starting to flow through this line with another $38 billion of committed capital not yet paying fees. 
+asr:0: OUTPUT 490.47-499.56: Our net transaction and monitoring fees were primarily driven by our capital markets franchise this quarter, which earned $320 million. This is a high point for us. 
+asr:0: OUTPUT 500.52-509.07: This revenue figure also encompasses a record number of transactions in a single quarter. And we only had one fee event that was greater than $20 million. 
+asr:0: OUTPUT 509.97-515.82: For the year, capital markets totaled $847 million with revenues diversified by type. 
+asr:0: OUTPUT 516.28-522.34: Approximately a quarter of our revenues related to each of private equity, infrastructure, as well as third-party clients. 
+asr:0: OUTPUT 522.90-526.35: With the remaining quarter diversified across multiple different asset classes. 
+asr:0: OUTPUT 528.59-536.14: Moving to our expenses, fee-related compensation came in right at that 22.5% mark, the midpoint of the range we've discussed previously. 
+asr:0: OUTPUT 537.06-539.86: While our other operating expenses came in at $140 million. 
+asr:0: OUTPUT 540.96-546.81: The increase here was driven by higher placement fees as well as professional fees given high activity levels across the firm. 
+asr:0: OUTPUT 547.79-555.16: We are also all back in the office across most of our locations, leading to an uptick in operating costs versus this time last year. 
+asr:0: OUTPUT 556.22-563.18: In total, this brings our fee-related earnings to $606 million for the quarter, which is up 45% versus Q4 of 2018. 
+asr:0: OUTPUT 564.99-568.73: The quarterly and yearly FRD margin both came in at 63%. 
+asr:0: OUTPUT 570.07-576.74: And on a per share basis, FRE is $2.23 for the year. Now moving on to realizations. 
+asr:0: OUTPUT 578.38-581.40: Realized carried interest totaled $568 million in the quarter. 
+asr:0: OUTPUT 582.60-589.31: Are realized incentive fees totaled $351 million in the quarter, largely due to Marshall Waste's strong investment performance. 
+asr:0: OUTPUT 590.47-599.56: And realized that investment income totaled $336 million. Together, these earnings streams resulted in $1.4 billion of asset management operating earnings. 
+asr:0: OUTPUT 601.60-608.51: Our insurance segment also experienced an incredibly strong quarter with $347 million of operating earnings. 
+asr:0: OUTPUT 609.91-613.91: In Q4, Global Atlantic sold its interest in Origious Energy. 
+asr:0: OUTPUT 613.93-622.38: A solar renewable energy developer at 12 times cost resulting in a 200 plus million dollar benefit to segment operating earnings. 
+asr:0: OUTPUT 623.34-633.11: This was really an amazing result for Global Atlantic and all of its shareholders, while still recognizing that 12-time gains are not representative of our go-forward expectations here. 
+asr:0: OUTPUT 634.45-640.28: Excluding all variable investment income for the year at GA, ROE would have still been a bit about 14%. 
+asr:0: OUTPUT 641.30-647.87: This return represents a strong core operating level and modestly above our 12 to 13 percent expected range. 
+asr:0: OUTPUT 649.19-655.86: Most importantly, a year into our partnership with GA, we couldn't feel any better about our collective progress. 
+asr:0: OUTPUT 656.72-664.14: Including the performance of management, the profitability of our stake, scaling of the AUM, and the integration of our teams. 
+asr:0: OUTPUT 666.73-672.91: In total, our after-tax distributable earnings were $1.4 billion for the quarter, or $1.59 per share. 
+asr:0: OUTPUT 673.73-678.18: Comparing 2021 to 2020, D per share is up over two times. 
+asr:0: OUTPUT 679.82-687.59: Alongside an increase in earnings, we are also seeing continued compounding in our book value per share, which now totals $28.77. 
+asr:0: OUTPUT 688.81-694.11: As a component of this, our 61% economic interest in Global Atlantic's book value. 
+asr:0: OUTPUT 694.15-699.18: Now totals $3.4 billion, a 15% since the first quarter of our ownership. 
+asr:0: OUTPUT 700.64-701.68: In summary,. 
+asr:0: OUTPUT 701.72-710.71: Our business continues to perform at an exceptionally high level, and this is clearly evident in both our Q4 as well as our 2021 results. 
+asr:0: OUTPUT 712.15-715.40: Now there are two additional topics I would like to go through in a bit more detail. 
+asr:0: OUTPUT 716.22-723.40: The first is our potential. In 2021, we generated almost $5 billion of distributable operating. 
+asr:0: OUTPUT 724.60-729.21: Really a step function increase from the $2.3 billion that we generated in. 
+asr:0: OUTPUT 731.15-740.90: And to be clear, we don't believe these results yet reflect even our run rate profitability, let alone our potential. There are a number of reasons why we have room to run. 
+asr:0: OUTPUT 742.00-748.99: Let's start with management fees. At 1231, we have $38 billion of committed capital that isn't yet running through our management fee line. 
+asr:0: OUTPUT 750.15-752.43: A year ago, that number was 20 billion. 
+asr:0: OUTPUT 753.71-758.84: And as that $38 billion, which has a weighted average management fee north of 100 basis points. 
+asr:0: OUTPUT 758.88-764.20: Is either invested or enters its investment period, it will drive management fees in a meaningful way. 
+asr:0: OUTPUT 765.43-768.57: And we'll come to our future fundraising potential from here in just a minute. 
+asr:0: OUTPUT 769.69-777.68: Next are our embedded gains. Gross unrealized carry at year end totals $8.6 billion compared to $4.7 billion a year ago. 
+asr:0: OUTPUT 778.64-787.37: So even after a record realization year, gross unrealized carry increased over 80%, positioning us really well for future realized performance income. 
+asr:0: OUTPUT 788.75-795.12: And embedded balance sheet gains in 1231 were $6.7 billion, up from $4.4 billion a year ago. 
+asr:0: OUTPUT 795.94-804.26: So similarly, while we saw meaningful step-up in balance sheet realizations in 2021, our embedded gains increased over 50%. 
+asr:0: OUTPUT 805.63-811.81: And finally, as the overall footprint of the firm continues to grow, leading to increased deployment and more relationships. 
+asr:0: OUTPUT 812.27-817.28: This in turn continues to expand the opportunities we expect to have in our capital markets business. 
+asr:0: OUTPUT 819.52-825.63: So really strong performance in 2021, but with a really meaningful potential still yet in front of us. 
+asr:0: OUTPUT 826.63-831.33: That leads into the second topic I'd like to touch on, fundraising and our pipeline. 
+asr:0: OUTPUT 832.55-841.88: As we look forward, we expect to be fundraising across 30 plus strategies in 2022. So we have a lot of runway and opportunity in front of us. 
+asr:0: OUTPUT 843.02-845.31: In terms of areas of focus, I'd highlight four. 
+asr:0: OUTPUT 846.87-855.78: The first area is private wealth. We now manage a little over 50 billion in private wealth assets and we've been investing meaningfully into this channel. 
+asr:0: OUTPUT 856.74-861.90: Historically, private wealth has contributed about 10 to 20 percent of the money that we raise annually. 
+asr:0: OUTPUT 863.08-867.71: With the investments we're making in people, technology, and new product innovation. 
+asr:0: OUTPUT 867.73-876.40: Alongside the strength of our brand and our track record, we believe over time that it should be 30 to 50 percent of the money that we raise. 
+asr:0: OUTPUT 878.20-879.54: The second area would be Asia. 
+asr:0: OUTPUT 880.48-888.59: More than half of global GDP growth is expected to come from Asia. And as a reminder, eight of our 21 offices are in the region. 
+asr:0: OUTPUT 889.47-890.65: We were early in Asia. 
+asr:0: OUTPUT 890.89-899.60: And we've seen significant scaling as AUM across our Asia-dedicated strategies has gone from $20 billion to $42 billion over the last two years. 
+asr:0: OUTPUT 899.94-902.60: With private equity being the biggest driver of that growth. 
+asr:0: OUTPUT 903.96-910.21: In 2022, we expect to be fundraising for five Asia-focused strategies outside of PE. 
+asr:0: OUTPUT 910.43-914.23: Across our infrastructure, real estate, credit, and growth businesses. 
+asr:0: OUTPUT 915.12-921.94: We have a leading footprint in Asia today, and building on our presence is a priority and a big opportunity for us. 
+asr:0: OUTPUT 923.80-931.85: The third area would be our broader core franchises. These are all adjacent strategies to what we're doing in private equity, real estate, as well as infrastructure. 
+asr:0: OUTPUT 932.55-937.20: So think longer-term capital, a lot of which can be raised on a continuous basis. 
+asr:0: OUTPUT 938.04-942.92: For strategies that are leveraging resources and deal flow that are already resident within the firm today. 
+asr:0: OUTPUT 944.66-950.47: A year ago, we were at 17 billion of AUM across core, and today that figure is north of 40 billion. 
+asr:0: OUTPUT 951.87-961.18: In 2022, we look to continue the momentum and expect to be fundraising across five distinct strategies in private equity, real estate, and infrastructure. 
+asr:0: OUTPUT 964.14-967.57: And the fourth area is what we're doing across our real estate franchise. 
+asr:0: OUTPUT 968.35-973.85: A year ago AUM across real estate was $15 billion. Today that figure is $41 billion. 
+asr:0: OUTPUT 974.75-979.52: In 2022, we expect to fundraise across 10 distinct real estate strategies. 
+asr:0: OUTPUT 980.00-988.09: Including the next generation of our opportunistic real estate strategies across all three geographies. And with that, let me turn it over to Scott. 
+asr:0: OUTPUT 990.89-994.15: Thank you, Rob, and thank you everyone for joining our call today. 
+asr:0: OUTPUT 995.36-1004.32: As Craig and Rob reviewed, 2021 was a very strong year with record AUM, FRE, and earnings. 
+asr:0: OUTPUT 1005.63-1014.81: The hard work of the last 10 to 15 years of business building began to show up in bigger ways last year. And we're ahead of where we thought we would be at this point. 
+asr:0: OUTPUT 1016.66-1019.66: And with a record $112 billion of dry powder. 
+asr:0: OUTPUT 1019.90-1026.85: We are well capitalized to invest in opportunities presented by more volatile markets and in an evolving macro picture. 
+asr:0: OUTPUT 1028.55-1037.82: In summary, we feel incredibly well positioned. While we're together today, I also wanted to give you a little color on our annual planning meetings. 
+asr:0: OUTPUT 1038.42-1046.43: Last week, we gathered 35 of our partners for two full days to review where we are, where we're going, and what we need to get right. 
+asr:0: OUTPUT 1046.45-1048.45: To capture the opportunity in front of us. 
+asr:0: OUTPUT 1049.85-1052.01: It was an extremely energizing discussion. 
+asr:0: OUTPUT 1054.13-1059.66: As we discussed at our investor day last April, we have significant runway in all of our businesses. 
+asr:0: OUTPUT 1060.00-1066.17: And see the opportunity to meaningfully scale across multiple platforms and markets simultaneously. 
+asr:0: OUTPUT 1067.33-1075.36: Including Asia, real estate, infrastructure, our core suite of products, private wealth,. 
+asr:0: OUTPUT 1075.38-1082.86: Growth, impact in ESG, insurance, credit, and private equity, amongst others. 
+asr:0: OUTPUT 1084.48-1093.45: What we discussed last week is that our progress makes us even more confident in the opportunity ahead and what these businesses can become. 
+asr:0: OUTPUT 1095.86-1104.98: Said another way, we believe we can get to the destination faster than we thought a year ago, and the quantum of the growth opportunity is greater than we anticipated. 
+asr:0: OUTPUT 1107.85-1116.56: So while 2021 was a great year for the firm, what's particularly exciting is how the progress we made last year positions us for more growth in the years ahead. 
+asr:0: OUTPUT 1118.02-1121.72: And critically, Joe and I have never had more confidence in our team. 
+asr:0: OUTPUT 1122.64-1129.85: We have a focused and highly motivated group driving our businesses and functions and responsible for each of our growth initiatives. 
+asr:0: OUTPUT 1131.39-1137.36: So we enter 2022 with significant conviction in our growth prospects, our model, and our people. 
+asr:0: OUTPUT 1138.20-1143.56: And look forward to keeping you updated throughout the year. And with that, we're happy to take your. 
+asr:0: OUTPUT 1146.47-1153.43: Thank you. At this time, we'll be conducting a question and answer session. If you'd like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1153.81-1156.52: A confirmation tone will indicate your line is in the question queue. 
+asr:0: OUTPUT 1157.10-1165.51: You may press star two if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star key. 
+asr:0: OUTPUT 1165.97-1170.37: In the interest of time, we ask that you each keep to one question and one follow-up. Thank you. 
+asr:0: OUTPUT 1171.51-1176.12: Our first question comes from the line of Alex Blosstein with Goldman Sachs. Please proceed with your question. 
+asr:0: OUTPUT 1177.98-1185.67: Good morning, everybody. Thanks for taking the question. Why don't we start with just the dynamics around fundraising and management to growth? 
+asr:0: OUTPUT 1186.65-1189.47: And I really kind of wanted to zone out on a couple of things, I guess. 
+asr:0: OUTPUT 1189.57-1197.26: Whether or not the current macro conditions are having any impact on LP appetite to allocate to private markets broadly. 
+asr:0: OUTPUT 1197.86-1201.32: Even if just tactically, but curious to hear what you guys hearing on the ground. 
+asr:0: OUTPUT 1202.14-1207.39: And then secondly, Rob, you mentioned a number of fundraising initiatives for 2022. 
+asr:0: OUTPUT 1207.89-1215.62: I was hoping you could size how much you expect to raise across those 30 plus strategies and ultimately what that means for 2022 management fee growth. 
+asr:0: OUTPUT 1217.32-1218.88: Hey, Alex, this is Craig. Why don't I begin? 
+asr:0: OUTPUT 1220.38-1228.55: So the first part of your question, really no change in terms of the interest level that our LPs are having from a fundraising side. 
+asr:0: OUTPUT 1229.13-1234.21: And it continues to feel like we have a lot of momentum, which is great. 
+asr:0: OUTPUT 1234.69-1242.86: Why don't I give a little bit more granularity in terms of all of those, you know, the areas where we're fundraising, give you a sense of the breadth of that activity for us. 
+asr:0: OUTPUT 1243.36-1246.93: You know, Rob obviously ran through the four areas of focus for us in 2022. 
+asr:0: OUTPUT 1247.01-1254.57: To. More narrowly in private equity, we're still fundraising for America's private equity. We're fundraising for Europe private equity strategy. 
+asr:0: OUTPUT 1255.10-1262.84: In growth, fundraisings launched for both the impact and next-gen tech strategies. In poor, we're fundraising across the core businesses. 
+asr:0: OUTPUT 1263.26-1268.81: So that's core private equity as well as core infra and core plus real estate strategies. 
+asr:0: OUTPUT 1268.95-1275.72: Now the latter two are open-ended, and in addition to Core Plus in the U.S. That we've spoken about,. 
+asr:0: OUTPUT 1276.08-1281.12: We've also launched fundraising for Core Plus Real Estate in Europe and Asia. Both of those are also open-ended. 
+asr:0: OUTPUT 1282.14-1285.97: As well as an infra where fundraising continues for the benchmark infrastructure strategy. 
+asr:0: OUTPUT 1286.51-1296.50: In real estate in addition to the core plus strategies in all three geographies. We're fundraising for a stabilized real estate credit strategy and an opportunistic real estate credit strategy as well. 
+asr:0: OUTPUT 1297.54-1307.01: And credit where active in the u.s. Europe and asia uh... We're fundraising for lending partners european revolving credit asia credit has to be finance credit opportunities. 
+asr:0: OUTPUT 1307.03-1310.81: And that's in addition to a global Atlantic sidecar strategy. 
+asr:0: OUTPUT 1311.31-1313.55: Our CLO business has been active. 
+asr:0: OUTPUT 1313.99-1320.76: And as we look to raise capital across the leveraged credit platforms and our hedge fund partnerships on a more continuous basis. 
+asr:0: OUTPUT 1321.16-1324.70: And that's all in addition to the suite of democratized products that we have. 
+asr:0: OUTPUT 1325.63-1332.31: So again, really, I think the overall takeaway, lots of activity, and it just continues to feel like we have a lot of momentum. 
+asr:0: OUTPUT 1333.43-1339.26: Yeah, the only thing I would add Alex agree with Craig no change in appetite the only incremental color I'd give. 
+asr:0: OUTPUT 1340.18-1344.70: If anything, we're seeing more interest in real assets with yield. 
+asr:0: OUTPUT 1345.67-1355.40: So anything with some inflation protection, so think infrastructure and real estate, as we've seen inflation expectations go up, we're finding even more interest in those asset classes. 
+asr:0: OUTPUT 1356.04-1358.18: Rob, you want to pick up on the second part? Yeah, hey, I'll... 
+asr:0: OUTPUT 1359.38-1367.31: As it relates to the management fee piece of it, Alex, we've never felt as good as we do right now about our ability to sustainably grow management fees over time. 
+asr:0: OUTPUT 1368.03-1373.47: Obviously, I referenced the $38 billion of capital that hasn't yet flown through our management fee line item. 
+asr:0: OUTPUT 1373.81-1379.72: The 30 plus products, you know, Craig just went through our relationship with Global Atlantic where assets are much higher than. 
+asr:0: OUTPUT 1379.86-1388.95: Where we thought we'd be and frankly just the new product innovation that's happening across the firm today that gives us visibility around our ability to grow management fees tomorrow. 
+asr:0: OUTPUT 1389.37-1396.54: So I think the expectation should certainly be continued management fee growth from us and being able to do so in a sustainable basis over time. 
+asr:0: OUTPUT 1398.78-1406.73: Thanks for that. My follow-up is around capital management. You guys obviously picked up the pace of buyback so far in the first quarter. 
+asr:0: OUTPUT 1407.51-1415.28: Given your comments around the robustness of the business going forward, obviously lots of capacity on the balance sheet given realizations and embedded gains. 
+asr:0: OUTPUT 1415.72-1422.06: How are you thinking about the buyback at this level for the share price? And should we be thinking about acceleration and share purchases from here? 
+asr:0: OUTPUT 1423.16-1431.23: Alex, the key for us on capital allocation is to have a consistent approach and you've heard that for us over the last number of years and we anticipate that continuing. 
+asr:0: OUTPUT 1431.71-1441.24: And so as we think about our overall capital allocation strategy, we want to make sure that we're striking the right balance between capital return to shareholders and investing back into KKR for growth. 
+asr:0: OUTPUT 1441.76-1445.27: So long as that can be done at high ROEs and above our cost of equity. 
+asr:0: OUTPUT 1445.63-1454.67: So let's take those in order. You would have seen, obviously, that we just increased our dividends 7%. Third consecutive year since we became a Citi Corp, we've increased our dividends. 
+asr:0: OUTPUT 1455.26-1460.64: And then we want to continue to invest back into KKR stock, as you said, certainly at these levels. 
+asr:0: OUTPUT 1460.98-1464.38: We feel really good about our overall body of work on our share buyback. 
+asr:0: OUTPUT 1465.05-1473.71: We've repurchased a retired north of 80 million shares now. That's almost 10% of KKR shares outstanding, almost 15% of our free flow. 
+asr:0: OUTPUT 1474.93-1479.26: And our goal, as you know, is to keep our share count flat as it relates to employee dilution. 
+asr:0: OUTPUT 1479.52-1487.53: So I think the expectation over time is certainly CSB in the market and acquiring and retiring KKR stock. 
+asr:0: OUTPUT 1488.21-1492.27: In terms of balancing that with overall opportunity to grow KKR. 
+asr:0: OUTPUT 1492.65-1500.66: It is a big priority for us to reinvest back into KKR, whether that's an M&A or supporting new products or supporting new innovations, so long as we're seeing. 
+asr:0: OUTPUT 1500.68-1502.98: Returns that are commensurate with that capital commitment. 
+asr:0: OUTPUT 1503.02-1505.09: And over the last number of years we certainly have. 
+asr:0: OUTPUT 1505.51-1509.83: So we're going to continue to have a capital allocation framework that is very much ROE based. 
+asr:0: OUTPUT 1510.45-1516.42: We feel that's a real core competency of ours as we think about moving capital around to the highest ROE opportunity. 
+asr:0: OUTPUT 1517.36-1520.62: And if you think about our overall capital allocation framework, I think it's also. 
+asr:0: OUTPUT 1520.96-1528.09: With remembering that KKR as an employee base is the single largest shareholder in KKR, so we come at that from a very aligned basis. 
+asr:0: OUTPUT 1529.57-1531.39: Great. Thanks for all that. 
+asr:0: OUTPUT 1533.97-1538.22: Our next question comes from the line of Robert Lane with KBW. Please proceed with your question. 
+asr:0: OUTPUT 1539.20-1541.42: Great. Good morning, everyone. Thanks for taking my questions. 
+asr:0: OUTPUT 1541.96-1544.98: Meet maybe first look at what management. 
+asr:0: OUTPUT 1545.05-1560.14: Generating 30 to 50% of your fundraising from that channel in several years is a pretty big step up, particularly in light of your overall fundraising. So could you maybe put a little bit more meat on the bone? 
+asr:0: OUTPUT 1561.38-1563.72: I know you just hired a new head of global. 
+asr:0: OUTPUT 1563.74-1575.34: Wealth management, but whether it's specific products or specific things that kind of give you that confidence, sitting here today, that in the next couple of years you can have that magnitude of an increase coming from that. 
+asr:0: OUTPUT 1575.36-1577.10: Channel. I mean, what would drive that? 
+asr:0: OUTPUT 1578.42-1585.81: Rob, it's Craig Woderup again. So private wealth is as big a priority as we have as a firm. 
+asr:0: OUTPUT 1587.03-1592.01: And the addressable market here, as everyone knows, is massive. 
+asr:0: OUTPUT 1592.53-1598.72: You know total client assets are estimated to be around two hundred eighty trillion dollars. 
+asr:0: OUTPUT 1598.74-1602.10: Pension funds, sovereign wealth, insurance, private wealth combined. 
+asr:0: OUTPUT 1602.56-1605.73: And private wealth is almost 65% of that and is growing. 
+asr:0: OUTPUT 1606.43-1614.31: So it's a massive end market, but at the same time, allocations, as we all know, for individual investors is a fraction of what you find at institutions. 
+asr:0: OUTPUT 1615.18-1620.58: And so individual investors are less than 5%. And by our research, we actually think that number is in around 2% to 3%. 
+asr:0: OUTPUT 1621.48-1627.47: We have this enormous end market, it's underpenetrated with allocations that are increasing. 
+asr:0: OUTPUT 1628.03-1637.94: And so it's a huge opportunity. And I think as we think of our investment skills, our track record, combined with our brand, we really think we're exceptionally well positioned to be a winner here. 
+asr:0: OUTPUT 1638.54-1645.07: And the focus I'd say is really threefold. So one, we're focused on our partnerships with private wealth platforms. 
+asr:0: OUTPUT 1645.23-1654.15: So in the US, that's the wire houses, the independent broker dealers, the RIAs. And outside the US, it's the global private banks and the regional private banks. 
+asr:0: OUTPUT 1654.73-1659.88: And so the business is organized by geography here, and you're correct, you've seen some hiring related to that. 
+asr:0: OUTPUT 1660.92-1663.78: Second, we're related, or we're focused on the family capital part. 
+asr:0: OUTPUT 1664.34-1668.25: So think about that, single family offices, multi-family, ultra high net worth. 
+asr:0: OUTPUT 1668.85-1675.82: And some of those folks are very large and very sophisticated. And again, we're organized by geography here. 
+asr:0: OUTPUT 1676.54-1678.56: And then third, we're focused on product creation. 
+asr:0: OUTPUT 1679.22-1683.90: So historically we've offered private fund solutions through the private wealth space. 
+asr:0: OUTPUT 1684.36-1690.95: But really there are only a limited number of private wealth investors that are qualified who could look at private funds as appropriate. 
+asr:0: OUTPUT 1691.57-1695.32: So we're focusing on creating these new investment solutions. 
+asr:0: OUTPUT 1695.34-1699.06: These more democratized products, democratized solutions. 
+asr:0: OUTPUT 1699.08-1705.57: That are in a registered fund format and have much wider applicability within the private wealth channel. 
+asr:0: OUTPUT 1706.29-1714.45: So I think suffice to say when you combine with where we are in the development of the channel, the maturing of our product set,. 
+asr:0: OUTPUT 1714.97-1719.12: Including, and Scott mentioned this a moment ago, all the products that we have with the yields. 
+asr:0: OUTPUT 1719.14-1728.07: Real assets, etc. And put that together with our brand, which is really encouraged with how we're situated and all of the opportunities that we have ahead of us. 
+asr:0: OUTPUT 1730.23-1732.19: Okay, great, thanks. 
+asr:0: OUTPUT 1732.35-1733.71: I mean... 
+asr:0: OUTPUT 1733.79-1738.72: The least equity mark has been a pretty rocky start to the year, so I guess investors are. 
+asr:0: OUTPUT 1738.74-1748.05: You know generally concerned about kind of the realization outlook from here Could you maybe update us and where you where things are for you guys right now? You know through you know the start of the year the first you know. 
+asr:0: OUTPUT 1748.85-1750.97: You know, half of a quarter Q1. 
+asr:0: OUTPUT 1752.67-1755.46: Rob, some good news here. 
+asr:0: OUTPUT 1756.04-1760.60: We already have a good amount of visibility into some pretty meaningful revenue from monetization activity. 
+asr:0: OUTPUT 1761.28-1769.43: As of now that figures around seven hundred million maybe a bit about that uh... As you know that collectively across both our performance as well as our investment income. 
+asr:0: OUTPUT 1770.01-1775.96: And as a reminder, that is from deals that are already closed or have been signed up and that we expect to close in Q1. 
+asr:0: OUTPUT 1776.78-1781.70: So we're off to a really good start there. This is one of the strongest figures we've ever had at this stage of the quarter. 
+asr:0: OUTPUT 1782.50-1790.07: And then the other, I know, relevant thing for your models is the split. It's weighted around 75-25 carry investment income right now. 
+asr:0: OUTPUT 1791.37-1796.92: So yeah, we feel like a pretty good start to the year and gives us some support going into Q1 of 2020. 
+asr:0: OUTPUT 1799.14-1800.50: Great, thanks for taking my questions, guys. 
+asr:0: OUTPUT 1803.94-1813.19: Our next question comes from the line of Bill Katz with Citi. Please proceed with your question. Okay. Thank you very much for taking the questions this morning. So maybe come back to interest rates for a moment. 
+asr:0: OUTPUT 1813.61-1823.20: I was wondering if you could let us know what is your rate assumption that you have that sort of supports your 12 to 13% ROE for Global Atlantic and then. 
+asr:0: OUTPUT 1823.46-1829.65: If rates were to go up, can you walk us through what the net impact would be between maybe a higher ROI there versus any impact on management fees? 
+asr:0: OUTPUT 1833.49-1835.68: Hey Bill, it's Rob. Thanks for the question. 
+asr:0: OUTPUT 1836.60-1838.92: Maybe let's start with where we think interest rates are going. 
+asr:0: OUTPUT 1839.72-1847.13: And so we do see rates certainly increasing like the rest of the market. I think we're likely to get four or more Fed funds increases this year. 
+asr:0: OUTPUT 1847.79-1851.79: But at the same time, we do see that coming on the back of robust financial conditions. 
+asr:0: OUTPUT 1852.29-1860.98: So our expectation is that we can be in an environment here where real rates are still low or negative over the next couple of years, which I think is an overall positive place for. 
+asr:0: OUTPUT 1861.00-1863.80: For us to be from a business model perspective. 
+asr:0: OUTPUT 1865.31-1870.77: Now of course there are uncertainties around where you're going but I think there's a number of areas where we're pretty well competitively positioned. 
+asr:0: OUTPUT 1871.19-1877.60: You know, as you referenced at Global Atlantic, you know, they are largely biased to benefit from interest rates rising over time. 
+asr:0: OUTPUT 1878.00-1881.64: So $120 billion of capital there as well as how we think about. 
+asr:0: OUTPUT 1881.66-1891.53: Their individual channel and our ability to be able to generate sales from that channel, we think are all positively biased in a rising rate environment. 
+asr:0: OUTPUT 1892.07-1901.90: And so I think there's a number of other areas around KKR as well where we think we're competitively well positioned. You look at our credit business, over 200 or close to $200 billion of AUM. 
+asr:0: OUTPUT 1902.62-1907.73: Much of our third-party business there is floating rate exposure in nature. 
+asr:0: OUTPUT 1908.17-1910.63: So at interest rates rise all things equal. 
+asr:0: OUTPUT 1910.93-1919.90: You know our returns go up and and the hurdle rates across many of those products tend to be fixed in nature so the likelihood of earning additional incentive fees is that much higher. 
+asr:0: OUTPUT 1921.10-1923.48: So hopefully that helps answer your question. 
+asr:0: OUTPUT 1925.11-1931.95: Okay, thanks. Just a follow-up, just coming back to maybe your prior guidance, and I certainly appreciate the tone and tenor of what you're saying about the confidence. 
+asr:0: OUTPUT 1932.43-1935.82: But can you sort of still triangulate back to sort of your guidance for. 
+asr:0: OUTPUT 1935.86-1943.80: This year in terms of two plus dollars of FRE. And so how you think about that, not only for this year, but maybe into 2023, just given the compounding nature of growth. 
+asr:0: OUTPUT 1944.32-1952.67: And then maybe to sort of level set where you are in terms of the capital raising flagship of the $100 billion plus. Well into that as well. Thank you. 
+asr:0: OUTPUT 1954.75-1960.66: No updates to numbers, but obviously we're well ahead of where we thought we would be even six or 12 months ago. 
+asr:0: OUTPUT 1961.46-1968.97: And as it relates to both fundraising as well as management fee growth, this isn't just a result of acceleration of fundraisers. 
+asr:0: OUTPUT 1969.65-1973.17: In many cases, we have well exceeded the expectations that we have for ourselves. 
+asr:0: OUTPUT 1973.73-1978.62: And so that we continue to be a a robust environment to be able to raise capital and. 
+asr:0: OUTPUT 1978.68-1984.48: As I mentioned earlier, we continue to see an environment where we should be able to really drive substantial management fee growth. 
+asr:0: OUTPUT 1984.88-1989.19: As well as FRE growth off of a base of $2.23. 
+asr:0: OUTPUT 1989.83-1995.05: So we should be well ahead of our target for 2022 that we laid out, I think it was about 12 months ago. 
+asr:0: OUTPUT 1996.02-2004.56: The only thing I'd add, Bill, is last quarter we said we thought we could double fee-related earnings in TDE over the next five years. That's still very much the case. 
+asr:0: OUTPUT 2005.67-2015.04: So, you know, no updated guidance for 22, but suffice it to say, we well exceeded what we told you a year ago. Okay. Thank you. 
+asr:0: OUTPUT 2018.16-2023.18: Thank you. Our next question comes from Lion of Glen Shore with Evercore ISI. Please proceed with your question. 
+asr:0: OUTPUT 2024.80-2027.53: Hello there. Hello. 
+asr:0: OUTPUT 2027.99-2032.99: So it's been a slower start to the year for just capital markets activity. It's early. 
+asr:0: OUTPUT 2033.03-2040.22: But if you look at all the pipelines for M&A and IPOs, they're down. I think that's just a market jitters thing. But anyway. 
+asr:0: OUTPUT 2041.42-2043.62: With the slower pipelines, just curious. 
+asr:0: OUTPUT 2044.06-2052.07: How insulated do you think, you just gave us the number on dollars for realization pipeline, but just a broader picture as you look at the year. 
+asr:0: OUTPUT 2052.09-2059.64: How susceptible could a realization pipeline or capital markets pipeline may or may not be to that? 
+asr:0: OUTPUT 2060.02-2066.29: And in the past, you've given some what you think the core run rate of transaction and monitoring fees or capital markets that would be helpful. 
+asr:0: OUTPUT 2067.31-2068.91: Because the rising 820 was possible. 
+asr:0: OUTPUT 2070.97-2078.74: I think it's worth spending a little bit of time on our capital markets business. It didn't have a really a step function increase in 2021. 
+asr:0: OUTPUT 2079.50-2086.53: I need to take a step back. Our capital markets business over the last several quarters has averaged about $200 million of revenue per quarter. 
+asr:0: OUTPUT 2087.07-2092.79: Now markets have definitely been open and compliant, but I think we've also continued to really take share here. 
+asr:0: OUTPUT 2094.17-2104.04: So I think that's, as you think about our business, in a market environment where capital is being deployed, it can be still a relatively volatile market environment. 
+asr:0: OUTPUT 2104.66-2107.95: But in one where there's activity, we think that's a reasonable run rate for our business. 
+asr:0: OUTPUT 2108.45-2113.95: But much more important for us is how we take our business from the $850 million of revenue. 
+asr:0: OUTPUT 2114.31-2122.94: And over the next several years, continue to take a lot of share and grow that in a meaningful way. And we think we've got plans in place to be able to do that. 
+asr:0: OUTPUT 2123.22-2132.69: We've gone through these a bunch of times. It includes Fallen KKR in terms of its own product expansion. Fallen KKR in terms of its own geographic expansion, we think,. 
+asr:0: OUTPUT 2132.71-2136.74: You know, by hiring the right capabilities internally, that could lead to a lot of revenue growth. 
+asr:0: OUTPUT 2137.32-2147.17: And I think it's worth calling out our non-KKR issue of business, our third-party business. It generated almost $200 million of revenue in 2021. 
+asr:0: OUTPUT 2147.65-2151.25: I think that really speaks to our business model and the quality of our people. 
+asr:0: OUTPUT 2152.11-2154.85: That we were able to take that business and scale to the point that. 
+asr:0: OUTPUT 2155.86-2162.28: Is not too different from a revenue perspective from where our capital markets was, business was in aggregate, you know, not too long ago. 
+asr:0: OUTPUT 2165.03-2169.95: And Glynis Craig, we were looking at some of these statistics and they're kind of interesting. 
+asr:0: OUTPUT 2170.91-2175.08: Just to give you another sense of the breadth in capital market fees. 
+asr:0: OUTPUT 2175.60-2184.78: When you look at deployment for us as a firm, deployment's increased materially, obviously. We were $30 billion in 2020, $70 billion in 2021. 
+asr:0: OUTPUT 2185.69-2192.67: And if you look at where that came from and the impact of that, it had a big impact on capital markets revenues. 
+asr:0: OUTPUT 2193.39-2202.94: So that increase in deployment for us, it really didn't come from private equity. So we invested $10 billion in 2020. We invested 10.2 in 2021. 
+asr:0: OUTPUT 2203.98-2210.31: And so KCMC's from capital markets went from 230 to 250 in the year. I think they were up modestly. 
+asr:0: OUTPUT 2211.05-2219.32: But what you really saw the big driver when you add up deployment for us and infrastructure, core private equity, growth, and real estate equity. 
+asr:0: OUTPUT 2219.50-2225.21: So these are the areas that are going to generate on deployment, can generate sizable capital markets fees. 
+asr:0: OUTPUT 2225.79-2229.91: That deployment for us went 2.3x, went up 2.3x in 2021. 
+asr:0: OUTPUT 2230.61-2237.72: And capital markets fees cumulatively similarly went up 2.3x, went from 150 to about 350. 
+asr:0: OUTPUT 2238.22-2245.93: So it is a, you know, the dynamic that you have is one where deployment, so you're coming a lot more broad-based. 
+asr:0: OUTPUT 2246.55-2252.81: And again, KCM is not solely going to be based on how we're deploying capital, but it's certainly going to be one of those factors. 
+asr:0: OUTPUT 2253.77-2259.52: So I think really in that number, as Rob said, you're seeing a real development in footprint in the framework of the firm. 
+asr:0: OUTPUT 2259.54-2264.52: Which is exciting from a management fee standpoint, and it's also exciting from a capital markets standpoint. 
+asr:0: OUTPUT 2265.25-2271.57: Glenn, one other, I know you had referenced the impact the capital markets environment have on monetizations. 
+asr:0: OUTPUT 2271.65-2274.61: You know, I think the big advantage here as we come into 2022. 
+asr:0: OUTPUT 2274.69-2283.66: With over $15 billion of embedded revenue that sits in our balance sheet between gross unrealized carry and the embedded gains. 
+asr:0: OUTPUT 2283.68-2285.25: Of our investment portfolio. 
+asr:0: OUTPUT 2285.87-2295.80: And I think Q1 and where we're off to a good start from the monetization perspective, a good example of that, we don't need straight line markets up to be able to monetize. 
+asr:0: OUTPUT 2296.26-2299.02: That $15 billion of embedded revenue. 
+asr:0: OUTPUT 2299.40-2301.10: Yeah, but what we will need is we will need. 
+asr:0: OUTPUT 2301.66-2305.59: Market environment that does have some stability over periods of time. 
+asr:0: OUTPUT 2306.33-2315.52: And its flexible nature. And I think there's going to be areas where we're going to be able to continue to pick up spots in this kind of a market environment and generate monetizations for our shareholders. 
+asr:0: OUTPUT 2320.00-2326.99: Thank you. Thank you. Our next question comes from the line of Jerry O'Hara with Jeffries. Please proceed with your question. 
+asr:0: OUTPUT 2328.47-2336.06: Great, thanks. Thanks. Good morning. Hoping we could get an update just on the strategic investments within within your kind of perpetual capital sleeves. 
+asr:0: OUTPUT 2336.44-2339.18: Clearly a nice uptick year over year. 
+asr:0: OUTPUT 2339.96-2348.63: Perhaps you can talk about some of the drivers of that increase and what we might be able to expect on a go-forward basis. Thank you. 
+asr:0: OUTPUT 2349.65-2358.70: I think the age area is great, very broad based again. I think when you look at a lot of the core is an example area for us. 
+asr:0: OUTPUT 2360.00-2368.39: From a perpetual standpoint where we're raising capital, infrastructure, real estate, as I mentioned, the next two aspects of. 
+asr:0: OUTPUT 2368.41-2374.33: Of both Europe and Asia, real estate, perpetual, or capital is going to be perpetual in nature. 
+asr:0: OUTPUT 2375.40-2383.00: Global dynamic by itself continues to grow and scale in addition to that, which is great. 
+asr:0: OUTPUT 2383.56-2389.55: And I think we've over time also mentioned these longer dated strategic type partnerships. 
+asr:0: OUTPUT 2390.31-2394.11: That activity continues, it's multi-asset class. 
+asr:0: OUTPUT 2395.10-2400.82: It's again capital where you can have recycling which can be very valuable from an economic standpoint. 
+asr:0: OUTPUT 2401.48-2409.19: You're not going to see that activity from us every quarter. But again, those dialogues continue, and we'll keep you up to date and abreast on that. 
+asr:0: OUTPUT 2410.05-2419.00: If you look at page five on our press release, you can see our perpetual capital. It was up year on year over seven times. Now a lot of that is global Atlantic. 
+asr:0: OUTPUT 2419.42-2427.69: But what we don't want to get lost in that slide is that X global Atlantic, our perpetual capital year on year was still up four times versus this time last year. 
+asr:0: OUTPUT 2428.23-2431.79: And so there's a lot of momentum across that part of our business. 
+asr:0: OUTPUT 2433.73-2435.16: Great, that's helpful. 
+asr:0: OUTPUT 2435.20-2443.76: Just as a follow up, appreciate the thoughts around the private wealth channel, but as it relates to sort of investment. 
+asr:0: OUTPUT 2444.26-2453.85: I think last quarter you talked about sort of looking to triple headcount, if my notes are right, and continuing to sort of invest in operations and technology. 
+asr:0: OUTPUT 2454.29-2463.68: Can you just perhaps give us an update on how things have progressed there and how we're tracking relative to perhaps where you were last quarter? Thank you. 
+asr:0: OUTPUT 2464.99-2470.31: Jared, Craig, so we don't really want to get in the habit honestly of giving individual head count. 
+asr:0: OUTPUT 2470.33-2476.50: Updates on a part of the business and where we are from that. But again, suffice to say,. 
+asr:0: OUTPUT 2476.52-2481.82: This part is a real strategic priority for us as we've spoken about. 
+asr:0: OUTPUT 2482.66-2492.35: And there's lots of underlying activity and growth. We feel really well positioned and we're very active as it relates to hiring talent on a global basis. 
+asr:0: OUTPUT 2493.39-2499.04: Hope that that gives you a clear sense of the importance for us. Fair enough. Thanks for taking my questions this morning. 
+asr:0: OUTPUT 2500.16-2507.45: Thank you. Thank you. Our next question comes from the line of Craig Seigenthaler with Bank of America. Please proceed with your question. 
+asr:0: OUTPUT 2509.23-2510.29: Hey, good morning, everyone. 
+asr:0: OUTPUT 2512.65-2522.52: So my question is on Global Atlantic. I just want to get an update on your progress to reinvest Global Atlantic's portfolio into KCare Originated products. 
+asr:0: OUTPUT 2523.28-2529.77: And also how this could or will impact your blended fee rate as GA reaches your longer-term objective. 
+asr:0: OUTPUT 2531.15-2539.50: Hey Craig, it's Rob. That's going to be a multi-year process and we're going to do it in a very prudent way and make sure that we're. 
+asr:0: OUTPUT 2539.74-2549.57: Rotating GA's balance sheet from quality investments that they had today into opportunities for KKR to be able to invest that capital. 
+asr:0: OUTPUT 2549.59-2553.67: With a similar or better risk level and at an increased yield. 
+asr:0: OUTPUT 2553.91-2557.42: And so that process is taking place. 
+asr:0: OUTPUT 2557.44-2566.09: I would say 11 months in, we're probably in a better place than we thought we'd be at the beginning of the deal, but there's no doubt as. 
+asr:0: OUTPUT 2566.15-2575.64: We complete that rotation or we make progress on that rotation, that's going to increase the blended management fee rate in our overall relationship with Global Atlantic. 
+asr:0: OUTPUT 2575.66-2578.34: I think that blended management, if you read today's in the mid-teens. 
+asr:0: OUTPUT 2578.76-2584.80: And so it definitely has the ability to go up over time based on the rotation that you referenced. 
+asr:0: OUTPUT 2585.49-2595.14: The only thing I'd add, Greg, is that it's going to be a constantly evolving answer to your question, because if you think, especially as Global Atlantic pursues block activity,. 
+asr:0: OUTPUT 2595.80-2599.54: We're bringing on more assets and then those blocks need to be rotated themselves. 
+asr:0: OUTPUT 2599.96-2602.16: So I'm not sure we'll ever reach stasis, frankly. 
+asr:0: OUTPUT 2603.02-2609.37: But to Rob's point, we're a bit ahead of where we thought we'd be, and we'll keep you updated. But the block activity has obviously been significant since we signed the deal. 
+asr:0: OUTPUT 2611.43-2614.67: Thanks, Scott and Rob. And just one other question on that one. 
+asr:0: OUTPUT 2615.18-2622.28: What assets or KK originated assets are being allocated into Global Atlantic today? 
+asr:0: OUTPUT 2624.18-2627.59: It's a lot across our real estate credit franchise. 
+asr:0: OUTPUT 2628.33-2637.38: Our private credit franchise, structured finance, asset-based finance, those are really the big areas of opportunity that we're working together with the GA team on. 
+asr:0: OUTPUT 2639.92-2641.52: Thank you very much. 
+asr:0: OUTPUT 2644.22-2649.01: Thank you. Our next question comes from the line of Devon Ryan with J&P Securities. Please proceed with your question. 
+asr:0: OUTPUT 2650.41-2655.56: Hi, this is Brian McKenna for Devon. So there's clearly a lot of momentum across the entire platform. 
+asr:0: OUTPUT 2655.82-2660.76: I appreciate all the color on the outlook, but what do you think will be the biggest driver of growth over the next five years? 
+asr:0: OUTPUT 2661.08-2667.23: And then what products will be the biggest contributor to achieving your FRE and DE targets? So $4 plus and $7 plus. 
+asr:0: OUTPUT 2670.85-2679.50: Hey Brian, it's Rob. I'll take the first shot at it. Reality is we've got a lot of confidence across many parts of our business. I'll call it a few and we talked about them. 
+asr:0: OUTPUT 2679.54-2680.86: On our prepared remarks. 
+asr:0: OUTPUT 2681.74-2683.46: Asia is a... 
+asr:0: OUTPUT 2683.50-2692.37: Really massive long-term opportunity for us and we talked about in the past that we think we could take our Asia business and make it one day as big as our North America business. 
+asr:0: OUTPUT 2692.67-2693.75: That's for a couple of reasons. 
+asr:0: OUTPUT 2694.13-2700.04: One, we think more than half of global growth is going to come out of that region over the next several years. 
+asr:0: OUTPUT 2700.42-2705.83: Two, we have a huge head start and competitive advantage versus our competitors. 
+asr:0: OUTPUT 2705.89-2716.32: And really the key for us is to take our leading position there with our leading position across infrastructure, real estate, credit growth equity on a global basis, and the marriage of those two things. 
+asr:0: OUTPUT 2716.70-2725.31: And we think that could lead to a lot of growth for us in that part of the world. We've got five products, X private equity, that'll be fundraising for Capital in Asia in 2022. 
+asr:0: OUTPUT 2725.73-2734.95: So that's really a big theme for us. What we're doing across real assets and real estate and infrastructure we think is really exciting. We've talked about our build out of private wealth. 
+asr:0: OUTPUT 2735.22-2742.08: So there's a number of different avenues and ways that we have to be able to achieve P&L growth over the next several years. 
+asr:0: OUTPUT 2743.46-2752.29: And Scott, thanks for asking the question. It's kind of fun to answer, honestly. Because we talked about last April, we just got a lot on. 
+asr:0: OUTPUT 2753.43-2758.64: We went from six to something like 28 investing strategies over the last decade plus. 
+asr:0: OUTPUT 2759.76-2762.54: So it's going to answer your question. It's hard to be succinct, frankly. 
+asr:0: OUTPUT 2763.60-2769.77: We've got to scale everything we started, which is a long list of asset classes, real estate infrastructure. 
+asr:0: OUTPUT 2769.79-2774.31: Growth, insurance, core, you know, the list goes on and on. 
+asr:0: OUTPUT 2775.46-2777.70: We have an opportunity to meaningfully expand our client base. 
+asr:0: OUTPUT 2778.44-2782.60: We talked about private wealth a lot today, but there's a lot happening also in the institutional channels. 
+asr:0: OUTPUT 2782.66-2790.17: We're creating new growth vectors, so not just the existing 28, but you're going to see more things from us in terms of other ways that we can grow. 
+asr:0: OUTPUT 2791.45-2794.07: I think smart M&A is going to continue to play a real role here. 
+asr:0: OUTPUT 2794.75-2802.68: Not only expanding through Global Atlantic, but we're also looking at other acquisitions and then having the balance sheet in a currency gives us real tools to accelerate our growth. 
+asr:0: OUTPUT 2803.24-2808.33: So we've got lots of opportunities to scale and we haven't even hit all of them today. 
+asr:0: OUTPUT 2808.75-2813.79: I'm not sure we're going to be able to identify one or two biggest drivers. I think it's going to come from a lot of different places. 
+asr:0: OUTPUT 2814.15-2821.34: And part of the reason you hear such confidence in our voices to double again after we doubled in such a short period of time is everything I just mentioned. 
+asr:0: OUTPUT 2823.58-2825.85: Yep, got it. Appreciate all the color there. 
+asr:0: OUTPUT 2826.55-2836.48: And then just two quick modeling questions for Rob. How should we think about margin expansion in 2022 relative to 2021? And then is there any updated guidance beyond the tax rate moving forward? 
+asr:0: OUTPUT 2837.54-2845.85: Yeah, I'll start with the second one. Our tax rate this year was a little over 17 percent. And what we said over time is we would expect that to migrate up. 
+asr:0: OUTPUT 2845.87-2847.95: It's a statutory right in the low 20s. 
+asr:0: OUTPUT 2848.61-2856.38: As it relates to margin, we've talked about operating in the low 60s. In Q4, we were at 63. In 2021, we were at 63. 
+asr:0: OUTPUT 2856.64-2864.34: So a little bit ahead of where we thought we would be. We're investing a lot back into the firm right now, so I think low 60s is the right level to think about in the near term. 
+asr:0: OUTPUT 2865.09-2874.07: But we believe over the medium term that we could take our margin to the mid-60s on a sustainable basis if we're able to execute on the revenue opportunity in front of us. 
+asr:0: OUTPUT 2874.31-2878.12: And so that's what we're very much focused on as we continue to invest back into the business. 
+asr:0: OUTPUT 2880.10-2887.95: Thank you guys. 
+asr:0: OUTPUT 2888.97-2891.19: Great. Thanks. Good morning, folks. Thanks for taking my question. 
+asr:0: OUTPUT 2892.35-2898.22: We just hit back on the retail side. Of the $50 billion in private wealth assets right now,. 
+asr:0: OUTPUT 2898.80-2903.06: Are you able to break that out between what you would call democratized products? 
+asr:0: OUTPUT 2903.22-2904.38: I know those are still. 
+asr:0: OUTPUT 2904.40-2910.73: Very much in development, but just to try to get a sense of how you're thinking about that fundraising and retail from new. 
+asr:0: OUTPUT 2910.75-2916.64: Scott, you mentioned obviously some products on the yield side gaining attention. 
+asr:0: OUTPUT 2917.26-2924.40: Maybe just a flavor of that growth path of that 10 to 20 percent to 30 to 50. 
+asr:0: OUTPUT 2924.58-2931.03: Maybe even just in the next one to two years, what kind of AUM you think you could raise. 
+asr:0: OUTPUT 2931.05-2936.28: In new democratized products in retail. 
+asr:0: OUTPUT 2936.32-2938.56: And then to what extent. 
+asr:0: OUTPUT 2938.62-2943.58: You know, would there be significant placement fees attached with the retail side of that? 
+asr:0: OUTPUT 2944.94-2946.25: Hey Brian, it's Craig. Why don't I start? 
+asr:0: OUTPUT 2947.35-2954.79: In terms of where we are today, we have three broad democratized solutions that are on a bunch of different platforms. 
+asr:0: OUTPUT 2955.26-2959.22: In addition to bespoke solutions that are tailored for individual platforms. 
+asr:0: OUTPUT 2959.98-2967.13: To your first question, we have about 5 billion of AUM across that family, if you will. 
+asr:0: OUTPUT 2967.73-2974.93: And we do believe over time that we'll have democratized products really across all of our asset classes. 
+asr:0: OUTPUT 2975.66-2982.04: And alongside of that, we're going to continue to invest in sales marketing, data, digital talent, et cetera. 
+asr:0: OUTPUT 2982.64-2985.95: And alongside of where we are today,. 
+asr:0: OUTPUT 2986.23-2992.83: But we do expect we'll see these products launched on additional platforms over the course of the year, which will be additive to all of this. 
+asr:0: OUTPUT 2993.67-3003.22: So, you know, it feels like collectively we're off to a great start. It still feels to us like we're in the earliest stages. 
+asr:0: OUTPUT 3003.68-3008.87: You know one of the one of those products that seems to be taking or having a lot of mind share. 
+asr:0: OUTPUT 3009.33-3017.50: You know we only began accepting capital in june uh... It's off to a great start that's uh... Presser uh... In in the real estate. 
+asr:0: OUTPUT 3018.24-3023.08: So it just feels like we have a lot of momentum, which is really exciting for us. 
+asr:0: OUTPUT 3023.68-3032.99: We don't have any breakdown of democratized products for you in terms of where we think that number could grow. 
+asr:0: OUTPUT 3033.13-3038.90: There's certainly lots of data points out there that highlight the opportunity. 
+asr:0: OUTPUT 3039.06-3043.14: And again, just given the investment we have, the brand investment performance. 
+asr:0: OUTPUT 3043.82-3047.61: We think we're really well positioned to be a big winner in a massive end market. 
+asr:0: OUTPUT 3049.81-3057.96: Fair enough. And then just on the follow-up, just the timing of a couple of things. The expectation of the $38 billion, that's not a remanagement fees now. 
+asr:0: OUTPUT 3059.50-3065.09: What time frame do you expect the best of that to move into fee-paying U.M. And then. 
+asr:0: OUTPUT 3065.25-3071.49: The dry powder also, 112 billionths, almost double what it was six quarters ago. 
+asr:0: OUTPUT 3071.51-3073.19: As you raise product. 
+asr:0: OUTPUT 3074.15-3080.88: Should we be thinking of that deployment and that dry powder running down in terms of how you're seeing opportunities? 
+asr:0: OUTPUT 3080.92-3087.71: To invest that you conserved that was in the call, or is it possible that that dredge pattern will continue to build given your fundraising? 
+asr:0: OUTPUT 3091.29-3092.29: Hey, um... 
+asr:0: OUTPUT 3092.45-3096.36: Brian, it's Rob. So on the first part of your question,. 
+asr:0: OUTPUT 3096.56-3105.47: I'd say in that $38 billion, I mean it's a mix of different things. In some cases, it's some investment products where the fee turns on when you invest it and some of those have lives of. 
+asr:0: OUTPUT 3105.49-3109.01: Three, four, five years from an investment period perspective. 
+asr:0: OUTPUT 3109.17-3116.62: And so I think about that on a blended basis of about three years. And some of the other products, it's just capital we've raised in funds that we haven't yet turned on. 
+asr:0: OUTPUT 3116.90-3125.75: And so we would think that that's more in the next three, six-ish month timeframe. So I think on a blended basis, a couple of years overall. 
+asr:0: OUTPUT 3126.29-3131.27: You know feels like a a reasonable assumption for that thirty eight billion maybe a little bit of side of that. 
+asr:0: OUTPUT 3132.75-3135.30: And as it relates to the dry powder. 
+asr:0: OUTPUT 3135.40-3143.84: It's a tough question to answer. It is really a function of how active the investment environment is coupled with our fundraising activity. 
+asr:0: OUTPUT 3144.28-3149.55: I think what you've heard from us a number of times on this call is the excitement we have for future fundraising. 
+asr:0: OUTPUT 3150.43-3156.80: At the same time, in these volatile markets, we think the opportunity for us to be leaning in from an investment perspective might get more interesting. 
+asr:0: OUTPUT 3157.30-3166.21: And so I think it'll just be a balance of those two things. Hard to be prescriptive about where that number goes over the next couple of quarters. 
+asr:0: OUTPUT 3170.15-3174.89: Thank you. Our next question comes from the line of Michael Cypress with Morgan Stanley. Please proceed with your question. 
+asr:0: OUTPUT 3176.54-3178.12: Hey, good morning. Thanks for taking the question. 
+asr:0: OUTPUT 3178.34-3182.52: Circle back to a comment Scott had made. Scott, you had mentioned that the. 
+asr:0: OUTPUT 3182.56-3188.65: Quantum of opportunity was greater than anticipated. I just be curious to hear your perspectives on. 
+asr:0: OUTPUT 3188.67-3193.65: Why that's been the case, what's changed across the industry over the past 12 to 18 months. 
+asr:0: OUTPUT 3194.03-3200.34: And as you look forward, are there any sort of risks to the outlook that you're paying attention to, either regulatory-wise? 
+asr:0: OUTPUT 3200.36-3205.95: Clearly, there's been some movement there or on the macro front. Just curious your perspectives there. 
+asr:0: OUTPUT 3207.83-3209.03: Thanks for the question, Michael. 
+asr:0: OUTPUT 3209.21-3214.99: Yeah, I think part of it is, let me take it back to kind of the strategy that we laid out last April. 
+asr:0: OUTPUT 3215.06-3223.60: Which is that we said that we only wanted to be in businesses where we thought we already were or could get to be top three in the world. 
+asr:0: OUTPUT 3224.56-3226.99: And we wanted to stay focused in those areas. 
+asr:0: OUTPUT 3227.65-3233.53: And I think part of the reason you hear us saying now that we think the quantum of the opportunity is greater than we anticipated. 
+asr:0: OUTPUT 3233.55-3238.64: Is the end markets that we're facing off against are growing quite rapidly. 
+asr:0: OUTPUT 3239.08-3243.38: And we're finding investor appetite not only from the traditional sources,. 
+asr:0: OUTPUT 3243.58-3247.35: But new sources are increasing faster than we'd anticipated. 
+asr:0: OUTPUT 3247.97-3252.57: So end markets are growing very quickly and more and more people are investing in what we do. 
+asr:0: OUTPUT 3253.41-3261.62: And so that's kind of part one to the answer to your question as to why the quantum is greater than we anticipated. We already expected growth. I think it's a bit more than we expected. 
+asr:0: OUTPUT 3262.32-3270.07: The other thing I'd say is that we are approaching top three faster than we'd anticipated in some of these asset classes. 
+asr:0: OUTPUT 3271.05-3277.60: And a lot of that's on the back of good investment performance and building like and trust with a broader client base. 
+asr:0: OUTPUT 3278.20-3284.68: And so the end opportunity is bigger than probably we thought, and we're getting there more rapidly than we thought. 
+asr:0: OUTPUT 3285.65-3292.77: And so the definition of top three in terms of what that means in terms of magnitude of AUM, revenue, profitability. 
+asr:0: OUTPUT 3292.79-3296.46: Is therefore bigger than what we'd anticipated probably 12, 18 months ago. 
+asr:0: OUTPUT 3298.02-3303.66: The risks, I think, are pretty straightforward. We've got to execute. It's a pretty straightforward business when you back up. 
+asr:0: OUTPUT 3304.36-3314.07: You have strong investment performance and you have products that clients want to invest in and they like you and they trust your judgment. 
+asr:0: OUTPUT 3314.71-3320.66: And you perform for them through a cycle, it's very straightforward to scale. 
+asr:0: OUTPUT 3321.24-3328.93: So a lot of the risks, and this is one of the reasons we like our business so much, it's on us. We've got execution in front of us. We just need to perform. 
+asr:0: OUTPUT 3329.61-3334.67: I think a big part of the reason you've seen us scaling so rapidly is we've had really strong investment performance. 
+asr:0: OUTPUT 3334.69-3340.26: At the same time that we've been operationalizing a broader client base. 
+asr:0: OUTPUT 3340.92-3344.40: And we do see a significant amount of running room on both of those topics. 
+asr:0: OUTPUT 3344.84-3351.89: So I know there's been a couple of questions today about market volatility and it's been a little more bumpy beginning of this year than what we saw last. 
+asr:0: OUTPUT 3352.35-3355.10: But from our standpoint, that tends to be quite good news. 
+asr:0: OUTPUT 3355.20-3356.28: We talked about the hundred and twelve. 
+asr:0: OUTPUT 3356.32-3365.35: Billion of dry powder. If we can invest into volatility, that tends to create long-term opportunity for us in terms of incremental revenue and profit down the road. 
+asr:0: OUTPUT 3365.91-3375.52: So long way of saying we really like the way we're positioned right now. Low volatility is probably good for our business long term, and the opportunity ahead is significant. 
+asr:0: OUTPUT 3380.00-3385.53: There around potential for regulatory changes, enhanced transparency around fees, etc. 
+asr:0: OUTPUT 3386.97-3389.27: Look, I think, you know. 
+asr:0: OUTPUT 3389.29-3398.06: The level of regulatory scrutiny of our space is probably a positive for larger players that are more institutionalized. 
+asr:0: OUTPUT 3399.02-3407.27: And so, you know, there's aspects of how the regulatory environment's developed that I think the barriers to entry in our space have gone up. And that's good for incumbent players. 
+asr:0: OUTPUT 3408.15-3412.81: So nothing that we see that I would call out today, our job is to react. 
+asr:0: OUTPUT 3412.83-3419.74: To what the regulators talked to us about. And so far, we actually think it's been long-term helpful to our business. 
+asr:0: OUTPUT 3421.52-3428.65: Great. Just a quick cleanup question for Rob, if I could. Just hoping you might be able to update us on the amount of capital that was invested off the balance sheet. 
+asr:0: OUTPUT 3428.67-3434.09: And 2021 and the realizations as well off the balance sheet in 2021 and how that compared. 
+asr:0: OUTPUT 3434.11-3435.40: To 2020. 
+asr:0: OUTPUT 3436.28-3440.94: Activity was certainly up across the board. 
+asr:0: OUTPUT 3441.32-3447.05: Like, we monetized just over $3 billion off the balance sheet in 2021. 
+asr:0: OUTPUT 3447.55-3451.37: And we deployed about 3.7 billion. That deployment does not include. 
+asr:0: OUTPUT 3451.89-3457.60: So if you included Global Atlantic in that number, we'd be a little bit below $7 billion of deployment for the year. 
+asr:0: OUTPUT 3460.04-3469.45: Great, thanks so much. Yeah, thanks, Mike. Thank you. Thank you. Our next question comes from the line of Finney & O'Shea with Wells Fargo Securities. Please proceed with your question. 
+asr:0: OUTPUT 3471.81-3476.12: Hi, good morning. To follow on the insurance topic,. 
+asr:0: OUTPUT 3476.34-3484.84: Are you able to touch on what you're seeing on the regulatory agenda, focusing more on structured products? 
+asr:0: OUTPUT 3485.03-3496.60: And alternative asset manager affiliates and if you see any major impact to the product that you and your peers are providing to insurance clients. 
+asr:0: OUTPUT 3498.42-3504.48: Thanks for the question. It's a topical one and we're spending a lot of time internally focused on it. 
+asr:0: OUTPUT 3506.01-3511.73: Part of the answer is similar to the answer Scott just gave from a regulatory, overall regulatory environment perspective. 
+asr:0: OUTPUT 3512.27-3517.78: I think the insurance industry just like other financial services industries is going through a period of change. 
+asr:0: OUTPUT 3518.44-3523.54: In general, the industry is getting more sophisticated and we think that is ultimately a good thing for policyholders. 
+asr:0: OUTPUT 3524.34-3533.43: And so as a result of that, we think it's entirely appropriate for regulators to adapt as the industry evolves. And we think smart regulation is a good thing for the industry overall. 
+asr:0: OUTPUT 3534.53-3541.60: And so as it relates to Globe Atlantic specifically, we've got really close and transparent relationships with all of our regulators. 
+asr:0: OUTPUT 3542.54-3548.91: We know they are working to gather information and industry feedback. And beyond that, there's really not a lot that we can comment on. 
+asr:0: OUTPUT 3549.55-3552.69: All that we can say is that we don't anticipate really any major change. 
+asr:0: OUTPUT 3552.71-3560.00: To our core business model, which is investing thoughtfully behind the long-term promises that we're making as an institution to policy makers. 
+asr:0: OUTPUT 3570.07-3574.81: Our final question this morning comes from the line at Rufus Hone with Bank of Montreal. Please proceed with your question. 
+asr:0: OUTPUT 3577.00-3578.22: Thanks for taking my question. 
+asr:0: OUTPUT 3578.84-3584.34: Had one on Global Atlantic, a clearly strong AUM and earnings growth since the acquisition. 
+asr:0: OUTPUT 3584.84-3593.39: And I was curious if you anticipate any change in the appetite for block transactions and on your regular quarterly inflows as interest rates start to rise. 
+asr:0: OUTPUT 3593.61-3595.32: Any details there would be helpful. 
+asr:0: OUTPUT 3595.94-3601.04: Thank you. So no change in our appetite. 
+asr:0: OUTPUT 3601.54-3609.47: It's been an area of very meaningful and we think very smart growth that Global Atlantic has had over the past 12 months. 
+asr:0: OUTPUT 3610.91-3616.94: I would say the space around block transactions, I'm sure as you noted, has become a little bit more competitive. 
+asr:0: OUTPUT 3617.70-3622.88: But we think with our capital base, quality of our management team. 
+asr:0: OUTPUT 3622.90-3628.21: The relationships we have and really our systems and processes. 
+asr:0: OUTPUT 3628.39-3636.28: They position us all to compete really effectively for block transactions. I think a big reason why Global Atlantic. 
+asr:0: OUTPUT 3636.40-3645.19: I partnered up with KKR in addition to that with our capabilities on the asset management side and our ability to rotate assets in these blocks into KKR-originated product. 
+asr:0: OUTPUT 3645.69-3654.21: And so when you combine all that, we think we're really well positioned. No change in appetite in the institutional part of GA's business will continue to be a big growth driver for them going forward. 
+asr:0: OUTPUT 3664.20-3672.41: Back to Mr. Larson for any final comments. We would just really like to thank everybody for your interest in KKR. 
+asr:0: OUTPUT 3672.99-3677.70: And we look forward to chatting with you next quarter. Take care. Thanks again. 
+asr:0: OUTPUT 3680.00-3683.92: This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation. 
+asr:0: END

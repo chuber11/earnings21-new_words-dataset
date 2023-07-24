@@ -1,0 +1,535 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.54-8.01: Good morning and welcome to Edgewell's first quarter fiscal year 2022 earnings conference call. 
+asr:0: OUTPUT 8.73-18.44: All participants will be in listen-only mode. Should you need assistance, please signal a conference specialist by pressing star, then zero on your telephone keypad. 
+asr:0: OUTPUT 19.08-28.03: After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star, then one on your telephone keypad. 
+asr:0: OUTPUT 28.61-32.13: To withdraw your questions, please press star then two. 
+asr:0: OUTPUT 32.69-41.08: Please note this event is being recorded. I would now like to turn the conference over to Chris Goff, Investor Relations. Please go. 
+asr:0: OUTPUT 43.36-49.19: Good morning, everyone, and thank you for joining us this morning for Edgewell's first quarter fiscal year 2022 earnings call. 
+asr:0: OUTPUT 49.67-55.04: With me this morning are Rod Little, our President and Chief Executive Officer, and Dan Sullivan, our Chief Financial Officer. 
+asr:0: OUTPUT 55.52-62.18: Ron will kick off the call, then hand it over to Dan to discuss our results and full year 22 outlook before we transition to Q&A. 
+asr:0: OUTPUT 62.60-68.63: This call is being recorded and will be available for replay via our website, www.edgewall.com. 
+asr:0: OUTPUT 69.35-73.19: During the call, we may make statements about our expectations for future plans and performance. 
+asr:0: OUTPUT 73.61-78.00: This might include future sales, earnings, advertising, and promotional spending. 
+asr:0: OUTPUT 78.02-81.34: Product launches, savings and costs related to restructurings. 
+asr:0: OUTPUT 81.36-90.45: Changes to our working capital metrics, currency fluctuations, commodity costs, category value future plans for return of capital to shareholders, and more. 
+asr:0: OUTPUT 91.01-95.88: Any such statements are forward-looking statements which reflect our current views with respect to future events. 
+asr:0: OUTPUT 96.30-99.84: These statements are based on assumptions and are subject to various risks and uncertainties. 
+asr:0: OUTPUT 100.00-107.05: Including those described under the captioned risk factors in our annual report on Form 10-K for the year ended September 30th,. 
+asr:0: OUTPUT 107.63-111.03: As may be amended in our quarterly reports on Form 10-Q. 
+asr:0: OUTPUT 111.73-117.36: These risks may cause our actual results to be materially different from those expressed or implied by our forward-looking statements. 
+asr:0: OUTPUT 117.82-126.29: We do not assume any obligation to update or revise any of these forward-looking statements to reflect new events or circumstances, except as required by law. 
+asr:0: OUTPUT 127.29-130.11: During this call, we refer to certain non-GAAP financial measures. 
+asr:0: OUTPUT 130.43-134.57: These non-GAP measures are not prepared in accordance with generally accepted accounting principles. 
+asr:0: OUTPUT 134.69-144.42: A reconciliation of the non-GAAP financial measures to the most directly comparable GAAP measures is shown in our press release issued earlier today, which is available at the investor relations section of our website. 
+asr:0: OUTPUT 145.23-153.27: Management believes these non-gap measures provide investors with valuable information on the underlying trends of our business. With that, I would like to turn the call over to Rod. 
+asr:0: OUTPUT 154.57-159.56: Thanks, Chris. Good morning, everyone. And thank you for joining us on our first quarter earnings call. 
+asr:0: OUTPUT 160.16-171.65: As you saw in the results we posted earlier today, the improving underlying consumer demand that we witnessed in many of our categories as we exited fiscal 2021 continued in the first quarter. 
+asr:0: OUTPUT 172.57-176.58: As the category strengthened, so too did our market share results. 
+asr:0: OUTPUT 177.64-181.28: In the quarter, we grew organic net sales 2.5%. 
+asr:0: OUTPUT 181.30-189.87: With growth coming from all three segments of the business, led by sun care, women's shave, feminine care, and men's grooming. 
+asr:0: OUTPUT 190.67-195.64: Importantly, our organic growth was driven by both volume and price gains in the quarter. 
+asr:0: OUTPUT 197.18-206.33: We also had growth across all geographic regions and importantly started to see the first signs of recovery in important markets in Asia and Latin America. 
+asr:0: OUTPUT 207.25-214.73: Our aggregate market share in North America increased in the quarter, led by sun care, wet ones, and disposable razors. 
+asr:0: OUTPUT 215.56-222.02: And in international markets, we were pleased to see continued share gains in Japan and in most Latin American markets. 
+asr:0: OUTPUT 223.30-228.23: In addition to our strong top line performance, we also executed well on the bottom line. 
+asr:0: OUTPUT 228.45-236.62: Delivering 42 cents of adjusted earnings per share and 69.7 million of adjusted EBITDA in the quarter. 
+asr:0: OUTPUT 237.20-245.89: Despite significant cost headwinds resulting from increased inflationary pressure across many commodities, freight, and distribution costs. 
+asr:0: OUTPUT 245.91-250.31: As well as increasing COVID-19 related impacts on our labor force. 
+asr:0: OUTPUT 251.63-260.32: These challenges impacted our ability to meet elevated demand in the quarter, particularly in women's branded shave, shave preps, and feminine care. 
+asr:0: OUTPUT 261.24-268.01: Our organization is working relentlessly to mitigate the impacts of higher costs and supply constraints on the business. 
+asr:0: OUTPUT 268.49-272.43: While remaining focused on executing against our strategic priorities. 
+asr:0: OUTPUT 274.09-278.70: Dan will take you through more details on the supply chain environment and the impact on our business in a moment. 
+asr:0: OUTPUT 280.02-284.76: I'm also pleased with how our team designed and now is executing our price increases. 
+asr:0: OUTPUT 285.25-292.73: Thoughtfully balancing a strategy of price leadership with fast followership reflective of category, brand, and market. 
+asr:0: OUTPUT 293.39-300.16: And we will continue to explore further opportunities as inflationary pressures remain at all-time high levels. 
+asr:0: OUTPUT 301.52-305.73: Let me now pivot to the progress we're making on some of our key strategic priorities. 
+asr:0: OUTPUT 305.75-312.49: Including the investment in our people and brands in support of our goal to deliver sustained top-line growth. 
+asr:0: OUTPUT 313.91-322.68: Our performance this quarter is again a testament to our team members who have executed with excellence in an increasingly challenging environment. 
+asr:0: OUTPUT 323.64-332.69: As you've heard me say before, we've built a people first culture and we continue to prioritize the safety and well-being of all of our teammates. 
+asr:0: OUTPUT 333.61-339.84: The protocols we initiated nearly two years ago have been refined and augmented as the pandemic has evolved. 
+asr:0: OUTPUT 340.00-347.43: Ensuring a safe and effective work environment across all of our offices, manufacturing, and distribution facilities. 
+asr:0: OUTPUT 348.45-353.93: We've made the COVID-19 vaccine readily available to all employees through vaccine clinics,. 
+asr:0: OUTPUT 353.99-359.52: Some of which have been on site and offered paid time off for employees to get vaccinated. 
+asr:0: OUTPUT 360.56-368.91: Conscious of the impact the pandemic has had on our employees, we've implemented several initiatives to date in support of their mental health and well-being. 
+asr:0: OUTPUT 370.05-378.88: And finally, in 2021, we also rewarded our teammates for their dedication and contributions to our success during the pandemic. 
+asr:0: OUTPUT 378.90-388.11: With multiple cash bonuses awarded to our frontline workers and a one-time cash award for all hourly and salaried corporate individuals. 
+asr:0: OUTPUT 388.13-390.71: Who previously were not bonus eligible. 
+asr:0: OUTPUT 391.93-396.72: At Edgewell, we value our teammates and remain committed to our people-first objective. 
+asr:0: OUTPUT 397.92-404.54: In addition to the investments in our team members, we also made meaningful investments in our brands and in key markets. 
+asr:0: OUTPUT 404.56-411.39: Which contributed to strong sales and share growth in the quarter in two important areas of the business. 
+asr:0: OUTPUT 411.93-414.65: The sun care segment, and the Japan market. 
+asr:0: OUTPUT 416.02-423.40: In SunCare, we have already secured meaningful new club channel distribution and compelling shelf gains in mass. 
+asr:0: OUTPUT 423.42-431.49: Both in aisle and secondary displays. And we're encouraged by the pace of recovery we're seeing in several international markets. 
+asr:0: OUTPUT 432.29-439.14: These strong distribution gains are a direct outcome of consecutive seasons of share gains in the United States. 
+asr:0: OUTPUT 439.72-446.59: And we combine with our expertise in procurement and formulation position us well for the critical sun season ahead. 
+asr:0: OUTPUT 447.67-451.79: And in Japan, our second largest country based on sales,. 
+asr:0: OUTPUT 451.81-457.84: The investments we've made in the men's hydro relaunch drove increased shelf presence and share gains. 
+asr:0: OUTPUT 459.08-464.86: The men's hydro relaunch in Japan is just one example of the innovation we're bringing to consumers this year. 
+asr:0: OUTPUT 465.73-470.67: In North America, a rebranded Schick portfolio will be on shelf later this month. 
+asr:0: OUTPUT 471.53-476.80: Reinforcing both the authentic and emotional connection between the brand and our consumers. 
+asr:0: OUTPUT 477.10-483.42: The unparalleled functional product benefits we provide as part of men's daily shave regimen. 
+asr:0: OUTPUT 485.19-492.17: In Suncare, Banana Boat is targeting the unmet needs in our core sport and kids franchises. 
+asr:0: OUTPUT 492.27-498.56: With sport and kids roll on SPF 60 and new 100% mineral sea spray. 
+asr:0: OUTPUT 499.68-510.79: While Hawaiian Tropic is launching a unique mineral powder brush made with 100% mineral actives that mattifies while protecting your skin in a convenient brush format. 
+asr:0: OUTPUT 512.17-525.93: And in men's grooming, we're combining the inherent equity and credibility of the Cremo brand with the unmatched blade technology of Edgewell to launch a new premium razor to compete in the more premium end of the category. 
+asr:0: OUTPUT 526.75-534.55: These are just a few examples of the commitment we have made to increasing our capabilities in the areas of brand building and consumer-centric innovation. 
+asr:0: OUTPUT 535.16-537.80: And I'm personally excited about the progress we are making. 
+asr:0: OUTPUT 539.20-546.51: And finally, in addition to the organic investments we're making, we completed our acquisition of Billy in the quarter. 
+asr:0: OUTPUT 547.43-555.82: Adding the fast-growing, digitally native, leading DTC brand to our strong and differentiated portfolio of women's shaving brands. 
+asr:0: OUTPUT 555.84-559.62: Including Intuition, ShekHydroSilk, and Skentimate. 
+asr:0: OUTPUT 559.76-567.03: And the timing couldn't be better, as Billy has just begun its national retail launch exclusively in Walmart. 
+asr:0: OUTPUT 568.69-584.46: By the end of February, Billy's Shave Essentials, including the starter kit, travel case, blade refills, and a new whip shave cream, will be in over 4,000 Walmart stores and fully supported by in-aisle and in-cap signage and display. 
+asr:0: OUTPUT 585.29-589.51: Edgewell is now playing the role of disruptor to the category at retail. 
+asr:0: OUTPUT 589.71-595.50: Combining a uniquely strong brand with expertise in distribution and retail execution. 
+asr:0: OUTPUT 596.80-604.20: So in summary, we are seeing a healthier demand environment across many of our categories, particularly in the United States. 
+asr:0: OUTPUT 604.60-608.63: And we are encouraged by the recovery beginning in other regions of the world. 
+asr:0: OUTPUT 609.81-617.04: Second, with improving demand environment, we remain committed to investing in our brands and executing on our strategic priorities. 
+asr:0: OUTPUT 617.90-624.46: Third, our teams remain focused and agile, even as the operating environment becomes increasingly challenging. 
+asr:0: OUTPUT 625.23-632.69: As we continue to see heightened cost pressures across many commodity categories, as well as higher wages and transportation costs,. 
+asr:0: OUTPUT 632.95-639.22: Our teams will continue to focus on service while executing our productivity and efficiency efforts. 
+asr:0: OUTPUT 639.72-645.51: To help mitigate some of these cost headwinds while ensuring our product remains available for our customers. 
+asr:0: OUTPUT 646.49-654.27: Fourth, we are executing our price increases well while continuing to evaluate further price measures in certain markets. 
+asr:0: OUTPUT 655.16-659.16: And finally, as evidenced by our dividend and share buyback execution. 
+asr:0: OUTPUT 659.50-666.15: We remain committed to a balanced and disciplined approach to capital allocation and returning value to shareholders. 
+asr:0: OUTPUT 666.91-674.53: And now I'd like to ask Dan to take you through our first quarter results and also provide details on our outlook for fiscal 2022. 
+asr:0: OUTPUT 677.20-678.74: Thank you, Rod, and good morning, everyone. 
+asr:0: OUTPUT 679.10-685.33: As Rob discussed, this was a good start to the year with our top and bottom line performance in line with expectations. 
+asr:0: OUTPUT 685.35-693.63: Driven by improved demand and good execution by our teams, despite increasing supply chain challenges and mounting cost headwinds. 
+asr:0: OUTPUT 694.61-703.86: Additionally, we continue to make good progress against our strategic initiatives, which help to drive more predictable top-line growth and enable disciplined commercial investment. 
+asr:0: OUTPUT 705.15-713.49: Importantly, we delivered productivity savings in the quarter that were in line with expectations, despite the deteriorating macro supply environment. 
+asr:0: OUTPUT 714.09-723.18: A true testament to the organization's capabilities to both structurally address costs and continue to navigate heightened supply chain challenges. 
+asr:0: OUTPUT 724.30-728.91: For the quarter, organic net sales increased 2.5%. 
+asr:0: OUTPUT 728.93-735.10: Adjusted gross margin decreased 140 basis points or 90 basis points organically. 
+asr:0: OUTPUT 735.98-740.78: A&P spend increased $5 million and 90 basis points in rate of sale. 
+asr:0: OUTPUT 741.80-745.95: Adjusted SG&A improved 110 basis points in rate of sales. 
+asr:0: OUTPUT 746.89-753.33: Adjusted EPS decreased 2%. However, core adjusted EPS grew over 9% in the quarter. 
+asr:0: OUTPUT 754.23-758.96: And we deployed $33 million of capital through dividends and share repurchases. 
+asr:0: OUTPUT 760.04-767.43: Before reviewing our detailed results, I would like to provide some additional color on our operations and the continuing inflationary environment. 
+asr:0: OUTPUT 768.69-778.60: Our industry continues to face unprecedented supply chain disruption, increased bottlenecks, and accelerated inflation, with little signs of easing in the near term. 
+asr:0: OUTPUT 779.48-785.95: Tight labor markets remain increasingly challenging, in part made worse by the fast-spreading Omicron variant. 
+asr:0: OUTPUT 786.25-793.53: And supply and demand imbalances and overall capacity constraints remain broad and sustained across the supply chain. 
+asr:0: OUTPUT 794.67-803.72: Conditions this quarter could best be described as volatile, particularly in certain commodities such as specialty chemicals, packaging, and metals. 
+asr:0: OUTPUT 805.31-813.33: Freight and transportation markets also worsened in the quarter, reflective of continued infrastructure challenges and heightened diesel cost inflation. 
+asr:0: OUTPUT 814.39-822.46: As we discussed last quarter, our organization is working relentlessly to mitigate the impacts of higher costs and supply constraints on the business. 
+asr:0: OUTPUT 822.70-829.05: And we continue to take aggressive steps to stabilize supply and mitigate these cost headwinds. 
+asr:0: OUTPUT 830.17-838.12: In the face of growing labor constraints, we've increased and diversified our efforts to secure the labor pool needed to support our demand outlook. 
+asr:0: OUTPUT 839.02-843.34: Rod already shared some of the steps we've taken to further support our employee base. 
+asr:0: OUTPUT 844.38-854.21: Despite these efforts, we did see sporadic supply shortages in certain categories, most notably in femcare and shave preps, and to a lesser degree, women's shave. 
+asr:0: OUTPUT 854.91-859.18: And our teams are taking the right actions to mitigate the potential impact going forward. 
+asr:0: OUTPUT 859.80-868.67: Including broad sourcing efforts, increased upfront raw material buys, staggered production scheduling, and overtime utilization. 
+asr:0: OUTPUT 868.69-872.95: And alternative transportation strategies in the US and across Europe. 
+asr:0: OUTPUT 874.15-882.60: We're also tactically building inventory levels through the first half of the year where possible to ensure product availability and improve service levels to our customers. 
+asr:0: OUTPUT 883.70-893.39: Now I'll turn to the detailed results for the quarter. As mentioned, organic net sales increased 2.5%, equally driven by price and volume gains. 
+asr:0: OUTPUT 894.09-902.16: Most of the realized price increases were attributable to Femcare and wet ones in North America, and to a lesser degree, wet shave in international. 
+asr:0: OUTPUT 902.98-908.87: Importantly, the majority of the positive impact that will be realized from pricing occurs as the year evolves. 
+asr:0: OUTPUT 910.05-911.13: On a two-year stack. 
+asr:0: OUTPUT 911.15-917.44: Total company organic net sales increased just over 1% in the quarter versus the same period last year. 
+asr:0: OUTPUT 917.46-921.48: With growth in both North America and international markets. 
+asr:0: OUTPUT 922.36-930.95: Our e-commerce business saw strong results, increasing by over 9% in the quarter, on top of over 40% growth during Q1 a year ago. 
+asr:0: OUTPUT 932.11-941.36: In the quarter, our total portfolio gained 30 basis points of market share in the U.S., led by gains in sun and wet ones and flat share results in Femcare. 
+asr:0: OUTPUT 942.30-945.69: Share results in wet shave were consistent with 52-week trends. 
+asr:0: OUTPUT 946.71-948.27: Looking deeper into our segments. 
+asr:0: OUTPUT 949.01-956.86: Wet shave organic net sales increased 2% in the quarter, largely driven by growth in women's systems, disposables, and private brands. 
+asr:0: OUTPUT 957.60-964.16: Our women's systems business continues to be the primary catalyst for growth, with organic net sales increasing 9%. 
+asr:0: OUTPUT 964.84-973.57: Driven by intuition as well as private label, which grew 48% in the quarter despite cycling 51% growth last year in Q1. 
+asr:0: OUTPUT 974.49-981.22: International wet shave grew over 4% as Women's Systems Organic Nut Sales grew nearly 12% for the quarter. 
+asr:0: OUTPUT 982.40-990.17: Disposables organic net sales increased about 5% and gained share, while men's systems organic net sales decreased 6%. 
+asr:0: OUTPUT 991.41-998.22: For the third consecutive quarter, U.S. Razors and blades category consumption increased, growing 4.8%. 
+asr:0: OUTPUT 999.10-1003.76: The category growth in the quarter was seen across men's and women's systems and disclosables. 
+asr:0: OUTPUT 1004.88-1010.27: For the 13-week period, market share for the Schick franchise declined 100 basis points. 
+asr:0: OUTPUT 1010.33-1016.70: Driven mostly by declines in men's and women's branded shave, while disposable share grew 70 basis points. 
+asr:0: OUTPUT 1016.86-1024.12: Driven by our men's business, which saw strong performance at Walmart and the benefit from distribution gains at Walgreens and Sam's. 
+asr:0: OUTPUT 1025.55-1033.59: Sun and skin care organic net sales increased about 2%, driven by strong global sun care results and improved men's grooming results. 
+asr:0: OUTPUT 1034.63-1038.56: Suncare organic net sales in North America increased 51%. 
+asr:0: OUTPUT 1039.00-1045.65: While international organic sales increased 27%, led by initial consumption recovery in Latin America. 
+asr:0: OUTPUT 1046.85-1053.49: In the US, the sun category increased 44% for the quarter, aided by better weather and increased travel. 
+asr:0: OUTPUT 1054.25-1063.94: Hawaiian Tropic and Banana Boat both outperformed the category with over 70% growth and collectively gained 320 basis points of market share. 
+asr:0: OUTPUT 1064.80-1072.03: Our strong execution and prominent on-shelf position drove 450 basis points of share gains in the quarter at Walmart. 
+asr:0: OUTPUT 1072.63-1079.48: And we saw sequentially improved results across both the drug and grocery channels, where we also delivered strong share gains. 
+asr:0: OUTPUT 1081.16-1090.21: Men's grooming organic nut sales increased 8% in the quarter, led by Cremo's strong growth of nearly 20% on the heels of excellent holiday execution. 
+asr:0: OUTPUT 1090.31-1092.75: As the category was up 27%. 
+asr:0: OUTPUT 1094.37-1102.48: Wet Ones organic net sales decreased 41% in the quarter as compared to an increase of over 110% in Q1 of last year. 
+asr:0: OUTPUT 1102.98-1106.41: Representing two-year stack growth of nearly 13%. 
+asr:0: OUTPUT 1107.55-1113.15: Category consumption declined 71% versus a year ago, lapping COVID-driven sales. 
+asr:0: OUTPUT 1114.17-1122.28: Wet ones consumption declines of 17% was significantly better than the category declines, leading to 55% share of the category. 
+asr:0: OUTPUT 1123.86-1126.83: Spemcare organic net sales increased about 5%. 
+asr:0: OUTPUT 1127.93-1137.84: Latex sport continued to gain share in the quarter, reflective of new product launches and stronger brand support, offsetting declines in the carefree and legacy brands. 
+asr:0: OUTPUT 1139.00-1148.97: FemPARE category consumption during the quarter grew about 11% in the U.S. And our portfolio consumption growth was largely in line with the category for the second consecutive quarter. 
+asr:0: OUTPUT 1149.99-1151.33: Now moving down the P&L. 
+asr:0: OUTPUT 1152.29-1157.90: Gross margin rate on an adjusted basis decreased 140 basis points compared to the prior year. 
+asr:0: OUTPUT 1158.40-1165.73: Inclusive of 50 basis points of inorganic headwinds as gross inflationary pressures of about 400 basis points. 
+asr:0: OUTPUT 1165.75-1176.42: Were only partially mitigated by just over 100 basis points of favorable pricing, promotional efficiency and mix, and about 200 basis points of productivity savings. 
+asr:0: OUTPUT 1177.74-1182.38: A&P expense increased $5 million this quarter and was 10% of net sales. 
+asr:0: OUTPUT 1182.40-1190.37: Reflecting increases in support of the hydro relaunch in Japan, sun execution across the globe, and holiday programs in grooming. 
+asr:0: OUTPUT 1191.81-1199.00: SG&A including amortization expense was $96.9 million or 20.9% of net sales. 
+asr:0: OUTPUT 1199.64-1206.47: Adjusted SG&A declined 110 basis points as a percent of net sales due to lower incentive and fringe benefit costs. 
+asr:0: OUTPUT 1207.81-1213.71: Adjusted operating income was $46.7 million compared to $49 million last year. 
+asr:0: OUTPUT 1213.73-1220.38: As lower gross margin and higher AMP costs were only partially offset by lower adjusted SG&A costs. 
+asr:0: OUTPUT 1221.46-1227.79: Gap diluted net earnings per share were 20 cents compared to 32 cents in the first quarter of fiscal 2021. 
+asr:0: OUTPUT 1228.27-1233.97: And adjusted earnings per share were 42 cents compared to 43 cents in the prior year period. 
+asr:0: OUTPUT 1233.99-1238.38: And inclusive of a 4-cent negative impact from the Billy acquisition. 
+asr:0: OUTPUT 1239.42-1248.49: This 4 cents reflects the impact of deferred profit as a consequence of the timing of profit recognized on sales to Billy as well as higher amortization costs. 
+asr:0: OUTPUT 1249.37-1252.43: Core EPS grew over 9% in the quarter. 
+asr:0: OUTPUT 1253.73-1260.04: Adjusted EBITDA was $69.7 million compared to $72.2 million in the prior year. 
+asr:0: OUTPUT 1261.98-1269.91: Net cash used in operating activities for Q1 was $79 million, a $3.5 million improvement over the same quarter last year. 
+asr:0: OUTPUT 1270.79-1277.18: The timing of interest payments and seasonal working capital bill related to sun care results in a Q1 cash outflow. 
+asr:0: OUTPUT 1278.70-1287.45: We ended the quarter with $240 million in cash on hand, access to the $221 million undrawn portion of our credit facility,. 
+asr:0: OUTPUT 1287.47-1291.07: And a net debt leverage ratio of about 3.3 times. 
+asr:0: OUTPUT 1292.05-1294.65: This brings me to the topic of capital allocation. 
+asr:0: OUTPUT 1295.80-1300.80: We remain disciplined in how we are deploying capital and executing in a thoughtful and balanced manner. 
+asr:0: OUTPUT 1301.56-1310.65: Last quarter, we announced our intention to put our healthy excess cash to work and repurchase approximately $300 million in shares over the next three fiscal years. 
+asr:0: OUTPUT 1311.31-1315.20: And in the quarter, our repurchases total $24.5 million. 
+asr:0: OUTPUT 1316.12-1323.32: In addition, we continued our quarterly dividend payout and declared another cash dividend of 15 cents for the first quarter. 
+asr:0: OUTPUT 1324.92-1327.55: Turning to our outlook for fiscal 2022. 
+asr:0: OUTPUT 1328.75-1333.73: We are reiterating our outlook for the core Edgewell business that was the basis for our original outlook. 
+asr:0: OUTPUT 1333.75-1342.50: And only updating our estimates to reflect the inclusion of 10 months of the Billy business and the additional negative impact of currency translation. 
+asr:0: OUTPUT 1343.54-1350.47: As we look to the remainder of the year, we're encouraged by the improving demand environment we see across many of our categories and geographies. 
+asr:0: OUTPUT 1350.49-1354.81: And are well positioned as a result of the distribution gains discussed last quarter. 
+asr:0: OUTPUT 1354.83-1357.50: Most notably in sun and women's shave. 
+asr:0: OUTPUT 1358.46-1363.62: However, we're cognizant that we are operating in a more volatile environment than previously contemplated. 
+asr:0: OUTPUT 1364.48-1368.71: Beyond the cost pressures associated with rampant commodity and wage inflation,. 
+asr:0: OUTPUT 1368.75-1375.26: We are also navigating mounting complexity across the supply chain. And in the near term, we see little signs of easing. 
+asr:0: OUTPUT 1376.44-1384.54: Before turning to our detailed outlook, I want to provide a summary of the impact of now including acquisition of the Billy brand in fiscal 2022. 
+asr:0: OUTPUT 1385.81-1393.15: We expect Billy to add approximately 400 basis points of net incremental growth to our reported net sales for the fiscal year. 
+asr:0: OUTPUT 1394.03-1400.06: We refer to incremental sales as the net impact of Philly sales, both DTC and to retail. 
+asr:0: OUTPUT 1400.64-1406.21: Less the intercompany shipments that Edgeware will make that were previously expected to be third party sales. 
+asr:0: OUTPUT 1407.25-1416.60: This change from expected third party sales to intercompany shipments also creates a timing difference with respect to gross profit recognition versus our original outlook. 
+asr:0: OUTPUT 1417.24-1421.52: And we estimate this amount to be a headwind of approximately $4.1 million. 
+asr:0: OUTPUT 1422.96-1430.31: Incremental amortization costs associated with the intangible assets related to the acquisition will be approximately $9 million this fiscal year. 
+asr:0: OUTPUT 1431.39-1437.74: In total, we anticipate that the acquisition will be diluted to adjusted EPS by approximately 19 cents. 
+asr:0: OUTPUT 1437.76-1445.51: Which reflects 13 cents per share related to the increased amortization costs and 6 cents per share associated with the profit deferral. 
+asr:0: OUTPUT 1446.87-1455.10: For the fiscal year, we continue to anticipate low single-digit organic net sales growth with similar growth rates in half one and half two. 
+asr:0: OUTPUT 1456.02-1460.78: As a reminder, Billy third-party sales are excluded from the organic growth calculation. 
+asr:0: OUTPUT 1462.48-1466.53: Reported sales are now anticipated to increase by mid-single digits. 
+asr:0: OUTPUT 1466.55-1475.50: Including 400 basis points net from Billy and partially mitigated by an expected additional 50 basis points headwind from currency. 
+asr:0: OUTPUT 1476.60-1481.02: The Billy sales are expected to phase somewhat ratably over the remaining three quarters. 
+asr:0: OUTPUT 1482.40-1488.97: As we look to gross margin, we now anticipate approximately 200 basis points year-over-year declines. 
+asr:0: OUTPUT 1488.99-1494.63: Primarily reflective of the heightened inflationary pressures and the overall challenging supply chain environment. 
+asr:0: OUTPUT 1495.64-1499.06: Year-over-year gross margin declines will be more pronounced in Q2. 
+asr:0: OUTPUT 1499.08-1507.33: Before moderating somewhat in the back end of have to as our productivity program scale and price realization increases. 
+asr:0: OUTPUT 1508.41-1516.34: This outlook largely assumes spot prices across the majority of the commodity basket, as well as in transportation and warehousing. 
+asr:0: OUTPUT 1517.68-1527.25: We will continue to invest in support of our brands and key markets, and with the addition of the Billy brand, expect A&P spending to be largely in line with last year as a rate of sale. 
+asr:0: OUTPUT 1528.63-1534.83: Adjusted operating profit margin is now expected to contract approximately 130 basis points year over year. 
+asr:0: OUTPUT 1534.85-1538.70: Reflecting the deleveraging effect of including the Billy sales. 
+asr:0: OUTPUT 1538.72-1540.94: Increased amortization costs,. 
+asr:0: OUTPUT 1540.96-1545.71: The headwind associated with the profit deferral, and additional negative currency effects. 
+asr:0: OUTPUT 1546.77-1552.99: Adjusted EBTA is now expected to be in the range of $357 to $377 million. 
+asr:0: OUTPUT 1554.21-1559.84: Adjusted EPS is now expected to be in the range of $2.74 to $3.02. 
+asr:0: OUTPUT 1560.00-1565.79: Reflecting increased amortization expense in addition to the profit deferral and currency impacts. 
+asr:0: OUTPUT 1566.73-1572.97: We continue to expect to generate about two-thirds of our full-year adjusted EPS in half two of the fiscal year. 
+asr:0: OUTPUT 1574.41-1581.04: With respect to our share repurchase, our outlook only includes the expected share repurchases required to offset dilution. 
+asr:0: OUTPUT 1581.92-1590.69: The benefits to EPS from additional share repurchases transacted over the course of the year have not been contemplated in our outlook and will be additive to EPS. 
+asr:0: OUTPUT 1591.75-1597.66: And finally, free cash flow conversion is expected to be approximately 100% of gap net earnings. 
+asr:0: OUTPUT 1598.88-1605.11: For more information related to our fiscal 2022 outlook, I would refer you to the press release that we issued earlier this morning. 
+asr:0: OUTPUT 1605.89-1610.11: And with that, I'd like to turn the call back over to the operator to begin the Q&A session. 
+asr:0: OUTPUT 1611.93-1620.10: We will now begin the question and answer session. To ask a question, you may press star then one on your telephone keypad. 
+asr:0: OUTPUT 1620.58-1625.55: If you're using a speakerphone, please pick up your handset before pressing the keys. 
+asr:0: OUTPUT 1626.13-1632.89: If at any time your question has been addressed and you would like to withdraw your question, please press star then two. 
+asr:0: OUTPUT 1633.55-1637.54: At this time, we will pause momentarily to assemble our roster. 
+asr:0: OUTPUT 1638.94-1646.41: The first question comes from Chris Carey with Wells Fargo Securities. Please go ahead. 
+asr:0: OUTPUT 1649.81-1652.75: Good morning. Morning, Chris. 
+asr:0: OUTPUT 1654.75-1657.72: Can you just talk about... 
+asr:0: OUTPUT 1657.74-1665.61: Sustainability of the market share gains that you're seeing in the Suncare business. 
+asr:0: OUTPUT 1666.25-1672.87: Obviously, some interesting statistics around share at some of your key retailers. 
+asr:0: OUTPUT 1673.55-1681.72: And can you also maybe expand on how you're thinking about how incremental some of these. 
+asr:0: OUTPUT 1681.74-1683.78: You know incremental shelf. 
+asr:0: OUTPUT 1683.80-1695.76: Wins are going to be for the business this year, Walmart, Costco, and potentially how that's factoring into your thinking for the back half. 
+asr:0: OUTPUT 1696.86-1701.68: And maybe if I could just sneak in on the Sun business as well, just all in the context of Sun. 
+asr:0: OUTPUT 1702.66-1711.85: The supply chain issues. I know you didn't mention it, but just confidence that you're going to have adequate supply going into the peak of the season. 
+asr:0: OUTPUT 1714.55-1719.90: So on Sun, we feel good. Crest is the headline on what's to come. 
+asr:0: OUTPUT 1721.10-1728.13: We like the planogram changes. We've talked about that. We have new incremental distribution in the club channel. 
+asr:0: OUTPUT 1728.71-1734.71: We have higher quality distribution across the balance of food drug mass. 
+asr:0: OUTPUT 1735.72-1738.78: We launched hawaiiantropic.com. 
+asr:0: OUTPUT 1738.80-1746.03: A year ago and we're activating online not only with our own channels but also with people like Amazon. 
+asr:0: OUTPUT 1746.39-1751.09: In there. So we have a really nice distribution footprint. 
+asr:0: OUTPUT 1751.63-1761.90: We have good innovation coming on Banana Boat as we look at kids and family, the sport franchise. 
+asr:0: OUTPUT 1762.06-1768.49: We have refresh on the packaging on Hawaiian tropics that will start to phase in throughout the season. 
+asr:0: OUTPUT 1769.05-1774.11: So really solid distribution outcomes, really solid innovation pipeline. 
+asr:0: OUTPUT 1774.61-1794.69: And then as importantly, upstream, our teams have done an amazing job of procuring the raw materials and the ingredients to be available throughout the season. And so we've planned for a big season. We're covered on the supply chain on that front. 
+asr:0: OUTPUT 1795.40-1800.98: We do most everything in-house. We control the manufacturing. We're not reliant on third parties. 
+asr:0: OUTPUT 1801.44-1802.50: And so. 
+asr:0: OUTPUT 1802.58-1811.55: What we've seen in the early part of sun season. Mind you, in quarter one, it's only 6% of the season transacts in the quarter just finished. 
+asr:0: OUTPUT 1812.03-1815.58: So the best of what sun can do for us, we think, is to come. 
+asr:0: OUTPUT 1820.40-1822.40: OK, thanks for the perspective. 
+asr:0: OUTPUT 1825.27-1826.57: Upper next question. 
+asr:0: OUTPUT 1830.01-1836.22: We have another question. I'm sorry. Just one if I could, if I'm still live. 
+asr:0: OUTPUT 1836.74-1840.78: Okay, thank you. Just on the concepts of... 
+asr:0: OUTPUT 1841.36-1846.13: Obviously, the impact of the bill coming through the earnings outlook. 
+asr:0: OUTPUT 1846.17-1852.69: But also floating through the currency impact, to earnings as well. 
+asr:0: OUTPUT 1854.43-1858.46: I guess, you know, from here, and you talked about a volatile operating environment. 
+asr:0: OUTPUT 1859.18-1869.11: What are the levers that you have at your disposal now in order to maybe preserve where earnings have been reset? 
+asr:0: OUTPUT 1870.07-1875.44: Is that savings program, from a pricing standpoint, I wonder if you have any. 
+asr:0: OUTPUT 1875.48-1882.42: Incremental thoughts. I know that you want to be surgical and shave and you've already done some things in sun and have the FemCare pricing. 
+asr:0: OUTPUT 1882.96-1886.95: But how could that factor into potentially offsetting another move? 
+asr:0: OUTPUT 1887.47-1895.66: In cost and then, you know, just it's all related to this concept of offsets, but just from a, from a, from a share repurchase standpoint. 
+asr:0: OUTPUT 1896.06-1904.16: Clearly still only factoring offsetting dilution, but you do have a pretty sizable buyback program and. 
+asr:0: OUTPUT 1904.82-1910.99: So if I look at the pre-market, the stock is implied down. So any thoughts you have there as well? Thanks so much. 
+asr:0: OUTPUT 1912.79-1920.16: Yeah, hey Chris, it's Dan. Thanks for the question. I'll try to take it. There's a lot there. I think certainly, and you picked up on it from our remarks. 
+asr:0: OUTPUT 1920.22-1925.65: We were certainly operating in a more challenging environment than we had initially contemplated. 
+asr:0: OUTPUT 1925.77-1929.89: That's for sure. We've said now that we anticipate. 
+asr:0: OUTPUT 1929.91-1938.64: You know, about 500 basis points of macroinflationary pressure on COGS, that's up about 100 basis points from what we said a quarter ago. 
+asr:0: OUTPUT 1940.06-1945.00: And we said that that will translate likely into about a 200 basis point year-over-year decline in margin. 
+asr:0: OUTPUT 1945.09-1950.85: So the takeaway there is we do have a solid line of sight to some meaningful offsets, right? 
+asr:0: OUTPUT 1950.91-1957.00: And so as I break those down, first and foremost for us it's in cogs, as it always is. 
+asr:0: OUTPUT 1957.04-1958.74: And our approach here is twofold. 
+asr:0: OUTPUT 1958.78-1967.73: One, we're continuing to look at what we already do really well. We deliver 200 basis points of productivity savings in the quarter. 
+asr:0: OUTPUT 1968.09-1978.00: We're looking at the opportunity to accelerate existing cost savings programs to bring forward initiatives that were perhaps timed for later in the year. 
+asr:0: OUTPUT 1978.02-1985.37: But at the same time, we're doing significant work to stabilize the environment and meet demand. 
+asr:0: OUTPUT 1985.63-1992.79: So we have to continue to balance that. I think we're really good at that. And that will continue. 
+asr:0: OUTPUT 1993.15-2001.56: On the revenue side of the house, I think you're right. If you look at how we took price or how we thought about price,. 
+asr:0: OUTPUT 2002.72-2011.03: There are examples where we have taken broad brush price increases and we've talked about those around wet ones, around Femcare. 
+asr:0: OUTPUT 2011.13-2015.36: To a lesser degree, wet shave in certain international markets. 
+asr:0: OUTPUT 2015.82-2025.55: And those prices are now priced in and we've either begun to feel the effects of that in international or have been feeling the effects of that, for example, in wet ones. 
+asr:0: OUTPUT 2026.25-2030.01: In the rest of the portfolio, we applied more of a surgical approach. 
+asr:0: OUTPUT 2030.19-2042.58: Where within categories, within brands, within markets, we thought about it very differently across shave and saun and grooming and PBG and even preps for that matter. 
+asr:0: OUTPUT 2042.60-2052.77: As we're reassessing, we are certainly considering both scenarios. We're considering situations where we did go up in price at category level. 
+asr:0: OUTPUT 2052.79-2056.42: And is there opportunity to implement further price? 
+asr:0: OUTPUT 2056.54-2068.55: We're also looking at where we have been more surgical and thinking about areas where perhaps we haven't taken price where we can reconsider given the environment, given what we've seen so far in elasticities. 
+asr:0: OUTPUT 2068.69-2078.64: And then the last thing I would say is, you know, beyond just frontline price, we continue to make great progress in our efforts to really better understand the promotional environment. 
+asr:0: OUTPUT 2078.68-2082.20: Promotional intensity, return on promotional dollars. 
+asr:0: OUTPUT 2082.76-2085.97: And that was actually a contributor to what we saw in Q1. 
+asr:0: OUTPUT 2086.65-2094.99: And we expect that promo rationalization and just good effective spend will also be a tailwind for us to help offset this environment that we're in. 
+asr:0: OUTPUT 2099.82-2109.71: Thank you, Chris. Operator, next question, please. Thank you. The next question comes from Nick Modi with RBC Capital Markets. Please go ahead. 
+asr:0: OUTPUT 2110.93-2112.21: Thanks and good morning everyone. 
+asr:0: OUTPUT 2113.37-2122.40: Just two questions from me. Dan, is there any way you can quantify the impact Addistock had on growth in the quarter? 
+asr:0: OUTPUT 2122.98-2127.31: I guess the broader question, and this is just kind of a longer term question on productivity. 
+asr:0: OUTPUT 2127.81-2136.68: I was looking at the Church and Dwight analysts, and I was struck again by their revenue per employee but also looking at Edgewell's revenue per employee. 
+asr:0: OUTPUT 2137.32-2141.56: I think the way it's on the chart, it was 303. 
+asr:0: OUTPUT 2141.58-2148.17: For Edgewell and Church and Dwight was over a thousand, and the average was closer to like five, six hundred. 
+asr:0: OUTPUT 2148.69-2156.04: And I just wondered if you could comment on that. You guys have done such a great job of productivity over the last couple of years. 
+asr:0: OUTPUT 2156.14-2160.42: How much do you think there's left in the tank when you really think about the bigger picture? 
+asr:0: OUTPUT 2162.56-2164.34: Yeah, good morning. Thanks for the questions. 
+asr:0: OUTPUT 2164.50-2169.75: So on your first one, can we estimate sort of the out-of-stock impact. 
+asr:0: OUTPUT 2170.23-2174.99: So there were sort of two headwinds in the quarter that I think are worth calling out just to understand magnitude. 
+asr:0: OUTPUT 2175.18-2183.80: One is the drag wetlands had on organic growth for the period. So we produced a 2.5% organic growth rate. 
+asr:0: OUTPUT 2184.36-2191.61: And Wet Ones was about a 250 basis point drag in the quarter. Now we talked about the category being down 70%. 
+asr:0: OUTPUT 2192.13-2200.16: And we know that's a category that is still finding a normal water level, if you will, given what it's cycling in COVID. So that's the first item. 
+asr:0: OUTPUT 2200.28-2202.10: The second item more to your point. 
+asr:0: OUTPUT 2202.78-2208.53: Talk to truly estimate, right? Talk to truly estimate what demand was out there that we couldn't meet. 
+asr:0: OUTPUT 2208.57-2221.14: We know in the two most prevalent areas around FemCare where we had labor shortages and in our shave prep business where we had trouble with commodities and raw material,. 
+asr:0: OUTPUT 2221.16-2234.61: That there was certainly a line of sight to 4 to 6 million just there alone in those two small businesses of ours. That likely adds up to somewhere around 0.5 to 2% in organics. 
+asr:0: OUTPUT 2235.64-2243.98: Beyond that, tough to understand and really break down what demand was unmet, but we can certainly pull up those two pieces. 
+asr:0: OUTPUT 2244.60-2255.78: On your second question around productivity, look, I think what's left in the tank is a common question we get asked on the heels of the fuel program and the success we saw there. 
+asr:0: OUTPUT 2256.30-2263.12: And we have said publicly that both in COGS and in our core SG&A environment,. 
+asr:0: OUTPUT 2263.14-2266.71: We see meaningful savings opportunities left to go. 
+asr:0: OUTPUT 2267.75-2273.83: And if you go back to our investor day, we talked about $125 million of savings over the next two years. 
+asr:0: OUTPUT 2274.45-2282.80: In COGS, we delivered 200 basis points of productivity savings in the quarter, and you're starting to see that work now shift. 
+asr:0: OUTPUT 2283.28-2290.65: You're starting to see gains from automation. You're starting to see gains from the next level of procurement activity. 
+asr:0: OUTPUT 2290.79-2299.82: Along with the continued focus on eliminating waste and really being intolerant to waste across our facilities. 
+asr:0: OUTPUT 2299.86-2307.99: I'm quite confident in that team's ability simply based on demonstrated effect that there is certainly more to do there in productivity. 
+asr:0: OUTPUT 2308.49-2310.51: And Nick, I just had two points. 
+asr:0: OUTPUT 2311.05-2319.82: You're seeing the GNA leverage show up. So regardless of what statistics look like, revenue per head, what have you, at the end of the day, we've got to have leverage in the P&L. 
+asr:0: OUTPUT 2319.98-2322.16: We grow now, we're confident we will grow. 
+asr:0: OUTPUT 2323.38-2328.47: We've got to see the leverage come through. You're seeing that in the quarter, right, with the GNA leverage showing up. 
+asr:0: OUTPUT 2329.09-2336.36: You have a data point that I'll give you that is interesting. It's back to your question around out-of-stocks in the quarter. 
+asr:0: OUTPUT 2337.26-2344.98: It was the perfect storm with Omicron hitting and coming on top of a time where the labor environment was already very difficult. 
+asr:0: OUTPUT 2345.57-2356.52: We had 5% to 10%, depending on the factory, of our hourly manufacturing workforce out as you got toward the end of December. 
+asr:0: OUTPUT 2356.54-2362.70: With either Omicron positive, sick, or needing to isolate and quarantine out due to a close exposure. 
+asr:0: OUTPUT 2363.46-2373.23: And so that situation coming on top of already tight labor environment drove the service outage that Dan referenced before. 
+asr:0: OUTPUT 2373.33-2377.98: Again, we're not alone. That's a national thing, and I think it has a similar impact on the European plan. 
+asr:0: OUTPUT 2378.32-2381.42: The good news is as we look at that today, that's in the rear view mirror. 
+asr:0: OUTPUT 2382.20-2390.69: We're back down to what I would call just normal going levels. And so we feel really good about the go forward look in service and availability. 
+asr:0: OUTPUT 2394.77-2404.20: Thank you, Nick. Operator, next question, please. Thank you. The next question comes from Jason English with Goldman Sachs. Please go ahead. 
+asr:0: OUTPUT 2407.11-2408.61: Hey, good morning folks. Thanks for stopping in. 
+asr:0: OUTPUT 2410.27-2414.07: Quick math question I guess. You've got Billy and the P&L now. 
+asr:0: OUTPUT 2415.16-2422.46: A substantial amount of the cogs for Billy would seem to have already been in your P&L since you were manufacturing the razors for them and selling them to them. 
+asr:0: OUTPUT 2423.56-2430.99: As a result, our back table math suggests you should be getting somewhere between a 50 to 100 basis points margin mixed benefit at gross margin line. 
+asr:0: OUTPUT 2431.11-2437.72: Which if right would imply that your gross margin cut of 100 to 120 basis points today. 
+asr:0: OUTPUT 2438.04-2444.92: On the underlying basis would be quite a bit higher because obviously that reduction should include the benefit from Billy. 
+asr:0: OUTPUT 2445.63-2449.11: Is that conceptually right and mathematically, directionally correct? 
+asr:0: OUTPUT 2450.69-2458.32: Hey Jason, good morning, it's Dan. I'd be very careful assuming the lion's share of costs were already in the P&L. 
+asr:0: OUTPUT 2459.32-2461.00: If you think about their business. 
+asr:0: OUTPUT 2461.20-2463.32: In two ways. One,. 
+asr:0: OUTPUT 2463.34-2471.35: You know, we were shipping blades, obviously, but there's other costs involved, other products involved, there's assembly, there's distribution. 
+asr:0: OUTPUT 2472.53-2480.38: So there are other costs within their core business beyond, you know, let's say our COGS as a supplier. And then secondly,. 
+asr:0: OUTPUT 2480.56-2486.99: You know obviously you have this shift to retail which is a slightly different margin profile to it as well. So I wouldn't. 
+asr:0: OUTPUT 2487.03-2498.56: I'm not going to go back through your math point for point, but I wouldn't assume that there's margin accretion here simply because we've been already holding or recognizing all of the cogs. That's not true. 
+asr:0: OUTPUT 2499.82-2504.22: OK, that is helpful. I'll go back and scrub those numbers again a little bit further. 
+asr:0: OUTPUT 2505.05-2509.97: You were asked earlier where is the offset to the higher inflation. I think you said within COGS. 
+asr:0: OUTPUT 2509.99-2517.46: But you're lowering gross margin pretty much commensurate with the higher inflation. So it looks like in the near term, you're not getting the offset in COGS. 
+asr:0: OUTPUT 2517.90-2523.10: Where is the offset coming? Because you're saying on an underlying basis, you're still holding your earnings outlook flat. 
+asr:0: OUTPUT 2524.14-2530.41: Must be somewhere within SG&A. What specifically are you finding, where specifically are you finding more efficiency or more leverage? 
+asr:0: OUTPUT 2531.61-2535.26: Yeah, so I think a couple of things. One, on the cog side,. 
+asr:0: OUTPUT 2535.28-2544.58: I think, as I mentioned in my comments, we continue to look at all aspects of the program we have in place and where we can accelerate that and where we can. 
+asr:0: OUTPUT 2544.60-2548.29: Bring incremental savings into the year. That work is ongoing. 
+asr:0: OUTPUT 2548.51-2555.94: As is the revenue work that we're doing that I described. So the teams are literally in the process of that work. 
+asr:0: OUTPUT 2556.44-2562.58: On the cost side, I think absolutely we have to evaluate all aspects of both overhead and commercial spend. 
+asr:0: OUTPUT 2563.66-2570.97: Now we have to be really careful here because as we've said many times, we're at a very, very important moment for the business. 
+asr:0: OUTPUT 2571.21-2584.24: We have seen the impact of what really good investment behind the brands and really good investment behind organizational capabilities do for us and the role that it has played as a catalyst over the last 18 months in growth. 
+asr:0: OUTPUT 2584.80-2592.69: So we have no intention here on the spend lines, if you will, to take a step sideways, let alone backwards. That's a fact. 
+asr:0: OUTPUT 2593.17-2602.98: Having said that, absolutely, we're going to evaluate the spend. With A&P, we're going to continue to look at effectiveness and make sure every dollar we put to use. 
+asr:0: OUTPUT 2603.00-2604.70: Delivers returns for us. 
+asr:0: OUTPUT 2606.03-2614.53: And really be thoughtful about both our AMP investment and the timing and phasing and how we think about overheads in this environment. 
+asr:0: OUTPUT 2614.57-2617.62: I think that's something we certainly should be doing and will do. 
+asr:0: OUTPUT 2618.10-2620.70: Jason, I would add to this. 
+asr:0: OUTPUT 2621.04-2627.11: We're not going to go cut anything that we think is important capability to win in the future. 
+asr:0: OUTPUT 2627.13-2635.01: Or part of strategic narrative around brand building, repositioning as we build our brands and the equities moving forward. 
+asr:0: OUTPUT 2635.86-2641.52: There's an element of this that is also price revenue management related. Dan referenced that. 
+asr:0: OUTPUT 2642.02-2646.89: That's a big place we want to go. I don't think the pricing narrative is done here. 
+asr:0: OUTPUT 2647.13-2652.23: A lot of this inflation has hit in the last 30 to 60 days of the quarter just finished. 
+asr:0: OUTPUT 2653.07-2658.82: And so it's now opened up the opportunity with that information. 
+asr:0: OUTPUT 2658.84-2663.40: To go look at pricing again across the portfolio. And so we'll do that. 
+asr:0: OUTPUT 2663.84-2666.75: I think the other thing we'll really focus on. 
+asr:0: OUTPUT 2666.77-2674.87: And where all the value in this business is over time is in a healthy, accretive, top-line performance, whether that be price or volume. 
+asr:0: OUTPUT 2675.54-2679.52: We're really focused on driving a better top line outcome here as part of the equation as well. 
+asr:0: OUTPUT 2682.44-2686.23: So I'll pass it on. Thank you, Jason. Operator, next question, please. 
+asr:0: OUTPUT 2687.25-2692.85: The next question comes from Bill Chapel with Shua Securities. Please go ahead. 
+asr:0: OUTPUT 2694.65-2704.58: Thanks. Good morning. Morning. First of all, Billy, can you just help us understand on the rollout to Walmart, where that shelf space is coming? 
+asr:0: OUTPUT 2704.64-2717.04: Is it all promotional, end cap, center cap type stuff? Or are you getting permanent placement in the wet shave aisle? And if it's the second, you know. 
+asr:0: OUTPUT 2717.06-2723.78: Where is that coming from? Is that coming from your existing portfolio or is that coming from other competitors? 
+asr:0: OUTPUT 2726.33-2732.35: We are really excited about Billy overall, Bill, if you look at the profile of the business. 
+asr:0: OUTPUT 2733.35-2738.88: We acquired it, $90 million, trailing 12, all transacted online. 
+asr:0: OUTPUT 2739.00-2740.88: So rapid growth. 
+asr:0: OUTPUT 2741.00-2753.31: The impact to us incrementally, as we call out today, is roughly 400 basis points on top of our organic sales in the year we're in now. 
+asr:0: OUTPUT 2753.59-2761.02: And as part of that, the big building block that comes on top of direct-to-consumer is the Walmart launch. 
+asr:0: OUTPUT 2761.28-2769.97: And if you look at Walmart, effectively a national rollout, it's obviously different in a superstore format versus a neighborhood store, but across. 
+asr:0: OUTPUT 2770.01-2775.72: Their entire network, there is permanent in-isle fixed display. 
+asr:0: OUTPUT 2776.70-2778.02: It looks beautiful. 
+asr:0: OUTPUT 2779.12-2783.00: It has stopping power when you walk down the aisle. 
+asr:0: OUTPUT 2783.10-2787.85: It's the cleanest, most beautiful part of the women's shave section now, so it's permanent. 
+asr:0: OUTPUT 2788.01-2794.63: And in addition, there's in-cap that comes on top of that on secondary display. 
+asr:0: OUTPUT 2794.67-2798.30: With full signage and in-cap coverage. 
+asr:0: OUTPUT 2798.50-2803.78: So it's high quality distribution, it's beautiful, and it's there throughout the year. 
+asr:0: OUTPUT 2805.39-2807.57: That's great. I appreciate that. 
+asr:0: OUTPUT 2807.75-2810.77: And then separate kind of differently on wet ones. 
+asr:0: OUTPUT 2810.91-2824.34: Can you give us an idea of what Omicron did to the category over the past three, four months in terms of getting it back to whatever normal looks like for that category? Did it accelerate the path to normal? 
+asr:0: OUTPUT 2824.38-2830.53: People not really come back to wipes with Omicron like they did for Delta or prior versions. 
+asr:0: OUTPUT 2830.55-2835.22: You know, and are we any closer to kind of getting to what normal looks like? 
+asr:0: OUTPUT 2836.48-2839.52: We are close to what new normal looks like, Bill. 
+asr:0: OUTPUT 2840.06-2849.47: This quarter just printed here is really the last quarter of where you had 200 to 300% growth in the prior year period, 300 in this case. 
+asr:0: OUTPUT 2849.55-2864.18: So you're lapping 300% growth, which was really the rush you saw around the spike in December a year ago, November, December a year ago. 
+asr:0: OUTPUT 2864.84-2874.35: And so as we come now to Omicron and as people either have their supplies or stocks or have become comfortable with their new routine in this,. 
+asr:0: OUTPUT 2874.63-2877.68: Omicron was effectively a non-event, I would say. 
+asr:0: OUTPUT 2878.86-2888.43: And so as we look forward, we start to cycle more normal growth. That big peak is behind us now. So we're lapping more normal quarters as we go forward. 
+asr:0: OUTPUT 2888.97-2893.61: The other important point here, not to lose it, we still feel really good about wet ones in the category. 
+asr:0: OUTPUT 2894.23-2902.50: It's up double digits on a stack basis versus pre-pandemic. And so we do expect the category to continue to grow. 
+asr:0: OUTPUT 2902.72-2907.51: And we've got a 55% market share position here. We're the leader. 
+asr:0: OUTPUT 2907.65-2918.88: And we're seeing the shelf consolidate back to what the set looked like pre-pandemic with people that came in to try to fill the supply gap coming out of the sets. 
+asr:0: OUTPUT 2920.94-2925.31: Thanks for the color. Thank you. Thank you, Bill. Operator, next question, please. 
+asr:0: OUTPUT 2927.13-2928.35: The next question comes from... 
+asr:0: OUTPUT 2928.37-2931.87: Kevin Grundy with Jeffries. Please go ahead. 
+asr:0: OUTPUT 2933.19-2941.66: Great, thanks. Good morning everyone. Two for me, if I could. First one for Dan on guidance and then Rod, maybe just building a little bit on the prior question on Billy. 
+asr:0: OUTPUT 2942.00-2946.17: So Dan, pretty simple I guess, first on the guidance, just bridging. 
+asr:0: OUTPUT 2946.19-2953.41: Where you were in November when you guys commented that Billy was to be slightly positive to cash earnings per share. 
+asr:0: OUTPUT 2954.37-2959.32: Keep it that guidance and then the guidance is, I think this is building on Mr. English's question. 
+asr:0: OUTPUT 2959.82-2961.96: The commentary is. 
+asr:0: OUTPUT 2961.98-2970.29: The guidance is simply reflects the transaction and slightly worse effects, but we have EBITDA moving lower. We have free cash flow moving lower. 
+asr:0: OUTPUT 2971.07-2974.57: Maybe there's some nuance within the Billy transaction. 
+asr:0: OUTPUT 2974.79-2981.76: Can you just bridge that for me where you were in November with the slightly positive comments of cash earnings versus where we are today? 
+asr:0: OUTPUT 2983.18-2985.11: Yeah, absolutely. Good morning. 
+asr:0: OUTPUT 2985.29-2991.93: Look, let's unpack the Billy element first because as we look at our guidance. 
+asr:0: OUTPUT 2991.95-2999.64: When you exclude the technical changes we made related to the Billy transaction and the incremental currency headwinds. 
+asr:0: OUTPUT 3000.00-3004.62: Our core outlook remains intact, right? That's unchanged. 
+asr:0: OUTPUT 3004.99-3006.77: We talked about the FX piece. 
+asr:0: OUTPUT 3007.03-3013.37: That we see an additional five cents of headwinds here. So then it really comes down to the Billy piece. 
+asr:0: OUTPUT 3013.43-3018.72: And you've got 19 cents of anticipated full year impact. 
+asr:0: OUTPUT 3019.14-3023.96: Driven by two things, Kevin. One is the amortization of the intangible. 
+asr:0: OUTPUT 3024.08-3030.37: We talked about that last time. We obviously couldn't have predicted what that would be. It's obviously a non-cash charge. 
+asr:0: OUTPUT 3030.49-3036.62: That's 13 cents of the 19 cents tied up in this in this year one of Billy. 
+asr:0: OUTPUT 3037.04-3039.32: That obviously was not in our initial guide. 
+asr:0: OUTPUT 3039.82-3046.77: And then the second piece is really a timing and a comparison piece, which is the impact of deferred profit. 
+asr:0: OUTPUT 3047.23-3049.57: So if you think about our initial outlook. 
+asr:0: OUTPUT 3049.99-3057.74: We would have contemplated Billy as a customer. We would have had 12 months of gross margin on sales to that customer in our outlook. 
+asr:0: OUTPUT 3058.24-3067.51: And now with Billy coming on board with 10 months of business, not 12, and with an assumed 60-day inventory turn,. 
+asr:0: OUTPUT 3068.25-3075.18: You know, some of those previously thought of as sales become shipments, and some of that profit on those shipments gets deferred. 
+asr:0: OUTPUT 3075.58-3078.96: Purely timing, purely the mechanics of the transactions. 
+asr:0: OUTPUT 3078.98-3088.75: So, 13 cents related to the amortization charge, 6 cents related to the impact of deferred profit versus what was in our initial guide. 
+asr:0: OUTPUT 3089.81-3095.10: Okay, all right, I can take some of that offline then. Rod, just building on Billy. 
+asr:0: OUTPUT 3095.32-3100.92: Just taking a step back, I think the compound annual growth rate over the past few years has been 50%. 
+asr:0: OUTPUT 3101.62-3106.95: Maybe you don't want to comment on specific brands in your outlook, but just for our modeling purposes. 
+asr:0: OUTPUT 3106.99-3112.87: What is a reasonable growth rate, you think about the Walmart distribution, perhaps you can put some parameters around. 
+asr:0: OUTPUT 3112.89-3120.12: ACV or total points of distribution and where you think that can go as you sort of roll out into Walmart. 
+asr:0: OUTPUT 3120.18-3121.34: I can pass it on. Thanks. 
+asr:0: OUTPUT 3122.88-3127.89: I'll start Kevin and throw it to Dan if you want to add some commentary. 
+asr:0: OUTPUT 3128.59-3131.71: Look, Billy's got a high kegger because it's four years old. 
+asr:0: OUTPUT 3133.17-3139.54: You go from zero to 90 million trailing 12 in four years, you get a high kegger all online. 
+asr:0: OUTPUT 3140.70-3144.86: Different than some other M&A we've looked at in the past. 
+asr:0: OUTPUT 3145.73-3156.88: This is timed nearly perfectly for us because we are just starting the retail rollout last month, January of 22. 
+asr:0: OUTPUT 3157.64-3169.87: With what we think is the premier women's brand in this more value-oriented space just around price point. 
+asr:0: OUTPUT 3170.23-3178.84: It's very additive to our portfolio with our Schick HydroSilk and the Intuition brands. 
+asr:0: OUTPUT 3178.98-3183.48: It's a differentiated add to our portfolio where we had a whole. 
+asr:0: OUTPUT 3184.26-3193.85: We believe over time this brand has legs to be everywhere and to be a big part of our portfolio going forward. 
+asr:0: OUTPUT 3194.31-3200.58: It's also incremental to us around who the consumer demographic is. 
+asr:0: OUTPUT 3201.18-3202.50: It skews younger. 
+asr:0: OUTPUT 3202.78-3204.30: It's used more diverse. 
+asr:0: OUTPUT 3204.70-3214.69: And so it's a nice add in our portfolio. And the final thing I'll say before I throw it to Dan is we have lacked access to good consumer data. 
+asr:0: OUTPUT 3215.03-3218.50: They have 3 million customers in their file. 
+asr:0: OUTPUT 3219.44-3225.13: And so this is also a breakthrough for us around not only digital capability, but also consumer data. 
+asr:0: OUTPUT 3226.25-3228.51: Yeah, and just maybe building on the math. 
+asr:0: OUTPUT 3228.63-3239.34: So what we said at the time of the announcement was it was a $90 million TTM business top line growing at about 30%. Of course, that was just a DTC business at the time. 
+asr:0: OUTPUT 3240.02-3247.03: If you fast forward to today, and again recognizing we have 10 months of their business in our P&L. 
+asr:0: OUTPUT 3247.65-3255.94: You know, we've said it'll add about 400 basis points in reported sales. So, you know, you're in the 85 to 90 million dollar range. 
+asr:0: OUTPUT 3256.00-3257.86: Now there are two elements to that. 
+asr:0: OUTPUT 3258.56-3267.33: There are the Billy third-party sales, both retail and DTC, which we are estimating is in the $105-$110 million range. 
+asr:0: OUTPUT 3267.89-3276.74: And then you have the headwinds of shipments that were in our initial plan that now become intercompany shipments. And that's plus or minus 20, 25 million. 
+asr:0: OUTPUT 3276.80-3287.51: So you put the two together, you land in the $85 to $90 million range as we think about the business over the 10 months of fiscal 22. 
+asr:0: OUTPUT 3287.85-3291.89: The fundamentals for this business are therefore twofold. 
+asr:0: OUTPUT 3291.93-3295.48: We are going to continue to invest in DTC growth. 
+asr:0: OUTPUT 3295.54-3302.24: Customer acquisition, retention, basket growth, etc. For all the reasons Rod described. 
+asr:0: OUTPUT 3302.30-3310.27: And then we're going to execute flawlessly at Walmart. So you're really leveraging the expertise of the Billy team. 
+asr:0: OUTPUT 3310.39-3314.91: On the first element and then obviously the retail expertise of Edgewell on the second. 
+asr:0: OUTPUT 3315.60-3320.68: You know, the exact cadence and pace and splits and how quickly it scales. 
+asr:0: OUTPUT 3321.02-3327.69: You know, that obviously we'll learn our way into in 2022, but it's super attractive growth profile. 
+asr:0: OUTPUT 3328.13-3335.62: And I think just looking at the Walmart end of it compares very, very favorably to recent launches in the space. 
+asr:0: OUTPUT 3337.04-3342.34: Very good. Thank you both. Good luck. Thank you. Thanks, Kevin. Thanks, Kevin. Operator, next question, please. 
+asr:0: OUTPUT 3343.44-3347.39: The next question comes from Olivia Tong with Raymond James. 
+asr:0: OUTPUT 3347.89-3351.01: Please go ahead. Great. Thank you. 
+asr:0: OUTPUT 3352.07-3353.11: I'm. 
+asr:0: OUTPUT 3353.13-3362.24: My question is on pricing. If you could talk a little bit about what you've done of late, whether you think there needs to be more to offset cost inflation. 
+asr:0: OUTPUT 3362.28-3367.43: And their view on what competition has done and whether there have been any moves or lack thereof. 
+asr:0: OUTPUT 3367.45-3370.99: By others that make it more challenging for you to put your plans in place. 
+asr:0: OUTPUT 3371.47-3377.32: You know, you've slugged it out quite a bit to improve your positioning. So, you know, as inflation continues... 
+asr:0: OUTPUT 3377.52-3379.64: How do you sort of think about balancing? 
+asr:0: OUTPUT 3379.66-3390.11: The desire to offset cost inflation by taking price with the potential implications it may have on market share. Thanks so much. 
+asr:0: OUTPUT 3392.27-3401.72: Good morning, Olivia. Rod here. I'll start and then flip it to Dan. On pricing, I think one of the things I learned earlier in my career. 
+asr:0: OUTPUT 3402.46-3404.36: The Procter and Gamble is. 
+asr:0: OUTPUT 3404.42-3413.95: Pricing is really important to creating value over time and structural profitability in the business. So we will always look to take pricing where it's warranted. 
+asr:0: OUTPUT 3414.03-3418.04: Where it's either warranted by innovation, our cost. 
+asr:0: OUTPUT 3418.26-3426.07: That needs to be shared on and passed on, we'll look to do that. Where we have leadership with a leading chair position,. 
+asr:0: OUTPUT 3426.59-3430.61: We will leave pricing under that scenario where it's warranted. 
+asr:0: OUTPUT 3431.19-3435.14: Where we're not a leader, we'll follow. We play more of a follower role. 
+asr:0: OUTPUT 3436.12-3441.42: And we look to fast follow. I think we said that in our prepared comments. That's the strategy. That's the approach. 
+asr:0: OUTPUT 3441.90-3451.25: All this through a context over time of we want to maintain and build our share and become more competitive over time. 
+asr:0: OUTPUT 3451.33-3453.67: Price is obviously a piece of that. 
+asr:0: OUTPUT 3453.73-3462.82: So we never want to be disadvantaged. We've got price strategies by brand that we lay out that's part of the overall strategy of building that business and growing share over time. 
+asr:0: OUTPUT 3463.92-3471.71: But there is an opportunistic piece to the pricing environment we live in today that we need to go get, for sure. 
+asr:0: OUTPUT 3472.39-3473.95: And the only thing I would add, Olivia, I think. 
+asr:0: OUTPUT 3474.09-3483.50: Just two comments. One, just a reminder, I know you know this, but price is not the only lever that we have here to offset this 500 basis points of inflation. 
+asr:0: OUTPUT 3484.24-3486.61: It is a lever, it is not the only lever. 
+asr:0: OUTPUT 3486.73-3494.35: I won't go back through the comments on productivity, but we feel really good about our ability to continue to take cost out there. 
+asr:0: OUTPUT 3494.85-3497.30: On the price front, to Rod's point,. 
+asr:0: OUTPUT 3497.74-3499.22: We've been super thoughtful. 
+asr:0: OUTPUT 3499.28-3508.73: We've executed extremely well with real precision, both in how we think about frontline price and also how we think about promotional intensity and effectiveness. 
+asr:0: OUTPUT 3508.83-3512.03: I think you have to look at those together. 
+asr:0: OUTPUT 3512.47-3515.01: Having said that, the world continues to change. 
+asr:0: OUTPUT 3515.32-3522.86: And the teams are actually quite optimistic and recognize there's more to do here. And so we're back at it. 
+asr:0: OUTPUT 3523.16-3526.45: Looking category by category, looking brand by brand. 
+asr:0: OUTPUT 3526.59-3528.53: Nothing is off the table on price. 
+asr:0: OUTPUT 3528.81-3532.43: Obviously, we won't get into the specifics here for competitive reasons. 
+asr:0: OUTPUT 3532.45-3542.36: But we recognize that there's more to do and in fact the pricing environment remains fairly productive at this point and the teams feel pretty good about the opportunities that further price has for us. 
+asr:0: OUTPUT 3545.15-3552.95: Got it, that's helpful. And then just on future M&A, now that you've done an acquisition larger than the previous ones,. 
+asr:0: OUTPUT 3553.57-3561.92: When do you think you have capacity to start looking at sort of the niche tuck-ins you've been known for over the last few years and just your thoughts on capital allocation? 
+asr:0: OUTPUT 3561.94-3564.56: Including the share of purchase plans from here. 
+asr:0: OUTPUT 3566.09-3575.28: Yeah, look, I think for M&A, first of all, we are not out of the game on M&A. We are engaged and looking at things. 
+asr:0: OUTPUT 3575.30-3581.50: Obviously, the bar is high. Obviously, we're going to need to be really disciplined about what we do from here. 
+asr:0: OUTPUT 3582.32-3586.85: But being three times levered with the cash profile that we have. 
+asr:0: OUTPUT 3587.25-3591.37: A deal like Billy certainly doesn't take us off the M&A landscape. 
+asr:0: OUTPUT 3591.39-3597.50: There's a lot of interesting assets out there and my team spends a lot of time looking at these. 
+asr:0: OUTPUT 3598.02-3601.86: For similar characteristics that we see with Billy, right? 
+asr:0: OUTPUT 3601.88-3608.73: High growth, opportunity to gain growth in a growing segment, capability, share, etc. 
+asr:0: OUTPUT 3608.77-3614.57: So I think from an M&A perspective, still highly engaged and still looking at a lot of interesting assets. 
+asr:0: OUTPUT 3615.08-3619.20: In the broader capital allocation question, look,. 
+asr:0: OUTPUT 3619.34-3630.21: We really like where we are in the sense that we have a very clear, very disciplined, and very broad approach to capital allocation that we have in fact been executing. 
+asr:0: OUTPUT 3630.41-3632.59: A year ago we initiated the dividend. 
+asr:0: OUTPUT 3632.61-3637.20: Interesting yields, 1.5%, 2%, solid returns. 
+asr:0: OUTPUT 3637.22-3644.06: We then augmented that with the buyback program that we announced a quarter ago. We executed that extremely well in the first quarter. 
+asr:0: OUTPUT 3644.08-3648.41: Just over 20, about $25 million on track for what we would have expected. 
+asr:0: OUTPUT 3648.69-3655.50: We'll obviously continue to evaluate that, but you pull all that together with a leverage profile in our two to three times. 
+asr:0: OUTPUT 3655.52-3661.00: With a cash forecast like we have that can generate $175,000,000 to $180,000,000 a year. 
+asr:0: OUTPUT 3661.30-3663.70: We really like where we are and we like how we're executing. 
+asr:0: OUTPUT 3666.85-3670.21: Thanks, Olivia. Operator, next question, please. 
+asr:0: OUTPUT 3672.29-3678.64: Currently, we have no further questions. I would like to turn the conference back over to Rod Little for any closing remarks. 
+asr:0: OUTPUT 3680.10-3684.50: Thank you everyone for your continued interest and time. Have a great day. Thank you. 
+asr:0: OUTPUT 3685.89-3691.05: The conference has now concluded. Thank you for attending today's presentation. You may now disconnect. 
+asr:0: END

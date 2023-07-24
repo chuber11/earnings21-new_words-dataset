@@ -1,0 +1,452 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 8.93-15.52: Good morning and welcome. Welcome to our presentation on the results for the six months to the end of October. 
+asr:0: OUTPUT 16.26-23.56: I'm Miles Roberts, the group's chief executive, and I'm joined by my colleague Adrian Marsh, our group finance director. 
+asr:0: OUTPUT 24.44-30.29: The half year showed continuing good progress right across the company. 
+asr:0: OUTPUT 30.77-39.72: As a solely fibre-based business, that's with no plastics, we continue to benefit from a very dynamic market. 
+asr:0: OUTPUT 40.34-43.42: A market we positioned ourselves to benefit from. 
+asr:0: OUTPUT 44.10-49.67: Different retail channels are developing quickly and continue to change. 
+asr:0: OUTPUT 50.45-57.32: And there's a different relationship between consumers and packaging. And of course, COP26. 
+asr:0: OUTPUT 57.88-65.85: It's intensified the debate and the demand for circular solutions as well as carbon reduction. 
+asr:0: OUTPUT 66.37-73.15: So all of this has positioned us not only to grow in the last six months, but for continued good growth. 
+asr:0: OUTPUT 75.08-81.50: With this background, we've seen our volumes go strongly, up 9.4%. 
+asr:0: OUTPUT 82.30-85.17: But you're also seeing good pricing momentum. 
+asr:0: OUTPUT 86.19-98.98: When combined with our financial hedging and long-term deep supply arrangements has allowed us to mitigate the increasing operating costs. 
+asr:0: OUTPUT 100.84-110.25: Consequently, our operating profit has risen by 26% and our earnings per share by 33%. 
+asr:0: OUTPUT 110.55-118.64: And I'm very pleased to see how the US has continued to perform, where it's operating profits up 64%. 
+asr:0: OUTPUT 120.00-126.51: Benefiting not only from excellent pricing momentum but strong volume growth. 
+asr:0: OUTPUT 128.11-136.26: And our cash flow's been strong and it's brought a leverage to 1.9 times net debt to EBITDA. 
+asr:0: OUTPUT 136.28-138.86: Well inside our medium term target. 
+asr:0: OUTPUT 140.40-144.46: And looking ahead to the second half, it started well. 
+asr:0: OUTPUT 145.79-149.83: We also have new investments coming on stream later in H2. 
+asr:0: OUTPUT 151.11-157.06: And we expect to make a significant further improvement in profitability. 
+asr:0: OUTPUT 158.04-163.42: And progress towards our medium-term targets in the second half. 
+asr:0: OUTPUT 164.18-168.37: Agent, would you take us through the detail of the financial results? 
+asr:0: OUTPUT 170.15-178.78: Thank you, Miles, and good morning, everyone. By way of my normal reminder, I'll describe the performance of the business on a constant currency basis. 
+asr:0: OUTPUT 179.76-181.30: Here are our financial highlights. 
+asr:0: OUTPUT 182.36-189.85: Revenue was up 22% reflecting record box volume growth and higher prices across packaging, paper and recycling. 
+asr:0: OUTPUT 190.83-194.15: Together, these more than offset significant cost increases. 
+asr:0: OUTPUT 194.17-201.08: With operating profit up 26% including a 64% increase in the US. 
+asr:0: OUTPUT 202.96-208.47: Return on sales before exceptional or adjusting items increased 30 basis points. 
+asr:0: OUTPUT 209.25-214.25: The extent that our increased input costs are matched almost pound for pound in our revenue line. 
+asr:0: OUTPUT 214.85-222.06: Then mathematically we have a small optical margin dilution which is more than offset by a volume growth. 
+asr:0: OUTPUT 222.84-234.75: Clearly our margin becomes much more accretive as the rate of price recovery in the second half of the year and into our next financial year overtakes the rate of input cost inflation. 
+asr:0: OUTPUT 234.77-237.10: Driving a return to our target range. 
+asr:0: OUTPUT 238.84-245.06: Profit growth has flowed through to EPS and cash, and I'll talk more about net debt and leverage reduction shortly. 
+asr:0: OUTPUT 246.45-253.97: Return on average capital employed has significantly improved, which of course does not have the same nuance as the margins. 
+asr:0: OUTPUT 253.99-257.40: And demonstrate more immediately our improvement in returns. 
+asr:0: OUTPUT 258.62-263.60: With growing profits and after a period of expected dilution following our significant acquisitions. 
+asr:0: OUTPUT 263.62-273.47: And the even more recent impact of COVID, then we can clearly demonstrate we're also on track to return shortly to our medium-term targets for return on average capital employed. 
+asr:0: OUTPUT 275.16-281.46: Whilst not on this slide, I'm sure the sharper eye of you will have spotted that exceptional or interesting items. 
+asr:0: OUTPUT 281.48-285.51: Are, as we have advised they would be, de minimis in the period. 
+asr:0: OUTPUT 286.61-296.06: I'll now go through the main moving parts of the usual bridges. Record box volume growth of 9.4% contributed £172 million to revenues. 
+asr:0: OUTPUT 297.02-304.50: Other volumes is a mix of increased volumes of other packaging and recycling offset by less external paper sales as we use more internally. 
+asr:0: OUTPUT 305.63-308.33: The largest increase is clearly the sales price increase. 
+asr:0: OUTPUT 308.91-321.22: Around £200 million of the £432 million is packaging pricing, representing double-digit average increases in box prices, with a balance made up of external paper and recycler sales. 
+asr:0: OUTPUT 322.26-330.35: Turning to EBITday, the contribution from volume growth has dropped through in the normal way and that essentially is what's driven our profit growth. 
+asr:0: OUTPUT 331.45-338.44: Other volumes have the same story as on the revenue side with less external paper sales offsetting increased other packaging volumes. 
+asr:0: OUTPUT 339.70-349.41: Sales price mix drops straight through to profit and it's pleasing that we've been successful in pushing through pricing to more than offset the very significant headwinds on the cost side. 
+asr:0: OUTPUT 349.85-353.83: As well as managing the magnitude of those costs through our proactive procurement. 
+asr:0: OUTPUT 354.83-356.38: All of which said... 
+asr:0: OUTPUT 356.40-362.30: We still have the usual lag in our price recovery, which was positively impacting our second half. 
+asr:0: OUTPUT 362.32-367.35: Will be somewhat tempered by additional input cost inflation in the last three months of this HUS. 
+asr:0: OUTPUT 368.43-378.04: Taking all this into account and where we are with box prices and index contracts still to trigger, we're confident of additional price recovery and margin improvement in the second half of this year. 
+asr:0: OUTPUT 378.96-388.27: On the cost side, the largest contributing factors are external paper purchasing together with fibre or OCC, which together make up around £300 million. 
+asr:0: OUTPUT 388.83-392.73: Energy, labor and distribution have also increased significantly. 
+asr:0: OUTPUT 394.03-401.56: Clearly energy has been a topic du jour in the recent weeks and we've been extremely well protected by our three-year rolling hedging programme. 
+asr:0: OUTPUT 402.22-407.97: That said, we've not been immune from year-on-year costs, particularly on the unhedged 10% of our exposure. 
+asr:0: OUTPUT 409.27-412.13: Without this hedging, our results would have been severely impacted. 
+asr:0: OUTPUT 412.83-422.78: Given our level of forward hedging, in particular this year, we don't expect our energy costs to be materially worse than flat year on year, with an opportunity to improve if prices fall. 
+asr:0: OUTPUT 424.34-426.21: Overall, group margin has increased. 
+asr:0: OUTPUT 426.35-433.95: Albeit as I noted before, there is still a short-term dilutive impact from the input cost versus price inflation dynamic. 
+asr:0: OUTPUT 433.97-440.40: Which unwinds itself as the rate of price pass-through exceeds the rate of input cost inflation. 
+asr:0: OUTPUT 441.32-450.97: Despite this short-term effect, we remain both confident that margins will return to our target range, with more paper capacity being added in Central Europe, our short paper strategy. 
+asr:0: OUTPUT 450.99-452.09: We'll continue. 
+asr:0: OUTPUT 452.23-456.58: We believe to offer the most efficient return on capital employed profile for our business. 
+asr:0: OUTPUT 457.12-461.88: Allowing us to allocate more capital to our higher value-adding packaging opportunities. 
+asr:0: OUTPUT 462.66-471.37: Regionally, there are always variances depending on the level of our own paper production, which gets exaggerated when paper prices are either rising or falling sharply. 
+asr:0: OUTPUT 472.01-479.06: Eastern Europe is the area where we're shortest paper and until the usual lagging pass through to packaging complete. 
+asr:0: OUTPUT 479.08-483.26: The effect on return on sales is therefore greatest in that region in this period. 
+asr:0: OUTPUT 484.48-494.87: The key is that once the rate of price recovery exceeds the rate of paper price inflation, we then see margins rising, which is our expectation for the second half of next year too. 
+asr:0: OUTPUT 495.62-504.36: As previously discussed, it's particularly pleasing to see the expected and continued improvement in North America consistent with what we set out 18 months ago. 
+asr:0: OUTPUT 505.23-512.99: We've seen in this half a 64% increase in our US profits despite a planned maintenance shut in our paper mill and rice spra. 
+asr:0: OUTPUT 514.49-518.54: I'm also pleased to report continued good cash flow during the first half. 
+asr:0: OUTPUT 519.08-526.75: An exceptional working capital performance last year, I think we've done well to essentially keep it flat during a rising pricing environment. 
+asr:0: OUTPUT 527.31-536.54: Albeit whilst receivables have risen in line with selling prices, we've also benefited from the risk management of our energy hedges, which has positively benefited our creditors. 
+asr:0: OUTPUT 537.62-540.78: For the full year I still expect a small working capital outflow. 
+asr:0: OUTPUT 541.84-549.15: We have also again reduced our invoice discounting to £385 million in line with our guidance of below £400 million. 
+asr:0: OUTPUT 549.95-554.31: Just to note, on CapEx we spent £125 million in the first half. 
+asr:0: OUTPUT 555.32-565.99: I'll give my technical guidance shortly, but the phasing is such that the first half was always going to be less than the second half, and we're still expecting the full year amount to be around £430 million. 
+asr:0: OUTPUT 567.01-576.32: Moving to the cash flow bridge, net debt reduced by £155 million to its lowest level since April 2017, driven principally by the free cash flow. 
+asr:0: OUTPUT 577.60-581.02: As guided adjusting items are reduced to a negligible number. 
+asr:0: OUTPUT 581.10-589.13: And the acquisitions and disposal line is a net of the sailors to hope and a deferred element of the interstate put and a couple of minority interest buyouts. 
+asr:0: OUTPUT 590.17-595.36: To me, one of the highlights of the results is that net debt to EBITDA is back below two times. 
+asr:0: OUTPUT 595.72-601.20: Driven by both an increase in EBITDA this half and also a reduction in net debt. 
+asr:0: OUTPUT 601.64-608.11: I expect it to continue to be below target for the full year, recognising that there are cash flow headwinds to come. 
+asr:0: OUTPUT 609.83-611.41: Finally, my technical guidance. 
+asr:0: OUTPUT 611.99-617.50: We're on track to deliver in line with our guidance at the start of the year and further improve our financial KPIs. 
+asr:0: OUTPUT 617.90-627.69: So with that in mind, there's basically no change to the guidance that we've previously given, subject to any small variations which foreign exchange translation may cause. 
+asr:0: OUTPUT 629.01-635.34: I'll now hand you back to Miles to take you through some of the operational highlights and some of the opportunities that we're really excited about. 
+asr:0: OUTPUT 637.10-641.38: Thank you, Ae-Jin, for taking us through the detail of the financial results. 
+asr:0: OUTPUT 641.88-649.29: But I'd like to now to spend a bit of time just talking about why we're succeeding with our customers. 
+asr:0: OUTPUT 649.63-658.48: To highlight some of the backgrounds behind that and what gives us the confidence for that, the future growth, the future opportunities for us. 
+asr:0: OUTPUT 659.34-665.81: But firstly, I'd just like to recap on some of the operational highlights from the first half. 
+asr:0: OUTPUT 667.33-668.43: Turning to our people. 
+asr:0: OUTPUT 669.49-677.44: Everybody who works in DS Smith, once again we've seen a huge level of commitment and responsiveness throughout the whole company. 
+asr:0: OUTPUT 677.92-681.20: Where there have inevitably been some local issues. 
+asr:0: OUTPUT 681.54-683.38: These have been very short-lived. 
+asr:0: OUTPUT 683.74-693.35: And really covered through our scale and our flexibility, combined with all of our plants being fully operational throughout the whole period. 
+asr:0: OUTPUT 695.30-697.08: And looking at our supply chain. 
+asr:0: OUTPUT 697.88-699.86: This has remained very secure. 
+asr:0: OUTPUT 700.56-709.35: Our group-wide procurement and sourcing function combined with long-term deep relationships with many of our suppliers. 
+asr:0: OUTPUT 709.41-716.06: Particularly in critical areas such as starch, energy, chemicals, and of course paper. 
+asr:0: OUTPUT 716.08-720.00: Has resulted in good security of supply,. 
+asr:0: OUTPUT 720.28-723.58: And good levels of supplier service. 
+asr:0: OUTPUT 725.17-734.25: And with our customers, we stayed really close to them, listening to them, understanding their challenges and responding to them. 
+asr:0: OUTPUT 734.98-739.68: And this has enabled us to maintain good levels of service. 
+asr:0: OUTPUT 740.58-744.68: We've had good agility in meeting these changing needs. 
+asr:0: OUTPUT 745.23-753.37: Often supported by extensive use of new digital technology, helping us to really adapt quickly. 
+asr:0: OUTPUT 754.17-762.12: Of course all of this has supported good pricing momentum to recover our increasing costs. 
+asr:0: OUTPUT 763.94-767.75: So throughout H1 we've seen good volume growth. 
+asr:0: OUTPUT 768.39-774.27: We've been taking market share. Said previously, the growth at 9.4%. 
+asr:0: OUTPUT 774.65-779.32: The FMCG sector has remained very strong and very robust. 
+asr:0: OUTPUT 779.78-784.56: We have seen a partial recovery in the industrial sector. 
+asr:0: OUTPUT 785.15-789.79: This is a relatively small part of our business, probably around 16%. 
+asr:0: OUTPUT 790.71-797.98: It's suffered by some of our customers having some capacity constraints, but we expect that to come back. 
+asr:0: OUTPUT 798.78-802.48: And with our large customers, we've continued to grow strongly. 
+asr:0: OUTPUT 803.76-812.41: Over the last six months, they've of course been looking for assurance on the security of supply which we can give them. Strong governance. 
+asr:0: OUTPUT 813.15-820.30: But also meeting their needs on innovation and meeting their sustainability objectives. 
+asr:0: OUTPUT 821.78-824.78: And in the US, we've been particularly strong. 
+asr:0: OUTPUT 825.41-832.97: Once again, with our global accounts, being perfectly honest, we could have grown even more strongly in the US. 
+asr:0: OUTPUT 833.65-837.28: If it wasn't for the labour market being so tight. 
+asr:0: OUTPUT 839.48-841.88: Bodies in H2 have started well. 
+asr:0: OUTPUT 842.66-851.37: We have a healthy order book and a number of really exciting opportunities to give us confidence in the outlook for the year. 
+asr:0: OUTPUT 853.15-860.82: DS Smith, we positioned ourselves at the center of three structural growth drivers. 
+asr:0: OUTPUT 860.86-869.33: Digital enablement, a changing retail environment and the whole debate around sustainability and plastic replacement. 
+asr:0: OUTPUT 869.97-879.34: And at COP26 it has further intensified the debate, raised awareness once again of the importance for all of us. 
+asr:0: OUTPUT 880.00-883.30: Of the environmental impact of how we're living. 
+asr:0: OUTPUT 884.08-891.83: Of course it's on carbon where we have a science-based target and a commitment to net zero by 2050. 
+asr:0: OUTPUT 892.51-895.44: But it's also a work on the circular economy. 
+asr:0: OUTPUT 896.04-899.36: About the closed loop, the reuse, the recycling. 
+asr:0: OUTPUT 900.02-903.34: And about plastic replacement at every opportunity. 
+asr:0: OUTPUT 903.64-911.01: And this replacement is being supported by new legislation, which is now has come in. 
+asr:0: OUTPUT 911.13-915.54: And will continue to come across the EU and also in the UK. 
+asr:0: OUTPUT 917.28-926.19: I show here our performance across a whole range of ESG indices over a number of years. 
+asr:0: OUTPUT 926.21-932.05: And you can clearly see constant, good, strong, steady progress. 
+asr:0: OUTPUT 934.05-943.56: And with MSCI, where they have a double A rating that is particularly relevant for shareholders and the providers of capital. 
+asr:0: OUTPUT 944.50-946.97: When we talk to our customers,. 
+asr:0: OUTPUT 946.99-959.10: They remain very interested in the CDP score and they're delighted with our continuing progress there, just reaffirmed this week with a further improvement in our ranking. 
+asr:0: OUTPUT 960.68-966.35: And turn it into some practical examples of sustainability in action. 
+asr:0: OUTPUT 967.31-976.12: The first is around the circular economy, about the recyclability and the actual recycling of packaging. 
+asr:0: OUTPUT 976.86-983.20: As Europe's largest fiber recycler with extensive recycling operations across Europe. 
+asr:0: OUTPUT 983.54-987.57: With 100% recyclable products. 
+asr:0: OUTPUT 987.59-993.95: And our, our approach to a fully closed loop where we collect. 
+asr:0: OUTPUT 993.97-1001.08: Waste product from our customers and convert it into packaging, we're seeing a number of customers. 
+asr:0: OUTPUT 1001.10-1008.85: Awarding new long-term contracts on the basis of a closed loop. 
+asr:0: OUTPUT 1009.71-1013.69: I show here an example with Lathwaite, the wine supplier. 
+asr:0: OUTPUT 1014.61-1020.94: Where we pick up waste from them, we convert it into packaging within 14 days to bring it back to them. 
+asr:0: OUTPUT 1022.64-1026.47: But very importantly, we've just secured. 
+asr:0: OUTPUT 1026.49-1039.84: A significant new contract with a very large customer over many years where our closed loop offering was instrumental to us securing that business. 
+asr:0: OUTPUT 1041.38-1051.17: And of course, in plastic replacement, that new legislation, the new taxation on plastics, combined with consumer awareness. 
+asr:0: OUTPUT 1051.19-1056.10: Is seeing an acceleration in the conversion of plastic to fiber. 
+asr:0: OUTPUT 1056.98-1065.19: So whilst in the whole of the last financial year we replaced 54 million plastic products with fibre products,. 
+asr:0: OUTPUT 1065.97-1070.47: In the first six months of this year, we converted 118 million. 
+asr:0: OUTPUT 1071.05-1075.38: And we expect this rate of change to increase over the coming years. 
+asr:0: OUTPUT 1077.22-1079.88: And we continue to invest behind this growth. 
+asr:0: OUTPUT 1080.50-1086.77: We've seen strong, consistent demand coming to our business. 
+asr:0: OUTPUT 1086.93-1093.35: The structural tailwinds and also our deeper conversations with our customers. 
+asr:0: OUTPUT 1094.11-1098.90: We continue to invest in new technology, new capacity. 
+asr:0: OUTPUT 1099.58-1101.46: Often it's much more efficient. 
+asr:0: OUTPUT 1102.52-1109.93: Carbon neutral providing very attractive returns on capital between 15 and 20 percent. 
+asr:0: OUTPUT 1110.39-1114.11: And as an example of these, we have our two new packaging plants. 
+asr:0: OUTPUT 1115.20-1118.34: Both will be online in H2. 
+asr:0: OUTPUT 1118.98-1126.55: They're both 50% pre-sold and our customers are very excited about these real state-of-the-art facilities. 
+asr:0: OUTPUT 1127.43-1135.22: And of course, we continue to evaluate further opportunities with our customers to support them over the medium term. 
+asr:0: OUTPUT 1136.58-1140.52: When we combine these deep customer relationships. 
+asr:0: OUTPUT 1140.90-1149.11: With the structural tailwinds our market offers and our supply chain and operational capabilities. 
+asr:0: OUTPUT 1149.89-1156.28: We can see good volume growth going forward, increasing productivity and pricing momentum. 
+asr:0: OUTPUT 1156.46-1162.04: And all of this underpins our confidence in achieving our medium-term target. 
+asr:0: OUTPUT 1164.18-1165.19: It was a summary. 
+asr:0: OUTPUT 1165.81-1168.65: We're pleased with the progress in H1. 
+asr:0: OUTPUT 1168.97-1173.27: With rising volumes, our levels of customer service,. 
+asr:0: OUTPUT 1173.43-1179.46: The strength of our supply chain, how that's allowed us to manage our cost base. 
+asr:0: OUTPUT 1179.90-1183.96: And the pricing momentum combined with that strong cash flow. 
+asr:0: OUTPUT 1185.17-1191.77: And looking ahead, we've had a good start to H2, both in volume and pricing momentum. 
+asr:0: OUTPUT 1192.97-1200.42: So in HT we do expect there to be a significant improvement in profitability and strong progress. 
+asr:0: OUTPUT 1200.44-1204.82: Towards achieving all of our medium-term financial targets. 
+asr:0: OUTPUT 1205.63-1211.17: Thank you very much. Myself and Adrian are very happy to take any questions you may have. 
+asr:0: OUTPUT 1215.90-1218.04: Thank you. So if you would like to ask a question... 
+asr:0: OUTPUT 1218.40-1223.62: Make a contribution on today's call please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1224.02-1230.67: You will be advised when to ask your question. We ask that you initially limit each contribution to one question wherever possible. 
+asr:0: OUTPUT 1231.25-1236.24: So as a reminder, if you would like to ask a question, please press star one on your telephone keypad. 
+asr:0: OUTPUT 1242.54-1247.69: So our first question comes from the line of Lars Kjellberg. You're now unmuted. Please go ahead. 
+asr:0: OUTPUT 1249.65-1250.77: Thank you and good morning. 
+asr:0: OUTPUT 1252.03-1261.28: Just a couple of questions. One that stands out, you know, there's been talks about energy surcharges in container board in particular. 
+asr:0: OUTPUT 1261.74-1271.03: So I just wanted to hear your thoughts how you deal with that in the downstream corrugated activity if you can pass such on or if you're even exposed to it. 
+asr:0: OUTPUT 1271.69-1277.48: The other one I just wanted to touch base with you on is sustainable packaging. 
+asr:0: OUTPUT 1278.04-1282.58: I think he said 118 products being replaced this year versus 54. 
+asr:0: OUTPUT 1282.60-1289.33: Last year. Can you give us any sense of what that means in new business for yourself? Thank you. 
+asr:0: OUTPUT 1293.63-1294.83: Thank you. 
+asr:0: OUTPUT 1297.64-1304.22: We have seen some, we've read about some announcements from some suppliers. 
+asr:0: OUTPUT 1304.34-1307.99: Who have put on energy surcharges. 
+asr:0: OUTPUT 1309.95-1315.26: We haven't actually really experienced that ourselves and what our supply chain. 
+asr:0: OUTPUT 1316.42-1319.74: Said we worked with a whole number of. 
+asr:0: OUTPUT 1319.76-1325.91: Papers fast, they tend to be quite long and deep relationships, so we haven't actually seen that. 
+asr:0: OUTPUT 1326.05-1330.97: We have, we understand that some people have done that elsewhere. 
+asr:0: OUTPUT 1331.35-1333.29: Certainly for myself, but we haven't done that. 
+asr:0: OUTPUT 1334.57-1337.90: As I said, we've got extensive hedging in place and I think. 
+asr:0: OUTPUT 1337.94-1345.87: It's not just the heating, it's the other solutions they use, you know, more biomass and different types of energy solution have helped us mitigate that. 
+asr:0: OUTPUT 1346.59-1351.73: But nevertheless, for a variety of reasons, the price of paper has risen very strongly. 
+asr:0: OUTPUT 1352.25-1360.00: You can see in our results we have actually fully mitigated all the increasing costs that we've faced with. 
+asr:0: OUTPUT 1360.64-1366.75: Price increases and we absolutely expect that to continue in the second half. 
+asr:0: OUTPUT 1367.51-1374.59: We've seen obviously November and that's reinforced our confidence in that. 
+asr:0: OUTPUT 1375.70-1382.20: I think in terms of the, if we just look at plastics, the wide environmental debate, you've actually looked at all the. 
+asr:0: OUTPUT 1382.50-1386.19: The renegotiations we've had with many of our customers. 
+asr:0: OUTPUT 1387.45-1391.19: And just monitoring the importance of the environmental issues. 
+asr:0: OUTPUT 1392.17-1395.94: Where they place and the ability to replace plastics is one of them. 
+asr:0: OUTPUT 1397.10-1404.42: Go back a few years you've monitored for quite a long time you go back a few years it was just one of the issues but now it's right up there it's uh. 
+asr:0: OUTPUT 1404.98-1412.89: Often it's the first thing that they want to talk about, they want to discuss about that long-term innovation. How can we take plastic out? 
+asr:0: OUTPUT 1413.17-1414.55: What an opportunity! 
+asr:0: OUTPUT 1414.91-1417.06: How can we improve our environmental footprint. 
+asr:0: OUTPUT 1417.42-1426.43: As you know, we have our design metrics, which we use with all our customers that really show them the environmental impact of their product. 
+asr:0: OUTPUT 1426.45-1431.43: How we're performing there. I think that's really taken now as an industry standard. 
+asr:0: OUTPUT 1432.61-1434.99: So it's becoming much more important. 
+asr:0: OUTPUT 1435.26-1443.38: We put the plastic there because there's been an example of a plastic place in the 180 million. 
+asr:0: OUTPUT 1444.00-1451.59: To date we've been monitoring over the last. 
+asr:0: OUTPUT 1452.27-1461.00: Couple of years and that's probably over that period, maybe getting about, it's probably less than 1% in terms of our revenue. 
+asr:0: OUTPUT 1461.78-1470.25: But I think in terms of what we feel quite excited about is it's just part of that overall debate, but the rate of increase. 
+asr:0: OUTPUT 1471.35-1477.76: 54 million units last year, 118 million in the first six months. 
+asr:0: OUTPUT 1478.10-1481.40: And we know the effect of the legislation that's coming on. 
+asr:0: OUTPUT 1481.88-1488.47: We know this taxation on plastics, I said we don't produce plastic products so we don't have any conflict in our business on this. 
+asr:0: OUTPUT 1490.17-1496.74: We can see what our customers are saying to us and we expect that rate of increase to continue to grow. 
+asr:0: OUTPUT 1497.20-1502.94: And let's see where it gets to, but it's just another one of those tailwinds that are there. 
+asr:0: OUTPUT 1503.82-1505.17: But thank you for your question. 
+asr:0: OUTPUT 1508.23-1515.06: So our next question comes from the line of Cole Haythorn from Jeffreys. You're now unmuted. Please go ahead. 
+asr:0: OUTPUT 1516.96-1518.68: My name is Tony Miles, money editor, and thanks for taking my question. 
+asr:0: OUTPUT 1519.62-1525.75: Scott, the first is on demand trends. I mean, you've talked about the second half starting well. 
+asr:0: OUTPUT 1526.75-1533.41: Can I just start thinking about how this progresses? You do have tougher comps. 
+asr:0: OUTPUT 1533.63-1539.76: Are you kind of looking at that kind of demand trend? Yes, you'll have tougher comps, so your volume growth will obviously slow, but... 
+asr:0: OUTPUT 1539.78-1550.79: Demand is staying at a high level and you're talking a little bit about industrial recovery. So I'm just wanting to understand how you think about that volume progression through the year and into next year. 
+asr:0: OUTPUT 1551.35-1554.37: And then secondly on the north america division. 
+asr:0: OUTPUT 1554.45-1562.02: You talked about good recovery there and there is recovery but export prices in the US have been really strong. 
+asr:0: OUTPUT 1562.94-1570.99: Will that benefit be seen in the second half results for your business, for your export pricing as that really starts to be realized? 
+asr:0: OUTPUT 1571.27-1578.98: And you see that recovery in that North America division. How should we see the second half phasing of the North America division? Thank you. 
+asr:0: OUTPUT 1581.16-1584.74: Thank you, Colin. In the demand. 
+asr:0: OUTPUT 1585.43-1591.29: Absolutely right. We have a much stronger, tougher comparative in the second half of last year. 
+asr:0: OUTPUT 1591.33-1596.74: I think we had 8.4% I think we grew in the second half of last year. 
+asr:0: OUTPUT 1597.52-1599.34: 3.5% over the full year. 
+asr:0: OUTPUT 1601.46-1608.47: But nevertheless, the demand, it remains strong. We remain very busy. 
+asr:0: OUTPUT 1609.15-1617.58: We've obviously got the lead up to Christmas at the moment and e-commerce continues to move ahead very well. 
+asr:0: OUTPUT 1619.34-1625.79: The outlook when we look over the second half, we've got a number of new contracts. 
+asr:0: OUTPUT 1626.89-1630.19: The whole environmental debate continues. 
+asr:0: OUTPUT 1630.21-1637.26: We actually see the absolute level of demand, our forward order book is. 
+asr:0: OUTPUT 1637.28-1640.54: Is strong. It's. 
+asr:0: OUTPUT 1640.58-1642.68: It's strong, it's very encouraging. 
+asr:0: OUTPUT 1643.50-1650.39: We have these two new sites coming on and we are really looking forward to them coming on. 
+asr:0: OUTPUT 1650.75-1660.00: They're 50% pre-sold, they're all on track. And I think the rest of their capacity could be... 
+asr:0: OUTPUT 1660.16-1664.44: Be taken probably a little bit earlier than we originally planned. 
+asr:0: OUTPUT 1664.72-1665.85: So if you'd like to. 
+asr:0: OUTPUT 1666.09-1668.09: It does look good. 
+asr:0: OUTPUT 1668.13-1677.62: And that looks set to continue to next year. Now obviously the whole economy is uncertain and what's going to happen and all of these things so. 
+asr:0: OUTPUT 1677.80-1680.34: We can't give exact numbers but. 
+asr:0: OUTPUT 1681.02-1686.13: It does feel to continue to be strong. 
+asr:0: OUTPUT 1687.65-1690.73: You're absolutely right. In North America, export prices have been strong. 
+asr:0: OUTPUT 1690.87-1699.20: The amount that we export has reduced quite significantly since we opened up the new Lebanon facility. 
+asr:0: OUTPUT 1700.36-1705.33: That continues to grind very nicely. It's doing very well. 
+asr:0: OUTPUT 1706.47-1709.67: We are we're much less exposed to those export prices. 
+asr:0: OUTPUT 1710.47-1715.52: But nevertheless, domestic pricing in the US has also been strong. 
+asr:0: OUTPUT 1716.24-1720.14: The price recovery has been very good. 
+asr:0: OUTPUT 1721.22-1729.27: But we'll see more of the effect of this, I think as Adrian spoke about, we'll see more of the effect of this in the second half. 
+asr:0: OUTPUT 1730.39-1739.82: The outlook for North America in the second half is we're going to see further ongoing improvements in that business. 
+asr:0: OUTPUT 1740.34-1745.91: Also the first half, again as Adrian said, we did have a shut and a big paper mill there. 
+asr:0: OUTPUT 1747.33-1748.47: But... 
+asr:0: OUTPUT 1748.51-1757.70: Which won't happen in the second half, so we should see further good progress there, volume, pricing and we won't have this paper mill shut. 
+asr:0: OUTPUT 1757.84-1759.04: Plan maintenance shop. 
+asr:0: OUTPUT 1759.46-1760.68: But thank you, Cole. Thank you. 
+asr:0: OUTPUT 1762.88-1768.91: So our next question comes from the line of Sam Bland from JP Morgan. Sam, you are now unmuted, please go ahead. 
+asr:0: OUTPUT 1770.07-1773.37: Oh, thanks and good morning. I've got two questions if I can please. 
+asr:0: OUTPUT 1774.11-1781.18: The first one is, can you talk about what proportion of volume is on indexed or contracted prices? 
+asr:0: OUTPUT 1782.12-1786.81: And hasn't yet really seen an increase yet following the recent rise in paper prices. 
+asr:0: OUTPUT 1788.01-1791.47: The second question is, I guess you're now below your leverage target. 
+asr:0: OUTPUT 1792.25-1795.30: Probably move further below as profitability rises going forwards. 
+asr:0: OUTPUT 1795.66-1803.12: What are the options? Does it keep on delivering a bit further for now or are there other things you can do with the cash basically? 
+asr:0: OUTPUT 1803.76-1811.33: Thank you. 
+asr:0: OUTPUT 1812.07-1813.21: You're absolutely right. 
+asr:0: OUTPUT 1813.49-1819.10: We've got the index deals, these are working on averages, it could be the last three months. 
+asr:0: OUTPUT 1819.76-1826.47: They do tend to take a little bit and therefore a little bit longer to come through than are freely negotiated. 
+asr:0: OUTPUT 1827.81-1831.61: At the moment, we are running at about... 
+asr:0: OUTPUT 1831.63-1839.58: Between 45 and 50% of our contracts are on indexed. 
+asr:0: OUTPUT 1840.00-1841.90: Are on indexed deals. 
+asr:0: OUTPUT 1842.56-1846.89: And sort of 50 to 55 percent are on freely negotiated. 
+asr:0: OUTPUT 1847.65-1854.81: There are key index points. 
+asr:0: OUTPUT 1855.62-1862.66: The 1st of January and you're absolutely right we would expect to see, we certainly do expect to. 
+asr:0: OUTPUT 1862.74-1872.27: A further very good automatic recovery of the paper price increases that really have come through over. 
+asr:0: OUTPUT 1872.29-1876.16: October, November and December. 
+asr:0: OUTPUT 1876.30-1877.90: And they are quite considerable. 
+asr:0: OUTPUT 1878.34-1879.90: So that they will come through there. 
+asr:0: OUTPUT 1880.36-1882.38: As they have been doing in the first half. 
+asr:0: OUTPUT 1882.84-1883.90: Agent on the leverage. 
+asr:0: OUTPUT 1884.62-1893.59: Yes, I think so. On leverage, you're right. We're pleased it's now below our target level. And as you rightly say, mathematically, if you look forward,. 
+asr:0: OUTPUT 1894.25-1896.54: You know, one easily expects to see further improvement. 
+asr:0: OUTPUT 1897.98-1901.42: But it is just below our target now. 
+asr:0: OUTPUT 1902.36-1904.66: We're very encouraged with the forecast. 
+asr:0: OUTPUT 1905.73-1914.07: But we're making two very, very big capital projects that come online, as Miles described, in the second half. 
+asr:0: OUTPUT 1914.13-1916.44: The Polish greenfield. 
+asr:0: OUTPUT 1916.92-1920.66: And the Italian greenfield, these two huge state-of-the-art facilities. 
+asr:0: OUTPUT 1921.52-1925.79: Chasing organic growth there very well, very good returns. 
+asr:0: OUTPUT 1927.35-1931.13: And we continue to look at opportunities going forward as you'd expect. 
+asr:0: OUTPUT 1931.29-1932.37: Clearly. 
+asr:0: OUTPUT 1932.43-1941.56: We've got a limited number of choices. We can invest behind growth capital to deliver ahead of our target return on capital. 
+asr:0: OUTPUT 1942.82-1945.95: We can continue to do leverage or we can return capital. 
+asr:0: OUTPUT 1946.11-1952.69: They're effectively the options and as you would expect, you know, Mars and myself and the board are. 
+asr:0: OUTPUT 1952.77-1959.68: Evaluating that very carefully and likewise, you know, we're having ongoing discussions with shareholders about what the expectations are. 
+asr:0: OUTPUT 1960.02-1967.33: But whilst there are good organic opportunities that give us those significant returns, then clearly we're looking at those too. 
+asr:0: OUTPUT 1974.73-1983.76: Comes from the line of Brian Morgan at Morgan Stanley. You're now unmuted, please go ahead. Hi, good morning, thanks very much for the call. 
+asr:0: OUTPUT 1984.88-1994.69: The sense that we get is that container board markets are very, very tight at the moment. I just wanted to get a sense of your net short position. 
+asr:0: OUTPUT 1994.81-2004.16: Are you struggling in any particular grid to get paper at the moment? Are there grids where you're quite short or potential regions? 
+asr:0: OUTPUT 2004.58-2006.39: Where you are, Shorten Pepper, at the moment. 
+asr:0: OUTPUT 2009.43-2010.91: We. 
+asr:0: OUTPUT 2011.37-2013.63: We do have a short pay position. 
+asr:0: OUTPUT 2013.83-2023.16: And that's really looking at all that capacity, that independent paper capacity in Germany. 
+asr:0: OUTPUT 2023.18-2032.25: That keeps on coming online. In fact, there's some more capacities just opening now and rather than us investing in and around that region,. 
+asr:0: OUTPUT 2032.83-2038.62: We prefer to buy the paper. We don't think the returns on those assets are. 
+asr:0: OUTPUT 2040.00-2042.06: Are attractive for our shareholders. 
+asr:0: OUTPUT 2042.78-2046.39: But we don't do this lightheartedly. 
+asr:0: OUTPUT 2047.43-2053.33: We enter into long-term supply agreements with many of those large independent paper producers. 
+asr:0: OUTPUT 2053.97-2060.16: And quite a bit of a new capacity that's coming online and has been announced will come online. 
+asr:0: OUTPUT 2060.60-2067.95: We entered into arrangements with those suppliers over the last one, two, three years to take the paper that they're producing. 
+asr:0: OUTPUT 2068.85-2074.05: So by and large, we haven't had any paper. 
+asr:0: OUTPUT 2074.07-2079.78: Supply issues. What's been more of an issue has been on the logistics side. 
+asr:0: OUTPUT 2081.24-2091.01: Paper that we need, just making sure that we can move it around. And inevitably, there have been some logistics issues around the very short term. 
+asr:0: OUTPUT 2091.17-2095.54: We've got our own in-house fleet of vehicles. We've been able to... 
+asr:0: OUTPUT 2095.56-2102.16: Utilize those, making sure we're able to keep our level of service high to our customers. 
+asr:0: OUTPUT 2103.48-2106.01: So no real issues. 
+asr:0: OUTPUT 2106.69-2113.17: No, no, not particularly, not particularly, no, but thank you. 
+asr:0: OUTPUT 2115.24-2120.28: Our next question comes from the line of David O'Brien at Goodbye. You're now unmuted. Please go ahead. 
+asr:0: OUTPUT 2121.62-2126.75: Good morning guys, thanks for taking my questions. 
+asr:0: OUTPUT 2127.15-2135.34: I guess you mentioned, Miles, in the commentary that sustainability is up the criteria list when discussing contracts with customers. 
+asr:0: OUTPUT 2135.56-2137.02: I suppose firstly,. 
+asr:0: OUTPUT 2137.04-2146.31: Is that allowing you to achieve or do you think it will allow you to achieve a price premium in the near term which is something over the years that the industry has struggled to. 
+asr:0: OUTPUT 2146.33-2147.79: To really achieve. 
+asr:0: OUTPUT 2147.91-2150.73: I guess you also touched on one of the contracts being. 
+asr:0: OUTPUT 2150.75-2152.03: Very long term. 
+asr:0: OUTPUT 2152.41-2159.66: Maybe you could comment on what is happening to duration of contracts as we evolve to look at more value-add offering to customers. 
+asr:0: OUTPUT 2160.34-2166.79: Secondly, how do we think about the carbon or how do you think about the carbon intensity of your business? 
+asr:0: OUTPUT 2167.33-2170.67: And particularly when we think about recycled container boards. 
+asr:0: OUTPUT 2170.81-2180.62: Do you have a carbon intensity per tonne average true to system at the moment and a target for where you want to get in five or ten years? 
+asr:0: OUTPUT 2180.68-2182.80: And what are the key levers to kind of get you there. 
+asr:0: OUTPUT 2185.23-2195.02: Two very important questions. On the sustainability. 
+asr:0: OUTPUT 2196.56-2202.24: If you look in the graph that Adrian put up about the price on the EBITDA bridge,. 
+asr:0: OUTPUT 2203.28-2210.13: And you can see the raw material cost increase and actually slightly over recover them and it's called price mix. 
+asr:0: OUTPUT 2213.99-2220.00: We're able to pass on our increasing prices. 
+asr:0: OUTPUT 2221.16-2230.27: And if we actually look at the profitability in terms of the cents per unit,. 
+asr:0: OUTPUT 2230.29-2231.55: Square meter. 
+asr:0: OUTPUT 2232.05-2240.00: It's for the more sustainable products. 
+asr:0: OUTPUT 2240.22-2241.62: There's more engineering in them. 
+asr:0: OUTPUT 2242.72-2244.08: Then it's certainly better. 
+asr:0: OUTPUT 2245.73-2250.45: I think it's up to us to keep on. 
+asr:0: OUTPUT 2250.51-2256.06: Reinforcing and explaining about the embedded value of it and ultimately. 
+asr:0: OUTPUT 2256.48-2261.32: It's about our customer making that case to the consumer. 
+asr:0: OUTPUT 2262.36-2272.03: Where we see customers who are able to make that connection with the consumer about the full environmental credential of their product,. 
+asr:0: OUTPUT 2272.05-2274.13: Then there is clearly a premium. 
+asr:0: OUTPUT 2275.82-2282.36: This needs to be explained, it needs to be there needs to be more marketing of this and where it works it works well. 
+asr:0: OUTPUT 2283.98-2289.85: But there's clearly more work to do, and I do think it will become a little bit more polarised over the coming years. 
+asr:0: OUTPUT 2290.77-2295.80: You are claiming these credentials and there are consumer groups who will pay that premium. 
+asr:0: OUTPUT 2296.44-2301.00: And I think there'll be some others, but it's moving in the right direction. 
+asr:0: OUTPUT 2301.90-2310.57: Certainly in the short term, I was very pleased with the price recovery and the stickiness of customers where we have those solutions. 
+asr:0: OUTPUT 2312.03-2318.22: And therefore our ability to price fairly, that's worked well. 
+asr:0: OUTPUT 2319.26-2323.64: You're absolutely right on the carbon intensity. You've got science-based targets. 
+asr:0: OUTPUT 2324.94-2333.91: We have to reduce our carbon per tonne by 2050 by well over 90%. 
+asr:0: OUTPUT 2335.10-2337.78: That's the criteria. 
+asr:0: OUTPUT 2338.84-2344.34: We have made huge progress over the last 10, 15 years. 
+asr:0: OUTPUT 2345.25-2348.75: But we do have an interim target in 2030. 
+asr:0: OUTPUT 2349.49-2356.70: Where we need to reduce the carbon intensity per tonne by well over 40%. 
+asr:0: OUTPUT 2357.50-2360.36: And we're absolutely on track to do that. 
+asr:0: OUTPUT 2361.40-2372.93: Much of the way we're solving that problem actually ties in with some essential replacement of various power solutions and heat and energy solutions that we currently have. 
+asr:0: OUTPUT 2372.95-2377.08: They're tied into the existing replacement program. 
+asr:0: OUTPUT 2377.64-2382.16: But obviously those new facilities have to be far more efficient. 
+asr:0: OUTPUT 2383.26-2387.85: And they also have to use some new technology. 
+asr:0: OUTPUT 2388.87-2394.71: So there's more about waste to energy, there's more about biomass, there's more about biogas. 
+asr:0: OUTPUT 2395.60-2403.34: We're using known technology, again with good supply chains for the energy source. 
+asr:0: OUTPUT 2404.84-2411.83: And I think we are going to get to 2030 with those targets. We're actually discussing another day again in detail. 
+asr:0: OUTPUT 2413.87-2420.00: We're on track to achieve them at. 
+asr:0: OUTPUT 2420.16-2427.31: At a fair cost, we're not going to see some sort of explosion in capital expenditure here. 
+asr:0: OUTPUT 2427.53-2433.23: Simply as so much is tied into essential replacement anyway and often we get government grants. 
+asr:0: OUTPUT 2433.29-2436.30: And supports to do that. 
+asr:0: OUTPUT 2437.30-2441.96: What we have to do and we've got a very good plan for it. Thank you. Thank you for your questions. 
+asr:0: OUTPUT 2444.16-2450.39: The next question comes from the line of Justin Jordan at B&P Paribas exam. You're now unmuted, please go ahead. 
+asr:0: OUTPUT 2451.69-2456.26: Thank you. Good morning everyone. Gentlemen, I've got a question regarding DSMIS's wallpaper strategy. 
+asr:0: OUTPUT 2457.00-2462.26: In recent days, I've spoken with several of your leading channels, many of whom are delighted to be on the call with you today. 
+asr:0: OUTPUT 2463.06-2468.49: I'll do the diplomatic, you know, in saying you shall just feel somewhat confused. 
+asr:0: OUTPUT 2468.93-2473.71: You shall lose her solar vision that this miss short paper strategy would deliver both. 
+asr:0: OUTPUT 2473.73-2482.78: First, we see returns and secondly, less volatile returns than your more virtual peers such as Smurf or Capra, Mondi in Europe or International Bank from Westrock. 
+asr:0: OUTPUT 2482.80-2483.80: In the US. 
+asr:0: OUTPUT 2484.70-2487.77: Sadly, the factual reality has proved very different to that. 
+asr:0: OUTPUT 2487.85-2496.52: You know personally this morning you're reporting sequentially declining even margins which were 8.8% in the six months to April 21. 
+asr:0: OUTPUT 2496.54-2499.92: And declined to 8.2% in the six-months to October 21. 
+asr:0: OUTPUT 2500.38-2508.95: A period where you're more versatile and integrated peers such as Merck, Acappa and Mondi have both supported sequentially improving margins because they've got less cost inflation. 
+asr:0: OUTPUT 2509.25-2511.77: You're virtually integrated. You're not. You're short paper. 
+asr:0: OUTPUT 2512.47-2519.46: Now sadly this is not a one-off event over the last six months. The factual reality is that each of the last five years. 
+asr:0: OUTPUT 2519.48-2527.55: The SMEs, EBIT margins, and return on capital employed have been consistently lower and consistently more volatile than your vertically-directed peers. 
+asr:0: OUTPUT 2528.09-2533.35: So my question is, can you please explain to your shareholders, particularly those on the call with us today,. 
+asr:0: OUTPUT 2533.69-2539.94: Why does the DSMIT board persist with this short paper strategy which is condemning your shareholders to endure. 
+asr:0: OUTPUT 2539.96-2547.53: Firstly, lower returns and more importantly, more volatile returns than your vertically integrated sector peers such as Murphy, Kaplan, and Mondi. 
+asr:0: OUTPUT 2549.23-2551.09: Justin, thanks for the question. 
+asr:0: OUTPUT 2553.49-2561.40: The first thing I would say is that's not the feedback we get, but fine. I mean, if you've got it, good. 
+asr:0: OUTPUT 2561.96-2567.81: The reality is, we've set out and we've been very clear, our primary target is return on capital employed. 
+asr:0: OUTPUT 2568.17-2577.66: We've made a couple of very significant acquisitions, which are ahead of those acquisitions or at a point we announced them, we described the dilutive effect of return on capital employed. 
+asr:0: OUTPUT 2578.02-2580.80: We're now seeing those returning to our targets. 
+asr:0: OUTPUT 2581.48-2587.15: With respect to margins, that's exactly what I set out in our presentation. 
+asr:0: OUTPUT 2587.53-2595.84: Our margins will mathematically be diluted as we recover costs. 
+asr:0: OUTPUT 2596.20-2603.62: And then as our rate of price recovery exceeds that level inflation, they become accretive back to our target again. 
+asr:0: OUTPUT 2604.02-2605.25: So there's no issue there. 
+asr:0: OUTPUT 2605.53-2614.37: In terms of short or long paper, we've described before, it's about the amount of capital employed that we want to have in paper manufacturing. 
+asr:0: OUTPUT 2614.93-2616.80: If we buy in or if we make it. 
+asr:0: OUTPUT 2616.88-2621.90: We're no different to a comparable competitor. 
+asr:0: OUTPUT 2621.98-2628.65: That's fully integrated because you will still have the input cost of OCC and energy. 
+asr:0: OUTPUT 2628.97-2634.53: Unless of course, there's super benefits to be made out of recycled paper at the moment. 
+asr:0: OUTPUT 2634.81-2642.44: What we've seen is actually the opposite of that. The added value on recycled paper being compressed, obviously that's different on kraft liner. 
+asr:0: OUTPUT 2643.16-2646.69: The other point I'd say is I don't see a comparative. 
+asr:0: OUTPUT 2646.77-2649.81: I mean, one of the companies you described is a long paper company. 
+asr:0: OUTPUT 2650.03-2659.28: So of course, when paper prices are rising, they'll make a better margin. Likewise, they'll make a much reduced margin when it's falling. 
+asr:0: OUTPUT 2660.04-2664.84: The other one you described has a number of similarities, but also has a significant plastics business. 
+asr:0: OUTPUT 2665.15-2674.33: We don't split out, we don't see what those different moving parts are. So all I can describe is our business, our strategy. 
+asr:0: OUTPUT 2674.51-2682.62: We've been very clear about it. We believe it's the right one. We want to deploy capital where it's adding the most value and we're going to get the best return out of it. 
+asr:0: OUTPUT 2683.10-2685.49: Historically, that's been through some significant. 
+asr:0: OUTPUT 2687.25-2694.53: Acquisitions which have had goodwill attached to strip the goodwill out you obviously you can work out different different results, too So we're quite comfortable with that. 
+asr:0: OUTPUT 2694.87-2697.68: We've confirmed our medium-term target. 
+asr:0: OUTPUT 2697.96-2701.80: We can see the bridges to those, but I appreciate the question. Thanks. 
+asr:0: OUTPUT 2705.25-2710.73: So our next question comes from the line of Harry Phillips from Peel Hunt. You're now unmuted, please go ahead. 
+asr:0: OUTPUT 2712.39-2713.41: Good morning everyone. 
+asr:0: OUTPUT 2713.81-2718.52: Just a quick question on your top line growth target. 
+asr:0: OUTPUT 2718.54-2724.30: Flicking back through history, you've had GDP plus 1% for a decade now. 
+asr:0: OUTPUT 2724.82-2733.71: And you alluded to the plastics getting towards 1% in terms of substitution. E-commerce is. 
+asr:0: OUTPUT 2735.34-2742.40: I just wonder what point do you sort of think that target is too conservative and you might think about. 
+asr:0: OUTPUT 2742.42-2745.53: Nugging that up a little bit. 
+asr:0: OUTPUT 2748.99-2756.44: Harry, it's a question and a challenge that we have been giving a lot of thought to. 
+asr:0: OUTPUT 2757.74-2759.62: There's clearly been a disconnect. 
+asr:0: OUTPUT 2759.78-2767.05: Between our business and GDP. If you look at last year, our volumes grew 3.5% at a time when. 
+asr:0: OUTPUT 2767.09-2771.99: GDP across our markets was heavily negative. 
+asr:0: OUTPUT 2773.21-2777.10: Sitting here today, we continue to see good, strong growth. 
+asr:0: OUTPUT 2777.78-2785.55: Our challenge is more about is it more of an absolute level. It's quite clear in the median term. 
+asr:0: OUTPUT 2786.15-2792.99: With those drivers we've spoken about, we should expect growth to be higher than it has been in the past. 
+asr:0: OUTPUT 2794.73-2802.46: We can see that in our customers, we can see the way they're talking to, we can see how we've taken share, we can see how we've taken share within our existing customers. 
+asr:0: OUTPUT 2802.70-2806.41: We can see the length and the duration of the contracts that we are with them. 
+asr:0: OUTPUT 2807.11-2808.45: Shall we feel quite positive. 
+asr:0: OUTPUT 2809.75-2819.24: The thing that holds us back a little bit is just like any, it's just an uncertain environment. 
+asr:0: OUTPUT 2821.58-2828.19: But what we can see is good growth going forward. Maybe it's at a more sort of absolute level. 
+asr:0: OUTPUT 2828.51-2838.18: Maybe we're sort of decoupling a bit from GDP as we get so much more on the FMCG and those tailwinds that we've spoken about. 
+asr:0: OUTPUT 2838.80-2840.48: But we do actually look at it. 
+asr:0: OUTPUT 2840.64-2850.63: And when we're ready, we'll come back and we'll look at that target again. 
+asr:0: OUTPUT 2851.43-2852.49: Certainly something that we. 
+asr:0: OUTPUT 2854.71-2863.00: That we look at going forward. Yeah, yeah, yeah. We'll come back on the medium-term target. Thank you. 
+asr:0: OUTPUT 2864.74-2870.59: So our final question comes from the line of Cole Hathorn from Jeffreys. You're now unmuted. Please go ahead. 
+asr:0: OUTPUT 2879.12-2880.84: Hi Cole, are you on mute locally? 
+asr:0: OUTPUT 2887.41-2892.23: Miles, it seems that we've lost Cole, so I'll just turn it back to you for any closing remarks. 
+asr:0: OUTPUT 2893.57-2898.74: Thank you everybody for your time listening to us this morning. We're very grateful for that. 
+asr:0: OUTPUT 2899.04-2904.86: But just as a summary, we're pleased with the volume growth, we're pleased with the price momentum. 
+asr:0: OUTPUT 2905.51-2909.29: North America is coming strongly. The balance sheet is in good condition. 
+asr:0: OUTPUT 2909.59-2915.98: And just looking into the second half as I said we expect to see a significant improvement in profitability. 
+asr:0: OUTPUT 2916.62-2922.16: And a significant move back towards our medium-term targets. But thank you again. 
+asr:0: OUTPUT 2924.36-2930.01: Thank you for joining today's call. You may now disconnect your lines. Hosts, please stay on the line and await further instruction. 
+asr:0: END

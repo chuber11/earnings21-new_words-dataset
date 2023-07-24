@@ -1,0 +1,571 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.18-2.90: Please stand by, we're about to begin. 
+asr:0: OUTPUT 4.42-11.43: Good day and welcome to the Allied Properties REIT fourth quarter 2021 earnings conference call. Today's conference is being recorded. 
+asr:0: OUTPUT 12.01-18.64: At this time, I would like to turn the conference over to Mr. Michael Emory, President and Chief Executive Officer. Please go ahead, Mr. Emory. 
+asr:0: OUTPUT 19.38-24.36: Thank you, Jess. Good morning, everyone, and welcome to our conference call. 
+asr:0: OUTPUT 24.86-33.51: Tom, Cecilia, and Hugh are here with me to discuss Allied's results for the fourth quarter and year-ended December 31st. 
+asr:0: OUTPUT 33.53-34.95: 2021. 
+asr:0: OUTPUT 35.72-43.02: We may in the course of this conference call make forward-looking statements about future events or future performance. 
+asr:0: OUTPUT 43.60-53.21: These statements by their nature are subject to risks and uncertainties that may cause actual events or results to differ materially. 
+asr:0: OUTPUT 53.73-58.92: Including those risks described under the heading risks and uncertainties. 
+asr:0: OUTPUT 58.94-65.17: In our most recently filed AIF and in our most recent quarterly report. 
+asr:0: OUTPUT 66.49-71.25: Material assumptions that underpin any forward-looking statements we make. 
+asr:0: OUTPUT 71.27-78.86: Include those assumptions described under forward-looking disclaimer in our most recent quarterly report. 
+asr:0: OUTPUT 81.18-89.33: By way of overview, 2021 was a strong year operationally and financially for Allied. 
+asr:0: OUTPUT 89.95-100.26: FFO per unit came in at $2.405 and AFFO per unit at $2.09. 
+asr:0: OUTPUT 100.64-109.39: In both cases at record levels and at the high end of the range contemplated in our internal forecast. 
+asr:0: OUTPUT 110.35-114.21: Leasing activity exceeded our expectations for the year. 
+asr:0: OUTPUT 114.23-122.28: With the result that our average in-place net rent per occupied square foot rose in all four quarters. 
+asr:0: OUTPUT 122.30-133.31: Finishing at $24.64 in the fourth quarter compared to $23.88 in the comparable quarter last year. 
+asr:0: OUTPUT 134.67-144.66: Cecilia will summarize our financial results and speak about the ongoing augmentation of our financial and ESG reporting. 
+asr:0: OUTPUT 145.63-150.01: Tom will follow with an overview of leasing and operations. 
+asr:0: OUTPUT 150.57-159.88: Hugh will provide a development update, and I'll finish with our current thinking about the future. So now, over to Cecilia. 
+asr:0: OUTPUT 161.00-168.57: Good morning. I'll touch on our balance sheet, internal forecast, and ESG. First, our balance sheet. 
+asr:0: OUTPUT 169.31-179.10: As you know, we flexed our balance sheet over the past two years to take advantage of acquisition opportunities that would not have been available to us in a normal environment. 
+asr:0: OUTPUT 180.12-190.51: Our confidence in doing so was bolstered by the fact that our current developments will increase our EBITDA by approximately $80 million annually in the next few years. 
+asr:0: OUTPUT 191.59-201.20: That said, we're not prepared to flex our balance sheet further and have begun the process of getting our net debt to EBITDA back to our target range. 
+asr:0: OUTPUT 202.42-205.99: Are recently established at the market program will be helpful. 
+asr:0: OUTPUT 206.71-214.77: We test-ran it in Q4, raising $30 million of equity at a weighted average price of $44.05. 
+asr:0: OUTPUT 215.78-225.05: Also helpful will be our development completions starting to become economically productive later this year and into 2023 and 2024. 
+asr:0: OUTPUT 226.13-232.81: Their contribution to earnings combined with discretionary use of the ATM program. 
+asr:0: OUTPUT 232.83-237.64: Will effectively allow us to more actively manage towards our targeted debt metrics. 
+asr:0: OUTPUT 239.52-241.18: Onto our internal forecast. 
+asr:0: OUTPUT 241.86-250.55: We expect low to mid single-digit growth in each of FFO per unit, AFFO per unit, and same-mass NOI in 2022. 
+asr:0: OUTPUT 251.25-258.96: Consistent with previous internal forecasts, we've assumed no new acquisitions and using debt to finance all activity. 
+asr:0: OUTPUT 259.40-261.38: Both of which are highly unlikely. 
+asr:0: OUTPUT 262.48-267.47: Growth in FFO and AFFO per unit will be the result of development completion. 
+asr:0: OUTPUT 267.69-276.24: A full year of acquisitions completed in 2021, rent growth, and occupancy growth to 94% later this year. 
+asr:0: OUTPUT 277.22-285.79: As with all our development projects on completion, the financial impact is moderated by the simultaneous decapitalization of costs. 
+asr:0: OUTPUT 285.81-290.51: Resulting in the full impact not being realized for 12 to 24 months. 
+asr:0: OUTPUT 291.69-299.00: Development completions are expected to contribute an incremental $0.06 to FFO per unit in 2022. 
+asr:0: OUTPUT 299.48-303.48: Net of $1 million less in capitalization of costs. 
+asr:0: OUTPUT 304.22-311.47: This is primarily from economic occupancy commencing at the well, Duncan and Adelaide, and Bright Hop Phase 3. 
+asr:0: OUTPUT 313.15-322.04: Same-mass NOI growth will be the result of occupancy and rent growth in Toronto, Montreal, Vancouver and our UDC portfolio. 
+asr:0: OUTPUT 322.68-325.83: Parking is assumed to return to pre-pandemic levels. 
+asr:0: OUTPUT 326.69-333.77: Straight-line rent on the total portfolio is expected to almost triple in 2022 from 2021 levels. 
+asr:0: OUTPUT 334.19-338.22: As turnover vacancy is addressed in the latter half of 2022. 
+asr:0: OUTPUT 339.34-346.99: This sets us up for a strong 2023 when economic productivity from development completion continues to grow. 
+asr:0: OUTPUT 347.83-353.97: Development completions are expected to contribute an incremental $0.14 of FFO per unit. 
+asr:0: OUTPUT 353.99-357.86: Net of $16 million less in capitalized costs. 
+asr:0: OUTPUT 358.60-365.63: This would be primarily from the Well, Duncan and Adelaide, Bright Hop Phase 3, and QRC Phase 2. 
+asr:0: OUTPUT 366.35-371.73: Combined with a full year of the acquisitions expected to close in Q3 of 2022,. 
+asr:0: OUTPUT 371.81-380.52: And economic occupancy from leasing activity completed in the rental portfolio in the latter half of 2022. 
+asr:0: OUTPUT 380.94-390.69: Our current internal estimates are for growth in the mid to high range of FFO per unit, AFFO per unit, and same-asset NOI in 2023. 
+asr:0: OUTPUT 392.15-393.49: Now to ESG. 
+asr:0: OUTPUT 394.41-398.26: We continue to advance our ESG program in 2022. 
+asr:0: OUTPUT 398.96-409.37: Last year, we set an inaugural greenhouse gas intensity target and a long-term goal of achieving net zero for all new developments or major redevelopments. 
+asr:0: OUTPUT 410.81-421.40: This year, we will be evaluating our possible pathways to net zero and preparing our team members and relevant partners for implementation of our decarbonization roadmap. 
+asr:0: OUTPUT 422.28-430.87: We are committed to evaluating climate risk across the business and will be undertaking a climate scenario analysis in the first quarter. 
+asr:0: OUTPUT 431.55-437.06: You can expect our third annual ESG report to be released by July of this year. 
+asr:0: OUTPUT 437.08-445.41: Including disclosure of our performance against the Task Force on Climate-Related Financial Disclosures, or TCFD, recommendations. 
+asr:0: OUTPUT 446.55-450.87: I'll now pass it to Tom for a discussion of our operating and leasing results. 
+asr:0: OUTPUT 452.55-462.02: Thank you, Cecilia. By any measure, 2021 was an excellent year of leasing at Allied. Q4 was particularly strong. 
+asr:0: OUTPUT 462.92-473.67: Over the course of 2021, we bolstered our leasing team by adding three leasing managers, bringing our in-house leasing and lease documentation team to 31 employees. 
+asr:0: OUTPUT 474.73-483.04: The team conducted over 1,000 physical tours in the portfolio over the 12 months, just about doubling the number of tours in 2020. 
+asr:0: OUTPUT 484.92-491.21: 146 deals were completed in Q4, totaling just under a million square feet. 
+asr:0: OUTPUT 491.27-496.04: And 400 deals were completed for the year, totaling 2.4 million square feet. 
+asr:0: OUTPUT 497.16-505.91: Average net rents achieved on renewals or replacements in 2021 were 20.6% higher than average rents in the expiring term. 
+asr:0: OUTPUT 507.79-510.57: Some leasing highlights in 2021 include. 
+asr:0: OUTPUT 511.37-518.10: 100% pre-leasing of our QRC West Phase 2 project now under construction at Queen and Peter in Toronto. 
+asr:0: OUTPUT 519.06-528.55: We substantially advanced pre-leasing of the office component at the well. We made good progress in addressing a large non-renewal at 111 Robert Barassa in Montreal. 
+asr:0: OUTPUT 529.33-535.30: We actually increased our leased area in Calgary and improved the leased area in our UDC portfolio. 
+asr:0: OUTPUT 536.10-544.76: We also completed a number of significant expansions for major tenants across the portfolio, including publicists almost doubling their space requirements. 
+asr:0: OUTPUT 546.63-553.23: As predicted, the amount of space available for sublease in our portfolio declined considerably over the quarter. 
+asr:0: OUTPUT 553.33-557.66: This trend will no doubt continue as companies realize they need their offices. 
+asr:0: OUTPUT 558.80-568.03: I will now provide an update on leasing activities in Montreal, Toronto, Calgary and Vancouver and conclude with an update on our Urban Data Centre portfolio. 
+asr:0: OUTPUT 569.73-576.02: Starting in Montreal, the team continues to complete small deals at RCA and El Pro buildings in St. Henry. 
+asr:0: OUTPUT 577.14-583.14: Following on the heels of a 30,000 square foot deal with Molson Coors at 111 Robert Barasa. 
+asr:0: OUTPUT 583.88-592.55: We have recently completed a deal for 40,000 square feet and we are currently negotiating with two companies for a total of 70,000 square feet in that same building. 
+asr:0: OUTPUT 594.65-603.04: Moving to Toronto, we learned Monday of this week that Shopify elected not to exercise a right to expand by 90,000 square feet of the well. 
+asr:0: OUTPUT 604.14-613.19: This will allow us to further diversify our mix of office tenants and we will most certainly achieve uplifts and net rents in the range of $10 to $15 per square foot. 
+asr:0: OUTPUT 614.19-621.64: It is also highly likely that the replacement tenant or tenants will begin to pay rent six months sooner than previously negotiated. 
+asr:0: OUTPUT 622.94-627.23: Shopify remains fully committed to 340,000 square feet. 
+asr:0: OUTPUT 628.67-637.04: Strong demand for this project continues as we completed five transactions totaling 135,000 square feet over the past three months. 
+asr:0: OUTPUT 637.76-642.40: Indeed, the marketplace was waiting to learn about the availability of the 90,000 square feet. 
+asr:0: OUTPUT 642.88-648.43: And our leasing team, without any advertising, had three inquiries by 11 a.m. Yesterday. 
+asr:0: OUTPUT 649.05-650.21: Stay tuned on this one. 
+asr:0: OUTPUT 651.59-660.58: Moving to our existing portfolio in Toronto, we mentioned on the last call we were in the process of finalizing an expansion of existing tenants at 111 Queen Street East. 
+asr:0: OUTPUT 661.22-665.09: Growing from 68,000 to 120,000 square feet. 
+asr:0: OUTPUT 665.63-667.19: That deal has been fully executed. 
+asr:0: OUTPUT 668.31-673.11: We also completed two deals for 22,000 square feet at 312 Adelaide. 
+asr:0: OUTPUT 673.85-683.08: Just subsequent to the quarter and are working with an existing tenant at King and Spadina to move them from 25,000 square feet to 55,000 square feet of space. 
+asr:0: OUTPUT 684.78-694.17: In Calgary, the team completed an impressive 17 transactions in the quarter, and we actually increased our leased area to 86.4%. 
+asr:0: OUTPUT 694.69-697.56: Which in the context of that market is quite good. 
+asr:0: OUTPUT 698.48-703.54: Subsequent to the quarter, we completed a 20,000 square foot deal for vacant space in Vintage One. 
+asr:0: OUTPUT 705.25-711.51: Most of the activity in this market is for deals of 5,000 square feet and less, with tenants seeking built-out space. 
+asr:0: OUTPUT 712.09-715.66: We have upgraded the number of suites in order to attract these small users. 
+asr:0: OUTPUT 716.44-724.96: At Telesky, we built out three model suites and two were leased fairly quickly last year. And we are currently building out another four units. 
+asr:0: OUTPUT 725.67-731.23: We also have a deal under negotiation for 30,000 square feet in that building, which we expect to complete. 
+asr:0: OUTPUT 733.11-738.84: In Vancouver, we completed three small transactions in the quarter and have good activity on available spaces. 
+asr:0: OUTPUT 739.76-748.57: The three-year restoration project at Sun Tower is now complete and scaffolding, which had been completely covering the building, has now been removed. 
+asr:0: OUTPUT 749.39-756.22: This will greatly improve the desirability of this building and improve leasing which had been difficult during the restoration. 
+asr:0: OUTPUT 757.56-760.24: The Vancouver portfolio is 91% leased. 
+asr:0: OUTPUT 762.26-769.67: Our urban data centers in Toronto are 95.2% leased overall with two small renewal transactions completed in Q4. 
+asr:0: OUTPUT 770.85-779.96: I will now turn the call over to Hugh. Thanks, Tom. This quarter I've seen advancements on both our planning activity as well as our construction activity fronts. 
+asr:0: OUTPUT 780.60-788.21: I will begin by giving an overview of our major projects and then we'll follow that with an update on work we have done on our development pipeline. 
+asr:0: OUTPUT 789.37-795.76: Beginning in Montreal, work continues on the upgrade work at 1001 Robert Bourassa NRCA. 
+asr:0: OUTPUT 796.50-804.66: We have completed the majority of the base building work at 400 Atlantic. The leasing team is now actively marking the spaces of all three buildings. 
+asr:0: OUTPUT 805.93-811.87: In central Canada, despite the supply chain and manpower issues that COVID has created in the industry,. 
+asr:0: OUTPUT 812.29-816.02: We continue to make progress on all of our active construction projects. 
+asr:0: OUTPUT 816.88-822.92: At the well, we have revised the anticipated completion date of the office tower from Q1 to Q2. 
+asr:0: OUTPUT 823.86-828.09: Tenants continue to take possession of their spaces as set out in their leases. 
+asr:0: OUTPUT 828.97-834.13: At 19 Duncan, we were able to hand over the first floors to Thomson Reuters for their fit-out work. 
+asr:0: OUTPUT 834.85-840.98: We anticipate achieving occupancy of the office component in late Q2 or early Q3. 
+asr:0: OUTPUT 842.04-847.51: In Kitchener, work is being completed on the base building of the third phase of Bright Hop development. 
+asr:0: OUTPUT 847.87-852.33: And we anticipate handing over the space to Google for their fit out in early Q2. 
+asr:0: OUTPUT 853.51-858.74: We were able to achieve a significant milestone at our College Street JV project with Rio Camp. 
+asr:0: OUTPUT 859.70-865.15: The building achieved occupancy and has had its first residents start to occupy their suites. 
+asr:0: OUTPUT 866.15-872.91: In Western Canada, we were able to achieve occupancy at 400 West Georgia. Planning and activity. 
+asr:0: OUTPUT 873.53-878.64: This quarter has seen progress made on a number of submissions for future intensification projects. 
+asr:0: OUTPUT 879.64-884.62: Subsequent to quarter end we were approved for the first phase of expansion of Lenore Delac. 
+asr:0: OUTPUT 885.41-891.93: We intend to bring this to market in the spring and would commence construction once we'd achieved the pre-leasing requirements. 
+asr:0: OUTPUT 892.73-900.44: The goal of this project is to both better serve our knowledge-based workspace users as well as to advance our ESG commitments. 
+asr:0: OUTPUT 901.28-906.25: We believe we can do this through the exploration of building our first net zero carbon building. 
+asr:0: OUTPUT 907.13-914.49: The team has also advanced the work on the approval of Bathurst Assembly, the Castle, King and Spadina, and Realtown. 
+asr:0: OUTPUT 915.22-918.78: We are targeting approval for the Bathurst Assembly in the fall of 2022. 
+asr:0: OUTPUT 920.34-923.76: This quarter has seen progress made across all of our development work. 
+asr:0: OUTPUT 924.38-928.27: Despite industry-wide disruptions to the supply chain and manpower,. 
+asr:0: OUTPUT 928.37-935.68: The team remains focused on maintaining momentum on all active developments and advancing work on future opportunities. 
+asr:0: OUTPUT 936.36-938.20: I will now turn the call back to Michael. 
+asr:0: OUTPUT 939.26-940.28: Thank you, Hugh. 
+asr:0: OUTPUT 940.92-945.59: While Omicron put a bit of a damper on the reopening in Canada. 
+asr:0: OUTPUT 945.97-952.29: It doesn't appear to have undermined the restoration of confidence among our customers. 
+asr:0: OUTPUT 953.07-960.66: As of January 31st this year, 87% of the users in our portfolio. 
+asr:0: OUTPUT 960.68-968.31: Occupying 90% of the total GLA in our portfolio have reopened their workspace. 
+asr:0: OUTPUT 968.33-970.75: And are bringing employees back to work. 
+asr:0: OUTPUT 971.67-978.90: We don't have information on the exact number of employees that these users have brought back to their workspace. 
+asr:0: OUTPUT 979.56-984.66: But we do know that the reopening in our portfolio continues across the country. 
+asr:0: OUTPUT 986.45-995.82: As the global pandemic appears to be coming to an end, I'm reminded of the thesis I articulated in early April of last year. 
+asr:0: OUTPUT 996.78-1007.07: It advanced the proposition that the global pandemic would benefit the commercial real estate industry by accelerating three established secular trends. 
+asr:0: OUTPUT 1007.69-1016.64: One, urban intensification. Two, humanistic operation. And three, stress-tested leadership. 
+asr:0: OUTPUT 1017.54-1022.00: As I pointed out then, I can't prove the thesis. 
+asr:0: OUTPUT 1022.78-1027.61: Only human behavior over time will do that, or not. 
+asr:0: OUTPUT 1028.47-1031.43: What I can say at this point in time. 
+asr:0: OUTPUT 1031.45-1040.52: Is that human behavior, as Allied experienced it over the course of 2021, strongly supports the thesis. 
+asr:0: OUTPUT 1041.64-1049.11: I intend to update the thesis in early April of this year and perhaps periodically thereafter. 
+asr:0: OUTPUT 1050.31-1058.38: I hope this has been a useful and comprehensive update for you. We would now be pleased to answer any questions that you may have. 
+asr:0: OUTPUT 1060.28-1066.39: Thank you. Ladies and gentlemen, for any questions or comments, you may signal by pressing star 1 on your telephone keypad. 
+asr:0: OUTPUT 1066.89-1071.97: If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. 
+asr:0: OUTPUT 1072.99-1075.40: Again, it is star one to ask a question. 
+asr:0: OUTPUT 1076.50-1081.26: We'll go first to Jonathan Kelcher at TD Security. Your line is open. Please go ahead. 
+asr:0: OUTPUT 1082.94-1086.01: Thanks. Good morning. Morning. 
+asr:0: OUTPUT 1087.25-1096.08: First question, just on the same property NOI. It was a little negative in Toronto and Kitchener in the quarter. Can you maybe give us a little bit of color on that? 
+asr:0: OUTPUT 1097.36-1106.19: Hi, Jonathan. It would be relating to parking and turnover vacancy. 
+asr:0: OUTPUT 1109.15-1119.04: Okay, so that should flip this year. Yes. Okay. Yes. 
+asr:0: OUTPUT 1120.02-1129.15: Okay, and then on the development side, on the well, you notice the costs for the project were up about 5% versus Q3. 
+asr:0: OUTPUT 1130.15-1133.91: Can you maybe give us a little bit of color on that? 
+asr:0: OUTPUT 1135.40-1144.22: For sure, they're related to two things. One is the extension of the construction schedule. 
+asr:0: OUTPUT 1144.28-1150.17: And two is activities that's happened on site in order to deal with the impact of COVID. 
+asr:0: OUTPUT 1154.49-1156.30: So just sort of timing and supply. 
+asr:0: OUTPUT 1158.82-1168.67: Exactly. Okay, fair enough. And then for this year, what's the expected spend on development for 2020? 
+asr:0: OUTPUT 1170.23-1177.06: It'll be about $200 million and it'll drop in 2023 to under $100 million. 
+asr:0: OUTPUT 1180.06-1185.79: Okay, that's it for me. Thanks. I'll turn it back. Thank you. 
+asr:0: OUTPUT 1187.87-1191.25: We'll go next to Mario Cerek at Scotiabank. Please go ahead. 
+asr:0: OUTPUT 1193.09-1194.81: Good morning. Morning. 
+asr:0: OUTPUT 1196.82-1203.58: One quick question on the cap allocation for the year. I think the MD&A and the letter to unit holders. 
+asr:0: OUTPUT 1203.60-1207.01: I would like to highlight the expectation to allocate a large amount of capital. 
+asr:0: OUTPUT 1207.03-1211.19: In. 
+asr:0: OUTPUT 1211.71-1214.69: In 2021, you completed about $360 million in acquisitions. 
+asr:0: OUTPUT 1214.71-1221.92: Is $300 million to $500 million, a reasonable range in terms of targeted acquisitions this year. 
+asr:0: OUTPUT 1221.94-1228.77: If so, how do you think about funding any expected activity given the current price and balance sheet? 
+asr:0: OUTPUT 1231.25-1235.90: Mario, given the extent of opportunities. 
+asr:0: OUTPUT 1235.96-1238.72: Visible to us. 
+asr:0: OUTPUT 1238.78-1246.45: It would be very easy for us to achieve a comparable level of acquisitions in 2022, if not more. 
+asr:0: OUTPUT 1247.43-1250.31: If not considerably more, potentially. 
+asr:0: OUTPUT 1251.55-1256.68: There are two limiting factors, however, that we have to recognize. 
+asr:0: OUTPUT 1257.02-1263.84: The first is, as Cecilia mentioned, we are not prepared to flex our balance sheet any further. 
+asr:0: OUTPUT 1265.07-1272.77: The second is we are not prepared to issue substantial amounts of equity below NAD per unit. 
+asr:0: OUTPUT 1274.85-1277.76: That could ultimately. 
+asr:0: OUTPUT 1277.82-1287.33: Delay or constrain our ability to take advantage of opportunities that we expect to become available to us. 
+asr:0: OUTPUT 1288.31-1304.36: But we have explored and developed a number of options that would allow us to utilize capital without raising equity below NAV per unit. 
+asr:0: OUTPUT 1305.15-1309.59: And without putting upward pressure on our debt metrics. 
+asr:0: OUTPUT 1309.95-1321.18: I don't want to elaborate on that any further, but I do want to reiterate the two governing propositions for capital allocation in 2022. 
+asr:0: OUTPUT 1321.22-1322.80: They are as follows. One. 
+asr:0: OUTPUT 1323.30-1326.91: We will not flex our balance sheet any further. 
+asr:0: OUTPUT 1327.29-1333.51: Number two, we will not raise substantial amounts of equity below NAV per unit. 
+asr:0: OUTPUT 1338.22-1339.32: And I don't know if you can answer this. 
+asr:0: OUTPUT 1339.34-1347.03: Given your comment just now, but are JV something that Allied would increasingly consider? 
+asr:0: OUTPUT 1347.05-1350.03: It's not something that I've historically done, but is that... 
+asr:0: OUTPUT 1350.05-1356.90: An option you're looking at not necessarily for specific assets, but just in general the philosophy of JVs or is that changing over time? 
+asr:0: OUTPUT 1358.70-1367.93: That is definitely one option that has been extensively explored and is available to us. 
+asr:0: OUTPUT 1368.05-1381.26: In terms of funding acquisition opportunities in a way that don't violate either of the two propositions I articulated with respect to capital allocation. Yes. 
+asr:0: OUTPUT 1382.18-1384.62: But it's only one. There are others. 
+asr:0: OUTPUT 1387.95-1394.91: Okay, just maybe a bit more color on your acquisition 207, Lust, Hate, Things. 
+asr:0: OUTPUT 1395.52-1401.62: It was in November of last year. Can you remind us of what the plans are there for that? 
+asr:0: OUTPUT 1403.10-1407.17: It is a spectacular heritage asset. 
+asr:0: OUTPUT 1407.19-1418.04: Probably along with our Sun Tower, which by the way is featured on the cover of our annual report, post-restoration. 
+asr:0: OUTPUT 1418.90-1427.21: Along with the Sun Tower, it is arguably the finest heritage structure in the city of Vancouver. 
+asr:0: OUTPUT 1427.81-1439.42: It is heavily occupied by a very large number of small users on short-term leases that are structured in the old way of leasing. 
+asr:0: OUTPUT 1439.98-1442.32: Which is essentially gross. 
+asr:0: OUTPUT 1442.88-1449.81: We plan to work with the existing tenant base, and if my memory serves, there are 140 tenants there. 
+asr:0: OUTPUT 1450.85-1453.65: Or there were at least on acquisition. 
+asr:0: OUTPUT 1453.89-1466.61: We want to work with all of them to find a way to transform the building into a leasing format that is more consistent with our operating format. 
+asr:0: OUTPUT 1467.07-1473.07: But we genuinely want to do that in a way that retains the existing users. 
+asr:0: OUTPUT 1473.51-1482.62: Or possibly relocates some of them to other buildings we have with a more allied-like leasing structure. 
+asr:0: OUTPUT 1483.76-1489.71: So that will be a gentle rolling upgrade, for lack of a better term. 
+asr:0: OUTPUT 1490.85-1493.63: The Dominion building is very close to Sun Tower. 
+asr:0: OUTPUT 1494.91-1500.10: And actually it, Sun Tower and the landing,. 
+asr:0: OUTPUT 1500.42-1506.27: Are almost often optimally located in relation to one another. 
+asr:0: OUTPUT 1507.65-1511.37: And so at the landing, we can accommodate. 
+asr:0: OUTPUT 1511.39-1519.24: Excuse me, larger single floor users. At Dominion, we can accommodate. 
+asr:0: OUTPUT 1519.26-1522.40: Mid-sized single floor users. 
+asr:0: OUTPUT 1522.44-1532.23: And at the Dominion building, we can accommodate a large number of smaller users and we want to continue to accommodate all such users. 
+asr:0: OUTPUT 1532.25-1538.92: Because we want an ecosystem in our portfolio in Vancouver and elsewhere as you know. 
+asr:0: OUTPUT 1538.94-1547.09: That allows us to accommodate the broad range of creative businesses in our economy today. 
+asr:0: OUTPUT 1550.83-1556.22: Two more really quick ones on my end. The first relates to your UDC cap rates. 
+asr:0: OUTPUT 1556.24-1561.72: They're flat quarter-to-quarter at 5.3% including 151 front which is 100% occupied. 
+asr:0: OUTPUT 1562.22-1572.19: At a five cap, I think we've seen a lot of transactions in the North American market, pretty healthy valuations. I would suggest 151 front in particular is well below a five cap rate asset. 
+asr:0: OUTPUT 1572.63-1578.72: So I guess the question is, what do you think are the catalysts to recognize the inherent value? 
+asr:0: OUTPUT 1578.74-1587.17: At 151 in particular in terms of the cap rate and valuation, and more broadly across the UDC portfolio, which stands valued at $1.1 billion today. 
+asr:0: OUTPUT 1589.49-1593.79: We are very aware of the transactions you've adverted to. 
+asr:0: OUTPUT 1594.65-1604.64: We have not reflected those transactions in our IFRS value at the end of Q4. 
+asr:0: OUTPUT 1605.37-1613.29: Not because we don't think it's appropriate, but we wanted those transactions to close with certainty. 
+asr:0: OUTPUT 1613.55-1621.50: And we wanted to work with our independent appraiser, Cushman, in terms of determining. 
+asr:0: OUTPUT 1621.52-1628.17: What impact those transactions have on our underlying urban data center values. 
+asr:0: OUTPUT 1628.73-1635.38: The transactions aren't perfect comparables to our 151 front. 
+asr:0: OUTPUT 1635.56-1645.00: But they're much better comparables than some of the transactions that occurred either earlier in 2021 or previously. 
+asr:0: OUTPUT 1645.97-1655.38: So we will be striving to reflect that accurately, precisely as we go through 2022. 
+asr:0: OUTPUT 1659.28-1670.37: My last question, just in terms of Montreal, I think in the last quarter, with respect to the RCA building, it was mentioned that there is one potential user for 50,000 square feet. Looking at the space,. 
+asr:0: OUTPUT 1670.59-1676.84: Is that potential user still there in terms of possibility or is that opportunity coming back? 
+asr:0: OUTPUT 1678.14-1682.12: That is for 30,000 square feet, Mario, and we're trading paper with that tenant. 
+asr:0: OUTPUT 1689.51-1691.39: I would translate that into yes. 
+asr:0: OUTPUT 1702.36-1707.79: We'll move next to our question from Mike Markanis at Jardin Securities. Your line is open. Please go ahead. 
+asr:0: OUTPUT 1709.61-1710.83: Thank you. Good morning, everybody. 
+asr:0: OUTPUT 1711.79-1719.62: Just a few quick ones on my end. Celia, just to clarify, thank you so much for the expected incremental contribution from development. 
+asr:0: OUTPUT 1719.98-1726.75: Helpful for all of us. The $0.06 in 2022 is pretty clear. The $0.14 reference in 2022. 
+asr:0: OUTPUT 1726.85-1732.99: Is that relative to zero or is that incremental to the success in 2020? 
+asr:0: OUTPUT 1734.31-1739.76: It's incremental from 2022 to 2023. It's another incremental. 
+asr:0: OUTPUT 1739.80-1746.81: $0.14 net of $16 million decapitalized. 
+asr:0: OUTPUT 1747.27-1749.41: Both of those figures are incremental. 
+asr:0: OUTPUT 1750.19-1755.36: So hypothetically, all of SQL, if you did 241 today, then that's another 20 cents you'd expect. 
+asr:0: OUTPUT 1755.42-1760.32: Sorry, 241 in 2021, that's another 20-something total you're expecting in 2021. 
+asr:0: OUTPUT 1760.92-1762.12: Okay, that's all. Thank you. 
+asr:0: OUTPUT 1765.05-1772.37: Maybe just refresh our memory, team. I thought you owned the Air Rights Reviewing Center, and I just noticed a $15 million transaction. 
+asr:0: OUTPUT 1772.79-1777.84: Referencing air rights at Union Center. Could you maybe elaborate on what that reference to is about? 
+asr:0: OUTPUT 1778.72-1779.74: Sure that. 
+asr:0: OUTPUT 1779.76-1796.56: Is roughly 5.2 acres immediately to the south of the Union Center site above the rail lands where we closed the acquisition of air rights. 
+asr:0: OUTPUT 1796.58-1798.30: I believe in the fourth quarter. 
+asr:0: OUTPUT 1799.44-1805.25: So it is literally 5.2 acres of land. 
+asr:0: OUTPUT 1805.27-1810.37: That really runs directly south of the Union Center site. 
+asr:0: OUTPUT 1810.73-1818.98: I guess with the boundary on the east being York, York and the boundary on the west being Simcoe. 
+asr:0: OUTPUT 1819.28-1824.28: And it basically goes to the far side of the rail lands. 
+asr:0: OUTPUT 1824.30-1834.87: And is a very, very good incremental asset for us at Union Center. 
+asr:0: OUTPUT 1835.08-1840.20: And will in time augment our ability. 
+asr:0: OUTPUT 1840.22-1843.52: To create value on that larger site. 
+asr:0: OUTPUT 1845.41-1852.41: Okay, that's great. Would that be followed by a resubmission of the proposal for Eden Center as it currently stands? 
+asr:0: OUTPUT 1853.65-1859.64: Fortunately, it isn't necessary. We just got approval. 
+asr:0: OUTPUT 1859.66-1865.31: For what I would call Union Center 3.0. 
+asr:0: OUTPUT 1865.99-1867.73: Which we're very happy with. 
+asr:0: OUTPUT 1868.05-1872.57: I think it's now at about 1.33 million square feet. 
+asr:0: OUTPUT 1873.89-1881.30: We will clearly build it and. 
+asr:0: OUTPUT 1882.48-1892.43: Construct on the remainder of the existing site in a way that allows us to utilize the air rights most efficiently. 
+asr:0: OUTPUT 1892.49-1900.18: But we don't have to change how we're going to use the portion of the site that Union Center 3.0 is on. 
+asr:0: OUTPUT 1902.06-1907.47: Okay, last one for me before I turn it back to my peers. 
+asr:0: OUTPUT 1907.59-1910.43: I think, Michael, your commentary with respect to the opportunity set. 
+asr:0: OUTPUT 1910.47-1920.44: Garnaby on the acquisition side seems to be, if not on par, but maybe more bullish going forward. 
+asr:0: OUTPUT 1921.48-1925.15: I ask is 250 Front part of that opportunity set? 
+asr:0: OUTPUT 1927.35-1934.09: Well, let me respond to the general question first, and I should and will respond to the specific one second. 
+asr:0: OUTPUT 1936.86-1945.75: I believe a lot of portfolio rebalancing is going to occur in 2022 and onward. 
+asr:0: OUTPUT 1947.55-1959.40: Which could, I'm not saying inevitably will, but which could see high quality office opportunities that fit our investment and operating focus come our way. 
+asr:0: OUTPUT 1960.22-1967.21: So generally, I actually think the environment for continued consolidation. 
+asr:0: OUTPUT 1967.23-1975.96: Of appropriate urban office space in Montreal, Toronto, Calgary, and Vancouver will be good for us. 
+asr:0: OUTPUT 1976.58-1981.10: Specifically as to 250 front the CDC building. 
+asr:0: OUTPUT 1981.46-1992.01: It is a matter of public knowledge and is widely known that CBC initiated a process through CBRE. 
+asr:0: OUTPUT 1992.03-2005.19: To ascertain the extent to which and the price at which the market was prepared to transact on the purchase of the CBC building. 
+asr:0: OUTPUT 2006.21-2010.75: That process was explicitly conducted. 
+asr:0: OUTPUT 2010.77-2017.26: With the knowledge that Allied has a right of course offer. 
+asr:0: OUTPUT 2017.34-2020.30: And that at the end of the process. 
+asr:0: OUTPUT 2020.96-2027.37: The CBC would then deal with Allied in relation to its right of first offer. 
+asr:0: OUTPUT 2028.37-2036.22: So that, everything I have said is a matter of public record and known to all. 
+asr:0: OUTPUT 2036.46-2040.24: Also, it is. 
+asr:0: OUTPUT 2040.28-2047.03: My belief that the CBRE process is largely complete, if not complete. 
+asr:0: OUTPUT 2048.69-2052.29: And that's the extent of public information. 
+asr:0: OUTPUT 2052.71-2060.84: Whether the right of first offer will translate favorably for us or not is unknown. 
+asr:0: OUTPUT 2062.04-2067.97: I can tell you, as I've said for years, our interest level is high. 
+asr:0: OUTPUT 2068.13-2071.09: So I'm confident. 
+asr:0: OUTPUT 2071.11-2076.42: But not certain that we will end up. 
+asr:0: OUTPUT 2076.50-2081.48: In a position to buy the CBC building. 
+asr:0: OUTPUT 2082.96-2085.93: Whether we actually do it or not is unknown. 
+asr:0: OUTPUT 2087.39-2096.84: So I'm trying to be as open and honest as I can without being inappropriate in terms of what I disclose. 
+asr:0: OUTPUT 2097.36-2104.94: But everything I have disclosed specifically, Mike, is public information and is known to all in the industry. 
+asr:0: OUTPUT 2106.67-2109.01: No, I appreciate that. 
+asr:0: OUTPUT 2109.03-2117.66: Maybe, Michael, I know you've confirmed your interest in the building in the past. Maybe you could just give us a refresher as to the operational fit. 
+asr:0: OUTPUT 2117.72-2119.88: With an outline of that asset potential. 
+asr:0: OUTPUT 2121.32-2126.37: It is, I mean, the way to think about it, it is roughly a million square feet. 
+asr:0: OUTPUT 2126.79-2135.10: Roughly half will be leased to the CBC long-term. 
+asr:0: OUTPUT 2136.22-2142.22: Won't be a lot of growth in the lease, but it'll be a very long-term lease with a very high caliber covenant. 
+asr:0: OUTPUT 2142.72-2152.77: The remainder of the building has exactly the kind of transformational potential for which Allied is known. 
+asr:0: OUTPUT 2153.25-2164.66: And as you also know, 170,000 square feet or so of the remainder is already leased to Allied as. 
+asr:0: OUTPUT 2164.68-2173.43: Part of our urban data center portfolio for what was originally a 50-year term less a day and what is probably now a 41 or 42-year term. 
+asr:0: OUTPUT 2175.52-2185.33: So what we would have really is an aggregation of a very stable base, albeit not one that's likely to grow materially over time. 
+asr:0: OUTPUT 2186.05-2191.05: And then another base that is materially underutilized. 
+asr:0: OUTPUT 2192.03-2196.56: That we will be able to upgrade and reposition. 
+asr:0: OUTPUT 2196.80-2202.46: In the way we have so many other buildings with similar physical attributes. 
+asr:0: OUTPUT 2203.04-2210.27: And then finally, of course, we will own the urban data center portfolio free and clear. 
+asr:0: OUTPUT 2210.45-2213.29: This is all if we do this transaction. 
+asr:0: OUTPUT 2213.63-2216.12: So that's, I think, the way to look at it. 
+asr:0: OUTPUT 2216.24-2226.95: That's how it was presented to the open market for bidding, and there were bidders who stepped forward. 
+asr:0: OUTPUT 2228.11-2233.83: And that will then allow CBC to determine how best to deal with our right of first offer. 
+asr:0: OUTPUT 2236.08-2238.92: Michael, I appreciate your transparency and that's excellent color. Thank you. I'll turn it back. 
+asr:0: OUTPUT 2240.12-2246.65: Okay. We'll move next to Brad Sturgis with Raymond James. Your line is open. Please go ahead. 
+asr:0: OUTPUT 2248.41-2251.29: Hi, good morning. 
+asr:0: OUTPUT 2251.47-2259.68: 400 West Georgia there, you know, highlighted the ramp up on occupancy starting. 
+asr:0: OUTPUT 2259.80-2265.99: Now, can you just give a timeline on, to the extent you can, in terms of the... 
+asr:0: OUTPUT 2266.01-2270.75: What the potential could be for the occupancy stabilization there at the project. 
+asr:0: OUTPUT 2273.53-2281.00: In terms of NOI, is that what you're saying? Occupancy stabilization. Oh, in terms of percentage? Yeah, when we'll get to where. 
+asr:0: OUTPUT 2281.88-2288.75: We hopefully will have that by Q3. 
+asr:0: OUTPUT 2290.45-2300.44: Yeah, 95% is what we would consider stabilized occupancy and Q3 would be when we close on that transaction. So it would coincide with when it comes on our books. 
+asr:0: OUTPUT 2301.32-2302.70: That would be our expectation. 
+asr:0: OUTPUT 2305.17-2306.35: And then. 
+asr:0: OUTPUT 2306.37-2308.37: I guess just one other question. 
+asr:0: OUTPUT 2308.39-2319.64: In terms of funding some of your growth initiatives, you have still some assets for sale on the balance sheet at the end of the year. 
+asr:0: OUTPUT 2320.06-2327.71: Would there be a scenario where you consider more 100% asset sales at this stage? 
+asr:0: OUTPUT 2327.85-2338.70: If the capital markets aren't at a point where you feel comfortable raising equity, how should we think about asset sales beyond what's listed for sale right now? 
+asr:0: OUTPUT 2340.16-2343.58: That's an option, Brad, that is available to us. 
+asr:0: OUTPUT 2344.04-2351.83: The two held for sale are moving toward completion on schedule, although. 
+asr:0: OUTPUT 2351.89-2354.85: We can never be certain they'll complete until they complete. 
+asr:0: OUTPUT 2355.96-2362.66: There is another smaller non-core asset in Toronto that we might transact on. 
+asr:0: OUTPUT 2363.36-2373.25: But when I say there are options available to us, I'm not postulating large-scale asset sales on our part. 
+asr:0: OUTPUT 2376.46-2384.32: Back. Thank you. We'll go next to Kaitlyn Burrows with Goldman Sachs. 
+asr:0: OUTPUT 2386.33-2393.05: Hi, good morning. In the prepared remarks, I think you guys mentioned reaching 94% occupancy later this year. 
+asr:0: OUTPUT 2393.37-2399.76: So, I was wondering if you could give some detail on the cadence of that expected occupancy improvement and then just clarify. 
+asr:0: OUTPUT 2400.00-2403.98: Whether that's the total portfolio or the stabilized properties specifically. 
+asr:0: OUTPUT 2405.49-2409.83: Hi Caitlin, for sure. That would be the total rental portfolio. 
+asr:0: OUTPUT 2410.33-2418.34: And it would start ramping up from an occupancy perspective in the second half of 2022. 
+asr:0: OUTPUT 2420.22-2424.64: Okay. And then, separately, I don't think this one was... 
+asr:0: OUTPUT 2424.66-2433.71: Talked about yet, and I know I'm going to say it wrong, but last July you announced that just a group was developing 700 room. 
+asr:0: OUTPUT 2433.99-2438.52: Which you would buy in the second half of 22 around the time of completion. 
+asr:0: OUTPUT 2438.78-2447.69: Assuming that is still the plan, can you go through how we expect to fund that project in particular and to what extent that property may contribute to earnings in 2020? 
+asr:0: OUTPUT 2449.55-2454.47: Again, we will fund it subject to the parameters I articulated. 
+asr:0: OUTPUT 2454.49-2460.02: In my answer with respect to allocation or capital allocation I. 
+asr:0: OUTPUT 2460.46-2463.70: And as I say, there are known options available to us. 
+asr:0: OUTPUT 2463.76-2470.93: That's not to diminish that particular acquisition, but it's not particularly large. 
+asr:0: OUTPUT 2471.67-2476.70: But as I say, we will not fund it with equity below NAV per unit. 
+asr:0: OUTPUT 2476.82-2483.16: And we will not fund it by flexing our balance sheet further. 
+asr:0: OUTPUT 2487.03-2489.55: And then maybe two quicker ones. 
+asr:0: OUTPUT 2490.03-2495.16: Just wondering if the internal assumptions that you outlined for 22 and even 23. 
+asr:0: OUTPUT 2495.18-2503.12: Assume any additional ATM usage or if you were to use the ATM in a small way, would that be kind of like an incremental update? 
+asr:0: OUTPUT 2504.26-2513.01: No, we don't assume any ATM usage. We assume everything is funded with debt. So that would be an incremental usage. 
+asr:0: OUTPUT 2514.47-2520.78: And then last, it looks like the salaries and benefits were higher in the fourth quarter than they have been. 
+asr:0: OUTPUT 2521.04-2530.31: I know you mentioned that you hired three new leasing managers. So, is that related to that hiring and more of a permanent increase or was there something one time or a mix? 
+asr:0: OUTPUT 2532.87-2542.86: That would be the Q4 GNA uptick you would have seen was for the final bonus payouts for the year. So it was a bit of a year-to-date catch-up on compensation. 
+asr:0: OUTPUT 2544.74-2551.79: So as we think about this year, would you say that like 2021 or some growth rate from that is reasonable to assume? 
+asr:0: OUTPUT 2552.95-2560.76: For 2022, you should assume that GNA will be in line with 2021, but excluding the 1.2. 
+asr:0: OUTPUT 2560.88-2563.28: Million of severance expense that we had in 2011. 
+asr:0: OUTPUT 2563.36-2566.41: So almost flat from 21 to 22. 
+asr:0: OUTPUT 2570.71-2576.14: We'll go next to Matt Kornick at National Bank Financial. Your line is open. Please go ahead. 
+asr:0: OUTPUT 2577.18-2578.46: Thanks for joining us. 
+asr:0: OUTPUT 2578.58-2587.01: Everybody's trying to figure out how you buy things without financing them. So just a quick question in terms of potential vendors. 
+asr:0: OUTPUT 2587.07-2595.78: In the market. Is there an appetite at this point for them to take back equity at NAV in Allied? Is that a potential? 
+asr:0: OUTPUT 2595.80-2598.80: Kind of way to get at some of these assets while not issuing it a discount. 
+asr:0: OUTPUT 2600.04-2602.98: It is a theoretical possibility, yes. 
+asr:0: OUTPUT 2604.06-2613.57: It's never one we've executed on, nor is it how we approach. 
+asr:0: OUTPUT 2613.59-2614.79: Bend doors. 
+asr:0: OUTPUT 2616.86-2624.04: So it is a theoretical possibility. I don't know if it's a real possibility. OK, fair enough. 
+asr:0: OUTPUT 2625.57-2631.37: With regards to the 94% occupancy in the rental portfolio, is that. 
+asr:0: OUTPUT 2631.39-2638.86: Purely lease up of vacant space, there's a component of that just bringing on sort of fully leased development properties as well. 
+asr:0: OUTPUT 2640.00-2645.19: It would mostly be driven by leasing up turnover vacancy. 
+asr:0: OUTPUT 2645.25-2650.27: Not so much on the development, because on our larger developments, we're actually very highly leased. 
+asr:0: OUTPUT 2652.51-2658.66: Okay, no, fair enough. And then on the, I guess, follow up on CTA multimedia. 
+asr:0: OUTPUT 2659.24-2668.51: It sounds like you have prospects there. They've been there for a while, but it's sitting, I guess, 111 rubber bristles sitting at 49% occupied. 
+asr:0: OUTPUT 2668.97-2676.06: What is that where we should expect some of that lease up in the second half of the year or should that come in the near term? 
+asr:0: OUTPUT 2677.18-2684.72: I think we can expect some considerable lease up in that building that while some of that. 
+asr:0: OUTPUT 2684.80-2689.59: Those prospects have been sitting there, we're getting closer and closer. 
+asr:0: OUTPUT 2690.49-2693.67: So I think you're going to see some movement over the course of the next few months. 
+asr:0: OUTPUT 2694.55-2703.88: Okay, and then the last one with regards to 400 West Georgia. 
+asr:0: OUTPUT 2705.25-2713.41: How should we think about that? 
+asr:0: OUTPUT 2713.43-2718.84: Is that contemplated in guidance, that coming in or being purchased at completion? 
+asr:0: OUTPUT 2720.00-2721.02: Yes, so it's. 
+asr:0: OUTPUT 2721.04-2722.88: It are our. 
+asr:0: OUTPUT 2722.90-2734.69: Our outlook or our forecast, our estimate includes the two acquisitions that we've already committed to, just no new acquisitions. So, it includes closing on 400 West Georgia in Q3. 
+asr:0: OUTPUT 2735.24-2742.92: And it will actually be a net cash inflow because we will be repaid our loan. 
+asr:0: OUTPUT 2743.28-2752.77: And we will put permanent financing, mortgage financing on the property which will result in net cash to us over and above our buy-in. 
+asr:0: OUTPUT 2752.79-2753.83: To the project. 
+asr:0: OUTPUT 2755.10-2758.98: Okay, now that makes sense. And last one, 720 BD, is that? 
+asr:0: OUTPUT 2759.00-2766.75: In process, I'm not sure exactly where it stands at this point or what the prospect would be for that to be completed and brought into the REIT. 
+asr:0: OUTPUT 2767.93-2770.21: It's a timely question. 
+asr:0: OUTPUT 2771.13-2780.94: The rate that we have advanced against that project slowed considerably in 2021. 
+asr:0: OUTPUT 2781.80-2789.69: The plan we have there is not similar to the plan we executed at the well. 
+asr:0: OUTPUT 2790.11-2799.00: We're going to commit to the below-grade construction pre-leasing threshold. 
+asr:0: OUTPUT 2800.20-2809.95: Knowing that if we get to grade without having met the pre-leasing threshold, we can always stop and wait. 
+asr:0: OUTPUT 2810.59-2813.19: It's never something we want to do. 
+asr:0: OUTPUT 2813.39-2824.50: But it does allow us to close the temporal gap without committing to what I would call full-scale speculative development. 
+asr:0: OUTPUT 2825.27-2833.71: We are enjoying considerable preliminary progress in pre-leasing that. 
+asr:0: OUTPUT 2833.73-2835.92: Project. 
+asr:0: OUTPUT 2836.86-2843.72: Which is quite large for Vancouver. It's roughly 600,000 square feet, our share at 300. 
+asr:0: OUTPUT 2844.22-2848.45: So it's not gigantic, but in the context of Vancouver, it is quite large. 
+asr:0: OUTPUT 2848.89-2858.80: And the approach we've taken is to fund the subterranean structure back up to grade. 
+asr:0: OUTPUT 2859.20-2865.55: And if necessary, stop once we get there if there's no pre-leasing in place. 
+asr:0: OUTPUT 2866.45-2875.24: If our experience at the well is any indication and our assessment of the strength of the Vancouver market accurate. 
+asr:0: OUTPUT 2875.26-2879.12: Will easily get to our pre-leasing threshold. 
+asr:0: OUTPUT 2880.00-2882.52: Before we get back to grade there. 
+asr:0: OUTPUT 2883.16-2886.57: But so it's a timely question. 
+asr:0: OUTPUT 2886.63-2894.63: It hasn't been a big drag on capital for us and we're getting a very good return on what capital we advance. 
+asr:0: OUTPUT 2895.66-2902.24: But that will accelerate a little in 2022, but under no circumstances are we building that on spec. 
+asr:0: OUTPUT 2903.22-2909.63: Okay, I appreciate that and then sorry, one last one on the guidance for the view on 2023. 
+asr:0: OUTPUT 2910.99-2917.12: It sounds like, I mean, if you can go from 89.9% occupancy to 94 this year. 
+asr:0: OUTPUT 2917.46-2921.24: I understand that some of the growth would be delayed into next year, but. 
+asr:0: OUTPUT 2922.40-2928.61: Is there any sense of conservatism in your forecast there for sort of... 
+asr:0: OUTPUT 2928.65-2933.33: High single digit same property or not same property FFO pre-unit growth. 
+asr:0: OUTPUT 2934.59-2935.78: Hold it mid to high. 
+asr:0: OUTPUT 2936.10-2941.42: I would say if we were to err on one side, it would be on the side of conservatives. 
+asr:0: OUTPUT 2941.68-2946.63: Of conservatism, but I wouldn't say it's highly conservative. 
+asr:0: OUTPUT 2951.33-2955.42: We'll go next to Pammy Burr, RBC Capital Markets. Your line is open. Please go ahead. 
+asr:0: OUTPUT 2956.98-2958.68: Thanks and good morning. 
+asr:0: OUTPUT 2960.04-2967.39: I believe last quarter, you mentioned getting back to maybe 95% occupancy in 2023. 
+asr:0: OUTPUT 2968.39-2974.97: I'm just curious as to perhaps maybe upside to that target, just given, you know, I guess the expedition get to 94 by the end of this year. 
+asr:0: OUTPUT 2978.62-2983.22: I do believe, this is Michael Emmerich speaking, of course I believe this. 
+asr:0: OUTPUT 2986.79-2992.83: But it's not unrealistic. But once you get to 95% across the country,. 
+asr:0: OUTPUT 2994.79-2998.62: You know, it's hard to get higher than that. 
+asr:0: OUTPUT 2999.32-3006.57: If we brought developments in into the rental portfolio that were fully leased, maybe. 
+asr:0: OUTPUT 3007.87-3022.54: But once you get to 95% across the country, especially given the level of ongoing upgrade activity that we engage in, in an effort to boost our average in-place net rent per square foot over time,. 
+asr:0: OUTPUT 3023.86-3028.63: I even I can't imagine there's great upside above 95%. 
+asr:0: OUTPUT 3029.19-3033.05: And it would be temporary. In our entire history. 
+asr:0: OUTPUT 3034.19-3042.82: Even when we were much smaller, focused entirely on Toronto, which was a market over which one could argue we had more control. 
+asr:0: OUTPUT 3044.52-3052.33: You know, 97 might have been just a great, we've hit 95 before, but it didn't last long. 
+asr:0: OUTPUT 3053.03-3057.98: 97 we have achieved, but it was a smaller portfolio, more discreet. 
+asr:0: OUTPUT 3060.00-3062.26: Not subject to geographic variation. 
+asr:0: OUTPUT 3062.60-3066.07: So I don't think there'd be a lot, Pommy, but maybe some. 
+asr:0: OUTPUT 3067.57-3071.93: Got it and and maybe just maybe building on the commentary around meeting. 
+asr:0: OUTPUT 3072.99-3080.64: I guess we haven't talked too much about it. I'm just curious, you know, what you could share with us in terms of, you know, has there been a shift at all in any kind of sentiment? 
+asr:0: OUTPUT 3080.72-3083.90: Maybe it's more specific to your user base. 
+asr:0: OUTPUT 3085.27-3091.99: But has it been a shift in sentiment in terms of space needs at all, just given where we're sitting today, I guess? 
+asr:0: OUTPUT 3092.35-3096.90: Hopefully through the latest wave and through Omicron. I'm just curious if you could provide some color there. 
+asr:0: OUTPUT 3098.86-3105.59: I don't discern a shift in sentiments among our customers. 
+asr:0: OUTPUT 3106.83-3119.34: And I also don't discern a material shift in sentiments generally in the urban Toronto markets. 
+asr:0: OUTPUT 3119.42-3121.48: Pardon me, the urban Canadian markets. 
+asr:0: OUTPUT 3123.22-3130.77: I think there's perhaps a potential shift in sentiment among the accounting firms. 
+asr:0: OUTPUT 3133.07-3138.20: There's clearly no shift in sentiment among the law firms, which is interesting. 
+asr:0: OUTPUT 3138.64-3144.16: The accounting firms, being accountants, are desperately anxious to reduce occupancy costs. 
+asr:0: OUTPUT 3144.54-3154.29: I don't think they will be successful in doing it ultimately but if there is a shift in sentiment or at least explicit vacillation. 
+asr:0: OUTPUT 3154.35-3157.78: It's with the major accounting firms. 
+asr:0: OUTPUT 3158.80-3168.35: A lot of their teams are hoping desperately to work from their cottage for as long as they can and as happily as they can. 
+asr:0: OUTPUT 3169.21-3172.91: That might be a bit of an overstatement, but it's not inaccurate. 
+asr:0: OUTPUT 3173.13-3179.62: But overall, I don't discern a big shift, certainly among our customers. 
+asr:0: OUTPUT 3180.14-3189.59: And indeed, I think among the major customers of the conventional office towers,. 
+asr:0: OUTPUT 3189.61-3190.67: In Canada. 
+asr:0: OUTPUT 3191.67-3199.32: I think the banks are wrestling with minimally engaged employees. 
+asr:0: OUTPUT 3199.98-3209.49: But I don't think that will ultimately result in their changing their fundamental view towards office space. 
+asr:0: OUTPUT 3209.53-3217.66: I may be wrong in saying that. I certainly have no inside knowledge, or at least not much. 
+asr:0: OUTPUT 3218.20-3220.68: But that's what I sense. 
+asr:0: OUTPUT 3220.74-3226.81: One person of influence said to me, we will be talking about hybrid working. 
+asr:0: OUTPUT 3226.83-3235.05: For another 18 or 24 months, and when that 18 or 24 months is over, we'll be back to working exactly as we did. 
+asr:0: OUTPUT 3235.76-3241.48: And this person has a tremendous amount of influence in relation to the organization he leads. 
+asr:0: OUTPUT 3242.30-3250.89: Again, can I extrapolate from that across the major user segments in the towers? No. 
+asr:0: OUTPUT 3251.67-3255.12: Do I think it's safe extrapolation? Probably yes. 
+asr:0: OUTPUT 3255.62-3264.28: And again, the only sort of vocal vacillators are the major accounting firms. 
+asr:0: OUTPUT 3265.19-3266.51: They just don't know which ways are. 
+asr:0: OUTPUT 3266.75-3275.18: And they're hoping desperately that they can, I don't know, just take it a hell of a lot easier and not have to. 
+asr:0: OUTPUT 3275.20-3277.84: And not have to show up on site. 
+asr:0: OUTPUT 3279.12-3288.41: But the lawyers learned very quickly that while they can function on an emergency basis in that way, they can't build legal practices. 
+asr:0: OUTPUT 3288.43-3290.23: They can't train young people. 
+asr:0: OUTPUT 3293.21-3294.91: By working from home. 
+asr:0: OUTPUT 3295.68-3298.08: So they pulled their subway space. 
+asr:0: OUTPUT 3298.16-3306.29: They put the sublease space in the market really, really quickly in 2020, and they pulled it off the market almost as quickly. 
+asr:0: OUTPUT 3308.25-3309.99: Got it. Thanks for the call. 
+asr:0: OUTPUT 3310.67-3312.89: I guess maybe just with respect to the well and... 
+asr:0: OUTPUT 3312.91-3316.02: The space not exercised by Shopify. What's your sense? 
+asr:0: OUTPUT 3316.04-3327.53: You did mention of course some discussions that are underway with other tenants. What's your sense of the timing of when you may actually have some deal signed on that space? 
+asr:0: OUTPUT 3329.73-3336.84: I would say we're going to start dialogue on the space, serious dialogue with a number of parties right away. 
+asr:0: OUTPUT 3336.86-3341.78: And expect that within the next two or three months we'll have deals completed. 
+asr:0: OUTPUT 3344.80-3350.71: Okay. And just coming back to maybe the ATM. 
+asr:0: OUTPUT 3351.67-3358.40: Cecilia, I think you mentioned that the guidance assumes no further equity issuance or no equity issuance. 
+asr:0: OUTPUT 3359.50-3366.53: But yet, the ATM is still in use. So I'm just curious, how should we think about the use of the ATM for the year ahead? 
+asr:0: OUTPUT 3368.31-3377.70: You know, the ATM is a tool in our toolbox and it will be one of many ways that we will be funding our activity. 
+asr:0: OUTPUT 3377.88-3383.40: We're not going to be raising a significant amount of equity through the ATM. 
+asr:0: OUTPUT 3383.78-3385.53: It'll be a small amount. 
+asr:0: OUTPUT 3386.15-3394.69: $150 million to $250 million. I don't know. It all depends on what our cost of equity is. 
+asr:0: OUTPUT 3395.24-3400.34: So I wouldn't expect it to have a material impact on our forecast. 
+asr:0: OUTPUT 3401.84-3407.89: No, and the one thing I'd add to that, Pani, is I think opportunistic is the right word. 
+asr:0: OUTPUT 3408.29-3414.37: We see it as long-term an extremely valuable tool for allied. 
+asr:0: OUTPUT 3414.43-3418.32: In funding development activity. 
+asr:0: OUTPUT 3418.38-3426.71: And in reducing debt with a view to getting to our target levels for debt to EBITDA. 
+asr:0: OUTPUT 3427.17-3430.23: That's where we see it being immensely valuable to us. 
+asr:0: OUTPUT 3430.67-3438.96: But what we're not prepared to do, as I've said at the outset, is raise huge amounts of equity below NAB per unit. 
+asr:0: OUTPUT 3439.34-3446.65: So the extent to which we use it in 2022 will entirely be governed or largely be governed. 
+asr:0: OUTPUT 3447.43-3455.38: By our trading price relative to our NAD per unit. 
+asr:0: OUTPUT 3455.72-3463.98: And the faster our trading price approaches the NAV per unit, in all likelihood, the more we'll use it. 
+asr:0: OUTPUT 3465.97-3477.22: And as I say, on an ongoing basis, when we get to what I'll call a fully stabilized trading value, whatever that proves to be,. 
+asr:0: OUTPUT 3477.62-3484.26: I see us using that very significantly on an annual basis. 
+asr:0: OUTPUT 3484.36-3487.53: Because the cost of equity is so much lower. 
+asr:0: OUTPUT 3487.71-3499.40: And because we can issue, if you will, into the market on an entirely discretionary and opportunistic basis. 
+asr:0: OUTPUT 3499.76-3507.17: The trial run we did in the fourth quarter was extremely successful to my way of thinking. 
+asr:0: OUTPUT 3507.43-3517.22: We raised $30 million, essentially, which is not a lot of equity at around 4405 on average. 
+asr:0: OUTPUT 3517.28-3519.06: In a very volatile market. 
+asr:0: OUTPUT 3519.40-3522.26: This was almost as Omicron hit. 
+asr:0: OUTPUT 3522.28-3530.79: And introduced an extreme amount of volatility into, well, the equity markets worldwide. 
+asr:0: OUTPUT 3531.71-3537.78: Even in that context, we were able to raise what for us is a material amount of money. 
+asr:0: OUTPUT 3537.86-3543.26: At a very good weighted average price in relation to the trading VWAPs. 
+asr:0: OUTPUT 3543.74-3549.23: And we were able to do that without disrupting the market in any way, shape or form. 
+asr:0: OUTPUT 3549.95-3558.86: So for us, it was a great trial run, but it didn't represent a huge aggregation of equity on our part. 
+asr:0: OUTPUT 3559.58-3569.57: But it was a great trial run and we're confident we can use it successfully when our cost of equity reaches a point that we consider acceptable. 
+asr:0: OUTPUT 3572.49-3576.50: Thank you. Just one last one for me. I know we're, we've hit the 60 minute mark. 
+asr:0: OUTPUT 3577.18-3582.74: Just on the same property in a way outlook, you know, the low to mid single digit guidance for the year, I guess, overall. 
+asr:0: OUTPUT 3583.50-3588.83: Just curious, how does that sort of roughly break out across your core markets? 
+asr:0: OUTPUT 3589.23-3597.50: We had some pretty strong results in Montreal. Toronto slipped a little bit. And I guess Western Canada was down a bit. But just curious what you can share with us on that. 
+asr:0: OUTPUT 3598.68-3600.58: Yeah, it would be... 
+asr:0: OUTPUT 3600.60-3615.46: You know, well into that range in central and UDC and then offset by continuing softness in Calgary and then in Montreal as we lease up the turnover vacancy. 
+asr:0: OUTPUT 3615.48-3619.12: That is a bit of softness in 2022. 
+asr:0: OUTPUT 3619.18-3620.88: As it relates to same acid and why. 
+asr:0: OUTPUT 3623.94-3625.03: Thanks very much. I'll turn it back. 
+asr:0: OUTPUT 3629.79-3634.49: We'll take our next question from Scott Frommsen at CIBC. Your line is open. Please go ahead. 
+asr:0: OUTPUT 3635.52-3637.06: Thanks and good morning. 
+asr:0: OUTPUT 3638.12-3647.29: If we can return once again to the well, it sounds like face rates are trending pretty strongly on good demand as you get close to full occupancy. 
+asr:0: OUTPUT 3647.83-3653.09: How are TI's trending with respect to average lease terms? 
+asr:0: OUTPUT 3655.94-3662.74: TI's haven't changed a great deal over the course of our leasing program. 
+asr:0: OUTPUT 3663.38-3670.81: What's happened most recently I would say that's helping us achieve really good rents. 
+asr:0: OUTPUT 3671.31-3678.50: Is we can physically take people into the building up to the floors and they can see what they're going to be occupying. 
+asr:0: OUTPUT 3679.22-3689.57: And that makes a big difference for companies rather than leasing from a plan and leasing from renderings. They can physically see what they're going to be. 
+asr:0: OUTPUT 3689.59-3691.03: Sitting in. 
+asr:0: OUTPUT 3692.13-3694.65: And I think that's helped us achieve higher rents. 
+asr:0: OUTPUT 3698.58-3704.08: And what about other markets, say Vancouver, especially 400 West Georgia? 
+asr:0: OUTPUT 3708.05-3710.63: No change in TIs in Vancouver. 
+asr:0: OUTPUT 3711.79-3720.96: TI's and a little bit of free rent is the order of the day in Calgary and there's been no change in Montreal. 
+asr:0: OUTPUT 3723.18-3730.69: Okay, just one last question. Are you seeing any backfill vacancy on new developments coming on the market? 
+asr:0: OUTPUT 3730.71-3735.28: In your existing portfolio, say, from your older buildings? 
+asr:0: OUTPUT 3737.50-3747.81: No, we haven't needed to cannibalize our existing portfolio to fill any of our development properties. 
+asr:0: OUTPUT 3748.29-3751.17: I can't think of a single instance. 
+asr:0: OUTPUT 3751.19-3763.00: Where someone is moving out of an existing property into a new property with the possible exception of Conrad at King and Spadina. 
+asr:0: OUTPUT 3763.12-3773.81: And they'll be moving out of one of our best brick and beam buildings in the country into the well. And backfilling that space is the easiest thing in the world for us to do. 
+asr:0: OUTPUT 3773.89-3782.62: We're actually looking forward to that. I did mention in my speaking notes that there was a 25,000 square foot user at King & Spadina. 
+asr:0: OUTPUT 3782.80-3787.33: Moving to 55,000 square feet, we're getting close to that deal. 
+asr:0: OUTPUT 3788.03-3795.42: But that is, they're moving to a brick and beam building that's being refurbished today on Spadina. 
+asr:0: OUTPUT 3795.94-3800.80: So if that was what prompted the question, that's not the case. And by the way,. 
+asr:0: OUTPUT 3801.18-3806.61: We have users ready to take the 25,000 square feet once this tenant makes the move. 
+asr:0: OUTPUT 3809.65-3815.98: So as Michael said, there's nobody that's leaving the portfolio at our expense. 
+asr:0: OUTPUT 3817.44-3827.27: So that Spadina property would be the vacation of IBM? It would. Okay. That's great. That's very helpful. Thanks. I'll turn it over. 
+asr:0: OUTPUT 3830.35-3835.48: And we'll take our final question from Jenny Ma, BMO Capital Markets. Your line is open. Please go ahead. 
+asr:0: OUTPUT 3836.40-3842.20: Thanks and good morning. I appreciate the color that was provided on the, what goes into the guidance. 
+asr:0: OUTPUT 3842.58-3845.61: I'd just like to touch on the Deki Iba Da. 
+asr:0: OUTPUT 3845.97-3848.83: When we think about the pathway of what that might take. 
+asr:0: OUTPUT 3849.03-3854.41: Would it more or less resemble the occupancy move that you're expecting? 
+asr:0: OUTPUT 3854.43-3860.50: Kind of steady where it's been at year-end for the first half of this year and starting to trend down. 
+asr:0: OUTPUT 3861.46-3864.54: And then the second part of my question is, when you're talking about a target,. 
+asr:0: OUTPUT 3865.21-3873.83: Could we zone in on if you're targeting returning more to a 2020 level, sort of in that 7 range or or pre pandemic 6 range. 
+asr:0: OUTPUT 3875.96-3876.96: I think... 
+asr:0: OUTPUT 3878.00-3879.08: Worst case. 
+asr:0: OUTPUT 3880.00-3882.70: If I can describe it that way. 
+asr:0: OUTPUT 3882.72-3895.10: Would see our return to target levels of net debt EBITDA actually trailing our occupancy gain over the course of 2022. 
+asr:0: OUTPUT 3895.18-3901.34: So I wouldn't see getting to our target levels in 2022. 
+asr:0: OUTPUT 3901.48-3905.91: I think it'll be in 2023 organically. 
+asr:0: OUTPUT 3906.43-3913.39: And what gets us there organically, of course, is the introduction of roughly $80 million in EBITDA. 
+asr:0: OUTPUT 3913.65-3917.86: Once that is hitting our statement on a recurring basis. 
+asr:0: OUTPUT 3917.90-3925.07: We see ourselves getting down into the low 7s, maybe even the high 6s. 
+asr:0: OUTPUT 3926.25-3935.56: But I don't think we get our debt to EBITDA back to our target, which is, let's call it sevens. 
+asr:0: OUTPUT 3935.70-3943.88: By the end of 2022, unless our cost of equity improves materially. 
+asr:0: OUTPUT 3943.90-3947.53: And we over-equitize as we have done in the past. 
+asr:0: OUTPUT 3947.77-3949.75: But that I'm not counting on. 
+asr:0: OUTPUT 3950.17-3958.84: So I think realistically it's going to take us until late 23 to sort of get back to our target range. 
+asr:0: OUTPUT 3958.86-3960.46: Or maybe even early 24. 
+asr:0: OUTPUT 3962.34-3964.12: Okay, great. That's really helpful. 
+asr:0: OUTPUT 3965.15-3974.93: Cecilia, you had mentioned the straight line rent is expected to triple this year. I think I heard it right. Could you give us a bit more detail on sort of the timing of how that flows through? 
+asr:0: OUTPUT 3976.66-3980.00: Yeah, that would basically be the result of... 
+asr:0: OUTPUT 3981.02-3988.67: The turnover vacancy from 2021 being addressed in 2022 in the latter half. 
+asr:0: OUTPUT 3988.73-3992.71: We'd have significant straight-line rent coming online from that. 
+asr:0: OUTPUT 3994.45-4000.06: Okay, great. Second half. Okay, great. That's all for me. Thank you. Thank you. 
+asr:0: OUTPUT 4003.22-4007.73: With no other questions holding, I'll turn the conference back to management for any additional or closing comments. 
+asr:0: OUTPUT 4009.41-4018.08: All right, well, thank you one and all for participating in our conference call. We will keep you apprised of our progress going forward. 
+asr:0: OUTPUT 4018.58-4021.34: In the meantime, have a great day. Thank you. 
+asr:0: OUTPUT 4025.03-4028.27: We thank you for your participation. You may disconnect at this time. 
+asr:0: END

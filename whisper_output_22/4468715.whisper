@@ -1,0 +1,974 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.46-9.59: Good afternoon, this is the KORUSKO conference operator. Welcome and thank you for joining the NEXE third quarter 2021 financial results conference call. 
+asr:0: OUTPUT 10.21-17.50: As a reminder, all participants are in listen-only mode. After the presentation, there will be an opportunity to ask questions. 
+asr:0: OUTPUT 18.02-25.63: Should anyone need assistance during the conference call, they may signal an operator by pressing star and zero on their telephone. 
+asr:0: OUTPUT 26.21-33.07: At this time, I would like to turn the conference over to Mr. Paolo Bertoluzzo, CEO of Maxi. Please go ahead, sir. 
+asr:0: OUTPUT 35.46-44.28: Good morning to everybody on this call and thank you for joining us in our third quarter results session. 
+asr:0: OUTPUT 45.17-54.05: As usual, I'm here with Bernardo Mingrune, our CFO, and Stefania Mantegast, who is leading investor relations, but we have also a few other colleagues connected. 
+asr:0: OUTPUT 54.09-57.06: And here with us in case it is needed. 
+asr:0: OUTPUT 58.28-60.04: As usual, I... 
+asr:0: OUTPUT 60.06-63.66: We'll start giving you a little bit of an update on where. 
+asr:0: OUTPUT 63.68-70.85: We see the volumes going and evolving on the back of the evolution of COVID and also. 
+asr:0: OUTPUT 70.87-75.44: Give you a short business update with focus on merchant services. 
+asr:0: OUTPUT 75.56-79.32: Then I will hand over to Bernardo who will cover financial results. 
+asr:0: OUTPUT 79.36-87.97: I will come back to give you a quick update on where we are in creating the European Paytech leader and bringing the new group together. 
+asr:0: OUTPUT 88.91-98.12: And obviously, I will conclude commenting on guidance that, as you know, has been confirmed for the full year already. 
+asr:0: OUTPUT 99.66-107.09: Before I go in, let me remind everybody that this is the first time for us. 
+asr:0: OUTPUT 107.11-113.17: In presenting the aggregated numbers of NEXE and NET. 
+asr:0: OUTPUT 114.37-121.76: Last time, you may remember, Bernardo gave you an overview of what Proforma, the profile. 
+asr:0: OUTPUT 121.78-129.89: Of the new group would have looked like to kind of introduce the topic. This time we are reporting integrated next events. 
+asr:0: OUTPUT 131.17-139.44: We will cover the performances by region, which will give you an indication of how things are going. 
+asr:0: OUTPUT 139.46-147.11: A few more comments on the standalone performances, but as I said, we are reporting for the first time in an integrated way. 
+asr:0: OUTPUT 147.91-152.99: And then at the end of the presentation, we'll have time as always for your questions. 
+asr:0: OUTPUT 153.45-157.22: Now let me start, as usual, with key messages at page three. 
+asr:0: OUTPUT 158.58-165.79: The three messages basically are reinforcing the same three messages we had over the last couple of quarters. 
+asr:0: OUTPUT 166.19-173.75: Number one, we observed a continued volume recovery and acceleration across the various geographies. 
+asr:0: OUTPUT 174.13-181.94: In Italy, we continue to see a strong volume performance with Italian cards growing anywhere between 20 to 25%. 
+asr:0: OUTPUT 181.96-189.47: Versus 2019, that again I remember to everybody is always our benchmark year because it was pre-COVID. 
+asr:0: OUTPUT 190.15-200.26: Next to Italy, we've seen also a good recovery in the Nordics that came back to positive over the last few weeks as a total. 
+asr:0: OUTPUT 200.62-204.40: With some strong performances across many sectors. 
+asr:0: OUTPUT 204.72-210.27: The duct region is still recovering, not back to the previous level at full. 
+asr:0: OUTPUT 210.45-213.63: But actually seeing a strong daily conceptual growth. 
+asr:0: OUTPUT 214.03-222.08: And also more recently, we've seen the discretionary sector coming back to positive here, the travel sector impact. 
+asr:0: OUTPUT 222.14-224.52: For our. 
+asr:0: OUTPUT 224.54-231.75: Business there still relevant in volumes is the one that is still behind, although recovering. 
+asr:0: OUTPUT 233.27-238.88: Third point, we see an acceleration stronger in SMEs than in LACA. 
+asr:0: OUTPUT 238.94-246.77: Has to do also with the different profiles of the different sectors in terms of mixed. 
+asr:0: OUTPUT 247.19-254.45: But we believe this is really positive for our positioning and for the outlook as well. 
+asr:0: OUTPUT 254.77-257.64: And last but not least, we continue to see. 
+asr:0: OUTPUT 257.66-268.75: Clear signals of acceleration of cash to digital payment transition across all sectors and visible in all geographies, also the ones that are already more penetrated. 
+asr:0: OUTPUT 270.21-277.84: Message number two, also in the third quarter we've seen a strong and growing financial performance. 
+asr:0: OUTPUT 278.44-288.33: Prevenues for the group were at 10.1% in the quarter in acceleration versus the previous two quarters for a total of 9.6%. 
+asr:0: OUTPUT 288.35-289.35: In the nine months. 
+asr:0: OUTPUT 289.87-296.36: We've seen in particular strong revenue growth performance in venture services and solutions for both NETS and NEX. 
+asr:0: OUTPUT 296.40-301.70: At very similar levels, plus 12.2% for the total in the third quarter. 
+asr:0: OUTPUT 301.72-305.97: 10.6 year to date, and again here you see an acceleration. 
+asr:0: OUTPUT 306.41-315.94: E-commerce revenues were particularly strong at plus 32% despite the fact that the travel related sectors are still affected by COVID. 
+asr:0: OUTPUT 316.64-322.14: EBITDA in the quarter was up 14.6%, up. 
+asr:0: OUTPUT 322.16-329.69: 12.3% from the beginning of the year with continued margin expansion that in the third quarter was at 53%. 
+asr:0: OUTPUT 329.71-333.13: Up to percentage points versus last year. 
+asr:0: OUTPUT 335.10-340.92: Third message, we continue to progress in the creation of the European Paytech leader. 
+asr:0: OUTPUT 341.66-349.15: SIA has reported again strong stand-alone performance and will comment on a dedicated page. 
+asr:0: OUTPUT 349.47-359.10: As you know, we have received the antitrust approval on October 14th on the combination of an ex-NCIA and the closing is now expected by year-end. 
+asr:0: OUTPUT 359.64-365.71: In the meantime, we have closed the deal with Intesa on the Ubi merchant book. 
+asr:0: OUTPUT 366.63-368.73: Yesterday, we've also signed the. 
+asr:0: OUTPUT 368.75-377.16: The deal with Alphabank to create a joint venture in national services field. In Greece, closings are expected at some point. 
+asr:0: OUTPUT 377.36-379.80: In the second quarter. 
+asr:0: OUTPUT 380.00-385.51: Of the second half, probably the second quarter of next year. 
+asr:0: OUTPUT 385.75-392.15: And last but not least, we made a small but actually strategic investment. 
+asr:0: OUTPUT 392.19-400.34: For our future in a company called Orderbird and is the leading DAC and merchant software solution for the hospitality sector present also. 
+asr:0: OUTPUT 400.94-402.22: In other geographies. 
+asr:0: OUTPUT 402.74-411.79: It's a small investment, talking about 16 million euros. We have increased our ownership from 20%. We were already there to 40%. 
+asr:0: OUTPUT 411.81-414.67: With a clear path to control. 
+asr:0: OUTPUT 415.34-419.60: And we are very happy for this because it's the first real FML. 
+asr:0: OUTPUT 419.84-427.21: Thanks for answering in a deeper way the software space, especially for SMEs. 
+asr:0: OUTPUT 427.23-433.49: Starting from Germany, that is a very strategic market for us and expanding in other places as well. 
+asr:0: OUTPUT 434.35-442.46: On the back of all of this, we have confirmed our ambition for 2021 on a Nexinetz combined. 
+asr:0: OUTPUT 442.70-455.18: A level of revenues, we expect them to grow at about 10% year over year, and EBITDA, we expect EBITDA to grow at 11 to 13% year over year. 
+asr:0: OUTPUT 455.92-465.83: Now, before I go into volumes, let me jump to page five. As a quick reminder, this is the new profile of the group. 
+asr:0: OUTPUT 466.67-474.61: We have a group that sees about 60% of the revenues in merchant services and solutions with a strong exposure to e-commerce. 
+asr:0: OUTPUT 475.10-482.22: 29% is what we call cash and digital payments and the remaining 10% is what we call digital banking and corporate solutions. 
+asr:0: OUTPUT 482.72-496.40: Second, the group is highly, highly exposed to markets with super strong and very, very long-term and secular growth opportunity in digital payments, 71%. 
+asr:0: OUTPUT 496.42-503.00: Of our revenues are in low penetration markets such as Italy, such as Germany, such as the. 
+asr:0: OUTPUT 503.02-507.57: The Central European ones and Southern European ones. 
+asr:0: OUTPUT 509.07-517.20: Number three, 64% of our revenues are coming from volume and 36% from installed or installed. 
+asr:0: OUTPUT 517.22-519.44: Like a type of. 
+asr:0: OUTPUT 520.00-525.02: And in the last month at least we have a very strong operating leverage. 
+asr:0: OUTPUT 525.51-534.75: Now let me jump into volumes and cover it very first and then I will give you a highlight on what we see happening in the other key geographies. Page number six. 
+asr:0: OUTPUT 534.93-543.36: Is the usual page, the dark blue line is the total here. We're focusing on merchant services where we have more insights. 
+asr:0: OUTPUT 543.38-545.81: And therefore the dynamics are more interesting. 
+asr:0: OUTPUT 546.07-548.67: The dark blue line is the total. 
+asr:0: OUTPUT 549.03-557.18: The lighter blue one is actually on Italian cards, the grey one is on international cards and therefore visitors to Italy. 
+asr:0: OUTPUT 557.68-563.96: Here you see that after the summer we continue to basically grow revenues compared to 2019. 
+asr:0: OUTPUT 564.08-568.33: Anywhere in between 10 to 20 percent, sometimes also above 20 percent. 
+asr:0: OUTPUT 568.77-578.00: And here there is a clear strong contribution from Italian cards that have been growing anywhere in between 20 to 30% over the last few months. 
+asr:0: OUTPUT 578.36-584.66: I would say particularly interesting is also the dynamic in the international visitors cards. 
+asr:0: OUTPUT 584.97-593.35: Here you see that we had a very, very fast recovery in the summer, leading to August where we went back to the levels of pre-COVID. 
+asr:0: OUTPUT 594.05-599.80: Mainly driven by European visitors with Americans and Asians. 
+asr:0: OUTPUT 600.00-604.62: Being still not present or present in a very limited way. 
+asr:0: OUTPUT 605.39-609.59: And then with the slowdown again, but then a strong recovery over the last few weeks. 
+asr:0: OUTPUT 610.85-617.70: This dynamic is probably explained by the fact that the touristic side of international travel. 
+asr:0: OUTPUT 617.72-621.50: Is recovering fast, people are really keen to travel as soon as they can do it. 
+asr:0: OUTPUT 621.84-629.13: Actually, the business traveler dynamic is still behind and therefore, depending on the moment of decision,. 
+asr:0: OUTPUT 629.43-632.53: Probably we'll continue to see these dynamics happening. 
+asr:0: OUTPUT 632.81-636.96: Hopefully, the recovery of October is also due to the fact that. 
+asr:0: OUTPUT 637.00-643.44: We had lesser restrictions also for business travelers, so it's quite a combination of business travelers. 
+asr:0: OUTPUT 643.46-652.39: Coming a bit back and actually holidays in some countries in Europe in the latter part of October as well. 
+asr:0: OUTPUT 653.23-658.52: Jumping to pitch seven, we have the usual split by macro sectors. 
+asr:0: OUTPUT 658.66-664.68: This is the total, so this is not separating Italian CARTA versus international CARTA. 
+asr:0: OUTPUT 664.92-672.55: And therefore the sectors are also affected by the dynamics that I was explaining before. Here we see very strong continuing growth. 
+asr:0: OUTPUT 672.57-675.20: In the basic consumption. 
+asr:0: OUTPUT 675.22-677.80: Sectors like groceries, utilities. 
+asr:0: OUTPUT 677.82-686.09: Medical and so on and so forth, growing anywhere around 30%, 34%, 37% in the last. 
+asr:0: OUTPUT 687.29-695.52: Week and we see the other two sectors now moving kind of similarly anywhere in between I would say 5 to 10 percent year over year. 
+asr:0: OUTPUT 696.38-706.61: With a super strong recovery, I would say definitely faster than expected, in particular in the impact sectors, and I would say in particular in restaurants. 
+asr:0: OUTPUT 706.63-708.51: And bars. 
+asr:0: OUTPUT 709.25-717.64: So this is the dynamic we are observing in Italy. We'll come back in a moment to give you a bit more insight on specific subsectors, because I think it's interesting. 
+asr:0: OUTPUT 718.02-727.01: On page 8, we see instead the dynamics, the absurd dynamics in the Nordics area and in the DAC region. 
+asr:0: OUTPUT 727.53-732.29: If you just take the total before going to the subsectors space. 
+asr:0: OUTPUT 732.83-739.24: We have observed a plus 12% growth in October across both. 
+asr:0: OUTPUT 739.26-743.60: Across the net, if you like, geographies. 
+asr:0: OUTPUT 743.62-746.55: 12% growth of our SMEs. 
+asr:0: OUTPUT 747.29-751.31: Versus 2019, LACA instead were still behind. 
+asr:0: OUTPUT 751.59-759.22: But actually if you strip out the effect of the impact consumption sectors growing as well plus 8%. 
+asr:0: OUTPUT 760.00-767.91: Last but not least, we also see a recovery in issuing, now growing at 5% in net geographies and basically these are many. 
+asr:0: OUTPUT 767.93-770.11: Relating to the Nordics. 
+asr:0: OUTPUT 772.15-779.76: As we are talking about the Nordics, here you see in the top graph the dynamic, Nordics are back to positive from September. 
+asr:0: OUTPUT 780.00-786.47: And actually growing further in October. As a total, they've been growing 7% versus 2019 in terms of volumes. 
+asr:0: OUTPUT 786.85-790.53: Actually, the last week it was actually double digit with 12%. 
+asr:0: OUTPUT 790.95-799.72: Very strong and continued performance on the business consumption sectors, about 30%, actually 45% in the last week. 
+asr:0: OUTPUT 800.34-807.59: The discretionary consumption sector trending a bit slower, but now close to zero. 
+asr:0: OUTPUT 807.87-816.72: And a good recovery over the last few months also for the high impact sectors over the last month at minus 1%. 
+asr:0: OUTPUT 818.48-825.81: Last but not least, in the DAC region, and here most of the volumes are actually associated to Germany,. 
+asr:0: OUTPUT 826.17-833.81: Here you see a continued strong performance of growth in the basic consumption sectors. 
+asr:0: OUTPUT 834.65-840.64: You see actually discretionary services going back to positive. 
+asr:0: OUTPUT 840.66-845.29: 8% last week, 2% in October versus 2019. 
+asr:0: OUTPUT 845.61-850.31: Here, the sector that is still behind is actually the one that is related to travel. 
+asr:0: OUTPUT 851.13-858.70: And here in Germany, this is an important impact on the total mix, and this is one of the reasons why, the key reason why. 
+asr:0: OUTPUT 859.08-862.68: Actually, Germany is still behind compared to 2019. 
+asr:0: OUTPUT 862.84-864.14: Volumes. 
+asr:0: OUTPUT 864.66-876.24: So this is the topical picture, page nine, a bit more into the specific sectors to reinforce the point that I think we made over the last many calls. 
+asr:0: OUTPUT 876.26-879.54: I would say that we have been observing. 
+asr:0: OUTPUT 879.58-886.79: Underneath these COVID-related dynamics, a very strong acceleration of the transition from. 
+asr:0: OUTPUT 886.81-893.65: Cash to digital payments, not only in under-penetrated markets like Italy, but also in more penetrated markets like the Nordic countries. 
+asr:0: OUTPUT 893.67-894.71: In here. 
+asr:0: OUTPUT 894.75-905.01: You see at page 9 a few examples here with the peak from top to bottom, the top 8 sectors per market. 
+asr:0: OUTPUT 905.25-911.41: Some of them maybe are less relevant in size, but here you see actually also very relevant sectors. 
+asr:0: OUTPUT 911.91-916.82: I think at the restaurants and bars in Italy, 34% growth, or groceries, 25% growth. 
+asr:0: OUTPUT 917.30-925.55: You know, nicely growing old double digits next to some very special ones like doctors at 82%, for example. 
+asr:0: OUTPUT 925.89-932.43: Nordics, similarly, groceries, 25% versus 2019. 
+asr:0: OUTPUT 932.75-942.42: Again, for a market that we tend to believe that is already highly penetrated, the PIG is a big positive in our opinion and you see. 
+asr:0: OUTPUT 942.44-949.83: More specialized and smaller sectors such as for example, cosmetic or hardware growing at 40%, 59%. 
+asr:0: OUTPUT 951.05-956.18: And so on. Last but not least, also in the dark region, groceries are 49%. 
+asr:0: OUTPUT 956.40-959.50: Also restaurants, despite some limitations being still in place. 
+asr:0: OUTPUT 959.78-962.96: 13% and many other sectors growing double digit. 
+asr:0: OUTPUT 963.16-970.59: With actually the primary source growing triple digit, but I would look at it with a lot of sympathy that it's slowing down. 
+asr:0: OUTPUT 970.65-974.55: That's the benchmark for the other six as it is now. 
+asr:0: OUTPUT 975.48-979.28: So this is basically the picture in terms of volumes. 
+asr:0: OUTPUT 980.74-985.41: Before I hand over to Bernardo to cover financial results,. 
+asr:0: OUTPUT 985.63-997.38: I would love to dive with you for a few minutes on the dynamics and the key initiatives that we are observing in particular in merchant services. 
+asr:0: OUTPUT 997.40-1010.63: As you know, it's more than half of our revenues and it's always up here, not just for us, but also for you and for investors more broadly. 
+asr:0: OUTPUT 1010.81-1016.06: And here we try to give a little bit of a feeling of what we're doing in the different segments. 
+asr:0: OUTPUT 1016.58-1025.17: It will be covered by SMEs that represent almost 60% of our revenues in merchant services. Econ that represents about 20%. 
+asr:0: OUTPUT 1025.21-1027.47: 95% and also LACA. 
+asr:0: OUTPUT 1027.51-1031.63: Is a bit less than 10% of total revenues. 
+asr:0: OUTPUT 1031.81-1037.42: If you're asking yourself why those are up to 100, the reason is that there is a 7%... 
+asr:0: OUTPUT 1037.50-1041.88: That has to do with acquiring ATMs, we call it cash. 
+asr:0: OUTPUT 1042.34-1049.53: And this is not allocatable to any segment. For simplicity reasons, we have allocated post-terminals. 
+asr:0: OUTPUT 1049.55-1052.91: Revenues to SMEs because most of it is really SMEs. 
+asr:0: OUTPUT 1053.59-1057.26: Now, going one by one. 
+asr:0: OUTPUT 1057.28-1065.13: In essence, we see a strong acceleration on our digital proposition in Germany. 
+asr:0: OUTPUT 1065.15-1078.62: Positive results in Germany on the back of the very positive results we had in the Nordics, as well as in Italy we are promoting more and more the mobile post proposition for new to. 
+asr:0: OUTPUT 1078.64-1081.10: Subsector. 
+asr:0: OUTPUT 1081.90-1088.93: At the same time, we are very successfully pushing on vertical propositions in that. 
+asr:0: OUTPUT 1088.95-1092.59: In the specific sectors with SATA in Italy. 
+asr:0: OUTPUT 1092.61-1101.38: With dedicated go-to-market for very narrow verticals, for example, restaurants, cafes, hotels. 
+asr:0: OUTPUT 1101.40-1103.94: Retail and so on and so forth. 
+asr:0: OUTPUT 1103.98-1105.05: Where we package. 
+asr:0: OUTPUT 1105.07-1110.89: Very often from the distribution go to market point of view but sometimes also pricing and. 
+asr:0: OUTPUT 1110.91-1117.90: Product itself and this is really hitting the ground well with customers. 
+asr:0: OUTPUT 1118.44-1124.46: At the same time, we are increasing our focus on IVs and more in general the software space. 
+asr:0: OUTPUT 1125.19-1134.49: And here, basically, the two things we are doing on the one side, we are expanding our partnerships across all geographies, I would say, with ISVs. 
+asr:0: OUTPUT 1135.12-1139.08: And if you count them across the board, will you count them actually for the school? 
+asr:0: OUTPUT 1139.66-1142.84: It's actually more than 500 partnerships in the SV space. 
+asr:0: OUTPUT 1143.14-1151.61: And that a mix of partnerships with local leaders on merchants, CRM and ERP softwares. 
+asr:0: OUTPUT 1151.63-1153.91: For example, Team System, just to mention one. 
+asr:0: OUTPUT 1154.85-1161.26: And many, many, many smaller, much smaller vertical specialists that very often are local. 
+asr:0: OUTPUT 1161.28-1166.85: We normally partner, we do technical integration, some of them we do also go to market together. 
+asr:0: OUTPUT 1167.25-1171.03: As I anticipated, now with other birds we're going one level deeper. 
+asr:0: OUTPUT 1171.25-1180.74: As now we will integrate more on the proposition side as well and we will test it in one segment in one market to expand it further. 
+asr:0: OUTPUT 1180.76-1182.54: As we go along. 
+asr:0: OUTPUT 1183.16-1189.67: In the SME segment, basically we have not seen any major news in terms of competitive dynamics. 
+asr:0: OUTPUT 1191.03-1199.30: We know, I mean we discussed it in the past that we have important competition in the new to digital payments. 
+asr:0: OUTPUT 1199.32-1206.25: Segment of the smaller merchants that have started to use digital payments for the first time, in particular in Italy, in particular in Serbia. 
+asr:0: OUTPUT 1206.27-1210.87: In Germany from basically one player that is Samapp. 
+asr:0: OUTPUT 1210.89-1220.48: But they're actually successful in the market in winning a number of customers, but actually the value associated with these customers, even the size of them is normally very small. 
+asr:0: OUTPUT 1221.38-1228.41: We have also increased in Italy our focus in that segment and we're actually quite successful. We have doubled. 
+asr:0: OUTPUT 1228.83-1235.76: Our acquisition volumes, but we're also focusing in bringing back these customers as they grow. 
+asr:0: OUTPUT 1236.28-1240.92: And when they need a proposition that is more structural and more complete. 
+asr:0: OUTPUT 1242.30-1249.81: This is it in terms of SMEs. The volumes across our geographies were up about 14% in the quarter compared to the same quarter. 
+asr:0: OUTPUT 1252.57-1254.47: E-commerce which represents about 25%. 
+asr:0: OUTPUT 1254.49-1263.60: Of our arriving using merchant services. Seeing a lot of dynamics, a lot of new players coming, some of them going as well. 
+asr:0: OUTPUT 1264.48-1271.31: To be honest with you, and by the way, this is a sector where we have a new segment and new propositions emerging as well. 
+asr:0: OUTPUT 1271.73-1278.64: We will talk more about it in our Q&A sessions, but let me give you a flavor of what we are doing here. 
+asr:0: OUTPUT 1279.36-1285.15: First of all, when it comes to the more PSP-like type of proposition for the acceptance,. 
+asr:0: OUTPUT 1285.51-1293.67: Propositions we are launching in Germany after a pretty good success in the Nordics. 
+asr:0: OUTPUT 1294.11-1302.88: As a collecting PSP proposition at the same time we are extending our PSP proposition in terms of capital. 
+asr:0: OUTPUT 1302.96-1304.96: It's called X-Page. 
+asr:0: OUTPUT 1305.27-1314.13: And we are extending this proposition also on the back of the experience and the capabilities that we have in NET, for example, in OnePage Checkouts and Card. 
+asr:0: OUTPUT 1314.19-1315.28: Pre-onboarding. 
+asr:0: OUTPUT 1316.40-1326.23: In the nine months, our e-commerce activations in Italy have been up 70% compared to the same period two years ago, just to give you a flavor. 
+asr:0: OUTPUT 1326.61-1332.31: At the same time, we are seeing a lot of activity in the alternative payment method space here. 
+asr:0: OUTPUT 1333.01-1339.94: Our angle is twofold. We know, we own alternative payment methods and at the same time we partner. 
+asr:0: OUTPUT 1340.00-1347.87: We support the payment methods to make them available through our gateways to our merchant customers. 
+asr:0: OUTPUT 1348.29-1352.35: You focus for a moment on account to account propositions. 
+asr:0: OUTPUT 1352.71-1357.34: We actually have a very strong position, a successful position both in Poland and Finland. 
+asr:0: OUTPUT 1357.38-1358.86: They're growing very, very fast. 
+asr:0: OUTPUT 1358.88-1368.09: Strongly at the same time, we are onboarding more and more account-to-account solutions to our gateways, for example, Bank of Mapay. 
+asr:0: OUTPUT 1368.11-1370.25: In Italy. 
+asr:0: OUTPUT 1371.73-1379.98: Similarly, in Buy Now, Pay Later, we have a very strong proposition called the right pay in Germany. We own that proposition. That proposition is growing. 
+asr:0: OUTPUT 1380.52-1381.78: Very, very strongly. 
+asr:0: OUTPUT 1382.28-1387.05: But again, that is a proposition that is made available not only for our gateway solutions,. 
+asr:0: OUTPUT 1387.37-1397.12: In Germany, but also to basically every other national, international PSB active in the country. At the same time, in the other geographies,. 
+asr:0: OUTPUT 1397.22-1400.40: We are partnering more and more with FATI. 
+asr:0: OUTPUT 1400.42-1411.21: By now, for later providers because at the end of the day, as a PSP, we must be able to offer all possible payment methods to our employees. 
+asr:0: OUTPUT 1411.23-1418.12: Merchant customers in order to allow them to basically maximize their conversion rates at checkout. 
+asr:0: OUTPUT 1420.64-1428.87: Last but not least, we continue to strike partnerships with e-commerce enabler platforms. 
+asr:0: OUTPUT 1429.25-1436.10: Across all markets. We have about, well, I should say more than 10 partnerships across the group, many of them. 
+asr:0: OUTPUT 1436.46-1439.68: Are with players that are present in more than one market. 
+asr:0: OUTPUT 1440.04-1449.93: Today we cover about 76% of the real market. Today e-commerce enables cover across our geography about 10%. 
+asr:0: OUTPUT 1450.01-1454.03: Of the volumes that basically serve the tiniest of the micro merchants. 
+asr:0: OUTPUT 1454.67-1455.88: The micro-Seneza. 
+asr:0: OUTPUT 1456.00-1465.03: In e-commerce we cover through technology integration and in certain cases also go to market partnership at 76%. 
+asr:0: OUTPUT 1465.05-1466.43: Of that. 
+asr:0: OUTPUT 1468.01-1476.78: Again, here, volumes are growing 13 percent despite the private sector still being suffering. 
+asr:0: OUTPUT 1477.20-1482.52: The reason why the growth rate of revenues is actually well above 30%. 
+asr:0: OUTPUT 1482.74-1490.67: Is because when it comes to account to account and by now pay later solutions that we own, the growth rate is very, very strong and it's contributing to the. 
+asr:0: OUTPUT 1490.69-1492.05: Total drama. 
+asr:0: OUTPUT 1492.63-1499.40: Last but not least, the LACA segment represents about 9% of our total revenues in merchant services. 
+asr:0: OUTPUT 1499.62-1501.30: Here. 
+asr:0: OUTPUT 1501.36-1503.74: We don't see any major news. 
+asr:0: OUTPUT 1503.78-1512.17: In terms of competition, obviously we continue to see very active players like Agianna. 
+asr:0: OUTPUT 1512.25-1516.78: In very specific segments that are basically segments of the global brands. 
+asr:0: OUTPUT 1516.84-1521.34: In particular, I would say, in luxury and in fashion. 
+asr:0: OUTPUT 1521.96-1522.96: To be very clear. 
+asr:0: OUTPUT 1523.04-1532.59: We continue to compete successfully and win in the sectors that instead are more local in nature. 
+asr:0: OUTPUT 1532.87-1539.46: Such as for example food retail, household goods, mobility, insurance, public administration and so on and so forth. 
+asr:0: OUTPUT 1539.92-1555.54: Basically, we continue to be where the physical component of the omnichannel solutions is actually relevant for these companies where they need the complex needs in terms of terminals and terminals acquiring acceptance. 
+asr:0: OUTPUT 1555.56-1565.45: Integration where the local integration with local payment method is important, where the vertical sector integration is important, where customization is important. 
+asr:0: OUTPUT 1566.15-1573.89: At the end of the day, that's the core of what we do, thanks to our local entrenchment. 
+asr:0: OUTPUT 1574.43-1579.16: And here we continue to serve successfully not only the local. 
+asr:0: OUTPUT 1579.18-1588.55: Large merchants, but also global brands that are present in market with the characteristics I just described. 
+asr:0: OUTPUT 1588.57-1593.83: Our geographies we cover and serve merchants such as, for example, IKEA, Sky,. 
+asr:0: OUTPUT 1593.93-1599.46: Decathlon, Vodafone, Zara, I mean names that are clearly international names but require. 
+asr:0: OUTPUT 1599.68-1604.60: Very specific local support, integration, and delivery. 
+asr:0: OUTPUT 1605.81-1620.62: Now, before I move on, let me use one example of something that we had announced yesterday. It is actually today's mall, but I think it's also a good example of what we see as the core of the nature of the new NAICS group. 
+asr:0: OUTPUT 1620.68-1625.59: I think we said in the past in many of our conversations that at the end of the day our strategy is quite simple. 
+asr:0: OUTPUT 1625.93-1633.23: We want to combine the scale that is necessary to drive hard innovation, digital innovation in particular. 
+asr:0: OUTPUT 1633.27-1637.88: And we understand competence is important, investments are important for when it's scaled. 
+asr:0: OUTPUT 1638.22-1644.68: So we want to remain competitive with the global players, specialized players when it comes to product, proposition, innovation. 
+asr:0: OUTPUT 1644.88-1654.71: But at the same time, we also want to be very, very locally entrenched, thanks to our people, thanks to the ecosystem integration that we have in the different geographies. 
+asr:0: OUTPUT 1655.22-1660.74: And one simple example of this on top of the many I've given to you over the last few minutes. 
+asr:0: OUTPUT 1660.82-1667.39: It's to do with a product we launched yesterday. It's called Pago in Conto. It's translatable as pay by account. 
+asr:0: OUTPUT 1667.95-1672.99: It is a very nice product because it is an account to account payment product. 
+asr:0: OUTPUT 1673.05-1682.14: That we are making available to begin with in e-commerce but will be available also on Omnichannel solutions for LACAs and SMEs as well. 
+asr:0: OUTPUT 1682.44-1690.11: This is actually integrating many capabilities that we have in Nexie, not only in merchant services but also in the payment space, in the open banking space. 
+asr:0: OUTPUT 1690.65-1697.48: Now to deliver a solution that we are making available to our PSP merchant customers. 
+asr:0: OUTPUT 1697.80-1704.16: And I would believe progressively also to other PSPs that want to operate in Italy. 
+asr:0: OUTPUT 1704.18-1712.49: And this solution is basically leveraging open banking enablement that we provide because we are the provider of the open banking system for Italy. 
+asr:0: OUTPUT 1712.51-1714.19: Our capability in this space. 
+asr:0: OUTPUT 1714.55-1719.94: Plus our local accesses, plus our local integration, plus our local capabilities on the commerce side. 
+asr:0: OUTPUT 1720.30-1728.79: And basically a merchant can offer the opportunity to its own customer to pay by the bank account. 
+asr:0: OUTPUT 1728.81-1730.41: Without pre-registering on anything. 
+asr:0: OUTPUT 1730.69-1737.40: Because thanks to open banking, the customer will find a click button on the checkout page. 
+asr:0: OUTPUT 1737.64-1740.46: We click on the bottom, then basically. 
+asr:0: OUTPUT 1740.80-1749.13: The page of the bank will open, the customer will identify himself with the standard. 
+asr:0: OUTPUT 1749.15-1751.99: Identification method of the bank. 
+asr:0: OUTPUT 1752.01-1753.97: And the transaction will happen. 
+asr:0: OUTPUT 1754.03-1762.44: Because it will be pre-already sealed on the different components of the transaction itself and the reconciliation will happen automatically. 
+asr:0: OUTPUT 1762.80-1769.39: Again, it's a small thing, but I believe it gives you an idea of what it means having global scale but also being locally. 
+asr:0: OUTPUT 1769.41-1779.06: And integrated clearly this is targeting not necessarily the small transaction but actually large transactions because being paid by counter you can take for the moment up to. 
+asr:0: OUTPUT 1779.08-1782.60: 15,000 euros per transaction and going forward. 
+asr:0: OUTPUT 1782.62-1784.28: Even more. 
+asr:0: OUTPUT 1785.41-1792.89: Let me now hand over to Bernardo. Sorry if I took a bit more time here, but I really wanted to try and give you a flavor of what is happening in this space. Bernardo. 
+asr:0: OUTPUT 1793.33-1798.52: Thanks, Paolo. So just we'll try and be quick here, so we leave as much space as possible for Q&A. 
+asr:0: OUTPUT 1799.14-1807.89: Starting on slide 12, we've seen how revenues have grown approximately 10% in the quarter and 10% for the nine months, as Paolo said earlier. 
+asr:0: OUTPUT 1807.91-1813.05: What we discussed in terms of volumes and in terms of the business updates translates into the financials. 
+asr:0: OUTPUT 1813.77-1822.38: I think it's important to underline how growth in revenues was very similar, both NETS and NEXSE. I guess that's the message I would like to leave you with. 
+asr:0: OUTPUT 1822.50-1831.85: In terms of EBITDA, we can see there has been a 2 percentage point accretion year on year in the quarter and the same applies if we look at the nine months. 
+asr:0: OUTPUT 1832.25-1834.59: Most of the secretion actually comes from the nets. 
+asr:0: OUTPUT 1835.18-1841.18: We have less of an accretion this year on next year's we've discussed in the past due to the fact that we're unwinding or. 
+asr:0: OUTPUT 1841.20-1843.68: Let's see, there is... 
+asr:0: OUTPUT 1843.70-1852.73: Coming out of last year, we have the effect of certain costs, the cost-cutting exercise we had last year which impacts our growth in costs the next year. 
+asr:0: OUTPUT 1852.75-1854.17: This year as expected. 
+asr:0: OUTPUT 1854.45-1859.02: So two percentage points, secretion, which is in line with our expectations. 
+asr:0: OUTPUT 1859.36-1862.78: On slide number 13, we see how the various geographies performed. 
+asr:0: OUTPUT 1863.84-1874.29: Italy strong performance in the quarter with 12% growth accelerating compared to 2019. 
+asr:0: OUTPUT 1874.61-1881.70: Accelerating compared to the percent we had in the first nine months. So again, good signs of recovery from COVID. 
+asr:0: OUTPUT 1882.30-1889.73: Poland had even stronger growth, we have an 18% growth in 9 months, 19% if you look at. 
+asr:0: OUTPUT 1890.03-1898.06: Actually Germany growing more than Poland thanks to the strong exposure we have in Germany to e-commerce and BNPL, which Paolo also referred to earlier. 
+asr:0: OUTPUT 1898.42-1901.24: In the Nordics and Southeastern Europe, a slightly different dynamic. 
+asr:0: OUTPUT 1901.82-1915.38: Again, there is less exposure, I would say, to e-commerce compensated in Germany and Poland for the slow recovery in terms of coming out of the lockdown in some of the former or in some of the geographies and that's just present in. 
+asr:0: OUTPUT 1915.44-1919.44: Process as we will see later the effect in. 
+asr:0: OUTPUT 1919.48-1926.39: In the Nordics of the, as we had mentioned in the past, the fact that we have renegotiated the last. 
+asr:0: OUTPUT 1926.41-1930.37: Major conflict at Nets and that has hit us in 2021. 
+asr:0: OUTPUT 1931.31-1936.98: Moving on to the various divisions of Site 14, we have merchant services,. 
+asr:0: OUTPUT 1937.00-1942.34: And solutions where we've had a very strong quarter with double-digit revenue growth. 
+asr:0: OUTPUT 1942.38-1947.83: Across the group and this is true as I said both at NXE and at NETS level. 
+asr:0: OUTPUT 1949.45-1953.77: Nets has proved to be extremely resilient in all its geographies. 
+asr:0: OUTPUT 1954.59-1964.16: We can see that transactions have recovered very nicely throughout the group and I think we have 15% year-on-year growth for the nine months. 
+asr:0: OUTPUT 1965.17-1971.67: And this was only partially offset by slightly slower growth in some of the other geographies due to the different phasing of lockdown. 
+asr:0: OUTPUT 1971.95-1975.96: I think it's important to underscore how e-commerce is continuing to grow nicely. 
+asr:0: OUTPUT 1976.26-1982.02: We have 37% growth in the third quarter this year, 32% if you look at the nine months. 
+asr:0: OUTPUT 1983.14-1989.55: And this is also sustained, as I said earlier, through a strong performance in Germany and Poland. 
+asr:0: OUTPUT 1990.25-1993.13: Just a word of. 
+asr:0: OUTPUT 1993.15-2001.84: And explanation with regards to a trend which in the past has been different in terms of the growth in volumes of international schemes which is lower than the overall volume growth. 
+asr:0: OUTPUT 2002.16-2011.21: This is due to a factor in Italy of domestic debit cards now being able to transact conflictless, transacting on the domestic scheme rather than. 
+asr:0: OUTPUT 2011.23-2016.28: Than international schemes and this has caused this inversion of the trend. 
+asr:0: OUTPUT 2017.22-2022.12: On site 15, we can see the data for cards and digital payments. 
+asr:0: OUTPUT 2022.36-2030.99: Even in this division, we have good revenue growth with good volume recovery. Here the volume recovery as you can see is what we are more used to. 
+asr:0: OUTPUT 2031.45-2039.90: Where the trend I highlighted earlier of the shift to domestic debt and NFT on contactless transactions is more than offset by the fact that we are. 
+asr:0: OUTPUT 2039.92-2042.94: Moving some of our. 
+asr:0: OUTPUT 2042.96-2049.25: We're progressively moving our domestic debit cards into international debit cards which fuel the growth in international schemes. 
+asr:0: OUTPUT 2050.21-2056.90: But overall, we have strong growth in the quarter also in cards and digital payments. 
+asr:0: OUTPUT 2057.54-2065.43: Slide 16, we can see how DBS or Digital Banking Corporate Solutions is now called performed in the nine months. 
+asr:0: OUTPUT 2066.03-2074.23: We have discussed this in the past, there is a division in which project-related revenue which is recurring by nature even though it is not contractualized. 
+asr:0: OUTPUT 2074.25-2077.78: But every year we have project work for. 
+asr:0: OUTPUT 2077.80-2079.34: Our partner banks mainly. 
+asr:0: OUTPUT 2079.88-2087.03: In the various geographies has been from a seasonality perspective, you know, present in our P&L more in the first half of the year. 
+asr:0: OUTPUT 2087.31-2093.93: Hence, the deceleration you can see from 11% to 5%, so 11% for the first nine months and 5% for the last quarter. 
+asr:0: OUTPUT 2094.55-2096.96: Overall I would say that performance. 
+asr:0: OUTPUT 2096.98-2105.07: Has been in line with our overall expectations. Maybe in Italy, we have had a bit of a slowdown. 
+asr:0: OUTPUT 2105.13-2117.64: Which will also impact us, has impacted us this year on monthly basking as they were discussing potential transaction with Unicredit that is no longer the case, so hopefully we will recover some of the. 
+asr:0: OUTPUT 2117.66-2120.60: The last revenues there in 2022. 
+asr:0: OUTPUT 2121.46-2127.83: Slide 17 shows us the cost dynamic. I think it is important to look at the commentary we put into the side of this. 
+asr:0: OUTPUT 2127.85-2136.30: Of this slide where we try and give you a picture of what the cost dynamics really look like if we normalize for last year. I mentioned earlier. 
+asr:0: OUTPUT 2136.36-2144.00: I reminded you that next year we had a cost containment program which was 100 million Euros of cash cost. 
+asr:0: OUTPUT 2144.02-2147.01: Cut last year to protect our P&L and our cash flow. 
+asr:0: OUTPUT 2147.57-2157.20: This unwinds this year and hence we have a bounce back of pools on variable compensation, a bounce back of travel expenses and the likes. 
+asr:0: OUTPUT 2157.80-2166.41: If we normalize for those two items in HR costs, for instance, the overall HR costs would actually be flat year on year. 
+asr:0: OUTPUT 2166.61-2171.35: Say, increase due to the annualization of people who were hired last year. 
+asr:0: OUTPUT 2172.15-2177.38: But overall basically flat HR costs if we normalize for a variable comp. 
+asr:0: OUTPUT 2178.08-2180.64: With regards to other non-HR costs. 
+asr:0: OUTPUT 2180.88-2182.64: These will be up 1.4%. 
+asr:0: OUTPUT 2182.68-2191.45: If we normalize for the growth in volume. So, effectively, obviously, revenues are growing. We've seen a double digit. Our cost base grows by 1.4% showing. 
+asr:0: OUTPUT 2191.97-2201.92: If we take out the growth in volume driven processing costs, testament to the fixed nature of most of our cost base. 
+asr:0: OUTPUT 2203.36-2208.31: With regards to, let's say, the net debt position of the group. 
+asr:0: OUTPUT 2209.43-2216.86: We should look at it with SIA or at least I look at it with SIA included. We have received antitrust approval and Paolo will speak to this. 
+asr:0: OUTPUT 2216.88-2220.86: In a second, but basically now we have real certainty. 
+asr:0: OUTPUT 2220.98-2225.35: If we look at the combined numbers both of net debt. 
+asr:0: OUTPUT 2225.43-2234.47: And EBITDA, so adding on to our last 12 months, EBITDA also sees 327 million euros of EBITDA for the last 12 months. 
+asr:0: OUTPUT 2234.75-2238.34: And we include CS820 million euros of net debt. 
+asr:0: OUTPUT 2238.50-2247.39: Our overall ratio is 3.6 times leverage, which is three times if we include also run rate synergies, which we announced as part of this transaction. 
+asr:0: OUTPUT 2247.65-2255.01: And this we expect to unwind pretty quickly and de-leverage with the profile we highlighted in the announcement. 
+asr:0: OUTPUT 2256.18-2262.26: Just a reminder that three quarters of our indebtedness is fixed rates, so moving into,. 
+asr:0: OUTPUT 2262.28-2267.41: A potentially high rate environment, I think we feel pretty comfortable with regards to our capital structure. 
+asr:0: OUTPUT 2267.95-2274.75: So, that said, I will pass the floor back on to Paolo so he can take us through the M&A update and closing remarks. 
+asr:0: OUTPUT 2275.94-2285.71: Stancy Bernardo, page 20, quick update on CS. He reported over the last few days the results for the quarter. 
+asr:0: OUTPUT 2286.23-2289.37: The revenues were up 9.3%. 
+asr:0: OUTPUT 2289.79-2296.30: And EBDA was up 12.9%, so very close to the rest of the group. 
+asr:0: OUTPUT 2296.32-2297.76: Performance. 
+asr:0: OUTPUT 2298.82-2306.35: Year-to-date results are even higher than this, I think, as we anticipated at the beginning of the conversation around CEA. 
+asr:0: OUTPUT 2306.61-2310.35: The first half of the year is a bit richer than the second half. 
+asr:0: OUTPUT 2310.37-2317.30: Basically due to phasing and very specific events and nothing to do with underlying it. 
+asr:0: OUTPUT 2318.26-2325.81: As far as the closing agenda is concerned, as you know, the Italian Petraeus has approved the deal on October 14th. 
+asr:0: OUTPUT 2326.59-2329.27: Our remedies specifically in. 
+asr:0: OUTPUT 2329.35-2334.25: Areas that are connected to national products. 
+asr:0: OUTPUT 2334.31-2341.50: And this is certainly consistent with what our expectations, what we believe is very much correct. 
+asr:0: OUTPUT 2342.28-2345.99: In terms of remedies, there is only one of them that is. 
+asr:0: OUTPUT 2346.01-2354.47: Is structural and this remedy has to do with what I would call the national clearing, non-SEPA clearing. 
+asr:0: OUTPUT 2355.44-2360.84: To be precise, the size of that business is about 6 million euro. 
+asr:0: OUTPUT 2360.86-2366.65: Of revenues for the year, about 2.3 of EBITDA more or less. 
+asr:0: OUTPUT 2367.31-2372.39: With by the way revenues declining because we are talking about products such as for example checks. 
+asr:0: OUTPUT 2373.87-2379.48: We will be obviously implementing a work to implement these remedies as we speak. 
+asr:0: OUTPUT 2380.02-2384.24: And we expect to close by the end of the year. We still have two or three. 
+asr:0: OUTPUT 2384.58-2394.29: Authorizations missing, but they tend to be either a bit more technical or in any case, they are due at the end of the process, such as for example, the Italian Stock Exchange regulator. 
+asr:0: OUTPUT 2394.31-2397.72: For the approval of the prospectus. 
+asr:0: OUTPUT 2398.22-2405.75: And everything else is in line in terms of preparing for the execution of the closing within this time frame. 
+asr:0: OUTPUT 2406.07-2413.11: On page 21, you have a bit broader update on what is happening on the various fronts. 
+asr:0: OUTPUT 2413.31-2418.98: We did tell you in the past that we were structuring our transformation plan on different work streams and so on and so forth. 
+asr:0: OUTPUT 2419.48-2422.32: A quick update on the technology side that. 
+asr:0: OUTPUT 2422.58-2430.45: Basically, we already have one new group technology plan and we already started to execute around some areas, for example, CAPEX. 
+asr:0: OUTPUT 2430.49-2432.25: Savings and deduplication. 
+asr:0: OUTPUT 2432.45-2437.84: Pulling together group digital delivery under one hub. 
+asr:0: OUTPUT 2437.86-2442.50: Optimizing infrastructure ready to execute processing platform consolidation. 
+asr:0: OUTPUT 2442.52-2447.13: As soon as we close CIA and many other areas of initiatives. 
+asr:0: OUTPUT 2447.47-2450.33: As far as the institution of patient excellence is concerned. 
+asr:0: OUTPUT 2450.49-2458.70: We have already started to optimize to mobile management in the HR side and we are ready to execute. 
+asr:0: OUTPUT 2458.72-2466.81: The full integration of Nexia in Italy, while there are many other operational excellence initiatives already ongoing. 
+asr:0: OUTPUT 2467.17-2471.79: As far as procurement is concerned, you start working on these a few months back. 
+asr:0: OUTPUT 2472.11-2475.32: And we have a very detailed plan. 
+asr:0: OUTPUT 2475.50-2484.60: Defined and we've already closed or close to close already 12 strategic negotiations and as far as the revenue synergies are concerned, we detached. 
+asr:0: OUTPUT 2484.74-2492.25: On a few of them before, but teams are already working together, starting from the lower-ending fluids. 
+asr:0: OUTPUT 2492.59-2495.82: And even on the CSI that we did use. 
+asr:0: OUTPUT 2495.84-2505.41: A clean team approach to prepare a very detailed commercial plan to be able to go out as soon as we close in upselling our product and services too. 
+asr:0: OUTPUT 2505.47-2506.93: Our customers. 
+asr:0: OUTPUT 2507.13-2508.41: That initially to begin. 
+asr:0: OUTPUT 2509.25-2516.04: We expect to have synergies for about 100 million euro of cash. 
+asr:0: OUTPUT 2516.90-2518.28: Next year. 
+asr:0: OUTPUT 2518.44-2528.41: One part of this is CAPEX, as you can imagine, is one of the areas where it's easier to optimize and faster to optimize, but we're progressing on all initiatives. 
+asr:0: OUTPUT 2528.65-2538.36: Here, I'm talking about 100 million European cash synergies in the year and therefore obviously the exit rate would be much higher than that. 
+asr:0: OUTPUT 2539.40-2543.24: Let me now move to page 23. 
+asr:0: OUTPUT 2543.30-2546.63: In short, we are basically simply confirming the guidance. 
+asr:0: OUTPUT 2546.65-2553.71: That we gave you last time when we talked for the first time about the new aggregated group. 
+asr:0: OUTPUT 2553.89-2562.46: This is valid obviously for NECSI and NET, and I just remember that we did upgrade our guidance at quarter one. 
+asr:0: OUTPUT 2562.54-2565.73: Results that when we were talking about makes it wholly. 
+asr:0: OUTPUT 2566.03-2568.59: And we're now confirming all of this. 
+asr:0: OUTPUT 2568.85-2576.68: 10% and about 10% revenue growth in the year, about 11% to 13% EBITDA growth with margin expansion. 
+asr:0: OUTPUT 2577.14-2584.18: Both versus 2020 and even more 2019, it was more normal year, about 3 percentage points versus 2019. 
+asr:0: OUTPUT 2584.76-2592.41: Broadly stable capex intensity ratio with anticipation of the M&A synergies. And last but not least, as Bernardo showed you. 
+asr:0: OUTPUT 2592.53-2593.79: Contained. 
+asr:0: OUTPUT 2593.81-2609.03: Cash flow generation and progressing the leveraging over the long run starting from a new level that is exactly in line with what the plan was, with what we did announce when we did sign the deals with SIA and OMEC. 
+asr:0: OUTPUT 2609.71-2611.31: So page 24. 
+asr:0: OUTPUT 2611.65-2615.54: I will not go through all of it again, but key messages for today. 
+asr:0: OUTPUT 2615.70-2627.35: Continued recovering acceleration of volumes across all geographies with clear signals of acceleration of cash to digital payments across again all geographies. 
+asr:0: OUTPUT 2627.77-2638.50: Very strong financial performance with double-digit revenue growth in the quarter and further margin expansion as well and a particularly strong performance. 
+asr:0: OUTPUT 2638.52-2648.41: In merchant services and solutions. And last but not least, progressing according to our plan and marching ahead in putting the new group together. 
+asr:0: OUTPUT 2648.43-2652.47: As a combination of Nexinet and SIA. 
+asr:0: OUTPUT 2652.77-2658.58: Last but not least, as I just said, I've confirmed the ambition for the full year. 
+asr:0: OUTPUT 2659.72-2663.08: I'll stop there and open up for your questions. 
+asr:0: OUTPUT 2666.03-2671.83: Excuse me, this is Dukuru School Conference operator. We will now begin the question and answer session. 
+asr:0: OUTPUT 2672.33-2676.96: Anyone who wishes to ask a question may press star and 1 on their touchtone telephone. 
+asr:0: OUTPUT 2677.50-2681.50: To remove your SAP from the question queue, please press star and two. 
+asr:0: OUTPUT 2682.00-2688.97: Please pick up the receiver when asking questions. Anyone who has a question may press star and 1 at this time. 
+asr:0: OUTPUT 2689.53-2695.30: The first question is from Sebastian Stabowitz with Kepler-Chevreux. Please go ahead. 
+asr:0: OUTPUT 2695.84-2698.56: Yeah, hello everyone and thanks for sticking the question. 
+asr:0: OUTPUT 2698.90-2704.90: So I know it is a bit too early to provide any precise indication for 2022, but. 
+asr:0: OUTPUT 2705.57-2715.48: I'm just wondering if you could help us a little bit understand the dynamic behind yourself and your margins moving into 2022. 
+asr:0: OUTPUT 2715.90-2719.44: We are seeing a large or Nordic cladding recovery. 
+asr:0: OUTPUT 2719.90-2726.35: Is it reasonable to assume a kind of acceleration of the trends moving into next year? 
+asr:0: OUTPUT 2726.91-2731.01: And the second question would be more on the competitive landscape to understand a little bit. 
+asr:0: OUTPUT 2731.31-2739.88: What is happening in your main market, Italy, we discussed a couple of times competitive landscape, but on your new markets like Nordics or. 
+asr:0: OUTPUT 2739.96-2742.28: Dash, who do you feel usually? 
+asr:0: OUTPUT 2742.64-2744.22: In those markets and. 
+asr:0: OUTPUT 2744.32-2748.07: Do you see any fast growing aquarius? 
+asr:0: OUTPUT 2748.11-2756.26: In those markets moving from online to in-stores and trying to compete on the SMBs or it is not already the case. Thank you. 
+asr:0: OUTPUT 2760.00-2766.59: And thank you for the questions. So listen, 2022, we'll talk about guidance for 2022 in February. 
+asr:0: OUTPUT 2767.43-2774.47: That's when I try to give you our view for the year. 
+asr:0: OUTPUT 2774.89-2781.46: I think when we did announce these, we said that. 
+asr:0: OUTPUT 2781.66-2791.13: Our ambition was to obviously increase the speed of growth of the company on a larger and more resilient perimeter. 
+asr:0: OUTPUT 2791.83-2797.74: Our previous pre-COVID, if you wish, guidance was 5% to 7% revenues and. 
+asr:0: OUTPUT 2797.78-2803.88: I remember 13 to 16 percent of it. Our plan is to do obviously better than that on the back of. 
+asr:0: OUTPUT 2803.90-2809.17: The new context and the new group profile. 
+asr:0: OUTPUT 2809.53-2819.02: Then every single region has its own dynamics. Clearly, we see it as we are preparing the budget. As you can imagine, we are actually having. 
+asr:0: OUTPUT 2819.78-2823.72: In terms of volumes and good expectations from the Nordics. 
+asr:0: OUTPUT 2824.60-2829.13: But then there are many other specific dynamics that have to do with the... 
+asr:0: OUTPUT 2829.15-2839.12: Specific areas of investment and so on and so forth. I would really prefer to wait and give you more detailed commentary when we come. 
+asr:0: OUTPUT 2839.14-2843.46: To February and within a broader pitch. 
+asr:0: OUTPUT 2843.92-2859.64: I believe that what we are observing as we speak and the data that I show you in terms of specific individual sectors are confirming that we see growth potential in the Nordics as well on top of obviously. 
+asr:0: OUTPUT 2859.66-2863.62: Italy or Germany and obviously places like Poland. 
+asr:0: OUTPUT 2863.64-2866.57: Or Central Eastern Europe. 
+asr:0: OUTPUT 2867.51-2876.96: When it comes to the dynamics in the other markets, I think that in the other markets we are seeing a little bit of dynamics that I mentioned before. 
+asr:0: OUTPUT 2877.36-2878.94: I mean, I mean, I mean. 
+asr:0: OUTPUT 2879.02-2884.28: In the SME space you see these nuances, but to be honest with you,. 
+asr:0: OUTPUT 2884.46-2896.52: We don't see for the moment in our geographies other players becoming more visible or more aggressive. So, this is a competition that we know and is very much focused on. 
+asr:0: OUTPUT 2896.54-2899.04: YouTube card segment. 
+asr:0: OUTPUT 2899.86-2908.61: In the e-commerce space, you tend to see a little bit the same players around, I mean the Stripes and the PayPal. 
+asr:0: OUTPUT 2908.67-2912.79: And like I would say, no major new dynamic there. 
+asr:0: OUTPUT 2912.91-2917.24: Clearly, Friper making more inroads. 
+asr:0: OUTPUT 2917.68-2924.92: The smaller merchants on the back of the strong partnership that they have in Shopify, in the markets where Shopify is strong. 
+asr:0: OUTPUT 2925.23-2929.69: As I said before, now we're also strengthening our position through the partnerships with. 
+asr:0: OUTPUT 2929.71-2936.44: Content management systems and e-commerce enablers. 
+asr:0: OUTPUT 2937.82-2945.47: And when it comes to LACA, I will say that it's a very good example. 
+asr:0: OUTPUT 2945.73-2954.23: I would say a bit more of the same of what I said before, so adding more presence in general international. 
+asr:0: OUTPUT 2954.25-2957.86: Aquarius being present, but nothing really major. 
+asr:0: OUTPUT 2958.32-2964.24: As you know, by now, the letter is becoming a bigger. 
+asr:0: OUTPUT 2964.26-2969.47: And we are actually benefiting from that ourselves with rate pay. 
+asr:0: OUTPUT 2969.89-2976.24: Klarna is becoming more active in the Nordics and I would say in Germany as well. 
+asr:0: OUTPUT 2977.26-2982.26: You know, it's particularly successful in Sweden, where honestly we're not very exposed as we've discussed in the past. 
+asr:0: OUTPUT 2982.82-2990.87: When it comes to online players moving more in store, in particular, SMEs, to be honest with you, for the moment we don't see. 
+asr:0: OUTPUT 2990.89-2992.89: A lot of movements. 
+asr:0: OUTPUT 2993.67-3002.82: You don't have yet any particularly successful case of other PSPs or account to account providers. 
+asr:0: OUTPUT 3002.84-3005.91: By now, you can try it in SME or SME space. 
+asr:0: OUTPUT 3006.17-3010.09: Is actually the majority of our revenues. 
+asr:0: OUTPUT 3010.49-3014.11: In Metro services remains a very, very specific space. It's very local. 
+asr:0: OUTPUT 3014.29-3019.34: It's very much connected with banks. 
+asr:0: OUTPUT 3019.36-3025.63: Requires a lot of specific attention and the more we segment, the more we realize that. 
+asr:0: OUTPUT 3025.65-3027.09: Because he's even more vocal somehow. 
+asr:0: OUTPUT 3027.49-3030.17: So I would say nothing really new from that angle. 
+asr:0: OUTPUT 3036.30-3039.94: Our next question is from James Goodman with Barclays. Please go ahead. 
+asr:0: OUTPUT 3041.14-3048.97: Good afternoon. Thank you very much. Just looking into the fourth quarter firstly, I mean, you've reiterated clearly the guidance for the year, 10% growth. 
+asr:0: OUTPUT 3049.01-3054.45: Been previously specified an H2 growth to get there I think was 11 to 13 percent and. 
+asr:0: OUTPUT 3054.47-3064.04: Obviously, we can sort of do the calculation around Q4, but I guess my question is, is it fair to expect an acceleration perhaps across all your geographies? 
+asr:0: OUTPUT 3064.06-3072.91: Into Q4. I mean, we've got a weaker comparative base, I think, in the Italian business and clearly there's the progressive reopening across. 
+asr:0: OUTPUT 3073.67-3077.90: Particularly DAC, I mean, given the travel exposure that you have there. 
+asr:0: OUTPUT 3079.34-3088.41: That's the first question. And then maybe to sort of follow up on the EBITDA for the quarter and for the outlook. 
+asr:0: OUTPUT 3088.85-3090.61: Can you make a comment just on... 
+asr:0: OUTPUT 3090.69-3097.24: I mean, we can see the revenue, I suppose, more or less for next year net for the quarter. But can you just make a comment on the EBITDA? 
+asr:0: OUTPUT 3097.26-3100.84: Performance between next year and next for the quarter and. 
+asr:0: OUTPUT 3100.86-3104.42: As we look out to the full year there. 
+asr:0: OUTPUT 3104.56-3105.69: I mean, you're sort of in the mid. 
+asr:0: OUTPUT 3105.73-3109.27: Middle of your 11 to 13 percent range at the moment. 
+asr:0: OUTPUT 3109.29-3118.72: Depending on what you say about revenues for Q4, is there any reason to expect EBITDA not to sort of grow similar to revenues in the fourth quarter? Thank you. 
+asr:0: OUTPUT 3122.46-3124.26: I can't say. This is probably how the. 
+asr:0: OUTPUT 3124.36-3133.85: Yes, sure. So, the question on the fourth quarter is, and I would say it is the difference between our guidance and where we are in the third quarter, so as you said, the map is pretty easy. 
+asr:0: OUTPUT 3134.27-3145.45: What we can say is that we expect the fourth quarter revenue growth to accelerate compared to the third quarter and this is primarily driven by merchant services performance which we expect to be strong in the fourth quarter and stronger. 
+asr:0: OUTPUT 3145.49-3147.73: If you want, in the third quarter. 
+asr:0: OUTPUT 3148.41-3157.66: Overall for the year though, I would take what Paolo said with regards to our role guidance which is to grow revenues double-digit. 
+asr:0: OUTPUT 3158.64-3167.91: The second question you asked was on EBITDA growth for Nexion Nets, is that right? Yeah, just in the quarter EBITDA between the two businesses. 
+asr:0: OUTPUT 3170.67-3174.87: The relationship again in the fourth quarter between revenue and if it does. 
+asr:0: OUTPUT 3176.78-3184.68: So, in the third quarter, as I said, when we discussed the margin accretion came primarily from the growth that we saw in the market. 
+asr:0: OUTPUT 3184.97-3191.37: At nets, right, where we had a significant step up from second quarter to third quarter,. 
+asr:0: OUTPUT 3192.75-3198.94: I think that's what we would like to stick to for now in the comments. 
+asr:0: OUTPUT 3199.38-3205.87: Having said that, we've confirmed guidance where you have a guidance for EGLE's growth as well. Great. Thank you. 
+asr:0: OUTPUT 3209.31-3213.55: The next question is from Stefan Urich with ODO. Please go ahead. 
+asr:0: OUTPUT 3215.68-3225.35: Yes, good afternoon. First of all, I'd like to ask an update maybe on the CIA process. 
+asr:0: OUTPUT 3225.37-3232.53: Have any view on when you will start to consolidate the CI into the group? 
+asr:0: OUTPUT 3233.61-3245.63: And the second question is also regarding Italy, where you said that there was a 20 to 25% growth. 
+asr:0: OUTPUT 3246.37-3250.29: Do you see this trend continuing into today? 
+asr:0: OUTPUT 3250.35-3251.37: 2020. 
+asr:0: OUTPUT 3251.39-3260.24: If you expect a kind of help plan from the Italian government to. 
+asr:0: OUTPUT 3260.26-3262.94: To push further this penetration. Thank you. 
+asr:0: OUTPUT 3267.23-3269.53: I sit on them and thank you for. 
+asr:0: OUTPUT 3269.55-3278.60: Let me take the second one and then I will ask Bernardo to cover the first one and give you more details to what I've already done. 
+asr:0: OUTPUT 3279.22-3288.31: Listen, I think we are very happy with what you're seeing in Italy in terms of growth of volumes. 
+asr:0: OUTPUT 3288.33-3297.60: In particular, on Italian cards, we expect this actually to continue into next year, even if the comparisons become more and more difficult. 
+asr:0: OUTPUT 3298.26-3304.34: The reality is that today you still have a little bit of limitations here and there. 
+asr:0: OUTPUT 3304.68-3308.13: But honestly, even we project the fourth quarter this year. 
+asr:0: OUTPUT 3308.17-3315.32: We expect to continue to see a bit of further recovery and potentially, therefore, volume. 
+asr:0: OUTPUT 3315.64-3321.72: But we remain quite optimistic on the outlook. 
+asr:0: OUTPUT 3323.36-3327.59: Take into consideration the fact that even if most of. 
+asr:0: OUTPUT 3327.77-3328.89: And all their people. 
+asr:0: OUTPUT 3328.91-3338.38: Is still open, are now open, you still have some kind of complexities for some of these activities. 
+asr:0: OUTPUT 3339.70-3343.58: I think as we've commented in the past,. 
+asr:0: OUTPUT 3343.82-3354.15: We believe every government will continue to support digital payments because of the many, many positive contributions that it gives to society, the economy, taxation. 
+asr:0: OUTPUT 3354.17-3356.86: Transparency and so on and so forth. 
+asr:0: OUTPUT 3357.44-3358.74: The. 
+asr:0: OUTPUT 3359.30-3368.67: This government has decided not to basically stop the cashback, it was the most visible initiative. 
+asr:0: OUTPUT 3368.71-3371.21: And. 
+asr:0: OUTPUT 3371.23-3374.33: Because basically it was based on some of the mechanics. 
+asr:0: OUTPUT 3375.12-3379.16: And it's obviously fine, as we said in the past, our plans, our experience. 
+asr:0: OUTPUT 3379.18-3388.77: The expectations are not driven by that. We always said that cash flow was a very good initiative, a nice initiative, but now it's basically changing the shape of our. 
+asr:0: OUTPUT 3388.79-3390.13: Profile. 
+asr:0: OUTPUT 3390.87-3397.26: The good thing is that this government has actually decided and implemented two more. 
+asr:0: OUTPUT 3397.28-3401.34: To newer initiatives that are more on the merchant side. 
+asr:0: OUTPUT 3401.74-3409.35: And therefore they're incentivizing the merchants to basically upgrade their shop equipment and the terminals basically. 
+asr:0: OUTPUT 3411.37-3420.88: And at the same time, basically for one year, they're also supporting YouTube ad merchants in terms of giving them the possibility to deduct from their taxes. 
+asr:0: OUTPUT 3420.90-3422.66: The commissions that they pay. 
+asr:0: OUTPUT 3422.80-3427.13: A change in direction on cashback. 
+asr:0: OUTPUT 3427.45-3436.78: That's actually a confirmed belief of the importance of supporting digital payments through. 
+asr:0: OUTPUT 3436.80-3439.90: I would say the merchants are very happy cooperating with us. 
+asr:0: OUTPUT 3440.00-3447.61: As much as we can with the government institutions, but probably in implementing all of this. 
+asr:0: OUTPUT 3447.85-3454.01: And continuously provide further ideas and opportunities. 
+asr:0: OUTPUT 3455.18-3462.52: Bernardo, you want to call her? Sorry, on CI, in terms of the process, there's a bullet point on slide 20, where are we? 
+asr:0: OUTPUT 3462.80-3465.83: We're expecting Baffin approval anytime soon. 
+asr:0: OUTPUT 3465.93-3474.47: It's a pretty, I would say, administrative process here. There's actually a typo in the presentation. Danish investment authorities have approved the transaction and then. 
+asr:0: OUTPUT 3474.49-3477.24: We will need to have the prospectus. 
+asr:0: OUTPUT 3477.32-3478.36: The prospect. 
+asr:0: OUTPUT 3478.38-3487.55: This with the pro forma numbers approved by the Advanced Stock Exchange Regulator, similarly to what we did with NETS and that should happen again somewhere in mid-December. 
+asr:0: OUTPUT 3487.67-3495.26: We now have, I'd say, deal certainty given that antitrust approval, which was the one where most of the work needed to be done. 
+asr:0: OUTPUT 3495.30-3500.04: Has been obtained and we're looking to close at midnight of the 31st of December. 
+asr:0: OUTPUT 3500.60-3504.97: What that means, going back to your question, we will be consolidating from the 1st of January next year. 
+asr:0: OUTPUT 3504.99-3514.35: So, you will have a full year of consolidated numbers for SIA and we will obviously as part of this provide you with comparison numbers for 2021. 
+asr:0: OUTPUT 3514.39-3519.22: Which includes CR and NETs as if we had bought it from the 1st of January. 
+asr:0: OUTPUT 3519.24-3527.29: Of this year, so you will have the same perimeter and the same will go with the database that Stefania puts on the website. 
+asr:0: OUTPUT 3527.51-3536.20: This by the way is also true for the UBI book acquisition which closed on the 26th of October but has retroactive effects from the 1st of January. 
+asr:0: OUTPUT 3536.74-3542.74: And the same will happen when we close the Alfa Bank deal which will be in the second quarter next year. 
+asr:0: OUTPUT 3542.94-3550.47: So we will always strive to make sure you have a meaningful life-to-life comparison in the same perimeter. But the closing of SIA is midnight this year. 
+asr:0: OUTPUT 3550.65-3554.39: So from first to the next year, you have the consolidated numbers. 
+asr:0: OUTPUT 3554.41-3555.54: Actual accounts. 
+asr:0: OUTPUT 3558.28-3566.27: I have a quick follow-up on Germany. Did you see any weakness in Q3 compared to what you were expecting? 
+asr:0: OUTPUT 3566.35-3572.57: And are you concerned about the rise in number of COVID case that could. 
+asr:0: OUTPUT 3572.59-3577.90: Probably or potentially have some impact on your fourth quarter. Thank you. 
+asr:0: OUTPUT 3581.16-3590.79: Well, I think in Germany, we see super strong, as you understood, e-commerce in particular, I'd say, and in other areas as well. 
+asr:0: OUTPUT 3591.63-3593.79: In terms of COVID, yes. 
+asr:0: OUTPUT 3593.97-3601.74: You're right on the fact that in the third quarter there were still restrictions in Germany more than in the other geographies. 
+asr:0: OUTPUT 3601.90-3606.49: Is an index that is actually called the refrigerant. It's a stringency index that is quite telling. 
+asr:0: OUTPUT 3606.75-3613.99: From this point of view and Germany was across Europe, the country was still a... 
+asr:0: OUTPUT 3614.07-3617.34: And I was there two weeks ago and you could really feel it. 
+asr:0: OUTPUT 3617.56-3623.14: There with Bernardo, you could really feel it from the smaller things in hotels to the more visible ones. 
+asr:0: OUTPUT 3623.62-3632.37: And this is actually, as we said before, affecting in particular, we'd say, the lacquer sector, the larger merchants where we have, as I said, the steel. 
+asr:0: OUTPUT 3632.47-3634.73: An important exposure to the travel industry. 
+asr:0: OUTPUT 3635.70-3648.67: And I would say there are two angles that are particularly relevant that are kind of intersecting between international travelers coming in and business travel more broadly. 
+asr:0: OUTPUT 3649.29-3650.57: And... 
+asr:0: OUTPUT 3650.59-3659.44: As you can imagine, while in places like Italy, you have a huge amount of inbound from tourists. 
+asr:0: OUTPUT 3659.46-3662.24: So international travel being tourism in the summer. 
+asr:0: OUTPUT 3662.60-3672.41: Don't have that many people going to Germany to enjoy the summer. It's actually the other way around. The traffic there is much more business-related and this is still. 
+asr:0: OUTPUT 3672.43-3678.14: But again, said that, we've seen good recovery also there. 
+asr:0: OUTPUT 3680.00-3683.30: Listen, on what is happening these days, it's difficult to comment, honestly. 
+asr:0: OUTPUT 3683.64-3692.37: I think that I need to understand exactly what will happen in terms of measures I was reading before coming to the news, before coming into this call. 
+asr:0: OUTPUT 3692.41-3693.91: About cases growing and. 
+asr:0: OUTPUT 3694.01-3697.66: Again, but at the same time, the measure that we're thinking of. 
+asr:0: OUTPUT 3697.68-3704.72: About implementing were not really comparable to real logins and stuff like that. I think they were talking about asking the green pass. 
+asr:0: OUTPUT 3704.74-3712.57: To enter in certain places like restaurants or clubs and stuff like that, which is something that in Italy is already happening. 
+asr:0: OUTPUT 3713.17-3717.60: So let's see, I think it's really too early to see. 
+asr:0: OUTPUT 3717.88-3720.02: I think the good news is that now... 
+asr:0: OUTPUT 3720.70-3726.61: Where more or less the percentage of people who are vaccinated are now vaccinated. 
+asr:0: OUTPUT 3727.15-3730.05: High in the four categories. 
+asr:0: OUTPUT 3730.23-3738.40: With cases increasing, the impact on the health of the people is more limited and therefore, hopefully, the need for restrictions. 
+asr:0: OUTPUT 3740.74-3748.25: Thank you very much. The next question is from Hannes Leitner with UPS. Please go ahead. 
+asr:0: OUTPUT 3749.41-3752.95: Yes, thanks for letting me on. A couple of questions also from my side. 
+asr:0: OUTPUT 3753.45-3765.89: Maybe on the partnership strategy with ISV, maybe you can talk a little bit about the economics there and then also is there a geographic kind of statistics. 
+asr:0: OUTPUT 3765.91-3767.51: Around what is currently. 
+asr:0: OUTPUT 3767.53-3769.83: Served by those partners. 
+asr:0: OUTPUT 3770.83-3774.09: Especially then maybe also breaking down between in-store and online. 
+asr:0: OUTPUT 3774.73-3780.00: And then maybe you can give some more color on e-commerce growth for the group. 
+asr:0: OUTPUT 3780.36-3785.53: You have stated here e-commerce revenue growth. It would be helpful to understand also the. 
+asr:0: OUTPUT 3785.55-3787.33: The transaction volume growth. 
+asr:0: OUTPUT 3787.71-3796.86: And then just in general, did you see throughout the quarter as it developed some shift between in-store and e-commerce? 
+asr:0: OUTPUT 3797.00-3798.40: That's good to hear. 
+asr:0: OUTPUT 3802.62-3806.19: Hi, Aniston, thank you for your questions. 
+asr:0: OUTPUT 3808.07-3815.06: So let me start from the first one in here. Maybe we can follow up more precisely. 
+asr:0: OUTPUT 3815.34-3823.44: I think in general, as I said, that these partnerships, I mean, that are happening, I would say, in every single geography, then probably they're actually a bit more new. 
+asr:0: OUTPUT 3823.46-3828.39: Even if we are very active, are happening with two types of players. 
+asr:0: OUTPUT 3830.03-3838.82: The ones that are, and obviously it depends on geography, and let me give you, just in case this is probably a more closer one. 
+asr:0: OUTPUT 3839.36-3845.39: If you take into your two type of players, the ones that are coming from the ERP systems,. 
+asr:0: OUTPUT 3845.41-3851.05: And they are keen to integrate payments. 
+asr:0: OUTPUT 3851.15-3858.20: And that actually across merchants from all possible industries. Some things that products are more specialized for certain industries. 
+asr:0: OUTPUT 3858.26-3865.77: And we have been partnering with the two super-small companies,. 
+asr:0: OUTPUT 3865.79-3867.11: Super key ones. 
+asr:0: OUTPUT 3868.25-3876.48: At the same time, you have a bit more developments with the ones that we call vertical ones. 
+asr:0: OUTPUT 3876.82-3885.99: I don't know, I'll give you an example. Pharmacoma that is serving pharmacies, just to mention one of them. 
+asr:0: OUTPUT 3886.29-3891.79: In Italy, talking about statistics, we have 48 of these partnerships today. 
+asr:0: OUTPUT 3892.39-3899.14: Denmark more than 100, Sweden more than 100, Norway almost 100, Finland more than 100, Germany more than 100. 
+asr:0: OUTPUT 3900.00-3909.83: And so on and so forth. So there are many, many of those. And economics vary a lot depending on what is the relationship. Some things, the Spanish are more technical integration, so there is not. 
+asr:0: OUTPUT 3909.85-3913.79: Of a specific economic punishment. In some other cases,. 
+asr:0: OUTPUT 3913.87-3919.60: Like the one I was mentioning before, instead you have a go-to-market initiative, you invest together, you go to market together. 
+asr:0: OUTPUT 3920.00-3922.90: And you share the benefit together. 
+asr:0: OUTPUT 3923.14-3930.23: Very, very different situation, but also evolving in an important way. 
+asr:0: OUTPUT 3931.69-3940.58: As far as, maybe on e-commerce, you can comment, Bernardo. On the shift, it is a bit more qualitative. 
+asr:0: OUTPUT 3940.62-3942.16: Question but it's a very important question. 
+asr:0: OUTPUT 3943.16-3948.59: To be honest with you, over the last, I would say, few quarters, we have not seen any significant. 
+asr:0: OUTPUT 3949.25-3950.83: Further acceleration of e-commerce. 
+asr:0: OUTPUT 3950.93-3959.92: In terms of people moving furthermore, even more from physical to e-commerce. 
+asr:0: OUTPUT 3960.18-3967.61: If anything, you had some sectors direction, the opposite direction. 
+asr:0: OUTPUT 3967.85-3972.95: And therefore people are keen to go out and shop again in the physical world. 
+asr:0: OUTPUT 3973.87-3975.20: I guess that. 
+asr:0: OUTPUT 3976.56-3989.75: Obviously, because our stores are open again, but more in general, people being keen to go out and socialize and buy and eat in real places. 
+asr:0: OUTPUT 3990.25-3991.41: I mean, with the trend. 
+asr:0: OUTPUT 3991.43-4000.34: To more economies remains there, but it's interesting because some of the acceleration that we've seen, COVID started and. 
+asr:0: OUTPUT 4000.36-4001.54: Period of Sādhu-jñāna. 
+asr:0: OUTPUT 4001.76-4006.15: Now is going down a bit in certain cases. 
+asr:0: OUTPUT 4006.47-4011.09: Are being a little bit partying and in general the trend will continue. 
+asr:0: OUTPUT 4011.47-4021.40: But, Al, you want to comment on? Yeah, sure. I mean, we saw that revenues grow in the third quarter, grew 36%, 37% if I remember correctly from the slide you had in the document. 
+asr:0: OUTPUT 4021.80-4026.29: Volume growth was actually approximately 13% as you see on slide 10 of the document. 
+asr:0: OUTPUT 4026.73-4037.82: Within this clearly SME are going, LACA suffers from the fact that LACA has an e-commerce component including high impact which has caused it actually to. 
+asr:0: OUTPUT 4037.84-4039.02: Shrink in the quarter. 
+asr:0: OUTPUT 4039.18-4046.45: So if you look at lack without the high impact, it's actually growing 9%. 
+asr:0: OUTPUT 4046.79-4051.57: Overall e-commerce volumes of this are growing 13% and it's a mix of both. 
+asr:0: OUTPUT 4053.27-4060.96: So it's about 25 billion e-commerce volumes in Q3. 
+asr:0: OUTPUT 4069.27-4074.65: The next question is from Sandeep Deshpande with JP Morgan. Please go ahead. 
+asr:0: OUTPUT 4075.88-4080.32: Thanks for letting me on. I didn't hear all the questions, so please excuse me if some of this was asked before. 
+asr:0: OUTPUT 4081.46-4090.43: In your Nordic or in your overall business, you're saying that the LACA accounts are lagging behind the recovery compared to the SME accounts. 
+asr:0: OUTPUT 4090.91-4100.16: We have seen quite a different effect at players like ADN. Maybe you can explain why Nexi is different in this regard, Esfat Shaili? 
+asr:0: OUTPUT 4100.50-4109.25: And then secondly, is there an explanation why you think that the dark regions are lagging so much behind in terms of... 
+asr:0: OUTPUT 4109.27-4114.45: The account, the recovery in terms of the volumes and thus the revenues as such. 
+asr:0: OUTPUT 4119.34-4128.73: Thank you for the questions. Listen, on Lakam, the dynamic that we are observing is very much driven by the industry needs. 
+asr:0: OUTPUT 4129.19-4130.37: And is very, very clear. 
+asr:0: OUTPUT 4130.85-4139.64: I mean, if you make it from the high impact sectors like airlines to use. 
+asr:0: OUTPUT 4139.96-4147.11: Typical example of travel agencies and so on and so forth, the overall volumes are going down since compared to pre-COVID levels. 
+asr:0: OUTPUT 4147.19-4153.27: Actually even more so in places like Italy. 
+asr:0: OUTPUT 4153.49-4161.36: And a four year growth coming back despite the fact that there is still some restrictions around. 
+asr:0: OUTPUT 4161.64-4170.19: The different dynamics that you observe with IBM is probably driven by two elements. Number one is that they're less exposed to travel sectors, I think, more broadly. 
+asr:0: OUTPUT 4171.13-4176.72: And number two, you should also consider that they're actually entering new markets and expanding further. 
+asr:0: OUTPUT 4177.76-4179.10: The. 
+asr:0: OUTPUT 4179.14-4186.29: If you are pointing precisely on the relative dynamics with a player like them,. 
+asr:0: OUTPUT 4186.31-4193.39: I go back to what I said before. Clearly, I think he's a very strong player that we immensely respect to be very, very clear. 
+asr:0: OUTPUT 4194.89-4204.72: We continue to see them successful when they play on global merchants with global CRM systems integrated with a lot of online and more limited in-store. 
+asr:0: OUTPUT 4205.02-4207.79: And we continue to be successful also against them. 
+asr:0: OUTPUT 4208.15-4212.55: Instead, you have more local and regional merchants, more locally integrated. 
+asr:0: OUTPUT 4212.59-4219.24: That require local assistance and require more specialized solutions and more customized solutions and so on and so forth. 
+asr:0: OUTPUT 4220.64-4227.97: When it comes to DACA, DACA is two elements. 
+asr:0: OUTPUT 4227.99-4232.65: That explain the dynamic there, and I think it's very visible when you go at the age of... 
+asr:0: OUTPUT 4232.67-4238.60: At page 8 of the presentation where you have the volumes for DAC by macro sector. 
+asr:0: OUTPUT 4238.98-4241.84: And as you can see there on the one side. 
+asr:0: OUTPUT 4242.54-4246.97: There is a mix effector, and the mix effector... 
+asr:0: OUTPUT 4246.99-4252.01: Has to do with the fact that Netz, not Germany per se, but Netz. 
+asr:0: OUTPUT 4252.49-4257.86: Was more exposed and still more exposed in terms of mix of sectors to the high-impact sectors. 
+asr:0: OUTPUT 4258.18-4263.86: In terms of volumes, to travel and airlines in particular. 
+asr:0: OUTPUT 4264.38-4268.15: Exposure has been diminished over time, but still is a. 
+asr:0: OUTPUT 4268.19-4273.33: A relatively high exposure and therefore there is a mixed effect in Germany. When you look. 
+asr:0: OUTPUT 4273.43-4275.18: The other sectors instead. 
+asr:0: OUTPUT 4275.42-4284.98: You see a very strong performance in the basic consumption, going anywhere around 30-30% plus versus 2019. 
+asr:0: OUTPUT 4285.13-4287.89: Not the more discretionary. 
+asr:0: OUTPUT 4287.91-4299.72: Product and services sectors coming back to growth. And at page 9 on the right, you see some very visible examples of sectors growing double digit in that space as well. 
+asr:0: OUTPUT 4300.10-4305.07: I would say is more driven by the exposure to travel in the mix. 
+asr:0: OUTPUT 4305.65-4311.93: I would say also probably the Italian SMEs were underpenetrated. I think there's a structural underpenetration there which is now, we're now closing. 
+asr:0: OUTPUT 4314.67-4323.58: Thank you. 
+asr:0: OUTPUT 4325.15-4329.51: Yes, good afternoon. Hi Paulo, hi Bernardo. I had a couple as well. 
+asr:0: OUTPUT 4330.23-4335.96: So firstly, just coming back to sort of the progression in the back end of the year. 
+asr:0: OUTPUT 4336.22-4341.56: Given the easy comparisons and I think you've kind of grown broadly broad-based across both. 
+asr:0: OUTPUT 4341.58-4343.54: Cornexi and Cornelis. 
+asr:0: OUTPUT 4344.72-4352.71: Is the kind of essentially your guidance being perhaps a bit more prudent or constitutive? And if so, what is the kind of thinking behind that prudence? 
+asr:0: OUTPUT 4354.03-4358.34: And then secondly, a question around, again, on sort of competition. 
+asr:0: OUTPUT 4358.74-4366.73: And here, I just want to nuance it a bit more in that there's clearly an appetite for larger merchants to take kind of more traditional omnichannel. 
+asr:0: OUTPUT 4367.31-4374.79: But we also see the likes of Servadian moving in with a kind of platform approach to address the longer tail of the mid-market. 
+asr:0: OUTPUT 4375.38-4383.46: What's your sort of strategy to sort of compete against that? And if I kind of nuance that further, you know, the Nordics is a fairly well penetrated market. 
+asr:0: OUTPUT 4384.97-4388.75: And we have a number of digital first players there. 
+asr:0: OUTPUT 4389.09-4395.26: So what's your sort of strategy to perhaps defend your position or even kind of grow your business there? 
+asr:0: OUTPUT 4395.70-4401.24: And then the last one for Bernardo, when we look at the kind of Ibita performance, this was quite strong. 
+asr:0: OUTPUT 4402.08-4407.19: In terms of the synergy realization of Nets, it seemed like they were sort of mid-teens type. 
+asr:0: OUTPUT 4407.21-4414.35: Could you give us a bit more color around where those savings came from and as we go forward,. 
+asr:0: OUTPUT 4414.77-4418.80: What kind of the path and what are the kind of levers in terms of the synergies. 
+asr:0: OUTPUT 4418.82-4428.47: That you expect to extract to sort of hit the milestones for the next kind of payout to be achieved. Thank you. 
+asr:0: OUTPUT 4431.91-4439.52: Hi Mo, and thank you for the three questions. I will cover the second and then I will hand over to Berard. He's a very, very good question. 
+asr:0: OUTPUT 4440.82-4442.58: Let me try it. 
+asr:0: OUTPUT 4443.50-4450.15: First of all, LACA, as you understood, for the group is about 5%, a bit less for the. 
+asr:0: OUTPUT 4450.25-4454.01: Percent of total revenues is about 9.5%. 
+asr:0: OUTPUT 4454.03-4461.08: On total, merchant sales is about half or 60%. So we're talking about more or less 5% of total earnings to begin with. 
+asr:0: OUTPUT 4461.92-4467.27: Nevertheless, we believe it's actually an opportunity for the new Naxi in particular. 
+asr:0: OUTPUT 4468.09-4469.75: And to be clear. 
+asr:0: OUTPUT 4470.59-4475.68: The competition from players like Adian is there. 
+asr:0: OUTPUT 4475.70-4481.46: As I said before, they are very good, they are more focused on certain markets than others, and I'm sure. 
+asr:0: OUTPUT 4481.72-4490.69: They will try to move a bit more into the markets on smaller players. 
+asr:0: OUTPUT 4490.99-4492.29: At the same time. 
+asr:0: OUTPUT 4492.67-4499.92: No, I think the good news is that in those markets, the markets we are representing, we are very international and we are actually investing to be stronger. 
+asr:0: OUTPUT 4500.60-4509.53: In the camp of omnichannel products and services, omnichannel integration, analytics capabilities. 
+asr:0: OUTPUT 4509.87-4516.12: And that would continue. So you will see a nice competitive dynamic where they will probably try. 
+asr:0: OUTPUT 4516.14-4525.11: To do it and we will defend our turf in the back of being local but also scaled up and for being able to invest. 
+asr:0: OUTPUT 4525.13-4527.67: In new products and services. 
+asr:0: OUTPUT 4528.21-4532.15: At the end of the day, if you wish, each one of the two of us is... 
+asr:0: OUTPUT 4532.35-4535.44: Strong and weak at the same time based on our strategies. 
+asr:0: OUTPUT 4535.48-4543.38: In a sense that the key strength of places like Agene is the one platform theme that has many positive. 
+asr:0: OUTPUT 4543.42-4550.53: But also a lot of limitations when you have to start playing with smaller players, more complex players, more integrated players. 
+asr:0: OUTPUT 4550.61-4559.62: Players, merchants and in that don't have integrated CRMs that are less sophisticated and require a lot of local care and so on and so forth. 
+asr:0: OUTPUT 4559.76-4564.18: Our position is the other way around. It's true, no, we are more complex. 
+asr:0: OUTPUT 4564.64-4569.51: In terms of technology setup and platforms and so forth, but at the end of the day,. 
+asr:0: OUTPUT 4569.93-4577.44: And makes us quite effective in serving the local needs, being closer to the customers, being able to integrate effectively. 
+asr:0: OUTPUT 4577.46-4578.46: We don't need the... 
+asr:0: OUTPUT 4578.64-4583.74: And for example, segmenting by industry more effectively for what is relevant low-priced. 
+asr:0: OUTPUT 4584.04-4593.57: I think we continue to see this dynamic and each one of the two of us will do its best. I think the good news is that in many cases the market is growing. 
+asr:0: OUTPUT 4594.47-4604.34: So I'm sure that we will pay for places like Alia, we will pay for places like us and customs, we will choose depending on what is the prevailing need that they have. 
+asr:0: OUTPUT 4604.76-4606.19: Bernardo, just a third. 
+asr:0: OUTPUT 4606.41-4618.80: Yes, so I think we're going back to also I think James asked a similar question earlier on, so I can only go back to what we said earlier. We expect the fourth quarter to be better than the third quarter in terms of top line growth. 
+asr:0: OUTPUT 4618.82-4620.24: I think. 
+asr:0: OUTPUT 4620.26-4621.42: With regards to the. 
+asr:0: OUTPUT 4621.44-4631.57: The degree of prudence in this, we won't comment on that. Our guidance, we are committed to deliver it. Hopefully, we will do better, but that's what I am prepared to say on that front. 
+asr:0: OUTPUT 4633.19-4640.94: With regard to Nets, as I mentioned earlier, EBITDA growth in the third quarter for Nets. 
+asr:0: OUTPUT 4640.96-4647.57: Was 19%, 18.8% if I remember correctly, yeah, 19%. 
+asr:0: OUTPUT 4647.59-4648.99: Compared to 20. 
+asr:0: OUTPUT 4649.73-4653.75: I expect that to improve in the fourth quarter of this year. 
+asr:0: OUTPUT 4653.97-4664.10: I think that's also implicit in what we had said some time ago, how we were aiming to hit an EBITDA for Nets, which lies within the. 
+asr:0: OUTPUT 4664.12-4672.77: Within the earn out range for Netsu was agreed with the sellers back at the end of last year. 
+asr:0: OUTPUT 4673.93-4683.16: So this growth in EBITDA, which is obviously fueled by top-rank growth, is also aided by the realization of synergies. 
+asr:0: OUTPUT 4683.18-4684.56: Within that. 
+asr:0: OUTPUT 4685.33-4690.19: And I think that was your question, Mo, because synergy is coming from the NETs integration. 
+asr:0: OUTPUT 4690.27-4696.20: Well, those this year are I would say in total approximately 10 million euros, mostly CapEx. 
+asr:0: OUTPUT 4696.48-4700.28: A small portion of that will be in our fourth quarter numbers. 
+asr:0: OUTPUT 4701.54-4707.49: And with regards to next year, Paulo has already said we're targeting 100 million euros of cash synergies from the three. 
+asr:0: OUTPUT 4707.51-4714.15: Entities approximately, let's say 60% of that will be P&L synergies and the rest will be CAPEX synergies. 
+asr:0: OUTPUT 4723.16-4726.21: Is from Alberto Villa with Intermontesim. Please go ahead. 
+asr:0: OUTPUT 4729.87-4735.18: I have just one question is on the buy now pay later business. 
+asr:0: OUTPUT 4735.44-4739.08: Give us some color on the. 
+asr:0: OUTPUT 4739.32-4748.97: You are generating in this unit, the growth you are expecting and if you have any thoughts on the strategy on this segment going forward. 
+asr:0: OUTPUT 4749.33-4757.40: If you want to expand it or to exit or what's your thoughts on the opportunity there. Thank you very much. 
+asr:0: OUTPUT 4761.44-4762.62: Ciao Alberto. 
+asr:0: OUTPUT 4764.12-4772.55: Our strategy in this space is at the end of the day twofold. Now we are happy to have this asset that is called Great Bay. 
+asr:0: OUTPUT 4773.37-4780.64: Just to be explicit, this is operating at the moment in Germany, only with potential to expand. 
+asr:0: OUTPUT 4780.66-4784.26: As we are at some point and it is. 
+asr:0: OUTPUT 4784.28-4788.31: By now, it is focused on the merchant side. 
+asr:0: OUTPUT 4788.57-4792.65: So they don't have a consumer facing strategy like the Klarnast. 
+asr:0: OUTPUT 4792.69-4799.70: They really partner with the merchants. They normally white label and afford really the best possible partner for merchants as well. 
+asr:0: OUTPUT 4799.98-4801.88: They are successful. 
+asr:0: OUTPUT 4803.16-4812.39: The business is growing very rapidly, depending on the quarter, is anywhere between 50 and 100 percent. I think last quarter was about 70, 75. 
+asr:0: OUTPUT 4812.67-4814.05: And it's become a sizable business. 
+asr:0: OUTPUT 4814.09-4817.04: We don't provide the details of this, but... 
+asr:0: OUTPUT 4817.06-4826.11: Is getting bigger and bigger. So we're talking about tens and tens and tens of millions of euros per quarter now. 
+asr:0: OUTPUT 4826.61-4829.03: The. 
+asr:0: OUTPUT 4829.17-4845.73: So this is one side of the strategy. At the same time, we also recognize the fact that if you want to, if you have as your core e-commerce strategy, the one providing a great acceptance to merchants,. 
+asr:0: OUTPUT 4845.75-4847.85: No, ah, ah, ah. 
+asr:0: OUTPUT 4848.35-4857.38: You all have to be able to provide the relevant, the locally relevant, by now collated methods together with other alternative payment methods. 
+asr:0: OUTPUT 4857.72-4866.87: And therefore, in our geographies, we're also offering more and more the possibility to use other, by now, political methods that we partner with. 
+asr:0: OUTPUT 4868.77-4872.97: And I believe this will continue to be the way forward. 
+asr:0: OUTPUT 4873.59-4878.92: Now, clearly, the other way around works as well. 
+asr:0: OUTPUT 4878.94-4885.69: A company like Redpay, which is technically a company, is also partnering with LFPSP. 
+asr:0: OUTPUT 4885.77-4891.19: Also, in Germany, they are used by... 
+asr:0: OUTPUT 4891.21-4898.34: The ADIONS, the WordPase, the DSP1s, and the ComputeOps. 
+asr:0: OUTPUT 4898.38-4899.86: For an engineering consult. 
+asr:0: OUTPUT 4900.78-4905.45: At the moment we have these two parallel strategies. It is very, very, very clear that. 
+asr:0: OUTPUT 4905.47-4914.35: Going forward, we'll continue to partner with more and more of them and we're happy owners of this fast-growing and sizable company. 
+asr:0: OUTPUT 4914.37-4915.52: By now political assets. 
+asr:0: OUTPUT 4916.44-4922.10: Bernardo? 
+asr:0: OUTPUT 4923.92-4932.09: Thank you. Thank you, Bert. The next question is from Paul Kratz with Jefferies. Please go ahead. 
+asr:0: OUTPUT 4933.11-4934.61: Thank you for taking my questions. 
+asr:0: OUTPUT 4935.42-4936.94: Just three questions from my end. 
+asr:0: OUTPUT 4937.42-4946.51: I think personally, when I look at your NETS figures on the presentation, that excludes volumes from Dancort. 
+asr:0: OUTPUT 4946.65-4954.83: So it'd be helpful if you maybe give us some color over how kind of the volumes looked, including these figures, and if they differ materially, I guess, from what you presented. 
+asr:0: OUTPUT 4955.66-4963.38: The other thing that I'd also be interested in hearing as well is on the Jira card side, I appreciate the minority of your volumes in Germany, but. 
+asr:0: OUTPUT 4963.44-4966.81: So how have the volumes on the Jira card side trended? 
+asr:0: OUTPUT 4967.19-4972.75: Where historically I think you guys have been actually a share gainer in that market, admittedly off of a relatively low base. 
+asr:0: OUTPUT 4973.45-4985.05: And then I guess the final question is a little bit bigger picture, but when we start thinking about capital allocation of the combined entity, I mean, you guys will be able to deliver the business relatively rapidly at the current pace. 
+asr:0: OUTPUT 4985.55-4991.71: I mean, is there any kind of updated thoughts you have around potential M&A, whether that switches maybe more towards e-comm? 
+asr:0: OUTPUT 4992.29-4998.08: Maybe looking at assets, for example, like a CompuTop in Germany to maybe strengthen your presence in e-com. Thanks. 
+asr:0: OUTPUT 5000.46-5006.83: I pull a good mix of detailed questions and super strategic ones as well. That's great. 
+asr:0: OUTPUT 5008.11-5014.03: And listen, on the first Zoom, I think we'll come back to you with a bit more detail if it's important to you. 
+asr:0: OUTPUT 5014.43-5023.78: I think in general, and I think it was on the second one, on gyrocar we are clearly challenges in that space and therefore we want to grow in that space. 
+asr:0: OUTPUT 5024.22-5030.77: Forget that Concardis is coming from a position where they were mainly acquirers for international schemes. 
+asr:0: OUTPUT 5031.15-5036.10: A little bit like what Carta C was in Italy back five years ago, six years ago. 
+asr:0: OUTPUT 5036.40-5043.24: And from there, they moved over the last year or two into offering the full package. 
+asr:0: OUTPUT 5043.28-5048.35: The terminal and basically acquiring across all schemes including Gyrocast. 
+asr:0: OUTPUT 5048.57-5054.79: I don't have the exact numbers, but clearly that's a space for development. 
+asr:0: OUTPUT 5055.20-5059.90: On Bangkok, I think we'll come back to you because we don't have a precise answer. 
+asr:0: OUTPUT 5060.62-5064.00: More broadly, instead of capital allocation coming to the very question, listen. 
+asr:0: OUTPUT 5064.64-5068.27: Our focus today is really, really, really. 
+asr:0: OUTPUT 5068.29-5072.55: On getting the three companies together. 
+asr:0: OUTPUT 5072.59-5080.86: Believing in the synergies and most importantly building a stronger and stronger and stronger company for our customers, our people and our shareholders. 
+asr:0: OUTPUT 5083.04-5086.95: Along the way, as we always said, we will... 
+asr:0: OUTPUT 5086.97-5092.65: Continue to consider opportunities, but it's our duty somehow. 
+asr:0: OUTPUT 5092.67-5101.28: We really, really focus on the ones that make absolute sense for us. I think what we've done with UBI or Alphabank is very clear. 
+asr:0: OUTPUT 5101.54-5105.19: They've been looking at other stuff, or they didn't do it for very good reasons. 
+asr:0: OUTPUT 5106.39-5109.07: About it was our duty to look at it. 
+asr:0: OUTPUT 5109.65-5117.50: I think we continue to do so going forward. As you can imagine, we cannot talk about specific cases. 
+asr:0: OUTPUT 5119.28-5128.47: Take into account the fact that the leverage and the potential assets that are not core and so on and so forth. 
+asr:0: OUTPUT 5128.77-5138.56: I would also consider putting more investments, more organic investments because there is always this feeling that M&A is easier than massive organic investments. 
+asr:0: OUTPUT 5138.76-5142.96: Given where we are as a company, given how much. 
+asr:0: OUTPUT 5143.64-5148.19: We are keen to invest in geographies such as Germany or in spaces such as e-commerce. 
+asr:0: OUTPUT 5148.75-5152.57: That is also another important area of investment. 
+asr:0: OUTPUT 5152.99-5160.32: I believe you see a portfolio of those, but really our focus today is to deliver a. 
+asr:0: OUTPUT 5160.76-5164.68: In what we have already committed to you. 
+asr:0: OUTPUT 5167.23-5170.81: On the... 
+asr:0: OUTPUT 5171.17-5178.10: It's probably best if we come back to you. OK, let us come back to you before we give you an answer that is not reliable. 
+asr:0: OUTPUT 5180.00-5182.34: Thank you very much. Just maybe one quick follow-up. 
+asr:0: OUTPUT 5183.28-5186.49: Is on the divestment of non-core assets. 
+asr:0: OUTPUT 5186.71-5190.25: I mean, how should we start thinking of that? Is that part of a... 
+asr:0: OUTPUT 5190.27-5198.34: Regular portfolio review that you would do on an annual basis, or are we just talking more about concessions that would come as a result of antitrust? 
+asr:0: OUTPUT 5200.08-5204.95: No, no, no, no, no. I want to be very clear. Actually, thank you for giving me the opportunity to clarify this. 
+asr:0: OUTPUT 5205.37-5208.03: On the ancestral thing we would like to do. 
+asr:0: OUTPUT 5208.33-5215.68: Because it's a request by the antitrust, but again, it's about the business of these 6 million euro of. 
+asr:0: OUTPUT 5215.70-5219.94: Revenues probably two or three would be that declining revenues because it's. 
+asr:0: OUTPUT 5220.00-5222.38: Legacy businesses, checks and the likes. 
+asr:0: OUTPUT 5223.84-5233.19: So, it has nothing to do with the investment strategy. I don't even know how much that is worth. We are doing our own work, but we're really talking about a very, very small thing. 
+asr:0: OUTPUT 5234.11-5238.32: He said what is very much right is the first of the two things you said. 
+asr:0: OUTPUT 5238.56-5240.12: That these are ongoing. 
+asr:0: OUTPUT 5240.14-5243.82: A strategic view of our portfolio of assets. 
+asr:0: OUTPUT 5243.84-5250.81: To make sure that we put our resources and focus and energy on what is strategic for our future. 
+asr:0: OUTPUT 5250.89-5259.02: And instead we let the other assets to be owned by better owners than us for whom they are strategic. 
+asr:0: OUTPUT 5259.28-5266.43: Never forget as a benchmark data before doing even before the company was listed actually. 
+asr:0: OUTPUT 5266.71-5273.33: We did do a 506 M&A deal where we bought stuff. We did do 12 where we sold stuff. 
+asr:0: OUTPUT 5273.83-5280.76: So we like to clean as much as possible the portfolio and focus and we continue to do it. 
+asr:0: OUTPUT 5280.94-5284.88: And some of these businesses, we love them. We would love to continue to have them. 
+asr:0: OUTPUT 5284.94-5292.27: Actually doesn't make sense for them and for us. So I think it's very rational. I think we always need to be very rigorous. 
+asr:0: OUTPUT 5293.97-5296.08: We're very continued to be very. 
+asr:0: OUTPUT 5296.60-5300.94: Look at what, for example, also Nets has done when they sold. 
+asr:0: OUTPUT 5300.96-5308.51: The corporate services and instant client services to Mastercard. By the way, it's a very interesting and attractive evaluation. 
+asr:0: OUTPUT 5308.65-5310.59: I will continue to do so. I think it's good discipline. 
+asr:0: OUTPUT 5311.39-5318.14: So we'll try to give you an update on this ideally in February together with the outlook for the new year. 
+asr:0: OUTPUT 5320.10-5330.05: Thank you very much. 
+asr:0: OUTPUT 5333.61-5338.88: Hi, good afternoon. Thanks for squeezing in. I had a couple of questions. 
+asr:0: OUTPUT 5339.90-5349.15: One is going back on your own alternative payment methods, be it account to account in Poland or rate paid in Germany. 
+asr:0: OUTPUT 5350.05-5358.74: I was wondering if you could go back on the economics of these payment methods and whether they're accretive to your take rate, for instance. 
+asr:0: OUTPUT 5359.12-5362.80: And as a side question to that, I was wondering,. 
+asr:0: OUTPUT 5362.86-5367.37: If you view them as differentiating factors to win. 
+asr:0: OUTPUT 5367.39-5376.80: Shared with a given account, you know, how you found yourself in a position where you went to a merchant to sell on their 8K and you ended up selling. 
+asr:0: OUTPUT 5376.82-5379.44: You know, a much wider range of services. 
+asr:0: OUTPUT 5379.78-5382.88: That'd be my first two-part question. 
+asr:0: OUTPUT 5383.72-5393.59: Second question is on Italy this time. I think we're, you mentioned in the past, there's quite a bit of appetite to digital payment in Italy, at least on the consumer side. 
+asr:0: OUTPUT 5393.89-5396.66: I was wondering if you have your own shape of... 
+asr:0: OUTPUT 5396.84-5402.18: To perhaps lower acceptance costs for merchants and. 
+asr:0: OUTPUT 5402.20-5407.59: And accompany this transition to digital new pricing plans, low-cost terminals. 
+asr:0: OUTPUT 5407.61-5411.65: Any specific initiatives you're pushing as we go into. 
+asr:0: OUTPUT 5411.91-5413.29: Thank you. 
+asr:0: OUTPUT 5420.00-5428.95: Also understand APNs, both economics and strategy, and Italy, if you are doing anything in that lower cost for merchant. 
+asr:0: OUTPUT 5429.43-5433.77: Listen, let me start from the second one around Italy. 
+asr:0: OUTPUT 5433.85-5440.02: The good news for merchants actually is that prices are structurally going down in our sector. 
+asr:0: OUTPUT 5440.10-5446.31: It's absolutely normal because when volumes go up, unitary prices go down. 
+asr:0: OUTPUT 5446.41-5450.37: It's almost a law of economics. 
+asr:0: OUTPUT 5450.39-5455.72: Unless you have monopolies or duopolies, which is not the case in our industry that is very competitive. 
+asr:0: OUTPUT 5456.52-5465.65: The good news is that the combination of volume growth and unitary prices going down is positive and on top of it you also have the value added service. 
+asr:0: OUTPUT 5466.01-5470.37: Prices tend to go down, as has always happened. 
+asr:0: OUTPUT 5471.51-5476.24: If you like the one thing that you're doing more proactively, this is driven by competitive dynamics. 
+asr:0: OUTPUT 5476.60-5479.68: Is also to design propositions. 
+asr:0: OUTPUT 5479.82-5486.85: For the merchants that are newer to this product and service, it's not a typical new-to-card. 
+asr:0: OUTPUT 5486.87-5488.09: Segment. 
+asr:0: OUTPUT 5488.27-5495.80: We are offering a nice entry level, almost try and buy type of situation we believe is important. 
+asr:0: OUTPUT 5496.32-5498.78: Although it is not necessarily on the rate. 
+asr:0: OUTPUT 5498.82-5507.59: Because a customer that is new to cards doesn't know how much they will use. So for them, the barrier to entry is more the terminal. 
+asr:0: OUTPUT 5507.97-5513.17: And that's where we launched as well the mobile POST terminal. 
+asr:0: OUTPUT 5513.27-5521.60: That doesn't have a fixed rate per month but is basically a small one after depending on the campaign and so on and so forth is. 
+asr:0: OUTPUT 5521.62-5525.06: Normally below €50, €49. 
+asr:0: OUTPUT 5526.19-5527.35: But again with a higher. 
+asr:0: OUTPUT 5527.45-5536.58: A merchant field and then we upgrade the merchant to a proposition that is more suited for a higher. 
+asr:0: OUTPUT 5536.60-5538.00: Volumes. 
+asr:0: OUTPUT 5538.78-5544.78: When it comes instead on the APM methods and so on and so forth,. 
+asr:0: OUTPUT 5545.01-5551.51: Let me try to give you the overview and then Bernardo can help you and comment a bit better. 
+asr:0: OUTPUT 5551.99-5558.72: First of all, economics. Clearly, the economics are very different if you are talking about APMs that you own. 
+asr:0: OUTPUT 5559.18-5562.10: Or IPMs that you distribute and you partner with. 
+asr:0: OUTPUT 5563.16-5570.81: We should distinguish in between account to account and by an operator for the ones that you own. 
+asr:0: OUTPUT 5571.23-5577.26: By now, Pellator has an amazing growth. Profitability-wise, it's actually lower. 
+asr:0: OUTPUT 5577.40-5582.00: Because obviously it comes with a certain cost of risk. It is very much under control, but it's actually. 
+asr:0: OUTPUT 5582.06-5589.57: And by the way, in this specific case, Ray Paisos investing in growth. 
+asr:0: OUTPUT 5590.09-5596.62: As well as every other player in the industry. I'm sure you've seen the numbers from some of these players. 
+asr:0: OUTPUT 5596.64-5601.04: And they are quite explicit about it actually, it pays profitably, this is good news but. 
+asr:0: OUTPUT 5601.06-5603.76: I hope to keep on investing in growth. 
+asr:0: OUTPUT 5604.52-5607.21: Account to account is normally more profitable. 
+asr:0: OUTPUT 5607.25-5614.87: There is a cost to develop the ecosystem because it's a two-sided business model. You have to sell it to the consumer and sell it to the merchant. 
+asr:0: OUTPUT 5615.10-5622.48: Once this ecosystem is developed normally, it comes with a nice variable margin. 
+asr:0: OUTPUT 5622.74-5626.65: You said when you distribute that you can really have any type of deal, to be honest with you. 
+asr:0: OUTPUT 5627.19-5631.45: The more you are the one facing the customer and distributing to the customer. 
+asr:0: OUTPUT 5631.75-5640.76: The better the economics are, if it is just a technical integration, then your economics are much lighter. 
+asr:0: OUTPUT 5641.00-5646.85: But actually for some of them, the economics are quite comparable with the ones that we have on cards, to be clear. 
+asr:0: OUTPUT 5647.27-5651.75: No, and I cannot give you a specific example because I. 
+asr:0: OUTPUT 5652.53-5655.78: I could, but I cannot in terms of disclosure. 
+asr:0: OUTPUT 5656.02-5665.67: But I have in mind at least a couple of examples where the economics are exactly one in Italy and one in another place where the economics are basically the same that we have on carbon. 
+asr:0: OUTPUT 5666.81-5671.97: I'm not sure I understood exactly your question because the communication was not very clean. 
+asr:0: OUTPUT 5672.35-5679.26: But if your question is how do you guys balance on the strategy whenever strong APM, do I give it to everybody? 
+asr:0: OUTPUT 5679.32-5692.61: To expand it or monetize it by differentiating myself on the acceptance side. I think that's a very, very, very relevant strategic question. 
+asr:0: OUTPUT 5692.93-5699.72: That does not have a one answer that is always the same by product and by market. 
+asr:0: OUTPUT 5700.02-5703.26: Because it really depends on the specific market dynamics. 
+asr:0: OUTPUT 5704.32-5710.89: But again, if I use the example I said before on binary operator,. 
+asr:0: OUTPUT 5711.25-5712.59: It's quite clear. 
+asr:0: OUTPUT 5713.01-5717.58: Rate pay is a binary operator acceptance method on basically every. 
+asr:0: OUTPUT 5717.60-5727.59: Merchant, e-commerce merchant, sorry, e-commerce acquirer, e-commerce PSP in Germany. Why? Because we have a lower market share. 
+asr:0: OUTPUT 5727.67-5734.13: And therefore, if you were leaving it only to us, it would be too much of a restriction for the full potential of. 
+asr:0: OUTPUT 5734.15-5741.06: The product. Maybe in another market with a different starting competitive position or market share you go in a different direction. 
+asr:0: OUTPUT 5742.72-5743.76: I'm on the margin. 
+asr:0: OUTPUT 5744.12-5753.89: So I think we need to distinguish as Paolo did between accounts account and BMPL. Starting with BMPL, we should really think of it as a different product, a different business. 
+asr:0: OUTPUT 5753.91-5760.02: In terms of the margin accretion or the take rate accretion, it really depends where you plot the P&L because it's. 
+asr:0: OUTPUT 5760.32-5765.91: There is a cost of risk element there that you have in BNPL but not in the counter count. 
+asr:0: OUTPUT 5766.73-5774.61: So take rates will be higher, but then if you go to the very bottom line right now, obviously, as you've seen in some of the other larger listed also players in the. 
+asr:0: OUTPUT 5774.63-5779.90: And the BNPL space, you have the cost of risk element that you need to take into account. 
+asr:0: OUTPUT 5780.50-5787.97: Whereas the accounts account, I think in terms of the top line, you should think of it as being priced in the various geographies in which it's present, more similar to domestic rails. 
+asr:0: OUTPUT 5788.41-5796.00: But depending on how lean or efficient they are with the margin being similar to what a card acquirer could be in that situation. 
+asr:0: OUTPUT 5796.10-5799.40: Market so in terms of margins it shouldn't be diluted. 
+asr:0: OUTPUT 5803.44-5812.15: Thank you. Thanks very much for all the call out here. 
+asr:0: OUTPUT 5814.05-5816.80: So please go ahead. 
+asr:0: OUTPUT 5820.00-5824.36: Energy during the presentation of the first results. 
+asr:0: OUTPUT 5824.38-5830.29: You mentioned the possibility of increasing synergies by 10% in the long term. 
+asr:0: OUTPUT 5831.11-5835.00: Is it something that you are still considering possible? 
+asr:0: OUTPUT 5840.00-5841.60: Is a short answer, yes. 
+asr:0: OUTPUT 5843.48-5853.43: Yes, absolutely. I mean, as we keep finding better and better plans, that is why last time we gave you. 
+asr:0: OUTPUT 5854.07-5858.78: This highlights that this time we're giving you our outlook for next year. 
+asr:0: OUTPUT 5859.40-5864.74: We'll continue to do it, we'll continue to update the more we have visibility. To be honest with you... 
+asr:0: OUTPUT 5866.17-5872.27: It also goes in phases in the sense that we had obviously when we did close the two deals we had our own view. 
+asr:0: OUTPUT 5872.59-5880.46: It was outside in on the opportunities. Then as we're closing the deals, we do a first round of inside out view of the deal. 
+asr:0: OUTPUT 5881.12-5883.98: Is in the long term and then we go into the more. 
+asr:0: OUTPUT 5885.21-5889.73: So, this is a little bit what is happening. We'll continue to keep you updated, but the short answer is yes. 
+asr:0: OUTPUT 5895.84-5900.40: This question is from Antonin Bodry with HSBC. 
+asr:0: OUTPUT 5902.36-5907.47: Hi, good afternoon everyone and thank you for taking my question. 
+asr:0: OUTPUT 5907.95-5917.32: I would want to have your view on the current microeconomic environment, especially inflation. 
+asr:0: OUTPUT 5918.36-5925.85: We see inflation coming in the US and certainly in Europe soon. So how do you see inflation impacting your revenue growth? 
+asr:0: OUTPUT 5926.91-5935.42: I mean, your revenue is partly related to value of transaction. At the same time, inflation could decrease the number of transactions. So how do you see inflation? 
+asr:0: OUTPUT 5935.44-5937.14: On your radio browser. 
+asr:0: OUTPUT 5937.68-5940.36: My second question is about MNA. 
+asr:0: OUTPUT 5941.08-5947.21: I understand that your focus will be to integrate the two acquisitions you did, but. 
+asr:0: OUTPUT 5947.23-5955.36: How do you consider evolutions of your model to address adjacent segments like business to business payment, for example? Thank you. 
+asr:0: OUTPUT 5959.50-5968.33: Let me take the second one on a minute and then I pass over to Bernardo because I'm a poor engineer, he's an economist, so he can probably give you a. 
+asr:0: OUTPUT 5970.75-5972.81: Thankful for looking after us. 
+asr:0: OUTPUT 5974.63-5978.32: On that, on that, on the minute, I think here. 
+asr:0: OUTPUT 5978.48-5979.60: Uh, uh... 
+asr:0: OUTPUT 5979.62-5985.83: We will have to remain focused not only on what we do but also what we consider because also that. 
+asr:0: OUTPUT 5985.85-5990.99: Screening opportunities or engaging in processes that by itself are an organizational cost. 
+asr:0: OUTPUT 5991.37-5994.45: And we are trying to stay as much focused as we can. 
+asr:0: OUTPUT 5995.14-5998.98: I reiterate probably what I said in... 
+asr:0: OUTPUT 5999.00-6007.33: In the past, the two key areas of focus for us where we engage and remain a key focus. 
+asr:0: OUTPUT 6007.35-6010.25: Our priorities remain at the end of the day merchant. 
+asr:0: OUTPUT 6011.45-6013.19: So it's all mainly mesh and services. 
+asr:0: OUTPUT 6013.73-6021.36: No, first one being merchant books, especially in the markets where we already end on relationships that we already have because. 
+asr:0: OUTPUT 6021.60-6029.13: For us, it's important to follow our banks and other strategies and partner with them. This is what we've done, for example, on. 
+asr:0: OUTPUT 6029.17-6032.53: On UBI, on Alphabank as well. 
+asr:0: OUTPUT 6032.59-6036.12: And so on, and secondary is more broadly e-commerce. 
+asr:0: OUTPUT 6036.18-6040.24: Both in terms of geography and also capabilities. 
+asr:0: OUTPUT 6040.98-6049.71: If you wish as an extension to this, you could also consider this world of software that can be effectively integrated with payments. 
+asr:0: OUTPUT 6050.13-6056.78: And this small example of Augsburg is a nice one. That does not mean that we go after. 
+asr:0: OUTPUT 6056.80-6060.46: Many of those necessarily, we will not. 
+asr:0: OUTPUT 6060.72-6064.56: It very, very carefully and we really want to understand it before. 
+asr:0: OUTPUT 6065.19-6067.33: We do it also because, given the position we're in,. 
+asr:0: OUTPUT 6067.51-6073.77: Partnerships are also very good and therefore we want to learn more about the business model. 
+asr:0: OUTPUT 6074.01-6080.76: Really e-commerce and e-commerce on the channel and merchant books for us, be curious. 
+asr:0: OUTPUT 6081.74-6090.55: On inflation, yes. Well, thanks, Paolo, for the economist, but I give you my 10 cents worth. I don't believe Europe will. 
+asr:0: OUTPUT 6090.57-6095.56: We'll definitely lag the US and probably not have such a steep increase in inflation even though it's lingering. 
+asr:0: OUTPUT 6096.72-6103.34: My view is that our business is actually geared to benefit from inflation as you were saying. 
+asr:0: OUTPUT 6103.76-6118.90: Two-thirds of our revenues are volume driven and most of that comes from the value of the transaction. Conversely, our cost base is predominantly fixed and obviously there may be some wage price inflation. Europe tends to be stickier or more resilient than the U.S. On that front. 
+asr:0: OUTPUT 6119.36-6122.52: But that should give us some protection, but more importantly, we pay. 
+asr:0: OUTPUT 6122.54-6131.49: Our processing costs on a per transaction basis so we have a nice spread between revenues growing because of volume growth thanks to inflation and as you were suggesting. 
+asr:0: OUTPUT 6131.51-6133.85: Lower transaction numbers. 
+asr:0: OUTPUT 6133.87-6136.38: With your processing costs. 
+asr:0: OUTPUT 6137.54-6139.58: In addition on the... 
+asr:0: OUTPUT 6139.84-6149.29: On the capital structure front, I mentioned it earlier, I think three quarters of our fixed income capital base is. 
+asr:0: OUTPUT 6149.31-6157.00: Effectively fixed rates, so any inflationary pressure should deflate the value of this debt, so beneficial to us. 
+asr:0: OUTPUT 6157.80-6166.47: In the very short term, I think it's $1.5 billion of our liabilities are indexed to your I-board, but your I-board is floored at zero. 
+asr:0: OUTPUT 6166.77-6173.53: And therefore we have some absorption capacity in that built into our debt structure. So, overall, in that net, my take is that. 
+asr:0: OUTPUT 6173.55-6176.98: We're not beneficiaries of any pressure. 
+asr:0: OUTPUT 6184.44-6189.91: As a reminder, if you wish to register for a question, please press star and 1 on your telephone. 
+asr:0: OUTPUT 6195.52-6201.02: There are no more questions registered at this time. Do you perhaps have any closing comments? 
+asr:0: OUTPUT 6202.82-6209.87: Well, thank you. I think that's a simple comment. Thank you for being with us. Thank you for the many. 
+asr:0: OUTPUT 6209.89-6218.24: Important questions across numbers, outlook, and strategies, well, I think it's important. 
+asr:0: OUTPUT 6219.16-6223.06: I have always said that at the core as well. 
+asr:0: OUTPUT 6223.38-6229.61: Again, simple messages for us, continue the volume recovery across all geographies. I think this is really important. 
+asr:0: OUTPUT 6229.63-6245.53: Strategically, not just financially. For us, good, strong financial performance across the board in revenues and margin as well. And last but not least, we continue to progress. 
+asr:0: OUTPUT 6245.55-6253.01: In the group coming together to have a stronger company for the future across the board. 
+asr:0: OUTPUT 6253.35-6261.14: So thank you very much and looking forward to see many of you over the next few days and week and hopefully. 
+asr:0: OUTPUT 6261.16-6267.09: In person and it's great to see that some of the meetings are starting to be in person again. 
+asr:0: OUTPUT 6267.41-6269.07: Thank you very much. Enjoy the rest of the day. 
+asr:0: END

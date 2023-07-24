@@ -1,0 +1,449 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.24-9.63: Good afternoon ladies and gentlemen and welcome to the Arubis HE conference call on the occasion of the publication of the quarterly report. 
+asr:0: OUTPUT 9.65-12.31: First three months 2021-22. 
+asr:0: OUTPUT 13.57-16.88: At this time, all participants have been placed on a distant origin mode. 
+asr:0: OUTPUT 17.64-24.24: The floor will be open for your questions following the presentation. Now I hand over to Elke Brinkmann. 
+asr:0: OUTPUT 27.03-36.66: Good afternoon everyone and welcome to our first quarter conference call. With us today are our CEO Roland Haring and our CFO Rainer Verhoeven. 
+asr:0: OUTPUT 37.70-43.18: They will share some highlights of our strong Q1 results and will explain the quarter's financials. 
+asr:0: OUTPUT 43.96-51.57: After this, we have time for Q&A. With that, I hand over to Roland Harris. Yes, thanks, Erika. Good afternoon from my side. 
+asr:0: OUTPUT 52.99-56.62: Pleasure to be here with you talking about the Q1 results. 
+asr:0: OUTPUT 57.46-67.03: After presenting you with the best results in the company history in December, I'm pleased to present today to you the best Q1 quarter results ever. 
+asr:0: OUTPUT 68.07-73.83: Based on this performance, we took the decision to raise our forecast also for the full year 2021-2022. 
+asr:0: OUTPUT 75.54-83.24: A strong ongoing demand for all Arubis products and a good supply situation for copper concentrates and for most recycling materials. 
+asr:0: OUTPUT 83.26-87.01: Have caused us to raise the forecast already after the first few months. 
+asr:0: OUTPUT 88.49-96.78: As already announced in the ad hoc release, the operating EBT of Q1 amounted to 152 million euros. 
+asr:0: OUTPUT 96.92-100.88: 85% above the quarter of the previous year. 
+asr:0: OUTPUT 102.22-110.69: The corresponding ROCE of 16.6% underlines the strong development compared to Q1 2021. 
+asr:0: OUTPUT 110.77-113.61: Where our ZE stood at 9.6%. 
+asr:0: OUTPUT 114.67-119.78: Although net cash flow is negative at minus 85 million euros,. 
+asr:0: OUTPUT 119.80-128.57: Due to higher inventories and receivables, it is clearly better than the first quarter of last year, mainly due to the very good Q1 results. 
+asr:0: OUTPUT 130.23-139.62: As energy intensive company, we are exposed to rising electricity and gas prices, yet we have measures in place to actively counteract this. 
+asr:0: OUTPUT 139.98-142.10: And we'll come to this in more detail later. 
+asr:0: OUTPUT 145.27-150.67: On this slide, you can see a quick overview of our key operating year-to-date figures. 
+asr:0: OUTPUT 151.63-158.14: Revenues increased by 27% driven by significantly higher industrial metal prices. 
+asr:0: OUTPUT 158.16-162.34: Higher sales of copper products and higher sulfuric acid revenues. 
+asr:0: OUTPUT 163.64-170.07: Cross-profit increased by 22% due to very strong market conditions and a solid performance. 
+asr:0: OUTPUT 171.21-174.05: We'll come to the details of our earnings drivers in a minute. 
+asr:0: OUTPUT 175.74-184.38: Despite certain cost increases, we achieved an 85% increase in our operating EBT overall compared to last year. 
+asr:0: OUTPUT 185.00-193.57: And again, last but not least, our ROCE at 16.6 exceeds our target figure of 16%. 
+asr:0: OUTPUT 195.88-199.04: Let's dive into last quarter's market conditions. 
+asr:0: OUTPUT 201.02-208.87: The copper price remains at a level of around 9,700 US dollars per ton, well above Q1 of the past fiscal year. 
+asr:0: OUTPUT 210.03-217.34: The other industrial metals, such as tin, lead and zinc, equally showed a very positive market development. 
+asr:0: OUTPUT 219.12-220.88: Let's have a quick look at the concentrate market. 
+asr:0: OUTPUT 221.68-225.97: Arubis saw a good supply situation during the course of Q1. 
+asr:0: OUTPUT 226.07-231.71: And was able to fully supply the primary production sites with a good mix of input materials. 
+asr:0: OUTPUT 233.15-235.48: In the Russian market for copper concentrates. 
+asr:0: OUTPUT 235.50-245.43: Saw the new benchmark for clean concentrates being set at 65 US dollars per ton and 6.5 cents per pound in December 21. 
+asr:0: OUTPUT 246.65-250.41: This corresponds to an increase of 9% year over year. 
+asr:0: OUTPUT 252.19-258.66: The benchmark increase is well supported by expectations of strong mine output over the course of the year. 
+asr:0: OUTPUT 259.52-262.46: The latest update of WoodMAC Hintze shows. 
+asr:0: OUTPUT 262.48-270.51: An unexpected increase of mine output by around 7% in 22 year over year. 
+asr:0: OUTPUT 272.17-280.56: Spot term levels for copper concentrates showed no major movements during the reporting period and remained around benchmark levels. 
+asr:0: OUTPUT 282.06-289.87: One important point to mention, the Chinese Merger Purchase Team has set the buying floor for this quarter, Q1 of the calendar year,. 
+asr:0: OUTPUT 289.89-295.14: At 70 US Dollar per ton and 7 cents per pound above benchmark levels. 
+asr:0: OUTPUT 295.82-299.04: Indicating the positive momentum on the concentrate market. 
+asr:0: OUTPUT 300.46-311.67: As we always state in this call, Arubis is well supplied with concentrates beyond the actual period and this is in line with our long-term supply strategy and long-term contract. 
+asr:0: OUTPUT 313.43-316.24: Moving now to the recycling markets. 
+asr:0: OUTPUT 316.48-319.36: During Q1 of the current fiscal year,. 
+asr:0: OUTPUT 319.38-327.45: We saw sufficient availability of copper strap, blister copper and other complex recycling materials on a global sourcing basis. 
+asr:0: OUTPUT 328.95-341.02: Arubis benefited in the first quarter from good RCs for complex recycling materials as well as good RCs for proper scrap for smelting from purchased inventory materials. 
+asr:0: OUTPUT 341.82-350.35: The availability of copper scrap number 2, curing through 1, was sufficient but below previous years availability. 
+asr:0: OUTPUT 351.17-355.38: Consequently, our fees remained at lower levels than the previous year. 
+asr:0: OUTPUT 357.14-365.01: The EIU estimates the average RC of scrap number 2 at around 275 Euros per ton in Europe. 
+asr:0: OUTPUT 366.83-375.08: The availability of complex recycling materials remains more stable during the first quarter with RCs at stable levels versus previous years. 
+asr:0: OUTPUT 376.74-386.23: Looking forward, our production sites are already significantly supplied with material well into the second quarter of this current fiscal year. 
+asr:0: OUTPUT 386.25-387.33: 21-22. 
+asr:0: OUTPUT 389.07-391.19: Coming to the market of the free assets. 
+asr:0: OUTPUT 392.19-400.14: The sophisticated market showed strong ongoing demand combined with a subdued temporary supply situation in the last quarter. 
+asr:0: OUTPUT 400.88-404.58: This resulted into higher prices for assets. 
+asr:0: OUTPUT 406.35-412.35: The strong market performance coincided with a very good throughput and strong asset production at Arubis. 
+asr:0: OUTPUT 413.31-418.80: Additional capacities of assets were sold at currently very fabled spot market terms. 
+asr:0: OUTPUT 419.78-428.17: ITIS reported new Q4 contracts for NW Europe at 205 to 240 Euros FOB. 
+asr:0: OUTPUT 430.23-438.26: It remains that global markets are tight and we expect that this situation will continue to stay well into the first half of 2020. 
+asr:0: OUTPUT 440.18-444.78: So the current outlook for this fiscal year remains very positive for the free market. 
+asr:0: OUTPUT 446.21-450.41: I'm allowed to the ACP, the Anglo-Scottish Copper Premium, for this year. 
+asr:0: OUTPUT 451.11-459.00: We set the number for last calendar year at 96 US dollars per ton reflecting the stable demand throughout the year 2012. 
+asr:0: OUTPUT 460.00-467.51: For 2022, for this calendar year, we have increased the number to 123 US dollars per ton. 
+asr:0: OUTPUT 467.99-473.83: This is due to the strong demand and continued high takeoff for our products in Europe. 
+asr:0: OUTPUT 475.76-487.27: Also the spot premium levels in both Europe and Asia stayed constant during the reporting period, indicating and underlining that there is a strong demand for refined copper globally. 
+asr:0: OUTPUT 489.75-492.21: The last point here is the US solar. 
+asr:0: OUTPUT 493.45-502.34: And as you know, we have a long position of approximately 500 US dollars, 500 million US dollars in 5th period 2120 foot 2. 
+asr:0: OUTPUT 502.90-511.73: And within the scope of our hatching strategy, we have for this fiscal year hatched 70% at a rate of 1.147. 
+asr:0: OUTPUT 511.75-518.54: And has hedged 34% at a rate of 1.159 for the coming fiscal year. 
+asr:0: OUTPUT 522.08-527.33: Talking about energy, which has been addressed in various discussions that we had already. 
+asr:0: OUTPUT 527.75-536.62: Here we want to share some of the data, how we see energy in the total context of our. 
+asr:0: OUTPUT 538.38-543.00: What is here, inflation, the topic of inflation is being poorly discussed at this moment. 
+asr:0: OUTPUT 543.66-552.47: Arubis is also facing some cost increases, however mainly arising from the current energy crisis and the peaks of these crises on the energy market. 
+asr:0: OUTPUT 553.91-564.30: The good news is, today all other cost components at crude level stay rather stable quarter over quarter and the cost reduction measures that we have taken show effect. 
+asr:0: OUTPUT 564.88-567.87: And specifically the effects from the PIP program. 
+asr:0: OUTPUT 567.89-576.18: Continue to contribute to significant cost reduction, hence positively affecting and benefiting to the bottom line. 
+asr:0: OUTPUT 577.30-580.34: In the current fiscal year, 21-22,. 
+asr:0: OUTPUT 580.40-587.63: We expect the cost savings of about 90 million euros arising only from the PIP program. 
+asr:0: OUTPUT 589.03-599.74: All in all, the very positive developments on the earnings drivers market could more than compensate for the energy cost inflation we were facing during quarter one of the current fiscal year. 
+asr:0: OUTPUT 601.36-607.25: Now having talked about the overall cost situation, let's dig a bit more into the energy cost of the Aruba school. 
+asr:0: OUTPUT 609.07-615.64: In Q1 of this fiscal year, we saw a significant price increase for energy prices quarter over quarter. 
+asr:0: OUTPUT 616.46-625.73: Mainly driven by higher prices for coal and CO2, resulting in increased electricity prices and also natural gas, which also increased considerably. 
+asr:0: OUTPUT 627.55-638.96: In order to provide you a more detailed overview of the real energy costs on group level, we have reduced our energy costs by the received compensation for the first time. 
+asr:0: OUTPUT 639.78-646.29: For example, indirect CO2 electricity compensation and state refunds in this overview. 
+asr:0: OUTPUT 647.49-656.04: Our goal with this is to provide the financial market a better insight in the actual cost exposure to energy markets of our movers. 
+asr:0: OUTPUT 658.12-667.47: Current high energy costs remain a cost inflation factor for the current fiscal year, despite our high hedging rate of two thirds of the energy consumption. 
+asr:0: OUTPUT 668.65-675.74: However, the very positive earning side more than compensates for the current energy cost inflation. 
+asr:0: OUTPUT 676.94-685.41: To summarize, energy prices, so electricity and other energy components, remain a very relevant topic for Arubis. 
+asr:0: OUTPUT 686.35-695.01: The risks and opportunities from energy markets, however, are effectively mitigated with energy efficiency as well as hedging measures. 
+asr:0: OUTPUT 695.70-699.56: And with this I would like to hand over to Rainer with more of his advice and his opinion. 
+asr:0: OUTPUT 700.96-703.42: Thanks Roland and good afternoon from my side. 
+asr:0: OUTPUT 704.10-711.39: Let's have a look at the financial KPIs. Ahoob is key performance indicators continue to show very stable and robust picture. 
+asr:0: OUTPUT 711.77-719.90: ROCE improved to 16.6% as a result of the very good earnings situation, the equity ratio of 49%. 
+asr:0: OUTPUT 719.92-723.30: And the depth coverage ratio remain very strong. 
+asr:0: OUTPUT 723.88-728.47: Net cash flow was with minus 85 million better than expected. 
+asr:0: OUTPUT 728.49-739.22: In the first quarter due to the inventory build-up but please bear in mind that we had last year an extraordinary high cash flow towards the end of the last financial year. 
+asr:0: OUTPUT 740.06-746.15: All in all, this good financial position provides significant room for the implementation of our strategy. 
+asr:0: OUTPUT 748.23-758.06: Going to the segmentation, as a reminder, since October 1st, 2021, we are reporting in two revised segments. 
+asr:0: OUTPUT 758.28-764.66: Our new segments are now multi-metal recycling on the one hand and custom smelting and products on the other. 
+asr:0: OUTPUT 765.55-771.45: The focus of our business lies on securing the most profitable input materials for our SMELTER network. 
+asr:0: OUTPUT 772.41-778.42: Therefore, we have decided to separate our reporting segments along the main input material stream. 
+asr:0: OUTPUT 779.54-784.08: Segment multi-metal recycling comprises the four secondary smelters of the group. 
+asr:0: OUTPUT 785.09-792.57: Our new project, the multi-metal recycling facility in the US, will be part of this segment as well. 
+asr:0: OUTPUT 794.73-804.58: With our long-standing and very successful plants in Germany, Belgium and Spain, the segment Mighty Metal Recycling offers a wide range of recycling services to our customers. 
+asr:0: OUTPUT 804.90-810.31: And covers most of the metals that form the basis for all kinds of industrial applications. 
+asr:0: OUTPUT 811.87-816.68: Another equally important pillar in our segmentation is the segment custom smelting and products. 
+asr:0: OUTPUT 817.24-825.25: Here we report about our integrated flash measures in Hamburg and Theodor, which we operate with concentrates as the main input material. 
+asr:0: OUTPUT 826.21-829.51: The copper ores originate from mines all over the world. 
+asr:0: OUTPUT 830.77-837.92: Based on the input material as well as the related production equipment, there is a clear differentiation from our recycling business. 
+asr:0: OUTPUT 838.94-848.47: In this segment we also report on the product business, the copper wire rod produced in our rod plants, the shape business with copper case and pinnets,. 
+asr:0: OUTPUT 849.11-852.67: As well as the federal business are reported in the signal. 
+asr:0: OUTPUT 855.28-863.30: Further products included in this segment are sulfuric acid, all iron silicate products and our precious metal production. 
+asr:0: OUTPUT 864.97-866.83: As already stated in December. 
+asr:0: OUTPUT 867.05-877.38: We are convinced that this new segmentation gives you a more transparent and balanced view of our business, reflects our updated strategy appropriately,. 
+asr:0: OUTPUT 877.40-880.98: And will create a better understanding of our future growth. 
+asr:0: OUTPUT 884.48-889.31: Let me highlight some financial and production figures from the MMR segment. 
+asr:0: OUTPUT 890.15-897.58: The operating EBT was at 77 million and thus 64% above the previous year's figures. 
+asr:0: OUTPUT 898.76-908.67: Good operating performance, significantly higher refining charges for recycling materials and high metal gains led to this extraordinary result. 
+asr:0: OUTPUT 910.07-916.78: Especially the price increases for the industrial metals tin, zinc, nickel and copper. 
+asr:0: OUTPUT 916.98-920.56: In particular has strong positive effects here. 
+asr:0: OUTPUT 921.64-929.89: With an outstanding ROCE of 38.9%, the target level of 15% was more than doubled. 
+asr:0: OUTPUT 929.91-932.43: In this first quarter 21-22. 
+asr:0: OUTPUT 934.81-942.48: The consumption of recycling materials and the cattle production increased due to the strong operative performance of the plant. 
+asr:0: OUTPUT 944.06-950.49: The input of copper scrap and plister copper was slightly reduced compared to Q1 last year. 
+asr:0: OUTPUT 953.13-956.42: Have a look at CSP. In the CSP segment, too. 
+asr:0: OUTPUT 956.98-964.14: The operating EVT increased significantly by 83% to 88 million as compared to last year. 
+asr:0: OUTPUT 965.51-973.13: The very strong performance of the smelters in Hamburg and Piedorf led to higher concentrate throughputs and thus higher sulfuric acid production. 
+asr:0: OUTPUT 974.03-981.36: The high demand on sulfuric acid markets combined with the low supply led to another considerable price increase. 
+asr:0: OUTPUT 981.38-984.22: Which has a very positive effect on the results. 
+asr:0: OUTPUT 986.07-991.01: The high prices of industrial metals led to higher metal gains in this segment as well. 
+asr:0: OUTPUT 992.67-997.76: Operating ROC was at 9.5% at the end of this first quarter. 
+asr:0: OUTPUT 999.02-1008.95: On the product side, demand was stable at a high level for rods and shaves, even increased further as compared to Q1 last year. 
+asr:0: OUTPUT 1010.33-1014.47: Higher energy prices had a slightly negative impact in those affected. 
+asr:0: OUTPUT 1019.08-1024.44: To the outlook for our earning suppliers starting with the concentrates market. 
+asr:0: OUTPUT 1025.57-1033.97: The expected concentrate production rates from both CRU and WoodMED show a significant increase of production volumes. 
+asr:0: OUTPUT 1034.61-1039.50: WoodMEC expects global mine production to increase in calendar year 2020. 
+asr:0: OUTPUT 1039.52-1047.35: 2 by 7 percent while additional smelting capacity is expected to grow at only 2 percent. 
+asr:0: OUTPUT 1048.75-1054.97: In summary, Woodmeck expects the additional supply to keep up with the rising demand. 
+asr:0: OUTPUT 1054.99-1061.56: And that should result in a well-balanced global custom smelter concentrate market. 
+asr:0: OUTPUT 1063.68-1067.99: I always was able to fully supply production. 
+asr:0: OUTPUT 1068.01-1074.57: Supply production plants with concentrates throughout Q1 2021-22 and. 
+asr:0: OUTPUT 1074.59-1082.16: Based on our expected stock levels, our SMERDs are already well supplied beyond the end of Q2 this financial year. 
+asr:0: OUTPUT 1083.76-1093.69: Moving on to the scrap RCs, our core markets, Europe and the US, have seen a normalization of RC levels from record highs during last fiscal year. 
+asr:0: OUTPUT 1094.57-1100.74: Availability of input materials for copper scrap for smelting was sufficient during Q1. 
+asr:0: OUTPUT 1100.90-1106.87: And we expect a sufficient supply situation for the rest of the financial year 2021-2022. 
+asr:0: OUTPUT 1107.99-1116.20: CLU estimates an average of around 275 Euros per ton for scrap number two during the reporting period. 
+asr:0: OUTPUT 1116.60-1120.34: With a first expected price increase in January 2022. 
+asr:0: OUTPUT 1122.02-1127.41: The availability of complex recycling materials like shredder materials, PCBs,. 
+asr:0: OUTPUT 1127.43-1133.31: Residue, slag and ashes was more stable than the availability of scrub number two. 
+asr:0: OUTPUT 1134.23-1139.66: Accordingly, the RCs for complex recycling state at beneficial level 4.0. 
+asr:0: OUTPUT 1140.54-1149.77: We foresee a stable market with good RCEs as these markets are less volatile and our contracts are based on long returns. 
+asr:0: OUTPUT 1151.79-1160.04: Our production plants are well supplied with recycling materials at good refining charges until the end of Q2 2021-22. 
+asr:0: OUTPUT 1162.52-1168.07: On the sulfuric acid side, the positive momentum in the global spot pricing for sulfuric acid. 
+asr:0: OUTPUT 1168.71-1174.11: Keeps going or kept going during to 1-20, 1-20. 
+asr:0: OUTPUT 1174.97-1184.32: ICIS foresees an ongoing strong demand in our core markets in Europe as well as overseas with limited availability in the markets. 
+asr:0: OUTPUT 1184.94-1192.35: This positive trend is expected to continue to the second half of the calendar year 2020. 
+asr:0: OUTPUT 1193.97-1198.06: Longer-term contracts are expected to be closed with an increase in price levels. 
+asr:0: OUTPUT 1199.04-1204.46: All in all, a very positive outlook for the asset markets for Rubis during this fiscal year. 
+asr:0: OUTPUT 1206.45-1212.03: As briefly mentioned before on the copper premium side for calendar year 2022. 
+asr:0: OUTPUT 1212.07-1221.20: This has been set at $123, which reflects the positive demand for refined copper with a tighter market expectation. 
+asr:0: OUTPUT 1223.10-1226.67: Coming to our corporate products, rot, shades and FRPs. 
+asr:0: OUTPUT 1227.63-1234.89: We see strong ongoing demand for all our copper products and expect positive contributions from the product business. 
+asr:0: OUTPUT 1235.64-1244.38: We saw ongoing demand from all customer segments during Q1, with a trend expected to continue in the whole fiscal year 2021-22. 
+asr:0: OUTPUT 1246.59-1255.54: Both product demand for rods and demand for shapes remain at high levels and we expect this trend to continue during the fiscal year. 
+asr:0: OUTPUT 1256.48-1264.78: Also, FRP is doing fine. Our store-back plant should be back to full production by the end of Q3 of our fiscal year. 
+asr:0: OUTPUT 1268.07-1278.90: With a very positive preliminary figure 41, we informed the capital markets on January 19th about the increase in our forecast range for 2021-22. 
+asr:0: OUTPUT 1279.86-1288.59: Based on the latest assumptions we now expect an operating EBT between 400 and 500 million up from 320 to 380. 
+asr:0: OUTPUT 1289.31-1295.98: And an operating ROCE of 15 to 19 percent, previously 12 to 16 percent. 
+asr:0: OUTPUT 1297.80-1305.09: Accordingly, we updated the forecast range for the multi-metal recycling segment. We expect an operating EBG between. 
+asr:0: OUTPUT 1305.11-1311.27: 190 and 250 million up from 140 to 200. 
+asr:0: OUTPUT 1311.95-1319.26: And an operating ROCE between 22 and 26 percent, previously 16 and 20. 
+asr:0: OUTPUT 1320.48-1331.79: For the customs, smelting and product segment, we now expect an operating EBT between 280 and 340 million up from 210 to 270. 
+asr:0: OUTPUT 1331.81-1336.36: And an operating ROCE between 14 and 18 percent. 
+asr:0: OUTPUT 1339.08-1345.67: Last but not least, I'd like to inform you about the renewal of our syndicated credit facility. 
+asr:0: OUTPUT 1346.85-1353.59: At the beginning of February 2022, Aruby signed a new 350 million syndicated credit facility. 
+asr:0: OUTPUT 1353.61-1357.88: With the option of increasing it by up to 150 million. 
+asr:0: OUTPUT 1358.42-1364.72: The new credit facility has a term of five years and can be extended twice by one year. 
+asr:0: OUTPUT 1366.13-1374.21: The purpose of the credit facility is general company financing, particularly as a reserve for potential liquidity fluctuations. 
+asr:0: OUTPUT 1375.48-1383.34: With this facility, Aarhubis is prematurely replacing the syndicated facility that had a term until 2023. 
+asr:0: OUTPUT 1384.30-1390.57: This new financing instrument is linked to the rating of EcoBardis, so our sustainability rating. 
+asr:0: OUTPUT 1391.55-1397.94: Currently our rubies hold the platinum status with 73 out of 100 points and thus belongs. 
+asr:0: OUTPUT 1397.96-1402.62: To the top 1% of companies in the global non-ferrous metals industry. 
+asr:0: OUTPUT 1403.76-1413.67: The ESG-linked syndicated loan emphasizes that sustainability continues to extend into financing structures at AHOVIS. 
+asr:0: OUTPUT 1414.55-1422.68: As the most sustainable SMERTA network worldwide, we connect our financing conditions to our strategic business activities. 
+asr:0: OUTPUT 1424.02-1433.89: In June 2020, Aruvis was the first company in this industrial sector to successfully place a Schuldschlein loan of 400 million with a sustainability component. 
+asr:0: OUTPUT 1435.98-1442.28: The current ESG-linked syndicated credit facility is a confirmation of our ambition. 
+asr:0: OUTPUT 1442.30-1446.19: To expanding our industry leadership in sustainability. 
+asr:0: OUTPUT 1447.41-1449.99: With this, I'm back to you all. 
+asr:0: OUTPUT 1451.49-1460.00: So coming to the last slide now, talking about dividends and as a result of a very successful fiscal year 2021. 
+asr:0: OUTPUT 1460.20-1464.56: We would like our shareholders to share in our success in an appropriate form. 
+asr:0: OUTPUT 1465.33-1469.89: Therefore, in line with our dividend policy, the executive and the supervisory board. 
+asr:0: OUTPUT 1469.95-1477.64: Are recommending a dividend of 1.60€ to the shareholders at the Annual General Meeting on February 17th. 
+asr:0: OUTPUT 1478.12-1480.00: So in the next week already. 
+asr:0: OUTPUT 1480.80-1487.79: This would lead to a dividend yield of 2.5% based on the closing price of 65.38€. 
+asr:0: OUTPUT 1487.81-1491.11: On September 30th of the year 2021. 
+asr:0: OUTPUT 1492.19-1498.88: This corresponds then to a dividend payout ratio of 26% of the group's operating resources. 
+asr:0: OUTPUT 1500.00-1505.87: And with this, I think after presenting our results, I'd say in a very good market environment. 
+asr:0: OUTPUT 1505.99-1511.45: We delivered very good results. I will hand back to Elke for the Q&A. Thanks for your attention. 
+asr:0: OUTPUT 1511.73-1518.14: Yes, thank you Roland. With this we start the Q&A session and I ask the operator to release the line for the first question. 
+asr:0: OUTPUT 1522.40-1527.23: Yes, thank you very much. 
+asr:0: OUTPUT 1527.49-1536.46: We have first a questioner in the line and it is Timber Goyle from Exxon BNP Paribas. The floor is yours. 
+asr:0: OUTPUT 1538.02-1544.04: Thank you, Professor. Good afternoon. A good couple of questions. First one, back to your guidance. 
+asr:0: OUTPUT 1544.76-1551.33: And the company got forced to raise guidance within 6 weeks of establishing it for second time in a row. 
+asr:0: OUTPUT 1552.65-1558.80: We appreciate the new divisional disclosure, but do you think it's still... 
+asr:0: OUTPUT 1558.82-1565.53: An easy to forecast business or how would you recommend modeling this business? 
+asr:0: OUTPUT 1565.87-1575.24: Or is there a steady state EBT number that you can put on this business without including any growth optionalities that you are pursuing? 
+asr:0: OUTPUT 1575.30-1578.62: If you input all mid cycle inputs. 
+asr:0: OUTPUT 1578.86-1583.52: Where would your EBIT be for the current business as it stands? 
+asr:0: OUTPUT 1586.47-1589.23: Thanks for the question, Tim Delahayne. 
+asr:0: OUTPUT 1589.43-1596.50: We had a new normal a couple of capital market days ago which was at 300. 
+asr:0: OUTPUT 1596.92-1601.76: So now with the acquisition of Metallo, of course it will be a bit higher. 
+asr:0: OUTPUT 1602.64-1612.45: Nonetheless with the asset prices which were unpredictable and let's say the surge in metal, in pretty much all industrial metal prices. 
+asr:0: OUTPUT 1612.49-1616.82: If you look at pin, which let's say more than double here over here. 
+asr:0: OUTPUT 1617.20-1621.90: That is something that we couldn't forecast, that we couldn't put into our guidance before. 
+asr:0: OUTPUT 1622.20-1626.17: We now see clearer and therefore we had to adjust our guidance. 
+asr:0: OUTPUT 1626.47-1636.60: That's why we have this extraordinary situation which is clearly driven by the metal prices here and by the asset. 
+asr:0: OUTPUT 1636.92-1643.90: Though we also had a good operating performance of our plants, which is also quite an important topic. 
+asr:0: OUTPUT 1643.92-1650.31: Which then all in all very much overcompensated the negative impacts from the energy. 
+asr:0: OUTPUT 1654.61-1656.26: Understood. Thank you. 
+asr:0: OUTPUT 1656.32-1665.67: Another one are you able to provide any indication on gross profit for the new divisions the MMR and CSP are those. 
+asr:0: OUTPUT 1665.69-1674.71: Quite aligned to the EBIT or EBT levels just to get some sense or if you could provide depreciation split that will be helpful as well. 
+asr:0: OUTPUT 1679.10-1687.25: And you see on the ROCE levels that we are running quite different capital employees in the different segments. 
+asr:0: OUTPUT 1687.31-1700.28: And therefore you see this also extraordinary high ROCE in the MMR segment which has to do with much lower or let's say half the capital employed. 
+asr:0: OUTPUT 1701.14-1707.89: That is not only from the fixed assets but it's of course also from the networking capital because all the product business. 
+asr:0: OUTPUT 1707.91-1713.33: In the CSP segment, so therefore you can in principle say it's double. 
+asr:0: OUTPUT 1713.53-1718.70: It always doubles the capital employed in the CSP compared to the NMR. 
+asr:0: OUTPUT 1721.16-1729.81: But the gross profit of these businesses is aligned with the EBIT that is reported for these two as well? Yes, absolutely. Thank you. 
+asr:0: OUTPUT 1731.75-1741.26: At the moment there are no further questions, so please press 9 and star to register for questions. 
+asr:0: OUTPUT 1746.87-1755.48: Our next up is Bastian Zinagelwitz from Deutsche Bank. Over to you. Thank you. Good afternoon all and thanks for taking my question as well. 
+asr:0: OUTPUT 1756.46-1764.26: I have a few ones, maybe first of all on the sulfuric acid term, where you seem to be getting a decent settlement already in the fourth quarter. 
+asr:0: OUTPUT 1764.68-1771.03: I have to say I mentally parked that always as an annual price pricing mechanism with annual contracts. 
+asr:0: OUTPUT 1771.15-1775.82: Could you maybe let us know whether there has been anything which changed in the contract structure? 
+asr:0: OUTPUT 1776.26-1781.14: Or whether you're busy just seeing the price volatility in Swifor, I guess, a bit more quickly, you know. 
+asr:0: OUTPUT 1784.50-1786.55: Yeah, Roland speaking here. Thanks for your question. 
+asr:0: OUTPUT 1787.45-1796.44: So, Frank, at this one point, and you see this in our documentation, we had a very strong production in the first quarter of our fiscal year. 
+asr:0: OUTPUT 1796.54-1798.94: Which leads to more spot opportunities. 
+asr:0: OUTPUT 1799.30-1805.55: So there are two things came together, extra tonnage and a very high demand from the market side. 
+asr:0: OUTPUT 1806.01-1814.43: So this helps to improve the prices. We haven't changed overall our policy that a certain base load of long term contracts is being. 
+asr:0: OUTPUT 1814.45-1820.96: Taken year over year with our, let's say, specifically with our customers served from the Hamburg plant. 
+asr:0: OUTPUT 1821.46-1826.87: Third off, we also said in the last calls, we have a higher ratio of spot business there. 
+asr:0: OUTPUT 1827.25-1838.32: But overall, as we showed with the official available numbers, the sulfuric acid market has been characterized by strong demand with very good pricing. 
+asr:0: OUTPUT 1840.24-1841.36: Thanks. 
+asr:0: OUTPUT 1842.36-1845.11: Just to follow up briefly, maybe... 
+asr:0: OUTPUT 1845.13-1854.77: Give us the split roughly between annual and spot. So basically just to get a sense for the annual share because I guess with the price volatility we are currently seeing. 
+asr:0: OUTPUT 1854.79-1859.62: It's definitely a very big price step up coming in the course of the first calendar quarter. 
+asr:0: OUTPUT 1863.90-1869.21: Yeah, if you take as a guidance 80% long term 20% spot. 
+asr:0: OUTPUT 1869.75-1875.58: However again we lock in contracts at a conservative production level. 
+asr:0: OUTPUT 1875.90-1882.74: So if we have a very strong production like we saw in the first quarter, then the spot ratio goes for rather slightly up. 
+asr:0: OUTPUT 1883.20-1887.53: But in our planning, we assume these 80-20 rules. 
+asr:0: OUTPUT 1888.77-1891.21: Okay, excellent. That's good to know. Thanks for that. 
+asr:0: OUTPUT 1891.53-1900.12: Then just moving on to Zinc, where I saw that the volume for the percent of your throughput has basically never been that high as they were this quarter. 
+asr:0: OUTPUT 1900.60-1904.12: I think they were up even by 50% over the fourth quarter. 
+asr:0: OUTPUT 1905.21-1907.35: Of course, this is probably also due to metallo. 
+asr:0: OUTPUT 1907.55-1909.85: But is there any other extraordinary in there? 
+asr:0: OUTPUT 1909.87-1919.24: Where you may be sold of inventory or this is basically just the new normal because of the additional metallurgical prepare capabilities which you onboarded with your metallodeal. 
+asr:0: OUTPUT 1921.40-1929.97: I think we need to differentiate concentrate throughput and if we refer to this number, we had a very strong Q1 in our office compared to year over year. 
+asr:0: OUTPUT 1930.03-1939.66: With 12% more concentrate throughput, which reached a level of 679,000 tons, which is truly a very strong water. 
+asr:0: OUTPUT 1940.60-1946.45: But this concentrate throughput is connected from the addition of DOWs and Virango to our portfolio. 
+asr:0: OUTPUT 1946.89-1954.31: This is really the recycling system and here as we announced with the integration of two plants. 
+asr:0: OUTPUT 1954.71-1962.62: We have achieved now recycling material throughput of around 1 million tons or exceeded already 1 million tons last year in total. 
+asr:0: OUTPUT 1962.80-1970.79: But again, concentrate is really the two plants, Hamburg and Bulgaria, and then we have the recycling network, which are the other plants. 
+asr:0: OUTPUT 1973.55-1975.04: Okay, perfect. Thanks a lot. Thanks for that. 
+asr:0: OUTPUT 1975.42-1981.12: Then just one last question if I may on energy costs as well. Here I was just wondering. 
+asr:0: OUTPUT 1981.44-1988.33: In terms of the timeline, which you have here for the CO2 certificates which you are getting compensation for. 
+asr:0: OUTPUT 1989.13-1994.89: If I work it out correctly, I think you're receiving a payback for roughly 40 Euros per ton. 
+asr:0: OUTPUT 1995.30-1999.14: So is it fair to say that there is now less than a 12 month time length on this? 
+asr:0: OUTPUT 1999.72-2001.04: And then also maybe. 
+asr:0: OUTPUT 2001.06-2009.99: We can give us the mark to market number of the 62 million energy cost if you look at the position, maybe how would it look like for external spot conditions. 
+asr:0: OUTPUT 2013.37-2019.34: So to the compensation, we have, as we discussed over this call, we are eligible for the... 
+asr:0: OUTPUT 2019.36-2027.33: CO2 compensation in the framework of the ETS. And here we receive different ratios in the countries depending on their energy needs. 
+asr:0: OUTPUT 2027.39-2030.77: So it's not easy to make a direct one-to-one comparison here. 
+asr:0: OUTPUT 2031.31-2040.62: And this eligibility is now decided until 2030, so for the actual trading periods of the ETS. 
+asr:0: OUTPUT 2041.52-2049.13: And this to make a real comparison or to give you a real number what's the impact of energy cost or electricity cost increases. 
+asr:0: OUTPUT 2049.15-2057.58: Which is also highly driven by the CO2 cost increases, we decided to put this compensation mechanism into our energy cost. 
+asr:0: OUTPUT 2058.06-2061.78: So that's really the net cost, the energy cost that we see bottom line. 
+asr:0: OUTPUT 2062.58-2072.49: There is one point, you are right, there is a certain time lag in how the compensation, the indirect CO2 compensation is being paid to us. 
+asr:0: OUTPUT 2072.99-2078.92: So this is something which again makes it not a very simple equation of this calculator. 
+asr:0: OUTPUT 2080.56-2089.77: Okay, and the time lag, I mean, is this broadly a year or is it even much longer than that? Because I think we just took the delta between the number you're now showing. 
+asr:0: OUTPUT 2090.07-2093.19: Versus the number you've been showing for the same quarter a year ago. 
+asr:0: OUTPUT 2093.69-2095.72: I think that's roughly 10 million or so. 
+asr:0: OUTPUT 2096.14-2103.18: And then I just worked it backwards with the quarterly scope to emissions of like 250,000. 
+asr:0: OUTPUT 2103.44-2106.41: The capital to apply 40 Euros per ton of CO2. 
+asr:0: OUTPUT 2107.83-2112.57: I just looked at the CO2 chart and thought that means it has to be less than a year time limit. 
+asr:0: OUTPUT 2114.49-2118.68: The time lag for this indirect compensation is two years. 
+asr:0: OUTPUT 2119.66-2129.61: And this compensation that we receive in the actual period, the money that we receive as compensation is taken into account in the energy cost that we show. 
+asr:0: OUTPUT 2129.89-2139.86: Which means we have a, let's say, we will get a higher compensation for this fiscal year but just in two years time and we show it then really in the two year time period only. 
+asr:0: OUTPUT 2140.62-2147.93: So this is the timing, the way how we have put this into our equation here. So we really show the net cost of what is really hitting our P&L. 
+asr:0: OUTPUT 2149.93-2158.44: Okay, and then if we were to mark, mark to mark, at the 62 million number to today's conditions, how would that look like? 
+asr:0: OUTPUT 2161.76-2169.05: But that's a bit different or difficult question, Bastian, because it is electricity, it's natural gas. 
+asr:0: OUTPUT 2169.11-2171.95: Other fuels. 
+asr:0: OUTPUT 2172.35-2181.16: And it's a mixture of different prices of electricity prices, gas prices and so forth in different legislations. 
+asr:0: OUTPUT 2181.20-2182.70: And there is not only one. 
+asr:0: OUTPUT 2182.82-2184.66: That we can mention here. 
+asr:0: OUTPUT 2185.51-2193.29: And also perhaps one additional point, this compensation is a payout. So we are not receiving any certificates or anything which is on the accounts. 
+asr:0: OUTPUT 2193.73-2195.46: So it's really calculated. 
+asr:0: OUTPUT 2195.56-2204.68: After they were paid out and calculated two years after the calendar year is really over and then we get a straight payment. 
+asr:0: OUTPUT 2204.86-2212.77: So there is no certificate or no rights or anything issued. So therefore, there is also not a mark-to-market evaluation there. 
+asr:0: OUTPUT 2214.53-2219.86: I was really just more referring to just the overall energy bill. You'll see I think in the last quarter if you always had. 
+asr:0: OUTPUT 2220.00-2222.00: Basically have roughly two thirds of that hatched. 
+asr:0: OUTPUT 2222.40-2224.48: And I guess we'll catch us all rolling. 
+asr:0: OUTPUT 2224.52-2228.75: Maybe you are not hedging any longer as much in current energy prices because maybe they are. 
+asr:0: OUTPUT 2228.77-2237.82: They're high but I was just keen to understand how the 62 million number moves when we're moving closer to. 
+asr:0: OUTPUT 2237.84-2244.86: What the current conditions are. We're not really getting to spend a penny, but just to get a broad sense. 
+asr:0: OUTPUT 2244.99-2248.19: I have to say this obviously is like a complex exercise. 
+asr:0: OUTPUT 2248.65-2250.79: I'm still sure you've been looking into this. 
+asr:0: OUTPUT 2251.99-2257.82: But I think what is important just to underline that we as an eligible sector and company. 
+asr:0: OUTPUT 2258.22-2264.50: We are being mostly compensated for the CO2 cost increase in the electricity production. 
+asr:0: OUTPUT 2265.07-2271.65: And this will last, which means today we see a CO2 certificate prices of say above 90 euros per ton. 
+asr:0: OUTPUT 2272.75-2280.34: Which means we are not getting this compensation and actually in this fiscal year not to the P&L but we will get it in two years time. 
+asr:0: OUTPUT 2281.10-2291.79: So I think it's important that our energy bill and the electricity bill is kind of disconnected from the CO2 price increase or certificate price increases. 
+asr:0: OUTPUT 2291.85-2295.12: But again with this time lag of about two years. 
+asr:0: OUTPUT 2296.62-2304.72: And overall, please bear in mind that energy cost in total is 14 or 15 or is it today 16% or whatever? 
+asr:0: OUTPUT 2305.15-2311.73: So it is not that much and this factor then moves up by one third due to spot market conditions. 
+asr:0: OUTPUT 2312.27-2315.66: And that reflects here in the 62 million that you see. 
+asr:0: OUTPUT 2316.98-2318.42: Thank you for this help. 
+asr:0: OUTPUT 2322.68-2328.47: And next up is Christiane Oudt from Baader Bank. Over to you. 
+asr:0: OUTPUT 2330.69-2340.18: Thank you. Good afternoon. So I have three questions. One is also on the cost side. You are looking for additional employees. 
+asr:0: OUTPUT 2340.44-2347.53: As I have seen, can you give us some kind of your expectation about personal cost increase going forward? 
+asr:0: OUTPUT 2347.97-2356.02: So new personnel coming in and also the inflation issues there. 
+asr:0: OUTPUT 2357.12-2366.37: The second one is on battery recycling, where you stand currently, what is your time table and what is your main question mark for you? 
+asr:0: OUTPUT 2366.81-2372.13: Before you decide to invest into some kind of a bigger plan. 
+asr:0: OUTPUT 2372.87-2375.48: And the last one, more strategic one, or... 
+asr:0: OUTPUT 2376.46-2386.25: What are the main investments in Europe when it comes to capacity and renewables, something like that? 
+asr:0: OUTPUT 2386.89-2390.79: And what kind of amount of scrap. 
+asr:0: OUTPUT 2390.81-2398.42: Are you targeting to get a throughput when you have all of these investments done? Thank you. 
+asr:0: OUTPUT 2401.16-2403.34: OK, thanks. Thanks, Mr. O'Rourke, for speaking here. 
+asr:0: OUTPUT 2403.70-2413.33: So to your first question regarding increase in headcount of people we are hiring. So there are two areas. We are strengthening our IT or in the widest sense our digital department. 
+asr:0: OUTPUT 2413.87-2418.12: And also our group engineering organization. 
+asr:0: OUTPUT 2418.14-2426.69: In line with our strategy, we are strengthening this engineering group in order to focus and deliver on the investments that we have planned for the coming years. 
+asr:0: OUTPUT 2427.23-2433.01: And the total cost increase that we see if everybody is on board, which we are doing as we speak. 
+asr:0: OUTPUT 2433.33-2438.42: The total cost increase will be in the magnitude of 10 million euros plus minus. 
+asr:0: OUTPUT 2439.00-2440.54: Depending on what we find. 
+asr:0: OUTPUT 2440.68-2446.47: If you translate it, it's about 80 to 100 people in this range, depending on... 
+asr:0: OUTPUT 2446.49-2455.48: Also where we place them because we have options to bring people into different sites of Arubis like Sofia, Pyrelope, Spain, Belgium or also in Germany. 
+asr:0: OUTPUT 2456.58-2459.96: So that's the number regarding increase. 
+asr:0: OUTPUT 2460.36-2462.46: And your question regarding battery cycling. 
+asr:0: OUTPUT 2462.66-2469.41: The status is that we are building up our pilot plant, it's more a demo plant, it's quite an impressive. 
+asr:0: OUTPUT 2469.43-2473.41: Setup that we are finally installing these days. 
+asr:0: OUTPUT 2473.47-2478.24: And we will go into this demo production in March. 
+asr:0: OUTPUT 2478.46-2480.22: That's where we're going to start. 
+asr:0: OUTPUT 2480.72-2487.23: And we will see the, hopefully the full confirmation of what we have developed in the lab pilot scale. 
+asr:0: OUTPUT 2487.47-2490.91: In early summer time frame. 
+asr:0: OUTPUT 2491.23-2503.86: And in parallel we are investigating or we are working on the feasibility to go the next step in order to see what is recycling, what is investment in better recycling, in black mass recycling. 
+asr:0: OUTPUT 2503.88-2505.55: Would look like in an industrial state. 
+asr:0: OUTPUT 2506.73-2511.03: Do you still have some kind of a partner there or looking for a partner? 
+asr:0: OUTPUT 2512.21-2519.60: We are in an attempt, if you see there is an amazing dynamic in this market and there is not a day without a press release or any news. 
+asr:0: OUTPUT 2520.14-2521.30: And. 
+asr:0: OUTPUT 2521.42-2523.66: I am not in a position to disclose. 
+asr:0: OUTPUT 2523.70-2542.48: With whom we are discussing what we are in the midst of the discussion with OEMs, battery producers and other companies who are setting up or thinking about setting up collection schemes and dismantling schemes for used batteries coming from the vehicles end of life. 
+asr:0: OUTPUT 2544.78-2550.03: I think you understand I cannot drop here names on the questions that we have. 
+asr:0: OUTPUT 2550.73-2560.70: And the last question was on the main invest and the scrap target. So, the scrap target as announced. 
+asr:0: OUTPUT 2561.06-2566.37: We want to go to 50% recycling quota by the year 2013. 
+asr:0: OUTPUT 2567.37-2573.53: That is far from easy. It sounds easy as we already have achieved quite a lot. 
+asr:0: OUTPUT 2573.93-2580.14: But please bear in mind that one of the Richmond recycling modules. 
+asr:0: OUTPUT 2581.12-2584.54: Adds only 90,000 tons of recycling materials. 
+asr:0: OUTPUT 2584.60-2587.53: While we are currently using some 2.3. 
+asr:0: OUTPUT 2587.55-2595.12: 2.4 million tons to the maximum concentrate on the primary side. 
+asr:0: OUTPUT 2595.14-2600.48: So it's very difficult to step up the ladder on the recycling part. 
+asr:0: OUTPUT 2600.92-2607.73: But as you know and as already has been announced, we are looking for, let's say, further recycling modules. 
+asr:0: OUTPUT 2607.77-2612.03: We say it's a modular concept, we want to roll it out further. 
+asr:0: OUTPUT 2612.43-2615.40: If we see that it's working fine and it's working well. 
+asr:0: OUTPUT 2615.64-2621.96: But this would add an increment of that same amount of let's say 90,000 tons of recycling material. 
+asr:0: OUTPUT 2622.48-2626.89: What are the main invests? We have been talking about the Richmond project, of course,. 
+asr:0: OUTPUT 2626.91-2636.08: We have been talking about the processing, so our ASPA project here, we have been talking about the industrial heat, that are projects which are announced already. 
+asr:0: OUTPUT 2636.50-2643.22: And then we have further projects in the pipeline mid-term which are approximately to the same. 
+asr:0: OUTPUT 2643.42-2655.03: And mainly focusing on our capabilities of let's say further multi-metal processing, so it's about the nickel processing capabilities of Arubis. 
+asr:0: OUTPUT 2655.06-2656.70: Here in Europe. 
+asr:0: OUTPUT 2657.00-2661.46: Of course further recycling modules ends for sure as Roland has already mentioned. 
+asr:0: OUTPUT 2661.78-2663.46: Once we are ready with the pilot. 
+asr:0: OUTPUT 2663.68-2668.57: Hopefully it will work out fine and for sure we don't do that just. 
+asr:0: OUTPUT 2668.59-2673.77: To keep us busy here. We want to build that on a new industrial scale as soon as possible. 
+asr:0: OUTPUT 2675.68-2679.78: Okay, thank you. And then I have one last question. 
+asr:0: OUTPUT 2680.16-2684.76: Given the current high inflation in the US, how. 
+asr:0: OUTPUT 2684.78-2692.77: How high do you see the risk that you have to invest more to erect a plant there in the US? 
+asr:0: OUTPUT 2692.83-2697.32: I will still in the process of some kind of recalculation. 
+asr:0: OUTPUT 2698.02-2705.19: Given the site that we have, so 10% personal cost increases, material price increases and so on and so forth. 
+asr:0: OUTPUT 2708.01-2711.93: We announced the investment in Richmond on November the 10th. 
+asr:0: OUTPUT 2712.35-2719.54: And shortly after we also published the signing of the signature of a contract with our main equipment supplier FMS. 
+asr:0: OUTPUT 2720.28-2721.94: And this is a fixed price contract. 
+asr:0: OUTPUT 2722.38-2731.25: So for the equipment, more or less the whole equipment, we have already locked in the pricing at fixed terms during the execution. 
+asr:0: OUTPUT 2731.89-2740.96: And we have also, you know, our business case, taken very, I would say, conservative high assumptions for steel and building materials. 
+asr:0: OUTPUT 2741.50-2746.03: And today we see that steel prices also in the US despite inflation. 
+asr:0: OUTPUT 2746.05-2754.15: Are not going up but rather compared to what we took in our assumption are even from a trend a bit softer. 
+asr:0: OUTPUT 2754.51-2757.08: So we believe we have made here a. 
+asr:0: OUTPUT 2757.26-2764.42: We put enough security in our business plan and also in contracting already the services. 
+asr:0: OUTPUT 2764.44-2772.47: So that we will not see any deviation from our plan figure which means we will build this plant at a capex of max 300 million euros. 
+asr:0: OUTPUT 2772.51-2775.03: Okay, thank you very much. 
+asr:0: OUTPUT 2780.00-2786.07: So please press 9 and star if you would like to ask a question. 
+asr:0: OUTPUT 2787.63-2791.13: You. 
+asr:0: OUTPUT 2791.95-2798.12: And we have a question coming from Yanis Masoulas from Morgan Stanley. The floor is yours. 
+asr:0: OUTPUT 2799.60-2802.52: So good afternoon and thanks for the presentation. 
+asr:0: OUTPUT 2803.12-2809.91: A few questions left from my side, three actually and I'll take them one at a time if that's okay. 
+asr:0: OUTPUT 2810.59-2818.46: So the first is around the scrap markets, we've seen Asian countries, especially China and more recently Malaysia, looking to restrict. 
+asr:0: OUTPUT 2818.70-2823.06: Or have already restricted low-grade scrap imports. 
+asr:0: OUTPUT 2823.08-2832.27: And hence demand for high-grade materials has increased as seen by the narrowing scrap discounts for cover grade number 2. 
+asr:0: OUTPUT 2832.81-2840.02: Are you seeing a bifurcation of the copper scrap market where you may be losing out? 
+asr:0: OUTPUT 2840.12-2849.15: Competition on the high-grade part of the market but you are benefited from the low-grade material that is more abundant in Europe and the US. 
+asr:0: OUTPUT 2849.65-2857.88: And you see these overall developments of tailwind for fiscal year 22 relative to last year. And I'll stop here for the first one. 
+asr:0: OUTPUT 2860.08-2861.94: Yeah, Janice, Roland speaking. 
+asr:0: OUTPUT 2862.22-2863.86: So scratch mark is your right. 
+asr:0: OUTPUT 2864.08-2868.07: But you have to take into account the last calendar year. 
+asr:0: OUTPUT 2868.39-2875.10: We had some exceptional situation of the scrap market where supplies to Asia were at an extremely low level. 
+asr:0: OUTPUT 2875.58-2885.55: This is now to what we see normalized and we have also regarding RCs what CRU number I quoted in my short presentation. 
+asr:0: OUTPUT 2885.97-2895.34: And you see the CRU numbers are on a known level. This is not a surprise level and this is an attractive level for us. 
+asr:0: OUTPUT 2896.00-2904.32: So therefore put in perspective that last year we were benefiting by very, very high RCs for specifically for strep number 2. 
+asr:0: OUTPUT 2904.82-2910.97: And again, at Rubens we have the capabilities in our company to process all kinds of scraps. 
+asr:0: OUTPUT 2910.99-2916.14: From low metal content, low organic to high metal and high organic. So the full range. 
+asr:0: OUTPUT 2916.34-2920.74: So therefore, we can always optimize our input mix to the best. 
+asr:0: OUTPUT 2920.86-2932.31: And therefore we see that Asia is more active on the purchasing market but also within a reasonable range and we as we stated also. 
+asr:0: OUTPUT 2932.33-2940.62: Do supply our plants with the right quality and the right mix at good pricing. Okay, thank you. 
+asr:0: OUTPUT 2941.12-2944.12: The second question is around topics. 
+asr:0: OUTPUT 2944.46-2952.53: I think you've got to do most of 400 million euros for this year, but I was looking at the fiscal Q1 run rate, it was pretty low. 
+asr:0: OUTPUT 2953.31-2956.82: Can you talk about the sequencing for the next few quarters, please? 
+asr:0: OUTPUT 2961.30-2969.75: So sequencing, I wouldn't see that low. We had 50 some million in the first quarter, if I'm not mistaken. 
+asr:0: OUTPUT 2969.99-2975.12: We will have, let's say now with the upcoming project it will accelerate. 
+asr:0: OUTPUT 2975.18-2984.08: We will guess that by the end of the year we will achieve the 400 million. This is still a considerable rise figure. 
+asr:0: OUTPUT 2987.55-2995.30: Okay, great. And one last question from me, and I apologize if you have already commented on that, but going back to energy costs. 
+asr:0: OUTPUT 2996.02-3001.20: Could you give us an indication on your assumption for energy cost inflation? 
+asr:0: OUTPUT 3001.52-3004.54: Year over year that is baked into your revised guidance. 
+asr:0: OUTPUT 3020.00-3025.07: Hello? Oh, sorry, we're on mute. Sorry, we didn't put on the switch. 
+asr:0: OUTPUT 3025.67-3031.59: So, we don't give, you know, again, as we stated already, given the different countries, the different dynamics,. 
+asr:0: OUTPUT 3031.61-3036.50: And the different energy sources and how electricity is produced in different countries. 
+asr:0: OUTPUT 3036.76-3044.40: There is not this one number how we are assuming going forward the energy price increases. 
+asr:0: OUTPUT 3044.80-3055.96: And on top, as I also explained, we have this compensation mechanism for CO2 costs, which is today a very important cost driver in the electricity production. 
+asr:0: OUTPUT 3056.22-3058.06: This is also different by country. 
+asr:0: OUTPUT 3058.34-3066.41: So there is not, I have to apologize, but there is not this one number that can explain what energy prices are. 
+asr:0: OUTPUT 3067.07-3071.17: What assumption we have in our energy price calculations going forward. 
+asr:0: OUTPUT 3071.65-3076.26: And still some uncertainty to adhere. There is some uncertainty but again. 
+asr:0: OUTPUT 3076.42-3084.48: Please bear in mind we are talking about a cost factor of 16% or 15% of the overall cost of a Rubis. 
+asr:0: OUTPUT 3084.94-3091.51: And therefore thereof two thirds are hedged and that holds true for pretty much the whole fiscal year. 
+asr:0: OUTPUT 3091.81-3099.12: So it's one third out of this, what you may see, 15%. 
+asr:0: OUTPUT 3099.16-3105.13: Which then is exposed to full prices. 
+asr:0: OUTPUT 3105.15-3106.37: As you see in the markets. 
+asr:0: OUTPUT 3106.95-3121.78: And there's also one aspect on the product side, unfortunately not for copper, but we have increased our copper premium for market demand, but you could also argue there is a bit of a cost component in the premium that we are asking in the market. 
+asr:0: OUTPUT 3121.88-3130.11: And we have really asked our customer base for wire rod and for shapes for participation in the energy cost increase. 
+asr:0: OUTPUT 3130.55-3136.72: So that's also in the premium that we get additional to our pricing. 
+asr:0: OUTPUT 3137.12-3145.45: And we have factored in the energy cost that we see currently in December, January, we have factored that into our forecast going forward. 
+asr:0: OUTPUT 3147.67-3148.77: That's very true. Thank you. 
+asr:0: OUTPUT 3153.39-3159.86: There are no further questions. And with this, I hand it back to you, after Quick Run. 
+asr:0: OUTPUT 3161.78-3162.88: Yes, thank you. 
+asr:0: OUTPUT 3163.30-3171.23: Finally, I would like to draw your attention again to our next event, our Virtual Annual General Meeting on February 17th. 
+asr:0: OUTPUT 3171.25-3174.11: Which you can follow via Vakka. 
+asr:0: OUTPUT 3174.67-3181.74: Our next conference call on the occasion of the publication of the Hartley Report will take place on May 10. 
+asr:0: OUTPUT 3182.52-3187.83: We would be happy to welcome you again and with that we say thank you and have a nice day. 
+asr:0: END

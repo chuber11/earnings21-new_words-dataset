@@ -1,0 +1,544 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.45-15.02: Ladies and Gentlemen, and welcome to NTN Ghana's 2021 Q3 Results Conference Call. All attendees will be in listen-only mode. 
+asr:0: OUTPUT 15.80-18.10: There will be an opportunity to ask questions when prompted. 
+asr:0: OUTPUT 18.94-23.50: If you should need assistance during the call, please signal an operator by pressing star and then zero. 
+asr:0: OUTPUT 24.54-31.67: Please note that this event is being recorded. I'd now like to hand the conference over to Mr. Jeremiah Opoku. Please have a seat, sir. 
+asr:0: OUTPUT 33.55-34.95: Thanks, Judith. 
+asr:0: OUTPUT 36.24-44.74: And thank you for joining us today to discuss MTN Ghana's third quarter performance for the period ending 30th September 2021. 
+asr:0: OUTPUT 45.51-48.69: I'm Jerry Mopoku, Investor Relations Manager for MTN Ghana. 
+asr:0: OUTPUT 49.65-53.91: With me on the call today are Seloma Dadivor, CEO of MTN Ghana. 
+asr:0: OUTPUT 54.75-60.84: Antoinette Kofi, our new CFO, who joined MTN on 1st October. 
+asr:0: OUTPUT 61.60-64.60: Elihime, CEO of Mobile Money Limited. 
+asr:0: OUTPUT 64.98-73.79: Kobna Bentiencho, our General Manager of MTN Ghana Finance and Tato Motilande, Group Executive for Investor Relations. 
+asr:0: OUTPUT 74.51-85.67: So Selom will share an overview of our performance for the third quarter and outlook for the rest of the year before we move on to the Q&A session, which will be facilitated by the conference call operator. 
+asr:0: OUTPUT 86.55-95.54: The call is scheduled for an hour and if there are any more questions, we may allow a five minute extra time. 
+asr:0: OUTPUT 96.60-99.82: I will now hand over the call to Salam. Thank you. 
+asr:0: OUTPUT 102.76-108.31: Thank you, Jeremy, and good afternoon, everyone, and thank you for making the time to join us on this call today. 
+asr:0: OUTPUT 109.41-117.66: On the call, we'll discuss our third quarter performance, and I'll also touch briefly on our expectations for the rest of the year before we move on to Q&A. 
+asr:0: OUTPUT 118.72-123.78: In Q3 2021, we maintain the momentum from our half year performance. 
+asr:0: OUTPUT 123.84-130.75: The pin by our diligent execution on Ambition 2025, investments in network and IT systems,. 
+asr:0: OUTPUT 130.77-136.38: And ensuring our people remain a priority in light of the continued effects of the COVID-19 pandemic. 
+asr:0: OUTPUT 137.46-142.46: As of 26 October 2021, the official Ghana statistics on COVID-19. 
+asr:0: OUTPUT 142.48-150.09: Should arise in the total infections and deaths to 103,823 respectively. 
+asr:0: OUTPUT 151.11-156.74: MTN Ghana continues to extend support to cherished customers through our Yellow Hope initiatives. 
+asr:0: OUTPUT 156.76-163.60: Including the zero rating of all mobile money P2P transfers up to a value of 100 Ghana Cedis a day. 
+asr:0: OUTPUT 163.74-171.77: And we're also running the One More Push campaign to encourage everyone to wear a mask and get vaccinated. 
+asr:0: OUTPUT 172.89-177.32: We at MTN continue to adhere strictly to all COVID-19 protocols. 
+asr:0: OUTPUT 178.78-183.12: With the aim of saving God and the health and safety of our people and of our customers. 
+asr:0: OUTPUT 183.22-190.29: And we also remain committed to Ghanaians and the environment in support of the continuing fight against COVID-19. 
+asr:0: OUTPUT 191.79-200.58: Turning to operational performance for the period, we recorded a 25.4 year on year growth in service revenue, driven mainly by data and mobile money. 
+asr:0: OUTPUT 201.60-209.75: We continue to deliver on our infrastructure modernization plan and implemented CAPEX-related infrastructure projects to expand 4G capacity. 
+asr:0: OUTPUT 209.77-213.77: 4G coverage and to improve the quality of service for our customers. 
+asr:0: OUTPUT 215.60-222.94: Over the period, we invested a total capex of approximately 1.060 billion Ghana cities. 
+asr:0: OUTPUT 222.96-232.95: Which includes the rollout of 959 4G sites, the modernization of 1,543 existing 4G sites,. 
+asr:0: OUTPUT 232.97-240.82: And this helped expand our 4G population coverage by 4.7 percentage points to 84.7%. 
+asr:0: OUTPUT 242.08-247.37: We grew our active subscriber base by 0.4 million quarter on quarter. 
+asr:0: OUTPUT 247.39-253.47: To 25.2 million and this reversed the decline in the last quarter that we experienced. 
+asr:0: OUTPUT 254.43-260.92: This was supported by our network investment, digital offerings, and an improvement in quality of service overall. 
+asr:0: OUTPUT 262.10-267.85: Looking at the various business segments, we recorded a 51.9% year-on-year growth in data. 
+asr:0: OUTPUT 267.87-274.11: Driven by increases in our active data subscribers and total data consumed within the period. 
+asr:0: OUTPUT 274.93-281.42: The contribution of data to service revenue expanded from 29% to 35.1%. 
+asr:0: OUTPUT 283.84-287.55: Voice revenue recorded a single digit growth of 2% year on year. 
+asr:0: OUTPUT 288.27-296.80: This growth in voice continues to be impacted by shifts in customer behavior towards data and implementation of SMP directives. 
+asr:0: OUTPUT 297.22-304.32: The contribution of voice to service revenue declined from 42.5% to 34.6% year on year. 
+asr:0: OUTPUT 304.64-313.27: We expect the trend in the voice segment to continue as a result of continued growth in smartphone penetration and the preference for data services by consumers. 
+asr:0: OUTPUT 314.29-319.30: However, we expect data growth to compensate for the slower growth in voice. 
+asr:0: OUTPUT 320.54-327.95: Mobile money revenue increased by 45.3% year on year, supported by increased active users. 
+asr:0: OUTPUT 327.97-330.61: Higher P2P transactional activity. 
+asr:0: OUTPUT 330.63-338.46: And growth in advanced services such as retail, merchant payments, microloans, insurance and international remittances. 
+asr:0: OUTPUT 339.18-345.75: The contribution of mobile money to service revenue increased from 19.6% to 22.8% year on year. 
+asr:0: OUTPUT 347.07-354.17: We recorded a 23.8% year-on-year decline in digital revenue, which was a result of the continued impact. 
+asr:0: OUTPUT 354.19-359.28: From the application of the principal versus agent accounting standard across the MTN group in 2020. 
+asr:0: OUTPUT 360.12-368.31: On a normalized basis, digital revenue increased by 14.4% year-on-year, supported by growth in our active digital subscribers. 
+asr:0: OUTPUT 369.47-379.24: Reported EBITDA increase by 27.5% year on year, with a margin expansion of 1.1 percentage point to 54.4%. 
+asr:0: OUTPUT 379.70-384.84: This was supported by our continued focus in execution of our expense efficiency program. 
+asr:0: OUTPUT 386.17-390.75: Profit after tax growth for the period was 34.0% year on year. 
+asr:0: OUTPUT 391.15-397.24: And as announced last quarter, we paid the interim dividend of 0.03 Ghana Cedis per share. 
+asr:0: OUTPUT 398.44-406.19: Totaling an amount of 369 million Ghana Cedis and this payment happened on 14th of September 2021. 
+asr:0: OUTPUT 407.43-414.65: Looking at the regulatory landscape of the National Communications Authority, the NCA, through the telecom operators. 
+asr:0: OUTPUT 414.67-423.20: Is embarking on a six-month nationwide SIM re-registration exercise using the Ghana National ID Card as the sole card for this purpose. 
+asr:0: OUTPUT 424.04-429.67: This exercise will run from October 1st, 2021 to 31st March, 2022. 
+asr:0: OUTPUT 431.13-439.00: MTN has begun this exercise and remains committed to support the government to register all existing and new subscribers on our network. 
+asr:0: OUTPUT 440.44-449.87: As announced in the previous quarter release, MTM Ghana implemented the directive from the NCA on phase one of the on-net, off-net price differential removal. 
+asr:0: OUTPUT 449.89-455.02: On default tariffs for voice, data and SMS from 1st August 2020. 
+asr:0: OUTPUT 456.38-465.13: Phase 2 is scheduled to be implemented on November 1st, 2021 to extend beyond the default tariffs to cover promotional office and special office. 
+asr:0: OUTPUT 466.91-473.57: Including the above remedy, we have implemented all three of the seven SMP remedies defined to date by the regulator. 
+asr:0: OUTPUT 474.67-481.18: We will update the market on the implementation of the remaining four directives as discussions with the NCA progresses. 
+asr:0: OUTPUT 482.38-484.24: Now turn into Outlook. 
+asr:0: OUTPUT 485.35-488.85: We expect to maintain the business momentum through the last quarter of the year. 
+asr:0: OUTPUT 489.61-496.78: We'll continue to expand 4G coverage and improve our network to further enhance subscriber growth and customer experience. 
+asr:0: OUTPUT 497.68-507.59: In addition, we will progress the execution of the expense efficiency program and our prudent approach to managing costs to deliver on our commitment of margin expansion. 
+asr:0: OUTPUT 508.69-512.77: We'll continue to support our employees, our customers and communities. 
+asr:0: OUTPUT 512.79-519.62: As we deliver against our ambition 2025 focus areas for the year in order to capture long-term growth. 
+asr:0: OUTPUT 519.64-524.34: Opportunities and create sustainable value for all our stakeholders. 
+asr:0: OUTPUT 525.35-532.95: I will now hand over to the conference call operator for questions and answers. And I look forward to interacting with you over the next one hour. Thank you very much. 
+asr:0: OUTPUT 534.63-543.22: Thank you very much sir. Ladies and gentlemen, this is Tom, if you'd like to ask a question, you're welcome to raise the star and then 1 on your touchtone phone or the keypad on your screen. 
+asr:0: OUTPUT 544.10-549.29: If you decide to withdraw your question, you're welcome to press star then 2 to exit the question queue. 
+asr:0: OUTPUT 550.23-554.79: Just a reminder, if you'd like to ask a question, you're welcome to press the star and the F1. 
+asr:0: OUTPUT 556.04-559.48: The first question comes from Jonathan Kennedy-Good of J.P. Morgan. 
+asr:0: OUTPUT 563.48-565.65: Good afternoon, thanks for the opportunity to ask questions. 
+asr:0: OUTPUT 566.19-567.31: The first one is on. 
+asr:0: OUTPUT 567.33-576.30: Selling distribution and marketing expenses. I just wanted to check whether you know it looked like I think there was 24-25 percent. 
+asr:0: OUTPUT 577.12-580.68: Growth in that fairly large OPEX line. 
+asr:0: OUTPUT 581.58-589.79: Just trying to understand whether there were any one-offs there or it was due mainly to the pandemic base of last year. 
+asr:0: OUTPUT 589.81-594.83: And trying to get a handle on what we should expect growth to be like. 
+asr:0: OUTPUT 594.85-598.18: In that expanse line going forward. 
+asr:0: OUTPUT 598.66-600.08: And then on. 
+asr:0: OUTPUT 600.36-607.37: The implementation of phase two of the regulation on off-net pricing. 
+asr:0: OUTPUT 608.11-611.71: How do you expect that to impact voice revenue? 
+asr:0: OUTPUT 611.93-618.68: Would it be substantial pressure on the voice line or could growth be maintained? 
+asr:0: OUTPUT 621.74-629.71: Okay, thank you for your questions. Let me start off with the first one, which is the distribution and marketing expense line. 
+asr:0: OUTPUT 631.21-635.20: So this is really an anomaly for this year. This year is our 25th anniversary. 
+asr:0: OUTPUT 635.64-644.04: As part of our 25th anniversary, we've had various programs which have shifted our expenditure, I guess, patterns. 
+asr:0: OUTPUT 644.54-653.25: So that spike you see or that abnormality you see in Q3s as a result of the 25th anniversary, this should normalize through, so no major concerns there. 
+asr:0: OUTPUT 654.83-657.78: In terms of phase two of the SMP on-net, off-net. 
+asr:0: OUTPUT 658.40-666.69: I believe the last time we spoke I shared our estimate at the time to be about 1% impact on total revenue. 
+asr:0: OUTPUT 667.53-675.32: The current implementation we're undergoing may increase that number slightly, maybe somewhere around 1.2 to 1.5 percent. 
+asr:0: OUTPUT 676.62-678.82: In terms of the total SMP impact on that. 
+asr:0: OUTPUT 680.34-690.41: But until we've implemented it and seen what the trends are, it'll be a bit difficult to be very specific. We're here assuming things around how customers will react in terms of elasticity. 
+asr:0: OUTPUT 690.49-696.40: And all of that, but I'm fairly confident we should land somewhere in that range for the S&P on-net or off-net. 
+asr:0: OUTPUT 696.58-698.82: As far as the expectations are. 
+asr:0: OUTPUT 705.29-715.01: Jonathan, does that conclude your questions? Yes, it does. Thank you. Thank you very much. The next question comes from Prashandran Odaya of NetBank. 
+asr:0: OUTPUT 716.82-724.42: Hi, good afternoon everyone. Congratulations on your results and thanks for the opportunity to ask some questions. Sorry, I've got four. Hopefully not too long. 
+asr:0: OUTPUT 725.41-730.69: First one is around the Newsom registration procedures. 
+asr:0: OUTPUT 731.37-739.40: Would that pose any challenges to meet the March 2022 deadline? And are there any subscribers. 
+asr:0: OUTPUT 739.42-748.41: At risk that you guys know about and link to that what would be the revenue impact if those subscribers had to be disconnected. 
+asr:0: OUTPUT 749.39-750.49: Secondly,. 
+asr:0: OUTPUT 750.51-762.18: I noticed you reiterated your timeline to have the localization of 25% of the telco and 30% of the mobile money business by the end of the year. 
+asr:0: OUTPUT 762.66-765.55: Can you just give us an update on your progress to date? 
+asr:0: OUTPUT 766.27-776.12: I think the last time we spoke there was the employee share scheme that helped on the localization of the sell-down. I think it was only about eight to 10. 
+asr:0: OUTPUT 776.20-778.62: And that still needed to be done for the telco. 
+asr:0: OUTPUT 779.06-785.81: So just an update on that and also what progress you've made on the MoMA localization would be much appreciated. 
+asr:0: OUTPUT 786.95-794.03: The last two is I noticed you're still also zero rating your P2P transfers under 100 Ghana CDs. 
+asr:0: OUTPUT 795.26-797.06: What is the revenue impact of this? 
+asr:0: OUTPUT 797.58-803.04: The last time we spoke, which was at Innsrum, it was roughly around 6 million Ghana CDs per month. 
+asr:0: OUTPUT 804.30-808.19: So how is that transpired with the increase in mobile subs? 
+asr:0: OUTPUT 809.43-816.84: And the last one is how much, I mean, I don't know if you can tell us how much of your 45% increase in Momo revenue. 
+asr:0: OUTPUT 818.06-824.96: Would be attributable from integrating MOMO into the MTN-IOVA during the period. 
+asr:0: OUTPUT 824.99-829.35: I know there was some integration in there that seemed quite positive. 
+asr:0: OUTPUT 829.41-836.38: I mean, is there anything that could be attributable from that integration in your MOMO revenue? Thanks very much. 
+asr:0: OUTPUT 839.34-843.24: If you could just repeat that last question, it wasn't too clear. 
+asr:0: OUTPUT 844.14-852.85: Sure, sure. So I believe you integrated Momo into the MTN IOBA platform during the period. 
+asr:0: OUTPUT 853.99-861.34: So how much of your 45% increase in MOMO revenue could you, if possible, attribute to that integration? 
+asr:0: OUTPUT 863.30-864.98: Okay. Gotcha. All right. 
+asr:0: OUTPUT 866.33-867.61: So let me start with that one. 
+asr:0: OUTPUT 868.47-870.43: To be honest, the... 
+asr:0: OUTPUT 870.45-879.52: IOBRA is still quite young and we've seen quite some interesting behaviors, but at this point I think any revenue attribution will be. 
+asr:0: OUTPUT 879.60-881.14: It will be a little premature. 
+asr:0: OUTPUT 881.36-886.37: So that amount is quite low, so we can ignore that for purposes of materiality at this point. 
+asr:0: OUTPUT 887.89-893.47: But the whole essence is to build a behavior and at some point we'll see a lot more significance around that behavior. 
+asr:0: OUTPUT 895.06-898.54: The second question, let me start from the top in terms of SIM registration. 
+asr:0: OUTPUT 899.02-908.15: The first question was on SIM registration and whether there's risk on the March 2022 deadline. Absolutely there is risk. 
+asr:0: OUTPUT 908.59-917.28: This is a major undertaking and as you can imagine, once this starts, there are a number of key things we have to bear in mind. 
+asr:0: OUTPUT 917.82-926.55: For starters, the National ID database currently has somewhere between 15 to 16 million registered customers. 
+asr:0: OUTPUT 927.41-931.65: It's unclear to us how many of that are within each network. 
+asr:0: OUTPUT 932.45-943.66: But there are plans underway to expand the scope of the registration points to increase those numbers to close up to 20 million, maybe somewhere between 18 to 20 million. 
+asr:0: OUTPUT 943.72-947.45: Will be the expected number by the end of March. 
+asr:0: OUTPUT 949.07-956.12: The second element here is our rate of registration, new registration. There are still some teething issues we're dealing with. 
+asr:0: OUTPUT 956.14-960.88: Around how to validate with integrations with the National ID Authority. 
+asr:0: OUTPUT 961.64-966.09: So we believe all of these will be taken into consideration on the timeline. 
+asr:0: OUTPUT 966.15-973.93: But at this point, our primary objective is for the base of NIA, which is National ID Card Registered Subscribers,. 
+asr:0: OUTPUT 974.55-981.20: Our objective is to maximize the registrations of our customers within that base as quickly as possible. 
+asr:0: OUTPUT 981.82-983.70: We've declared. 
+asr:0: OUTPUT 983.78-986.69: We've actually declared a few stations. 
+asr:0: OUTPUT 986.71-994.79: That would be doing registrations in areas where we don't have stores and operational centers because it would take too long for people to travel to us. 
+asr:0: OUTPUT 995.60-1001.04: So these are some of the plans we're putting in place. This will happen nationwide on a calendar starting from November. 
+asr:0: OUTPUT 1001.90-1006.83: We're also investing a little bit more in devices so that we can have as many. 
+asr:0: OUTPUT 1006.85-1012.49: Agents, foot on the ground, who can go around and registrate customers and do the validations real time as well. 
+asr:0: OUTPUT 1013.11-1019.86: And so the number of things we're putting in place to be able to do that. We've already developed some technical solutions as well. 
+asr:0: OUTPUT 1019.94-1024.38: That will facilitate the faster registration. So there's a lot of work that's going on. 
+asr:0: OUTPUT 1025.01-1030.59: But there's absolutely risk. It will be a bit difficult to give numbers at this point because the exercise. 
+asr:0: OUTPUT 1030.61-1037.66: Really just started. But so far there have been some challenges with the integrations, not just for MTN, this is an industry thing. 
+asr:0: OUTPUT 1038.54-1046.29: So I'm quite sure once those are resolved we'll have a better sense of the rate of registration and what the real risk means. 
+asr:0: OUTPUT 1046.71-1056.20: But so far we're definitely ahead in terms of our market share registrations. So we'll continue to put in the focus on that side to minimize the risk on the back end. 
+asr:0: OUTPUT 1057.88-1066.99: On the second question, which was on localization and where we are with that. 
+asr:0: OUTPUT 1069.23-1073.01: In terms of SCANCON localization, which is up to 25%. 
+asr:0: OUTPUT 1073.47-1078.72: I believe the last time we said we're at 17.5%, so that percentage hasn't changed. 
+asr:0: OUTPUT 1078.90-1087.89: However, we are at advanced stages in discussions with various elements of the plan to execute. 
+asr:0: OUTPUT 1087.91-1089.31: So I think we. 
+asr:0: OUTPUT 1089.43-1095.40: I mean there is some risk in getting to the end of the year just about a 25 mark for Scanko. 
+asr:0: OUTPUT 1096.54-1098.40: So we are working to the wire of this one. 
+asr:0: OUTPUT 1098.42-1107.77: But today we have very good commitment which will suggest that it's a manageable ambition for us to get to that 25% mark. 
+asr:0: OUTPUT 1109.03-1116.58: On the 30% discount to mobile money, there is a dependency on getting to 25% on the parent company. 
+asr:0: OUTPUT 1116.60-1125.61: And then achieving an additional 5%. So the focus there is achieving that additional 5% on the assumption that SCAM.com achieves the 25%. 
+asr:0: OUTPUT 1126.55-1134.61: And we do think that that will be quite a challenging feat at this point. We continue to work with various authors on the table and interests. 
+asr:0: OUTPUT 1135.78-1144.86: But the timing will be quite challenging. So again, we're having chats with the central bank on the different options that we have there and would update you in that process. 
+asr:0: OUTPUT 1145.15-1154.21: But overall I would say we've made quite some good progress even though we haven't crossed any major milestone. We're very close to some milestones in the coming weeks. 
+asr:0: OUTPUT 1154.65-1157.90: And we look at this process as quite positively from that perspective. 
+asr:0: OUTPUT 1160.02-1168.29: The third question was on the free P2P and how much revenue that represented in the quarter. 
+asr:0: OUTPUT 1169.53-1177.72: So a total revenue of about 45 million was the P2P for assume we're charged for those transactions specifically. 
+asr:0: OUTPUT 1177.82-1181.50: For the quarter three, especially only the quarter three. 
+asr:0: OUTPUT 1181.92-1188.79: And it's about the same amount, it went from about 35 million to 40 million quarter one, quarter two and 45 and quarter three. 
+asr:0: OUTPUT 1189.51-1199.76: Thank you very much. 
+asr:0: OUTPUT 1199.78-1201.32: Impact for the whole year or so. 
+asr:0: OUTPUT 1201.66-1208.45: Are you saying in just this one quarter, it was 45 million because that's a big chunk and it's more than double. 
+asr:0: OUTPUT 1210.39-1219.78: So in quarter one it was 34 million, in quarter two it was about 40 million, that total was about 73 million. Oh, okay. And then in quarter three it's 45 million. 
+asr:0: OUTPUT 1220.08-1222.42: I think you have been asked. 
+asr:0: OUTPUT 1222.72-1225.75: Okay, cool. Thank you very much. Appreciate it. 
+asr:0: OUTPUT 1227.31-1231.79: Thank you. The next question comes from Jake Ward of Ashmore Group. 
+asr:0: OUTPUT 1235.78-1237.00: Salam. 
+asr:0: OUTPUT 1237.08-1246.63: Of the questions on the active Momo subscriber base. It just appears looking through the quarterly releases with the total active Momo subs. 
+asr:0: OUTPUT 1247.17-1252.93: Has remained a bit unchanged since the back end of 2020, around that 10.5, 10.6 million level. 
+asr:0: OUTPUT 1254.05-1256.96: I'm just wondering what you think has caused that slowdown? 
+asr:0: OUTPUT 1257.60-1259.70: In getting new active subscribers. 
+asr:0: OUTPUT 1260.00-1269.15: But then perhaps touching on the strategy that you may have in place to address that. And then if you could also just remind us how you at MTN define an active subscriber here. 
+asr:0: OUTPUT 1272.55-1275.26: Okay, thank you very much. 
+asr:0: OUTPUT 1275.62-1283.08: Yes, if you look at the numbers we've hovered around a 10.5, 10.6 mark for multiple quarters. 
+asr:0: OUTPUT 1284.06-1291.59: Just to emphasize, when we came out of Q1, we saw a declining trend into Q2, which was quite concerning. 
+asr:0: OUTPUT 1291.73-1297.44: In terms of MomoSup, so we saw a 1.9% decline, quarter two over quarter one. 
+asr:0: OUTPUT 1298.40-1306.45: In terms of quarter three, we've seen a reversal of that trend with about a 1% growth in mobile saps over Q2. 
+asr:0: OUTPUT 1307.39-1311.21: Of course, that means we still have some deficit to get to the Q1 levels. 
+asr:0: OUTPUT 1312.03-1317.44: But the positive news is that the reversal is happening and we have to continue to build off of that foundation. 
+asr:0: OUTPUT 1318.54-1324.04: The reasons for the decline in the first place were a number of different things, but the most. 
+asr:0: OUTPUT 1324.06-1331.43: The most impactful one was a pilot to implement IDs on cashouts. 
+asr:0: OUTPUT 1331.69-1334.81: So people requiring IDs to cash out cash from us. 
+asr:0: OUTPUT 1335.36-1342.78: This was done in partnership with the central bank, or at least in alignment with the central bank, and there were considerations for. 
+asr:0: OUTPUT 1342.80-1348.07: ID's on cashouts to become a requirement for the entire industry. 
+asr:0: OUTPUT 1348.89-1351.01: That determination has not as yet been done. 
+asr:0: OUTPUT 1351.31-1358.96: And we've had discussions with the central bank on the steps forward and no conclusions have arrived at this point. 
+asr:0: OUTPUT 1360.20-1368.65: But there is a positive to all of this. We've also seen some impact of all of this in our efforts in trying to minimize and mitigate and fight fraud. 
+asr:0: OUTPUT 1369.49-1375.46: And so there is that element which was the initial objective of all of this was how do we. 
+asr:0: OUTPUT 1376.38-1384.26: So the second component which was a benefit from this activity was the reduction in fraud, or at least the management of fraud. 
+asr:0: OUTPUT 1384.30-1389.69: We've seen quite some good improvement as a result of this initiative plus other initiatives we've put in place. 
+asr:0: OUTPUT 1390.87-1397.72: But going forward, Q4, we have a full plan on how to accelerate and be more aggressive and subscribe our position. 
+asr:0: OUTPUT 1397.84-1401.00: And we're executing on that plan. So I'm positive that it will. 
+asr:0: OUTPUT 1401.10-1409.39: Through the rest of the year with some positive trends in terms of new more money subscribers and growth in the total subs for more money. 
+asr:0: OUTPUT 1418.40-1423.52: Momo subscribers who aren't active. Is that very different from the number you report? I can't recall. 
+asr:0: OUTPUT 1429.91-1436.46: So active is a revenue generating activity in 30 days, at least one revenue generating activity in 30 days. 
+asr:0: OUTPUT 1440.46-1449.39: That makes sense. And just one final one if I may then, if people are taking advantage of the free P2P at this time, am I correct. 
+asr:0: OUTPUT 1449.47-1454.27: And saying that they therefore wouldn't show up because it's not a revenue generating transaction. 
+asr:0: OUTPUT 1456.42-1465.31: Oh no, the fact that you're not charging doesn't make it a non-revenue generating activity. A P2P is a revenue generating activity. So they will show up, yes. 
+asr:0: OUTPUT 1471.65-1476.58: Thank you. The next question comes from Kuda Kudungura of Kela Securities. 
+asr:0: OUTPUT 1478.86-1481.50: Good afternoon guys, thank you for hosting the call. 
+asr:0: OUTPUT 1482.38-1492.05: I just have a few questions. On mobile money, what was your revenue mix over the third quarter for mobile? 
+asr:0: OUTPUT 1493.63-1499.68: And then the, if you could just maybe give us an insight into the volatility around your MOMO commissions. 
+asr:0: OUTPUT 1499.96-1502.32: I mean. 
+asr:0: OUTPUT 1502.92-1512.55: There was quite a substantial growth over the first quarter, second quarter, understandably as a result of zero rating and then suddenly a notable pullback over the third quarter. 
+asr:0: OUTPUT 1514.31-1520.52: And then on the data side of things, how many active 4G subscribers are currently in your network? 
+asr:0: OUTPUT 1521.02-1525.13: And how much data was consumed over the nine months. 
+asr:0: OUTPUT 1528.83-1533.71: Okay, thank you very much. Let me start off with... 
+asr:0: OUTPUT 1535.98-1538.98: The Momo commissions, because that's quite an intricate one. 
+asr:0: OUTPUT 1539.18-1547.99: That we'll probably spend a few minutes on. And I'll come back to Active4G customers and data consumption. 
+asr:0: OUTPUT 1548.03-1551.97: I'll check if I have those numbers here and then the revenue mix as well. 
+asr:0: OUTPUT 1553.23-1562.62: So in terms of the commissions, we've been looking at our commissions trend for a while now and I think there have been questions here on investor calls. 
+asr:0: OUTPUT 1562.64-1567.67: On the dilution of Abeta-Mag, and this came up last quarter as well. 
+asr:0: OUTPUT 1569.67-1578.58: What we've discovered is that there were some transactions that were manipulated by a set of agents and merchants that are on our network. 
+asr:0: OUTPUT 1579.34-1587.81: And through the extensive exercise our Revenue Assurance team and the More Money team have done, we've been able to put a lid onto those activities. 
+asr:0: OUTPUT 1588.53-1594.45: What that has meant is a portion of our commissions which would have been paid out in previous months. 
+asr:0: OUTPUT 1594.67-1596.70: And will no longer be paid out. 
+asr:0: OUTPUT 1596.80-1606.69: And the effect of that started in July. So you'd see an improvement in emissions despite continued revenue growth. 
+asr:0: OUTPUT 1607.19-1610.57: And that results in margin expansion for the quarter. 
+asr:0: OUTPUT 1611.59-1615.70: Okay, so we've been looking at our commissions trend in the last quarter. 
+asr:0: OUTPUT 1616.08-1622.10: And we've identified some discrepancies in agent and merchant behavior. 
+asr:0: OUTPUT 1622.68-1626.97: That was resulting in a significant increase in our commissions overall. 
+asr:0: OUTPUT 1627.87-1631.37: Through the work that the Revenue Assurance team and our AllMoney team have done. 
+asr:0: OUTPUT 1632.07-1638.46: We've put a lid on this behavior and managed to arrest the situation with a number of initiatives that we've put in place. 
+asr:0: OUTPUT 1639.50-1645.81: What this has meant, though, is that our commissions, a portion of our commissions that we had paid out in previous months. 
+asr:0: OUTPUT 1646.23-1655.44: It's no longer being paid up because we've noticed the trend and the undeserved earnings of commission through this scheme. 
+asr:0: OUTPUT 1656.08-1664.94: And as a result of that, we've seen lower commissions in quarter three and higher EBITDA margin and higher EBITDA numbers for that same period. 
+asr:0: OUTPUT 1665.31-1674.03: And we're confident we can maintain this trend going forward and that this trend reflects, better reflects the commission revenue ratio of the business. 
+asr:0: OUTPUT 1674.67-1681.34: So we should see a lot more steady EBITDA and commission rates going forward as a percent of revenue. 
+asr:0: OUTPUT 1682.00-1688.59: And so that's why you see the changes in ribbon in commission trend as well as other trends for Q3. That's the main reason. 
+asr:0: OUTPUT 1689.01-1696.26: So I'll pause you and see if there are any specific, any other questions on that, otherwise I'll go to Revenue Mix and the other questions that you have. 
+asr:0: OUTPUT 1700.06-1705.41: No, I think that answers much of it. Quite amazing that. 
+asr:0: OUTPUT 1705.59-1710.87: The impact of the transition that much. I mean, those are some significant increases there. 
+asr:0: OUTPUT 1712.23-1715.92: Yes. Please proceed. Yes, absolutely. 
+asr:0: OUTPUT 1716.32-1717.64: You know, quite significant. 
+asr:0: OUTPUT 1720.20-1729.81: Okay. The second question was on the revenue mix of mobile money and I'm guessing it's a split of, you know... 
+asr:0: OUTPUT 1729.83-1734.03: You know, what proportion is P2P versus cash out versus others? 
+asr:0: OUTPUT 1736.62-1740.68: Correct. Yeah, advances. Yeah. Advances in cash and PTP. 
+asr:0: OUTPUT 1742.48-1754.69: So in general, we've seen quite a good growth in advanced services during the period. 
+asr:0: OUTPUT 1755.02-1760.74: Percent of total revenue from advanced services is around the 19-20% mark. 
+asr:0: OUTPUT 1761.62-1768.69: And we're seeing a continued growth in P2P as well in terms of the percent of total revenue. 
+asr:0: OUTPUT 1769.09-1772.47: Around the 45% mark and then the balance. 
+asr:0: OUTPUT 1772.53-1776.50: Sorry, around the 35% mark, and then the balance will be from cash out. 
+asr:0: OUTPUT 1777.06-1785.93: So it's roughly 35% P2P, about 20% advanced services, and about 45% cash out. 
+asr:0: OUTPUT 1792.35-1794.39: Some significant growth in peach. 
+asr:0: OUTPUT 1796.78-1800.08: We continue to see good, if you look at the P2P. 
+asr:0: OUTPUT 1800.28-1809.93: Activity in terms of their P2P, their customer, we're seeing quite healthy growth in those numbers and the activity continues to be good. 
+asr:0: OUTPUT 1817.08-1823.58: Okay, great, that answers Nick's question. And I guess to the data related question. 
+asr:0: OUTPUT 1825.61-1834.27: To come back on a days of question images figure out the details apologies for that I guess we. 
+asr:0: OUTPUT 1834.35-1836.34: I have a question. 
+asr:0: OUTPUT 1836.66-1838.94: I noticed that you don't include. 
+asr:0: OUTPUT 1839.06-1847.01: Extra time as part of MoMo revenue and nor do you also include non-core MoMo services. 
+asr:0: OUTPUT 1847.05-1849.07: Now, what are non-comorbid services? 
+asr:0: OUTPUT 1849.25-1851.77: And how much was extra time. 
+asr:0: OUTPUT 1851.79-1855.34: Over the nine months. 
+asr:0: OUTPUT 1859.04-1862.22: So we don't include... 
+asr:0: OUTPUT 1862.24-1869.49: Extra time because it's not from the definition by our regulator, the central bank,. 
+asr:0: OUTPUT 1869.57-1873.11: Extra time is not classified under mobile money. 
+asr:0: OUTPUT 1873.81-1879.64: And therefore, including it means we're reporting businesses that are not governed by. 
+asr:0: OUTPUT 1879.66-1884.92: That particular regulator in the report that we send to them. So that's the main. 
+asr:0: OUTPUT 1885.57-1887.03: That's the main reason we don't do that. 
+asr:0: OUTPUT 1889.23-1891.65: Now in terms of what is non-core. 
+asr:0: OUTPUT 1891.71-1900.50: There are a number of partnerships we have, for example, micro-insurance partnerships with I.O. Holdings that is non-core more money revenue. 
+asr:0: OUTPUT 1901.34-1907.57: So you can think of extra time and IR revenue as non-core, and the totality of that will be our FinTech portfolio. 
+asr:0: OUTPUT 1920.12-1929.69: Sorry, on the active 4G subscribers, did you have that number or I'll have to follow up. 
+asr:0: OUTPUT 1931.11-1937.78: So I'm trying to pull it up. Once I get it, I'll let you know. OK. All right. Appreciate it. That's all then. 
+asr:0: OUTPUT 1940.08-1946.27: Thank you. The next question comes from Andrews Adowa Agbaloli of UPSA. 
+asr:0: OUTPUT 1948.31-1957.90: Thank you very much. I want to ask a question regarding the shared performance on the Ghana. 
+asr:0: OUTPUT 1959.24-1962.48: This year has been remarkably, really remarkable. 
+asr:0: OUTPUT 1963.98-1969.63: I know you don't tell your staff to be watching the share price while they are on their desk. 
+asr:0: OUTPUT 1970.79-1979.06: But perhaps you could be doing something that in a few words you can tell us what is moving. 
+asr:0: OUTPUT 1979.56-1983.34: Whether the rally can continue into the future. 
+asr:0: OUTPUT 1983.82-1988.95: You know, within this month or two, we've seen some retreats. 
+asr:0: OUTPUT 1989.87-1994.67: From the height of where it went, that is 1.24. 
+asr:0: OUTPUT 1995.34-1996.68: And then to 1.2. 
+asr:0: OUTPUT 1997.86-2001.62: I know like what I said, this video can give us some tips of. 
+asr:0: OUTPUT 2001.80-2008.11: Like share with us, we are interested in the appreciation, just as you said, as a digital. 
+asr:0: OUTPUT 2008.87-2012.93: If you can give us some hope or what to expect. Thank you. 
+asr:0: OUTPUT 2016.78-2025.61: Thanks for your question. Let me just sort of start off with what we control and don't control and the part that we play. 
+asr:0: OUTPUT 2026.47-2035.78: I think the first thing as management is that our role is to deliver on the business performance and to deliver on our commitment to you, our shareholders and our investors. 
+asr:0: OUTPUT 2037.14-2041.36: However, we do know and understand that there are other. 
+asr:0: OUTPUT 2041.38-2048.13: Exogenous factors that drive share price and share movement on the stock exchange which are out of our control. 
+asr:0: OUTPUT 2048.79-2053.67: So the only commitment I can give is that we'll continue to deliver on the targets we've set. 
+asr:0: OUTPUT 2054.21-2063.36: We already have committed to a modest outperformance of our media targets that we've given you. 
+asr:0: OUTPUT 2063.84-2071.51: And we give you our reassurance that we will continue to perform at that level as far as running the business operationally goes. 
+asr:0: OUTPUT 2072.63-2077.92: So from that perspective, I think you can be confident in management's ability to deliver on these numbers. 
+asr:0: OUTPUT 2079.10-2084.84: And manage the associated risks and challenges that the market presents to us. Thank you very much. 
+asr:0: OUTPUT 2088.13-2093.39: Going on to the next question which comes from Nana of Access Pensions. 
+asr:0: OUTPUT 2094.57-2102.48: Hi, thank you very much for the opportunity to ask a question and congrats on another good performance. 
+asr:0: OUTPUT 2103.18-2113.53: I just want to know management's outlook about MUMU in the light of a potential launch of central bank digital currency, i.e. The ECD. 
+asr:0: OUTPUT 2113.61-2121.64: I mean, do you see the ECD complementing and deepening MUMU acceptance or perhaps competing with MUMU? Thank you. 
+asr:0: OUTPUT 2124.90-2131.75: Yeah, thanks for the question and you know, very good question. Something we are very interested in and watching as well. 
+asr:0: OUTPUT 2133.29-2140.40: You know, at this point I won't be able to give you too much detail on our position, but I think, first of all, the objectives. 
+asr:0: OUTPUT 2140.42-2146.47: Of the ACD and what the central bank is trying to do are definitely laudable. 
+asr:0: OUTPUT 2146.95-2157.82: We see ourselves as a partner and as a partner to continuing to digitize currency within the country and we do believe that we have a role to play. 
+asr:0: OUTPUT 2158.72-2162.20: However, since this is a pilot from the central bank... 
+asr:0: OUTPUT 2162.66-2168.93: The definition of how ECD will manifest itself beyond the pilot is still unclear. 
+asr:0: OUTPUT 2169.65-2176.78: And the role that the existing digital services will play is also still unclear, but we continue to work very closely with the central bank. 
+asr:0: OUTPUT 2177.24-2181.30: And at the point when some of these definitions start to tease out, we'll be able to share. 
+asr:0: OUTPUT 2182.24-2188.05: Our view though is that more money has established a behaviour within the marketplace. 
+asr:0: OUTPUT 2188.71-2198.66: And there's a lot of equity we can bring to a partnership to make ECD successful. So we see ourselves as a credible partner to the central bank. 
+asr:0: OUTPUT 2198.68-2204.00: To further digitize the market using ECD. But we'll give you more details once it's clear. 
+asr:0: OUTPUT 2210.55-2218.62: So thank you. Maybe the last question, I mean, it's got to do with the structural separation of the MUMU business. 
+asr:0: OUTPUT 2218.68-2225.13: I mean do you see the potential expansion in the timeline given by the BOG? 
+asr:0: OUTPUT 2225.43-2232.45: Or you think you can do it within the January 2022 deadline for reading please. Thank you. 
+asr:0: OUTPUT 2235.26-2243.32: Yes, thanks for the question. I think I was mentioning earlier that we definitely add to the wire here. 
+asr:0: OUTPUT 2243.84-2253.77: And we do have very concrete commitments and over 25% of the total localization targets. 
+asr:0: OUTPUT 2254.09-2259.08: But there's still a gap we have to bridge to get to the 30%. And we're working very hard on that. 
+asr:0: OUTPUT 2259.78-2267.93: So yes, is there some risk? Absolutely. I think in terms of timing there's some risk, but in terms of achieving the objective, we're confident we will. 
+asr:0: OUTPUT 2268.25-2272.23: So you might just be on the issue of a little bit extra time to close everything off. 
+asr:0: OUTPUT 2272.61-2281.48: But we're confident we'll get to 25% in the coming months and then also confident that we'll have the full commitment to get to 30%. 
+asr:0: OUTPUT 2281.76-2286.05: Perhaps the execution of that extra bit may need a little bit more time to tidy up. 
+asr:0: OUTPUT 2286.57-2290.09: So that's where we are and that's what we're working towards. 
+asr:0: OUTPUT 2292.09-2301.40: Thank you, that should be it for me. Thank you. The next question comes from Darren Smith of 337 Frontier Capital. 
+asr:0: OUTPUT 2304.10-2311.07: Good morning, thanks for the results, fantastic work. 
+asr:0: OUTPUT 2312.25-2317.70: Can I ask a question on market dynamics and market share? 
+asr:0: OUTPUT 2318.84-2323.38: What you guys know your market share and below is currently predisposed at. 
+asr:0: OUTPUT 2324.56-2328.75: Can you also talk about maybe competitive pricing in the market to low-level. 
+asr:0: OUTPUT 2329.43-2337.08: Are you just losing any market share to Boda Cash given that there's zero weight in P2P across all pricing brackets? 
+asr:0: OUTPUT 2337.42-2340.22: Have you given any consideration to changing them? 
+asr:0: OUTPUT 2340.54-2341.80: Your. 
+asr:0: OUTPUT 2344.99-2352.19: Okay, sorry, the line wasn't too clear. I think you're asking what the competitive dynamics on more money is. 
+asr:0: OUTPUT 2352.21-2356.58: Considering P2P price tactics, is that correct? 
+asr:0: OUTPUT 2360.00-2364.86: I know my line is not very good, but yeah, that's the question. 
+asr:0: OUTPUT 2370.59-2372.97: So there are a couple of things going on. 
+asr:0: OUTPUT 2373.53-2380.10: We do have one operator that has launched free P2P quite aggressively. 
+asr:0: OUTPUT 2380.12-2384.20: And last year and sustained that for quite a long time. 
+asr:0: OUTPUT 2385.89-2389.71: In the last few months we've seen some intensity. 
+asr:0: OUTPUT 2389.73-2396.92: Continue to promote the free P2P across all networks, but also across all value bands. 
+asr:0: OUTPUT 2397.34-2399.22: And which is a very aggressive promotion. 
+asr:0: OUTPUT 2399.90-2404.24: And so absolutely yes, we initially, I think on the call last time around,. 
+asr:0: OUTPUT 2404.62-2412.53: We discussed a little bit what some of the effects of that will be at the beginning. We think we've gotten to a point of equilibrium to a large extent. 
+asr:0: OUTPUT 2413.27-2421.16: Because the other things that we're also doing to try to support our customers and try to create value for our customers on our network. 
+asr:0: OUTPUT 2421.82-2429.37: We're also continuing to expand our own ecosystem and advanced services. You would see the growth in advanced services today and represent the. 
+asr:0: OUTPUT 2429.39-2435.96: Represents the utility that customers see in the portfolio of services worth their mobile money. 
+asr:0: OUTPUT 2436.44-2440.68: And we believe some of these initiatives will continue to be important. 
+asr:0: OUTPUT 2441.18-2446.55: In giving customers value but also serving the needs that are most important to them. 
+asr:0: OUTPUT 2447.37-2457.26: From a landscape perspective, we'll continue to monitor this. And at a point where we feel that there's a need for us to do something slightly different, we'll certainly do that. 
+asr:0: OUTPUT 2457.58-2466.79: But you'd see some of our promotions have been coming up to the end of the year that are promoting international remittances. Some of these things are all things to create increased value for our customers. 
+asr:0: OUTPUT 2467.17-2471.51: So we want to play the game in a more strategic way and not just on the basis of price. 
+asr:0: OUTPUT 2472.63-2475.70: Because that really starts to change the dynamics of competition. 
+asr:0: OUTPUT 2484.24-2494.03: Thank you. The next question comes from Admire Mvolvany of Terra Partners Asset Management. 
+asr:0: OUTPUT 2500.00-2507.29: My question is on the CMRE registration using the Ghana ID. 
+asr:0: OUTPUT 2508.25-2511.93: From your experience, possibly maybe in Nigeria and other countries. 
+asr:0: OUTPUT 2513.73-2520.06: How many subscribers do you expect to lose if you don't have the proper documentation to be able to irrigate? 
+asr:0: OUTPUT 2522.14-2524.00: What will be the impact on the top line. 
+asr:0: OUTPUT 2527.81-2530.19: OK. Look, it's a very. 
+asr:0: OUTPUT 2530.21-2540.02: Difficult question to answer concretely because of the stage we're at in the process. We're right at the beginning of the SIM registration process. 
+asr:0: OUTPUT 2540.68-2546.51: And we've already experienced a few teething challenges with the process itself. 
+asr:0: OUTPUT 2547.29-2557.16: These are being ironed out. There's been some progress, but they have still a few things to complete. And so all operators are affected by the feeding challenges that are in place. 
+asr:0: OUTPUT 2559.84-2563.30: In terms of what's realistic till the end of March. 
+asr:0: OUTPUT 2563.58-2574.67: A lot of that is based on how aggressive operators are, but also how responsive customers are to the demands for them to re-register. 
+asr:0: OUTPUT 2574.69-2579.62: We're seeing quite some good numbers reaching out to us. We've had over. 
+asr:0: OUTPUT 2579.64-2584.84: 2. Something million customers already reached out to us to re-register and I'm going through the process. 
+asr:0: OUTPUT 2585.33-2589.93: We've had, you know, maybe 10-15% failure rates on the re-registration from that beast. 
+asr:0: OUTPUT 2590.63-2595.72: So there's activity happening and this is even at a time when they are still sort of challenging. 
+asr:0: OUTPUT 2596.52-2605.57: I guess to answer your question, I guess it's a bit premature to suggest and to come up with numbers that may not register. 
+asr:0: OUTPUT 2605.59-2612.15: If we look at Nigeria, for example, they had multiple extensions to SIM registration. 
+asr:0: OUTPUT 2612.17-2618.94: As a result of the number of people within the populace who had the national ID. 
+asr:0: OUTPUT 2619.02-2625.31: It's a slightly different situation in Ghana here where today you have over 50% of the 30 something million. 
+asr:0: OUTPUT 2625.33-2627.13: Already with a national ID. 
+asr:0: OUTPUT 2627.61-2632.55: And the effort to continue to register the balance is ongoing. 
+asr:0: OUTPUT 2633.09-2637.44: And the National ID Authority is expanding branches in all the regions. 
+asr:0: OUTPUT 2637.48-2647.25: So that activity can take place. So we're in a slightly different place from from what happened in Nigeria I don't think we can directly compare and the two situations. 
+asr:0: OUTPUT 2647.39-2656.94: The Nigerian base that was registered as a percent of the population when SIM registration started was extremely low compared to the 50% we have in Ghana today. 
+asr:0: OUTPUT 2657.26-2663.30: Different dynamics, but nonetheless, I do acknowledge the risk of losing subscribers at the end of the period. 
+asr:0: OUTPUT 2663.72-2673.93: And I can assure you that we will do everything and throw everything at this to make sure we minimize the gap between the registered base and the non-registered base to the extent that we can. 
+asr:0: OUTPUT 2674.07-2680.78: We're taking this process very seriously and we've already come up with plans on how to get closer to customers. 
+asr:0: OUTPUT 2681.30-2688.87: So the effort for customers to re-register is lower because we're reaching out to them and setting up these temporary registration desks. 
+asr:0: OUTPUT 2689.29-2695.66: That will move in around the country. So there are a lot of things we're trying to put in place to make this as successful as it can be. Thank you. 
+asr:0: OUTPUT 2698.68-2700.60: Thank you so much. My second question is that. 
+asr:0: OUTPUT 2701.74-2709.95: I may be wrong, but I think last year you were still able to grow voice revenues in double digits. 
+asr:0: OUTPUT 2710.09-2712.03: And he suddenly dropped to about 2%. 
+asr:0: OUTPUT 2712.19-2718.90: Is pointing to what could have happened and does this point to a position where voice revenues will start to decline. 
+asr:0: OUTPUT 2722.34-2725.47: Right, so last year we grew voice in single digits. 
+asr:0: OUTPUT 2726.11-2733.55: And we obviously had quarters where we had double digits, first two quarters of the year. 
+asr:0: OUTPUT 2734.11-2738.52: And then we start a change in trend from Q3 into Q4 in single digits. 
+asr:0: OUTPUT 2739.38-2744.58: But nonetheless, we've seen pressure on voice and the number of drivers on the voice trend. 
+asr:0: OUTPUT 2744.92-2752.87: The first one is we're seeing a lot more people shift behavior from being voice-centric towards data-centric services. 
+asr:0: OUTPUT 2753.55-2757.78: So that's a natural evolution when people get smartphones and start to do more data services. 
+asr:0: OUTPUT 2758.66-2766.71: But the second element is some of the initiatives that have been implemented as a result of the significant market power declaration. 
+asr:0: OUTPUT 2767.01-2770.09: The first one, the asymmetric, at the end of last year. 
+asr:0: OUTPUT 2770.21-2778.24: And on August 1st, the SMP on and off net, you know, parity application that went live on August 1st. 
+asr:0: OUTPUT 2779.02-2780.80: All of these have had some pressure on voice. 
+asr:0: OUTPUT 2780.82-2790.57: But I think the fundamental driver in terms of significance is really the consumer change and the acceleration of smartphone penetration within the network. 
+asr:0: OUTPUT 2790.71-2793.63: Currently we're sitting somewhere between 45 and 50%. 
+asr:0: OUTPUT 2794.35-2799.94: And we've seen this trend reflected in other markets where the penetration gets to these levels where. 
+asr:0: OUTPUT 2800.10-2805.11: The voice utility starts to go down very fast in favor of data. 
+asr:0: OUTPUT 2808.63-2812.55: So given that trend, what sort of EBITDA margins are you forecasting? 
+asr:0: OUTPUT 2812.65-2819.78: Because traditionally data and mobile money are lower margin business lines compared to voice. 
+asr:0: OUTPUT 2823.10-2829.89: You know, data is slightly lower than voice in terms of margin if you have to separate the effects out, but we really don't separate it out. 
+asr:0: OUTPUT 2830.13-2834.25: Mort Money is actually a high margin product. 
+asr:0: OUTPUT 2835.26-2841.96: We continue to commit to expanded EBITDA margins. I believe we committed to that at the beginning of the year. 
+asr:0: OUTPUT 2842.30-2846.05: That commitment is still in place and we believe we'll deliver on that for the end of the year. 
+asr:0: OUTPUT 2854.63-2858.50: The next question comes from Farouk Mair of All Africa Partners. 
+asr:0: OUTPUT 2860.80-2863.80: Hi guys, thank you very much for the call. I have three questions. 
+asr:0: OUTPUT 2865.23-2873.53: The first question is just focused on the dynamics between your normal subscriber numbers, the data subscribers and voice. 
+asr:0: OUTPUT 2874.23-2879.58: And so we've seen the penetration, the percentage of voice subscribers who also happen to have. 
+asr:0: OUTPUT 2879.60-2884.34: Data and normal have increased over the last few years but now are starting to stall somewhat. 
+asr:0: OUTPUT 2884.88-2893.91: So I just want to check from your side, is that something that you're tracking? Is there a key KPI, penetration of data compared to voice? 
+asr:0: OUTPUT 2894.29-2900.00: And at the moment it's 47% for example data over voice. 
+asr:0: OUTPUT 2900.56-2903.94: Is that a very strong limit? 
+asr:0: OUTPUT 2904.16-2912.15: And then the focus will turn to squeezing more money out of the existing subscriber base rather than continuing to grow it. 
+asr:0: OUTPUT 2912.77-2915.58: Last question, I'll let you answer it before those are too much. 
+asr:0: OUTPUT 2919.30-2928.37: Probably worth us taking your numbers offline because we don't have those numbers that you just quoted. I'm not too sure where you're getting those numbers from. But yes, we do look at. 
+asr:0: OUTPUT 2929.69-2938.50: Subscriber penetration across different products. Yes, that's something we'll look at and look at how we balance our portfolio, but it's not something we have disclosed. 
+asr:0: OUTPUT 2939.12-2947.69: So I'm not too sure how you're arriving at that conclusion. But I think it's fair to say that the subscribers that continue to use voice. 
+asr:0: OUTPUT 2947.87-2952.57: A portion of them are starting to use more data and that's the trend we're seeing. 
+asr:0: OUTPUT 2953.53-2959.94: And they are still, if you look at our voice contribution or voice share of total revenue,. 
+asr:0: OUTPUT 2959.96-2964.22: Still in the 30% range, which is still very significant. 
+asr:0: OUTPUT 2964.32-2973.87: So voice is not any less significant than it was before, but obviously the year on year growth on voice is where we're seeing the declines or at least the slowdown. 
+asr:0: OUTPUT 2976.46-2988.67: Just to clarify, my name is... All I meant was if you have 11.9 million data subscribers and you have 25 million voice subscribers, so it's just one over the other. 
+asr:0: OUTPUT 2989.03-2990.65: That was what I meant. 
+asr:0: OUTPUT 2991.51-3000.02: And then just link to that in terms of the consumer journey, do you normally find that the voice of. 
+asr:0: OUTPUT 3000.66-3004.10: Firstly, it becomes a data subscriber and then. 
+asr:0: OUTPUT 3006.15-3009.83: It could be in any direction someone could have no data but still. 
+asr:0: OUTPUT 3010.81-3017.78: Way. 
+asr:0: OUTPUT 3018.00-3023.92: Phone for the most part. We do have data users who do GPRS, but to a lesser extent. 
+asr:0: OUTPUT 3024.78-3034.59: But to do data in our active numbers using more than five megabytes a second, you're 99% certain to have a smartphone. But you don't need that to be a more money customer. 
+asr:0: OUTPUT 3035.44-3044.04: The second thing to note here is our definition of active data subscribers, that 11.9 that you quoted. 
+asr:0: OUTPUT 3044.06-3048.21: It's based on a 30-day active usage and is the same for mobile money. 
+asr:0: OUTPUT 3049.15-3059.10: But for our total subscriber base, it's based on a 90-day activity. So we're comparing slightly different bases when it comes to the 11.9 and 25.2. 
+asr:0: OUTPUT 3061.32-3070.17: The second question is, obviously the number of subscribers for data and mobile money has been relatively slow compared to your previous. 
+asr:0: OUTPUT 3070.19-3072.75: Higher growth but the revenues are still very strong. 
+asr:0: OUTPUT 3073.21-3079.78: So which obviously points towards very higher usage from the existing users. 
+asr:0: OUTPUT 3080.42-3081.74: High maintenance. 
+asr:0: OUTPUT 3081.76-3099.86: Continue to play out, i.e. The existing users are being squeezed for basically more service versus a need to continue growing the subscriber base for data and mobile money, without which you'll see data and mobile money revenues starting to slow down. 
+asr:0: OUTPUT 3100.40-3105.97: How much more room do you have just to squeeze the existing users? 
+asr:0: OUTPUT 3107.75-3112.73: Okay, let me put it this way. I mean, if I look at our growth levers for mobile money,. 
+asr:0: OUTPUT 3113.81-3120.26: Today, I'll use the numbers of our total subs. We have about 10.6 million customers. 
+asr:0: OUTPUT 3121.34-3130.85: So there's still significant room to grow customers in terms of new customers that come on board, right? Almost doubling that amount in the coming years. 
+asr:0: OUTPUT 3132.67-3138.98: But a second dimension is the transactional behavior of these customers, and that's what you're talking about in terms of existing customers. 
+asr:0: OUTPUT 3139.90-3145.01: Today, I mean, we're doing something like 6.7 average P2Ps per user per month. 
+asr:0: OUTPUT 3145.93-3150.91: And if you take total transactions, it's somewhere in the early teens, per user per month. 
+asr:0: OUTPUT 3151.69-3160.22: And therefore, from a transactional behavior standpoint, that same number is upwards of 30 when you look at other markets like Kenya. 
+asr:0: OUTPUT 3160.82-3169.89: So existing users have a lot of room to grow in terms of transactional activity, but that wouldn't happen until there's a lot more ecosystem maturity. 
+asr:0: OUTPUT 3170.25-3176.04: We've connected a lot more merchants. We have about 200,000. We need to get that number to over a million, two million. 
+asr:0: OUTPUT 3176.78-3179.58: We need to connect more services in totality. 
+asr:0: OUTPUT 3179.92-3182.80: So there are a number of ecosystem opportunities. 
+asr:0: OUTPUT 3182.94-3191.03: That would allow the existing usage frequency to continue to increase significantly beyond where it is today. 
+asr:0: OUTPUT 3191.05-3194.29: I don't think we're anywhere close to capping that opportunity. 
+asr:0: OUTPUT 3194.93-3201.76: But that doesn't take away the recognition that we need to accelerate our active user growth. 
+asr:0: OUTPUT 3202.14-3213.73: And that's something we recognize and this is where we have the plans in place and coming out of Q3 to Q4 to find some permanence to drive in acquisition growth on the Maloney side. 
+asr:0: OUTPUT 3215.62-3223.36: Just a last question on Cup X. I saw in the third quarter I think there was a bit of a pick up in Cup X versus the first half. 
+asr:0: OUTPUT 3223.78-3233.11: Could you maybe re-highlight guidance for the year and the medium-term guidance in terms of where you are in the CAPEX cycle? Thank you very much. 
+asr:0: OUTPUT 3235.40-3242.22: So typically we deploy a significant portion of our CAPEX by the end of Q3. 
+asr:0: OUTPUT 3242.56-3252.47: And this year has been a little bit more unique where we have about 20% of our deployments still happening in Q4. 
+asr:0: OUTPUT 3253.33-3257.40: Our total cap ex for the year would be somewhere around $210 million. 
+asr:0: OUTPUT 3258.08-3265.51: And we are, in terms of commitment, we are pretty much there, 99 point something percent commitment on that value. 
+asr:0: OUTPUT 3265.61-3273.11: We're currently just implementing the balance of CAPEX and we should see the rest of the expansions happen through the last quarter, through this quarter. 
+asr:0: OUTPUT 3273.19-3279.74: I think the final date of implementation is around third week to fourth week in November. 
+asr:0: OUTPUT 3283.76-3287.25: Any guidance for the coming year on CAPEX or coming few years? 
+asr:0: OUTPUT 3289.43-3296.00: Yes, I think our absolute CAPEX number would be just about the same, maybe about 5% higher. 
+asr:0: OUTPUT 3296.52-3302.62: To 6% higher but it's in that same range of 210 I believe, somewhere in the 220 to 230 million range. 
+asr:0: OUTPUT 3307.13-3316.60: Thank you. The next question comes from Ali Al-Nasr of Urgent Asset Management. 
+asr:0: OUTPUT 3320.06-3323.10: It's Sam, Ali's colleague. I'm calling through Ali's line. 
+asr:0: OUTPUT 3324.72-3334.59: I have a couple of questions. The first one is can you just help me understand the calculation behind average transaction per user per month on Momo? 
+asr:0: OUTPUT 3335.16-3343.24: I think in previous calls you said it was between five and seven, but if we just take the total transaction,. 
+asr:0: OUTPUT 3343.34-3347.51: Number and divide it by the active user base, it's a very different number. 
+asr:0: OUTPUT 3347.85-3350.39: So can you give us some clarity on that calculation? 
+asr:0: OUTPUT 3351.81-3358.68: Sure. On previous calls, the 5 to 7 has been specifically average P2P per user per month. 
+asr:0: OUTPUT 3360.26-3364.94: So that number is about 6.7 today. So we continue to see growth, but it's about 6.7. 
+asr:0: OUTPUT 3367.35-3373.25: Everything else would be the total number of transactions on a unique user basis, per user per month. 
+asr:0: OUTPUT 3373.33-3377.92: So it will be difficult to use the total subs to do that calculation, I'm afraid. 
+asr:0: OUTPUT 3378.04-3387.57: We would have to have specific scripts to tease out unique customers and unique transactions to do the division. That's why I don't probably re-consent to the numbers we have. 
+asr:0: OUTPUT 3390.71-3396.80: Okay, so internally it's that P to P number that you guys are most focused on? 
+asr:0: OUTPUT 3397.84-3405.06: That's correct. Yeah, that's the one I've been quoting. So the 5 to 7 is on P2P. Average P2P per user per month. 
+asr:0: OUTPUT 3407.25-3411.97: Understood. And then another question as well, sorry it's again a number question. 
+asr:0: OUTPUT 3412.99-3417.98: We see a pretty big difference between the TPV of MoMo. 
+asr:0: OUTPUT 3419.40-3427.11: The market share you guys have on a TPV basis and the market share that's implied by total active users. 
+asr:0: OUTPUT 3427.13-3430.49: Across all mobile money wallets in Ghana. 
+asr:0: OUTPUT 3432.07-3435.44: And we're getting that ladder information from the Communications Authority data. 
+asr:0: OUTPUT 3436.48-3440.20: I think they say there's about 18 million active mobile money wallets. 
+asr:0: OUTPUT 3441.46-3446.77: Whereas the market share you guys have on a TPV basis is kind of mid 90%ish. 
+asr:0: OUTPUT 3447.59-3455.72: Do you have any idea why there's that massive discrepancy? Because obviously it implies there are lots of kind of active wallets out there that aren't really being used much. 
+asr:0: OUTPUT 3455.74-3457.82: To grab any insight. 
+asr:0: OUTPUT 3459.40-3461.72: I think the, well. 
+asr:0: OUTPUT 3462.62-3469.67: I believe that the metric you've seen from the communications authority is registered wallets, not active wallets. 
+asr:0: OUTPUT 3469.87-3478.86: So just double check that because historically when a wallet is registered, it goes into a database and represents those numbers to the regulator. 
+asr:0: OUTPUT 3479.72-3481.68: But it doesn't mean there's any activity. 
+asr:0: OUTPUT 3481.78-3484.12: They're also legacy registered wallets. 
+asr:0: OUTPUT 3485.17-3493.07: That were never used in the systems. It's a cumulative number. There's been no cleanup of that. So that number doesn't actually represent the degree of activity. 
+asr:0: OUTPUT 3494.09-3496.00: Which is why it's in these discrepancies. 
+asr:0: OUTPUT 3496.68-3506.33: The second thing is also, and some of the numbers are quoted on a 90-day basis versus a 30-day activity, but I think this is really more the registered users versus the active users. 
+asr:0: OUTPUT 3509.01-3515.58: Okay, interesting. Because they say that there's 44 million registered users and 18 million active. 
+asr:0: OUTPUT 3516.94-3523.48: I was just trying to tease out whether that alongside the zero rate. 
+asr:0: OUTPUT 3523.64-3524.68: At one of your competitors. 
+asr:0: OUTPUT 3525.19-3530.59: You know, whether you're kind of seeing anything there, anything on the ground, but it doesn't sound like you are. 
+asr:0: OUTPUT 3531.99-3538.90: Let me just invite Eli to comment on that. He may have more insight on that specifically. 
+asr:0: OUTPUT 3542.76-3543.94: Thank you, Salom. 
+asr:0: OUTPUT 3545.69-3557.84: The first thing is, like Shalom said, the data on the Bank of Ghana side or at the industry level is handled on a 90-day basis. 
+asr:0: OUTPUT 3558.68-3565.27: Whereas we report on a 30-day basis. So there's that difference in data. 
+asr:0: OUTPUT 3566.05-3571.83: The second one is it may be the latest data, but I don't have that. 
+asr:0: OUTPUT 3572.47-3588.13: The third one is indeed the activity on our side is higher because of the portfolio of services that we do have on our platform for customers in terms of activity. 
+asr:0: OUTPUT 3588.17-3598.14: So that also represents a higher activity on this side versus what you find on the platforms for the other providers. 
+asr:0: OUTPUT 3598.74-3607.27: So those three specific reasons could also feed into what feedback you have. 
+asr:0: OUTPUT 3607.29-3614.53: We'll try and get the latest data and also provide that as part of our next update. Thank you. 
+asr:0: OUTPUT 3617.54-3622.64: Yeah, amazing. That would be great. And then if I could just squeeze in one really quick one as well, please, Salome. 
+asr:0: OUTPUT 3623.38-3629.03: Can you just remind us what you guys are doing in terms of lending products? 
+asr:0: OUTPUT 3629.41-3633.51: You getting much traction there? Anything you can kind of talk about that? 
+asr:0: OUTPUT 3635.80-3638.70: I'll have Ellie share thoughts on the lending products as well. Ellie, please. 
+asr:0: OUTPUT 3641.28-3650.97: Okay, thank you, Salom. In terms of the lending product, yes, we have seen good traction. 
+asr:0: OUTPUT 3651.97-3674.73: But what we've also done is we've tried to improve on the scoring capability so that we can also manage the level of people who default in the loan repayment and improve upon the level of recoveries that we have on that side. 
+asr:0: OUTPUT 3675.26-3679.98: But otherwise, we've seen three partners already. 
+asr:0: OUTPUT 3680.00-3686.35: Today we work with the Segoe or AFB, we work with Ecobank. 
+asr:0: OUTPUT 3686.69-3695.96: And we work with APSA in terms of the partners who support the loan portfolio. 
+asr:0: OUTPUT 3697.26-3699.52: I don't know if that addresses your question. 
+asr:0: OUTPUT 3703.16-3707.51: Anything you could say about the size of that product or is that still kind of confidential? 
+asr:0: OUTPUT 3710.75-3713.13: The side. Today I don't have a. 
+asr:0: OUTPUT 3713.55-3723.00: Specifics on the daily loan that we give out, but that number keeps improving. 
+asr:0: OUTPUT 3723.40-3726.77: We can once again provide that on the next call. Thank you. 
+asr:0: OUTPUT 3728.95-3730.69: Okay great that's all from me, thanks guys. 
+asr:0: OUTPUT 3735.62-3740.88: Thank you. The final question comes from Brad Lubitsky of Equinox Partners. 
+asr:0: OUTPUT 3743.22-3748.59: Hi, just two quick questions for me. 
+asr:0: OUTPUT 3748.89-3757.80: First is, what's driving the growth in your other expenses line? 
+asr:0: OUTPUT 3759.00-3778.78: And then the second question is I'm curious whether your market share is different between P2P mobile money transactions and I guess P2C or B2C or the value-added services. 
+asr:0: OUTPUT 3781.90-3791.83: Let me address the second question and I'll have Kobi answer the question on the expenses on the other line, the growth on the other line, other expenses line. 
+asr:0: OUTPUT 3793.35-3797.04: So today we don't have market information on. 
+asr:0: OUTPUT 3797.06-3802.84: To be able to give market share by product as you've described it. 
+asr:0: OUTPUT 3802.86-3810.05: It's very difficult to know whether markets shared by P2P, B2C, P2B,. 
+asr:0: OUTPUT 3810.07-3811.43: Is at the moment. 
+asr:0: OUTPUT 3812.49-3817.82: So what we'll have is typically what the transacted value share is, which gives a strong indication. 
+asr:0: OUTPUT 3817.84-3826.07: Of what's being transacted on the platform, an indication of the share across the product. So that's maybe a proxy for PG&E. 
+asr:0: OUTPUT 3826.09-3828.05: Activity, but it's absolutely not so. 
+asr:0: OUTPUT 3831.13-3833.67: Kobi's going to take the question on the expenses line. 
+asr:0: OUTPUT 3841.32-3850.15: I think we've lost Kobi. Maybe we can take that question offline. If you can just reach out to me after the call. I'll be grateful. 
+asr:0: OUTPUT 3860.30-3864.60: Ladies and gentlemen, that was the final question. I'll now hand it back to the closing comments. 
+asr:0: OUTPUT 3867.23-3876.68: Okay, thank you everyone and apologies for the eight minutes extension. But thank you for making time for today's call. 
+asr:0: OUTPUT 3877.18-3882.82: I know they are unanswered questions, so just please reach out to me after the call and I'll be glad to assist. 
+asr:0: OUTPUT 3883.86-3885.91: Thank you and you may now disconnect from the call. 
+asr:0: OUTPUT 3888.13-3895.44: Thank you very much gentlemen. Ladies and gentlemen, that concludes today's conference. Thank you for joining us. You may now disconnect your lines. 
+asr:0: END

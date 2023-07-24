@@ -1,0 +1,603 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.94-12.95: Good day and thank you for standing by. Welcome to the Sol System 2021 fourth quarter and full year earnings presentation call. 
+asr:0: OUTPUT 13.33-16.36: At this time all participants are in listen-only mode. 
+asr:0: OUTPUT 16.76-20.20: After the speaker's presentation, there will be the question and answer session. 
+asr:0: OUTPUT 20.72-25.43: To ask a question during the session, you will need to press star and one on your telephone keypad. 
+asr:0: OUTPUT 26.11-33.31: Please be advised that today's conference is being recorded. If you require any further assistance over the phone, please press star zero. 
+asr:0: OUTPUT 33.95-39.22: I would now like to hand the conference over to our first speaker today, François Bordonadeau. Please go ahead. 
+asr:0: OUTPUT 41.06-48.69: Thank you, Nadia. Thank you for joining us on our fourth quarter and fiscal year 2021 earnings conference call. 
+asr:0: OUTPUT 49.17-57.48: With Bernard Charles, Vice Chairman and CEO, Pascal Dalloz, Chief Operating Officer, and Ruben Bergman, Chief Financial Officer. 
+asr:0: OUTPUT 57.94-65.57: We also will also join us, Tarek Sherif, Chairman, Dassault Systèmes Life Sciences and Healthcare. 
+asr:0: OUTPUT 66.45-74.11: The ASO systems results are prepared in accordance with IFRS. Most of the financial figures. 
+asr:0: OUTPUT 74.13-83.68: Discussed on this conference call are on a non-IFRS basis, with revenue growth rate in constant currency unless otherwise known to. 
+asr:0: OUTPUT 84.40-91.51: Some of our comments on this call contain forward-looking statements which could differ materially from actual results. 
+asr:0: OUTPUT 91.97-100.32: Please refer to today's press release and the risk factors section of our 2020 Universal Registration document. 
+asr:0: OUTPUT 101.22-102.80: All earnings material. 
+asr:0: OUTPUT 102.82-108.35: Are available on our website and these prepared remarks will be available shortly after this call. 
+asr:0: OUTPUT 108.79-118.72: Bernard, the floor is yours. Thank you very much, François-José. Good morning and good afternoon to all of you. And thank you for joining us. It's always a pleasure. 
+asr:0: OUTPUT 118.82-121.76: To review our full year result review. 
+asr:0: OUTPUT 122.30-132.17: We had an excellent 2021 year with a strong finish to the year. The total revenue rose 11% for the year. 
+asr:0: OUTPUT 132.93-138.30: Driven by a broad-based demand across our end markets. 
+asr:0: OUTPUT 138.98-143.50: The majority of which are growing double digit, by the way. 
+asr:0: OUTPUT 144.32-151.45: Our strategic growth drivers performed well through the experience revenue increased 15%. 
+asr:0: OUTPUT 151.47-155.01: With cloud revenue rising 23%. 
+asr:0: OUTPUT 155.88-163.88: Our 3DEXPERIENCE platform has been a competitive advantage driving new client wins. 
+asr:0: OUTPUT 164.70-169.49: The cloud is about inclusiveness and providing additional value to clients. 
+asr:0: OUTPUT 170.25-178.48: Earning per share increased 26% thanks to good revenue growth on high profitability. 
+asr:0: OUTPUT 179.02-185.45: For 2022, we have set the target for 9% to 10% top line growth. 
+asr:0: OUTPUT 187.09-190.67: As you can see, we have delivered very good results. 
+asr:0: OUTPUT 192.43-197.92: But more importantly, we have the key elements in place to support sustainable growth. 
+asr:0: OUTPUT 198.24-206.61: Our technologies are changing the game for clients across our three major sectors of the economy. 
+asr:0: OUTPUT 207.17-213.99: We are expanding our footprint, deepening existing partnerships and adding new clients. 
+asr:0: OUTPUT 214.96-220.72: We have invested in our team, establishing the next generation of leaders. 
+asr:0: OUTPUT 222.62-227.43: The stage is set, therefore, for a good future. 
+asr:0: OUTPUT 227.75-233.07: Now I'd like to share some perspectives on our vision and strategy for the coming years. 
+asr:0: OUTPUT 235.06-242.76: You remember 10 years ago in February 2012, we unveiled a new brand identity. 
+asr:0: OUTPUT 242.78-245.47: For our company, the 3DEXPERIENCE company. 
+asr:0: OUTPUT 246.27-251.05: On our corporate purpose built around harmonizing product nature and life. 
+asr:0: OUTPUT 252.09-259.60: Today, the significance of our strategy is clear. Our clients and partners have embraced the experience economy. 
+asr:0: OUTPUT 260.00-272.01: They are transforming all sectors and industries with sustainability and human centricity as central pillars of a new era. 
+asr:0: OUTPUT 272.79-277.72: The experience economy accelerated by the pandemic triggers new categories. 
+asr:0: OUTPUT 277.74-283.72: Of expectations really from citizens, passion, consumers, even workers. 
+asr:0: OUTPUT 284.52-288.15: This is apparent in our everyday life. 
+asr:0: OUTPUT 288.95-295.62: Tomorrow's mobility is no longer a matter of vehicles. It's a matter of desirable, sustainable mobility experiences. 
+asr:0: OUTPUT 296.74-304.76: Tomorrow's health care is much more than therapeutics. It's about the passion journey on precision medicine. 
+asr:0: OUTPUT 305.47-313.83: Tomorrow's cities are not only a collection of buildings, streets and facilities. It's about quality of life and quality of service. 
+asr:0: OUTPUT 314.95-317.16: As a consequence, all our clients. 
+asr:0: OUTPUT 317.18-320.02: Need to re-imagine their offer. 
+asr:0: OUTPUT 320.46-322.48: Our answer is. 
+asr:0: OUTPUT 322.50-333.81: Is the systematic use of virtual twin experience based on modeling, simulation, on real-world evidence in this. 
+asr:0: OUTPUT 333.83-336.86: Merger between the virtual and the real world. 
+asr:0: OUTPUT 338.82-346.99: Our ambition, therefore, is to help our clients imagine, create, produce experiences for their own clients. 
+asr:0: OUTPUT 347.01-349.39: Unlike metaverse,. 
+asr:0: OUTPUT 350.09-355.48: We use virtual world, 3D virtual world experiences. 
+asr:0: OUTPUT 355.50-357.36: To improve the real world. 
+asr:0: OUTPUT 358.34-362.96: Only then the possibility of harmonizing product-nature and life will emerge. 
+asr:0: OUTPUT 364.50-368.21: I believe that the innovators of tomorrow's and we see them. 
+asr:0: OUTPUT 368.51-380.60: Have to think in terms of universes, that is to say in terms of organic systems of systems that create, produce, and play experience in a circular economy. 
+asr:0: OUTPUT 382.36-385.71: With the 3DEXPERIENCE platform, we are creating. 
+asr:0: OUTPUT 385.73-395.07: This if we loop, we can provide this holistic view combining value creation and value experienced. 
+asr:0: OUTPUT 395.10-399.92: Design and usage to cover the full experience lifecycle. 
+asr:0: OUTPUT 401.46-407.91: We can extend virtual twin experiences across universes. 
+asr:0: OUTPUT 407.97-411.93: It's about continuity of the what. 
+asr:0: OUTPUT 411.95-418.54: The offer, the how, how you make it, and the use of it by people. 
+asr:0: OUTPUT 419.48-422.84: This is a new revolutionary approach to innovation. 
+asr:0: OUTPUT 423.86-426.23: It's in some way the next generation of PLM. 
+asr:0: OUTPUT 426.83-437.66: As we have done in the past with the early adopter, we will pave the way for the future across the three sectors of the economy we serve. 
+asr:0: OUTPUT 438.46-442.34: Quickly look at implications, for example, in life sciences. 
+asr:0: OUTPUT 442.90-447.73: Clinical research has moved beyond the hospitals and labs. 
+asr:0: OUTPUT 449.85-459.00: As more and more technology is used to decentralize trials, the entire clinical trial experience is transformed. 
+asr:0: OUTPUT 460.00-462.78: For all people involved. 
+asr:0: OUTPUT 464.20-469.07: Patients can now participate in a trial from anywhere, especially from home. 
+asr:0: OUTPUT 469.83-474.35: Doctors and researchers can now collect more data in different ways. 
+asr:0: OUTPUT 475.82-479.94: If we connect the dots across clinical trial data, real-world data,. 
+asr:0: OUTPUT 480.00-487.29: On research and development, we can close the loop and make precision medicine a reality. 
+asr:0: OUTPUT 487.31-488.33: You. 
+asr:0: OUTPUT 488.35-491.75: As a consequence, elevate the patient journey. 
+asr:0: OUTPUT 492.45-497.68: The ASSO system will be the only one capable of supporting end-to-end solutions in life science. 
+asr:0: OUTPUT 498.94-504.50: The ongoing advancement toward a sustainable economy will mark this century also. 
+asr:0: OUTPUT 506.65-511.09: We can reveal some of the dynamics we see progressing. 
+asr:0: OUTPUT 511.13-519.60: I think it's clear that our passion for science-based, people-centered innovation. 
+asr:0: OUTPUT 519.74-525.08: On the commitment we have for our very loyal clients,. 
+asr:0: OUTPUT 525.11-529.81: Is really a catalyst of that transformation. 
+asr:0: OUTPUT 530.83-536.96: Let's have a few illustrations of how we are enabling such kind of transformation today. 
+asr:0: OUTPUT 538.44-541.88: And I think from there you will see a lot of good reasons to believe. 
+asr:0: OUTPUT 543.98-548.09: In the consumer industry, we have a very successful partnership with IT. 
+asr:0: OUTPUT 549.53-556.38: With the 3DEXPERIENCE by me platform kitchen planner on the cloud. 
+asr:0: OUTPUT 556.90-559.64: IKEA is enabling. 
+asr:0: OUTPUT 559.66-565.23: Customers to use virtualization to design their own dream kitchens. 
+asr:0: OUTPUT 567.61-571.19: The pandemic has led individuals to invest in their homes. 
+asr:0: OUTPUT 572.99-576.46: And has acted as an accelerator for e-commerce. 
+asr:0: OUTPUT 576.52-584.44: The 3DEXPERIENCE by me platform Kitchen Planner has allowed IKEA to take full advantage of these trends. 
+asr:0: OUTPUT 585.71-592.69: In some way, the Buy Me Kitchen platform was used by one million people only. 
+asr:0: OUTPUT 592.71-596.60: A few months after being deployed. 
+asr:0: OUTPUT 597.00-606.83: And today has reached over 4 million users, making it the most popular 3D consumer application in the world. 
+asr:0: OUTPUT 608.35-613.47: This is the cloud advantage, but it's also the mobile advantage. 
+asr:0: OUTPUT 615.72-618.80: In mobility and other sector of the industry. 
+asr:0: OUTPUT 618.82-628.57: Pirelli is pursuing increasingly challenging goals in terms of sustainability, working on innovative materials. 
+asr:0: OUTPUT 628.59-631.05: On cutting-edge production processes. 
+asr:0: OUTPUT 632.61-636.84: They have selected smart tires on the 3GXperience platform. 
+asr:0: OUTPUT 637.72-648.75: They will leverage the capability of the virtual twin to foster innovation, reduce cost, increase circularity, and of course, reduce time to market through simulation modular design. 
+asr:0: OUTPUT 650.99-658.78: It's great to be part of Pirelli's adventure to move everyone forward through technology on social progress. 
+asr:0: OUTPUT 661.08-665.99: In the health care, I could take the example of Perigo. 
+asr:0: OUTPUT 666.13-671.07: Because the healthcare affordability is becoming essential. 
+asr:0: OUTPUT 671.19-676.50: Today the cost of health care is growing twice as fast as the overall economy. 
+asr:0: OUTPUT 677.66-685.97: Perrigo, a 130-year-old company, has been improving passion lives with affordable self-care products. 
+asr:0: OUTPUT 686.01-689.39: The company is deploying several of our solutions. 
+asr:0: OUTPUT 689.43-696.74: For example, license to cure, perfect formulation, perfect package. 
+asr:0: OUTPUT 697.56-706.45: On our 3D experience platform. As you notice, you are not describing the function, we are describing the value, even in the way we name our solutions. 
+asr:0: OUTPUT 707.57-710.57: Their goal is to increase efficiency, quality and time to market. 
+asr:0: OUTPUT 712.23-718.20: We are very pleased to help PUREGO have this positive impact. I guess they are very positive too. 
+asr:0: OUTPUT 719.28-723.02: Now, you have some proof points. 
+asr:0: OUTPUT 724.74-733.69: It's plain to see Virtual Twin Experiences powered by the 3DEXPERIENCE platform are helping all our customers evolve and transform. 
+asr:0: OUTPUT 733.83-736.20: We recently celebrated. 
+asr:0: OUTPUT 736.78-747.85: Our 40th anniversary at Dassault Systèmes. Two generations of innovators have revealed the power of virtual works to imagine, create disruptive innovation. 
+asr:0: OUTPUT 748.33-750.99: And this is a fact in all sectors we serve. 
+asr:0: OUTPUT 751.61-760.00: Now we are focused on our next horizon, 2040. Our objective is to do. 
+asr:0: OUTPUT 760.52-767.11: Is to be the leader in sustainable innovation and to continue to position our clients. 
+asr:0: OUTPUT 767.13-774.61: At the vanguard of progress across manufacturing industries, life science and healthcare, as well as infrastructure and cities. 
+asr:0: OUTPUT 775.08-780.16: To support our long-term initiatives, we have established the next generation of executive leadership. 
+asr:0: OUTPUT 781.78-799.48: I'm so happy to have Pascal Dalloz now fully focused on his mission as Chief Operating Officer to connect all the dots on elevate and expand the value we provide to our clients, empower a new generation of leaders. 
+asr:0: OUTPUT 799.50-801.78: Along the lines that I just described. 
+asr:0: OUTPUT 803.02-812.59: At the same time, I am equally delighted to welcome Ruven Berman to the Executive Committee of the Association as Chief Financial Officer. 
+asr:0: OUTPUT 814.05-818.40: Rowan has played a critical role in integrating MEDI data. 
+asr:0: OUTPUT 818.42-827.19: He has held the COO and CFO titles and brings a mastering of financial matters related to software. 
+asr:0: OUTPUT 827.37-829.11: On cloud business models. 
+asr:0: OUTPUT 829.91-837.46: It's wonderful to have you here. Thank you for being here and giving us more time to meet with customers. 
+asr:0: OUTPUT 838.98-847.19: Ultimately, all progress is human. Investing in our people and culture is at the core of what we do, our M&A activities. 
+asr:0: OUTPUT 847.21-856.84: Are driven by both innovation capabilities as well as talent. And as you all know, after many years of observing the social system,. 
+asr:0: OUTPUT 857.04-864.24: It has always been essential for us. We are focused on enabling teams to transform and reveal talents. 
+asr:0: OUTPUT 865.04-869.11: When we acquired MediData in 2019, just two years ago. 
+asr:0: OUTPUT 869.77-873.97: Tarek on his team, especially with Glenn, his body. 
+asr:0: OUTPUT 874.55-880.54: Created this incredible reason to believe that we could have a future together. 
+asr:0: OUTPUT 881.56-890.29: I'm extremely proud of the significant innovation, strong culture and leadership MEDIDATA has brought to the life science sector. 
+asr:0: OUTPUT 891.11-900.58: We have been able to integrate, scale rapidly, accelerate growth and deliver excellent results and above all, have fun being together. 
+asr:0: OUTPUT 901.22-906.19: It's a great pleasure now to have online Tarek by BODY. 
+asr:0: OUTPUT 906.83-912.51: Who is now the chairman of the life science sector on this care for Dassault Systemes. 
+asr:0: OUTPUT 913.39-916.00: Antarek, would you like to say a few words? 
+asr:0: OUTPUT 918.50-926.17: Thank you, Bernard. Thank you for the kind words. It's really a pleasure to be with all of you today in my role. 
+asr:0: OUTPUT 926.63-931.03: It's been a few years since I've been on an earnings call. And as you say, it's a lot of fun. 
+asr:0: OUTPUT 932.05-935.70: So it's been more than two years since we announced coming together. 
+asr:0: OUTPUT 936.34-943.78: And honestly, I can't be more excited about what we've been able to accomplish and the progress we've made since that time. 
+asr:0: OUTPUT 944.64-950.75: It's been an incredibly challenging environment as you all know. Integrations are never easy. 
+asr:0: OUTPUT 950.77-955.54: Doing it on a global scale is even more difficult than then doing it in the midst of a pandemic. 
+asr:0: OUTPUT 955.96-957.24: Is even more difficult. 
+asr:0: OUTPUT 958.08-967.61: But I would say that the integration has been a tremendous success. And I really want to thank Bernard and Pascal for all the support that they have given us and our teams. 
+asr:0: OUTPUT 968.07-975.74: And I'd like to also thank you, our teams, who have come together, focused on creating value for our customers and ultimately for patients. 
+asr:0: OUTPUT 976.40-984.44: You know, our teams are delivering amazing innovation and execution to advance clinical trials and new treatments for patients. 
+asr:0: OUTPUT 984.46-987.25: During what's been an unprecedented time. 
+asr:0: OUTPUT 988.13-993.33: And it feels like we're just getting started, given the tremendous opportunities that we see ahead of us. 
+asr:0: OUTPUT 994.23-1000.18: Our impact on improving the patient experience and scaling precision medicine has never been clearer. 
+asr:0: OUTPUT 1001.22-1007.83: You know, at the end of the day, it's what Glenn and I always dreamed about and we're convinced we would be able to do one day. 
+asr:0: OUTPUT 1008.51-1013.87: And it's what brought us together as organizations in the first place, and it's becoming a reality. 
+asr:0: OUTPUT 1015.34-1022.82: As many of you know, we suffered the tragic loss of Glenn DeVries, my best friend and our co-founder late last year. 
+asr:0: OUTPUT 1024.68-1030.47: He helped transform our industry, and his vision has always been an inspiration for all of us. 
+asr:0: OUTPUT 1031.45-1035.10: Glenn helped set the highest standards for MediVet. 
+asr:0: OUTPUT 1035.78-1041.70: And he drove us to innovate and solve the most complex problems with energy and creativity. 
+asr:0: OUTPUT 1042.84-1050.87: And I am absolutely convinced that we will pursue progress in life sciences and healthcare with the same passion that he had. 
+asr:0: OUTPUT 1051.37-1054.51: And we have an amazingly strong team to support that. 
+asr:0: OUTPUT 1055.34-1065.00: By continuing to do everything we can do to support the business, we are honoring Glenn's legacy, and we will ultimately ensure healthier lives for patients everywhere. 
+asr:0: OUTPUT 1066.15-1072.23: We have a strong leadership in place today, and they will help carry us into the future. 
+asr:0: OUTPUT 1072.25-1079.70: And together with Bernard and Pascal, and now Ruben, I share the conviction and confidence in our promising future. 
+asr:0: OUTPUT 1081.22-1082.90: I want to hand the call back to you, Bernard. 
+asr:0: OUTPUT 1084.10-1087.29: Thank you, Darren. Thank you, my friend, for your leadership. 
+asr:0: OUTPUT 1087.33-1095.62: And also the incredible moment we had, all of us together, when we decided in less than one hour. 
+asr:0: OUTPUT 1095.64-1100.72: That the future was together and that was only two years ago. 
+asr:0: OUTPUT 1102.10-1108.81: So I am also confident that we can make the difference. 
+asr:0: OUTPUT 1108.97-1119.74: We have now an incredible connection between people and tremendous opportunities to provide great solutions for our customers. 
+asr:0: OUTPUT 1120.66-1124.40: So with that, Pascal, you have the floor. 
+asr:0: OUTPUT 1125.59-1130.35: Thank you Bernard. Hello everyone. I hope you are doing well and thank you for joining us today. 
+asr:0: OUTPUT 1131.29-1138.54: So turning to our financial results, the strong business momentum we experienced throughout the year continued into the fourth quarter. 
+asr:0: OUTPUT 1139.18-1141.94: Resulting in a performance well aligned with our guidance. 
+asr:0: OUTPUT 1142.38-1145.83: So let's start with the Q4 top line, year-over-year comparison. 
+asr:0: OUTPUT 1147.11-1155.42: Total revenue grew 10% to $1,370,000,000, above our 7% to 9% range. 
+asr:0: OUTPUT 1156.28-1159.78: The software revenue also grew 10% and all organically. 
+asr:0: OUTPUT 1160.94-1166.73: License and other revenues rose 15% to $348 million. 
+asr:0: OUTPUT 1167.47-1172.17: Well above the guidance and we are back to 2019 levels. 
+asr:0: OUTPUT 1173.65-1179.22: Subscription and support revenue increased 8% driven by the high double-digit subscription growth. 
+asr:0: OUTPUT 1179.94-1185.51: Reflecting strong metadata performance, but also the 3D experience momentum. 
+asr:0: OUTPUT 1186.65-1190.29: And the recurring revenue represents 72% of the software revenue. 
+asr:0: OUTPUT 1191.45-1198.80: Zooming on services, services was up 10% and we achieved a services growth margin of 27.1%. 
+asr:0: OUTPUT 1199.04-1202.02: Substantially better compared to last year. 
+asr:0: OUTPUT 1202.04-1209.97: And it's coming mainly from the effort we made to improve the efficiency when we were in the middle of the pandemic, I would say 18 months ago. 
+asr:0: OUTPUT 1211.63-1219.32: From a profitability standpoint, in the fourth quarter we deliver a Q4, a strong operating margin of 36.8%. 
+asr:0: OUTPUT 1220.18-1229.03: This was well aligned with our guidance of 36.4 when taking into account the currency impacts of 40 basis points. 
+asr:0: OUTPUT 1230.29-1236.96: EPS grew 17% to $0.29 compared to our guidance of $0.27 to $0.28. 
+asr:0: OUTPUT 1238.92-1243.34: Few words on the headcount, it's an important topic. I know you have questions usually on this. 
+asr:0: OUTPUT 1244.00-1252.17: So in terms of headcount, we are well aligned with our objectives. We saw strong eye-ring activity again in Q4 and lower attrition. 
+asr:0: OUTPUT 1252.69-1257.42: And overall, headcount grew 4% and research and development was up 6%. 
+asr:0: OUTPUT 1258.36-1262.76: So I think given our track record of innovation and our mission-driven culture,. 
+asr:0: OUTPUT 1262.90-1271.71: We are confident in our ability to continue to attract and retain top talents over the mid to long term and this is still a priority for 2020. 
+asr:0: OUTPUT 1273.23-1279.76: Let's take a deep dive into our revenue performance first, and let's zoom on the software revenue by geo. 
+asr:0: OUTPUT 1281.74-1291.01: The Americas grew 7% during the fourth quarter, driven by solid subscription growth, which is a definitively key trend in North America. 
+asr:0: OUTPUT 1291.93-1299.06: In 2021, the regions benefited from strong performance in high tech, transportation and mobility and life sciences at large. 
+asr:0: OUTPUT 1299.72-1303.54: And now, Americas represents 38% of the total software revenue. 
+asr:0: OUTPUT 1305.03-1310.59: Europe increased 10% thanks to a strong resiliency throughout the regions. 
+asr:0: OUTPUT 1311.69-1316.62: And in 2021, transportation and mobility and industrial equipment grew double digits. 
+asr:0: OUTPUT 1317.78-1322.20: Europe represented 37% of software revenue in 2021. 
+asr:0: OUTPUT 1323.72-1330.17: Asia rose 12%, driven by market expansion in Japan, India and Southeast Asia. 
+asr:0: OUTPUT 1331.05-1338.12: And in 2021, China grew 19% and Asia at large represent 25% of the software revenue. 
+asr:0: OUTPUT 1339.56-1341.66: Let's see a few words on the product line performance. 
+asr:0: OUTPUT 1343.24-1350.91: Industrial innovation software revenue rose 8% to $682.3 million in Q4. 
+asr:0: OUTPUT 1352.61-1359.08: This growth has been driven specifically by Simulia and Delmia, where the growth is exceeding the double digits. 
+asr:0: OUTPUT 1359.64-1364.80: And it's mainly due to a large part to large client wins we did in Q4. 
+asr:0: OUTPUT 1366.03-1371.63: Inovia showed also a strong subscription growth, which is, again, a new trend. 
+asr:0: OUTPUT 1372.11-1378.12: And I think this subscription model is relatively suitable for all the collaborative set of solutions we have. 
+asr:0: OUTPUT 1379.34-1386.17: And Catia, finally, is back to 2019 levels. So I think we are again on our trajectory. 
+asr:0: OUTPUT 1387.73-1393.97: Life Sciences software revenue reached 245.1 million in Q4, an increase of 9%. 
+asr:0: OUTPUT 1395.30-1400.16: MediData grew over 15% on the back of a strong comparison base, if you remember. 
+asr:0: OUTPUT 1401.26-1405.67: And we continue to see a very good momentum across the Mediadata portfolio. 
+asr:0: OUTPUT 1405.69-1408.79: Including MediData RAVE, the core product. 
+asr:0: OUTPUT 1409.37-1419.82: MediData AI, the diversification in the analytics and artificial intelligence, and MediData Passion Cloud, which is de facto standard for the decentralized clinical trials. 
+asr:0: OUTPUT 1422.20-1428.81: This momentum is also visible in all across the hand markets we are serving. 
+asr:0: OUTPUT 1429.01-1437.18: So not only the pharmaceutical and biology companies, but also the contract research organization and the medical devices companies. 
+asr:0: OUTPUT 1438.44-1439.56: So we saw. 
+asr:0: OUTPUT 1439.58-1448.97: High double digit growth in attached rate against this quarter, which is extremely important because not only we are capturing new customers, but we are growing inside those customers. 
+asr:0: OUTPUT 1450.17-1459.12: From a product line perspective, we saw strong metadata performance was partially offset somewhat by a lower than expected bioVR revenue. 
+asr:0: OUTPUT 1460.52-1469.27: This was driven by the delay of two large renewals, but we expect to sign both renewals during the first half, so it's really a temporary impact. 
+asr:0: OUTPUT 1471.05-1485.85: If we step back a little bit, you know, we are one year after we have decided to create the life science engagement model, which is nothing more than combining all the different capabilities and resources we have to address this market. 
+asr:0: OUTPUT 1486.91-1495.68: And this has been done through the leadership of the Mini Data Management Team, especially Michael Prey. And for that, Michael, thank you. You did extremely well. 
+asr:0: OUTPUT 1497.58-1503.74: And now we are confident that this being in place, with the strategy we have to provide life science. 
+asr:0: OUTPUT 1503.76-1510.07: Industry, an end-to-end solution that connects dots between ideation, development, manufacturing, commercialization. 
+asr:0: OUTPUT 1510.41-1518.70: Almost what we did in other industries like aerospace decades ago, I think it's pretty unique on the marketplace and we will make the differentiation. 
+asr:0: OUTPUT 1520.10-1523.52: Moving now on to the mainstream innovations. 
+asr:0: OUTPUT 1523.62-1530.51: Software revenue rose 14% to $312.2 million in Q4. 
+asr:0: OUTPUT 1531.41-1537.20: SolidWorks first delivered a strong result with software revenue growing high single digits. 
+asr:0: OUTPUT 1537.22-1541.46: And we continue to see adoptions of our 3DEXPERIENCE works family. 
+asr:0: OUTPUT 1541.48-1543.96: The cloud-based solutions during this period. 
+asr:0: OUTPUT 1545.39-1553.29: Centric PLM is performing extremely well with high double digit, I should say close to triple digit revenue growth. 
+asr:0: OUTPUT 1554.53-1563.32: And not only it's delivering the numbers, but in terms of KPIs, we are now reaching more than 550. 
+asr:0: OUTPUT 1563.34-1570.11: Customers representing more than 4,500 brands and with an extremely high level of satisfaction. 
+asr:0: OUTPUT 1570.99-1579.76: Not only it's true in the fashion industry, but since almost two years, Centric PLM, thanks to Chris Groff. 
+asr:0: OUTPUT 1580.42-1588.87: Is expanding into new verticals such as food and beverage, cosmetic and personal care, and other consumer segments. 
+asr:0: OUTPUT 1589.65-1594.21: So again, very pleased by this move and it's paying off. 
+asr:0: OUTPUT 1596.30-1599.08: Good result is also when the strategy is working. 
+asr:0: OUTPUT 1599.64-1603.08: And as you know, we have two KPIs to measure this. 
+asr:0: OUTPUT 1603.46-1613.39: The first one is the drag coming from the 3D experience and for the full year, for 2021, the 3D experience revenue was 15%. 
+asr:0: OUTPUT 1614.19-1616.22: Driven by strong substituent growth. 
+asr:0: OUTPUT 1616.64-1624.28: And now it accounts for 30% of the total software revenue, which is an increase of 200 basis points compared to last year. 
+asr:0: OUTPUT 1625.51-1632.69: In 2021, the cloud revenue, which is the other one, KPI we are monitoring, increased 23%. 
+asr:0: OUTPUT 1632.73-1640.70: Driven by the continual length in life sciences, of course, but not only, but also and more and more by the 3D experience. 
+asr:0: OUTPUT 1641.46-1647.43: And cloud now accounts for 20% of our software revenue, at 200 business pounds compared to last year. 
+asr:0: OUTPUT 1649.79-1666.01: All the clients you know we have across all the sectors are transforming extremely rapidly and they are turning to Dassault's system to help them to adopt new business model, accelerate innovation, embracing sustainability imperatives, putting consumer, patient and citizen at the center of experience. 
+asr:0: OUTPUT 1666.59-1675.80: And our strategy is really to enable those transformations with cloud native applications or cloud extension to an existing on-premise investment. 
+asr:0: OUTPUT 1675.84-1679.32: And our 3DEXPERIENCE platform has been developed to make both. 
+asr:0: OUTPUT 1681.40-1687.27: All those good results are also reflected in the cash flow. 
+asr:0: OUTPUT 1687.29-1696.90: And for the fiscal year 2021, the cash flow from operations rose 30% year over year to 1,613,000,000. 
+asr:0: OUTPUT 1696.92-1701.70: Which is converting 33% of the revenue to operating cash flow. 
+asr:0: OUTPUT 1703.66-1710.01: The cash reached a little bit less than 3 billion, 2 billion 980 million. 
+asr:0: OUTPUT 1710.35-1716.70: An increase of 831 million versus an increase of 204 million last year. 
+asr:0: OUTPUT 1718.26-1727.27: And finally, our net financial debt position at the end of the year decreased by $1,152,000,000. 
+asr:0: OUTPUT 1727.29-1732.23: To less than 900 million, to be precise 890 million. 
+asr:0: OUTPUT 1733.75-1741.30: And it has to be compared with the 2.4 billion we had in December 31st in 2020. 
+asr:0: OUTPUT 1742.28-1750.05: This, in a net, is putting us a year, more than a year in fact, ahead of our schedule on our deliveraging objectives. 
+asr:0: OUTPUT 1751.95-1754.59: Now to discuss the 2022 objectives. 
+asr:0: OUTPUT 1754.67-1760.86: I'm very pleased to introduce Reuven Beckmann, our new Chief Financial Officer, and as Bernard mentioned,. 
+asr:0: OUTPUT 1760.88-1766.39: Ruven has played a vital role in integrating MediData and it has been a real pleasure to work together. 
+asr:0: OUTPUT 1766.69-1770.33: For the last two years and it's a successful partnership, I think. 
+asr:0: OUTPUT 1770.67-1774.57: So, Rouven, we are delighted to have you with us. Rouven, you have the floor. 
+asr:0: OUTPUT 1775.66-1784.26: Thank you, Pascal, and hello everyone also from my side. And before I would start to outline the financial objectives for 2022,. 
+asr:0: OUTPUT 1785.19-1792.15: I also want to share that I'm thrilled and very happy to be here today with you in this new role. 
+asr:0: OUTPUT 1793.65-1801.66: I've really enjoyed the opportunity to meet with some of you already and learn from many colleagues at Dassault Systems, in particular you, Pascal, since the acquisition of MediData. 
+asr:0: OUTPUT 1802.72-1806.83: Which, as you know, we've completed more than two years ago. 
+asr:0: OUTPUT 1808.21-1817.10: And now, with the successful integration, I'm looking forward to getting to know all of you and the broader investment community during this year. 
+asr:0: OUTPUT 1818.30-1820.28: And I know we already have concrete plans to do that. 
+asr:0: OUTPUT 1821.54-1827.35: So with this, let me turn to the Full Year Financials for 2022, our financial objectives. 
+asr:0: OUTPUT 1829.53-1837.74: As discussed, we expect the broad-based dynamics we experienced in the fourth quarter and 2021 to continue into 2022. 
+asr:0: OUTPUT 1839.06-1842.44: You're focused on driving durable, long-term growth. 
+asr:0: OUTPUT 1843.50-1853.41: Our growth drivers are well established as highlighted by Bernard and Pascal. First, we are enhancing our leadership position across our major brands. 
+asr:0: OUTPUT 1854.53-1864.06: Second, we are accelerating the momentum with 3D experience and industry solution experiences. And we are bringing new customers as well expanding within our installed base. 
+asr:0: OUTPUT 1865.21-1869.43: And third, we are focused on delivering new experience and value with cloud. 
+asr:0: OUTPUT 1870.27-1874.39: So we will continue the momentum of MediData and MediData Patient Cloud. 
+asr:0: OUTPUT 1875.08-1887.05: We will also expand the user base with the 3DEXPERIENCE WORX family in the mainstream market and deliver new value at scale with large enterprise partnerships like what you see. 
+asr:0: OUTPUT 1887.07-1889.93: Happening with Renault or Buick construction. 
+asr:0: OUTPUT 1891.71-1896.70: Now with this in mind, we are targeting for full year 2022. 
+asr:0: OUTPUT 1896.72-1902.20: Total revenue growth of 9 to 10 percent and software revenue growth in the same range. 
+asr:0: OUTPUT 1903.24-1905.69: When thinking about our software revenue growth,. 
+asr:0: OUTPUT 1906.25-1915.68: Let's keep in mind that last year we had a very strong year of license growth with 23% year on year, which brought us back ahead of 2019 levels. 
+asr:0: OUTPUT 1916.74-1924.06: And now for this year, we expect to continue healthy double-digit growth at around 10% of up to 12%. 
+asr:0: OUTPUT 1924.34-1927.33: Which reflects continued strong demand within our installed base. 
+asr:0: OUTPUT 1928.33-1933.39: This trend is more in line with what we saw, our performance in the fall quarter. 
+asr:0: OUTPUT 1935.18-1944.50: We anticipate recurring software revenue to increase by 9 to 9.5 percent, an acceleration of 100 to 150 basis points versus last year. 
+asr:0: OUTPUT 1945.25-1950.85: Driven by continued momentum and subscription growth with cloud and solid improvement in support revenue. 
+asr:0: OUTPUT 1951.11-1955.78: Also resulting from the very good license growth we experienced throughout last year. 
+asr:0: OUTPUT 1957.12-1968.87: For services revenue, we are projecting to grow between 8% to 9%, reflecting the increased activity levels of delivering innovation to our clients across all segments with solid margin performance. 
+asr:0: OUTPUT 1971.27-1980.52: From a profitability perspective, this past year we demonstrated the long-term scalability inherent to our business model. 
+asr:0: OUTPUT 1981.52-1990.95: As we said throughout 2021, we plan to accelerate investments into our business and re-engage in activities which were impeded by the pandemic. 
+asr:0: OUTPUT 1991.69-1998.10: Accelerating the growth in our workforce in line with our long-term plan is our top priority. 
+asr:0: OUTPUT 1999.02-2006.65: And as such, we anticipate the non-IFRS operating margin to be in the range of 32.7% to 33.1%. 
+asr:0: OUTPUT 2006.87-2010.99: Again, this is consistent with our prior communication. 
+asr:0: OUTPUT 2013.13-2016.34: Now let me continue with our proposed objectives for earnings per share. 
+asr:0: OUTPUT 2016.88-2023.16: We expect non-IFRS EPS to grow between 3-6%, reaching 1 EUR at the high end. 
+asr:0: OUTPUT 2023.94-2031.13: This EPS guidance assumes a tax rate in line with 2021 levels of about 23.2%. 
+asr:0: OUTPUT 2031.39-2036.44: Our financial objectives assume a EUR to USD conversion of 1.17. 
+asr:0: OUTPUT 2038.30-2042.68: Now I will provide some additional color on what to expect for Q1. 
+asr:0: OUTPUT 2043.68-2049.77: As you are aware, our business has some seasonality and we expect to see growth rates progressing throughout the year. 
+asr:0: OUTPUT 2050.55-2059.74: We expect Q1 total revenue growth of 7-9%, with software revenue increasing in the same range and services revenue up 5-7%. 
+asr:0: OUTPUT 2059.76-2063.48: Driven by continued broad-based momentum across our geos. 
+asr:0: OUTPUT 2064.36-2074.01: We expect the operating margin at a range of 32.3 to 33 percent with an EPS growth of 3 to 7 percent versus last year. 
+asr:0: OUTPUT 2075.40-2077.64: As you heard from us during this call. 
+asr:0: OUTPUT 2078.76-2087.09: They're confident in the long-term opportunity ahead, and we look forward to keeping you appraised of our progress throughout the year. 
+asr:0: OUTPUT 2088.17-2096.12: And now, Pascal, I'll hand the call back to you. Thank you, Robert. So to summarize, I think the stage is set for the future growth. 
+asr:0: OUTPUT 2097.14-2101.44: On one hand, our long-term strategic vision has been validated. 
+asr:0: OUTPUT 2102.16-2106.53: Investments we made 10 years ago to an end, the experience economy are paying off. 
+asr:0: OUTPUT 2107.43-2116.82: And whatever you take the platform, the virtual twin experiences, the industry solution we have in the cloud, they are durable competitive advantage. 
+asr:0: OUTPUT 2117.74-2124.16: In parallel, that's what Bernard said, we are helping our clients also to transform to a sustainable economy. 
+asr:0: OUTPUT 2124.76-2131.11: And this is becoming an affordable and significant opportunity to deepen and expand our partnership and our impact. 
+asr:0: OUTPUT 2132.25-2140.96: This, if you combine the two, will be a strong secular driver to underpinning growth across all the three sectors of the economy we are serving. 
+asr:0: OUTPUT 2142.00-2149.11: In addition to this, I think we have the right leadership in place to execute against the tremendous opportunity before us. 
+asr:0: OUTPUT 2149.13-2157.48: And we, our commitment to clients to drive our strategy will continue and we thank them for their continued trust. 
+asr:0: OUTPUT 2158.48-2166.31: So finally, I think Rowan and I will be extremely pleased to see you in person, when we will have the ability to go back on the road. 
+asr:0: OUTPUT 2166.53-2170.03: But I think it has been so long when we haven't seen each other. 
+asr:0: OUTPUT 2171.41-2180.74: I think Bernard, Rouguen, Tarek, of course, you maybe the time to take the questions. 
+asr:0: OUTPUT 2184.92-2195.12: Thank you. Dear participants, we'll now begin the question and answer session. As a reminder, if you wish to ask a question, please press star and one on your telephone keypad and wait for your name to be announced. 
+asr:0: OUTPUT 2199.46-2204.90: The first question comes from Nicholas David from Odo BHF. Please ask your question. 
+asr:0: OUTPUT 2206.43-2214.21: Yes, hi. Good afternoon, Bena, Pascal, and Ruven. And Ike as well, obviously. Thank you for taking my question. 
+asr:0: OUTPUT 2215.64-2217.74: My first one is regarding license gross. 
+asr:0: OUTPUT 2218.88-2225.85: You anticipate a double digit growth of licenses in 2022, so for the second year in a row. 
+asr:0: OUTPUT 2226.49-2234.01: So congrats for that because I think that was an ambition to sustain such a growth, the budget growth of licenses. 
+asr:0: OUTPUT 2235.08-2240.18: My first question is, do you think that such growth is sustainable beyond 22? 
+asr:0: OUTPUT 2240.86-2247.67: And if so, do you think that this improved growth trend in licenses. 
+asr:0: OUTPUT 2247.75-2255.08: Is more linked to the momentum of your product cycle, so internal to your company, or more linked to. 
+asr:0: OUTPUT 2255.10-2259.24: The consequences of the centi-crisis we are living right now. 
+asr:0: OUTPUT 2259.62-2264.04: And it's more macro impact you are benefiting of. 
+asr:0: OUTPUT 2264.78-2269.87: And my second question is still regarding licenses and sales. 
+asr:0: OUTPUT 2270.21-2278.90: Several software players, including some of your competitors, mentioned that the difficulties the client has had in hiring. 
+asr:0: OUTPUT 2278.92-2282.50: Have led to some delays in launching projects. 
+asr:0: OUTPUT 2282.52-2285.43: And having negative impact on life itself. So my question is,. 
+asr:0: OUTPUT 2285.91-2294.81: To what extent you may suffer from this kind of impact regarding your license sales in the coming quarters. Thank you. 
+asr:0: OUTPUT 2300.00-2307.73: Happy to. So I think the best way to conceptualize this, Nicolas, thank you for the question. 
+asr:0: OUTPUT 2308.25-2316.36: Yes, we had in 2021 very strong license performance with 23% for the full year. 
+asr:0: OUTPUT 2317.94-2322.06: And of course, this was versus a lower comparable base in 2020. 
+asr:0: OUTPUT 2322.64-2328.13: Q4 of 15% growth against I think a... 
+asr:0: OUTPUT 2328.15-2333.65: A good comparability, you know, Q4 of 2020, we saw the rebound starting to happen. 
+asr:0: OUTPUT 2334.33-2339.20: And so it was a real proof point for us in the fourth quarter to achieve double-digit growth. 
+asr:0: OUTPUT 2339.64-2346.59: And that trend is what we continue to forecast into 2022 with 10 to 12%. 
+asr:0: OUTPUT 2347.39-2354.11: And I think the sources of growth that supports, that underpins this assumption. 
+asr:0: OUTPUT 2354.13-2361.50: Is that we have well established an operating model between CAPEX and OPEX for our customers. 
+asr:0: OUTPUT 2361.92-2370.57: We are serving industries where we have significant installed bases that are transforming to the cloud, to the subscription model, but it will take time. 
+asr:0: OUTPUT 2371.63-2375.42: And we are committed to support our customers. 
+asr:0: OUTPUT 2376.78-2383.92: And support them in a way where their preferences are in terms of how they want to spend and make the investments. 
+asr:0: OUTPUT 2385.19-2393.65: These are very sticky investments, very long term relationships where our customers are capitalizing on their investments for decades. 
+asr:0: OUTPUT 2394.17-2398.50: That we continue to innovate and. 
+asr:0: OUTPUT 2398.72-2408.71: And further drive value. And I think with the 3D experience and the Power BI extension that we deliver, we make these investments also really valuable and ready for the future. 
+asr:0: OUTPUT 2409.73-2413.39: On the second part of the question, Pascal, if I may,. 
+asr:0: OUTPUT 2413.61-2419.84: On is the client hiring challenge having an impact on our license. 
+asr:0: OUTPUT 2420.22-2426.13: We see the total opposite way because the nature of our audience is changing. 
+asr:0: OUTPUT 2427.51-2431.93: Four years we've been, and we continue to focus on engineering, production. 
+asr:0: OUTPUT 2432.31-2440.70: But now, with the 3D experience platform, we also reach supply management, costing, and many other functions within the company. 
+asr:0: OUTPUT 2441.02-2448.31: The example at Renault is really amazing in terms of size, at Toyota Motor also, and many other clients that I could name. 
+asr:0: OUTPUT 2448.85-2457.40: So the intent with the platform phenomenon, the 3D experience platform, is to reach audiences that we. 
+asr:0: OUTPUT 2457.42-2459.08: Could not reach before. 
+asr:0: OUTPUT 2460.00-2466.87: As a matter of fact, you know, the 3D experience collaborative environment. 
+asr:0: OUTPUT 2467.33-2476.38: Is now being used by clients to evaluate materials, cost, weight, supply efficiency,. 
+asr:0: OUTPUT 2478.02-2487.75: All based on the 3D universe, not on number of dashboards, but on the real product itself or the way you produce it. 
+asr:0: OUTPUT 2488.19-2490.15: So we see this as a... 
+asr:0: OUTPUT 2490.17-2499.88: As a long-lasting growth factor. Pascal mentioned that it's noticeable even with our business applications that we call. 
+asr:0: OUTPUT 2500.00-2502.00: Are under the category of Inovia. 
+asr:0: OUTPUT 2502.52-2510.73: Where we deliver business experiences or program management, project management, costing, even for ESG reporting. 
+asr:0: OUTPUT 2510.81-2515.16: Or CO2 reporting because the platform has this capability. 
+asr:0: OUTPUT 2515.48-2517.54: So we don't see the negative effect. 
+asr:0: OUTPUT 2520.70-2524.18: That's very clear. Thank you. And maybe one very quick follow-up from my side. 
+asr:0: OUTPUT 2524.36-2528.55: Is we understand that you increase salaries. 
+asr:0: OUTPUT 2528.57-2536.10: To reduce attrition a bit, but do you think that you need also to increase the volume of shares granted? 
+asr:0: OUTPUT 2536.12-2538.64: To employ it in order to reduce further the attrition. 
+asr:0: OUTPUT 2539.14-2541.60: So any insight about... 
+asr:0: OUTPUT 2542.96-2545.27: If I can announce that the Vice Chairman of the Board. 
+asr:0: OUTPUT 2546.81-2550.55: Because that's not on the budget side, it's on the shoulder side. 
+asr:0: OUTPUT 2553.75-2558.70: No, I think we have a very stable, predictable. 
+asr:0: OUTPUT 2560.00-2569.09: Portfolio of allocation and we think that it provides a good compelling incentive for people. 
+asr:0: OUTPUT 2569.39-2573.71: And we created this together model last year. 
+asr:0: OUTPUT 2574.67-2583.84: Which was really to provide an option for people to buy shares at a certain discount on guaranteed result over a certain number of years. 
+asr:0: OUTPUT 2584.10-2589.41: Very successful program, but we integrated. 
+asr:0: OUTPUT 2589.43-2597.20: Integrated that allocation as part of the overall policy so there is no deviation I would say. 
+asr:0: OUTPUT 2597.84-2606.39: Pascal, if you want to add something. No, I think, well, you know, Nicolas, it's not the first time we discuss this. I think we are extremely, we have a lot of discipline on this. 
+asr:0: OUTPUT 2607.51-2617.34: Why so? Because if you want this to be long term and not only a one-off, you need to integrate it in your business model. 
+asr:0: OUTPUT 2618.20-2627.23: If I compare with the competitors or the peers, usually they allocate an envelope which could be sometimes three times bigger. 
+asr:0: OUTPUT 2628.55-2631.15: However, I think it's not sustainable over the time. 
+asr:0: OUTPUT 2631.71-2636.80: Especially if you look at, at the end, how much of the operating profit goes through this. 
+asr:0: OUTPUT 2637.18-2644.08: I think, do your job, do the sanity check, you will see it's balanced, it's fair, it's. 
+asr:0: OUTPUT 2644.52-2649.73: Durable and sustainable and that's basically our philosophy and our principle. 
+asr:0: OUTPUT 2650.59-2656.00: So you could count on us to continue what we did in the same manner. 
+asr:0: OUTPUT 2659.24-2662.42: Thank you and congrats for the impressive set of results. 
+asr:0: OUTPUT 2663.42-2670.51: Thank you, Nicolas. Thank you. The next question comes from Charles Brennan from Jeffries. Please ask your question. 
+asr:0: OUTPUT 2672.65-2676.10: Great, good afternoon, thanks for taking my question, hopefully a second time, lucky. 
+asr:0: OUTPUT 2679.60-2689.07: Across the industry we're seeing this cloud momentum gather pace and it's referenced in your statement with some of your legacy customers moving to the cloud. 
+asr:0: OUTPUT 2689.37-2693.71: I was wondering if I could ask four questions related to the cloud. 
+asr:0: OUTPUT 2694.55-2698.32: The first of which is just in terms of your product portfolio. 
+asr:0: OUTPUT 2698.60-2705.49: Can you remind us how much is native cloud versus available on the cloud via extensions? 
+asr:0: OUTPUT 2707.15-2717.00: Secondly, I think you traditionally said that the move to the cloud or growth in the cloud would be largely incremental to your core business, but. 
+asr:0: OUTPUT 2717.02-2723.20: Certainly this morning you were talking about product lines like Anavia and SolidWorks moving to the cloud. 
+asr:0: OUTPUT 2723.72-2726.67: Those are both traditional licensed product lines. 
+asr:0: OUTPUT 2727.07-2735.58: And I'm just wondering if we're starting to get to the stage where you're starting to see traditional licenses cannibalized by the clout. 
+asr:0: OUTPUT 2737.00-2742.66: Thirdly, it feels like some of your competitors are being a little bit more progressive in driving this agenda. 
+asr:0: OUTPUT 2743.22-2750.01: I'm just wondering what it would take for you to be a little bit more proactive in enforcing a shift to the cloud. 
+asr:0: OUTPUT 2750.53-2759.74: You're obviously doing that in the life sciences vertical. I guess Reuven's well-placed to manage a more progressive cloud transition. 
+asr:0: OUTPUT 2760.24-2763.52: I'm just wondering what the catalyst would be for you to go down that route. 
+asr:0: OUTPUT 2764.38-2772.21: And very lastly, on M&A, I guess traditionally we see a bigger transaction from Dassault every couple of years. 
+asr:0: OUTPUT 2772.77-2776.04: I guess we must be getting into the window where we'll do the next one. 
+asr:0: OUTPUT 2776.50-2783.62: Should we assume that any future M&A from here will be of a cloud-based business model. 
+asr:0: OUTPUT 2784.38-2791.71: And is that one of the catalysts that's going to get you to the target of having thirty percent of the revenues in the cloud? Thank you. 
+asr:0: OUTPUT 2793.47-2797.16: We could do probably the rest of the call, huh? That's your question. 
+asr:0: OUTPUT 2798.38-2805.89: Charlie, but Bernard, you want to take the first one? I could comment on the product portfolio. On Pascal, of course, stepping. 
+asr:0: OUTPUT 2806.95-2811.51: First of all, we have reached a point where, first of all,. 
+asr:0: OUTPUT 2811.81-2818.04: The cloud approach for us, above all, is a way to reach new categories of users. 
+asr:0: OUTPUT 2819.90-2829.79: Second, the cloud approach for us is about providing new delivery system for the capabilities we have, roles, process, and solution. 
+asr:0: OUTPUT 2830.01-2834.61: Why? Having browser native services. 
+asr:0: OUTPUT 2835.66-2842.06: On mobile, tablets and PCs is a big thing for the nature of software we do. 
+asr:0: OUTPUT 2842.66-2848.17: On the IKEA story with 4 million users in a few months. 
+asr:0: OUTPUT 2848.61-2854.37: Is an illustration exactly of that. It's all going through browser-based. 
+asr:0: OUTPUT 2855.14-2861.34: Same as you mentioned, Charles, on the clinical trial. 
+asr:0: OUTPUT 2862.48-2871.43: But we are doing that also for design. And we are doing that, and as a matter of fact, the portfolio, in short, has reached a point where now. 
+asr:0: OUTPUT 2873.01-2878.64: There are more solutions, products and roles on the cloud native than we have on premise. 
+asr:0: OUTPUT 2880.00-2886.11: However, I want to make sure it's clear. We love the on-premise. 
+asr:0: OUTPUT 2888.19-2892.05: Their programs on the on-premise will become private clouds. 
+asr:0: OUTPUT 2893.19-2902.96: They will become absolutely private clouds. And we are going to do that, to do so with customers. In fact, we have started to do it for highly sensitive programs. 
+asr:0: OUTPUT 2903.74-2911.23: Because the value of doing that is so well recognized by clients. 
+asr:0: OUTPUT 2911.75-2918.42: So we value this hybridization to reach the audience. 
+asr:0: OUTPUT 2918.44-2930.81: And provide really a 3D for all approach that will make the difference and accelerate the platform phenomena across all functions. 
+asr:0: OUTPUT 2931.01-2935.64: If you think about people now doing supply negotiation,. 
+asr:0: OUTPUT 2935.92-2940.26: In the past, they were using ERP dashboards. 
+asr:0: OUTPUT 2941.04-2946.99: Now they are looking at the product itself and they have the price on the part and they know where it's sourced from. 
+asr:0: OUTPUT 2947.55-2953.57: It's a new world from there. We do metaverse before metaverse because they see what's happening. 
+asr:0: OUTPUT 2954.21-2959.44: So enough said, but I don't see cannibalization. I see massive complementarity. 
+asr:0: OUTPUT 2960.00-2961.74: On that on that point. 
+asr:0: OUTPUT 2962.64-2971.19: And just to echo what you say, Bernard, you were mentioning Enovia. Again, you still have time to understand what Enovia is about today. 
+asr:0: OUTPUT 2972.41-2975.74: Enovia is not anymore only the product lifecycle management capability. 
+asr:0: OUTPUT 2976.74-2980.24: It's, as Bernard said, a set of business applications. 
+asr:0: OUTPUT 2981.32-2983.86: Allowing the procurement to source. 
+asr:0: OUTPUT 2983.88-2993.47: To cost, to negotiate, to contract, allowing program managers to run their program, to do their review, to manage their supply chain. 
+asr:0: OUTPUT 2994.43-2999.30: This is what we are talking about, and it's an extension compared to what we used to do. 
+asr:0: OUTPUT 3000.28-3007.05: So that's just an example. And on SOLIDWORKS, we are talking about the WORKS family. We are not talking only about SOLIDWORKS. 
+asr:0: OUTPUT 3007.61-3013.23: In the works family, you have Simulia works, you have Denmia works, you have Enovia works. 
+asr:0: OUTPUT 3013.83-3021.22: And those set of services are not well deployed in the mainstream market right now. 
+asr:0: OUTPUT 3021.60-3028.45: By the way, on the Vox family, they are all cloud. There is no on-premise anymore. They are all cloud. 
+asr:0: OUTPUT 3028.97-3034.69: So that's the reason why it's really an extension and it's still an extension compared to. 
+asr:0: OUTPUT 3035.86-3038.44: There is maybe some overlap, but it's quite limited. 
+asr:0: OUTPUT 3038.90-3043.38: Now, coming back to what could be the shift to force the subscription model. 
+asr:0: OUTPUT 3044.56-3052.29: But that's not our way of thinking. We are here to serve our customers, to transform them, and to evolve their business model. 
+asr:0: OUTPUT 3052.91-3057.64: So what is the point to impose your business model when it's not aligned with your customer's business model? 
+asr:0: OUTPUT 3059.30-3065.95: Knowing at the end, license or subscription, we are doing good profitability with both. You will notice. 
+asr:0: OUTPUT 3067.07-3071.57: So I think our thinking process is much more... 
+asr:0: OUTPUT 3071.59-3077.62: The transformation of what we do will lead automatically to a subscription model. For many things we do,. 
+asr:0: OUTPUT 3077.80-3079.78: But we want to do it in concert. 
+asr:0: OUTPUT 3080.00-3083.18: With a lot of alignment with our customers. 
+asr:0: OUTPUT 3083.52-3087.15: That's, I think, making a big difference compared to many of our competitors. 
+asr:0: OUTPUT 3088.77-3091.69: And last but not least, the question related to MNA. 
+asr:0: OUTPUT 3092.53-3098.94: Yeah, I mean you notice that we will be the leverage almost in six months from now. 
+asr:0: OUTPUT 3099.10-3104.54: So which gives us the ability to do other moves if we want. 
+asr:0: OUTPUT 3106.29-3110.31: The cloud is not, I would say, the purpose. 
+asr:0: OUTPUT 3111.61-3121.16: The purpose is really to expand what we do, having the ability to expand the addressable market and maybe change the nature of what we do. 
+asr:0: OUTPUT 3122.18-3130.81: For example, if we want to focus on the data centricity of our solutions and technology, for sure the cloud is probably the way to do it. 
+asr:0: OUTPUT 3131.25-3133.53: But again, it's a means, it's not a goal. 
+asr:0: OUTPUT 3134.37-3144.06: So that's what I can say at this stage. It's probably too early to speak about it. And maybe, I don't know, at the time of the capital market day in June, we could probably discuss much more openly to this topic. 
+asr:0: OUTPUT 3147.39-3150.59: Thank you so much. 
+asr:0: OUTPUT 3151.53-3159.90: Thank you. The next question comes from Jay Blishauer from Griffin Securities. Please ask your question. 
+asr:0: OUTPUT 3162.02-3163.18: Thank you. Hello, everyone. 
+asr:0: OUTPUT 3164.80-3169.71: I'll ask all my questions at the same time, just given the time remaining on the call. 
+asr:0: OUTPUT 3171.15-3178.76: First, could you talk about the performance in 2021 and what your expectations might be? 
+asr:0: OUTPUT 3178.78-3185.67: For 2022 with respect to your two principal sales channels, which you now call CSE and CPE. 
+asr:0: OUTPUT 3185.69-3189.53: Formerly, BT and BS, of course. 
+asr:0: OUTPUT 3189.55-3197.76: Those two channels and anything you might be doing to investigate or alter perhaps either of those channels. 
+asr:0: OUTPUT 3198.78-3203.20: And secondly, one thing we see among a number of your principal competitors. 
+asr:0: OUTPUT 3203.22-3210.21: Is a implementation of or plan to implement a faster product release cadence. 
+asr:0: OUTPUT 3211.35-3214.55: We see this in both in CAD and PLM, for example. 
+asr:0: OUTPUT 3215.36-3223.96: And I'm wondering if in lieu of your historical summer and winter releases that you've done for many, many years,. 
+asr:0: OUTPUT 3224.34-3227.81: There might be some rationale for accelerating. 
+asr:0: OUTPUT 3228.13-3234.59: Your product release cadence, particularly in alignment with your cloudy business. 
+asr:0: OUTPUT 3236.08-3239.18: Fairly on 3DX. 
+asr:0: OUTPUT 3239.20-3244.16: One thing that seems to be occurring is that within the overall 3DX number, while. 
+asr:0: OUTPUT 3244.22-3247.93: I know Lea seems still to be the largest part of it as it's been. 
+asr:0: OUTPUT 3248.29-3251.93: Other brands like Katia B6 are growing their contributions. 
+asr:0: OUTPUT 3251.97-3262.10: If you could comment on that and whether you think that brands other than Inovia might eventually account for the majority of the 3DX business. And lastly, on 3DXworks. 
+asr:0: OUTPUT 3263.04-3266.27: I understand it's still quite early, of course, only six quarters in market. 
+asr:0: OUTPUT 3267.29-3270.19: But do you think that you have any visibility to... 
+asr:0: OUTPUT 3270.21-3274.83: Penetrating let's say more than 10% of the solid work space. 
+asr:0: OUTPUT 3274.85-3280.24: With 3DXworks and thereby make it an increasingly material business. Thank you. 
+asr:0: OUTPUT 3282.12-3284.74: A few clarifications, Pascal, if I may, I'll put... 
+asr:0: OUTPUT 3286.59-3295.50: First of all, Dassault's system is providing not any more functionalities, but we are providing roles, processes, on industry solutions. 
+asr:0: OUTPUT 3296.94-3305.91: So when we deliver roads, there is a price on the roads, there is a price on the process to do the job. And we do it by industry and industry separate. 
+asr:0: OUTPUT 3306.99-3310.53: This is unique. No one of the competitors are doing that. 
+asr:0: OUTPUT 3312.05-3320.50: So it's important to understand it. The second thing is, and then I will let Pascal comment on the general performance. 
+asr:0: OUTPUT 3321.60-3328.21: The second remark is we do six weeks cadence delivery on the cloud. 
+asr:0: OUTPUT 3329.13-3331.21: So Jay, please notice. 
+asr:0: OUTPUT 3331.23-3337.42: That for a large percentage of our install base, we are already there. 
+asr:0: OUTPUT 3337.48-3339.14: Every six weeks. 
+asr:0: OUTPUT 3339.16-3348.65: The world is getting new capabilities and it's working extremely well with an SLE which is very high. 
+asr:0: OUTPUT 3348.67-3350.43: On providing satisfaction. 
+asr:0: OUTPUT 3351.09-3352.97: Some large companies are already there. 
+asr:0: OUTPUT 3355.18-3360.02: We have taken the example of WIG, it's all cloud, 100%. 
+asr:0: OUTPUT 3360.76-3367.39: Renault for 3D collaborative environment suppliers. All cloud. Every six weeks, it's updated. 
+asr:0: OUTPUT 3367.89-3373.33: So we are already in a big way. All cloud are following that cadence. 
+asr:0: OUTPUT 3373.77-3377.90: So I think we are faster than most of the other players on that standpoint. 
+asr:0: OUTPUT 3378.40-3380.26: So just stop it for clarification. 
+asr:0: OUTPUT 3380.70-3389.43: On last remark, we don't count Katja on the 3D experience line. Or Sir Pascal and Ruben can explain more. 
+asr:0: OUTPUT 3389.71-3391.03: We can't catch a fog. 
+asr:0: OUTPUT 3391.13-3400.70: Here, we can tell me for them, yeah, each branch for what they are, no matter if they are independent, or if they are based on the 3d experience platform. 
+asr:0: OUTPUT 3400.92-3406.01: So we continue to keep that integrity in the way we report. 
+asr:0: OUTPUT 3406.65-3413.39: Now, one last thing about the 3DEXPERIENCE works. It should be noticed that outside, so it works. 
+asr:0: OUTPUT 3413.67-3419.72: Everything new is native cloud. Similia works is native cloud. 
+asr:0: OUTPUT 3420.24-3422.80: On only cloud for Solidware customers. 
+asr:0: OUTPUT 3423.30-3430.91: And we have also now a full suite of solid works functionalities. 
+asr:0: OUTPUT 3430.93-3434.03: That are delivered on a browser. 
+asr:0: OUTPUT 3434.05-3438.82: And this explains the incredible success of cloud in China. 
+asr:0: OUTPUT 3439.88-3442.70: Believe it or not, more than in every other country. 
+asr:0: OUTPUT 3442.86-3447.89: Because I think in China we have the approval to run cloud. 
+asr:0: OUTPUT 3447.93-3453.01: Our own licenses and really distribute it in a big way. 
+asr:0: OUTPUT 3453.17-3457.60: So that's all what I wanted to clarify. And Pascal, maybe you want to do some more. 
+asr:0: OUTPUT 3457.98-3460.16: On the channel. Maybe I can see if you work. 
+asr:0: OUTPUT 3460.20-3470.73: So first of all, the best way to assess the performance of the channel is really to look at the incremental revenue and the license is still probably a good indicator. 
+asr:0: OUTPUT 3470.79-3473.37: Across all the different engagement models. 
+asr:0: OUTPUT 3474.35-3480.52: So if you follow me on this, all of them are growing higher than 20%. 
+asr:0: OUTPUT 3482.26-3485.43: So when I say it's a broad base, it's really a broad base. 
+asr:0: OUTPUT 3486.53-3494.31: And it's what we call the process channel, which has the best performance in terms of new license this year. 
+asr:0: OUTPUT 3495.60-3497.04: In 2021. 
+asr:0: OUTPUT 3497.34-3501.04: So by being much more close to 30 than 20%. 
+asr:0: OUTPUT 3502.88-3507.93: So, and it's not a surprise when you think about it because during the pandemic,. 
+asr:0: OUTPUT 3508.63-3513.27: But the direct cells resisted relatively well, the mainstream, the theory also. 
+asr:0: OUTPUT 3513.87-3522.74: But the process, the supply chain, we are really the one being under pressure and we have been able to almost catch up the lack in 2020, in 2021. 
+asr:0: OUTPUT 3523.78-3526.15: So I think we are relatively on a good path. 
+asr:0: OUTPUT 3527.23-3533.23: To complement what Bernard said on the 3D experience distributed across all the brands,. 
+asr:0: OUTPUT 3534.47-3543.26: You have to be a little bit careful. This is true that for Enovia, almost two-thirds of the revenue of Enovia is 3D experience based. 
+asr:0: OUTPUT 3544.28-3549.99: But it's a third, more than a third for Delmia, also for Keitia. So it's not the only one. 
+asr:0: OUTPUT 3553.75-3559.36: Okay, if I may quickly, my annual question on SOLIDWORKS unit volume. 
+asr:0: OUTPUT 3559.84-3564.26: My calculation is that it looks like your 2021 SOLIDWORKS. 
+asr:0: OUTPUT 3564.28-3570.61: New commercial seat volume was similar to, perhaps slightly better than where you were in 2019. 
+asr:0: OUTPUT 3570.71-3576.38: So perhaps just around 76,000 or so. So not quite back to where you were in 2018 just yet. 
+asr:0: OUTPUT 3578.20-3583.74: This is true, but with one big difference, the average seed price increased. 
+asr:0: OUTPUT 3585.43-3591.23: Which means we are more and more capable to enrich the package. 
+asr:0: OUTPUT 3592.03-3601.68: And one of the reasons you should remember, Jay, I would say 60% of the units are coming from existing customers. 
+asr:0: OUTPUT 3602.72-3608.35: So they are the ones not buying anymore the base package, are the ones buying the full package. 
+asr:0: OUTPUT 3609.15-3616.62: That's basically the reason why also you have such a growth. It's a combination of units and average unit price. 
+asr:0: OUTPUT 3619.96-3625.29: Okay, also by the way, thank you for the headcount and hiring comments. That's always useful insight. 
+asr:0: OUTPUT 3626.91-3635.06: Thank you, Jeff. By the way, you will have a neighbor because Rouven's family is still in New York for a few months. 
+asr:0: OUTPUT 3635.82-3639.84: And he will probably fly to New York in the coming weeks. 
+asr:0: OUTPUT 3642.88-3647.71: I'll pick you up at the airport. Okay. Maybe later for a coffee. 
+asr:0: OUTPUT 3651.65-3657.82: Thank you. The next question comes from Nils Tierre from Redburn. Please ask your question. 
+asr:0: OUTPUT 3659.26-3668.85: I just have a couple of quick ones. The first one is just looking at sales and marketing expenses and I suppose the OPEX cost ratios in general. 
+asr:0: OUTPUT 3669.61-3674.59: Quite clearly as we've gone through the pandemic because of travel and also hiring. 
+asr:0: OUTPUT 3676.04-3683.94: You're running with sales marching at around about 300 to 400 basis points below where we were sort of pre-pandemic. 
+asr:0: OUTPUT 3684.60-3692.49: I'm just wondering, would you expect over the next couple of years for that to pick up to closer to the 29-30%? 
+asr:0: OUTPUT 3692.51-3701.18: Are there structural reasons as to why henceforth sales and marketing should be at a structurally lower level? 
+asr:0: OUTPUT 3701.22-3702.38: Well, that's the first question. 
+asr:0: OUTPUT 3704.22-3713.99: Neil Pascal will answer to these questions. So, you know, as the chief operating officer, I learned something during the pandemic. 
+asr:0: OUTPUT 3714.75-3724.22: We have been capable to grow without having more resources. And believe it or not, we have increased dramatically the productivity. 
+asr:0: OUTPUT 3725.63-3731.35: If I compare to 19, it's per head, per salespeople, it's more than 11%. 
+asr:0: OUTPUT 3733.27-3739.86: So why I'm saying this? Because it's going to be a combination between obviously more resources. 
+asr:0: OUTPUT 3740.00-3746.55: Because we need to reinforce the coverage we have in certain regions of the world or certain verticals. 
+asr:0: OUTPUT 3747.33-3754.21: At the same time, I still believe we can continue to improve productivity. 
+asr:0: OUTPUT 3754.79-3763.30: Maybe not at this level every year, but at least a few percentage points is probably something we could be able to achieve. 
+asr:0: OUTPUT 3763.84-3765.11: So... 
+asr:0: OUTPUT 3765.13-3771.73: And this will give probably the ability for us to finance a different go-to market. 
+asr:0: OUTPUT 3773.13-3780.58: Because we are talking about the traditional one, but there are activities where we need to invest because it's a different way to go to market. 
+asr:0: OUTPUT 3780.90-3783.48: It's still embryonic and we still need to invest. 
+asr:0: OUTPUT 3784.12-3790.89: So the net is, it will not be maybe, not have a big difference. 
+asr:0: OUTPUT 3791.47-3797.30: However, we have some lever to expand the different nature of the go-to packet we have. 
+asr:0: OUTPUT 3798.76-3799.98: That's probably the way. 
+asr:0: OUTPUT 3802.04-3809.11: So just to clarify, are you suggesting that we will see quite a, over the next couple of years, sales and marketing cost ratio will... 
+asr:0: OUTPUT 3809.13-3812.71: Go back up but perhaps not back up to the 30% level or. 
+asr:0: OUTPUT 3813.11-3816.26: Suggesting it's more sustainable at the sort of 25, 26, 27? 
+asr:0: OUTPUT 3816.32-3823.42: No, no, it will increase because I say to you, we did not hire almost one single person each one last year. 
+asr:0: OUTPUT 3824.70-3826.29: It's not sustainable. 
+asr:0: OUTPUT 3827.23-3836.34: However, if you do the math, you have to include some productivity effects because we had some productivity the last two years. 
+asr:0: OUTPUT 3837.14-3844.28: And now it's part of my duty to make sure that we grow the coverage, but at the same time we are also improving the productivity. 
+asr:0: OUTPUT 3846.97-3856.28: Thank you. And just zeroing in on life sciences, obviously taking all of the commentary together with regards to the growth in meditation and so forth. 
+asr:0: OUTPUT 3856.98-3863.00: It looks as though the softness that you saw in Q4 was quite clearly with the original accelerant distances. 
+asr:0: OUTPUT 3863.84-3867.69: Is that a little bit surprising? That's more on the discovery side, I think, their product set. 
+asr:0: OUTPUT 3867.81-3877.34: Have you actually signed the deferral there or is that sort of, if you like, a permanent deferral and you'll never fully recover that revenue as we go through the 2020-21? 
+asr:0: OUTPUT 3879.60-3886.87: I'm happy to. So, you know, the impact that we had in the fourth quarter is temporary. 
+asr:0: OUTPUT 3887.57-3895.60: These are two renewals that we are actively working on to close in, I would say, early 2022. 
+asr:0: OUTPUT 3896.06-3898.80: It could be the first quarter, it could be the second quarter. 
+asr:0: OUTPUT 3899.96-3904.62: These are two major customers of ours where we have established relationships and it's only a question of time. 
+asr:0: OUTPUT 3906.29-3912.13: I think the other part that I would like to add to the Bayouvia business as well and life sciences. 
+asr:0: OUTPUT 3912.57-3920.02: We are also aggressively transforming by Jovia towards a more subscription model than what it used to be because. 
+asr:0: OUTPUT 3920.46-3927.75: It was heavily dependent on licenses and that creates some variability from time to time. So that's another factor. 
+asr:0: OUTPUT 3927.91-3931.33: That we will talk about throughout 2022. 
+asr:0: OUTPUT 3934.09-3939.58: Thank you. 
+asr:0: OUTPUT 3940.60-3946.89: Yes, of course. The last final question comes from a line of Jason Salino from KBCM. Please ask your question. 
+asr:0: OUTPUT 3948.83-3952.19: Great, thanks for fitting me in. Just a couple quick ones on a couple of the brands. 
+asr:0: OUTPUT 3952.73-3959.86: First on Somalia, it's nice to see double-digit growth there. It's been doing quite well for the past few quarters from what I can remember. 
+asr:0: OUTPUT 3960.36-3972.85: So my question here is, is the strength we're seeing from share gains versus simulation competitive market, or is it more broader industry strength recovery from that? 
+asr:0: OUTPUT 3975.70-3982.52: Simulia, I think there are two major factors. 
+asr:0: OUTPUT 3983.30-3987.45: Where basically we create a game changer situation. 
+asr:0: OUTPUT 3988.19-3991.83: Number one, on the SOLIDWORKS install base. 
+asr:0: OUTPUT 3991.85-3998.52: Customer where I used to use our competitor product on desktop. 
+asr:0: OUTPUT 3999.48-4005.25: And now we are offering cloud-based Simulia. Extremely successful. 
+asr:0: OUTPUT 4005.27-4014.69: Easier to provision and to put in operation. It has created a very nice dynamic in what we call the work summit. 
+asr:0: OUTPUT 4015.72-4024.82: And John Paolo is doing a very great job, Paolo Bacci, on this topic. In fact, he's going to work on the full works family. 
+asr:0: OUTPUT 4025.15-4031.83: And not only SOLIDWORKS and we have just announced that the new CEO of SOLIDWORKS is Manish Kumar. 
+asr:0: OUTPUT 4032.39-4038.36: But John Paolo is taking the full scope responsibility for 3DXpans works. 
+asr:0: OUTPUT 4039.14-4063.52: That's one driver. And the second one is multi-physic platform-based integration, which is connecting the PowerFlow, the EMAG, the stress, and all of this together in a consistent environment. And we see a lot of customers moving from isolated simulation to integrated system simulation. 
+asr:0: OUTPUT 4064.30-4072.51: I think it's unstoppable in my mind and we have plenty of opportunities to continue to sustain a strong growth in this area. 
+asr:0: OUTPUT 4075.30-4084.76: Perfect. And then maybe one quick final one. SolidWorks, maybe earlier in 2021, had some pretty robust growth, possibly from pent-up demand. 
+asr:0: OUTPUT 4085.31-4090.95: You know, this quarter, 8% growth, you know, feels quite good, normal, maybe close to what we were seeing pre-pandemic. 
+asr:0: OUTPUT 4091.47-4095.90: Is that the right way to think about the SOLIDWORKS business, normalizing from these levels? 
+asr:0: OUTPUT 4098.48-4104.38: I think so. You're right. I mean, if you remember, Sullyworth was really the first product line to recover. 
+asr:0: OUTPUT 4105.01-4111.99: And there is no base effect compared to last year. And 8% 8 to 9 is a good number. 
+asr:0: OUTPUT 4115.44-4117.88: Thank you all and have a good afternoon. 
+asr:0: OUTPUT 4118.88-4119.98: Thank you everyone for participating. 
+asr:0: OUTPUT 4120.00-4134.13: It's always a great pleasure to exchange with you and address your questions. And I know that Pascal and Ruben are now committed to do roadshows and visit you as quickly as possible, as soon as possible, and hopefully face to face. 
+asr:0: OUTPUT 4134.45-4138.26: With that, thank you very much. Enjoy your day and talk to you soon. 
+asr:0: OUTPUT 4140.44-4145.49: That does conclude our conference for today. Thank you for participating. You may all disconnect. Have a nice day. 
+asr:0: END

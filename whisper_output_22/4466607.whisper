@@ -1,0 +1,765 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.94-8.95: Ladies and gentlemen, good morning and welcome to today's Le Grand 2021 nine-month results conference call. 
+asr:0: OUTPUT 9.31-16.46: All participants are in listen-only mode later. There will be a question and answer session. For information, this conference is being recorded. 
+asr:0: OUTPUT 17.00-23.46: At this time, I would like to hand the call over to CEO Mr. Benoit Coquiat and CFO Mr. Franck Libre. Sir, please go ahead. 
+asr:0: OUTPUT 25.35-27.45: Thank you. Good morning, everybody. 
+asr:0: OUTPUT 28.11-36.08: Franck, Ronan and myself are happy to welcome you to the Le Grand 2021 9-month Resolved Conference Call and Webcast. 
+asr:0: OUTPUT 36.86-43.76: We have published today, as usual, our press release, financial statements, and a slideshow to which we will refer. 
+asr:0: OUTPUT 44.64-47.11: Those documents are available on the Legrand website. 
+asr:0: OUTPUT 48.03-51.19: Please note that this conference call is recorded and webcasted. 
+asr:0: OUTPUT 52.43-60.16: After a few opening remarks, Frank and I will comment into more detail the 2021 nine-months results. 
+asr:0: OUTPUT 61.04-65.79: I begin on page four of the deck with two key takeaways. 
+asr:0: OUTPUT 65.99-71.61: First, I mean tensions and supply chains that have intensified. 
+asr:0: OUTPUT 71.63-76.92: Le Grand recorded a strong rise in financial results in the first nine months of the year. 
+asr:0: OUTPUT 77.82-85.67: Sales grew plus 15% year on year and plus 5.7% over two years. 
+asr:0: OUTPUT 85.69-94.39: Driven by a strong organic rise of plus 16% over one year or plus 4.4% over two years. 
+asr:0: OUTPUT 95.42-99.80: Adjusted operating margin came to 21.4% of sales. 
+asr:0: OUTPUT 100.00-110.87: A net profit rose plus 42% from the first nine months of 2020, or plus 12% from the same period of 2019. 
+asr:0: OUTPUT 112.45-119.68: These very good results testify once again to the soundness and readiness of a unique model for value creation. 
+asr:0: OUTPUT 119.70-126.55: And confirm our continued capacity to improve competitive positions on our markets despite strong headwinds. 
+asr:0: OUTPUT 127.91-136.70: Second take away, given the solid showings recorded in the first nine months of the year, but also significant pressure on supply chains,. 
+asr:0: OUTPUT 136.72-139.64: With a volatile pandemic environment. 
+asr:0: OUTPUT 139.66-143.12: We are specifying the full year 2021 targets. 
+asr:0: OUTPUT 144.54-152.07: Getting now into details, we are moving to page six, diving first into SEST threats. 
+asr:0: OUTPUT 153.05-160.56: Of. 
+asr:0: OUTPUT 160.58-170.25: At double digit levels in both metro countries with plus 13.2% and new economies with plus 24.7%. 
+asr:0: OUTPUT 171.05-175.50: Over two years, organic sales grew plus 4.4%. 
+asr:0: OUTPUT 177.62-188.85: This strong performance confirms Le Grand's continued capacity to improve its competitive positions on its markets, as pressures built on supply chains, especially in the third quarter. 
+asr:0: OUTPUT 190.47-202.96: At the end of September, this performance is notably driven by good demand in residential as well as sales in faster expanding segments, namely data centers, connective solutions, and our energy efficiency programs. 
+asr:0: OUTPUT 204.30-210.91: This is for organic growth. Acquisitions contributed to an increase in sales of plus 2.7% and exchange rates. 
+asr:0: OUTPUT 210.93-216.00: Had a negative impact of minus 3.4% over the first nine months period. 
+asr:0: OUTPUT 217.58-222.50: Applying September average forex rates to the rest of the year. 
+asr:0: OUTPUT 222.52-230.89: This exchange rate effect should theoretically be about minus 2.5% in 2021 at all. 
+asr:0: OUTPUT 233.19-239.38: Let's now move to page 7 to go into more details regarding the life-like evolution of cells by geographical zone. 
+asr:0: OUTPUT 240.72-247.53: In Europe, organic sales grew plus 21.8% in the first nine months of 2021. 
+asr:0: OUTPUT 248.95-253.43: Europe's metro countries growth was plus 22.3 percent. 
+asr:0: OUTPUT 253.45-256.94: Including plus 4.3% in the third quarter alone. 
+asr:0: OUTPUT 257.88-260.78: Over nine months, the steep rise recorded. 
+asr:0: OUTPUT 260.80-267.99: Included strong showings in France and Italy with many commercial successes, notably in faster expanding segments. 
+asr:0: OUTPUT 269.29-277.18: Sales in Europe's new economies were up plus 19.2 percent, including plus 11.9 percent in the third quarter alone,. 
+asr:0: OUTPUT 277.20-281.70: With very good showings in Turkey and Eastern Europe over nine months. 
+asr:0: OUTPUT 282.78-290.73: Moving now to North and Central America, organic sales increased plus 7.9% in the first nine months. 
+asr:0: OUTPUT 290.75-296.70: In the US alone, the organic rising sales was plus 6%. 
+asr:0: OUTPUT 296.72-301.42: With a slight decline of minus 0.9% over the third quarter alone. 
+asr:0: OUTPUT 303.16-311.01: Over nine months, these trends reflect a marked sales increase in solutions for data centers and residential spaces. 
+asr:0: OUTPUT 311.03-314.95: While demand for other non-residential spaces grew slightly. 
+asr:0: OUTPUT 317.28-321.58: Let me now move to the last zone. 
+asr:0: OUTPUT 321.74-329.99: With rest of the world where organic sales rose plus 22.4% over nine months. 
+asr:0: OUTPUT 330.67-337.34: In. 
+asr:0: OUTPUT 337.36-343.66: In the third quarter alone, over the nine-month period, China and India both grew double digits. 
+asr:0: OUTPUT 345.23-354.25: In. 
+asr:0: OUTPUT 355.58-361.86: The region's nine-month performance was buoyed, supported by strong gains in Africa. 
+asr:0: OUTPUT 362.66-369.81: South America says increased plus 43.1 percent with plus 22.8 percent in the third quarter alone. 
+asr:0: OUTPUT 369.83-374.03: Reflecting continued significant growth in main countries. 
+asr:0: OUTPUT 375.96-383.46: These were the key elements on sales. I am now passing the mic to Franck for an overview of our financial performance. 
+asr:0: OUTPUT 384.88-388.57: Thank you, Benoit. Good morning to all of you. I hope you're doing well. 
+asr:0: OUTPUT 389.71-392.73: Going to page 8 now. 
+asr:0: OUTPUT 392.77-399.88: Adjusted operating margin before acquisitions in the first nine months stood at 21.7%. 
+asr:0: OUTPUT 399.90-401.04: 6%. 
+asr:0: OUTPUT 401.08-406.29: Meaning an increase of plus 2.9 points from the end of September 2020. 
+asr:0: OUTPUT 407.91-414.71: Inflation in raw materials and components reached nearly plus 10% over the nine-month period. 
+asr:0: OUTPUT 414.73-419.54: And nearly plus 15% in the third quarter alone. 
+asr:0: OUTPUT 421.52-425.93: Despite its significant inflation, our profitability increased. 
+asr:0: OUTPUT 425.95-432.71: Reflecting in particular strong leverage on expenses together with group pricing initiatives. 
+asr:0: OUTPUT 434.59-443.36: After acquisitions, the adjusted operating margin for the first nine months of 2021 was 21.4%. 
+asr:0: OUTPUT 443.38-446.29: Setting the adjusted operating profile. 
+asr:0: OUTPUT 446.31-456.18: Just over 1.1 billion euros or up plus 31.5% from the first nine months of 2020. 
+asr:0: OUTPUT 458.68-463.70: Going now to page 9 regarding the net profit attributable to the group. 
+asr:0: OUTPUT 464.78-474.43: At 699 million euros, it grew plus 41.7% compared with the first nine months of 2020. 
+asr:0: OUTPUT 475.40-479.98: The main driver is the strong growth recorded in the operating profit. 
+asr:0: OUTPUT 480.96-484.70: Trend in the financial results is also favorable. 
+asr:0: OUTPUT 484.72-493.41: And dispositive items were partially offset by an increase in value of corporate income tax. 
+asr:0: OUTPUT 493.43-500.00: While the corporate tax rate was slightly down from the first nine months of 2020,. 
+asr:0: OUTPUT 500.12-502.32: At 28.5%. 
+asr:0: OUTPUT 504.36-509.11: Moving now to page 10, with a few comments on cash and balance sheet. 
+asr:0: OUTPUT 510.41-517.16: As a percentage of sales, cash flow from operation was up plus 2.3 points. 
+asr:0: OUTPUT 517.18-522.26: At 19.7% of sales, above 1 billion euros. 
+asr:0: OUTPUT 524.18-527.25: It's driven first by the rise in... 
+asr:0: OUTPUT 527.27-534.19: Cash flow from operations and second, as expected, an increase in working capital requirement. 
+asr:0: OUTPUT 534.33-539.66: And then the free cash flow stood at a solid 15% of sales. 
+asr:0: OUTPUT 539.68-542.24: In the first nine months of 2021. 
+asr:0: OUTPUT 543.96-551.45: Now when normalizing working capital current variations on the right-hand side of the slide, the normalized free cash flow. 
+asr:0: OUTPUT 552.17-560.50: Stems at 859 million euros or 16.6% of sales in the first nine months. 
+asr:0: OUTPUT 562.40-566.89: One last point I wanted to share on this slide, end of September. 
+asr:0: OUTPUT 566.91-573.39: Le Grand successfully issued its first sustainability link bond index. 
+asr:0: OUTPUT 573.41-582.28: It's indexed on our carbon neutrality trajectory, and this trajectory is validated by the SBTI. 
+asr:0: OUTPUT 583.80-591.93: This concludes the key topics on our first nine months' strong financial performance. 
+asr:0: OUTPUT 592.69-602.32: Thank you, Franck. Moving now to the second part of the presentation regarding the 2021 full year targets that we are specifying today. 
+asr:0: OUTPUT 602.72-605.29: We are on page 12 of the deck. 
+asr:0: OUTPUT 606.09-609.31: Given solid showings in the first nine months of the year. 
+asr:0: OUTPUT 609.33-618.24: But also significant pressure on supply chains with a volatile pandemic environment, Legrand is now aiming for the following full-year targets. 
+asr:0: OUTPUT 619.16-627.85: Organic growth in cells of between plus 11 and plus 13 percent compared to at least plus 10 percent previously. 
+asr:0: OUTPUT 628.45-632.13: The scope of consolidation effect of nearly plus 3%. 
+asr:0: OUTPUT 632.63-642.92: And adjusted operating margin of between 20.0% and 20.5% of sales, including acquisitions consolidated in 2021. 
+asr:0: OUTPUT 642.96-646.25: Compared to about 20% previously. 
+asr:0: OUTPUT 647.05-650.67: The group also aims to achieve at least. 
+asr:0: OUTPUT 650.69-665.63: 100% of its CSA roadmap for 2021 testifying to its ongoing deployment of a bold, exemplary approach to ESG with a particular focus on the fight against global warming and the promotion of diversity. 
+asr:0: OUTPUT 667.97-670.89: Let's now move to the last part of the presentation. 
+asr:0: OUTPUT 670.93-676.66: We are on page 14. To come back briefly on our last CMD. 
+asr:0: OUTPUT 676.68-681.92: Where we reaffirmed our ambition to accelerate value creation. 
+asr:0: OUTPUT 682.82-692.29: As you can see on the left-hand side, Le Grand's strategic roadmap is supported by the strong pillars of a unique business model and by our solid integrated performance. 
+asr:0: OUTPUT 693.23-702.34: Building on these strong assets, we accelerated growth initiatives, in particular in what we name faster expanding segments. 
+asr:0: OUTPUT 702.96-709.61: We target to raise the share of group sales made in these promising fields. 
+asr:0: OUTPUT 709.63-713.51: From 31% in 2020 to 50% in the mid-term. 
+asr:0: OUTPUT 715.28-721.34: Going to page 15, a few additional words on two important aspects of our strategic roadmap. 
+asr:0: OUTPUT 721.56-725.67: First, we will continue to build on our performance-driven. 
+asr:0: OUTPUT 725.69-729.81: And close to market organizations leveraging operational excellence. 
+asr:0: OUTPUT 729.83-738.00: Talent promotion and strong employee engagement, which stood at 80% this year, rising strongly from 2017 results. 
+asr:0: OUTPUT 738.80-743.60: Secondly, we intend to keep on deploying a bold and exemplary approach to ESG. 
+asr:0: OUTPUT 743.62-750.65: Which, as you know, is driven by demanding CSR roadmaps with a fifth one starting in 2022. 
+asr:0: OUTPUT 753.05-759.58: I am now moving to slide 16. We have confirmed our mid-term targets regarding gross margin, cash flow and ESG. 
+asr:0: OUTPUT 760.00-769.91: In terms of capital allocation, Legrand will continue its balanced policy, dedicating more than half of free cash flow to Bolton acquisitions on average. 
+asr:0: OUTPUT 769.93-773.91: While maintaining an average dividend payout ratio of about 50%. 
+asr:0: OUTPUT 775.56-780.58: As you know, the full event presentation and the replay webcast can be found on our website. 
+asr:0: OUTPUT 781.88-786.61: Franck, Roland and I are now ready to open to questions. Thank you. 
+asr:0: OUTPUT 792.91-798.00: Thank you ladies and gentlemen, if you have a question please press 01 on your telephone keypad. 
+asr:0: OUTPUT 801.84-805.13: Thank you. 
+asr:0: OUTPUT 806.95-812.43: Hi, good morning. Thanks for taking my question. I have three questions. They're relatively quick, I hope. 
+asr:0: OUTPUT 813.21-818.46: I first wanted to ask you regarding if you could comment a little bit in terms of your distributors. 
+asr:0: OUTPUT 818.96-823.74: If you see them restocking, how selling versus sellout, I know in the past you've commented on that. 
+asr:0: OUTPUT 824.20-828.41: Second on your inventory build up in Q3. 
+asr:0: OUTPUT 829.09-834.63: Can you talk about how much of that is just finished goods waiting to get out of the door because of supply chain? 
+asr:0: OUTPUT 834.67-835.74: Issues. 
+asr:0: OUTPUT 836.00-843.34: And then the final point, just checking regarding restructuring, Q3 in terms of restructuring expenses was relatively low. 
+asr:0: OUTPUT 844.08-855.76: When you look into Q4, do you see any need to raise that given the situation that you mentioned in terms of supply chain or shall we assume it remains relatively low going forward? Thank you. 
+asr:0: OUTPUT 859.70-868.99: On the first question, I'm sure that our distributors would like to build some inventory, but given the constraints on the supply chain,. 
+asr:0: OUTPUT 869.15-871.59: I think they can hardly do so. 
+asr:0: OUTPUT 872.03-879.42: So no, we haven't seen significant change in their inventory in 2021. 
+asr:0: OUTPUT 879.44-882.82: And they are not able, unfortunately, to build back the military. 
+asr:0: OUTPUT 883.58-891.17: Now, it compares 2021 compared to a situation where the level of inventory in 2020 was very low. 
+asr:0: OUTPUT 891.75-897.30: So even with the current level of inventory and even without building back some inventory,. 
+asr:0: OUTPUT 897.78-903.58: There is some positive impact on the top line coming from inventory. But again,. 
+asr:0: OUTPUT 904.06-911.85: I don't believe that their level of inventory is particularly high. They would be happy and pleased to build back some inventory and unfortunately they cannot. 
+asr:0: OUTPUT 913.19-918.94: As far as our own inventory, well, it's coming back to normal. 
+asr:0: OUTPUT 919.52-927.87: We had a level of inventory which was very low in H1 given the very strong surge in demand and in sales. 
+asr:0: OUTPUT 927.91-929.67: Which was somehow unexpected. 
+asr:0: OUTPUT 929.75-933.55: And I fought to answer to the demand. 
+asr:0: OUTPUT 933.57-941.50: It's now coming back to normal, so it has a mechanical, let's say, negative impact on our networking capital. 
+asr:0: OUTPUT 942.06-948.01: Which we expected to happen and we clearly guided the market when we released our H1. 
+asr:0: OUTPUT 948.03-952.59: Number saying be aware that as far as a networking capital is concerned. 
+asr:0: OUTPUT 953.11-956.14: Uh... That uh... That he can't really concerned the situation. 
+asr:0: OUTPUT 956.34-965.95: Will somehow deteriorate a little bit in H2 compared to H1. So it was completely expected, but it's more coming back to normal than building a local symmetry. 
+asr:0: OUTPUT 966.17-968.89: Now, let's make things clear. 
+asr:0: OUTPUT 969.13-979.46: If we have the ability to build further inventory in order to cope with the difficulty to get components and raw materials, we will. 
+asr:0: OUTPUT 979.62-986.29: In other words, the strategy for Q3 and Q4, probably going into 2020,. 
+asr:0: OUTPUT 986.33-993.99: Is to do whatever it takes to serve our customers even at the expense of extra inventory. 
+asr:0: OUTPUT 994.87-998.90: Unfortunately it's a bit difficult given the current scarcity of resources. 
+asr:0: OUTPUT 999.34-1004.96: We will not hesitate in building a bit more inventory if needed to better serve our customers. 
+asr:0: OUTPUT 1005.65-1007.31: As far as restructuring is concerned. 
+asr:0: OUTPUT 1008.01-1014.85: I think that as of the end of September, our level of restructuring is about 18 million euros. 
+asr:0: OUTPUT 1015.00-1020.38: Of. 
+asr:0: OUTPUT 1020.66-1025.83: Sorry, 17 Euros compared to 55 million Euros at the end of last year. 
+asr:0: OUTPUT 1026.71-1032.45: The key message is that we are coming back in 2021 to a sort of normal level of restructuring. 
+asr:0: OUTPUT 1034.25-1043.32: I.e. A level of restructuring between, let's say, 20 to 30 million euros or 20 to 25 million euros, which is a sort of historical level of restructuring. 
+asr:0: OUTPUT 1044.30-1054.29: So you shouldn't expect anything exceptional in Q4. It should be more or less in line with what we have done so far since the beginning of the year. 
+asr:0: OUTPUT 1055.34-1061.54: Last year level of surgery was sort of exceptional given of course the crisis. 
+asr:0: OUTPUT 1062.26-1072.83: I have to specify that the numbers I'm giving you are excluding the sales of assets and you remember that last year in Q1. 
+asr:0: OUTPUT 1072.85-1075.46: We saw the big asset. 
+asr:0: OUTPUT 1075.48-1078.32: I think for 15 million euros in South America. 
+asr:0: OUTPUT 1078.90-1083.14: So, $17 million at the end of September. 
+asr:0: OUTPUT 1083.76-1090.79: 20 to 25 or 30 million euros for the full year. Q4 we should be consistent with the rest of the year. 
+asr:0: OUTPUT 1092.37-1094.39: Thank you very much. 
+asr:0: OUTPUT 1096.70-1106.19: Thank you. Next question from Guy Le Bret from Deutsche Bank. Please go ahead. Yes, good morning everybody. Thanks for the questions. 
+asr:0: OUTPUT 1107.17-1110.33: Or the opportunity you're given if you ask a question. 
+asr:0: OUTPUT 1111.31-1113.87: Look on the. 
+asr:0: OUTPUT 1113.97-1122.26: If I look at the performance in Q3, the organic cells on a two-year basis were up 4%. 
+asr:0: OUTPUT 1123.50-1129.27: But then if I look at the midpoint of your guidance, it implies that in the fourth quarter,. 
+asr:0: OUTPUT 1129.31-1135.62: The organic sales would actually be down by about 3% on the same two year basis. 
+asr:0: OUTPUT 1136.08-1140.56: So, I mean, why do you guide for such a sequential deterioration? 
+asr:0: OUTPUT 1143.34-1152.81: In particular, do you see some disruption from supply chain challenges going into the fourth quarter? More disruption actually than there was already in Q3. 
+asr:0: OUTPUT 1159.98-1180.26: True that the plus 11 to plus 13 percent organic growth for the full year imply Q4, which would be over one year between minus 2.7 percent and plus 4.7 percent. 
+asr:0: OUTPUT 1180.72-1188.07: And over two years between a strong decrease to almost a stability. 
+asr:0: OUTPUT 1188.71-1191.55: So this is the range we are shooting for. 
+asr:0: OUTPUT 1191.63-1200.70: Of. 
+asr:0: OUTPUT 1201.38-1205.71: Situation has clearly deteriorated in Q3 on many fronts. 
+asr:0: OUTPUT 1207.41-1213.73: Become increasingly difficult to get the electronic components, for example, it has become increasingly. 
+asr:0: OUTPUT 1215.70-1218.30: Containers and transportation capabilities. 
+asr:0: OUTPUT 1219.36-1226.45: Or capability to get the goods out of the customer quickly in a number of places. 
+asr:0: OUTPUT 1227.41-1235.28: And it has also been the case for more traditional raw materials. So the situation has deteriorated. 
+asr:0: OUTPUT 1235.94-1244.78: We'll see how it is in Q4, but this is the big uncertainty, let's say, between the plus 11 and the plus 13%. 
+asr:0: OUTPUT 1245.15-1250.47: Now, I believe that the plus level to make things clear is somehow a bit conservative. 
+asr:0: OUTPUT 1252.47-1262.34: And it's really the low end of the guidance. And it assumes a very strong deterioration supply chain in Q4, which may not happen. 
+asr:0: OUTPUT 1262.78-1275.10: But this is a key variable or input that can change a bit the profile of the Q4 compared to Q3. 
+asr:0: OUTPUT 1275.60-1283.34: Last word, beyond the supply chain constraints, don't forget that Q4 2019 was a very strong quarter. 
+asr:0: OUTPUT 1283.96-1291.69: The. 
+asr:0: OUTPUT 1291.91-1301.68: Was very strong both in terms of absolute growth and in terms of comparison with our peers, especially in North America. 
+asr:0: OUTPUT 1301.80-1305.61: So it may also negatively impact the Q4 2021 performance. 
+asr:0: OUTPUT 1307.85-1313.97: Okay, thanks for this. Maybe a longer term question. 
+asr:0: OUTPUT 1314.99-1323.96: At the CMD, you highlighted that you were seeing some new growth opportunities emerging in the past COVID world. 
+asr:0: OUTPUT 1324.38-1332.75: With, for example, the upgrade of meeting rooms for hybrid meetings, including both virtual and in-person capabilities. 
+asr:0: OUTPUT 1333.27-1342.90: And that was something you were seeing increasing the value of the low-growth products per meeting room by a factor of nearly 10 times. 
+asr:0: OUTPUT 1343.58-1350.57: So could you elaborate a little bit on this upsell potential in the office market? 
+asr:0: OUTPUT 1350.61-1357.76: Is this a marginal trend or do you really see today already a lot of inquiries on this? 
+asr:0: OUTPUT 1358.36-1362.22: And what's your guess on the future? 
+asr:0: OUTPUT 1362.24-1370.39: The proportion of meeting rooms that could potentially be upgraded in the next five to 10 years. 
+asr:0: OUTPUT 1370.93-1379.12: I know it's a difficult question to answer to, but any help on this would be appreciated. 
+asr:0: OUTPUT 1380.30-1389.85: Well, it's indeed quite a difficult question to answer. Well, it was a midterm comment, not a comment for the next couple of quarters. 
+asr:0: OUTPUT 1390.53-1399.92: And I think that the first priority is for people to get back to the office, which again is not the case everywhere. 
+asr:0: OUTPUT 1400.22-1407.09: If you look at the big metros in the US, for example, the one from home is still pregnant in May. 
+asr:0: OUTPUT 1407.67-1410.31: Prevalent in many places. 
+asr:0: OUTPUT 1411.37-1420.12: So I could hardly tell you that we have done an analysis in the pending quotes saying that there is a structural change. 
+asr:0: OUTPUT 1420.16-1422.90: In the value of a profit space. 
+asr:0: OUTPUT 1423.32-1426.81: So it was more a mid-term command than a short-term command. 
+asr:0: OUTPUT 1427.31-1431.15: Now, we are very confident it will happen. 
+asr:0: OUTPUT 1431.37-1440.78: Because it is supported by a number of requests and trends from people. 
+asr:0: OUTPUT 1441.08-1445.33: For example, the fact that office spaces will need to be greener. 
+asr:0: OUTPUT 1445.51-1452.69: There is a COP26 currently happening with the US coming back to the table. It is sure that this will help. 
+asr:0: OUTPUT 1452.99-1466.09: The fact that more and more spaces will need to be connected to support AV conferencing or remote conferencing, the fact that you will need more and more connectivity, whether wired or wireless,. 
+asr:0: OUTPUT 1466.11-1467.27: To accommodate for more needs. 
+asr:0: OUTPUT 1467.35-1476.54: The fact that the number of people we require not only to have a desk to work but also a number of. 
+asr:0: OUTPUT 1476.58-1482.86: You know, social spaces, a lot more than before, we'd also happen. 
+asr:0: OUTPUT 1483.92-1487.95: French will somehow materialize. Frankly speaking, I have no... 
+asr:0: OUTPUT 1487.97-1495.10: Precise number to tell you, to tell you X or Y percent of office space will need to be remodeled. 
+asr:0: OUTPUT 1495.12-1498.86: For the value of Y. 
+asr:0: OUTPUT 1499.72-1501.58: We'll see. 
+asr:0: OUTPUT 1502.54-1509.81: If I may say, it's not yet happening because this is a long-term trend, but we are very confident that it will materialize. 
+asr:0: OUTPUT 1511.81-1520.78: Okay, thanks very much. Thank you. Next question from Andre Kuchnin from Credit Suisse. 
+asr:0: OUTPUT 1522.86-1525.29: Good morning. Thank you very much for taking my questions. 
+asr:0: OUTPUT 1525.81-1532.57: Can I please start with extending the maths that Gail ran on your organic growth rates and what's implied for Q4? 
+asr:0: OUTPUT 1532.59-1538.70: To the implied profitability for the fourth quarter. 
+asr:0: OUTPUT 1539.36-1541.84: Because if my master's right then even... 
+asr:0: OUTPUT 1541.86-1550.21: At the top end of your organic growth and margin guide you're implying around 17.5% margin for Q4. 
+asr:0: OUTPUT 1550.29-1553.07: Down 200 basis points year on year. 
+asr:0: OUTPUT 1553.45-1560.16: So I just wanted to check if that math is right and would love to hear your reasoning behind it as well. 
+asr:0: OUTPUT 1561.96-1563.02: Yes, of course. 
+asr:0: OUTPUT 1563.04-1574.07: The math is almost right. Our guidance implies a Q4 in terms of adjusted operating EBIT all-in, including acquisitions. 
+asr:0: OUTPUT 1574.09-1578.80: Between 15.3% in the low end of the guidance. 
+asr:0: OUTPUT 1579.32-1581.80: Up to 17.9%. 
+asr:0: OUTPUT 1582.04-1584.06: The upper end of the valence. 
+asr:0: OUTPUT 1584.92-1592.01: Well, three comments. Number one, 17.9% is never seen. 
+asr:0: OUTPUT 1592.69-1602.08: Q4 margins are always lower than the rest of the year. It's a seasonality topic. And if you look at the past five years,. 
+asr:0: OUTPUT 1602.98-1608.69: The margins around 18% or let's say 18 to 18.5% were not seen. 
+asr:0: OUTPUT 1609.21-1615.12: In 2015, Q4 margin was 18.4%. In 2016, it was 18.1%. 
+asr:0: OUTPUT 1615.94-1617.04: So, you know... 
+asr:0: OUTPUT 1617.06-1626.15: Q4 margins are lower than our 9-month margin and 18% EBIT margin is not an ever-seeing. 
+asr:0: OUTPUT 1627.57-1633.19: Number two, there is a. 
+asr:0: OUTPUT 1633.27-1640.92: A strong squeeze happening since the beginning of the year, which is not a surprise to you, between selling price and purchase price. 
+asr:0: OUTPUT 1641.50-1643.74: Which worsened in Q3. 
+asr:0: OUTPUT 1644.32-1647.21: Maybe I can give you the precise number. 
+asr:0: OUTPUT 1647.75-1658.48: In the first nine months of the year, purchase price increased by close to 10%. 
+asr:0: OUTPUT 1658.50-1663.14: And selling price were up plus 2.7%. 
+asr:0: OUTPUT 1665.39-1675.30: And those numbers were plus 7% for the purchase price in H1 and plus 1.9% for the selling price. 
+asr:0: OUTPUT 1675.32-1678.20: So it implies the Q3. 
+asr:0: OUTPUT 1678.22-1684.56: Which is at nearly plus 15% as far as purchase price is concerned. 
+asr:0: OUTPUT 1684.94-1688.61: And plus 4.3% as far as selling price. 
+asr:0: OUTPUT 1689.85-1699.08: So you you remember i told you in july that in h two uh... We we would have uh... Purchase price which would be a double digit. 
+asr:0: OUTPUT 1699.12-1703.04: And a selling price which would be between 2 and 4 percent. 
+asr:0: OUTPUT 1703.76-1711.37: Well, it's more than double digit, if I may say. Well, it's double digit, but it's probably more than expected. It's plus 15% for purchase price, and as a result,. 
+asr:0: OUTPUT 1711.43-1720.66: We did some pricing at the upper end of the sort of guidance I gave you, plus 4.3%. 
+asr:0: OUTPUT 1721.16-1728.61: What to expect in Q4, well, purchase price will probably be at the level of Q3 or even worse. 
+asr:0: OUTPUT 1728.63-1737.54: So you could very much put in your estimate that the purchase price could be comprised between the plus 15 and plus 20 percent even though we have. 
+asr:0: OUTPUT 1737.56-1740.62: No crystal balls, this is the order of magnitude we could expect. 
+asr:0: OUTPUT 1741.02-1748.59: And the selling price should be approximately at the same level as the one we recorded in Q3. 
+asr:0: OUTPUT 1748.61-1751.65: So it will be something around the plus 4% plus, let's say. 
+asr:0: OUTPUT 1752.43-1760.88: So if you take those two numbers, and I remind you that the robaterran components represent about one third of our cells. 
+asr:0: OUTPUT 1761.14-1767.75: You can see the sort of squeeze we are currently experiencing. 
+asr:0: OUTPUT 1768.23-1777.00: So this is the reason why having a 17.9% EBIT margin early in Q4 or less than that,. 
+asr:0: OUTPUT 1777.34-1780.90: Is not something which is out of the probability. 
+asr:0: OUTPUT 1780.96-1788.25: It's very much consistent with the squeeze we have in front of us, even though, of course, we are doing many things. 
+asr:0: OUTPUT 1788.47-1795.06: We have some cost controls. 
+asr:0: OUTPUT 1795.18-1799.22: We have some restructuring charges which. 
+asr:0: OUTPUT 1799.24-1805.97: Pointed out by Daniela will be lower than last year, so we have many things that will partially compensate for that, but the squeeze is significant. 
+asr:0: OUTPUT 1806.67-1814.85: Third comment, the difference between the low end of the margin guidance and the high end of the margin guidance. 
+asr:0: OUTPUT 1814.87-1818.26: Is clearly coming from the top line. 
+asr:0: OUTPUT 1819.64-1826.25: And whether you have, let's say, a minus 3% in Q4, plus 5% in Q4, of course. 
+asr:0: OUTPUT 1826.89-1833.49: Does not have the same impact on the margin, so the top line evolution in Q4 will be a. 
+asr:0: OUTPUT 1833.51-1840.92: The driving force behind the 20 to 20.5% EBIT margin that we are shooting for. 
+asr:0: OUTPUT 1843.10-1848.23: Thank you very much for such a comprehensive answer. I really appreciate all the details you've given. 
+asr:0: OUTPUT 1849.03-1851.63: Just one more question, because there's time. 
+asr:0: OUTPUT 1851.71-1861.22: Could I ask, in the rest of the world you've seen a really healthy acceleration on kind of two year stack basis in Q3 versus Q4. 
+asr:0: OUTPUT 1861.24-1869.17: Q2 or H1, could you talk about maybe what regions or maybe product lines what drove that and how sustainable it is, please? 
+asr:0: OUTPUT 1871.67-1879.90: Well, so it's the rest of the world over two years. 
+asr:0: OUTPUT 1881.18-1887.05: So rest of the world about to hear, it is true that the quarter is plus 8.7%. 
+asr:0: OUTPUT 1887.97-1894.79: And the nine months is plus 6.4 percent. So yes, indeed, you have a bit of acceleration. 
+asr:0: OUTPUT 1894.85-1898.14: I could hardly say that it's a big acceleration. 
+asr:0: OUTPUT 1898.68-1908.57: And it's mostly coming from India, which is a positive single digit over two years in Q3. 
+asr:0: OUTPUT 1908.61-1916.30: And which is still negative single digit over nine months, over two years. 
+asr:0: OUTPUT 1916.34-1924.64: You remember that in India, the COVID crisis is more 2021 H1 topic than 2020 topic. 
+asr:0: OUTPUT 1924.68-1926.61: As opposed to most of the rest of the world. 
+asr:0: OUTPUT 1927.17-1934.75: So India has progressively recovered from the COVID crisis, as many countries did last year. 
+asr:0: OUTPUT 1935.26-1941.16: And again it represents most of the change in trends between H1 and Q3. 
+asr:0: OUTPUT 1941.80-1951.21: If you look at the other places, Africa is doing also very well, both in Q3 and in 9 months. 
+asr:0: OUTPUT 1951.63-1961.02: China is doing very well, both in Q3 and in 9 months. All my comments are about 2 years, of course. And in West America also. 
+asr:0: OUTPUT 1961.50-1965.81: The place which is a bit more difficult is the Middle East. 
+asr:0: OUTPUT 1965.87-1972.89: Which is down over 9 months and over 2 years. 
+asr:0: OUTPUT 1973.37-1983.14: So to make a long story short, it's good all across the zone except in Middle East and the changing trend between H1 and Q3 is mostly coming from India. 
+asr:0: OUTPUT 1985.25-1986.61: Very helpful. Thank you very much. 
+asr:0: OUTPUT 1989.05-1993.11: Thank you. Next question from Andres Willi from JP Morgan. 
+asr:0: OUTPUT 1994.61-1997.60: Yeah, good morning, Bernouin and Franck. Thanks for the time. 
+asr:0: OUTPUT 1998.60-2001.92: I wanted to follow up on the guidance discussions we've had. 
+asr:0: OUTPUT 2001.94-2021.30: We are in early November already and you assume in your range a pretty material further deterioration in the supply chain. So maybe you could comment what you have seen in October so far and how much visibility you normally have in terms of components, stock at hand and so on. 
+asr:0: OUTPUT 2022.06-2032.77: Would this imply a dramatic deterioration basically into the year-end to get to the middle or the lower end of the range or have you already seen a further deterioration in October? 
+asr:0: OUTPUT 2032.83-2033.99: That's my first question. 
+asr:0: OUTPUT 2035.42-2042.28: Well uh... You know the rules of the game of the so so no i will not comment on on uh... On october. 
+asr:0: OUTPUT 2043.38-2044.54: Out soon. 
+asr:0: OUTPUT 2044.64-2051.73: But again, just looking at Q3, I can confirm that the situation is. 
+asr:0: OUTPUT 2051.91-2061.22: To give you a feeling of what we are facing in front of us. We had for example,. 
+asr:0: OUTPUT 2061.26-2068.61: To reallocate a couple of our R&D, some of our R&D team to do sort of redesign to supply. 
+asr:0: OUTPUT 2069.21-2077.00: To start redesigning a number of products to incorporate components that were more available than the ones that the products currently have. 
+asr:0: OUTPUT 2078.74-2087.33: We have a task force of supply chain people meeting weekly on the topics. 
+asr:0: OUTPUT 2088.53-2093.23: We have daily discussions with our suppliers. 
+asr:0: OUTPUT 2095.52-2102.24: It was in Q3 particularly difficult. We have probably lost a couple of tens of millions of euros of sales. 
+asr:0: OUTPUT 2102.96-2106.75: Difficult to be more precise in terms of quantification because. 
+asr:0: OUTPUT 2106.77-2116.70: Well, because you know, at the same time, you probably had a couple of distributors who ordered a bit more than they needed when you want to... 
+asr:0: OUTPUT 2116.72-2121.30: Make sure to get 10 products, you tend to order 15 or 20. 
+asr:0: OUTPUT 2121.56-2129.39: As a result, you think you are more sure, if I may say, to get the thing you really need. 
+asr:0: OUTPUT 2130.77-2139.16: So you have many factors at play, so it's difficult to give you a precise number, but we have probably lost a couple of tens of millions of euros of sales over nine months. 
+asr:0: OUTPUT 2140.00-2148.07: And again, yes, plus 11 assume that there would be a strong deterioration. 
+asr:0: OUTPUT 2148.09-2155.10: In the situation and as I said a little bit earlier, this is somehow a bit conservative, probably. 
+asr:0: OUTPUT 2155.82-2161.92: So no, I cannot be more specific. In October, you know the rules of the game. We are not commenting months, we are commenting quarters. 
+asr:0: OUTPUT 2163.68-2166.73: Thank you. And my second question is on North America. 
+asr:0: OUTPUT 2167.51-2169.85: Maybe you could give a little bit more. 
+asr:0: OUTPUT 2169.89-2177.38: Granularity on the trends there in terms of volume growth, where volumes are now versus two years ago. 
+asr:0: OUTPUT 2177.40-2181.64: The US has also seen, or North America has also seen pretty high price increases. 
+asr:0: OUTPUT 2182.38-2186.37: This year so there are volumes versus 2019. 
+asr:0: OUTPUT 2186.75-2194.81: And what are you seeing or have seen in Q3 sequentially in terms of the growth trends, momentum in the market in RAS versus non-RAS? 
+asr:0: OUTPUT 2195.16-2199.62: Thank you. 
+asr:0: OUTPUT 2199.64-2208.37: Price on a region by region basis, but I cannot tell you that there is absolutely no reason why we would do more price in North America than elsewhere. 
+asr:0: OUTPUT 2209.03-2219.44: And I saw a couple of releases where people were stating price increases of 5, 7, 9 percent. This is not the sort of price increase we are seeing in North America. 
+asr:0: OUTPUT 2220.00-2225.63: So we're not increasing prices in North America more than elsewhere. 
+asr:0: OUTPUT 2227.25-2234.23: As far as the trends are concerned, not much new things to tell you compared to what we told you in H1. 
+asr:0: OUTPUT 2234.75-2238.14: Over nine months to that that that that uh... And uh... 
+asr:0: OUTPUT 2238.16-2246.19: And residential are doing very well over the first nine months of the year with a strong double digit increase over two years. 
+asr:0: OUTPUT 2248.19-2255.12: As far as other non-residential spaces, which represent 60% of ourselves, I remind you,. 
+asr:0: OUTPUT 2256.00-2261.32: That. 
+asr:0: OUTPUT 2261.34-2265.41: The two-year trend is improving in Q3 compared to H1. 
+asr:0: OUTPUT 2266.17-2272.55: So the drop in sales over two years is not as strong in Q3 as it was in H1. 
+asr:0: OUTPUT 2273.29-2275.62: And the result of that is that there is a... 
+asr:0: OUTPUT 2276.28-2285.55: Growth over nine months compared to 2020. So still a strong drop in sales over two years, a slight growth over one year. 
+asr:0: OUTPUT 2285.81-2293.89: And if you compare H1 to Q3, Q3 is better than H1 over two years. 
+asr:0: OUTPUT 2295.08-2301.58: That's what I can tell you. And there's again nothing specific as far as the pricing is concerned in North America. 
+asr:0: OUTPUT 2302.72-2311.75: Neither between the various pieces of our business, residential, non-residential, etc., nor when comparing North America with the rest of the world. 
+asr:0: OUTPUT 2322.50-2331.51: Question from Lucy Carrier from Morgan Stanley. Please go ahead. Yes, good morning, gentlemen. Thanks for taking my question. I have a couple of follow-up, actually. 
+asr:0: OUTPUT 2332.27-2337.32: The first one is a follow-up on the question from Andreas just right now on North America. 
+asr:0: OUTPUT 2338.10-2348.05: When you speak about slide growth in the third quarter in non-res in the US, is it in volume terms or is it in value terms? 
+asr:0: OUTPUT 2348.39-2351.31: Just so we kind of know what we're talking about. 
+asr:0: OUTPUT 2354.43-2361.86: Okay, so slight growth in value terms in the third quarter. 
+asr:0: OUTPUT 2363.30-2367.43: Are you able to give us an indication of how it might look like in volume terms? 
+asr:0: OUTPUT 2370.11-2373.09: We are not giving pricing per region. 
+asr:0: OUTPUT 2373.93-2381.94: Now again, you can assume that the pricing we are doing in North America is not much different from what we are doing elsewhere. 
+asr:0: OUTPUT 2384.08-2388.05: You can come to the conclusion by yourself, but no, we're not giving precise pricing per region. 
+asr:0: OUTPUT 2389.95-2395.84: Thank you very much. My second question was around the logistic or transportation cost that you are facing. 
+asr:0: OUTPUT 2396.62-2403.30: Are you able to tell us how much they represent, generally speaking, as a percentage of cells? 
+asr:0: OUTPUT 2403.66-2411.33: And also, when you think about your procurement and whether this is procurement of components or procurement of finished products,. 
+asr:0: OUTPUT 2411.93-2417.06: How much of that is really dependent on what we call sea freight. 
+asr:0: OUTPUT 2417.46-2424.40: Rather than just kind of more traditional transportation and specifically coming from Asia into Europe or into the US. 
+asr:0: OUTPUT 2425.77-2433.51: Well, transportation is a slight cost. 
+asr:0: OUTPUT 2433.69-2439.72: Is slightly above 3% was slightly above 3% of group sales. 
+asr:0: OUTPUT 2440.82-2443.48: In fiscal year 2020. 
+asr:0: OUTPUT 2445.31-2448.41: Uh... And of course uh... 
+asr:0: OUTPUT 2448.43-2455.62: It includes domestic transportation where inflation is pretty reasonable, low single. 
+asr:0: OUTPUT 2456.78-2459.70: Transportation. 
+asr:0: OUTPUT 2460.00-2468.59: But by sea, the inflation could be as high as times four, five, or six for a cost of container, for example. 
+asr:0: OUTPUT 2472.81-2482.20: And the only significant, let's say, flu we have, big one, is between Asia and the US. 
+asr:0: OUTPUT 2482.38-2489.65: We already discussed that two years back when we discussed the Trump tariff, a year ago when we discussed Covid. 
+asr:0: OUTPUT 2489.71-2497.80: So this is the biggest, let's say, flow of products or components from one continent to another. 
+asr:0: OUTPUT 2498.26-2506.55: Now I'm turning to my colleagues, are we able to give more precise breakdown of those 3%? I'm not sure we can. 
+asr:0: OUTPUT 2508.17-2515.92: The. 
+asr:0: OUTPUT 2516.40-2519.56: As Benoit said, looking at our footprint,. 
+asr:0: OUTPUT 2519.98-2526.51: It's more domestic transportation than what you call the sea flows or intercontinental flows. 
+asr:0: OUTPUT 2527.09-2534.89: And further, our products, moreover the one traveling from China to the US, are very small products. 
+asr:0: OUTPUT 2534.91-2537.66: Where the. 
+asr:0: OUTPUT 2537.68-2542.94: The freight, the percentage of the cost or the percentage of sales are minimum. 
+asr:0: OUTPUT 2543.50-2551.05: So this is why the question is how much the transportation is arming our PNL. It's not material today. 
+asr:0: OUTPUT 2552.99-2555.08: Maybe comment as far as... 
+asr:0: OUTPUT 2555.10-2563.80: A. 
+asr:0: OUTPUT 2564.28-2570.19: It's a little bit higher than what I told you for all materials and components. It's a little bit lower for energy, for example, but it's pretty consistent. 
+asr:0: OUTPUT 2572.97-2579.94: Thank you very much, very helpful. And then maybe my last question is, I guess it's maybe a more theoretical question, but. 
+asr:0: OUTPUT 2580.14-2587.59: Do you see across the value chain in construction, whether this is you as a supplier into this market, labor costs and so on? 
+asr:0: OUTPUT 2587.63-2602.26: Do you see potentially that the price increase or the inflation acceptance is becoming more difficult? Do you think this is a risk for this industry in terms of demand as every single bit of cost. 
+asr:0: OUTPUT 2602.28-2605.83: Across the value chain seems to be increasing. 
+asr:0: OUTPUT 2607.43-2613.93: Well i i don't today i don't think that there is a short term it's because it's such a short. 
+asr:0: OUTPUT 2613.95-2618.06: In components and materials that the people are, you know,. 
+asr:0: OUTPUT 2618.42-2628.03: The. 
+asr:0: OUTPUT 2628.25-2632.01: Which probably actually has somehow a negative impact on the top line. 
+asr:0: OUTPUT 2632.05-2642.70: Which again is difficult to size and to evaluate, but when you have no wood for wooden construction, when you have no concrete for example, you have no wall, and when you have no wall you have no switch to inside. 
+asr:0: OUTPUT 2643.36-2647.65: So this impact is extremely difficult to evaluate, but it's probably happening here and there. 
+asr:0: OUTPUT 2649.71-2655.86: Now, of course, if the construction cost was to increase by 30, 40 percent,. 
+asr:0: OUTPUT 2655.98-2662.10: It could potentially, you are right, it could potentially over the midterm have a negative impact on the market itself. 
+asr:0: OUTPUT 2662.44-2664.40: That's not what we are seeing so far. 
+asr:0: OUTPUT 2665.07-2669.97: And I believe that part of this negative impact would be more than offset. 
+asr:0: OUTPUT 2670.01-2673.37: By all the positive friends which I already mentioned. 
+asr:0: OUTPUT 2674.21-2677.82: You know, whatever the cost of the goods. 
+asr:0: OUTPUT 2677.96-2687.93: If there is a strong political and social willingness to make the buildings greener,. 
+asr:0: OUTPUT 2688.77-2690.55: A lot of innovation work will happen. 
+asr:0: OUTPUT 2692.83-2701.10: You know, whatever the cost of all my talent components, if you need to install a, you know, a data system I hope to remotely work, you will. 
+asr:0: OUTPUT 2701.50-2706.99: So uh... So i think that this is not the best will not have that they need but they show that they are. 
+asr:0: OUTPUT 2707.01-2712.19: Negative coming from the cost of construction. 
+asr:0: OUTPUT 2712.73-2720.72: What is being said, you know, our price is increasing by 2.9%. It's not increasing by 10 or 15%. 
+asr:0: OUTPUT 2722.66-2726.55: And of course, the price of other inputs is also increasing. 
+asr:0: OUTPUT 2728.47-2735.48: But today I don't believe that the price for the total innovation, for example, the price for big. 
+asr:0: OUTPUT 2735.54-2738.78: Production is increasing by 30, 40, 50%. 
+asr:0: OUTPUT 2740.86-2744.84: The. 
+asr:0: OUTPUT 2747.05-2750.95: So I wouldn't be sure so. 
+asr:0: OUTPUT 2751.37-2755.02: If it could happen, frankly speaking, number one, given... 
+asr:0: OUTPUT 2755.20-2757.24: The level of pricing we see today in the market. 
+asr:0: OUTPUT 2757.50-2758.96: Is not plus 10, 15 or 20. 
+asr:0: OUTPUT 2759.10-2766.19: The. 
+asr:0: OUTPUT 2766.35-2771.15: I don't believe it will really happen. 
+asr:0: OUTPUT 2775.24-2780.34: Thank you. Next question from Supriya Subramanian from UBS. 
+asr:0: OUTPUT 2781.92-2786.25: Thank you, good morning everyone and thank you for giving me the opportunity to ask a question. 
+asr:0: OUTPUT 2787.75-2792.51: On the sort of continuing on the pricing point just wanted to get your thoughts on. 
+asr:0: OUTPUT 2792.53-2798.74: You said that you will potentially continue to take pricing action into fourth quarter as well. 
+asr:0: OUTPUT 2800.00-2805.29: How much do you see that supporting sales maybe early in 2022? 
+asr:0: OUTPUT 2806.31-2811.47: And also just wanted to get your thoughts on the supply chain issues and supply shortages. 
+asr:0: OUTPUT 2812.15-2820.76: What is your outlook or thoughts on this situation? How do you see that developing? Or let's say, how long do you expect these constraints? 
+asr:0: OUTPUT 2820.78-2823.24: To last in the market. 
+asr:0: OUTPUT 2823.98-2832.59: And maybe last question, a little bit more medium or long term, is related to the European renovation market. 
+asr:0: OUTPUT 2832.71-2842.44: Are you stopping how do you keep that that developing in the context of uh... The green deal as well as the recovery fund are you stopping to see uh... 
+asr:0: OUTPUT 2842.46-2846.11: Demand and funds going into the market now. Thank you. 
+asr:0: OUTPUT 2847.91-2853.85: Well, clearly there will be a carry. So as I said, Q4 pricing should be around plus 4%. 
+asr:0: OUTPUT 2854.51-2859.14: Compared to Q4 2020. So pretty much what we did in Q3. 
+asr:0: OUTPUT 2859.56-2867.13: And of course, this will have a carryover impact on 2022. 
+asr:0: OUTPUT 2867.49-2875.74: Well, so will the cost of raw materials and components. So you have, of course, a negative impact also of the price of the input. 
+asr:0: OUTPUT 2876.10-2881.14: Well it's far too early to discuss uh... Twenty twenty two. 
+asr:0: OUTPUT 2881.16-2886.65: We will do that in February when we release our 2020 report. 
+asr:0: OUTPUT 2886.73-2889.89: One of the first, but of course you know I'll meet them. 
+asr:0: OUTPUT 2890.75-2895.82: Which is 5 to 10% top line growth on average per year, actually, in foreign exchange. 
+asr:0: OUTPUT 2896.62-2906.53: And about 20% a bit, which we repeated and reiterated at the end of September. 
+asr:0: OUTPUT 2907.23-2909.73: As far as the supply chain constraint, well... 
+asr:0: OUTPUT 2909.75-2918.58: I have to listen to specialists and read up on studies. 
+asr:0: OUTPUT 2918.60-2926.79: You know, a very sort of conjunctural thing to the issues which, for example, is about containers. 
+asr:0: OUTPUT 2927.39-2930.93: And a number of traditional materials such as polypropylene. 
+asr:0: OUTPUT 2931.35-2937.22: And most people think that this should ease in the coming months or quarters. 
+asr:0: OUTPUT 2937.52-2938.98: Uh... 
+asr:0: OUTPUT 2939.36-2942.52: But most of the specialists also expect. 
+asr:0: OUTPUT 2942.54-2951.93: The semiconductor issue and the electronic component issue to last until the beginning of 2023 because it will take time for. 
+asr:0: OUTPUT 2951.95-2954.83: Semiconductor Specialists to build the capacities. 
+asr:0: OUTPUT 2954.93-2960.02: Extra capacities, additional capacities to answer to the demand. So that's what people say. 
+asr:0: OUTPUT 2960.16-2964.08: Transportation and traditional raw materials and components. 
+asr:0: OUTPUT 2964.22-2971.81: It should be a matter of months and for electronic components it should last a bit longer than that. 
+asr:0: OUTPUT 2972.39-2981.00: As far as the third question is concerned, well, it's too early to see the European renovation wave. We see a number of initiatives locally. 
+asr:0: OUTPUT 2981.52-2986.45: Taken by local governments, such as for example, the Naprim Redof in France. 
+asr:0: OUTPUT 2987.37-2992.63: And we see similar initiatives in a number of countries, including Italy. 
+asr:0: OUTPUT 2992.97-2995.76: But the big of the so-called innovation wave is still to come. 
+asr:0: OUTPUT 2996.44-3000.94: And it's more a topic for the years to come than a 2021 topic, as you know. 
+asr:0: OUTPUT 3001.60-3004.62: It always takes a bit of time. 
+asr:0: OUTPUT 3004.97-3013.15: Between the time initiative is announced, is structured, then it is voted by the open parliament, then it is voted by the local parliament. 
+asr:0: OUTPUT 3013.29-3018.94: But then the flow of money is a... 
+asr:0: OUTPUT 3018.96-3028.43: The. 
+asr:0: OUTPUT 3028.45-3034.61: Following the lockdowns, a lot of people decided to renovate their homes. 
+asr:0: OUTPUT 3034.77-3042.86: Because they felt that it would become not only a place where they would like to live, but also a place where they would. 
+asr:0: OUTPUT 3042.88-3045.81: Need to be remotely. 
+asr:0: OUTPUT 3045.83-3050.63: Connected to their doctors, to their office and so on and so forth. 
+asr:0: OUTPUT 3050.87-3058.68: Renovation is pretty well-oriented in 2013, but it's not coming from the renovation wave or the Fit for 55 or any of those programs. 
+asr:0: OUTPUT 3059.82-3069.59: It's coming mostly from the need of individuals and to a certain and lower extent from local incentive plans that were launched one or two years back. 
+asr:0: OUTPUT 3071.97-3073.35: Thank you very much. 
+asr:0: OUTPUT 3076.96-3080.94: Thank you. Next question from James Moore from Whiteburn. Please go ahead. 
+asr:0: OUTPUT 3082.60-3087.55: Yeah, good morning everyone. Benoit, Frank, thanks for taking my questions. I have two if I can. 
+asr:0: OUTPUT 3088.09-3094.01: Maybe do them one at a time. Lots of my questions have been asked about price and raw maps, so maybe I could shift to mix. 
+asr:0: OUTPUT 3094.85-3100.34: You've often had the strategy of getting positive mixed impact on sales from trading up over time. 
+asr:0: OUTPUT 3100.62-3107.25: I wondered if you could comment on how mixed impact to sales looked in the first nine months and whether that was in line with historic trends. 
+asr:0: OUTPUT 3109.55-3117.46: Well, you know that for us it's always difficult to identify a mix we have on one hand pricing which we can, you know... 
+asr:0: OUTPUT 3117.48-3124.38: Quantified measure very accurately and then we have volume and mix and it's a bit difficult to split between volume and mix. 
+asr:0: OUTPUT 3125.49-3133.97: And we are doing the analysis over nine months, so it's difficult for me to answer. 
+asr:0: OUTPUT 3134.69-3138.90: What I can tell you is that when we look at the various product families,. 
+asr:0: OUTPUT 3140.00-3147.73: And the sectors which we identified as or labelled as faster expanding segments, Elliot. 
+asr:0: OUTPUT 3148.65-3151.89: Products, data centers and green programs. 
+asr:0: OUTPUT 3152.39-3155.80: Grow faster than the rest of our product. 
+asr:0: OUTPUT 3156.70-3163.02: I have no more precise number to tell you. We haven't seen... 
+asr:0: OUTPUT 3163.04-3167.93: The big change whereby, for example, given the increasing price of products,. 
+asr:0: OUTPUT 3168.01-3173.09: Customers would shift from added value products to simpler or access products. 
+asr:0: OUTPUT 3173.93-3182.34: There's not such a move and we don't expect this move to happen. But I have no more comment to give you. We're not doing this kind of in-depth analysis on the 9-months basis. 
+asr:0: OUTPUT 3183.84-3186.43: Keep in mind that we have 300,000 SKUs. 
+asr:0: OUTPUT 3187.15-3196.14: So every time we want to dig into the bit more precisely into the numbers by product family, it's a big, big machine we have to put in place. 
+asr:0: OUTPUT 3197.70-3203.22: I understand my second question you may have already touched on but it's just on the fast growing segment. 
+asr:0: OUTPUT 3203.32-3212.21: And the strategy there. Could you comment on the differing speeds between the three buckets of data center connectivity and energy efficiency this year? 
+asr:0: OUTPUT 3212.51-3217.64: I'm not trying to be precise, but do you see a pecking order in terms of fastest to slowest? 
+asr:0: OUTPUT 3219.24-3220.38: It really depends on the... 
+asr:0: OUTPUT 3220.82-3224.94: The main driver, if I may say, would rather be the geographical driver. 
+asr:0: OUTPUT 3225.43-3232.07: Take for example US non-resi, excluding data center. 
+asr:0: OUTPUT 3232.39-3237.00: As I said, it's still strongly down double digits over two years. 
+asr:0: OUTPUT 3237.48-3244.68: So even if connected products or green products are doing better, they're not growing 20%. 
+asr:0: OUTPUT 3246.91-3250.99: So all product families in non-regi in the US. 
+asr:0: OUTPUT 3251.49-3256.52: Somehow suffer from the fact that people have not yet. 
+asr:0: OUTPUT 3256.54-3262.70: Going back fully to the office and that the renovation work has not yet really happened there. 
+asr:0: OUTPUT 3263.30-3268.21: Take on the other side Western Europe and residential markets, which is booming. 
+asr:0: OUTPUT 3268.35-3275.46: It's booming on those three segments as well as on traditional products. 
+asr:0: OUTPUT 3275.78-3285.13: I cannot make a difference between data center connected products and green. It really depends on the region. 
+asr:0: OUTPUT 3285.17-3287.89: It really depends also the basis for comparison. 
+asr:0: OUTPUT 3287.93-3289.87: What I can tell you is that take it as a whole. 
+asr:0: OUTPUT 3289.91-3299.38: Putting together, they're going faster than the plus 16% that we are showing for the total of the group. 
+asr:0: OUTPUT 3300.94-3303.44: Any way you can quantify that positive spread? 
+asr:0: OUTPUT 3306.13-3315.28: We are usually doing it on a yearly basis, not over nine months. So I, let's say, park your question and ask it again in February. 
+asr:0: OUTPUT 3316.84-3318.36: All right, I will. Thank you very much. 
+asr:0: OUTPUT 3325.29-3329.91: Thank you. Next question from Leslie, Societe Generale. 
+asr:0: OUTPUT 3331.67-3341.16: Good morning, thanks. Just a question on pricing, Q3 pricing came in at the top end of the 2-4% guidance range, I think you were talking about for H2. 
+asr:0: OUTPUT 3342.02-3346.61: Which I think to a certain extent was going to be dependent on tactical pricing initiatives. 
+asr:0: OUTPUT 3346.91-3356.74: Does that mean that it's been harder for you to execute on that pricing strategy to boost growth, maybe due to the supply chain environment? 
+asr:0: OUTPUT 3356.76-3365.17: So, whether there's maybe implications there for your growth expectations in the short term, does it delay that at all or should we kind of not really read too much into that? Thank you. 
+asr:0: OUTPUT 3370.35-3379.64: The. 
+asr:0: OUTPUT 3380.14-3382.62: And now we are saying it's going to be a... 
+asr:0: OUTPUT 3382.64-3390.61: More for than two because it for it was it was a four point three into three and we are shooting for four into four. 
+asr:0: OUTPUT 3391.31-3397.00: We are sort of precising the pricing guidance. The 224 is becoming now 4. 
+asr:0: OUTPUT 3400.00-3405.15: But it's never granted because you always give some price out to your customer. 
+asr:0: OUTPUT 3405.23-3413.69: Given the pricing initiatives we have launched until then, we are very confident our ability to reach this plus four in Q4. 
+asr:0: OUTPUT 3414.33-3424.16: If your question is why aren't we doing more, the answer is we could, especially in the current context. 
+asr:0: OUTPUT 3424.84-3431.31: We could do a 5, 6 or 7% price increase instead of 4 in Q4. 
+asr:0: OUTPUT 3431.97-3434.65: I don't believe it would be a wise decision for Le Grand. 
+asr:0: OUTPUT 3435.20-3437.68: Because even though everybody's increasing its price. 
+asr:0: OUTPUT 3438.08-3441.60: I think that it will put us somehow at a competitive risk. 
+asr:0: OUTPUT 3442.52-3451.73: So pricing is always a small balance you have to find between protecting your profitability and protecting your competitiveness. 
+asr:0: OUTPUT 3452.29-3456.32: And we believe with our country managers who are really... 
+asr:0: OUTPUT 3456.84-3466.65: You know, driving this price increase is we jointly believe that the plus, 4% plus, if I may say, in H2 and Q4,. 
+asr:0: OUTPUT 3467.59-3470.81: Is the best balance we can have today. 
+asr:0: OUTPUT 3473.05-3476.42: It's because we can't do more, it's because we don't want to do more. 
+asr:0: OUTPUT 3477.70-3486.63: No exactly, that's what I wanted to check on, that effectively even at 4 there was an element of tactical pricing within that allows you to gain share and boost growth. 
+asr:0: OUTPUT 3488.45-3491.45: Thanks for that and maybe just a quick follow up then on US non-resi. 
+asr:0: OUTPUT 3492.01-3498.60: I was just wondering whether you're seeing any signs at all of projects getting pushed to the right maybe due to labour or component shortages? 
+asr:0: OUTPUT 3500.96-3509.19: Well it's it's it's always difficult to say i think that that uh... Put to the right they are put to the head of this uh... Uh... And uh... 
+asr:0: OUTPUT 3510.23-3514.83: That's why I'm not negative for the US for 2022, 2023, 2024. 
+asr:0: OUTPUT 3515.54-3521.32: Now we'll see. It is true that the labor shortage is not. 
+asr:0: OUTPUT 3521.38-3531.03: Is a fact. It impacts actually not only people at the contractors for example, but it is. 
+asr:0: OUTPUT 3531.11-3533.79: We have to manage in our factories. 
+asr:0: OUTPUT 3535.90-3538.40: Well, uh... 
+asr:0: OUTPUT 3539.34-3546.69: So far I think it's not the topic. The topic is more the fact that the recovery is as expected a bit slow. 
+asr:0: OUTPUT 3547.17-3553.89: It will take a bit of time before people get back fully to work and all the renovation work is performed. 
+asr:0: OUTPUT 3554.47-3559.78: Again, Q3 is already showing some sort of improvement compared to H1. 
+asr:0: OUTPUT 3560.20-3567.77: Both in value and in volume and hopefully this will materialize in the months to come. 
+asr:0: OUTPUT 3570.47-3580.00: Great, thank you very much. Thank you. Next question from Martin Wilkie from City Investment Research. 
+asr:0: OUTPUT 3581.86-3584.12: Good morning, this is Martin from City. 
+asr:0: OUTPUT 3584.50-3588.95: Just a question on customer behavior relative to the pricing. 
+asr:0: OUTPUT 3589.15-3594.65: I appreciate your price is only up 4%, but presumably for certain product lines it's up a lot more than that. 
+asr:0: OUTPUT 3595.82-3601.50: Are you seeing any indications of customers reacting to that? 
+asr:0: OUTPUT 3601.92-3607.29: Our customers choosing to move to cheaper products as a result of pricing. 
+asr:0: OUTPUT 3607.47-3611.69: And also if you can remind us what percentage of your products are specified. 
+asr:0: OUTPUT 3611.71-3620.76: By specialists such that the electrical contractor has no ability to choose somebody else if they can find a product that is cheaper than Legrand just to understand it. 
+asr:0: OUTPUT 3620.78-3623.96: Pricing could have an effect on competitive dynamics as well. Thank you. 
+asr:0: OUTPUT 3625.09-3630.81: No, no, we are not seeing such a move whereby, given the price increase,. 
+asr:0: OUTPUT 3630.83-3638.04: The end user and the contractors would go to cheaper solutions. If we look at our, for example, premium ranges,. 
+asr:0: OUTPUT 3638.22-3646.77: Of wearing devices, Celia in France, Living Now in Italy, connected products, high-end panel boards. 
+asr:0: OUTPUT 3647.65-3650.25: So all the staff, they are doing very good performance. 
+asr:0: OUTPUT 3651.47-3656.40: Going nicely and sometimes faster than the rest of the product. 
+asr:0: OUTPUT 3656.48-3661.50: So we're not seeing such a move toward simpler products. 
+asr:0: OUTPUT 3662.44-3669.95: And again, the reason being that when you are doing some renovation work, when you ask a contractor to come,. 
+asr:0: OUTPUT 3670.39-3676.16: The cost of product would be 10% of the total cost of his work. 
+asr:0: OUTPUT 3676.68-3685.29: Out of these 10%, probably 3-4% would be local products and then you have cables,. 
+asr:0: OUTPUT 3685.65-3688.25: Lighting features and many other topics. 
+asr:0: OUTPUT 3688.63-3695.86: So if on those 2 or 3 percent you are increasing your price by 4, 5, 6 percent,. 
+asr:0: OUTPUT 3696.54-3702.20: It's not such a big deal for the end user. It's not a reason not to do the work. 
+asr:0: OUTPUT 3702.48-3708.37: Well, it could be a reason for the contractor to switch to competitors. That's why we are doing plus 4% price increase and not plus 10%. 
+asr:0: OUTPUT 3708.91-3718.34: But it might not be a reason for the end user to tell the contractor, let's stop the work, it's costing too much for me, I'm going to invest my money in something else. 
+asr:0: OUTPUT 3718.64-3726.43: All the more as, don't forget that during the year 2020, in many countries, people saved a lot of money. 
+asr:0: OUTPUT 3727.21-3734.01: I think the total savings for France alone, I don't remember the exact number, but it's 120 or 150 billion euros of money which was saved. 
+asr:0: OUTPUT 3734.21-3737.42: So to make a long story short. 
+asr:0: OUTPUT 3737.48-3746.65: I don't see this kind of behavior whereby there would be a migration, let's say, toward. 
+asr:0: OUTPUT 3746.75-3751.85: All the more as all of the factors are seen to play the fact that your product needs to be available. 
+asr:0: OUTPUT 3752.69-3756.94: Today, clearly, there is a rush towards products which are available. 
+asr:0: OUTPUT 3757.36-3764.54: So it is also the opportunity for us if we can be smart to gain a bit of market share. So we are not seeing this move. 
+asr:0: OUTPUT 3764.86-3770.69: As far as the percentage of products that would be specified, it's a large minority of products. 
+asr:0: OUTPUT 3771.21-3776.04: A lot of our products, the majority of our products, difficult to show the precise number, but the majority of our products. 
+asr:0: OUTPUT 3776.62-3780.84: Would be chosen either by the contractor or by the end user. 
+asr:0: OUTPUT 3781.20-3788.95: The end user being either an individual or a professional company, more than by an engineering office. 
+asr:0: OUTPUT 3788.97-3792.37: Typically or by a design bureau, by an architect. 
+asr:0: OUTPUT 3792.91-3798.68: Now again, when it is a contractor choosing or the end user choosing,. 
+asr:0: OUTPUT 3799.14-3806.59: Are they usually choosing lower value products? The answer is no. 
+asr:0: OUTPUT 3806.61-3813.07: And you can still sell very added value products to those guys. 
+asr:0: OUTPUT 3813.41-3822.38: If I may add maybe one factor, the current cost increase or price increase of energy. 
+asr:0: OUTPUT 3822.80-3831.49: By the way, it's not a big topic for Le Grand because I think that I'm telling to my colleagues that they can confirm the number, but I think the energy cost is 0.5% of our sales. 
+asr:0: OUTPUT 3831.99-3836.76: So you see it's a paper of tens of millions of euros, it's not big, so it's not a big, let's say, cost problem for us. 
+asr:0: OUTPUT 3837.40-3841.94: It can even provide additional opportunities and push people. 
+asr:0: OUTPUT 3842.64-3847.57: Engineering offices, contractors and users to work. 
+asr:0: OUTPUT 3848.13-3853.11: Buying a lot more energy efficient sea-related solutions. 
+asr:0: OUTPUT 3854.21-3859.42: You know when you are hitting cost is increasing by 20 or 30 percent. 
+asr:0: OUTPUT 3860.00-3867.15: And statistics show that in France it represents 1,200 Euros a year. 
+asr:0: OUTPUT 3867.77-3873.99: Well, maybe this is a good opportunity for you to buy a thermostat which you're going to pay 250 euros, 300 euros at best. 
+asr:0: OUTPUT 3874.53-3879.98: Uh... And uh... And which would have to save a fifteen twenty twenty five percent of your bill. 
+asr:0: OUTPUT 3880.66-3881.88: So, you know... 
+asr:0: OUTPUT 3882.16-3891.47: Not only we are not seeing any negative mixed effect coming from the current, let's say, supply chain crisis. 
+asr:0: OUTPUT 3891.79-3901.42: That. 
+asr:0: OUTPUT 3901.44-3904.16: Products to help people to reduce their energy. 
+asr:0: OUTPUT 3907.51-3916.22: Thank you very much. Thank you. Next question from Eric Lemarie from Byungan. Please go ahead. 
+asr:0: OUTPUT 3918.30-3922.70: Yes, good morning. Thanks for taking my question. I got two, if I may. 
+asr:0: OUTPUT 3923.34-3929.91: The first one regarding the product you mentioned, the faster expanding. 
+asr:0: OUTPUT 3929.93-3934.93: Products, so your most successful products like connected products, solutions for data centers, etc. 
+asr:0: OUTPUT 3935.52-3943.92: Do you think you've got more pricing power with this type of product than for the other product of Legrand? 
+asr:0: OUTPUT 3944.42-3949.63: My first question and I got a second one. We're getting 2022 next year. 
+asr:0: OUTPUT 3949.91-3953.77: In a scenario with further inflation next year? 
+asr:0: OUTPUT 3953.83-3963.98: Do you think you would have further room, further leeway to offset that inflation in terms of pricing, cost cutting, restructuring or would it be... 
+asr:0: OUTPUT 3964.00-3965.69: Would it be too much for the ground? 
+asr:0: OUTPUT 3968.11-3970.41: So as far as the first question is concerned. 
+asr:0: OUTPUT 3970.65-3978.64: We have neither more nor less pricing capability in those faster segment than elsewhere. 
+asr:0: OUTPUT 3979.40-3985.29: I don't think there is a specific different pattern except that they are growing faster. 
+asr:0: OUTPUT 3985.75-3989.83: So no, I wouldn't I will tell you that we have more pricing power. 
+asr:0: OUTPUT 3990.15-3994.91: As far as the 2022,. 
+asr:0: OUTPUT 3994.97-3995.98: You know it. 
+asr:0: OUTPUT 3996.12-4005.35: I will not repeat the fact that we are very confident in our ability to deliver mid-term guidance. 
+asr:0: OUTPUT 4005.37-4008.89: Which implied mid-term an average of 20% EBITDA. 
+asr:0: OUTPUT 4009.23-4016.60: But on top of that, given the fact that we are pretty reasonable in terms of pricing, that's a feeling I have. 
+asr:0: OUTPUT 4017.18-4019.84: Not doing too much of pricing. 
+asr:0: OUTPUT 4020.02-4024.16: That's probably a bit more margin for maneuver for 20-22 if we need it. 
+asr:0: OUTPUT 4025.71-4032.19: And as far as cost management is concerned, we have reinvested into cost. 
+asr:0: OUTPUT 4032.21-4039.60: The. 
+asr:0: OUTPUT 4039.62-4042.54: Put cost under a little bit more constraints. 
+asr:0: OUTPUT 4043.42-4052.09: So I'm not giving any warning for 2032. We will give guidance in February 2022. 
+asr:0: OUTPUT 4052.11-4056.86: And you can expect that the mid-term guidance will be respected. 
+asr:0: OUTPUT 4057.20-4058.98: Maybe one... 
+asr:0: OUTPUT 4060.00-4064.54: Indication on our cost base, which I didn't give and which can be useful. 
+asr:0: OUTPUT 4064.94-4072.45: I told you that our, I mean, you know that our life-long excess of nine months increased by 16%. 
+asr:0: OUTPUT 4073.33-4086.07: Our life-or-like expenses, i.e., production expenses and SG&A, increased by 8% in nine months of 2021. 
+asr:0: OUTPUT 4086.17-4095.36: At the same time, you have one of the reasons why we can compensate the increase in raw materials and components, not only for pricing but also for leverage. 
+asr:0: OUTPUT 4095.88-4104.26: And on top of that, you can see that we are punctually reinvesting into especially SG&A wherever needed. 
+asr:0: OUTPUT 4104.38-4107.69: So we are not cutting further our cost. 
+asr:0: OUTPUT 4107.87-4116.84: We are putting some cost back into the machine. Well, part of that cost, of course, is variable, but part of it is also fixed cost. 
+asr:0: OUTPUT 4117.24-4127.11: So I wouldn't give you today a specific warning or concern for 2022. Of course, our budget process is going on. 
+asr:0: OUTPUT 4127.57-4131.73: And we'll tell you more in February 2022 when we release our full year numbers. 
+asr:0: OUTPUT 4133.45-4134.45: Thank you. 
+asr:0: OUTPUT 4138.88-4143.04: Thank you. Next question from Jonathan Monty from Exxon. Please go ahead. 
+asr:0: OUTPUT 4144.86-4147.41: Yes, thanks for fitting me in. 
+asr:0: OUTPUT 4147.47-4152.77: So yeah, on the first question, maybe back to the same topic you were talking about there. 
+asr:0: OUTPUT 4152.79-4157.78: I think about Q4 and the guidance you've given on what it implies for margins. 
+asr:0: OUTPUT 4158.16-4170.01: And the conversations we were just listening to around pricing and how far to push it and how pushing it much further, which you could do, would probably ultimately hurt your market share, which seems to be something you don't want to do. 
+asr:0: OUTPUT 4170.41-4174.91: If that's the case, then you're kind of a bit boxed in in terms of pricing from here, at least for a while. 
+asr:0: OUTPUT 4175.40-4180.98: And margins are obviously under pressure in Q4. As we go into Q1 and Q2 of next year,. 
+asr:0: OUTPUT 4181.24-4188.67: Is this just something we have to weather? I listened to your comment around confident that you can recover the margin to 20% on the mid-term. 
+asr:0: OUTPUT 4189.33-4194.39: And is that really how we should read things, that the exit rate next year can be 20%? But honestly... 
+asr:0: OUTPUT 4195.36-4209.85: As we move into the early part of next year, we're going to have to accept margins sub-20 for a while because you can't pull the lever of price without hurting market share. Or is there an alternative such as a more aggressive restructuring campaign that we could see. 
+asr:0: OUTPUT 4209.87-4215.28: Announced shortly as a different level you could pull to offset the headwinds you now seem to be experiencing. 
+asr:0: OUTPUT 4217.40-4227.15: I told you that I didn't want to comment in detail 2022. I'll not go one step beyond of commenting Q1 and Q2 2022. 
+asr:0: OUTPUT 4227.69-4236.50: Again, the performance of the one quarter and it applies, my comment is more for Q4 2021, is not of great interest to me. 
+asr:0: OUTPUT 4236.92-4239.90: And uh... You know. 
+asr:0: OUTPUT 4240.00-4247.65: Delivering 17 or 18 percent or even 16 percent EBIT margin of a quarter. 
+asr:0: OUTPUT 4248.09-4254.81: Is not a big concern provided, number one, I'm fully in line with my yearly guidance. 
+asr:0: OUTPUT 4255.98-4258.48: And the 20% immunity margin. 
+asr:0: OUTPUT 4258.96-4262.04: Number two, I'm doing what it takes. 
+asr:0: OUTPUT 4262.34-4269.67: To serve my customers, accelerate my top line growth and reinforce the group positioning. 
+asr:0: OUTPUT 4270.39-4279.92: So, well, I know that it will not precisely answer your question, but again, we'll discuss the 2022 guidance in February. 
+asr:0: OUTPUT 4284.14-4293.29: You should trust a bit Legrand when we are telling you that we will do whatever it takes to deliver on Midtown Gaddens. 
+asr:0: OUTPUT 4294.81-4298.98: We intend to achieve a year of course. 
+asr:0: OUTPUT 4300.16-4310.01: I have confidence on you recovering a 20% margin. I just note that the exit rate is going to be something closer to 17.9% I think you've said as we leave 2021. 
+asr:0: OUTPUT 4311.29-4314.49: On the, maybe a different topic, acquisitions. 
+asr:0: OUTPUT 4314.77-4322.94: Obviously originally you were guiding to three. I mean we can never be sure about the scope, the timing, the timing that deals land or indeed when you choose to start consolidating deals that you do. 
+asr:0: OUTPUT 4323.94-4326.17: How is the pipeline looking right now? 
+asr:0: OUTPUT 4327.77-4331.13: Can we expect the usual sort of 4% contribution? 
+asr:0: OUTPUT 4331.33-4338.34: So the top line next year or is it becoming more difficult to get deals across the line in this sort of inflationary environment? 
+asr:0: OUTPUT 4339.70-4344.52: Well, we are indeed seeing that. 
+asr:0: OUTPUT 4344.54-4352.37: The scope of consolidation should be nearly 3%. Well, actually, it does not depend on further deals to be made. It depends on how fast we'll consolidate. 
+asr:0: OUTPUT 4352.43-4354.99: Those who were already announced. 
+asr:0: OUTPUT 4355.16-4358.24: Namely to install an Echo Tap. 
+asr:0: OUTPUT 4358.34-4364.54: Of the year. 
+asr:0: OUTPUT 4364.56-4370.71: And the scope of causation will be slightly above 2% or we can't. 
+asr:0: OUTPUT 4370.73-4374.31: In the scope of consideration will be slightly below 3%. Frankly speaking,. 
+asr:0: OUTPUT 4374.73-4379.26: It's not a big deal and we are not rushing to consolidate. 
+asr:0: OUTPUT 4379.34-4386.43: For me, it's not an absolute myth to be a 3.1. 
+asr:0: OUTPUT 4386.45-4392.79: And I can very much live with a 2.8, for example, because we wouldn't have much too much in consolidating. 
+asr:0: OUTPUT 4393.19-4399.26: So that's why the wording is nearly. 
+asr:0: OUTPUT 4399.62-4412.15: It depends on the ability to consolidate facts, which does not only depend on us, but also on the state of the financials and the readiness of the companies to be consolidated. 
+asr:0: OUTPUT 4413.11-4422.52: As far as our mid-term scope effect, what we said during our investor day was that. 
+asr:0: OUTPUT 4422.76-4427.35: Historically, it was plus 4%, including a big deer, a milestone. 
+asr:0: OUTPUT 4427.69-4429.87: And excluding my stone, it was 3%. 
+asr:0: OUTPUT 4430.37-4438.20: So we are not changing at all the guidance. We are shooting, let's say, between a plus 3 or plus 4 percent, depending on whether or not we are doing a bigger deal. 
+asr:0: OUTPUT 4438.56-4447.73: If we could do more, if we could do a given year five or six, we would of course be delighted to do so provided we are buying the right companies. 
+asr:0: OUTPUT 4448.61-4456.36: Third comment as far as our pipeline is concerned. 
+asr:0: OUTPUT 4456.80-4461.66: Well, we still have a number of discussions going on, so I'm not... 
+asr:0: OUTPUT 4461.68-4467.81: Afraid about our ability to do further this in the quarters to come. 
+asr:0: OUTPUT 4467.93-4473.65: We have quality discussions. Of course, sometimes the prices are a bit high because there's plenty of cash on the market. 
+asr:0: OUTPUT 4474.17-4479.32: It has always been the core asset to be able to. 
+asr:0: OUTPUT 4479.34-4489.27: By quality companies at reasonable prices. That's what we did this year with Enstoo and Ecotap and that's what we intend to do the quarters to come. 
+asr:0: OUTPUT 4489.43-4491.51: There's still a number of discussions going on. 
+asr:0: OUTPUT 4492.11-4502.04: I couldn't be precise on when they will materialize because until you have signed the acquisition contract and even sometimes closed the deal,. 
+asr:0: OUTPUT 4502.44-4512.21: You're never sure to make it. So I cannot be more specific except to tell you that the pipeline is not empty. Thank you. 
+asr:0: OUTPUT 4517.30-4522.60: Thank you. Next question from Simon. 
+asr:0: OUTPUT 4524.02-4525.63: Yes. Good morning everybody. 
+asr:0: OUTPUT 4526.31-4531.87: Thanks for taking the question. My first one is just maybe a bit more clarification on the organic growth guide, please. 
+asr:0: OUTPUT 4532.29-4536.06: Here specifically about the comps you're seeing in the US in the fourth quarter. 
+asr:0: OUTPUT 4536.14-4542.00: I think last year you were down 11% in the US versus a minus 1.5% decline in Q3. 
+asr:0: OUTPUT 4542.08-4544.88: So you're facing significantly easier comps. 
+asr:0: OUTPUT 4544.90-4557.38: You're saying non-resi is improving sequentially. So I would think the US should grow very nicely for you in Q4. So how should we read this into your quite conservative implied Q4 guide? 
+asr:0: OUTPUT 4557.78-4563.24: Secondly on China, you're saying in the presentation it was up double digits in the first nine months. 
+asr:0: OUTPUT 4563.68-4571.45: H1 you said it was up double digits, but maybe you can talk a bit more about how Q3 was, maybe even throughout Q3. I know it's small for you. 
+asr:0: OUTPUT 4571.69-4574.41: But just interested in that. And then lastly,. 
+asr:0: OUTPUT 4574.91-4584.60: Can you comment a bit on your customer churn in any way over the last, say, 12 to 18 months? Has this changed in any way given pricing strategies? Thanks. Thanks a lot. 
+asr:0: OUTPUT 4586.75-4587.95: Well. 
+asr:0: OUTPUT 4588.01-4591.03: As far as the Q4 is concerned for the US,. 
+asr:0: OUTPUT 4591.35-4592.53: Uh... 
+asr:0: OUTPUT 4592.55-4601.90: The fact is that it was Q4 2019 which was very strong especially compared to our competitors. 
+asr:0: OUTPUT 4603.94-4605.75: And if you look at the... 
+asr:0: OUTPUT 4606.47-4616.16: Q4 2019 compared to 2018, all of our listed peers, namely the Eton, the. 
+asr:0: OUTPUT 4616.18-4621.64: ABP, the Hubbell, the Invent, all those guys went down pretty significantly. 
+asr:0: OUTPUT 4622.28-4624.24: And our performance was a lot better. 
+asr:0: OUTPUT 4624.60-4626.61: I think her performance was. 
+asr:0: OUTPUT 4626.71-4635.42: Something like plus 2 in Q4 2019 compared to Q4 2018 and other 4 peers were down sometimes 3, 4, 5, 6 percent. 
+asr:0: OUTPUT 4636.36-4643.98: So I think that the performance in Q4 2021 will have to be compared with Q4 2019. 
+asr:0: OUTPUT 4644.26-4652.49: Which is a two-year comparison which must be done for all our areas in 2021 given the very specific. 
+asr:0: OUTPUT 4652.51-4656.76: Let's say, a pattern of the year 2020. 
+asr:0: OUTPUT 4657.48-4665.01: So that's why we don't expect fantastic growth in the US because the basis for comparison. 
+asr:0: OUTPUT 4665.87-4672.93: As far as China is concerned, when I told you that both the nine-month period and the Q4 was positive,. 
+asr:0: OUTPUT 4673.29-4680.14: If you look at the two years, both Q3 and nine months were up double digits. 
+asr:0: OUTPUT 4680.58-4687.89: Well, it is true that 2-3 is a couple of points less than Monsou's, but nothing to be worried about. 
+asr:0: OUTPUT 4688.29-4696.66: The pattern is still very positive. What to expect going ahead? 
+asr:0: OUTPUT 4696.72-4699.10: It will depend very much on the... 
+asr:0: OUTPUT 4699.12-4700.24: The end. 
+asr:0: OUTPUT 4700.26-4704.90: Of course, the Chinese economy, Chinese GDP,. 
+asr:0: OUTPUT 4705.39-4712.23: If I may, we are so small in China, I remind you that it represents 4% of our sales. 
+asr:0: OUTPUT 4712.85-4721.66: That we should be able to pursue our growth strategy even if the market is not super positive. 
+asr:0: OUTPUT 4722.22-4731.63: It's not saying that we will grow in China whatever happens, but it means that, for example, we will continue to look at potential acquisitions in China. 
+asr:0: OUTPUT 4732.77-4735.82: We've done two in the past four years. 
+asr:0: OUTPUT 4735.86-4744.22: We remain interested to do more and we'll keep investing into new products and I'm pretty confident in our ability mid-term to keep growing nicely in China. 
+asr:0: OUTPUT 4744.90-4748.85: So to make a long story short, nothing specific between H1 and Q3. 
+asr:0: OUTPUT 4749.75-4755.26: No precise guidance for the rest of the year, nor for 2022 because it's too early, and number three. 
+asr:0: OUTPUT 4755.82-4765.19: We intend to pursue an offensive growth strategy in China because we believe that we should grow this 4% of our sales to something bigger. 
+asr:0: OUTPUT 4765.93-4768.37: As far as consumer churn is concerned,. 
+asr:0: OUTPUT 4769.13-4778.10: We haven't seen significant customer going down, I mean, you know, going out of business. 
+asr:0: OUTPUT 4778.12-4781.02: In 2020 because of financial constraints. 
+asr:0: OUTPUT 4782.16-4784.90: So it's not the reason why. 
+asr:0: OUTPUT 4785.47-4787.79: Customers are changing. 
+asr:0: OUTPUT 4788.59-4797.88: And we continue to work with all the big guys in the industry, being either big distributors, DIY,. 
+asr:0: OUTPUT 4798.22-4803.30: A pure player, a partner distributor, as well as a big contractor and smaller contractor. 
+asr:0: OUTPUT 4803.62-4809.87: I don't see anything specific coming from customer churn that would be worth mentioning. 
+asr:0: OUTPUT 4810.83-4817.84: We have a pretty solid and stable customer base and I haven't seen a big shift from one customer to another coming from the crisis. 
+asr:0: OUTPUT 4819.12-4820.72: Again, you are mentioning pricing. 
+asr:0: OUTPUT 4822.62-4824.12: Good. 
+asr:0: OUTPUT 4824.28-4826.47: I don't want to repeat... 
+asr:0: OUTPUT 4826.49-4829.95: Things but. 
+asr:0: OUTPUT 4829.99-4838.82: The. 
+asr:0: OUTPUT 4838.84-4840.94: Q3 is not a never seen. 
+asr:0: OUTPUT 4841.24-4845.91: In Le Grand History, we have several years with pricing at 3 or 4%. 
+asr:0: OUTPUT 4846.79-4856.18: So I wouldn't want you to think that this pricing is so exceptional that it is completely changing the mind of the market. 
+asr:0: OUTPUT 4856.20-4864.36: Or changing the players that are active in the market. This is something we saw from time to time in the past years. 
+asr:0: OUTPUT 4866.71-4875.92: Thanks, Benoit. Thank you. Next question from William Mackey from Kepler Chevrolet. Please go ahead. 
+asr:0: OUTPUT 4877.86-4880.98: Good morning and thank you for the time. 
+asr:0: OUTPUT 4882.06-4891.87: I wanted to ask another question on the USA, please, just if you can help us understand. If I think about the year and how it's developed,. 
+asr:0: OUTPUT 4892.45-4893.59: I think... 
+asr:0: OUTPUT 4893.61-4897.64: In Q1, you had 4% growth. 
+asr:0: OUTPUT 4897.66-4904.54: And non-resi declined. In Q2 you had 15% growth and again your non-resi was. 
+asr:0: OUTPUT 4904.56-4911.41: Nearly unchanged and in Q3 in value terms you're reporting a 1% decline. 
+asr:0: OUTPUT 4911.49-4915.78: But you're saying that non-Resi in the nine months has slightly grown. 
+asr:0: OUTPUT 4916.32-4920.96: So can you be a bit more specific about why there was such a drop? 
+asr:0: OUTPUT 4921.10-4930.95: It seems to be if we assume pricing was plus four in Q3, then there's a volume drop of about five percentage points. 
+asr:0: OUTPUT 4931.11-4934.41: Non-Rezi was growing according to your commentary. 
+asr:0: OUTPUT 4934.83-4942.90: So why is there such an apparent drop in Q4 around data centers and residential? Or perhaps I'm reading it the wrong way. 
+asr:0: OUTPUT 4943.08-4949.59: How would you describe the trend in the segments in Q3 across the business lines? 
+asr:0: OUTPUT 4951.39-4960.00: Well, I was more commenting over two years than over one year because when it comes to top line,. 
+asr:0: OUTPUT 4960.32-4966.39: The year 2020 is so, let's say, strange, if I may say. 
+asr:0: OUTPUT 4966.45-4971.29: Then one year comparison doesn't make a lot of sense. 
+asr:0: OUTPUT 4971.47-4974.25: For example, in Q3,. 
+asr:0: OUTPUT 4974.59-4984.30: The Resi in the US was super strong in your Q3 2020 because there was the. 
+asr:0: OUTPUT 4984.34-4990.51: The sort of consequences from the end of the virus lockdowns happening here and there. 
+asr:0: OUTPUT 4990.85-4994.27: So the base for comparison Q3 in residential is strong. 
+asr:0: OUTPUT 4994.81-4996.64: And as a result... 
+asr:0: OUTPUT 4996.92-4998.14: Q3. 
+asr:0: OUTPUT 4998.32-5007.53: Performance in 2021 for residential is a bit smooth but again it's not coming from any negative trend it's coming from the beautiful compilers that's why. 
+asr:0: OUTPUT 5008.43-5013.31: I'm as much as possible analyzing the numbers over two years. 
+asr:0: OUTPUT 5013.75-5020.86: And over two years, that's what I can tell you, residential, up, strongly up. 
+asr:0: OUTPUT 5020.90-5027.65: I mean up double digit in nine months, up double digit in Q3. 
+asr:0: OUTPUT 5028.65-5034.15: With about the same number over two years, no change in trend for RESI. 
+asr:0: OUTPUT 5035.12-5041.44: Data center, very, very strong growth over two years in nine months. 
+asr:0: OUTPUT 5041.94-5045.43: Very strong growth over 2 years in Q3. 
+asr:0: OUTPUT 5046.21-5052.97: Not slightly lower in Q3 than over nine months but it's not significant and as a whole it's going fast. 
+asr:0: OUTPUT 5053.83-5055.88: Now, other non-Haiti. 
+asr:0: OUTPUT 5057.24-5066.03: If down double digit in H1 is down single digit in Q3,. 
+asr:0: OUTPUT 5067.19-5072.47: And as a result, it's still down double digits in nine months, but less than in H1. 
+asr:0: OUTPUT 5073.91-5081.32: And from those numbers, I'm deriving the comments I'm making on trends, saying trends in Rési are still good. 
+asr:0: OUTPUT 5082.08-5089.87: Even though looking at Q3 alone over one year, it's smooth, but it's a bit difficult to. 
+asr:0: OUTPUT 5089.89-5093.89: The market itself is still supportive. 
+asr:0: OUTPUT 5093.91-5097.70: It is very supportive for data centers and for other non-residents. 
+asr:0: OUTPUT 5097.82-5099.50: There is some sort of improvement. 
+asr:0: OUTPUT 5100.00-5107.53: Because the decrease in sales is more or less cut by half between H1 and Q3. 
+asr:0: OUTPUT 5107.89-5114.81: So we see that as a sort of sign for improvement, even though it remains negative over two years. 
+asr:0: OUTPUT 5115.64-5120.12: Is that clear? Perfectly clear. Thank you very much. 
+asr:0: OUTPUT 5126.09-5130.11: Thank you, that was the last question. Back to you for the conclusion. 
+asr:0: OUTPUT 5133.37-5140.48: Well, thank you very much for your patience and for the time you dedicated to Le Grand. 
+asr:0: OUTPUT 5141.84-5149.05: And have a good day. Thank you very much. And of course, Ronan, Mark, Sammy Ben-Gurion,. 
+asr:0: OUTPUT 5149.07-5156.72: I'm going to leave it at that. 
+asr:0: END

@@ -1,0 +1,716 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.54-10.29: Good morning and welcome to this presentation of the SSAB year-end report. 
+asr:0: OUTPUT 11.29-19.54: My name is Per Hilstrom. I'm head of Investor Relations and with me today is our president and CEO Martin Lindqvist. 
+asr:0: OUTPUT 20.36-23.10: And also CFO, Deanna Kralius. 
+asr:0: OUTPUT 24.22-32.27: And the agenda today, we will start with the summary of fantastic year 2021. 
+asr:0: OUTPUT 33.43-38.98: And then the financials with Lena, a little bit more look at the quarter as such. 
+asr:0: OUTPUT 39.70-49.37: And then we're also very pleased today to present a plan for much faster transformation of our Nordic production system. 
+asr:0: OUTPUT 49.83-58.68: So Martin will spend some time to explain what we are looking at there. And at the end, as usual, Outlook and Summary. 
+asr:0: OUTPUT 59.36-65.09: And we will also have a lot of time for questions here, so you will be able to ask your questions at the end. 
+asr:0: OUTPUT 67.07-71.93: So by that, please Martin, start with 21. 
+asr:0: OUTPUT 72.65-79.52: Thank you, Per, and good morning, everyone. I will start with a brief comment in the summary of 2021. 
+asr:0: OUTPUT 80.20-85.69: And it was an S or was a historical year for SSAB with. 
+asr:0: OUTPUT 85.75-91.33: I would say a solid performance in a very strong market and I will give you a couple of examples of that. 
+asr:0: OUTPUT 91.39-100.14: But we had an operating profit of almost 19 billion or 18.8 billion in net operating profit. 
+asr:0: OUTPUT 100.66-107.27: We had a very strong net cash flow, a net cash flow of 12.4 billion and that meant that we could. 
+asr:0: OUTPUT 107.29-110.01: Close the year in a debt-free position. 
+asr:0: OUTPUT 110.07-119.08: And the board decided at the board meeting to propose the AGM to have a dividend of 5 kronor and 25 öre per share. 
+asr:0: OUTPUT 119.66-124.82: Of course, a lot of this is due to a very strong market. 
+asr:0: OUTPUT 124.90-132.77: But it's also structure. We have seen very strong demand for our niche products. We have seen good and solid internal performance. 
+asr:0: OUTPUT 133.11-140.92: If we take safety as one example, we have improved the number of LTIs a lot during the year, and I would say that that is structurally. 
+asr:0: OUTPUT 140.96-145.99: And we still are not at zero, but we are approaching and doing a good job in the organization. 
+asr:0: OUTPUT 146.87-153.61: I think also we had stable and high production. We saw a successful ramp up. 
+asr:0: OUTPUT 153.63-158.36: During the autumn of 2020 after a very challenging 2020. 
+asr:0: OUTPUT 159.00-162.28: We saw record output in several production lines. 
+asr:0: OUTPUT 162.96-168.53: We have managed I think in a decent way to handle problems. 
+asr:0: OUTPUT 168.65-173.31: Even though they are not fully over with the COVID-19 in the. 
+asr:0: OUTPUT 173.33-178.16: At the production sites in the organization. We have also had problems with. 
+asr:0: OUTPUT 178.18-183.54: Supply chain issues, shortage of rail cars, sea transports. 
+asr:0: OUTPUT 183.56-190.21: Trucks and so on both during the full year of 2021 during Q4 and also into. 
+asr:0: OUTPUT 190.23-192.27: Q1 2022. 
+asr:0: OUTPUT 194.57-198.02: It was a remarkable year in many aspects and I think. 
+asr:0: OUTPUT 198.04-206.79: The first volumes of fossil free products that we delivered, the first commercial volumes to Volvo was landmark for SSAB. 
+asr:0: OUTPUT 207.33-215.86: And we have during the year and are continuing with that to announce a number of strategic agreements with customers. 
+asr:0: OUTPUT 215.88-223.92: We have, the board has taken a decision to speed up the transition and take it directionally. 
+asr:0: OUTPUT 223.94-228.77: Decision to for a faster transformation. I will come back to that in the end. 
+asr:0: OUTPUT 230.71-235.03: But we have not also market-wise only surfed on a strong market. 
+asr:0: OUTPUT 235.06-242.86: We have actually been able to continue to deliver on our strategic targets. If we look at special steals in 2021. 
+asr:0: OUTPUT 243.34-250.81: They almost reached 1.5 million tons and I would say that they would have reached it if we wouldn't have had the transport. 
+asr:0: OUTPUT 250.83-259.32: Quality challenges. So they are going to reach the strategic target of 1.6 million tons at the latest 2023. 
+asr:0: OUTPUT 259.64-266.47: Services is moving on. We haven't done any major acquisitions during the year, but we are on our way to reach the strategic targets. 
+asr:0: OUTPUT 266.89-269.93: America's premium share improving over the year. 
+asr:0: OUTPUT 270.31-276.88: And looking at SSAB Europe, we are fairly close to the strategic target we have for 2023. 
+asr:0: OUTPUT 277.22-282.24: 43% being the outcome of Premium Share 2021 and still a lot of things to do. 
+asr:0: OUTPUT 282.36-288.11: Automotive of course, a segment affected by a shortage of semiconductors. 
+asr:0: OUTPUT 288.37-298.08: But still a good growth and if we look at the premium volumes in SSAB Europe, we already 21 reached the target for 23. 
+asr:0: OUTPUT 298.14-301.76: A head of plan, still a lot to do, and a lot of interesting prospects. 
+asr:0: OUTPUT 301.78-309.15: And the Nordic market share in line with our long-term target of between 14-45% Nordic market share. 
+asr:0: OUTPUT 311.01-316.56: I said in the beginning it was a marvelous year. We had record earnings in all divisions. 
+asr:0: OUTPUT 316.58-325.05: Very good EBIT margins, good profitability and all together the EBIT summed up to almost 19 billion. 
+asr:0: OUTPUT 325.11-330.63: But Lena will give you some more details on the financials. 
+asr:0: OUTPUT 330.93-332.39: So Lena, I hand over to you. 
+asr:0: OUTPUT 336.42-345.97: Thank you, Martin. Yes, it is really a privilege to start in my new role with these kind of figures, which I will go through briefly. 
+asr:0: OUTPUT 349.17-355.36: In this slide, if we look at the graph on the right-hand side on the bottom,. 
+asr:0: OUTPUT 355.66-360.40: We can see the EBITDA improvement quarter by quarter during this year. 
+asr:0: OUTPUT 360.98-366.31: And definitely the market was favorable. Prices were increasing throughout the year. 
+asr:0: OUTPUT 367.41-373.35: Volumes were on the lower side during the second half of the year and the problems already Martin mentioned. 
+asr:0: OUTPUT 375.26-381.72: But if we say that the market was favorable, I would also highlight the good performance of the whole organization. 
+asr:0: OUTPUT 382.76-386.27: Already discussed about the premium mix improvement. 
+asr:0: OUTPUT 386.45-393.35: Europe division, America's improving the premium portion of the sales and also. 
+asr:0: OUTPUT 393.37-399.32: Special steels delivered higher volumes this year, so good work in the sales in that aspect. 
+asr:0: OUTPUT 400.30-408.17: Also the stable production improvement since last year, that is giving of course big benefit for the profitability. 
+asr:0: OUTPUT 408.85-418.38: So we can say that good achievement also in that aspect and also the cost efficiency, we were sustaining a good cost efficiency during the year. 
+asr:0: OUTPUT 418.46-421.94: So all that shown in the figures related to EBITDA. 
+asr:0: OUTPUT 424.92-432.79: And then quarterly figures isolated Q4 comparing to last year telling exactly the same story. 
+asr:0: OUTPUT 432.81-438.60: Prices on much higher level, they are compensating well the higher raw material. 
+asr:0: OUTPUT 438.62-443.32: Cost base volume slightly lower compared to last year's. 
+asr:0: OUTPUT 443.34-444.52: The fourth quarter. 
+asr:0: OUTPUT 445.57-452.71: Fixed cost on a higher level and this is now mainly related to maintenance activities where we had the shift in timing. 
+asr:0: OUTPUT 453.05-457.70: America's division did the big maintenance during Q3 last year. 
+asr:0: OUTPUT 457.72-464.10: And this year we did it instead of during Q4. Also mobile maintenance which was done. 
+asr:0: OUTPUT 464.12-468.71: During Q4 is something we do only every second year. 
+asr:0: OUTPUT 469.97-477.56: And then the other half is related to personal cost. With these high earnings, we are realising profit sharing programmes. 
+asr:0: OUTPUT 480.04-484.76: And then if we compare Q4 with the Q3 outcome,. 
+asr:0: OUTPUT 484.80-491.03: Prices did continue to go upwards, compensating again higher raw material cost base. 
+asr:0: OUTPUT 491.45-499.28: Volumes slightly lower, partially seasonality of Q4 related, and also these transportation problems that Martin already mentioned. 
+asr:0: OUTPUT 499.98-507.85: Fixed cost in this comparison more related to seasonality. Q3 is a vacation period. 
+asr:0: OUTPUT 508.41-517.90: And then, as you can see, the utilization of capacity was higher, thus the materials and services also higher in line with that. 
+asr:0: OUTPUT 520.52-525.11: All this good performance led to a strong cash flow. 
+asr:0: OUTPUT 525.13-530.83: Q4 net cash flow ended on the level of 5.4 billion. 
+asr:0: OUTPUT 530.85-533.37: And the full year 12.4 billion. 
+asr:0: OUTPUT 534.09-539.92: Comparison high level with last year, definitely the earnings played an important role. 
+asr:0: OUTPUT 540.26-542.26: They were much higher compared to last year. 
+asr:0: OUTPUT 542.94-546.75: Some negative impact with working capital, with higher inventories. 
+asr:0: OUTPUT 546.93-554.17: But nothing to be alarmed about because the net operating working capital over net sales did develop really well during this year. 
+asr:0: OUTPUT 555.78-563.98: Maintenance expenditures on a higher level, financial items slightly lower, taxes naturally higher with this level of earnings. 
+asr:0: OUTPUT 564.70-574.43: Strategic investments were somewhat higher and this is now mainly related to the Oksana Sundt conversion started and will continue during next year as well. 
+asr:0: OUTPUT 577.20-583.70: As set already in the beginning, the target set for year end to be net debt free, we reached. 
+asr:0: OUTPUT 583.72-591.85: And actually exceeded the gearing ratio at the end of the year being negative minus three, while last year it was 19. 
+asr:0: OUTPUT 592.61-596.84: So the net cash position positive 2.3 billion. 
+asr:0: OUTPUT 599.36-602.40: Then when we look at the next year forecast on high level. 
+asr:0: OUTPUT 603.90-610.59: The CAPEX activities will increase during next year and this is now mainly related to the Oxelosund conversion. 
+asr:0: OUTPUT 611.09-617.62: We were indicating CAPEX need for this year 3, 3.5 and we were slightly below 3. 
+asr:0: OUTPUT 619.12-622.94: Net interest to be somewhat lower for next year. 
+asr:0: OUTPUT 622.96-629.27: And then the taxes higher, and that's due to the incurred taxes this year, will be paid out next year. 
+asr:0: OUTPUT 631.03-636.48: So on a total level 8.5 is the total gas need estimate at this stage for next year. 
+asr:0: OUTPUT 638.72-644.68: Very briefly about the raw material view going forward or actually this is illustrating the history. 
+asr:0: OUTPUT 646.75-648.39: The iron ore. 
+asr:0: OUTPUT 648.41-657.64: Peaked during 21, started to come down luckily during Q4, but the latest development is again upwards. 
+asr:0: OUTPUT 659.32-667.69: So the outlook for iron ore for Q1 is that it will be on a similar level than Q4 with an upward risk. 
+asr:0: OUTPUT 668.63-672.31: And then the coal prices, they continued to increase. 
+asr:0: OUTPUT 672.97-678.74: Second half of the year, peaking upwards, and they will continue to increase also during Q1. 
+asr:0: OUTPUT 679.60-687.91: This is only a few of the raw materials, the biggest raw materials, and we know that the alloys, for example, zinc and other materials will continue to go up. 
+asr:0: OUTPUT 688.27-693.49: So overall the cost base is expected to be somewhat higher for Q1. 
+asr:0: OUTPUT 696.28-700.10: And very briefly, scrap prices. This is illustrating the US. 
+asr:0: OUTPUT 700.60-704.80: Spot prices they were on a higher level for Q4. 
+asr:0: OUTPUT 704.86-714.77: Coming down, mainly seasonality for January and the outlook for February is that it's stable or might be going upwards. So that's still unknown. 
+asr:0: OUTPUT 716.58-721.66: But then regarding Outlook and other issues, Martin will continue. 
+asr:0: OUTPUT 723.88-727.39: Thank you, Diana. 
+asr:0: OUTPUT 729.27-737.54: Some words then about the accelerated Nordic transformation and to start to give you some background. 
+asr:0: OUTPUT 737.60-744.44: Back in 2017, we formed the hybrid joint venture together with Vattenfall and LKAB. 
+asr:0: OUTPUT 744.94-754.55: And we also inaugurated the Bird Unique pilot plant for producing sponge iron, fossil-free sponge iron in 2020. 
+asr:0: OUTPUT 755.54-765.02: During last year, we delivered or produced the first sponge iron, fossil-free sponge iron in that pilot plant. 
+asr:0: OUTPUT 765.57-774.71: We also decided to, or we planned, started a plan to reach commercial volumes of 1.3 million tons in this project of fossil free. 
+asr:0: OUTPUT 774.73-781.46: Sponsor in 2026 in line with the need and the demand in in Oxelösund. 
+asr:0: OUTPUT 782.36-792.11: We then in August rolled and delivered the first fossil-free steel and that was delivered to Volvo Group to their new TARA machines. 
+asr:0: OUTPUT 792.51-795.14: In this partnership, we have... 
+asr:0: OUTPUT 795.16-798.90: Created the foundation for a fossil free value chain. 
+asr:0: OUTPUT 798.92-803.48: All the way from the iron ore being up in the mountain in the north of Sweden. 
+asr:0: OUTPUT 803.50-809.47: Until finished products in this example, a TARA machine from Volvo Construction Equipment. 
+asr:0: OUTPUT 809.49-813.89: So this is what we have created since 2016. 
+asr:0: OUTPUT 815.52-825.19: We have also seen a lot of interest from existing customers in our important and focused segments. 
+asr:0: OUTPUT 825.23-827.71: These are examples of partnerships. 
+asr:0: OUTPUT 827.85-830.89: That we announced during last year. 
+asr:0: OUTPUT 831.55-835.24: We have also seen that the demand today. 
+asr:0: OUTPUT 835.26-843.62: And especially in the future exceeds the planned supply of 1.3 million tons in 2026. 
+asr:0: OUTPUT 844.08-851.85: And the demand is not only bigger but also broader than we currently have the ability to produce. 
+asr:0: OUTPUT 852.25-860.52: And I would say a big part of it is within the mobility segment, advanced high strength steels for automotive and for heavy transport. 
+asr:0: OUTPUT 860.80-861.94: And we have. 
+asr:0: OUTPUT 861.96-873.77: Had and continue to have, and that is only increasing new customers in those segments approaching SSAB wanting to sign partnerships and take part of this development. 
+asr:0: OUTPUT 875.42-882.60: So we have decided or the board has decided to start a feasibility study with the ambition or the... 
+asr:0: OUTPUT 882.62-887.71: To accelerate the Nordic strip production system. 
+asr:0: OUTPUT 888.07-896.56: And the idea is to build a new mini mill in Luleå and one in Råå and close existing blast furnaces and steel shops and so on. 
+asr:0: OUTPUT 896.64-901.96: Build two new compact high-efficient mini-mills with a scale of roughly. 
+asr:0: OUTPUT 901.98-907.15: 2.5 million ton each which is in line with current capacity. 
+asr:0: OUTPUT 908.35-912.47: We expect to complete this transformation during the coming 10 years. 
+asr:0: OUTPUT 912.65-920.52: And that is the time is good because that is before the next scheduled blast furnace relining and the next scheduled. 
+asr:0: OUTPUT 920.54-926.85: Invest big investments in coke oven batteries and so on. So the timing is perfect around 2030. 
+asr:0: OUTPUT 927.45-937.18: This will allow us to expand the product range in terms of grades, dimensions and quality within current specialty and premium strategy. 
+asr:0: OUTPUT 937.34-945.25: As one example, we will be able to produce Q&T 2 meter wide with thin gauges, which is asked for by the market. 
+asr:0: OUTPUT 946.19-956.66: This will also give us capability to run a flexible load of HBI, sponge iron and recycled scrap. So part of the discussions and. 
+asr:0: OUTPUT 956.68-962.66: The partnerships we have with customers is to reuse the virgin scraps, so to say. 
+asr:0: OUTPUT 963.32-973.41: We will leverage existing downstream assets for the new mills, including Borlänge, Hemmelinna, Tubemills, Tibnore, Rokey Construction, Katoleng Facilities. 
+asr:0: OUTPUT 973.89-981.24: And we will build both mills fossil free from the start, including power supply. And I will come into some details. 
+asr:0: OUTPUT 982.98-993.39: If we look at this graph showing the possibility to reduce with 8 million tons of carbon dioxide per year, 15 years. 
+asr:0: OUTPUT 993.41-994.61: Earlier than planned. 
+asr:0: OUTPUT 994.67-996.20: If we just put... 
+asr:0: OUTPUT 996.22-1008.19: What the cost might be or where it is close today of 2030 without free allocations because the free allocations in Europe will go away. 
+asr:0: OUTPUT 1008.35-1015.76: That by itself is equivalent to 7 billion per year in cost avoidance by doing this fossil free. 
+asr:0: OUTPUT 1016.46-1021.68: But this of course overall strengthen our ESG position as a company. 
+asr:0: OUTPUT 1022.90-1027.75: If you look into the benefits with these type of meals. 
+asr:0: OUTPUT 1028.05-1037.46: I would claim that this will give us the possibility to have a structural and long-term profitability uplift if we look and start with the commercial benefits. 
+asr:0: OUTPUT 1038.04-1042.02: We will have a broader range of specialty and premium products. 
+asr:0: OUTPUT 1042.46-1052.31: We will be able to increase sales to Nordic customers in areas where we don't have capacity today and that is asked for. One example is. 
+asr:0: OUTPUT 1052.33-1053.99: Galvanized material. 
+asr:0: OUTPUT 1054.17-1061.00: We will have a much faster ramp up of fossil free steel volumes in line with the market demand. 
+asr:0: OUTPUT 1061.76-1067.19: If we look at the operational efficiencies, we will have a much better cost position. 
+asr:0: OUTPUT 1067.25-1074.81: Lead times will be completely different. Today we have lead times of six, eight and sometimes 10 weeks. 
+asr:0: OUTPUT 1074.85-1078.66: We will build mills with lead times below two weeks. 
+asr:0: OUTPUT 1079.28-1088.27: We will, as said, avoid costs for CO2 emissions and we will de-risk the carbon dioxide cost exposure. 
+asr:0: OUTPUT 1088.83-1096.20: And we will also try to take away this small lost part of. 
+asr:0: OUTPUT 1096.22-1104.16: Of emissions by also looking into using biofuels in oxylesone to become 100% fossil free. 
+asr:0: OUTPUT 1105.09-1112.63: If we look at the increased operational flexibility, and as you know, we are used to run mills like this. We have two of them in US. 
+asr:0: OUTPUT 1112.89-1114.93: We will have lower fixed costs. 
+asr:0: OUTPUT 1115.18-1123.30: And a much better ability to adopt to swings in demand. It's much easier with the mini mill and electric arc furnace. 
+asr:0: OUTPUT 1123.32-1125.75: It's in practice, if you put it bluntly. 
+asr:0: OUTPUT 1126.25-1134.41: Red and a green button. When the business cycle is good, you push the green button and when the business cycle is bad, you push the red button. 
+asr:0: OUTPUT 1135.82-1145.35: So much more flexibility than running blast furnaces that are typically built for being run 24-7 in 15 years or 20 years and then you do a relining. 
+asr:0: OUTPUT 1145.47-1151.15: Or coke oven batteries that you run 24 7 in 30 to 50 years without flexibility. 
+asr:0: OUTPUT 1152.63-1160.50: We will also have a better raw material flexibility. We can use both fossil free HBI from the partnership in hybrid. 
+asr:0: OUTPUT 1160.56-1168.13: And we can also use recycled scrap from internal operations and customers, scrap that we are typically today selling on the market. 
+asr:0: OUTPUT 1168.71-1178.98: And then of course we will be able to reduce or avoid reinvestments in existing cold based operation. And as you might know,. 
+asr:0: OUTPUT 1179.00-1184.58: Many of our operations were originally built during the 60s and the 70s. 
+asr:0: OUTPUT 1184.60-1189.55: So we will have modern mills, state-of-the-art mills with much lower capex needs. 
+asr:0: OUTPUT 1191.93-1200.52: We expect this, when we move now and start the feasibility study, to cost around 45 billion for the coming 8 to 10 years. 
+asr:0: OUTPUT 1201.80-1212.07: And that includes Luleå, Råh, Bålängen, Hemmelina, but it is excluding the conversion in Oxelösund that costs five billion on top of this. 
+asr:0: OUTPUT 1212.49-1216.80: And if we look at the investment plan up until 2045,. 
+asr:0: OUTPUT 1216.86-1219.88: I would say that this is similar or even lower. 
+asr:0: OUTPUT 1219.90-1229.07: Than the existing plan to keep maintenance of the assets we have today and moving into electric arc furnaces. 
+asr:0: OUTPUT 1229.13-1234.77: So we will have a much more strategic and future-oriented investments in this case. 
+asr:0: OUTPUT 1234.81-1241.74: And we, when we look forward, we see that we have the ability to fund this transition with our own cash flow. 
+asr:0: OUTPUT 1243.22-1254.23: And when we look at, and we will come back with updates when we do the FIDs and so on, but when we look at the overall calculation, this is a very interesting investment case. 
+asr:0: OUTPUT 1254.73-1260.82: But we can't do this only by ourselves. We need help with some things from the society. 
+asr:0: OUTPUT 1261.02-1267.05: Of course, we need environmental permits and have an efficient permit process. 
+asr:0: OUTPUT 1267.79-1277.46: That is maybe a little bit less worrying. What is important though is that we have fossil free electricity at the right time. 
+asr:0: OUTPUT 1277.48-1279.18: At the right place. 
+asr:0: OUTPUT 1279.30-1289.67: So we need to work with electricity transmission and make sure together with society that we can deliver that together on time. But if we can do that,. 
+asr:0: OUTPUT 1289.71-1299.36: We have a very good opportunity to be fossil free 2030 in line with the growing market demand. 
+asr:0: OUTPUT 1301.08-1305.51: So the way forward, we have initiated the feasibility study for Luleå and Råå. 
+asr:0: OUTPUT 1305.95-1311.05: We will start immediately the permit process already now. 
+asr:0: OUTPUT 1311.51-1322.60: And we will come back with information about sequencing and financial guidance when it is available. So we will keep you updated as we move on with this project. 
+asr:0: OUTPUT 1324.94-1327.83: Then, Outlook and Summary for the year. 
+asr:0: OUTPUT 1328.49-1336.48: When we look into Q1, we continue to see healthy demand in many sectors and many areas. 
+asr:0: OUTPUT 1336.72-1345.21: And especially for QNT, an advanced high-strength steel, we foresee a solid demand in Q1. 
+asr:0: OUTPUT 1345.69-1348.31: There is always, of course,. 
+asr:0: OUTPUT 1348.33-1352.07: In Q1 as it was in 2021 and Q4. 
+asr:0: OUTPUT 1352.45-1359.52: Questions regarding transport capacity and also the development of the COVID-19 situation. 
+asr:0: OUTPUT 1359.72-1367.17: But right now it's not worse than it was in Q4. So and hopefully this will ease up during 2022. 
+asr:0: OUTPUT 1368.13-1376.84: So when we guide and look at shipments and prices, we expect higher shipments in special steels, Europe and America, in Q1 versus Q4. 
+asr:0: OUTPUT 1377.46-1385.71: Stable prices in special steels, somewhat lower prices in Europe, and stable to somewhat higher prices in America. 
+asr:0: OUTPUT 1386.37-1396.02: MS Elena said generally higher raw material costs and fuels and bottlenecks within transportation will continue in Q1. 
+asr:0: OUTPUT 1397.06-1399.64: So we sum it up before we open up for questions. 
+asr:0: OUTPUT 1400.12-1409.71: Strong earnings, strong cash flow generation, high and stable production, good work with continuous improvement, what we internally call SSAB1. 
+asr:0: OUTPUT 1410.03-1417.22: Better safety performance and a debt-free situation with a net cash position end of 2021. 
+asr:0: OUTPUT 1417.58-1421.84: The board is proposing a dividend of 5 kronor and 25 öre per share. 
+asr:0: OUTPUT 1422.28-1428.63: And we have a plan for an accelerated Nordic transformation that better will meet customer demand. 
+asr:0: OUTPUT 1429.11-1432.29: And for fossil fuel products within our segments. 
+asr:0: OUTPUT 1432.69-1439.70: We are doing a step change, planning for a step change when it comes to efficiency, flexibility and cost position. 
+asr:0: OUTPUT 1440.10-1446.87: And we will be able to eliminate carbon dioxide emissions 15 years earlier than the previous plan. 
+asr:0: OUTPUT 1448.19-1452.51: So with that, Per, I think we open up for Elena. We open up for questions. 
+asr:0: OUTPUT 1453.95-1456.94: Yes, we will do it. Just a few words. 
+asr:0: OUTPUT 1457.78-1466.65: We have good time now for questions, but I'm sure there is a lot of questions. So maybe in the first round, keep it to a couple of questions. 
+asr:0: OUTPUT 1466.81-1472.17: And as always, please state them one at a time to make the process a bit easier here. 
+asr:0: OUTPUT 1473.37-1477.96: So by that, then I would please ask the operator to present instructions. 
+asr:0: OUTPUT 1480.18-1488.61: If you wish to ask a question, please dial 01 on your telephone keypad now to enter the queue. Once your name is announced, you can ask your question. 
+asr:0: OUTPUT 1489.23-1494.27: If you find its answer before it should turn to speak, you can dial 02 to cancel. 
+asr:0: OUTPUT 1495.22-1501.16: Our first question comes from the line of Alan Gabriel and Morton Stanley. Please go ahead, your line is open. 
+asr:0: OUTPUT 1502.54-1506.47: Yes, hi. Good morning, everyone. I have two questions. I'll start with them one at a time. 
+asr:0: OUTPUT 1506.73-1509.51: Firstly, on the budget for your green transition. 
+asr:0: OUTPUT 1509.71-1517.46: How much do you expect to obtain in funding from the Swedish or EU government, knowing that Oxellösen was the only site to have received the EU innovation fund backing? 
+asr:0: OUTPUT 1517.48-1518.64: Back in November last year. 
+asr:0: OUTPUT 1519.04-1522.56: Given that your peers are also expecting almost 50% funding for their project. 
+asr:0: OUTPUT 1523.56-1531.79: What do you expect? In our calculations, we have done this with our own cash flow and then if we would get some funding, we haven't calculated with that. 
+asr:0: OUTPUT 1532.77-1542.22: The 45 billion is what we believe it would cost maximum and we see that we can do this with our own cash flow generation. 
+asr:0: OUTPUT 1544.48-1551.83: Okay, thank you. And the second question is, what would be the maximum CapEx that you're willing to tolerate in any given year from now on until the end of the project? 
+asr:0: OUTPUT 1552.21-1557.74: And what does that mean for your capital returns strategy and your dividends? Say, for example, in 2022. 
+asr:0: OUTPUT 1558.16-1566.09: We will not change the dividend policy. The proposal for 2021 is in line with the dividend policy. We will not change that. 
+asr:0: OUTPUT 1566.23-1570.27: I think we are in a position with net cash. 
+asr:0: OUTPUT 1570.99-1578.98: When I look forward and look at demand development, cost development and so on, you should expect us to continue to generate. 
+asr:0: OUTPUT 1579.22-1584.28: I've been saying this for many years now, but you should expect us to continue to generate strong free cash flow. 
+asr:0: OUTPUT 1584.64-1592.85: And then we will use that, and of course this is money belonging to the shareholders, we will use that to invest and also to pay dividends. 
+asr:0: OUTPUT 1595.52-1597.64: From your maximum capex tolerance. 
+asr:0: OUTPUT 1598.56-1606.55: But that will of course change over the years and I mean now we start the feasibility study and we are running the Oxellusund project. 
+asr:0: OUTPUT 1606.91-1616.28: I mean, it will be a bit, call it back and loaded, the rest of it. So and we will have possibilities to adjust that over time as well. 
+asr:0: OUTPUT 1616.66-1620.86: We don't have one figure saying that this is the maximum. 
+asr:0: OUTPUT 1620.88-1628.09: Investment level we will have. But what we know is that we, instead of investing in old equipment, we will invest in brand new equipment. 
+asr:0: OUTPUT 1630.37-1639.34: Okay, thank you. Thank you. Our next question comes from the line of Tom Zhang of Barclays. Please go ahead, your line is open. 
+asr:0: OUTPUT 1640.58-1644.40: Yes, morning. Thanks for taking our questions. Also to take them one by one. 
+asr:0: OUTPUT 1644.54-1651.29: The first question, I was wondering if you could help us understand what sort of the net capex is because clearly you're. 
+asr:0: OUTPUT 1651.31-1657.64: Avoiding, as you mentioned, coking battery, CapEx, some other CapEx that you would have needed if you kept the glass fences. 
+asr:0: OUTPUT 1658.18-1664.90: I was wondering if you had a number on effectively what the net CapEx expenditure is over the next 10 years, if you deducted those costs. 
+asr:0: OUTPUT 1665.31-1667.89: But if you take him as I tried to show out. 
+asr:0: OUTPUT 1668.17-1675.76: I mean, what we see running the existing operations for the period I showed on the slide. 
+asr:0: OUTPUT 1675.84-1682.08: Will cost slightly more. And to give you some examples, a relining of a blast furnace is roughly one to. 
+asr:0: OUTPUT 1682.10-1684.36: 1.5 or around 1.5 billion. 
+asr:0: OUTPUT 1685.91-1693.85: Building a new or relining a coke oven battery is much more expensive than that. And then we have steel shops and a lot of other things. So I would say. 
+asr:0: OUTPUT 1693.87-1701.78: This is compared to the previous plan a bit more front loaded, but the absolute terms are actually slightly lower. 
+asr:0: OUTPUT 1704.50-1707.87: Okay, fair enough. And second question just on. 
+asr:0: OUTPUT 1707.89-1713.51: US plate pricing. I'm wondering if you're feeling any pressure there given plate looks to have overshot. 
+asr:0: OUTPUT 1713.77-1722.68: HRC quite materially now. Do you think there are any sort of risks that normalizes or do you think this kind of plate HRC spread could, an elevated spread could be maintained? 
+asr:0: OUTPUT 1723.32-1724.62: Given sort of infrastructure tomorrow. 
+asr:0: OUTPUT 1724.94-1735.05: Very good question, but I would say that what we saw regarding the spread of HRC and plate last year was abnormal with HRC being much higher than plate. 
+asr:0: OUTPUT 1735.38-1738.16: What we see now is more a historical pattern. 
+asr:0: OUTPUT 1738.50-1743.32: With that uh... Stabilize and be there forever i don't really know about that. 
+asr:0: OUTPUT 1743.34-1749.59: We see a good underlying demand for plate in North America and especially for infrastructure purposes and others. 
+asr:0: OUTPUT 1749.61-1754.35: But where the spread will go. I was surprised to see the negative spread last year, to be honest. 
+asr:0: OUTPUT 1758.92-1768.87: I think the spread now, at least from the numbers that I see, is quite a bit above historic normalized, but it sort of feels like, yeah, and the market demand is there too. 
+asr:0: OUTPUT 1768.89-1770.59: Certainly stop it going negative again. 
+asr:0: OUTPUT 1772.43-1774.19: Okay, those are my questions. Thanks very much. Cheers. 
+asr:0: OUTPUT 1776.00-1782.28: Thank you. Our next question comes from the line of Seth Rosenfeld of BNP Parata. Please go ahead to your line. 
+asr:0: OUTPUT 1784.10-1791.27: Good morning. Thanks for taking our questions. I too, I'll take one by one first on decarbonization and second on special steels. 
+asr:0: OUTPUT 1791.99-1797.48: With regards to the decarbonization strategy, can you just give us a bit more color on the raw materials plan? 
+asr:0: OUTPUT 1797.82-1803.36: You know flexibility between scrap and HBI, but on the HBI side you're reliant on hybrid. 
+asr:0: OUTPUT 1804.10-1809.03: Can you walk us through the plans for expansion of the hybrid green HPI capacity? 
+asr:0: OUTPUT 1809.05-1814.31: And what the additional CapEx implications would be for your contribution. I'll start there, please. 
+asr:0: OUTPUT 1816.06-1819.42: What we are planning for right now is what we call the demonstration. 
+asr:0: OUTPUT 1820.00-1823.80: A full-scale production plant of 1.35 million tons. 
+asr:0: OUTPUT 1824.32-1830.69: We have announced that that will be built by the partners up in Vitofors in northern Sweden. 
+asr:0: OUTPUT 1831.03-1837.70: And then of course, we are discussing other plans also to step up these investments and LKAB is doing that. 
+asr:0: OUTPUT 1837.74-1846.31: So we are doing this in a joint venture and a partnership so this fits together with the plans for the value chain. 
+asr:0: OUTPUT 1846.87-1850.11: Our ambition is to build a fossil free value chain. 
+asr:0: OUTPUT 1850.13-1856.96: And have fossil free steel available from that fossil free value chain for our customers. 
+asr:0: OUTPUT 1857.04-1861.50: And that will of course be dependent on the future demand. 
+asr:0: OUTPUT 1861.52-1871.55: What we see right now is that the demand is stronger than we thought and in the partnerships we have signed the ambitions are quite strong. 
+asr:0: OUTPUT 1871.61-1873.23: So we have a good. 
+asr:0: OUTPUT 1873.25-1883.28: Quality good, good prospects for the future in that aspect. Then of course, we need of course, power supply in order to do this transformation. 
+asr:0: OUTPUT 1883.68-1893.37: The power generation is there and the power generation is being built out, but we also need power supply. So that I would say will be time-wise maybe. 
+asr:0: OUTPUT 1893.39-1894.96: Limiting factor. 
+asr:0: OUTPUT 1899.78-1904.64: On that, if by 2030 you're using exclusively green inputs. 
+asr:0: OUTPUT 1905.03-1910.83: How much HBI do you expect to be consuming compared to that 1.3 million tons currently under development? 
+asr:0: OUTPUT 1911.57-1912.85: Of course much more, yes. 
+asr:0: OUTPUT 1913.93-1920.44: We are moving now into the feasibility study and we can flex between. 
+asr:0: OUTPUT 1920.46-1926.23: HBI scrap and recycled virgin scrap, so to say. 
+asr:0: OUTPUT 1926.45-1929.53: So as said, we are not using the scrap today. 
+asr:0: OUTPUT 1929.89-1936.24: We can get scrap back from customers and use internal scrap. So the exact balance we need to come back to. 
+asr:0: OUTPUT 1940.84-1947.23: And I guess one last question, please, on special steals. Can you just talk us through the medium-term outlook for price realizations? 
+asr:0: OUTPUT 1947.45-1952.57: This is a business that historically has been a lot less volatile than the Americas or Europe businesses. 
+asr:0: OUTPUT 1953.07-1959.36: With some price pressure being realized today in the spot market, how do you think about special steals going forward? 
+asr:0: OUTPUT 1960.02-1966.71: If we take a step back and look at the IBIT margins. 
+asr:0: OUTPUT 1966.73-1975.20: Europe and America's had better and higher EBIT margins than special steel, which is typically the case in a very strong market. 
+asr:0: OUTPUT 1976.14-1985.39: So you're right, special steels are much more stable margin-wise and price-wise, less fluctuations and less volatility. 
+asr:0: OUTPUT 1985.71-1994.59: What we see and what we saw during 2021 is structurally increasing underlying demand and we have seen that for quite some time. 
+asr:0: OUTPUT 1994.65-1996.36: And that is the important part. 
+asr:0: OUTPUT 1996.64-2004.58: They will continue to grow and I would bet you that we will meet the strategic target of 1.6 at the latest 2023. 
+asr:0: OUTPUT 2004.70-2007.81: So we are following the plan and we are actually a bit ahead of plan. 
+asr:0: OUTPUT 2008.71-2012.93: But less volatility and more stable margins over time. 
+asr:0: OUTPUT 2013.95-2020.14: But the underlying demand is structurally growing. Okay, thank you very much. 
+asr:0: OUTPUT 2023.66-2029.23: Thank you. Our next question comes from the line of Alan Spence, Jefferies. Please go ahead to your line, Alan. 
+asr:0: OUTPUT 2031.51-2039.52: Yeah, thanks guys. Similarly, two questions, take one at a time. The first one on decomposition, how long do you anticipate the feasibility studies to take? 
+asr:0: OUTPUT 2039.64-2045.33: And what is your assumption around through cycle profitability that allows you to find yourself out of cash flow? 
+asr:0: OUTPUT 2046.63-2052.71: I must apologize. The first question was on how long before we can see the feasibility. 
+asr:0: OUTPUT 2054.13-2063.66: We have started a feasibility study and we will gradually get more and more educated, but I would say maybe one and a half, two years maximum. 
+asr:0: OUTPUT 2068.31-2075.74: And the second part of that one was, what is your assumption around the recycle profitability so that you can finance the capex out of cash flow? 
+asr:0: OUTPUT 2076.56-2085.87: When we look at the long-term profitability and cash flow generation, including these investments, we see that we can finance this over this period. 
+asr:0: OUTPUT 2087.07-2089.01: That's our base assumption. 
+asr:0: OUTPUT 2089.13-2094.41: Then of course, when you do projects like this, in Swedish we say, hängslen och livrem. 
+asr:0: OUTPUT 2094.75-2099.96: You need to be really sure about that. And we are very confident that we can do that. 
+asr:0: OUTPUT 2104.10-2112.85: The second one on Europe, in 2021 you achieved your tonnage target per premium volume. 
+asr:0: OUTPUT 2113.19-2117.72: What's what's kind of an upside target for 23 or where do you see that going? 
+asr:0: OUTPUT 2118.60-2119.82: I see we have. 
+asr:0: OUTPUT 2119.84-2130.29: A lot to do on that target and especially within automotive where the demand has been affected by shortage of semiconductors. 
+asr:0: OUTPUT 2130.33-2133.55: We have excellent products and some products they're high. 
+asr:0: OUTPUT 2133.57-2140.04: The martensitic steels up to 2000 megapascal, which is where we are world unique, we know the platform. 
+asr:0: OUTPUT 2140.18-2141.32: The. 
+asr:0: OUTPUT 2141.56-2142.58: And. 
+asr:0: OUTPUT 2145.49-2150.25: A lot of growth prospects for the automotive part as one example. 
+asr:0: OUTPUT 2151.51-2155.22: Invested in bowling in the continuous annealing line. 
+asr:0: OUTPUT 2156.34-2158.54: So we have. 
+asr:0: OUTPUT 2159.26-2166.89: Opportunities to continue to grow that premium mix above the target of 2023. 
+asr:0: OUTPUT 2167.11-2171.93: Thank you. And just if I have one last one, just quick confirmation. 
+asr:0: OUTPUT 2172.75-2180.90: If the feasibility studies take one and a half to two years, can you just confirm that there will be no capex spent on those projects until those studies are done? 
+asr:0: OUTPUT 2181.52-2187.75: No, but there will be some costs, I mean, with consultants, internal work and so on. 
+asr:0: OUTPUT 2188.01-2189.89: To be honest, I'm not sure it will take. 
+asr:0: OUTPUT 2190.23-2198.76: I don't have the exact days and month it will take the feasibility study but a fair guess from the top of my head would be one and a half to two years. 
+asr:0: OUTPUT 2199.10-2204.20: And then we know the cap and then we will take the decisions mill by mill, so to say. 
+asr:0: OUTPUT 2210.03-2215.78: Thank you. Our next question comes from the line of Luke Nelson at JP Morgan. Please go ahead, your line is open. 
+asr:0: OUTPUT 2217.80-2220.14: Hi, thanks for taking my question. 
+asr:0: OUTPUT 2221.58-2225.45: Two for me, one by one. Firstly, again, just on decarbonisation. 
+asr:0: OUTPUT 2225.53-2228.57: Maybe just more around the funding side of things. 
+asr:0: OUTPUT 2228.69-2232.17: And following from the prior question that. 
+asr:0: OUTPUT 2232.19-2238.74: It sounds like CapEx is probably going to ramp up in a year or two's time, so 2022. 
+asr:0: OUTPUT 2239.04-2243.92: Will still be a CapEx light year from that side of things. 
+asr:0: OUTPUT 2244.78-2247.05: I suppose in that context it's... 
+asr:0: OUTPUT 2247.07-2255.40: It's likely going to see a significant increase again in terms of balance sheet strength and the net cash position. 
+asr:0: OUTPUT 2256.36-2259.76: How should we be thinking about that surplus capital over the very short term? 
+asr:0: OUTPUT 2260.86-2266.79: Is it likely that it's going to be kept more as a war chest in advance of that cap extent? 
+asr:0: OUTPUT 2267.97-2275.64: Or is there still an ability to maybe return surplus capital back to shareholders in the near term? I'll start with that. 
+asr:0: OUTPUT 2276.36-2279.46: I think we have clear dividend policy and we will. 
+asr:0: OUTPUT 2279.48-2286.29: Follow that dividend policy and we are obviously in a different position right now with the net cash position and as I said. 
+asr:0: OUTPUT 2286.37-2290.47: I've said it many times and I have a tendency of repeating myself on that issue. 
+asr:0: OUTPUT 2290.49-2297.20: But you should expect us to continue to generate from operations strong cash flow and have a good cash flow generation. 
+asr:0: OUTPUT 2297.26-2299.18: And we are not done even though. 
+asr:0: OUTPUT 2299.20-2305.45: I think Lena was rightly so impressed with the development of net operating working capital over sales. 
+asr:0: OUTPUT 2305.75-2312.29: We actually had a lot of inventory set at the end of the year due to transport problems and so on. 
+asr:0: OUTPUT 2314.15-2322.90: I think we will have solid cash flow generation for the coming years and for the future and then we will use that cash flow wisely. 
+asr:0: OUTPUT 2323.90-2331.39: As I said, it belongs to the shareholders. We will live by the dividend policy and we will do investments that we believe is... 
+asr:0: OUTPUT 2331.41-2334.21: Good investments for the future. So it will be a combination. 
+asr:0: OUTPUT 2337.80-2342.96: The second question is more just on the cat X figure itself. 
+asr:0: OUTPUT 2343.84-2350.43: He may be clearly the subject to a feasibility study and confirmation of that. 
+asr:0: OUTPUT 2350.89-2359.60: Maybe can you just talk about to what extent there's contingencies built in within that figure from things like cost inflation and overrun? 
+asr:0: OUTPUT 2360.00-2364.08: And then maybe just in terms of how much. 
+asr:0: OUTPUT 2364.10-2371.25: Of that budget is fixed versus still subject to change and maybe assumptions around. 
+asr:0: OUTPUT 2372.83-2377.50: Of course we have done our homework and done our calculations. 
+asr:0: OUTPUT 2377.54-2386.81: And we are of course not willing to put ourselves in a situation where we would exceed that round and rough figure. 
+asr:0: OUTPUT 2386.85-2390.95: There are continuous builds into that number, yes. 
+asr:0: OUTPUT 2395.74-2405.59: I will leave it there and I will jump back in. Thank you. Let's come back to the issue when we have the FIDs and the investment cases ready and then we can talk about profitability, internal rate of return and so on. 
+asr:0: OUTPUT 2407.83-2416.62: Okay, great. Thank you. Our next question comes from the line of Christian Adewale of Citigroup. Please go ahead, your line is open. 
+asr:0: OUTPUT 2417.96-2424.02: Hi, thanks for taking my question. A couple of questions have already been asked, but a follow-up on CAPIC. 
+asr:0: OUTPUT 2424.32-2427.47: So I mean, with the Nordic system plan in place,. 
+asr:0: OUTPUT 2428.41-2440.00: We can see four large bucket of the capex, which is sustaining capex contribution to the hybrid development, also some conversion capex, and then on top of that Nordic system capex. 
+asr:0: OUTPUT 2440.60-2445.11: Is that a fair way of looking at your CapEx pipeline for the next 10 years? 
+asr:0: OUTPUT 2445.27-2446.39: And then. 
+asr:0: OUTPUT 2446.41-2454.17: Can you help us estimate the cap for beyond 2022 in terms of all these four buckets? 
+asr:0: OUTPUT 2454.19-2459.90: Kind of a you know incremental capex in 2023, 2024, 2025 in these four buckets. 
+asr:0: OUTPUT 2461.26-2472.47: What we are saying is that the transformation of the building of two modern high efficient mini mills in the Nordic production system, including investments in Bålängen, Hemmelina,. 
+asr:0: OUTPUT 2472.49-2474.23: And some other that will cost. 
+asr:0: OUTPUT 2474.25-2476.08: Roughly 45 billion. 
+asr:0: OUTPUT 2476.16-2480.56: We have also said that the conversion of Oxelösund will cost roughly five billion. 
+asr:0: OUTPUT 2480.86-2489.25: So these are the two main buckets. Oxelle Sund will, as communicated earlier, be up and running in Reddit 2026. 
+asr:0: OUTPUT 2489.55-2491.85: But then also when you know that... 
+asr:0: OUTPUT 2491.87-2500.66: We are not going to run the existing facilities with the blast furnaces and coke oven batteries and so on. 
+asr:0: OUTPUT 2500.68-2504.00: For the for the long term future. 
+asr:0: OUTPUT 2504.58-2509.37: There will also be a bucket of capex avoidance in existing facilities. 
+asr:0: OUTPUT 2510.01-2518.86: Mean right now we are up until now we have been running them as going concerned meaning that they would run forever so we have. 
+asr:0: OUTPUT 2518.88-2527.01: We have a bucket of capex avoidance as well. And then how that plays out every year and so on is a bit too early to say. 
+asr:0: OUTPUT 2527.11-2534.09: In the 45 billion we have contingencies and we will come back to quality FIDs for each. 
+asr:0: OUTPUT 2534.11-2538.36: Investment. This is a directional decision and this is the starting point of. 
+asr:0: OUTPUT 2538.38-2543.62: Of a vision and an idea of speeding up the transformation of the Nordic Strip system. 
+asr:0: OUTPUT 2544.76-2546.71: Where we have done a lot of homework, of course. 
+asr:0: OUTPUT 2548.81-2550.65: Sure, sure. Thanks a lot. 
+asr:0: OUTPUT 2550.73-2560.20: And then a quick shorter term question on working capital. So you've already invested close to 6 billion in working capital in 2021. 
+asr:0: OUTPUT 2560.76-2567.63: What should be kind of from a modeling perspective? What should we thinking in terms of working capital in Q1? 
+asr:0: OUTPUT 2567.65-2569.31: At least from a direction point of view. 
+asr:0: OUTPUT 2570.99-2578.28: You will of course be dependent on the market, but you should not expect us to massively invest in working capital. 
+asr:0: OUTPUT 2578.30-2581.74: Quite the opposite. 
+asr:0: OUTPUT 2584.02-2585.69: Okay, thanks look very care. 
+asr:0: OUTPUT 2588.67-2594.41: Thank you. Our next question comes from the line of Carsten Rieck at Credit Suisse. Please go ahead to your line, it's open. 
+asr:0: OUTPUT 2595.96-2602.34: Thank you very much. Two questions from my side. The first one is on the current order backlog in Europe and North America. 
+asr:0: OUTPUT 2602.80-2609.07: Do you see any change in pattern currently, probably for second quarter? 
+asr:0: OUTPUT 2609.53-2613.45: Given the high seed prices still in your order book. 
+asr:0: OUTPUT 2615.30-2625.19: Is there any standoff or do you think the good water intake will also continue into the second quarter? So the first half is pretty much. 
+asr:0: OUTPUT 2625.53-2627.81: Done. That's the first one. 
+asr:0: OUTPUT 2628.99-2638.24: And typically we just guide for the coming quarter and the order book for Q1 gives us the courage to give the guidance we have. 
+asr:0: OUTPUT 2638.92-2641.58: Then I said, COVID is a question mark. 
+asr:0: OUTPUT 2642.52-2649.47: The transportation system is a question mark, but the order book gives us clarity in Q1. 
+asr:0: OUTPUT 2650.19-2656.48: Am I expecting the world to break down first of April? It doesn't look like that right now. 
+asr:0: OUTPUT 2659.46-2665.75: We believe that these shortages will probably ease during the first half. 
+asr:0: OUTPUT 2666.77-2669.91: That's our base scenario. Then as you said, we don't hold back. 
+asr:0: OUTPUT 2672.71-2678.74: Okay, perfect. That helps already. The second question I have is also on the CapExOR 2022. 
+asr:0: OUTPUT 2679.90-2681.66: You mentioned around five billion. 
+asr:0: OUTPUT 2681.68-2690.13: At the same time, we see that your targets for SSAD services, for example, to achieve $4.5 billion in sales,. 
+asr:0: OUTPUT 2690.49-2695.32: And out of it, one and a half billion through acquisition is still on. 
+asr:0: OUTPUT 2695.92-2700.50: Ideally, you need to actually execute on this within the next 24 months. 
+asr:0: OUTPUT 2701.56-2710.49: Is this 5 billion capex number including any exposition capex? Yes. Is it already included? Yes. 
+asr:0: OUTPUT 2712.65-2721.02: I was partly wrong during my presentation because we actually did some acquisition within SSAB services during 2021 as well. 
+asr:0: OUTPUT 2722.62-2726.11: Okay, perfect. Thank you. I just wanted to clarify that. Thank you very much. 
+asr:0: OUTPUT 2728.51-2734.93: Thank you. Our next question comes from the line of Locust Braumhaiser of Kepler Schaefferer. Please go ahead, your line is open. 
+asr:0: OUTPUT 2737.24-2740.00: Yes, I'm on it. Thanks for taking the question. 
+asr:0: OUTPUT 2741.18-2749.99: Maybe let me get back to the decarbonization plan, which I guess is pretty impressive for the rest of the industry. 
+asr:0: OUTPUT 2752.11-2755.32: When you talk about the motives to advance that much. 
+asr:0: OUTPUT 2756.24-2766.09: I take the point on the demand, but I guess with the longer term perspective, this is probably what you expected anyway, that the green signal is becoming. 
+asr:0: OUTPUT 2766.11-2769.97: The main product the market is demanding for. 
+asr:0: OUTPUT 2770.35-2780.76: Are there any other points why this is being accelerated that much? Looking at the exit zone, we have been discussing these issues with infrastructure and permitting. 
+asr:0: OUTPUT 2780.78-2790.43: The power cables and so on for quite some time. So what is giving you the confidence from that background that you can move that much faster than previously anticipated? 
+asr:0: OUTPUT 2791.63-2800.36: I think it's a bit less complicated up in northern Sweden and northern Finland for one reason. 
+asr:0: OUTPUT 2800.40-2807.19: We have learned a lot as well during this process, but the underlying factor is the increased demand. 
+asr:0: OUTPUT 2807.25-2815.14: And when we started this project together with LKAB and Vattenfall, we were not really foreseeing how the demand would develop. 
+asr:0: OUTPUT 2815.48-2822.32: I think also we have a unique position here up in the Nordics because we have surplus of fossil free electricity. 
+asr:0: OUTPUT 2822.68-2826.09: We have the right iron ore, we have the knowledge and we have. 
+asr:0: OUTPUT 2826.19-2830.19: Now also proven that we can produce this steel and that is. 
+asr:0: OUTPUT 2830.21-2837.48: Good, have been asked for by the market and has been creating a lot of interest in the market. 
+asr:0: OUTPUT 2837.88-2839.60: I also think that. 
+asr:0: OUTPUT 2839.62-2849.91: We have with us prerequisites, the possibility to bring and start to bring mini-mills to Europe, which has not been the case before. 
+asr:0: OUTPUT 2850.03-2858.28: We have experience since 20 years of running mini mills and you see the development in North America now with quite. 
+asr:0: OUTPUT 2858.30-2869.75: I mean take steel dynamics and Sinton as an example, quite impressive mills being built with capacity and cost position and capabilities that fits us very well. 
+asr:0: OUTPUT 2869.81-2880.04: And we see the possibility to broaden our product offering. One example was two meter wide QNT with thin gauges that is asked for by the market. 
+asr:0: OUTPUT 2880.38-2886.43: But we don't have the ability to produce today with good cost efficiency and productivity. 
+asr:0: OUTPUT 2886.93-2893.41: So it's a lot of reasons, but it starts with the increasing demand from the market and the marketplace. 
+asr:0: OUTPUT 2893.47-2897.48: And if you should do this anywhere in Europe, I think you should do it in... 
+asr:0: OUTPUT 2897.50-2899.70: In northern Sweden and northern Finland. 
+asr:0: OUTPUT 2902.88-2907.11: I think there's a fair point and not to maybe can we come back to the capex figure. 
+asr:0: OUTPUT 2907.75-2910.87: Maybe I will, I'm not 100% sure whether I got it right. 
+asr:0: OUTPUT 2911.21-2912.73: Is the. 
+asr:0: OUTPUT 2912.75-2916.50: Is the. 
+asr:0: OUTPUT 2916.52-2925.07: The plan including any incremental DRI investments or would be the base case that this could be done by LKB. 
+asr:0: OUTPUT 2925.33-2927.93: And if there's... 
+asr:0: OUTPUT 2928.15-2935.74: Are you having now a different stance on the... 
+asr:0: OUTPUT 2935.76-2940.98: You know, on the whether you want to be. 
+asr:0: OUTPUT 2941.00-2947.35: Part of this or do you want to have that outside of your core competencies? 
+asr:0: OUTPUT 2947.83-2954.35: Is this acceleration now changing your stance on what is your core business and what is outside of your core? 
+asr:0: OUTPUT 2954.89-2963.30: No, it hasn't. And we haven't, to be honest, really decided. What is important for us is the partnership with LKAB and Vattenfall and the ambition or the. 
+asr:0: OUTPUT 2963.32-2969.07: The ambition to create the fossil free value chain and to optimize that value chain. 
+asr:0: OUTPUT 2969.13-2979.54: And then how we will invest or not in that we need to figure out over time. But we have been investing in the pilot plant and we are now in the hybrid. 
+asr:0: OUTPUT 2979.56-2983.90: In the final stages of the FID with the demonstration plant. 
+asr:0: OUTPUT 2986.41-2994.69: So is the TRI included in the 45 billion? The 45 billion is what is currently the Nordic Strip System. 
+asr:0: OUTPUT 2995.86-2998.74: So the answer is simple and the answer is no. 
+asr:0: OUTPUT 3001.44-3009.15: And finally, on the ramp up of the green steel shipments, fossil fuel steel shipments,. 
+asr:0: OUTPUT 3009.71-3017.32: You're saying that you want to have the commercial push already from the very start. 
+asr:0: OUTPUT 3017.44-3026.27: So are you seeing a fair chance that the mill can deliver the full volumes from the very beginning or shall we expect there's a multi-year ramp up? 
+asr:0: OUTPUT 3027.31-3033.77: There is always an investment ramp up. The good thing with this is that we can build the mills in parallel with the existing mills. 
+asr:0: OUTPUT 3034.13-3038.40: And then when the new mills are ramped up, we close the existing mills. 
+asr:0: OUTPUT 3038.68-3045.39: And we can do that before the next blast furnace relining or before we need to spend a lot of money in coke oven batteries and others. 
+asr:0: OUTPUT 3045.81-3051.61: So from a risk perspective, I think this is also a way of mitigating risks. 
+asr:0: OUTPUT 3053.31-3057.20: We will not put any customers in jeopardy. 
+asr:0: OUTPUT 3059.86-3069.71: Maybe, maybe I was unclear what I meant is on the, on the demonstration plant is first 1.3 million tons of fossil fuel steel. 
+asr:0: OUTPUT 3070.53-3077.32: What kind of timeline do you think you need to fully push and establish that Toms in the market? 
+asr:0: OUTPUT 3077.94-3081.46: A one-year process is rather a multi-year ramp-up phase. 
+asr:0: OUTPUT 3081.58-3088.31: No, we are getting more and more sure that we will be able to deliver volumes from that plan to Oxelösund 2026. 
+asr:0: OUTPUT 3090.31-3094.21: Okay. Okay, that's clear. Thank you very much. 
+asr:0: OUTPUT 3097.02-3102.80: Our next question comes from the line of Patrick Mann at Bank of America. Please go ahead, your line is open. 
+asr:0: OUTPUT 3104.58-3107.69: Good day, guys. Thank you very much for the opportunity to answer the question. 
+asr:0: OUTPUT 3109.43-3115.74: A bit of a follow-up question just on the possible funding for this, and apologies if I misunderstood the answer. 
+asr:0: OUTPUT 3116.56-3125.37: But I understood that at the moment you're planning for the SEC 45 to be funded internally from cash flows and you're confident that you can generate that. 
+asr:0: OUTPUT 3126.07-3137.54: I mean, is there not government funding or government support or European funds or even low-cost financing available that can help offset some of this capex pull? And will you be looking into that? 
+asr:0: OUTPUT 3138.16-3141.68: Or is it the case that you looked at it and decided to do it yourself? 
+asr:0: OUTPUT 3142.50-3150.87: But of course there could be possibilities like that, but we have not taken that into account when we have done our calculations. 
+asr:0: OUTPUT 3151.73-3155.60: We see a lot of interest of funding these kind of projects. 
+asr:0: OUTPUT 3155.62-3165.21: But I said, when we look at the future, we see that we have the ability to fund this with our own cash flow and then how we finally finance it, we... 
+asr:0: OUTPUT 3165.25-3169.37: Let's take that decision when we come to the investment decisions. 
+asr:0: OUTPUT 3169.89-3174.21: As you saw last year, we already then had this sustainability linked bond. 
+asr:0: OUTPUT 3174.81-3184.56: Where we had good conditions on the back of the earlier plan. Now this is much more aggressive, so we will not be in a worse position on that as well. 
+asr:0: OUTPUT 3186.69-3191.21: But i think the starting position is decent with the net cash positions. 
+asr:0: OUTPUT 3191.23-3197.30: Good cash flow generation prospects. So I think, yeah. 
+asr:0: OUTPUT 3197.32-3198.98: Thanks. 
+asr:0: OUTPUT 3199.18-3208.73: The reason there's so many questions on this is because your peers say they're expecting up to 50% of government support. So I think that's where it's all coming from. 
+asr:0: OUTPUT 3209.71-3212.35: I mean, and then maybe just one follow up. 
+asr:0: OUTPUT 3214.15-3223.68: Okay, yeah, sorry. Please go ahead. I was trying to think out loud and that is not always a good idea. So please continue. 
+asr:0: OUTPUT 3226.99-3235.54: The second question I just wanted to ask, you know, you did speak a little bit about how this could be positive for margins in terms of. 
+asr:0: OUTPUT 3235.60-3239.30: You know, the different grades and qualities of steel that you're able to output. 
+asr:0: OUTPUT 3240.64-3248.49: Can you just help us think through the unit economics of this a little bit more? Should we be thinking about this as higher cost? 
+asr:0: OUTPUT 3248.51-3257.02: Still although you avoid co2 but at the end of the day you're getting a premium or a higher price on average a higher realized price. 
+asr:0: OUTPUT 3258.76-3259.98: That's the way to think about it. 
+asr:0: OUTPUT 3260.30-3268.59: The way we have looked at this is that we will have a much more cost efficient production with a broader product portfolio. 
+asr:0: OUTPUT 3268.67-3272.35: And then of course, as you mentioned, some future cost avoidance. 
+asr:0: OUTPUT 3273.43-3275.68: And that is how we have done the calculations. 
+asr:0: OUTPUT 3275.74-3279.36: I think there will be most probably a premium. 
+asr:0: OUTPUT 3279.38-3286.43: To start with on fossil free, but I think and hope that fossil free will be the new normal. 
+asr:0: OUTPUT 3286.49-3290.11: And because customers and consumers are demanding that. 
+asr:0: OUTPUT 3290.27-3301.70: So over time, I think this will be a very cost efficient, effective way of producing fossil free steel products within our niches and our segments. 
+asr:0: OUTPUT 3304.36-3305.51: Thank you very much. 
+asr:0: OUTPUT 3309.31-3315.62: Thank you. Our next question comes from the line of Victor Trollstin of Danske Bank. Please go ahead. Your line is open. 
+asr:0: OUTPUT 3317.50-3321.42: Yes, thank you operator and good morning Martin and Lena. 
+asr:0: OUTPUT 3324.52-3332.93: Just firstly, could you please remind us on maintenance catfix needs for the coming five, 10 years? 
+asr:0: OUTPUT 3333.35-3335.06: At what level it's at. 
+asr:0: OUTPUT 3336.88-3340.00: I think they... 
+asr:0: OUTPUT 3340.44-3349.89: We have had fairly the last couple of years fairly normal maintenance capex levels, or if I remember it correctly, at or around a couple of billions. 
+asr:0: OUTPUT 3350.37-3353.15: 1.8 to 2 billions. 
+asr:0: OUTPUT 3353.59-3360.48: And that, of course, we see the possibility to gradually then decrease when we know. 
+asr:0: OUTPUT 3360.54-3362.58: That we will not run the experiments. 
+asr:0: OUTPUT 3362.94-3365.01: Existing system forever. 
+asr:0: OUTPUT 3365.47-3373.37: It will be, call it a gradual, gradually lower and lower. 
+asr:0: OUTPUT 3380.00-3382.72: Strong message in terms of. 
+asr:0: OUTPUT 3382.74-3391.31: Of cash flows, I suppose we're talking about a strategic apex of let's say of 5.5 billion per year in the coming 10 years. 
+asr:0: OUTPUT 3391.43-3393.81: Let's say the maintenance cap makes a 1.6. 
+asr:0: OUTPUT 3394.71-3404.66: Yeah, you know, you have historically generated say 3 billion in free cash flow over a cycle. That would imply 10 billion in operating cash flows for the coming 10 years. 
+asr:0: OUTPUT 3406.53-3409.71: What's behind that? Is that a more healthy steel market? 
+asr:0: OUTPUT 3411.01-3417.38: I think it's a combination if you look right now and compare to a number of years ago, I think that the steel market is more in balance. 
+asr:0: OUTPUT 3417.42-3421.28: I think also with this Fit for 55 in Europe. 
+asr:0: OUTPUT 3421.64-3428.95: There will be no possibilities for steel companies to hunt volumes because they will have to pay emission rights. 
+asr:0: OUTPUT 3429.05-3432.91: I think structurally maybe. 
+asr:0: OUTPUT 3432.93-3438.78: Healthier from an output point of view and demand and supply balance a healthier market. 
+asr:0: OUTPUT 3439.06-3447.01: But we are also looking into our ability to continue to shift the mix to less volatile products, more profit generating products. 
+asr:0: OUTPUT 3447.05-3452.53: Then of course we will still have volatility, but the ambition is to reduce the volatility as much as possible. 
+asr:0: OUTPUT 3452.89-3454.79: And that is done with a couple of things. 
+asr:0: OUTPUT 3455.24-3461.36: Of course, the most important part shifting the mix towards more stable price, stable and margin stable products. 
+asr:0: OUTPUT 3461.98-3468.27: Continue to work with the continuous improvements in order to increase productivity, reduce cost and reduce lead times. 
+asr:0: OUTPUT 3468.87-3478.42: So we have a number of programs that we are running and I think that when we look at that, we see and do the calculations including continuance and so on. 
+asr:0: OUTPUT 3479.02-3483.20: We see that this is clearly a good opportunity, a possibility for the future. 
+asr:0: OUTPUT 3486.25-3495.05: No, brilliant. Yeah, it's, you know, strong, strong message. Obviously, I guess that, you know, implies normalized earnings of less than 12 billion. 
+asr:0: OUTPUT 3495.96-3498.00: So, I'll stop. 
+asr:0: OUTPUT 3498.50-3499.86: 2021 was obvious. 
+asr:0: OUTPUT 3500.00-3509.21: Very good year. You shouldn't expect us to generate more than 12 billion in free cash flow every year. But I've been like a fool repeating myself that. 
+asr:0: OUTPUT 3509.31-3514.99: We should be able to continue to generate strong cash flow and we are not ready. 
+asr:0: OUTPUT 3515.01-3519.64: Yes, we were investing a lot in working capital towards the end of the year, yes for sure. 
+asr:0: OUTPUT 3519.68-3525.61: Will we continue to do that? No, we still see opportunities to become more capital efficient. 
+asr:0: OUTPUT 3526.13-3532.87: The example with the minimils, if you reduce lead times from just a simple calculation from eight weeks to less than two weeks. 
+asr:0: OUTPUT 3532.95-3537.32: There is also a huge possibility of releasing working capital. 
+asr:0: OUTPUT 3540.28-3547.07: That's good. Then just a question in terms of your Q1 guide, more short term. 
+asr:0: OUTPUT 3547.41-3549.17: Just to be clear. 
+asr:0: OUTPUT 3549.25-3550.39: What you're saying is that... 
+asr:0: OUTPUT 3550.41-3560.00: Of. 
+asr:0: OUTPUT 3562.94-3567.97: We don't give any figures or guidance. That's your job to figure out. 
+asr:0: OUTPUT 3568.57-3570.81: But we are also saying that we see. 
+asr:0: OUTPUT 3570.99-3574.27: We see problems in the supply chain. 
+asr:0: OUTPUT 3574.35-3583.66: End of Q4 and we still have problems with getting trucks, getting containers, railway shipments, boats and so on. 
+asr:0: OUTPUT 3584.18-3593.83: We don't know where the COVID situation will end up and when it will end. We have had problems in Q4. We still have problems with a lot of people. 
+asr:0: OUTPUT 3594.01-3601.52: With a high short term leave, people being in quarantine, being sick or taking care of sick family members. 
+asr:0: OUTPUT 3601.70-3602.74: So, so. 
+asr:0: OUTPUT 3602.76-3608.77: It's too early to say there are still some quality problems. 
+asr:0: OUTPUT 3608.97-3613.01: Like we had in Q4 and they persist into Q1 so far. 
+asr:0: OUTPUT 3615.80-3619.00: Remember, Victor, also that prices in Europe will be lower also. 
+asr:0: OUTPUT 3624.10-3632.17: Final question, in terms of returns on the CAPEX programme, you mentioned 7 billion in avoided CO2 costs. 
+asr:0: OUTPUT 3632.47-3634.19: I guess you don't know incremental. 
+asr:0: OUTPUT 3635.01-3641.72: That was one example, but when we look at the calculation, and we need, as I said, we need to come back to that when we come with the FIDs, but... 
+asr:0: OUTPUT 3641.94-3647.31: We see this as a very interesting investment opportunity when we look at the calculations so far. 
+asr:0: OUTPUT 3647.51-3650.63: Otherwise we wouldn't propose it. 
+asr:0: OUTPUT 3651.27-3653.41: But let's come back to that with more detail. 
+asr:0: OUTPUT 3660.62-3667.43: Thank you. Our next question comes from the line of Johannes Kronosilius of DNB Markets. Please go ahead. Your line is open. 
+asr:0: OUTPUT 3669.23-3671.05: Yes, hi everyone, it's Johannes Gunnars Eluser. 
+asr:0: OUTPUT 3672.03-3679.64: I have a question on what you showed on slide 18 in your slide package about. 
+asr:0: OUTPUT 3679.66-3685.01: Premiums on the first green steel that you're aiming for, I think, 2026 or so. 
+asr:0: OUTPUT 3685.53-3696.14: Could you elaborate a bit on how you see the price premiums here? Is it sort of one premium from everyone buying fossil steel or is it sort of different case by case? 
+asr:0: OUTPUT 3696.26-3704.58: I would so much appreciate if you could give us any sort of help in the magnitude of future price premiums that you're projecting. That's my question. 
+asr:0: OUTPUT 3708.47-3717.70: No, not really. I mean, we think the market is very interested, the market is willing from start to pay a premium. 
+asr:0: OUTPUT 3718.62-3725.19: I honestly believe that there might be a price difference between... 
+asr:0: OUTPUT 3725.21-3729.13: Carbon free fossil free steel and usual steel. 
+asr:0: OUTPUT 3729.43-3732.19: Or a margin difference or however you put it. 
+asr:0: OUTPUT 3732.25-3735.18: But I think and hope that this will be the new normal. 
+asr:0: OUTPUT 3735.40-3745.23: So I think it's very hard to say what will the premium be over time and how do you calculate the premium. So let's come back to that. I don't have a good answer, but we see that... 
+asr:0: OUTPUT 3745.25-3753.95: The current demand is exceeding the planned capacity. 
+asr:0: OUTPUT 3753.99-3762.00: And our base case guess, and I would say that this is a fairly educated guess, is that that demand will not lower over time. 
+asr:0: OUTPUT 3762.34-3767.39: We have seen announcements from companies like Daimler, what kind of. 
+asr:0: OUTPUT 3767.41-3772.43: Pressure they put on their sub-suppliers when it comes to scope 3 emissions. 
+asr:0: OUTPUT 3772.95-3781.84: My guess would be, and I would claim that this is an educated guess as well, is that that pressure will not decrease. I would say quite the opposite. 
+asr:0: OUTPUT 3784.64-3786.01: But that's helpful anyway. 
+asr:0: OUTPUT 3787.21-3790.49: What I see and what I'm trying to say, Johannes, is that. 
+asr:0: OUTPUT 3790.59-3800.00: I see an opportunity because the location and the knowledge and the partnership we have within hybrid and with customers. 
+asr:0: OUTPUT 3800.36-3805.05: Makes this, I mean, if you should do this, you should do it in northern Sweden and northern Finland. 
+asr:0: OUTPUT 3806.43-3807.71: Yeah, yeah, got you. 
+asr:0: OUTPUT 3808.45-3818.10: I mean, everybody assumes, I suppose, that the premium will be highest in the first years when this is a revolutionary product. Let's see if it becomes the new normal or not. 
+asr:0: OUTPUT 3819.38-3828.41: Then I have a question also you mentioned a few times in the presentation Martin about that scrap availability seems to be pretty good for you in the Nordics. 
+asr:0: OUTPUT 3828.87-3836.32: I mean, would it be possible to run the new SSAB setup with the sort of scrap in the Nordics? 
+asr:0: OUTPUT 3836.34-3839.74: Is it an offset scrap basically that you can be using locally? 
+asr:0: OUTPUT 3840.44-3843.06: How do you see that? 
+asr:0: OUTPUT 3843.14-3852.37: We could potentially do that, yes, run it on scrap as we do in the US and there is scrap availability in the Nordics and we are one big producer of scrap and our customers. 
+asr:0: OUTPUT 3852.53-3853.53: Using our materials. 
+asr:0: OUTPUT 3854.13-3859.32: And we could also use it with scrap from the market. Today we are selling scrap to the market. 
+asr:0: OUTPUT 3860.10-3869.01: So there is a possibility and that's what we try to call flexibility then between HBI and scrap. So we will in practice have. 
+asr:0: OUTPUT 3869.03-3873.81: Higher flexibility than raw material flexibility today than today. 
+asr:0: OUTPUT 3880.88-3888.83: Thank you. Our next question comes from the line of Bastian Sinnau-Bivitz of Deutsche Bank. Please go ahead, your line is open. 
+asr:0: OUTPUT 3890.13-3895.68: I'll also take them one at a time. 
+asr:0: OUTPUT 3896.40-3901.12: Martin, could you briefly talk about the new product segments which you aim to enter, please? 
+asr:0: OUTPUT 3902.40-3910.51: We have a fairly good idea about that and it is within the mobility sector. And one good example, and I won't bore you with too many examples,. 
+asr:0: OUTPUT 3910.55-3915.76: But one good example is two meter wide Q&T which is... 
+asr:0: OUTPUT 3915.78-3924.10: And thin gauges which is asked for by the market and we are not in a cost efficient way able to produce that today. 
+asr:0: OUTPUT 3924.64-3931.45: The quarter mill in Oxelösund is not an optimal setup to produce. 
+asr:0: OUTPUT 3931.99-3939.92: I would say thinner gauges than 4 millimeters and with these mills we can produce 1, 2, 3 up to 4 millimeters. 
+asr:0: OUTPUT 3941.18-3949.05: So we will have a broader product offering. We will also with this mean what we are lacking today and what is asked for is and where we have a fairly. 
+asr:0: OUTPUT 3949.07-3951.53: Low market share is galvanized products. 
+asr:0: OUTPUT 3951.73-3955.62: Especially within advanced high strength steels. We don't have the capacity today. 
+asr:0: OUTPUT 3955.92-3957.46: That will be another example. 
+asr:0: OUTPUT 3960.00-3966.97: With that, I guess you're really entering a new product spectrum in that sense that you're basically entering the surface market in automotive, right? 
+asr:0: OUTPUT 3967.25-3968.37: Not necessarily, no. 
+asr:0: OUTPUT 3968.73-3976.68: But we are focused to stay within our niches with the vast high strength skills and Q and T. And there we see possibilities. 
+asr:0: OUTPUT 3976.70-3983.06: Both for, as said with the example of QNT, new grades and new gauges and widths. 
+asr:0: OUTPUT 3983.12-3994.79: But also other parts where we are either Lego producing today, like galvanized advanced high strength steels or not being able to produce at all. 
+asr:0: OUTPUT 3997.62-3999.14: Just to briefly explore. 
+asr:0: OUTPUT 3999.70-4001.34: Just to be clear. 
+asr:0: OUTPUT 4001.54-4011.01: I mean, we're not changing the strategy or the focus on niche products. That's still the foundation and will continue to be the foundation of SSAB. 
+asr:0: OUTPUT 4012.89-4015.22: I think that's very clear that you're pursuing that. 
+asr:0: OUTPUT 4015.82-4020.68: Just to explore briefly further, you mentioned strong demand and I guess we all were able to see. 
+asr:0: OUTPUT 4020.70-4028.01: A very strong demand from automotive. I guess this is the segment which you are emphasizing. At the same time, only at the moment, automotive. 
+asr:0: OUTPUT 4028.03-4032.67: I would say relative to other C-companies as underrepresented in the UN markets. 
+asr:0: OUTPUT 4033.59-4040.66: Are you seeing that pull for fossil-free steel from other end-market segments as well, such as white goods? 
+asr:0: OUTPUT 4041.32-4048.21: Yes, we see that from a lot of segments and segments that we are not active in today and segments where we will not be. 
+asr:0: OUTPUT 4048.23-4054.09: Active but we see it from heavy transport, we see it from other segments where we are active today. So I would say. 
+asr:0: OUTPUT 4054.11-4055.30: We're going to go ahead and get started. 
+asr:0: OUTPUT 4055.36-4061.08: To be honest, we see it from most of the segments want to have fossil free steel in the future. 
+asr:0: OUTPUT 4062.16-4063.40: With very few exceptions. 
+asr:0: OUTPUT 4065.63-4074.55: Okay, perfect. Thanks, Martin. And then I have one follow-up question on CapEx. And sorry to come back on that. Obviously, there have been a lot of questions around that already. 
+asr:0: OUTPUT 4075.16-4078.62: You were showing some charts on CAPEX, I think on slide 22. 
+asr:0: OUTPUT 4079.06-4085.23: You've always been talking about 3-3.5 billion capex over the cycle. 
+asr:0: OUTPUT 4085.25-4086.27: As the rough guidance. 
+asr:0: OUTPUT 4086.29-4095.66: To keep things simple and instead of talking about peak capex or nailing things down to one specific year, which I appreciate is very difficult to do. 
+asr:0: OUTPUT 4096.02-4102.40: What would be the new normal effective over the cycle capex for the rest of the decade, which we should be factoring in? 
+asr:0: OUTPUT 4102.54-4110.15: And again, I'm conscious that may be subject to change because if electricity isn't there, the 45 billion will obviously be split maybe over a longer time span. 
+asr:0: OUTPUT 4110.27-4116.54: And maybe there will be some funding, but what is the broad number we can work with versus the 3 to 3.5 before? 
+asr:0: OUTPUT 4117.90-4121.78: It's a very good question and let's come back to that because as we said,. 
+asr:0: OUTPUT 4121.98-4129.73: We have the maintenance capex level today that will over time then in existing facilities go down. We have the Oxelösund conversion which we have said. 
+asr:0: OUTPUT 4129.75-4133.51: Will cost until 2026, roughly 5 billion. 
+asr:0: OUTPUT 4133.75-4136.96: And then we have this new program. So it will be a combination of that. 
+asr:0: OUTPUT 4137.54-4142.72: It will be dependent on when we start, but for the coming years, you should expect us to. 
+asr:0: OUTPUT 4142.74-4150.43: Move on with Oxelösund and then gradually then start to invest in our Nordic mills but at the same time. 
+asr:0: OUTPUT 4150.47-4157.18: We will start to reduce maintenance capex and quality of other strategic capex in those facilities. 
+asr:0: OUTPUT 4158.56-4164.52: So let's come back to that when we move on with this feasibility study and have more clarity. 
+asr:0: OUTPUT 4164.92-4174.25: But we have said a round figure of 45 including contingencies and in order not to disappoint anyone with that figure. 
+asr:0: OUTPUT 4176.60-4178.70: Sounds good. Okay. At least I tried my best. 
+asr:0: OUTPUT 4179.66-4188.17: Thank you. 
+asr:0: OUTPUT 4188.37-4189.97: So good. 
+asr:0: OUTPUT 4191.85-4193.53: Thank you so much. 
+asr:0: OUTPUT 4196.10-4201.94: Thank you. Our next question comes from the line of Andy Jones at UBS. Please go ahead, your line is open. 
+asr:0: OUTPUT 4204.10-4206.49: Hi, thanks for the opportunity. 
+asr:0: OUTPUT 4207.83-4215.64: My question is regarding priorities, I guess, you know, the very low power costs in northern Sweden. 
+asr:0: OUTPUT 4215.66-4219.44: So we had a huge advantage for making low-cost sponge iron. 
+asr:0: OUTPUT 4219.46-4223.26: Clearly you're dedicating a huge amount of capital to. 
+asr:0: OUTPUT 4223.28-4228.11: To EAFs and basically sorting out the steel facilities. 
+asr:0: OUTPUT 4228.63-4233.51: But it doesn't leave a huge amount to potentially invest in hybrid going forward. 
+asr:0: OUTPUT 4234.21-4239.82: Can you just talk a bit more about how you see the returns on? 
+asr:0: OUTPUT 4239.84-4245.35: Producing sponge iron given the economics, the power costs and so forth that you see now. 
+asr:0: OUTPUT 4245.77-4249.73: Compared to the investments that you're making here. 
+asr:0: OUTPUT 4249.81-4258.80: Because obviously the majority of the CO2 reduction comes from the, you know, the spongine part. 
+asr:0: OUTPUT 4259.30-4267.29: And that seems to be where the value is. So I'm quite surprised that the magnitude of the spending here compared to the focus on hybrid. 
+asr:0: OUTPUT 4267.37-4279.06: Are you giving up an opportunity potentially to LKAB who might wish to, who seem to want to accelerate this? Are you, you know, essentially losing some of the value of your. 
+asr:0: OUTPUT 4279.08-4280.20: Your location. 
+asr:0: OUTPUT 4281.34-4282.82: That's quite a powerful question. 
+asr:0: OUTPUT 4283.88-4292.93: What I'm trying to explain is that we will do this in a partnership in the hybrid partnership together with LKB and. 
+asr:0: OUTPUT 4292.95-4299.02: I think it will be dependent on electricity prices. 
+asr:0: OUTPUT 4299.06-4304.64: I think the good thing with this project is that we will also have hydrogen storage. 
+asr:0: OUTPUT 4304.68-4309.77: So we can use wind power as an example and then store energy in. 
+asr:0: OUTPUT 4309.79-4313.01: In the hydrogen storage and then produce. 
+asr:0: OUTPUT 4313.03-4320.06: Sponge iron 24-7 regardless of peaks or troughs in electricity prices. 
+asr:0: OUTPUT 4320.28-4323.00: What I'm trying to say and let's come back to that. 
+asr:0: OUTPUT 4323.06-4330.87: We are trying together to optimize the value chain and then exactly who will do what and who will own what. 
+asr:0: OUTPUT 4330.97-4333.45: We haven't really decided that. 
+asr:0: OUTPUT 4334.03-4339.94: We have the partnership, we are now investing or planning to start to invest in the demonstration plant and then we'll take it from there. 
+asr:0: OUTPUT 4342.74-4349.21: About the full value chain together with LKAB, SSAB, Vattenfall and then customers. 
+asr:0: OUTPUT 4349.57-4355.20: So what we are trying to achieve is fossil free products out at end users in a cost efficient way. 
+asr:0: OUTPUT 4359.10-4367.81: Can you really afford to commit much more in terms of capital to hybrid given these huge CapEx investments that you're planning here? 
+asr:0: OUTPUT 4369.05-4372.53: That will of course depend on cash flow generation and so on. 
+asr:0: OUTPUT 4372.77-4383.82: Now we are taking this decision, a directional decision, and we'll take the decisions one by one, but it goes together because we are now investing in a fossil free value chain. 
+asr:0: OUTPUT 4385.15-4389.21: And I think that is what is appreciated by the market and what the market wants to see. 
+asr:0: OUTPUT 4390.09-4394.25: I think the feasibility of doing that is... 
+asr:0: OUTPUT 4394.27-4401.80: Better in the region than in other regions and with the knowledge and experience we have. 
+asr:0: OUTPUT 4401.94-4406.71: We are very well suited for this and we have a strong belief that this is the future. 
+asr:0: OUTPUT 4407.15-4410.63: Not maybe the full future, but this is what the market is asking for. 
+asr:0: OUTPUT 4412.41-4413.47: I completely agree. 
+asr:0: OUTPUT 4413.79-4416.76: And just to clarify something on the 45 billion. 
+asr:0: OUTPUT 4417.08-4422.40: Obviously the capital intensity is a lot higher than the oxalisund one, clearly because the scope is larger. 
+asr:0: OUTPUT 4422.94-4431.75: Aside from just building EAFs, could you just give us an idea for what other facilities are included in that 45? For example,. 
+asr:0: OUTPUT 4432.39-4433.55: Ladies. 
+asr:0: OUTPUT 4433.83-4440.86: It's complete minimals. I think Synton in Texas is a good example. 
+asr:0: OUTPUT 4441.08-4448.13: Completely integrated mills, starting with electric arc furnaces, outcomes, finished products after rolling. 
+asr:0: OUTPUT 4449.27-4450.39: So this is a complete menu. 
+asr:0: OUTPUT 4450.73-4459.68: In Oxelösund we are closing the coke oven battery and the blast furnaces and moving over to electric arc furnaces, but we keep the steel shop, the rolling mill. 
+asr:0: OUTPUT 4459.70-4464.26: Because they are state of the art and very well fitted for those kind of products. 
+asr:0: OUTPUT 4464.62-4467.41: I mean, you should compare it with mobile or Synton. 
+asr:0: OUTPUT 4471.53-4473.87: Okay, fine, fine. That's great, thank you. 
+asr:0: OUTPUT 4476.58-4483.50: Thank you. Our next question comes from the line of Seth Rosenthal at Exxon BNP Paribas. Please go ahead, your line is open. 
+asr:0: OUTPUT 4485.35-4487.01: Just one follow-up question, please. 
+asr:0: OUTPUT 4487.81-4493.77: I appreciate your comment earlier on the improved efficiency of the new capacity, better product mix, lower fixed costs, et cetera. 
+asr:0: OUTPUT 4494.41-4502.62: But in the past, you've given an explicit figure for the higher operating costs of green steel. I believe there was 30 to 40 percent above traditional technologies. 
+asr:0: OUTPUT 4503.48-4510.77: As you go forward and kind of dive into this at a broader scale, what's your confidence in the like-for-like operating cost component? 
+asr:0: OUTPUT 4511.71-4519.80: I recognize there might be some other mitigating positives, but how do we think about the cost of production? What's your assumption around, for example, cost of that DRI substrate? 
+asr:0: OUTPUT 4521.44-4523.68: Know about. 
+asr:0: OUTPUT 4523.70-4533.01: We have become more and more sure about the cost and efficiency and so on. And that has not increased over time when we have become more and more sure. 
+asr:0: OUTPUT 4538.16-4540.00: That cost inflation you're more. 
+asr:0: OUTPUT 4541.48-4551.21: No, but the cost of producing steel like this has not increased when we have gotten more and more educated. I would say the opposite. 
+asr:0: OUTPUT 4553.75-4559.48: Can you confirm an updated expectation for how much your operating costs will increase, like for like, with the new technology? 
+asr:0: OUTPUT 4560.00-4562.74: They would not increase. 
+asr:0: OUTPUT 4566.91-4571.89: Okay, so compared to prior guidance of an over 30% increase, the new guidance is no increase. 
+asr:0: OUTPUT 4573.33-4576.48: Let's come back to that, but it is not 30% increase for sure. 
+asr:0: OUTPUT 4578.14-4584.32: I think that's something that the market definitely wants more color on, recognizing how much capital is being allocated to the shift in technology. 
+asr:0: OUTPUT 4585.69-4593.67: And we need to come back to that when we come up with the FIDs and so on and take it mill by mill. But the operating costs will be... 
+asr:0: OUTPUT 4593.79-4596.12: We will be much more cost efficient. 
+asr:0: OUTPUT 4598.60-4607.59: Thank you very much. Thank you. And we have one further person in the queue. That's Alan Stentz of Jefferies. Please go ahead. Your line is open. 
+asr:0: OUTPUT 4609.45-4611.99: I appreciate the opportunity to ask a couple follow-up questions. 
+asr:0: OUTPUT 4613.25-4622.30: So the 5 billion oxalacin conversion capex, can you just confirm how much of that will be done by the end of 2022 and then how the remaining will be split? 
+asr:0: OUTPUT 4625.27-4630.41: For 22 it's around a billion. A billion and 22. 
+asr:0: OUTPUT 4636.00-4639.26: Total amount for oxylesone conversion. 
+asr:0: OUTPUT 4640.30-4643.20: No, that's for the 22 year. For 22. 
+asr:0: OUTPUT 4645.49-4654.01: How much was spent in 21? I don't have the exact figure but part of the cost is already occurred during 21. 
+asr:0: OUTPUT 4657.02-4665.21: And the second one is just on the blast furnace relines and new coke ovens for Luleo and Raw. 
+asr:0: OUTPUT 4666.47-4671.31: Were those scheduled to be done before 2030 or after 2030? 
+asr:0: OUTPUT 4671.89-4681.36: I would say around 2030, then you can always flex. Sometimes you can prolong it a year and sometimes you need to do it a year earlier. So I would say around 2030. 
+asr:0: OUTPUT 4681.60-4690.75: The two blast furnaces in Rawa, one of them slightly later, and also Luleå in that region as well. So I would say around 2030, all the three of them. 
+asr:0: OUTPUT 4691.31-4699.76: So, but effectively within the timeline of the 45 billion, not afterwards, is that the correct way to think about it? 
+asr:0: OUTPUT 4700.72-4701.90: Around that timeline. 
+asr:0: OUTPUT 4702.22-4705.97: I say that around 2030, because it's not an exact science. 
+asr:0: OUTPUT 4706.15-4714.53: You can sometimes you're lucky and you can run a blast furnace one more year than planned. Sometimes you're unlucky and you need to do it one year earlier. 
+asr:0: OUTPUT 4714.83-4718.92: Depends so much of the wear and tear in the blast furnaces. 
+asr:0: OUTPUT 4719.30-4727.07: Also if you have had to stop them or not. So it is not an exact science, but. 
+asr:0: OUTPUT 4727.09-4729.75: Around 2030 all the three all three of them. 
+asr:0: OUTPUT 4733.93-4735.78: So the idea is to avoid that, of course. 
+asr:0: OUTPUT 4741.74-4746.07: As there are no further questions on the line at this time, I'll hand back to our speakers for the closing comments. 
+asr:0: OUTPUT 4747.77-4756.22: Okay, thank you. Thank you for all the interest. And by that, we close today's conference call and we wish you a pleasant day. Thank you. 
+asr:0: END

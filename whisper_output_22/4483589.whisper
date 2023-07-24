@@ -1,0 +1,766 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.04-10.95: Welcome to the conference call of TeamViewer AG. At our customer's request, this conference will be recorded. 
+asr:0: OUTPUT 11.23-17.48: As a reminder, all participants will be in a listen-only mode after the presentation. There will be an opportunity to ask questions. 
+asr:0: OUTPUT 17.92-24.82: If any participant has difficulties hearing the conference, please press star key followed by zero on your telephone for operator assistance. 
+asr:0: OUTPUT 25.51-31.53: May now hand you over to Robert Hildebrand from Investor Relations who will lead you through the conference. Please go ahead. 
+asr:0: OUTPUT 32.85-36.78: Good morning and welcome to the TeamViewer fourth quarter and full year 2021 results. 
+asr:0: OUTPUT 37.14-44.58: In a moment, Oliver Stahl, CEO of TeamViewer and Stefan Geiser, our CFO, will take you through the business and financial update with the 2021 highlights. 
+asr:0: OUTPUT 45.29-48.69: As always, we'll conclude today's call with a Q&A following the presentation. 
+asr:0: OUTPUT 49.51-57.80: Before we start, a little housekeeping exercise for today. I would like to remind you of the note on the forward-looking statements that you find on page two of the presentation. 
+asr:0: OUTPUT 61.12-62.40: Let me now hand over to Oliver. 
+asr:0: OUTPUT 63.98-72.81: Thank you Robert. Good morning. Thank you all for joining today. We are pleased to take you through the Team Europe fourth quarter and full year 2021 results. 
+asr:0: OUTPUT 73.59-82.44: I will start with an update on our business, followed by Stefan who will present our financials. And as always, we will conclude today's call with Q&A following the presentation. 
+asr:0: OUTPUT 84.00-92.01: Before we dive into the fourth quarter and full year business update, I would like to take a step back from our perspective 2021. 
+asr:0: OUTPUT 92.03-98.08: Was marked by several strategically important decisions which we made to foster Team Buehl's future growth. 
+asr:0: OUTPUT 98.16-102.06: But also of course by a few challenges which we clearly had to acknowledge. 
+asr:0: OUTPUT 103.28-109.39: We have, however, been working hard to address these and we remain committed to continue that path. 
+asr:0: OUTPUT 110.07-116.16: And also create value for our shareholders as demonstrated by our announcement this morning and the progress we made in Q4. 
+asr:0: OUTPUT 116.62-123.12: We are pleased with the conclusion of the financial year as we fully delivered against our revised guidance. 
+asr:0: OUTPUT 123.14-126.91: And further strengthen the foundation for long-term profitable growth. 
+asr:0: OUTPUT 127.41-131.87: And we will show you a detailed overview of all those KPIs later in the presentation. 
+asr:0: OUTPUT 133.41-141.40: With record growth rates, our enterprise business has again proven to be a strong driver with the acquisition of Upskill and Viscopic. 
+asr:0: OUTPUT 141.42-145.19: Both leading players in the dynamic augmented reality industry. 
+asr:0: OUTPUT 146.03-152.81: We further strengthened and diversified our solutions portfolio and at the same time also our footprint in the United States. 
+asr:0: OUTPUT 153.65-157.82: In addition, we initiated several new major strategic partnerships. 
+asr:0: OUTPUT 158.72-165.33: In our SMB business, we successfully retained a significant part of the customers that we want during the pandemic. 
+asr:0: OUTPUT 165.97-170.23: We further improved our churn rate throughout the year and increased the ASP. 
+asr:0: OUTPUT 170.93-178.88: Finally, we made major progress on our improvement program, RE-MAX, which we will update you on later in more detail as well. 
+asr:0: OUTPUT 179.82-181.92: Our strong development in 2021. 
+asr:0: OUTPUT 182.56-189.95: Combined with our highly attractive cash profile opens up avenues for further value generation for our shareholders in the future. 
+asr:0: OUTPUT 190.45-196.20: We revised our capital allocation and announced this morning a share buyback program of up to 300 million euro. 
+asr:0: OUTPUT 196.30-202.06: Or a maximum of 20 million shares which is equivalent to nearly 10% of our outstanding shares. 
+asr:0: OUTPUT 202.88-209.79: This should be completed within 2022. Stefan will walk you through the details of this program in a moment. 
+asr:0: OUTPUT 211.75-212.97: We go to the next slide. 
+asr:0: OUTPUT 215.12-221.96: Q4 and the fiscal year 2021 at a glance. Let me summarize some highlights of the fourth quarter. 
+asr:0: OUTPUT 222.62-224.64: And also the entire financial year. 
+asr:0: OUTPUT 225.45-234.97: First of all, we increased total billings by 19% year on year to 548 million Euro with accelerating billings growth in the fourth quarter. 
+asr:0: OUTPUT 235.66-242.94: With a clear focus on cost containment, we were also able to maintain high profitability and to achieve margins ahead of our revised guidance. 
+asr:0: OUTPUT 244.20-249.33: With a growth rate of 75% and billings of almost 100 million in the last 12 months. 
+asr:0: OUTPUT 250.17-259.78: The enterprise business is now clearly a substantial growth engine of TeamViewer. At the end of 2021, the enterprise business accounted for 17% of total billings. 
+asr:0: OUTPUT 261.18-268.45: In addition, we increased our net retention rate in the fourth quarter significantly to 105%. 
+asr:0: OUTPUT 268.47-274.57: After a notable dip in the first half of 2021 with net retention rate of around mid-90s. 
+asr:0: OUTPUT 275.18-284.78: This leaves TeamViewer with an average net retention rate of 98% over the past 12 months, underlying our success in building lasting customer relationships. 
+asr:0: OUTPUT 286.13-293.19: At the same time, our subscriber churn rate further improved to 14% compared to 15.1% in 2020. 
+asr:0: OUTPUT 294.03-302.02: This confirms our ability to retain the strong intake of customers which we want from the COVID-19 pull-forward demand in the previous year. 
+asr:0: OUTPUT 304.72-309.23: At year end, we counted 627,000 subscribers. 
+asr:0: OUTPUT 309.25-315.90: Which is an increase of 7% compared to 2020 or roughly 43,000 more subscribers. 
+asr:0: OUTPUT 317.02-321.38: Furthermore, our financial profile remains very strong with again lower leverage rate. 
+asr:0: OUTPUT 322.88-330.21: Now let's look at 2021 in more depth. First of all, I would like to give you an overview of how the two businesses have developed in 2021. 
+asr:0: OUTPUT 330.97-336.12: Before we then take a closer look at both the Enterprise and SMB separately and in detail. 
+asr:0: OUTPUT 338.70-340.00: Coming to Enterprise. 
+asr:0: OUTPUT 340.94-350.71: As a reminder, we define enterprise customers as those with invoice billings across all products and services of at least 10,000 Euro within the last 12 months. 
+asr:0: OUTPUT 351.71-356.34: Customers who exceed or fall below the threshold are reallocated then accordingly. 
+asr:0: OUTPUT 357.38-365.39: As you can see on the left-hand side, our total company billings increased year-on-year by 88 million to 548 million in 2021. 
+asr:0: OUTPUT 366.41-374.35: And although our SMB business still contributed most of this absolute growth, the enterprise business is rapidly becoming more material. 
+asr:0: OUTPUT 375.30-382.88: Contributed only 26% of the overall growth in 2020 and now almost half of the growth in 2021. 
+asr:0: OUTPUT 383.32-390.31: This underpins our success in building a leading enterprise business that is delivering strong and sustainable growth. 
+asr:0: OUTPUT 392.09-399.46: The chart on the right hand side shows additional proof the enterprise business achieved high billing growth rate throughout 2021. 
+asr:0: OUTPUT 399.96-409.25: And actually accelerated nicely during the year after a somewhat slower start due to the COVID retention and rightsizing issues in the first quarter of 2021. 
+asr:0: OUTPUT 410.09-413.89: For the year as a whole, the enterprise business grew by 75%. 
+asr:0: OUTPUT 414.63-421.08: The SMB business also grew nicely in the fourth quarter with 9% and 12% for the year respectively. 
+asr:0: OUTPUT 421.72-422.78: Let's not forget. 
+asr:0: OUTPUT 422.80-428.03: That our SMB business serves as a very attractive funnel for the enterprise business. 
+asr:0: OUTPUT 428.05-433.33: And we have been extremely successful in converting SMB customers into SM enterprise customers. 
+asr:0: OUTPUT 434.19-438.38: And this is obviously to the disadvantage of the reported S&P growth. 
+asr:0: OUTPUT 443.16-451.61: As mentioned before, I would like to give you more detailed insight into our dynamically growing enterprise business in the next few slides, slide seven now. 
+asr:0: OUTPUT 453.23-455.70: I will start with the development of the number of our customers. 
+asr:0: OUTPUT 456.06-463.48: In the past 12 months, the number of enterprise customers grew by 44% to now 2,712. 
+asr:0: OUTPUT 464.08-473.99: Particularly in the fourth quarter, in line with the usual seasonality for enterprise software companies, we were able to make further strong gains and almost double our growth average. 
+asr:0: OUTPUT 474.91-479.24: This was driven by the strong execution of our pipeline at the end of the year. 
+asr:0: OUTPUT 480.08-484.66: In addition, we won new customers through acquisition of Upskill and Viscopic. 
+asr:0: OUTPUT 485.33-491.11: Both of which have been added to our Augmented Reality Platform frontline and now complete our fully integrated offering. 
+asr:0: OUTPUT 492.09-501.64: We now count a well-balanced mix of use cases across managed connectivity and operational workflows in our portfolio, some of which I will show on the following slide. 
+asr:0: OUTPUT 505.19-511.51: But before we get to some of the use cases, I would like to present the development of billings in the enterprise business. 
+asr:0: OUTPUT 511.81-517.20: Not only the amount of enterprise customers increased, but also our enterprise billings. 
+asr:0: OUTPUT 518.70-524.92: Up 75% in 2021, we were able to grow the enterprise business to nearly 100 million euro. 
+asr:0: OUTPUT 525.23-532.85: And this corresponds to more than a fivefold increase compared to, for example, around 17 million euro in 2019. 
+asr:0: OUTPUT 534.73-544.12: The success is also due to the fact that we were able to increase the size of the contract with the respective customers last year, as can be seen on the right-hand side. 
+asr:0: OUTPUT 544.88-552.77: Our annual contract value bucket above 200,000 Euro increased by 8 percentage points compared to 2020. 
+asr:0: OUTPUT 552.87-557.44: And our smallest bucket, 10,000 to 50,000 Euro ACV contract. 
+asr:0: OUTPUT 557.46-559.66: Declined by 11 percentage points. 
+asr:0: OUTPUT 560.00-561.34: So we're really seeing a shift there. 
+asr:0: OUTPUT 562.12-566.85: We were able to achieve this positive development primarily through our successful up and cross-selling. 
+asr:0: OUTPUT 567.19-576.08: Our success in building lasting customer relationships and the acquisition of multiple new high-profile strategic partnerships with leading businesses in their respective industries. 
+asr:0: OUTPUT 579.00-582.92: On the next slide, you can see the importance of strategic partnerships for our business. 
+asr:0: OUTPUT 583.46-590.95: SAP and Google Cloud were among the highlights in 2021, underlining our strong valuable position in the enterprise business. 
+asr:0: OUTPUT 591.37-597.14: In addition to that, we partner with existing multinational technology partners such as Woodix, RealWear, or NSF. 
+asr:0: OUTPUT 598.50-604.22: Those strategic partnerships are a major driver for our long-term growth. The reason for this is twofold. 
+asr:0: OUTPUT 604.78-610.71: They help us to accelerate our expansion into various strategically relevant vertical industries. 
+asr:0: OUTPUT 611.79-617.46: And these partnerships are a great opportunity to join forces with those third parties and leverage our sales reach globally. 
+asr:0: OUTPUT 620.62-628.99: With that, let's have a brief look at some example use cases of our product. To begin with, a great success is clearly our collaboration with NSF International. 
+asr:0: OUTPUT 629.51-633.35: I've just mentioned NSF International on the partnership slide. 
+asr:0: OUTPUT 634.29-640.90: Let me elaborate a bit more on what we do together. NSF is a leading global food safety organization. 
+asr:0: OUTPUT 641.08-649.75: We have closed the commercial agreement with them and we are now jointly improving marketing and augmented reality solutions to digitalize the food industry. 
+asr:0: OUTPUT 650.19-659.30: This solution is based on our enterprise AR platform frontline and guides workers step-by-step through the food production process. 
+asr:0: OUTPUT 659.74-663.80: It is voice or eye controlled and therefore really 100% hands free. 
+asr:0: OUTPUT 664.38-670.51: As you can imagine, this is a game changer for the food industry with its very strict hygiene regulations. 
+asr:0: OUTPUT 671.19-677.76: The solution we have with NSF is already fully operational and it is used for example by global fast food restaurant chain. 
+asr:0: OUTPUT 678.38-683.18: What I want to highlight here is that this solution is enhanced with artificial intelligence capabilities. 
+asr:0: OUTPUT 683.82-688.79: So the software can detect, for example, if the workers are wearing and changing their hygiene gloves. 
+asr:0: OUTPUT 689.21-695.32: We are convinced that this will further contribute to more safety in the global food industry and the JSON industry. 
+asr:0: OUTPUT 697.62-704.26: On slide 11, let me demonstrate another attractive use case of our products, our productive collaboration with the Ford Motor Company. 
+asr:0: OUTPUT 704.76-711.37: We provide extensive state-of-the-art augmented reality support to Ford's diagnostics team. 
+asr:0: OUTPUT 711.39-715.48: Which must go through complex technical issues when checking vehicles. 
+asr:0: OUTPUT 716.00-720.26: Therefore, our solutions were rolled out across more than 404 dealers worldwide. 
+asr:0: OUTPUT 721.12-728.83: Who now have the capabilities to solve problems more efficiently and accurately using augmented reality remote support. 
+asr:0: OUTPUT 731.09-734.37: Another very different example, use case. 
+asr:0: OUTPUT 734.77-741.98: Which I want to show is our cooperation with Erste Bank Austria, which is one of the largest banking groups in Central and Eastern Europe. 
+asr:0: OUTPUT 742.54-749.19: Together with TeamViewer, Erste Bank enables its customers to visit, so to say, a virtual branch. 
+asr:0: OUTPUT 749.85-758.72: That means that clients can consult a personal banking advisor who then can, via video call, help the client to put together online forms, upload documents and so on. 
+asr:0: OUTPUT 759.60-764.10: And the service level of this digital service is similar to the one in the real branches. 
+asr:0: OUTPUT 765.19-770.23: I think this is a great example of our customer engagement software, TeamViewer Engage. 
+asr:0: OUTPUT 770.51-775.52: That has been added to our portfolio through the acquisition of Zaleon also in early 2021. 
+asr:0: OUTPUT 778.30-782.86: The last great example of how to use our solution is shown on slide 13. 
+asr:0: OUTPUT 783.72-788.79: Recently we started working with ABB, one of the world's leading global technology companies. 
+asr:0: OUTPUT 789.31-797.66: With our software, ABB provides remote support for their clients who heavily use connected devices such as robots and industrial machines. 
+asr:0: OUTPUT 798.54-808.19: And furthermore, another goal of ABB is to standardize the global remote IT support across all global divisions. EMU is ABB's partner of choice to achieve this goal. 
+asr:0: OUTPUT 809.13-817.80: Our enterprise connectivity suite Tensor is just the right solution here because it delivers a stable, highly secure cross-country connectivity both internally and externally. 
+asr:0: OUTPUT 818.96-826.19: These four examples demonstrate the breadth of use cases for our products across a wide range of different sectors and industries. 
+asr:0: OUTPUT 827.03-831.15: This is one of the aspects that make us confident about our enterprise business. 
+asr:0: OUTPUT 833.87-836.26: We come to the SMB business, page 14. 
+asr:0: OUTPUT 837.78-839.36: Let's take a closer look there. 
+asr:0: OUTPUT 839.86-849.47: Overall, we recorded a growth of 12% year-on-year in SMB, amounting to billings of $455 million, and several factors contributed to this growth. 
+asr:0: OUTPUT 850.17-860.10: Firstly, part of the growth stems from higher volumes with existing customers as a result of our continued cross and upselling, as well as winning new customers at higher prices. 
+asr:0: OUTPUT 860.70-865.00: This can be seen in our ACV bucket split, our largest ACV bucket. 
+asr:0: OUTPUT 865.89-872.21: €6,500 to €10,000 showed the most dynamic growth in the last two years with an increase of almost 10 percentage points. 
+asr:0: OUTPUT 873.47-881.90: Secondly, we can see in the upper right corner that we were able to steadily increase our ASP again after a dip in the second quarter. 
+asr:0: OUTPUT 882.38-886.69: In the fourth quarter of 2021, the ASP counted 728 Euro. 
+asr:0: OUTPUT 887.45-896.36: Thirdly, we improved our SMB churn rate by almost 1 percentage point to 14.1% in Q4 compared to Q4 2020. 
+asr:0: OUTPUT 896.54-897.74: And again,. 
+asr:0: OUTPUT 897.76-901.90: SMB business is a very attractive funnel for our enterprise business. 
+asr:0: OUTPUT 901.92-909.57: More than 10 million euro of the incremental enterprise billings in 2021 are actually coming from former SMB customers. 
+asr:0: OUTPUT 910.95-918.86: As shown on the chart in the bottom right, we counted 624,000 SMB subscribers at the end of fiscal year 2021. 
+asr:0: OUTPUT 919.50-923.40: Which is 42k or 7% up from last year. 
+asr:0: OUTPUT 924.24-928.55: In the fourth quarter, however, the number of subscribers remained essentially flat. 
+asr:0: OUTPUT 928.57-935.06: Because of our decision to suspend free-to-pay monetization campaigns to further develop our ecosystem. I'll come to that later. 
+asr:0: OUTPUT 936.16-942.30: As we started into 2022, we intend to continue the suspension of free-to-pay monetization campaigns. 
+asr:0: OUTPUT 942.88-945.71: And this should nurture our free user ecosystem. 
+asr:0: OUTPUT 946.27-953.45: But will at the same time increase the seasonality of our subscriber growth with a majority of growth weighted to the second half of the year. 
+asr:0: OUTPUT 954.33-959.72: We are confident that we will achieve our 30 to 50,000 subscriber growth target in the year ahead. 
+asr:0: OUTPUT 961.56-975.14: TeamViewer's strong focus on further developing existing SMB customers and the growing relative importance of enterprise customers will further diminish the relevance of subscriber growth as a KPI for measuring future growth at TeamViewer. 
+asr:0: OUTPUT 979.64-985.13: What are the use cases behind the SMB growth? We see similar use cases as for larger enterprises. 
+asr:0: OUTPUT 985.77-991.93: Maybe with the exception of operational workflows created on our front-line platform, which are more biased towards enterprise. 
+asr:0: OUTPUT 992.51-995.12: Overall, it's a well-balanced mix of use cases. 
+asr:0: OUTPUT 995.14-1003.26: Clearly with a strong presence within remote access and control of all sorts of equipment and devices, including access and control of non-IT equipment. 
+asr:0: OUTPUT 1004.34-1010.71: The digitalization around operational technology and their use cases also applies for SMBs. 
+asr:0: OUTPUT 1011.67-1016.44: We cover IT management, including monitoring of IT environment, patch management, endpoint protection. 
+asr:0: OUTPUT 1017.04-1025.43: We obviously also cover remote work use cases and in addition we offer customer engagement solutions as well as solutions for the education sector. 
+asr:0: OUTPUT 1025.95-1030.33: Very comprehensive portfolio for the SMB business as well. 
+asr:0: OUTPUT 1032.81-1041.78: We go to the next slide. Let me change gear, provide an update on our ecosystem, free user ecosystem, as we committed to do at the capital market stage. 
+asr:0: OUTPUT 1043.16-1050.25: Free ecosystem was one of the larger drivers of the SMB growth in the past, especially in 2019 and 2020. 
+asr:0: OUTPUT 1050.93-1053.39: And not so much in 2021 anymore. 
+asr:0: OUTPUT 1054.11-1059.70: Due to increased monetization as well as more competition at the low end, our ecosystem has been declining. 
+asr:0: OUTPUT 1060.82-1068.63: In line with our update at the CMD, we want to stabilize the ecosystem again and ideally reignite growth. 
+asr:0: OUTPUT 1069.87-1072.13: So here's the status on slide 16. 
+asr:0: OUTPUT 1072.69-1081.10: As you can see, installations of our software have increased again, albeit only slightly, but this is clearly encouraging. 
+asr:0: OUTPUT 1081.62-1090.19: Also, the number of monthly active devices has stabilized again. The one indicator which is still in expected decline is the number of yearly active devices. 
+asr:0: OUTPUT 1090.95-1097.56: This is for us not really surprising as we need to bear in mind that the number of 283 million. 
+asr:0: OUTPUT 1097.58-1102.74: Includes a significant number of devices active during severe lockdown restrictions. 
+asr:0: OUTPUT 1103.12-1108.01: Especially in the fourth quarter of 2020 and in the first quarter of 2021. 
+asr:0: OUTPUT 1108.75-1115.44: And as those devices now roll off from the LTM count, we expect a slight further decrease before that number will stabilize. 
+asr:0: OUTPUT 1116.12-1122.44: That being said, the more current indicators, like installed and monthly active devices, are essentially stable. 
+asr:0: OUTPUT 1122.60-1132.29: The ecosystem number will also become less meaningful as we evolve to more use cases which are not necessarily fully reflected on our ecosystem, such as, for example, our AR solution. 
+asr:0: OUTPUT 1136.86-1146.17: Now let's look at our strategic sponsoring activities. As you all know, investing in the TeamViewer brand and increasing marketing efforts to showcase our extended product portfolio. 
+asr:0: OUTPUT 1146.69-1149.75: Have been an important focus for us. 
+asr:0: OUTPUT 1150.71-1160.52: To broaden our solution awareness across all customer segments, we signed two partnerships with Football Club Manchester United and the Formula One and Formula E racing teams of Mercedes. 
+asr:0: OUTPUT 1161.84-1165.47: And we have two partners with this to boost our brand awareness globally, really. 
+asr:0: OUTPUT 1166.65-1172.47: Both brands are truly global, provide an unrivaled reach and marketing power for TeamViewer. 
+asr:0: OUTPUT 1173.09-1182.08: With Manchester United we have already achieved more than 11.7 billion impressions of our logo since the partnership officially started mid last year. 
+asr:0: OUTPUT 1182.94-1188.33: Regarding Mercedes, we had nearly 800 million video views featuring our logo on their channels. 
+asr:0: OUTPUT 1188.53-1194.05: And we are able to reach a global TV audience of more than 1.5 billion Formula One viewers. 
+asr:0: OUTPUT 1195.16-1201.38: You can see some more figures, really impressive figures, on our two major sponsorships on the slide, on slide seven. 
+asr:0: OUTPUT 1203.50-1211.17: From our perspective, our sports sponsoring teams are a strategic lever for TeamViewer as they are providing unrivaled global brand exposure. 
+asr:0: OUTPUT 1211.53-1213.57: You can see how impressive these numbers are. 
+asr:0: OUTPUT 1213.75-1221.96: And you can probably imagine that much higher spend is needed in traditional marketing activities to reach these numbers of exposure. 
+asr:0: OUTPUT 1222.98-1229.81: Finally, as you can see on the right, we use our sports partnership also to develop joint use cases of our technology in action. 
+asr:0: OUTPUT 1230.15-1238.24: With that, we can then clearly demonstrate the value our software solutions can add at the different steps of the value chain for different businesses. 
+asr:0: OUTPUT 1238.94-1244.68: That really applies to all industries in one way or the other and the sports clubs are showcases for that. 
+asr:0: OUTPUT 1245.33-1250.25: Therefore, we can leverage our sports engagement beyond pure branding and logo impressions. 
+asr:0: OUTPUT 1250.27-1256.86: But use these joint use cases and success stories as reference for other potential customers. 
+asr:0: OUTPUT 1257.96-1259.52: And then of course combine it with all. 
+asr:0: OUTPUT 1259.94-1261.60: Other elements of the branding partnership. 
+asr:0: OUTPUT 1262.40-1265.81: With the next slide, let's come to our internal improvement. 
+asr:0: OUTPUT 1266.19-1272.41: Which we've also discussed and announced through the Capital Market Day, which is a program called REMAX. 
+asr:0: OUTPUT 1272.85-1273.93: Which is on slide 18. 
+asr:0: OUTPUT 1276.28-1282.00: We launched this program to address some of the issues we faced in 2021. 
+asr:0: OUTPUT 1282.68-1287.09: Since then, we've already made substantial progress in terms of execution. 
+asr:0: OUTPUT 1287.95-1293.19: Successfully re-accelerated some of the growth initiatives to better balance billings and cost growth. 
+asr:0: OUTPUT 1293.33-1298.74: Let me briefly highlight some improvements which we made since announcing a RE-MAX program. 
+asr:0: OUTPUT 1300.10-1306.21: We strengthened our core product team and we reallocated resources to this area away from non-focused products. 
+asr:0: OUTPUT 1306.95-1314.53: This will also bear fruit in new UI UX update forthcoming which is on track to be released early second quarter, so very shortly. 
+asr:0: OUTPUT 1315.60-1319.92: Within RE-MAX we also introduced the task force to upgrade our website and digital marketing. 
+asr:0: OUTPUT 1321.08-1328.35: Also, we made quite some progress regarding initiatives with short-term billing impact. The new organization has settled in very well. 
+asr:0: OUTPUT 1328.83-1337.04: And we conducted for the first time in two years a physical leadership kickoff with most of our senior leaders. That just happened 10 days ago. 
+asr:0: OUTPUT 1337.26-1339.74: And very important to be together in one room again. 
+asr:0: OUTPUT 1340.60-1348.95: Lastly, as already announced, we strengthened the expertise of senior management and implemented some major cost reductions to better. 
+asr:0: OUTPUT 1348.97-1350.65: Balance cost and building growth. 
+asr:0: OUTPUT 1350.87-1359.08: And as you can see on the slide, we have been successful in temporally freezing our headcount through effective regrouping. 
+asr:0: OUTPUT 1360.00-1362.62: Now standing at around 1400ft, 1700ft. 
+asr:0: OUTPUT 1363.84-1370.41: Summing up, I'm strongly convinced that we are well on track with pushing TeamViewer ahead. 
+asr:0: OUTPUT 1371.01-1374.19: Following a sustainable and profitable growth trajectory. 
+asr:0: OUTPUT 1374.27-1380.88: Our efforts have already started to pay off and I'm confident that we will see many more positive developments in the future. 
+asr:0: OUTPUT 1381.36-1386.29: With that, I would like to hand over to my colleague Stefan who will walk you through the financials in more detail. 
+asr:0: OUTPUT 1387.35-1395.88: Thank you, Oliver. Hi, good morning also from my side. Quickly summarizing the financial highlights, top line, bottom line and cash flow. 
+asr:0: OUTPUT 1396.94-1405.69: And so total billings, I mean obviously you've seen the numbers increase by constant currencies, sorry, increased 70% measured in constant currencies in Q4. 
+asr:0: OUTPUT 1405.71-1407.47: And 20% for the full year. 
+asr:0: OUTPUT 1408.11-1409.87: Delivering the high teen's growth. 
+asr:0: OUTPUT 1410.57-1413.09: Clearly due to very strong enterprise growth. 
+asr:0: OUTPUT 1413.11-1420.72: As well as a nice contribution from SMB driven primarily by increased volume and higher ASPs with existing customers. 
+asr:0: OUTPUT 1421.94-1427.81: IFRS revenues grew 9% and 10% for Q4 and for the full year respectively. 
+asr:0: OUTPUT 1428.35-1432.75: I think as you know, the revenue growth rate has been below Billings growth rate. 
+asr:0: OUTPUT 1433.35-1437.60: Due to the base effect from the discontinued perpetual license business model. 
+asr:0: OUTPUT 1438.28-1445.09: And during 2020 we still recognized roughly 46 million of previous perpetual license sales. 
+asr:0: OUTPUT 1445.65-1450.25: And obviously this figure now came down to only around 2.6 million 2021. 
+asr:0: OUTPUT 1450.69-1453.51: And that means it depresses our reported revenue growth. 
+asr:0: OUTPUT 1454.21-1461.80: Now that being said, this effect will finally fully disappear in 2022. So Billings growth and revenue growth will be much, much more in line. 
+asr:0: OUTPUT 1462.94-1472.23: If we take a look at the revenues from the subscription model only, they grew 16% in the fourth quarter and 20-22% in 2021 overall. 
+asr:0: OUTPUT 1472.75-1475.72: So again, much more in line with our reported billing growth. 
+asr:0: OUTPUT 1476.30-1478.84: Going forward I think the picture will be much clearer then. 
+asr:0: OUTPUT 1479.98-1487.91: Looking. 
+asr:0: OUTPUT 1487.95-1495.98: Or a 47% margin, clearly a very attractive margin overall despite our significant investments in future growth. 
+asr:0: OUTPUT 1496.62-1504.96: That being said, clearly we acknowledge that our margins are obviously down compared to an exceptionally profitable year 2020, which had all the tailwinds from COVID-19. 
+asr:0: OUTPUT 1506.43-1509.69: Moving on to cash flows, I think very strong set of numbers. 
+asr:0: OUTPUT 1509.71-1518.18: Very pleased to report a level 3 cash flow which increased in the last quarter to 68 million euro overall up 21%. 
+asr:0: OUTPUT 1518.68-1520.02: And for the full year 21. 
+asr:0: OUTPUT 1520.36-1527.75: Level 3 cash flow decreased slightly by 5%, obviously reflecting the slightly lower adjusted EBITDA, but overall still a very strong conversion. 
+asr:0: OUTPUT 1528.95-1537.94: So let's take a look at our billing composition on the next slide. Obviously an important breakdown. I think Q4 was quite remarkable for two reasons. 
+asr:0: OUTPUT 1538.50-1543.84: A, the net retention rate increased quite nicely as you can see on the graph on the left-hand side. 
+asr:0: OUTPUT 1544.40-1551.49: Retained billings in the fourth quarter amounted to $133 million, reflecting a net retention rate of 105%. 
+asr:0: OUTPUT 1551.85-1554.71: This is in fact one of the highest numbers we have reached. 
+asr:0: OUTPUT 1555.76-1562.22: Also new buildings contributed well to our overall growth. Two quarters in a row we achieved now 2 million of new buildings. 
+asr:0: OUTPUT 1562.60-1565.97: And this is despite the absence of free user monetization. 
+asr:0: OUTPUT 1567.43-1576.72: Looking at a year in total, we gained 94 million of new billings, which was obviously below the 2020 COVID-19 peak figure, but still a very solid number. 
+asr:0: OUTPUT 1577.96-1587.63: Taking a look at subscribers, increase of 7%, I think those numbers are well known to you over the year, but basically essentially flat in the fourth quarter. 
+asr:0: OUTPUT 1588.27-1594.43: This is primarily due to the suspension of the free-to-pay monetization campaigns, which we stopped entirely during the third quarter. 
+asr:0: OUTPUT 1595.28-1602.92: In our subscriber base therefore slightly decreased by net thousand subscribers during the fourth quarter which was pretty much in line with our estimate. 
+asr:0: OUTPUT 1603.64-1612.31: I think you heard Oliver talk about the continued pause of this monetization and therefore subscriber growth will be more biased towards the second half of 2020. 
+asr:0: OUTPUT 1613.39-1615.70: But despite no subscriber growth. 
+asr:0: OUTPUT 1615.92-1619.58: Able to grow our buildings in the fourth quarter by 17%. 
+asr:0: OUTPUT 1620.18-1629.35: And please remember that the bookend of our subscribers ASP, it can be 200 Euro at the low end, but it can also be more than 1 million Euro in the enterprise business. 
+asr:0: OUTPUT 1629.47-1632.87: So very different bookends in terms of ASPs. 
+asr:0: OUTPUT 1634.11-1644.02: Slide 22, clearly an important measure to reflect the stigmas of our customer base. The quality performance of the net retention rate should be. 
+asr:0: OUTPUT 1645.29-1653.77: Strong improvement in the fourth quarter coming up to 105% and therefore pushing the overall net retention rate for the full year to 98%. 
+asr:0: OUTPUT 1655.58-1658.82: The roller coaster year in terms of net retention rate and its development. 
+asr:0: OUTPUT 1660.08-1667.79: As we explained before, the one-time effect of right sizing of the COVID customers triggered the strong decrease, especially in the first six months. 
+asr:0: OUTPUT 1668.33-1677.22: And then we saw a subsequent increase again in Q3 and now in Q4 up to 105%, so very strong development, I would say. 
+asr:0: OUTPUT 1678.36-1683.80: And despite the lower net subscriber number in Q4, new billings slightly went up to 20 million euro. 
+asr:0: OUTPUT 1685.25-1686.25: This is a good achievement. 
+asr:0: OUTPUT 1687.23-1693.17: Frankly, more of those new buildings relate to more sticky enterprise customers with deeper embedded use cases. 
+asr:0: OUTPUT 1693.79-1698.44: Such as AR or managed enterprise connectivity like ABB as Oliver mentioned. 
+asr:0: OUTPUT 1699.54-1706.19: And again, as we have not run free user monetization anymore, I also believe that the customer cohort, which we won lately,. 
+asr:0: OUTPUT 1706.21-1714.91: Might turn out to be stickier than the ones from other quarters where we had new buildings more biased towards lower ASP which tend to have a higher. 
+asr:0: OUTPUT 1714.93-1716.34: My children and the year later. 
+asr:0: OUTPUT 1717.28-1721.06: Let's take a look at geographical performance on slide 23. 
+asr:0: OUTPUT 1722.90-1728.93: In terms of mutual performance, fourth quarter billing growth was especially strong in the APAC region. That's good to see. 
+asr:0: OUTPUT 1729.81-1736.86: Representing one of our key growth regions. Bit of a tough year for APEC overall but with a very strong finish. 
+asr:0: OUTPUT 1737.58-1744.70: As you might remember, Q4 last year was actually not that strong in Apex, so they also benefited from a lower base. 
+asr:0: OUTPUT 1744.84-1749.37: However, we clearly saw very good improvements, especially compared against Q3. 
+asr:0: OUTPUT 1750.49-1755.86: Q4 buildings of 30 million, roughly representing 30% year-on-year growth, very strong. 
+asr:0: OUTPUT 1756.76-1764.02: You also saw that we have a new leader, Seo Joon Lee, she's joined us as the new president of AIPAC in December. 
+asr:0: OUTPUT 1764.44-1771.53: And I think with her, we want a clearly a very proven enterprise software expert with significant knowledge in those important markets for us. 
+asr:0: OUTPUT 1772.55-1773.87: So we're very happy to have her on board. 
+asr:0: OUTPUT 1774.63-1783.56: Let's move on to the Americas. Billings in the fourth quarter grew by 24%, also benefiting from some currency tailwinds as the US dollar strengthened. 
+asr:0: OUTPUT 1784.82-1791.07: Growth in the Americas actually was clearly biased towards enterprise, very strong pipeline conversion there. 
+asr:0: OUTPUT 1791.59-1797.14: I think Patti Nagle, who joined us in the May time frame, clearly put together a very strong team and contributed quite nicely there. 
+asr:0: OUTPUT 1798.36-1802.20: In. 
+asr:0: OUTPUT 1802.74-1805.93: I think America's performance is especially driven by the enterprise sales. 
+asr:0: OUTPUT 1806.39-1813.59: And EMEA recorded good SMB results and also strong pipeline conversion, but less strong than the Americas overall. 
+asr:0: OUTPUT 1815.10-1817.80: So let's move on to the cost structure on the next slide. 
+asr:0: OUTPUT 1819.68-1821.06: I'm hungry. 
+asr:0: OUTPUT 1821.08-1829.71: Clearly the business remains very scalable despite our strong push into adjacent markets and the even stronger push into our enterprise business. 
+asr:0: OUTPUT 1830.41-1837.44: With around 93% our cross-profit margin remained comfortably above 90%, actually even improving slightly compared to last year. 
+asr:0: OUTPUT 1838.04-1842.66: So really showing that our infrastructure efficiently scales with a steadily growing business. 
+asr:0: OUTPUT 1842.68-1850.45: And that's even taking into account that we further expand into the enterprise business with larger deals and more complex use cases. 
+asr:0: OUTPUT 1851.71-1854.97: Now let's take a look at our OPEX functions. 
+asr:0: OUTPUT 1855.40-1862.56: Clearly in line with our key growth initiatives, significant investments occurred, as you are all aware, especially in the marketing area. 
+asr:0: OUTPUT 1862.68-1866.53: Now reflecting the full impact of the marketing partnerships since Q3. 
+asr:0: OUTPUT 1867.01-1872.99: That's pretty much a flatline expense. So each quarter pretty much the same amount to be expensed for those partnerships. 
+asr:0: OUTPUT 1874.17-1880.24: But also in sales and marketing and R&D, we invested strongly, but generally speaking, much more in line with Billings Growth. 
+asr:0: OUTPUT 1881.50-1883.42: And then that experience also came down. 
+asr:0: OUTPUT 1884.48-1893.07: To 2.5% and 2.9% in the full year. I think that has now been a very consistent development that expenses came down and I expect that to improve. 
+asr:0: OUTPUT 1893.11-1898.58: Slightly going forward as well as we become a more enterprise-biased business. 
+asr:0: OUTPUT 1900.00-1904.68: Moving on to cache generation, clearly a continuous highlight of TeamViewer. 
+asr:0: OUTPUT 1905.15-1910.83: We continue to enjoy a strong cash flow and actually very high cash conversion. 
+asr:0: OUTPUT 1911.51-1919.62: For. 
+asr:0: OUTPUT 1920.00-1928.01: Partnerships. But that being said, level 3 cash flow in the fourth quarter, actually 68 million up 20% or 21%. 
+asr:0: OUTPUT 1928.57-1935.10: A very strong cash conversion in the fourth quarter and also actually benefiting from lower capex and interest payments. 
+asr:0: OUTPUT 1935.46-1939.56: As you can see for the full year, level three cash flow slightly decreased. 
+asr:0: OUTPUT 1939.98-1945.55: Obviously reflecting the marketing partnerships and the slightly lower EBITDA. 
+asr:0: OUTPUT 1945.97-1951.27: That being said, we achieved a cash conversion rate of 61% of adjusted EBITDA, I think overall very strong. 
+asr:0: OUTPUT 1951.79-1958.88: And actually, I would like to point out that our capex and interest payments both nearly halved. So quite significant improvements there. 
+asr:0: OUTPUT 1959.32-1962.62: And I expect them to stay at those lower levels going forward. 
+asr:0: OUTPUT 1963.50-1969.21: And clearly that means this healthy cash flow adds to an already strong liquidity position as you can see in the next chart. 
+asr:0: OUTPUT 1970.67-1978.28: I would like to take a step back here quickly. I think there was the lingering question out there about our capital structure and I think we wanted to respond to that today. 
+asr:0: OUTPUT 1979.02-1984.08: So at the time of the IPO, the company actually had a leverage of about 3.5 times EBDA. 
+asr:0: OUTPUT 1984.66-1991.79: I think clearly since then we have generated significant amount of cash and delivered pretty fast now to 1.3 times. 
+asr:0: OUTPUT 1992.93-1994.69: Two developments contributing to that. 
+asr:0: OUTPUT 1995.34-2004.96: Obviously, this is driven by our continuously increased adjusted EBDA on the one hand, and on the other hand, we consistently generate a significant amount of free cash flows. 
+asr:0: OUTPUT 2006.11-2013.03: And if you add this together, we have now a cash position of 550 million at the year end of 2022. 
+asr:0: OUTPUT 2013.89-2016.84: And a net debt position of 327 million. 
+asr:0: OUTPUT 2018.06-2025.69: In Q1 of the last year, actually we also used the chance to strengthen the balance sheet and secured long-term really attractive financing. 
+asr:0: OUTPUT 2025.99-2030.87: With a promissory note of 400 million euro which we concluded by the end of Q1 2021. 
+asr:0: OUTPUT 2031.47-2037.10: And as you can see at the bottom of this slide, our financing structure is very solid. 
+asr:0: OUTPUT 2037.12-2041.66: And long-term secured with no refinancing needs for the next two to three years. 
+asr:0: OUTPUT 2041.70-2043.44: So overall I think a very solid balance sheet. 
+asr:0: OUTPUT 2045.03-2051.59: And therefore, now we have set ourselves a sustainable year-end leverage target of roughly 1.5 times adjust the EBDA. 
+asr:0: OUTPUT 2052.19-2061.12: I think this target is derived from well-balanced and long-term secured financing structure and obviously takes into account our continuously strong cash flow generation. 
+asr:0: OUTPUT 2062.40-2071.71: So wrapping it up on the next slide, quickly highlighting the cash profile of TeamViewer, clearly it's a technology company which traditionally have low capex. 
+asr:0: OUTPUT 2072.15-2080.16: And I think that capex saw some peak during the last couple of years but has now come down substantially and will remain at those levels for the foreseeable future. 
+asr:0: OUTPUT 2080.84-2086.63: We also had and will continue to have relatively low taxes. We still have significant amount of tax losses carried forward. 
+asr:0: OUTPUT 2087.15-2092.83: Therefore, our effective tax cash rate remains pretty low. That remains the case for the next two years. 
+asr:0: OUTPUT 2093.97-2098.88: And obviously we are able to achieve and generate significant adjusted EBITDA margins. 
+asr:0: OUTPUT 2099.48-2107.53: Even with the significant impact of the marketing and brand investments, we retained margins comfortably in the mid 40% range or 47% for the last year. 
+asr:0: OUTPUT 2109.31-2118.46: So finally, we consistently maintain this strong cash flow and I think the profitable growth in the enterprise as well as the SMB business in combination. 
+asr:0: OUTPUT 2118.48-2124.72: With our now well-balanced buildings and cost growth, we'll further boost cash generation going forward. 
+asr:0: OUTPUT 2125.13-2129.45: And if you sum all of that up, I think TeamViewer clearly has a highly attractive financial profile. 
+asr:0: OUTPUT 2129.71-2135.40: And this financial profile and strong position obviously helps us now and enables us. 
+asr:0: OUTPUT 2135.42-2141.72: To create value for our shareholders basically on a new level which leads me to the Share Buyback Program. 
+asr:0: OUTPUT 2142.52-2149.81: This program has been in discussion for a while and now we wanted to update you what we want to do going forward. 
+asr:0: OUTPUT 2150.29-2151.73: So let's move on to the next slide. 
+asr:0: OUTPUT 2153.01-2156.88: I think we talked enough about our capabilities to deliver. 
+asr:0: OUTPUT 2157.56-2165.99: In our strong liquidity position and therefore we have decided to initiate a share buyback program with a volume of 300 million euro. 
+asr:0: OUTPUT 2166.17-2170.07: 300 million euro or pretty much 10% of our shares. 
+asr:0: OUTPUT 2170.39-2177.98: That's obviously fully in line with the authorities granted by our shareholders in the AGM in 2019. 
+asr:0: OUTPUT 2178.68-2184.88: Obviously, we also released an ad hoc announcement this morning. The program is scheduled to start tomorrow. 
+asr:0: OUTPUT 2185.05-2189.63: And is also expected to be completed within the fiscal year 2022. 
+asr:0: OUTPUT 2190.63-2197.90: Obviously the whole buyback program will be carried out in accordance with EU regulations and other applicable rules and so forth. 
+asr:0: OUTPUT 2198.78-2200.06: Important to note. 
+asr:0: OUTPUT 2200.16-2209.25: The vast majority of the shares will be cancelled and therefore the share count of the company will be reduced accordingly, so roughly by 10%. 
+asr:0: OUTPUT 2209.93-2217.32: I think this should clearly demonstrate the confidence of us in the strong outlook of the business and our commitment to shareholder value creation. 
+asr:0: OUTPUT 2217.34-2220.44: By now allowing shareholders to participate in the success of CBO. 
+asr:0: OUTPUT 2222.72-2232.27: And with the remaining 200 million euro of cash, we still have adequate financial flexibility and firepower to execute on our cross-sternishness. I think overall a very strong position to be in. 
+asr:0: OUTPUT 2232.99-2236.50: Let's move on and conclude my presentation with the outlook for 2022. 
+asr:0: OUTPUT 2237.50-2243.62: Clearly, as you heard Oliver talk, we expect continuing demand for solutions over the coming quarters. 
+asr:0: OUTPUT 2244.08-2250.25: The global mega trends are still well intact and will continue to support our growth trajectory in 2022. 
+asr:0: OUTPUT 2251.05-2259.58: I think the continued implementation of the measures which we talked about and updated you today will further positively impact this development. 
+asr:0: OUTPUT 2260.06-2261.60: I think against this background. 
+asr:0: OUTPUT 2261.62-2270.15: We continue to target high-teens billings growth and expect billings in the range of 630 to 650 million euro for the current fiscal year. 
+asr:0: OUTPUT 2270.29-2276.26: And revenues expected to increase in the mid-teens to EUR 565-580 million. 
+asr:0: OUTPUT 2276.92-2285.61: The USDBA margin is expected to be between 45 and 47. And furthermore, clearly, we also expect operating cash flow to increase again compared to 2021. 
+asr:0: OUTPUT 2286.61-2296.48: For the mid-term outlook, this remains unchanged as well. We see the mentioned growth rates for Billings and Renew as well as an improvement of our just EBITDA margin going forward. 
+asr:0: OUTPUT 2297.40-2299.02: I'll just add a handbag to Oliver. 
+asr:0: OUTPUT 2300.00-2308.59: Thank you very much, Stefan. Let me close with some final remarks. I think from our perspective, 2021 is a very remarkable year. 
+asr:0: OUTPUT 2309.15-2314.31: Some challenges but also some very strategic decisions which are very important. 
+asr:0: OUTPUT 2314.33-2321.42: On the partnership side, on the M&A side, on the development of the enterprise business, broadening the solution portfolio and the like. 
+asr:0: OUTPUT 2321.44-2329.11: Really significant decisions and steps towards continued profitable growth. So we really believe. 
+asr:0: OUTPUT 2329.13-2334.07: We have set a clear course and we deliver on this. 
+asr:0: OUTPUT 2335.40-2338.44: We have delivered on our updated 2021 guidance. 
+asr:0: OUTPUT 2339.58-2346.65: Steadily generating high team's growth in combination with strong profitability and very strong cash flows as Stefan pointed out. 
+asr:0: OUTPUT 2347.57-2352.23: We are pleased to announce that we will use our strong financial profile to return some of the value. 
+asr:0: OUTPUT 2352.95-2354.65: That we generate to our shareholders. 
+asr:0: OUTPUT 2355.62-2363.46: And the share buyback program we just initiated strongly and clearly underpins our confidence in our business and the future growth of TeamViewer. 
+asr:0: OUTPUT 2364.70-2369.77: This concludes today's presentation, and we now look forward to taking your questions. 
+asr:0: OUTPUT 2372.87-2375.54: Thank you. We will now begin our question and answer session. 
+asr:0: OUTPUT 2375.74-2382.88: If you have a question for our speakers, please dial 01 on your telephone keypad now to enter the queue. Once your name has been announced, you can ask a question. 
+asr:0: OUTPUT 2383.32-2388.55: If you find your question is answered before it is your turn to speak, you can dial 02 to cancel your question. 
+asr:0: OUTPUT 2389.09-2395.08: If you're using speaker equipment today, please lift the handset before making your selection. One moment please for the first question. 
+asr:0: OUTPUT 2399.34-2403.00: The first question is coming from George Webb at Morgan Stanley. Your line is now open. 
+asr:0: OUTPUT 2405.11-2408.37: Morning Oliver and Stefan, thanks for taking my questions. I've got a few. 
+asr:0: OUTPUT 2409.03-2416.66: So firstly, just want to start on net retention rates, which obviously jumped in Q4 to 105%. Looks like there's a bit of an FX tailwind in there. 
+asr:0: OUTPUT 2417.10-2426.79: How are you thinking about constant currency net retention rates across 2022? And what's your latest thoughts around pricing levels on the S&P base? That's the first question. 
+asr:0: OUTPUT 2427.57-2431.87: Secondly, just on the enterprise side, Q4, good level of net additions. 
+asr:0: OUTPUT 2432.45-2441.88: To what extent are those mastering partnerships having an impact in Q4? How sustainable do you view the improved pipeline conversion as you look into 2022? 
+asr:0: OUTPUT 2442.44-2450.57: And then just finally, a small one on the adjusted cost lines, quite a notable step up in R&D in Q4. It looks to be driven by more than just headcount increases. 
+asr:0: OUTPUT 2450.61-2452.55: If there's anything specific going on there. Thank you. 
+asr:0: OUTPUT 2455.84-2461.24: Thanks Josh. So I'll start with NRR. I'm also very pleased with that development. 
+asr:0: OUTPUT 2461.82-2464.34: I think NIR for the full year is at 98%. 
+asr:0: OUTPUT 2464.92-2472.87: Fourth quarter 105% you pointed out yes there was some currency table and probably two percentage points I guess in the fourth quarter. 
+asr:0: OUTPUT 2473.37-2477.00: For the years a whole pretty much unaffected by constant currencies. 
+asr:0: OUTPUT 2477.62-2480.04: How do I see that going to 2022? 
+asr:0: OUTPUT 2480.98-2488.97: Obviously we've made this guide now assuming roughly stable currency rates, what we currently see. 
+asr:0: OUTPUT 2489.79-2498.04: And I would expect some slight improvements in net retention rate. I think it's a bit early to give precise guidance, but as you know, especially in the first six months. 
+asr:0: OUTPUT 2498.48-2506.13: We have seen a negative effect of all of the right sizing and downsizing from the COVID customers and that was quite a drag on our NRR. 
+asr:0: OUTPUT 2506.63-2511.13: That being said, in the second half we recovered quite significantly. 
+asr:0: OUTPUT 2511.21-2521.20: So it's a good trend and I would expect clearly that overall we continue to improve our NRR for the full year which was like at 98%. 
+asr:0: OUTPUT 2521.24-2523.56: Bear with us, I think it's a bit too early to give precise guidance. 
+asr:0: OUTPUT 2524.80-2533.37: But then thinking about pricing power in the S&B space, I think we've now been able again to show a nice increase in ASP within the S&B space. 
+asr:0: OUTPUT 2533.85-2539.74: This is driven by two factors. A, obviously continuous upsell into the install base. 
+asr:0: OUTPUT 2540.00-2546.75: More use cases, more embedded products, cross-selling activities going on. 
+asr:0: OUTPUT 2547.13-2554.23: So it's a well-balanced mix of more use cases and some price increases which you pushed through. 
+asr:0: OUTPUT 2554.69-2561.02: The price environment is actually pretty stable, so I don't see any indication that this would change even at the low end. 
+asr:0: OUTPUT 2562.38-2570.59: The marketing partnerships, the impact in the fourth quarter, look, I mean, obviously significant impact on the P&L. I think Oliver talked about in his presentation. 
+asr:0: OUTPUT 2571.01-2574.37: What we see in terms of trend equity and the positive impact there. 
+asr:0: OUTPUT 2575.14-2580.32: It did not really influence the top line meaningfully in the fourth quarter. It's also not what we expected, frankly. 
+asr:0: OUTPUT 2580.66-2586.69: We always said this is a long-term investment. But really from a brand perspective, I'm very pleased with what we are seeing. 
+asr:0: OUTPUT 2587.63-2596.56: Pipeline conversion, I think that was the fourth part of your question. Overall, very happy what we've seen in the fourth quarter. I mean, clearly the fourth quarter for the enterprise business is showtime. 
+asr:0: OUTPUT 2597.44-2603.50: And I think especially the America team converted their pipeline very well. Strong pipeline build and pipeline conversion. 
+asr:0: OUTPUT 2604.00-2612.01: In EMEA also good pipeline conversion. So overall very pleased with what we've been seeing, but obviously it's also the fourth quarter and it's important to. 
+asr:0: OUTPUT 2612.03-2614.09: You see that pipeline converging to fourth water. 
+asr:0: OUTPUT 2614.57-2620.32: As you would expect now, obviously some of that pipeline needs to be rebuilt, right? As for all other enterprise software companies out there as well. 
+asr:0: OUTPUT 2621.34-2624.06: The last question was around cost line R&D. Anything special in the fourth quarter? 
+asr:0: OUTPUT 2624.84-2634.45: Not really. I think it's a full impact of the acquisitions which we've done. Yeah, that's about it. But going forward, that growth will be slower. Great. Thank you. 
+asr:0: OUTPUT 2637.28-2640.96: The next questions come from James Goodman at Barclays. Your line is now open. 
+asr:0: OUTPUT 2642.48-2649.25: Great morning, thanks very much and particularly for the extra disclosure around the SMB business as well. 
+asr:0: OUTPUT 2649.69-2652.57: Couple of questions from me, firstly just on the headcount side. 
+asr:0: OUTPUT 2653.61-2662.44: If I look at Q4, there's been a meaningful reduction in the sales and the marketing lines there, presumably around the right sizing. 
+asr:0: OUTPUT 2662.80-2668.59: So I really just wondered if you could talk a little bit about your plans in terms of headcount into 22. 
+asr:0: OUTPUT 2669.99-2679.36: Are you expecting any impact from that lower sales headcount and how are you finding employee attrition and the general environment around employees? 
+asr:0: OUTPUT 2679.76-2682.28: Given the changes and movements last year. 
+asr:0: OUTPUT 2682.76-2687.89: And then just secondly, I guess a slightly broader question on the outlook for 2022. 
+asr:0: OUTPUT 2688.37-2696.62: Nearly half half of the growth this year from SMB versus Enterprise so just wondered if rule of thumb you're expecting something similar in this year. 
+asr:0: OUTPUT 2697.04-2699.56: And then in terms of seasonality there as well. 
+asr:0: OUTPUT 2699.58-2709.21: I think a sort of flatter set of comps than we've had previously but still a little bit of residual strength in Q1 from that Covid. 
+asr:0: OUTPUT 2709.23-2711.61: Period two years ago. 
+asr:0: OUTPUT 2711.63-2718.26: Would it be fair to say that you'd expect growth to be stronger in the Q2 to Q4 part of the year? Thank you. 
+asr:0: OUTPUT 2720.08-2721.16: Bye James, thanks. 
+asr:0: OUTPUT 2721.52-2730.13: So just for your first question, headcount, yeah we had a headcount of 3 as you can see from the numbers after the very strong intake. 
+asr:0: OUTPUT 2731.71-2741.70: But that's really just to freeze no meaningful reduction and especially there's no meaningful headcount reduction in sales and marketing. So these are two areas where we're investing. 
+asr:0: OUTPUT 2742.56-2748.37: So there's regrouping underneath the hat, so to say, but all in all. 
+asr:0: OUTPUT 2748.83-2756.70: We have a strong sales force, strong marketing support and that's not going to impact the growth and the initiatives for this year. 
+asr:0: OUTPUT 2758.26-2759.92: In terms of your rule of law? 
+asr:0: OUTPUT 2759.98-2768.33: I mean, obviously we don't give guidance between for S&P and the enterprise growth, but generally speaking, the way how we see that is not a bad thing. 
+asr:0: OUTPUT 2768.39-2769.53: That approach frankly, yeah. 
+asr:0: OUTPUT 2770.37-2775.78: And that would equal to, I mean, S&P growth 10% or above, getting to 12% growth. 
+asr:0: OUTPUT 2776.30-2785.63: That's obviously the target which we gave ourselves at the CMD. We're not quite there yet, but obviously we put in place lots of measures to improve our SMB performance. 
+asr:0: OUTPUT 2785.89-2793.91: And I think if we expect equal weighting of enterprise incremental growth and S&P incremental growth, that's a good rule of thumb. 
+asr:0: OUTPUT 2794.77-2801.50: Seasonality, you're right. I would also expect a moderately biased seasonality towards the second half. 
+asr:0: OUTPUT 2802.50-2805.67: A, we continue to post monetization free users as we talked about. 
+asr:0: OUTPUT 2806.19-2810.05: That's still the case, so we don't use any of that for the time being. 
+asr:0: OUTPUT 2810.75-2818.90: And obviously enterprise pipeline, rebuild and converting, obviously is also biased as for most other enterprise software companies more towards the second half. 
+asr:0: OUTPUT 2820.98-2823.28: Okay, thank you. Oliver just may be coming back just on the... 
+asr:0: OUTPUT 2823.32-2831.99: On the employee side just in a little bit more detail, I mean just around the general environment it's clearly a topic across the space at the moment just in terms of. 
+asr:0: OUTPUT 2832.01-2838.26: Attrition versus wage inflation, you know, versus finding the right people and anything to add around that. 
+asr:0: OUTPUT 2839.52-2842.98: Yeah, good point. Clearly we see... 
+asr:0: OUTPUT 2843.00-2849.49: That there is significant competition for workforce across all markets, I think, started in the US. 
+asr:0: OUTPUT 2849.59-2855.54: And now it's also reached Europe. In APEC was always very difficult to find high caliber people. 
+asr:0: OUTPUT 2856.34-2867.97: Certainly, we've used the regrouping exercise to also think about adjustments there in terms of increasing salaries and making adjustments for the people that. 
+asr:0: OUTPUT 2867.99-2876.74: Are high talent and we want to keep going forward and then some reductions in some places where we felt we are not in the best possible position. 
+asr:0: OUTPUT 2876.92-2882.10: It's getting harder, absolutely. I think we have an attractive compensation system. 
+asr:0: OUTPUT 2883.14-2887.39: We provide significant opportunities and we have an eye on that. 
+asr:0: OUTPUT 2887.79-2890.99: I wouldn't say that we have difficulties finding people. 
+asr:0: OUTPUT 2891.35-2899.42: Tuition has gone up in some areas but also honestly speaking during the RE-MAX program part of it was also. 
+asr:0: OUTPUT 2899.80-2909.47: CME wanted, so to say, so we were actually quite happy to have the opportunity to regroup in some places and in some departments globally. 
+asr:0: OUTPUT 2909.81-2913.47: So all in all, I would feel well under control, but it's getting tougher for sure. 
+asr:0: OUTPUT 2914.59-2922.24: That's helpful. Thanks very much. The next question is coming from Mohamed Mawala at Goldman Sachs. Your line is now open. 
+asr:0: OUTPUT 2924.52-2927.53: Thank you, Morning, Oliver and Stephan. 
+asr:0: OUTPUT 2928.59-2935.20: A couple from me, first of all, just, Stephan, you made the comment around Q4 being showtime for the. 
+asr:0: OUTPUT 2935.22-2939.68: Enterprise sales force, but the pipeline had to be rebuilt. 
+asr:0: OUTPUT 2940.22-2949.19: I'm just curious to get your sense on the visibility of this business because it's obviously been very Q4 loaded over the last couple of years. 
+asr:0: OUTPUT 2949.87-2955.70: In the overall enterprise IT spending environment from everyone here is pretty robust. 
+asr:0: OUTPUT 2955.88-2960.76: I'm just curious what you can do around kind of driving more consistency here. 
+asr:0: OUTPUT 2961.12-2963.34: Both around pipeline build but. 
+asr:0: OUTPUT 2963.66-2971.49: Are you also seeing any progress or evidence around some of the larger deals and is that sort of baked into your expectations or not? 
+asr:0: OUTPUT 2972.03-2977.04: And then secondly, just again, back on enterprise in terms of execution. 
+asr:0: OUTPUT 2978.12-2987.35: Can you maybe talk us through any sort of changes you have made to sort of make the execution a bit more kind of consistent on the side as well? 
+asr:0: OUTPUT 2987.87-2990.55: Thank you. 
+asr:0: OUTPUT 2991.99-2993.55: Enterprise Visibility. 
+asr:0: OUTPUT 2993.61-2997.26: Yes, when I say it's showtime clearly, I mean as you know. 
+asr:0: OUTPUT 2997.28-3005.61: Enterprise business has always been biased towards the fourth quarter whether we liked it or not. It's just the fact in the enterprise software industry. 
+asr:0: OUTPUT 3006.75-3015.66: I think what we've seen here is a good build of the pipeline, especially in the Americas. When Patty joined us, she put together a new team. 
+asr:0: OUTPUT 3016.22-3023.40: I think that team also with existing talent actually produced a very good pipeline and then converted really strong in the fourth quarter. 
+asr:0: OUTPUT 3023.98-3030.43: And I think this was a progress across all use cases and across all deal sizes in the US. 
+asr:0: OUTPUT 3030.99-3038.14: I think in EMEA we are slightly behind, there was a leadership change a bit later in the year, in the fourth quarter. 
+asr:0: OUTPUT 3038.80-3044.84: I think the pipeline built in the EMEA region as we expressed during the third quarter was not as strong as in the US. 
+asr:0: OUTPUT 3045.29-3048.91: But they converted also very nicely, overall speaking. 
+asr:0: OUTPUT 3049.45-3059.04: I think what's good to see from my perspective is that the pipeline we have now built together with our key partners like SAP or Google and the likes is increasing. That's nice. 
+asr:0: OUTPUT 3060.00-3067.51: Also pretty much centered around the newer use cases which tend to have larger ticket sizes, but clearly those partners like I mentioned in. 
+asr:0: OUTPUT 3067.65-3073.87: They are also very much biased towards Q3 and Q4 right towards the end of the year when they convert a pipeline. 
+asr:0: OUTPUT 3074.41-3076.30: But overall happy with what we see. 
+asr:0: OUTPUT 3076.78-3085.89: As you would expect going into the new year, there is some carryover from high-prime which hasn't been closed, which we can close and did close early on. 
+asr:0: OUTPUT 3086.03-3088.99: But fundamentally, obviously, you need to rebuild the enterprise pipeline. 
+asr:0: OUTPUT 3089.51-3091.53: But happy with what we've been seeing here. 
+asr:0: OUTPUT 3092.03-3093.67: In terms of execution. 
+asr:0: OUTPUT 3093.69-3102.62: Look, I think it's all about being close towards the deals and closely managing the enterprise team. I think that's what we've been doing over the last few months. 
+asr:0: OUTPUT 3102.76-3107.29: Also by petty and yarn who managed to see me enterprise team and also june. 
+asr:0: OUTPUT 3107.33-3114.05: I think generally speaking, we're much closer to our closer monitoring our enterprise development, sales productivity. 
+asr:0: OUTPUT 3114.57-3119.16: And that makes me confident that we have it in place to deliver on our 2022 numbers. 
+asr:0: OUTPUT 3119.68-3130.65: I would also say that what you call make execution more consistent, I mean if I turn it around, the inconsistency is of course also due to the fact that we see really many positive movements. 
+asr:0: OUTPUT 3130.67-3135.08: I mean, we see a move over the last quarter towards larger deal sizes. 
+asr:0: OUTPUT 3135.10-3142.34: We see regional moves, we enter new verticals which we haven't been present before. We did the acquisitions to add augmented reality. 
+asr:0: OUTPUT 3143.08-3147.63: So all of this is getting us larger projects, outsize deals. 
+asr:0: OUTPUT 3147.65-3151.71: At certain points in time. Plus on top now we have the partnerships which we're launching with the. 
+asr:0: OUTPUT 3151.73-3154.05: With SAP and Google. 
+asr:0: OUTPUT 3154.07-3162.24: I would say in a way good problem to have because the share of new business to recurring renewal business is still very high. 
+asr:0: OUTPUT 3162.36-3169.59: And then of course that distorts the picture here and there a little bit, but with the overall growth rate and track record you see except for the. 
+asr:0: OUTPUT 3169.61-3170.91: COVID quarters. 
+asr:0: OUTPUT 3171.43-3180.40: I think it's impressive so therefore I wouldn't call it an inconsistency. It's the growing pains so to say of a business which is really gaining momentum. 
+asr:0: OUTPUT 3182.90-3190.97: That's great. And I could fit one more in. On the SMB side, there was obviously kind of a deceleration in the kind of sequentially. 
+asr:0: OUTPUT 3191.03-3192.15: And subscribers. 
+asr:0: OUTPUT 3192.19-3202.14: Maybe, Oliver, could you update us on the kind of state of the competitive landscape? Has there been any sort of...does it remain as competitive at the kind of very low end? 
+asr:0: OUTPUT 3202.20-3207.67: I know you talked about stabilization and gradual improvement. I'm just curious to get your perspective. 
+asr:0: OUTPUT 3208.85-3214.17: Yeah, I think pretty much unchanged, I would say, as we had discussed the... 
+asr:0: OUTPUT 3214.43-3219.78: The COVID wave has really brought a number of new competitors. 
+asr:0: OUTPUT 3219.80-3227.39: Winning customers and trying to get customers and subscribers at the lower end. So this is a numbers game, not a. 
+asr:0: OUTPUT 3227.41-3229.95: ASP game so to say these are small ticket sizes. 
+asr:0: OUTPUT 3230.85-3240.42: I think we can do many things there. What we did in the past clearly is we had a good portion of the subscriber growth. 
+asr:0: OUTPUT 3240.44-3243.40: Through conversion of free users. 
+asr:0: OUTPUT 3244.50-3248.71: We converted quite a few of them in the COVID aftermath. 
+asr:0: OUTPUT 3249.49-3251.77: We felt now it's time to probably better. 
+asr:0: OUTPUT 3251.79-3261.20: Ring fans our free user base more, don't monetize too much, let them be on the platform and use our products and get to know other use cases. 
+asr:0: OUTPUT 3261.68-3266.23: That's what we have implemented in Q3 and also in Q4, and that's what we expect. 
+asr:0: OUTPUT 3266.25-3275.22: I wouldn't say there is no change in the competitive landscape. I think we have discussed it multiple times, but it's more like we take a more aggressive stance maybe, which is. 
+asr:0: OUTPUT 3275.28-3280.00: Okay, let people stay on the platform and don't monetize them. 
+asr:0: OUTPUT 3280.06-3288.07: Because we don't really need these extra subscribers to print significant growth for the moment. 
+asr:0: OUTPUT 3288.25-3291.15: And if you kind of take that 30 to 50,000. 
+asr:0: OUTPUT 3291.17-3293.07: Subscriber edition guidance. 
+asr:0: OUTPUT 3294.07-3298.52: Something which we can do at a later stage if we need to and want to. 
+asr:0: OUTPUT 3304.52-3307.87: The next question is coming from Stacy Pollard at JP Morgan. Your line is now open. 
+asr:0: OUTPUT 3310.43-3317.28: Hi, thank you very much. Maybe some quick follow-ups from me, just digging in on that last comment around SMBs and the subs. 
+asr:0: OUTPUT 3317.36-3320.48: We saw a little bit of a drop from Q4 to Q3. 
+asr:0: OUTPUT 3321.28-3326.25: When you talk about competition, are you mostly competing on price? 
+asr:0: OUTPUT 3326.63-3336.12: Because the products are somewhat similar and commoditized at that low end? Or are you somehow grabbing customers because of features or function? Or is that where the competitive landscape is? 
+asr:0: OUTPUT 3336.38-3340.26: To really understand what the features are. 
+asr:0: OUTPUT 3340.86-3342.00: And then second question. 
+asr:0: OUTPUT 3342.84-3352.39: Are you able to broadly quantify the impact from the strategic partnerships with SAP and Google as you think ahead? So say what portion of growth you'd expect them to contribute? 
+asr:0: OUTPUT 3352.41-3353.73: Either in 2022. 
+asr:0: OUTPUT 3353.77-3355.70: Or at some point in the future. 
+asr:0: OUTPUT 3356.80-3361.70: And sorry, final question, recapital allocation. Is the share buyback now the priority focus? 
+asr:0: OUTPUT 3362.12-3369.03: And how are you thinking of M&A, maybe not as much planned for 2022, or do you see more opportunities? 
+asr:0: OUTPUT 3370.83-3374.25: Maybe I start with the competition point. 
+asr:0: OUTPUT 3375.76-3384.74: I think if you get to the entry level where you think about working from home, one computer connecting to another computer,. 
+asr:0: OUTPUT 3385.67-3393.89: Where it's very hard to differentiate on features because you're effectively connecting two managed IT equipment pieces. 
+asr:0: OUTPUT 3394.71-3397.16: That's the other competition I would say is more on price. 
+asr:0: OUTPUT 3397.96-3405.49: And we have an attractive offer, which we call TeamViewer Remote Access, which is for this individual user situation. 
+asr:0: OUTPUT 3406.53-3411.23: And in some markets this is competitively priced and others it's maybe a bit too high. 
+asr:0: OUTPUT 3411.83-3415.78: But it's also not the key focus for us. So we haven't been reacting on this a lot. 
+asr:0: OUTPUT 3416.64-3425.79: So what we focus on is feature richness and quality of connectivity to all kinds of devices across all operating systems, reliability, performance. 
+asr:0: OUTPUT 3425.81-3427.07: Global footprint. 
+asr:0: OUTPUT 3427.91-3431.07: In order for this to be really relevant. 
+asr:0: OUTPUT 3431.09-3439.72: You have to be a professional service provider using the product day in day out in very different use case situations where you don't want to have a. 
+asr:0: OUTPUT 3440.00-3444.32: Breakdown or a non connection and you want to have security so this is. 
+asr:0: OUTPUT 3444.62-3446.01: I would say the bifurcation. 
+asr:0: OUTPUT 3446.71-3452.41: If there's focus on features and connectivity, resilience and reliability. 
+asr:0: OUTPUT 3452.97-3459.38: Then we win if it's purely single-person connecting We are on the price pressure. 
+asr:0: OUTPUT 3459.70-3464.50: We tend to be not as competitive enough. That's why we basically giving it for free at the moment. 
+asr:0: OUTPUT 3465.03-3473.51: Which we always said, if you remember the IPO, we said the free product is the best protection against low-end competition. We haven't played that card over the last 24 months, but now we do. 
+asr:0: OUTPUT 3475.78-3485.53: And then maybe on the strategic partnerships, I mean, recapping 2021, I mean, obviously those have been closed and signed towards the end of the summer. 
+asr:0: OUTPUT 3486.07-3489.67: The things like significant contribution in 2021 despite that. 
+asr:0: OUTPUT 3490.11-3493.03: There was strong momentum in pipeline build, especially in the Americas. 
+asr:0: OUTPUT 3493.39-3496.08: I think we are well connected there with the team. 
+asr:0: OUTPUT 3497.06-3501.90: We already closed a few smaller deals together with SAP, which is good to see. 
+asr:0: OUTPUT 3503.22-3510.71: Also, Google supported us clearly in some larger deals, also very strong contribution there through indirect relationship support, I would say. 
+asr:0: OUTPUT 3511.13-3514.23: So overall, very pleased with the momentum which we've seen. 
+asr:0: OUTPUT 3514.29-3521.80: Now it's obviously all about increasing and building the pipeline and start converting the same in the second half. 
+asr:0: OUTPUT 3522.16-3527.23: I think it's a bit too early to quantify the full impact frankly, but obviously those strategic partnerships. 
+asr:0: OUTPUT 3527.25-3534.41: Open up avenues for significant growth in the enterprise space. I mean last year we did 40 million of incremental billings in the enterprise business roughly. 
+asr:0: OUTPUT 3535.20-3541.90: And I think it doesn't take a whole lot to imagine that successful SAP partnerships and Google partnerships can contribute meaningfully to those numbers. 
+asr:0: OUTPUT 3542.82-3545.49: The overall logic is that there's a complete. 
+asr:0: OUTPUT 3545.51-3553.65: New set of solutions which are more and more adopted which are based on the augmented reality platform. So really supporting. 
+asr:0: OUTPUT 3553.67-3564.30: Other workers and employees which are not in the office environment but which are outside the office environment, so call them frontline workers or industrial workers or service technicians, whatever. 
+asr:0: OUTPUT 3564.88-3573.45: There's the clear trend to bring more IT, more software, more support outside of the IT. 
+asr:0: OUTPUT 3573.51-3577.34: The headquarter into these functional areas. 
+asr:0: OUTPUT 3577.48-3585.27: And the nice thing is that I think we all aligned with this opportunity. 
+asr:0: OUTPUT 3585.33-3587.79: I mean like Google, like others, but also Google. 
+asr:0: OUTPUT 3588.29-3594.37: They want to increase their cloud consumption by new types of services that can be provided across the enterprise. 
+asr:0: OUTPUT 3595.26-3599.00: Somebody like SAP really expanding the proposition from. 
+asr:0: OUTPUT 3599.02-3603.74: ERP warehouse management to frontline worker support. 
+asr:0: OUTPUT 3603.80-3613.17: Our software coming into play, sometimes systems integration, some professional services needed which is then tapping into the traditional partner network. 
+asr:0: OUTPUT 3613.49-3615.78: That is doing software implementation. 
+asr:0: OUTPUT 3616.04-3624.18: I think a good group of companies coming around that opportunity and that's why we're so positive about this future perspective. 
+asr:0: OUTPUT 3624.97-3627.01: And then maybe on the share buyback in M&A. 
+asr:0: OUTPUT 3627.53-3637.32: I think the key question for us was how are we dealing with the cash position we built up over the last couple of years. Leverage down 1.3 times. 
+asr:0: OUTPUT 3638.12-3647.35: So this enables us to do this share buyback. But that being said, I would feel very comfortable to take up leverage again if the right target comes our way. 
+asr:0: OUTPUT 3648.01-3652.69: I think we have the financial firepower and the flexibility in our banshee to pursue M&A. 
+asr:0: OUTPUT 3653.07-3662.88: That's not immediately on the horizon, absolutely not, but we still maintain significant firepower to pursue M&A. Okay, useful point. 
+asr:0: OUTPUT 3667.93-3671.65: The next question is coming from Hannes Leitner at UBS. Your line is now open. 
+asr:0: OUTPUT 3672.97-3679.10: Yes, thank you for letting me on. I have also a couple of follow-up questions, maybe on Stacy's question, just to add here. 
+asr:0: OUTPUT 3679.12-3686.71: In regards to your conducted M&A, can you talk us through about the contribution for Q4? 
+asr:0: OUTPUT 3687.13-3693.11: And then also how that kind of now is a total group. 
+asr:0: OUTPUT 3693.13-3699.06: For example, the AR, mixed reality have contributed to enterprise feelings. 
+asr:0: OUTPUT 3699.10-3703.10: To get a better sense of the performance. 
+asr:0: OUTPUT 3703.58-3715.98: And then maybe just to follow up, because you mentioned enterprise had a wind shuffle in Europe. Is that anything related with Ubimax and with that management? 
+asr:0: OUTPUT 3716.36-3725.63: And then just the second topic would be to discuss margins. Q4 has been quite seen quite healthy margins. 
+asr:0: OUTPUT 3725.69-3729.85: 2022 guidance shows a little bit less confidence in it. 
+asr:0: OUTPUT 3730.17-3741.00: Maybe you can talk us over the near term and the mid term, the margin trajectory as enterprise ramps up. Philosophically, you should have the higher costs attached. 
+asr:0: OUTPUT 3741.14-3747.49: So how do you plan to offset that moving part? Thank you. 
+asr:0: OUTPUT 3749.81-3752.67: Yeah, sorry, just the first part, the first few. 
+asr:0: OUTPUT 3753.25-3754.69: No, they don't. Yes, they're left. 
+asr:0: OUTPUT 3754.75-3764.34: So first part was about the M&A that we did, the contribution in the fourth quarter, and the AR contribution and the likes and the reshuffle. So maybe I go first and then you. 
+asr:0: OUTPUT 3765.03-3770.93: So I think the way to think about it is that we have fully integrated Ubimax, Upscale and Viscopic. 
+asr:0: OUTPUT 3770.95-3776.66: Into our product management, R&D and also go to market and sales obviously. 
+asr:0: OUTPUT 3776.68-3781.20: Sales was more coming from the TPU side. 
+asr:0: OUTPUT 3781.34-3784.00: Not so much from these smaller companies. 
+asr:0: OUTPUT 3785.21-3791.95: So significant contribution from AI if you look at the enterprise in total currently. 
+asr:0: OUTPUT 3792.35-3801.40: I can't comment on the numbers, but I think important is the go-forward pipeline. And as we see it in most regions, I would say that. 
+asr:0: OUTPUT 3801.42-3809.07: There's somewhat like a split of 50-50 between topics which are centered around augmented reality solutions for frontline workers. 
+asr:0: OUTPUT 3809.09-3814.15: One way or the other can be manufacturing, field engineering, service technicians, logistics. 
+asr:0: OUTPUT 3814.19-3815.50: Say all the use cases really. 
+asr:0: OUTPUT 3817.24-3827.73: And the other half being classical tensor and engagement, managed connectivity, customer interaction products and so forth. So that's how I would say. 
+asr:0: OUTPUT 3827.75-3830.59: Contribution to the pipeline go forward. 
+asr:0: OUTPUT 3831.85-3833.33: The EMEA reshuffling. 
+asr:0: OUTPUT 3834.95-3838.86: That has nothing to do with UBIMAX or anything like this? 
+asr:0: OUTPUT 3839.72-3845.75: The three UBMAX founders are all still on board. One is our chief product officer, one is leading the enterprise. 
+asr:0: OUTPUT 3846.61-3848.77: Sales and solution delivery in EMEA. 
+asr:0: OUTPUT 3848.79-3855.28: And one is based out of the US really driving the augmented reality solutions there with the. 
+asr:0: OUTPUT 3855.30-3864.42: President America, so that's not a driver. The driver is really leadership change only and then a little bit of recutting the regional teams underneath. 
+asr:0: OUTPUT 3864.50-3866.39: Nothing more than that, I think. 
+asr:0: OUTPUT 3867.15-3874.45: I'll let Stefan comment on the margin, but what is not true is that Enterprise is suppressing our margin, that we have found the Enterprise investments. 
+asr:0: OUTPUT 3874.47-3878.72: Back in the years, so to say, and ramped up our sales force and also our. 
+asr:0: OUTPUT 3878.74-3880.02: R&D. 
+asr:0: OUTPUT 3880.10-3882.00: Product management and the like. 
+asr:0: OUTPUT 3882.40-3886.41: I think that in going hypothesis is wrong on that. 
+asr:0: OUTPUT 3887.15-3896.20: Maybe it's just a newbie makes it because I think all of those three founders play a very important role within the organization, as Olga just mentioned. And obviously, they have very strong enterprise background. 
+asr:0: OUTPUT 3898.16-3903.66: So great to have them on board and it's good to see that their roles have actually increased in importance. 
+asr:0: OUTPUT 3904.84-3912.23: In terms of margins, yes, Ola was absolutely right. Now look, I think enterprise is close to 20% and there was always the question, is this going to be dilutive? 
+asr:0: OUTPUT 3912.71-3914.91: And it's not, and it hasn't been. 
+asr:0: OUTPUT 3915.82-3919.66: If you would rip out the marketing partnerships effect on our P&L. 
+asr:0: OUTPUT 3919.98-3928.97: It would still be at mid-50s roughly, right? So despite enterprise business growing or nearly doubling in last year,. 
+asr:0: OUTPUT 3929.29-3932.71: We would have been able to keep our margins at very high levels. 
+asr:0: OUTPUT 3932.93-3935.03: So I think from my perspective, no dilutive impact. 
+asr:0: OUTPUT 3935.50-3943.26: Why is that? There's no significant professional services. It's land and expand, taking S&P customers and converting them into larger. 
+asr:0: OUTPUT 3943.30-3945.67: Customers, that's a big driver as well. 
+asr:0: OUTPUT 3946.95-3949.23: And I don't think it's going to change going forward. 
+asr:0: OUTPUT 3950.23-3952.03: Now in terms of marching. 
+asr:0: OUTPUT 3952.05-3961.44: You expressed it as having less confidence. I don't think so, frankly. I think, frankly, in 2021 we over-delivered against the guidance we gave ourselves. 
+asr:0: OUTPUT 3962.00-3965.39: Was 44 to 46 percent, now we came out at 47 percent. 
+asr:0: OUTPUT 3965.87-3971.51: I think we said at the time of the capital markets day we want to improve margins again as we exit 2022. 
+asr:0: OUTPUT 3971.79-3973.61: And now I think we've achieved that. 
+asr:0: OUTPUT 3973.63-3981.34: Goal a bit earlier in 2021 and I think the margin guidance we gave ourselves 45 to 47 percent is a good margin. 
+asr:0: OUTPUT 3981.48-3989.47: Target and it's not dilutive. Clearly, we should bear in mind that in 2021, the first quarter didn't have the impact of the marketing partnerships. 
+asr:0: OUTPUT 3989.91-3997.78: That marched up around 60% but obviously that's not repeatable anymore and that's the biggest reason for a potential. 
+asr:0: OUTPUT 3997.82-4000.56: Adjustment of all Marches. 
+asr:0: OUTPUT 4000.84-4004.50: But as you pointed out in the fourth quarter, which is 44% margin. 
+asr:0: OUTPUT 4004.99-4009.69: So very good. Now we have the cost trees implemented as Oliver mentioned, or the cost pores. 
+asr:0: OUTPUT 4009.71-4015.04: As all I mentioned and that should help us to get the margins to the 45 to 47 percent level. 
+asr:0: OUTPUT 4017.04-4020.76: Okay, thank you. Just in regards to the cost freeze. 
+asr:0: OUTPUT 4021.46-4028.97: Just on the implied OPEX increase, it suggests that you have OPEX increasing by 19%. 
+asr:0: OUTPUT 4029.29-4036.34: This year, so in line with the top line. So, that's why the Raymax program should actually mitigate the assumption. 
+asr:0: OUTPUT 4037.12-4039.86: And that's why I suggested the conservatism. 
+asr:0: OUTPUT 4041.16-4044.06: And then in just a last word is the enterprise. 
+asr:0: OUTPUT 4044.40-4052.97: On the acquisition, so you're saying that there is almost no contribution from upscale and viscopic in Q4. Thank you. 
+asr:0: OUTPUT 4056.20-4065.11: Look at Scopic it was a small startup which we acquired so in material and the same with Upskill yeah I mean that's hardly material contributions from that. 
+asr:0: OUTPUT 4065.29-4068.13: So all the growth which you have seen is pretty much organic growth. 
+asr:0: OUTPUT 4069.35-4071.15: Is that is what you after. 
+asr:0: OUTPUT 4072.47-4077.48: Technology touch right there part of it the part of the solution portfolio, but you cannot you cannot strip out. 
+asr:0: OUTPUT 4078.70-4085.43: They didn't come with billings which are now absorbed and would kind of... 
+asr:0: OUTPUT 4085.45-4088.75: Devalue the organic growth performance. That's absolutely not the case. 
+asr:0: OUTPUT 4089.43-4098.20: Hans, maybe just quickly on the cost growth, I mean obviously the growth compared to 2021 is predominantly the full year impact of the marketing partnerships, right? 
+asr:0: OUTPUT 4098.52-4105.57: That has started in the second quarter with half the charge more or less and since Q3 it's fully expensed in the P&L. 
+asr:0: OUTPUT 4105.85-4113.09: But obviously now going into Q1 you will see significant increase compared to Q1 last year, but the run rate is now stable. 
+asr:0: OUTPUT 4113.61-4118.42: If you compare Q3, Q4, it's a pretty stable run rate. 
+asr:0: OUTPUT 4120.20-4121.48: That makes total sense. Thank you. 
+asr:0: OUTPUT 4125.19-4129.01: The next push is coming from Gustav Frohberg at Barenberg. 
+asr:0: OUTPUT 4131.11-4138.56: Thank you for your session. Mine as well. Good morning. I just have three very quick ones, hopefully. Two on capital allocation and the shared buyback program. 
+asr:0: OUTPUT 4139.58-4148.73: I was hoping you could just give us some more color there on how you've reached the decision to reach or to go for a share buyback program and how we should view. 
+asr:0: OUTPUT 4148.77-4156.70: Well, it's effectively a return of cash to shareholders via share buybacks versus the company's reinvestment opportunities and the maturity of the business. 
+asr:0: OUTPUT 4157.40-4165.13: So just one question on the deliberations you made when arriving at that decision versus investing in yourself via M&A or organically. 
+asr:0: OUTPUT 4166.31-4174.37: Then a question on the shares you would like to cancel. Why would you not consider using more of the BOSDAQ shares as acquisition currency? 
+asr:0: OUTPUT 4175.72-4184.72: And then the third question on costs. You mentioned during the CMD that you would like to start capitalizing sales costs. Could you please remind us what you expect the impact may be in 2020? 
+asr:0: OUTPUT 4187.25-4189.09: Yeah. 
+asr:0: OUTPUT 4189.41-4196.80: On the Scherber-Beck decision, look, I think that was quite an intense discussion over the last quarter, frankly. 
+asr:0: OUTPUT 4197.70-4201.10: Since we IPO the company, there was the question already back then. 
+asr:0: OUTPUT 4201.38-4210.65: What are you going to do with the significant cash you're going to generate over the next couple of years? And I think now with the leverage of 1.3 times, we had to answer that question. 
+asr:0: OUTPUT 4212.09-4220.28: And then obviously we deliberated and conducted quite some intense reviews about balance sheet structure and what is a reasonable balance sheet for us. 
+asr:0: OUTPUT 4220.30-4224.10: What gives us still enough headroom to invest into the business. 
+asr:0: OUTPUT 4224.86-4228.79: And we feel anything below a leverage of 1.5 times. 
+asr:0: OUTPUT 4229.25-4236.80: This then allows us the opportunity to return cash to shareholders through a share buyback. And I think that's what the level which we have already achieved. 
+asr:0: OUTPUT 4238.10-4247.63: However, I think, and that's the good news, it does not eat into our reinvestment opportunities at all. I think we still have very strong financial firepower to pursue M&A. 
+asr:0: OUTPUT 4248.41-4254.47: I would feel comfortable anytime to increase the leverage again if the right target comes our way. 
+asr:0: OUTPUT 4254.59-4260.02: So I think this actually now gives us opportunity, the Share Buy Back, to let shareholders participate. 
+asr:0: OUTPUT 4260.26-4266.93: And the cash we generate but at the same time does not eat into our future M&A. 
+asr:0: OUTPUT 4267.19-4268.43: Planes. 
+asr:0: OUTPUT 4268.93-4270.53: I think maybe from my side to add to this. 
+asr:0: OUTPUT 4271.75-4278.18: The thinking process is M&A is not on the list short term. 
+asr:0: OUTPUT 4278.64-4282.62: I think we clearly committed at Capital Markets Day that it's all about organic performance. 
+asr:0: OUTPUT 4283.04-4290.81: We revised our guidance, revised our mid-term plans, we gave details around value creation in enterprise and SMB and it's about delivering on this. 
+asr:0: OUTPUT 4291.59-4300.08: In the short term, so therefore no immediate thoughts on M&A, number one. Number two, if we were to do M&A,. 
+asr:0: OUTPUT 4300.44-4308.15: It's either, at a later stage, it's either Taken M&A, which we have very successfully done with URIMAX, upscaled with SCORPIC in the past. 
+asr:0: OUTPUT 4308.87-4313.83: And the current Share-Vivec program leaves all the opportunity and flexibility to do so. 
+asr:0: OUTPUT 4314.73-4315.90: If that would come along. 
+asr:0: OUTPUT 4317.28-4319.86: The only limitation would be if there is a. 
+asr:0: OUTPUT 4319.88-4321.30: Mega M&A. 
+asr:0: OUTPUT 4321.42-4330.57: And then we anyway in a different game and need to think about different different measures because then the capital we have wouldn't be enough and that's totally not on the rise at the moment. So therefore we feel. 
+asr:0: OUTPUT 4330.91-4335.30: We felt after quite some discussions with investors over time. 
+asr:0: OUTPUT 4336.40-4340.12: We should do this now because it's a good timing and we don't need the funds. 
+asr:0: OUTPUT 4341.46-4348.27: And then in terms of why cancel not keep them for M&A currency, look, I think it's just straight up to cancel them. 
+asr:0: OUTPUT 4349.11-4356.64: We can obviously, if we pursue M&A, reissue shares. I think technically not a big difference, but it's just straight up to cancel them now for the time being. 
+asr:0: OUTPUT 4356.82-4359.16: As it's not on the short-term horizon. 
+asr:0: OUTPUT 4360.64-4369.93: And then sales commission, your last point, yes, we started capitalizing some of those around 3 million in the fourth quarter and I expect going to 2022. 
+asr:0: OUTPUT 4370.03-4375.50: That should be in the mid single digit million range so probably five to seven million on a yearly basis. 
+asr:0: OUTPUT 4380.22-4386.59: The next question will come from John Marco Conti at Deutsche Bank. Your line is now open. 
+asr:0: OUTPUT 4388.57-4391.75: Yeah, hi there. Just a few follow-ups for me too. 
+asr:0: OUTPUT 4392.09-4401.38: I have three questions. Just the first one, could you perhaps share on your F521 base what is the percentage of billings that comes from AR and IoT? 
+asr:0: OUTPUT 4401.52-4403.70: Sort of what is the customer account revolution there. 
+asr:0: OUTPUT 4404.72-4411.69: The second question is, if you could share some data, I know you've previously spoken on your CMB about IT versus OT use cases. 
+asr:0: OUTPUT 4412.45-4418.54: How is that looking in the fourth quarter and how are you thinking about the trends progressing into FY22? 
+asr:0: OUTPUT 4418.82-4423.84: If you're still seeing potentially more of OT use cases versus IT, and how are you measuring that? 
+asr:0: OUTPUT 4424.46-4433.33: And the final one is just sort of a clarification. I wanted to understand whether your enterprise billings. 
+asr:0: OUTPUT 4433.73-4438.02: I saw that you've converted sort of 12 million from the SMB. 
+asr:0: OUTPUT 4438.82-4447.55: I was wondering out of the 81 remaining, how much came from retained versus new wins? And how does the new wins in enterprise compare to the previous years? Thank you. 
+asr:0: OUTPUT 4452.15-4455.80: On the AR side of things, I think we discussed at the capital markets today that. 
+asr:0: OUTPUT 4455.82-4465.17: On an ATM basis, operational workflow spillings were around 13 million, 1.3, and that has substantially increased in the fourth quarter as you would expect. 
+asr:0: OUTPUT 4466.01-4470.49: And also highlighting some of the use cases Oliver mentioned, which included our front-end solutions. 
+asr:0: OUTPUT 4471.33-4478.56: So overall, it's still relatively small, but it's part of new buildings, especially in the enterprise business, becoming increasingly important. 
+asr:0: OUTPUT 4479.64-4487.55: Also mentioning the partnerships with Google and SAP that's obviously right now at this point in time predominantly focusing on those use cases. 
+asr:0: OUTPUT 4489.35-4492.71: And then thinking about the IoT use case split. 
+asr:0: OUTPUT 4493.83-4500.50: Predominantly more biased towards OT, especially obviously the frontline solutions as well. 
+asr:0: OUTPUT 4500.68-4502.04: Or the whole AR suite. 
+asr:0: OUTPUT 4502.84-4505.93: I think probably going back a year, one and a half years ago. 
+asr:0: OUTPUT 4506.77-4515.38: Was roughly split, I'd say, 50% OT, 50% IT use cases or managed connectivity use cases, if I take a look at the pipeline today. 
+asr:0: OUTPUT 4515.80-4524.30: It's probably rather two-thirds OT frontline-led use cases and one-third of the fields probably have an IT use case scenario to it as well. 
+asr:0: OUTPUT 4524.60-4527.43: I think overall it's well balanced, frankly. 
+asr:0: OUTPUT 4527.99-4535.50: And it should see and has seen a significant larger increase towards our newer products, which is very good. 
+asr:0: OUTPUT 4535.52-4537.22: Very encouraging. 
+asr:0: OUTPUT 4537.72-4539.48: But it's also important to notice, I mean... 
+asr:0: OUTPUT 4539.76-4542.12: Most large customer situations have a mix. 
+asr:0: OUTPUT 4542.16-4546.63: Somewhat there's either their staff with in IT and then heavy. 
+asr:0: OUTPUT 4546.65-4552.47: The plan to move into more parts of the organization and connect more devices or the other way around. 
+asr:0: OUTPUT 4553.05-4554.67: Your question, how do we measure this? 
+asr:0: OUTPUT 4555.58-4562.12: I think the honest answer is that we have in the CRM of course, we have a clear understanding of what the customers do. 
+asr:0: OUTPUT 4563.04-4571.35: But we don't measure it with a single KPI because we tried in the past and there is. 
+asr:0: OUTPUT 4571.37-4578.92: On connectivity and the likes and the likes, but ultimately the only thing that helps is to engage with customers and understand what they're doing. 
+asr:0: OUTPUT 4578.98-4580.08: And that's not a... 
+asr:0: OUTPUT 4580.10-4585.11: Call it quantitative measure which we which we which we're following or managing it. 
+asr:0: OUTPUT 4585.15-4591.11: Not not so relevant the importance is that we sell more use cases to larger organizations. 
+asr:0: OUTPUT 4592.27-4599.78: And then lastly, on the enterprise new billings, a significant amount of the incremental billings in enterprise came from new customer wins. 
+asr:0: OUTPUT 4600.34-4609.47: Obviously, we have a strong net retention rate in the enterprise business overall. It's 105% for the fourth quarter. You can imagine for the enterprise it was significantly higher. 
+asr:0: OUTPUT 4610.49-4617.50: But even that being said, we still had a very good intake of new enterprise customers in the fourth quarter, as you would expect as well. 
+asr:0: OUTPUT 4619.74-4621.98: Right. And just a quick follow-up. 
+asr:0: OUTPUT 4622.56-4625.87: Are you saying that the Free To Trade campaign. 
+asr:0: OUTPUT 4625.97-4635.18: You are sort of blocking it even in the long term, like even in the future, or is it something that you might revisit? 
+asr:0: OUTPUT 4635.20-4640.78: Sort of say if growth expectations on exactly what you want them to be. 
+asr:0: OUTPUT 4643.30-4646.19: No, I think the, yeah, good question. 
+asr:0: OUTPUT 4646.45-4653.83: The past had always shown past meaning before this whole COVID disruption. 
+asr:0: OUTPUT 4653.87-4661.36: The past has always shown that it makes sense to convert some of the free users into paying customers. 
+asr:0: OUTPUT 4661.38-4662.56: In a given market. 
+asr:0: OUTPUT 4662.62-4664.74: But then don't do anything for a while. 
+asr:0: OUTPUT 4665.85-4674.43: Now we have done very little in Q3, nothing in Q4, and as we said before, likely the same will be Q1, Q2, but let's see. 
+asr:0: OUTPUT 4675.42-4685.09: But that's the current planning and then most likely we will do some monetization again towards the second half of the year in selected markets and let's see what the contribution is. 
+asr:0: OUTPUT 4685.51-4688.73: We feel very comfortable with this 30 to 50,000 news. 
+asr:0: OUTPUT 4688.97-4697.42: Which we want to grow. Part of it will come from free to pay, likely. Part of it will come from voluntary purchases through other initiatives. 
+asr:0: OUTPUT 4698.60-4706.67: The way we look at it at the moment. Of course, if we see significant other traction in other parts of the business,. 
+asr:0: OUTPUT 4707.11-4711.35: And we can suspend it even longer than we'd likely do so. 
+asr:0: OUTPUT 4712.41-4715.32: But that's how it will be discussed later during the year. 
+asr:0: OUTPUT 4717.82-4719.64: Just one last one if I can fit it in. 
+asr:0: OUTPUT 4720.28-4726.89: On my previous question around new wins and enterprise, are you not able to pin a number or quantify the percentage? 
+asr:0: OUTPUT 4726.91-4733.71: Of enterprise billing derived from new customers, not that were retained or converted from SMB. 
+asr:0: OUTPUT 4735.68-4743.82: I think that's something which we don't want to do at this point in time. I think the important step at the C&D was to give precise color around those two different segments. 
+asr:0: OUTPUT 4743.98-4748.43: SMB and enterprise, but I think that's it for the time being. 
+asr:0: OUTPUT 4749.25-4757.04: I think it was going forward. We might change this, but at this point in time, we focus on providing overall building split between S&P and enterprise. 
+asr:0: OUTPUT 4758.14-4760.48: Also not at this point, I know, I mean. 
+asr:0: OUTPUT 4760.70-4766.77: Later in future might be more relevant, but at the moment with so many customers where. 
+asr:0: OUTPUT 4766.79-4774.27: There is a contact and there is a license in our SMB base and whether you call that a new logo. 
+asr:0: OUTPUT 4774.29-4780.96: Despite the fact that maybe there is a few thousand euro license there. I think this is such a significant move upwards. 
+asr:0: OUTPUT 4781.62-4786.65: And then there's a few customers that come in completely new, as new logos with the big tickets. 
+asr:0: OUTPUT 4787.83-4795.54: I think at the moment, it really doesn't matter that much. Later, when we have more of these large logos and we talk more about. 
+asr:0: OUTPUT 4795.56-4800.22: Upsell development and cross-selling and we have maybe at some point depleted. 
+asr:0: OUTPUT 4800.46-4803.22: The number of large organizations as our subscriber base. 
+asr:0: OUTPUT 4804.20-4808.29: That would be a different topic, but at the moment, that's just not the operational reality. 
+asr:0: OUTPUT 4815.52-4819.40: As a reminder, if you have a question for our speakers, please dial 01 to enter the. 
+asr:0: OUTPUT 4822.04-4826.09: The next questions come from Victor Cheng at Bank of America. Your line is now open. 
+asr:0: OUTPUT 4828.19-4830.73: Hi, thanks for taking the question too from my side. 
+asr:0: OUTPUT 4831.69-4839.30: Just to follow up on the net subscriber additions, can you provide a bit more color on how we should think about it, particularly for Q1-2? 
+asr:0: OUTPUT 4839.36-4845.59: Is the target of 30 to 50K net new additions. 
+asr:0: OUTPUT 4846.01-4850.59: Achievable in 2022 or should we expect it to be a bit closer to the lower end? 
+asr:0: OUTPUT 4851.87-4854.79: The second question on the free user base. 
+asr:0: OUTPUT 4855.26-4859.56: Are you able to break down the yearly active devices by device types? 
+asr:0: OUTPUT 4859.94-4868.49: And how that has evolved over time. Has IoT become a bigger part of these devices? And if so, does that imply the. 
+asr:0: OUTPUT 4868.51-4872.57: Free base for traditional device actually have shrunk a bit more. 
+asr:0: OUTPUT 4873.29-4877.02: Thank you. 
+asr:0: OUTPUT 4877.98-4883.78: As we said, 30 to 50K is the range of Net Editions we want to do. 
+asr:0: OUTPUT 4883.90-4890.43: And we can confirm that. 
+asr:0: OUTPUT 4890.65-4899.76: Probably suspended free-to-pay campaigns, so wouldn't expect significant net ads in these two quarters from today's perspective. 
+asr:0: OUTPUT 4901.96-4903.52: Free user base breakdown. 
+asr:0: OUTPUT 4904.12-4914.09: That we wouldn't go to that detail. We have different metrics around the free user base of course, but I think that's nothing which we would want to disclose. 
+asr:0: OUTPUT 4914.37-4919.46: The device type is interesting, but of course, if you. 
+asr:0: OUTPUT 4919.52-4922.24: Look at the just the sheer number of. 
+asr:0: OUTPUT 4922.26-4931.67: Hundreds of millions of active devices, most of them are one way or the other Windows or Android operating systems, so breaking that out by device type. 
+asr:0: OUTPUT 4932.67-4935.28: At the moment, it's not that relevant. 
+asr:0: OUTPUT 4935.68-4942.02: Device type we can't do anyway. The only thing is operating systems running on that. But as I said, this is not really meaningful. 
+asr:0: OUTPUT 4942.46-4949.45: Because obviously Microsoft is pretty dominant. You can do mobile Android versions and. 
+asr:0: OUTPUT 4950.83-4952.39: Not meaningful. 
+asr:0: OUTPUT 4955.46-4962.74: There are no more questions at the moment. For closing remarks, I give back to the speakers. 
+asr:0: OUTPUT 4966.35-4969.91: Much for the questions and looking forward to talking again soon. 
+asr:0: OUTPUT 4970.51-4977.90: Thank you. Thanks. Bye. Good day. Cheers. Bye. Ladies and gentlemen, thank you for your attendance. This call has been concluded. You may disconnect. 
+asr:0: END

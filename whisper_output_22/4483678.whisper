@@ -1,0 +1,496 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.20-7.51: Good morning, ladies and gentlemen. Welcome to CGI's first quarter fiscal 2022 conference call. 
+asr:0: OUTPUT 7.89-12.79: I would now like to turn the meeting over to Mr. Kevin Linder, Senior Vice President. 
+asr:0: OUTPUT 12.83-17.90: Finance and Treasury, then Head of Investor Relations. Please go ahead, Mr. Linder. 
+asr:0: OUTPUT 19.38-20.70: Thank you, Julie, and good morning. 
+asr:0: OUTPUT 21.14-28.61: With me to discuss CGI's first quarter fiscal 2022 results are George Schindler, our president and CEO. 
+asr:0: OUTPUT 28.63-32.31: And Francois Bollandre, Executive Vice President and CFO. 
+asr:0: OUTPUT 33.15-41.76: This call is being broadcast on CGI.com and recorded live at 9 a.m. Eastern Time on Wednesday, February 2, 2020. 
+asr:0: OUTPUT 42.74-49.17: Supplemental slides as well as a press release we issued earlier this morning are available for download along with our Q&A. 
+asr:0: OUTPUT 49.29-55.36: Financial statements and a coupling notes all of which have been filed with both Cedar and Edgar. 
+asr:0: OUTPUT 56.32-59.42: Please note that some statements made on a call may be forward looking. 
+asr:0: OUTPUT 60.00-64.24: Actual events or results may differ materially from those expressed or implied. 
+asr:0: OUTPUT 64.26-73.75: And CGI disclaims any intent or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. 
+asr:0: OUTPUT 74.53-84.34: A complete Safe Harbor statement is available in both our MD&A and press release as well as on CGI.com. We recommend our investors read it in its entirety. 
+asr:0: OUTPUT 85.17-91.03: We are reporting our financial results in accordance with international financial reporting standards or IFRS. 
+asr:0: OUTPUT 91.69-96.98: As always, we will also discuss non-GAAP performance measures, which should be viewed as supplemental. 
+asr:0: OUTPUT 97.70-106.05: MDNA contains definitions of each one used in our reporting. All of the dollar figures expressed on this call are Canadian, unless otherwise noted. 
+asr:0: OUTPUT 107.15-113.13: We're also hosting our annual general meeting this morning, so we hope you'll join us live via the broadcast at 11 a.m. 
+asr:0: OUTPUT 113.91-121.14: I'll now turn it over to Francois to review our Q1 financials and then George will comment on our business and market outlook. Francois. 
+asr:0: OUTPUT 122.86-129.93: Thank you, Kevin, and good morning, everyone. I am pleased to share with you the results of our first quarter of fiscal 2020. 
+asr:0: OUTPUT 131.39-138.32: Our revenue growth continues to accelerate on a constant currency basis, fueled by strong bookings from prior quarters. 
+asr:0: OUTPUT 138.34-142.76: Along with continued demand for our digital services and business solutions. 
+asr:0: OUTPUT 143.64-151.81: In addition, we deliver double-digit EPS growth despite a strong Canadian dollar causing handwins in our reporting currency. 
+asr:0: OUTPUT 152.95-160.12: We recorded revenue of $3.1 billion up 6.8% year over year on a constant currency basis. 
+asr:0: OUTPUT 161.40-167.99: Strong constant currency growth was seen in the following segments. Asia Pacific up 19.5%. 
+asr:0: OUTPUT 168.69-171.93: Western and Southern Europe up 15.2%. 
+asr:0: OUTPUT 172.71-176.38: US commercial and state government up 14.5%. 
+asr:0: OUTPUT 177.16-183.36: Central and Eastern Europe up 11.9% and Canada up 8.3%. 
+asr:0: OUTPUT 184.82-197.28: Total bookings were $3.6 billion, representing a book-to-bill of 116.5% for the quarter, and lifting our trailing 12-months book-to-bill to 115.2%. 
+asr:0: OUTPUT 197.30-200.34: Compared to 103% for the prior year. 
+asr:0: OUTPUT 201.84-205.33: I would like to call out a few segments with strong bookings in the quarter. 
+asr:0: OUTPUT 206.19-212.87: Scandinavia at 117%, UK and Australia at 122%,. 
+asr:0: OUTPUT 212.89-217.62: And Finland, Poland and Baltics with a book to bill of 353%. 
+asr:0: OUTPUT 217.64-228.33: Driven by a new eight-year managed services contract signed with the Finnish government, whereby CGI will serve as the largest provider of hybrid IT services. 
+asr:0: OUTPUT 228.35-231.27: To dozens of public sector organizations. 
+asr:0: OUTPUT 232.65-241.32: In addition, yesterday we announced an award by the U.S. Department of Justice for a $250 million U.S. Dollar blanket purchase agreement. 
+asr:0: OUTPUT 241.36-251.09: With the first task order already granted for a value of $134 million US dollars or approximately $170 million in Canadian dollars. 
+asr:0: OUTPUT 252.37-260.06: Out of our eight proximity geographic segments, six now have a trailing 12-months book-to-bill well above 100%. 
+asr:0: OUTPUT 261.42-266.49: New business was 33% of bookings, an increase from the previous year's 28%. 
+asr:0: OUTPUT 267.25-274.35: On a trailing 12-month basis, new business was also 33% as compared to 26% for the year-ago period. 
+asr:0: OUTPUT 275.70-284.60: Our global backlog increased by $808 million year over year and remains strong at $23.6 billion. 
+asr:0: OUTPUT 285.27-294.95: This backlog represents 1.9 times revenue, the vast majority of which is comprised of long-term managed services and digital transformation engagement. 
+asr:0: OUTPUT 296.44-305.61: Given the continued increased demand for our services, as reflected by the strong bookings in the last few quarters, we expect continued positive momentum. 
+asr:0: OUTPUT 306.83-319.88: On the profitability front, adjusted EBIT in Q1 was $521.5 million, while EBIT margins increased to 16.9%, up 50 basis points compared to Q1 last year. 
+asr:0: OUTPUT 320.98-326.61: The year-over-year increase was mainly due to revenue growth in IT services and solutions. 
+asr:0: OUTPUT 326.63-334.97: And improve utilization primarily within the Western and Southern Europe, Central and Eastern Europe, and US federal segments. 
+asr:0: OUTPUT 335.84-341.00: In addition, we continue to benefit from stronger margins due to operational excellence. 
+asr:0: OUTPUT 342.28-347.41: We delivered strong EBIT margins in the following segments. Asia-Pacific at 32.1%. 
+asr:0: OUTPUT 348.15-357.18: Canada at 25.6%, UK and Australia at 15.8%, and Western and Southern Europe at 15.4%. 
+asr:0: OUTPUT 358.34-363.58: Due to the strength of our value proposition to clients and our embedded indexation clauses. 
+asr:0: OUTPUT 363.60-371.65: Within our contracts, we have largely been able to absorb wage and other cost pressures in our pricing. 
+asr:0: OUTPUT 373.41-379.98: Our effective tax rate in Q1 was 25.5% compared to 25.9% in the prior year. 
+asr:0: OUTPUT 380.78-387.07: We continue to expect our tax rate for future quarters to be in the range of 24.5 to 26.5%. 
+asr:0: OUTPUT 388.59-395.40: Net earnings were $367 million and diluted earnings per share were $1.49. 
+asr:0: OUTPUT 395.42-399.12: Representing an increase of 12.9% year over year. 
+asr:0: OUTPUT 400.14-405.47: This improvement was mainly due to revenue growth and EBIT margin improvements as outlined earlier. 
+asr:0: OUTPUT 406.71-417.14: Excluding integration costs, net earnings were $369 million for a margin of 11.9%, and diluted earnings per share were $1.50. 
+asr:0: OUTPUT 417.16-423.80: An accretion of 12.8% when compared to $1.33 in the same quarter last year. 
+asr:0: OUTPUT 425.69-431.97: And a quarter cash provided by operating activities where it was 484 million dollars. 
+asr:0: OUTPUT 431.99-440.92: Compared to $597 million in the prior year, which had reduced variable compensation payments related to the impact of the pandemic. 
+asr:0: OUTPUT 441.94-446.83: As a percentage of revenue, our cash generation was strong at 15.7%. 
+asr:0: OUTPUT 447.85-453.81: DSO was 45 days compared to 44 days last year, aligned with our target. 
+asr:0: OUTPUT 455.12-461.92: For the last 12 months, cash provided by operating activities was $2 billion or 16.4% of revenue. 
+asr:0: OUTPUT 462.86-466.33: This represents $8.02 in cash per share. 
+asr:0: OUTPUT 467.91-473.65: In the quarter, we invested $206 million in our build and buy profitable growth strategy. 
+asr:0: OUTPUT 473.79-479.90: Mainly in our IP and for the acquisition of Connie Case Management Consulting and ARIC. 
+asr:0: OUTPUT 480.78-485.27: In addition, we used $267 million to buy back our stock. 
+asr:0: OUTPUT 486.61-491.77: Buying back CGI stock has been an accretive and flexible way to return capital to shareholders. 
+asr:0: OUTPUT 492.43-500.48: As such, yesterday, our Board of Directors approved the extension of the NCIB program until February 2023. 
+asr:0: OUTPUT 500.50-505.91: Allowing us to purchase up to 18.8 million shares over the next 12 months. 
+asr:0: OUTPUT 507.27-513.19: In addition, we reimbursed $250 million of scheduled debt repayments in the quarter. 
+asr:0: OUTPUT 513.21-520.06: Leaving only $50 million of scheduled debt repayments for the remainder of fiscal 2022. 
+asr:0: OUTPUT 521.14-524.12: With the issuance of our senior notes in September 2021. 
+asr:0: OUTPUT 524.14-530.47: CGI's weighted average maturity is now 4.9 years with 100%. 
+asr:0: OUTPUT 530.49-535.44: Fixed interest rate at very favorable rates. 
+asr:0: OUTPUT 536.06-546.35: Consistent with previous years, we review our capital allocation plan to formulate the most effective capital deployment strategy to maximize shareholder return. 
+asr:0: OUTPUT 547.41-552.11: In Q1, we delivered a return on invested capital of 15.3%. 
+asr:0: OUTPUT 552.67-560.58: A significant increase when compared to 12.4% in the year-ago period, returning to pre-pandemic level. 
+asr:0: OUTPUT 562.36-567.35: Looking ahead, as indicated during our investor day this past November,. 
+asr:0: OUTPUT 567.37-576.40: Our cash allocation priority remains the same, investing in our business, pursuing acquisitions, and buying back our stocks. 
+asr:0: OUTPUT 577.46-582.10: With a net debt to capitalization ratio of 27.8% at the end of December. 
+asr:0: OUTPUT 582.42-589.03: As well as $2.7 billion of cash readily available and access to more if needed. 
+asr:0: OUTPUT 589.05-595.28: CGI has the strength and capital resources to support our build and buy profitable growth strategy. 
+asr:0: OUTPUT 595.90-602.70: Now I will turn the call to George to further discuss the insights and outlook for our business and markets. George. 
+asr:0: OUTPUT 603.62-605.93: Thank you, Francois, and good morning, everyone. 
+asr:0: OUTPUT 606.75-610.27: I'm pleased with our team's strong first quarter financial performance. 
+asr:0: OUTPUT 610.79-615.34: We start a fiscal year 2022 with positive momentum in all key metrics. 
+asr:0: OUTPUT 616.04-622.60: Double-digit EPS accretion accelerated revenue growth on a year-over-year and sequential quarter basis. 
+asr:0: OUTPUT 623.32-630.75: Robust bookings for the quarter and the last 12 months, and cash from operations of 15.7% for the quarter. 
+asr:0: OUTPUT 631.91-638.30: The continued strength of our financial performance is grounded in our consultants' ability to earn clients' trust every day. 
+asr:0: OUTPUT 638.98-648.11: This is evident in our modernization and digitization wins in the quarter. For example, Fannie Mae extended our long-term partnership in the U.S. 
+asr:0: OUTPUT 648.87-652.15: We're awarded new work to support their migration to the cloud. 
+asr:0: OUTPUT 652.17-659.46: And implement intelligent automation and data analytics across all consumer and commercial lines of business. 
+asr:0: OUTPUT 660.54-661.70: May he line it. 
+asr:0: OUTPUT 661.72-666.47: A recognized pioneer in health and care and social services in Finland. 
+asr:0: OUTPUT 666.49-672.63: Has expanded their relationship with CGI to assist in completing their Google Cloud-based transformation. 
+asr:0: OUTPUT 673.43-678.52: This engagement aims to help optimize costs and increase business agility. 
+asr:0: OUTPUT 679.78-686.17: The Quebec government selected CGI to help them establish and operate a new government cloud for the next three years. 
+asr:0: OUTPUT 686.97-694.83: Upon completion, this cloud environment will be delivering services to multiple government agencies serving over 8 million citizens. 
+asr:0: OUTPUT 695.90-705.43: ElectroScandia, the Swedish electrical wholesaler, which is a company of Stonepar, the world's largest electrical products, systems, and services firm. 
+asr:0: OUTPUT 706.07-715.44: Name CGI as their digital transformation partner to support their modernization efforts, including the implementation of SAP S4 HANA. 
+asr:0: OUTPUT 716.86-724.08: The French Agency for Ecological Transition chose CGI to deliver application services, Agile at Scale. 
+asr:0: OUTPUT 724.10-731.65: And DevOps to help modernize their technology capabilities and services, supporting over 3 million businesses. 
+asr:0: OUTPUT 732.91-738.86: And in the UK, the University of Nottingham awarded CGI a new consulting services agreement. 
+asr:0: OUTPUT 739.70-749.63: Through this partnership, we will help modernize the digital value chain and support of learning services for over 45,000 students and 7,000 employees. 
+asr:0: OUTPUT 750.97-755.38: Our robust bookings in the quarter were led by awards from government sector clients. 
+asr:0: OUTPUT 755.88-761.52: Up 28% year over year for Book-to-Bill of 151%. 
+asr:0: OUTPUT 762.74-769.43: We expect this uptick to continue given that governments around the world are reprioritizing their IT initiatives. 
+asr:0: OUTPUT 769.45-773.37: In line with the evolving public health and economic environment. 
+asr:0: OUTPUT 774.67-779.84: On a sequential quarter basis, we also saw demand accelerate in the financial services sector. 
+asr:0: OUTPUT 780.12-787.43: Resulting in a nearly 40% increase in Q1 bookings and a book-to-bill of 114%. 
+asr:0: OUTPUT 788.39-793.63: This was driven by client demand for digital services across all geographic segments. 
+asr:0: OUTPUT 795.32-802.70: In addition to our strong performance, clients continue to recognize the depth and breadth of our knowledge and expertise. 
+asr:0: OUTPUT 803.10-806.37: Resulting in all-time high client satisfaction scores. 
+asr:0: OUTPUT 807.13-817.08: Notably, our two highest client satisfaction scores measure how we partner with clients, specifically our level of commitment, collaboration, and communication. 
+asr:0: OUTPUT 817.84-822.22: These qualities are key elements of the world-class delivery excellence for which CGI is known. 
+asr:0: OUTPUT 822.84-830.25: In fact, client executives often raise these qualities as some of the most important priorities for their partner selection. 
+asr:0: OUTPUT 830.29-833.19: And cite them as differentiators for CG. 
+asr:0: OUTPUT 834.96-841.72: As a PeopleCenter firm, we also recognize their success is founded on the strength of our consultants and professionals. 
+asr:0: OUTPUT 842.22-845.05: 85% of whom are CGI shareholders. 
+asr:0: OUTPUT 846.01-849.87: Our employee satisfaction scores also continue to be at record high levels. 
+asr:0: OUTPUT 850.57-857.82: This is primarily due to our ongoing investments in digital tooling, health and well-being, and employee development. 
+asr:0: OUTPUT 858.74-867.13: These are critical elements to provide rapid career growth for our talented employees and are therefore instrumental to our overall employee retention. 
+asr:0: OUTPUT 867.75-873.97: As such, our voluntary attrition rates remain below the IT services industry average. 
+asr:0: OUTPUT 875.68-879.06: Now it's that long during our recent investor and market analyst day. 
+asr:0: OUTPUT 879.08-887.71: Client demand for end-to-end digitization remains the key driver for CGI's planned profitable growth in fiscal 2022 and beyond. 
+asr:0: OUTPUT 888.65-893.97: During that meeting, we shared four areas of investment with annual and three-year objectives. 
+asr:0: OUTPUT 895.08-900.60: First and foremost, an industry knowledge to help clients in their quest to build their right future. 
+asr:0: OUTPUT 901.50-905.41: And technology expertise to support them in building it right. 
+asr:0: OUTPUT 906.71-911.33: And offering intellectual property assets to enable them to build with speed. 
+asr:0: OUTPUT 912.13-918.18: And finally, the operational excellence to help clients operate and evolve their planned future state. 
+asr:0: OUTPUT 919.38-925.43: Today, I will provide updates on each of these areas, starting with the right industry knowledge. 
+asr:0: OUTPUT 926.33-932.75: We announce our plan to grow strategic business and IT consulting services revenue by 15 to 20 percent. 
+asr:0: OUTPUT 932.77-936.80: On a compound annual growth rate basis over the next three years. 
+asr:0: OUTPUT 937.92-946.45: In the quarter, we saw an uptick in consulting and systems integration demand as bookings increased by over $100 million compared to this time last year. 
+asr:0: OUTPUT 947.23-957.10: This is due in part to the expansion of our local consulting practices and the related increased investment in hiring and developing industry expertise. 
+asr:0: OUTPUT 958.08-965.71: In fact, we are finalizing a new white paper which consolidates input from our board of directors, CGI industry experts,. 
+asr:0: OUTPUT 965.73-974.41: And external alliance partners to explore the key trends that will impact and shape the long-term trajectories of most global industries. 
+asr:0: OUTPUT 975.60-985.57: Our consultants will be sharing this paper with our clients to help inform their strategic planning. And we will then discuss with clients how CGI can best support their business objectives. 
+asr:0: OUTPUT 986.93-996.50: Our next area of investment, technology expertise, helps clients balance the potential technology with the reality of complex enterprise delivery. 
+asr:0: OUTPUT 997.38-1005.23: We previously announced our fiscal 2022 plan to increase employee training and digital technologies by 33%. 
+asr:0: OUTPUT 1006.39-1014.31: A key mechanism for supporting this plan is CGI's online university, where 35% of employees completed courses in Q1. 
+asr:0: OUTPUT 1015.10-1023.04: This training enables rapid reskilling and upskilling in areas of high demand, such as scaled agile and cloud technology. 
+asr:0: OUTPUT 1024.40-1036.36: Also, in support of our technical expertise investment, we plan to add over 15,000 employee certifications of Global Alliance Partner Solutions over the next three years. 
+asr:0: OUTPUT 1037.40-1041.96: So far this year, we have already surpassed 2100 of these certifications. 
+asr:0: OUTPUT 1042.82-1049.59: This has contributed to a 15% increase in bookings with our Global Alliance partners on a year-over-year basis. 
+asr:0: OUTPUT 1050.99-1059.72: Leveraging our investments in intellectual property, we also announced our plan to reach 30% of our revenue derived from IT by 2025. 
+asr:0: OUTPUT 1060.50-1067.83: In the first quarter, IP services and solutions accounted for 22% of revenue, up from 21% last quarter. 
+asr:0: OUTPUT 1068.67-1076.52: Our investments in IP globally are focused on deploying new value-add capabilities across the existing IP portfolio. 
+asr:0: OUTPUT 1076.84-1086.91: As well as investing to co-create with clients on new innovations to bring even greater value to clients' digital transformation and add to CGI's IP portfolio. 
+asr:0: OUTPUT 1088.27-1094.23: Most importantly, our plans for operational excellence are a critical element our clients are looking for. 
+asr:0: OUTPUT 1094.91-1100.54: Not only for us to be a safe pair of hands, but also for us to deliver in a cost efficient manner. 
+asr:0: OUTPUT 1101.36-1107.93: To support delivery and operational excellence objectives. The three-year plan we announced includes increasing headcount. 
+asr:0: OUTPUT 1107.95-1116.78: By 15 percent on a three-year compound annual growth rate basis across all of our global delivery centers, particularly in India. 
+asr:0: OUTPUT 1117.78-1122.94: In Q1, our current hiring pace in India is almost two and a half times more than before the pandemic. 
+asr:0: OUTPUT 1123.50-1128.53: This hiring contributed to the 20% year-over-year growth in our Asia-Pacific operation. 
+asr:0: OUTPUT 1129.45-1136.64: Given CGI's strong value proposition, our attrition rate in India stands well below the India peer group average. 
+asr:0: OUTPUT 1138.04-1145.89: Porter, our ability to deliver these results is ensuring we have the right talent in both our client proximity and global delivery operations. 
+asr:0: OUTPUT 1147.05-1153.07: Over the past few months, we've continued to evolve our hiring strategies to meet increasing client demand. 
+asr:0: OUTPUT 1154.15-1158.50: Q1, the number of new hires more than doubled compared to this time last year. 
+asr:0: OUTPUT 1159.08-1167.21: We ended the quarter with 82,000 employees, a year-over-year net increase of 6,000 consultants and professionals. 
+asr:0: OUTPUT 1168.51-1173.43: We continue to employ an effective and efficient talent attraction and onboarding approach. 
+asr:0: OUTPUT 1173.61-1176.96: With two-thirds of candidates coming directly to CGI. 
+asr:0: OUTPUT 1177.34-1184.58: Either through referrals from current employees or through direct applications for open positions on cgi.com. 
+asr:0: OUTPUT 1185.49-1193.47: In addition, to support our proactive recruiting outreach, we have increased our recruiting capacity across all operating units. 
+asr:0: OUTPUT 1194.69-1206.55: Our operational leaders, the same leaders who are responsible for client delivery, are involved in candidate sourcing, assessment, and decision-making at every step of our hiring process. 
+asr:0: OUTPUT 1207.23-1215.56: This ensures tight alignment between candidate skills and client needs and reduces overall time to fill open fillable positions. 
+asr:0: OUTPUT 1217.48-1226.97: Moving to the growth outlook for the rest of the year, we expect client demand for end-to-end digitization to continue accelerating across most of the key industries we serve. 
+asr:0: OUTPUT 1227.79-1236.72: In government, as I stated earlier, we see positive client demand momentum, particularly in areas well aligned to CGI's positioning and offerings. 
+asr:0: OUTPUT 1237.50-1241.32: This includes helping agencies address a range of domestic priorities. 
+asr:0: OUTPUT 1241.34-1250.17: Spanning social and health services, infrastructure, space-based data solutions, environment and the climate, and cybersecurity. 
+asr:0: OUTPUT 1251.23-1256.86: Manufacturing supply chain disruptions continue to require reshaping and reconfiguration. 
+asr:0: OUTPUT 1257.52-1260.52: This is driving demand for data-driven enterprises. 
+asr:0: OUTPUT 1260.54-1269.35: To improve service quality and generate new revenue streams through use of digital services, including AI and advanced analytics. 
+asr:0: OUTPUT 1270.81-1278.34: In retail and consumer services, the permanent shift to more digital orders is requiring prioritization of omni-channel investments. 
+asr:0: OUTPUT 1279.00-1284.26: While supply chain challenges are creating pressure on customer service and loyalty. 
+asr:0: OUTPUT 1284.88-1291.99: Driving demand for AI and predictive analytics to improve forecasting, inventory management, and workforce planning. 
+asr:0: OUTPUT 1293.23-1298.66: And in financial services. Banks are aggressively implementing their digital transformation agendas. 
+asr:0: OUTPUT 1299.16-1303.26: To better understand their customers and improve organizational performance. 
+asr:0: OUTPUT 1304.08-1308.33: Banking client initiatives now often include, if not hinge on,. 
+asr:0: OUTPUT 1308.35-1315.46: Faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1316.78-1325.89: If not hinge on faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1327.21-1336.38: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1337.64-1346.79: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1348.07-1357.22: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1358.52-1367.65: If not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1368.91-1378.12: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1379.46-1388.65: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1389.95-1399.18: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1400.44-1409.69: Include, if not hinge on, faster modernization of legacy assets, advanced data analytics, and a need for greater operational efficiency. 
+asr:0: OUTPUT 1411.03-1418.54: That decision, is that maybe a function of just the opportunities that you see as you think about capital allocation for the upcoming year? 
+asr:0: OUTPUT 1420.80-1423.42: Thanks, Thanos, it's Francois. I'll take this one. 
+asr:0: OUTPUT 1424.06-1429.47: You're right. And that's what we indicated at the investor day. 
+asr:0: OUTPUT 1429.85-1439.52: You know, we feel that the acquisition and M&A activities will be a lot more active this year. We're talking about allocating a billion. 
+asr:0: OUTPUT 1440.82-1449.99: On this and we're on the right path for now. What we're seeing is that we think that we'll be able to achieve this objective. 
+asr:0: OUTPUT 1450.35-1456.50: So that's why we thought that again to wait again for the dividend. 
+asr:0: OUTPUT 1456.78-1461.54: We, as indicated, we will renew our NCIB. 
+asr:0: OUTPUT 1461.92-1468.01: If needed, we will put some investment in the share buyback. 
+asr:0: OUTPUT 1468.49-1475.01: But we think that versus this, versus last year, a lot more in the M&A side. 
+asr:0: OUTPUT 1481.50-1486.17: George, can you just talk a little bit, you touched on it in the comments on the IP solutions. 
+asr:0: OUTPUT 1486.19-1493.19: But maybe talk about where you've been in the journey of sort of globalizing more of the solutions I know. 
+asr:0: OUTPUT 1493.21-1495.94: About a year ago this time he started down that path. 
+asr:0: OUTPUT 1496.66-1499.54: Maybe give us an update on how you see things trending. 
+asr:0: OUTPUT 1500.70-1509.85: Yep, that's a great question because you're right. We, I call it our unified approach to to growing IP and. 
+asr:0: OUTPUT 1509.87-1511.11: It really is. 
+asr:0: OUTPUT 1511.13-1515.76: First and foremost about having process and methodology to propagate. 
+asr:0: OUTPUT 1515.80-1521.68: The existing IP across the entire channel of CGI. 
+asr:0: OUTPUT 1521.90-1526.57: This is everything from approved value proposition through add-ons to our existing IP. 
+asr:0: OUTPUT 1526.61-1532.11: Broader target market across industries, geographies, and functions, and. 
+asr:0: OUTPUT 1532.13-1540.00: And having a more efficient and profitable delivery model. So just to give you a quick update in the quarter,. 
+asr:0: OUTPUT 1540.48-1543.26: We do have over 10% increase in the pipeline. 
+asr:0: OUTPUT 1543.82-1549.37: We have an over 10% increase in the deal size of the bookings that we have. 
+asr:0: OUTPUT 1549.41-1553.83: So that gets to that improved value proposition. 
+asr:0: OUTPUT 1553.85-1559.54: And that broader delivery mechanism. And then we have an over 10% increase in the win rate. 
+asr:0: OUTPUT 1559.64-1567.53: So those are some nice early proof points that say that what we're doing around that propagation is working. 
+asr:0: OUTPUT 1568.39-1573.49: In fact, we have three of our SBUs that are at the 30%. 
+asr:0: OUTPUT 1573.87-1579.44: And the two fastest growing are the ones that are under 10%. So we have a. 
+asr:0: OUTPUT 1579.58-1584.02: We have opportunity and of course propagating that IP is the way to get there. 
+asr:0: OUTPUT 1584.60-1589.25: We're also making increased investments in the sourcing the new IP. 
+asr:0: OUTPUT 1589.75-1599.60: So this is everything from ideation with our industry experts. So that's showing some signs of opportunity. Co-creating with clients. 
+asr:0: OUTPUT 1599.94-1606.63: Sometimes we actually co-create and acquire the IP from our clients. Sometimes we actually just co-create and jointly own it. 
+asr:0: OUTPUT 1606.97-1616.02: And everything in between. That's where a lot of our best IPs actually came from. And so we're doing that across the global CGI now. 
+asr:0: OUTPUT 1616.22-1619.92: And then, as I mentioned in the opening remarks, M&A. 
+asr:0: OUTPUT 1620.10-1628.01: Is an area where we're going to be looking at IT services and solutions firms. 
+asr:0: OUTPUT 1628.55-1637.40: Not just software only, but services and solutions firms. We're opening up the aperture to more of that in our M&A. 
+asr:0: OUTPUT 1637.44-1642.22: Early returns are coming and we're bullish on the future. 
+asr:0: OUTPUT 1643.60-1650.07: Great. And then the one final one for me just around maybe more quarterly matters here, either you or Francois. 
+asr:0: OUTPUT 1650.57-1653.83: Could you talk about, you mentioned client contract adjustments. 
+asr:0: OUTPUT 1653.85-1661.66: Mainly in the UK and Australia, you mentioned a little bit in Scandinavia, but just, you know, obviously this is always sort of a puts and takes, but. 
+asr:0: OUTPUT 1662.22-1669.39: Where we are in the process of sort of running off maybe those adjustments for those engagements and ramping other stuff. 
+asr:0: OUTPUT 1669.77-1673.21: Thanks. Yeah, yeah, thanks. I'll take it. 
+asr:0: OUTPUT 1673.29-1679.28: So for UK, clearly it was a non-recurring adjustment that. 
+asr:0: OUTPUT 1679.30-1686.53: Had an impact on their growth and contributions. So that's behind us. 
+asr:0: OUTPUT 1686.57-1695.34: And so you can expect to have a margin and revenue picking up in the next few quarters for UK. 
+asr:0: OUTPUT 1695.74-1700.38: And same thing in Scandinavia. 
+asr:0: OUTPUT 1700.54-1710.97: We have some, you know, operational issue that we need to resolve in Scandinavia, but we had also non-recurring one-time adjustment that are. 
+asr:0: OUTPUT 1710.99-1714.91: Behind us and expecting that also there. 
+asr:0: OUTPUT 1714.93-1717.18: We'll see some growth in the contribution. 
+asr:0: OUTPUT 1718.60-1724.28: Perfect. Thank you. 
+asr:0: OUTPUT 1724.56-1729.09: Your next question comes from Richard C. From National Bank Financial. Please go ahead. 
+asr:0: OUTPUT 1737.82-1738.82: Just wanted to get. 
+asr:0: OUTPUT 1738.88-1739.90: A bit of perspective. 
+asr:0: OUTPUT 1739.98-1744.40: Of the operating level of the business, you know, compared to pre-pandemic. 
+asr:0: OUTPUT 1744.46-1750.81: Are utilization rates kind of back to where they've been? Like, trying to get a bit of understanding on that. 
+asr:0: OUTPUT 1752.27-1756.78: Yeah, actually our utilization rates are a little bit stronger. 
+asr:0: OUTPUT 1757.18-1759.84: Than they were pre-pandemic. 
+asr:0: OUTPUT 1760.16-1766.73: And part of that is that strong demand side that we see, but also the opportunity we took. 
+asr:0: OUTPUT 1766.75-1772.11: Right at the beginning of the pandemic to take the actions that we felt necessary. 
+asr:0: OUTPUT 1772.43-1777.10: So we measure the utilization on a weekly basis. 
+asr:0: OUTPUT 1777.90-1782.44: Obviously not just with reports but in a call that I have with all the operating leaders. 
+asr:0: OUTPUT 1783.08-1789.69: We're very focused on it, and I'm pleased to tell you that it's actually a little bit above where we were pre-pandemic. 
+asr:0: OUTPUT 1791.71-1796.54: And then obviously you're in pretty constant contact with your accounts and clients. 
+asr:0: OUTPUT 1797.14-1799.42: What are they saying about IT budgets? 
+asr:0: OUTPUT 1799.44-1808.45: Going into 2022, particularly how much higher they are or lower they are in areas of priorities where they want to spend. 
+asr:0: OUTPUT 1809.89-1816.22: Yeah, it's a good question. Obviously, everybody's got slightly different planning periods, but. 
+asr:0: OUTPUT 1816.26-1838.86: In general, in areas like financial services, we see those budgets continuing to go up. And across the board, the focus is on both growing their revenue and using technology to help do that and some client-facing solutions in their IT budgets. 
+asr:0: OUTPUT 1838.92-1842.18: But also focused on that operational efficiency. 
+asr:0: OUTPUT 1842.78-1845.57: We hear our clients talking about they have. 
+asr:0: OUTPUT 1845.59-1854.69: They're dealing with the current economic pricing pressures and looking to make sure that they stay competitive. 
+asr:0: OUTPUT 1854.99-1859.78: Through operational efficiencies. Technology, as you know, plays on both sides. It plays on the. 
+asr:0: OUTPUT 1859.80-1865.43: On the upside, on the revenue side, but technology also plays on the operational efficiency. 
+asr:0: OUTPUT 1865.85-1870.17: We see a pretty strong environment for IT. 
+asr:0: OUTPUT 1870.49-1872.65: And I've been talking for a while. 
+asr:0: OUTPUT 1872.85-1882.54: Richard, this wasn't just pent up demand that we saw coming out of the pandemic. It's something we think is sustainable from an IT perspective. 
+asr:0: OUTPUT 1883.60-1885.29: Okay, and just one last quick one for me. 
+asr:0: OUTPUT 1886.27-1891.69: You know, on the acquisition side, you talked about opening up the aperture for technology. 
+asr:0: OUTPUT 1891.87-1900.70: You guys have been more sort of value conscious, and so when you look at technology type deals, no doubt the valuations are certainly a bit more robust. 
+asr:0: OUTPUT 1900.72-1903.52: Despite maybe the pullback here at the beginning of the year. 
+asr:0: OUTPUT 1904.00-1910.07: So how do you look at sort of the relative valuation? You're kind of willing to pay for these and maybe give us a bit of perspective on that. 
+asr:0: OUTPUT 1911.05-1917.34: Yeah, maybe I'll start and then I'll ask Francois to continue just to remind you. 
+asr:0: OUTPUT 1918.16-1925.39: We are looking to make these acquisitions accretive and so we're very conscious of not overpaying. 
+asr:0: OUTPUT 1925.43-1930.99: Having said that, if the value is there, we're willing to pay higher multiples. So, I. 
+asr:0: OUTPUT 1931.03-1932.09: I know Francois too. 
+asr:0: OUTPUT 1932.23-1937.42: And, you know, where we're to some point conservative in our acquisition where we know we're. 
+asr:0: OUTPUT 1937.46-1942.38: When we're building our return, we're building it a lot of times with cost energies. 
+asr:0: OUTPUT 1942.78-1955.10: No, for sure in IP we need to be convinced that we will have revenue synergies and so meaning expecting a lot more revenue increase coming from these acquisitions. 
+asr:0: OUTPUT 1955.54-1959.20: And we have now the channel across the world to do it. 
+asr:0: OUTPUT 1959.54-1964.34: For sure what we are looking at is IP that can be sold across the world. 
+asr:0: OUTPUT 1965.69-1967.99: Without too much changes. 
+asr:0: OUTPUT 1968.05-1970.55: And so for sure, you know. 
+asr:0: OUTPUT 1970.61-1978.54: It will be valued a bit more, but naturally with the return that we think we can enable, we don't have any problem to pay. 
+asr:0: OUTPUT 1978.56-1980.62: To be the right price. 
+asr:0: OUTPUT 1981.92-1983.26: Okay, great, thanks a lot. 
+asr:0: OUTPUT 1988.79-1993.35: Your next question comes from Paul Trebor from RBC Capital Market. Please go ahead. 
+asr:0: OUTPUT 1999.56-2001.06: Thanks very much and good morning. 
+asr:0: OUTPUT 2002.02-2011.25: I just want to touch on CGI's growth relative to the market in peers. Now maybe this isn't an apples to apples comparison. 
+asr:0: OUTPUT 2011.99-2014.93: But some of your peers have reported quite strong growths recently. 
+asr:0: OUTPUT 2015.40-2019.12: Just wanted your thoughts on, what's your view on CGI's growth? 
+asr:0: OUTPUT 2019.16-2029.15: Just relative to those peers and in the market, and do you feel like you're matching, you're exceeding or lagging the growth of peers in the markets that you're in? 
+asr:0: OUTPUT 2030.97-2033.57: Yeah, thanks for the question, Paul. 
+asr:0: OUTPUT 2033.77-2039.78: We like where we are in our profitable revenue growth. 
+asr:0: OUTPUT 2039.80-2043.34: Current landscape, but also where we're headed towards. 
+asr:0: OUTPUT 2044.04-2048.63: Very, very proud of the fact that we've been able to take this growth. 
+asr:0: OUTPUT 2048.65-2071.63: That we are achieving both through the build and the buy and drop that to earnings per share accretion double digits here in the first quarter. So we like where we are on where we're getting that growth and what the outlook is. And you see that outlook based on the strong book to bill again this quarter and for the trailing 12 months. 
+asr:0: OUTPUT 2071.69-2080.82: So we feel like we're in a very good position to continue to accelerate our growth through both the build and the buy. 
+asr:0: OUTPUT 2080.84-2085.95: And like I said, our clients are rewarding us for that with new work. 
+asr:0: OUTPUT 2085.99-2092.71: And also in the scores, satisfaction scores they're giving us, which translates to the future. 
+asr:0: OUTPUT 2092.73-2093.75: New work. 
+asr:0: OUTPUT 2093.97-2096.64: We feel like we're in a very good place there. 
+asr:0: OUTPUT 2098.88-2104.86: You're just looking at the growth in your employees offshore, so India. 
+asr:0: OUTPUT 2104.90-2108.99: You know, you mentioned that that reflects the demand that you're seeing. 
+asr:0: OUTPUT 2109.53-2118.86: So can you speak to your clients, are they increasingly prioritizing offshore versus what they did in the past? 
+asr:0: OUTPUT 2119.24-2126.61: And what's the underlying driver of that? Is it cost? Is there something else that's driving and capabilities perhaps? 
+asr:0: OUTPUT 2127.93-2137.66: I think for a lot of reasons, there are some companies that hadn't gone to leveraging offshore. 
+asr:0: OUTPUT 2137.68-2144.56: And when the pandemic happened and everybody went remote, both onshore and offshore,. 
+asr:0: OUTPUT 2145.21-2153.09: It gave them a view that maybe some of that could work. And so I think it's just some catch up by some of those players. 
+asr:0: OUTPUT 2153.65-2162.44: I'd add at the same time, given the pandemic, those that were heavily in offshore looked to rebalance some of that. 
+asr:0: OUTPUT 2162.70-2171.87: But on average, if you're rebalancing some of it versus you're going from zero to something, the moved offshore is outweighing it. 
+asr:0: OUTPUT 2172.27-2174.57: It's also that operational efficiency. 
+asr:0: OUTPUT 2174.61-2186.41: There are operational efficiencies to be gained in leveraging offshore. And of course, that's given kind of what the outlook is for cost. We see some of that. 
+asr:0: OUTPUT 2186.75-2196.32: You know, it's something that we'll continue to leverage. And just to remind you, we're going to stay true to our proximity model. 
+asr:0: OUTPUT 2196.34-2198.14: Even as we leverage global delivery. 
+asr:0: OUTPUT 2199.88-2209.37: Thank you. I'll pass the line. Yep. Your next question comes from Stephanie Price from CIBC. Please go ahead. 
+asr:0: OUTPUT 2214.43-2216.60: Morning. Hi, Stephanie. 
+asr:0: OUTPUT 2218.44-2227.47: I was hoping that you could touch just on the percentage of bookings from new clients. It was very strong in the quarter. Just curious about what's driving the strength and if you've made any changes to the sales profile. 
+asr:0: OUTPUT 2229.53-2231.29: Yeah, thanks, Stephanie. 
+asr:0: OUTPUT 2231.71-2240.14: As I mentioned, we have made investments on the talent side and in both the technology. 
+asr:0: OUTPUT 2240.16-2246.53: Reskilling, upskilling, and also the certifications, as I mentioned, on alliance partners. 
+asr:0: OUTPUT 2246.97-2252.45: So that gives us another channel to reach some of the newer clients. 
+asr:0: OUTPUT 2252.79-2258.50: Also, we're making investments on the industry expertise and the consulting skills. 
+asr:0: OUTPUT 2258.56-2268.35: That's another new avenue for us to generate those new clients. So those are kind of two of the investments that we've been making. 
+asr:0: OUTPUT 2268.49-2274.33: And we'll continue to make that's driving some of those new client logos. 
+asr:0: OUTPUT 2276.52-2285.25: And then maybe one for Francois. Cash flow came in a little bit below street expectations in the quarter and a little bit below prior year's percentage of revenue. 
+asr:0: OUTPUT 2285.57-2290.07: I'm just curious if you could talk about and put some takes here on how we should be thinking about modeling cash flow for the rest of the year. 
+asr:0: OUTPUT 2290.95-2300.80: Yeah, so thanks for the question. Yeah, as I indicated, you know, last year we had a very strong cash flow close to 600 million just in a quarter. 
+asr:0: OUTPUT 2301.06-2313.43: And really was the fact that last year because of COVID, you know, we had a lot less bonuses, year-end bonuses to pay last year in the first quarter. 
+asr:0: OUTPUT 2313.83-2324.84: So versus 2021 where we had a way better year on bonuses and that had an impact on the quarterization or the cash coming from the first quarter. 
+asr:0: OUTPUT 2325.33-2334.57: We're still, I'm still convinced that we'll be capable to generate the right level of cash like last year and even perhaps a bit better than last year. 
+asr:0: OUTPUT 2335.60-2339.92: So, you know, it's just a timing on the cash side. 
+asr:0: OUTPUT 2340.26-2345.71: But still pretty, and you saw the DSO at 45 days. 
+asr:0: OUTPUT 2346.13-2353.93: And I think now it's the last five or six quarters that we are at our target of DSO, so pretty... 
+asr:0: OUTPUT 2353.97-2356.56: Pretty comfortable where we are with the cash generation. 
+asr:0: OUTPUT 2358.12-2366.65: Thank you. And your next question comes from Howard Long from Veritas. Please go ahead. 
+asr:0: OUTPUT 2371.23-2374.01: Thank you so much for taking the question. 
+asr:0: OUTPUT 2375.14-2382.42: I'll just like to start with the one about IP. George, you mentioned that one of the ways you're developing IP. 
+asr:0: OUTPUT 2382.46-2386.13: And this has been for a while, is to work with clients. 
+asr:0: OUTPUT 2386.41-2390.81: Just wanted to get a sense of how that's structured and how you share the cost. 
+asr:0: OUTPUT 2391.29-2397.76: I know before you did this a long time ago with the big banks in Canada and now as you're evolving. 
+asr:0: OUTPUT 2397.80-2402.60: And working with more clients outside of Canada, how is that structure evolving as well? Thanks. 
+asr:0: OUTPUT 2403.72-2408.25: Yeah, no, thanks for the question, Howard. It really does vary. 
+asr:0: OUTPUT 2409.27-2412.05: The most typical. 
+asr:0: OUTPUT 2412.07-2420.18: Opportunity though that we see is that the client actually provides some of the some of the industry. 
+asr:0: OUTPUT 2420.20-2423.56: Expertise, obviously the use case, if you will. 
+asr:0: OUTPUT 2423.76-2432.47: And of course, then accelerates it through some of their quality assurance and then piloting it. 
+asr:0: OUTPUT 2432.81-2437.06: What they get from that is the first mover status. 
+asr:0: OUTPUT 2437.14-2445.05: And then, of course, we build some of those customizations and productize it with CGI's investment. 
+asr:0: OUTPUT 2445.25-2449.89: And as a result, they get the long-term maintenance benefits. 
+asr:0: OUTPUT 2450.31-2454.03: So a lot of times it's really as simple as that. 
+asr:0: OUTPUT 2454.39-2461.02: And then they may pay us for some of the customizations directly and keep them outside of the product. 
+asr:0: OUTPUT 2461.30-2473.29: And we're seeing that more and more. So there might be some proprietary or specific elements that we decide up front would not go into the product, but they still get the leverage, kind of the platform nature. 
+asr:0: OUTPUT 2473.31-2474.41: Of the product. 
+asr:0: OUTPUT 2474.75-2482.24: That's typically the most used opportunity that we see. 
+asr:0: OUTPUT 2482.68-2486.83: Others are, but we've done the other where we actually jointly put the money in. 
+asr:0: OUTPUT 2487.21-2496.84: And then we have a royalty scheme that goes back to the clients based on new wins. 
+asr:0: OUTPUT 2497.02-2503.28: And of course, CGI in all cases owns the rights to the IP. 
+asr:0: OUTPUT 2503.30-2507.85: But the but then the client gets the rights to use it. 
+asr:0: OUTPUT 2507.87-2510.85: In a perpetuity. 
+asr:0: OUTPUT 2511.15-2514.21: So that's typically how we see those. 
+asr:0: OUTPUT 2514.45-2523.48: We also see sometimes it's consortium. If it's a cost of doing business, which is kind of the opposite of first mover or proprietary nature of the business. 
+asr:0: OUTPUT 2523.78-2526.41: It might be a cost, a regulatory cost of doing business. 
+asr:0: OUTPUT 2526.71-2528.25: And everybody. 
+asr:0: OUTPUT 2528.45-2536.52: Puts money in as equal partners, including CGI, that CGI runs, owns, and operates the IP for the consortium. 
+asr:0: OUTPUT 2536.56-2538.50: So we see kind of multiple models. 
+asr:0: OUTPUT 2538.86-2543.64: And that's pretty consistent across each of the geographies that we operate in. 
+asr:0: OUTPUT 2545.21-2549.03: That's a great explanation. Thanks for highlighting all the different structures. 
+asr:0: OUTPUT 2550.11-2560.00: On the acquisitions, just looking at the revenue contribution from Array and CMC, and I know it's just one quarter, but. 
+asr:0: OUTPUT 2560.38-2566.71: The multiples, they look pretty good, I guess, compared to the past acquisitions. 
+asr:0: OUTPUT 2567.07-2569.11: Is there anything you'd like to call out there? 
+asr:0: OUTPUT 2569.21-2576.00: Is it just acquisition specific or is there something about devaluations? 
+asr:0: OUTPUT 2576.04-2580.00: That you're seeing in your targets. 
+asr:0: OUTPUT 2581.38-2587.91: Yeah, well, valuations, you know, as we know, over the last couple of years have gone up. 
+asr:0: OUTPUT 2588.17-2595.44: But we still are interested in finding valuations that we can make. 
+asr:0: OUTPUT 2595.46-2598.90: Creative to CGI in that first year. 
+asr:0: OUTPUT 2599.16-2608.05: Yeah, you do see some of that. I would say though, moving forward, we're seeing valuations starting to favor EBITDA over growth. 
+asr:0: OUTPUT 2608.31-2612.43: And I don't know if... Yeah, no, exactly, George. I think... 
+asr:0: OUTPUT 2612.45-2620.92: We saw a stabilization of the valuation and George is right, staying a bit more. 
+asr:0: OUTPUT 2620.94-2627.69: A concentration on how much margin or EBITDA. 
+asr:0: OUTPUT 2627.71-2631.81: That the company can bring in. 
+asr:0: OUTPUT 2631.95-2637.82: Yeah, we are seeing a stabilization of it and so good opportunities for us. 
+asr:0: OUTPUT 2639.18-2643.80: Yeah, that makes sense given, I guess, what's been going on in the market the past few weeks. Exactly. 
+asr:0: OUTPUT 2645.51-2652.35: And then just maybe just one last one for Francois. Just notice the in the quarter, P.P. And D. Spending, you know, ticking up. 
+asr:0: OUTPUT 2653.39-2662.46: Is that just kind of a return to normal, investing again in physical facilities, or could you just put a little more color to that? 
+asr:0: OUTPUT 2663.22-2667.11: Yeah, yeah, I bet the return to normal. You're totally right. 
+asr:0: OUTPUT 2667.31-2670.25: With people that. 
+asr:0: OUTPUT 2670.27-2679.62: Start to come back to the offices for sure. We started to do some investment in offices and all that. So that's a part of it. 
+asr:0: OUTPUT 2680.08-2687.69: And some of it is also, as we know, with the supply chain in some places that it's a little bit tougher. 
+asr:0: OUTPUT 2687.73-2693.27: We can have a bit of swing from one quarter to the other with some of the delays. 
+asr:0: OUTPUT 2693.33-2700.26: So both of them. So yes, some of it is just coming back to a normal investment level. 
+asr:0: OUTPUT 2700.62-2707.21: And some of it you can have some seasonality just because of some supply chain issues. 
+asr:0: OUTPUT 2708.43-2710.99: Okay, great. Thanks for the color. I'll turn it back. 
+asr:0: OUTPUT 2714.55-2719.04: Your next question comes from Kevin Kushneratney from Desjardins. Please go ahead. 
+asr:0: OUTPUT 2724.06-2725.23: Good morning, gentlemen. Can you hear me? 
+asr:0: OUTPUT 2727.45-2728.57: Awesome. Perfect. Good morning. 
+asr:0: OUTPUT 2729.29-2734.31: Question for you, is there any sort of way to think about your customer mix in terms of size? 
+asr:0: OUTPUT 2734.39-2738.76: You know, sort of thinking about the split between enterprise, mid-market, SMB. I'm wondering... 
+asr:0: OUTPUT 2739.06-2747.27: Know, maybe any recent change in focus, any opportunities or ability to take a greater share of it spend from smaller versus larger customers and just how to. 
+asr:0: OUTPUT 2747.53-2753.85: Investigator, how would you think about the structure of your sales and consultant mix and the macro market strategy? 
+asr:0: OUTPUT 2753.87-2758.34: You know, just to be aligned with how you're seeing the various customer end markets. 
+asr:0: OUTPUT 2759.84-2766.65: No, thanks, Kevin. Our focus is primarily on enterprise clients. 
+asr:0: OUTPUT 2766.79-2768.03: We. 
+asr:0: OUTPUT 2768.09-2773.41: We feel that the value proposition that we can bring to them, the impact that we can have on them,. 
+asr:0: OUTPUT 2773.71-2780.62: Particularly given our global footprint and our end-to-end services is in fact greatest. And so,. 
+asr:0: OUTPUT 2780.80-2789.49: That's really the primary focus. In fact, if you look at some of those recent M&A transactions, whether it's a Ray,. 
+asr:0: OUTPUT 2789.55-2798.30: CMC and Unico, they all have that same makeup of very large enterprise. 
+asr:0: OUTPUT 2798.34-2802.82: At least one very large enterprise client that generates a lot of their revenue. 
+asr:0: OUTPUT 2803.60-2810.51: It does not mean that we do not take some of our IP and solutions to the. 
+asr:0: OUTPUT 2810.53-2814.75: For the medium-sized business, not as much on the small side. 
+asr:0: OUTPUT 2815.08-2816.44: And... 
+asr:0: OUTPUT 2816.48-2821.12: But it really, the primary focus is on enterprise. 
+asr:0: OUTPUT 2821.14-2826.95: And those accounts that we can really again drive the highest value. 
+asr:0: OUTPUT 2827.25-2831.31: And I want to make sure you recognize when we're talking about those metro markets,. 
+asr:0: OUTPUT 2831.93-2837.88: Those metro markets are where those enterprise companies are headquartered. It's not. 
+asr:0: OUTPUT 2837.96-2845.73: It's not looking at metro markets where it's only going after a small or medium-sized company. 
+asr:0: OUTPUT 2846.83-2848.55: Very good. Thank you for that explanation. 
+asr:0: OUTPUT 2849.31-2851.83: Maybe just one, perhaps for Francois. 
+asr:0: OUTPUT 2852.25-2859.48: I know you don't disclose gross margin. Can you talk about trends there? I feel like year over year, the split of manager IT versus consulting. 
+asr:0: OUTPUT 2859.50-2862.66: 50-50, it was 50-50 a year ago as well. 
+asr:0: OUTPUT 2863.00-2870.11: But what are you seeing on the sort of gross margin underlying trends and how is that contributing to the EBIT outperformance? 
+asr:0: OUTPUT 2871.69-2879.40: Gross margin is very good and improving since last year. 
+asr:0: OUTPUT 2880.00-2889.85: Like George alluded before, utilization is very high, so contributing to the gross margin. 
+asr:0: OUTPUT 2890.23-2901.42: So, no, continue to be pretty good on it. And SG&A with the automation that we're pushing more and more. 
+asr:0: OUTPUT 2901.50-2905.17: And offshoring of some of the SDNA activities. 
+asr:0: OUTPUT 2905.25-2909.79: Is also improving year over year and that's why you see the EBIT improvement. 
+asr:0: OUTPUT 2911.43-2920.64: Thanks very much. I'll pass the line. Your next question comes from Daniel Chen from TD Securities. Please go ahead. 
+asr:0: OUTPUT 2925.93-2933.45: Good morning. Good to see that you guys are still able to grow your team and your employee attrition rates are lower than the industry average. 
+asr:0: OUTPUT 2934.13-2941.60: Any color on why you're able to achieve this? Is it because you guys are paying more? Or is it based on the locations where you're operating out of? Any color would be helpful. 
+asr:0: OUTPUT 2942.88-2947.79: Sure. Well, I think the biggest reason for. 
+asr:0: OUTPUT 2947.81-2953.99: Where we're able to do that is our employee value proposition. 
+asr:0: OUTPUT 2955.10-2959.64: Includes significant stock ownership, the 85%. 
+asr:0: OUTPUT 2959.66-2965.33: The investments we've been making in career development, the 33% increase in training development. 
+asr:0: OUTPUT 2965.35-2967.49: Around rescaling, et cetera. 
+asr:0: OUTPUT 2967.81-2977.38: These are really some of the reasons that we have this, including our community involvement. It's really an attractor there. 
+asr:0: OUTPUT 2977.70-2983.88: But it goes one step further. We recognize that we're in a unique environment. 
+asr:0: OUTPUT 2983.92-2986.95: We really focused on a few areas. 
+asr:0: OUTPUT 2986.97-2994.03: That to keep that not just the attrition down but also the attraction up. 
+asr:0: OUTPUT 2994.41-3002.94: And what we're doing on the attraction side is really focused on who we recruit, where we recruit, and how we recruit. 
+asr:0: OUTPUT 3003.12-3006.03: And I think that's some of where you were talking about the who we recruit. 
+asr:0: OUTPUT 3006.45-3014.39: Higher concentration on college hires and also trainees that are coming from non-traditional IT environments. 
+asr:0: OUTPUT 3014.41-3019.76: That's about 20% of our hires now. We have boot camps that then build the digital skills that they need. 
+asr:0: OUTPUT 3020.08-3025.67: Where we recruit, yeah, proximity and offshore, but also those onshore delivery centers. 
+asr:0: OUTPUT 3026.09-3034.11: That's a better place to recruit for us and then a lower turnover rate. And we have 39% of our hires came from global delivery. 
+asr:0: OUTPUT 3034.61-3041.88: And then it's how we recruit. I mentioned before that a third of our people come through employee referrals. 
+asr:0: OUTPUT 3042.16-3051.15: They're a stronger attraction to CGI, but the people that refer them have a higher retention rate as well. 
+asr:0: OUTPUT 3051.83-3060.92: So we're really making sure that we invest to not just rest on the employee value proposition that we have,. 
+asr:0: OUTPUT 3060.94-3063.90: That continue to build in this current environment. 
+asr:0: OUTPUT 3065.81-3070.71: Thanks for that, George. As a follow-up to that, given that 20% of your hires are from non-traditional IT and. 
+asr:0: OUTPUT 3070.75-3078.18: From relatively junior members from college, would you say that the ramp up time for these employees might take a little bit longer than typical? 
+asr:0: OUTPUT 3079.16-3087.29: Although we do put them through boot camps, so there is a little bit of a ramp up. And yet this is what we're doing today. 
+asr:0: OUTPUT 3087.61-3095.50: And you see that we're still able to deliver the utilization and margins that you see in our results in this quarter. 
+asr:0: OUTPUT 3095.80-3105.45: And yet, that's probably another lever as they come on board to increase the utilization and margin going forward. 
+asr:0: OUTPUT 3107.33-3117.52: That make sense? Francois, you mentioned that you model revenue synergies into your IP acquisitions, whereas typically you typically look to leverage value from cost synergies. 
+asr:0: OUTPUT 3118.00-3122.66: How about on the market, metro market modeling side too? When you're looking at metro market acquisitions. 
+asr:0: OUTPUT 3123.04-3130.63: Are you also starting to model in revenue synergies given your view to bring in additional services as you make these acquisitions? 
+asr:0: OUTPUT 3131.73-3137.06: For sure, especially when we're investing. 
+asr:0: OUTPUT 3137.14-3140.80: In metro markets where we're not necessarily there. 
+asr:0: OUTPUT 3141.42-3147.51: So most of the time it's because we want to buy relationships also with clients and new clients. 
+asr:0: OUTPUT 3147.93-3151.43: And so, and that's what we did in the past in some places. 
+asr:0: OUTPUT 3152.23-3159.22: So, you know, sometimes these smaller firms will have good relationship with large clients. 
+asr:0: OUTPUT 3159.64-3162.66: But not having the full capabilities that CGI has. 
+asr:0: OUTPUT 3163.12-3172.15: And so by coming and doing this merger, we are bringing the capabilities to this metro market. 
+asr:0: OUTPUT 3172.65-3178.28: And with the relationship that we just bought, we're capable to have some revenue synergies there. 
+asr:0: OUTPUT 3180.66-3185.35: Thank you. 
+asr:0: OUTPUT 3186.13-3191.41: Perfect. Your next question comes from Jason Kupferberg from Bank of America. Please go ahead. 
+asr:0: OUTPUT 3195.64-3205.15: Hey guys, this is Cassie Chan on for Jason. Good morning. I'll just quickly slip into a question. So my first one I just wanted to ask, you guys obviously had pretty strong bookings this quarter. 
+asr:0: OUTPUT 3205.49-3210.79: You know, I think it's the fourth quarter of like LTM book to build, you know, greater than one dot one. Can you just talk about. 
+asr:0: OUTPUT 3210.87-3216.70: You know, very briefly, like the core drivers of this and the potential sustainability. So, like, can we expect this trend to continue? 
+asr:0: OUTPUT 3216.94-3223.68: Maybe at least for the next couple of quarters given the strong demand environment that you guys are able to capitalize on. Thanks. 
+asr:0: OUTPUT 3225.15-3230.83: Sure, Kathy, one of the areas I already talked about some of the investments. 
+asr:0: OUTPUT 3230.85-3239.54: That we're making to to drive some of the, the new clients, particularly around the, some of the. 
+asr:0: OUTPUT 3239.56-3245.77: The digital skills and the global alliances, as well as the industry skills and some of the consulting. 
+asr:0: OUTPUT 3245.99-3252.87: Growth. So that's one of the areas that's driving that is that mix of new clients that are coming in. 
+asr:0: OUTPUT 3253.15-3263.02: Certainly IP as we move to IP30 will give us an opportunity as we increase those deal size. I talked about some of the investments. 
+asr:0: OUTPUT 3263.30-3266.97: That we're making there to drive that. 
+asr:0: OUTPUT 3267.25-3270.07: And then the last is really the operational excellence. 
+asr:0: OUTPUT 3270.15-3276.18: You know, this drive to efficiencies by our clients. 
+asr:0: OUTPUT 3276.36-3279.66: And a lot of that requires automation. 
+asr:0: OUTPUT 3279.68-3286.93: And that offshore mix and what we're doing around our managed services offering is building modernization. 
+asr:0: OUTPUT 3286.95-3294.59: Into the operational excellence platform. That's driving, again, longer term, larger deals. So. 
+asr:0: OUTPUT 3295.08-3299.96: But we do believe that in this environment we'll be able to sustain a strong book. 
+asr:0: OUTPUT 3301.66-3311.49: Okay, awesome. And then, you know, one final question from me. I know you guys have talked a lot about, you know, the consulting investments that you guys are making and, you know, during the analyst day, you guys talked about that. 
+asr:0: OUTPUT 3311.51-3314.15: 15 and 20 percent revenue Kager with a medium term. 
+asr:0: OUTPUT 3314.43-3319.02: You know, your unique acquisition obviously bolsters your capabilities there as well. 
+asr:0: OUTPUT 3319.42-3328.85: And while you don't really break apart bookings or revenues by consulting per se, can you share any metrics on perhaps how Book to Build for consulting is trending? 
+asr:0: OUTPUT 3329.23-3331.07: Or any other details there. Thanks, guys. 
+asr:0: OUTPUT 3332.33-3340.64: Yep, so we don't break that out now, so I don't have that number in front of me, but I can tell you just in general about 10%. 
+asr:0: OUTPUT 3340.66-3347.89: Of our SINC is now in the C, in the consulting side. So. 
+asr:0: OUTPUT 3348.07-3352.85: We're looking at that's kind of the basis of what we'd like to continue to grow. 
+asr:0: OUTPUT 3354.57-3356.14: Okay, awesome. Thanks guys. Take care. 
+asr:0: OUTPUT 3358.54-3367.27: Okay, thanks everyone for participating. As a reminder, a replay of the call will be available either via our website or by dialing 1-800-433-4242. 
+asr:0: OUTPUT 3367.29-3370.19: 770-2030. 
+asr:0: OUTPUT 3370.21-3373.85: And using the passcode 742-5436. 
+asr:0: OUTPUT 3374.53-3378.56: As well, a podcast of this call will be available for download within a few hours. 
+asr:0: OUTPUT 3379.20-3388.21: Follow-up questions can be directed to me at 1-905-973-8363. Thanks again, everyone, and look forward to speaking soon. 
+asr:0: OUTPUT 3389.57-3397.04: This concludes today's conference call. You may now disconnect. Thank you. Thank you. Thank you. Thank you. You're welcome. Have a great day. 
+asr:0: END

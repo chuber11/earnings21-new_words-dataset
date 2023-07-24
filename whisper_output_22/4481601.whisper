@@ -1,0 +1,372 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.34-3.52: Maybe we can start that, Simon? 
+asr:0: OUTPUT 5.47-12.37: I just admit two more. I think we can start. 
+asr:0: OUTPUT 13.23-15.48: All right, so I will do the introduction. 
+asr:0: OUTPUT 15.72-23.80: Thank you everyone for being with us today. I'm recognizing a lot of names that we, that I've been following or been immersive for. 
+asr:0: OUTPUT 23.82-28.11: Quarter to quarter. So it's a pleasure to see you again today. 
+asr:0: OUTPUT 28.99-33.81: For those who don't know me, my name is Justin Lemire, I'm the CEO co-founder of Urban Immersive. 
+asr:0: OUTPUT 33.95-40.74: Welcome to our fourth quarter financial result, end of the year, investors conference call. 
+asr:0: OUTPUT 42.48-49.71: Bienvenue à notre appel à la conférence de nos états sénatistes dans la quatrième trimestre pour la fin d'année 2021. 
+asr:0: OUTPUT 50.61-60.16: For a reason of being efficient, stay efficient and respect our time, we'll be doing this call in English, but we will take both English and French questions at the end. 
+asr:0: OUTPUT 61.10-65.79: Joining me today, as usual, I have Simon Bedard. 
+asr:0: OUTPUT 66.13-73.47: Our CFO and I'm just looking at my screen and I see our new executive vice president. 
+asr:0: OUTPUT 74.33-81.68: During the call, we might make forward-looking statements during future financial performance, operations, products, and even. 
+asr:0: OUTPUT 82.46-87.05: Although we believe our expectations are reasonable, we cannot guarantee these results. 
+asr:0: OUTPUT 87.75-94.11: So again, we caution you to read and consider all the risk factors described in our last MDNA. 
+asr:0: OUTPUT 94.95-102.08: It's going to be on CDAR pretty soon or in our annual information form that you can find on CDAR again. 
+asr:0: OUTPUT 102.94-109.53: So the agenda will be quite different, slightly different, sorry, compared to the last quarter. 
+asr:0: OUTPUT 109.55-111.35: So what we want to do is. 
+asr:0: OUTPUT 111.37-119.60: We finally will start by going to the last quarter and year-end financial highlight. 
+asr:0: OUTPUT 119.86-123.06: We will talk about some business highlights as well. 
+asr:0: OUTPUT 123.66-131.71: And then afterwards, what we thought that you could appreciate today, because it's the end of the year, we're starting a new year. 
+asr:0: OUTPUT 132.07-135.84: We thought that, you know, we would take 15 minutes. 
+asr:0: OUTPUT 135.86-143.86: And do a short urban immersive deck presentation so that we can put everyone on the same foot in regard to our. 
+asr:0: OUTPUT 143.90-147.79: In regards of how the management is seeing Urban Immersive. 
+asr:0: OUTPUT 147.91-152.85: How we describe it and what is our focus and goals going forward. 
+asr:0: OUTPUT 153.39-157.98: So without further ado, I will turn the call to Simon. 
+asr:0: OUTPUT 159.26-165.87: Good afternoon everyone. We see we have a lot of participants, investors today. So thanks for. 
+asr:0: OUTPUT 165.89-169.81: Your interest in being present on that call today. 
+asr:0: OUTPUT 171.11-176.12: What I like to do is similar to what I've done in the last quarter. 
+asr:0: OUTPUT 176.14-184.28: Put some color into the financials that were published in the press release this morning. 
+asr:0: OUTPUT 185.89-187.73: I want to apologize the. 
+asr:0: OUTPUT 187.75-197.10: We don't have the CIDR filing yet, but the French version should be available within the next hour from my friends at Grand Tartan are telling me. 
+asr:0: OUTPUT 197.98-202.02: Sorry, they had some quality issues, quality control issues this morning. 
+asr:0: OUTPUT 202.50-207.47: And the English version should follow within 48 hours. 
+asr:0: OUTPUT 207.49-219.36: That said, if you have more detailed questions with regards to those financial statements, once they are available on CDAR, feel free to contact me by phone or email and I will answer. 
+asr:0: OUTPUT 219.38-223.68: All questions you have with regards to our financials. 
+asr:0: OUTPUT 225.37-230.63: In terms of our Q4 and 2021 financial results, to start with,. 
+asr:0: OUTPUT 231.53-232.91: If we talk about revenues. 
+asr:0: OUTPUT 233.33-235.28: 40 year we end up. 
+asr:0: OUTPUT 235.38-244.60: We closed the year at slightly above $4 million in revenues compared to $4.6 million last year, so it's an 11% decrease. 
+asr:0: OUTPUT 244.76-253.89: That decrease is explained in most cases by the decrease in sales of 3D photography equipment. 
+asr:0: OUTPUT 254.23-262.10: That was expected by the way. By 600,000, if you remember last year, we were pretty happy to have acquired. 
+asr:0: OUTPUT 262.24-266.49: E-mail solution and benefit from the good solid year. 
+asr:0: OUTPUT 266.67-274.33: Of demand for 3D cameras at the beginning of the pandemic, but we knew that it won't be sustainable. 
+asr:0: OUTPUT 274.85-278.78: Over the years, sorry, there's someone. 
+asr:0: OUTPUT 282.58-284.06: Okay, we're back. 
+asr:0: OUTPUT 285.13-291.33: So that was expected. Of course, we'll go back to a normal level of cells. 
+asr:0: OUTPUT 292.05-297.58: What is this normal level? Maybe next year we can expect something around 200 to 400. 
+asr:0: OUTPUT 297.60-305.57: $1,000, but not what we've seen at the beginning of the pandemic where people were buying cameras and trying it. 
+asr:0: OUTPUT 305.93-310.67: There was a boom, but that was a one-time thing, so we don't expect this to continue. 
+asr:0: OUTPUT 312.47-320.70: On the side, if we look at the SAS sales, we're down 7% compared to last year. 
+asr:0: OUTPUT 320.94-323.44: But of course, we... 
+asr:0: OUTPUT 323.46-332.05: You may know that our company is still today mostly transactional driven, but in terms of the revenues, transactional based. 
+asr:0: OUTPUT 332.51-343.14: Meaning that we're progressively moving to recurring revenue streams with the new subscription package that we have. 
+asr:0: OUTPUT 343.20-350.37: But still to deal with, we're heavily transactional based and the fact that the market is in terms of number of transactions. 
+asr:0: OUTPUT 350.45-359.84: In terms of number of listings is down just this year compared to last year, near 30% or 23% in the. 
+asr:0: OUTPUT 359.86-365.43: Canada with centrist but in the US it's also in that range of between 25 to 30 percent. 
+asr:0: OUTPUT 365.87-377.56: And if you remember last year, we were down 30%. So if you accumulate that, we're physically down 60% over two years in terms of again, inventory and number of transactions. 
+asr:0: OUTPUT 378.18-395.14: If you combine this to a very quick turnover ratio where properties and houses are sold most of the time within 24 to 48 hours, they don't need that much of marketing tools. 
+asr:0: OUTPUT 395.64-399.28: That's just another factor that we're facing right now. 
+asr:0: OUTPUT 399.36-406.77: We think that all this should be temporary. We don't have a crystal ball. We're going to be back to a normal market. 
+asr:0: OUTPUT 406.83-412.77: Just to put things in perspective, I was talking about centrists. 
+asr:0: OUTPUT 412.81-417.02: Right now, I think we have around 35,000 listings. 
+asr:0: OUTPUT 417.48-422.78: On Centris. We used to have 120 at that time. 
+asr:0: OUTPUT 423.26-430.97: Of course, we were affected by this, but the fact that we're 7% down in that type of market, I think it's positive. 
+asr:0: OUTPUT 431.37-440.12: We're even gaining customers. We're not losing customers at all. We're gaining customers with our new subscription package and all different fronts. 
+asr:0: OUTPUT 440.54-447.21: So that's why it's important to understand the market here when we look at our numbers. 
+asr:0: OUTPUT 448.29-457.02: Also, what's important in the last quarter is that you'll see that we have our first quarter of photo service. 
+asr:0: OUTPUT 457.98-463.46: We have revenues of $307,000 of photo service. 
+asr:0: OUTPUT 463.48-470.39: We had those acquisitions on June 30th, so we have only one quarter this year. 
+asr:0: OUTPUT 470.77-475.90: But the ones that were acquired in June have maybe. 
+asr:0: OUTPUT 475.92-480.48: Represent approximately $1.8 million on an annual basis of revenues. 
+asr:0: OUTPUT 480.50-487.05: Plus the ones that you've seen that we acquired in Q1 2022. 
+asr:0: OUTPUT 487.21-489.03: In November and December. 
+asr:0: OUTPUT 489.43-503.22: Meaning that today, I'm not here to make guidance of what's going to be our revenues next year, but based on what all those companies that we've acquired have done in the last 12 months,. 
+asr:0: OUTPUT 503.24-510.65: As we posted on our website, we are at run rate revenues of approximately $11 million. 
+asr:0: OUTPUT 511.17-515.46: And out of this 11 million, we have roughly 3 million in SAS. 
+asr:0: OUTPUT 516.24-523.10: I said half a million may be in hardware and the seven and a half million remaining is photo service. 
+asr:0: OUTPUT 524.06-527.15: So even Q1, 2022. 
+asr:0: OUTPUT 527.17-530.53: You can expect that we'll have maybe two to four weeks. 
+asr:0: OUTPUT 530.55-540.06: Of revenues of those new acquisitions that were done in November and December. We won't have the full effect even in Q1. We will have in Q2. 
+asr:0: OUTPUT 540.82-541.84: So, um... 
+asr:0: OUTPUT 541.86-546.83: And if we talk about Q4, we're pretty much done. 
+asr:0: OUTPUT 546.85-553.95: Our revenues were $1.1M compared to $1.4M last year, so we're down 24% on Q4. 
+asr:0: OUTPUT 553.99-557.76: But we've seen that the number of listings have decreased more in Q4 this year than. 
+asr:0: OUTPUT 558.16-565.87: Overall, over the year, as mentioned, in terms of the number of listing and inventory, that was down 30%. 
+asr:0: OUTPUT 566.23-570.55: I think we're doing pretty good in this very challenging market. 
+asr:0: OUTPUT 572.37-574.47: Talking about 3D tours. 
+asr:0: OUTPUT 575.40-582.86: That's a positive thing on our end. We experience a lot of growth in the number of 3D tours. 
+asr:0: OUTPUT 583.02-587.91: In fact, 237% compared to Q4. 
+asr:0: OUTPUT 587.95-597.62: Last year, we were talking about $70,000 to $80,000 of revenues from 3D tours. 
+asr:0: OUTPUT 598.00-603.18: And that should continue to grow fast because you may have seen a few. 
+asr:0: OUTPUT 603.20-608.83: Few updates we provided before Christmas with regards to new contracts including OfferPad, for instance. 
+asr:0: OUTPUT 609.79-614.21: That should scale up and deploy more and more cities over the month. 
+asr:0: OUTPUT 614.55-622.36: So we should see that trend should continue to in terms of number of trees to grow fast in the next month. That's what we expect. 
+asr:0: OUTPUT 623.62-629.63: In terms of gross margin, we are pretty stable compared to last year. 
+asr:0: OUTPUT 629.75-633.69: For the three-month period, we were at 61% overall. 
+asr:0: OUTPUT 633.71-636.56: Compared to 63 last year. 
+asr:0: OUTPUT 636.96-641.72: For the year, we're at 65 compared to 68. 
+asr:0: OUTPUT 642.02-651.91: It depends on the mix of the revenues because on the SAS portion, our gross margin is somewhere between 82 and 87%. 
+asr:0: OUTPUT 652.03-656.78: And on the photo service more 35 to 40. 
+asr:0: OUTPUT 656.88-663.32: And on the equipment is a bit lower. Depending on the mix, of course, that will affect our gross margin. 
+asr:0: OUTPUT 663.54-670.25: Basically, this should be representative of next year and we could probably improve that a little bit. 
+asr:0: OUTPUT 670.49-674.75: We're going to talk about some efficiency gains that we are. 
+asr:0: OUTPUT 675.12-680.64: We will have with the synergies and acquisitions that we'll cover a bit more later. 
+asr:0: OUTPUT 682.58-685.71: In terms of net income,. 
+asr:0: OUTPUT 685.95-688.97: There's a lot of noise this year on the. 
+asr:0: OUTPUT 688.99-698.16: We have a loss of $3.7 million for the year, including $3.2 million of other expenses. 
+asr:0: OUTPUT 698.24-700.00: And out of that 3.2. 
+asr:0: OUTPUT 700.26-712.09: There's $3 million or $2.9 million that comes from all the adjustments made with regards to the conversion of the debentures. 
+asr:0: OUTPUT 712.13-723.02: This is non-recurring, so it won't be there next year. There were just one-time journal entries this year. 
+asr:0: OUTPUT 723.04-728.37: That explains most of why we have that loss for the year. 
+asr:0: OUTPUT 730.55-732.73: In terms of balance sheet,. 
+asr:0: OUTPUT 732.77-740.88: We're still in pretty good shape. In fact, as you know, we did a $3M private placement in April. 
+asr:0: OUTPUT 741.28-744.32: That we use for. 
+asr:0: OUTPUT 744.76-750.81: In part for our acquisitions, at the end of September, we had $2M of equities. 
+asr:0: OUTPUT 751.29-759.98: I can tell you that as of today, we're near a million. We use that additional million for the acquisitions that were done, completed in November and December. 
+asr:0: OUTPUT 761.10-768.75: We're still in good shape. We have enough to operate and execute our business plan. No problem there. 
+asr:0: OUTPUT 768.79-775.86: Of course, with that million, that will serve as a cushion going forward, so we don't expect to use more than that on acquisition. 
+asr:0: OUTPUT 776.22-783.64: Unless we raise additional capital or debt or some external funding. 
+asr:0: OUTPUT 786.81-796.06: Other than that, as you know, throughout the year we've eliminated our convertible debentures. We reduced our debt in fact by $4.7M. 
+asr:0: OUTPUT 796.64-801.40: Throughout the year, including 4.5 just for the convertible debentures. 
+asr:0: OUTPUT 802.68-811.59: I think our balance sheet is in good shape. That's pretty much the point I wanted to cover. 
+asr:0: OUTPUT 812.71-820.02: In DMDNA and financial, you'll have some information by segment where we now track three different segments. 
+asr:0: OUTPUT 820.80-826.77: One is the software, one is the photography equipment, and one is the service. 
+asr:0: OUTPUT 827.17-834.59: So again, hopefully I'll be able to post it on CDAR pretty soon so you can come back to me if you have further questions. 
+asr:0: OUTPUT 835.62-844.66: And on that, I think I'll turn the mic to you, Gisela, if you want to maybe give a quick business update through the presentation. 
+asr:0: OUTPUT 845.13-849.05: Absolutely, Simon, but just before we jump to the next point on the agenda. 
+asr:0: OUTPUT 850.01-856.26: Is there anyone who would like to ask a specific question about financial that Simon just covered? 
+asr:0: OUTPUT 856.36-860.58: Or you still think about your questions and you're going to keep it for the end. 
+asr:0: OUTPUT 860.68-868.09: It's like you want, you know, we can take a couple of minutes just to go over and clear the financial side of it if you want, otherwise. 
+asr:0: OUTPUT 868.25-877.52: You know, we're just gonna keep in continuing. So we're seeing any question right now. I will say you raise your hand, but you're just everybody is kind of closing his camera. 
+asr:0: OUTPUT 878.54-879.96: Thing ever anyone. 
+asr:0: OUTPUT 880.94-885.35: I just have one. 
+asr:0: OUTPUT 887.13-889.41: How many mentioned that? 
+asr:0: OUTPUT 889.43-896.80: You currently have about a million in cash and you're not using any more cash for acquisitions. 
+asr:0: OUTPUT 896.94-901.64: How should we think about the acquisition strategy going forward? 
+asr:0: OUTPUT 902.94-905.83: And there's been a decline in the stock price. 
+asr:0: OUTPUT 906.87-909.19: Maybe it's not as attractive. 
+asr:0: OUTPUT 909.35-918.84: Anymore to pay to pay in shares or raise the rate more cash by issuing new shares. So how do you think about that? 
+asr:0: OUTPUT 921.54-929.57: We're not, as you've seen, with close to eight acquisitions or six acquisitions just in December. 
+asr:0: OUTPUT 929.59-934.41: Integration phase. It's going very well. We'll cover that in a second. 
+asr:0: OUTPUT 935.66-945.55: We're not a week or two to announce a new acquisition. We do have a lot of things on our plate. 
+asr:0: OUTPUT 945.85-950.11: So we're pretty optimistic about what's coming and of course, hopefully the. 
+asr:0: OUTPUT 950.13-955.18: The market will also be more on the red than on the green. 
+asr:0: OUTPUT 955.22-960.66: All to say is that by the time we were back on track with acquisitions, we. 
+asr:0: OUTPUT 960.90-967.89: We think and we hope that our star price will be at higher levels. 
+asr:0: OUTPUT 969.91-978.28: And if it's not, then we can also, you know, kind of just delay some of the deals or look for any other kind of structure. 
+asr:0: OUTPUT 979.54-983.72: To close those deals. Any other questions or we move forward to. 
+asr:0: OUTPUT 985.25-991.23: Just open your mic if you want to ask a question to Simon and just ask your question. You're more than welcome. 
+asr:0: OUTPUT 993.33-998.56: And like I said, we're going to keep answering questions at the end. 
+asr:0: OUTPUT 998.76-1005.45: All right, I'm going to go into a deck. It's very seldom that we're doing that on the conference call, investor conference call. I think I... 
+asr:0: OUTPUT 1005.87-1010.65: Might be the first time if I do remember, but I promise it will be short. 
+asr:0: OUTPUT 1010.71-1018.12: I'll try to do it in 10 minutes. Hopefully, I will not lose everyone. But 10 to 15 minutes, just covering 15, 20 slides. 
+asr:0: OUTPUT 1018.78-1022.44: And the reason why we wanted to do it is that we were getting a lot of calls. 
+asr:0: OUTPUT 1022.50-1023.66: Bye. 
+asr:0: OUTPUT 1023.76-1040.48: And those calls, we are realizing that we often have to kind of realign the storytelling with some investors who think we're some investors think we are made up our business. Some investors think that we're just a business and so on and so forth. 
+asr:0: OUTPUT 1040.52-1053.65: So I think that the goal of this deck is kind of redefining for everyone, you know, defining for everyone, you know, on the same page, what is the revenue we're going to receive. 
+asr:0: OUTPUT 1053.71-1055.80: So I'm going to share my screen. 
+asr:0: OUTPUT 1056.24-1058.34: In a second. 
+asr:0: OUTPUT 1058.36-1067.69: Hopefully, you're all going to see it, except if you're on your cell phone and what's on a smaller device, you might have some problems seeing it. So I'm going to comment those slides here. 
+asr:0: OUTPUT 1068.31-1070.13: Just going to click on the... 
+asr:0: OUTPUT 1070.15-1079.98: Part of the presentation. So, like Simon said, this is the way we describe a randomness on the TS6 on our website. 
+asr:0: OUTPUT 1082.14-1090.73: We're basically a technological business, a technology business that provides services in the market of real estate society. 
+asr:0: OUTPUT 1093.33-1101.16: To put it in other words, I like to say that we're a tech-powered real estate society business. That's another way to present Urban Emergency. 
+asr:0: OUTPUT 1102.42-1108.83: Run rates of $11 million. And today, you know, including the photographers who are on their payroll,. 
+asr:0: OUTPUT 1109.21-1113.05: Paper job and on a payroll, we're turning around 115 employees. 
+asr:0: OUTPUT 1113.21-1121.88: We're probably around 30 employees. We're based in Montreal. 
+asr:0: OUTPUT 1122.32-1125.35: And of course, we'll listen and see if things are answered. 
+asr:0: OUTPUT 1126.59-1129.15: This is, I don't want to go into detail. 
+asr:0: OUTPUT 1129.21-1142.38: But I just want to remind people that we're not a startup. I mean, we've been in this business for more than 10 years. And the first thing that my brother and I did 10 years ago was to design this. 
+asr:0: OUTPUT 1142.40-1148.45: A spaceship kind of prototype of a mill to land camera, but it was a real prototype by the way. 
+asr:0: OUTPUT 1148.73-1155.56: We tried to raise money to commercialize business and this is why I'm selling wine. 
+asr:0: OUTPUT 1155.66-1163.24: 12 to kind of jump on the TSX Venture at that time and here in Canada and Quebec, particularly, we were having access to a. 
+asr:0: OUTPUT 1163.26-1165.79: Tax kind of advantage. 
+asr:0: OUTPUT 1165.83-1169.49: For an investor called RIA to raise money. 
+asr:0: OUTPUT 1170.19-1178.68: But this camera never sees the light, so we kind of create all the software surrounding 3D Tour. 
+asr:0: OUTPUT 1179.08-1183.78: We're not in new commerce. We've been trying a lot of things in the real estate supply for business. 
+asr:0: OUTPUT 1183.82-1190.31: From developing camera software, business solutions, and so on and so forth. So we know the business pretty well. 
+asr:0: OUTPUT 1191.41-1199.24: And some of the engineers working with me to develop those software, I've been working with them for more than 25 years. 
+asr:0: OUTPUT 1201.02-1202.94: So this is our staff. 
+asr:0: OUTPUT 1203.14-1205.77: This is not something you're going to find on the market, but. 
+asr:0: OUTPUT 1205.85-1212.77: When we sit down and try to evaluate what is the size of our market, and our market is real estate. 
+asr:0: OUTPUT 1212.79-1216.92: Or core markets, of course, at the end of the deck, we'll talk about addressable markets. 
+asr:0: OUTPUT 1217.64-1225.17: But our core market is real estate photography for the purpose of marketing. So basically, you know, to sell a house. 
+asr:0: OUTPUT 1225.71-1230.45: So when we come to bring that activity for residential, commercial and rental. 
+asr:0: OUTPUT 1230.63-1236.72: We are estimating that this is a niche market of $4 billion just in North America. 
+asr:0: OUTPUT 1237.18-1242.10: Potentially, in our estimation, something about $7 to $8 billion worldwide. 
+asr:0: OUTPUT 1242.76-1250.39: Here in North America, we're estimating about 30 million shoots a year. Shoot for us is a paparazzi, a star in a house. 
+asr:0: OUTPUT 1250.41-1256.24: And bring back 25, 35 images with all the media that comes with that. 
+asr:0: OUTPUT 1256.96-1260.96: And roughly that generates a billion images per year. 
+asr:0: OUTPUT 1261.62-1263.62: So this is our market. 
+asr:0: OUTPUT 1264.90-1267.97: Like Hyman said, this is a transaction market. 
+asr:0: OUTPUT 1268.21-1275.34: And our business is linked to the housing inventory. So if the housing inventory ramp up, we're going to ramp up. 
+asr:0: OUTPUT 1275.36-1284.54: If it's going down because our business model, as we're going to see in this slide, is mostly 9% transactional based. 
+asr:0: OUTPUT 1284.56-1285.65: We're going to follow the trend. 
+asr:0: OUTPUT 1285.99-1291.73: And unfortunately, right now, the trend is a historic. 
+asr:0: OUTPUT 1292.41-1297.34: Most of the investors we talked with, they never saw such a low inventory of house for sale. 
+asr:0: OUTPUT 1298.24-1305.55: I'm not sure I like those numbers, the way I'm presenting it today, but those are real. I mean, the market is down 23%. 
+asr:0: OUTPUT 1305.61-1308.59: Urban receipt is down 11% year over year. 
+asr:0: OUTPUT 1309.17-1318.86: And our new acquisition are just coming to our pipeline of revenue in the last quarter. So if you take just the stats like Simon said, minus 7%. 
+asr:0: OUTPUT 1319.24-1321.86: Overall, we feel we're winning clients. 
+asr:0: OUTPUT 1322.74-1330.23: We don't feel that we're losing clients, but what we're saying is that our photographers, our clients are doing less business overall. 
+asr:0: OUTPUT 1330.83-1339.34: This is why I mean, you know, it's kind of a bad place to be right now, but, you know, I'm a positive person and. 
+asr:0: OUTPUT 1339.36-1341.50: I don't think it's going to get worse. 
+asr:0: OUTPUT 1342.02-1345.69: And we're hearing that the interest rates should increase. 
+asr:0: OUTPUT 1345.75-1347.55: So that will kind of... 
+asr:0: OUTPUT 1347.57-1357.08: Hopefully slow down a little bit, you know, the some of the interest of the buyers or people selling their house. 
+asr:0: OUTPUT 1357.68-1366.85: In any case, I think we're at the bottom of the barrier right now. So I think the decision will just go start ramping up again. 
+asr:0: OUTPUT 1367.43-1380.26: And of course, like Simon said, you know, we're potentially 60% down compared to what numbers should usually be in terms of listings, in terms of house for sale. 
+asr:0: OUTPUT 1380.48-1389.41: So our vendor should follow the trend and potentially just beat the trends actually because we believe right now we're beating. 
+asr:0: OUTPUT 1389.47-1393.75: We're kind of succeeding in that very, very difficult market. 
+asr:0: OUTPUT 1393.85-1401.38: I'm talking to a lot of entrepreneurs in the real estate space and they are all in the same position right now. 
+asr:0: OUTPUT 1402.98-1412.67: All right, so the photography business in itself, it's a business that is transforming a lot and it's definitely shifting to a technology driven high volume business. 
+asr:0: OUTPUT 1413.03-1419.02: So basically, you have to do a lot of transactions per day because it's a highly competitive landscape. 
+asr:0: OUTPUT 1419.04-1424.36: And you need to bring a lot of value in terms of technology. So basically, we kind of, you know,. 
+asr:0: OUTPUT 1425.35-1433.21: Spread all the parts that you need to succeed in the business like you need to have online booking system, you need to have the capture hardware. 
+asr:0: OUTPUT 1433.45-1440.48: Not just a camera, but you might need a 3D camera, you might need a drone. So you need to have those specialized hardware. 
+asr:0: OUTPUT 1441.06-1450.33: You need to post, edit your images to increase the white balance, to put a blue sky on the external. 
+asr:0: OUTPUT 1450.35-1461.10: Facade images, so you need to have this service. You need to create YouTube video slideshows because YouTube is one of the most popular search engines in real estate. 
+asr:0: OUTPUT 1461.44-1464.48: Of course, we need to provide 3D tours, it's a must-have today. 
+asr:0: OUTPUT 1464.76-1471.57: And for plan is kind of, I will say, basically more important than feeding towards right now on the market. There's a lot of interest. 
+asr:0: OUTPUT 1471.99-1476.24: Even in some states like here in Canada, oil plants are mandatory. 
+asr:0: OUTPUT 1477.26-1478.48: This is common. 
+asr:0: OUTPUT 1478.50-1488.03: Product. It's a, you know, you definitely need to provide websites. We call it a property website. So it's a website dedicated to showcase one house for sale. 
+asr:0: OUTPUT 1488.53-1495.56: You need a system to deliver 100 images, high quality images. Images cannot be just transferred by email. 
+asr:0: OUTPUT 1495.96-1502.84: So you need to have some sort of a study system to transfer the image and you need a very performant payment system to get paid. 
+asr:0: OUTPUT 1503.40-1507.67: When you look at all those things that you need to run a photography business today. 
+asr:0: OUTPUT 1507.71-1519.00: Urban University is the only company offering and owning every part of the, every portion, every technology required to the business right now. 
+asr:0: OUTPUT 1520.06-1526.89: And that's giving us a lot of advantages over competition. I will start from the bottom. 
+asr:0: OUTPUT 1527.01-1534.39: Of course, the after-sales support is easier for Benroth to do because we're providing each part. We're not relying to third parties. 
+asr:0: OUTPUT 1534.41-1539.06: For 3D tours, for floor plans, for photo editions, everything is done internally. 
+asr:0: OUTPUT 1539.68-1549.59: So, of course, we have a pretty difficult to beat turnaround every time we can deliver faster than our competitors because there are fewer parties involved. 
+asr:0: OUTPUT 1549.93-1554.91: We have more flexibilities in our packages we can offer and deal with our clients. 
+asr:0: OUTPUT 1555.44-1558.46: We keep our margins pretty high for the value we bring. 
+asr:0: OUTPUT 1558.90-1560.42: And, you know,. 
+asr:0: OUTPUT 1560.50-1568.41: We like to tell the market that we are one of the most competitive businesses right now in terms of pricing. 
+asr:0: OUTPUT 1568.43-1572.87: So being a one-stop shop is definitely bringing a lot of value to our clients. 
+asr:0: OUTPUT 1573.07-1580.58: And it's positioning or been immersive for winning many deals, many contracts with real estate agents and offers. 
+asr:0: OUTPUT 1581.98-1584.60: So this is Margot, when you look at each of the parts. 
+asr:0: OUTPUT 1584.76-1594.81: There's some portion of those required elements that you need to run a business that are not technology, like, you know, taking a picture. 
+asr:0: OUTPUT 1595.08-1598.06: You need to have a human doing that. You need to have a stopper. 
+asr:0: OUTPUT 1598.72-1607.35: Photo editing and images, you know, even if AI is super well advanced and you know a lot of people tell that they are photo editing images. 
+asr:0: OUTPUT 1607.71-1611.17: With computer, you still have some humans. The humans will do a better job. 
+asr:0: OUTPUT 1611.57-1618.60: And the floor plans, you need somebody to draw floor plans and put furniture, write the rooms name, stuff like that. 
+asr:0: OUTPUT 1619.04-1627.11: Those services we are offering to our clients. So we call them service on demand and it is transactional based. 
+asr:0: OUTPUT 1627.53-1636.50: Each time somebody wants to have a photographer on site, the client pays and we send a photographer, same thing for photo edition and floor plans. 
+asr:0: OUTPUT 1637.12-1645.27: And the rest is mostly technology, and we're still offering it, every part, even if there's no line with the booking system, we are offering it. 
+asr:0: OUTPUT 1645.89-1649.03: And it's still transactional, most of the. 
+asr:0: OUTPUT 1649.05-1657.06: For most of the parts, so we're charging for example $5 to render a slide to be $4 to render a 3D port. 
+asr:0: OUTPUT 1657.08-1660.00: $15 to create a property website. 
+asr:0: OUTPUT 1660.32-1669.59: And $3 to transfer the image. You need to think about this part here as a Dropbox kind of platform to transfer the iQuilt images. 
+asr:0: OUTPUT 1670.27-1671.99: We added this year. 
+asr:0: OUTPUT 1672.01-1681.14: A new service that Simon briefly talked about during the financial highlight, what we call the prime subscription. So the prime subscription is basically for $30 a month. 
+asr:0: OUTPUT 1681.16-1682.68: Agent. 
+asr:0: OUTPUT 1682.70-1684.36: You can subscribe to that plan. 
+asr:0: OUTPUT 1684.38-1693.21: And each time we order one of our offers, we're going to bundle all the technologies we can offer to them. So this is a very popular. 
+asr:0: OUTPUT 1693.25-1698.82: Subscription right now or anyone will talk a little bit later in the deck about it. 
+asr:0: OUTPUT 1700.20-1707.69: Simon briefly talked about the distribution of revenue. So $3 million in SAC, $8 million in services. I just want to add. 
+asr:0: OUTPUT 1707.71-1714.29: For the staff is still serving around 1700 real estate for offers. 
+asr:0: OUTPUT 1714.43-1720.96: This number here is our independent staffers using our technology to serve their agents, their clients. 
+asr:0: OUTPUT 1721.56-1724.78: Is generating around 200,000 probably about five per year. 
+asr:0: OUTPUT 1725.17-1728.43: In terms of services, so we're talking about our photographers. 
+asr:0: OUTPUT 1728.45-1734.87: We're serving around 12,000 real estate agents and doing around 50,000 shoots a year, photo shoots a year. 
+asr:0: OUTPUT 1735.26-1739.22: This is including all our acquisitions that we've done during the year. 
+asr:0: OUTPUT 1741.30-1762.84: When we talk about technology and you saw it from the history, the timelines of Urban Immersive, we started with the 360 camera design. We're still passionate, highly passionate about 3D technology. We'll always kind of keep that in our products and really kind of hope that someday 3D tours will get back on the market. 
+asr:0: OUTPUT 1762.88-1767.89: Different to what COVID-19 has created, generated, and meant for three tours. 
+asr:0: OUTPUT 1768.01-1769.23: This is our core technology. 
+asr:0: OUTPUT 1769.59-1779.12: And we believe that we have right now one of the most complete 3D tour solution on the market. 
+asr:0: OUTPUT 1779.16-1789.29: If you look at all the features we are offering, few companies can state that they have all this. 
+asr:0: OUTPUT 1789.31-1795.24: And their 3D solution. So of course, each time we're doing a 3D tour, we're providing adult health. 
+asr:0: OUTPUT 1795.38-1800.70: This is the way we commonly call this kind of 3D-poured and room segmentation. 
+asr:0: OUTPUT 1801.12-1810.73: We can measure on the floor and with tape. We're having our own built-in floor plan drawing software built in. 
+asr:0: OUTPUT 1810.75-1817.70: The 3D tour itself. So even our clients can play with it and can change the the four plans if they want. So there it's. 
+asr:0: OUTPUT 1817.82-1822.20: We're not using a third party software to create our fault plan. 
+asr:0: OUTPUT 1822.80-1830.61: We use the AI powered classification system that we acquired from Torobos in 2018. 
+asr:0: OUTPUT 1830.97-1838.78: To automatically put a tag in the room to say this is a picnic room, a kitchen, so on and so forth. 
+asr:0: OUTPUT 1839.58-1847.83: We have those tags also that you can put some graphics and links from that hotspot, 3D hotspot. 
+asr:0: OUTPUT 1848.23-1853.37: This is pretty unique to Urban Immersive, so we are showing an interactive map of people within the room. 
+asr:0: OUTPUT 1853.71-1861.82: This is not a picture of people, actually, it's a real video. So you can see people in the live stream video on the map. 
+asr:0: OUTPUT 1862.50-1871.71: And, of course, we have the avatar, so the social spaces where you can visit with friends and interact with them. So whether you can interact. 
+asr:0: OUTPUT 1871.85-1875.00: By chatting or you can interact with video conferencing. 
+asr:0: OUTPUT 1876.58-1880.06: The next slide is something pretty special for us because. 
+asr:0: OUTPUT 1880.52-1888.57: You know, we are running a photography business, we are offering photography services, and we want to be highly efficient. 
+asr:0: OUTPUT 1888.73-1895.82: And the only way you can achieve profitability and keep your margins by going fast. 
+asr:0: OUTPUT 1895.86-1900.72: You need to do a shoot super fast, being two hours in the house. 
+asr:0: OUTPUT 1901.20-1907.03: You know, it's too long. So we want our photographers to do six to seven shoots per day. 
+asr:0: OUTPUT 1907.73-1917.60: And in order to do that, we've developed our own capture app that is three times faster than anything else that we've seen on the market to scan a house. 
+asr:0: OUTPUT 1918.24-1926.37: It works on iPhone, iPad. It uses advanced computer vision alignment system to create those maps when you shoot. 
+asr:0: OUTPUT 1926.87-1929.37: It's fully integrated within our workflow. 
+asr:0: OUTPUT 1929.75-1934.71: So it's definitely improving the productivity of our people. 
+asr:0: OUTPUT 1934.97-1937.66: And also, we also have some features. 
+asr:0: OUTPUT 1937.70-1943.54: That enables the software to add additional information on the map. 
+asr:0: OUTPUT 1943.56-1948.01: For adding value in post-production. 
+asr:0: OUTPUT 1948.23-1949.99: Were recently launched. 
+asr:0: OUTPUT 1950.01-1952.15: This, this. 
+asr:0: OUTPUT 1952.17-1961.18: What we call the automated building insights and analytics report. So for every tour we are providing with our prime subscription,. 
+asr:0: OUTPUT 1961.58-1965.33: People will receive a detailed report about the property. 
+asr:0: OUTPUT 1965.69-1975.40: So they will know how many sink showers that the building has, how many doors, outside doors, inside doors, and so on and so forth. 
+asr:0: OUTPUT 1975.68-1977.34: Highly detailed. 
+asr:0: OUTPUT 1977.50-1986.71: And really appreciated with some of our clients like offer 5.10 that are furnishing many of the home there, they're buying to resell them. 
+asr:0: OUTPUT 1988.79-1992.33: This is UNIX urban immersive. We call it UI Meet 3D. 
+asr:0: OUTPUT 1992.99-1999.02: So basically, it's the avatar that you can see people visiting the home with you in a 3D space. 
+asr:0: OUTPUT 1999.12-2005.09: And we just opened their video camera so it becomes some sort of a 3D view conference. 
+asr:0: OUTPUT 2005.23-2011.43: I will tell you that we're presenting you, I mean, to many industry leaders. 
+asr:0: OUTPUT 2011.45-2020.30: And it's making a lot of noise right now and we're expecting to have some significant partnership to announce soon. 
+asr:0: OUTPUT 2020.58-2025.83: Many of the people within the industry and as you see I'm not using that word today but. 
+asr:0: OUTPUT 2026.25-2033.09: We've been told and people are telling us that it might be the version 1.0 after all of metaverse. 
+asr:0: OUTPUT 2033.41-2041.80: You know, being able to be all together within an environment, visually interacting. 
+asr:0: OUTPUT 2041.82-2047.23: Where you are within the space, what you're looking at, and with the view system. 
+asr:0: OUTPUT 2047.25-2056.70: It's definitely something that has a lot of value for our clients, partners, MLSs, brokers, and so on. 
+asr:0: OUTPUT 2057.28-2064.72: And we have file for provisional patent on that. And basically the reason why we use a provisional patent. 
+asr:0: OUTPUT 2065.37-2070.29: It's basically because we want it to go fast and protecting our idea. 
+asr:0: OUTPUT 2070.37-2078.28: And also, we want to make sure that nobody will patent something on top of varieties that basically will. 
+asr:0: OUTPUT 2078.30-2081.92: Force us to not promote this technology. So, so far,. 
+asr:0: OUTPUT 2082.50-2090.53: We have four provisional patterns on that. We're working on the fifth one and basically related to the way we're presenting avatars when there are multiple people on the same axis. 
+asr:0: OUTPUT 2090.55-2093.99: The way we are controlling user. 
+asr:0: OUTPUT 2094.01-2096.44: Control user loop experience and so on and so forth. 
+asr:0: OUTPUT 2098.86-2100.00: And... 
+asr:0: OUTPUT 2100.34-2109.07: About the 3D tour, we have today what we believe one of the most complete 3D marketing website suite on the market. 
+asr:0: OUTPUT 2109.11-2116.94: So basically, those are websites dedicated to showcase the best way possible 3D tours. 
+asr:0: OUTPUT 2117.58-2125.47: We have more than 20 customizable designs. We accept other media like still pictures, video, and so on. 
+asr:0: OUTPUT 2125.57-2126.67: Bye. 
+asr:0: OUTPUT 2126.71-2131.71: A solution that is highly appreciated by our clients. 
+asr:0: OUTPUT 2131.73-2137.50: Because once you have 3D tours, you need to distribute it, you need to promote it, and we have a complete solution for that. 
+asr:0: OUTPUT 2139.10-2141.70: The way you know, we run up to the business. 
+asr:0: OUTPUT 2142.10-2153.35: We, over the years, we've been working since 2013 actually, we started developing our own business solution, ERP or CRM, whatever you want to call it. It's a system that helps managing. 
+asr:0: OUTPUT 2153.37-2155.06: I thought I could be in there. 
+asr:0: OUTPUT 2155.62-2158.90: And today we're using it to manage our own stock business. 
+asr:0: OUTPUT 2159.42-2165.01: And what is particular with our solution is that we've developed over the years. 
+asr:0: OUTPUT 2165.03-2170.71: A business intelligence allowing to create instant booking. 
+asr:0: OUTPUT 2171.37-2178.56: What does it mean? It means that we can in real time without any delay find the closest photographer for the next shoot. 
+asr:0: OUTPUT 2178.60-2183.76: So when an agent comes on our platform and they want to book offers at 2 o'clock Saturday,. 
+asr:0: OUTPUT 2183.80-2189.03: The system will find the right providers for the right services for the right client at Toolklock. 
+asr:0: OUTPUT 2189.15-2193.17: And the booking is confirmed. There's no other communication. 
+asr:0: OUTPUT 2193.33-2201.16: They will be sure that the photographers will be there. So the system calculates the travel time, calculates the service time. 
+asr:0: OUTPUT 2201.64-2209.21: And at the end of the day, it gave us the possibility to improve the productivity of the businesses we are acquiring. 
+asr:0: OUTPUT 2209.27-2219.22: Give you an example. Once the business we acquired, we were doing 3.5 shoots a day. And today they're running at 7 shoots a day with this system. 
+asr:0: OUTPUT 2219.28-2224.58: So we see rapidly the difference using our system. 
+asr:0: OUTPUT 2226.65-2234.55: And I like to say this is an autonomous algorithm. Behind that, we don't choose Google Maps or any other software. 
+asr:0: OUTPUT 2234.81-2237.86: It's our own business intelligence. 
+asr:0: OUTPUT 2238.62-2245.33: In terms of on-demand services, to recap, so we are occurring 3D scanning and photography services, for plan drawing, image enhancement. 
+asr:0: OUTPUT 2245.85-2253.45: It's all paper job. And in terms of the fee, we have around 130 real estate offers. 
+asr:0: OUTPUT 2254.31-2259.94: It's difficult to know the exact numbers because some staffers are working 20 hours, some staffers are working 40 hours. 
+asr:0: OUTPUT 2260.00-2268.07: Or the full-time, part-time, whatsoever. But they are offering the complete package of visual content capturing, 3D scanning. 
+asr:0: OUTPUT 2268.69-2276.94: On one appointment, the EPO pathographers are equipped to deliver all the services of urban immersive. 
+asr:0: OUTPUT 2279.72-2284.44: Foreground drawings is done offshore. Most of the foreground drawings is done in Paris. 
+asr:0: OUTPUT 2285.13-2290.95: Uh um by what's the most maybe 50 50 50 percent is done here in Quebec. 
+asr:0: OUTPUT 2291.31-2292.85: Using our own software. 
+asr:0: OUTPUT 2293.05-2299.38: And we like to say that we've developed some sort of a marketplace so we can. 
+asr:0: OUTPUT 2299.40-2305.79: Engage really rapidly new people to work on our system and to help you know with the volume. 
+asr:0: OUTPUT 2307.29-2315.56: Photoé de Chane is the same, and right now as we speak, we are doubling our Photoé de Chane team in Paris. 
+asr:0: OUTPUT 2315.98-2317.00: Bye-bye. 
+asr:0: OUTPUT 2317.02-2326.17: The reason is that because some of the businesses that we have acquired recently are paying with offshore companies. 
+asr:0: OUTPUT 2326.19-2331.29: Three times what it cost us to post images. 
+asr:0: OUTPUT 2331.39-2339.70: So we expect to increase the margins of some of our biggest acquisitions that we've done recently. 
+asr:0: OUTPUT 2340.64-2342.82: Photos can be anything from blue sky. 
+asr:0: OUTPUT 2343.78-2355.74: That's. 
+asr:0: OUTPUT 2401.64-2409.19: Can you find the docket? 
+asr:0: OUTPUT 2411.37-2419.82: It looks like you succeeded to shut it down and we're terribly sorry about that. It's the first time it's happening. We've been hacked on that call. 
+asr:0: OUTPUT 2420.92-2421.98: Are you hearing me? 
+asr:0: OUTPUT 2423.16-2428.99: Yeah, okay. So, first time, first experience. So, it's not us. It's not State of Arizona, Merced. Hopefully, you know that. 
+asr:0: OUTPUT 2429.37-2436.70: And hopefully those young guys that have a lot of fun, but it's trying to to mute Samuel Montes, Simon, if you can. 
+asr:0: OUTPUT 2437.48-2446.93: I see a mountain. Can you just sit down? What? And Maggie also. Yeah. 
+asr:0: OUTPUT 2449.67-2454.95: So we're sorry for that. We're going to try to get back to our meeting. Otherwise, we're going to have to terminate that. 
+asr:0: OUTPUT 2466.43-2469.57: So are we good to continue or are we going to have other people? 
+asr:0: OUTPUT 2472.53-2475.34: I think you can. 
+asr:0: OUTPUT 2476.94-2482.54: Can you stop, I think, I don't know how it works in the final, but can you stop people getting on the call? 
+asr:0: OUTPUT 2496.30-2499.46: All right, let's close it, Simon. Let's close the call. 
+asr:0: OUTPUT 2504.72-2508.61: You. 
+asr:0: END

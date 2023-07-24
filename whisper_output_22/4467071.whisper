@@ -1,0 +1,387 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 6.43-11.75: Greetings and welcome to the Technical S third quarter 2021 earnings conference call. 
+asr:0: OUTPUT 12.59-19.38: At this time, all participants are in a listen-only mode. A brief question and answer session will follow the formal presentation. 
+asr:0: OUTPUT 20.30-29.61: If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. As a reminder, this conference is being recorded. 
+asr:0: OUTPUT 30.69-36.74: It is now my pleasure to introduce your host brad kray investor relations thank you for you may begin. 
+asr:0: OUTPUT 37.94-42.50: Thank you for joining us for Technoglass's third quarter 2021 conference call. 
+asr:0: OUTPUT 43.16-49.77: A copy of the slide presentation to accompany this call may be obtained on the investor section of the Technoglass website. 
+asr:0: OUTPUT 50.59-58.88: Our speakers for today's call are Chief Executive Officer Jose Manuel Diaz, Chief Operating Officer Chris Diaz,. 
+asr:0: OUTPUT 58.90-62.12: And Chief Financial Officer Santiago Geraldo. 
+asr:0: OUTPUT 63.42-68.43: I'd like to remind everyone that matters discussed in this call, except for historical information,. 
+asr:0: OUTPUT 68.45-74.71: Are four looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. 
+asr:0: OUTPUT 75.34-81.42: Including statements regarding future financial performance, future growth, and future acquisitions. 
+asr:0: OUTPUT 82.16-89.93: These statements are based on Technolast's current expectations or beliefs and are subject to uncertainty and changes in circumstances. 
+asr:0: OUTPUT 90.49-96.54: Actual results may differ in a material way from those expressed or implied by the statements herein. 
+asr:0: OUTPUT 96.56-106.01: Due to changes in economic, business, competitive, and or regulatory factors, and other risks and uncertainties affecting the operation of Technowast's business. 
+asr:0: OUTPUT 107.61-114.73: These risks, uncertainties, and contingencies are indicated from time to time in Technoglass's filings with the SEC. 
+asr:0: OUTPUT 115.52-119.26: The information discussed during the call is presented in light at such risk. 
+asr:0: OUTPUT 120.08-127.85: Further, investors should keep in mind that Technoglass's financial results in any particular period may not be indicative of future results. 
+asr:0: OUTPUT 128.51-136.60: Technoglass is under no obligation to and expressly disclaims any obligation to update or alter its forward-looking statements. 
+asr:0: OUTPUT 136.62-142.60: Whether as a result of new information, future events, changes in assumptions, or otherwise. 
+asr:0: OUTPUT 143.42-147.47: I will now turn the call over to Jose Manuel beginning on slide number four. 
+asr:0: OUTPUT 149.33-153.73: Thank you, Brad, and thank you everyone for participating on today's call. 
+asr:0: OUTPUT 155.16-159.40: I could not be more proud of our exceptional third quarter performance. 
+asr:0: OUTPUT 160.00-166.33: Making our fourth consecutive quarter of year-over-year revenue growth. 
+asr:0: OUTPUT 166.35-171.69: And another period of record results across many of our key metrics. 
+asr:0: OUTPUT 172.99-176.66: We achieved just another quarter of record revenue. 
+asr:0: OUTPUT 176.84-185.15: With 29% growth in the U.S., which represented nearly 95% of our total revenues. 
+asr:0: OUTPUT 186.77-193.27: This outside growth was led by our single family residential cells. 
+asr:0: OUTPUT 193.29-198.18: That were up 213% during the quarter. 
+asr:0: OUTPUT 199.54-204.90: So to me, the market continues to surpass our expectations. 
+asr:0: OUTPUT 204.92-208.17: And largely reflect a strong demand. 
+asr:0: OUTPUT 208.19-214.93: From our best-in-class products across our deep-ending presence in the Southeast US region. 
+asr:0: OUTPUT 216.46-222.72: We also strengthen our commercial foothold in attractive markets throughout the country. 
+asr:0: OUTPUT 222.74-226.71: With a growing backlog of commercial projects to invoice. 
+asr:0: OUTPUT 226.73-228.91: Through 2022. 
+asr:0: OUTPUT 231.91-240.00: Building in our impressive show performance, we were able to grow adjusted EBITDA by 36%. 
+asr:0: OUTPUT 240.46-243.98: To a new record of 49 million for the third quarter. 
+asr:0: OUTPUT 245.65-253.35: And John's perennial margin also came in at record levels and improved by 220 basis points. 
+asr:0: OUTPUT 254.13-257.00: Year over year to 29.7%. 
+asr:0: OUTPUT 258.58-262.98: This performance was due to the stronger cells I mentioned previously. 
+asr:0: OUTPUT 263.00-271.43: Along with discipline cost controls and the benefits of previously implemented high return investments,. 
+asr:0: OUTPUT 271.67-278.26: Producing a gross margin of 39.6%, which is also a record for the third quarter. 
+asr:0: OUTPUT 280.44-288.57: Furthermore, continued momentum in our single-family residential business, which has a shorter cash cycle,. 
+asr:0: OUTPUT 288.59-298.76: Combined with careful work in capital management collectively help to generate our strongest and strongest quarter of robust cash flow. 
+asr:0: OUTPUT 299.48-302.38: And a quarterly record of nearly 33 billion. 
+asr:0: OUTPUT 304.10-312.19: This allows us to pay down debt while investing further in our innovation capabilities and capacity enhancements. 
+asr:0: OUTPUT 312.21-314.79: To address the expected growth ahead. 
+asr:0: OUTPUT 316.94-324.04: As a result of our vertically integrated platform and strategic geographic positioning. 
+asr:0: OUTPUT 324.16-327.59: We continue to enjoy a healthy competitive. 
+asr:0: OUTPUT 327.61-337.18: Advantage that has mostly insulated pigment glass thus far from widespread supply chain disruptions. 
+asr:0: OUTPUT 337.34-341.28: And most input cost pressures affecting our industry. 
+asr:0: OUTPUT 343.06-352.05: Our structural advantages produce additional share gains as new and existing customers value our shortened lead times. 
+asr:0: OUTPUT 352.43-356.90: Continuity of product availability and best-in-class quality. 
+asr:0: OUTPUT 358.52-361.06: Based on our success so far this year. 
+asr:0: OUTPUT 361.62-369.67: And the opportunities we see, we are pleased to increase our full year revenue and adjust to the EBITDA growth outlook. 
+asr:0: OUTPUT 369.69-373.59: Which Santiago will discuss later in the call. 
+asr:0: OUTPUT 375.04-379.34: In conclusion, we expect to continue executing. 
+asr:0: OUTPUT 379.36-387.83: Our highly profitable growth strategy and generating cash flow to deliver additional value for our shareholders. 
+asr:0: OUTPUT 389.05-393.43: With the strength of our balance sheet and financial flexibility. 
+asr:0: OUTPUT 394.57-403.50: We are extremely confident in our ability to achieve our growth objectives while maintaining our industry-leading margins. 
+asr:0: OUTPUT 404.46-414.43: We have a highly efficient, vertically integrated and low cost operation with an extensive portfolio. 
+asr:0: OUTPUT 414.45-419.08: Top of the line product that should allow us to continue winning in our market. 
+asr:0: OUTPUT 420.46-426.95: I will now turn the call over to Chris to provide the visual details on the record backlog. 
+asr:0: OUTPUT 429.29-430.41: Thank you, Jose Manuel. 
+asr:0: OUTPUT 431.21-441.10: The strength of our resolve reflects our ability to execute our growth strategy as a US-centric company while providing exceptional service to our customers. 
+asr:0: OUTPUT 441.68-446.77: We were thrilled to build on top of our first half 2021 momentum. 
+asr:0: OUTPUT 447.47-453.61: On the third quarter, we gain share, deliver new products offering, and expand our dealer network. 
+asr:0: OUTPUT 454.65-464.04: During the quarter, we were pleased to begin invoicing products under our new multi-max product line, which target production home builders. 
+asr:0: OUTPUT 464.06-466.57: As well as legacy and new dealers. 
+asr:0: OUTPUT 467.47-473.01: This is an opportunity that we believe represents significant upside to our long-term growth potential. 
+asr:0: OUTPUT 474.39-483.22: Beyond new products, we are seeing a sharp acceleration of growth in our prestige and elite single-family residential product lines. 
+asr:0: OUTPUT 484.12-494.79: We continue to expect strong growth in single family to respect their share gain held by a continued positive overall housing environment in the U.S. 
+asr:0: OUTPUT 496.44-497.50: In addition,. 
+asr:0: OUTPUT 497.56-507.13: We have a number of commitments for commercial and multifamily projects which help to grow our backlog to a new record level of 570,000. 
+asr:0: OUTPUT 507.15-509.87: 75.8 million at quarter end. 
+asr:0: OUTPUT 510.43-513.69: As it relates to commercial indicators, we have been pleased. 
+asr:0: OUTPUT 513.71-520.60: To see increases in the ABI index, which move further into expansion territory for the aid. 
+asr:0: OUTPUT 520.62-522.80: Consecutive month in September. 
+asr:0: OUTPUT 523.66-531.31: The September ABI index increased to 56.6 compared to 55.6 in August. 
+asr:0: OUTPUT 531.81-538.30: Remaining in expansion territory and consistent with levels not seen since the early 2000s. 
+asr:0: OUTPUT 540.84-550.09: At $575.8 million, our third quarter backlog level represents more than 1.2 times our trailing 12-month revenue. 
+asr:0: OUTPUT 550.15-556.04: Providing us with solid visibility on commercial demand through 2022. 
+asr:0: OUTPUT 556.92-564.99: The U.S. Continues to represent an increasing share of projects, accounting for over 86% of our third quarter backlog. 
+asr:0: OUTPUT 566.71-576.60: Approximately two-thirds of our backlog is comprised of medium and high-rise residential projects, as well as single-family residential already in production. 
+asr:0: OUTPUT 577.04-581.58: While one-third is related to a wide array of commercial projects. 
+asr:0: OUTPUT 582.88-589.19: As a reminder, our single-family residential growth trajectory is not fully captured in our backlog. 
+asr:0: OUTPUT 589.69-594.75: This is due to the shorter term spot duration of those projects. 
+asr:0: OUTPUT 596.50-608.11: Looking ahead, our strong cash flow generation capabilities arising from our vertically integrated advantages have allowed us to invest significantly in growth CAPEX. 
+asr:0: OUTPUT 608.93-620.68: During the third quarter, we spent $10 million in growth capex to automate a third class processing line, enhance our soft coating facility,. 
+asr:0: OUTPUT 620.70-625.51: And expand our aluminum production capacity to address incremental demand. 
+asr:0: OUTPUT 626.63-635.14: We believe growth investments such as this will help us address the expected growth we foresee through 2022. 
+asr:0: OUTPUT 636.62-640.88: With the previously discussed installed capacity and incremental efficiencies,. 
+asr:0: OUTPUT 640.90-648.21: Anticipated to become operational by the fourth quarter of 2021 or early in the first quarter of 2022,. 
+asr:0: OUTPUT 648.37-657.66: We expect to have the necessary installed capacity to significantly expand our invoicing capabilities well beyond current levels. 
+asr:0: OUTPUT 658.46-665.39: I will now turn the call over to Santiago on slide six to discuss the strong demand for single family products. 
+asr:0: OUTPUT 665.87-671.79: Vertical integrated strategy and financial results and our improved outlook for the year. 
+asr:0: OUTPUT 673.51-679.74: Thank you, Christian. Our third quarter results represent yet another quarter of consistent execution. 
+asr:0: OUTPUT 679.98-684.52: Following years of investments in technology enhancements, our facilities. 
+asr:0: OUTPUT 684.54-690.33: As well as our strategic positioning in the U.S. Single-family residential market. 
+asr:0: OUTPUT 691.43-698.92: In the third quarter, we were thrilled to expand upon our exceptional first half 2021 performance. 
+asr:0: OUTPUT 700.14-707.95: We saw our momentum continue primarily through share gains and new business wins in our single-family business. 
+asr:0: OUTPUT 709.43-714.85: This momentum resulted in our total revenue increasing to new record levels. 
+asr:0: OUTPUT 715.52-722.34: Notably, our single family revenues increased 213% year over year. 
+asr:0: OUTPUT 722.48-732.95: Representing 48% of our third quarter US revenues and 35% of our US sales on an LTM basis. 
+asr:0: OUTPUT 733.79-737.18: Reflecting new business wins and market share gains. 
+asr:0: OUTPUT 739.18-746.77: Our sales continue to benefit from our very clean, integrated business model and strategically located operations. 
+asr:0: OUTPUT 747.91-758.34: The accelerating demand for our products is attributable to our ability to supply superior quality products with shorter lead times at an attractive value. 
+asr:0: OUTPUT 759.50-768.71: As Chris mentioned, while our single family sales in the third quarter were primarily comprised of our prestige and elite product lines. 
+asr:0: OUTPUT 769.07-776.16: We were thrilled to begin invoicing orders for our MultiMax product line targeting production home builders. 
+asr:0: OUTPUT 777.92-785.23: Regardless of our future volatility in the housing market or forward-looking indicators such as housing starts,. 
+asr:0: OUTPUT 785.87-792.37: We expect this product line to offer pure upside to our already strong residential sales. 
+asr:0: OUTPUT 792.39-801.50: As we continue to focus on expanding our single family presence through dealership expansion and geographic diversification. 
+asr:0: OUTPUT 803.28-804.66: Looking at slide seven. 
+asr:0: OUTPUT 806.51-813.55: We would like to draw your attention to the factors driving our success and above market growth in 2021. 
+asr:0: OUTPUT 814.49-821.20: Helping us to differentiate Tecnoglass as the architectural glass provider of choice in the U.S. 
+asr:0: OUTPUT 822.56-825.27: As we have discussed in previous quarters. 
+asr:0: OUTPUT 825.29-827.57: Are strategically located. 
+asr:0: OUTPUT 827.59-836.36: Vertically integrated and low-cost operations provide us with sustainable competitive advantages compared to our peers. 
+asr:0: OUTPUT 837.98-846.39: Our structural advantages and significant investments in our operations continue to facilitate our ability to quote more projects. 
+asr:0: OUTPUT 846.41-849.05: Expand customer relationships. 
+asr:0: OUTPUT 849.07-855.20: And deliver products with much shorter lead times than the current industry average. 
+asr:0: OUTPUT 855.78-859.84: Are vertically integration and joint venture with Sengoban. 
+asr:0: OUTPUT 859.86-870.23: Allows us significant control over our purchasing and transportation costs with no material pressures from raw material costs or material availability. 
+asr:0: OUTPUT 871.73-878.84: Also, we have not experienced any significant wage cost increases or labor constraints. 
+asr:0: OUTPUT 880.06-884.10: Additionally, energy costs continue to be stable. 
+asr:0: OUTPUT 884.44-891.85: Given our ability to source energy from our solar panel generation and natural gas cogeneration. 
+asr:0: OUTPUT 893.07-900.54: Collectively, it has enhanced ability to deliver attractively priced products in a timely manner. 
+asr:0: OUTPUT 901.16-911.01: And in turn, unlock opportunities to build new relationships, entrench ourselves with existing customers, and drive market share gain. 
+asr:0: OUTPUT 913.57-923.78: On slide number eight, we display the areas where we believe we have already made significant achievements across the ESG spectrum. 
+asr:0: OUTPUT 924.82-929.21: We were pleased to further highlight our commitment to environmental. 
+asr:0: OUTPUT 929.23-937.18: Social and governance responsibilities through our 2020 sustainability report published a few weeks ago. 
+asr:0: OUTPUT 938.78-941.40: Throughout our years as a public company. 
+asr:0: OUTPUT 941.54-950.15: We have worked to serve all of our stakeholders from implementing green technology, such as our 15 million. 
+asr:0: OUTPUT 950.17-954.17: Investment in solar technology for our facilities. 
+asr:0: OUTPUT 954.19-959.30: To our efforts to develop Tecnoglass as an employer of choice in Colombia. 
+asr:0: OUTPUT 960.00-964.22: By way of our investments in our employee and corporate culture. 
+asr:0: OUTPUT 965.89-974.27: On slide nine, we have provided a high-level view of the goals we will seek to achieve on a go-forward basis. 
+asr:0: OUTPUT 974.29-975.94: As outlined in our report. 
+asr:0: OUTPUT 976.92-985.15: We have designed and continuously implement strategies aimed to encourage the efficient use of materials and resources. 
+asr:0: OUTPUT 985.17-989.99: As well as the development of environmentally friendly technologies. 
+asr:0: OUTPUT 991.03-997.70: We also look to responsibly manage the value chain and the life cycle of the products we sell. 
+asr:0: OUTPUT 998.66-1007.51: And we do all of this to offer our partners innovative and best-in-class products that are environmentally friendly. 
+asr:0: OUTPUT 1007.53-1008.89: And energy efficient. 
+asr:0: OUTPUT 1010.07-1019.26: Technoglass remains dedicated to corporate social responsibility, and our 2020 reports marks another important milestone. 
+asr:0: OUTPUT 1019.28-1021.60: In our ESG journey. 
+asr:0: OUTPUT 1023.44-1029.93: Let's now discuss our third quarter financials, starting with revenue drivers on slide number 11. 
+asr:0: OUTPUT 1032.07-1041.10: Total revenues increased 26% year over year to a record $130.4 million for the third quarter. 
+asr:0: OUTPUT 1042.38-1048.09: In the U.S. Which represents 94% of our total revenues. 
+asr:0: OUTPUT 1048.49-1055.66: We saw growth of approximately 29% to a record 123.2 million. 
+asr:0: OUTPUT 1056.08-1060.46: Compared to 95.7 million in the prior year quarter. 
+asr:0: OUTPUT 1061.80-1071.59: This strength was primarily driven by strong growth in our single family housing activity in market share gains that I discussed previously. 
+asr:0: OUTPUT 1072.81-1083.16: This more than offset the air pocket in commercial activity as projects in our backlog that have resumed progress to the latter stage of construction. 
+asr:0: OUTPUT 1083.18-1086.07: When architectural glass is typically installed. 
+asr:0: OUTPUT 1087.57-1096.56: Based on conversations with customers, we believe commercial is on track to recover as we move early into 2021. 
+asr:0: OUTPUT 1099.12-1102.96: Looking at the drivers of adjusted EBITDA on slide number 12. 
+asr:0: OUTPUT 1104.82-1113.19: Adjusted EBITDA in the third quarter of 2021 increased 36.1% to a record $38.7 million. 
+asr:0: OUTPUT 1113.95-1117.98: Compared to $28.5 million in the prior year quarter. 
+asr:0: OUTPUT 1119.74-1123.72: Adjusted EBITDA margin was 29.7%. 
+asr:0: OUTPUT 1124.68-1131.87: A third quarter record and a strong 220 basis points improvement compared to the prior year period. 
+asr:0: OUTPUT 1134.01-1140.50: We were pleased to produce record third quarter gross profit on both a dollar and margin basis. 
+asr:0: OUTPUT 1142.38-1148.05: Our gross profit increased 28.7% to $51.6 million. 
+asr:0: OUTPUT 1148.91-1152.71: Representing a gross margin of 39.6%. 
+asr:0: OUTPUT 1154.03-1160.66: This compared to gross profit of 40.1 million in the prior year quarter. 
+asr:0: OUTPUT 1160.68-1164.56: Representing a gross margin of 38.8%. 
+asr:0: OUTPUT 1166.37-1179.64: Our 80 basis point improvement in margin was mainly attributable to greater operating efficiencies and a higher mix of revenue from manufacturing versus installation activity. 
+asr:0: OUTPUT 1179.66-1187.19: Given our increased mix of single-family residential products where we do not carry out installation. 
+asr:0: OUTPUT 1188.97-1192.47: Higher nominal operating expenses for the quarter. 
+asr:0: OUTPUT 1192.49-1199.74: Mainly reflected higher variable expenses related to marine and ground transportation and commissions. 
+asr:0: OUTPUT 1200.54-1209.85: As a percentage of revenue, operating expenses were lowered by 280 basis points compared to the prior year period. 
+asr:0: OUTPUT 1210.69-1218.48: Due to higher revenues and better operating leverage on personnel, professional fees, and other fixed expense. 
+asr:0: OUTPUT 1220.00-1225.19: Now, looking at our balance sheet and leverage profile on slide number 13. 
+asr:0: OUTPUT 1227.15-1233.59: To reiterate a point made in previous quarters, the recapitalization of our debt structure last October. 
+asr:0: OUTPUT 1233.61-1241.86: And our outstanding track record of cash flow generation has significantly enhanced our financial flexibility. 
+asr:0: OUTPUT 1243.26-1244.34: In the third quarter. 
+asr:0: OUTPUT 1244.36-1253.51: We were proud to record operating cash flow of $33 million at an 84% conversion from adjusted EBITDA. 
+asr:0: OUTPUT 1254.23-1260.74: Over the past 12 months, we have generated operating cash flow of $114 million. 
+asr:0: OUTPUT 1260.82-1264.58: Representing 85% of adjusted EBITDA. 
+asr:0: OUTPUT 1265.59-1276.00: Are higher margin, shorter cash cycle single family revenues combined with exceptional working capital management and low interest expense? 
+asr:0: OUTPUT 1276.02-1279.94: Are all helping to drive additional shareholder value. 
+asr:0: OUTPUT 1281.46-1285.77: Transformation in our ability to generate significant cash. 
+asr:0: OUTPUT 1285.97-1292.05: Leicester is well positioned to deploy capital opportunistically during the quarter. 
+asr:0: OUTPUT 1292.97-1301.02: To that end, we spent $10 million in growth capex in the quarter in order to address affected demand. 
+asr:0: OUTPUT 1301.82-1302.88: This move. 
+asr:0: OUTPUT 1302.90-1313.73: Aligns with our strategy to invest in further operational efficiencies, and allows us to prepare for the additional growth we expect in the quarters ahead. 
+asr:0: OUTPUT 1315.22-1323.46: We expect these investments to be operational late in the fourth quarter of 2021 or early first quarter of 2022. 
+asr:0: OUTPUT 1325.45-1337.22: In addition to investments in our operations, we use excess capital to voluntarily prepay 30 million of debt on their syndicated term loan facility during the quarter. 
+asr:0: OUTPUT 1339.06-1344.32: We were pleased to achieve our lowest leverage ratio in the company's history. 
+asr:0: OUTPUT 1344.34-1349.89: Which decreased to 0.9 times net debt to adjusted EBITDA at quarter end. 
+asr:0: OUTPUT 1351.51-1360.00: Furthermore, our joint venture with single bond to construct our previously announced second state of the art float glass planting, but I'm. 
+asr:0: OUTPUT 1360.58-1364.36: Remains on track to break ground in the first half of 2022. 
+asr:0: OUTPUT 1365.55-1371.71: As we discussed in the past, our capital contributions for that project have already been completed. 
+asr:0: OUTPUT 1372.29-1376.98: So we don't expect any additional CAPEX as it relates to the project. 
+asr:0: OUTPUT 1378.60-1381.52: Moving to our outlook on slide number 15. 
+asr:0: OUTPUT 1383.32-1388.77: Based on our strong third quarter performance and continued momentum in 2021. 
+asr:0: OUTPUT 1389.27-1396.94: As well as our solid demand outlook through year-end, we are increasing our full year 2021 outlook. 
+asr:0: OUTPUT 1398.16-1405.00: We now expect full year 2021 revenues of 485 to 495 million. 
+asr:0: OUTPUT 1405.13-1409.09: Representing growth of 31% at the midpoint. 
+asr:0: OUTPUT 1410.13-1414.91: We continue to expect the U.S. To represent the significant majority of our growth. 
+asr:0: OUTPUT 1416.68-1420.74: Based on these sales outlooks and anticipated mix of revenue. 
+asr:0: OUTPUT 1421.42-1428.51: We're raising our full year adjusted EBITDA outlook to a range of $140 to $145 million. 
+asr:0: OUTPUT 1428.63-1435.24: Representing 46% growth at the midpoint of the range as well as margin expansion. 
+asr:0: OUTPUT 1436.66-1444.24: Our gross margins should continue to benefit from our high return CAPEX investment in automation initiatives. 
+asr:0: OUTPUT 1444.26-1448.37: As well as our proven ability to efficiently manage costs. 
+asr:0: OUTPUT 1449.99-1455.62: A reminder, we do not carry out installation for our single family residential sales. 
+asr:0: OUTPUT 1456.26-1461.48: However, we do carry out installation for many of the commercial projects in our backlog. 
+asr:0: OUTPUT 1462.36-1466.51: Based on our strong year-to-date mix of single-family revenues. 
+asr:0: OUTPUT 1466.53-1478.02: And our faster growth in that end market, we still anticipate a larger mix of higher margin product versus installation revenue for full year 2013. 
+asr:0: OUTPUT 1478.08-1480.58: 2021 compared to the prior year. 
+asr:0: OUTPUT 1481.50-1489.53: That said, given the anticipated sequential increase in the mix of our commercial revenues, that includes installation,. 
+asr:0: OUTPUT 1489.55-1495.90: What are your thoughts on the global markets? 
+asr:0: OUTPUT 1498.24-1507.15: We expect CAPEX in 2021 to be approximately $35 million, with a large portion of these expenses going towards. 
+asr:0: OUTPUT 1507.17-1513.51: Further automation and growth investments to efficiently manage increasing demand for our product. 
+asr:0: OUTPUT 1514.47-1518.92: Maintenance CAPEX continues to represent less than 2% of our sales. 
+asr:0: OUTPUT 1520.44-1525.89: In summary, we are extremely pleased with our exceptional performance to date in. 
+asr:0: OUTPUT 1526.35-1534.69: And are happy to see strong returns from our business enhancements initiatives over the past few years. 
+asr:0: OUTPUT 1535.48-1540.34: Our balance sheet is stronger than ever in our very conservative leverage profile. 
+asr:0: OUTPUT 1540.36-1545.85: Position us well to generate ongoing value creation for our shareholders. 
+asr:0: OUTPUT 1546.93-1559.86: Looking ahead, we will continue to leverage our unique, very clean integrated platform to target new customer relationships to further penetrate the US single family residential market. 
+asr:0: OUTPUT 1560.00-1564.18: To our innovative products and superior lead times. 
+asr:0: OUTPUT 1565.35-1578.04: We believe these key differentiators, along with our prudent growth investment, will continue to provide greater returns for our shareholders as we move into 2022. 
+asr:0: OUTPUT 1579.28-1585.43: With that, we will be happy to answer your questions. Operator, please open the line for questions. 
+asr:0: OUTPUT 1587.33-1595.86: Thank you. We will now be conducting a question and answer session. If you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1596.56-1599.62: A confirmation tome will indicate your line is in the question queue. 
+asr:0: OUTPUT 1600.36-1603.42: You may press star two if you would like to remove your question from the queue. 
+asr:0: OUTPUT 1604.20-1612.01: For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. One moment please while we poll for questions. 
+asr:0: OUTPUT 1615.96-1624.58: Thank you. Our first question comes from a line of Tim Wodges with Baird. Please proceed with your question. Hey, everybody. Good morning. Nice job. 
+asr:0: OUTPUT 1626.41-1635.42: Good morning. Maybe just to start on residential, you know, obviously, you know, clearly a lot of momentum behind that business line. 
+asr:0: OUTPUT 1636.30-1644.86: I guess at this point, what's your visibility for residential into next year? I guess you just did basically $60 million in sales this quarter. 
+asr:0: OUTPUT 1645.89-1650.91: Do you think that's a proper kind of baseline to use moving forward? I mean, can we effectively annualize that? 
+asr:0: OUTPUT 1652.57-1661.40: Yes, I believe that is a bottom line as a matter of fact. We believe we're going to keep increasing our residential line. 
+asr:0: OUTPUT 1662.50-1663.90: And, uh... 
+asr:0: OUTPUT 1664.00-1673.13: 60 million per quarter is in line with what we believe is the bottom line for the economy. 
+asr:0: OUTPUT 1673.15-1675.56: For that line of business. 
+asr:0: OUTPUT 1676.58-1680.86: Okay. And when you think about the opportunity, maybe just even in Florida. 
+asr:0: OUTPUT 1681.54-1688.47: Could you give us some perspective how big the Florida market is on residential and kind of where your share is today? 
+asr:0: OUTPUT 1690.67-1696.20: I believe our share is perhaps 20%. 
+asr:0: OUTPUT 1697.02-1703.82: I don't believe it's too much. 
+asr:0: OUTPUT 1703.90-1708.03: A couple of them are even today larger than us. 
+asr:0: OUTPUT 1708.89-1712.51: I believe there is a lot of upside that we could gain. 
+asr:0: OUTPUT 1715.12-1722.42: Okay, that's good. And then maybe on the margin side, just on raw materials, I know you've had some favorable hedges on aluminum. 
+asr:0: OUTPUT 1723.72-1728.85: How do you think of that kind of normalizing and maybe any impact there on gross margins into next year? 
+asr:0: OUTPUT 1729.39-1733.77: You know we effectively be able to offset that with with pricing and and i guess anything with glass. 
+asr:0: OUTPUT 1734.99-1746.55: Yeah, so basically on the glass side, through our joint venture, we get stable pricing. So on the aluminum front is where you will have to kind of be mindful there, but with aluminum prices coming down, we don't foresee. 
+asr:0: OUTPUT 1746.57-1749.87: Any impact on margins going forward. 
+asr:0: OUTPUT 1750.01-1759.64: As we said, we see high 30s for the rest of the year, and into 2022, I don't expect that changing. Okay. Okay, great. Well, hop back in queue. Nice job. 
+asr:0: OUTPUT 1765.89-1767.41: With Raymond James. 
+asr:0: OUTPUT 1769.89-1772.51: Yes, good morning and thanks for taking my questions and congrats on the quarter. 
+asr:0: OUTPUT 1776.14-1780.08: Could you give us a sense of what the multi-max contribution was to single family in the quarter? 
+asr:0: OUTPUT 1781.48-1788.53: Yeah, so basically right now we're doing about $2 million per month on that, so it's ramping up nicely. 
+asr:0: OUTPUT 1789.57-1794.15: Still, a lot of the contribution was from the legacy products. 
+asr:0: OUTPUT 1795.14-1802.06: Furthermore, we didn't want, as I mentioned in the last call,. 
+asr:0: OUTPUT 1802.64-1809.47: We don't like to start doing too much of something because it's a new line for us. 
+asr:0: OUTPUT 1810.31-1812.43: And we like to make our mistakes bold. 
+asr:0: OUTPUT 1812.57-1820.18: So we now have a pretty good grip on how the line works. 
+asr:0: OUTPUT 1820.84-1824.10: What the customers want, how they like to receive. 
+asr:0: OUTPUT 1825.15-1830.07: And I believe that line is going to keep increasing for next year. 
+asr:0: OUTPUT 1832.35-1841.56: Got it. And you had some nice growth in the backlog. Was that pretty uniform throughout the US or did you see pockets of strength and weakness regionally? 
+asr:0: OUTPUT 1843.36-1849.41: Well, on the commercial side of outside of Florida,. 
+asr:0: OUTPUT 1849.99-1855.86: We saw a slowdown for a year and a half. 
+asr:0: OUTPUT 1856.18-1860.22: We weren't able to close as many jobs as we wanted to. 
+asr:0: OUTPUT 1861.02-1870.47: Because cities like New York, Boston, Chicago, they lagged behind everything else. 
+asr:0: OUTPUT 1871.43-1875.38: I mean behind Florida for example or behind Texas. 
+asr:0: OUTPUT 1876.48-1883.78: But now in the last month, after we closed the quarter, we have seen. 
+asr:0: OUTPUT 1884.14-1887.47: I mean a lot of closing jobs and. 
+asr:0: OUTPUT 1888.73-1895.34: Everything is speeding up and we believe in this quarter we're going to have record closings. 
+asr:0: OUTPUT 1895.96-1899.16: In those areas. So we see it coming up. 
+asr:0: OUTPUT 1899.86-1901.98: We are very enthusiastic now about it. 
+asr:0: OUTPUT 1904.02-1908.65: Good. And last one for me. Can you give us a sense of what the 2022 CAFX might look like? 
+asr:0: OUTPUT 1910.35-1919.24: Yeah, so it's going to be a step down. Obviously, we invested significantly in growth to be able to have the operational capacity to grow for the next couple of years. 
+asr:0: OUTPUT 1919.92-1925.89: So my guess is that we'll be around 10 to 15 million type CAPEX next year. 
+asr:0: OUTPUT 1927.77-1930.07: Thanks so much. Thanks Josh. 
+asr:0: OUTPUT 1932.85-1937.58: Our next question comes from the line of Julio Romero with Sudory. Please proceed with your question. 
+asr:0: OUTPUT 1940.02-1942.66: Hey, good morning. Thanks for taking my questions. Good morning. 
+asr:0: OUTPUT 1944.54-1949.95: So what are you guys hearing from customers in Florida in regards to your service proposition and, you know,. 
+asr:0: OUTPUT 1950.43-1954.65: Talk about how your lead times are trending compared to some of your competition in that area. 
+asr:0: OUTPUT 1956.04-1958.94: Early times have been steady. 
+asr:0: OUTPUT 1959.60-1966.89: We don't have that much constraint on materials and also our capacity. 
+asr:0: OUTPUT 1967.29-1972.47: We foresaw that. 
+asr:0: OUTPUT 1972.55-1979.42: We're going to have a lot of demand on the product, so we expanded before the upturn. 
+asr:0: OUTPUT 1979.68-1983.36: We have the capacity to keep shipping that. 
+asr:0: OUTPUT 1983.44-1985.79: 6 to 8 weeks. We're doing really good. 
+asr:0: OUTPUT 1985.95-1987.09: I'm very happy. 
+asr:0: OUTPUT 1988.23-1995.82: We do very good service and our windows, they don't need that much service. 
+asr:0: OUTPUT 1996.36-1998.86: That is one of the advantages that we have. 
+asr:0: OUTPUT 2004.12-2013.93: Douglas Goldstein, CFP®, is the director of Profile Investment Services and the host. 
+asr:0: OUTPUT 2014.57-2019.02: If you could just talk about how you think about your target leverage and maybe priorities for that. 
+asr:0: OUTPUT 2020.00-2021.68: Well, this is Christian. 
+asr:0: OUTPUT 2023.68-2028.29: We invested heavily the last couple of years. 
+asr:0: OUTPUT 2028.31-2038.20: On increasing the capacity and on being more efficient doing the product and it's paying off. 
+asr:0: OUTPUT 2039.18-2043.44: That's why with the increased capacity that we're installing today. 
+asr:0: OUTPUT 2044.00-2048.39: We're going to be able to continue to grow double digits. 
+asr:0: OUTPUT 2050.31-2058.86: As a matter of fact, we're going to try to be at least 20% bigger next year. 
+asr:0: OUTPUT 2059.40-2060.60: Better next year. 
+asr:0: OUTPUT 2061.06-2062.10: Oh no. 
+asr:0: OUTPUT 2062.30-2065.21: With the investment that we have made, we have all the capacity. 
+asr:0: OUTPUT 2065.65-2068.89: And obviously we're generating good cash. 
+asr:0: OUTPUT 2069.45-2076.52: And so the leverage is very stable and coming down here is Santiago. 
+asr:0: OUTPUT 2077.00-2080.36: Yeah, so we're down, we're below one time Julio. 
+asr:0: OUTPUT 2080.46-2084.22: I think our target when we started the year was two times. 
+asr:0: OUTPUT 2084.86-2092.75: So obviously we're very comfortable where we're at and have a lot of financial flexibility to undertake the growth that we're seeing. 
+asr:0: OUTPUT 2093.61-2100.92: I think for the foreseeable future we'll continue investing in CapEx, in growth, and if we need to repay further debt. 
+asr:0: OUTPUT 2101.12-2103.68: That'll be another way to use cash. 
+asr:0: OUTPUT 2104.34-2108.89: At this point, we're definitely well below our original target. 
+asr:0: OUTPUT 2112.09-2116.54: Okay, very nice quarter and best of luck in Q4. Thank you. 
+asr:0: OUTPUT 2120.00-2129.79: Comes from the line of Brent Thielman with DA Davidson. Please proceed with your question. Hey, thank you. Congrats as well. Great quarter. Thanks. How are you, Brent? 
+asr:0: OUTPUT 2132.17-2138.56: Yeah, thank you. I guess I wanted to ask a little bit about 2022 or see what I can get from you guys. 
+asr:0: OUTPUT 2138.72-2148.19: I assume that you're going to see a higher mix of installation as you convert some of this backlog, but your residential strength is unbelievable. 
+asr:0: OUTPUT 2148.31-2160.32: And I guess I'm trying to think about the impact to margins. If the residential business got into a base that's large enough to offset that mixed impact you might see next year from installation. 
+asr:0: OUTPUT 2161.54-2162.64: That's correct. 
+asr:0: OUTPUT 2162.78-2171.57: And that's how we're seeing it. I think both factors will upset each other. So even if we have more installation, we think that we can maintain gross margins. 
+asr:0: OUTPUT 2173.05-2182.44: Furthermore, on that subject, I want to clarify that we only do installation in Florida. 
+asr:0: OUTPUT 2183.16-2190.33: We refrain from doing any installation in Texas or outside that we were doing before. 
+asr:0: OUTPUT 2191.15-2198.68: So since we're selling a lot now outside of Florida without installation,. 
+asr:0: OUTPUT 2199.34-2211.01: Even if the installation ramps up in Florida with the increased selling outside of Florida without installation and the residential picking up. 
+asr:0: OUTPUT 2211.75-2219.10: And the commercial projects for big size are running unbelievably high. 
+asr:0: OUTPUT 2219.76-2223.76: I believe the margins are going to stay the same or even better perhaps. 
+asr:0: OUTPUT 2226.75-2232.33: I guess I wanted to ask as well, I seem to be navigating. 
+asr:0: OUTPUT 2232.39-2240.66: Higher logistics environment very well. I guess the increase in onshore freight rates impacted your ability at all to penetrate more of these. 
+asr:0: OUTPUT 2241.18-2243.42: Sort of inland markets, not the southeast. 
+asr:0: OUTPUT 2244.16-2248.05: Maybe Midwest and elsewhere, or is that negligible? 
+asr:0: OUTPUT 2249.19-2253.83: Yeah, PRACE has been coming up lately. 
+asr:0: OUTPUT 2254.43-2260.08: We have seen an increase like 30% or 40% in the rates. 
+asr:0: OUTPUT 2260.56-2265.59: But a container takes. 
+asr:0: OUTPUT 2265.61-2271.81: Between $40,000 to $80,000 of materials inside. 
+asr:0: OUTPUT 2271.95-2276.86: So the freight is still a small amount. 
+asr:0: OUTPUT 2276.92-2282.58: Like less than 5% of cost of product in transportation. 
+asr:0: OUTPUT 2283.22-2292.75: We have passed the cost over to customers. Unfortunately, we have to do it. 
+asr:0: OUTPUT 2294.15-2300.00: We are trying to open new ways of shipping to Miami. 
+asr:0: OUTPUT 2300.44-2307.65: To Cartagena, which is a much bigger port than Barralquilla, to see if we can lower the cost of shipping. 
+asr:0: OUTPUT 2311.57-2315.64: I guess maybe one more on multi-max. 
+asr:0: OUTPUT 2316.38-2318.58: Just be interested in any. 
+asr:0: OUTPUT 2318.60-2329.23: Through milestones and successes you've had recently with new builders and any targets or objectives you guys can share for that business for the rest of this year or even 22 if you're willing. 
+asr:0: OUTPUT 2330.95-2338.00: All the builders that we have been selling to, we have like six accounts. 
+asr:0: OUTPUT 2338.02-2344.14: They're all happy with the product. The product performs much better than the competition. 
+asr:0: OUTPUT 2344.64-2347.41: Is better looking, more modern style. 
+asr:0: OUTPUT 2348.43-2355.01: And it has much better glass, it doesn't break as much. 
+asr:0: OUTPUT 2355.16-2359.78: Or very negligently in our case. 
+asr:0: OUTPUT 2360.54-2371.09: And they are repeating and keep ordering and ordering and giving us new faces of what they're doing. 
+asr:0: OUTPUT 2371.91-2374.53: I see that business increasing. 
+asr:0: OUTPUT 2374.57-2383.70: And like I said before, we don't like to go into a business and go like crazy and then not know how it works. 
+asr:0: OUTPUT 2383.78-2386.15: They make big mistakes and lose clients. 
+asr:0: OUTPUT 2387.01-2394.43: We started, we're doing good, they're happy. We fixed a few things that they didn't like. 
+asr:0: OUTPUT 2395.30-2399.60: And the way in which we shipped, the lead times. 
+asr:0: OUTPUT 2400.46-2405.69: And the packing, now they're all happy and we're more happy than they are. 
+asr:0: OUTPUT 2409.67-2411.17: Maybe one more for me, just. 
+asr:0: OUTPUT 2411.77-2419.72: It doesn't seem like you need to do M&A, but is it something you're looking at? What would that look like if you were? 
+asr:0: OUTPUT 2423.24-2430.67: To us mergers and acquisitions would make sense on buying a company. 
+asr:0: OUTPUT 2430.69-2433.63: That we don't have the know-how. 
+asr:0: OUTPUT 2435.06-2443.30: And for now, we have looked at many things and nothing is attractive enough. 
+asr:0: OUTPUT 2443.62-2450.41: For the moment to even mention it or to do anything emergency like acquisitions with. 
+asr:0: OUTPUT 2451.29-2458.10: We believe we can develop the market and grow organically. It costs a lot less. 
+asr:0: OUTPUT 2458.36-2462.82: And look at our balance sheet. I mean, it speaks by itself. 
+asr:0: OUTPUT 2465.85-2467.89: Absolutely. Well, thank you for taking the question. 
+asr:0: OUTPUT 2469.67-2477.28: Thanks, Brian. Our next question comes from the line of Alex Riegel with B. Reilly. Please proceed with your question. 
+asr:0: OUTPUT 2479.00-2480.80: Thank you and also great quarter here. 
+asr:0: OUTPUT 2482.28-2486.31: Coming back to the MultiMax product and your other residential products. 
+asr:0: OUTPUT 2486.59-2496.00: How many states are you now selling that product into? And how should we think about geographic growth in 2022 for that U.S. Residential? 
+asr:0: OUTPUT 2497.56-2500.00: Well actually we're now selling. 
+asr:0: OUTPUT 2501.06-2507.11: 99% in Florida, we have sold, like I said the last time,. 
+asr:0: OUTPUT 2507.27-2513.33: We are doing some tryouts in South Carolina, North Carolina. 
+asr:0: OUTPUT 2513.35-2514.47: In Texas. 
+asr:0: OUTPUT 2517.34-2523.04: And they have been really successful, people are happy, we are learning. 
+asr:0: OUTPUT 2523.26-2532.77: And we plan to step it up, especially from January on. 
+asr:0: OUTPUT 2532.81-2537.86: This comic corner, I mean the corner that we're in,. 
+asr:0: OUTPUT 2537.98-2547.59: We're going to keep doing a little business, learning the trade, how they like to be packed, how they like to receive, get all the feedback. 
+asr:0: OUTPUT 2548.39-2556.98: And finalized the development of a couple of products that we were missing in those areas. 
+asr:0: OUTPUT 2557.62-2561.04: And for next year, we expect. 
+asr:0: OUTPUT 2561.06-2567.95: Those estates to start buying and increase the purchasing month by month. 
+asr:0: OUTPUT 2571.37-2575.40: And then turn it over to the US commercial business which was down in the third quarter. 
+asr:0: OUTPUT 2576.24-2583.40: You obviously have very positive comments with regards to the backlog of that business and the reopening of that business. 
+asr:0: OUTPUT 2583.58-2587.81: How should we think about modeling the US commercial business in 2022? 
+asr:0: OUTPUT 2587.93-2593.71: I suspect it's a little bit more sort of backend loaded in 2022, but your comments would be helpful. 
+asr:0: OUTPUT 2595.96-2604.74: Well, in 2020, we expected a downturn for 2022 in the commercial outside of Florida. 
+asr:0: OUTPUT 2605.27-2606.87: Because Florida is booming. 
+asr:0: OUTPUT 2607.97-2616.06: And we were expecting that, but now that there are a lot of closings, we believe we're going to be. 
+asr:0: OUTPUT 2616.08-2618.74: Part with the year. 
+asr:0: OUTPUT 2619.72-2622.06: And he looks a little better. 
+asr:0: OUTPUT 2622.52-2623.96: In 2023. 
+asr:0: OUTPUT 2624.84-2628.87: It's gonna look a lot better than 2022 or 2021. 
+asr:0: OUTPUT 2631.73-2634.75: Thank you very much. 
+asr:0: OUTPUT 2636.72-2644.98: Thank you. We have reached the end of the question and answer session. I would now like to turn the floor back over to Mr. Jose Manuel Diaz for further comment. 
+asr:0: OUTPUT 2649.31-2652.57: Well thanks everyone for participating on today's call. 
+asr:0: OUTPUT 2653.85-2661.48: We hope to keep doing our job and having a lot of good news for sure. 
+asr:0: OUTPUT 2661.68-2663.30: Thank you so much. 
+asr:0: OUTPUT 2665.71-2673.47: Ladies and gentlemen, this does conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation and have a wonderful day. 
+asr:0: END

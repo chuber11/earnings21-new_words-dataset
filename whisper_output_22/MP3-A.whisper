@@ -1,0 +1,569 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.00-5.00: Of Nigeria PLC's Q1 2020 investor conference call. 
+asr:0: OUTPUT 6.03-9.21: My name is Abay Omugunobi and I'll be your host for this call. 
+asr:0: OUTPUT 10.89-17.44: Please note that this call is being recorded and there are a few housekeeping rules to take note of as we proceed. 
+asr:0: OUTPUT 18.58-26.21: All participants are expected to mute their audio calls. At the end of the presentation, there will be a Q&A session. 
+asr:0: OUTPUT 27.25-34.31: If you have any questions, please indicate by clicking the hundreds icon at the bottom right of the participant list. 
+asr:0: OUTPUT 35.82-41.54: Today's call will be chaired by the President, Group Chief Executive Officer, Mrs. Owen Omodiafo. 
+asr:0: OUTPUT 42.32-48.65: Joining the president, group CEO and I on this call are the group chief financial officer. 
+asr:0: OUTPUT 49.45-50.83: Mr. Mutil Bakare. 
+asr:0: OUTPUT 51.59-57.70: The Managing Director of CEU, Transport Power Limited, Mr. Chris Rufa, is here for you. 
+asr:0: OUTPUT 58.46-63.88: The managing director of TransCorp Hotels, PLC, Mrs. Dupe Olusola. 
+asr:0: OUTPUT 65.81-72.03: Executive Director, CEO, Transco Power Limited, Mrs. Kiyama Uizwa. 
+asr:0: OUTPUT 73.03-79.24: Executive director CEO TransCorp Hotels PLC Mrs. Ellen Iwuchukwu. 
+asr:0: OUTPUT 80.08-82.64: This also includes other members of the management team. 
+asr:0: OUTPUT 84.34-94.07: Just before I invite the President, Group CEO to give a remarks, I would like to draw your attention to the fact that certain statements made on this call are flawed looking. 
+asr:0: OUTPUT 94.87-96.68: Involving risk and uncertainties. 
+asr:0: OUTPUT 97.46-106.77: These statements include but are not limited to statements regarding the future performance of TransCorp, impact of COVID-19 on its business. 
+asr:0: OUTPUT 107.77-112.93: As such, actual performance may deviate from expectations for a variety of reasons. 
+asr:0: OUTPUT 113.85-120.26: Hence, please note that neither the transnational corporation of Nigeria PLC or any of its associates. 
+asr:0: OUTPUT 120.54-126.23: Or employees can be held responsible for deviation of actual performance from the focus. 
+asr:0: OUTPUT 127.85-133.23: At this point, it is my pleasure to invite the President, Group CEO, to give a remark. 
+asr:0: OUTPUT 137.62-143.46: So good morning everyone. Thank you Abayomi for that introduction and welcome to everyone on the call. 
+asr:0: OUTPUT 144.02-151.13: So my name is Owen Omogiafo. I'm the President and Group Chief Executive of Transnational Cooperation of Nigeria, TRANSCOP. 
+asr:0: OUTPUT 151.87-160.44: So we really appreciate your joining us today. And the structure of the presentation, we'll spend about 30, 35 minutes talking you through our presentation. 
+asr:0: OUTPUT 160.86-164.48: And we'll go into Q&A because we really want to hear from you. 
+asr:0: OUTPUT 165.11-169.97: So very quickly, we go into the overview of the market, what's going on. 
+asr:0: OUTPUT 170.51-176.24: Learning about TransCorp, that will be slide five. You have the slides with you, so slide five. 
+asr:0: OUTPUT 176.64-186.23: Transcore as you know is a listed company with approximately 300,000 shareholders and we have a commanding presence in power, energy and hospitality sectors. 
+asr:0: OUTPUT 187.01-197.76: We continue to maintain an aggressive growth strategy, underpinned by our core values of execution, enterprise and excellence, towards delivering our purpose of improving lives and transforming Nigeria. 
+asr:0: OUTPUT 199.64-207.27: Our investment philosophy is one that is geared towards delivering long-term shareholder returns as well as socioeconomic impact. 
+asr:0: OUTPUT 207.29-209.79: Through a solid corporate governance culture. 
+asr:0: OUTPUT 209.81-211.57: High growth capacity. 
+asr:0: OUTPUT 212.25-218.52: Ruthless focus on operational efficiency and of course return on investment for everyone involved in the group. 
+asr:0: OUTPUT 219.80-221.94: So at a glance, we have three pillars. 
+asr:0: OUTPUT 222.34-228.91: We have the Transcor Power, Transcor Hotels and the Transcor OPL281 which is our oil and gas business. 
+asr:0: OUTPUT 229.31-237.08: And is the owner and operator of OPL 281 block which has an estimated oil reserve of 187.9 million barrels. 
+asr:0: OUTPUT 237.44-241.48: And a gas capacity of about 380 standard cubic feet. 
+asr:0: OUTPUT 242.04-251.83: Transcorp Hotels, with the proud owner of the pride of the nation, Transcorp Hilton Abuja, which is a five-star hotel, boasting 670 rooms as well as. 
+asr:0: OUTPUT 251.85-256.58: World-class conferencing facilities following the $100 million upgrade that was. 
+asr:0: OUTPUT 256.70-257.82: Completed last year. 
+asr:0: OUTPUT 258.34-264.06: Also the proud owner of Transcoff Hotels Calabar is three star property but that is the pride of that region. 
+asr:0: OUTPUT 264.42-271.21: Having 132 rooms and the preferred destination for business conferences in that region. 
+asr:0: OUTPUT 271.57-276.18: In the meantime, we look to expand to Lagos being core to the nation. 
+asr:0: OUTPUT 276.70-281.62: For Transcorp Power, we have an asset in Transcorp Power right now in Ugeli. 
+asr:0: OUTPUT 282.02-290.45: Which is called Transcore Power Limited there. We have an installed capacity of 972 megawatts. It's a gas-fired plant. 
+asr:0: OUTPUT 290.93-298.18: But in the long term, our vision is to achieve about 25% of the power generated in Nigeria. So that is the group at a glance. 
+asr:0: OUTPUT 298.84-307.05: Going further, I'll just quickly run through some of the milestones. You are familiar with these milestones, but sometimes it's good to highlight it to talk about it again. 
+asr:0: OUTPUT 307.55-311.11: So we keep in mind our critical milestone. 
+asr:0: OUTPUT 311.67-315.78: Our Dear Company Transco was incorporated in 2004. 
+asr:0: OUTPUT 316.36-319.98: It was listed in 2006 on the Nigeria Stock Exchange. 
+asr:0: OUTPUT 320.48-326.39: In 2011, Ayers Holdings became a core investor. So that was the phase one of our journey. 
+asr:0: OUTPUT 326.89-331.91: Then I'll face two of our journey which runs with a timeline of 2012 to 2018. 
+asr:0: OUTPUT 332.89-341.18: Our foray into the power business started in that period where we emerged, Transcore Power Ulele emerged as the preferred leader for Ulele power plant. 
+asr:0: OUTPUT 341.58-345.41: And following the successful execution of that deed. 
+asr:0: OUTPUT 345.85-350.85: We went further to do a merger of TransCorp, TransCorp Uleli Power Plant Limited and Uleli. 
+asr:0: OUTPUT 350.93-358.40: And then emerge the company that today you know as TransCorp Power Limited that is led by Chris Ezeafolukwe as the managing director. 
+asr:0: OUTPUT 359.36-360.84: And the hospitality business. 
+asr:0: OUTPUT 362.16-369.95: With our hospitality business, we executed successfully the management agreement that extended our play in the hospitality in Nigeria. 
+asr:0: OUTPUT 370.41-377.48: And we acquired additional land for our Ikoi property. So that shows our growth in hospitality. 
+asr:0: OUTPUT 378.18-385.13: We also, in that period, Transcorp Hotels was also listed on the Nigerian stock market. It was listed in the. 
+asr:0: OUTPUT 385.67-392.47: It was listed on the Madras stock market, giving us the position of having a listed company within Transcore. 
+asr:0: OUTPUT 392.89-397.16: Similarly, we achieved the listing of our bond in that period. 
+asr:0: OUTPUT 397.58-402.22: Now we are in the phase three, which is our 2019 to 2025 strategy. 
+asr:0: OUTPUT 402.82-408.17: In this period, as we're at 2020 now, we've also achieved some milestones in that. 
+asr:0: OUTPUT 408.65-411.79: We recently emerged as a preferred bidder for Afam. 
+asr:0: OUTPUT 412.29-420.54: And with that, imagine that preferred bidder, we are going closer towards our medium strategy of generating 25% of power in Nigeria. 
+asr:0: OUTPUT 420.90-426.31: Meaning that we're going to be responsible for one in four Nigerians having electricity. 
+asr:0: OUTPUT 426.85-432.11: We've also been admitted as members of the West African Power Pool, which will be very significant. 
+asr:0: OUTPUT 432.45-443.36: And we shall continue to explore opportunistic investments in this power sector through renewable energy and off-grid solutions, power being critical to the transformation of Africa. 
+asr:0: OUTPUT 444.36-446.25: For our hospitality sector. 
+asr:0: OUTPUT 446.27-452.73: Notable to mention that last year we got, we issued the certificate of discharge by the. 
+asr:0: OUTPUT 452.75-464.36: National Council of Privatization on the purchase of the iron transcorpionate abuja will continue to sweat our existing assets as well as expand into new businesses and locations by pursuing. 
+asr:0: OUTPUT 464.38-465.53: Various strategies. 
+asr:0: OUTPUT 465.89-472.55: For the oil and gas, we'll commence production of oil and gas in OPL281 and acquire new assets as required. 
+asr:0: OUTPUT 474.05-479.56: So just this talks about this slide is showcasing our leadership. It's here for your information. 
+asr:0: OUTPUT 479.92-487.47: The CEOs on the call with us, so Muti, you know, I see other key executives that are part of the group as well. 
+asr:0: OUTPUT 489.93-495.10: So looking at the operating environment, that's the big thing going on now is really about the COVID. 
+asr:0: OUTPUT 495.42-500.40: The COVID-19 has been the greatest impact right now, even though there are other things that are affecting. 
+asr:0: OUTPUT 500.84-509.07: As of date, we have said that about 5 million people are infected by the virus, with 3300,000 deaths recorded. 
+asr:0: OUTPUT 509.41-513.15: On the other hand, we are also having significant figures in terms of recovery. 
+asr:0: OUTPUT 513.95-520.00: There have been lockdowns across which have affected various businesses. Worthy to note that. 
+asr:0: OUTPUT 520.10-527.31: The global economy is predicted to lose roughly $2.7 trillion as a result of this pandemic. 
+asr:0: OUTPUT 528.19-536.74: Has particularly estimated that the tourism industry would lose about $252 billion out of that $2.7 million. 
+asr:0: OUTPUT 537.26-539.20: Another critical thing that has happened is that. 
+asr:0: OUTPUT 539.38-549.35: Nigeria is the drop in the oil in the global commodity prices with oil prices crashing and in fact in April it was shown to be trading at. 
+asr:0: OUTPUT 549.51-552.23: And the negative in that period. 
+asr:0: OUTPUT 553.35-561.94: Now bringing it home to us in Nigeria, what does this mean for us? That would be slide 12, bringing it home to us in Nigeria. Our cases are ramping up. 
+asr:0: OUTPUT 562.80-568.81: The dates of the presentation. We had 5,000 cases, but today our cases are well over 8,000. 
+asr:0: OUTPUT 569.31-573.57: The stock exchange is reputed to have lost about 2.5 trillion. 
+asr:0: OUTPUT 574.59-576.08: But it's not all. 
+asr:0: OUTPUT 576.28-584.64: We've also had economic stimulus measures both on the fiscal and the monetary side with intervention funds put in place for the. 
+asr:0: OUTPUT 584.66-587.37: Of the crisis intervention funds put in place. 
+asr:0: OUTPUT 587.51-595.46: And the different things put in place as it relates to creating respites to businesses at this time so that there is survival for the economy. 
+asr:0: OUTPUT 595.92-605.43: One of our businesses has also been a beneficiary of the moratorium that was put in place, the three-month repayment moratorium put in place on the federal government-funded loans. 
+asr:0: OUTPUT 606.33-614.91: Now, as a group, we've been very responsive. We've been proactive in our response to the coronavirus pandemic, happening now as COVID-19. 
+asr:0: OUTPUT 616.08-618.36: Transcorp Power is an essential business. 
+asr:0: OUTPUT 618.72-626.43: But despite being an essential business and us remaining open throughout that period, we've put in a lot of plans to ensure that our staff were able to generate power. 
+asr:0: OUTPUT 626.45-628.95: Under the safest conditions possible. 
+asr:0: OUTPUT 629.31-639.24: In the hospitality sector as well, we very quickly put in measures in place from the sanitizers to the thermometers and co. When the CEOs speak, they will spend, they will talk a bit more about that. 
+asr:0: OUTPUT 639.60-647.01: But as a group we've deployed our robust technology infrastructure and our modern style of working that we already had in place. 
+asr:0: OUTPUT 647.23-651.81: And we transited into a work from home very quickly, very early, and we continued. 
+asr:0: OUTPUT 652.21-659.02: Notable to mention that we successfully held our annual general meeting online. I want to believe that you participated in it. 
+asr:0: OUTPUT 659.78-663.86: Was actually the first on this. 
+asr:0: OUTPUT 664.90-670.25: Moving on quickly, we just have some macro indicators here that is just for you to note. 
+asr:0: OUTPUT 670.55-676.16: We won't spend too much time on it. It's just for us to note the indices that are going on here. 
+asr:0: OUTPUT 676.80-681.10: And now at this point, I'll take a pause and invite the group CFO. 
+asr:0: OUTPUT 681.14-687.83: Mr. Mutiu Bakary to take us through the group financial performance during this for Q1. Thank you. 
+asr:0: OUTPUT 689.87-697.10: Thank you very much, Owen, and good afternoon, everyone. The financial highlight is on page 16 of the presentation. 
+asr:0: OUTPUT 698.34-703.04: If you look at the page, the revenue for the period under review was $15.3 billion. 
+asr:0: OUTPUT 703.58-711.15: And when compared to 18.3 billion in Q1 2019, there is a reduction of about 16% in revenue. 
+asr:0: OUTPUT 712.45-718.00: The reduction in revenue is mostly due to the reduction in the revenue from our part business. 
+asr:0: OUTPUT 718.38-723.84: So there are a lot of things that happen in the power business that we're going to talk about when we get to this segment. 
+asr:0: OUTPUT 724.32-730.91: So, but majorly the reduction in the revenue for the group is because of the reduction in the revenue from the power business. 
+asr:0: OUTPUT 732.17-735.84: The gross profit for Q1 2020 was 7.3 billion. 
+asr:0: OUTPUT 736.30-739.58: I say it gets 8.1 billion in Q1 2019. 
+asr:0: OUTPUT 740.00-747.33: This represented a decline of 10% in gross profit. And this is because of the reduction revenue mentioned earlier. 
+asr:0: OUTPUT 748.35-757.94: The group earned the period with a profit before tax of $137 million as they get $2.5 billion posted in Q1 2019. 
+asr:0: OUTPUT 760.00-761.90: For the financial position. 
+asr:0: OUTPUT 761.92-768.15: The total assets declined slightly from 313 billion at the end of 2019. 
+asr:0: OUTPUT 768.17-772.07: To 311 billion at the end of Q1 2020. 
+asr:0: OUTPUT 773.35-778.02: This was largely because of the significant decline in trade and order receivable. 
+asr:0: OUTPUT 778.32-783.90: And this is because we receive a lot of money towards our receivable during the period under review. 
+asr:0: OUTPUT 784.88-791.87: In the same vein, the total liabilities for the period reduced from $204 billion. 
+asr:0: OUTPUT 791.89-797.14: In 2019 to 2 or 3 billion as at the end of Q1 2020. 
+asr:0: OUTPUT 797.72-802.54: And this is because of the payments that we're calling in towards our outstanding liabilities. 
+asr:0: OUTPUT 803.86-812.65: The shared house fund reduced slightly from 108 billion at the end of 2019 to 107 billion in Q1 2020. 
+asr:0: OUTPUT 813.79-818.60: The reason for this is because of the impact of the loss on the traded equities. 
+asr:0: OUTPUT 819.34-824.94: This is treated as other comprehensive income. That's why it is impacting the shareholders fund. 
+asr:0: OUTPUT 827.15-834.33: If you go to slide 17, so this basically shows the breakdown of our revenue between the segments. 
+asr:0: OUTPUT 834.69-842.58: So as you can see from the slide, the power contributes more than 70% of the group revenue. 
+asr:0: OUTPUT 842.98-849.21: And this explains why the performance of power actually impacts the overall group performance. 
+asr:0: OUTPUT 849.29-853.11: Because the segment contributes more than 70% of our revenue. 
+asr:0: OUTPUT 853.75-861.92: And if you look at the slide, the revenue contribution from power declined from 77% in Q1 2019. 
+asr:0: OUTPUT 861.94-864.94: To 73% in Q1 2020. 
+asr:0: OUTPUT 865.39-875.01: This is basically because of the challenges we face in our power sector related to the issue of gas supply as well as transmission infrastructure. 
+asr:0: OUTPUT 875.30-878.48: So when we get to power segments, we talk more about this. 
+asr:0: OUTPUT 879.46-886.59: Transport process contribution increased from 23% in Q1 2019 to 27% in Q1 2020. 
+asr:0: OUTPUT 887.19-894.97: At this point, I will hand over to Chris to take us through what happened in power and what you are doing to manage the situation. Thank you. 
+asr:0: OUTPUT 900.12-907.55: You've already provided the number so I'll go ahead to. 
+asr:0: OUTPUT 907.57-912.19: Explain as you can see on page 19. 
+asr:0: OUTPUT 912.61-922.36: Basically, this page actually speaks to, again, some macros, some facts relating to power generation on the left side. 
+asr:0: OUTPUT 922.66-931.91: You can see that the gas thermal plants still have the chunk of contribution to our electricity generation mix in the country. 
+asr:0: OUTPUT 932.89-939.72: On the next page, we'll see the summary of the challenges we've had to deal with. 
+asr:0: OUTPUT 940.76-943.98: Inadequate gas supply already spoken about. 
+asr:0: OUTPUT 944.88-963.68: The low load offtake which has to do with transmission challenges and of course the fact that the distribution companies in terms of infrastructure capacity are not able to take as much load as the GENCOs are able to come up with including us. 
+asr:0: OUTPUT 963.88-971.63: The entire shortfall has also continued to also result in the poor remittances by the discos. 
+asr:0: OUTPUT 971.75-979.30: And of course, the summary of all this, as you see number four, is the liquidity crunch, which we have continued to deal with. 
+asr:0: OUTPUT 980.72-986.99: However, when we look at page 21, there are some key improvements that have happened. 
+asr:0: OUTPUT 987.67-991.85: In terms of payment, there has been improvement by MBEC. 
+asr:0: OUTPUT 992.37-996.38: So, we have received additional payments from EMBED. 
+asr:0: OUTPUT 996.82-1004.62: Which has kind of helped in alleviating our situation or rather improving our situation. 
+asr:0: OUTPUT 1004.97-1007.83: Increase generation capacity also. 
+asr:0: OUTPUT 1007.85-1017.56: Because there are quite some number of turbines that have returned to service across Genco's. Then there's a positive attitude of government. 
+asr:0: OUTPUT 1017.60-1020.62: Towards resolving the power sector issue. 
+asr:0: OUTPUT 1021.12-1027.05: And one of the developments around this is the setting up of the Power Sector Reform Working Group. 
+asr:0: OUTPUT 1027.11-1031.73: Which is headed by the Vice President and to which the Euro 5 committee. 
+asr:0: OUTPUT 1032.21-1034.23: Has also reported. 
+asr:0: OUTPUT 1034.93-1038.70: So the next point is the performance improvement plan. 
+asr:0: OUTPUT 1038.72-1046.91: Which the regulator has continued to use to request performance improvement from the distribution companies. 
+asr:0: OUTPUT 1047.69-1053.53: Then when we move on, we'll see that the gas supply already spoken to again. 
+asr:0: OUTPUT 1054.05-1060.24: The summary of the challenges we had, the good news is that all those challenges were actually resolved. 
+asr:0: OUTPUT 1060.52-1063.42: And so towards the end of the first quarter. 
+asr:0: OUTPUT 1063.52-1075.36: We experienced increased gas supply, which also informed the increased generation we started experiencing from the end of first quarter compared to. 
+asr:0: OUTPUT 1075.38-1079.58: What has been since last quarter of last year. 
+asr:0: OUTPUT 1080.22-1082.04: In terms of way forward. 
+asr:0: OUTPUT 1082.34-1088.17: We had activated our gas supplier agreement. 
+asr:0: OUTPUT 1088.49-1093.99: With our gas suppliers, MPDC and ND West and JV. 
+asr:0: OUTPUT 1094.81-1104.84: Prior to that activation, we got gas on best endeavor because of the industry challenge that we have had in the power sector. So, the success of Genco's. 
+asr:0: OUTPUT 1104.86-1107.19: Had not been able to. 
+asr:0: OUTPUT 1107.21-1111.11: Activate their gas supply agreements. 
+asr:0: OUTPUT 1111.17-1112.77: But we eventually did that. 
+asr:0: OUTPUT 1113.15-1120.10: And what that has done in terms of significance is that from best endeavor arrangement, we now have. 
+asr:0: OUTPUT 1120.12-1127.01: Contractual obligation on the part of our gas suppliers to provide us with $124 million worth of gas per day. 
+asr:0: OUTPUT 1127.55-1131.27: And this will continue to result in increased generation. 
+asr:0: OUTPUT 1131.57-1134.17: We're equally making additional. 
+asr:0: OUTPUT 1134.19-1141.74: Efforts to get additional gas supply to our plant, knowing fully well that at the end of the year. 
+asr:0: OUTPUT 1141.76-1146.77: Our available capacity would improve, will increase. 
+asr:0: OUTPUT 1147.49-1150.17: Transmission, we only had one grip collapse. 
+asr:0: OUTPUT 1150.21-1152.31: And in terms of way forward,. 
+asr:0: OUTPUT 1152.35-1160.30: Will continue to monitor developments. We are glad about the movement that is taking place around the Siemens Agreement. 
+asr:0: OUTPUT 1160.38-1163.86: And this means that the federal government entered into. 
+asr:0: OUTPUT 1164.02-1171.35: Which is supposed to lead to increased infrastructure capacity in terms of distribution and transmission. 
+asr:0: OUTPUT 1172.77-1176.28: Well, for commercial matters, that's on page 24. 
+asr:0: OUTPUT 1177.00-1182.86: We still have outstanding receivables, no doubt about that, even though we've increased the payment. 
+asr:0: OUTPUT 1183.40-1196.76: And so, however, with the payment assurance plan, which was extended by the $600 billion that was made available to embed by the federal government, we are short of continued payment, just like the last set we received. 
+asr:0: OUTPUT 1197.56-1200.00: With respect to the legacy that's. 
+asr:0: OUTPUT 1200.32-1209.43: We are also engaging government and governmental agencies in the power sector to find solutions to that. 
+asr:0: OUTPUT 1211.17-1220.74: The financials are on page 25. The CFO had already spoken to them at large. So, basically, the figures are there showing. 
+asr:0: OUTPUT 1220.96-1225.21: The changes and the differences in terms of performance. 
+asr:0: OUTPUT 1225.39-1230.93: When you compare Q1 2019 and Q1 2020. 
+asr:0: OUTPUT 1232.37-1239.80: In summary, we took some hits, as you would see there, as I've been explaining. However,. 
+asr:0: OUTPUT 1239.82-1242.52: We also were able to. 
+asr:0: OUTPUT 1242.54-1250.81: Decline our operating expenses by 8% and this was due to some strategic. 
+asr:0: OUTPUT 1250.83-1259.64: Some strategies that were adopted by management to ensure that certain repairs and maintenances were not outsourced. 
+asr:0: OUTPUT 1259.68-1264.44: We utilize the skills we had in-house to be able to fix them. 
+asr:0: OUTPUT 1268.35-1274.27: The next slide basically is a graphic representation of our capacity utilization. 
+asr:0: OUTPUT 1274.29-1280.12: Compared to gas we consumed. That's the upper side. And on the lower side, it's. 
+asr:0: OUTPUT 1280.30-1287.33: Our available capacity compared to generated capacity in terms of megawatts. 
+asr:0: OUTPUT 1287.67-1290.69: So that's the summary of the story for the power. 
+asr:0: OUTPUT 1290.71-1297.92: And at this point, I'll hand over to Dukbe to also make the presentation on hospitality. Thank you. 
+asr:0: OUTPUT 1322.16-1326.51: Okay, apologies about that. Thank you very much, Chris, and good afternoon again, everyone. 
+asr:0: OUTPUT 1328.09-1334.51: I would like to just take you through the overview of the hospitality sector and as it has affected us. 
+asr:0: OUTPUT 1334.99-1341.02: The contribution of the hospitality sector continues to be quite significant in Nigeria and indeed across the world. 
+asr:0: OUTPUT 1341.70-1344.36: In terms of contribution to our real GDP,. 
+asr:0: OUTPUT 1344.70-1349.21: We had about 638 billion as of 2019. 
+asr:0: OUTPUT 1349.49-1355.96: The sector continues to be a key significant contributor in terms of human recruitment and employee as a significant employer of labor. 
+asr:0: OUTPUT 1356.40-1362.34: We reported real annual growth of about 2.85% for the sector in 2019. 
+asr:0: OUTPUT 1362.80-1366.85: Surpassing the 2018 figures of 1.09%. 
+asr:0: OUTPUT 1367.89-1373.71: With the onset, as the group CEO talked about the impact of COVID on our business as a whole. 
+asr:0: OUTPUT 1374.67-1382.04: The hospitality sector has actually had a significant impact of the COVID pandemic. 
+asr:0: OUTPUT 1382.84-1388.99: That we would actually even say it's not fully predictable how the impact will be on both our revenue and our supply chains. 
+asr:0: OUTPUT 1389.69-1398.78: It's significantly affected our cash flow and we've had constraints. Restriction of mobility and virtual business operations has actually affected us as well. 
+asr:0: OUTPUT 1399.30-1403.50: We have also witnessed a sharp drop in our occupancy rate across the hotel. 
+asr:0: OUTPUT 1403.68-1409.55: And across the industry, it's speculated that up to 75 million jobs are at risk within this sector. 
+asr:0: OUTPUT 1410.11-1416.62: We also have seen that about 2.1% increase of global unemployment directly linked to travel. 
+asr:0: OUTPUT 1419.36-1420.82: And tourism job losses. 
+asr:0: OUTPUT 1421.28-1430.69: However, I mean, the news is not all jumble and grumble. At the hotel, one of the key measures that we took and put in place at the onset of the pandemic. 
+asr:0: OUTPUT 1430.83-1440.46: Was that we ensured that all of our staff were properly trained and equipped. All of our guests were also kept safe and ensured that they actually knew all that they needed to do on site. 
+asr:0: OUTPUT 1440.94-1447.43: Around the hotel, we had sanitizers, temperature checks, preventive measures, and awareness on all of our screens. 
+asr:0: OUTPUT 1447.65-1450.55: The rooms were more thoroughly cleaned than ever before. 
+asr:0: OUTPUT 1450.81-1458.68: And we ensured that we also communicated very effectively with our customers to ensure the confidence that they knew that we had put in the hotel. 
+asr:0: OUTPUT 1459.38-1467.49: Further, our key strategies really going forward is we've put in place our cost measures to ensure that even within this time. 
+asr:0: OUTPUT 1467.61-1470.59: Operational cost savings is a key priority to us. 
+asr:0: OUTPUT 1470.91-1474.43: And we have gone ahead to receive concessions from our contractual services. 
+asr:0: OUTPUT 1474.79-1480.32: We have also very focused on reducing costs across the hotels generally. 
+asr:0: OUTPUT 1480.90-1485.89: Making very simple changes in terms of saving energy costs, reduce our energy consumption. 
+asr:0: OUTPUT 1486.07-1493.19: Using fewer chillers across the hotel, fewer elevators across the hotel to just ensure that we can keep our costs down. 
+asr:0: OUTPUT 1493.95-1502.70: Going forward, we remain optimistic and very focused about what we put in place to ensure we can recover from the heat of this COVID pandemic. 
+asr:0: OUTPUT 1503.30-1509.49: We have split our initiatives into two phases. The first phase is going to focus very actively on recovery. 
+asr:0: OUTPUT 1509.85-1515.86: And what we will do is actually to, in terms of recovering from the losses of the long shutdown. 
+asr:0: OUTPUT 1516.58-1521.32: We are going to continue to sweat our existing assets through operational efficiencies. 
+asr:0: OUTPUT 1521.34-1525.55: And develop a local demand market, particularly targeted at the leisure segment. 
+asr:0: OUTPUT 1525.57-1532.47: And providing entertainment and activities across the industry for us in the two locations of Abuja and Calaba. 
+asr:0: OUTPUT 1533.19-1541.24: Immediately, one of the key things that we did was introduction of our takeaway service business. And this is already gaining a lot of significant traction. 
+asr:0: OUTPUT 1541.48-1545.21: Serving fast food and oriental cuisine across our market. 
+asr:0: OUTPUT 1545.57-1549.09: We also kicked off delivery and pickup service for our laundry business. 
+asr:0: OUTPUT 1549.41-1554.27: And we've also put innovative events in place such as the drive-in cinema and concerts. 
+asr:0: OUTPUT 1554.29-1562.52: That adhere to very strict social distancing guidelines and while keeping the hotel in mind and generating revenue at the same time. 
+asr:0: OUTPUT 1562.98-1567.21: We are continuing to deepen other services across our outdoor catering services. 
+asr:0: OUTPUT 1567.25-1570.59: And put in place again communicating top notch safety guidelines. 
+asr:0: OUTPUT 1570.61-1578.46: To restore confidence to our guests and be able to welcome them back once the lockdown is finally lifted. 
+asr:0: OUTPUT 1579.52-1584.08: In addition, we continue to take precautionary measures to keep all our employees and guests safe. 
+asr:0: OUTPUT 1584.38-1592.13: And with the Hilton, our institutionalizing a clean stay with life support protection, which we'll be introducing across the hotel. 
+asr:0: OUTPUT 1592.39-1598.72: Just to ensure that guests know the amount of cleansing that has gone on to keep them sanitized and safe at the hotel. 
+asr:0: OUTPUT 1599.40-1605.69: We will continue to create innovative ways to communicate with our guests within all of this period as well. 
+asr:0: OUTPUT 1606.27-1613.23: In our growth strategy phase, obviously we're going to focus, like I mentioned, on our leisure market and on our local demand as well. 
+asr:0: OUTPUT 1613.61-1620.60: We are continuing to push promotions and incentives to gain traction for business targeting international business. 
+asr:0: OUTPUT 1620.64-1624.90: Airline crews as the reopening of the airways and flights resume. 
+asr:0: OUTPUT 1625.61-1635.18: Also, we're looking to continue to attract more conferencing events across Africa for events that have taken place to attract them to Nigeria as a location, Calaba and Abuja. 
+asr:0: OUTPUT 1635.20-1636.22: Locations for that. 
+asr:0: OUTPUT 1636.82-1640.58: If we quickly go to the page on our key performance indexes. 
+asr:0: OUTPUT 1640.92-1649.85: We would see that our occupancy has actually declined quite significantly from 74% in February to about 35% in March. 
+asr:0: OUTPUT 1649.87-1652.67: Compared to the industry as a whole. 
+asr:0: OUTPUT 1653.17-1662.30: Our ADR was 83,604 at the end of March, while the industry recorded 64,629 in March 2020. 
+asr:0: OUTPUT 1662.94-1671.17: Our REF power recorded a sharp decline from 61,562 in February to about 29,553 in March 20. 
+asr:0: OUTPUT 1671.49-1678.26: While the industry recorded a decline of from 46,519 to 24,695. 
+asr:0: OUTPUT 1678.90-1685.55: Looking at our financial highlight, Mochou talked about that in detail, so I won't go through it too much. 
+asr:0: OUTPUT 1685.89-1691.59: But I think just note to mention is that our revenue dropped slightly by 0.3%. 
+asr:0: OUTPUT 1691.97-1699.44: And we actually reported a loss of about 687 million in quarter one 2020. 
+asr:0: OUTPUT 1700.30-1705.31: We also, in terms of one of the reasons for the major loss that we had was. 
+asr:0: OUTPUT 1705.49-1713.13: In terms of the interest costs that is now being expensed as a result of completion of the upgrade as against our Q1 2019. 
+asr:0: OUTPUT 1713.15-1717.40: Where the upgrade was still going on and capitalization of interest was still on. 
+asr:0: OUTPUT 1717.92-1722.30: The impact of COVID will truly be seen in quarter two, 2020. 
+asr:0: OUTPUT 1722.70-1732.05: However, we're quite confident that some of the initiatives that we're putting in place would help us reduce the negative impact that one would have expected within this industry. 
+asr:0: OUTPUT 1732.51-1741.62: Finally, we are hopeful and optimistic that business and activities will return to the hotel and hospitality sector in due course. Thank you very much. 
+asr:0: OUTPUT 1745.59-1748.91: Thank you very much, Dupe, for that detailed overview. 
+asr:0: OUTPUT 1749.25-1756.88: So let's just move on to oil and gas. I'm quite conscious of time. I want us to give time for engaging Q&A. 
+asr:0: OUTPUT 1757.20-1761.90: So if we can just go to slide 35, please. Let's just go to slide 35. 
+asr:0: OUTPUT 1762.80-1768.93: Well, we just briefly look at the challenges hindering or affecting the oil sector in Nigeria. We're very conversant with this. 
+asr:0: OUTPUT 1769.25-1778.48: The delay in the PIB, insurgency pipeline vandalization, infrastructural deficits and the price fluctuations and the PMS price regulation. 
+asr:0: OUTPUT 1778.78-1783.52: These are challenges that we're well conversant with, so we'll not spend too much time on it. 
+asr:0: OUTPUT 1783.98-1788.21: But to draw your attention to slide 36, which is what is critical in particular. 
+asr:0: OUTPUT 1788.61-1794.91: So despite the challenges, these are the timelines that we're looking at. And as you can see, we've continued to stick with it. 
+asr:0: OUTPUT 1795.36-1800.34: So we'll start by looking at partnerships. So 2018 to 2020, focus on partnerships. 
+asr:0: OUTPUT 1800.92-1809.19: Specifically, identification of competent and technical financial partners to jointly develop the asset that we have, OPL-321. 
+asr:0: OUTPUT 1809.59-1811.49: Going on from there into drilling. 
+asr:0: OUTPUT 1811.53-1827.31: Looking to drill the site by next year, so site survey, local preparation. Very strong to this segment is the community engagement because that's really important, ensuring that the communities are well engaged, the community in which the asset is situated, well engaged. 
+asr:0: OUTPUT 1827.35-1835.94: From drilling we'll go into production, under the production stage which is again that 2021 to 2022, production and expansion. 
+asr:0: OUTPUT 1835.96-1844.06: We'll be looking at really the second well, completing all the work program obligations as agreed with the DPR, NAPIMS and all of them. 
+asr:0: OUTPUT 1844.36-1845.93: Then moving into expansion. 
+asr:0: OUTPUT 1846.07-1851.35: Most critical in the expansion phase is the conversion of an OPL license to an OML. 
+asr:0: OUTPUT 1852.35-1855.42: So that is on the oil and gas. Looking at the outlook. 
+asr:0: OUTPUT 1855.80-1862.46: So both Zupa and Chris, when they spoke, had touched a bit on the outlook, but let me just bring it a bit closer. 
+asr:0: OUTPUT 1862.96-1868.69: So for Q1, we had Q1 2020, our actual full power. 
+asr:0: OUTPUT 1869.05-1873.39: We had an average capacity of about 462 megawatts for power. 
+asr:0: OUTPUT 1874.09-1882.78: Our target for Q2, this is mid, almost ending of mid, our target is 538 megawatts, which we are on track for. 
+asr:0: OUTPUT 1883.64-1893.49: The average generated capacity for power in Q1, which of course you saw impacted our performance Q1, was 256 megawatts on average. 
+asr:0: OUTPUT 1893.75-1899.00: Our Q2 target is 407 megawatts following the measures that we have put in place. 
+asr:0: OUTPUT 1899.32-1908.07: To address the challenges that we saw in Q1, which Chris highlighted quite strongly, so I will go into that. For hospitality,. 
+asr:0: OUTPUT 1908.43-1914.51: As you all know, hospitality sector has been really impacted by COVID and the hotels are shut down. 
+asr:0: OUTPUT 1914.53-1920.90: Are recognizing occupancy of zero, I'd rather recognize zero for Q2. 
+asr:0: OUTPUT 1921.18-1924.42: But our target is that we would achieve 11%. 
+asr:0: OUTPUT 1924.44-1927.01: Which really be around the June side. 
+asr:0: OUTPUT 1927.09-1934.69: But looking at things like the airports being reopened, driving local patronage and other measures that DUPE had touched on. 
+asr:0: OUTPUT 1935.18-1939.72: Our ADR would have a bit of a dip from 80,000 to 78,000. 
+asr:0: OUTPUT 1940.06-1945.81: Rents per room will go down to 9,000 Naira because it is driven by the occupancy as well. 
+asr:0: OUTPUT 1946.03-1952.57: But just to note the growth in power that will have average generated capacity of 407 megawatts. 
+asr:0: OUTPUT 1953.29-1955.18: Still on the Outlook. 
+asr:0: OUTPUT 1955.22-1963.72: Still on the outlook, we will focus very strongly to close the AFAM acquisition. It is still under negotiation. We're having the conversations. 
+asr:0: OUTPUT 1964.00-1967.95: I just want to reiterate again the reason for getting into a thumb up and. 
+asr:0: OUTPUT 1967.99-1975.70: It still remains a strategic feat for us. We are committed to generating 25% of Nigeria's power. 
+asr:0: OUTPUT 1976.04-1984.40: One in four Nigerians will get power from transport groups. That is our vision and we remain committed to that. And acquiring Afan takes us closer to that. 
+asr:0: OUTPUT 1985.19-1990.13: Availability is very strong in that region. There's sufficient evacuation capacity. 
+asr:0: OUTPUT 1990.49-1998.48: It also takes us closer to our eligible customer opportunity and of course the cost efficient capacity recovery that we shall be delivering. 
+asr:0: OUTPUT 1999.02-2003.54: Farm has an installed capacity of 966 megawatts and that is what we are growing. 
+asr:0: OUTPUT 2003.72-2012.29: Adding the 966 to our 972 megawatt in Ugeli, that will take us to over 2,000 kilowatts. 
+asr:0: OUTPUT 2012.45-2014.17: Megawatts in store capacity. 
+asr:0: OUTPUT 2014.61-2020.82: Now, if you look at the timeline, we had presented this before to you in terms of the timeline for closing the Afan deal. 
+asr:0: OUTPUT 2021.20-2025.00: Whilst we've had delays because of the COVID-19 pandemic,. 
+asr:0: OUTPUT 2025.39-2033.43: The period has been used very wisely. We've been having various discussions with the PPE, working with our advisors to pass it to the deal. 
+asr:0: OUTPUT 2034.31-2038.98: Once we sign the SBA, we shall go on to do our 25% payment. 
+asr:0: OUTPUT 2039.50-2043.90: And we are strongly exploring the possibility of early takeover. 
+asr:0: OUTPUT 2043.94-2050.61: Which would mean that we are immediately able to recognize income from that business whilst we are going ahead with the payment. 
+asr:0: OUTPUT 2050.99-2057.20: So that's it on our farm and our outlook. So to reiterate, we are looking at increased performance from power. 
+asr:0: OUTPUT 2057.22-2063.72: Hotel will start a cautious but sustainable recovery. 
+asr:0: OUTPUT 2063.88-2069.15: Because Trans-Corpus in Abuja, Trans-Corpus of Calabar, they remain the preferred destination in their regions. 
+asr:0: OUTPUT 2069.47-2079.86: And the innovative products that have also come up with the hotel admin, we've been seeing the innovation of the drive-thru concert, the drive-thru cinema, these are things that we're going to continue. 
+asr:0: OUTPUT 2079.88-2086.49: And that would put us very strongly on the map as Africa's preferred hospitality brand. 
+asr:0: OUTPUT 2086.91-2089.31: Now we look at our CSR and awards. 
+asr:0: OUTPUT 2089.79-2099.10: So during this COVID period, Transport Power Limited, again, part of our community engagement, supported the community and gave. 
+asr:0: OUTPUT 2099.12-2102.00: Get items really items to watch Kovac. 
+asr:0: OUTPUT 2102.26-2106.91: That a total of 1,308 families benefited from this intervention. 
+asr:0: OUTPUT 2107.23-2114.21: We've also supported with medical equipment as well to ensure that we can continue to provide a safe environment for our workforce. 
+asr:0: OUTPUT 2114.67-2122.12: Now, whilst COVID is the great topic we're all talking about today, it's also important that we continue to drive our CSR strategy in other areas as well. 
+asr:0: OUTPUT 2122.70-2128.63: Cancer remains one of the top pillars and we've been working to build awareness about cancer. 
+asr:0: OUTPUT 2129.09-2135.26: Trussell Hilton Abuja, we have the walk and run against cancer in Q1 in partnership with Project Think Blue. 
+asr:0: OUTPUT 2136.58-2142.12: We've also got to protect the environment, very, very critical. Our renewables are recyclable. 
+asr:0: OUTPUT 2142.62-2144.36: Initiative, we continue to drive it. 
+asr:0: OUTPUT 2144.74-2154.05: Education remains very critical, so in Abuja we partner with an NGO to build new blocks of classroom for children of the Shatway community in Abuja. 
+asr:0: OUTPUT 2154.17-2156.96: Was very well received because we were. 
+asr:0: OUTPUT 2157.30-2159.00: To build new ones. 
+asr:0: OUTPUT 2159.42-2162.06: Able to learn in an enabling environment. 
+asr:0: OUTPUT 2162.64-2170.11: Women and gender inclusion remains a very strong focus for us as a group and part of what we do in driving that inclusion in our group. 
+asr:0: OUTPUT 2170.73-2176.04: Indeed, we continue to drive our women empowerment initiative through the Business Empowerment Program. 
+asr:0: OUTPUT 2176.36-2184.86: Where we take women and train them, give them the equipment they need to set up businesses in sewing and training opportunities. So in that way, they become... 
+asr:0: OUTPUT 2184.88-2187.83: Financially and economically included. 
+asr:0: OUTPUT 2188.07-2192.59: We've graduated the fifth batch of this program and we continue to drive it. 
+asr:0: OUTPUT 2193.11-2199.18: Now all of these have registered us for some awards which you will see. I mean these awards are here for your information. 
+asr:0: OUTPUT 2199.46-2206.65: Just to show, so I was sure that what you're doing is not a big deal. People are recognizing it and they continue to give us that testament. 
+asr:0: OUTPUT 2206.97-2212.13: We continue to win awards internationally, locally, and really, really strong awards. 
+asr:0: OUTPUT 2212.41-2220.98: Year Transcom Hotels was awarded the National Productivity Award under the category of productivity and innovation. This was in 2019. 
+asr:0: OUTPUT 2221.36-2227.79: We also retained our standard of excellence under the World Travel Award and the Seven Stars Luxury Hospitality and Lifestyle. 
+asr:0: OUTPUT 2228.13-2236.14: We are recognized by CHAPSI as well for the Pre-Joe Oxalans Award awarded to transportability for the best hotel. 
+asr:0: OUTPUT 2236.40-2242.44: This relates, and we're giving this award in relation to the renovation and upgrade of that property that we did. 
+asr:0: OUTPUT 2243.46-2249.07: So just to say 2019 was good, 2020 we started out with Q1. 
+asr:0: OUTPUT 2249.11-2262.34: We're very hopeful for taking the year to the end with the improvements we've seen in the power sector and the recovery that will definitely come to the hospitality sector as the economy is cautiously reopened for business. 
+asr:0: OUTPUT 2262.78-2269.57: So at this point, I'd like to take a pause here and hand it over back to Abayomi to take questions, please. Thank you for listening. 
+asr:0: OUTPUT 2271.57-2276.42: Thank you very much Owen. Ladies and gentlemen, at this point we will take your questions. 
+asr:0: OUTPUT 2277.14-2283.78: If you have a question, please indicate by clicking the 100 icon at the bottom right of the participant list. 
+asr:0: OUTPUT 2284.54-2292.63: So there's a hand raised hyphen just at the bottom right of the patent list. So if you have a questions, please click the hand raised button. 
+asr:0: OUTPUT 2294.59-2299.02: I think they can also type in the chat box as well. They will read it out, please. 
+asr:0: OUTPUT 2314.81-2318.76: Ladies and gentlemen, once again, we would like to take your questions. 
+asr:0: OUTPUT 2318.96-2324.96: If you have any questions, please indicate by clicking the hand raise icon at the bottom right of the participant list. 
+asr:0: OUTPUT 2325.55-2326.59: Or use the chat box. 
+asr:0: OUTPUT 2334.37-2339.02: Or we take it that, okay, if we take it that we have a lot of, it was well presented. 
+asr:0: OUTPUT 2345.81-2353.75: Good afternoon. Well done for the presentation. So I have a couple of questions, four of them. 
+asr:0: OUTPUT 2354.51-2361.08: So during the presentation, you mentioned about... 
+asr:0: OUTPUT 2361.46-2365.77: CBN 600 billion, MPI 600 billion, billion dollars. 
+asr:0: OUTPUT 2366.53-2373.25: I just want to find out, I just want to understand the duration or how long the payment plan will last. 
+asr:0: OUTPUT 2373.37-2381.90: So I note that something like this was approved sometime in 2017 that lasted to 2018. 
+asr:0: OUTPUT 2382.78-2386.09: So I just want to understand how long that will last. 
+asr:0: OUTPUT 2386.85-2390.53: That's the first question. And then the second question. 
+asr:0: OUTPUT 2390.55-2400.26: Is that in your outlook you said the Q2 target, the capacity utilization of my estimate is about 75%. 
+asr:0: OUTPUT 2400.94-2405.15: So I'm just curious over the last four quarters. 
+asr:0: OUTPUT 2405.33-2414.69: Not just Q1 and Q2, over the last four quarters the capacity utilization has been between 40 to 60%. 
+asr:0: OUTPUT 2414.73-2421.02: 60% there about and I'm just wondering what would drive the significant lead. 
+asr:0: OUTPUT 2421.12-2427.09: Yes, I know some effort has been put in place, but just around how. 
+asr:0: OUTPUT 2427.11-2433.69: I will see a very significant difference after that. Maybe you could share more insights around that. 
+asr:0: OUTPUT 2434.47-2439.90: And then my next question is about the APAM acquisition. 
+asr:0: OUTPUT 2440.68-2448.61: So I saw the timeline of transaction and I saw where you said of the 25% payment and. 
+asr:0: OUTPUT 2449.27-2455.04: I just want to find out, I just want to know more about how the group intends to finance. 
+asr:0: OUTPUT 2455.06-2457.64: It was capital. 
+asr:0: OUTPUT 2457.68-2465.71: What's the capital structure going to be like, especially considering the current levels of debt in the companies or in the growth pool? 
+asr:0: OUTPUT 2466.73-2471.53: And okay, so my next question is,. 
+asr:0: OUTPUT 2471.55-2480.28: On the oil and gas sector. So yes I understand that it's a very critical sector to the Nigerian economy. 
+asr:0: OUTPUT 2481.02-2489.21: However, in light of current development, we saw what happened in the global crude oil market. 
+asr:0: OUTPUT 2489.23-2491.89: The issue with prices on. 
+asr:0: OUTPUT 2492.29-2498.18: So, I don't know, maybe I don't know what the company or what the group is saying in that space. 
+asr:0: OUTPUT 2498.60-2506.93: But maybe you could try to give more insight as to why the group thinks that exploring or venturing into that space. 
+asr:0: OUTPUT 2507.23-2512.71: Would result in generation of the storms that would be high enough to cover. 
+asr:0: OUTPUT 2512.73-2514.07: Invested capital. 
+asr:0: OUTPUT 2516.06-2517.48: Those are my questions, thank you. 
+asr:0: OUTPUT 2522.32-2528.69: Thank you very much, Daniel. Daniel, if you might tell us the organization that you represent, please. No, not Daniel. Ralph. 
+asr:0: OUTPUT 2529.85-2535.48: Hello. My name is after all. Yes. 
+asr:0: OUTPUT 2536.44-2540.58: I'm a research analyst at WSGC. 
+asr:0: OUTPUT 2542.88-2546.77: Okay, thank you very much. Very good questions, Abiram. Thank you. 
+asr:0: OUTPUT 2547.53-2555.74: So we'll take the, Abay Ahmed do you want me to answer now or do you want to take more questions first? You should answer now. Okay we should answer. 
+asr:0: OUTPUT 2556.88-2562.82: So I will address some of the questions and I will invite Chris and Liz to also address. 
+asr:0: OUTPUT 2563.22-2568.97: Let me just start with the last one on oil and gas. You are right, what you've said in terms of the sector right now. 
+asr:0: OUTPUT 2569.55-2577.04: But we are also aware of this up and down in the sector and that oil and gas remains a very attractive sector notwithstanding. 
+asr:0: OUTPUT 2577.52-2584.78: As you know, the liquidity that comes in from there, the foreign exchange, the forex that you get from that region as well. 
+asr:0: OUTPUT 2584.90-2589.93: And the huge resources that we have in our country in oil and gas. 
+asr:0: OUTPUT 2590.23-2598.94: But as a very cautious company, we will take every decision that we make towards the continuation of our investment in this sector. 
+asr:0: OUTPUT 2599.28-2601.80: Will be driven by strong numbers. 
+asr:0: OUTPUT 2601.96-2611.53: Okay? We'll be driven by figures, data. What we are looking at is to make sure that any investments we make, that the return on equity will be sensible. 
+asr:0: OUTPUT 2611.79-2615.40: We're not just going to drive in the pictures because we already have the asset. 
+asr:0: OUTPUT 2615.46-2622.02: Is going to be something that is very, very meticulously deliberated upon and then decisions made. 
+asr:0: OUTPUT 2622.36-2629.19: But to add that our oil and gas, so the key to this is not oil and gas, it's not just oil. 
+asr:0: OUTPUT 2629.21-2637.70: You've heard us talk about the challenges with gas in our country, which we need for getting the power that we need. 
+asr:0: OUTPUT 2637.98-2643.30: So the gas reserves that we have on that asset would also be very, very useful to our power play. 
+asr:0: OUTPUT 2643.54-2647.37: So that's also the reason for continuing to explore in them. 
+asr:0: OUTPUT 2647.83-2650.81: Now on the outlook. 
+asr:0: OUTPUT 2651.09-2657.98: On the Outlook, you've asked about why we are thinking at 75%, keeping in mind that in the last four quarters,. 
+asr:0: OUTPUT 2658.28-2661.40: It's really been around 40 to 50%. 
+asr:0: OUTPUT 2661.78-2664.52: So in the presentation, and again with what Chris said. 
+asr:0: OUTPUT 2664.60-2666.33: There were some challenges that we had. 
+asr:0: OUTPUT 2666.55-2673.27: But we've addressed quite a bit of it, in particular, not wanting to mention the signing of our gas supply agreement. 
+asr:0: OUTPUT 2673.29-2681.18: Which has gone a long way in improving our gas supply, taking us from a best effort basis to a contracted capacity basis. 
+asr:0: OUTPUT 2681.24-2685.53: And we are exploring more discussions of getting additional gas supplies. 
+asr:0: OUTPUT 2685.95-2687.67: Chris will talk more about that. 
+asr:0: OUTPUT 2687.75-2695.72: So, for AFRAM, we are exploring a combination of optimal funding structure,. 
+asr:0: OUTPUT 2695.74-2702.62: Like you rightly noted, the debt that we carry in the group, but we're looking at a combination of equity and debt to funding. 
+asr:0: OUTPUT 2703.04-2712.65: So at this point I will invite Chris to talk a bit more about the power business as it relates to the reason why we can bank on 75% performance. 
+asr:0: OUTPUT 2713.01-2715.12: And to touch on the embed. 
+asr:0: OUTPUT 2715.72-2722.30: When Chris is done, Mutu, you can just talk very briefly on the AFAM acquisition, the funding thereof. 
+asr:0: OUTPUT 2722.62-2724.96: Thank you again, Abdurahman. Chris, over to you. 
+asr:0: OUTPUT 2726.17-2734.93: So, thank you, Owen. Thank you for those insights. Just to provide additional insight also, Abraman, thank you for your questions. 
+asr:0: OUTPUT 2736.32-2740.42: With regards to capacity utilization, yes, gas, gas, gas. 
+asr:0: OUTPUT 2741.36-2748.97: It's all about gas for us as a gas fire plant. We have had major challenges with gas. 
+asr:0: OUTPUT 2749.87-2754.07: Like I said, when I made the presentation,. 
+asr:0: OUTPUT 2754.65-2759.74: We have been able to wrap our heads around some of those challenges. 
+asr:0: OUTPUT 2760.00-2767.55: And resolved some of them in partnership with some key stakeholders like the Nigeria Gas Company. 
+asr:0: OUTPUT 2768.45-2769.81: So it's... 
+asr:0: OUTPUT 2769.83-2779.74: The benefit and impact of that that has led to the capacity utilization that we're talking about. And that's why we're upbeat. 
+asr:0: OUTPUT 2780.20-2784.34: Beyond gas also technical, technical in the sense that. 
+asr:0: OUTPUT 2785.53-2790.55: We also had some of our turbines that were out on maintenance. 
+asr:0: OUTPUT 2790.77-2799.02: So, for instance, we have GT19. GT19 is 105 megawatts capacity. 
+asr:0: OUTPUT 2799.04-2801.08: Turbine that was out. 
+asr:0: OUTPUT 2801.10-2809.83: Maintenance with its back it came in and so that increased our available capacity by 100 megawatt. 
+asr:0: OUTPUT 2810.41-2820.34: And we are also expecting another gas turbine to be back by June, and that's GT18. That's another 105 megawatts. 
+asr:0: OUTPUT 2820.98-2828.57: And in the last quarter of the year, we're expecting the last big machine that we have that is out, GT16. 
+asr:0: OUTPUT 2828.81-2836.04: On rotor repairs in Saudi Arabia. We're expecting it back also. That's towards the end of November. 
+asr:0: OUTPUT 2836.34-2839.52: And that's another 105 megawatts that will be coming in. 
+asr:0: OUTPUT 2839.96-2849.51: So, with gas, you can see that in fact the capacity utilization we're talking about now would improve. 
+asr:0: OUTPUT 2849.55-2861.92: If by the time this comes back, and like I said before, hoping and believing that the efforts being made in terms of infrastructure improvement. 
+asr:0: OUTPUT 2861.94-2867.85: Would also materialize to result in additional load of take by discourse. 
+asr:0: OUTPUT 2868.45-2876.68: With regards to the MBET payment, the MBET payment is projected to last 18 months, but again, it's about utilization. 
+asr:0: OUTPUT 2877.08-2881.14: Right. So you like the 701 billion. 
+asr:0: OUTPUT 2881.18-2888.19: You know, we found out that even it lasted beyond the initial period of two years that. 
+asr:0: OUTPUT 2888.33-2891.51: It was planned to last because of utilization again. 
+asr:0: OUTPUT 2891.97-2897.16: So, that's that. We expect that we're still good in the course of this year. 
+asr:0: OUTPUT 2897.56-2909.15: And we also expect that the outcome of the power working group that the federal government sets to actually recommend realistic and sustainable. 
+asr:0: OUTPUT 2909.17-2912.79: Solutions to the power sector issue. 
+asr:0: OUTPUT 2912.81-2924.14: We come up with solutions that would initiate the move towards a self‑sustaining electricity market in Nigeria. 
+asr:0: OUTPUT 2924.36-2931.55: Which is where ultimately we're supposed to be to minimise government intervention. 
+asr:0: OUTPUT 2932.71-2939.46: I think Owen has addressed the AFAM issue, and that's it. Thank you. 
+asr:0: OUTPUT 2941.10-2943.76: Thank you very much, Chris. Thank you. 
+asr:0: OUTPUT 2944.14-2952.11: I'm done here, I'll just let you know that I'll come to you in a bit. Moti, can you just very briefly quick attempt to the AFAM funding question, please? 
+asr:0: OUTPUT 2952.27-2954.19: OK, thanks. 
+asr:0: OUTPUT 2954.51-2962.70: Just to mention quickly, as you are aware, the acquisition cost for our farm based on the bid is about 110 billion. 
+asr:0: OUTPUT 2963.32-2965.65: That's about $300 million. 
+asr:0: OUTPUT 2966.17-2973.09: So, and by regulation, 30% of that, a minimum of 30% must be by way of equity. 
+asr:0: OUTPUT 2973.43-2977.72: So we are working on our financial model as well as the documentation. 
+asr:0: OUTPUT 2978.08-2986.13: So what amount of equity is going to be eventually? We are going to communicate that to analysts as well as the finance industry. 
+asr:0: OUTPUT 2986.49-2995.58: But at least for a guide, a minimum of which should be 30% equity and the total acquisition costs about $300 million. Thank you. 
+asr:0: OUTPUT 2998.58-3007.05: Thank you very much. Please, can the moderator unmute? Daniela Nosaya, your hand was up before. Have your questions been addressed? 
+asr:0: OUTPUT 3009.57-3015.12: Moderator, please unmute Daniel. Let's see if he has further comments or if he's already been addressed by Raoul. 
+asr:0: OUTPUT 3034.33-3041.08: Thank you very much. Oh, and my question has been addressed by the answer I give into our party. Thank you very much. 
+asr:0: OUTPUT 3042.98-3046.13: Thank you, appreciate it. 
+asr:0: OUTPUT 3058.52-3059.86: Platform. 
+asr:0: OUTPUT 3066.75-3072.17: So I'm trying to speak. 
+asr:0: OUTPUT 3082.02-3087.39: Hello, it's Sergey Biden from Renaissance Capital. Do you hear me? Yes, I can hear you. 
+asr:0: OUTPUT 3088.77-3097.60: Okay, great. So I have the question again about farm acquisition. I look at your presentation and you said that. 
+asr:0: OUTPUT 3097.62-3107.19: 25% of the cost for that acquisition was planned to be paid in first quarter of 2020. 
+asr:0: OUTPUT 3107.91-3113.79: And looking at the financials and the cash flow, I actually donít see that happening. 
+asr:0: OUTPUT 3114.33-3123.50: Now the rest of the cost is your plans to pay in the second quarter of 2020. 
+asr:0: OUTPUT 3124.14-3127.01: Could you clarify what's happening with those payments? 
+asr:0: OUTPUT 3127.23-3128.35: But yeah. 
+asr:0: OUTPUT 3128.43-3134.07: From my point of view, you don't pay for that in the first quarter yet. 
+asr:0: OUTPUT 3134.91-3144.88: But you're talking about early takeover of a farm. So does that relate to that deal being worked? 
+asr:0: OUTPUT 3145.01-3146.07: I don't. 
+asr:0: OUTPUT 3146.43-3156.10: Right now, and those payments related to that negotiation of early takeover, or it's something happening apart from that. Thank you. 
+asr:0: OUTPUT 3160.00-3169.67: Thank you very much. So just to mention about this slide 40, this is a slide that had been shown before. The timelines were not adjusted because we wanted to have it here. 
+asr:0: OUTPUT 3169.91-3175.52: You'll note my earlier comment that the timeline we had here was affected by COVID. 
+asr:0: OUTPUT 3175.88-3181.54: So in Nigeria, there's been no flights. We have interstate restrictions of movement. 
+asr:0: OUTPUT 3182.10-3189.21: So, in terms of the 25%, yes, it was not paid in Q1 because we're still having the negotiations now. 
+asr:0: OUTPUT 3189.23-3192.13: But the timeline in terms of how things will progress. 
+asr:0: OUTPUT 3192.35-3196.68: In terms of the actual duration of time, rather than the actual date itself. 
+asr:0: OUTPUT 3197.00-3203.90: So from where we sign the SBA, we sign the SBA, we have a specific time within which to pay the 25%. 
+asr:0: OUTPUT 3204.44-3210.19: After we pay the 25%, then the time starts counting for the 75% as well. 
+asr:0: OUTPUT 3210.55-3219.36: Now, in terms of the cash flow and making the payment, I think Mutiu, that's the group CFO, he addressed it earlier in his initial response. 
+asr:0: OUTPUT 3219.46-3223.64: Maybe you want to speak a little bit more. Maybe there were some issues with the line. 
+asr:0: OUTPUT 3224.20-3231.67: Just quickly on this. Thank you. 
+asr:0: OUTPUT 3232.07-3241.24: So the initial 25% is meant to be paid immediately when we sign the agreement, which we are looking at Q2 based on what has been going on. 
+asr:0: OUTPUT 3241.64-3248.47: So ordinarily by the process, we are supposed to pay the 75% after six months. 
+asr:0: OUTPUT 3248.87-3256.24: So, and takeover, but what we are saying is that we are exploring any takeover that once we pay the 25%, which is about 27 billion. 
+asr:0: OUTPUT 3256.92-3263.86: Then we should be able to take over, which we are estimating is going to happen in Q2. Thanks. 
+asr:0: OUTPUT 3266.01-3274.23: Thank you so much. I didn't get your name. I go to Renaissance Capital, but the line was shaky. Do you mind just repeating your name? 
+asr:0: OUTPUT 3279.06-3285.81: Okay, thank you very much. Thank you. Okay, it's almost one. Abay or me, can we take one more question? 
+asr:0: OUTPUT 3299.72-3306.15: Looks like we don't have any further questions. We actually have a question from. 
+asr:0: OUTPUT 3310.11-3318.76: I'm just gonna unmute him now. Okay. Unameka from where please? 
+asr:0: OUTPUT 3319.32-3321.46: Muted please can you ask your question. 
+asr:0: OUTPUT 3324.74-3330.81: I love Naomi. Yeah, thanks. I hope you can hear me. Yeah. These are my complaints from GMU Capital. 
+asr:0: OUTPUT 3331.57-3334.89: Just a quick point on the hospitality data that was shown. 
+asr:0: OUTPUT 3335.28-3343.72: I'm just curious as to your considerations on working capital where you have a projection for Q2 2020 at 11% occupancy rate. 
+asr:0: OUTPUT 3344.30-3350.57: The HDR doesn't show when you compare it to Q1 any noteworthy movement. 
+asr:0: OUTPUT 3351.13-3356.46: Which means that there's no improvement in terms of the top side, the revenue. 
+asr:0: OUTPUT 3357.26-3358.44: And the question is,. 
+asr:0: OUTPUT 3358.46-3367.55: Around the working capital is, you know, the cost being spent to be able to, you know, take on guests during the COVID period. 
+asr:0: OUTPUT 3367.67-3369.13: Uh,. 
+asr:0: OUTPUT 3369.15-3378.72: And chasing 11% occupancy rate, is that, in your opinion, a fair allocation of working capital? 
+asr:0: OUTPUT 3381.48-3388.69: Thank you very much, Mecca. That's a very good question for hospitality. So you're right in terms of discussion of working capital. 
+asr:0: OUTPUT 3389.67-3391.03: Of occupancy. 
+asr:0: OUTPUT 3391.85-3395.42: But of course, as you know, what's going on with COVID? 
+asr:0: OUTPUT 3395.76-3396.88: Temporary. 
+asr:0: OUTPUT 3397.94-3399.62: Across. If you fall into the stoop, you fall. 
+asr:0: OUTPUT 3399.90-3403.54: The news worldwide, everyone is reopening the economy cautiously. 
+asr:0: OUTPUT 3403.94-3413.59: From the US, you are having different states reopening for business in Europe, UK, Canada. I think Toronto was in the news recently because we saw a lot of people out there. 
+asr:0: OUTPUT 3414.09-3418.26: So we have continued to maintain and sustain the hotel. 
+asr:0: OUTPUT 3418.78-3428.09: But we've done it very, very carefully. If you recall, when Ruth first spoke, she talked about the cost management measures that have been. 
+asr:0: OUTPUT 3428.11-3431.41: That the hotel had gone into the management of the hotel. 
+asr:0: OUTPUT 3431.77-3440.86: We've been very, very prudent about how we are managing the hotel. And I will let Dupa speak a bit, when I will invite her to speak, to tell you just a little bit more on what we've been doing. 
+asr:0: OUTPUT 3441.14-3443.72: But just also talk about the strength of the company. 
+asr:0: OUTPUT 3444.24-3450.25: We've had periods of boom, we've had periods of a lot of successes. 
+asr:0: OUTPUT 3450.53-3456.84: So during this period of drought, we had reserves that we can also draw upon to take us through this time as well. 
+asr:0: OUTPUT 3457.06-3466.27: And that is a strength of our group, where we can draw on our resources to be able to sustain through difficult times like this. 
+asr:0: OUTPUT 3466.59-3476.58: So maybe you just spend like 30 seconds or one minute to take through just the measures that we've taken to make sure that we are managing the good shell at optimal costs. 
+asr:0: OUTPUT 3476.60-3480.12: Noting that revenue is constricted right now. Thank you. 
+asr:0: OUTPUT 3484.34-3488.17: Thank you very much, Owen. I think you've actually covered it quite significantly. 
+asr:0: OUTPUT 3488.45-3495.26: Like Owen rightly said, our focus right now is to ensure that at all levels, and thankfully we started very early enough. 
+asr:0: OUTPUT 3495.28-3500.26: At the onset of the pandemic, we took immediate action to actually reduce our costs. 
+asr:0: OUTPUT 3500.50-3508.63: And we've been very, very successful in doing that. Going forward, as the economy begins to open up, we're going to still continue to focus on driving down our costs. 
+asr:0: OUTPUT 3508.99-3514.13: But in addition, some of the initiatives that we've introduced and continue to introduce. 
+asr:0: OUTPUT 3514.21-3521.28: Will also help us in terms of driving revenue, increasing revenue outside of just our room and conferencing revenue as well. 
+asr:0: OUTPUT 3521.56-3527.59: So what we're doing is we're actively diversifying all the key segments of the market that we normally would have addressed. 
+asr:0: OUTPUT 3527.85-3533.07: We're targeting the leisure market and looking for different ways to make sure we bring business and food for into the hotel. 
+asr:0: OUTPUT 3533.47-3536.00: So we'll continue to focus on that. 
+asr:0: OUTPUT 3536.24-3540.78: And like Owen said, we're an institution that is built to last at the end of the day. 
+asr:0: OUTPUT 3541.04-3546.29: And so we will ride this cycle and continue to deliver more for all of our stakeholders. Thank you. 
+asr:0: OUTPUT 3549.53-3554.45: You very much, Emeka. I hope that has answered your question. 
+asr:0: OUTPUT 3557.02-3558.54: Thank you, I really appreciate you. 
+asr:0: OUTPUT 3559.30-3566.85: Abay Ami, I think we can now conclude, conscious of time, so that I respect everyone that has joined the call. 
+asr:0: OUTPUT 3568.13-3576.80: Absolutely, absolutely. Ladies and gentlemen, we've come to the end of the call. At this point, I would like to invite... 
+asr:0: OUTPUT 3576.82-3580.00: Groups you first events transfer. 
+asr:0: OUTPUT 3580.52-3581.70: To give a closing remark. 
+asr:0: OUTPUT 3584.24-3593.95: Thank you again. Just really appreciate everyone that's taking time to come on this call. Typically we do our conference call, we have a phone number that we dial into. 
+asr:0: OUTPUT 3594.51-3595.98: And this is our new normal. 
+asr:0: OUTPUT 3596.16-3598.72: We are new normal, we are able to see our cell cycle. 
+asr:0: OUTPUT 3598.86-3606.91: By the next call. You will also turn on your video so that we can see you. As well, let's begin to put faces to the names as well. 
+asr:0: OUTPUT 3607.25-3613.33: But just to reiterate that TransCore is on a path of success. 
+asr:0: OUTPUT 3613.89-3624.74: As you see, this year we had significant changes across the group on the management side. For my appointment as the President Group CEO, and I thank our outgoing, the former CEO of Valentine Uzigo. 
+asr:0: OUTPUT 3625.09-3629.91: Who was in the group and has now become a non-executive director on our companies. 
+asr:0: OUTPUT 3630.65-3637.90: To the appointment of Ezia Fulukwe, who was Executive Director in TransCorp PLC before and is now Managing Director of TransCorp Power. 
+asr:0: OUTPUT 3638.38-3642.44: Dukwe Olusola, who is our MD, CEO now at TransCorp Hotels. 
+asr:0: OUTPUT 3642.82-3651.67: The appointment of the executive directors and chief operating officers as well in the companies, Okaimawa Iizua for TransCorp Power, Helen Iwuchukwu for TransCorp Hotel. 
+asr:0: OUTPUT 3652.19-3656.98: Working with the team and others as well, we are going to continue to drive our growth strategy. 
+asr:0: OUTPUT 3657.34-3658.56: Empower. 
+asr:0: OUTPUT 3658.58-3667.91: We target to complete the acquisition of Afamjenko this year, which will take us closer to that, our strategy, our vision. 
+asr:0: OUTPUT 3667.95-3671.41: Of generating 25% of Nigeria's power. 
+asr:0: OUTPUT 3671.69-3676.52: And our medium-term strategy of having 2,500 megawatts installed capacity. 
+asr:0: OUTPUT 3676.88-3685.79: For the hospitality sector, Dupre has talked to us through this a whole lot. We'll continue to be innovative. We've already invested in our fixed assets. 
+asr:0: OUTPUT 3685.85-3689.59: We are the clear leaders of hospitality when it comes to the brick and mortar. 
+asr:0: OUTPUT 3689.93-3697.82: What we are now taking is we're taking it to the next step of what are you looking at. So watch this space for the innovation that we come through in the hospitality sector. 
+asr:0: OUTPUT 3698.22-3700.32: Just looking at the drive-thru innovation. 
+asr:0: OUTPUT 3700.76-3702.10: Just amazing. 
+asr:0: OUTPUT 3702.46-3708.73: Drive-thru, drive-thru concert, drive-thru cinema, and it continues to grow. And we look for credible partners that we can work with. 
+asr:0: OUTPUT 3709.07-3712.83: Now we can credit companies and organizations that we. 
+asr:0: OUTPUT 3713.01-3722.52: Partner with us to continue to drive our innovation. On OPL281, gas is critical to our business, gas is critical to the country, just as oil remains critical. 
+asr:0: OUTPUT 3722.72-3729.87: We'll continue to work, but ensure that we are guided by very strong investment principles. Operational efficiency will remain a watchword. 
+asr:0: OUTPUT 3730.13-3737.20: I will continue to drive our diversification strategy, but as we have seen during COVID, diversification is critical. 
+asr:0: OUTPUT 3737.50-3742.22: Our power sector is an essential business and has proven to be very strong. 
+asr:0: OUTPUT 3742.56-3745.65: So on that note, I want to say thank you to everyone. 
+asr:0: OUTPUT 3745.67-3754.11: We remain committed to delivering value to our shareholders and holding ourselves to the highest level of corporate governance. 
+asr:0: OUTPUT 3754.19-3760.18: And on that note, I'd also like to thank the board of Transcore, chaired by Mr. Tony Oegumelu, CON. 
+asr:0: OUTPUT 3760.20-3767.03: The board of our subsidiary companies as well. We thank all of them and to say thank you very much and have a good afternoon. 
+asr:0: OUTPUT 3767.49-3775.98: So if you have more concerns, please, there's a contact sheet that is on the screen right now. Please contact Mathieu Bakary, Florence Nassamu, and Oluwatobi Lova Ojediro. 
+asr:0: OUTPUT 3776.30-3777.84: Thank you and have a good afternoon. 
+asr:0: END

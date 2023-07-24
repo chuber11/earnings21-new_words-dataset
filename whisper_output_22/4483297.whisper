@@ -1,0 +1,549 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.22-7.73: Welcome to the NovaSigns Q4 conference call. 
+asr:0: OUTPUT 8.31-17.10: Throughout the call, all participants will be in listen-only mode, so there's no need to mute your own individual lines. And afterwards, there'll be a question and answer session. 
+asr:0: OUTPUT 17.64-23.46: Today I'm pleased to present Tobias Cornelius, the Auckland Head of Investor Relations. Pleased to begin your meeting. 
+asr:0: OUTPUT 25.07-33.83: Thank you, operator, and welcome everyone to Novozyms full year 2021 conference call. My name is Tobias Björklund and I'm the head of Investor Agents here at Novozyms, as mentioned. 
+asr:0: OUTPUT 34.83-43.16: At this call, our CEO, Esther Baget, and our CFO Lars Green will go through our performance and key events of 2021, as well as the outlook for 2022. 
+asr:0: OUTPUT 43.94-52.75: Also present at this call are Tina Fehner, EVP Agriculture and Industrial Biosolutions, Amy Beirich, EVP Strategy and Business Transformation, Anders Lund,. 
+asr:0: OUTPUT 52.77-54.71: EVP consumer buy solutions. 
+asr:0: OUTPUT 54.77-58.76: And also Klaus Fuglsang, CSO, EVP of Research and Development. 
+asr:0: OUTPUT 59.44-63.88: The entire call will take about 50 minutes, including time for questions at the end. 
+asr:0: OUTPUT 65.00-72.41: Before we begin, I would like to remind you that the information presented during the call is unaudited and that management may make forward-looking statements. 
+asr:0: OUTPUT 72.51-81.38: These statements are based on current expectations and beliefs and involve risks and uncertainties that could cause actual results to differ materially from those described in any forward-looking statement. 
+asr:0: OUTPUT 82.32-86.67: With that, I now leave the hand to our CEO, Esther Bache. Esther, please. 
+asr:0: OUTPUT 89.03-95.44: Thank you, Tobias. And thank you all for calling in. Please turn to slide number two. 
+asr:0: OUTPUT 96.50-99.52: I'm very pleased with our performance in 2021. 
+asr:0: OUTPUT 100.02-109.89: We deliver strong sales, earnings and non-financial numbers and advance our business in accordance with our refreshed strategy, unlocking growth powered by biotech. 
+asr:0: OUTPUT 109.93-111.11: That we launched last September. 
+asr:0: OUTPUT 111.95-117.14: Organic sales grew 6% and benefiting from our diversified portfolio. 
+asr:0: OUTPUT 117.62-124.10: Performance was particularly strong in food, beverages and human health, in bioenergy and in grain and tech processing. 
+asr:0: OUTPUT 124.76-128.29: All three business areas delivered strong double-digit growth. 
+asr:0: OUTPUT 128.95-133.77: Household care declined slightly, and agricultural and animal health and nutrition was flat. 
+asr:0: OUTPUT 134.19-140.42: And when both business areas were soft, they were roughly in line with our latest expectations for the full year. 
+asr:0: OUTPUT 141.16-147.95: Over the past couple of years, we have invested in our commercial activities, especially in emerging markets. 
+asr:0: OUTPUT 148.11-153.63: And it's very, very encouraging to see the sales here growing by an impressive 18%. 
+asr:0: OUTPUT 154.29-158.90: Sales in the developed markets also grew, although at a more moderate rate. 
+asr:0: OUTPUT 160.00-169.63: Sustainability is part of our DNA here at Novozymes. And I'm very pleased to say that we are on track to meet 12 of our 30 non-financial targets. 
+asr:0: OUTPUT 170.11-177.10: While the targets are for 2022, we actually exceeded several of them already in 2021. 
+asr:0: OUTPUT 178.54-183.10: The benefits to the world from the use of our products are something we are all very proud of. 
+asr:0: OUTPUT 183.46-191.35: And we embrace the responsibility to be at the forefront of the movement for a healthier planet as a company with a strong purpose. 
+asr:0: OUTPUT 191.99-195.96: We are committed to support the transition towards a climate-neutral society. 
+asr:0: OUTPUT 196.34-198.20: And in 2021. 
+asr:0: OUTPUT 198.22-209.37: 77% of our revenue was generated from products that contribute to lowering CO2 emissions by reducing the use of fossil-based resources and by reducing waste. 
+asr:0: OUTPUT 210.17-215.18: Another key to achieve a more sustainable world is to transform food systems. 
+asr:0: OUTPUT 215.58-226.77: In 2021, 35% of our revenue came from products enabling our food production systems to produce more food from less and improve nutrition and quality. 
+asr:0: OUTPUT 227.31-231.11: Additionally, we strongly committed to enabling healthier lives. 
+asr:0: OUTPUT 231.43-237.88: And 5% of our full year revenue came from products that enable a better health for people around the world. 
+asr:0: OUTPUT 239.34-246.61: From an innovation perspective, 2021 was another strong year with the launch of market-leading products such as Pristine. 
+asr:0: OUTPUT 247.03-256.68: Which is the broad market freshness solution and PROACT360, which improves the digestibility of proteins for animals. In total, we launched 14 products during. 
+asr:0: OUTPUT 258.04-260.20: Including six in the fourth quarter alone. 
+asr:0: OUTPUT 260.52-262.44: This is much in line with previous years. 
+asr:0: OUTPUT 263.34-271.23: Turning to our financials, we delivered a strong EBIT margin and ROIC including goodwill, as well as a strong free cash flow. 
+asr:0: OUTPUT 271.63-274.37: And while reinvesting significantly in commercial activities. 
+asr:0: OUTPUT 274.39-281.82: Making several acquisitions and increasingly experienced the headwinds from higher input costs towards the end of the year. 
+asr:0: OUTPUT 283.06-288.19: Executing on our strategy has been our number one priority in 2021. 
+asr:0: OUTPUT 288.77-300.98: After acquiring Micrium Labs and the Biota Technology Asset in the first quarter, we took another important step to advance our biohealth business in the fourth quarter with the acquisition of Synergia Life Science. 
+asr:0: OUTPUT 301.42-307.23: Synergy is a leading developer and manufacturer of spore probiotics and natural vitamin K27. 
+asr:0: OUTPUT 307.63-314.31: And it will play a key role for us in expanding our position in human health and also in functional foods. 
+asr:0: OUTPUT 315.28-322.18: Also in the fourth quarter, we enter into a very exciting collaboration with Saipan on enzymatic carbon capture. 
+asr:0: OUTPUT 322.50-330.17: And continue the construction of the new state-of-the-art production for advanced protein solutions in Brea, Nebraska, in the US. 
+asr:0: OUTPUT 331.69-339.00: The steps we have taken during the last couple of years sets us up to deliver another good year in 2020. 
+asr:0: OUTPUT 339.84-343.04: And we expect to be off to a good start for the year. 
+asr:0: OUTPUT 343.74-351.35: In 2022, we expect sales to grow by 3 to 7% organically, with growth across all business areas. 
+asr:0: OUTPUT 351.65-356.34: Sales in Danish Kroner is expected to be around three percentage points higher. 
+asr:0: OUTPUT 357.24-364.84: The EBIT margin is expected at a solid 25 to 26 despite significant pressure from higher input costs. 
+asr:0: OUTPUT 365.31-371.01: And lastly, we expect RoIC, including Goodwill, to end between 16 and 17%. 
+asr:0: OUTPUT 371.33-378.18: While the free cash flow before acquisitions is expected between 1.7 to 2.1 billion Danish Kroner. 
+asr:0: OUTPUT 378.60-383.84: Including a significant uptick in capex, mainly driven by the new production line in Blair. 
+asr:0: OUTPUT 384.64-391.15: With that overview, let's now look at each of the five business areas in more detail, starting with household care. 
+asr:0: OUTPUT 391.81-395.05: Could you please turn to slide number three? Thank you. 
+asr:0: OUTPUT 395.92-400.36: Household care declined by 1% organically in 2021. 
+asr:0: OUTPUT 400.86-404.16: The soft full-year performance came against a strong performance in the mid-to-high-level. 
+asr:0: OUTPUT 405.67-415.44: Emerging markets perform well, supported by investments to expand our commercial footprint and tailor solutions, resulting in an increased enzymatic penetration. 
+asr:0: OUTPUT 416.06-422.58: Our sales in developed markets declined as European consumer demand was significantly lower than expected. 
+asr:0: OUTPUT 423.00-430.21: Performance further worsened in the second half of the year, where also two mid-sized private label players went out of businesses. 
+asr:0: OUTPUT 431.23-434.83: The freshness technology performed well and in line with expectations. 
+asr:0: OUTPUT 434.89-442.46: It was made available across multiple countries in Europe and the broad market solution was successfully launched in the third quarter. 
+asr:0: OUTPUT 443.14-446.27: Sales in the fourth quarter declined 3% organically. 
+asr:0: OUTPUT 446.83-455.80: Similar to the full year performance, emerging markets performed well while Europe in particular continued to decline for the same reasons as mentioned for the full year. 
+asr:0: OUTPUT 456.96-460.98: While the 1% decline in 2021 was not satisfactory,. 
+asr:0: OUTPUT 461.10-468.29: An average annual growth of a rate of 2% over the past two years is a meaningful step in the right direction. 
+asr:0: OUTPUT 468.95-474.15: Looking ahead, we expect sales in household care to grow by 2 to 4% in. 
+asr:0: OUTPUT 475.94-480.36: Growth is expected to be driven by increased market penetration in emerging markets. 
+asr:0: OUTPUT 480.38-486.33: By freshness as well as in the non-laundry areas of professional and medical cleaning and in dishwash. 
+asr:0: OUTPUT 486.87-491.41: As mentioned, we launched the broad market version of Freshness Technology in 2021. 
+asr:0: OUTPUT 492.01-500.40: This was a significant milestone and freshness is expected to increasingly contribute to growth as the year progresses as well as in the years to come. 
+asr:0: OUTPUT 501.26-504.48: Could you please turn into slide number four? Thank you. 
+asr:0: OUTPUT 505.51-510.57: Our food, beverages and human health businesses had an excellent year. 
+asr:0: OUTPUT 511.01-519.26: And the team has done a terrific job in executing on the strategic direction while also capitalizing on the supportive market conditions. 
+asr:0: OUTPUT 519.94-527.93: Sales grew 14% organically in 2021, with all three main categories growing by double digits. 
+asr:0: OUTPUT 528.59-531.45: Growth in food was mainly driven by market penetration. 
+asr:0: OUTPUT 532.07-541.00: And demand was particularly strong for health-focused solutions such as acrylamide reduction in baking, sugar reduction in dairy, and solutions for plant-based protein extraction. 
+asr:0: OUTPUT 541.32-547.47: In addition, baking benefited to some extent from raw material optimization and ingredient substitution. 
+asr:0: OUTPUT 548.41-555.26: Beverages performed well and outgrew the underlying market while also benefiting from a recovery in global beer volumes. 
+asr:0: OUTPUT 555.80-560.46: Growth in human health was very strong and driven by cross-selling and geographical expansion. 
+asr:0: OUTPUT 561.24-568.35: In the fourth quarter, sales grew 13% organically. The performance was led by foot. 
+asr:0: OUTPUT 568.85-577.60: Beverages grew slightly and was somehow impacted by the stocking, whereas human health performed well and according to the expectations. 
+asr:0: OUTPUT 578.38-588.43: Also, in the fourth quarter, we strengthened and accelerated our biohealth business by acquiring a majority stake in Synergia Life Science, and as I've already mentioned. 
+asr:0: OUTPUT 589.57-591.63: Let me now turn to the Outlook. 
+asr:0: OUTPUT 592.09-601.80: In 2022, we expect organic sales in food, beverages, and human health to grow by a high single-digit rate, with all sub-areas contributing to growth. 
+asr:0: OUTPUT 602.36-610.37: Growth in food will be driven by market penetration, supported by health-focused solutions and raw material optimization in ingredient substitution. 
+asr:0: OUTPUT 611.37-615.92: For beverages, we expect growth on top of the double-digit growth in 2021. 
+asr:0: OUTPUT 616.40-623.38: And for human health we expect continued solid double-digit growth driven by innovation, cross-selling and regional expansion. 
+asr:0: OUTPUT 624.24-626.97: Please turn into slide number five. Thank you. 
+asr:0: OUTPUT 628.67-632.61: Fully a sales in bioenergy grew 11% organically. 
+asr:0: OUTPUT 632.97-642.30: The strong performance was driven by the recovery of US ethanol production, growth from innovation, capacity expansion of corn-based ethanol production in Latin America,. 
+asr:0: OUTPUT 642.32-646.77: And market penetration with enzymatic solutions for biodiesel production. 
+asr:0: OUTPUT 647.93-650.55: Putting the U.S. Development a bit into context. 
+asr:0: OUTPUT 650.99-658.06: It's important to remember that US gasoline demand and ethanol production were severely disrupted during 2020. 
+asr:0: OUTPUT 658.60-667.25: US ethanol production rates gradually recovered during 2021, but still remain lower than the 2019 pre-COVID level. 
+asr:0: OUTPUT 668.29-675.12: Organic sales in the fourth quarter grew 10%, driven by the same factors as already mentioned for the full year performance. 
+asr:0: OUTPUT 675.48-683.48: Additionally, sales benefit from growth market conditions for ethanol producers, with some of the biggest crash margins in almost a decade. 
+asr:0: OUTPUT 684.32-690.29: For 2022, we expect cells to grow by low to middle single digits. 
+asr:0: OUTPUT 690.91-700.00: And as in 2021, growth continues to be driven by the recovery of US ethanol production, innovation capacity, expansion in Latin America,. 
+asr:0: OUTPUT 700.24-703.08: As well as market penetration in biodiesel. 
+asr:0: OUTPUT 703.82-713.29: And as a final note, the past two years have been unusually volatile for the ethanol industry and uncertainties related to the pandemic and volatile market conditions are still present. 
+asr:0: OUTPUT 713.87-720.76: This is also why bioenergy covers a relatively broad range, a broadly growth range. 
+asr:0: OUTPUT 721.90-730.63: Please turn to slide number six. Thank you. Grain and tech processing sales grew 13% organically. 
+asr:0: OUTPUT 732.47-738.48: Sales in both grain and in tech grew by double digits with strong performance across sub-areas. 
+asr:0: OUTPUT 738.98-744.28: The growth in grain was led by market penetration with solutions for vegetable oil processing. 
+asr:0: OUTPUT 744.34-753.27: Innovation in starch, particularly in grain milling, as well as an increased end-market demand for starch-derived products, especially in emerging markets. 
+asr:0: OUTPUT 753.93-760.64: Tech grew primarily due to the recovering sales in textile following the negative COVID-19 impact in 2020. 
+asr:0: OUTPUT 761.34-766.93: Good performance in areas such pulp and paper, leather and diagnostic enzymes for the pharmaceutical industry. 
+asr:0: OUTPUT 767.09-774.49: They also contributed to the full year performance. Four quarter sales grew by 15% organically. 
+asr:0: OUTPUT 775.08-783.24: The performance was also broad-based in the quarter with the growth being followed by innovation and high-end market demand in starch-derived products. 
+asr:0: OUTPUT 783.90-789.79: Market penetration in vegetable oil processing, and sales of diagnostic enzymes for pharma. 
+asr:0: OUTPUT 791.19-796.98: Looking at 2022, the development is expected to be more moderate compared to. 
+asr:0: OUTPUT 798.34-803.38: And thus, we expect the sales performance to range from flat to low single digit growth. 
+asr:0: OUTPUT 804.30-811.79: Growth will be led by continued market penetration in vegetable oil processing and from innovation in starch, such as for grain milling. 
+asr:0: OUTPUT 812.43-823.16: Similar to the situation in bioenergy, the relatively large uncertainty related to the pandemic and the volatile market conditions are affecting the way we see prospects for grain and tech processing. 
+asr:0: OUTPUT 823.32-828.49: Hence, we have applied a relatively broad sales range for this business area as well. 
+asr:0: OUTPUT 829.73-831.99: Could you please turn to slide number seven? 
+asr:0: OUTPUT 833.39-838.38: Organic sales in agricultural and animal health and nutrition ended the year flat. 
+asr:0: OUTPUT 838.84-847.63: Despite a negative base effect from 60 million one-off in the second quarter of 2020, related to the former BIOAC setup. 
+asr:0: OUTPUT 848.53-857.02: Sales in animal health and nutrition grew primarily from increased market penetration driven by innovations such as Valencios and Prague 360. 
+asr:0: OUTPUT 857.72-863.04: Cells in agricultural decline to the aforementioned base effect and increase if adjusted to it. 
+asr:0: OUTPUT 863.48-868.09: The just performance was driven by market penetration led by Latin America. 
+asr:0: OUTPUT 868.85-878.12: Four-quarter sales grew 7% organically. Growth was the strongest in animal health and nutrition with increased demand for both protein and health solutions. 
+asr:0: OUTPUT 878.84-883.86: Sales in agricultural also grew, driven by higher demand for bio-yield solutions. 
+asr:0: OUTPUT 884.62-893.15: In 2022, we expect organic cells in agricultural animal health nutrition to grow in the high single digits to glow tins. 
+asr:0: OUTPUT 893.83-897.96: Growth will be led by agricultural, which is expected to grow at double digit rates. 
+asr:0: OUTPUT 898.84-906.31: Good market conditions and beneficial sustainability pool is expected to benefit a higher usage of inoculants. 
+asr:0: OUTPUT 906.51-915.92: This, combined with innovation and a refined go-to-market model, will enable increased market penetration of both bio-yield and bio-control solutions. 
+asr:0: OUTPUT 916.92-920.32: Animal health and nutrition, sales are also expected to grow. 
+asr:0: OUTPUT 920.60-927.15: Fooled mainly by innovation and market-driven volume growth supported by favorable market conditions. 
+asr:0: OUTPUT 927.65-933.33: And with that, I'll hand over to Lars for a review of the financials. Lars, please. 
+asr:0: OUTPUT 934.55-940.26: Thank you, Esther. Let me start by reviewing the performance of our sustainability and non-financial targets. 
+asr:0: OUTPUT 940.86-942.30: Please turn to slide number eight. 
+asr:0: OUTPUT 943.38-952.29: With our refreshed strategy, Unlocking Growth, powered by Biotech, we made new long-term commitments to accelerate towards a climate-neutral society. 
+asr:0: OUTPUT 952.31-955.66: Transform food systems and enable healthier lives. 
+asr:0: OUTPUT 956.56-965.57: We also significantly raised the bar by including scope 3 emissions in addition to scope 1 and 2 in our CO2 savings target for 2030. 
+asr:0: OUTPUT 966.83-974.15: The 2022 non-financial targets from 2019 are still valid and serve as milestones on our long-term journey. 
+asr:0: OUTPUT 975.06-980.64: And it's encouraging to see that we are on track to meet 12 out of the 13 targets we defined back in 2012. 
+asr:0: OUTPUT 982.68-986.47: As the non-financial targets are coming to an end here in 2022,. 
+asr:0: OUTPUT 986.89-994.67: We are also committing to communicate the progress and milestones we have towards our long-term targets for 2030 and 2050. 
+asr:0: OUTPUT 995.46-997.32: We'll hear more about this during the year. 
+asr:0: OUTPUT 998.80-1002.72: Now please turn to slide number nine for a review of our financial performance. 
+asr:0: OUTPUT 1003.86-1011.11: The performance in 2021 was highly satisfactory, meeting or exceeding all targets set out at the beginning of the year. 
+asr:0: OUTPUT 1012.17-1020.56: In addition, we successfully integrated two companies, acquired a third and launched our strategy, Unlocking Growth, powered by Biotech. 
+asr:0: OUTPUT 1021.84-1029.25: Sales grew 6% organically and 7% in reported Danish kroner and included a 2% contribution from M&A. 
+asr:0: OUTPUT 1029.27-1032.63: And roughly a 1 percentage point headwind from currencies. 
+asr:0: OUTPUT 1033.53-1038.20: Sales in the fourth quarter grew 7% organically and 11% in Danish kroner. 
+asr:0: OUTPUT 1039.56-1047.97: The gross margin was strong at 57.7%, 170 basis points higher than the gross margin in 2020. 
+asr:0: OUTPUT 1049.21-1053.47: While many companies experienced the impact from higher input costs already in 2021. 
+asr:0: OUTPUT 1054.05-1061.46: Novozyme's unique productivity improvements and production excellence, including our leverage, allows for some alleviation of such changes in input costs. 
+asr:0: OUTPUT 1062.36-1071.81: However, we are not immune to the significantly higher input costs and we started to see a growing impact in the fourth quarter when the gross margin came in at 56.1%. 
+asr:0: OUTPUT 1072.73-1081.06: This was 60 basis points above the fourth quarter of 2020, but around 200 basis points lower than for the first nine months of 2021. 
+asr:0: OUTPUT 1082.14-1090.25: We saw the same beneficial operational factors throughout the year with the addition of a supportive price mix and M&A contribution. 
+asr:0: OUTPUT 1091.33-1099.92: The fourth quarter year-on-year gross margin development was driven by the same factors as for the full year, with input costs becoming a stronger headwind in the quarter. 
+asr:0: OUTPUT 1101.66-1109.85: The EBIT margin was solid at 26.8%, in line with expectations and 70 basis points higher than in 2020. 
+asr:0: OUTPUT 1111.17-1117.30: Higher operating costs were more than offset by higher gross profits and an increase in other operating income. 
+asr:0: OUTPUT 1118.10-1121.12: As implied by the 27% full year outlook. 
+asr:0: OUTPUT 1121.56-1130.07: The fourth quarter EBIT margin was expected to be soft and the year-on-year decline was primarily due to increased operating costs which offset the improved gross margin. 
+asr:0: OUTPUT 1131.61-1141.00: The fourth quarter increase in operating costs was as expected mainly due to higher sales and distribution spend, one-off transaction costs and the recognition of acquisitions. 
+asr:0: OUTPUT 1142.26-1147.45: Currencies provided a slight headwind for the full year but were marginally supportive in the fourth quarter. 
+asr:0: OUTPUT 1148.95-1158.36: When adjusting for one-offs, the underlying full-year EBIT margin for 2021 was around 27% and roughly on par with the underlying EBIT margin for 2020. 
+asr:0: OUTPUT 1159.70-1169.53: Further, when comparing year-on-year margins, 2021 included close to a 1% point headwind from M&A and currencies compared to 2020. 
+asr:0: OUTPUT 1170.75-1178.12: In the fourth quarter, the underlying EBIT margin, when adjusted for both the transaction costs related to the acquisition of Sinergia Life Sciences. 
+asr:0: OUTPUT 1178.14-1184.00: And the sale of a non-core building in Switzerland was around 22% compared to the 21% reported. 
+asr:0: OUTPUT 1184.96-1193.41: Additionally, the fourth quarter included high operational costs as expected and included in the outlook of around 27% for the full year. 
+asr:0: OUTPUT 1195.42-1202.36: Net investments totaled 1.1 billion Danish kroner, somewhat below expectations, mainly due to timing in the fourth quarter. 
+asr:0: OUTPUT 1203.42-1207.13: Free cash flow before acquisitions was solid at 2.9 billion Danish kroner. 
+asr:0: OUTPUT 1207.97-1214.96: Working capital changes and increased net investments offset higher net profit and improved earnings quality. 
+asr:0: OUTPUT 1216.70-1222.86: The lower year-on-year cash flow was much as expected following the 2020 Biwak one-off. 
+asr:0: OUTPUT 1222.88-1228.81: And the previously highlighted timing effects that had a positive effect on working capital in 2020. 
+asr:0: OUTPUT 1230.59-1238.76: The fourth quarter free cash flow was 200 million Danish Kroner and roughly in line with expectations following higher networking capital as well as higher investments. 
+asr:0: OUTPUT 1240.04-1245.11: Return on invested capital including goodwill was 19.3% in 2021. 
+asr:0: OUTPUT 1246.69-1249.67: This was 40 basis points higher than in 2020. 
+asr:0: OUTPUT 1250.83-1260.28: The improvement in ROIC was due to the higher net operating profit after tax, which more than offset an increase in average invested capital following the three acquisitions. 
+asr:0: OUTPUT 1262.00-1265.15: Please turn to slide 10 for the 2022 outlook. 
+asr:0: OUTPUT 1266.47-1272.43: We continue to invest and position ourselves to unlock Novozymes' true sustainable long-term growth potential. 
+asr:0: OUTPUT 1273.49-1282.00: Organic sales are expected to grow by 3-7% in 2022 and sales in Danish kroner are expected to be around 3 percentage points higher. 
+asr:0: OUTPUT 1282.02-1285.59: Including roughly 1 percentage point from the acquisition of Synergia. 
+asr:0: OUTPUT 1286.75-1294.93: The indicated ranges per business area are broader for the agricultural exposed areas, catering for higher implied end-market volatility. 
+asr:0: OUTPUT 1296.16-1303.76: The full year indications per business area are in line with the overall 2025 targets presented at our recent Capital Markets Day. 
+asr:0: OUTPUT 1304.96-1308.75: Seen over the year. We expect performance to be off to a good start in. 
+asr:0: OUTPUT 1311.09-1319.68: The EBIT margin outlook for 2022 is between 25 to 26 percent, including an expectation of a slight year-on-year benefit from currencies. 
+asr:0: OUTPUT 1320.78-1326.33: The margin will benefit from operational leverage, productivity improvements as well as targeted price increases. 
+asr:0: OUTPUT 1327.13-1332.91: This is expected to be more than offset by significantly higher input costs and continued investments in the business. 
+asr:0: OUTPUT 1334.13-1342.34: Included in the outlook, the gross margin is assumed to decline by 1.5 to 2 percentage points in 2022 compared to the previous year. 
+asr:0: OUTPUT 1343.38-1351.29: We are making a dedicated effort to pass on higher input costs and while we expect this to have a neutral impact on our year-on-year sales growth,. 
+asr:0: OUTPUT 1351.47-1355.94: The effort is expected to be supportive to the gross margin and is included in the outlook. 
+asr:0: OUTPUT 1357.34-1359.22: The free cash flow before acquisitions. 
+asr:0: OUTPUT 1359.24-1367.95: Is expected at 1.7 to 2.1 billion Danish kroner, including a significant step up in net investments to support our growth opportunities. 
+asr:0: OUTPUT 1369.31-1373.91: Net investments are expected at between 2.5 and 2.8 billion Danish kroner. 
+asr:0: OUTPUT 1374.67-1384.08: The increase in net investments reflects maintenance, expansion and optimization CAPEX, as well as investments to support our ambitions in the food and health-related areas. 
+asr:0: OUTPUT 1385.23-1394.15: The amount we expect for net investments in 2022 includes roughly 1 billion kroner related to the advanced specialty protein facility in Blair. 
+asr:0: OUTPUT 1395.46-1404.20: When adjusting for the protein investment, net investments add up to around 10% capex to sales ratio, which is in line with what we communicated at our capital markets day. 
+asr:0: OUTPUT 1405.85-1411.33: The outlook for the return on invested capital, including goodwill, is for 16 to 17 percent. 
+asr:0: OUTPUT 1412.71-1419.78: Subject to approval at the annual shareholders meeting in March, the dividend is proposed at 5.5 Danish Kroner per share. 
+asr:0: OUTPUT 1419.84-1425.79: Up by 5% from the year before, and corresponding to a payout ratio of 48.5%. 
+asr:0: OUTPUT 1426.73-1432.67: In addition, a share buyback program of up to 500 million Danish kroner has been approved for 2022. 
+asr:0: OUTPUT 1434.15-1444.80: This is in line with our capital structure policy to return the free cash flow generated to shareholders through a combination of dividends and share buybacks at a net debt to EBITDA ratio of around 1. 
+asr:0: OUTPUT 1445.69-1451.11: With this, I'll now hand back to Esther for a wrap-up before we open up for questions. Esther, please. 
+asr:0: OUTPUT 1452.19-1457.46: Thank you. Thank you, Lars. Please turn to slide number 11. Thank you. 
+asr:0: OUTPUT 1458.18-1464.74: I'm very pleased with the strong set of both financial and non-financial results that we have delivered in 2021. 
+asr:0: OUTPUT 1465.51-1471.47: We grew our sales 6% organically with double-digit growth in three of five business areas. 
+asr:0: OUTPUT 1471.83-1477.38: We deliver solid earnings and cash flow while still reinvesting significantly in the business. 
+asr:0: OUTPUT 1477.84-1483.54: And we are on track to meet 12 out of the 13 of our non-financial targets. 
+asr:0: OUTPUT 1484.36-1488.75: We expect the strong performance from 2021 to continue in 2022. 
+asr:0: OUTPUT 1489.23-1496.30: And we're guiding for a 3 to 7% organic sales growth with a solid EBIT margin that comes despite higher input costs. 
+asr:0: OUTPUT 1496.58-1502.08: Both ROIC and cash flow are impacted by high investments to secure growth of the business. 
+asr:0: OUTPUT 1502.78-1511.95: Our relatively broad range for sales growth allows us to navigate through continued uncertainty related to the pandemic and volatile market conditions. 
+asr:0: OUTPUT 1512.41-1515.90: Similar to the way we position our outlook for 2021. 
+asr:0: OUTPUT 1516.94-1523.94: At the beginning of 2021, we outlined four progress areas to allow you to follow our strategy execution from a different angle. 
+asr:0: OUTPUT 1524.62-1528.85: One of them was to engage in at least three large commercial R&D collaborations. 
+asr:0: OUTPUT 1529.33-1538.30: This goal was achieved with the collaboration with Saipan, with a key player in the plant-based industry, and with FMC in agricultural. 
+asr:0: OUTPUT 1539.20-1542.44: The second progress area focused on commercializing innovation. 
+asr:0: OUTPUT 1542.76-1549.63: This goal was also accomplished as more than 30% of our sales were from solutions launched during the last five years. 
+asr:0: OUTPUT 1550.13-1556.44: Thirdly, we wanted to reach more customers and aim to generate at least 50% of our sales leads digitally. 
+asr:0: OUTPUT 1556.94-1561.46: This goal was achieved as more than 60% of our new leads were generated digitally. 
+asr:0: OUTPUT 1562.16-1568.91: And finally, we want to be a strong voice on the world stage for the ever-increasing need of sustainable solutions. 
+asr:0: OUTPUT 1569.29-1576.60: We wanted to take part in at least three global events linked to sustainability and by participating at the World Economic Forum. 
+asr:0: OUTPUT 1576.62-1583.80: The UN Global Compact Leaders and the COP26 in Glasgow, we also reach our target for this key progress area. 
+asr:0: OUTPUT 1584.98-1589.69: Executing on our strategy remains a top priority here in 2022. 
+asr:0: OUTPUT 1590.33-1599.74: And pre-key progress areas for us are achieving key milestones in the construction of the new production line for advanced protein solutions in Blair, Nebraska. 
+asr:0: OUTPUT 1600.20-1604.16: Leverage their recent acquisitions and deliver double-digit growth in human health. 
+asr:0: OUTPUT 1604.76-1611.15: Continue to strengthen our commercial setup also by initiating investments in the first customer co-creation centre. 
+asr:0: OUTPUT 1611.49-1613.69: And finally, we will secure. 
+asr:0: OUTPUT 1613.71-1622.22: That we keep diligent focus on prioritising in our core business, making sure we deliver on our short as long as our long-term commitments. 
+asr:0: OUTPUT 1623.74-1632.47: Novozymes is in a unique position to drive change towards a healthier planet. And as a company, we have a responsibility to make this happen. 
+asr:0: OUTPUT 1632.93-1636.28: We have built an even stronger foundation over the past two years. 
+asr:0: OUTPUT 1636.68-1643.46: And with our 60-year legacy in understanding biotechnology, we are committing to grow our business sustainably. 
+asr:0: OUTPUT 1643.88-1647.63: Making a lasting difference to the world and to all our stakeholders. 
+asr:0: OUTPUT 1648.01-1654.51: And with this world, these words, please, let's now begin the Q&A session. Operator, please begin. 
+asr:0: OUTPUT 1655.86-1662.94: Thank you. If you wish to ask a question, please dial 01 on your telephone keypad now to enter the queue. 
+asr:0: OUTPUT 1663.66-1666.13: Once your name has been announced you can ask your question. 
+asr:0: OUTPUT 1666.75-1671.89: If you find it's answered before it's your turn to speak, you can dial 02 to cancel. 
+asr:0: OUTPUT 1672.69-1678.54: Our first question comes from the line of Gunther Seckmann of Bernstein. Please go ahead, your line is open. 
+asr:0: OUTPUT 1679.62-1690.37: Hi, good morning everyone. A few questions from my side. The first one is on a comment that you have in your release around the ROIC where you say that you expect notepad. 
+asr:0: OUTPUT 1690.39-1692.85: In 2022 to be lower. 
+asr:0: OUTPUT 1693.01-1695.70: And that explains the lower right guidance. 
+asr:0: OUTPUT 1696.10-1707.77: Can I just confirm that because if I take the midpoint of your organic growth guidance with the Danish Kroner guidance on top and an average margin, even at the higher tax rate of 22% in 2022? 
+asr:0: OUTPUT 1708.27-1716.46: I get a lot of flat NOPAT, so I'd like to understand why you have an assumption there that you have a lower NOPAT in 2022. 
+asr:0: OUTPUT 1717.72-1724.58: The second one, I was intrigued by your comments on pricing to pass on the higher raw material costs. 
+asr:0: OUTPUT 1725.03-1728.99: Can you give us some guidance what you've already seen in the field? 
+asr:0: OUTPUT 1729.01-1738.00: What you're expecting to see in 2022 because it's not usually the enzyme market is not usually one where you see positive pricing. 
+asr:0: OUTPUT 1738.56-1740.58: So some commentary there would be very helpful. 
+asr:0: OUTPUT 1741.32-1743.92: And then lastly one for Tina, if I can sneak that one in as well. 
+asr:0: OUTPUT 1744.18-1753.13: You sound very bullish on BioAg, usually at the beginning of the year, you have a wider guidance range in BioAg. 
+asr:0: OUTPUT 1753.55-1759.88: What gives you the confidence for the strong growth that early in the year already in bioAg, please? 
+asr:0: OUTPUT 1761.58-1771.11: Thank you, Gunther, for these very good questions. I'll comment on pricing and then pass it to Lars for building on your comments on ROIC. 
+asr:0: OUTPUT 1771.13-1772.91: Tina on BioArts. 
+asr:0: OUTPUT 1773.59-1776.62: So on pricing, what gives us the confidence? 
+asr:0: OUTPUT 1777.08-1779.82: It's not a, we have not started the journey on pricing. 
+asr:0: OUTPUT 1780.00-1788.91: This is a long journey that we have already been working, if you remember, already since the time, for sure, since I have been in the team. 
+asr:0: OUTPUT 1789.61-1796.14: And we start seeing the benefits of those focus last year and this year with doubling our energy in this segment. 
+asr:0: OUTPUT 1796.24-1801.30: We live in extraordinary circumstances with rapidly increasing raw material prices. 
+asr:0: OUTPUT 1801.38-1805.00: As you've seen, you've heard Lars saying, we did a fantastic job. 
+asr:0: OUTPUT 1805.03-1812.03: This year plowing and postponing the impact of this high increased raw material till Q4 but we're not immune. 
+asr:0: OUTPUT 1812.69-1817.14: And this opens a fantastic situation for environment for our. 
+asr:0: OUTPUT 1817.16-1826.61: Discussions and conversations with our customers as contracts expire, as contracts sunset, to bring up the discussion on value, on price on the table. 
+asr:0: OUTPUT 1826.91-1833.21: And we're aiming for a space where we're going to move into a positive impact from pricing in gross margin. 
+asr:0: OUTPUT 1833.51-1840.14: But then yes, overcome by the higher raw material price increases and then overall still with a. 
+asr:0: OUTPUT 1840.22-1844.12: A slightly compaction of gross margin of 1.5 to 2%. 
+asr:0: OUTPUT 1845.77-1846.97: And then I'll pass it to you, Lars. 
+asr:0: OUTPUT 1847.89-1848.99: Thanks Esther. 
+asr:0: OUTPUT 1850.03-1851.85: And Gunther, to your question on... 
+asr:0: OUTPUT 1852.27-1858.94: On on right to clear the biggest a impact on the lower return on investor capital is coming from. 
+asr:0: OUTPUT 1858.96-1864.56: From the invested capital component where the acquired assets from our acquisitions. 
+asr:0: OUTPUT 1864.58-1869.11: Is increasing the investor capital number. 
+asr:0: OUTPUT 1869.55-1872.69: So the notepad is the smaller impact. 
+asr:0: OUTPUT 1873.45-1881.30: And of course our guidance is sort of a range on a number of parameters and so therefore our comments should be seen in that light. 
+asr:0: OUTPUT 1882.12-1885.73: I think the key point is that the biggest impact on ROIC is coming from invested capital. 
+asr:0: OUTPUT 1889.51-1895.90: And then I'll answer on the agriculture and animal health and nutrition comment on the bio-ag specifically. 
+asr:0: OUTPUT 1896.50-1903.90: So, yes, we do guide a relatively broad range here from high single-digit growth to the low teens. 
+asr:0: OUTPUT 1904.42-1911.31: And if we just take a step back in that area and in these ag exposed areas,. 
+asr:0: OUTPUT 1911.75-1921.74: The growth drivers is both innovation, its market penetration, its sustainability, and then there's also support when the commodity prices are high. 
+asr:0: OUTPUT 1922.08-1927.93: Given that what we deliver is a yield benefit and that has more value in a high commodity market. 
+asr:0: OUTPUT 1929.77-1938.22: If you look at the performance in 2021 in agriculture and animal health and nutrition, then you have to remember. 
+asr:0: OUTPUT 1938.30-1940.00: It was a flat performance. 
+asr:0: OUTPUT 1940.06-1943.32: You have to remember the 60 million which we saw in 2020. 
+asr:0: OUTPUT 1944.18-1948.59: And also we grew 7% in Q4. 
+asr:0: OUTPUT 1948.91-1956.46: So we are on a strong trajectory and we also think there is some timing and that is supporting the high expectation for 2022. 
+asr:0: OUTPUT 1964.20-1971.41: Question please. Thank you that comes from the line of Michael Novod at Nordea please go ahead the line is open. 
+asr:0: OUTPUT 1973.33-1977.92: Thanks a lot. Just two questions. One to Green Tech. 
+asr:0: OUTPUT 1977.94-1980.78: Tina, you previously talked about the. 
+asr:0: OUTPUT 1980.80-1988.55: Impact from end times to COVID-19 testing. Maybe you could just detail for us also how much of growth was impacted by this in. 
+asr:0: OUTPUT 1988.59-1992.71: Q4 in 2021 and how much is expected in 2022. 
+asr:0: OUTPUT 1993.69-1997.92: And then secondly to Lars regarding CAPEX. 
+asr:0: OUTPUT 1997.94-2007.77: Should we assume that 2022 levels are the peak or would there be one more sort of significantly elevated and then sort of fading off from there? Thanks a lot. 
+asr:0: OUTPUT 2008.53-2009.65: Tina and I. 
+asr:0: OUTPUT 2011.01-2020.84: Yeah, so in grain and tech, if you look at both for the year and the quarter, then roughly 70% of the segment is coming from grain. 
+asr:0: OUTPUT 2020.86-2022.90: And 30% is coming from tech. 
+asr:0: OUTPUT 2023.40-2033.11: And that means that, and within the tech segment, as you know, we have many different businesses. So diagnostics is a small part of that. So it is a small impact. 
+asr:0: OUTPUT 2035.76-2037.04: On CapEx. 
+asr:0: OUTPUT 2037.26-2047.45: We guided in the capital markets day back in September for a capex to sales ratio of around 10% through the period to 2025. 
+asr:0: OUTPUT 2047.87-2053.27: And then on top of that we have our advanced protein facility in Blair. 
+asr:0: OUTPUT 2053.91-2061.78: Now the latter is roughly 2 billion kroner in total over the three-year period 2021 to 2023. 
+asr:0: OUTPUT 2062.80-2066.09: And we recorded roughly 200 million in 2021. 
+asr:0: OUTPUT 2066.59-2074.07: Another $1 billion is expected here in 2022, and so this leaves a residual roughly $800 million for 2023. 
+asr:0: OUTPUT 2075.50-2079.08: The good thing is we have progress in line with our plans. 
+asr:0: OUTPUT 2079.76-2086.29: But exactly how the recording of the CAPEX plays out, of course, is subject to a bit of uncertainty. 
+asr:0: OUTPUT 2086.65-2089.37: So this is our expectations right now. 
+asr:0: OUTPUT 2090.09-2097.18: So you have to add that residual component of roughly 800 million to the 10% also in 2023. 
+asr:0: OUTPUT 2100.02-2109.49: Thank you. Our next question comes from the line of Nicola Tang at Exxon BNV Paribas. Please go ahead, your line is open. 
+asr:0: OUTPUT 2111.33-2114.69: It was a few on household care actually. 
+asr:0: OUTPUT 2115.66-2124.80: I was wondering if you could talk a little bit about the reduced demand in Europe and private label issues. I know we were talking about them back at Q3. 
+asr:0: OUTPUT 2125.55-2129.43: Can you confirm that the European issues are still sort of related to... 
+asr:0: OUTPUT 2129.45-2139.26: Down trading and when you think about your guidance the 2-4% for 2022 can you just clarify or explain what you're factoring for both those two elements? 
+asr:0: OUTPUT 2140.02-2149.07: And then the second question still on household care, we've seen a bit of news flow around activism and restructuring at one of your big household care customers at Unilever. 
+asr:0: OUTPUT 2149.27-2154.13: In the past, I think in the industry, when we had activist cases or cost cutting,. 
+asr:0: OUTPUT 2154.53-2160.00: Is that to level the customer innovation and we found a shirt that's on whether. 
+asr:0: OUTPUT 2160.16-2161.62: See this as a risk. 
+asr:0: OUTPUT 2162.32-2168.03: Whether you see a risk this time around for you or what has changed in the household landscape versus a couple of years ago. 
+asr:0: OUTPUT 2169.09-2172.67: Thank you, Nicola. And Hannes, could you please take those questions? 
+asr:0: OUTPUT 2172.91-2176.64: Yeah, so thanks. Let me start with Europe and what's going on. 
+asr:0: OUTPUT 2177.32-2184.62: The result of the performance in the retail market was that laundry, which is by far our largest single segment, is down 5% on volume. 
+asr:0: OUTPUT 2185.19-2193.81: And the way we look at it, it's a few different sort of trends that's going on. We see customers, they are trading down to lower tier brands. 
+asr:0: OUTPUT 2194.25-2197.76: We also see the customers are washing a little bit less than what they did last year. 
+asr:0: OUTPUT 2198.20-2201.94: And then of course we see the private label segment being under a lot of stress. 
+asr:0: OUTPUT 2202.38-2208.25: And stress comes in different forms. It comes with two of our mid-sized customers have gone out of business. 
+asr:0: OUTPUT 2208.57-2214.19: But also comes in a way where you can see that they're actually losing substantially more than the big brands. 
+asr:0: OUTPUT 2214.59-2223.88: And our exposure to the private label market has traditionally been quite strong. So from that perspective, we also get quite some challenge in Europe. 
+asr:0: OUTPUT 2224.40-2228.29: And I think when you look at the guidance for the full year, looking at household care. 
+asr:0: OUTPUT 2229.03-2236.32: Europe is actually the single and only area compared to our plans that delivers the deficit to our original guidance. 
+asr:0: OUTPUT 2236.92-2242.80: So that's what's going on. Looking ahead on Europe, we plan for a flat European market next year. 
+asr:0: OUTPUT 2242.94-2250.97: We believe that we have sort of seen the bottom of this. We also believe that the private label pain that we saw, that that will travel to other private labels. 
+asr:0: OUTPUT 2251.27-2258.60: So for us, that's I think a good belief that we've seen the bottom of the European market. 
+asr:0: OUTPUT 2259.40-2267.61: Now, if we turn to the next question, this is very, it's difficult. And of course, I can only speculate and I can tell you what happened in the past. 
+asr:0: OUTPUT 2268.51-2273.17: Of course, we've seen investor pressure coming in and it has shown itself in different shapes and forms. 
+asr:0: OUTPUT 2274.17-2278.10: This time around I think it's uncertain to say what's going to happen to Unilever. 
+asr:0: OUTPUT 2278.46-2282.64: We know that Unilever is on a journey where they are really driving sustainability hard. 
+asr:0: OUTPUT 2282.96-2289.85: We have very strong conversations and also a very strong pipeline with Unilever and I'm pretty sure that some of that will come through. 
+asr:0: OUTPUT 2290.25-2293.41: It's too early to tell if there's going to be any negative impact. 
+asr:0: OUTPUT 2293.65-2299.02: Right now we don't see it and our conversations are positive towards growth and innovation. 
+asr:0: OUTPUT 2299.86-2302.44: I think that's it. 
+asr:0: OUTPUT 2302.56-2309.11: Nicola, you did not really implicitly ask for it, but I would like to build on Hannah's comments on what gives us the trust. 
+asr:0: OUTPUT 2309.13-2312.83: On the 2.4 guidance and also on the long-term growth. 
+asr:0: OUTPUT 2313.35-2317.34: It is for once the very strong penetration of freshness. 
+asr:0: OUTPUT 2317.46-2324.38: That we see the broad lunches sticking and contributing to the growth and also contribute to the growth of 2022. 
+asr:0: OUTPUT 2324.84-2331.03: The continued penetration of our solutions in emerging geographies that they do grow this year and they will continue to grow. 
+asr:0: OUTPUT 2331.53-2337.02: And then the strong momentum and the pull for our customers for sustainable solutions replacing chemicals in detergents. 
+asr:0: OUTPUT 2337.72-2345.17: All these parameters, they make us confident that there is a growing path and that we are moving in the right direction to that growth path. 
+asr:0: OUTPUT 2349.19-2358.16: Next question please. Thank you. 
+asr:0: OUTPUT 2360.00-2364.26: Congrats with another strong quarter. A couple of questions on my side. 
+asr:0: OUTPUT 2364.84-2371.63: To the guidance, since you are passing on input cost inflation, at least partly,. 
+asr:0: OUTPUT 2372.07-2378.34: I just wonder to what extent that boosts your organic growth guidance. And in line with. 
+asr:0: OUTPUT 2378.36-2384.70: Both you Esther and Lars mentioned that you were off to a strong beginning of 2022. 
+asr:0: OUTPUT 2385.11-2391.49: So I just wonder what you mean by that and if this implies the year is going to be front-end loaded. 
+asr:0: OUTPUT 2392.69-2396.32: And then a second question goes on. 
+asr:0: OUTPUT 2396.34-2401.16: Alternative proteins because earlier in the year you send out a press release. 
+asr:0: OUTPUT 2401.18-2409.63: Mentioning that you would like to drive the creation of a microprotein industry body. 
+asr:0: OUTPUT 2409.65-2412.39: I don't know what the right word is. 
+asr:0: OUTPUT 2412.59-2418.94: To my knowledge you don't have any significant micro protein products in the market. 
+asr:0: OUTPUT 2418.96-2425.11: Am I wrong is this something that is going to come why are you doing this and should we expect. 
+asr:0: OUTPUT 2425.67-2428.65: Any micro protein announcements going forward. Thank you. 
+asr:0: OUTPUT 2430.01-2439.06: Thank you Lars for your very kind comments. Yes, we feel very pleased with the results and also that we expect a good start for the year. 
+asr:0: OUTPUT 2439.16-2444.88: I'll let Lars answer your first question and then Amy follow up on your second one. 
+asr:0: OUTPUT 2446.79-2451.55: So on our assumptions on pricing, our 2020. 
+asr:0: OUTPUT 2451.57-2457.08: 2 outlook includes a net neutral impact from price on the top line. 
+asr:0: OUTPUT 2458.40-2464.28: We benefit from our targeted price increases but we have also included some volume loss risks. 
+asr:0: OUTPUT 2465.25-2469.09: So that's how we have built our guidance for the year. 
+asr:0: OUTPUT 2470.19-2475.18: While the net effect on top line is neutral, we expect a minor positive contribution to the gross margin. 
+asr:0: OUTPUT 2476.16-2483.72: And as Esther explained earlier on, we are looking to effectuate these price increases as contracts expire. 
+asr:0: OUTPUT 2484.50-2493.43: So our commentary on being off or expecting to be off to a good start, it's important to understand that wording of expecting to be off to a good start. 
+asr:0: OUTPUT 2494.07-2496.70: So we are really commenting on the fact that. 
+asr:0: OUTPUT 2496.72-2505.55: That for the first quarter and for the beginning of the year we see and expect the momentum we had in the. 
+asr:0: OUTPUT 2505.57-2508.85: Last part of 21 to continue into 22. 
+asr:0: OUTPUT 2509.49-2516.98: And therefore just trying to set the expectations for our first reporting of Q1 in April. 
+asr:0: OUTPUT 2521.54-2524.94: Around a 7% organic growth rate for Q1. 
+asr:0: OUTPUT 2527.67-2536.26: So that we are not commenting on Lars, we are just saying that we have 3-7% for the year and then that we are expecting a good start to the year. 
+asr:0: OUTPUT 2537.96-2545.17: You grew 7% in the end of 2021 and if you're implying that growth is continuing, wouldn't that bring Q1 in? 
+asr:0: OUTPUT 2545.61-2551.75: At least in the high end of your guidance range. Or am I completely misunderstanding what you're telling me? 
+asr:0: OUTPUT 2552.35-2559.14: So what I was saying is that we were continuing the same momentum from Q4. I didn't say we would have exactly the same growth rates. 
+asr:0: OUTPUT 2560.02-2562.62: So I think if anything, we will. 
+asr:0: OUTPUT 2562.64-2569.77: So we are saying that we expect the first quarter of the year to be at least on average for the full year growth. 
+asr:0: OUTPUT 2569.81-2574.15: And I think that's as far as we can help you on the first quarter expectations. 
+asr:0: OUTPUT 2579.20-2581.82: The second question is around alternative protein. 
+asr:0: OUTPUT 2582.64-2591.03: Maybe to put this into context, are alternative proteins development really fall into the two categories if I link it back to the strategy? 
+asr:0: OUTPUT 2591.49-2595.64: The first one in the expand space, which is our investment in Blair and everything we're doing. 
+asr:0: OUTPUT 2595.68-2602.40: In that area which would be hitting us within the next three years in terms of really scaling up into growth. 
+asr:0: OUTPUT 2602.88-2611.07: And then we have a piece of what we're working on, which is into our explore category from a strategic perspective, which is really looking at 2025 and beyond. 
+asr:0: OUTPUT 2612.13-2619.42: And that's really where the microproteins fall into place. So the announcement we made last year was around an open call for innovation. 
+asr:0: OUTPUT 2619.56-2625.19: Around microproteins, really looking to couple the work that we're doing internally from an innovation perspective. 
+asr:0: OUTPUT 2625.23-2632.15: With outside innovation and creating an environment and a network to accelerate innovation in the area. 
+asr:0: OUTPUT 2632.49-2640.58: So we don't have anything that you should be expecting in the next year. This is really about that explore area into mycoproteins for the long-term growth. 
+asr:0: OUTPUT 2641.94-2650.01: But just to follow up on that, doesn't that mean it would be fair to assume that if we take a sort of five year perspective. 
+asr:0: OUTPUT 2651.17-2657.84: Your alternative protein portfolio five years from now should be significantly broader than. 
+asr:0: OUTPUT 2657.86-2662.32: What you have already announced and are investing specifically in Blair. 
+asr:0: OUTPUT 2663.38-2671.21: I think that's fair from an aspiration perspective, right? So I mean, what we've announced with Blair would be that three years following the startup, we would reach a billion DKK of sales. 
+asr:0: OUTPUT 2671.59-2679.08: This microprotein space would be beside that, but again, on a longer term basis. Thank you very much. 
+asr:0: OUTPUT 2683.10-2689.43: Thank you. Our next question comes from the line of Alex Jones of Bank of America. Please go ahead, your line is open. 
+asr:0: OUTPUT 2691.19-2701.66: Thank you very much for taking my questions. Two if I may please. The first on the margin this quarter I think you talked about 400 basis points lower underlying EBIT margin year on year due to sales and distribution. 
+asr:0: OUTPUT 2702.20-2710.53: Give us a bit more colour on exactly what in sales and distribution expenses increased and how we should think about that going into 2022. 
+asr:0: OUTPUT 2711.43-2719.52: And second question on food, beverage and health. You talked about sort of raw mat optimization and ingredient replacement in bakery. 
+asr:0: OUTPUT 2719.54-2724.00: Having a positive impact both in 2021 and expected in 2022. 
+asr:0: OUTPUT 2724.90-2734.43: Could you give us a bit more color on sort of how that depends on, say, commodity prices versus how much is a structural evolution of the banking industry? Thank you. 
+asr:0: OUTPUT 2735.26-2741.92: Excellent, thank you. Very good questions, Alex. Lars, if you could answer the first one, and then Hannah's built on the dynamics on banking. Thank you. 
+asr:0: OUTPUT 2742.74-2743.80: Yes, absolutely. 
+asr:0: OUTPUT 2744.24-2751.45: So our operational expenses in the fourth quarter were significantly higher than they were in the beginning of the year. 
+asr:0: OUTPUT 2751.79-2760.64: And this we called out actually already in our release of the second quarter that we were expecting higher operational costs in the second half. 
+asr:0: OUTPUT 2760.66-2763.82: And the majority of those hit in the fourth quarter. 
+asr:0: OUTPUT 2764.38-2771.67: So what they were, for example, in commercial investments we had in our One Health areas,. 
+asr:0: OUTPUT 2771.69-2776.30: Where we had significant investments in cross-channel and cross-geography promotion. 
+asr:0: OUTPUT 2776.32-2785.21: And new product launches building on our acquisitions of the two and now three companies in the area. 
+asr:0: OUTPUT 2786.21-2788.69: We initiated a number of clinical trials. 
+asr:0: OUTPUT 2789.69-2798.46: And we also across the businesses, not only in the area of One Health, but also in the other areas, had significant investments in digital solutions. 
+asr:0: OUTPUT 2799.58-2806.53: So those were some of the key factors that impacted the fourth quarter spent primarily in the sales and distribution area. 
+asr:0: OUTPUT 2807.09-2817.02: And when we look forward to 22, then the fourth quarter of last year is not the appropriate benchmark for how 22 would look like. 
+asr:0: OUTPUT 2818.58-2827.99: So as we said on the gross margin, we expect it for the year to be 1.5 to 2% points lower than what we saw for 2021. 
+asr:0: OUTPUT 2829.83-2834.39: Maybe to give you an idea of the other line items. 
+asr:0: OUTPUT 2834.41-2841.70: Then admin cost is probably a good assumption to be in line with history at 5 to 6 percent. 
+asr:0: OUTPUT 2842.78-2846.31: We have historically had R&D costs of 13. 
+asr:0: OUTPUT 2847.57-2857.36: S&D 11 to 12, but on the latter two we have consciously chosen to shift a bit of our resources from R&D to S&D. 
+asr:0: OUTPUT 2858.44-2867.89: So I think you will probably see a slightly higher S&D ratio, maybe closer to 12 or 12-ish and R&D. 
+asr:0: OUTPUT 2867.93-2870.41: Maybe still in line with the 13 or so. 
+asr:0: OUTPUT 2871.45-2877.36: So I think that is maybe a good way to think about how the cost composition would be in 2022. 
+asr:0: OUTPUT 2877.52-2881.54: And arriving at an EBIT margin of 25 to 26 percent. 
+asr:0: OUTPUT 2883.04-2888.13: And on food and beverages, I'll just expand a little bit on how growth is composed in 21. 
+asr:0: OUTPUT 2888.63-2892.45: So the major driver for us was a very strong underlying demand. 
+asr:0: OUTPUT 2892.47-2898.90: And innovation and market penetration that made up more than two-thirds of the growth in food and beverages. 
+asr:0: OUTPUT 2899.30-2906.09: Then we saw, especially in the brewing space, some recovery that also supported growth. And then we come to raw material optimization. 
+asr:0: OUTPUT 2906.21-2910.03: And absolutely, I should highlight that was mainly in baking. 
+asr:0: OUTPUT 2910.49-2917.62: What happened in baking was that we saw shortages of certain raw materials like vital wheat gluten, we saw quite some inflationary pressure. 
+asr:0: OUTPUT 2917.64-2920.82: On ascorbic acid demulsifiers and so on. 
+asr:0: OUTPUT 2921.34-2929.35: And then you can ask, well, does this stick? We believe when we talk to customers that it is actually quite sticky and that's a business that will continue. 
+asr:0: OUTPUT 2930.39-2933.99: Our estimate says it's between two-thirds and three-fourths of this that will stick. 
+asr:0: OUTPUT 2934.29-2943.96: And the reason we believe it will stick is that customers, they use it to sort of drive clean label claims. They, of course, also do it because of the stability of cost. 
+asr:0: OUTPUT 2944.36-2947.85: And then there is some pain associated to make these reformulations. 
+asr:0: OUTPUT 2948.15-2957.34: So all of that makes us quite confident that what we have seen of reformulation and optimization will actually remain in 22 and the years to come. 
+asr:0: OUTPUT 2960.50-2969.65: Thank you very much. Thank you. Our next question comes from the line of Simon Samson of SCB. Please go ahead. Your line is open. 
+asr:0: OUTPUT 2972.55-2977.08: Yes, good morning. Just two questions from my side. First, on... 
+asr:0: OUTPUT 2977.10-2979.78: To last regarding the... 
+asr:0: OUTPUT 2979.80-2988.65: The margin bridge from the 27% underlying in 2021 to the 26.5%. If you could just give us the components. 
+asr:0: OUTPUT 2988.67-2990.51: To bridge that gap. 
+asr:0: OUTPUT 2991.11-2996.28: And then secondly, you had quite impressively 14 product launches. 
+asr:0: OUTPUT 2996.30-3004.16: In 2021, or solutions you can say, could you highlight the most important ones in terms of sales growth competitiveness? 
+asr:0: OUTPUT 3004.18-3006.41: Contribution over the next five years. Thank you. 
+asr:0: OUTPUT 3009.53-3013.25: Lars. Yes, so on the first question. 
+asr:0: OUTPUT 3013.99-3021.78: So from the 27% underlying, the most important factor of. 
+asr:0: OUTPUT 3021.80-3026.79: Towards the 25 to 26 percent EBIT margin guidance we have for 2022. 
+asr:0: OUTPUT 3027.79-3035.00: Is the lower cross margin which we believe will be 1.5 to 2 percentage points lower. 
+asr:0: OUTPUT 3035.03-3039.14: Than what we saw in 2021. 
+asr:0: OUTPUT 3040.24-3043.66: We are also continuing to invest in our business. 
+asr:0: OUTPUT 3044.12-3051.51: And therefore, as I just outlined with our expectations or at least the way you can think about some of the individual cost lines. 
+asr:0: OUTPUT 3051.89-3059.38: We are still investing also in both sales and distribution and also R&D on a growing top line. 
+asr:0: OUTPUT 3060.60-3069.03: So we don't see any significant other ordinary items in our 2022 numbers. 
+asr:0: OUTPUT 3070.11-3074.53: So those would be the significant drivers of the margin. 
+asr:0: OUTPUT 3074.55-3080.98: Arriving from the 27% last year to 25 to 26% in 2022. 
+asr:0: OUTPUT 3083.48-3084.70: And to your second question. 
+asr:0: OUTPUT 3086.37-3088.49: We've made 14 lunches. We love them all. 
+asr:0: OUTPUT 3089.89-3093.31: It's hard to choose which is the one that we feel more proud of. 
+asr:0: OUTPUT 3093.35-3102.50: They all contributing to what it has been already also a trajectory of where innovation continues to be a strong contributor of our growth. 30% of our sales this year. 
+asr:0: OUTPUT 3102.52-3105.07: They were coming for launches we made in the last five years. 
+asr:0: OUTPUT 3105.63-3110.21: But if you ask me, where would you see that contributing in the future? 
+asr:0: OUTPUT 3110.71-3116.98: It will be across all fronts. So from one side, we have very high expectations on our launches in animal. 
+asr:0: OUTPUT 3117.32-3123.12: Nutrition, including the latest lunch we have made in Euphorius for animal nutrition. 
+asr:0: OUTPUT 3123.68-3128.49: Very strong trend and momentum we mentioned on freshness with a broad launch. 
+asr:0: OUTPUT 3128.89-3133.89: That continues to contribute to growth in household care. 
+asr:0: OUTPUT 3134.35-3136.68: Very good momentum in human health. 
+asr:0: OUTPUT 3137.16-3142.72: Very high level of cross-fertilization on the acquisitions that we brought in and also. 
+asr:0: OUTPUT 3142.74-3149.65: The tangible example from innovation, from our innovation muscle, and then also cross-fertilization across the globe. 
+asr:0: OUTPUT 3150.11-3156.80: And then lastly, not to mention, a strong trend in the market for consumers for healthier foods. 
+asr:0: OUTPUT 3157.32-3165.77: Some by replacement of chemicals or ingredients as Hannes mentioned, but the strong also driver for nutritional changing habits. 
+asr:0: OUTPUT 3165.79-3169.37: In seeking for plant-based solutions where our enzymes contribute. 
+asr:0: OUTPUT 3169.93-3175.01: If you couple that with also a stronger penetration in emerging geographies,. 
+asr:0: OUTPUT 3175.10-3179.82: I have to close your question saying we love them all and we're pleased with the 30%. 
+asr:0: OUTPUT 3180.00-3185.97: A contribution of innovation and we know that innovation is a key contributor of our long-term growth. 
+asr:0: OUTPUT 3191.99-3200.62: Our next question comes from the line of Sam Perry at Credit Suisse. Please go ahead, your line is open. Hi guys, thank you for taking my question. 
+asr:0: OUTPUT 3201.16-3210.01: If I look at your two year stack organic growth, your 22 guide at the mid to upper end implies double digit to mid team growth. 
+asr:0: OUTPUT 3210.31-3213.89: On a two-year basis. This is a level that hasn't been seen. 
+asr:0: OUTPUT 3214.53-3219.64: On a two-year basis since pre-2015 when commodity prices were also much higher. 
+asr:0: OUTPUT 3219.94-3229.23: Similarly, if I look at the midpoint of your sales and EBIT growth, the EBIT guide for 2022 is broadly in line with 2016 despite having some acquisitions. 
+asr:0: OUTPUT 3229.73-3233.61: So I guess my question is how much of your ability to print these higher growth. 
+asr:0: OUTPUT 3233.83-3239.08: And earnings numbers do you think is based on changes you've made to the business over the past five years? 
+asr:0: OUTPUT 3239.32-3248.47: New innovation and how much is based on increasing soft commodity prices and customers reformulating towards enzyme-based products. Thank you. 
+asr:0: OUTPUT 3250.79-3258.20: We thank you for your question. We have a launch as you recall our strategy in September. 
+asr:0: OUTPUT 3258.88-3264.28: And a lot of the fruits that we're seeing today are already from the work made on the past. 
+asr:0: OUTPUT 3264.56-3270.19: But also from the steps we're taking for the implementation of the strategy. It's a combination of both. 
+asr:0: OUTPUT 3270.73-3274.91: We're just capitalizing on the headwinds that we're seeing in the market. We're not shy of that. 
+asr:0: OUTPUT 3275.28-3281.46: But then also many of those ones, they are sticky as they stay. We know that once you tried our solutions. 
+asr:0: OUTPUT 3281.74-3286.21: Then our customers fall in love with the value propositions of sustainability that we bring in. 
+asr:0: OUTPUT 3286.73-3288.97: And that's true across all fronts. 
+asr:0: OUTPUT 3289.23-3295.18: In animal nutrition where we bring beyond increased protein enhancement, also lower manure. 
+asr:0: OUTPUT 3295.38-3304.22: Like in baking, where we're moving into natural formulation and clean labels enabling. 
+asr:0: OUTPUT 3304.82-3310.53: Or detergents, leading to washing consumers who can wash at lower temperatures and replacing chemicals. 
+asr:0: OUTPUT 3310.97-3315.32: So there is good momentum. We're capitalizing on that. But there is a lot of self-help. 
+asr:0: OUTPUT 3315.76-3322.48: And the self-help comes from proactive investments we've made in emerging geographies on assets, on people, on labs. 
+asr:0: OUTPUT 3322.82-3328.97: The self-help also comes from acquisitions that we have made in human health to maximize. 
+asr:0: OUTPUT 3329.03-3337.80: Potential that we have as a biotech company and to contribute to the world in a very rapidly growing trend on healthier needs. 
+asr:0: OUTPUT 3337.98-3341.52: Same will be for plant-based proteins on the investments with Mayton Blair. 
+asr:0: OUTPUT 3342.02-3349.37: We're making on Blair. That's one of the key milestones also for this year to move ahead with those investments and that will be a contributor also for the future growth. 
+asr:0: OUTPUT 3352.53-3361.40: Thank you very much. Thank you. Our next question comes from the line of Charles Bentley at Jefferies. Please go ahead, your line is open. 
+asr:0: OUTPUT 3363.30-3364.50: Thanks for taking my questions. 
+asr:0: OUTPUT 3364.84-3373.35: So I just have two. So one is just on the comments around household care, that Europe has already bottomed and private label, you'll see the shifting. 
+asr:0: OUTPUT 3373.45-3375.96: This is what you're already seeing in Q1. 
+asr:0: OUTPUT 3376.96-3384.90: Because the guide implies kind of an acceleration versus the Q4 exit rate. So I just want to understand whether this is what you can already see. 
+asr:0: OUTPUT 3385.01-3389.15: In January and then coming through the order book for the rest of the fourth quarter. 
+asr:0: OUTPUT 3389.45-3392.25: Or does this assume that this picks up at some point? 
+asr:0: OUTPUT 3392.75-3400.40: And then secondly, just on the, just another question on the kind of Q4 margins and the commercial investments you've mentioned. 
+asr:0: OUTPUT 3400.92-3404.78: It seems to suggest that something like 100 million of costs in Q4. 
+asr:0: OUTPUT 3405.11-3408.65: I think previously you suggested it would be something like 300 million total. 
+asr:0: OUTPUT 3409.33-3417.10: Is that right? And then kind of related to that, what's the likely phasing on the remaining costs? Thank you. 
+asr:0: OUTPUT 3418.44-3422.04: Thank you, Charles. I'll let Hannes answer your first question and then Lars can you build up. 
+asr:0: OUTPUT 3422.70-3423.70: On the second one. Thank you. 
+asr:0: OUTPUT 3424.18-3433.99: So of course we have one month in the books and it confirms what I said before that we believe that Europe will look around flat, maybe slight growth. 
+asr:0: OUTPUT 3434.51-3438.10: And that's what we see now and that's also what we see in the order books. 
+asr:0: OUTPUT 3441.10-3444.28: And I would say on the spend in the fourth quarter. 
+asr:0: OUTPUT 3445.53-3451.59: I don't know, but I assume the 300 million you refer to is the cost that we. 
+asr:0: OUTPUT 3451.61-3456.42: Carved out all the way back in 19 when we started to. 
+asr:0: OUTPUT 3456.44-3460.86: Sort of reshape our cost structures towards sales and distribution. 
+asr:0: OUTPUT 3461.96-3470.37: I think now we are almost three years later and I think it becomes very difficult to separate what was carved out and what is now invested where. 
+asr:0: OUTPUT 3470.81-3479.24: So I would maybe rather look at our commitment to continue to invest in our business, which we also do and imply in our guidance here for 2022. 
+asr:0: OUTPUT 3480.18-3489.35: And then we have also provided a long-term guidance back in the capital markets day that we aim for an EBIT margin of 26% in 2025 or above. 
+asr:0: OUTPUT 3490.33-3499.78: And no individual year going below 25. And that's what we are guiding for here in 2022 with a continued investment in our business to support the organic sales growth. 
+asr:0: OUTPUT 3502.02-3506.83: Thank you very much. We have time for one more last one last question, please. 
+asr:0: OUTPUT 3508.05-3513.15: Thank you. And that comes from the line of Sebastian Bray at Barabeau Bank. Please go ahead, your line is open. 
+asr:0: OUTPUT 3514.23-3520.06: Hello, good morning and thank you for taking my questions. They're primarily focused on gross margin development. 
+asr:0: OUTPUT 3520.18-3525.73: I can understand why the current raw material environment would mean that the outlook is. 
+asr:0: OUTPUT 3526.39-3528.85: Let's say downwards for 2022. 
+asr:0: OUTPUT 3529.47-3534.43: What makes me curious is what the company thinks of as its mid to long term gross margin. 
+asr:0: OUTPUT 3534.51-3536.84: If price recovery is good enough. 
+asr:0: OUTPUT 3537.32-3540.46: Do we get 100 to 150 basis points back? 
+asr:0: OUTPUT 3540.50-3546.39: Is there anything in 2023 onwards, is there anything to suggest the current decline? 
+asr:0: OUTPUT 3546.41-3550.65: In gross margins may prove permanent as opposed to temporary. 
+asr:0: OUTPUT 3551.31-3554.03: And secondly, a quick question on plant-based meat and products. 
+asr:0: OUTPUT 3554.53-3564.10: If I say as a rough guess, I think Novazim is making a little less than 100 million DKK in this area on an annualised basis. I'm getting warm. Thank you. 
+asr:0: OUTPUT 3566.07-3569.59: Thank you, Sebastian. Good morning. And I'll let Lars answer your questions. 
+asr:0: OUTPUT 3570.77-3579.90: Yes, thanks Sebastian. So right now we are like many other companies impacted by the higher input costs. 
+asr:0: OUTPUT 3580.66-3585.71: And therefore we are guiding to a lower gross margin of 1.5 to 2 percentage points. 
+asr:0: OUTPUT 3586.45-3592.69: We are also saying that we are taking actions to pass on some of those higher input costs to our customers over time. 
+asr:0: OUTPUT 3593.69-3599.96: And therefore we see a small positive contribution from that pricing initiative on our gross margin. 
+asr:0: OUTPUT 3601.10-3609.23: And then I would say we are still continuing to see the productivity improvements as we have seen for years and years and years. 
+asr:0: OUTPUT 3609.25-3614.47: Leveraging the scale and the volume growth in our facilities. 
+asr:0: OUTPUT 3614.87-3621.38: So in the long term, we still see potential to expand gross margin from productivity, from scale. 
+asr:0: OUTPUT 3622.32-3631.03: And then we will see how the future develops both in terms of input costs and also in terms of price discussions. 
+asr:0: OUTPUT 3631.67-3638.40: But the fundamental factors that enables us to see gross margin expansion, those are intact. 
+asr:0: OUTPUT 3638.66-3645.43: And then of course there are more parameters like we now experience in 2022 which will determine the actual gross margin in the individual year. 
+asr:0: OUTPUT 3649.23-3653.15: Thank you Lars, and that closes the session. 
+asr:0: OUTPUT 3653.83-3655.84: Sorry, Hannes, yes, please build on the second question. 
+asr:0: OUTPUT 3655.96-3664.97: I think there was a question around protein and let me just expand on that. I'll not give you a specific guidance on how much we sell and whether 100 million is warm or cold. 
+asr:0: OUTPUT 3665.41-3670.13: But what we do, we have a sizable business on protein extraction and protein modification. 
+asr:0: OUTPUT 3670.17-3676.14: That relates to meat patties both delivering on taste and texture and reduction of salt. 
+asr:0: OUTPUT 3676.38-3678.64: It's a business that's growing very, very nicely right now. 
+asr:0: OUTPUT 3678.94-3685.02: And of course, one, when you look at the trends, we have a lot of hope and faith will continue to grow for Norwegians. 
+asr:0: OUTPUT 3686.75-3695.40: And now, yes. Thank you very much all for your questions. Thank you for your time. And looking forward, continue the conversations with you, with many of you in the forthcoming days. 
+asr:0: OUTPUT 3695.56-3697.18: Wishing you a very nice day. Thank you. 
+asr:0: END

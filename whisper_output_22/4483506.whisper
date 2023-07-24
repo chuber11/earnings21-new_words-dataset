@@ -1,0 +1,629 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.18-4.36: Ladies and gentlemen. 
+asr:0: OUTPUT 5.63-14.17: It is now time to start Sony Group Corporation's FY21 3rd Quarter Earning Announcement. I'm Okada, Corporate Communications. 
+asr:0: OUTPUT 14.19-16.48: I'll be serving as Master of Ceremonies today. 
+asr:0: OUTPUT 16.96-25.11: The session is being held for journalists, analysts, and institutional investors to whom we have sent out invitations in advance. 
+asr:0: OUTPUT 25.71-31.25: This session will be live webcast through our investors relations website. 
+asr:0: OUTPUT 31.71-40.78: First, we have with us Mr. Totoki, executive deputy president and CFO, to explain third quarter FY21 consolidated results. 
+asr:0: OUTPUT 40.80-43.04: And the forecast for consolidated. 
+asr:0: OUTPUT 43.06-45.83: Fiscal 2021 results. 
+asr:0: OUTPUT 46.11-50.07: The duration is about 70 minutes. Mr. Totoki, the floor is yours. 
+asr:0: OUTPUT 50.97-54.67: Thank you. I will cover the topics written here today. 
+asr:0: OUTPUT 55.58-63.32: FI21Q3 consolidated sales increased 13 percent compared to the same quarter of the previous fiscal year to. 
+asr:0: OUTPUT 63.34-70.15: 3,031.3 billion yen and consolidated operating income increased a significant 113.5%. 
+asr:0: OUTPUT 70.17-74.73: Point three billion yen year on year to four hundred and sixty five point two billion yen. 
+asr:0: OUTPUT 75.12-77.44: Both were record highs for the third quarter. 
+asr:0: OUTPUT 78.00-82.92: Income before income taxes increased 77.8 billion yen year on year. 
+asr:0: OUTPUT 82.94-93.97: To 461.6 billion yen, and net income attributable to Sony Group Corporation shareholders increased 35.4 billion yen to 346.2 billion yen. 
+asr:0: OUTPUT 94.67-102.50: Please see pages 3 to 6 of the presentation materials for a depiction of each profit metric adjusted to exclude one-time items. 
+asr:0: OUTPUT 103.14-107.11: This slide shows the results by segment for FI21Q3. 
+asr:0: OUTPUT 107.87-112.23: Next, I will show the consolidated results forecast for FY21. 
+asr:0: OUTPUT 113.31-119.86: Consolidated sales are expected to remain unchanged from our previous forecast of 9 trillion, 900 billion yen. 
+asr:0: OUTPUT 119.90-125.37: While operating income is expected to increase 160 billion yen to 1,200 billion yen. 
+asr:0: OUTPUT 125.75-132.31: We have also upwardly revised our forecast for income before income tax to 1 trillion 155 billion yen. 
+asr:0: OUTPUT 132.57-138.34: And a forecast for net income attributable to Sony Group Corporation shareholders to 860 billion yen. 
+asr:0: OUTPUT 138.72-146.73: A forecast for consolidated operating cash flow excluding the financial services segment has increased 50 billion yen to 940 billion yen. 
+asr:0: OUTPUT 147.43-150.89: This slide shows our forecast by segment for FY21. 
+asr:0: OUTPUT 151.61-155.96: I will now explain the situation in each of our business segments. 
+asr:0: OUTPUT 156.44-159.10: First is game and network service segment. 
+asr:0: OUTPUT 159.40-164.44: FI21Q3 cells decreased to 813.3 billion yen. 
+asr:0: OUTPUT 164.90-174.07: 8% lower than the same quarter of the previous fiscal year in which we launched the PlayStation 5 and sold major titles in conjunction with the launch. 
+asr:0: OUTPUT 174.29-180.56: Operating income increased 12.1 billion yen year on year to 92.9 billion yen. 
+asr:0: OUTPUT 180.68-188.33: Primarily due to a decrease in selling general and administrative expenses and an improvement in PS5 hardware profitability. 
+asr:0: OUTPUT 188.35-191.23: Partially offset by a decrease in software sales. 
+asr:0: OUTPUT 191.71-200.88: The FI21 sales are expected to decrease 170 billion yen compared to our previous forecast to 2 trillion 730 billion yen. 
+asr:0: OUTPUT 200.92-207.65: And operating income is expected to increase 20 billion yen compared to the previous forecast to 345 billion yen. 
+asr:0: OUTPUT 208.15-212.53: Total gameplay time of PlayStation users in December 21. 
+asr:0: OUTPUT 212.55-218.98: Was 20% lower than the same month of the previous year, which was immediately after the release of PS5. 
+asr:0: OUTPUT 219.32-224.38: But gameplay time increased approximately 7% from December 2019. 
+asr:0: OUTPUT 224.82-230.97: For a quarter in which there were only a few major titles released, we think this was solid performance. 
+asr:0: OUTPUT 232.19-235.92: In the fourth quarter, ending March 31, 2022,. 
+asr:0: OUTPUT 235.94-245.55: We expect youth engagement to increase further because the major first party titles Horizon Forbidden West and Gran Turismo 7 will be released. 
+asr:0: OUTPUT 246.69-259.70: The PC version of God of War, released in January 2022, has received high acclaim among the PC gaming community, obtaining a Metacritic Metascore of 93. 
+asr:0: OUTPUT 262.14-267.43: Unfortunately, due to limitations on the supply of components, especially semiconductors,. 
+asr:0: OUTPUT 267.57-273.71: An increase in delivery times resulting from the disruption of the global distribution supply chain. 
+asr:0: OUTPUT 273.83-282.10: We have revised our FI21 unit sales forecast for PS5 hardware to 11.5 million units. 
+asr:0: OUTPUT 282.56-286.73: Limitations on the supply of components are expected to continue going forward. 
+asr:0: OUTPUT 287.11-292.77: But we are continuing to exert every effort to meet the strong demand for PS5. 
+asr:0: OUTPUT 295.62-298.52: On January 31st in the U.S. 
+asr:0: OUTPUT 298.56-308.41: Sony Interactive Entertainment entered into definitive agreement to acquire Bungie Inc., one of the world's leading independent game developers. 
+asr:0: OUTPUT 309.91-312.95: With more than 900 creative people on staff. 
+asr:0: OUTPUT 313.35-320.50: Bungie has a track record of creating blockbuster titles such as Halo and Destiny. 
+asr:0: OUTPUT 322.04-328.15: As a long-time partner of Banji, we have discussed various forms of collaboration with them in the past. 
+asr:0: OUTPUT 328.67-340.74: Ultimately, we decided to pursue an acquisition because we gained confidence that we could grow even more by combining the corporate cultures of both companies as well as our strengths in. 
+asr:0: OUTPUT 340.76-342.00: The creative space. 
+asr:0: OUTPUT 342.50-352.25: Once part of SIE, Bungie will operate as an independent studio and will continue to publish its content on platforms other than PlayStation. 
+asr:0: OUTPUT 353.59-358.56: The total consideration for the acquisition is 3.6 billion U.S. Dollars. 
+asr:0: OUTPUT 358.84-364.48: And the completion of the acquisition is subject to certain closing conditions, including regulatory approvals. 
+asr:0: OUTPUT 365.17-372.21: From calendar year 2014 to calendar year 2021, the size of the global game content market doubled. 
+asr:0: OUTPUT 372.37-381.52: Driven by add-on content revenue from live game services, which grew at an average annual rate of 15% during this period. 
+asr:0: OUTPUT 381.84-384.44: We expect this trend to continue going forward. 
+asr:0: OUTPUT 385.71-395.01: Bungie has capitalized on this opportunity from an early stage by incorporating live game services into its premier franchise Destiny. 
+asr:0: OUTPUT 395.24-399.98: And it has accumulated a wealth of experience and superb technology in the space. 
+asr:0: OUTPUT 400.48-406.93: The strategic significance of this acquisition lies not only in obtaining the highly successful Destiny franchise,. 
+asr:0: OUTPUT 406.95-411.19: As well as major new IP that Banji is currently developing. 
+asr:0: OUTPUT 411.51-421.24: But also incorporating into the Sony group the expertise and technologies that Bungie has developed in the live game services space. 
+asr:0: OUTPUT 421.72-430.71: We intend to utilize these strengths when developing game IP at the PlayStation Studios as we expand into the live game services area. 
+asr:0: OUTPUT 431.17-440.72: Through close collaboration between Bungie and the PlayStation Studios, we aim to launch more than 10 live service games by the fiscal year ending March 31, 2026. 
+asr:0: OUTPUT 442.30-451.51: In addition, we view the deployment of a game IP on multiple platforms as a major growth opportunity for Sony, as has been the evidence by the successful PC version of The God of War. 
+asr:0: OUTPUT 451.53-452.95: In other first party games. 
+asr:0: OUTPUT 453.23-459.38: Through this acquisition, we intend to acquire new users and increase engagement on platforms other than PlayStation. 
+asr:0: OUTPUT 459.60-467.05: Which will enable us to significantly advance our long-term growth strategy for further expanding the ecosystem of our game business. 
+asr:0: OUTPUT 468.03-470.11: Catalyzed by the acquisition of Bungie,. 
+asr:0: OUTPUT 470.31-479.56: We intend to accelerate the growth of our first-party game software revenue, aiming to more than double the current amount by FY25. 
+asr:0: OUTPUT 483.22-486.93: Now I will use this conceptual. 
+asr:0: OUTPUT 486.95-493.25: Diagram to explain at a higher level how this acquisition will be treated from an accounting perspective. 
+asr:0: OUTPUT 493.61-498.84: Bungee is a private company, the majority of whose shares are owned by its employees. 
+asr:0: OUTPUT 499.16-505.87: So the payment of the consideration is structured to incentivize the shareholders and other creative talent. 
+asr:0: OUTPUT 506.05-510.09: To continue working at Bungee after the acquisition closes. 
+asr:0: OUTPUT 510.75-519.70: Approximately one-third of the 3.6 billion U.S. Dollar consideration for the acquisition consists primarily of deferred payment. 
+asr:0: OUTPUT 519.72-526.41: To employee shareholders, conditional upon their continued employment and other retention incentives. 
+asr:0: OUTPUT 527.01-536.20: These amounts will be paid over the course of several years after the acquisition closes and will be recorded as expenses for accounting purposes. 
+asr:0: OUTPUT 536.58-545.85: We expect about two-thirds of these deferred payments and other retention incentives to be expensed in the first two years after the acquisition closes. 
+asr:0: OUTPUT 546.77-554.53: Next is the music segment. Although sales of visual media and platform decreased, FY21 Q3 sales increased. 
+asr:0: OUTPUT 554.83-563.64: 12% year on year to 295.9 billion yen, primarily due to an increase in streaming revenue. 
+asr:0: OUTPUT 563.98-567.15: Despite the impact of the increasing sales of recorded music,. 
+asr:0: OUTPUT 567.41-571.31: Operating income decreased 4.0 billion. 
+asr:0: OUTPUT 571.33-580.74: Yen year on year to 55.5 billion yen, primarily due to the impact of the decrease in sales of visual media and platform. 
+asr:0: OUTPUT 583.30-591.93: The contribution to the operating income of the quarter from visual media and platform accounted for the mid-teens percentage of the operating income of the segment. 
+asr:0: OUTPUT 592.25-594.77: A321 sales are expected to increase. 
+asr:0: OUTPUT 595.00-603.06: 20 billion yen compared to our previous forecast to 1,390 billion yen in operating income is expected. 
+asr:0: OUTPUT 603.08-608.01: To increase 5 billion yen compared to a previous forecast to 2.05 billion yen. 
+asr:0: OUTPUT 608.31-611.53: Streaming revenue in Q3 continued to grow at high rate. 
+asr:0: OUTPUT 611.95-618.10: 29% year-on-year in recording music and 27% year-on-year in music publishing. 
+asr:0: OUTPUT 618.48-628.67: The recorded music business continued to generate major hits, with an average of 36 songs ranking in Spotify's global top 100 songs during the quarter. 
+asr:0: OUTPUT 630.53-635.98: Global superstar, singer, songwriter, Adele's album, 30. 
+asr:0: OUTPUT 636.00-644.30: Became a historic hit, remaining number one on the Billboard chart for a consecutive eight weeks after its release in November. 
+asr:0: OUTPUT 645.19-647.45: Next is the picture segment. 
+asr:0: OUTPUT 647.77-651.57: FY21 Q3 sales increased significantly. 
+asr:0: OUTPUT 651.61-659.72: 141% year-on-year to 461.2 billion yen primarily due to the blockbuster hit. 
+asr:0: OUTPUT 659.84-662.60: Spider-Man, Nowhere Home, Emotion Pictures,. 
+asr:0: OUTPUT 662.62-668.89: And the licensing of the popular U.S. Television series Seinfeld in television productions operating in income. 
+asr:0: OUTPUT 669.83-671.03: Increased. 
+asr:0: OUTPUT 671.05-679.84: A significant 121.1 billion yen year-on-year to 149.4 billion yen primarily due to the impact of the increase in sales. 
+asr:0: OUTPUT 679.86-690.17: And recording of a 70.2 billion yen gain from the transfer of GSN games, which closed on December 6. 
+asr:0: OUTPUT 690.19-691.65: 2021. 
+asr:0: OUTPUT 694.09-700.56: FY21 sales are expected to increase 40 billion yen compared to our previous forecast. 
+asr:0: OUTPUT 700.60-709.47: To 1,222 billion yen, and operating income is expected to increase 97 billion yen compared to our previous forecast. 
+asr:0: OUTPUT 709.49-711.55: To 2.5 billion yen. 
+asr:0: OUTPUT 712.07-721.02: Even when one-time items are excluded, operating income this fiscal year is expected to be the highest ever for the picture segment. 
+asr:0: OUTPUT 723.16-729.43: Spider-Man No Way Home was released across the US on December 17, 2021. 
+asr:0: OUTPUT 729.75-737.84: And went on to record the second-highest ever opening box office revenue nationwide, according to the most recent data. 
+asr:0: OUTPUT 738.06-745.21: Its cumulative worldwide box office revenue is the sixth highest ever at approximately $1.7 billion U.S. 
+asr:0: OUTPUT 745.35-750.69: And it holds the record for highest grossing film in the history of Sony Pictures Entertainment. 
+asr:0: OUTPUT 751.03-756.90: Other franchises such as Venom let their big carnage contribute significantly to our financial results. 
+asr:0: OUTPUT 757.20-764.14: And we are looking forward to the release this month of Uncharted, which is a movie version of a popular PlayStation game title. 
+asr:0: OUTPUT 764.38-771.17: Despite our success, we will continue to pursue our flexible release strategy going forward. 
+asr:0: OUTPUT 771.25-774.51: As we have done by postponing. 
+asr:0: OUTPUT 774.57-783.30: The U.S. Release of Morbius, a new film from the Sony Pictures Universe of Marvel characters from January to April of this calendar year. 
+asr:0: OUTPUT 783.62-787.89: On December 22nd, 2021, Sony Pictures Networks India. 
+asr:0: OUTPUT 787.91-793.81: A subsidiary of SPE signed a definitive agreement on merge. 
+asr:0: OUTPUT 794.01-798.50: To merge SP&I with the entertainment enterprise. 
+asr:0: OUTPUT 799.08-809.49: The merger represents an opportunity to further accelerate expansion and digitalization of our business by using the strengths of both companies to strengthen our digital distribution service. 
+asr:0: OUTPUT 809.51-812.97: In rapidly growing Indian media market, entertainment market. 
+asr:0: OUTPUT 813.25-819.48: We expect that the transaction will close in the Laraha Hope this fiscal year ending March 31, 2023. 
+asr:0: OUTPUT 819.94-828.61: After obtaining approval of the ZEE's shareholders and regulatory authorities after the transaction closes, SPU will own the majority of the shares. 
+asr:0: OUTPUT 828.63-830.39: Of the merged entity. 
+asr:0: OUTPUT 831.13-835.28: Then the next is the electronics products and solutions segment. 
+asr:0: OUTPUT 835.38-839.82: Despite the favorable impact on sales from foreign exchange rate Q3 sales decrease,. 
+asr:0: OUTPUT 839.98-843.70: 2% year on year to 286.9 billion yen. 
+asr:0: OUTPUT 843.72-850.09: Primarily due to a decrease in the unit sales of our products, resulting from a decline in stay-at-home demand. 
+asr:0: OUTPUT 850.25-852.35: And a shortage in the supply of components. 
+asr:0: OUTPUT 852.55-858.68: Despite the favorable impact of foreign exchange rates and an improvement in product mix, operating income decreased. 
+asr:0: OUTPUT 858.92-866.43: 23.3 billion yen year on year to 80 billion yen, primarily due to the impact of decrease in sales. 
+asr:0: OUTPUT 867.03-872.15: FY21 sales are expected to increase 80 billion yen compared to our previous forecast. 
+asr:0: OUTPUT 872.17-881.14: To 2,360 billion yen, and operating income is expected to increase 20 billion yen compared to our previous forecast to 210 billion yen. 
+asr:0: OUTPUT 882.48-892.25: Our current income margin for this fiscal year is expected to exceed 8%. The efforts we have been making to improve our profitability are steadily bearing fruit. 
+asr:0: OUTPUT 893.01-898.40: During quarter three, the impact of the rapid decline in TV panel prices. 
+asr:0: OUTPUT 898.42-903.86: On consumer market prices for TV was more limited than we originally anticipated. 
+asr:0: OUTPUT 904.36-911.45: And the shift to large-size TVs increased primarily in the U.S., Europe, and China. 
+asr:0: OUTPUT 912.39-921.06: As a result, we are able to maintain the average selling price of our TVs as essentially the same level as the second quarter ended September 30, 2021. 
+asr:0: OUTPUT 921.66-929.65: Nevertheless, we continue to be unable to fully meet market demand in multiple categories due to severe limitations on the supply of components. 
+asr:0: OUTPUT 929.93-936.06: We expect this situation to continue to impact us in the fourth quarter ending March 31, 2022. 
+asr:0: OUTPUT 936.84-945.81: We will continue to exert every effort to procure components, as that will be one of the highest priorities for this segment next fiscal year. 
+asr:0: OUTPUT 946.21-949.53: Next is the imaging and sensing solution segment. 
+asr:0: OUTPUT 949.83-957.26: FY21 Q3 sales increased a significant 22% year-on-year to 324.8 billion yen. 
+asr:0: OUTPUT 957.52-962.84: Primarily due to an increase in sales of high-end image sensors for mobile products. 
+asr:0: OUTPUT 963.14-971.09: Operating income increased 13.3 billion yen year to year to 64.7 billion yen primarily due to the impact. 
+asr:0: OUTPUT 971.11-973.25: Of the increasing cells. 
+asr:0: OUTPUT 973.41-980.58: Our FY21 sales expected to decrease 30 billion yen compared to our previous. 
+asr:0: OUTPUT 980.60-983.46: Forecast of 1 trillion 70 billion yen. 
+asr:0: OUTPUT 983.92-988.01: The FY21 operating income forecast remains unchanged from the previous forecast. 
+asr:0: OUTPUT 988.35-996.02: Despite severe conditions in the smartphone market, such as weakness in the Chinese market and shortage of components, especially semiconductors,. 
+asr:0: OUTPUT 996.40-998.36: The effort we have made here to. 
+asr:0: OUTPUT 998.38-1007.51: To expand and diversify our mobile sensors customer base as well as to cover our market share on a volume basis are having some success. 
+asr:0: OUTPUT 1007.91-1015.12: However, it is taking longer than expected to introduce the high performance, high resolution custom sensors. 
+asr:0: OUTPUT 1015.36-1018.74: That we have been working on with Chinese smartphone makers. 
+asr:0: OUTPUT 1019.12-1029.59: So the speed of profitability improvement resulting from an increase in added value products going into next fiscal year will be slightly lower than the originally planned. 
+asr:0: OUTPUT 1030.17-1038.30: Recently, the trend toward the Chinese smartphone market purchasing larger size segments for the high-end products is improving after having stagnant. 
+asr:0: OUTPUT 1039.32-1044.50: And due to the contraction of our business with certain Chinese customers,. 
+asr:0: OUTPUT 1044.70-1049.93: We expect the Chinese smartphone market to normalize in the second half of next fiscal year. 
+asr:0: OUTPUT 1050.31-1055.46: Since we feel better about the possibility of sales growth and for the market share expansion next fiscal year,. 
+asr:0: OUTPUT 1055.80-1062.02: We will focus even more on increasing the added value of our products and strive to improve profitability. 
+asr:0: OUTPUT 1062.46-1064.66: On January 25, 2022. 
+asr:0: OUTPUT 1065.01-1073.35: Sony Semiconductor Solutions Corporation completed its initial investment in Japan Advanced Semiconductor Manufacturing Company Limited. 
+asr:0: OUTPUT 1073.37-1075.50: As a minority shareholder. 
+asr:0: OUTPUT 1075.74-1081.44: Sony will support JASM by assisting with the startup of this new logic wafer factory. 
+asr:0: OUTPUT 1081.46-1086.07: Which aims to begin mass production during calendar year 2024. 
+asr:0: OUTPUT 1086.77-1088.69: Last is the financial service segment. 
+asr:0: OUTPUT 1089.09-1096.96: Fiscal year 21 Q3 financial services revenue increased 11% year-on-year to 471.3 billion yen. 
+asr:0: OUTPUT 1097.48-1104.48: Primarily due to an increase in the net gains on investments in the separate account at Sony Life Insurance Company Limited. 
+asr:0: OUTPUT 1104.80-1110.13: Operating income decreased 4.7 billion yen year-on-year to 35.2 billion yen. 
+asr:0: OUTPUT 1110.47-1117.90: Primarily due to deterioration in valuation on securities at our venture capital business and at Sony Bank. 
+asr:0: OUTPUT 1118.34-1127.29: New policy amount enforced at Sony Life during Q3 grew at a higher rate than our competitions. 
+asr:0: OUTPUT 1129.19-1135.16: Driven primarily by our priority focus area of selling insurance to corporations. 
+asr:0: OUTPUT 1135.82-1142.70: The FY21 financial service revenue is expected to increase 120 billion yen compared to our previous forecast. 
+asr:0: OUTPUT 1142.72-1149.65: To 1,610,000,000 yen. Our FY21 operating income forecast remains unchanged from the previous forecast. 
+asr:0: OUTPUT 1150.03-1153.67: Now I'd like to update you on our strategic investments. 
+asr:0: OUTPUT 1154.13-1164.04: The amount of capital allocated to strategic investments, including the acquisition of Bungie, which I explained earlier, and repurchases of Sony stock from the beginning. 
+asr:0: OUTPUT 1164.08-1176.26: Of the fiscal year until today, and increasing acquisition and asset purchases that have closed as well as those that have been decided but not closed totals approximately 850 billion yen. 
+asr:0: OUTPUT 1176.82-1181.96: This slide shows the breakdown of the segments and areas in which we have allocated investment. 
+asr:0: OUTPUT 1182.28-1189.49: The music semantic portion of the chart does not include approximately 100 billion yen we have invested in music catalogs. 
+asr:0: OUTPUT 1189.51-1193.79: Because the amount is included in the operating cash flow under IFRS. 
+asr:0: OUTPUT 1194.31-1203.60: We are making steady progress in accordance with our current mid-range plan of making 2 trillion on – or more of strategic investment. 
+asr:0: OUTPUT 1203.66-1205.41: As we believe that we. 
+asr:0: OUTPUT 1205.45-1220.92: We believe that the evolution of our business portfolio aimed at realizing long-term growth is progressing well. As I mentioned at the previous earnings announcement, we aim to accelerate the cycle whereby returns generated from previous investment are used to investing growth. 
+asr:0: OUTPUT 1220.94-1222.74: Thereby realizing long-term growth. 
+asr:0: OUTPUT 1223.12-1228.63: At CES 2022 last month, President Yoshida announced that we will establish Sony Mobility Inc. 
+asr:0: OUTPUT 1228.65-1234.53: In the spring of this year and we will explore the possibility of introducing Vision S, the. 
+asr:0: OUTPUT 1234.55-1240.50: The Vision S initiative aims to create a new value and contribute to the evolution of the. 
+asr:0: OUTPUT 1240.72-1248.17: By leveraging Sony's various technology and content, and by adding new entertainment elements to a safe and secure moving space. 
+asr:0: OUTPUT 1248.21-1253.03: Going forward, we will proceed with our exploration. 
+asr:0: OUTPUT 1253.15-1260.26: Under the assumption that we will collaborate and ally ourselves with multiple partners. That is the conclusion of my remarks. 
+asr:0: OUTPUT 1263.44-1270.03: Thank you very much. It was Mr. Totoki, executive deputy president and the chief financial officer. 
+asr:0: OUTPUT 1270.05-1275.94: From 3.55, we have Q&A session for media, and from 4.20,. 
+asr:0: OUTPUT 1275.96-1278.42: Q&A by investors and analysts. 
+asr:0: OUTPUT 1278.72-1281.36: We set aside 20 minutes each for Q&As. 
+asr:0: OUTPUT 1281.76-1291.71: Those journalists, investors, analysts who have already registered for questions in advance, please be connected to the designated telephone number in advance. 
+asr:0: OUTPUT 1292.43-1296.00: And those of you who have not made a registration in advance,. 
+asr:0: OUTPUT 1296.48-1302.48: You can continue to listen to the Q&A session through internet. 
+asr:0: OUTPUT 1460.00-1462.62: You can wait until the Q&A session begins. 
+asr:0: OUTPUT 1500.42-1504.52: Thank you very much for waiting. Now we are going to entertain questions from the media. 
+asr:0: OUTPUT 1505.49-1512.11: Respondents are Mr. Hiroki Tokutoki, Executive Deputy President and Chief Financial Officer. 
+asr:0: OUTPUT 1512.91-1521.00: Naomi Matsuoka, senior vice president in charge of corporate planning, control, finance, and IR. If you have questions,. 
+asr:0: OUTPUT 1521.02-1523.54: Please press asterisk followed by number one. 
+asr:0: OUTPUT 1523.86-1525.73: When your turn comes, I'll call your name. 
+asr:0: OUTPUT 1526.17-1533.93: So please identify yourself and your affiliation before you ask your questions. I'd like to ask you to kindly limit your questions to two. 
+asr:0: OUTPUT 1534.77-1544.54: Also, in order to prevent feedback of the sound, please be sure to switch off the volume of your peripherals. Your cooperation is very much appreciated. 
+asr:0: OUTPUT 1545.33-1554.19: In the event that your voice is disrupted because of the communication environment, we may have to move on to the next questions, next person. 
+asr:0: OUTPUT 1555.08-1560.88: And if you would like to cancel your question, please press asterisk followed by number two. 
+asr:0: OUTPUT 1561.44-1568.29: Now we'd like to begin Q&A session. If you have any questions, please press asterisk followed by 1. 
+asr:0: OUTPUT 1575.98-1582.44: The first question is Masuda-san from Nikkei Shimbun newspaper. Masuda-san, please. 
+asr:0: OUTPUT 1590.33-1599.88: Masuda-san, can you hear me? Can you hear us? Yes, I can hear you. I have two questions. 
+asr:0: OUTPUT 1601.16-1604.78: First question is you're thinking about strategic investment. 
+asr:0: OUTPUT 1606.27-1611.11: The other day, you have made an acquisition. 
+asr:0: OUTPUT 1611.67-1616.82: And I think that you have made an announcement going forward, AV and semiconductors. 
+asr:0: OUTPUT 1617.68-1624.84: You will be coming up with new strategies and for each, the size of investment will become larger going forward. 
+asr:0: OUTPUT 1626.01-1627.67: So as a management. 
+asr:0: OUTPUT 1629.17-1638.04: You think that it is necessary to make large investment and investment deals, you have the ceiling or the limit of 2 trillion. 
+asr:0: OUTPUT 1638.44-1648.31: But is that going to be exceeding 2 trillion or the acquisition in the orders of hundreds of billions of yen? Thank you for your question. 
+asr:0: OUTPUT 1649.17-1653.61: I think our thinking behind the strategic investment was a question that you have raised. 
+asr:0: OUTPUT 1653.91-1659.38: Currently, as you know, three-year mid-range plan. 
+asr:0: OUTPUT 1660.56-1665.87: Strategic investment. We will be allocating 2 trillion for strategic investment. 
+asr:0: OUTPUT 1666.07-1674.37: And as I mentioned in my speech earlier, 850 billion yen, and we made the decisions up until 850 billion yen. 
+asr:0: OUTPUT 1674.93-1680.50: And this framework, we don't think that we need to change in a major way this framework. 
+asr:0: OUTPUT 1680.80-1690.63: And within this, we will be making forward-looking positive investment. So areas of investment, priority area is IPDTC and technology. 
+asr:0: OUTPUT 1692.33-1696.58: And these priority areas remain unchanged. That's all from me. 
+asr:0: OUTPUT 1700.96-1706.49: So we'd like to entertain the next question from Asahi. Suzuki-san, please. 
+asr:0: OUTPUT 1709.61-1715.88: Thank you for giving me the floor. I'm Suzuki Obasahi. I hope you can hear me. Yes. Go ahead, please. 
+asr:0: OUTPUT 1716.38-1718.84: Thank you. I have two parts of questions. 
+asr:0: OUTPUT 1719.10-1726.95: First is image sensor that adds to this pigment chip that the Taiwan TSMC is accompanied. 
+asr:0: OUTPUT 1727.45-1732.81: That you expected to entrust you the supply. 
+asr:0: OUTPUT 1733.65-1739.22: And according to some reports, this pigment and the chip. 
+asr:0: OUTPUT 1739.24-1745.59: That, like for iPhone and other applications, and for the high level of the sophisticated cameras. 
+asr:0: OUTPUT 1746.05-1750.21: Do you intend to further ask them to manufacture on behalf of Sony? 
+asr:0: OUTPUT 1750.79-1757.64: Because this couple-couple connection is different. But as to some of the fundamental technologies maintained by your company, Sony,. 
+asr:0: OUTPUT 1757.92-1767.83: But I think the chips are maybe likely to be entrusted to the TSMC and so on to produce on behalf of you in conjunction. 
+asr:0: OUTPUT 1768.23-1770.87: The TSMC will have a new plant in Kumamoto? 
+asr:0: OUTPUT 1771.41-1779.98: Logical way for us to – that it has been the missing piece so that the Japanese Government is likely to give subsidy to that new plant in Kumamoto. 
+asr:0: OUTPUT 1780.50-1788.93: But it's expected that this new chip for the pigment and so forth is likely to be produced in Kumamoto as well. 
+asr:0: OUTPUT 1789.21-1793.77: Now turning to electric vehicle that the President Yoshida announced about. 
+asr:0: OUTPUT 1793.79-1800.64: The mobility new area and you have a new Sony mobility company is likely to be established in the spring. 
+asr:0: OUTPUT 1801.36-1810.27: But you might have higher details, they have like the scale of this new company as well as the exact timing to establish a new company. 
+asr:0: OUTPUT 1810.57-1815.28: Because Mr. Totoki asked the new mobility company together with Kawanishi-san. 
+asr:0: OUTPUT 1818.30-1822.86: I understand that you have some chat with him about the switch triggered. 
+asr:0: OUTPUT 1823.12-1830.35: You are the founder of Sony Bank and other new businesses in the past. So for the new company to be established,. 
+asr:0: OUTPUT 1830.77-1834.49: Are you going to nurture this Sony Mobility Inc. To be a big company? 
+asr:0: OUTPUT 1835.02-1841.60: As one of the pillars, I'd like to hear your view on the mid to long term in terms of how to nurture Sony Mobility Inc. And so on. 
+asr:0: OUTPUT 1842.14-1848.37: To turn to the first question about this, the image sensor. 
+asr:0: OUTPUT 1850.81-1854.67: That you are likely to interest the production to this TSMC. 
+asr:0: OUTPUT 1855.02-1858.44: But actually, it's not announced by us. 
+asr:0: OUTPUT 1858.78-1867.69: But I don't have a direct answer to that. But anyway, as to the external production by possibly like TSMC. 
+asr:0: OUTPUT 1867.89-1876.40: That the logic is mostly to be produced outside, but it's called the master of the process. 
+asr:0: OUTPUT 1876.78-1880.32: As to the master process to get stressed outside, it's quite limited. 
+asr:0: OUTPUT 1880.54-1888.55: Because as of now, we do not intend to increase that image censorship that is a master process. 
+asr:0: OUTPUT 1888.77-1892.27: We do not intend to ask the outside company to produce much of the. 
+asr:0: OUTPUT 1892.75-1899.16: As to your second part of the question, Sony Mobility, when will that be built? It's the spring of 2020. 
+asr:0: OUTPUT 1899.74-1902.94: That has been mentioned by President, CEO Yoshida. 
+asr:0: OUTPUT 1903.26-1910.57: As to the exact timing when the company will be established, we have to scrutinize and consider the details of this new company. 
+asr:0: OUTPUT 1911.01-1918.56: So after that is decided, at that optimal timing, we like to publish that information. Let me add to that. 
+asr:0: OUTPUT 1919.30-1926.51: The Sony Mobility Inc. Will be established and we will consider to be engaged in the mobility sector. 
+asr:0: OUTPUT 1927.93-1934.89: That was at the CES we announced, so we didn't exactly decide on the exact entry into that sector. 
+asr:0: OUTPUT 1935.20-1941.50: As to the automobile industry, there are lots of things we have to study about the automobile industry. 
+asr:0: OUTPUT 1942.42-1948.17: So as to this establishment of Sony Mobility Inc., which is the first step. 
+asr:0: OUTPUT 1948.59-1955.22: And that will enable us to further deepen our study and consideration. That's what we mean by building a new company. 
+asr:0: OUTPUT 1955.70-1963.86: Of course, for the long-term future, we might like to nurture this company as a hope, to nurture it as an important big company. 
+asr:0: OUTPUT 1964.34-1970.47: But specifically, what would be a specific business, the scale of the business, and other things? 
+asr:0: OUTPUT 1970.77-1975.94: Well, it's too premature to mention the details of this new company. Thank you. 
+asr:0: OUTPUT 1979.80-1985.43: Next question. We have Nishida-san, freelance reporter. 
+asr:0: OUTPUT 1987.87-1995.74: This is Nisha speaking. Can you hear me? Yes, we can. Please, go ahead. I have two questions. 
+asr:0: OUTPUT 1997.18-2003.06: The first question is that the semiconductor devices shortage is the topic. 
+asr:0: OUTPUT 2003.46-2009.03: PlayStation 5 and EPN and S products have impact from this shortage. 
+asr:0: OUTPUT 2009.73-2016.18: And is there any change in the product mix as a result? Or? 
+asr:0: OUTPUT 2016.20-2020.80: Any change in the product line for to. 
+asr:0: OUTPUT 2020.82-2022.66: Ensure the performance. 
+asr:0: OUTPUT 2023.30-2027.33: And also, that may have an impact on platform. 
+asr:0: OUTPUT 2028.43-2034.67: So if you could expand more on the impact of the supply shortage on your performances. 
+asr:0: OUTPUT 2035.20-2042.26: And next on the game business, your rival Microsoft has announced a large-scale purchase. 
+asr:0: OUTPUT 2044.40-2050.79: Is there any plan to have a purchase of a large publisher type supplier? 
+asr:0: OUTPUT 2051.15-2057.38: And also, is there any impact on your game business? 
+asr:0: OUTPUT 2057.40-2063.12: Who because of that can publish a type acquisition by your competitor. Thank you. 
+asr:0: OUTPUT 2063.50-2065.89: First about the semiconductor shortage. 
+asr:0: OUTPUT 2067.77-2076.04: And two, that we do have a variety of impacts on our businesses, and largely we have shortage of components. 
+asr:0: OUTPUT 2076.48-2081.70: So we need to put higher priority on the high value-add products. 
+asr:0: OUTPUT 2082.24-2084.60: That is not something new to us, though. 
+asr:0: OUTPUT 2084.62-2091.77: That when the semi-continental shortage started, we made a lot of adjustments. 
+asr:0: OUTPUT 2091.79-2097.64: To change the product mix and allocate to different. 
+asr:0: OUTPUT 2097.66-2099.46: Black lines. 
+asr:0: OUTPUT 2099.58-2101.32: And we got a PS5! 
+asr:0: OUTPUT 2102.40-2111.37: In terms of a short-term profit, promotion cost was saved, or. 
+asr:0: OUTPUT 2111.75-2116.68: High logistics cost has been saved. 
+asr:0: OUTPUT 2116.94-2123.54: Because of the decline in the units, that leads to the decline in expenses. 
+asr:0: OUTPUT 2123.90-2132.47: But we plan to – we hope to ship as many units as we can, so we will exert our efforts. 
+asr:0: OUTPUT 2132.89-2136.96: Now, in terms of the impact on the long-term platform,. 
+asr:0: OUTPUT 2136.98-2146.25: That the – right now, under the limited shipping capability, I think that's a short-term impact. 
+asr:0: OUTPUT 2146.33-2147.69: We think we can catch up. 
+asr:0: OUTPUT 2148.15-2155.36: And from PS4, when we moved from one console generation to the next. 
+asr:0: OUTPUT 2156.12-2165.71: There was a large change, drop in engagement and also sales and profit changes drastically. 
+asr:0: OUTPUT 2166.31-2172.51: So there was a very sharp cyclical phenomena that has softened recently. 
+asr:0: OUTPUT 2173.29-2181.94: And obviously, we hope to see a quicker recovery, but we also see the situation is rather limited. 
+asr:0: OUTPUT 2181.96-2183.76: In terms of the impact. 
+asr:0: OUTPUT 2184.50-2190.75: Now, in terms of acquisition by our competitor, we are not in a position to make any comment. 
+asr:0: OUTPUT 2192.45-2200.00: So it is difficult for us to say anything. 
+asr:0: OUTPUT 2200.50-2203.76: They have announced the intention to purchase. 
+asr:0: OUTPUT 2204.08-2206.11: But that has not been completed yet. 
+asr:0: OUTPUT 2207.07-2208.23: And. 
+asr:0: OUTPUT 2208.25-2217.28: What kind of business model change will take place is something we don't have a clear picture yet. 
+asr:0: OUTPUT 2218.30-2222.46: So for the competitors large scale M&A. 
+asr:0: OUTPUT 2222.80-2225.01: We do not want to speculate. 
+asr:0: OUTPUT 2226.71-2235.24: And rather, we want to pursue and execute our strategy at the right timing, and we want to focus on that. That's it. 
+asr:0: OUTPUT 2238.46-2242.74: To move on to the next question. 
+asr:0: OUTPUT 2247.71-2250.73: Hello, can you hear me? Yes, we can. Please. 
+asr:0: OUTPUT 2252.83-2256.48: Thank you for letting me ask questions. I have two questions. 
+asr:0: OUTPUT 2256.82-2264.20: First, about VR, at CES the other day, new device. 
+asr:0: OUTPUT 2264.40-2266.05: VR 2 was announced. 
+asr:0: OUTPUT 2266.07-2271.73: On the other hand, environmentally, the competitors are increasing their units. 
+asr:0: OUTPUT 2271.91-2276.30: And invest in large amount of money and momentum is there. 
+asr:0: OUTPUT 2276.34-2279.06: Currently, we are a business. 
+asr:0: OUTPUT 2280.30-2284.60: How I, how, what is your view about promoting VR business going forward? 
+asr:0: OUTPUT 2284.88-2286.89: And second, mobile games. 
+asr:0: OUTPUT 2289.49-2292.13: Currently, Sony Music... 
+asr:0: OUTPUT 2292.15-2294.19: Is the main player. 
+asr:0: OUTPUT 2294.41-2296.46: But SIE itself. 
+asr:0: OUTPUT 2296.88-2304.72: Will be considering mobile games business. So what is the direction that you have in mind? 
+asr:0: OUTPUT 2305.05-2313.55: Thank you. Your first question regarding VR, PSVR2, at CES we have already explained. 
+asr:0: OUTPUT 2316.90-2323.00: Users have the sense of image. So set up itself will be simplified. 
+asr:0: OUTPUT 2323.86-2327.41: And headset will be evolving and will be evolving the headsets. 
+asr:0: OUTPUT 2327.91-2329.51: And already this is announced. 
+asr:0: OUTPUT 2330.75-2332.51: Evolution of head. 
+asr:0: OUTPUT 2332.53-2341.52: Headset 4K HDR displayed with a wider viewing angle and movement of the eye of the player is detected. 
+asr:0: OUTPUT 2341.72-2346.27: Looking at certain direction, then it's possible to manipulate. 
+asr:0: OUTPUT 2346.29-2356.42: So for the rendering, the high resolution for center of the view and external, then lower resolution. 
+asr:0: OUTPUT 2357.46-2364.12: By that, high-quality image experience can be given to the users. Such technology is introduced. 
+asr:0: OUTPUT 2364.36-2372.59: Also, the motor vibration and haptic headset feedback. 
+asr:0: OUTPUT 2373.27-2376.92: This will be introduced as a technology as well. We already made decision. 
+asr:0: OUTPUT 2378.20-2387.01: In relation to VR already, further technological evolution, there's room for evolution, hardware and software. 
+asr:0: OUTPUT 2387.63-2393.89: And with the evolution of technology, it is expected that the market is also going to expand. 
+asr:0: OUTPUT 2394.29-2400.50: So with horizon called of the mountain. 
+asr:0: OUTPUT 2401.32-2406.29: The first-party title is already announced simultaneously. 
+asr:0: OUTPUT 2406.65-2410.99: So in this way, we have our technology and contents that we have. 
+asr:0: OUTPUT 2411.17-2416.82: And ecosystem will be leveraged, and we are going to enhance our presence in this market. 
+asr:0: OUTPUT 2418.20-2421.08: And then the second question, mobile games. 
+asr:0: OUTPUT 2425.11-2428.93: Mobile game market itself is a growth area. 
+asr:0: OUTPUT 2429.15-2436.24: And PlayStation IP can be used by more users. And this is a great opportunity for us. 
+asr:0: OUTPUT 2436.46-2439.22: As for the timing, it's very hard to say exactly when. 
+asr:0: OUTPUT 2439.54-2448.09: But PlayStation IP will be deployed for the IPs. So PAP. 
+asr:0: OUTPUT 2448.33-2452.31: So I believe that we can grow this steadily. 
+asr:0: OUTPUT 2453.23-2456.54: So these attempts and the specifics. 
+asr:0: OUTPUT 2457.16-2462.88: When the appropriate timing comes, then we are going to explain to you more clearly. Thank you. 
+asr:0: OUTPUT 2466.87-2472.59: Time is running short, so we'd like to entertain the last question for this session. 
+asr:0: OUTPUT 2472.79-2478.20: From NHK, please. Thank you very much. I'm Shimaie of NHK. 
+asr:0: OUTPUT 2481.78-2483.32: I have two parts of questions. 
+asr:0: OUTPUT 2483.70-2493.43: The first is about your performance and achievement because the results are very good. Frankly, I'd like to ask you a frank interpretation of the results. 
+asr:0: OUTPUT 2493.63-2496.66: Despite the COVID-19, you achieved well. 
+asr:0: OUTPUT 2497.60-2500.60: So taking into account this difficult environment. 
+asr:0: OUTPUT 2500.82-2507.97: What kind of good measures you have implemented to achieve such good results? That's one question. The second question is about EV. 
+asr:0: OUTPUT 2510.29-2512.27: So in their future investment. 
+asr:0: OUTPUT 2513.19-2521.66: In terms of the 2 trillion yen for this strategic investment, you didn't refer to EV, but this spring, new company will be established. 
+asr:0: OUTPUT 2522.14-2524.60: And then maybe the different consideration we made. 
+asr:0: OUTPUT 2524.90-2528.91: In that strategic investment framework of two, three years,. 
+asr:0: OUTPUT 2529.37-2538.36: That will that include EV, you intend to spend the money for EV, or you rather than tapping into that budget? 
+asr:0: OUTPUT 2538.70-2545.93: That maybe the more the game will be the focus of spending money for strategic investments. What do you think of this now? 
+asr:0: OUTPUT 2546.23-2555.70: Thank you for your question. As to the third quarter, the results, what is my impression, my comments, as you mentioned? 
+asr:0: OUTPUT 2556.10-2558.08: Despite the COVID-19 difficulty,. 
+asr:0: OUTPUT 2558.88-2568.39: The logistics were adversely impacted, and semiconductor and other device components supply was limited for a long time. 
+asr:0: OUTPUT 2569.49-2572.99: In many areas, this problem lasted for a long time. 
+asr:0: OUTPUT 2573.75-2579.40: To cope with that situation. For each business segment, they would like to focus what would. 
+asr:0: OUTPUT 2579.42-2587.01: Will happen next, based upon that good forecast, they take proactive measures to prepare for the difficulty. 
+asr:0: OUTPUT 2587.61-2595.92: So that is why I think that we achieved the record high results, the sales and the profit in this third quarter. 
+asr:0: OUTPUT 2597.76-2601.74: Not everything was rosy and good because PS5 was a big demand. 
+asr:0: OUTPUT 2602.16-2607.45: We couldn't supply enough to that increasing demand, as the image sends the profitability. 
+asr:0: OUTPUT 2607.93-2616.72: The recovery did not progress as soon as we had expected. Those are the challenges we identified, and we'd like to consider that for the future. 
+asr:0: OUTPUT 2618.30-2623.38: The second question, that is our investment idea toward EV. 
+asr:0: OUTPUT 2624.40-2629.81: Well, about that EV, as has been mentioned earlier,. 
+asr:0: OUTPUT 2630.21-2640.20: We assume that we'd like to start with the asset-light condition with possible partners to ally with as to our concept, for example. 
+asr:0: OUTPUT 2640.78-2646.87: Stand alone, we might not have that big production facility or develop our own battery. 
+asr:0: OUTPUT 2647.39-2654.33: That kind of capital-intensive activity is not likely to be considered in a business model. 
+asr:0: OUTPUT 2654.83-2663.84: Without such a capital investment, as an assumption, we would like to achieve the vision we have advocated. 
+asr:0: OUTPUT 2664.10-2669.87: So that's how we are considering the EV business. So what's our vision toward EV? Let me repeat. 
+asr:0: OUTPUT 2671.17-2680.54: That the mobility environment space should be evolved into a more entertainment space, so the new kind of customer experience and values should be. 
+asr:0: OUTPUT 2680.56-2682.48: Provided through that. Thank you. 
+asr:0: OUTPUT 2686.97-2692.11: Now it is time to close the Q&A session for the media people. 
+asr:0: OUTPUT 2692.99-2699.84: We will be changing our responders so the Q&A session for analysts will start at. 
+asr:0: OUTPUT 2941.62-2949.77: Now we will be starting the Q&A session for the investors and analysts. Please wait for a few more seconds. Thank you. 
+asr:0: OUTPUT 3000.96-3006.73: Thank you for waiting. Now we'd like to start the Q&A session for investors and analysts. 
+asr:0: OUTPUT 3007.31-3014.17: My name is Hayakawa, in charge of financial services, and I will be serving as the moderator. 
+asr:0: OUTPUT 3014.87-3020.34: As responders, we have Mr. Hiroki Totoki, executive deputy president and CFO. 
+asr:0: OUTPUT 3020.36-3027.27: And Ms. Naomi Matsuoka, SVP for Corporate Planning and Control and Finances and IR. 
+asr:0: OUTPUT 3027.39-3032.41: And also SVP accounting, Mr. Hirotoshi Kurenaga. 
+asr:0: OUTPUT 3032.63-3038.90: If you have questions, please press the asterisk and number one on your phone. 
+asr:0: OUTPUT 3039.46-3046.43: And we ask you to limit your questions up to two questions. 
+asr:0: OUTPUT 3046.45-3053.79: To prevent the howling and please make sure to turn off the volume of the devices around you. 
+asr:0: OUTPUT 3054.47-3062.40: And if the line gets chopped, and because of the time concern, we'll move on to the next person with a question. 
+asr:0: OUTPUT 3062.92-3069.25: And if you want to cancel your request for question, please press the asterisk N2. 
+asr:0: OUTPUT 3069.67-3078.66: Now we'll start the Q&A session. Once again, if you have a question, please press the asterisk N1 at your phone. 
+asr:0: OUTPUT 3079.08-3086.17: We have from Morgan Starr and I. I won't miss that one, though. Thank you. 
+asr:0: OUTPUT 3086.97-3089.83: And regarding the games, I have two questions. 
+asr:0: OUTPUT 3090.75-3094.01: The first question is that the PlayStation 5. 
+asr:0: OUTPUT 3096.00-3105.13: What is your forecast for the future from the second quarter? 
+asr:0: OUTPUT 3106.15-3112.69: From the 14.8 million. 
+asr:0: OUTPUT 3112.71-3121.72: Original target that has been set back and especially this time reduced substantially. 
+asr:0: OUTPUT 3122.24-3126.73: And what is your forecast for the next quarter? 
+asr:0: OUTPUT 3127.21-3134.75: In May last year, Mr. Jim Lyon was saying that he hopes to shoot for the record high. 
+asr:0: OUTPUT 3135.36-3138.84: And 22 to 23 million. 
+asr:0: OUTPUT 3139.22-3140.32: I believe was the target. 
+asr:0: OUTPUT 3140.80-3143.30: What is your feel for the demand? 
+asr:0: OUTPUT 3143.72-3150.95: And also, what is your prospect for your supply capability? 
+asr:0: OUTPUT 3151.85-3157.24: And the second question is that regarding a strategic investment. 
+asr:0: OUTPUT 3157.46-3167.65: This time you have invested in one of the, for the, investing in the Bungie as a games segment investment. 
+asr:0: OUTPUT 3170.19-3174.03: Now, the remaining. 
+asr:0: OUTPUT 3174.05-3182.84: You have about 110 billion yen or so to invest. 
+asr:0: OUTPUT 3184.26-3194.09: And what is your criteria for investment decisions for them? For example, for game, when you invested in the rig game,. 
+asr:0: OUTPUT 3194.33-3196.10: That was a small game house. 
+asr:0: OUTPUT 3196.80-3204.64: And there was a investment for content IP. That was your priority back then. 
+asr:0: OUTPUT 3205.13-3209.61: But this time you have a total ownership and. 
+asr:0: OUTPUT 3210.35-3213.93: We will intend to retain the. 
+asr:0: OUTPUT 3213.95-3218.02: Subscription or you want to improve your first party. 
+asr:0: OUTPUT 3218.04-3224.30: Development capability or what is your criteria for investment decision. 
+asr:0: OUTPUT 3225.21-3232.07: Thank you for your questions. The first question was that the PS5. 
+asr:0: OUTPUT 3232.65-3238.28: Expectation for the next fiscal year. 
+asr:0: OUTPUT 3238.78-3240.96: And in the past... 
+asr:0: OUTPUT 3241.08-3249.09: The record was the 22.6 million yen, the first PlayStation. 
+asr:0: OUTPUT 3249.21-3251.21: I believe it was a single year unit. 
+asr:0: OUTPUT 3252.71-3259.76: And that is what we were saying that the war will try to copy again. 
+asr:0: OUTPUT 3259.96-3261.88: But in terms of the next year,. 
+asr:0: OUTPUT 3262.44-3263.68: Bzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz. 
+asr:0: OUTPUT 3263.70-3267.29: The market demand. 
+asr:0: OUTPUT 3267.31-3275.78: Is very high that could allow us to make a record high. 
+asr:0: OUTPUT 3275.80-3281.96: Sales. Now our partner companies supplying us components. 
+asr:0: OUTPUT 3282.10-3289.03: We are working closely with them, collaborating, negotiating, and working with them closely. 
+asr:0: OUTPUT 3289.07-3293.91: And we hope we can make that happen. 
+asr:0: OUTPUT 3294.05-3300.00: But in terms of PS. 
+asr:0: OUTPUT 3301.90-3306.91: There was a we believe that the next year. 
+asr:0: OUTPUT 3307.17-3317.38: I think it's safe to say that we will continue to have supply disruption in terms of the components globally because of the distribution. 
+asr:0: OUTPUT 3317.40-3318.82: Problem and so on. 
+asr:0: OUTPUT 3318.94-3325.81: So we can't say for sure what is exactly the demand for next year. 
+asr:0: OUTPUT 3326.47-3328.45: And... 
+asr:0: OUTPUT 3329.07-3334.61: But having a high target we have. 
+asr:0: OUTPUT 3335.06-3344.66: And if we bring it down, we may ease ourselves to go for the lower target. 
+asr:0: OUTPUT 3345.05-3348.81: So I think it is good to maintain the high target. 
+asr:0: OUTPUT 3349.57-3354.87: So in the consolidated performance report,. 
+asr:0: OUTPUT 3355.10-3361.80: We will have a more exact forecast for the fiscal year 22. 
+asr:0: OUTPUT 3364.28-3370.07: And so that's the first answer to the first question. The second question. 
+asr:0: OUTPUT 3370.27-3376.38: Was about our concept of strategic investment. 
+asr:0: OUTPUT 3376.70-3383.00: And in the past, we were investing in IP. 
+asr:0: OUTPUT 3383.68-3385.23: And that's what we've been saying. 
+asr:0: OUTPUT 3386.35-3389.95: And we will... 
+asr:0: OUTPUT 3391.39-3396.52: And obviously, IPs have market prices as fair values. 
+asr:0: OUTPUT 3397.16-3401.22: So we tend to... 
+asr:0: OUTPUT 3401.24-3408.27: Look for the future upside potential with our involvement. 
+asr:0: OUTPUT 3408.75-3413.89: And that is our criteria for investment decision. 
+asr:0: OUTPUT 3413.97-3422.38: I think that will improve our investment efficiency and also will generate a premium. 
+asr:0: OUTPUT 3423.02-3428.29: And how we can rationalize that premium. 
+asr:0: OUTPUT 3428.95-3432.63: And in terms of the scale of the investment,. 
+asr:0: OUTPUT 3435.14-3440.38: We don't have a clear criteria in terms of the size of the investment. 
+asr:0: OUTPUT 3440.40-3445.65: But looking at our balance sheet and also financial capabilities. 
+asr:0: OUTPUT 3448.19-3456.44: And so capabilities and risk will be studied very closely to decide any investment. 
+asr:0: OUTPUT 3457.06-3462.86: And also, you used an example partial purchase or total purchase. 
+asr:0: OUTPUT 3464.32-3470.91: You mentioned, and we need to work with our partner. 
+asr:0: OUTPUT 3471.07-3479.06: We cannot decide single-handedly ourselves if it is a good company. 
+asr:0: OUTPUT 3479.38-3482.82: We would wish to purchase 100%. 
+asr:0: OUTPUT 3483.24-3485.67: But if we are man-bound,. 
+asr:0: OUTPUT 3485.69-3494.13: 100% purchase, we may have difficulty having a good alliance. 
+asr:0: OUTPUT 3494.27-3502.76: So we will give considerations for long-term partnership and alliance. That's all. 
+asr:0: OUTPUT 3503.50-3507.07: We'd like to move on. Katsura-san from SNBC Niko. 
+asr:0: OUTPUT 3509.01-3511.73: Thank you. I have two questions. 
+asr:0: OUTPUT 3512.57-3518.56: First, about the impact of the shortage of components. Next is Vision S. 
+asr:0: OUTPUT 3519.00-3521.90: The first one, impact of the shortage of components. 
+asr:0: OUTPUT 3522.74-3530.37: In the supplementary materials, number page 7, inventory asset included, if you can respond. 
+asr:0: OUTPUT 3533.79-3541.70: Shortage of components, and the cost increase, and the impact of that. What kind of impact was there? 
+asr:0: OUTPUT 3542.84-3550.63: EPNS and GNS as well. Can you please enlighten me and quantitatively explain? 
+asr:0: OUTPUT 3552.03-3559.46: QQ, EPNS, 60 to 70 billion of buffer risk was incorporated. 
+asr:0: OUTPUT 3559.70-3566.93: And this time, applied a revision of $20 billion for profit. So compared to second quarter, it turned out. 
+asr:0: OUTPUT 3569.33-3579.22: That it was better, slightly better. But on the other hand, situation is such that it is prolonged. So what is your thinking behind this? This is the first question. 
+asr:0: OUTPUT 3579.60-3587.25: Second question. Earlier, the question by the media people talked about Sony's mobility. 
+asr:0: OUTPUT 3588.89-3591.71: And acid light is your posture. 
+asr:0: OUTPUT 3594.23-3597.04: In the equity market. 
+asr:0: OUTPUT 3597.80-3607.39: A former TV business, there is a concern as is the case of TV business, you will be suffering from long-term losses. So, Sony Mobility Inc. 
+asr:0: OUTPUT 3607.83-3613.35: What kind of risk return are you thinking about, and also investment of the managerial resources? 
+asr:0: OUTPUT 3614.11-3621.32: Situation in the past and going forward, to the extent that you can share with us, please enlighten me. Thank you. 
+asr:0: OUTPUT 3622.16-3623.96: Thank you very much. First... 
+asr:0: OUTPUT 3625.49-3629.19: The shortage of components and the impact of the cost increase. 
+asr:0: OUTPUT 3629.99-3635.48: Including inventory level. And you asked me to explain. 
+asr:0: OUTPUT 3636.28-3641.92: First of all, this fiscal year, as in the third quarter, inventory level. 
+asr:0: OUTPUT 3643.66-3645.85: I think it's good to talk about the inventory level. 
+asr:0: OUTPUT 3646.31-3648.67: By category, if I may explain. 
+asr:0: OUTPUT 3649.97-3656.26: Game network service, with the holiday season, there's a decrease in inventory level. 
+asr:0: OUTPUT 3656.58-3664.70: And PS5, a shortage of components, which resulted in decrease in inventory. So there's not sufficient level of inventory. 
+asr:0: OUTPUT 3665.27-3666.39: EPNS. 
+asr:0: OUTPUT 3668.61-3676.24: With the holiday season, the decrease of the completed products with the increase in TV panel. 
+asr:0: OUTPUT 3676.74-3686.21: And this is the key. And in preparing for the shortage of materials, strategic stockpiling is being done. 
+asr:0: OUTPUT 3686.65-3689.13: Next fiscal year also to a certain extent. 
+asr:0: OUTPUT 3690.27-3697.48: We are anticipating shortage, especially in the first half. And we can expect that for some of the products. 
+asr:0: OUTPUT 3697.70-3700.32: So gradually, we are building up our inventory. 
+asr:0: OUTPUT 3703.50-3705.35: Therefore... 
+asr:0: OUTPUT 3706.27-3715.08: Although there was a decrease in the inventory of the completed products because of the holiday season, but with the stockpiling. 
+asr:0: OUTPUT 3715.10-3717.30: Of his strategic stockpiling. 
+asr:0: OUTPUT 3717.32-3718.92: And confusion of the... 
+asr:0: OUTPUT 3718.94-3723.66: This supply chain, there is a delay of the delivery period. 
+asr:0: OUTPUT 3723.74-3726.25: So these two factors are offsetting one another. 
+asr:0: OUTPUT 3726.75-3731.59: The level of panel inventory is appropriate level. INSS. 
+asr:0: OUTPUT 3734.99-3736.38: As you all know... 
+asr:0: OUTPUT 3738.06-3742.10: In China, smart phone market recovery is slower. 
+asr:0: OUTPUT 3742.64-3748.93: And there's an increase in the level of inventory in the market, which resulted in an increase in the level of inventory. 
+asr:0: OUTPUT 3749.19-3751.47: But the demand forecast for next fiscal year. 
+asr:0: OUTPUT 3751.49-3759.94: And production capacity concerning that and building up the strategic inventory toward the end of the fiscal year. 
+asr:0: OUTPUT 3760.00-3762.90: And this policy remains unchanged. 
+asr:0: OUTPUT 3765.27-3766.75: Therefore,. 
+asr:0: OUTPUT 3767.03-3776.16: It's very difficult to say in a summary fashion, but next fiscal year, looking at the business for next fiscal year,. 
+asr:0: OUTPUT 3777.64-3787.19: As for the inventory, that is deemed to be necessary. As we move toward the end of this fiscal year, we are going to build up the level of inventory. 
+asr:0: OUTPUT 3787.49-3789.49: That is the basic thinking. 
+asr:0: OUTPUT 3791.29-3794.19: And then, Vision S. 
+asr:0: OUTPUT 3799.72-3807.21: Risk return and investment of managerial resources, we are not at the stage where we can give you a clear-cut answer yet. 
+asr:0: OUTPUT 3808.65-3814.55: And as has been repeatedly mentioned, asset light is what we have in mind. 
+asr:0: OUTPUT 3815.58-3825.31: So we are not thinking of making big investment into this area more specifically. 
+asr:0: OUTPUT 3826.17-3834.81: Development of battery or development and having the manufacturing facility for the vehicles itself. 
+asr:0: OUTPUT 3834.83-3837.12: Or sales infrastructure. 
+asr:0: OUTPUT 3837.46-3840.30: Or maintenance infrastructure to be held by us. 
+asr:0: OUTPUT 3840.52-3842.64: We are not thinking of doing this. 
+asr:0: OUTPUT 3843.48-3848.59: Basically, we tap upon partnerships or similar relationships. 
+asr:0: OUTPUT 3849.41-3851.99: And we are going to be. 
+asr:0: OUTPUT 3852.21-3854.59: As acid light as possible. 
+asr:0: OUTPUT 3854.87-3863.56: And with the evolution of vehicles, with our technological element, we are going to contribute. And as a long-term vision. 
+asr:0: OUTPUT 3864.60-3870.17: The space of vehicles are to be turned into new entertainment space. 
+asr:0: OUTPUT 3870.77-3879.52: That is our long-term vision. Therefore, for example, in the mid-range plan period,. 
+asr:0: OUTPUT 3880.60-3886.57: Two trillion strategic investment. Is that included in that? 
+asr:0: OUTPUT 3886.89-3894.11: We are not thinking about investment at that scale, and this is not realistic. Please understand in that way. Thank you. 
+asr:0: OUTPUT 3898.84-3908.59: To entertain the next question. Akane-san, please. Can you hear me? Oh, Mizuho. Securities. I have one question. 
+asr:0: OUTPUT 3910.21-3915.84: But Tottoki-san, as the CFO mentioned, I'd like to hear your personal view. 
+asr:0: OUTPUT 3916.54-3922.08: But in terms of North America, what is the final, ultimate demand in North America in case of your company? 
+asr:0: OUTPUT 3922.42-3926.77: The game hardware, the software, and the music and pictures as well as the electronics and. 
+asr:0: OUTPUT 3927.25-3931.45: You cover everything, hardware, software, and contents. Very comprehensive. 
+asr:0: OUTPUT 3932.25-3936.82: But when you summarize all activities of that fiscal year,. 
+asr:0: OUTPUT 3937.10-3941.94: And then this taking into account inflation as well as the change of the interest rates and so on. 
+asr:0: OUTPUT 3942.84-3950.77: What is your view of the summary as well as toward the first half of next week's meeting? What is the overall perspective? 
+asr:0: OUTPUT 3951.51-3952.85: According to each segment. 
+asr:0: OUTPUT 3953.97-3958.40: If not, please tell us some of the highlights of that situation. 
+asr:0: OUTPUT 3959.66-3965.53: Thank you. The question is about North American demand and the business outlook. 
+asr:0: OUTPUT 3966.29-3971.01: I am quite concerned about its outlook in North America. 
+asr:0: OUTPUT 3971.79-3981.28: As you say, the interest rates policy is at a turning point to be changed, and geopolitical risks are now increasing. 
+asr:0: OUTPUT 3981.60-3984.36: And the midterm election is scheduled to be held. 
+asr:0: OUTPUT 3985.01-3992.13: So all these unstable elements are likely to be influential. 
+asr:0: OUTPUT 3992.43-3996.04: And depending upon the situation, maybe demand might be affected. 
+asr:0: OUTPUT 3996.68-4002.14: And I'm getting the latest information, updating that understanding from different business segments. 
+asr:0: OUTPUT 4002.48-4010.01: But for the time being, there's no clear trend of this deceleration in the North American market. 
+asr:0: OUTPUT 4010.43-4013.31: That's my frank perspective right now. 
+asr:0: OUTPUT 4013.59-4020.00: However, especially in terms of, if you look at TV, during the latter half,. 
+asr:0: OUTPUT 4020.80-4023.70: Of course, the Europe and Japan. 
+asr:0: OUTPUT 4024.92-4033.05: Compared to the previous year, there's sort of a sign of deceleration or slowdown a little bit, but has been expected. 
+asr:0: OUTPUT 4033.41-4040.22: But in terms of North America, better than we had expected, I think the strength seems to be maintained. 
+asr:0: OUTPUT 4040.72-4044.20: And the momentum is kept in North America. 
+asr:0: OUTPUT 4044.90-4050.97: What about entertainment? Generally speaking, entertainment is doing well in general. However,. 
+asr:0: OUTPUT 4050.99-4053.19: The COVID-19 impact. 
+asr:0: OUTPUT 4053.49-4057.52: That this theatrical release would be subject to impact. 
+asr:0: OUTPUT 4057.78-4066.59: If the number of the infected patients increases, that they have to revise this theatrical release. That's a flexible implementation of policy. 
+asr:0: OUTPUT 4066.81-4069.89: So that is likely to have up and down. 
+asr:0: OUTPUT 4070.63-4073.73: But the general demand of entertainment per se. 
+asr:0: OUTPUT 4073.83-4080.88: Is not likely to go through major change according to my interpretation. So in terms of North. 
+asr:0: OUTPUT 4081.22-4084.46: Things are going steady, it seems steady. 
+asr:0: OUTPUT 4086.31-4095.28: So is it really true that it will never go through variation? Of course I'm personally always concerned about that any potential. I'm always keeping an eye on. 
+asr:0: OUTPUT 4095.66-4101.10: So if something, some negative signs observed and detected, we'd like to take it. 
+asr:0: OUTPUT 4102.30-4104.06: And take action accordingly. 
+asr:0: OUTPUT 4106.35-4107.53: We are running short of time. 
+asr:0: OUTPUT 4107.95-4112.89: So we'll make the next question, next person to be the last. 
+asr:0: OUTPUT 4113.37-4118.14: And we have Maeda-san of JP Securities, JP Morgan. 
+asr:0: OUTPUT 4120.00-4121.34: I heard that sound rather. 
+asr:0: OUTPUT 4122.26-4124.26: I have two questions regarding Bungie. 
+asr:0: OUTPUT 4125.11-4128.09: First question is that in the earlier slide. 
+asr:0: OUTPUT 4128.67-4133.39: You explained how you will be treated in terms of accounting. 
+asr:0: OUTPUT 4134.01-4141.28: Of the 3.2 billion yen, one third is about for retention purpose expenditure. 
+asr:0: OUTPUT 4141.70-4143.70: About 1.2 billion dollars. 
+asr:0: OUTPUT 4144.16-4152.53: And of the 1.2 billion, and two-thirds will be used up in the first two years. 
+asr:0: OUTPUT 4152.93-4158.96: So that's about $0.4 billion or $400 million annually. 
+asr:0: OUTPUT 4159.46-4169.15: And also intangible assets, about 20%, about $700 to $800 million. 
+asr:0: OUTPUT 4169.75-4177.30: How do you plan to depreciate that in terms of the term period? 
+asr:0: OUTPUT 4178.46-4184.12: Over which period as long as the best estimate you have will be fine. 
+asr:0: OUTPUT 4184.68-4190.01: And I know it's still pending the regulatory authorities' approval. 
+asr:0: OUTPUT 4190.41-4194.77: And so if you have any prospect, that would be appreciated. 
+asr:0: OUTPUT 4194.85-4196.66: And also, second question is about... 
+asr:0: OUTPUT 4196.68-4208.47: Mr. Todoki mentioned about in the future that the EU can get the upside. That will be the decision criteria. 
+asr:0: OUTPUT 4208.63-4212.31: And what is the case for Bungie. 
+asr:0: OUTPUT 4212.87-4219.30: And also for Bungie, what is the upside for them to work with to become a part of. 
+asr:0: OUTPUT 4220.00-4229.21: Sony and also upside for Sony to acquire is that simply increasing the users or. 
+asr:0: OUTPUT 4229.23-4236.44: What kind of KPIs are you expecting to get gains from this investment? 
+asr:0: OUTPUT 4238.78-4245.53: The first question. 
+asr:0: OUTPUT 4249.57-4254.29: As we explained that the one third. 
+asr:0: OUTPUT 4254.31-4261.46: Will be for, it will be referred payment for retention purpose. 
+asr:0: OUTPUT 4262.30-4271.75: For specific numbers, we still need to scrutinize. And this time, we're just giving you the rough image. 
+asr:0: OUTPUT 4272.73-4276.84: So that is the extent we hope you will understand. 
+asr:0: OUTPUT 4276.88-4283.12: We will examine more closely and if we have update, we will be sharing with you. 
+asr:0: OUTPUT 4283.48-4293.19: And it will be included in the forecast for the next year. So we'll be updating that number. 
+asr:0: OUTPUT 4293.67-4301.86: Now in terms of intangible asset, we are actually studying, examining that right now. 
+asr:0: OUTPUT 4302.68-4309.93: So generally speaking, we look at about 10 years or so for depreciation. 
+asr:0: OUTPUT 4310.69-4315.76: But that depends on the contents of such intangible assets. 
+asr:0: OUTPUT 4316.76-4325.27: So, Korenaga-san, do you have any comment on that? Let me add some comments. 
+asr:0: OUTPUT 4326.07-4334.25: The what will be treated as expenditures, expenses, will be. 
+asr:0: OUTPUT 4337.56-4343.54: Treated in two years and that will be one third of the investment. 
+asr:0: OUTPUT 4344.04-4346.33: And there are a lot of conditions for that, though. 
+asr:0: OUTPUT 4346.85-4356.26: And how it will be allocated for the first year and second year, that may not be 50-50. 
+asr:0: OUTPUT 4357.08-4359.36: And necessarily. 
+asr:0: OUTPUT 4359.68-4363.54: And also in terms of the depreciation of the intangible assets. 
+asr:0: OUTPUT 4364.30-4374.27: We will be allocating the purchase price to a variety of. 
+asr:0: OUTPUT 4374.37-4382.78: Assets and we will identify the price tags for each one of them and then decide the. 
+asr:0: OUTPUT 4382.80-4384.98: Depreciation period down the road. 
+asr:0: OUTPUT 4385.87-4394.31: And the second question was that in case of bungee, what, as I commented in my speech,. 
+asr:0: OUTPUT 4394.73-4396.78: They are. 
+asr:0: OUTPUT 4399.40-4402.86: Platforms capabilities rather. 
+asr:0: OUTPUT 4402.96-4405.93: Ability to distribute to a variety of platforms. 
+asr:0: OUTPUT 4406.31-4410.51: And also live service they have a capability to develop. 
+asr:0: OUTPUT 4411.47-4415.56: And that's, those are something we have lots to learn from them. 
+asr:0: OUTPUT 4416.14-4425.53: And therefore our studios will learn from Bungie and that is a very strong wish we have. 
+asr:0: OUTPUT 4426.09-4433.55: And the Bantiya side also is willing to work closely with us. 
+asr:0: OUTPUT 4435.02-4443.44: And in the first year, we believe we will put together a good plan and drive that. 
+asr:0: OUTPUT 4444.06-4449.31: And I believe it will generate upside from that kind of work. 
+asr:0: OUTPUT 4449.71-4451.95: Now from the other side. 
+asr:0: OUTPUT 4454.51-4456.38: The bungee... 
+asr:0: OUTPUT 4456.40-4464.92: The personnel retention and recruiting, I think we could, we can help them. 
+asr:0: OUTPUT 4465.87-4471.23: And support them and we hope to be able to do so. 
+asr:0: OUTPUT 4471.99-4474.49: And also,. 
+asr:0: OUTPUT 4474.51-4484.12: Not just for gaming area, but the multi-using of IP and merchandising of IPs. 
+asr:0: OUTPUT 4484.60-4491.47: Like a good title, maybe game title, maybe put into the pictures. 
+asr:0: OUTPUT 4491.95-4496.20: Movies and uh... Bungee you want to. 
+asr:0: OUTPUT 4496.22-4503.20: Nurture the IP they have in the multi-dimensional manners and that's their hope. 
+asr:0: OUTPUT 4504.10-4507.89: And for that, we believe. 
+asr:0: OUTPUT 4507.91-4513.49: We can help that. We have pictures and music. 
+asr:0: OUTPUT 4513.51-4522.88: And Banshee can use, leverage our platform so that their IP can flourish and grow big and that's all. 
+asr:0: OUTPUT 4524.32-4530.07: The time has come to close Sony Group Corporation's earnings announcement. 
+asr:0: OUTPUT 4531.83-4534.05: I thank you very much for joining us today. 
+asr:0: END

@@ -1,0 +1,518 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.48-10.03: Good day and thank you for standing by. Welcome to Ferrari 2021 full year results conference call. At this time, all participants are in listen only mode. 
+asr:0: OUTPUT 10.35-18.64: After the speaker's presentation, there will be the question and answer session. To ask a question during the session, you will need to press star and one on your telephone keypad. 
+asr:0: OUTPUT 19.16-21.80: Please be advised that today's conference is being recorded. 
+asr:0: OUTPUT 22.24-26.05: If you require any further assistance over the phone, please press star zero. 
+asr:0: OUTPUT 26.51-31.95: I would now like to hand the conference over to our first speaker today, Nicoletta Rousseau. Please go ahead. 
+asr:0: OUTPUT 33.27-42.70: Thank you, Nadia, and welcome to everyone who's joining us. Today we plan to cover the group's full year 2021 operating results and 2022 guidance. 
+asr:0: OUTPUT 43.08-47.51: In light of this, the duration of the call is expected to be around 60 minutes. 
+asr:0: OUTPUT 47.87-53.95: Today's call will be hosted by the Group CEO, Mr. Benedetto Vigna, and Group CFO, Mr. Antonio Picca-Picconi. 
+asr:0: OUTPUT 54.51-63.30: All relevant materials are available in the investor section of the Ferrari corporate website. And at the end of the presentation, we will be available to answer your questions. 
+asr:0: OUTPUT 64.10-72.81: Before we begin, let me remind you that any forward-looking statements we might make during today's call are subject to the risks and uncertainties. 
+asr:0: OUTPUT 72.83-75.34: Mentioned in the safe harbor statement. 
+asr:0: OUTPUT 76.12-84.26: Included on page two of today's presentation and the call will be governed by this language. With that said, I'd like to turn the call over to Benedetto. 
+asr:0: OUTPUT 85.59-89.23: Thank you, Nicoletta. Thank you, everyone, for joining us today. 
+asr:0: OUTPUT 90.75-98.44: Three months have passed since the last time we met digitally all together, and many things have happened in our company. 
+asr:0: OUTPUT 99.32-108.25: Today, I will be delighted to take you through the 2021 result and I will provide a little taste about what's happening in our company. 
+asr:0: OUTPUT 109.39-117.90: Our performance in 2021 was very robust from both a quantitative and qualitative point of view. 
+asr:0: OUTPUT 118.94-120.26: Numbers first. 
+asr:0: OUTPUT 121.26-123.86: We close the years, setting a new record. 
+asr:0: OUTPUT 123.88-132.13: In terms of result across all metrics, posting double digit growth and above pre-pandemic level. 
+asr:0: OUTPUT 133.13-141.40: The results were higher than the targets we had already upgraded when we shared our third quarter results. 
+asr:0: OUTPUT 142.40-147.05: Five excellent results to remember. 
+asr:0: OUTPUT 148.23-152.09: First, 4.3 billion euro revenues. 
+asr:0: OUTPUT 152.11-158.56: Materially exceeding, for the first time in our history, the threshold level of 4 billion euros. 
+asr:0: OUTPUT 159.96-166.49: Over 11,000 cars shipped with significant growth in all regions. 
+asr:0: OUTPUT 166.55-170.91: In China, our deliveries doubled year over year. 
+asr:0: OUTPUT 172.55-180.18: 35.9% exceptionally strong ABDA margin reached at the record level. 
+asr:0: OUTPUT 181.40-188.45: Impressive 640 million euro industrial free cash flow generation. 
+asr:0: OUTPUT 188.49-197.78: Mainly thanks to the advances collected on the Spatial Series and thanks to the discipline and timing of CAPEX spend. 
+asr:0: OUTPUT 198.42-203.02: And all this with no impact on our product plan. 
+asr:0: OUTPUT 203.90-209.53: The last point is we have the strongest ever order book in our history. 
+asr:0: OUTPUT 210.83-220.76: Up double digit versus the prior years and covering well into 2023, with all region showing significant growth. 
+asr:0: OUTPUT 221.66-226.79: How did we achieve these excellent, these five excellent results? 
+asr:0: OUTPUT 227.67-234.27: Firstly, we have to thank our incredible customers, both existing and new. 
+asr:0: OUTPUT 235.08-239.72: And all the women and all the men of Ferrari for their outstanding work. 
+asr:0: OUTPUT 240.70-248.99: Secondly, it was possible thanks to the strong margin contribution of the Monza SP1 and SP2. 
+asr:0: OUTPUT 250.23-258.60: Thirdly, this was further boosted by our decision to seize commercial opportunities on certain models. 
+asr:0: OUTPUT 258.62-261.48: In line with our order intake evolution. 
+asr:0: OUTPUT 262.24-263.30: We also. 
+asr:0: OUTPUT 263.32-273.21: Benefited from deliveries of the SF90 Stradale being moved to 21 from previous year 2020. 
+asr:0: OUTPUT 273.99-280.02: And last but not least, we have capitalized on a strong economic climate. 
+asr:0: OUTPUT 280.60-286.47: As evidenced also by the solid performance of our pre-owned business. 
+asr:0: OUTPUT 286.49-295.76: And on the enthusiasm of our customers whose delight in sharing their Ferrari passion with us has been so evident at our event. 
+asr:0: OUTPUT 297.00-305.31: After these five excellent results, the five key priorities we focused on all year 2021. 
+asr:0: OUTPUT 306.27-314.25: Product excellence, customer experience, motor racing, brand diversification, and carbon neutrality. 
+asr:0: OUTPUT 315.34-316.58: Let's start with product. 
+asr:0: OUTPUT 317.44-326.29: Last year, we unveiled four new models, demonstrating our leadership in technology, in design, and driving experience. 
+asr:0: OUTPUT 327.07-334.03: They all received an enthusiastic response from the market and worldwide acclaim. 
+asr:0: OUTPUT 334.75-341.14: In May, we unveiled the 8-12 Competizione and the 8-12 Competizione. 
+asr:0: OUTPUT 341.22-346.59: Our latest special series with its revolutionary aerodynamics. 
+asr:0: OUTPUT 347.25-355.44: And they were all sold out prior to the official launch as a testament to the vigorous demand for our V12 models. 
+asr:0: OUTPUT 356.52-359.12: Just a month later, in June,. 
+asr:0: OUTPUT 359.14-363.28: We launched the Accelerating 296 GTB. 
+asr:0: OUTPUT 363.30-370.49: Featuring our latest hybrid powertrain combining a V6 turbo and electric motor. 
+asr:0: OUTPUT 371.43-379.82: It exceeded previous models, order intake, over the same relative period, and now a solid. 
+asr:0: OUTPUT 380.00-385.91: Pipeline of experiences for our customers is already planned for the current year. 
+asr:0: OUTPUT 386.37-389.99: Further fueling our ambition for this model. 
+asr:0: OUTPUT 390.79-400.10: I drove this car several times and the go-kart feeling and the fun-to-drive experience you can have are really unique. Believe me. 
+asr:0: OUTPUT 401.12-404.46: A few weeks ago in November, the new Icona. 
+asr:0: OUTPUT 405.09-414.85: The most powerful V12 ever made, whose unveiling, ahead of the pleasure of attending in Florence, surprised our most loyal Ferraristi. 
+asr:0: OUTPUT 415.22-418.30: I'm talking about the Ferrari Daytona SP3. 
+asr:0: OUTPUT 418.92-424.46: A masterpiece of craftsmanship, performance, and design. 
+asr:0: OUTPUT 424.88-426.91: Already awarded internationally. 
+asr:0: OUTPUT 426.93-437.18: And limited to 599 units, which have all been allocated in advance of its premieres, and with untapped demand, weigh. 
+asr:0: OUTPUT 437.20-440.68: Way exceeding the limited serious plan. 
+asr:0: OUTPUT 441.90-449.21: So we enter this year, 22, with considerable momentum, thanks to two factors. 
+asr:0: OUTPUT 449.51-456.06: One, the strongest ever order book, and two, a broad portfolio of models. 
+asr:0: OUTPUT 456.88-460.50: The Order book first. It has never been so strong. 
+asr:0: OUTPUT 461.24-462.66: The positive trend. 
+asr:0: OUTPUT 462.68-475.92: Characterized the whole year and continued in Q4 when we experienced impressive order intake despite our decision to close the order collection on certain models. 
+asr:0: OUTPUT 476.68-479.04: Second, the new product portfolio. 
+asr:0: OUTPUT 479.86-488.77: Not only do we have the broadest, most innovative and most beautiful range of cars ever offered to our customers. 
+asr:0: OUTPUT 489.45-496.96: But we also plan to further enrich this with two server launches this year. 
+asr:0: OUTPUT 497.20-503.72: Completing the 15 launches promised at the Capital Market Day in 2018. 
+asr:0: OUTPUT 505.02-514.95: In these years, in 2022, we will unveil the much anticipated Puro Sangue, which I'm confident will exceed our customer expectations. 
+asr:0: OUTPUT 515.72-521.00: I drove it several times in the hills around Maranello, day and night, for the test. 
+asr:0: OUTPUT 521.04-526.09: And I can testify that the driving experience is really astonishing. 
+asr:0: OUTPUT 526.25-531.03: But I do not want to say more to avoid to spoil such a surprise. 
+asr:0: OUTPUT 532.07-535.46: Now, after product, customer experience. 
+asr:0: OUTPUT 536.34-544.92: In the course of 2021, it has been really liberating to be able to start arranging events with them again. 
+asr:0: OUTPUT 545.51-554.77: To mention a few of them, we marked Cavalcade's 10th anniversary with a very special event in Sicily for Classiche e Moderne drivers. 
+asr:0: OUTPUT 555.14-558.68: And we restarted our Tributi and Corsi cliente activities. 
+asr:0: OUTPUT 558.70-567.61: Culminating in the Finale Mondiale at Mugello, where I met so many of our customers and fans, all passionate about Ferrari. 
+asr:0: OUTPUT 568.59-572.43: Now, our motor racing activities. 
+asr:0: OUTPUT 573.09-577.24: 2021 was our best ever season in GT racing. 
+asr:0: OUTPUT 577.48-580.24: With Ferrari winning, the drivers. 
+asr:0: OUTPUT 580.26-592.35: And manufacturers world titles in FIA World Endurance Championship and with victory at the 24 hours of Le Mans with our 488 GTE EVO. 
+asr:0: OUTPUT 593.01-599.70: The Formula One 2021 season also showed encouraging signs towards its end. 
+asr:0: OUTPUT 600.00-603.10: With third place in the Constructors' Championship. 
+asr:0: OUTPUT 603.72-608.61: 2022 is the first year with a complete new set of technical rules. 
+asr:0: OUTPUT 608.63-613.77: And our new car will be presented in a few days, on February 17th. 
+asr:0: OUTPUT 614.75-621.08: We are also redefining our strategic partner along three directions. 
+asr:0: OUTPUT 621.44-625.04: One, we welcome back Banco Santander. 
+asr:0: OUTPUT 625.73-634.03: Two, we tap current segments with new partners, such as Siva Logistics in the transportation space. 
+asr:0: OUTPUT 634.49-648.59: Three, we strengthen our relationship with leading-edge technological partners such as Amazon Web Services and Velas to be at the forefront of digital technologies and Web 3.0. 
+asr:0: OUTPUT 649.81-652.81: Such stronger partner portfolio. 
+asr:0: OUTPUT 652.83-661.10: Confirms once again the continued allure of the most successful team in F1 history. 
+asr:0: OUTPUT 661.12-662.68: Scuderia Ferrari. 
+asr:0: OUTPUT 663.98-665.89: And what about the brand diversification? 
+asr:0: OUTPUT 666.71-674.11: Well, last year we made excellent progress in extending our brand into exciting new territories. 
+asr:0: OUTPUT 674.55-678.98: In June, we launched the first ever Ferrari fashion collection. 
+asr:0: OUTPUT 679.42-686.05: In July, we reopened the iconic Cavallino restaurant in the heart of Maranello. 
+asr:0: OUTPUT 686.21-692.61: And in the second half of last year, we renovated our stores in Italy and USA. 
+asr:0: OUTPUT 693.65-697.92: In 2022, we plan to move forward. 
+asr:0: OUTPUT 697.94-703.72: And the first important milestone will be the upcoming fashion show in Milan later this month. 
+asr:0: OUTPUT 705.11-709.79: Last but not least, carbon neutrality by 2030. 
+asr:0: OUTPUT 710.35-723.12: In a further step towards our goal, in Q4 we received ISO 14064 certification for our calculation of the group's carbon footprint. 
+asr:0: OUTPUT 723.90-727.83: This certification has been really an important step forward. 
+asr:0: OUTPUT 728.43-731.79: In addition to our electrification journey. 
+asr:0: OUTPUT 731.81-735.00: We are also committed to addressing both. 
+asr:0: OUTPUT 735.01-736.08: Direct. 
+asr:0: OUTPUT 736.10-746.79: Indirect emission with a focus on energy and material across all our entire value chain. 
+asr:0: OUTPUT 748.89-754.15: As always, our focus was not only on external stakeholders. 
+asr:0: OUTPUT 754.81-764.60: We continued to invest in our employees, true to our founders' belief that Ferrari is made, above all, by people. 
+asr:0: OUTPUT 765.51-773.91: We invested in training for our employees, caring for their well-being, and nurturing the diversity of talent in our company. 
+asr:0: OUTPUT 774.75-782.12: Our efforts were rewarded in 2021 by equal salary certification. 
+asr:0: OUTPUT 782.14-787.91: Consecutive year in Italy and for the first time in the United States. 
+asr:0: OUTPUT 788.65-802.50: The year has been really outstanding thanks to the passion, the dedication of Ferrari people and to reward their achievement in line with the company's strong performance indicators. 
+asr:0: OUTPUT 802.52-808.27: I'm really pleased to announce the company the yearly competitive award. 
+asr:0: OUTPUT 808.33-813.09: Up to slightly over 12,000 euro for our employees. 
+asr:0: OUTPUT 814.39-821.48: And now, after the 2021 highlight, let's have a look at the future, at our future. 
+asr:0: OUTPUT 821.80-828.39: A small taste before providing the full picture on June 16 when we meet here. 
+asr:0: OUTPUT 829.35-835.16: We are targeting 2022 to be a solid year on the trajectory to reach. 
+asr:0: OUTPUT 835.18-842.78: The 2023 EBDA target of 1.8 billion euro is announced in 2018. 
+asr:0: OUTPUT 843.92-850.85: How do we want to do this? How do we want to achieve this goal? Well, there are three clear directions we identified. 
+asr:0: OUTPUT 851.29-864.16: Number one, we will carefully manage a vibrant order intake in line with our strategy to pursue controlled growth to preserve our brand exclusivity. 
+asr:0: OUTPUT 865.19-873.75: Two, we will manage the Monza's phase out, whilst the Daytona's deliveries will start in 2023. 
+asr:0: OUTPUT 874.75-882.30: Three, as I already explained in the last call, innovation requires partners. And it is what we start to do. 
+asr:0: OUTPUT 882.84-887.39: Laframme, Amazon, and Velez, just to mention a few of them. 
+asr:0: OUTPUT 887.81-893.51: And some other important technology partnership will follow up in the near future. 
+asr:0: OUTPUT 895.06-903.40: 2022 is a very important year for us. It's not only the 75th anniversary of our company. 
+asr:0: OUTPUT 904.00-907.43: It also sets the foundation for a new business plan. 
+asr:0: OUTPUT 907.61-914.03: Which will be presented at our Capital Market Day on June 16 here in Maranello. 
+asr:0: OUTPUT 914.85-921.20: This will also be the occasion to meet in person some members of our new organization. 
+asr:0: OUTPUT 921.40-932.25: Recently announced and achieved through both the promotion of homegrown talents and a number of key strategic externalized. 
+asr:0: OUTPUT 933.13-943.10: The new organization is designed to further foster innovation, optimize processes, enhance agility, and increase collaboration. 
+asr:0: OUTPUT 943.86-947.05: People are the soul of our company. 
+asr:0: OUTPUT 947.61-954.33: And I'm confident we will seize the opportunities ahead of us in this fast-evolving environment. 
+asr:0: OUTPUT 955.20-961.86: I will now hand over to Antonio who will review the 2021 RESART and 2022 guidance. 
+asr:0: OUTPUT 965.35-970.77: Thank you, Benedetto. And good morning or afternoon to everyone who is joining us today. 
+asr:0: OUTPUT 972.49-974.31: Let me start on page 7. 
+asr:0: OUTPUT 974.57-978.66: Where you can see the highlights of the 2021 earnings. 
+asr:0: OUTPUT 978.70-986.25: A very strong year, which shows high double-digit growth on all metrics compared to 2020. 
+asr:0: OUTPUT 986.27-991.23: And more meaningfully, a remarkable increase versus pre-pandemic levels. 
+asr:0: OUTPUT 993.07-1002.56: Our shipments reached 11,155 units, up 22% versus the prior year and 10% versus 2019. 
+asr:0: OUTPUT 1004.08-1008.29: Group net revenues were 4,271,000,000 euro. 
+asr:0: OUTPUT 1008.31-1018.30: Increased 23% versus prior year and 13% versus 2019, driven mainly by volume and stronger product mix. 
+asr:0: OUTPUT 1020.04-1024.68: EBITDA came in at 1 billion and 531 million euro. 
+asr:0: OUTPUT 1025.21-1031.45: Up 34% versus 2020 and close to 21% versus 2019. 
+asr:0: OUTPUT 1033.27-1038.08: The EBDA margin reached a record level of 35.9%. 
+asr:0: OUTPUT 1038.10-1044.48: Boosted by the contribution from the Ferrari Monza and an otherwise very rich product mix. 
+asr:0: OUTPUT 1046.37-1055.98: EBIT was 1 billion and 75 million euro up 50% versus 2020 and 17% versus 2019. 
+asr:0: OUTPUT 1057.36-1062.34: The improvement of both operating margins compared to our latest guidance. 
+asr:0: OUTPUT 1062.38-1071.57: Mainly reflects the upward revision of the commercial revenues from the F1 commercial right holder recorded in Q4. 
+asr:0: OUTPUT 1074.33-1083.46: Adjusted net profit was $833 million up 56% versus 2020 and 19% versus 2019. 
+asr:0: OUTPUT 1083.86-1092.89: Resulting in an adjusted diluted EPS of 4.5 euro, improved by 56% versus prior year. 
+asr:0: OUTPUT 1094.59-1101.82: Industrial free cash flow for the year was exceptionally strong at 642 million euro. 
+asr:0: OUTPUT 1101.84-1106.59: Supported mainly by the collection of the advances for the A12 Competizione. 
+asr:0: OUTPUT 1109.71-1119.18: Turning to page 8, you can see the details of the shipments of the full year 2021, up 22% versus 2020. 
+asr:0: OUTPUT 1121.04-1129.09: Sales of eight cylinders were up about 35%, while 12 cylinders were down 16%. 
+asr:0: OUTPUT 1129.11-1133.59: Mainly due to the reduced volume of the A12 superfast. 
+asr:0: OUTPUT 1133.61-1135.90: Which was phased out in the year. 
+asr:0: OUTPUT 1137.84-1147.73: Our deliveries were driven by the range models, the F8 family, the Ferrari Roma and the SF90 Stradale, which reached global distribution. 
+asr:0: OUTPUT 1148.63-1152.37: The Portofino M and the SF90 Spider in a wrapped up phase. 
+asr:0: OUTPUT 1154.53-1163.82: Shipments of the Ferrari Monza SP1 and SP2 were higher compared to the prior year, in line with planning and reaching the end of production. 
+asr:0: OUTPUT 1165.03-1168.51: All geographic regions posted double-digit growth. 
+asr:0: OUTPUT 1172.47-1178.84: Moving to page 9, you can see the walk of our group net revenues up 26% at constant currency. 
+asr:0: OUTPUT 1180.56-1187.33: The increasing revenues from cars and spare parts, up almost 29% of cost and currency,. 
+asr:0: OUTPUT 1187.35-1194.37: Was supported by higher volumes and strong enrichment of the product mix along with personalizations. 
+asr:0: OUTPUT 1196.66-1203.22: Revenues from personalizations were higher than the prior year in absolute terms, sustained by volumes. 
+asr:0: OUTPUT 1204.20-1212.09: They were in line with the historical average at around 18% in proportion to revenues from cars and spare parts. 
+asr:0: OUTPUT 1214.35-1218.18: Engine's revenues were up about 26%. 
+asr:0: OUTPUT 1218.88-1227.45: The improvement is related to higher shipment to Maserati and to a lesser extent to the rental of engines to other Formula One racing teams. 
+asr:0: OUTPUT 1229.77-1235.56: Increasing sponsorship, commercial and brand up close to 13% at cost and currency. 
+asr:0: OUTPUT 1235.58-1242.12: Was attributable to the more favorable Formula One calendar and brand-related activities. 
+asr:0: OUTPUT 1242.16-1245.43: Partially upset by lower prior year ranking. 
+asr:0: OUTPUT 1246.65-1254.01: This increase reflects also the upward revisions of the commercial revenues from Formula One that I mentioned before. 
+asr:0: OUTPUT 1256.48-1261.92: Currency, including translation and transaction impact, as well as foreign currency edges. 
+asr:0: OUTPUT 1261.94-1269.47: At the negative contribution of 18 million euro, mostly related to the US dollar and the Japanese yen this quarter. 
+asr:0: OUTPUT 1272.05-1278.82: Moving to page 10, let me review the change in our EBIT bridge explained by the following variances. 
+asr:0: OUTPUT 1280.84-1286.77: First, volume was positive for 220 million euro, reflecting the shipment's increase. 
+asr:0: OUTPUT 1288.75-1296.94: Second, mixed price variance was also positive for 212 million euro, boosted by a richer product mix. 
+asr:0: OUTPUT 1297.44-1304.78: Thanks to the SF90 family and the Ferrari Monza SP1 and SP2, along with personalizations. 
+asr:0: OUTPUT 1305.69-1314.23: Partially offset by the ramp-up of the Ferrari Roma and the Portofino M, and the reduced contribution of the A12 Superfast. 
+asr:0: OUTPUT 1315.86-1325.89: As already mentioned by Benedetto, the product mix in 2021 was further boosted by our decision to seize commercial opportunities on certain models. 
+asr:0: OUTPUT 1325.91-1328.91: In line with order and take evolution. 
+asr:0: OUTPUT 1329.51-1337.42: Had also benefited from deliveries of the SF90 Stradale being moved to 2021 from 2020. 
+asr:0: OUTPUT 1339.56-1347.09: Third, industrial and R&D expenses increased 65 million euro, mainly due to higher DNA. 
+asr:0: OUTPUT 1347.13-1356.06: Product innovation activities and Formula One expenses, net of technology-related government incentives, as well as startup costs. 
+asr:0: OUTPUT 1358.12-1367.41: Fourth, SG&A were negative by 14 million euro, mainly reflecting communication and marketing activities of model unveilings. 
+asr:0: OUTPUT 1367.43-1368.85: And lifestyle events. 
+asr:0: OUTPUT 1369.39-1373.37: As well as the company's organizational development. 
+asr:0: OUTPUT 1375.56-1379.36: Lastly, others increased 83 million euro. 
+asr:0: OUTPUT 1379.38-1388.31: Reflecting the more favorable Formula One calendar and higher contribution from van related and other supporting activities. 
+asr:0: OUTPUT 1388.39-1392.97: Partially upset by the impact of the lower Formula One ranking of 2020. 
+asr:0: OUTPUT 1395.32-1399.72: The total net impact of currencies was negative for 77 million euro. 
+asr:0: OUTPUT 1401.22-1403.48: As a result of what I just mentioned. 
+asr:0: OUTPUT 1403.50-1407.11: EBIT reached 1 billion and 75 million euro. 
+asr:0: OUTPUT 1407.13-1414.43: Up 50.2% versus the prior year with an EBIT margin of 25.2%. 
+asr:0: OUTPUT 1417.42-1423.10: Turning to page 11, industrial free cash flow generation for the year was remarkable. 
+asr:0: OUTPUT 1423.12-1435.02: And equal to 642 million euro sustained by the strong growth in ABDA and the collection of advances on the A12 Competizione. 
+asr:0: OUTPUT 1436.78-1444.68: The working capital dynamic, including the above-mentioned advances, provisions, and other receivables and payables,. 
+asr:0: OUTPUT 1444.70-1449.73: Was almost neutral also due to the cadence of our capital expenditure. 
+asr:0: OUTPUT 1449.77-1453.13: Which stood at 737 million euro. 
+asr:0: OUTPUT 1455.44-1461.70: The capitalization ratio was approximately 39% for the year and in line with the prior year. 
+asr:0: OUTPUT 1463.54-1470.07: Net industrial debt as of the end of December 21 was 297 million euro. 
+asr:0: OUTPUT 1470.09-1475.58: Compared to 543 million euro at the end of 2020. 
+asr:0: OUTPUT 1477.26-1483.06: It's worth mentioning that excluding the dividend distribution of 162 million euro. 
+asr:0: OUTPUT 1483.66-1489.35: And 231 million euro of share repurchase, we would have been cash positive at year end. 
+asr:0: OUTPUT 1492.79-1498.78: Let's move on page 12. Here we explain the main drivers of our guidance for 2022. 
+asr:0: OUTPUT 1499.32-1505.09: Which targets a solid growth and continues to demonstrate the EBDA progress. 
+asr:0: OUTPUT 1505.11-1509.97: On the trajectory to reach our 2023 EBDA target. 
+asr:0: OUTPUT 1509.99-1515.18: Of 1.8 to 2 billion euro as announced back in 2018. 
+asr:0: OUTPUT 1517.28-1525.07: While in 2022 our profitability will continue to expand in absolute terms, carefully leveraging our record order book,. 
+asr:0: OUTPUT 1525.63-1528.85: Percentage-wise, the marginality will be flattened. 
+asr:0: OUTPUT 1528.87-1531.57: By a product mix which will be richer. 
+asr:0: OUTPUT 1531.65-1539.98: But not enough to offset the negative impact of the Monza phasing out and of the Daytona deliveries starting in 2023. 
+asr:0: OUTPUT 1541.38-1546.03: More diversified but lower revenues from sponsorship. 
+asr:0: OUTPUT 1546.05-1554.05: And a step up in DNA in line with the start of production of new models which will start their deliveries in 2023. 
+asr:0: OUTPUT 1554.07-1557.30: Or which contribute marginally in 2022. 
+asr:0: OUTPUT 1559.78-1561.92: On the industrial free cash flow side. 
+asr:0: OUTPUT 1561.94-1571.53: The generation will be robust, supported by the strong operating results and the collection of advances on the Daytona SP3. 
+asr:0: OUTPUT 1573.17-1587.83: This will be partially offset by capital expenditures of approximately 800 million euro as we expect the lower capex seen in 2021 to rephase partly in 2022. 
+asr:0: OUTPUT 1589.17-1596.56: But also by much higher taxes commensurate to the very strong results posted in 2021. 
+asr:0: OUTPUT 1600.00-1602.32: Page 10, 12. 
+asr:0: OUTPUT 1602.34-1612.33: We show the progress that we aim to achieve based on our guidance since our starting point of 2018 until the end of 2022. 
+asr:0: OUTPUT 1613.87-1624.98: In essence, as of the end of this current year, we want to be very close to what we promised at the 2018 Capital Markets Day for the accumulated EBITDA. 
+asr:0: OUTPUT 1625.95-1634.89: And fully on target in terms of accumulated industrial free cash flow generation over the planned period, abide with the different time profiles. 
+asr:0: OUTPUT 1636.44-1642.10: And we want to achieve such results despite the impact of this pandemic. 
+asr:0: OUTPUT 1644.24-1658.42: Subject to meeting our ambitions, I believe this will prove once again the resilience and strength of our business model based on brand exclusivity, product excellence, leading edge technology, and innovation. 
+asr:0: OUTPUT 1659.48-1663.66: Such awareness allows us to look at the future with great confidence. 
+asr:0: OUTPUT 1664.72-1668.17: With that said, I turn the call over to Nicoletta. Thank you. 
+asr:0: OUTPUT 1669.23-1675.02: Thank you, Antonio. Nadia, please, we are now ready to start our Q&A session. 
+asr:0: OUTPUT 1676.48-1687.67: Thank you. Dear participants, we will now begin our question and answer session. As a reminder, if you wish to ask a question, please press star and one on your telephone keypad and wait for your name to be announced. 
+asr:0: OUTPUT 1692.57-1700.90: The first question comes from Michael Binetti from Credit Suisse. Please go ahead. 
+asr:0: OUTPUT 1703.40-1709.21: I'm trying to think about the structure of the guidance you laid out for 22 relative to where we were at. 
+asr:0: OUTPUT 1710.29-1718.78: I know you guys have been focusing us on the 2018 analyst day and helping explain the differences and the similarities as you push down the 1.8 to 2.0 billion to next year. 
+asr:0: OUTPUT 1719.14-1725.23: You're this year you've got revenues in line at 4.8 with the low end of that original plan, but EBIT. 
+asr:0: OUTPUT 1725.95-1735.66: Below by maybe a hundred million at the low end of the plan. Maybe you could just help us understand What's different on the same revenue base that drives EBIT a little bit lower? 
+asr:0: OUTPUT 1737.36-1738.58: This year and if it's. 
+asr:0: OUTPUT 1739.08-1747.79: I think you were originally said maybe a few units of prosign would start to ship in 2022. Today you clarified that they'll be in 2023. So maybe it's a timing mismatch. 
+asr:0: OUTPUT 1747.85-1749.21: But I wonder. 
+asr:0: OUTPUT 1749.23-1755.94: How much it might be attributable to the profitability of croissant relative to the overall fleet. 
+asr:0: OUTPUT 1755.96-1760.96: Is that a car that you view as accretive to corporate margins or to the rest of the fleet? 
+asr:0: OUTPUT 1762.84-1764.52: Antonio, can you help me with... 
+asr:0: OUTPUT 1765.77-1768.03: Thank you, Michael. If I get your question right. 
+asr:0: OUTPUT 1768.41-1772.71: I think the difference compared to the guidance we gave back in 2018. 
+asr:0: OUTPUT 1772.73-1779.70: Is largely due to the different timing of introduction of the cars compared to what we modeled at that time. 
+asr:0: OUTPUT 1780.20-1789.57: Obviously, we are seizing the commercial opportunity that we are having. So the significantly strong order books on V8 entry models is helping in that respect. 
+asr:0: OUTPUT 1790.55-1797.24: While as we mentioned, I think the gap that we have between the phase out of the. 
+asr:0: OUTPUT 1797.26-1805.83: Of the Monza and introduction of the Daytona is impacting the level of the margins, both EVIT and EVTA. 
+asr:0: OUTPUT 1805.99-1812.81: In addition to that, as far as EBIT is concerned, we have this DNA impact, which is due to the fact that we start producing. 
+asr:0: OUTPUT 1812.83-1816.00: New cars that are coming in the next one. 
+asr:0: OUTPUT 1816.44-1821.32: I don't know whether this is enough or I think in terms of color and they should have. 
+asr:0: OUTPUT 1824.40-1833.85: I'll follow that for one second. You have Daytona and ProSan confirmed to start shipping next year after what you described as a headwind from mix this year, largely bonds. 
+asr:0: OUTPUT 1834.61-1837.72: But if the guide is now $1.8 to $2 billion for next year. 
+asr:0: OUTPUT 1838.22-1846.13: The low end of that guide assumes Ibiza growth will slow to about 6% in 2023 from 11% in 2022. 
+asr:0: OUTPUT 1847.09-1851.81: How should we think about the top end versus the bottom end of the guidance in that range. 
+asr:0: OUTPUT 1852.49-1857.90: What scenario do you see that would explain a slowdown to an EBITDA growth next year? 
+asr:0: OUTPUT 1858.38-1862.78: Maybe there's some phasing of investments as you guys look at the big... 
+asr:0: OUTPUT 1863.62-1866.77: Initiatives like electric and i think it is curious to get help with. 
+asr:0: OUTPUT 1868.15-1876.76: I think volumes will keep on growing anyway with better margins, with mix which will be stronger, which is supported by the new IKONA coming in. 
+asr:0: OUTPUT 1878.20-1887.33: And this is as far as the contribution of our core business. And then we added the other businesses that we expect also to grow. 
+asr:0: OUTPUT 1887.99-1891.35: I mean, brand is still very low in 2022. We expect it to be better. 
+asr:0: OUTPUT 1893.67-1901.16: In terms of one, there are some elements, including the budget cut introduction, but that's, of course, in terms of the cost side. 
+asr:0: OUTPUT 1905.03-1906.83: Congrats on a great year, guys. 
+asr:0: OUTPUT 1909.47-1915.20: Thank you. The next question comes from line of Adam Jonas from Morgan Stanley. Please ask your question. 
+asr:0: OUTPUT 1917.68-1927.09: Much and I cannot wait until June 16th. That's going to be really, that's going to be so special. So I look forward to meeting you all in person. 
+asr:0: OUTPUT 1929.31-1938.10: Benedetto, you guys recently struck a deal with the Swiss blockchain company Veles Network. 
+asr:0: OUTPUT 1939.50-1945.91: How should investors think about the potential for the Ferrari brand. 
+asr:0: OUTPUT 1945.93-1950.73: In the metaverse or in the NFT or digital space. 
+asr:0: OUTPUT 1952.87-1958.24: Thank you for the question, Jonas, and also looking forward to meet you in person on the 16th of June. 
+asr:0: OUTPUT 1959.30-1960.58: Yeah. 
+asr:0: OUTPUT 1960.68-1969.67: I think that, as we said, it's important that we look and we see how the new technologies can help our brand. 
+asr:0: OUTPUT 1970.33-1971.67: For sure. 
+asr:0: OUTPUT 1971.69-1981.08: The digital technologies, the web 3.0 technologies that are using the blockchain and the NFT is an area that can be interesting for us. 
+asr:0: OUTPUT 1981.12-1983.38: It deserves some attention. 
+asr:0: OUTPUT 1984.44-1991.13: There are many, as you know, there is a lot of movement on the market about this. Some companies even changed the name. 
+asr:0: OUTPUT 1992.03-2001.62: And I think this is an area where we have to put our attention. And that's also the reason why I put the... 
+asr:0: OUTPUT 2001.64-2009.49: We have in place, if you have seen in the organization, a department that is called digital and data. 
+asr:0: OUTPUT 2010.39-2017.94: Because it's an important dimension that we as Ferrari, we have to evaluate and consider for the future. 
+asr:0: OUTPUT 2020.98-2024.20: Okay, look forward to learning more about that. 
+asr:0: OUTPUT 2024.78-2033.55: My follow-up is, do you believe electric vehicles expand the addressable market for the Ferrari brand? 
+asr:0: OUTPUT 2033.69-2036.04: And if so, how? 
+asr:0: OUTPUT 2041.70-2045.23: So do you think that the electric vehicles will expand the brand? 
+asr:0: OUTPUT 2046.83-2059.82: Do you think that as Ferrari brings forth all electric vehicles, that that grows the addressable market and revenue potential for the brand? 
+asr:0: OUTPUT 2060.72-2066.47: And if so, how do you see that happening or why? 
+asr:0: OUTPUT 2067.25-2069.45: I think the point is the following. 
+asr:0: OUTPUT 2069.57-2071.95: I mean, electrification is one. 
+asr:0: OUTPUT 2071.97-2080.26: One technology like the digitalization that we will harness always in our unique. 
+asr:0: OUTPUT 2080.28-2081.38: Ferrari way. 
+asr:0: OUTPUT 2082.24-2090.55: As you know, we already started to hybridize our model a few years ago. We have already three models on the road. 
+asr:0: OUTPUT 2090.89-2095.78: That are pretty much successful, SF90 Stradar, SPYder and 296 GTB. 
+asr:0: OUTPUT 2096.30-2101.34: And I believe that the electrification is a way. 
+asr:0: OUTPUT 2101.42-2106.39: Is a technology, a way that can help our brand to keep the pace with the time. 
+asr:0: OUTPUT 2107.27-2109.03: That's what I believe, Adam. 
+asr:0: OUTPUT 2115.66-2121.72: Thank you. The next question comes from Susie Tibalti from UBS. Please ask your question. 
+asr:0: OUTPUT 2122.70-2131.35: Hi, thank you for taking my question. So my first one would be just to go back on Michael's question on the 22 guides. 
+asr:0: OUTPUT 2132.53-2138.36: So your revenue guide for 2022 is quite high. 
+asr:0: OUTPUT 2139.50-2144.82: And so given that the mix is going to be not that strong. 
+asr:0: OUTPUT 2145.05-2148.23: It kind of implies a good step up in volume. 
+asr:0: OUTPUT 2149.63-2156.38: And so I was wondering if this is a correct assumption or if there is something else that will contribute meaningfully to the top line. 
+asr:0: OUTPUT 2156.98-2160.54: Because you mentioned that also in terms of some sponsorship is a little bit lower. 
+asr:0: OUTPUT 2161.04-2167.83: So it seems like the good increase in revenues should come mostly from the volume growth. 
+asr:0: OUTPUT 2168.21-2170.93: So I just wanted to check if that's the right way to think about it. 
+asr:0: OUTPUT 2173.11-2174.65: Hi, Suzy, Antonio speaking. 
+asr:0: OUTPUT 2174.89-2179.00: Your assumption is correct. Volume will be higher, so it will grow there. 
+asr:0: OUTPUT 2179.40-2187.45: And this is because also the order book is significantly higher than we're used to, discovering well into 2023. 
+asr:0: OUTPUT 2188.79-2194.97: It's not true that the mix is weak. I mean, actually, the product range mix is high. 
+asr:0: OUTPUT 2195.20-2200.02: It's simply not enough improving compared to the loss of the. 
+asr:0: OUTPUT 2200.12-2204.00: The Monza and the introduction some months later of the Daytona. 
+asr:0: OUTPUT 2206.07-2212.51: Year over year, volumes will be positive and mix we expect to be slightly negative. 
+asr:0: OUTPUT 2217.84-2219.22: And on pricing. 
+asr:0: OUTPUT 2219.98-2226.63: So in 21, it was the first time that you pushed through for like price increase about 2%. 
+asr:0: OUTPUT 2227.63-2232.25: If I remember correctly, was mostly due to the inflation. 
+asr:0: OUTPUT 2233.81-2243.74: And given that inflation for the moment is not really going away, should we expect something similar for 2022? Are you planning to potentially push through some. 
+asr:0: OUTPUT 2244.02-2248.53: Price increase to offset the inflation or was it a one-off in 2021? 
+asr:0: OUTPUT 2249.95-2259.34: This is an important point. There is some pressure on the energy, on the aluminum cost, and we will apply this price increase to consider for that. 
+asr:0: OUTPUT 2260.00-2266.47: But we will also leverage other important levers when it comes to the pricing of the new model. 
+asr:0: OUTPUT 2267.51-2272.29: And a price increase of selected model and also the personalization. 
+asr:0: OUTPUT 2272.77-2275.70: So this is an important factor we are factoring in, Susie. 
+asr:0: OUTPUT 2277.16-2279.94: Clear and very quick just a follow-up on your. 
+asr:0: OUTPUT 2279.96-2281.28: Free cash flow. 
+asr:0: OUTPUT 2281.30-2290.93: So in the slide that you showed, you're in line, you achieved the 2.4 to 2.8 cumulated cash flow as promised. 
+asr:0: OUTPUT 2291.29-2300.30: So basically the fact that you were guiding previously to a 1.1 to 1.25 billion industry cash flow. 
+asr:0: OUTPUT 2301.26-2310.57: It's just a matter of phasing, right? Because it feels like that has been just phased differently due to the phasing of the models. 
+asr:0: OUTPUT 2310.69-2315.64: There some kind of advances for a future maybe hypercar which now been changing timing? 
+asr:0: OUTPUT 2316.40-2323.42: You got it right, Susie. Phasing is the exact answer. OK. Perfect. Thanks. 
+asr:0: OUTPUT 2325.55-2331.39: Thank you. The next question comes from the line of John Murphy from Bank of America. Please ask your question. 
+asr:0: OUTPUT 2332.99-2334.85: Good afternoon, everybody. Thanks for the time. 
+asr:0: OUTPUT 2335.64-2341.16: Just wanted to follow up on that pricing discussion. Obviously, there's cost inflation that's going on. 
+asr:0: OUTPUT 2341.42-2346.61: But you're talking about your order book being longer than it ever has been before. 
+asr:0: OUTPUT 2346.67-2356.94: So is there a greater opportunity to take price, explain it to your customers as there's cost inflation to you? They're relatively sophisticated to offset that. 
+asr:0: OUTPUT 2357.16-2363.60: But then also to maybe help balance out the supply and demand in the business. 
+asr:0: OUTPUT 2363.64-2369.27: It's a very high class problem, but it seems like there might be a greater pricing opportunity than you've ever even had before. 
+asr:0: OUTPUT 2371.89-2380.34: Thank you. I think this is what you say is important and we are considering, I mean we are applying the price increase. 
+asr:0: OUTPUT 2380.78-2387.31: And we are monitoring carefully what's happening on these two dimensions of energy and aluminum. And again, as I said,. 
+asr:0: OUTPUT 2387.53-2392.99: We will introduce also a new model and we will apply in the right way the pricing. 
+asr:0: OUTPUT 2393.53-2400.00: So this is an important dimension that we are careful about also because. 
+asr:0: OUTPUT 2400.10-2403.68: We all know what is the pressure that there is in the supply chain all over the world. 
+asr:0: OUTPUT 2404.18-2410.33: On the other side, I have to say that we have also on the supply chain. 
+asr:0: OUTPUT 2410.63-2415.88: I mean, we have some good partners, reliable partners we can leverage on. 
+asr:0: OUTPUT 2418.60-2422.16: The second question on the transition to EVs. 
+asr:0: OUTPUT 2422.60-2429.81: It's very interesting that Daytona is a V12 naturally aspirated engine. That sounds great to me personally. 
+asr:0: OUTPUT 2430.53-2433.07: But obviously there's a push towards EVs. 
+asr:0: OUTPUT 2433.73-2441.12: Give me your close relationship with your customers and you kind of build a design engineer and build what they want. 
+asr:0: OUTPUT 2441.50-2445.23: What are you hearing from your customers at this point on this transition? 
+asr:0: OUTPUT 2445.45-2452.19: Many other companies are slaves to guessing at where EV penetration will go and what they should do with their powertrain investment. 
+asr:0: OUTPUT 2452.49-2457.66: But you have direct access and good discussion and relationships with your customers. So what are they telling you? 
+asr:0: OUTPUT 2457.98-2465.09: Because on the Daytona, it seems like they're saying, hey, we probably don't want this right now. But the reality is some people might. So I mean, what are your customers telling you right now? 
+asr:0: OUTPUT 2466.43-2467.89: I think we have a. 
+asr:0: OUTPUT 2468.51-2470.77: We have different kind of Ferrari. 
+asr:0: OUTPUT 2470.85-2480.76: Each one with its own preferred models and proportions. So we have a Ferrari that I have seen them. 
+asr:0: OUTPUT 2480.78-2484.58: In Florence when we launched the Daytona. 
+asr:0: OUTPUT 2485.03-2489.53: And they were extremely, extremely happy and delighted to see such a beautiful car. 
+asr:0: OUTPUT 2490.19-2499.06: I have seen also customers trying the 296 GTB, that is a kind of different car with different feeling. 
+asr:0: OUTPUT 2499.58-2508.11: So I think that if you want to get my feedback from the customer, is that we have customer. 
+asr:0: OUTPUT 2508.63-2512.33: With different feelings, different needs, different perceptions. 
+asr:0: OUTPUT 2512.63-2520.40: And even the same customer for different moment can have, can prefer the V12, that's pure. 
+asr:0: OUTPUT 2520.42-2523.36: One or the V6 hybrid. 
+asr:0: OUTPUT 2524.00-2530.55: So there is a mix of different customer with different feeling and different need, different emotion. 
+asr:0: OUTPUT 2532.01-2539.14: But it's fair to say that you're not guessing at this. You're having these discussions with your customers. So you're, you're, you're what you're introducing and you're building. 
+asr:0: OUTPUT 2539.70-2546.93: It's what they want you're you're never going to hear you misestimate the EV penetration on on on the models. Right? I mean, it. 
+asr:0: OUTPUT 2547.01-2553.11: If this is something that's well known by you through that order book and your discussions with your customers, is that a fair statement? 
+asr:0: OUTPUT 2553.93-2562.60: I'm saying that there is a clear trend and we will work on for sure on the vehicle and we will see the strategy line up here in June. 
+asr:0: OUTPUT 2562.84-2569.03: What I want to say is that there are customers, different customers that prefer different kinds of propulsion schemes. 
+asr:0: OUTPUT 2569.25-2573.17: So we are aware of what's happening. We have a plan for that. 
+asr:0: OUTPUT 2573.59-2580.66: But we are also aware of the different feelings and different emotions the customers want to get with different propulsion schemes. 
+asr:0: OUTPUT 2582.12-2584.56: Okay, great. Thank you very much. Thank you. 
+asr:0: OUTPUT 2585.37-2592.31: Thank you. The next question comes from Julio Pescatore from BNP Paribas Exane. Please ask your question. 
+asr:0: OUTPUT 2593.91-2597.32: Thanks for taking my question. I just want to follow up on the previous point. 
+asr:0: OUTPUT 2598.22-2607.97: In your answer, did you mean that as long as customers will want combustion engines, you will be willing to provide them, even if we think about 10 or 20 years down the line? 
+asr:0: OUTPUT 2609.57-2615.54: I think that the technology is useful as far as it addresses the customer's needs. 
+asr:0: OUTPUT 2615.70-2621.66: We have to delight the customer. This is important for us. 
+asr:0: OUTPUT 2621.82-2628.51: If we are moving piston or we are moving other things, that's what we want to do. 
+asr:0: OUTPUT 2633.21-2640.52: The older book for the 296 GTB which you said builds faster than the previous processor of that vehicle. 
+asr:0: OUTPUT 2641.90-2648.31: Does that mean that that car could potentially do the same type of volumes that a Tribute F8 or a 488 did in the past? 
+asr:0: OUTPUT 2648.93-2654.63: And can maybe talk about the difference in demographics between that vehicle and the 488. 
+asr:0: OUTPUT 2656.88-2663.84: Maybe I can go on to the next. We will be providing the forecast on volume life cycle. 
+asr:0: OUTPUT 2664.54-2673.93: However, as Benedetto said before, the receipt has been very strong in terms of order compared to our previous internal benchmarks. 
+asr:0: OUTPUT 2674.43-2681.46: The other element, yes, I think you are addressing the fact that our customer base for this car is slightly younger and this is true. 
+asr:0: OUTPUT 2683.64-2686.61: I mean, really, you need to drive it to experience it. 
+asr:0: OUTPUT 2689.95-2693.35: I'll be more than happy to answer any questions. 
+asr:0: OUTPUT 2699.14-2700.14: Great to hear. 
+asr:0: OUTPUT 2700.76-2703.86: Maybe just one last one before I pass on to the next speaker. 
+asr:0: OUTPUT 2704.36-2712.05: On the SIG S4 for 2022, I really struggled to bridge your guidance, which feels very, very conservative, the lower end at least. 
+asr:0: OUTPUT 2712.11-2720.28: I understand the step-up in CapEx. I understand that there are going to be higher taxes, but can you maybe help us with the amount of the. 
+asr:0: OUTPUT 2720.70-2722.32: That you should expect. 
+asr:0: OUTPUT 2722.44-2724.86: From the Daytona and how many. 
+asr:0: OUTPUT 2725.17-2729.15: Did you receive last year for the competizione because it's really difficult to bridge that number. 
+asr:0: OUTPUT 2731.23-2735.26: I will not comment on the degree of conservatives of the. 
+asr:0: OUTPUT 2735.42-2741.78: Estimate, but basically our cash flow is relatively simple. We have DA, BDA, and you know what the guidance is. 
+asr:0: OUTPUT 2742.32-2744.26: You know what we said about CAPEX. 
+asr:0: OUTPUT 2744.64-2754.09: I think the old question is about the working capital, where we include in the wider definition also the impact of the advances. 
+asr:0: OUTPUT 2754.55-2756.00: On the limited series cars. 
+asr:0: OUTPUT 2756.70-2762.28: So the Daytona, we are talking about more than $200 million, more or less, in terms of current estimate. 
+asr:0: OUTPUT 2762.74-2766.19: The other element you should not underestimate is the impact of taxes. 
+asr:0: OUTPUT 2766.57-2776.04: Because we are obviously paying taxes both in terms of the balance and the advance on the basis of the results of 2021. 
+asr:0: OUTPUT 2776.52-2784.70: And it makes a big difference compared to what we paid in 2021 based on the results of 2020 that were impacted by the pandemic. 
+asr:0: OUTPUT 2785.57-2789.83: So I hope this provides you a better understanding of the details. 
+asr:0: OUTPUT 2791.13-2793.27: You're still benefiting from the patent box, right? 
+asr:0: OUTPUT 2794.63-2803.36: The button box is helping, but not in terms of cash, nor the level it did at the very beginning, because now the law provides for the benefit cash-wise. 
+asr:0: OUTPUT 2803.38-2805.39: In three year installments. 
+asr:0: OUTPUT 2805.69-2809.85: So this has been already visible in 2021 and will be obviously. 
+asr:0: OUTPUT 2814.69-2820.40: Thank you. The next question comes from a land of Martino D'Ambrogi from Iquita. Please ask your question. 
+asr:0: OUTPUT 2821.70-2831.15: Thank you. Good morning, good afternoon, everybody. My focus is on CAPEX, which is a portion of the lower free cash flow for the current year. 
+asr:0: OUTPUT 2831.59-2840.64: So the 800 million may be considered a sort of peak for Capex or should we expect they will go beyond 1 billion annually? 
+asr:0: OUTPUT 2840.66-2841.80: Going forward. 
+asr:0: OUTPUT 2843.06-2850.29: And when you talk about partnerships, I remember you also mentioned partnership in order to reduce CAPEX. 
+asr:0: OUTPUT 2851.29-2860.10: I clearly understand you cannot talk about something that was not announced, but just to elaborate a bit on this in order to understand what... 
+asr:0: OUTPUT 2860.26-2862.96: The magnitude of the reduction in CAPEX if any. 
+asr:0: OUTPUT 2863.76-2869.69: Thank you. Thank you, Marco. You remember well the partnership are important way forward for us. 
+asr:0: OUTPUT 2870.39-2878.62: And as I said also before, there would be some partnership that, some important partnership for us we will announce in the near future. 
+asr:0: OUTPUT 2879.28-2883.10: I think that. 
+asr:0: OUTPUT 2883.12-2889.73: It's important, that is always also what I said in my previous life, to keep a strong discipline about CAPEX. 
+asr:0: OUTPUT 2890.37-2894.41: And to keep the momentum and to make sure to do something innovative. 
+asr:0: OUTPUT 2895.06-2903.12: It's important we decide what we do internally, and we decided, and what we want to do with partners outside. 
+asr:0: OUTPUT 2903.56-2907.21: So the two words are partnership and discipline. 
+asr:0: OUTPUT 2907.81-2915.36: And as I said, in the near future, you will hear about an important partnership on something that is important. 
+asr:0: OUTPUT 2915.38-2918.54: For our car, but for which. 
+asr:0: OUTPUT 2918.60-2922.30: Let's say we believe the best way forward is partnership. 
+asr:0: OUTPUT 2924.72-2928.81: And on the amount of CAPEX, 800 million could be considered as a peak. 
+asr:0: OUTPUT 2929.79-2933.87: You can consider this more or less a good number to think about. 
+asr:0: OUTPUT 2934.03-2941.06: Because we will use, as I said, the partnership to optimize and to be disciplined. 
+asr:0: OUTPUT 2944.16-2947.05: Okay, thank you. And talking about volumes. 
+asr:0: OUTPUT 2947.27-2949.25: Based on what you commented before. 
+asr:0: OUTPUT 2949.85-2957.92: I would expect higher volume growth than the usual, let's say, average 6% we saw in the last few years. 
+asr:0: OUTPUT 2960.00-2967.25: This is a bit a result of the significant net order intake increase that we have seen this year. 
+asr:0: OUTPUT 2967.55-2974.17: So we need to serve this one. Obviously, we'll be very careful because the concept of scarcity remains crucial to our business model. 
+asr:0: OUTPUT 2975.20-2981.08: And this is an element of significant attention. We'll play all leverages to manage this one. 
+asr:0: OUTPUT 2981.98-2989.31: And for sure, the broadest portfolio, the broad portfolio we have, it's helping to protect also the brand exclusivity because in these years,. 
+asr:0: OUTPUT 2989.33-2994.89: We have a lot of models that are in production. Thank you. 
+asr:0: OUTPUT 2998.40-3003.66: Thank you. 
+asr:0: OUTPUT 3003.72-3008.51: Please ask your question. Yes, sir. Good afternoon. Thank you. 
+asr:0: OUTPUT 3010.03-3015.18: I understand what you're saying about the mix in 2022, so just dig a little more detail in there. 
+asr:0: OUTPUT 3015.84-3021.22: First of all, is my understanding that you'll still be selling some Monzas in the first quarter of 2020? 
+asr:0: OUTPUT 3023.82-3025.02: We could see maybe something. 
+asr:0: OUTPUT 3026.47-3035.06: The second question is about the cadence of deliveries of the A12, the company called. 
+asr:0: OUTPUT 3040.00-3046.49: On the background. We are having problems to understand your question. I don't know. It seems there is someone on mute. I don't know. 
+asr:0: OUTPUT 3050.87-3053.23: I'll try again, sorry. Okay, try again, maybe. 
+asr:0: OUTPUT 3054.05-3060.74: I just want to ask, first of all, I understand that you will be selling some. 
+asr:0: OUTPUT 3060.78-3064.26: Monza's in the first quarter of this year, this final model. 
+asr:0: OUTPUT 3064.82-3067.95: Will that have an impact expected in the first quarter of this year still? 
+asr:0: OUTPUT 3068.51-3076.82: And secondly, could you talk about the cadence of deliveries of the 812 Competizione, obviously a very high margin car for you, in the course of 2022? Thank you. 
+asr:0: OUTPUT 3080.28-3087.07: I think in terms of the Monza, we'll complete the deliveries of the Monza in Q1. 
+asr:0: OUTPUT 3089.13-3096.66: However, the absolute number will not be as high as it has been during the last quarter of this year. 
+asr:0: OUTPUT 3098.04-3103.60: The A12 Competizione and Competizione Aperta will be spread quite evenly across the four. 
+asr:0: OUTPUT 3110.69-3117.66: Thank you. The next question comes from George Gouliers from Goldman Sachs. Please ask your question. 
+asr:0: OUTPUT 3120.00-3127.49: Taking my questions. The first question I had was just on the volumes. Obviously, you're now above 11,000 units. 
+asr:0: OUTPUT 3128.11-3137.36: I think in the past previous management mentioned that max capacity was about 15,000 units on the existing industrial footprint. 
+asr:0: OUTPUT 3138.16-3146.19: Is that still roughly the right number to think about? And in order to get there, presumably, you'd have to add shifts. 
+asr:0: OUTPUT 3146.71-3151.39: What's the kind of lead time from a training perspective to add incremental shifts? 
+asr:0: OUTPUT 3152.43-3158.06: The second question I had was with respect to the carbon neutrality by 2030. 
+asr:0: OUTPUT 3158.48-3164.70: Do you still expect e-fuels to play a prominent role in reaching that target? 
+asr:0: OUTPUT 3165.59-3173.25: And then finally, obviously we had significant management changes and some exciting promotions and external hires during the quarter. 
+asr:0: OUTPUT 3174.83-3181.68: Perhaps you could give some insight into the skill sets you were looking to promote as part of those management changes. Thank you. 
+asr:0: OUTPUT 3182.72-3189.93: Thank you. I'll start from the last one, the management change and the carbon neutrality. And the first one, Antonio, will take it. So let's start from the management change. 
+asr:0: OUTPUT 3190.63-3197.20: Yes, we did a big change at the beginning, end of last year, beginning of this change, beginning of this year. 
+asr:0: OUTPUT 3197.76-3201.84: And we did along two directions, if you have seen. 
+asr:0: OUTPUT 3202.26-3210.27: On one side, we promoted our internal talent that I had the pleasure to see because I talked to a lot of people in the company. 
+asr:0: OUTPUT 3210.67-3212.23: And also with external eyes. 
+asr:0: OUTPUT 3212.87-3222.90: I think what the common threat that we wanted, and I wanted to push with this new organization,. 
+asr:0: OUTPUT 3222.92-3226.03: Are the four following ones. 
+asr:0: OUTPUT 3226.13-3230.39: Number one, the strong willingness to cooperate. 
+asr:0: OUTPUT 3231.95-3240.70: Number two is about attention to innovation. And number three is the focus, to bring these things. 
+asr:0: OUTPUT 3240.72-3242.78: Especially in a transition area. 
+asr:0: OUTPUT 3242.84-3247.13: To make the right choice, the right decision with the right timing. 
+asr:0: OUTPUT 3247.15-3248.29: To move forward. 
+asr:0: OUTPUT 3248.75-3258.72: And number four is very important, especially nowadays. This is becoming very important for all the companies, is this continuous learning approach. 
+asr:0: OUTPUT 3259.10-3268.29: Because we have to be open, to listen at the other point of view, other people's point of view, and also the supplier's point of view, the partner's point of view. 
+asr:0: OUTPUT 3268.75-3270.57: So these are the. 
+asr:0: OUTPUT 3270.59-3282.06: The features that I want to boost with the new organization, again, organized with the homegrown talent and also external hires. 
+asr:0: OUTPUT 3283.36-3290.39: This gives for granted, let me say, competencies that all these people are bringing in the game. 
+asr:0: OUTPUT 3291.29-3294.17: Coming to the second question, the carbon neutrality. 
+asr:0: OUTPUT 3294.19-3304.00: As we said, the carbon neutrality, we will show you a clear plan when we meet here in Maranello. The target is to become carbon neutral by 2030. 
+asr:0: OUTPUT 3304.99-3314.27: We want to do it looking at all the carbon emission we generate directly, as well as the carbon emission that get generated along. 
+asr:0: OUTPUT 3314.29-3315.68: The value chain. 
+asr:0: OUTPUT 3316.52-3319.88: And we want to do in a scientific way,. 
+asr:0: OUTPUT 3320.14-3327.05: And so that's the reason why we are also proud, if you want, of this ISO certification we got in Q4. 
+asr:0: OUTPUT 3327.53-3335.62: Because it testifies that we are substantiating these numbers with scientific approach. 
+asr:0: OUTPUT 3335.68-3342.94: I think that if we want to tackle this properly, we need to be. 
+asr:0: OUTPUT 3342.96-3348.37: To do it scientifically and that's what we will do and that's what we will show you in June. 
+asr:0: OUTPUT 3349.35-3352.51: Now the first question, Antonio, you can take it. 
+asr:0: OUTPUT 3353.27-3360.50: On the first one, yes, 15,000 units is the level of capacity that we have. There has been no change in that respect. 
+asr:0: OUTPUT 3361.28-3365.93: And the second one we are working on to shift and we predict to be there even for 2022. 
+asr:0: OUTPUT 3368.43-3376.22: Great, thank you. Yeah, very helpful. Thank you very much and looking forward to the CMD. Likewise. 
+asr:0: OUTPUT 3378.04-3387.91: Thank you. 
+asr:0: OUTPUT 3388.95-3395.82: My first question is on the volume's growth in 2022 on the back of the Stronger Order book. 
+asr:0: OUTPUT 3396.26-3405.51: The ramp up of the new entry models in 2022. The volume's impact will be significant over the current year. 
+asr:0: OUTPUT 3405.91-3413.15: I was wondering if this could bring to some phase out of some models such as the SAE. 
+asr:0: OUTPUT 3413.85-3416.42: And as for the price mix... 
+asr:0: OUTPUT 3417.02-3426.27: I was wondering if you can elaborate on what do you expect in terms of personalization for 2022. 
+asr:0: OUTPUT 3427.23-3432.31: And my second question is an housekeeping question. 
+asr:0: OUTPUT 3433.23-3442.32: As for the advances from Daytona, should we assume an impact mostly in the first part of the year? Is it correct? 
+asr:0: OUTPUT 3442.80-3445.69: And in terms of taxes. 
+asr:0: OUTPUT 3446.35-3452.29: You mentioned that the taxes would be higher at the cash impact level in 2019. 
+asr:0: OUTPUT 3452.35-3457.78: Can you give us some highlights at the panel level? Thank you very much. 
+asr:0: OUTPUT 3459.26-3466.71: I take the part of the face out of the model. As I said, in Q4, we stopped at the. 
+asr:0: OUTPUT 3467.19-3470.59: We did not take order anymore on some model. 
+asr:0: OUTPUT 3471.37-3473.99: And this is done for the sake of brand exclusivity. 
+asr:0: OUTPUT 3475.24-3480.70: The personalization gives a good contribution to our top line. 
+asr:0: OUTPUT 3481.34-3487.87: And for the Daytona and the taxes, maybe, Anton, you can take it. Sure. 
+asr:0: OUTPUT 3488.81-3497.44: So, the right point, Taitona is significantly contributing in terms of cash flow with the advances on Q1. Maybe you remember what happened back in 2019 with the Monza? 
+asr:0: OUTPUT 3499.26-3507.73: And in terms of taxes, yes, we are currently projecting something like approximately 200 million additional cash out for taxes during the course of 2020. 
+asr:0: OUTPUT 3509.19-3511.55: Thank you very much. 
+asr:0: OUTPUT 3515.24-3524.96: Thank you very much, dear participants. Thank you very much for all your questions. And now I would like to hand the conference over to our main speaker today, Mr. Benedetto Vigna. 
+asr:0: OUTPUT 3526.15-3533.47: Thank you so much. Go ahead. Thank you. Thank you so much. And thanks all for your time this afternoon and also for all your questions. 
+asr:0: OUTPUT 3534.49-3537.82: Let me close by underscoring three things. 
+asr:0: OUTPUT 3538.48-3545.29: One, our excellent 2021 financial result with an exceptional EBDA margin. 
+asr:0: OUTPUT 3546.09-3552.77: Two, our record order book, covering well into 2023. 
+asr:0: OUTPUT 3552.79-3560.62: Our broad, innovative and beautiful product range with two new launches to come in this year, in 2022. 
+asr:0: OUTPUT 3561.90-3566.63: Today, I realize that we provided a little taste of what's happening in our company. 
+asr:0: OUTPUT 3567.31-3576.34: I realize that you want to hear more, and we are as eager as ever to seize these opportunities ahead of us and to share. 
+asr:0: OUTPUT 3576.36-3581.70: We will review the full picture on June 16 in Maranello at Capital Market Day. 
+asr:0: OUTPUT 3583.20-3589.27: So good afternoon, everyone. Thanks again for your attention. And talk to you in the next quarter. Thank you. 
+asr:0: OUTPUT 3592.13-3597.24: That does conclude our conference for today. Thank you for participating. You may all disconnect. Have a nice day. 
+asr:0: END

@@ -1,0 +1,385 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 21.28-25.33: Good afternoon, I am Joong-Seok Oh, Head of IR Planning at SK Telecom. 
+asr:0: OUTPUT 25.91-31.93: Today's conference call will consist of the presentation on the earnings results for Q1 of 2021. 
+asr:0: OUTPUT 31.95-38.46: And the future management plans and strategic direction by Pong Yong-Yoon, CFO and head of Corporate Center One. 
+asr:0: OUTPUT 38.48-42.26: And Hyungil Ha, head of Corporate Center 2, followed by a Q&A session. 
+asr:0: OUTPUT 44.46-52.67: In the last presentation, M&O was presented by Yoon Poong-young, the CEO of Corporate One, and New ICT was presented by Ha Young-il, the CEO of Corporate Two. 
+asr:0: OUTPUT 54.85-60.80: Today, achievements and strategic plans for MNO will be provided by Pung Yong Yoon, head of Corporate Center One. 
+asr:0: OUTPUT 61.30-66.13: And Hyungil Ha, head of Corporate Center 2, will discuss that of the new ICT businesses. 
+asr:0: OUTPUT 68.43-77.52: Foreign. 
+asr:0: OUTPUT 85.41-94.13: Today's conference call will provide consecutive interpretation and we have with us executives from relevant business divisions to help deepen your understanding. 
+asr:0: OUTPUT 94.67-102.58: Before we begin, we want to remind you that all forward-looking statements are subject to change depending on the macroeconomic and market situations. 
+asr:0: OUTPUT 103.16-104.76: Let me now present our CFO. 
+asr:0: OUTPUT 108.81-115.16: Foreign. 
+asr:0: OUTPUT 119.28-128.45: Good afternoon, this is Pung Young Yoon, CFO of SK Telecom. First of all, let me express my appreciation to investors and analysts for their continued support. 
+asr:0: OUTPUT 130.23-137.80: The U.S. Is considering a re-election of the U.S. To the U.S. As a member of the U.S. 
+asr:0: OUTPUT 140.50-145.75: On April 14th, SK Telecom announced that it was reviewing a plan for a spin-off. 
+asr:0: OUTPUT 145.77-151.57: Which would result in a telecom company and a holding company with semiconductor and new ICT assets. 
+asr:0: OUTPUT 156.60-166.25: And new ICT business. 
+asr:0: OUTPUT 167.69-168.93: You. 
+asr:0: OUTPUT 171.59-182.90: We plan to use the spin-off to increase shareholder value and create the most optimal structures for telecom business and new ICT businesses respectively, thereby accelerating their growth. 
+asr:0: OUTPUT 183.56-188.47: To fulfill the purpose of the spin-off, we completed the cancellation of treasury shares. 
+asr:0: OUTPUT 188.49-195.10: Worth 2.6 trillion won in market value which account for 10.8% of the total issued stocks. 
+asr:0: OUTPUT 196.46-198.14: The. 
+asr:0: OUTPUT 199.34-209.03: I think that the direction of the Korean Peninsula has created enough sympathy with the investors and the market. 
+asr:0: OUTPUT 211.73-219.90: The planned spin-off was designed to prioritize shareholder value and we believe that we have gained a good understanding of the investors and the market. 
+asr:0: OUTPUT 220.44-227.61: We will carry out the plan with a strong conviction and make sure that all the necessary decisions are finalized within the first half of the year. 
+asr:0: OUTPUT 230.05-232.59: 2021. 
+asr:0: OUTPUT 235.62-239.96: Now let me discuss the consolidated earnings highlights for Q1 of 2021. 
+asr:0: OUTPUT 242.06-245.67: In. 
+asr:0: OUTPUT 248.07-257.92: The. 
+asr:0: OUTPUT 260.78-261.90: I'm. 
+asr:0: OUTPUT 265.97-272.53: Consolidated revenue for Q1 of 2021 recorded $4,780,500,000. 
+asr:0: OUTPUT 272.91-282.52: All business divisions enjoyed growth year on year and media and safety and care posted a double digit growth marking a 7.4% year on year increase. 
+asr:0: OUTPUT 283.08-289.39: But the figure declined 1.2% 2 on 2 due to the base effect of higher seasonal sales in 2.4. 
+asr:0: OUTPUT 291.25-299.42: Korean sales profit is 29% compared to the previous quarter, and 38.88 billion won increased by 17.4% compared to the previous quarter. 
+asr:0: OUTPUT 302.22-308.87: And. 
+asr:0: OUTPUT 313.75-323.44: Consolidated operating income increased by 29% year-on-year and 17.4% two-on-two to post $388.8 billion won. 
+asr:0: OUTPUT 324.04-330.37: MNL and media led the operating income improvement by achieving both revenue growth and cost efficiency. 
+asr:0: OUTPUT 331.05-336.42: SNC and Commerce also contributed to earnings with their YOY growth in operating income. 
+asr:0: OUTPUT 342.94-345.21: And SK Wyverns,. 
+asr:0: OUTPUT 354.11-363.74: Net income recorded 572 billion won, posting an 86.9% growth year-on-year and a 54.2% growth Q-on-Q. 
+asr:0: OUTPUT 363.76-370.89: Thanks to equity method income on SK Hynix and sales profit of SK Wyverns. 
+asr:0: OUTPUT 375.14-379.36: Let me now discuss major achievements and strategic direction for each business. 
+asr:0: OUTPUT 379.38-393.17: SK Telecom's 1-minute emeno sales per unit increased by 1.9% compared to the previous year and 1.4% compared to the previous quarter, which is 2.987 trillion won. 
+asr:0: OUTPUT 404.88-412.61: Non-consolidated M&O revenue for Q1 increased by 1.9% year-on-year and 1.4% Q1-Q2. 
+asr:0: OUTPUT 412.63-416.32: To post 2,980,000,000,000 once. 
+asr:0: OUTPUT 416.84-426.67: Celebrating the second anniversary of 5G on April 3rd, we saw the number of 5G subscribers reach 6.74 million as of the end of Q1. 
+asr:0: OUTPUT 426.69-429.21: And record the biggest quarterly net ads. 
+asr:0: OUTPUT 429.41-431.37: Thereby leading MNO revenue growth. 
+asr:0: OUTPUT 432.43-434.99: Korean. 
+asr:0: OUTPUT 436.58-442.54: Korean. 
+asr:0: OUTPUT 444.38-448.69: And then our operating income posted $307.3 billion. 
+asr:0: OUTPUT 448.71-456.06: A 19% growth year-on-year and a 33.1% growth year-on-year as the market stabilization trend continued. 
+asr:0: OUTPUT 457.46-459.60: In. 
+asr:0: OUTPUT 481.64-487.61: Recently, we introduced five new 5G price plans to strengthen the 5G price options. 
+asr:0: OUTPUT 488.09-493.39: They include three online-only on-tech plans that offer more benefits at lower prices. 
+asr:0: OUTPUT 493.43-498.10: And two additional 5GX plans at 69,001 and 79,000. 
+asr:0: OUTPUT 499.44-506.81: We will continue to promote the transition to 5G services based on a variety of price plans that cater to diverse customer needs. 
+asr:0: OUTPUT 508.91-514.09: Foreign. 
+asr:0: OUTPUT 516.56-526.31: The. 
+asr:0: OUTPUT 526.53-527.57: Service. 
+asr:0: OUTPUT 529.51-536.22: The. 
+asr:0: OUTPUT 538.98-549.61: Subscription services newly pursued by MNO Division are expanding partnerships and launching diverse subscription services for daily life including education, rental and F&B. 
+asr:0: OUTPUT 550.19-558.00: In the second half of the year, we plan to introduce an integrated subscription services based on a new subscription marketing platform. 
+asr:0: OUTPUT 558.02-562.28: Where customers can enjoy optimal subscription life at reasonable prices. 
+asr:0: OUTPUT 562.90-571.89: We're developing flagship products that will raise customers' expectations for subscription services. We will do our best to ensure high quality of these services. 
+asr:0: OUTPUT 580.60-582.60: I. 
+asr:0: OUTPUT 584.60-591.69: The. 
+asr:0: OUTPUT 593.85-598.02: The. 
+asr:0: OUTPUT 600.34-601.70: . 
+asr:0: OUTPUT 604.92-611.43: Moving on to media, SK Broadband's consolidated revenue recorded $967 billion month. 
+asr:0: OUTPUT 611.51-624.10: With the T Broad merger and IPTV subscriber growth, it rose by 17.6% year-on-year but declined by 4.1% QonQ due to the base effect of seasonal sales in Q4. 
+asr:0: OUTPUT 624.74-628.15: Thanks to revenue growth and operational process improvements,. 
+asr:0: OUTPUT 628.17-637.08: Operating income increased by 98.8% year-on-year and 12.6% QOQ to record $75.4 billion won. 
+asr:0: OUTPUT 639.52-648.43: Safety and Care. 
+asr:0: OUTPUT 651.01-654.85: Foreign. 
+asr:0: OUTPUT 656.90-659.44: You. 
+asr:0: OUTPUT 681.92-697.30: As for safety and care business, with the merger of ADT CAHPS and SK InfoSec, we changed the name of the division from Security Division to Safety and Care Division to expand the scope of business. 
+asr:0: OUTPUT 697.90-704.70: After the merger, the consolidated revenue including ADT caps recorded $350.5 billion. 
+asr:0: OUTPUT 705.23-715.10: It increased by 20.3% year on year thanks to the solid growth of new businesses such as home security, integrated security and cloud security. 
+asr:0: OUTPUT 715.12-724.18: But it declined 5.5% Q2 due to the characteristic of safety and care business in which revenue tends to peak in Q4. 
+asr:0: OUTPUT 724.86-738.64: The new businesses enjoyed both top-line growth and bottom-line improvement, resulting in the quarterly operating income of $27.8 billion won, a 9.4% year-on-year and 14.9% QonQ increase. 
+asr:0: OUTPUT 740.36-744.00: Commerce business sales record 23.7 billion won. 
+asr:0: OUTPUT 745.33-754.73: Korea's non-face-to-face consumption trend increased by 7% compared to the same period last year, and in contrast to the previous quarter, it was due to the focus on promotion in the fourth quarter, such as the 11th event. 
+asr:0: OUTPUT 758.06-760.86: Google. 
+asr:0: OUTPUT 765.15-770.87: Commerce revenue posted 203.7 billion won. 
+asr:0: OUTPUT 771.29-779.52: It increased by 7% year-on-year based on the continued contactless consumption trend, but decreased by 9.3% QonQ. 
+asr:0: OUTPUT 779.54-783.62: Due to concentrated promotions in Q4, including the 11th day event. 
+asr:0: OUTPUT 784.24-792.69: Marketing expenses for 11th Street and SK Store increased in Q1, but operating income maintained the BEP level thanks to volume growth. 
+asr:0: OUTPUT 801.42-807.43: Chung Il-Ha, head of Corporate Center 2, will discuss the achievements and strategic direction for the new ICT business. 
+asr:0: OUTPUT 819.04-825.63: I am Hyung Il Ha, head of Crypto Center 2. Allow me to discuss the achievements and plans for the new ICT businesses. 
+asr:0: OUTPUT 828.49-836.36: First is the media business. 
+asr:0: OUTPUT 837.84-844.58: The number of pay TV subscribers of SK Broadband stands at 8.69 million as of the end of Q1. 
+asr:0: OUTPUT 845.75-851.75: K-Broadband's MPP Media S will start its regular broadcast in April. 
+asr:0: OUTPUT 853.41-862.88: Entertainment. 
+asr:0: OUTPUT 864.68-872.65: Established by SK Broadband in January as a multiple program provider, MediaS began regular broadcasting in April. 
+asr:0: OUTPUT 873.29-882.16: In partnerships with Kakao Entertainment and SMCNC, 70% of the programs are exclusive content unavailable on other TV channels. 
+asr:0: OUTPUT 883.74-887.71: K-Broadband is a platform for contents channels. 
+asr:0: OUTPUT 891.11-897.78: SK Broadband will strengthen the value chain in the media business that encompasses content, channels and platforms. 
+asr:0: OUTPUT 898.86-900.00: Wave is a high-frequency wave. 
+asr:0: OUTPUT 900.24-912.07: I will increase the competitiveness of original content such as the model taxi that records ratings. Recently, I have been the most responsible for the content, and I have been working on the signal and vinyl forest. 
+asr:0: OUTPUT 913.39-919.44: Wave will. 
+asr:0: OUTPUT 919.50-925.77: Further enhance competitiveness of original content such as Taxi Driver that is enjoying high viewer rating. 
+asr:0: OUTPUT 926.21-932.29: We recently hired chief producer Chan Ho Lee, well known for dramas such as Signal and Stranger,. 
+asr:0: OUTPUT 932.31-937.82: As Chief Content Officer and we're in the process of establishing a content planning studio. 
+asr:0: OUTPUT 939.28-942.32: Next is Ko Hwan-seok, who changed his name to 16 Care. 
+asr:0: OUTPUT 944.00-948.37: Next is the Security Division which is renamed as Safety and Care Division. 
+asr:0: OUTPUT 949.51-957.26: Foreign. 
+asr:0: OUTPUT 958.76-961.74: The. 
+asr:0: OUTPUT 969.09-977.84: Launched in March, the emerged entity of ADT Caps and SK InfoSec will leap forward as Korea's number one integrated security company. 
+asr:0: OUTPUT 978.24-981.78: In addition to achieving growth in the existing security domains,. 
+asr:0: OUTPUT 982.02-989.93: We will expand technology-based business models in new security domains such as securities for home, unmanned stores and cloud. 
+asr:0: OUTPUT 990.87-997.06: ADT Caps has recently signed a business partnership with AWS for cloud security. 
+asr:0: OUTPUT 998.42-1007.45: And the security of the cloud. 
+asr:0: OUTPUT 1011.09-1017.24: ADT Caps recently signed an agreement to cooperate with AWS for cloud security business. 
+asr:0: OUTPUT 1017.70-1022.86: By combining ADT's cloud security services with AWS solutions. 
+asr:0: OUTPUT 1023.16-1032.65: We will promote business together to gain market share in the financial and public sectors where there is high demand for transition to cloud. 
+asr:0: OUTPUT 1040.60-1047.93: Also, we are in the process of selecting a lead underwriter for IPO of ADT caps and we will do our best to prepare for the IDO. 
+asr:0: OUTPUT 1051.33-1052.63: Next is Commerce Business. 
+asr:0: OUTPUT 1063.78-1070.37: Despite intensifying market competition, commerce achieved growth in both revenue and profitability year on year. 
+asr:0: OUTPUT 1090.13-1096.92: 11th Street started Order Today Deliver Tomorrow service through fulfillment service together with Korea Post. 
+asr:0: OUTPUT 1097.30-1105.91: It is also selling popular products including daily necessities in partnerships with major domestic and global brands such as Amore and P&G Korea. 
+asr:0: OUTPUT 1122.10-1128.89: In collaboration with Amazon, we are making preparations to allow customers to buy Amazon products on 11th Street. 
+asr:0: OUTPUT 1129.33-1133.35: We plan to announce more details as soon as the service is ready to be launched. 
+asr:0: OUTPUT 1136.96-1138.60: Mobility. 
+asr:0: OUTPUT 1147.21-1158.10: In addition to investment from Uber, T-Mobile has received $400 billion of investments from financial investors based on a valuation of $1.4 trillion. 
+asr:0: OUTPUT 1172.35-1176.76: OOT was launched through joint investment of T-Mobility and Uber. 
+asr:0: OUTPUT 1176.98-1183.78: And its differentiated services are expected to offer customers more choices and provide drivers with more revenue. 
+asr:0: OUTPUT 1185.43-1187.91: I'm talking about One Store, which is preparing for IPO. 
+asr:0: OUTPUT 1189.31-1193.23: Finally, let me move on to one store which is preparing for an IPO. 
+asr:0: OUTPUT 1194.89-1199.98: One Store, which has been in a one-minute-long upward trend, has been. 
+asr:0: OUTPUT 1206.91-1214.93: With continued GMV growth for 11 consecutive quarters, one store received investments from KT and LG U+. 
+asr:0: OUTPUT 1214.97-1219.12: Thereby solidifying its position as Korea's representative at market. 
+asr:0: OUTPUT 1231.37-1237.16: We acquired Rock Media and established a content studio as a joint venture with ES24. 
+asr:0: OUTPUT 1237.44-1243.68: All of which are our efforts to secure K content IPs and develop them in a variety of formats. 
+asr:0: OUTPUT 1249.49-1251.87: I will now hand it back to the CFO. Thank you. 
+asr:0: OUTPUT 1255.74-1263.78: Thank you Mr. Ha for your presentation. 
+asr:0: OUTPUT 1280.00-1289.47: Pleased to have delivered earnings that exceeded the market consensus in this quarter. We announced a spin-off plan and canceled Treasury shares to enhance shareholder value. 
+asr:0: OUTPUT 1289.79-1294.27: We also demonstrated that the fundamentals in all our businesses have been strengthened. 
+asr:0: OUTPUT 1300.24-1304.46: The. 
+asr:0: OUTPUT 1306.83-1310.61: I understand that many people want to know more about our dividend policy. 
+asr:0: OUTPUT 1310.77-1319.86: After final decisions concerning the spinoff are made at the Board in the first half of the year, we will share with you more details including a decision on the quarterly dividend. 
+asr:0: OUTPUT 1332.51-1340.88: We will continue to do our best for successful spin-off. Let me reassure you that all the decisions we make will be to maximize shareholder value. 
+asr:0: OUTPUT 1343.16-1348.81: We ask for your continued support and interest. Thank you. 
+asr:0: OUTPUT 1366.97-1376.22: Foreign. 
+asr:0: OUTPUT 1380.06-1384.62: Now the Q&A session will begin. Please press 1 and 4 if you have any questions. 
+asr:0: OUTPUT 1385.21-1392.97: Your questions will be taken according to the order you have pressed the number 1 and 4. Please press 1 and 5 if you want to cancel your questions. 
+asr:0: OUTPUT 1394.97-1398.64: The first questioner is Oh Tae Hwan from Korea Investment Authority. 
+asr:0: OUTPUT 1401.12-1409.69: The first question will be provided by Dae Won Oh from Korea Investment and Securities. Please go ahead. 
+asr:0: OUTPUT 1410.63-1419.94: I have a question. There are some business divisions that do not appear in the process like Wave and Flow. 
+asr:0: OUTPUT 1443.58-1447.03: Thank you very much for this opportunity. I would like to ask two questions. 
+asr:0: OUTPUT 1447.39-1454.05: The first question is regarding the spin-off plan. Wave and flow were not mentioned in your recent disclosure. 
+asr:0: OUTPUT 1454.39-1458.08: So I'd like to learn how these businesses and subsidies. 
+asr:0: OUTPUT 1458.10-1464.94: Other subsidiaries will be divided between the surviving company and the spin-off company after the spin-off. 
+asr:0: OUTPUT 1465.77-1474.77: The second question is related to your subscription service plan. You mentioned that in the second half of the year, you are going to launch an integrated subscription service. 
+asr:0: OUTPUT 1475.12-1479.10: So can you provide us with some updates on your subscription service business plan? 
+asr:0: OUTPUT 1482.04-1484.70: Thank you for your question. 
+asr:0: OUTPUT 1486.49-1495.70: Mr. Oh, thank you very much for your questions. 
+asr:0: OUTPUT 1497.20-1503.64: Let me first answer your question regarding where wave and flow will go after the spin-off. 
+asr:0: OUTPUT 1506.51-1515.54: And. 
+asr:0: OUTPUT 1518.18-1533.53: After the spin-off, the surviving company will grow as an AI-based infra company by combining the fixed and wireless telecommunication infrastructure and pursuing growth based on AI-centered subscription marketing and data center business. 
+asr:0: OUTPUT 1536.22-1538.40: Platform, global tech seeding. 
+asr:0: OUTPUT 1545.85-1556.42: And the spin-off company will grow as an ITP investment company that is specialized in making aggressive investments in semiconductor, life platforms, and global tech seeding. 
+asr:0: OUTPUT 1556.72-1560.78: Thereby making various investments that will drive value up. 
+asr:0: OUTPUT 1561.86-1566.49: Waveflow and other media content assets are in the live platform area. 
+asr:0: OUTPUT 1567.51-1572.93: Foreign. 
+asr:0: OUTPUT 1576.58-1584.76: In your question, you asked about Wave and Flow. They belong to media and content assets, thereby falling under the live platform area. 
+asr:0: OUTPUT 1585.03-1591.83: So under the spin-off company, they will become global businesses that will lead new lifestyles of customers. 
+asr:0: OUTPUT 1593.97-1596.68: Foreign. 
+asr:0: OUTPUT 1599.44-1608.11: As for the specific business portfolios of the surviving company and the spin-off company, these will be finalized at the board within the first half of the year. 
+asr:0: OUTPUT 1613.71-1619.64: Let me now address your question regarding the subscription services. 
+asr:0: OUTPUT 1628.45-1635.52: We have been accumulating know-how and expertise in the subscription market by utilizing our telecommunication services. 
+asr:0: OUTPUT 1635.76-1640.98: We believe that MNO is very competitive in providing subscription services. 
+asr:0: OUTPUT 1642.62-1645.09: Commerce. 
+asr:0: OUTPUT 1646.27-1652.35: Foreign. 
+asr:0: OUTPUT 1655.30-1661.98: In various areas such as telecommunications, media and e-commerce, we have accumulated a large amount of data. 
+asr:0: OUTPUT 1662.30-1671.03: And we have the digital infrastructure that can cover product planning all the way to offering. And we also have marketing competitiveness in both online and offline channels. 
+asr:0: OUTPUT 1674.55-1678.40: Foreign. 
+asr:0: OUTPUT 1681.60-1686.91: Based on such expertise and capabilities, we believe that we can produce a sizable revenue. 
+asr:0: OUTPUT 1686.93-1694.83: Not only based on SK Telecom customers but also 50 million Korean people. 
+asr:0: OUTPUT 1701.62-1704.40: Is. 
+asr:0: OUTPUT 1705.87-1712.39: Currently, we have been expanding the scope of subscription products to media, games, delivery, and education. 
+asr:0: OUTPUT 1712.65-1721.18: And we're now in the process of developing product curation and offering based on AI technology in order to offer optimal packages for our customers. 
+asr:0: OUTPUT 1730.47-1737.26: Furthermore, we're going to transform the existing team membership platform into a subscription marketing platform that is. 
+asr:0: OUTPUT 1737.28-1740.84: Provided for entire population in Korea in the second half of the year. 
+asr:0: OUTPUT 1751.03-1760.76: The subscription market in Korea was 49 trillion won in size last year and it is expected to grow to 100 trillion won of market by 2025. 
+asr:0: OUTPUT 1778.86-1793.03: The target for the subscription products and services is having the number of subscribers reach 35 million by 2025 and achieve the revenue size of 1.5 trillion won by 2025. 
+asr:0: OUTPUT 1793.05-1795.86: By expanding partnerships and business models. 
+asr:0: OUTPUT 1796.24-1803.66: I believe that we can take up about 20% of the market share of the subscription market that we can address. Thank you. 
+asr:0: OUTPUT 1809.23-1812.77: I'm sorry. 
+asr:0: OUTPUT 1816.28-1820.28: The next question will be provided by Mina Choi from Samsung Security. 
+asr:0: OUTPUT 1860.28-1864.46: Foreign. 
+asr:0: OUTPUT 1867.49-1871.31: Thank you very much for this opportunity. I would like to ask two questions. 
+asr:0: OUTPUT 1871.71-1876.24: The first question is, in April you made a disclosure that you will carry out the spin-off. 
+asr:0: OUTPUT 1876.60-1885.19: And you mentioned that decisions related to the spin-off will be made in the first half of this year. Can you share with us the upcoming schedule regarding the spin-off? 
+asr:0: OUTPUT 1885.57-1892.15: The second question is related to the T-MAP mobility. Recently you received financial investments and I believe that. 
+asr:0: OUTPUT 1892.17-1896.28: T-MED mobility will start to accelerate its growth trajectory. 
+asr:0: OUTPUT 1896.66-1898.96: So what is the current status of T-MAP mobility? 
+asr:0: OUTPUT 1899.42-1908.61: And as for OOTI, which was launched in collaboration with Uber, can you provide us with some specific growth strategies on this recently launched business? 
+asr:0: OUTPUT 1915.74-1917.34: Thank you very much for these questions. 
+asr:0: OUTPUT 1927.43-1934.97: I'm going to answer your question regarding the schedule for the spin-off and Hyungil Ha will answer questions related to the T-MAP mobility. 
+asr:0: OUTPUT 1938.78-1944.04: Process. 
+asr:0: OUTPUT 1944.88-1950.69: Foreign. 
+asr:0: OUTPUT 1951.59-1954.75: The. 
+asr:0: OUTPUT 1957.90-1966.43: We are reviewing the overall process regarding the spin-off and we aim to table the spin-off plan to the Board of Directors within the first half of the year. 
+asr:0: OUTPUT 1967.11-1972.81: In consideration of the board resolution process and the overall process for the spin-off and relisting. 
+asr:0: OUTPUT 1972.85-1979.70: We believe that the relisting can be completed within November after the general shareholders' meeting in October. 
+asr:0: OUTPUT 1992.35-2000.46: I am Hyungil Ha, head of Corporate Center 2. I'd like to address your question related to the status of business of T-MAP mobility after the split off. 
+asr:0: OUTPUT 2001.54-2011.09: Tmap Mobility, which was officially launched in December, is a mobile app that combines Tmap Life Platform, Tmap Auto, Mobility on Demand, Mobility as a Service,. 
+asr:0: OUTPUT 2011.39-2013.53: And we are focusing on the area. 
+asr:0: OUTPUT 2015.28-2024.22: After officially launched in December last year, T-MAP Mobility is carrying out business in the four key areas, including the T-MAP Life Platform,. 
+asr:0: OUTPUT 2024.24-2028.33: TNAP auto, mobility on demand and mobility as a service. 
+asr:0: OUTPUT 2030.39-2039.50: And. 
+asr:0: OUTPUT 2045.95-2054.31: In the first quarter of the year, we built a foundation for T-MAP mobility by receiving 400 billion won of financial investments. 
+asr:0: OUTPUT 2054.33-2056.02: From financial investors. 
+asr:0: OUTPUT 2056.34-2063.00: And we have launched OOTY in collaboration with Uber in order to offer differentiated services centered around taxis. 
+asr:0: OUTPUT 2064.60-2071.13: In the future, we plan to launch subscription membership services in the field of the T-Map Life Platform. 
+asr:0: OUTPUT 2072.25-2075.40: Foreign. 
+asr:0: OUTPUT 2077.02-2086.13: In the second quarter, we plan to introduce a completely new type of subscription membership services in the business area of T-Met Life Platform. 
+asr:0: OUTPUT 2086.15-2092.09: And we also plan to launch a driver-on-demand service as a pilot for B2C customers. 
+asr:0: OUTPUT 2093.53-2098.94: The core business area of the service launch is going as planned and new services are being. 
+asr:0: OUTPUT 2103.62-2112.23: These new services on the four core business areas will be launched as scheduled, which are expected to provide differentiated customer experience. 
+asr:0: OUTPUT 2121.94-2126.61: Now I'd like to discuss the future strategy and the upcoming schedules for OOT. 
+asr:0: OUTPUT 2135.03-2141.46: On April 1st, OOT was officially launched based on the joint investment of Uber and T-Met Mobility. 
+asr:0: OUTPUT 2142.74-2148.99: We plan to launch UberTaxi and T-Maxi in the second half of this year. 
+asr:0: OUTPUT 2149.91-2154.97: In the future, the company will focus on taxi services and luxury taxis. 
+asr:0: OUTPUT 2155.62-2161.08: We will also provide various transportation and additional services based on taxis. 
+asr:0: OUTPUT 2162.66-2169.63: In the second half of the year, UT plans to launch a new service by combining UberTaxi and T-MapTaxi. 
+asr:0: OUTPUT 2170.47-2180.20: Initially, services will center around contracted taxi drivers and premium taxi services, but going forward, we plan to offer various mobile services. 
+asr:0: OUTPUT 2180.56-2181.70: And additional value. 
+asr:0: OUTPUT 2181.88-2184.14: Services based on the Taxi platform. 
+asr:0: OUTPUT 2193.31-2200.88: And the reduction of sales will result in a reduction in costs. 
+asr:0: OUTPUT 2202.22-2210.77: As a result, customers will be able to have more options in terms of taxi rides depending on the brand, price plans and services. 
+asr:0: OUTPUT 2211.17-2220.06: And at the same time, taxi drivers will benefit from these new services by increasing their sales through differentiated services and by reducing the time to. 
+asr:0: OUTPUT 2220.08-2221.90: Drive around to spot customers. 
+asr:0: OUTPUT 2232.79-2242.44: We're not really able to give you any more details today, but we will be sure to communicate them with the market when the services are ready. Thank you. 
+asr:0: OUTPUT 2248.25-2257.30: The next question will be provided by Hoi Jae Kim from Station Securities. Please go ahead. 
+asr:0: OUTPUT 2263.56-2267.55: Foreign. 
+asr:0: OUTPUT 2278.78-2283.62: I have a question about the investment plan for 2025. 
+asr:0: OUTPUT 2300.28-2302.90: Korean. 
+asr:0: OUTPUT 2304.68-2310.79: I would like to know where the money is coming from. 
+asr:0: OUTPUT 2316.02-2322.40: Thank you for this opportunity. I would like to ask two questions. The first question is related to your dividend. 
+asr:0: OUTPUT 2322.42-2328.09: You mentioned that even though you start the quarterly dividend payout,. 
+asr:0: OUTPUT 2328.21-2332.01: The total amount of dividend payout would not go down. 
+asr:0: OUTPUT 2332.35-2341.72: I'd like to know from when your quarterly dividend payout would begin and what is the overall dividend payout policy for the two companies after the spin-off? 
+asr:0: OUTPUT 2342.34-2348.45: The second question is related to your investment plan and business plan for Wave. 
+asr:0: OUTPUT 2349.05-2357.24: You mentioned that by 2025, you are going to receive a $1 trillion one of investment and you have various plans for WAVE. 
+asr:0: OUTPUT 2357.54-2364.98: But this is quite different from what you mentioned previously when you were communicating with us regarding Wave Plan by 2023. 
+asr:0: OUTPUT 2365.29-2373.37: So the amount of investment and the amount of revenue seems to have declined slightly when you are adjusting your target for 2025. 
+asr:0: OUTPUT 2373.73-2381.46: So can you provide us with some color on what is your overall investment plan for Wave, which you mentioned is going to be around $1 trillion. 
+asr:0: OUTPUT 2381.68-2385.29: And what is your revenue plan and schedule for wage going forward. 
+asr:0: OUTPUT 2389.67-2391.03: Foreign. 
+asr:0: OUTPUT 2398.44-2407.65: Thank you very much for your questions. I am going to address your question regarding the dividend policy and Mr. Ha from Corporate Center 2 will address your question regarding WAVE. 
+asr:0: OUTPUT 2410.85-2411.89: To. 
+asr:0: OUTPUT 2418.16-2423.34: Even after the spin-off, we will continue to maintain the shareholder-friendly management principle. 
+asr:0: OUTPUT 2430.51-2438.92: We will make sure that regardless of the spin-off, the surviving company's level of dividend payout will be at least similar to that of last year. 
+asr:0: OUTPUT 2456.92-2459.76: Korea's number one fixed and wireless telecommunications provider. 
+asr:0: OUTPUT 2459.82-2468.83: As the rollout of 5G is accelerating, we believe that our operating income and the cash flow will be sustained going forward. 
+asr:0: OUTPUT 2469.19-2478.34: As such, we will make sure that we have the shareholder return policy so that earnings growth will lead to increased shareholder returns including dividend payout. 
+asr:0: OUTPUT 2479.24-2487.61: The company has provided the basis for the distribution of the quarter in the last meeting of shareholders and has agreed to implement it from the end of the second quarter of this year. 
+asr:0: OUTPUT 2491.03-2497.16: At the annual general shareholders meeting, we created a basis for quarterly dividend payouts. 
+asr:0: OUTPUT 2497.62-2511.29: After discussions at the Board of Directors, we will carry out this new dividend policy plan so that we can start paying out the quarterly dividend by starting from the end of second quarter. 
+asr:0: OUTPUT 2520.02-2522.30: Or at least above the level of a war. 
+asr:0: OUTPUT 2525.03-2528.81: The timing for the quarterly payout for the first quarter has already passed. 
+asr:0: OUTPUT 2528.93-2540.82: But this portion will be combined for the fourth quarter dividend payout so that we can maintain the level of dividend payout to our shoulders to be at least same or similar to that of last year. 
+asr:0: OUTPUT 2543.20-2547.35: Foreign. 
+asr:0: OUTPUT 2552.29-2561.66: As for the spin-off company, which will become a specialized investment company, we will make sure that their growth potential of the investment portfolio will be recognized. 
+asr:0: OUTPUT 2561.98-2571.41: And by actively attracting investment and pursuing IPOs, we will make sure that the corporate value of these businesses will be rightly recognized in the market. 
+asr:0: OUTPUT 2580.00-2589.61: As for the dividend policy of the new company, after the spin-off is finalized and after the board of directors is composed,. 
+asr:0: OUTPUT 2589.67-2593.11: We will be able to communicate to the market more details later. 
+asr:0: OUTPUT 2607.37-2616.92: I am Hyungil Ha, head of Corporate Center 2. Let me first comment on the subscriber target and the revenue target of WAVE before 2023. 
+asr:0: OUTPUT 2620.48-2623.52: Contents, Penthouse Season 2. 
+asr:0: OUTPUT 2627.65-2631.91: Korean translation. 
+asr:0: OUTPUT 2635.96-2641.96: As we increase the original content lineup and the popularity of Penthouse Season Two,. 
+asr:0: OUTPUT 2641.98-2647.79: And as a result of the successful advertising with IU that began at the end of last year. 
+asr:0: OUTPUT 2647.81-2653.75: Wave was able to enjoy the growth and its paid subscribers. 
+asr:0: OUTPUT 2653.77-2659.44: By reaching 2 million within last year, and the subscriber growth trend is continuing. 
+asr:0: OUTPUT 2661.52-2674.39: Korean. 
+asr:0: OUTPUT 2679.50-2687.09: We continue to differentiate WAVE services based on content from terrestrial broadcasting stations and original content. 
+asr:0: OUTPUT 2687.47-2697.24: We believe that we can achieve the initial target of having 5 million paid subscribers and the revenue of 500 billion won by 2020. 
+asr:0: OUTPUT 2697.26-2700.18: And we believe that we can achieve this earlier than the. 
+asr:0: OUTPUT 2700.24-2704.04: Original target. 
+asr:0: OUTPUT 2707.71-2716.42: Let me now comment on the ways we want to secure 1 trillion won of investment for Wave. 
+asr:0: OUTPUT 2722.48-2732.01: In March, Wave made an announcement of making an investment in original content which is worth $1 trillion, which will be done by 2025. 
+asr:0: OUTPUT 2733.69-2738.32: Telecom. 
+asr:0: OUTPUT 2747.13-2748.25: The financial sources. 
+asr:0: OUTPUT 2749.01-2750.01: Will come from. 
+asr:0: OUTPUT 2750.15-2760.00: A variety of sources including the rights offering of 100 billion won of Tehsketew Telecom as well as external investments and reinvestment of profit from content business. 
+asr:0: OUTPUT 2775.64-2782.76: As for raising external investments, we already received 200 billion won of financial investments in 2019. 
+asr:0: OUTPUT 2782.82-2786.23: And we're now in the process of preparing for the second round of funding. 
+asr:0: OUTPUT 2786.71-2795.50: As for the second round, as soon as details are prepared, we're going to communicate them with the market. Thank you. 
+asr:0: OUTPUT 2800.02-2808.21: The next question will be provided by Sean Lee from Citigroup. Please go ahead. 
+asr:0: OUTPUT 2820.56-2825.89: And how it is being run, and what kind of synergy we are expecting. 
+asr:0: OUTPUT 2829.23-2832.89: The second is the M&O business. 
+asr:0: OUTPUT 2835.98-2839.78: Foreign. 
+asr:0: OUTPUT 2849.39-2856.00: Thank you for this opportunity. I would like to ask two questions. The first question is related to your security business. 
+asr:0: OUTPUT 2856.44-2860.16: The ADT CAHPS and SK InfoSec were merged in the first quarter. 
+asr:0: OUTPUT 2860.52-2867.13: So what's the current status and the operation of this merged entity and what kinds of synergy are you expecting from this merger? 
+asr:0: OUTPUT 2867.73-2870.49: The second question is related to your MNO business. 
+asr:0: OUTPUT 2871.41-2874.73: What is your 5G subscriber target by the end of this year? 
+asr:0: OUTPUT 2875.06-2884.02: I understand that your initial target by the end of this year was $9 million, but there was a very big net ask in the first quarter, so I'm asking this question. 
+asr:0: OUTPUT 2891.29-2894.15: Thank you very much for your questions. 
+asr:0: OUTPUT 2902.64-2911.51: I will address your question related to the 5G subscriber growth trend and Mr. Ha from Corporate Center 2 will answer your question related to the security business. 
+asr:0: OUTPUT 2912.97-2916.78: And the service quality of the product. 
+asr:0: OUTPUT 2917.84-2920.78: Flagship. 
+asr:0: OUTPUT 2929.39-2937.48: As we have made continued efforts to offer new 5G products and improve the service quality of 5G services,. 
+asr:0: OUTPUT 2937.74-2942.86: And as we were improving the 5G ecosystem with new flagship handset launches. 
+asr:0: OUTPUT 2942.98-2951.51: We were able to achieve the 5G subscriber number to 6.74 million by the end of this quarter. 
+asr:0: OUTPUT 2951.75-2956.78: To last year, so there was a net add of 1.26 million compared to the end of last year. 
+asr:0: OUTPUT 2969.01-2982.64: At the beginning of the year, we mentioned that our 5G subscriber target for this year was 9 million, but considering the current trend, we think that we can achieve even 10 million. 
+asr:0: OUTPUT 2993.29-3001.70: The new tariff schemes for 5G and on-tech price plans that SK Telecom has recently offered to satisfy various customer needs. 
+asr:0: OUTPUT 3001.72-3008.47: Are expected to provide customers with more choices and reasonable prices, thereby accelerating 5G migration. 
+asr:0: OUTPUT 3012.77-3019.56: Second, I will talk about the synergy of ADT, CAHPS, and InfoTech. 
+asr:0: OUTPUT 3021.10-3026.97: Let me now respond to your question regarding the synergy of ADT-CAHPS and SK-InfoSeg. 
+asr:0: OUTPUT 3026.99-3035.12: Korean translation. 
+asr:0: OUTPUT 3043.04-3048.63: We successfully completed the process of merging ADT CAHPS and FK-INFO-SEC in March. 
+asr:0: OUTPUT 3048.69-3054.97: As a result, we have the merged ADT caps with the revenue size of 1.3 trillion won and EBITDA. 
+asr:0: OUTPUT 3055.03-3057.12: Of 357 billion won. 
+asr:0: OUTPUT 3060.58-3069.49: And the joint efforts to maximize the overall synergy are in full swing. 
+asr:0: OUTPUT 3073.13-3082.80: Now various activities are underway in earnest in order to maximize energy from these two entities based on our infrastructure for security and various capabilities. 
+asr:0: OUTPUT 3083.16-3088.15: We expect the annual revenue for 2021 to be $1.6 trillion won. 
+asr:0: OUTPUT 3099.66-3104.40: In addition, in order to become a global cloud security provider,. 
+asr:0: OUTPUT 3104.44-3110.97: We have signed an agreement to pursue strategic cooperation with Amazon AWS in April. 
+asr:0: OUTPUT 3112.41-3116.66: The synergy between the two companies is very important. 
+asr:0: OUTPUT 3118.44-3123.44: I can discuss the effect of synergy from the customer perspective and product perspective. 
+asr:0: OUTPUT 3124.92-3130.33: In the customer side, we have a large enterprise-centered SK InputSec. 
+asr:0: OUTPUT 3133.25-3136.12: We are also looking for a new product that can be used by the B2C customers. 
+asr:0: OUTPUT 3140.50-3147.81: First of all, customer perspective, SK InfoSec has a large volume of B2B customers, including large enterprises. 
+asr:0: OUTPUT 3148.09-3156.78: And ADT CAHPS has B2C customers including small and medium enterprises and single businesses. 
+asr:0: OUTPUT 3156.80-3160.46: Different customer segments, we can create cross-selling opportunities. 
+asr:0: OUTPUT 3173.59-3181.28: From the product perspective, we are expected to provide customized one-stop services that combine security. 
+asr:0: OUTPUT 3181.30-3185.95: Physical security, information security, and building management as combined solutions. 
+asr:0: OUTPUT 3187.29-3192.35: Cyber-Entry or malware code detection is a video game that is connected to a platform. 
+asr:0: OUTPUT 3194.21-3198.14: The. 
+asr:0: OUTPUT 3200.38-3209.89: For instance, if when there is a cyber intrusion or detection of malicious codes, we can do video analysis by utilizing the platform data. 
+asr:0: OUTPUT 3210.29-3216.98: And by leveraging on our access control system, we can detect any intruders to buildings and assets. 
+asr:0: OUTPUT 3217.40-3220.00: And such flexible response will become more possible. 
+asr:0: OUTPUT 3240.00-3249.21: The next question will be provided by Neil Anderson from HSBC. Please go ahead. 
+asr:0: OUTPUT 3251.13-3252.69: Thank you very much and good afternoon. 
+asr:0: OUTPUT 3252.99-3261.60: I just have one question please and it relates to the media business and the sequential improvement in operating margin in the first quarter. 
+asr:0: OUTPUT 3262.12-3270.67: So for the three quarters last year it was around 6.7% and it's increased to 7.8% in the first quarter. 
+asr:0: OUTPUT 3271.63-3278.00: So my question is, how sustainable is that? And what are your margin targets for this year? Thank you. 
+asr:0: OUTPUT 3320.38-3326.63: We believe that there are various factors that have contributed to improvement in the operating margin of SK Broadband. 
+asr:0: OUTPUT 3328.11-3336.00: To. 
+asr:0: OUTPUT 3337.30-3339.94: The. 
+asr:0: OUTPUT 3349.45-3353.85: So these various factors include the effect of the T-broad merger. 
+asr:0: OUTPUT 3354.31-3363.14: That's the first factor. The second factor is the increase in the subscriber base and increase in the commission's income from home shopping broadcasting. 
+asr:0: OUTPUT 3363.38-3373.07: The third factor is the continued increase in the IPTV subscriber base. And the final factor would be effective CAPEX implementation and cost efficiency. 
+asr:0: OUTPUT 3383.18-3393.77: Going forward, we will continue to make efforts to increase the subscriber base and carry out our business in a more efficient manner so that we can maintain and increase profitability of the media business. 
+asr:0: OUTPUT 3404.72-3413.21: The next question will be provided by Stanley Yang from James Morgan. Please go ahead. 
+asr:0: OUTPUT 3424.52-3429.49: The. 
+asr:0: OUTPUT 3440.36-3443.32: In. 
+asr:0: OUTPUT 3453.35-3456.58: And Amazon Prime. 
+asr:0: OUTPUT 3460.06-3467.11: I'm curious about how you cover this. 
+asr:0: OUTPUT 3468.51-3470.83: Is. 
+asr:0: OUTPUT 3479.22-3481.14: Opportunity to ask questions. 
+asr:0: OUTPUT 3481.18-3490.77: The first question is related to your dividend policy. You mentioned that detailed decisions regarding the dividend policy for the spin-off company will be made soon. 
+asr:0: OUTPUT 3491.11-3498.34: But can I safely assume that given the MNO dividend payout level of 10,000 won per share,. 
+asr:0: OUTPUT 3498.64-3504.36: And assuming that there will be dividend payout from the new spin-off company. 
+asr:0: OUTPUT 3504.38-3510.91: Can we anticipate that the total amount of dividend payout from SK Telecom will increase going forward? 
+asr:0: OUTPUT 3511.47-3514.93: The second question is related to your subscription business model. 
+asr:0: OUTPUT 3515.20-3518.30: There are high expectations for subscription services. 
+asr:0: OUTPUT 3518.40-3531.43: And I'd like to know if your subscription model would be to push several subscription models and services separately or to follow the model of Amazon where you have one single subscription. 
+asr:0: OUTPUT 3531.45-3534.03: Platform where multiple services are provided. 
+asr:0: OUTPUT 3534.37-3543.70: And if you continue to launch these new subscription services, are they going to be linked with your MNO telecom subscribers or are they going to be operated separately? 
+asr:0: OUTPUT 3560.46-3561.62: Company. 
+asr:0: OUTPUT 3564.46-3574.39: Thank you very much for your questions. I am going to respond to your question on the dividend policy and Han Myung-jin, head of subscription service company, will answer the second question. 
+asr:0: OUTPUT 3575.80-3579.96: I. 
+asr:0: OUTPUT 3600.00-3604.44: For the first question on our dividend policy, your understanding is correct. 
+asr:0: OUTPUT 3605.09-3613.63: The dividend payout from the M&O business as part of the surviving company will be similar or more than the previous level of dividend payout. 
+asr:0: OUTPUT 3613.91-3623.18: And on top of that, we have not yet decided on the dividend policy of the spin-off company, but if they start to pay out dividend, it's going to be a plus alpha. 
+asr:0: OUTPUT 3634.53-3643.82: As I mentioned earlier, when the Board of Directors is composed for the spin-off company and when discussions on the dividend policy are made, we're going to communicate them with the market. 
+asr:0: OUTPUT 3652.63-3658.48: I am Han Myung Jin, I'm the head of the subscription business and let me address your second question. 
+asr:0: OUTPUT 3659.32-3667.03: Foreign. 
+asr:0: OUTPUT 3670.05-3678.44: As you may understand, we have many family businesses under the ICT umbrella and there are many different services and products that we're preparing. 
+asr:0: OUTPUT 3678.46-3681.56: That will help enhance the livelihood of customers. 
+asr:0: OUTPUT 3696.64-3702.78: I can say that our model will be similar to Amazon Prime where there will be an integrated subscription paradigm. 
+asr:0: OUTPUT 3703.46-3707.97: In addition to that, we are planning to offer additional services and products for subscription. 
+asr:0: OUTPUT 3714.55-3719.58: We're planning to charge a monthly subscription fee for the subscription customers. 
+asr:0: OUTPUT 3735.18-3739.42: Regarding the connection with MNO services. 
+asr:0: OUTPUT 3739.58-3746.89: We are currently planning this subscription platform to reach out to 50 million Korean populations. 
+asr:0: OUTPUT 3747.15-3753.99: So we're currently not considering any linkage between the subscription services and the MNO fees. Thank you. 
+asr:0: OUTPUT 3767.61-3771.45: Like to close our conference call for the first quarter of 2021. Thank you. 
+asr:0: END

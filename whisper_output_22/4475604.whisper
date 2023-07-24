@@ -1,0 +1,170 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.96-12.55: On today's call, we will be referring to the Form 20-F and press release filed this morning that detail the company's fiscal year-end 2021 results. 
+asr:0: OUTPUT 12.57-16.80: Which can be downloaded from the company's website at R-Kit.UK. 
+asr:0: OUTPUT 17.38-22.48: You'll also find the latest earnings presentation that supplements the information discussed on today's call. 
+asr:0: OUTPUT 23.00-31.53: Please note that listeners that would like to ask a question in the Q&A session will need to dial in to the call rather than joining through the webcast link. 
+asr:0: OUTPUT 32.05-37.90: Finally, a recording of the call will be available on the investor section of the company's website later today. 
+asr:0: OUTPUT 38.68-41.76: Please note that this webcast includes forward-looking statements. 
+asr:0: OUTPUT 42.12-47.83: Statements about the company's beliefs and expectations containing words such as may, will, could,. 
+asr:0: OUTPUT 47.85-56.04: Believe, expect, anticipate, and similar expressions are forward-looking statements and are based on assumptions and beliefs as of today. 
+asr:0: OUTPUT 56.60-65.39: The company encourages you to review the Safe Harbor Statements, Risk Factors, and other disclaimers contained on this slide and in today's press release. 
+asr:0: OUTPUT 65.41-69.27: As well as in the company's filings with the Securities and Exchange Commission. 
+asr:0: OUTPUT 69.53-78.26: Which identifies specific risk factors that may cause actual results or events to differ materially from those described in our forward-looking statements. 
+asr:0: OUTPUT 78.74-85.67: The company does not undertake to publicly update or revise any forward-looking statements after this webcast. 
+asr:0: OUTPUT 86.23-92.97: The company also notes that on this call it will be discussing non-IFRS financial information. 
+asr:0: OUTPUT 93.35-100.00: The company is providing that information as a supplement to information prepared in accordance with. 
+asr:0: OUTPUT 100.44-104.82: International Financial Reporting Standards, or IFRS. 
+asr:0: OUTPUT 105.37-110.35: You can find a reconciliation of these metrics to the company's reported IFRS. 
+asr:0: OUTPUT 110.37-116.34: Results in the reconciliation tables provided in today's earnings release and presentation. 
+asr:0: OUTPUT 116.82-123.48: And now I'll turn the call over to David Williams, the company's founder, chairman, and chief executive officer. David. 
+asr:0: OUTPUT 125.81-132.79: Thank you very much. Hello and welcome to ARKit Quantum Inc's debut fiscal year-end conference call. 
+asr:0: OUTPUT 133.59-140.24: It was a transformational year for ARCIT and we're very excited to discuss our performance and notable achievements with you. 
+asr:0: OUTPUT 141.76-147.41: Since our year end of September coincided with the completion of our NASDAQ listing,. 
+asr:0: OUTPUT 147.47-155.08: And customer billings only began with commercial launch in the fourth quarter of the year. There's not a lot of new information. 
+asr:0: OUTPUT 155.38-159.92: So I want to leave plenty of time for Q&A on business model and outlook. 
+asr:0: OUTPUT 161.42-168.81: Before I begin, I would like to acknowledge a number of constituents who are instrumental in bringing our important product to the market. 
+asr:0: OUTPUT 169.63-176.16: First I'd like to acknowledge and thank the employees of ARCIT, those that have been with us from the very beginning and recent joiners alike. 
+asr:0: OUTPUT 176.84-180.98: We've assembled a team of hard-working and brilliant individuals who share our vision. 
+asr:0: OUTPUT 182.08-188.97: Next I'd like to acknowledge and thank Centrica's Acquisition Corp and the leaders of that organisation. 
+asr:0: OUTPUT 188.99-194.96: Manfredi Lefebvre, Carlo Calabria and Garth Ritchie for supporting the Arkid Opportunity so strongly. 
+asr:0: OUTPUT 196.24-200.58: Manfredi in particular has not only been an excellent and supportive long-term investor,. 
+asr:0: OUTPUT 201.04-210.29: But has also already put his considerable network in play, introducing many new potential customers, some of whom we've already converted into projects. 
+asr:0: OUTPUT 210.77-219.06: He's also kindly agreed to serve as Vice Chairman and Senior Independent Director. On a SPAC journey, one could not hope for a better partner. 
+asr:0: OUTPUT 220.46-224.58: Finally, I would like to thank the many public shareholders who've chosen to invest in our kit. 
+asr:0: OUTPUT 225.09-233.59: We are all striving to build a business that will deliver, through operating successes, very significant value creation for all of our kit stakeholders. 
+asr:0: OUTPUT 238.30-246.97: ARCIT's mission is to use our world-leading quantum encryption platform to keep safe the data of our governments, enterprises and citizens. 
+asr:0: OUTPUT 247.95-253.71: The world needs stronger, simpler encryption, and that need becomes more profound every day. 
+asr:0: OUTPUT 255.98-265.09: Our fiscal year ended on September 30th. It was a year of significant achievement which positions our kit to focus now on executing for customers. 
+asr:0: OUTPUT 266.41-272.81: As a result of the listing process, ARKit was able to launch its product onto the global market with high impact. 
+asr:0: OUTPUT 273.93-279.66: By virtue of that listing, ARC it now has sufficient capital to fully fund its business case. 
+asr:0: OUTPUT 280.28-285.73: And we were able in September to turn our sights towards revenue and positive cash flow generation. 
+asr:0: OUTPUT 286.93-293.25: The listing process has acted as a strong branding and signalling event to our existing and prospective customers. 
+asr:0: OUTPUT 293.61-300.98: And has already increased unprompted brand awareness and resulted in significant introduction of new business leads. 
+asr:0: OUTPUT 304.90-313.43: The most important achievement of fiscal 2021 was the commercial launch and commencement of promotion of the Quantum Cloud product. 
+asr:0: OUTPUT 314.23-323.22: Throughout the year ARKIT had signed customer contracts with marquee global enterprises across all of our initial target markets of defense,. 
+asr:0: OUTPUT 323.24-326.69: Telecoms, financial services and IOT. 
+asr:0: OUTPUT 328.25-334.35: The interest in and take up of our products during the year has given us confidence in the pace and direction of the business. 
+asr:0: OUTPUT 335.98-345.02: We set the initial focus area to give us the best chance of turning early contracts into revenues in the financial year ending September 2020. 
+asr:0: OUTPUT 345.11-346.41: 2022. 
+asr:0: OUTPUT 346.73-348.69: And their initial assumptions look strong. 
+asr:0: OUTPUT 350.15-359.98: As we said during the listing process, the first billings were going to take place in the quarter ended December 2021 and that's what's happened. 
+asr:0: OUTPUT 360.94-366.85: All of our customers use the same product and all QuantumCloud revenues are annual recurring revenues. 
+asr:0: OUTPUT 367.97-375.94: But some customers with mission critical use cases, particularly in defense and telecoms, are making larger multi-year commitments. 
+asr:0: OUTPUT 377.34-385.06: As we then roll out the Cloud Fulfillment Channel more extensively next year, we will generate a larger number of smaller customers. 
+asr:0: OUTPUT 386.53-390.85: But the most important revenue progress we've made is most definitely in defence. 
+asr:0: OUTPUT 391.15-398.82: And this is where the larger percentage of revenues is likely to arise in the current financial year ending September 2022. 
+asr:0: OUTPUT 399.34-403.56: Putting a strong backbone to our annual recurring revenues in future years. 
+asr:0: OUTPUT 403.58-409.45: From which we have a strong base to launch the cloud platform more broadly to global enterprises. 
+asr:0: OUTPUT 412.71-419.44: The realization of need in the marketplace for quantum safe encryption has become much stronger this year. 
+asr:0: OUTPUT 419.74-423.08: And our unique ability to meet that need is widely recognised. 
+asr:0: OUTPUT 424.84-430.13: Mainstream legacy architecture commonly called PKI. 
+asr:0: OUTPUT 430.15-435.10: Was developed in the early 90s to meet the security needs of the nascent e-commerce world. 
+asr:0: OUTPUT 436.50-444.32: At its heart are encryption keys based on the factoring of large prime numbers, which would take a traditional computer billions of years to decrypt. 
+asr:0: OUTPUT 445.85-455.36: PKI has generally served the world well for the last 30 years, but it was never designed to protect a hyper-connected world and is now showing its weaknesses. 
+asr:0: OUTPUT 457.24-463.70: Since the heart bleed attack on TLS a decade ago, we've seen escalating attacks on the implementation of PKI. 
+asr:0: OUTPUT 465.27-470.77: But beyond the implementation vulnerabilities, the prime number factorization at the heart of PKI. 
+asr:0: OUTPUT 470.79-476.72: Will with absolute certainty be compromised by the enormous power of a universal quantum computer. 
+asr:0: OUTPUT 477.36-481.54: It's a question of when, not if, and we think that's within five years. 
+asr:0: OUTPUT 483.38-491.45: We've shown in white papers on our website that attempts to make public key cryptography do a better job against quantum computers. 
+asr:0: OUTPUT 491.47-495.18: So-called post-quantum algorithms are impractical. 
+asr:0: OUTPUT 496.50-501.10: PQAs can never be described as provably secure against quantum attack. 
+asr:0: OUTPUT 501.12-507.43: Because anything made of maths can be reverse engineered by a powerful computer programmed correctly. 
+asr:0: OUTPUT 508.59-518.22: They would also involve huge IT upgrade cycles, which as the US government department NIST has recently said, might easily take a decade or more. 
+asr:0: OUTPUT 519.90-528.01: And as we've shown, they're too complex to be feasible for lightweight applications like IoT and blockchains and even basic mobile handsets. 
+asr:0: OUTPUT 529.07-536.00: We think PQAs are a busted flush. ARCIT's technology by contrast is very simple to use. 
+asr:0: OUTPUT 537.06-543.42: The customer just sees a lightweight software key agreement agent which can be delivered to any device in the cloud. 
+asr:0: OUTPUT 544.44-548.47: The keys it creates are used inside the AES256 algorithm. 
+asr:0: OUTPUT 549.39-558.24: That algorithm was previously widely used by governments and banks, often with keys that were human-couriered. ARCA has simply replaced that courier. 
+asr:0: OUTPUT 559.40-566.43: As a result, the algorithm is already globally standardized, so there is no major software change required to adopt ARCIT. 
+asr:0: OUTPUT 566.83-570.21: And the keys it creates cannot be intercepted or broken. 
+asr:0: OUTPUT 571.25-579.98: In recent months, we've found that the incredible ease of implementation of the ARC IT Quantum Cloud is perhaps our most powerful advantage. 
+asr:0: OUTPUT 582.50-587.91: The market's recognition that the quantum threat is profound is now clearly established. 
+asr:0: OUTPUT 588.75-593.47: During the year we've seen significant statements by government and industry to this effect. 
+asr:0: OUTPUT 594.47-601.08: The US government said in April that post-quantum algorithms are not universally suitable or timely solutions. 
+asr:0: OUTPUT 601.56-606.17: Our commercial customers in banks and in telecoms have said similar things. 
+asr:0: OUTPUT 609.11-610.19: We've also learned. 
+asr:0: OUTPUT 610.21-616.20: That quantum threat is now on the risk register as a red item of most major corporations. 
+asr:0: OUTPUT 616.22-621.80: Which creates a genuine sense of urgency on the part of those organisations to mitigate that risk. 
+asr:0: OUTPUT 624.42-631.93: This is why ARCIT's development of a system which benefits from the mathematically provable security of symmetric keys. 
+asr:0: OUTPUT 631.95-639.84: Whilst also requiring no major global software systems and standards upgrades is so very important for the world. 
+asr:0: OUTPUT 641.50-647.87: As we focus on delivering revenue forecasts in 2022 from our selected direct channel sales,. 
+asr:0: OUTPUT 647.89-655.40: We're also readying the launch of the global cloud fulfillment platform, which is how we intend to take this business to hyperscale. 
+asr:0: OUTPUT 658.00-663.98: For those who are less familiar with the tech, a very simple summary. Our innovation is in two parts. 
+asr:0: OUTPUT 664.58-672.81: Firstly, satellite quantum key distribution doesn't work since it has a fundamental conflict between global versus trustless operations. 
+asr:0: OUTPUT 673.47-679.14: ARC-IT solved that problem with the invention of a new quantum protocol called ARC-19. 
+asr:0: OUTPUT 680.00-688.27: This simply means that we can put identical sets of random numbers into every data center in the world with provable quantum safe security. 
+asr:0: OUTPUT 689.79-697.68: In the second step, a radical new classical cryptographic protocol working classically in software form at endpoints. 
+asr:0: OUTPUT 699.10-704.02: Borrows elements of the random numbers in data centers in a very unusual way. 
+asr:0: OUTPUT 704.04-710.21: In order to allow groups of devices to simultaneously create identical new random numbers. 
+asr:0: OUTPUT 711.53-717.44: This key agreement or creation process is both trustless and computationally secure. 
+asr:0: OUTPUT 720.24-723.34: Turning to our go-to-market strategy, there are three key elements. 
+asr:0: OUTPUT 724.44-731.31: The release one of Quantum Cloud was launched in September and our first customers are already using or promoting it. 
+asr:0: OUTPUT 733.97-743.10: We first focused on growing channel partnerships with leading global telecoms companies who sell our kit solutions or bundle our solutions with their own products and services. 
+asr:0: OUTPUT 744.50-751.51: Secondly, certain government and defence customers demand control of critical cyber security infrastructure. 
+asr:0: OUTPUT 752.31-757.56: For these customers, ARKit is selling a private instance of our end-to-end technology stack. 
+asr:0: OUTPUT 758.46-764.90: We've already recruited a number of private instance partners to the FQS project that was announced over the summer. 
+asr:0: OUTPUT 765.43-771.15: And we've been busy progressing discussions with these and other parties to the next stage. 
+asr:0: OUTPUT 772.37-780.36: Private instances generate a basic annual recurring revenue of $25 million per instance before value-added services. 
+asr:0: OUTPUT 780.98-786.47: We're very confident that we'll be in a position to talk more about these contracts into the new year. 
+asr:0: OUTPUT 786.61-793.55: And we expect such contracts to put a strong backbone into future annual recurring revenue forecasts and NRR. 
+asr:0: OUTPUT 795.54-800.06: Finally, Quantum Cloud is being launched for sale on a platform as a service basis. 
+asr:0: OUTPUT 801.44-807.91: Such customers will simply acquire the product and pay for it in the cloud and pay on a per key basis. 
+asr:0: OUTPUT 808.93-817.28: This platform is therefore infinitely scalable, has a very low operating cost, and enables us to take this business to hyperscale. 
+asr:0: OUTPUT 820.54-823.56: Any connected device is a potential customer for R-Kit. 
+asr:0: OUTPUT 824.10-830.69: However, in phase one, we've been focusing on selling private instance to customers, mainly in the defense marketplace. 
+asr:0: OUTPUT 831.73-840.86: Also on selling the software which is working in its preliminary method to telecoms, financial services and IoT or automation customers. 
+asr:0: OUTPUT 841.58-847.51: We've already signed contracts across all of those target markets and made a number of press releases on these subjects. 
+asr:0: OUTPUT 848.27-855.92: We're now very focused on monetizing those early contracts that we've signed by delivering the software to those customers. 
+asr:0: OUTPUT 855.94-858.78: To trigger billing in the current six-month period. 
+asr:0: OUTPUT 860.40-868.07: Whilst we still have work to do to finish out building our sales organisation and we're recruiting intensively in many locations around the world. 
+asr:0: OUTPUT 868.73-883.78: We're seeing increased traction in previously identified business opportunities moving their way through the pipeline towards contracts and also new unprompted inbound opportunities arriving through marketing are escalating. 
+asr:0: OUTPUT 884.12-886.33: Our kids reputation is growing quickly. 
+asr:0: OUTPUT 889.27-897.60: The quality of ARKit's technology and effort of the entire organisation is manifest in our key transaction wins for 2021. 
+asr:0: OUTPUT 899.68-906.31: These transactions are a strong validation of our technology from technologically sophisticated global organizations. 
+asr:0: OUTPUT 907.19-910.27: We're very proud to be working with these marquee client names. 
+asr:0: OUTPUT 910.93-917.70: And the breadth of the use cases across these key transaction use cases speaks to the broad applicability of our products. 
+asr:0: OUTPUT 920.42-926.67: I'll now hand over to Nick Poynton, our Chief Financial Officer, to briefly cover our financial highlights for the year. 
+asr:0: OUTPUT 927.21-932.85: I'll then conclude with a few thoughts on our expectations for 2022. 
+asr:0: OUTPUT 935.38-944.10: Thank you David and good morning or afternoon everyone. As David noted we are pleased to hold our first call as a publicly traded company. 
+asr:0: OUTPUT 945.55-954.57: Our kit commenced full commercialisation of its Quantum Cow product in September, shortly before the close of our 2021 fiscal year end. 
+asr:0: OUTPUT 955.84-960.52: As a result, our revenues for fiscal year 2021 were not material. 
+asr:0: OUTPUT 961.32-966.85: Post fiscal year end, billings have continued associated with our contracts and agreements. 
+asr:0: OUTPUT 967.79-973.13: We ended the fiscal year with an adjusted net loss of $15.6 million. 
+asr:0: OUTPUT 974.87-980.50: Importantly, as a result of the transaction with Centricus and our NASDAQ listing,. 
+asr:0: OUTPUT 981.04-989.95: We raised a net $96 million in capital and finished the fiscal year with cash on hand of $87 million. 
+asr:0: OUTPUT 991.25-995.98: We believe our fiscal resources to be sufficient to meet our current business plan. 
+asr:0: OUTPUT 997.82-1000.46: We expect to have a more fulsome discussion. 
+asr:0: OUTPUT 1000.48-1008.11: Regarding revenue generation and key performance indicators when we meet next to discuss our half-year results. 
+asr:0: OUTPUT 1009.81-1014.19: And now I'll turn back to David for additional comments. David? 
+asr:0: OUTPUT 1016.04-1024.58: Thanks Nick. Fiscal year 2022 will see the continuation of the trends which call for ARKit's quantum encryption solution. 
+asr:0: OUTPUT 1025.41-1030.79: Specifically, continued weakness in PKI, one major attack was reported just this morning. 
+asr:0: OUTPUT 1031.39-1036.62: Increased cyber attack surface and accelerating technological development of quantum computers. 
+asr:0: OUTPUT 1038.20-1041.16: ARCIT's target customers are increasingly aware of the threat. 
+asr:0: OUTPUT 1041.48-1043.80: And we're focused on driving home the message. 
+asr:0: OUTPUT 1043.82-1053.17: That our solution is the only end-to-end quantum safe product that can address the issues of today and the significant threat of quantum computers. 
+asr:0: OUTPUT 1053.19-1057.96: At scale and at low cost and low friction for our customers. 
+asr:0: OUTPUT 1059.76-1067.05: We're already seeing the success of our focus marketing efforts in recent announcements of agreements post financial year end. 
+asr:0: OUTPUT 1067.07-1070.89: In Smart Cities with Neom and in Defence with Blue Bear. 
+asr:0: OUTPUT 1071.43-1079.10: We're expecting to announce further contracts which have been awarded and contracted but not yet announced in the coming weeks. 
+asr:0: OUTPUT 1080.62-1087.91: The company will further refine its product capability and delivery through the subsequent releases of QuantumCloud during. 
+asr:0: OUTPUT 1090.63-1096.62: We continue to see growth and identified an existing contract opportunities across all of our target markets. 
+asr:0: OUTPUT 1097.36-1103.50: And we are seeing previously identified opportunities escalating through the pipeline very quickly. 
+asr:0: OUTPUT 1103.96-1107.73: We're certainly observing that the sales cycle has compressed very greatly. 
+asr:0: OUTPUT 1107.89-1114.59: And we're typically moving customers to contract much faster than we observed prior to the NASDAQ listing. 
+asr:0: OUTPUT 1116.72-1124.82: We now have the certainty that our product is in a class of its own, proven by some of the most important government and enterprise actors across our marketplace. 
+asr:0: OUTPUT 1125.93-1131.01: We have a clear pathway to the near-term achievement of our expected forecasts. 
+asr:0: OUTPUT 1131.03-1136.00: As a result of the urgency that these customers are exhibiting to solve those problems. 
+asr:0: OUTPUT 1137.44-1142.88: Again, thank you all for your support. We look forward to sharing additional news with you as we move forward. 
+asr:0: OUTPUT 1143.92-1149.13: So I now turn the call back to the operator to open the lines for questions. Operator. 
+asr:0: OUTPUT 1151.63-1161.50: Thank you. As a reminder, to ask a question, you will need to press star one on your telephone. To withdraw your question, press the pound key. Please stand by while we compile the Q&A roster. 
+asr:0: OUTPUT 1171.17-1173.91: As a reminder, that's star then one to ask a question. 
+asr:0: OUTPUT 1188.69-1191.47: And speakers, I'm not showing any questions at this time. 
+asr:0: OUTPUT 1197.64-1200.52: Well, operator, I'm delighted if we've presented clearly. 
+asr:0: OUTPUT 1200.76-1208.57: As I said at the outset, the financial year end coincided with the NASDAQ listing. There's not too much to report in terms of financials. 
+asr:0: OUTPUT 1209.31-1212.63: We will expect to be in a position to give much more detail. 
+asr:0: OUTPUT 1212.67-1219.40: Detail on revenue composition and KPI breakdowns at our next report for the six months to March. 
+asr:0: OUTPUT 1219.76-1223.22: 2022 and I'm looking forward to that. 
+asr:0: OUTPUT 1223.50-1231.91: If there are no questions for us to address, I'll thank everyone for attending, wish everyone a very Merry Christmas and hope that everyone keeps safe. 
+asr:0: OUTPUT 1233.99-1239.98: We'll close the call here, thank you. Thank you. This concludes today's conference call. 
+asr:0: END

@@ -1,0 +1,393 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.84-14.15: Good day and welcome to today's third quarter 2021 financial results conference call. At this time, all participants are in a listen-only mode. 
+asr:0: OUTPUT 14.49-23.74: There will be a presentation followed by a question and answer session, at which time, if you wish to ask a question, you will need to press star and one on your telephone keypad. 
+asr:0: OUTPUT 24.18-34.07: I also must advise you that this conference is being recorded today. And I would now like to hand the conference over to your first speaker today, Arman Arutunyan. Thank you. Please go ahead, sir. 
+asr:0: OUTPUT 36.20-43.14: Thank you. Hello everyone and welcome to Headhunter Group third quarter 2021 earnings call. 
+asr:0: OUTPUT 43.94-49.31: Joining me today to discuss our results are Mikhail Djukov, our Chief Executive Officer. 
+asr:0: OUTPUT 49.69-55.28: Dmitry Sergiyenkov, our Deputy Chief Executive Officer, and Gregory Moiseyev, our Chief Financial Officer. 
+asr:0: OUTPUT 56.24-62.00: Before we begin, we would like you to remind that today's discussion will contain forward-looking statements. 
+asr:0: OUTPUT 62.66-68.33: Actual results may differ materially from the results predicted or implied by such statements. 
+asr:0: OUTPUT 68.35-73.33: And forward-looking statements made today speak only to our expectations as of today. 
+asr:0: OUTPUT 74.03-79.44: We undertake an obligation to publicly update or revise these statements. 
+asr:0: OUTPUT 79.98-87.55: For discussion of some of the risk factors that could cause actual results to differ, please see the risk factors section in our most recent annual report. 
+asr:0: OUTPUT 87.57-90.25: On Form 20-F filed with the SEC. 
+asr:0: OUTPUT 91.17-94.95: During this call, we'll be referring to some non-IFRS financial measures. 
+asr:0: OUTPUT 95.58-99.64: These non-IFRS financial measures are not prepared in accordance with IFRS. 
+asr:0: OUTPUT 100.46-109.51: A reconciliation of the non-IFRS financial measures to the most directly comparable IFRS measures is provided in the earnings release we issued today and the slide presentation. 
+asr:0: OUTPUT 109.61-113.57: Each of which is available on our website at investor.hh.ru. 
+asr:0: OUTPUT 114.61-117.54: Now I'd like to turn the call over to Mikhail. 
+asr:0: OUTPUT 120.00-129.43: Aaron, good afternoon everyone. Thanks for joining us today. This was an exceptionally solid quarter for our product and business development. 
+asr:0: OUTPUT 130.21-134.93: Dmitry and Grigory will walk this through in detail later on. 
+asr:0: OUTPUT 135.38-143.56: But we have yet again managed to double our revenue base compared to 2020 and hit all major business KPIs. 
+asr:0: OUTPUT 144.38-147.51: Is our user base strikes new historical records? 
+asr:0: OUTPUT 147.53-155.76: It's essential to stay laser-focused on product innovation and adaptation of our platform to distinct customer segments. 
+asr:0: OUTPUT 156.72-164.70: One of our key product priorities continues to be a seamless and enjoyable experience for non-recruitment professionals from SMAs. 
+asr:0: OUTPUT 165.55-169.75: This customer category has been the key driver of our business growth. 
+asr:0: OUTPUT 170.21-177.04: And following candidate migration to mobile devices, we are now observing similar trends in that area. 
+asr:0: OUTPUT 177.68-185.47: That is why we decided to come up with a fully reworked employee mobile application built on predictive interfaces. 
+asr:0: OUTPUT 185.87-188.81: It's too early to draw any strong conclusions. 
+asr:0: OUTPUT 189.07-197.66: But at the moment, we see that the key conversions to user target actions in the new app have improved by 10 to 20%. 
+asr:0: OUTPUT 198.16-203.04: Thereby delivering high recruitment efficiency and business results for our clients. 
+asr:0: OUTPUT 203.98-212.17: On the JobSeeker site, we launched wide experiments with employer review functionality integrated with our strategic partner DreamJob. 
+asr:0: OUTPUT 212.67-217.90: And that showed very encouraging engagement from both candidates and employers. 
+asr:0: OUTPUT 218.78-228.13: Even though it's an experimental phase, yet circa 15% of our vacancies already have cooperative use. 
+asr:0: OUTPUT 228.63-234.89: And we plan to scale the functionality across the entire customer base in the next few quarters. 
+asr:0: OUTPUT 235.48-239.70: On the investment side, we have finally made a deal with Yudu. 
+asr:0: OUTPUT 240.06-246.55: And now we are institutionally weighted to move along our joint strategy in a self-employed market. 
+asr:0: OUTPUT 246.57-250.21: Where we continue to see major growth opportunities for us. 
+asr:0: OUTPUT 250.75-256.18: Now I'll turn it to Dima to walk you through the key highlights of the third core. Thank you. 
+asr:0: OUTPUT 258.36-262.26: Good afternoon. Thank you for joining us on this call. 
+asr:0: OUTPUT 263.16-266.19: This quarter our revenue was 4.7 billion rubles. 
+asr:0: OUTPUT 266.33-273.77: And we managed to sustain, as Misha said, a triple-digit revenue growth despite a much higher comparison base than in the second quarter. 
+asr:0: OUTPUT 274.67-276.62: Market conditions remain very strong. 
+asr:0: OUTPUT 276.70-285.00: We have significantly expanded our business across the key strategic areas, including acquisition of small and medium businesses and monetization of key accounts. 
+asr:0: OUTPUT 285.91-293.95: Despite a significant increase in marketing spend, our other cost items are significantly behind the top line expansion, leading to elevated profitability. 
+asr:0: OUTPUT 294.41-298.36: In Q3, our adjusted EBITDA margin came at 60.4%. 
+asr:0: OUTPUT 299.18-308.81: This year we follow conservative CAPEX policy resulting in strong cash generation for shareholders. Our CAPEX in Q3 is the percentage of revenue came in just 31%. 
+asr:0: OUTPUT 309.95-311.87: In terms of performance by operating segments. 
+asr:0: OUTPUT 312.57-320.82: In small and medium accounts, revenue increased by 106% year on year, driven by both increasing number of paying customers and RPC growth. 
+asr:0: OUTPUT 321.32-326.79: Acquisition of new clients explains circa 56 percentage points of revenue growth in small and medium segment. 
+asr:0: OUTPUT 327.55-333.81: Our total customer base reached 450,000 clients and this quarter already exceeding full year 2020. 
+asr:0: OUTPUT 334.91-341.44: In K-count segment, average consumption growth and monetization initiatives were the key drivers of our strong performance. 
+asr:0: OUTPUT 341.94-346.81: Notably, average check in this segment increased by 71% year on year. 
+asr:0: OUTPUT 346.91-352.31: And that is largely explained by the humanization model for subscriptions gaining pace across the customer base. 
+asr:0: OUTPUT 353.23-366.23: Geographically, revenue from Moscow and St. Petersburg increased by 98% year on year, while revenue from other regions of Russia went up by 110%, which is totally in line with our expansive strategy in Russian regions. 
+asr:0: OUTPUT 367.55-377.54: Product dynamics this quarter is somewhat similar to what we've seen in the second quarter. Job postings remain the fastest growing area on the back of increased consumption in small, medium, and key accounts. 
+asr:0: OUTPUT 378.10-384.94: In this competitive environment, clients utilize advertising tools more intensely, leading to ever-growing consumption per client. 
+asr:0: OUTPUT 385.57-392.91: As a result, the total number of vacancies on the platform reached a historical record of 1.1 million, of which over 1 million are paid vacancies. 
+asr:0: OUTPUT 394.17-401.24: CV database access and bundle subscriptions demonstrated 94 and 89 percent growth year-on-year, respectively. 
+asr:0: OUTPUT 401.42-407.75: As you can see, the growth in subscriptions is kind of converging with listing products thanks to monetization enhancement of the former. 
+asr:0: OUTPUT 409.07-414.25: Apart from our core products, we are very satisfied with the solid dynamics of our value-added services. 
+asr:0: OUTPUT 414.51-420.10: Including recruitment automation, branding products, our performance-based solutions, ClickMe and Virtual Recruiter. 
+asr:0: OUTPUT 421.08-424.64: Skill has demonstrated yet another strong quarter of customer-based expansion. 
+asr:0: OUTPUT 424.66-431.99: Revenue came close to 300 million rubles, representing 200% growth year-on-year. 
+asr:0: OUTPUT 432.17-435.40: And reaching Ghibli downgrading level first time in company history. 
+asr:0: OUTPUT 436.80-443.44: This group of value-added services generated over half a billion revenues in Q3 yielding growth of 136%. 
+asr:0: OUTPUT 443.70-449.45: This just underscores market openness for innovative recharge tech solutions in today's challenging environment. 
+asr:0: OUTPUT 450.41-453.25: Now returning to our full year 2021 outlook. 
+asr:0: OUTPUT 454.29-463.54: This year, as you understand, it's particularly difficult to make precise projections. From one hand, our business performance exception is strong and market backdrop is very robust. 
+asr:0: OUTPUT 464.16-467.85: But on the other hand, the pandemic stats in Russia is far from being stable yet. 
+asr:0: OUTPUT 468.95-474.75: Taking those factors into consideration, we've decided to upgrade our full-year 2021 outlook to. 
+asr:0: OUTPUT 474.79-482.40: 81-84% revenue growth range, indicating over 15 billion revenues for headhunter group in total. 
+asr:0: OUTPUT 483.12-485.85: Now here's Gregory to talk about operative stability and cache flow metrics. 
+asr:0: OUTPUT 488.17-491.33: Thanks, Dimon, and good afternoon, everyone. 
+asr:0: OUTPUT 492.11-500.00: Let me give you some detail first on our expenses and margins. As Dima said, in the third quarter of 2021,. 
+asr:0: OUTPUT 500.38-504.50: The adjusted bid margin exceeded a milestone of 60%. 
+asr:0: OUTPUT 505.47-510.99: Consolidation of Zarplata and Scyllas, diluted margin by circa 4 percentage points. 
+asr:0: OUTPUT 511.03-517.46: So therefore, our organic segment margin was even higher in the ballpark of 64%. 
+asr:0: OUTPUT 517.98-527.11: Which is a significant improvement compared to 56.6% in the same segment in the third quarter of 2020. 
+asr:0: OUTPUT 527.71-531.07: Which was explained mostly by the increase in our revenue. 
+asr:0: OUTPUT 531.87-536.88: At the same time, with autumn being the busiest season in record ten,. 
+asr:0: OUTPUT 537.32-542.58: The third quarter is usually the highest quarter of any year in terms of revenue. 
+asr:0: OUTPUT 542.70-549.31: And consequently has the lowest expenses as percentage of revenue and the highest margin. 
+asr:0: OUTPUT 550.17-556.14: Therefore, margin in Q3 is somewhat elevated and we expect it to trend down in Q4. 
+asr:0: OUTPUT 556.76-566.15: Historically, over the last two years, margin in the fourth quarter was four to ten percentage points lower compared to a third quarter. 
+asr:0: OUTPUT 567.63-576.04: Our total operating expenses excluding depreciation and amortization were circa 2 billion rubles in the third quarter of 2021. 
+asr:0: OUTPUT 576.06-582.04: Which was the increase of 69.5% compared to the third quarter of 2020. 
+asr:0: OUTPUT 582.68-591.85: Adjusted for equity settled awards, SPO and M&A related costs. Operating expenses were around 1.9 billion. 
+asr:0: OUTPUT 591.93-597.44: Which was an 85% increase compared to the third quarter of 2020. 
+asr:0: OUTPUT 598.18-603.98: And let me briefly discuss the growth drivers in the key expense buckets. 
+asr:0: OUTPUT 604.92-612.45: First of all, personnel expenses adjusted for equity settled awards and SBO related costs increased by 61% year on year. 
+asr:0: OUTPUT 613.03-617.44: About one third of this growth is explained by consolidation of Zarplot and Scyllas. 
+asr:0: OUTPUT 618.34-627.11: The other factors were the increase in our headcount by circa 15% or 126 people over the last 12 months. 
+asr:0: OUTPUT 627.73-633.43: An increase in our sales team bonuses on the back of exceeding revenue targets and wages inflation. 
+asr:0: OUTPUT 634.47-640.22: As a percentage of raving your personal expenses excluding equity settled awards and this peer related costs. 
+asr:0: OUTPUT 640.24-646.05: Have decreased to 19.3 percent in the Q3 of 2021. 
+asr:0: OUTPUT 646.07-650.75: From 24.3% in the third quarter of 2020. 
+asr:0: OUTPUT 650.83-655.26: Improving margin by five percentage points. 
+asr:0: OUTPUT 656.58-660.00: We think that in the fourth quarter,. 
+asr:0: OUTPUT 660.16-668.83: We will sustain this operating leverage and personnel expenses will be the key contributor to our margin expansion in the full year 2021. 
+asr:0: OUTPUT 670.85-672.69: Speaking of personal expenses,. 
+asr:0: OUTPUT 672.71-679.50: Our equity settlement awards increased to $136 million in the third quarter of 2021. 
+asr:0: OUTPUT 679.52-683.44: Compared to $56 million for the third quarter last year. 
+asr:0: OUTPUT 683.46-685.27: Or by short, by ATME again. 
+asr:0: OUTPUT 685.87-689.69: This was mostly due to a new 2021 RSU plan. 
+asr:0: OUTPUT 689.73-696.06: We established in July under which we granted approximately 250,000 units. 
+asr:0: OUTPUT 696.08-700.12: Or circa 8% of the total program capacity. 
+asr:0: OUTPUT 700.20-704.12: To approximately 100 of our employees. 
+asr:0: OUTPUT 705.75-713.71: Moving on to marketing expenses, they increased significantly by 140% year on year outpacing revenue growth. 
+asr:0: OUTPUT 714.41-722.36: The increase in marketing was mostly due to our decision to increase spending on both performance and brand awareness marketing in 2021. 
+asr:0: OUTPUT 722.38-725.47: On the back of the increased demand for candidates. 
+asr:0: OUTPUT 726.13-730.75: In addition, approximately one third of this growth was due to zarpuato consolidation. 
+asr:0: OUTPUT 732.49-741.24: As a percentage of revenue, marketing increased to 12% in the third quarter of 2021 compared to 10% in the third quarter of 2020. 
+asr:0: OUTPUT 741.98-744.94: Going forward for the full year 2021. 
+asr:0: OUTPUT 745.31-752.21: We think that the operating leverage potential in this bucket will be offset by our decision to increase spending. 
+asr:0: OUTPUT 754.77-764.44: Other general and administrative expenses adjusted for SBO and M&A related costs increased by 90% compared to the third quarter last year. 
+asr:0: OUTPUT 765.15-772.37: The key drivers of this growth were the addition of Zarpata and Skilas, which contributed almost half of the growth in the bucket. 
+asr:0: OUTPUT 772.99-782.56: As well as an increase in subcontractor costs in our Russia segment due to the increase in revenue from other value added services and the increase in professional services. 
+asr:0: OUTPUT 783.42-796.16: As a percentage of revenue, other general and administrative expenses adjusted for SBO and M&A related costs were 8.4% relatively flat compared to 9% in the third quarter of 2020. 
+asr:0: OUTPUT 797.66-807.27: In the full year 2021 results, we expect this expense bucket to remain relatively flat as percentage of revenue compared to last year. 
+asr:0: OUTPUT 808.25-818.00: Moving on to other key indicators, our CapEx in the third quarter of 2021 has decreased to $49 million compared to $70 million in the third quarter last year. 
+asr:0: OUTPUT 818.32-821.94: As we completed our Moscow office renovation project last year. 
+asr:0: OUTPUT 822.62-829.45: On the back of the increase in revenue, as Jim already said, CapEx decreased to circa 1% of revenue in the third quarter. 
+asr:0: OUTPUT 830.07-834.43: This year compared to around 3% in the third quarter of 2020. 
+asr:0: OUTPUT 835.50-844.54: The net working capital as of the end of Q3 was negative 5.1 billion rubles compared to negative 3.8 billion as of the end of 2020. 
+asr:0: OUTPUT 844.70-847.93: And the change was primarily due to customer advances we received. 
+asr:0: OUTPUT 849.01-858.36: Income tax expense in the third quarter of 2021 was $548 million compared to $264 million in the third quarter of 2020. 
+asr:0: OUTPUT 859.14-864.30: The increase was driven by the increase in revenues and consecutive increase in the taxable profit. 
+asr:0: OUTPUT 865.21-873.13: The effective tax rate in the Q3 was 23.7% compared to the 31.1% in the third quarter last year. 
+asr:0: OUTPUT 873.67-882.36: This decrease was mainly attributable to a non-deductible SPO related expense last year, not occurring in this third quarter. 
+asr:0: OUTPUT 883.38-887.31: Now turn into cash generation metrics in the third quarter of 2021. 
+asr:0: OUTPUT 887.59-896.66: We generated significant 2.5 billion rubles from operating activities compared to 902 million in the third quarter last year. 
+asr:0: OUTPUT 896.68-899.16: Primarily driven by the increase in sales. 
+asr:0: OUTPUT 900.88-902.94: Which generated 16 million rubles. 
+asr:0: OUTPUT 902.96-911.15: Investment activities compared to 50 million used in the third quarter last year, mainly on the back of the increase in interest income on cash deposits. 
+asr:0: OUTPUT 912.25-922.36: In financial activities, we used 2.4 billion rubles in the third quarter of 2021, mostly to pay an earlier announced dividend for the year 2020. 
+asr:0: OUTPUT 923.14-929.79: Compared to 2.1 billion we used in the third quarter last year, which was also mostly attributable to a dividend payout. 
+asr:0: OUTPUT 930.61-934.65: Our net debt decreased from 5 billion as of the 2020 year end. 
+asr:0: OUTPUT 934.89-941.08: To $2.3 billion as of the end of Q3 2021, primarily due to the increase in cash. 
+asr:0: OUTPUT 941.86-945.75: On the back of this increase in net debt and the increase in adjusted to be done. 
+asr:0: OUTPUT 946.21-954.85: Our leverage is now 0.3 times adjusted EBITDA compared to 1.2 times adjusted EBITDA as of. 
+asr:0: OUTPUT 954.89-956.32: A-R-M-T. 
+asr:0: OUTPUT 958.20-967.33: Finally, starting from October 2021, we are making daily repurchases of our ADRs through our broker in a form on an autonomous. 
+asr:0: OUTPUT 967.35-968.35: Buyback program. 
+asr:0: OUTPUT 969.27-978.50: The program stipulates that during nine months until June 2022, our broker should purchase ADRs for approximately $27 million. 
+asr:0: OUTPUT 978.52-980.96: In more or less equal daily installments. 
+asr:0: OUTPUT 981.70-989.79: Accordingly, as of November 8, 2021, the most recent date of the Brokers Report obtainable while we prepared this release,. 
+asr:0: OUTPUT 990.19-996.12: We have repurchased 52,000 ADRs for circa $3 million. 
+asr:0: OUTPUT 997.28-1005.33: This concludes our presentation of the results of the third quarter of 2021. And we are now opening the floor to your questions. Thank you. 
+asr:0: OUTPUT 1007.85-1014.05: Thank you. We will now begin the question and answer session. And as a reminder for those who want to ask a question. 
+asr:0: OUTPUT 1014.45-1019.64: Just press star and 1 on your telephone keypad and wait for your name to be announced. 
+asr:0: OUTPUT 1020.12-1023.54: Once again, star and one if you wish to ask a question. 
+asr:0: OUTPUT 1040.06-1042.22: Thank you. We have questions that came through. 
+asr:0: OUTPUT 1042.64-1051.75: The first question comes from the line of Kseslav Degtyarev from Goldman Sachs. Your line is now open. Please go ahead. 
+asr:0: OUTPUT 1053.15-1056.00: Yes, thank you very much for the call. A couple of questions. 
+asr:0: OUTPUT 1056.28-1066.85: How do you directionally think over 2022 budgeting? Obviously, I know it's probably too early, but what are the key moving factors to keep in mind over the growth and margins for the next year? 
+asr:0: OUTPUT 1067.31-1074.29: Obviously the base is quite high, but what are the key drivers that will be having a lasting effect in the medium term? 
+asr:0: OUTPUT 1074.81-1079.34: And maybe how would you split them for the next year between volumes and pricing? 
+asr:0: OUTPUT 1080.28-1088.07: And my second question would be with regards to the mobile product for employers. Can you elaborate what are the user cases there? 
+asr:0: OUTPUT 1088.09-1094.03: How popular is that? How differentiated is that versus the competition? 
+asr:0: OUTPUT 1094.05-1098.42: New other product initiatives that are in the pipeline. Thank you. 
+asr:0: OUTPUT 1107.11-1115.60: Sure, Dimon, go ahead. Yeah, sure. I can quickly answer the first part of the first question on the budgeting. 
+asr:0: OUTPUT 1116.12-1120.26: And how we think about next year. 
+asr:0: OUTPUT 1121.04-1131.01: You're not going to be unduly surprised that at this point of time, it's quite hard to give precise or official guidance for next year. 
+asr:0: OUTPUT 1131.27-1134.47: There are definitely certain moving parts. 
+asr:0: OUTPUT 1135.56-1142.08: Mostly with regard to the kind of customer base growth next year will be that would be. 
+asr:0: OUTPUT 1142.10-1145.89: Function of overall macro labor market situation development. 
+asr:0: OUTPUT 1147.35-1153.63: I think we're having pretty at this point of time, if you look into the two thousand twenty two. 
+asr:0: OUTPUT 1154.17-1161.40: We have quite an optimistic view on the health of the mix between monetization and the customer-based expansion. 
+asr:0: OUTPUT 1162.60-1167.47: Monetization it's more kind of visible already and predictable. 
+asr:0: OUTPUT 1168.03-1175.90: Because certain initiatives that we already kind of kicked in this year and we can more or less precisely calculate the impact for next year. 
+asr:0: OUTPUT 1176.26-1185.65: Obviously, one of the major initiatives would be the continuous rollout of our new subscription model. 
+asr:0: OUTPUT 1186.27-1190.37: As we said, this year this product has been performing. 
+asr:0: OUTPUT 1190.41-1196.40: Exceptionally well and actually above our original expectation and the guidance we gave. 
+asr:0: OUTPUT 1197.82-1206.81: And I think next year, therefore, we're also upgrading our expectations. We believe that this one single monetization could. 
+asr:0: OUTPUT 1206.83-1212.31: Define up to 7% of revenue growth next year. 
+asr:0: OUTPUT 1212.85-1222.50: And on top of that, you have the other pricing initiatives. We're going to inflate prices starting from January, not April. 
+asr:0: OUTPUT 1222.94-1225.89: This year, there will be some timing difference effect as well. 
+asr:0: OUTPUT 1226.87-1232.47: With the price increase, we expect at least 10% growth in subscriptions. 
+asr:0: OUTPUT 1232.49-1237.44: Bigger packages of job postings we expect, sort of 20% growth plus. 
+asr:0: OUTPUT 1238.02-1243.16: Of course, all these components will go on top of those. I already mentioned the subscription model. 
+asr:0: OUTPUT 1243.78-1251.81: And we actually made good progress upgrading our backend infrastructure and business logic for monetization this year. 
+asr:0: OUTPUT 1252.49-1260.02: And next year, we're going to be more intense on the differentiation by professions, roles, regions. 
+asr:0: OUTPUT 1260.38-1268.31: That should also give us incremental check growth and also may actually help us differentiate between small and medium businesses and key accounts. 
+asr:0: OUTPUT 1268.55-1271.33: Monetization looks very robust next year. 
+asr:0: OUTPUT 1271.95-1276.26: On the customer base, I think it's again, it's a bit premature to guide. 
+asr:0: OUTPUT 1276.28-1282.28: At the moment, it looks quite strong, right? But again, this situation is evolving quite quickly, so it will be hard. 
+asr:0: OUTPUT 1282.76-1286.41: And I will defer to command on expenses to Richard. 
+asr:0: OUTPUT 1290.67-1299.12: So for me, we are kind of in the middle of the budget session right now. 
+asr:0: OUTPUT 1299.16-1302.58: As we discussed,. 
+asr:0: OUTPUT 1302.74-1305.91: We definitely see you. 
+asr:0: OUTPUT 1305.93-1313.09: Several areas for growth. 
+asr:0: OUTPUT 1313.15-1314.23: Yeah. 
+asr:0: OUTPUT 1314.55-1320.84: The numerous sensitive, sensible initiatives for the 2022. 
+asr:0: OUTPUT 1321.28-1331.13: And certainly it doesn't make sense from our point of view to kind of just cut them off just for the sake of the efforts of profitability. 
+asr:0: OUTPUT 1331.29-1339.74: Therefore, as Dima said, we're not prepared to give any guidance at this point on. 
+asr:0: OUTPUT 1339.76-1346.75: On 2022, actually, in both revenue growth and margins. 
+asr:0: OUTPUT 1347.33-1357.28: I can say that the budget will definitely contain certain investment components in terms. 
+asr:0: OUTPUT 1357.30-1358.98: In terms of the expenses. 
+asr:0: OUTPUT 1360.88-1362.76: I think... 
+asr:0: OUTPUT 1363.96-1372.71: I think it's also important to understand that 2021 was the year of very steep revenue growth. 
+asr:0: OUTPUT 1373.35-1381.14: And sometimes in some areas we struggle for resources so it's probably a kind of. 
+asr:0: OUTPUT 1382.46-1386.95: Not the best reference points as well for the future planning. 
+asr:0: OUTPUT 1390.31-1398.46: Yeah, so I guess that's the comment I can give you on the margin front. 
+asr:0: OUTPUT 1400.00-1408.83: I think we can move on to the second question from Slava on our new mobile product. 
+asr:0: OUTPUT 1410.57-1420.18: I can say that historically we were a little bit dismissive on the mobile platform for employers because we saw very limited use cases. 
+asr:0: OUTPUT 1420.86-1423.38: And most of our... 
+asr:0: OUTPUT 1423.40-1427.01: Most of our clients actually prefer to use either mobile. 
+asr:0: OUTPUT 1427.23-1436.72: Mobile interface where well actually just where a mobile devices but not in the in the app functionality. 
+asr:0: OUTPUT 1436.78-1438.90: Or they just continue to use desktops. 
+asr:0: OUTPUT 1439.36-1442.06: Historically, we didn't invest much in that area. 
+asr:0: OUTPUT 1443.02-1450.99: And over the last few years, especially during COVID, that situation has significantly changed in our view. 
+asr:0: OUTPUT 1451.65-1460.14: We saw a big gap in demand and usage and predominantly from obviously small and medium businesses from non-recruitment professionals. 
+asr:0: OUTPUT 1460.76-1469.97: And this is how actually we designed this new app. So that's clearly designed for a very easy, simplified workflow. 
+asr:0: OUTPUT 1470.11-1479.12: With the kind of call to action approach, when a lot of predictive actions, when you don't need to fill out the details and the machine using some. 
+asr:0: OUTPUT 1479.14-1485.95: Machine learning instruments and back end trying to predict the answers and minimize the questions we ask. 
+asr:0: OUTPUT 1486.41-1490.01: So that's clearly a target that they estimate usage. 
+asr:0: OUTPUT 1490.77-1502.48: At the same time, we try to factor and incorporate the functionality that is usually very popular among the key accounts as well. 
+asr:0: OUTPUT 1502.54-1505.61: Like for example working with archives. 
+asr:0: OUTPUT 1505.75-1515.60: And the integration with the ETS and for example, communication platform that we introduced in our JobSeeker platform earlier this year. 
+asr:0: OUTPUT 1515.86-1518.54: We actually did the same for Employer App. 
+asr:0: OUTPUT 1519.74-1522.88: Because it's becoming kind of core functionality. 
+asr:0: OUTPUT 1523.90-1532.31: And also, we believe that our new app, especially on Android platform, is going to be much more stable. 
+asr:0: OUTPUT 1532.33-1539.36: All the metrics that we collected over the last one and a half months since the launch of the Android. 
+asr:0: OUTPUT 1539.88-1543.16: Platform shows us that actually the gates. 
+asr:0: OUTPUT 1543.84-1553.13: And we look at the again, it's early to draw some strong conclusions yet. Right. And a lot of product was required for this new app. 
+asr:0: OUTPUT 1554.25-1562.16: But we already see up to 20% improvement in conversions especially in registration and purchases, etc. 
+asr:0: OUTPUT 1562.64-1571.47: And for small and medium businesses, we believe that should be quite helpful for all the key metrics and efficiency of our platform overall for this category. 
+asr:0: OUTPUT 1576.54-1586.25: Thank you. And the next question comes from Ivan Kim from Excellus Capital. Your line is now open. Please go ahead. 
+asr:0: OUTPUT 1588.83-1595.96: First, on the fourth quarter,. 
+asr:0: OUTPUT 1596.96-1601.76: We didn't see any impact on your postings on your platform in November. 
+asr:0: OUTPUT 1601.88-1609.65: But if you can just comment on what sort of impact lockdown had or has on your numbers so far. 
+asr:0: OUTPUT 1610.59-1612.93: Secondly, on Skeyless. 
+asr:0: OUTPUT 1613.99-1623.14: What sort of growth outlook you foresee for 2022 for skills in particular? Ballpark, very wide ranges or directionally? 
+asr:0: OUTPUT 1623.34-1632.09: Would be great. And related question to that is whether you consider further expansion to adjacencies. 
+asr:0: OUTPUT 1632.73-1644.96: As the Scylla experience shows, you increase your target aggressive market massively with one small acquisition. 
+asr:0: OUTPUT 1644.98-1651.63: If you think about expansion there more aggressively in 22 in adjacencies. Thank you very much. 
+asr:0: OUTPUT 1654.71-1662.34: I think I'll handle these questions. The first on the November lockdown. 
+asr:0: OUTPUT 1663.10-1670.87: So of course we saw deceleration in billing and bookings of that week of non-working days. 
+asr:0: OUTPUT 1671.67-1675.30: Luckily it was just a week for the majority of regions. 
+asr:0: OUTPUT 1675.58-1679.30: Of course, in certain regions extended the term. 
+asr:0: OUTPUT 1679.32-1688.79: So we saw a certain underperformance in the shorter term products, especially short subscriptions, small packages of job postings. 
+asr:0: OUTPUT 1689.87-1692.61: Tell you kind of the rough terms. 
+asr:0: OUTPUT 1692.85-1700.44: We lost that week a circle 25% percentage points of growth compared to the previous week before the lockdown. 
+asr:0: OUTPUT 1701.74-1708.83: That is clearly a better picture than we observed last year when we were on a constant. 
+asr:0: OUTPUT 1708.85-1712.53: And one working mode in June and May. 
+asr:0: OUTPUT 1713.29-1719.52: And that just shows that the business has been adapted to a large extent, and been operating in this environment for. 
+asr:0: OUTPUT 1719.54-1726.47: More than a year already and especially in key accounts we saw very little disruption. 
+asr:0: OUTPUT 1727.41-1733.75: And most of our clients and big enterprises just continued operations as normal. 
+asr:0: OUTPUT 1734.73-1744.44: But of course in small and medium businesses there was an impact, but it was not as severe as we saw in previous lockdowns. 
+asr:0: OUTPUT 1746.77-1748.01: That's only... 
+asr:0: OUTPUT 1748.03-1752.35: On the lockdown and I think on the fourth quarter. 
+asr:0: OUTPUT 1752.37-1758.18: Otherwise, so far, to date, the performance is quite encouraging. 
+asr:0: OUTPUT 1759.38-1768.47: But no one knows actually what to expect in the next one month and a half. So the risk of restrictive measures is quite high. 
+asr:0: OUTPUT 1768.65-1772.77: And it's not binary. It's not that it's either there are or not. 
+asr:0: OUTPUT 1773.11-1782.88: It's certain regions that they can, so local decisions, so it's actually having impact on certain regions. It's quite hard to predict exact impact in the first quarter. 
+asr:0: OUTPUT 1783.94-1787.75: On the ski last quarter, traditionally, it was the strongest quarter. 
+asr:0: OUTPUT 1788.23-1798.20: You may expect that these large contracts that they sign, they tend to be signed at the last minute. 
+asr:0: OUTPUT 1798.36-1802.78: When the budgets allocated to the department kind of go low. 
+asr:0: OUTPUT 1803.68-1809.73: And historically, I think two or three years in a row, the fourth quarter was the strongest. 
+asr:0: OUTPUT 1811.19-1817.24: Generally, we believe that they should post a circle 400 million revenues this year. 
+asr:0: OUTPUT 1818.40-1824.62: But there are certain big contracts with very large enterprises. 
+asr:0: OUTPUT 1825.07-1830.29: That are underway that actually may kind of be a swing factor here, right? So, because they're actually sleeping. 
+asr:0: OUTPUT 1830.87-1833.23: Next quarter. 
+asr:0: OUTPUT 1834.27-1841.14: Therefore, I think it's skill at this point of time when they acquire new customers quite intensely. 
+asr:0: OUTPUT 1841.58-1845.41: They are a bit less predictable compared to headhunter. 
+asr:0: OUTPUT 1846.57-1847.69: But we expect a strong quarter. 
+asr:0: OUTPUT 1848.99-1858.06: And the last one I think is quite the right one. It's exactly in line with our thinking that in today's environment we see. 
+asr:0: OUTPUT 1858.08-1864.12: A lot of opportunities in adjacent areas and many of them could be actually tackled in. 
+asr:0: OUTPUT 1864.14-1868.87: Quicker and more efficient way of some small early stage acquisitions. 
+asr:0: OUTPUT 1870.09-1875.50: And we actually were quite active in the search for this type of. 
+asr:0: OUTPUT 1875.52-1881.94: Ask us, like, skill us, dream job, you do, etc. So I would say, I would guide that on quite. 
+asr:0: OUTPUT 1882.40-1887.51: Acquisitions within the next two or three years to pursue these opportunities. 
+asr:0: OUTPUT 1891.19-1898.78: Thank you very much. Thank you. And the next question comes from the line of Luke. 
+asr:0: OUTPUT 1898.80-1902.62: Hallbrook from Morgan Stanley, your line is now open, please go ahead. 
+asr:0: OUTPUT 1904.78-1907.89: Thank you for letting me on the call and congratulations on a strong set of results. 
+asr:0: OUTPUT 1908.63-1918.36: I just had a question on market share dynamics, given your strong revenue performance this quarter. I just wondered if you could comment a bit on what you were seeing in the regions in particular. 
+asr:0: OUTPUT 1918.88-1924.12: How has the Plata changed that dynamic a bit as well, particularly around Siberia regions. 
+asr:0: OUTPUT 1924.84-1929.93: You feel that you're gaining share at this point in time and then I've just got to follow up after that. Thank you. 
+asr:0: OUTPUT 1936.40-1947.93: Thanks for the question. Well, the regional business is performing stronger in terms of growth than in the capital cities, in Moscow and St. Petersburg. 
+asr:0: OUTPUT 1948.35-1951.57: 110% growth. 
+asr:0: OUTPUT 1952.59-1959.62: In particular, in the Zarpalata region, in Gurals, and in Siberia, it's one of the strongest. 
+asr:0: OUTPUT 1959.64-1963.18: Areas where we have probably the biggest market share. 
+asr:0: OUTPUT 1963.20-1964.52: Even compared to Moscow. 
+asr:0: OUTPUT 1965.67-1967.43: Recently made a survey. 
+asr:0: OUTPUT 1967.93-1970.43: And that actually kind of... 
+asr:0: OUTPUT 1970.47-1979.74: Resulted in the quite astonishing fact that we deliver over 95% of all applications in Ekaterinburg, for example. 
+asr:0: OUTPUT 1980.04-1986.85: So it's like the whole market delivers just 5% if you take out the Athens or Platon. 
+asr:0: OUTPUT 1987.37-1990.39: So it's a very, very strong regions. 
+asr:0: OUTPUT 1990.89-1996.86: Our plot is a slightly underperforming headhunter, and I think we always got it. 
+asr:0: OUTPUT 1997.24-2003.66: They are deprived of certain benefits of nationwide very effective marketing. 
+asr:0: OUTPUT 2003.78-2020.36: That we are enjoying, therefore their revenue is not growing as fast as headhunters. So we are kind of grabbing share from Zerplata, but combined with Zerplata, collectively we are definitely in an ever-strong position. 
+asr:0: OUTPUT 2020.38-2024.28: I think that actually kind of unlocks a lot of monetization potential as well for us. 
+asr:0: OUTPUT 2026.79-2033.59: Thanks. And just in terms of then your marketing spend that you mentioned there, is there a certain regional or product focus or. 
+asr:0: OUTPUT 2033.89-2039.48: You targeting more blue collar or white collar or do you split it like that internally? Any colour there would be useful. 
+asr:0: OUTPUT 2041.84-2042.98: Yeah, Luke, this is Gregory. 
+asr:0: OUTPUT 2044.44-2053.57: Really, I don't think I can give you the kind of details by marketing channel or by segment,. 
+asr:0: OUTPUT 2053.59-2060.08: For competition reasons, we prefer not to go into so much detail. 
+asr:0: OUTPUT 2060.12-2061.20: Right, but. 
+asr:0: OUTPUT 2061.90-2065.04: What I probably can't tell you is that. 
+asr:0: OUTPUT 2065.09-2080.78: In the second quarter of this year and in the third as well, we are strengthening marketing on both brand awareness formats such as outdoor campaign for instance and performance marketing. 
+asr:0: OUTPUT 2080.82-2083.68: As well. 
+asr:0: OUTPUT 2084.08-2092.71: As we see a kind of high demand for candidates and also on the back of kind of low activity of job seekers. 
+asr:0: OUTPUT 2093.33-2097.36: So we think it makes all the sense to. 
+asr:0: OUTPUT 2097.38-2106.37: Spend more for audience acquisition to balance with demand, provide better efficiency to customers who are essentially paying. 
+asr:0: OUTPUT 2106.39-2109.75: Extra nowadays to get the records going. 
+asr:0: OUTPUT 2112.13-2114.27: So we are. 
+asr:0: OUTPUT 2114.35-2123.82: Frankly, increasing across the board, for instance, we had a significant outdoor campaign in Moscow recently. 
+asr:0: OUTPUT 2123.84-2132.05: We saw a sizable increase in top of mind brand awareness by circa 8%. 
+asr:0: OUTPUT 2134.51-2138.82: For 8 percentage points probably to 66%. 
+asr:0: OUTPUT 2140.00-2143.24: According to our last measure,. 
+asr:0: OUTPUT 2144.22-2152.17: We also see traffic going up at around between 20 and 30 percent as we increase more in digital. 
+asr:0: OUTPUT 2152.19-2154.09: And digital channels. 
+asr:0: OUTPUT 2154.97-2159.00: It's across the board and rather successful. 
+asr:0: OUTPUT 2161.54-2169.29: Thank you very much. That's very clear. Thank you. And the next question comes from the line of Dimitri. 
+asr:0: OUTPUT 2169.31-2173.51: Vlasov from Wooden Company, your line is now open, please go ahead. 
+asr:0: OUTPUT 2175.03-2178.60: Thank you very much for the opportunity to ask questions. I have two, please. 
+asr:0: OUTPUT 2179.90-2184.68: Could you please break down the revenue growth for Q4 2021? 
+asr:0: OUTPUT 2185.01-2188.45: Basically what came as a result of Zauplot and SkiLoss. 
+asr:0: OUTPUT 2188.65-2196.94: And what came from the organic growth and what came from this labor market deficit, so to speak. 
+asr:0: OUTPUT 2197.52-2199.72: The other question is on the gig economy. 
+asr:0: OUTPUT 2200.30-2206.13: If you could maybe comment on how big do you see the total of the soil market opportunity here? 
+asr:0: OUTPUT 2206.15-2211.61: What's the opportunity now and how big could it become? 
+asr:0: OUTPUT 2211.63-2218.18: Once the transition from the grey market to the legal one will occur. Thank you. 
+asr:0: OUTPUT 2220.92-2222.46: Good in the day. I'll handle both. 
+asr:0: OUTPUT 2224.16-2232.93: On the first one, if we try to decompose this growth in a third quarter, or 103%,. 
+asr:0: OUTPUT 2233.09-2236.36: Or in absolute terms, 2.4 billion. 
+asr:0: OUTPUT 2238.28-2248.11: You can actually split up into a low-base effect, then organic growth and more sustainable organic. 
+asr:0: OUTPUT 2249.17-2256.50: In terms of low base effect, obviously it's arbitrary, right? Because it depends on what you set as a base for last year. 
+asr:0: OUTPUT 2257.62-2267.21: But we estimate that it's around 15% out of 103%, which is equal to $315 million. 
+asr:0: OUTPUT 2267.75-2269.15: That is explained by low base. 
+asr:0: OUTPUT 2269.53-2274.81: So the percentage is obviously going down compared to Q2 for this reason. 
+asr:0: OUTPUT 2275.78-2285.33: Then more or less equal impact came derived from inorganic growth, around 15%, also 350. 
+asr:0: OUTPUT 2286.27-2291.57: And that's a collective impact from skill assessment of product consolidation this year. 
+asr:0: OUTPUT 2292.51-2299.92: And then, so effectively, if you take out these two buckets, 30%, then remaining 70%, or $1.7 billion. 
+asr:0: OUTPUT 2300.48-2306.71: Rubles could be also broken into three major guiding growth buckets, always something to have in consideration. 
+asr:0: OUTPUT 2307.09-2312.05: First, monetization, second, client-based expansion, and third, consumption growth. 
+asr:0: OUTPUT 2312.99-2318.18: So the first explains 40% of that 1.7 billion. 
+asr:0: OUTPUT 2319.06-2326.49: Monetization or client base, of course, price differentiation and coupled with the effect of a new subscription model. 
+asr:0: OUTPUT 2326.93-2332.55: The key contributors are already said that the pay-per-contact products are performing exceptionally well this year. 
+asr:0: OUTPUT 2334.41-2340.70: And then 25% of 1.7 billion relates to increased consumption of services. 
+asr:0: OUTPUT 2341.28-2350.51: That's the impact of the market situation and labor force shortage and general low-candidate activity in the market. 
+asr:0: OUTPUT 2351.53-2357.20: Discussed last time, some part of it probably diminished over time so it's kind of semi-sustainable. 
+asr:0: OUTPUT 2358.18-2365.21: Because we see that, for example, small mini businesses, they consume twice bigger packages than they usually do. 
+asr:0: OUTPUT 2366.05-2372.35: And the remaining 35% is the customer-based expansion, predominantly small and medium businesses, predominantly regions. 
+asr:0: OUTPUT 2372.83-2381.32: So that's driven by online adoption, our marketing investments and B2B channels, our product adoption, platform adoption, et cetera. 
+asr:0: OUTPUT 2381.90-2389.75: And that's the most encouraging number, probably, because that's just helping us to grow the base which we can monetize in future. 
+asr:0: OUTPUT 2390.49-2392.95: So generally, if you compare Q2. 
+asr:0: OUTPUT 2392.97-2400.60: The low base effect went down, the immunization effect went up, the other buckets remained more or less the same. 
+asr:0: OUTPUT 2402.92-2406.19: And the second question was on gig economy. 
+asr:0: OUTPUT 2407.27-2412.23: Yeah, I think we've touched upon this, but yeah, happy to repeat. 
+asr:0: OUTPUT 2412.97-2418.60: That generally we see globally that the independent workforce. 
+asr:0: OUTPUT 2418.62-2423.64: Constitutes up to 30% or not up to an average 30%. 
+asr:0: OUTPUT 2424.44-2428.31: Of labor forces. 
+asr:0: OUTPUT 2428.91-2435.96: So in Russia, even including the unofficial gray market, that's only 15%. 
+asr:0: OUTPUT 2436.74-2444.36: And of course, the 95% of that 15% are currently in the gray zone. 
+asr:0: OUTPUT 2444.94-2447.93: Because there were very limited incentives created. 
+asr:0: OUTPUT 2448.01-2456.88: And upon the legislation change in 2018, we saw huge intake and the registration of self-registered. 
+asr:0: OUTPUT 2457.94-2466.75: So we believe at the moment there are, according to official statistics, around 2 million self-employed. 
+asr:0: OUTPUT 2467.57-2477.18: And we expect, actually, this number to grow, say, 10x, up to 20 million in the next three to five years. 
+asr:0: OUTPUT 2477.98-2480.64: That's a huge emerging market for us. 
+asr:0: OUTPUT 2481.58-2488.91: It's highly dynamic and not only the volumes that matter, but also the business model that could be applied matters. 
+asr:0: OUTPUT 2489.43-2499.30: Because if you compare with our traditional permanent work, it's much easier in this market to cut into transactions, because it's a more frequent market. 
+asr:0: OUTPUT 2499.62-2502.00: Quite similar to what we've seen in master equipment. 
+asr:0: OUTPUT 2502.96-2509.77: And therefore it's much easier to cut a transaction processing payroll, processing some admin work, so it's very sticky. 
+asr:0: OUTPUT 2510.09-2516.04: Potentially if you're successful in onboarding, especially big enterprises. 
+asr:0: OUTPUT 2516.72-2519.36: That's our strategy together with UDOO. 
+asr:0: OUTPUT 2521.02-2522.02: We... 
+asr:0: OUTPUT 2522.04-2533.19: We officially declared this strategic partnership in June, then we tried to test this solution with the clients and the direction was exceptional. 
+asr:0: OUTPUT 2533.93-2536.68: So we decided to invest in UDOO. 
+asr:0: OUTPUT 2536.74-2539.08: As a minority partner at this stage. 
+asr:0: OUTPUT 2539.10-2547.43: Of course, this is a strategic type transaction for us. We were having and securing all the necessary paths to control in the future. 
+asr:0: OUTPUT 2547.45-2551.15: To consolidate this business should it actually take off in the end. 
+asr:0: OUTPUT 2551.23-2553.91: But we are very optimistic and I think. 
+asr:0: OUTPUT 2554.05-2562.02: In the end, this temporary market, contingent market could be bigger in monetary terms than the permanent sourcing market. 
+asr:0: OUTPUT 2566.39-2567.45: Thank you very much. Very clear. 
+asr:0: OUTPUT 2569.95-2579.58: Thank you. And no further questions that came through. I will now like to hand the conference back to your speaker, Dmitry Sergeyev. Your line is now open, sir. You may go ahead. 
+asr:0: OUTPUT 2581.76-2588.35: Thank you, I'll be right here. Yeah, just a few remarks. First of all, thanks for your participation. 
+asr:0: OUTPUT 2588.79-2593.53: This is the last quarterly call for this year. Time flies by quickly. 
+asr:0: OUTPUT 2594.69-2603.38: Needless to say that it's been an outstanding quarter for us in terms of financial results. It's probably the best quarter we've had since we've gone public. 
+asr:0: OUTPUT 2604.60-2607.91: It's really nice to see how strategy execution of folding. 
+asr:0: OUTPUT 2608.33-2615.22: We showcase how we can really continue to grow client volumes while concurrently rolling out differentiated monetization. 
+asr:0: OUTPUT 2615.92-2624.00: So it speaks of the death of the online equity market. It speaks of the pricing power rising out of our competitive position. 
+asr:0: OUTPUT 2624.78-2632.89: But what's even more encouraging, I think, that kind of stems from the question we just received from Vanya on the adjacent markets. 
+asr:0: OUTPUT 2633.31-2642.60: In this challenging kind of candidate work, we clearly see that the process of kind of rethinking and upgrading the role of HR function. 
+asr:0: OUTPUT 2642.62-2644.66: And HR funding within organizations. 
+asr:0: OUTPUT 2645.57-2653.99: Coupled with the recruitment interactions, migrating online. So this creates unique window opportunities beyond our traditional market boundaries. 
+asr:0: OUTPUT 2655.30-2664.24: This is already evidence in our results in value-added service performance, including skill as dynamics in our experiments with DreamJobs and UDO. 
+asr:0: OUTPUT 2664.58-2674.17: So we just want to stress that for us as the market leader, in traditional market, it's really important. We are in the best position to kind of catch this opportunity. 
+asr:0: OUTPUT 2674.55-2679.18: It's an important strategic task that's going to lead the next wave for which are tech development in Russia. 
+asr:0: OUTPUT 2680.00-2685.07: That's our ambition and the goal for the years to come. Thanks for your attention. Have a great week. 
+asr:0: OUTPUT 2688.09-2693.67: Thank you. That concludes our conference for today. Thank you all for participating. You may now disconnect. 
+asr:0: END

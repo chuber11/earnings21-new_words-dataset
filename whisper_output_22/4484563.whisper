@@ -1,0 +1,781 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.90-10.61: Good morning, good afternoon, and good evening to everyone. Thank you for joining us to review Sanofi's 2021 fourth quarter and full year results, followed by a Q&A session. 
+asr:0: OUTPUT 11.27-17.22: As usual, you can find the slides to this earnings call on the investors page of our website at pramavdi.com. 
+asr:0: OUTPUT 18.24-29.17: Moving to slide 3, I would like to remind you that information presented in this call contains forward-looking statements that involve known and unknown risks, uncertainties, and other factors. 
+asr:0: OUTPUT 29.19-31.79: But NAICS has actual results to differ materially. 
+asr:0: OUTPUT 32.49-41.36: I refer you to our Form 20-F document on file with the FCC and also our document, D'Enveloppe Ristrement Universelle, for a description of these expenses. 
+asr:0: OUTPUT 42.62-44.58: With us, please advance to flight four. 
+asr:0: OUTPUT 45.43-49.73: Our speakers on the call today are Paul Hudson, Chief Executive Officer. 
+asr:0: OUTPUT 50.31-59.42: The Global Business Unit has Phil Sibyls, Thomas Trion, Olivier Chermay and Julie Van Angebal and Jean-Baptiste Chachillon, Chief Financial Officer. 
+asr:0: OUTPUT 60.38-63.30: For the Q&A, you have two options to participate. 
+asr:0: OUTPUT 63.88-73.27: Option 1, click the raised hand icon at the bottom of your screen. Or option 2, submit your question by clicking the Q&A icon at the bottom of the screen. 
+asr:0: OUTPUT 73.69-75.98: With that, I'd like to turn the call over to Paul. 
+asr:0: OUTPUT 80.00-88.19: For joining our call today. Delighted to be here and together with the members of the executive team to take you through the updates on our business and financial performance. 
+asr:0: OUTPUT 88.85-93.35: You may have noticed that the visual change to our materials is more clear, it's more modern. 
+asr:0: OUTPUT 94.03-102.14: I want to emphasize that as part of the transformation, simply nothing is off the table, including how parts of the business are named or indeed presented. 
+asr:0: OUTPUT 102.60-110.25: Going forward, we'll be known as Kenopi across our businesses and we continue to work to raise the standards of disease treatment and prevention. 
+asr:0: OUTPUT 111.31-117.86: Let's start with the study of you. We delivered a 7.1% sales growth this year compared to 3.3% last year. 
+asr:0: OUTPUT 118.60-126.37: Dupixent grew across all geographies and vaccines delivered another year of record influence to business with more than 2.6 billion euro in sales. 
+asr:0: OUTPUT 127.25-130.37: The contribution of our other GBUs has also been critical. 
+asr:0: OUTPUT 130.63-139.54: Core assets we prioritise in our general medicines business grew 5.6% now amounting to 5.8 billion euros together. 
+asr:0: OUTPUT 140.20-144.34: And our consumer health business is catching up fast to close the gap with multi-crit. 
+asr:0: OUTPUT 145.35-154.93: Bottom line, we delivered an EPS of 6.56, growing at 15.5% and continuing this strong trend we set since 2019. 
+asr:0: OUTPUT 155.60-160.90: We have again improved our profitability with a BLI that now stands at 28.6% at CER. 
+asr:0: OUTPUT 161.50-170.65: This is driven by both improved gross profitability given the growing specialty care and gen med core asset portfolios as well as our discipline in spending. 
+asr:0: OUTPUT 171.57-179.38: At the same time, the way we've set our financial targets allows us to keep adding to our early stage pipeline. I'll talk a little more about that in a few minutes. 
+asr:0: OUTPUT 180.34-184.52: Moving to slide seven, let me turn to our main transformation activities this year. 
+asr:0: OUTPUT 185.07-191.27: We announced six Bolson acquisitions to strengthen our growth areas in immunology, oncology and vaccines. 
+asr:0: OUTPUT 191.83-198.62: They're a perfect fit with our strategic priorities as outlined at our Capital Markets Day in December 2019. 
+asr:0: OUTPUT 199.32-208.33: We stay on the lookout for exciting business development opportunities. For example, our collaboration with Vyond, which adds a new generation checkpoint inhibitor to our clinical pipeline. 
+asr:0: OUTPUT 209.05-215.74: We also intend to unlock the potential of digital, data and artificial intelligence in drug discovery and development. 
+asr:0: OUTPUT 216.28-224.18: This is the rationale behind our partnerships with Okin and Extensia to help us further accelerate our efforts in immunology and oncology. 
+asr:0: OUTPUT 225.21-234.23: As we focus our efforts on building a sustainable pipeline, we're also taking action to reduce our complexity, again, fully in line with our 2019 commitment. 
+asr:0: OUTPUT 235.08-241.46: We have continued to develop brands from our established portfolio and moved more than 50 countries to a distributor model. 
+asr:0: OUTPUT 242.26-250.89: The standalone model for consumer health is about 80% complete and we started an ambitious program to reduce the number of consumer health care brands. 
+asr:0: OUTPUT 251.79-260.40: The next major milestone for us this year will be the planned IPO of Euro API, which could create the second biggest API player in the world. 
+asr:0: OUTPUT 261.72-268.79: Now let's move to what is at the core of our Play to Win strategy, developing breakthrough medicines and vaccines to improve people's lives. 
+asr:0: OUTPUT 269.43-278.52: Let me give you a few highlights of what has been achieved over the past 12 months to advance our priority assets and beat industry benchmarks in R&D productivity. 
+asr:0: OUTPUT 279.24-282.12: We delivered seven positive pivotal readouts last year. 
+asr:0: OUTPUT 282.56-289.93: The 7-up marks a major scientific advancement in our effort to provide protection against RSV for all infants. 
+asr:0: OUTPUT 290.69-299.48: We're about to begin global submissions one year ahead of our initial plan and we're getting ready to launch for the 2023 RSE season. 
+asr:0: OUTPUT 300.74-306.73: The addiction has only begun to penetrate the large type T patient population in atopic derm and asthma. 
+asr:0: OUTPUT 307.43-311.01: Last year, four additional indications delivered positive results. 
+asr:0: OUTPUT 311.95-317.66: The year was also marked by eight major approvals for Dupixent, Liptayr and Salteza. 
+asr:0: OUTPUT 317.68-323.08: As well as Nexiazine and Pompe disease which strengthens our rare disease franchise. 
+asr:0: OUTPUT 324.02-327.17: Our R&D engine achieved remarkable milestone this year. 
+asr:0: OUTPUT 327.45-334.71: With 10 molecules entering the clinical pipeline from in-house research. It's something we have never achieved in the past. 
+asr:0: OUTPUT 335.36-341.10: Our focus on three key therapeutic areas, immunology, oncology and neurology, is increasing. 
+asr:0: OUTPUT 341.62-349.75: We're building an industry-leading immunology pipeline and we've put our OX40 ligand antibody amlitelemab on the list of our priority assets. 
+asr:0: OUTPUT 349.77-354.39: Which allocates additional funding to allow accelerated development of the programme. 
+asr:0: OUTPUT 355.00-362.66: A potential first-in-class and best-in-class treatment for a range of immune-mediated diseases, starting with atopic dermatitis. 
+asr:0: OUTPUT 363.34-370.65: Wiltshire Bruteness is in Phase 2 development as a potential oral treatment option. Tharzen Asthma and CSU are going to be open soon. 
+asr:0: OUTPUT 371.55-377.50: Oncology keeps building with the Amsterdam S1 first-line study and there are five already fully recruited. 
+asr:0: OUTPUT 378.18-383.02: Significantly earlier than planned, given the high interest in the study from the investigative community. 
+asr:0: OUTPUT 383.52-391.93: In addition, we entered broad phase 2 programs for our engineered vesting class interleukin 2 star 245. 
+asr:0: OUTPUT 392.27-399.42: And our first-in-class TCAMP5 antibody for conjugate to explore and accelerate the development in areas of high unmet need. 
+asr:0: OUTPUT 400.24-407.17: In neurology, our scientists are continuing to build the body of data showing the impacts of tolibrutinib on human microglia. 
+asr:0: OUTPUT 407.63-416.74: Which supports the thesis that this brain penetrant molecule modulates neuroinflammatory processes directly within the central nervous system. 
+asr:0: OUTPUT 417.54-421.66: We will share new and important data at Actrons just coming up shortly. 
+asr:0: OUTPUT 422.30-427.47: We also have started phase 3 developments of Tolobrutinib for the treatment of myasthenia gravis. 
+asr:0: OUTPUT 427.49-434.51: A chronic progressive neuromuscular disease that strikes more than 10,000 people each year in the US alone. 
+asr:0: OUTPUT 435.58-444.80: Advancing to slide 9, I want to highlight how we have strengthened the early stages of our clinical pipeline by adding 36 projects in one year. 
+asr:0: OUTPUT 445.71-454.43: This speaks volumes about our commitment to build an industry-leading, sustainable pipeline with a steady stream of new assets that can transform the practice of medicine. 
+asr:0: OUTPUT 455.38-462.36: 2021 has also marked the creation of our mRNA centre of excellence to accelerate the development of the next generation of vaccines. 
+asr:0: OUTPUT 462.74-467.53: With the ambition to deliver a minimum of six clinical candidates by 2025. 
+asr:0: OUTPUT 468.35-477.88: We shared with you the interim results of our first mRNA monovalent flu study and pivoted our platform to modified mRNA in record time. 
+asr:0: OUTPUT 478.98-486.57: As we transform and modernize the company for the long term, the teams also keep delivering robust performance and creating value in the short term. 
+asr:0: OUTPUT 487.09-496.00: Our Q4 programme is a good reflection of this. In fact, this quarter marks the first time that the specialty care business has led our business units by sales. 
+asr:0: OUTPUT 496.74-499.16: Key growth drivers for specialty care would be Picsom. 
+asr:0: OUTPUT 499.64-509.45: 53% up compared to the same quarter last year and our specialty care pipeline has grown to 87 projects in phase 1 to 3 with 61. 
+asr:0: OUTPUT 509.71-513.83: In our key therapeutic areas of oncology, immunology, and neurology. 
+asr:0: OUTPUT 514.21-518.76: So, with that, let's start this question and answer, and Bill, over to you. 
+asr:0: OUTPUT 521.78-529.97: Thank you, Paul. It is indeed a very exciting milestone for specialty care to emerge as the largest business unit of Sanofi by sales in the last quarter. 
+asr:0: OUTPUT 530.65-538.50: This milestone validates our commitment to execute on our business priorities and to be a leader in innovative medicines that change patients' lives. 
+asr:0: OUTPUT 539.02-548.99: The fourth quarter proved to be another remarkable period of growth for our specialty care franchises with 3.5 billion euros in sales up 21.3%. 
+asr:0: OUTPUT 550.05-561.28: As mentioned by Paul earlier, Dupixent, our truly transformative immunology mega-brand, delivered once again a stellar quarter with more than 1.5 billion euros of sales. 
+asr:0: OUTPUT 561.30-566.09: And higher double-digit growth across all regions. 
+asr:0: OUTPUT 566.59-568.55: More about the brand performance in just a minute. 
+asr:0: OUTPUT 569.63-579.78: Double-digit growth of our oncology franchise in the quarter and for the full year was mainly driven by the continued launch execution of SCARCLISA and Leptio in their respective key markets. 
+asr:0: OUTPUT 580.42-585.91: Looking ahead, we are on a trajectory to exceed 1 billion Euro in sales in oncology this year. 
+asr:0: OUTPUT 585.93-590.85: Despite the continued decline of Jephthahna due to generic competition for the product in Europe. 
+asr:0: OUTPUT 591.67-597.76: A rare disease business reported exceptionally strong fourth quarter sales, up 9.5%. 
+asr:0: OUTPUT 597.78-603.42: Driven primarily by higher demand across the Pompey, Gaucher, and Bradbury franchises. 
+asr:0: OUTPUT 604.46-612.41: Notably, our Pompeii franchise reached blockbuster status in 2021, totaling more than 1 billion euro in global sales. 
+asr:0: OUTPUT 612.87-620.94: We are making great progress in the U.S. Uptake of methviazine, our recently launched next generation ERT for Pompe disease. 
+asr:0: OUTPUT 621.60-627.17: We are actively working on establishing Nextiozyme as the next standard of care in global markets. 
+asr:0: OUTPUT 628.03-631.71: We obtained marketing approval in Japan in November and have launched there. 
+asr:0: OUTPUT 632.27-639.46: In addition, we look forward to a number of potential approvals in 2022 and continue to work toward approval in Europe from the EMA. 
+asr:0: OUTPUT 640.14-646.91: Where blood disorders franchise sales grew 2.7% when excluding lower industrial sales facility. 
+asr:0: OUTPUT 647.55-655.72: The growth of the franchise in the fourth quarter was driven by Pablidi, mainly due to additional launches in Europe and higher Alcoholic sales in the U.S. 
+asr:0: OUTPUT 656.92-669.87: High fourth quarter sales of neurology and immunology were due to the performance of Kevzara, which grew mainly because of the continued global demand for IL-6 receptor blockers and a temporary shortage of a competitor product, coselizumab. 
+asr:0: OUTPUT 670.43-678.72: As a result, we expect a demand for Kevdara, which is indicated for patients with rheumatoid arthritis, to remain strong in the coming months. 
+asr:0: OUTPUT 678.94-684.94: Strong growth of Kevzar was partially offset by anticipated sales declines of Abazu and Lentrade in the quarter. 
+asr:0: OUTPUT 685.85-687.31: Now moving to slide 13. 
+asr:0: OUTPUT 688.17-697.04: Dupixent delivered another year of outstanding performance in 2021, driven by consistent, strong growth quarter after quarter in U.S. And ex-U.S. Markets. 
+asr:0: OUTPUT 697.52-706.37: Last year alone, Coupixin added 1.7 billion euros of incremental sales to the top line, making it Finopi's number one growth driver. 
+asr:0: OUTPUT 707.87-715.84: Annualizing now at more than 6 billion euros in sales, we continue to believe that we are just at the beginning of the journey for this mega brand. 
+asr:0: OUTPUT 716.86-725.89: Over the last two years, the key contributors of consistent strong growth have been patient demand, the approval of new indications, and the expansion of the younger patient population. 
+asr:0: OUTPUT 726.81-733.41: I'd like to remind you that Q4 to Q1 growth is commonly impacted in the U.S. Due to patient deductible reset. 
+asr:0: OUTPUT 734.15-749.53: However, consistent strong underlying demand quarter over quarter has resulted in Dupixent becoming the number one newly prescribed biologic among each specialist we call on, including dermatologists, allergists, pulmonologists, and ENTs. 
+asr:0: OUTPUT 750.57-754.79: Outside the US, China continues to represent a major growth opportunity. 
+asr:0: OUTPUT 755.58-761.76: With more than 30,000 adult patients treated to date, the launch is progressing strongly and according to our plans. 
+asr:0: OUTPUT 762.50-768.07: Depictions growth opportunity in China is bolstered by the early NRDL listing. 
+asr:0: OUTPUT 768.09-776.42: Which was just extended by the authorities in China to include the 200 milligram dose, improving our access to the adolescent patient population. 
+asr:0: OUTPUT 777.46-785.65: In atopic dermatitis specifically, we have been rapidly advancing our leadership as new entrants come to the market in the US, Europe, and Japan. 
+asr:0: OUTPUT 786.29-791.77: We believe competition can further raise awareness and help unlock our full market potential in AV. 
+asr:0: OUTPUT 792.81-801.74: Recent U.S. Approvals of competitive AD treatment options have come with a significant delay and in some cases safety concerns which are reflected in their labels. 
+asr:0: OUTPUT 803.00-810.31: In line with our expectations, some new entrants have restricted indications as second-line systemic therapies which can mean use after depiction. 
+asr:0: OUTPUT 811.01-820.16: We believe this further reinforces Dupik's best in disease clinical profile, balancing rapid and sustained efficacy with proven long-term efficacy. 
+asr:0: OUTPUT 820.80-824.94: This strengthens our position as first-line therapy in the growing AD market. 
+asr:0: OUTPUT 825.53-829.79: At the same time, we remain focused on delivering milestones for future growth. 
+asr:0: OUTPUT 829.83-836.90: Including the regulatory submissions of AD in children younger than 6 years old and in eosinophilic esophagitis. 
+asr:0: OUTPUT 837.84-847.03: In asthma, we received a positive CHMP opinion for Dupixen in patients as young as 6 years old, with a final decision expected by the European Commission in the coming months. 
+asr:0: OUTPUT 847.95-854.45: We are also excited about the recent pivotal data readout in praegonodularis, which I will discuss briefly on my next slide. 
+asr:0: OUTPUT 855.88-865.51: On slide 14, the data points on the charts demonstrate impressively the consistent benefits that PXNT has shown across two phase three trials, prime and prime 2. 
+asr:0: OUTPUT 866.35-875.30: These data confirm significant improvements in itch and the appearance of skin lesions in patients who are inadequately controlled with topical therapies. 
+asr:0: OUTPUT 875.32-878.00: Or for whom those therapies were not advisable. 
+asr:0: OUTPUT 878.76-884.50: The pivotal data readout is also confirming the potential benefit of targeting Aisle 4 and Aisle 13. 
+asr:0: OUTPUT 884.52-889.15: As the central drivers of type 2 inflammation in this specific disease. 
+asr:0: OUTPUT 889.17-892.41: Adding yet another indication for depiction if approved. 
+asr:0: OUTPUT 893.37-902.18: Importantly, data from the PRIME and PRIME 2 studies were consistent with the well-established safety profile I have depicted in already approved indications. 
+asr:0: OUTPUT 902.90-909.55: We are very excited about the opportunity in praegonodularis given the high unmet need and lack of approved systemic therapies. 
+asr:0: OUTPUT 910.11-914.65: We are on track to begin submission to regulatory agencies in the first half of this year. 
+asr:0: OUTPUT 916.34-921.46: Moving to slide 15, I'd like to highlight two of our launch opportunities in 2022. 
+asr:0: OUTPUT 922.10-931.93: Both new products exemplify our commitment to bring innovative treatments to the market in specialty care, addressing underserved and sometimes ultra-rare diseases. 
+asr:0: OUTPUT 931.95-934.98: Where there are few or no approved treatment options available. 
+asr:0: OUTPUT 935.74-943.70: On the left side of the slide, we are eagerly expecting to obtain the FDA approval of citinlamab with a PDUFA date tomorrow, February 5th. 
+asr:0: OUTPUT 944.30-949.11: Satimlamab has been developed as the first treatment for cold glutenin or CAD. 
+asr:0: OUTPUT 949.37-955.00: And our plan is to begin launching the product in the U.S. Through our existing rare blood disorders business operations. 
+asr:0: OUTPUT 955.96-962.38: A rollout of launches is planned for Japan later this year and in key European markets beginning in 2023. 
+asr:0: OUTPUT 963.48-973.05: On the right side of the slide, the upcoming launch of Elipidase Alpha underscores our unwavering commitment to delivering innovative therapies for the rare disease patient community. 
+asr:0: OUTPUT 973.85-992.77: Once approved, a lipidase will be the first and only therapy for pediatric and adult patients living with non-CNS manifestations of acid sphingomyelinated deficiency or ASMD, a rare disease that robs quality of life for patients and their families and also increases the risk of premature death. 
+asr:0: OUTPUT 993.87-999.54: The clinical development program for lipidase has demonstrated positive results in two separate clinical trials. 
+asr:0: OUTPUT 1000.00-1001.82: An adult and pediatric patient. 
+asr:0: OUTPUT 1002.80-1010.31: Data from the ASCEND and Phase II ASCEND-PEDS trial evaluating a lipidase alpha served as the basis for regulatory filing. 
+asr:0: OUTPUT 1011.97-1013.73: Turning to slide 16. 
+asr:0: OUTPUT 1014.19-1021.94: Our uniquely engineered factor 8 has the potential to revolutionize factor treatment for hemophilia A patients. 
+asr:0: OUTPUT 1021.96-1025.29: Pending successful completion of our ongoing Phase 3 trial. 
+asr:0: OUTPUT 1026.01-1033.39: EFA is designed to maintain high factor levels for much longer than all currently marketed factor replacement therapies. 
+asr:0: OUTPUT 1034.03-1043.92: The product profile aims at providing sustained protection at near normal factor levels for most of the week, helping patients enjoy normal levels of physical activity. 
+asr:0: OUTPUT 1044.68-1048.27: Coupled with the low treatment burden of a once weekly dose. 
+asr:0: OUTPUT 1048.99-1059.36: Considering the winning combination of convenience with weekly dosing, therapeutic activity with unmatched factor levels, and a safety profile in line with other factor therapies,. 
+asr:0: OUTPUT 1059.38-1064.12: FF has the potential to become the factor therapy of choice. 
+asr:0: OUTPUT 1064.14-1067.95: Significantly improving quality of life for hemophilia A patients. 
+asr:0: OUTPUT 1068.89-1074.87: With the potential to capture a significant share of the global $5 billion factor class market. 
+asr:0: OUTPUT 1075.36-1085.11: We see high commercial opportunity for Sanofi territories, US and Japan, addressing patients already on factor therapy and expect a rapid uptake once approved. 
+asr:0: OUTPUT 1086.03-1098.42: We also believe that SS-Profile would be competitive against non-factor treatments, unlocking additional opportunities by converting a portion of the non-factor patient population to safe factor treatment. 
+asr:0: OUTPUT 1099.24-1106.81: While we are still waiting to see the Phase 3 data, we are looking forward to sharing the pivotal results with you, which we expect at the end of Q1. 
+asr:0: OUTPUT 1107.57-1111.29: With that, I hand over to Thomas to update you on the vaccine. 
+asr:0: OUTPUT 1113.09-1119.16: Thank you Bill. Q4 personal medicine vaccine generated significant sales of 2 billion euros. 
+asr:0: OUTPUT 1119.42-1124.78: Including a strong increase in flu sales in Europe, as well as growth reported by our PPH and travel franchises. 
+asr:0: OUTPUT 1125.89-1132.09: The lower GBU sales as of last year were mainly due to the US influence on the market. We have two factors combined. 
+asr:0: OUTPUT 1132.73-1138.96: First, a low immunization rate is the priority given to COVID-19 vaccination in November and December. 
+asr:0: OUTPUT 1139.76-1147.39: And second, a record pro-achievement in the third quarter, leading to a 55-45% split for the 2-3-4 period. 
+asr:0: OUTPUT 1148.41-1156.34: The US government was partially upset by the strong Q4 demand in other geographies, especially Europe, where FUELDA was very successfully launched. 
+asr:0: OUTPUT 1157.46-1166.03: The PCH franchise, recording a strong cross-quarter growth, despite lower birth rates around the world, mostly driven by Pentex's imperformance in China. 
+asr:0: OUTPUT 1166.97-1174.03: Finally, we are also pleased to see some recovery of the travel franchise, even though we are still far from the pre-pandemic level. 
+asr:0: OUTPUT 1174.99-1176.00: Of note. 
+asr:0: OUTPUT 1176.02-1185.73: On a full year basis, despite the pandemic environment, all five vaccine franchises have demonstrated growth in 2021 compared to 2020. 
+asr:0: OUTPUT 1185.77-1191.19: Illustrating again the robustness of our vaccine business. Next slide, please. 
+asr:0: OUTPUT 1193.03-1199.88: On the next slide, let's look at our record flu performance in 2021, with a 6% growth over last year's record. 
+asr:0: OUTPUT 1200.74-1209.11: On the left chart, you can see that the impact from the US market contraction was more than compensated by the strong performance of Europe and the rest of the world. 
+asr:0: OUTPUT 1210.15-1215.92: Let me be very clear, the US sales reduction has nothing to do with our product's performance. 
+asr:0: OUTPUT 1216.58-1222.18: COVID-19 boosters were given the priority by retailers and health care providers, and as a result,. 
+asr:0: OUTPUT 1222.20-1227.51: The total number of US food doses injected this season decreased by 17%. 
+asr:0: OUTPUT 1228.63-1237.76: Despite that challenging environment, Flooz and Eidos continued to expand market share and gain 3.5 point share in the senior segment in the US. 
+asr:0: OUTPUT 1239.06-1248.69: In Europe, the strong FUEL DYNAMIC EXECUTION in Germany enabled us to reach a spectacular 64% growth following the positive STICO recommendations. 
+asr:0: OUTPUT 1249.45-1259.42: I'm glad to report that for the first season, three out of four German senior citizens have benefited from FULDA's demonstrated protection beyond flu. 
+asr:0: OUTPUT 1260.76-1270.39: The right graph shows the continuous progress of our flu franchise. All incremental sales in 2021 were driven by our differentiated flu vaccine. 
+asr:0: OUTPUT 1270.87-1276.88: Thanks to their proven ability to protect against cardiovascular events and against pneumonia hospitalizations. 
+asr:0: OUTPUT 1277.82-1283.94: For the first time ever, our differentiated food sales represented the majority of our annual sales. 
+asr:0: OUTPUT 1284.04-1290.23: Indicating that the importance of providing protection beyond flu resonates well with external stakeholders. 
+asr:0: OUTPUT 1291.09-1301.04: I'm confident that our flu franchise will continue to grow in 2022 and that this year will be another recall year. With that, I'll hand over to Olivier. 
+asr:0: OUTPUT 1302.18-1309.03: Thank you, Thomas. Moving to general maintenance, slide 19, we are encouraged by our performance in the fourth quarter. 
+asr:0: OUTPUT 1309.95-1319.44: The execution of our strategy continues to deliver as planned and the focus on our core assets has consistently generated positive results in recent quarters. 
+asr:0: OUTPUT 1320.30-1327.63: In the fourth quarter, General Medecine sales reached 3.4 billion euros, which included sales from industrial affairs. 
+asr:0: OUTPUT 1328.21-1336.86: Our core assets grew 2.1% and were up as much as 4% when excluding the effect of prion sales to Regeneron in the U.S. 
+asr:0: OUTPUT 1336.88-1338.84: Which ended at the end of 2020. 
+asr:0: OUTPUT 1339.78-1344.16: We drove double-digit growth for both Smiltak and Sareeqa in the quarter. 
+asr:0: OUTPUT 1344.28-1350.13: While plastic growth of 7.5% was accelerated by the strong performance in China. 
+asr:0: OUTPUT 1350.71-1359.34: Where the product is already included in the volume-based procurement program for the second year and generated growth of 28% in the period. 
+asr:0: OUTPUT 1359.58-1361.20: We are very happy about the performance. 
+asr:0: OUTPUT 1361.84-1363.66: Hollywood stays. 
+asr:0: OUTPUT 1363.68-1372.19: Increased by 36% excluding US sales to Regeneron in the fourth quarter of 2020. 
+asr:0: OUTPUT 1373.23-1380.74: Outstanding growth of the brand was particularly due to its performance in Europe, where it was recently relaunched in Germany. 
+asr:0: OUTPUT 1382.00-1387.61: As I highlighted during the previous earnings calls, Love & Up sales were slightly down. 
+asr:0: OUTPUT 1387.73-1392.51: This is mainly due to the high rate of comparison in the fourth quarter of 2020. 
+asr:0: OUTPUT 1392.53-1399.16: Which followed the introduction of the WHO guidelines for the treatment of hospitalized COVID-19 patients. 
+asr:0: OUTPUT 1399.18-1402.14: As well as some supply unit stations. 
+asr:0: OUTPUT 1403.14-1408.47: Our leading transplant franchise was strengthened by the consolidation of our new product addition, Regirock. 
+asr:0: OUTPUT 1409.15-1414.03: Starting on November 9th, as you have added 20 million euros of savings a quarter. 
+asr:0: OUTPUT 1414.77-1418.68: I will provide more detail on this exciting launch on my next slide. 
+asr:0: OUTPUT 1419.52-1424.72: In China, Sanofi participated in the VD program for insulin in November. 
+asr:0: OUTPUT 1425.41-1431.17: We are very proud of the results in the bowel insulin category with Lantius and 2G0. 
+asr:0: OUTPUT 1431.95-1437.08: Sonofi was the only multinational company among the winners in category A. 
+asr:0: OUTPUT 1437.68-1441.74: Which is the product category that will receive most of the hospital volume allocation. 
+asr:0: OUTPUT 1442.92-1458.82: Our Glargian franchise remained broadly stable in the quarter, supported by 2GEO, and despite the price and inventory adjustments in China, in anticipation of the implementation of the insulin DBP, which is expected in the first half of 2022. 
+asr:0: OUTPUT 1460.00-1464.46: Sales and non-car assets were lower in the quarter, in line with our expectations. 
+asr:0: OUTPUT 1465.01-1468.05: The decline of 7.6%. 
+asr:0: OUTPUT 1468.07-1475.08: Reflected the impact of product divestiture, which are key to our ongoing strategic streamlining efforts. 
+asr:0: OUTPUT 1475.72-1483.68: We are vigorously reducing the number of small product families with the objective to drive efficiency and increase profitability. 
+asr:0: OUTPUT 1485.09-1498.22: Moving now to slide 20. For the full year 2021, General Mettings sales reached 14.2 billion euros, which included sales from industrial affairs totaling 808 million euros. 
+asr:0: OUTPUT 1498.78-1502.68: Importantly, our core assets were up 5.6%. 
+asr:0: OUTPUT 1503.28-1510.93: This performance translates into growth of 7.6% when excluding the impact of trillions sales to Regeneral in the US. 
+asr:0: OUTPUT 1512.03-1520.20: Across our brands, Love & Love, Traluent, when excluding US sales, Soliqua, and our established brand in the transparent business,. 
+asr:0: OUTPUT 1520.38-1524.74: Thymoglobulin and mozobil delivered double digit growth in 2021. 
+asr:0: OUTPUT 1525.81-1528.81: The performance of our core assets in 2021. 
+asr:0: OUTPUT 1528.83-1538.34: Rainforests are confident to deliver on our ambition to grow our core asset, mid-single digit, over the period of 2020-2025. 
+asr:0: OUTPUT 1539.66-1544.44: For 2022, we expect another year of strong performance of our core assets. 
+asr:0: OUTPUT 1545.23-1554.67: Despite a high rate of comparison in 2021 for Lovenox, we expect sales of Lovenox in 2022 to be close to the level of 2021. 
+asr:0: OUTPUT 1555.74-1563.94: Our well-established Trans-Tan-Trans-Sky is expected to continue this growth path, transcended by the launch, execution and reservoir. 
+asr:0: OUTPUT 1564.82-1571.21: Is also set to continue its growth trajectory supported by differentiated clinical profiles. 
+asr:0: OUTPUT 1571.85-1579.56: Leveraging the compelling Solimix data, Soliqua is well poised for the competition with Premix Insulin in its key markets. 
+asr:0: OUTPUT 1580.40-1586.65: We are also very excited by the anticipated approval of Soliqua in China later this year. 
+asr:0: OUTPUT 1587.51-1594.97: In China, the winning position of our Babel insulin products largely sent to Jio in category A of BBP. 
+asr:0: OUTPUT 1594.99-1599.62: Will enable us to deliver significantly higher volumes but at lower price. 
+asr:0: OUTPUT 1600.48-1606.11: With the pricing effect in mind, we expect our total glarge in sales to zero and notice. 
+asr:0: OUTPUT 1606.13-1611.71: To decrease by around 30% in 2022 in China. 
+asr:0: OUTPUT 1612.75-1620.24: Looking ahead, we aim to establish 2GEO as the basis insulin of choice in the large diabetes market in China. 
+asr:0: OUTPUT 1620.26-1626.81: And expect to make Tujiao an important growth driver for our business in China in 2022 and beyond. 
+asr:0: OUTPUT 1628.13-1636.18: Our non-core asset performance in 2021 reflect the impact from the progress we are making with our portfolio streamlining efforts. 
+asr:0: OUTPUT 1636.80-1642.32: As discussed earlier, we continue to reduce the number of non-strategic plain product families. 
+asr:0: OUTPUT 1643.04-1662.12: In summary, our 2021 achievements give us confidence in our ability to deliver on our commitment to stabilize sales by 2025 as compared to the 2020 base and to maintain General Mettings DOI margin accretive for the group over the 2020-2025 period. 
+asr:0: OUTPUT 1663.20-1671.27: Now moving to CADMOD on slide 221, let's discuss the value proposition of this important transaction for Sanofi and our transplant business. 
+asr:0: OUTPUT 1671.67-1676.88: The acquisition was completed in November and represents a strong fit with our strategy. 
+asr:0: OUTPUT 1677.72-1684.42: Cadman's tea asset was approved in the U.S. Last summer and receiving positive market feedback as highlighted on the slide. 
+asr:0: OUTPUT 1685.01-1694.73: Les Yvokes has already reached 96% penetration in 80 key centers and more than 500 patients have been treated to date. 
+asr:0: OUTPUT 1696.04-1707.49: As we share on our last earning calls, Redurox is a first-in-class treatment for adults and pediatric patients 12 years and older with chronic graft-versus-host disease. 
+asr:0: OUTPUT 1708.03-1711.55: Were failed at least two parallel lines of systemic therapy. 
+asr:0: OUTPUT 1712.31-1719.40: The prevalence is roughly 14,000 patients in the U.S. With steroids being the current standard of care. 
+asr:0: OUTPUT 1719.42-1722.72: In frontline CGEHD treatment. 
+asr:0: OUTPUT 1723.68-1732.35: We estimate that 5,000 to 7,000 patients in the U.S. Who are treated with steroids fail in their therapy and require additional treatment. 
+asr:0: OUTPUT 1733.45-1741.12: In the slightly more than four months in the US launch, Resilog generated sales of 44 million euros. 
+asr:0: OUTPUT 1741.14-1745.99: Of which 20 millions were consolidated by Sanofi in the acquisition. 
+asr:0: OUTPUT 1747.03-1750.79: Going forward, we plan on accelerating the geographic expansion. 
+asr:0: OUTPUT 1750.81-1761.46: We will continue to leverage our transplant expertise to maximize gradual growth potential, capitalizing on our long-standing relationship with the transplant community. 
+asr:0: OUTPUT 1762.38-1773.19: In conclusion, we are excited about this innovative nuclear asset, or Sanofi, and confirm that the Tadmon acquisition will be slightly attractive in 2022. 
+asr:0: OUTPUT 1773.85-1776.72: With that, I hand over the call to Julie. 
+asr:0: OUTPUT 1778.28-1786.77: Thank you, Olivier. It's been a year since we presented our strategic priorities with the goal to grow our priority brands above market growth as early as 2022 in key geographies. 
+asr:0: OUTPUT 1787.51-1796.16: I'm glad to report that today we're ahead of that commitment. Indeed, in 2020, we were losing share and we were trending about five points below market growth. 
+asr:0: OUTPUT 1796.92-1799.76: The latest market data shows that we have closed this gap. 
+asr:0: OUTPUT 1800.40-1809.11: In November, on a rolling 12 months, we are at par with market growth. This despite our absence in cost and cold and physical wellness categories in the US. 
+asr:0: OUTPUT 1809.13-1812.97: And mainly driven by our priority categories in key geographies Danish Air. 
+asr:0: OUTPUT 1813.99-1819.88: These results show that the execution of our three strategic priorities to drive our business is starting to pay off. 
+asr:0: OUTPUT 1820.72-1829.91: On our first priority of cutting and embracing complexity, we've been able to increasingly focus on our key brands and geographies, thanks to our simplification efforts. 
+asr:0: OUTPUT 1830.83-1838.10: We have divested and pruned 111 non-core brands, a reduction of 40% of our total number of brands. 
+asr:0: OUTPUT 1838.12-1841.18: Which represents less than a point and a half of our sales. 
+asr:0: OUTPUT 1842.30-1850.81: We've also reduced our trademarks by 50%, our domain names by 30%, and are continuously working on simplifying our processes and ways of working. 
+asr:0: OUTPUT 1851.53-1861.26: At the same time, we have embraced the complexity of our multi-local brands by reallocating investment to brands with the biggest growth potential and market share gain. 
+asr:0: OUTPUT 1862.32-1867.09: On our second strategic priority to become a true fast-moving consumer health care business. 
+asr:0: OUTPUT 1867.71-1870.75: The creation of our stand-alone is a key enabler and we're on track. 
+asr:0: OUTPUT 1871.51-1879.96: 80% of our legal entities are now live. And we integrated key functions like industrial affairs, all science-related functions, and supply chain under one roof. 
+asr:0: OUTPUT 1880.90-1886.93: The success of this is twofold. First, a significant increase in agility in reaction to market and consumer needs. 
+asr:0: OUTPUT 1887.51-1896.86: Custom calls is a good example where we were able to quickly size the opportunity of the market rebound in Q4, resulting in market share gain in October and November, excluding China. 
+asr:0: OUTPUT 1897.44-1899.16: This is a first in four years. 
+asr:0: OUTPUT 1900.08-1908.67: In addition, as mentioned earlier, this helps us to revisit our ways of working and adapt them to the specificities of a fast-moving consumer health care business. 
+asr:0: OUTPUT 1909.13-1913.43: For example, in consumer engagement, digital marketing, or speed of innovation. 
+asr:0: OUTPUT 1914.21-1920.98: The big focus has also been to strengthen our brand equities and campaigns, beyond the pure science and quality of our products, which we already deliver. 
+asr:0: OUTPUT 1921.84-1925.02: On our third priority to build our digital and data edge. 
+asr:0: OUTPUT 1925.27-1938.92: The creation of our standalone here again has given us the opportunity to revisit and build fundamentals with a strong focus on e-commerce, brand sites, THC-specific CRM and third-party management systems, and data-driven ANP and location tools. 
+asr:0: OUTPUT 1940.18-1945.93: Regarding our Rx2OTC switches, both programs continue to progress despite the pandemic. 
+asr:0: OUTPUT 1946.55-1952.31: The team is actively working on the project and we continue to execute critical studies in an accelerated fashion. 
+asr:0: OUTPUT 1952.93-1961.20: For Tialis in the U.S., we have completed the cell selection study and results have been submitted to FDA along with the protocol for an actual use trial. 
+asr:0: OUTPUT 1961.78-1965.81: No RxLDIS function, Rx20TC Switch project has gone this far. 
+asr:0: OUTPUT 1966.27-1968.91: We are now waiting for the FDA feedback in order to proceed. 
+asr:0: OUTPUT 1969.67-1974.69: For tiny flu, we're evaluating the status of the current flu season to get your mind if certain studies can progress. 
+asr:0: OUTPUT 1975.20-1981.24: In the meantime, we have excavated all studies that can be done without the presence of disease to keep the pace. 
+asr:0: OUTPUT 1982.26-1985.55: On both programs, we should be able to share more next quarter. 
+asr:0: OUTPUT 1986.61-1992.45: Turning to page 23, when looking at net sales performance, we have delivered 5.6% growth in Q4. 
+asr:0: OUTPUT 1993.07-1998.18: Our organic growth is even higher with 7% growth in Q4 when excluding the impact of divestment. 
+asr:0: OUTPUT 1999.00-2001.02: These results are driven by three factors. 
+asr:0: OUTPUT 2001.80-2006.15: First, the progress we've made on the execution of our strategic priorities as mentioned earlier. 
+asr:0: OUTPUT 2006.65-2014.61: Secondly, we benefited from the market rebound in categories like stuff and cold. And lastly, we also benefited from COVID vaccination, specifically in pain care. 
+asr:0: OUTPUT 2015.30-2019.20: We will continue to focus our efforts to further deliver on our three strategic priorities. 
+asr:0: OUTPUT 2019.60-2025.87: That have proven to be working with the ambition to build a true, fast-moving consumer healthcare business and be a part of the market. 
+asr:0: OUTPUT 2026.59-2034.55: Let me wrap up by saying how much I am enjoying working with the team driving the speech because it's such a growth. With that, I hand it over to our CSO. 
+asr:0: OUTPUT 2036.68-2042.06: Let me start by highlighting some strong proof points for scientific confirmation in 2021. 
+asr:0: OUTPUT 2042.98-2049.45: First, we managed to increase full year gross margin by 120 bits to 71.3%. 
+asr:0: OUTPUT 2050.07-2056.80: This improvement is linked to the growing contribution of our bronze in special decay and higher margin vaccines products. 
+asr:0: OUTPUT 2057.62-2066.83: This is also the result of efficiency measures and manufacturing, which typically require a longer lead time before they become attractive to margin, and are now starting to come through. 
+asr:0: OUTPUT 2067.87-2071.95: As I said before, we are committed to continuing this trend of gross margin improvement. 
+asr:0: OUTPUT 2073.33-2079.10: Second, we manage our OPEC in 2021 effectively and without disrupting the strong growth momentum. 
+asr:0: OUTPUT 2079.54-2087.35: We successfully controlled the increase in OPEX on managing them to grow slower than sales, which was possible as a result of our rigorous prioritization. 
+asr:0: OUTPUT 2088.11-2092.73: As before, we reinvested the vast majority of efficiencies generated during the year. 
+asr:0: OUTPUT 2094.13-2103.58: Finally, let me briefly comment on another proof point of our transformation, headcount. When I took on the CFO role in 2018, the company employed around 105,000 employees worldwide. 
+asr:0: OUTPUT 2104.24-2111.35: With the ongoing transformation towards a more joint organization, we are now in a new phase with approximately 96,000 globally. 
+asr:0: OUTPUT 2112.21-2114.39: As long as we continue to change our ways of working. 
+asr:0: OUTPUT 2114.61-2124.50: We are embracing digital change, streamlining our portfolio and collaborating with partners in geographies to balance a reduced infrastructure while improving access to our medicines. 
+asr:0: OUTPUT 2125.25-2131.91: On this path, we expect to end the year with a headcount closer to 90,000 reflecting a more efficient organization. 
+asr:0: OUTPUT 2132.39-2142.22: This would represent the 15% 1.5 lower headcount as compared to 2018 and would include the successful IPO of your API on the existing plan. 
+asr:0: OUTPUT 2143.94-2151.81: On slide 26, turning now to the full KML for the fourth quarter, company sales increased 4.1% at CER. 
+asr:0: OUTPUT 2151.83-2156.94: Driven by excellent growth of the business on other specialty franchises as well as consumer health. 
+asr:0: OUTPUT 2158.32-2161.38: Business operating income grew 6.9% at CER. 
+asr:0: OUTPUT 2162.24-2170.63: Benefiting from improvements at gross market level which were driven by the favorable proportions of specialty care products on efficiencies within industrial affairs. 
+asr:0: OUTPUT 2171.41-2177.46: In the fourth quarter, we again saw an increase compared to last year, with the margin improving 240 basis points. 
+asr:0: OUTPUT 2178.46-2184.42: The GDP has grown 9.8% at TR, benefiting from a slightly lower tax rate of 20.5%. 
+asr:0: OUTPUT 2186.91-2188.15: I need to type 27. 
+asr:0: OUTPUT 2188.67-2199.36: We have achieved around 2.4 billion of cumulative settings, of which 2.1 were accrued through OPEX efficiency, as depicted by the bright purple boxes shown on the slide. 
+asr:0: OUTPUT 2200.30-2205.67: In addition, we realized an incremental 300 million in cost reductions over the last two years. 
+asr:0: OUTPUT 2206.51-2214.29: Specifically, we achieved our target of 500 million savings in R&D due to prioritization of specialty care on addicting diabetes and cardiovascular. 
+asr:0: OUTPUT 2214.93-2223.62: In addition, lasting efficiencies were generated by consolidating function across sites, improving our trials' logistics. 
+asr:0: OUTPUT 2223.82-2230.23: Reducing cycle time through advances in data and digital, coupled with more agile governance. 
+asr:0: OUTPUT 2235.40-2242.50: TrendMag has been successful in reducing the complexity of its business, focusing on key markets, and employing a digitally enabled go-to-market model. 
+asr:0: OUTPUT 2243.92-2252.73: GNA across all areas of Sanofi contributed 500 million of savings over the last two years driven by smart spending initiatives. 
+asr:0: OUTPUT 2252.75-2257.10: Real estate efficiencies, the preferred supplier model, and digitalization. 
+asr:0: OUTPUT 2257.44-2263.06: In summary, we remain on track to achieve our target of 2.5 billion savings by end of 2022. 
+asr:0: OUTPUT 2263.98-2270.51: Most of this year's earnings are again earmarked to be reallocated to fund our growth drivers on key programs in R&D. 
+asr:0: OUTPUT 2271.83-2272.87: Moving to strike the knee. 
+asr:0: OUTPUT 2273.03-2282.14: As the briefs recommend, I now strongly encourage free cash flow. In fact, we doubled free cash flow since 2018 through a success and improved business performance and change in working capital. 
+asr:0: OUTPUT 2282.86-2285.27: Given the strong improvement in pre-cash flow in recent years. 
+asr:0: OUTPUT 2285.59-2293.53: We were able to achieve our 2019 Capital Market Day objective of a free cash flow increase of around 50% one year ahead of schedule. 
+asr:0: OUTPUT 2294.85-2296.20: On slide 39. 
+asr:0: OUTPUT 2296.26-2305.75: We maintain our objective to continue Sanofi's annual dividend policy, which is reflected in the fact that the company has consistently increased its dividend payments for the past 27 years. 
+asr:0: OUTPUT 2306.79-2310.21: As a result of Sanofi's performance in 2021. 
+asr:0: OUTPUT 2310.29-2318.00: We announced that the Board has proposed a dividend of €3.33. Since a growing dividend remains an important element of our capital allocation,. 
+asr:0: OUTPUT 2318.26-2324.34: But it's front behind our organic investment on business development in our priorities. 
+asr:0: OUTPUT 2326.13-2332.93: On slide 30, we provide an outlook highlighting expected business dynamics across sales and expenses. 
+asr:0: OUTPUT 2334.23-2348.19: For the last part of the slide, you can see expected drivers of sales across our GVUs, including the continuation of strong growth from the peak to record flu season and maintained business momentum for the core products of consumer health and general. 
+asr:0: OUTPUT 2349.21-2358.38: As communicated before, we expect the consumer health priority branch to grow above market in key geographies, resulting in growth for the entire business. 
+asr:0: OUTPUT 2358.92-2360.80: But only progressively nearing market rates. 
+asr:0: OUTPUT 2361.86-2366.09: At the same time, we also foresee overall TBU cells in genomics to stabilize. 
+asr:0: OUTPUT 2367.07-2371.29: So you will be right, third party cells are currently consolidated in this business. 
+asr:0: OUTPUT 2371.31-2377.68: Upon the plan, your API IPO, GenMed sales will be reduced by that amount going forward. 
+asr:0: OUTPUT 2379.62-2385.39: On the right part of the slide, we expect gross margin to continue to improve due to product mix inefficiency. 
+asr:0: OUTPUT 2386.25-2389.97: Our expenses are expected to continue to grow in line with our strategy. 
+asr:0: OUTPUT 2390.29-2397.76: As we keep streamlining our GenMed and THC business, we expect to generate around 500 million in capital gains throughout 2022. 
+asr:0: OUTPUT 2398.96-2408.83: We estimate that our 2022 ETR, effective tax rate, to be around 19%, 1.9%, given the evolution of our products and geographic mix. 
+asr:0: OUTPUT 2409.61-2413.41: This estimate is based, of course, on current tax legislation. 
+asr:0: OUTPUT 2415.06-2422.80: So on my final slide, slide 31, we expect Foulier 2022 Business EPS to grow in the low-level digit at CER. 
+asr:0: OUTPUT 2423.64-2429.03: On our way to achieve our 2022 financial targets, we also guide to a DOI margin of 30% for the year. 
+asr:0: OUTPUT 2429.89-2435.72: On foreign exchange, we see a positive currency impact of 2 to 3% based on generally average exchange rate. 
+asr:0: OUTPUT 2436.52-2442.10: 9.3 DPS growth in 2020 and 15.5 DPS growth at year-end 2021. 
+asr:0: OUTPUT 2442.50-2447.17: We are on track for a third year of double digit or near double digit GPS growth. 
+asr:0: OUTPUT 2448.61-2450.59: I hope now the seats are pulled back some more. 
+asr:0: OUTPUT 2452.09-2460.88: Well thanks Shibi. We expect 2022 to be another busy year with important development milestones, priority molecules and other pipeline programs. 
+asr:0: OUTPUT 2461.60-2467.87: We're looking forward to the results of four pivotal studies including Amsinestron in second and third line metastatic breast cancer. 
+asr:0: OUTPUT 2468.11-2471.89: As well as the phase 3 results of the Phenestopticog alpha in hemophilia. 
+asr:0: OUTPUT 2472.61-2482.24: The readout of bupixen in chronic cold-induced sidicaria may add another dermatological indication addressing a population of 25,000 patients in the US alone. 
+asr:0: OUTPUT 2483.04-2489.57: We also anticipate making further important pivotal trial decisions, especially in oncology vaccines. 
+asr:0: OUTPUT 2491.23-2499.32: Moving to slide 34 and to ESG, you may remember that our social impact strategy was approved by the Spinoffi Board little more than a year ago. 
+asr:0: OUTPUT 2500.16-2507.93: Our renewed contract with society is fully aligned and embedded with our business strategy and ambitions. We make good progress across all our four pillars. 
+asr:0: OUTPUT 2508.69-2512.41: Today I would like to highlight some achievements in the area of affordable access. 
+asr:0: OUTPUT 2512.87-2521.20: The mission of the Sanofi Global Health Unit we created last year is to increase access to essential medicines in some of the world's poorest countries. 
+asr:0: OUTPUT 2521.92-2529.05: In the area of malaria, TB and non-communicable diseases, we have increased both the number of patients reached and the number of countries. 
+asr:0: OUTPUT 2529.83-2536.30: In addition, Sonofi is committed to helping 1,000 patients living with rare diseases who have no access to treatment. 
+asr:0: OUTPUT 2536.88-2540.96: We donated again more than 100,000 vials in 2021. 
+asr:0: OUTPUT 2541.60-2550.21: This builds on a 30-year humanitarian commitment to patients suffering from rare diseases such as Fabry, Gaucher and Pompe diseases. 
+asr:0: OUTPUT 2551.23-2560.60: Moving to slide 35 as we look into the 2022 calendar, we will update you every quarter on our new initiatives happening across the four pillars of our ESG strategy. 
+asr:0: OUTPUT 2561.28-2563.72: This quarter he wants to put the focus on access. 
+asr:0: OUTPUT 2564.20-2572.17: We're proud to announce a partnership with Medtronic Labs and the launch of a multi-country, multi-year collaboration in the field of non-communicable diseases. 
+asr:0: OUTPUT 2572.85-2578.80: Together we will leverage digital health and a community-based approach to improve disease awareness. 
+asr:0: OUTPUT 2578.82-2583.30: Diagnosis, and management of diabetes and hypertension. 
+asr:0: OUTPUT 2583.32-2585.67: In strong collaboration with health system partners. 
+asr:0: OUTPUT 2586.49-2593.27: The public health burden of NCDs is staggering, with 35 million deaths globally, of which. 
+asr:0: OUTPUT 2593.29-2597.84: 28 million occur in low to middle income countries every year. 
+asr:0: OUTPUT 2598.72-2606.05: This project will contribute to strengthening health systems as they build towards universal health coverage and sustainable development goals. 
+asr:0: OUTPUT 2607.09-2611.61: On my final slide, let me touch on some planned events in the first half of this year. 
+asr:0: OUTPUT 2611.63-2618.88: As mentioned, we expect to have further tolerant recent data presented at AgTrims and will organise a virtual event around this. 
+asr:0: OUTPUT 2619.08-2620.86: Invite will be sent out shortly. 
+asr:0: OUTPUT 2621.48-2627.23: We also plan for an update on our immunology pipeline, including duplixant, in late March. 
+asr:0: OUTPUT 2627.93-2633.43: As part of this update, we will revise upward our peak sales potential for this month. 
+asr:0: OUTPUT 2634.51-2641.78: We are currently finalising our plans for an event focused on ESG that we hope to take place in the June-July timeframe. 
+asr:0: OUTPUT 2642.70-2644.94: Well, let's open the poll now for Q&A. 
+asr:0: OUTPUT 2645.75-2653.49: Thank you. We will now open the call to your questions. We would like to ask you to limit the questions to each so we can call up a number of the participants. 
+asr:0: OUTPUT 2654.15-2661.26: You have two options to participate. Click the raised hand icon at the bottom of your screen. You will be notified when your line is open to ask a question. 
+asr:0: OUTPUT 2661.80-2665.39: At that time, please make sure you unmute your microphone. 
+asr:0: OUTPUT 2665.71-2672.25: Or option two, submit your question by clicking the Q&A icon at the bottom of the screen and your question will be read out. 
+asr:0: OUTPUT 2673.03-2674.55: Can we now have the first question? 
+asr:0: OUTPUT 2676.18-2684.12: Yes, the first question comes from Yemara Kapadia from Bernstein. Yemara? Oh great, thank you very much for taking my questions. 
+asr:0: OUTPUT 2684.52-2694.03: So first can I just ask on the US flu business, you know, declined year on year, Thomas you flagged a 17% market contraction in volumes. 
+asr:0: OUTPUT 2694.55-2699.26: Could you provide a bit more color on your expectations for the volume value mix for the US in 2022? 
+asr:0: OUTPUT 2699.92-2709.91: What was the level of coverage in 2021? Was that actually below historical pre-COVID levels? And if so, should we be getting a nice bounce in coverage in 2022, specifically the US? 
+asr:0: OUTPUT 2710.75-2713.11: My second question is on the OX40. 
+asr:0: OUTPUT 2714.11-2723.86: We had some data last year for the OX40 program, which is now a priority asset. I'm just curious how you're thinking about targeting the OX40 versus the OX40 ligand. 
+asr:0: OUTPUT 2724.28-2731.05: And then I'd like to hear how you think about the duration of effect. Because given looking at Amgen's drug, it looked rather compelling on that front. 
+asr:0: OUTPUT 2731.43-2736.24: Have you seen anything from your own assets suggesting a similar efficacy profile this time? Thank you. 
+asr:0: OUTPUT 2737.94-2743.88: Thank you, Vimal. Great questions. Toma, flu coverage, read across to 22. 
+asr:0: OUTPUT 2744.92-2752.33: Thank you very much Vimal. Indeed you understood very well that the US flu situation in 2021 was a very specific US situation. 
+asr:0: OUTPUT 2753.05-2756.50: With minus 17 on the overall volume for the US. 
+asr:0: OUTPUT 2757.54-2761.38: And what that means that it was lower than 2019. 
+asr:0: OUTPUT 2761.80-2765.21: Very specific to the US again, as you've seen from the other markets. 
+asr:0: OUTPUT 2765.87-2769.19: And completely linked to the COVID-19 specifications. 
+asr:0: OUTPUT 2769.51-2776.64: You know very well that there was a lot of confusion with different aid indications being licensed at the same time and a lot of discussions on the bullshirts. 
+asr:0: OUTPUT 2777.62-2781.28: So definitely we don't see that as a play moving forward for 2022. 
+asr:0: OUTPUT 2782.00-2789.33: Because of course, if you end up being in 2021 with a U.S. Vaccine coverage below 2019, that gives room for growth. 
+asr:0: OUTPUT 2789.71-2791.77: So we are very confident about 2022. 
+asr:0: OUTPUT 2792.73-2797.68: We expect to see both volume and value increase in the US. 
+asr:0: OUTPUT 2798.02-2804.16: To give you an example, I think it's a good illustration of what could happen in the U.S. For flu in 2022. 
+asr:0: OUTPUT 2804.68-2811.73: I think everybody has understood that there needs to be some fixes on the US food coverage. 
+asr:0: OUTPUT 2812.01-2817.54: And CMS, very interestingly, decided to increase the flu vaccine administration fee. 
+asr:0: OUTPUT 2817.58-2822.64: From $17 to $30 for the season in H2020 in the US. 
+asr:0: OUTPUT 2822.82-2832.07: So I think there's going to be a strong CDC understanding as well as strong retailer preparation to make sure that 2022 is very different from 2021. 
+asr:0: OUTPUT 2832.25-2841.60: And that's why we're expecting a record flu season overall for Sanofi Pasteur and indeed an increase of flu in US in 22 versus 21. 
+asr:0: OUTPUT 2843.44-2846.51: Thank you. Thank you, Thomas. That's great. I'd recommend you get your vaccine. 
+asr:0: OUTPUT 2849.23-2857.48: John Reid, Oxford, I think the question from Bill Marr is about duration and efficacy and maybe you have some thoughts on tolerability as well. 
+asr:0: OUTPUT 2858.04-2862.20: Yeah, I think it was about OX40 the receptor versus OX40 the ligand. 
+asr:0: OUTPUT 2862.84-2875.20: And we prefer the ligand because it is induced on angiopresenting cells, so its quantity in the body is less, whereas OX40 is. 
+asr:0: OUTPUT 2875.30-2880.76: Is more heavily expressed on a consistent basis and can, you know,. 
+asr:0: OUTPUT 2880.78-2886.13: You're going to have to dose higher to neutralize it, but more importantly, I think,. 
+asr:0: OUTPUT 2886.15-2896.04: Then that is the fundamental difference in the mechanisms of our molecule amlitelamib coming from the codonav acquisition versus. 
+asr:0: OUTPUT 2896.08-2899.32: The curing antibody that Amgen has. 
+asr:0: OUTPUT 2899.34-2900.34: Access. 
+asr:0: OUTPUT 2901.54-2905.41: The Karen-slash-Engin antibody is a depleting molecule. 
+asr:0: OUTPUT 2905.43-2915.32: That actually kills the cells that express OX40, whereas we have a non-depleting antibody that modulates OX40's pathway. 
+asr:0: OUTPUT 2916.66-2925.03: The downside of depleting is that both effector T cells, which are contributing to the autoimmunity,. 
+asr:0: OUTPUT 2925.43-2931.39: But also regulatory T cells that we need for suppressing autoimmunity express ARC40. 
+asr:0: OUTPUT 2931.41-2937.88: So over time, you'd have the risk of depleting those necessary regulatory T cells with a depleting mechanism. 
+asr:0: OUTPUT 2939.02-2949.29: But we feel that in terms of long-term safety and durability of the effects that a non-depleting antibody targeting the ligand is really a superior way to go. 
+asr:0: OUTPUT 2950.79-2953.39: Thank you, John. Couldn't agree more. Next question. 
+asr:0: OUTPUT 2958.06-2961.94: The next question will come from Richard Bother at J.P. Morgan. Richard? 
+asr:0: OUTPUT 2964.86-2966.19: Thanks very much for taking my question. 
+asr:0: OUTPUT 2966.85-2970.93: Two questions please. First one is just on flu as well. 
+asr:0: OUTPUT 2970.95-2972.39: Just. 
+asr:0: OUTPUT 2972.75-2977.86: Could you talk about your manufacturing capacity and supply and how that will develop? 
+asr:0: OUTPUT 2977.88-2983.74: And the demand that you might see for high dose beyond Germany in Europe. 
+asr:0: OUTPUT 2984.04-2992.89: And then second question, there's clearly been quite a lot of interest for consumer assets early on this year. 
+asr:0: OUTPUT 2993.75-2999.76: Does that lead you to change or accelerate any of your plans for the consumer business going forward? 
+asr:0: OUTPUT 2999.94-3004.14: Thanks very much. Thanks, Richard. 
+asr:0: OUTPUT 3004.16-3014.51: First of all, I'll compliment Tom and the team on what they've done with the Haiders launch, and particularly this year and remotely and incredibly in Germany. So the question is supply and beyond. 
+asr:0: OUTPUT 3016.24-3025.75: Thanks Richard. Definitely no concern at all on US or non-US food supply. We are very confident, you know very well that last year. 
+asr:0: OUTPUT 3026.07-3028.67: We added a new flue building in Twigloader. 
+asr:0: OUTPUT 3028.99-3036.58: You know also that we are further investing into additional flusonidols and TGN for the mid to long term with the Canada plant. 
+asr:0: OUTPUT 3036.94-3040.38: So we're really moving forward on that and feeling very confident on stuff like this year. 
+asr:0: OUTPUT 3040.70-3042.60: Of course, as every single year. 
+asr:0: OUTPUT 3042.88-3047.01: We are always receiving the northern hemisphere season as in February. 
+asr:0: OUTPUT 3047.09-3054.51: And at the end of the Q2 call, usually we take that moment at the Q2 call to make a little bit of an update on supply and phasing for Q3, Q4. 
+asr:0: OUTPUT 3055.08-3062.38: When it comes to demand as you have highlighted, the Sanofi Vaccines team has done very strongly this year in Germany. 
+asr:0: OUTPUT 3062.74-3066.97: We expect this to further grow. There is room to grow in Germany. 
+asr:0: OUTPUT 3067.31-3073.67: When it comes to other markets in Europe, we are going to introduce in 2022 a couple of new markets in Europe. 
+asr:0: OUTPUT 3074.03-3077.18: But you know very well when it comes to vaccines and flu introduction. 
+asr:0: OUTPUT 3077.54-3081.12: It's about having preferential recommendation. It's about having reimbursement. 
+asr:0: OUTPUT 3081.40-3087.97: So we start new, compiling it little by little until we have the right reimbursement in place and then we will provide the supply. 
+asr:0: OUTPUT 3089.53-3090.85: Thank you. Thank you so much. 
+asr:0: OUTPUT 3091.77-3100.02: I think I got where you're heading, Richard. I think the thing for us would go back to what we said. 
+asr:0: OUTPUT 3100.64-3103.20: Capital Markets Day December 2019. 
+asr:0: OUTPUT 3104.76-3112.93: We thought we could grow faster than we were growing. We thought we could carve in, increase agility, accelerate growth, make better choices, prioritize, leverage e-commerce. 
+asr:0: OUTPUT 3113.13-3117.38: And runs fast all the way to the switches. 
+asr:0: OUTPUT 3117.40-3124.24: Julie and the team have done an incredible job, frankly, on doing that and we're really delighted with the progress we made. 
+asr:0: OUTPUT 3124.32-3127.45: We know a lot happens outside with other companies and different things. 
+asr:0: OUTPUT 3127.47-3133.25: We know the choices that we made back in 19 and we're very happy with how things are performing. 
+asr:0: OUTPUT 3133.99-3135.40: Okay, next question. 
+asr:0: OUTPUT 3137.02-3140.64: The next question will be from Luisa Hector at Barenberg, Leicester. 
+asr:0: OUTPUT 3143.08-3145.45: Thank you for taking my questions. 
+asr:0: OUTPUT 3147.35-3157.02: Possibly for JB, but you mentioned the headcount reduction. I just wondered if you can give us an update on the EuroAPI spin, timely and gating items. 
+asr:0: OUTPUT 3157.98-3166.23: And then also on growth margins, so clearly very good progression. So you're working very hard on this and it's paying off. 
+asr:0: OUTPUT 3166.65-3172.37: Can you guide us to whether to think about a continued improvement? 
+asr:0: OUTPUT 3172.39-3178.26: Through 2023 when a Bajdio Generics arrives. Thank you. 
+asr:0: OUTPUT 3180.38-3181.64: Okay, thank you, Louisa. 
+asr:0: OUTPUT 3182.64-3188.11: To JB, you always get the fun ones, so maybe there's a Your API question that's coming in. 
+asr:0: OUTPUT 3188.33-3193.97: And it was partly related to head count, you may want to go a tiny bit broader and then of course goes marginal. 
+asr:0: OUTPUT 3195.24-3202.84: So basically we are trying to transform. We have the new business model operating in some countries commercially but we have also. 
+asr:0: OUTPUT 3203.28-3209.03: This API activity, which is a leader in its field. 
+asr:0: OUTPUT 3209.77-3215.42: So the IPO is announced for X1 2022. We are on course to do this. 
+asr:0: OUTPUT 3215.90-3221.66: So yeah, as planned, we are looking forward to make it happen in 2020. 
+asr:0: OUTPUT 3223.06-3229.67: On the gross margin, yeah, effectively we delivered on 21. We are guiding again on the improvement. 
+asr:0: OUTPUT 3230.47-3236.80: On the midterm, I will make a gross margin guidance, a multi-year. 
+asr:0: OUTPUT 3237.24-3240.52: Is there something which is a strong element you have to keep in mind? 
+asr:0: OUTPUT 3241.08-3243.48: Is that on our main asset, Dupuiscent. 
+asr:0: OUTPUT 3244.32-3252.29: We are going to have quite a transformative journey in terms of COGS, which should really help us. 
+asr:0: OUTPUT 3252.31-3254.69: I think to neutralize any price erosion we could have. 
+asr:0: OUTPUT 3255.01-3264.72: Because we are looking at implementing new manufacturing processes that will deliver strongly in terms of COGS improvement. 
+asr:0: OUTPUT 3265.25-3266.57: So that's a key. 
+asr:0: OUTPUT 3267.45-3272.75: And, Lise, you didn't ask me, but I'm glad you asked the questions because... 
+asr:0: OUTPUT 3272.77-3279.40: There's a huge amount of work, while we're advancing the pipeline, 30, 60 programs in development. 
+asr:0: OUTPUT 3280.00-3281.50: The six acquisitions. 
+asr:0: OUTPUT 3281.68-3288.57: I think what does get missed out of our discussion a little bit occasionally is the fundamental work that's going into reshaping the company. 
+asr:0: OUTPUT 3288.75-3298.58: The right sizing, the tempting, of course. But more importantly, we're having an IPO in the first half of this year at the same time. We're carving in a consumer business. 
+asr:0: OUTPUT 3299.12-3308.45: And on all these things we're out performing whilst doing them, whilst delivering on the science and the overall financial performance and the commitments we made to the Street for 22. 
+asr:0: OUTPUT 3309.33-3314.73: We we really feel like you know the level of the scale of transformation that happening is. 
+asr:0: OUTPUT 3314.93-3320.68: It's not fully understood and it's okay, but it's extensive. So maybe next question. 
+asr:0: OUTPUT 3322.42-3326.85: Next question will come from Simon, Simon Mather at Exane. 
+asr:0: OUTPUT 3330.17-3334.11: Thank you for taking my questions and loving the new branding by the way. 
+asr:0: OUTPUT 3335.46-3339.94: The first question is actually for Jeremy. You've given guidance for managing spent tax breaks. 
+asr:0: OUTPUT 3340.00-3345.65: The 2022, if you look at consensus and out here, it's something that you guys can point. 
+asr:0: OUTPUT 3346.23-3352.91: I'm just wondering if you can potentially comment on the sustainability of this tax rate or how we should maybe revisit our expectations. 
+asr:0: OUTPUT 3354.21-3361.82: The second one is on the PICS, thank you for the updated timeframes with respect to guidance. 
+asr:0: OUTPUT 3362.74-3369.37: I think it's pretty clear everything after water in terms of safety and efficacy in a. 
+asr:0: OUTPUT 3370.17-3374.71: Appreciate it. Could you comment on any impact that you're seeing? 
+asr:0: OUTPUT 3374.79-3382.24: Or that you expect to see with the recent launch of Tazepatide and severe asthma and feedback that you may be getting from physicians. 
+asr:0: OUTPUT 3383.88-3387.61: Okay, well, thank you for the kind words on the branding. 
+asr:0: OUTPUT 3388.59-3396.52: You know, for those that haven't followed it closely, it is the original font from our birth in 1973. 
+asr:0: OUTPUT 3397.56-3405.33: And it's also an opportunity for us to be a little bit more disruptive and unify the company as well at the same time. 
+asr:0: OUTPUT 3405.73-3413.17: So I'm glad that it's recognised. I think it's more dynamic, fancy and reflective of the comments I made earlier, how much the transformation is happening here. 
+asr:0: OUTPUT 3413.61-3420.78: And from that high energy question to tax, John Baptiste, so to you. 
+asr:0: OUTPUT 3423.30-3425.35: So now we turn on our effective tax rate. 
+asr:0: OUTPUT 3426.59-3428.47: It turns out that it's better effectively. 
+asr:0: OUTPUT 3429.09-3436.92: As I said in my previous speech, it's really something which is dependent of further changes in the tax legislation. 
+asr:0: OUTPUT 3437.12-3445.27: We have structural good trends, only that the underlying tax rate is like between 19 and 20. 
+asr:0: OUTPUT 3446.07-3455.82: But as we speak, I don't know what will be the full impact of Pillar 2 or changes of taxation in some other regions like the US. 
+asr:0: OUTPUT 3456.38-3459.66: Yeah, a good trend with... 
+asr:0: OUTPUT 3459.68-3469.01: A big chunk of it linked to our business on tax rates in France also, which is going positively. 
+asr:0: OUTPUT 3469.37-3474.51: But that could be disturbed in the midterm by other changes in other regions. 
+asr:0: OUTPUT 3475.58-3477.00: Thank you, Jerry. 
+asr:0: OUTPUT 3477.66-3484.62: Thanks also, Sam, for the compliments on Duke Pixen, which is, you know, frankly an incredible performance. 
+asr:0: OUTPUT 3484.64-3490.93: And led by Bill and the team. So Bill, comments about new entrants and early signals. 
+asr:0: OUTPUT 3491.73-3493.01: Yeah, well thank you for the question. 
+asr:0: OUTPUT 3494.71-3504.08: None of the new entrants are a surprise, for one thing. We've been planning on these. We've been waiting, in some cases, extended waits for the JACs, as they were almost a year delay. 
+asr:0: OUTPUT 3504.68-3513.45: And while it's new competition in the US, we've had these competitors that have already launched in Germany and on their way in Japan as well. 
+asr:0: OUTPUT 3513.77-3515.42: So we're certainly used to them. 
+asr:0: OUTPUT 3516.02-3521.82: And I think the one thing that they do is they really reinforce our best in disease clinical profile that we have. 
+asr:0: OUTPUT 3522.30-3524.48: Just go back to the biology. 
+asr:0: OUTPUT 3525.47-3530.71: Targeting aisle 4 and aisle 13, that is fundamental to type 2 inflammation. 
+asr:0: OUTPUT 3531.25-3541.42: And no other product has been able to show the profile that we have in any of the type 2 diseases, and clearly starting with the atopic dermatitis where. 
+asr:0: OUTPUT 3541.52-3543.18: We are the leader now. 
+asr:0: OUTPUT 3544.66-3547.27: Asthma as well, the profile again. 
+asr:0: OUTPUT 3547.65-3555.82: We think is the top, the best profile that is in asthma and we're seeing really very promising signs all around the world. 
+asr:0: OUTPUT 3555.90-3560.20: Our ability to compete and win in the atmosphere. 
+asr:0: OUTPUT 3560.70-3566.13: Just one comment, as we have competition coming into the atopic dermatitis market,. 
+asr:0: OUTPUT 3566.67-3571.91: It actually helps to serve to grow the market, grow awareness of atopic dermatitis, etc. 
+asr:0: OUTPUT 3572.29-3579.64: And as we've had competitors launch in other countries, as I said, Germany and Japan, we have seen market expansion. 
+asr:0: OUTPUT 3579.76-3586.57: So that's what we expect. That's part of our aspiration to have a 25 to 30 percent. 
+asr:0: OUTPUT 3586.63-3591.93: Advanced therapy penetration in atopic dermatitis over time. That's one of the contributors. 
+asr:0: OUTPUT 3592.19-3599.12: But, you know, the one thing that's clear is that we are on top. We remain on top and we believe being pest and disease we will stay on top. 
+asr:0: OUTPUT 3600.42-3610.21: Sorry, can I have apologies to interrupt? I think I said to the left of the slide, I've got it on my brain, I meant to tell the pal now I've been in the US. Is there any early feedback you could share? 
+asr:0: OUTPUT 3611.13-3619.02: No, there's really nothing that we're seeing. It's still very early. We're staying with the trends that we've seen. 
+asr:0: OUTPUT 3619.64-3621.92: I just to add a couple of points to those. 
+asr:0: OUTPUT 3622.14-3624.30: I think. 
+asr:0: OUTPUT 3625.45-3634.83: The assumption is always that it's a zero-sum game. You know, say, with the jacks, for example, the baggage, and you know with the 13s it's half the answer, missing the 4. 
+asr:0: OUTPUT 3635.72-3637.42: So, you know, and you know. 
+asr:0: OUTPUT 3638.02-3641.88: Mechanisms have failed in at least one of the indications that GP has already approved. 
+asr:0: OUTPUT 3642.92-3648.93: And Tessie would probably be in that box too. I think it was in AD if I remember correctly. 
+asr:0: OUTPUT 3649.47-3655.30: So we're on one hand we're the only medicine that will play in every indication. 
+asr:0: OUTPUT 3655.44-3659.26: On the other hand, as Bill said, I think it's missed every time. 
+asr:0: OUTPUT 3659.72-3668.51: A little bit of competition to help drive up penetration of advanced therapies is absolutely essential. And those comments about Germany... 
+asr:0: OUTPUT 3668.53-3676.90: Should not be underestimated because we obviously will carry the education of these disease areas. 
+asr:0: OUTPUT 3677.08-3684.30: But it's good that others want to come in and try and do that too. And in growing markets, where you're the market leader, it's a very healthy place. 
+asr:0: OUTPUT 3684.32-3685.93: For us to be under health and patient care. 
+asr:0: OUTPUT 3687.97-3694.71: Okay, next question please. Next question will be from Graham Perry at Bank of America. Graham? 
+asr:0: OUTPUT 3696.38-3703.20: Time to take some more questions. So congratulations on getting an hour into the call without a mere three questions. I'm afraid we're going to break that. 
+asr:0: OUTPUT 3704.08-3712.57: Just wondering, have you approved all events now and in data lock? So we still have a Q1 readout on that study. 
+asr:0: OUTPUT 3712.95-3720.78: The L-accessory result has led to some concern in the market that oral surges only show benefits in EFR1 mutated patients. 
+asr:0: OUTPUT 3721.00-3723.38: Who are obviously more rare in the frontline setting. 
+asr:0: OUTPUT 3723.46-3730.19: And I think they're feeling some pessimism around, you know, the potential in front line. So perhaps if you could just address that point. 
+asr:0: OUTPUT 3730.71-3740.00: And then secondly a question on M&A, you've done a lot of smaller pipeline deals of late, obviously biotech valuations have fallen somewhat at the moment. 
+asr:0: OUTPUT 3740.28-3750.21: So with the weakness that you're seeing in biotech prices, are you seeing more value and opportunity perhaps to build out further in oncology, where I think you've highlighted it's still a key target? Thank you. 
+asr:0: OUTPUT 3751.91-3753.63: I didn't hear the first part of your question. 
+asr:0: OUTPUT 3755.68-3757.44: Oh, right, it's an Amerisweet question. 
+asr:0: OUTPUT 3758.44-3765.57: Thank you for raising it. So I'm going to toss it to John. John, have you heard it? It was, you know,. 
+asr:0: OUTPUT 3765.75-3770.71: The competition should more effectively think in ESR. 
+asr:0: OUTPUT 3770.75-3774.29: Mutation and so what's really the cost for us? 
+asr:0: OUTPUT 3774.63-3781.16: And where are we on database slots and reporting it in Q1? Right, right. Okay, Graham, thank you. 
+asr:0: OUTPUT 3782.10-3790.03: In terms of the activity of R-Cerd on wild type versus mutant estrogen receptor,. 
+asr:0: OUTPUT 3790.75-3800.14: We're fully active on both, whereas the confederate molecule is better on the mutant than on the wild type. So that's not at all a liability for us. 
+asr:0: OUTPUT 3800.94-3808.41: So it is one of the differentiators of our molecule and one of the many factors that we think gives it a best-in-class profile. 
+asr:0: OUTPUT 3808.43-3811.69: Along with the pristine colorability. 
+asr:0: OUTPUT 3813.79-3821.06: We expect to have the data this quarter with respect to MIRA 3 and the late line benefit. 
+asr:0: OUTPUT 3822.30-3827.87: Also, please report we're fully enrolled now in the frontline study in combination with the CDC. 
+asr:0: OUTPUT 3828.03-3833.63: And that our first of our adjuvant studies is now open for enrollment. 
+asr:0: OUTPUT 3834.29-3838.12: So we're making good progress across the spectrum from early. 
+asr:0: OUTPUT 3838.50-3847.67: Line in each of these indications where we think Ancestrin has a strong value proposition for women with hormone receptor positive breast cancer. 
+asr:0: OUTPUT 3848.67-3854.69: Thank you John. So categorically Graham results in Q1. 
+asr:0: OUTPUT 3856.36-3865.91: Okay, JD, M&A? Yeah, well, I do think that our M&A activity is not related to the peak and trough of the validation of biotech. 
+asr:0: OUTPUT 3866.39-3876.30: Is much more dependent on the leadership of our R&D team and John's scouting for the right. 
+asr:0: OUTPUT 3876.32-3881.22: Fitting with our strategy, really fitting with our TA's. 
+asr:0: OUTPUT 3882.00-3888.29: So no specific impact from the current level of radiation. It will be a thumb down. 
+asr:0: OUTPUT 3889.91-3893.23: But we are still on for both acquisitions, of course. 
+asr:0: OUTPUT 3894.39-3897.44: Thank you. Next question, please. 
+asr:0: OUTPUT 3899.26-3903.38: From Tim Anderson at Wolf. Tim, your question please. 
+asr:0: OUTPUT 3906.23-3908.37: Thank you. A couple more questions. 
+asr:0: OUTPUT 3908.75-3911.05: So going back to oral surge. 
+asr:0: OUTPUT 3911.59-3920.02: We'll be getting two readouts this year from two similarly designed trials later, like Rush's trial and then Rush's trial. 
+asr:0: OUTPUT 3920.04-3922.20: Both companies play best in class. 
+asr:0: OUTPUT 3922.30-3930.47: Do you think these upcoming datasets would help prove which company is right and which company is wrong in making that claim? 
+asr:0: OUTPUT 3930.59-3936.42: Would that not become clear until we get additional fraud readouts, such as in the first line setting? 
+asr:0: OUTPUT 3936.96-3942.08: And then second, I would love to get your thoughts on Lilly's lembritizumab. 
+asr:0: OUTPUT 3942.32-3948.09: They're saying they think that will have a profile that's very competitive to do with Xsense. 
+asr:0: OUTPUT 3948.37-3952.09: To talk about differentiation in ocular side effects. 
+asr:0: OUTPUT 3953.27-3959.84: And I'm wondering what your thoughts are on them as a competitor. Did you know the Germans baseball because of talk? 
+asr:0: OUTPUT 3963.08-3971.77: I see the theme in that, given Roche's data and our impending data, do you think we'll be able to declare a winning profile this year? 
+asr:0: OUTPUT 3972.91-3975.48: No, it's a good question. 
+asr:0: OUTPUT 3976.02-3983.94: I'm not sure that these late line settings are the best place to really differentiate on efficacy. 
+asr:0: OUTPUT 3984.78-3986.77: Where we do feel confident. 
+asr:0: OUTPUT 3986.81-3992.41: We'll be able to perhaps differentiate it as on the safety tolerability profile where. 
+asr:0: OUTPUT 3992.43-3999.44: Where so far MS-NESRT has really been delivering a best-in-class profile, whereas. 
+asr:0: OUTPUT 3999.46-4003.04: Molecules from others including rose sheds. 
+asr:0: OUTPUT 4003.06-4010.17: In showing safety signals around cardiac issues and in some cases vision issues. 
+asr:0: OUTPUT 4010.87-4012.35: So,. 
+asr:0: OUTPUT 4012.55-4014.77: I think that's probably the best answer I can give you for now. 
+asr:0: OUTPUT 4015.32-4021.64: I would probably be looking to how the tolerability profiles hold up in these early lines. 
+asr:0: OUTPUT 4021.68-4028.21: As opposed to hinging a lot on the efficacy profile given. 
+asr:0: OUTPUT 4028.23-4033.83: You know, a lot of the heterogeneity in these patient populations has been the late line. 
+asr:0: OUTPUT 4033.87-4039.92: Therefore, the difficulty to really do cross trial comparisons in an apples to apples way. 
+asr:0: OUTPUT 4041.38-4043.62: Thanks John. I reiterate to everybody. 
+asr:0: OUTPUT 4043.98-4045.01: We haven't seen the data. 
+asr:0: OUTPUT 4046.23-4049.81: But we are optimistic that we're in a good spot. 
+asr:0: OUTPUT 4050.47-4058.50: And we look forward to getting it. You all know I think it's a small indication if we are successful. So in terms of value perspective,. 
+asr:0: OUTPUT 4058.96-4067.81: It's not as important, although it may bring benefit to those that need it, let's be frank. But from a confidence perspective, you know it's important to everybody. 
+asr:0: OUTPUT 4068.87-4073.93: So when we have the data, you'll be soon after us in terms of knowing. 
+asr:0: OUTPUT 4074.37-4083.18: I do think, whereas in most of the areas I've worked in tolerability inevitably plays a part, particularly as we move earlier lines, and Jonathan touched on it. 
+asr:0: OUTPUT 4083.76-4091.61: Tolerability will be a key differentiator and if I understand correctly the competitor you referenced at a lower dose. 
+asr:0: OUTPUT 4093.13-4099.60: Continuous percolate up challenges, so you know that we think those things are going to be very very important over the longer term. 
+asr:0: OUTPUT 4100.64-4105.93: Bill, aisle 13, Lilly is saying that they have a winning profile. 
+asr:0: OUTPUT 4107.23-4114.51: Yeah, well, thanks for the question. As Paul said, I think, earlier on with the I-13, it's incomplete. 
+asr:0: OUTPUT 4114.75-4119.14: It's missing the IL-4. So, we think starting with the biology, it's not the complete biology. 
+asr:0: OUTPUT 4119.90-4126.75: So, when you take a look at their results, let's remember these are Phase II B results. They're still waiting on their later results. 
+asr:0: OUTPUT 4128.57-4131.27: Nothing that really stands out from our perspective. 
+asr:0: OUTPUT 4131.95-4139.54: The eschathe looks fine. The conjunctivitis looks similar to Dupixen. 
+asr:0: OUTPUT 4141.10-4149.59: I think some of the big differences are is that we're six years ahead at that point by the time they launch. We are a mega blockbuster. 
+asr:0: OUTPUT 4150.07-4151.61: We become the standard of care. 
+asr:0: OUTPUT 4151.87-4155.32: So I think for somebody to come in with something that isn't so much to offer. 
+asr:0: OUTPUT 4155.84-4159.62: I think that that is regardless of your experience in a therapeutic area. 
+asr:0: OUTPUT 4160.24-4169.23: It's not therapeutic experience in atopic dermatitis. So, you know, as we said, it's part of the story. Aisle 13, certainly not the pole. We've got the best profile. 
+asr:0: OUTPUT 4170.01-4174.99: Thanks. 
+asr:0: OUTPUT 4176.38-4180.26: OK, thanks. Yeah, for mine it's great that I have experience with tiles. 
+asr:0: OUTPUT 4180.82-4187.17: I have a lot of experience with consentics and nobody has got the experience that we have in AD. 
+asr:0: OUTPUT 4188.53-4194.89: And I'm telling you what the team has done with Deep Ixen is incredible. We never underestimate competition, particularly well-organized ones. 
+asr:0: OUTPUT 4195.38-4200.56: But you can start with the biology like Bill said and if you've got heart PMs that you have. 
+asr:0: OUTPUT 4200.58-4206.95: Along road to hope. I'm sure they'll make some progress. But let's go all the way back to the fundamental, which is. 
+asr:0: OUTPUT 4206.99-4213.69: Additional weight in the market to help educate and improve penetration as well. 
+asr:0: OUTPUT 4214.11-4219.02: And if we have the best profile, which we believe we do, then we will disproportionately benefit from that. 
+asr:0: OUTPUT 4219.52-4225.37: So we look forward to the meeting in March where we'll update you more deeply about. 
+asr:0: OUTPUT 4225.39-4231.07: Our forecast and indeed our immunology pipeline in general. 
+asr:0: OUTPUT 4232.37-4236.68: Yes, next question comes from Mark Purcell at the Morgan Stanley Market. 
+asr:0: OUTPUT 4237.84-4243.24: Thank you. Thanks everyone. Two questions. First on the defixment. 
+asr:0: OUTPUT 4244.34-4253.87: Could you give us an update in terms of where you are in terms of advanced therapy penetration rates in ageing versus the 25-30% you just gave? 
+asr:0: OUTPUT 4254.19-4256.80: And also some idea of an indication split. 
+asr:0: OUTPUT 4257.84-4260.70: But ahead of the 29th of March just to get us in the mood. 
+asr:0: OUTPUT 4261.90-4270.85: Perhaps Fouie could help us understand where you believe in the future a US-ex-US split could be. Obviously ex-US growing 80% from a lower base than the US. 
+asr:0: OUTPUT 4271.45-4274.51: Where eventually you feel XUSUS could be. 
+asr:0: OUTPUT 4274.98-4283.14: And then the second one on Sol 707 or Star 245, the IL-2, phase 3 going to go decisions coming up in the second half of this year. 
+asr:0: OUTPUT 4283.58-4291.43: I wonder if you could help us understand which indications and lines of therapy those decisions would be made on if it's monotherapy or combination therapy. 
+asr:0: OUTPUT 4291.57-4295.28: And what are the gating decisions when making that hurdle into phase 3. 
+asr:0: OUTPUT 4300.56-4309.71: Phil I think the question is where are we now and what is the penetration, how has it evolved towards that 20 to 30% you're talking about? 
+asr:0: OUTPUT 4310.35-4319.38: Thanks for the question. We've got a, you know, still a long way to go. Just to give you a sense, in U.S. Adult AD, it's 7.9%. 
+asr:0: OUTPUT 4319.90-4327.17: And I'd say the finish line is looking at 25-30%, which is a little bit, in the range of psoriasis, maybe a little bit higher. 
+asr:0: OUTPUT 4327.89-4335.44: We've got a long way to go, so just reinforcing what Paul and I said along the way, new competitors in the marketplace ought to accelerate that. 
+asr:0: OUTPUT 4336.26-4344.80: Regarding US, ex-US, we have seen similar patterns in every market that we've launched in the world following the US from. 
+asr:0: OUTPUT 4344.82-4346.55: A growth perspective. 
+asr:0: OUTPUT 4346.91-4354.69: We continue to see that, we expect that. We're not going to comment on what we think the alternate geographic distribution will be or indications. 
+asr:0: OUTPUT 4356.68-4358.24: I think as well. 
+asr:0: OUTPUT 4360.00-4367.85: Europe always takes some time to get through the reimbursement cycles. 
+asr:0: OUTPUT 4368.15-4373.33: It always starts slower, then it always gets more interesting, and then everybody always starts to ask questions about it. 
+asr:0: OUTPUT 4373.43-4382.62: And we don't need to share the relative proportions but the fact that the rest of the world will just get stronger and stronger in terms of its contribution. 
+asr:0: OUTPUT 4382.64-4384.30: Because the medicine is so good. 
+asr:0: OUTPUT 4384.36-4385.77: I think they'll mention China earlier. 
+asr:0: OUTPUT 4386.37-4390.99: That is quite a 30,000 patients in just months. 
+asr:0: OUTPUT 4391.53-4394.33: I think it starts to help you understand where we might be heading. 
+asr:0: OUTPUT 4396.34-4403.78: John, SAR 245 or formerly known as 4707, likely indications. 
+asr:0: OUTPUT 4405.31-4413.11: I think it was Tom Mose. Yeah, thanks for the question. Maybe before I jump in this R245 though, since you brought up. 
+asr:0: OUTPUT 4413.73-4421.66: Immunology event coming in March. We're really looking forward to not only talking about Dupixent, but also the broader portfolio. You know, we've grown from just. 
+asr:0: OUTPUT 4436.16-4448.13: Development for COPD, our engineered interleukin-2. On the other flip side of the story, Thor 809, that stimulates regulatory T-cells instead of effector T-cells. 
+asr:0: OUTPUT 4448.69-4459.00: Are by specific multi-civic nanobodies that do nifty things like neutralizing both TNF and IL-23 in a single molecule, a new concept for inflammatory bowel disease. 
+asr:0: OUTPUT 4459.46-4460.88: Steamy, oily, licking, etc. 
+asr:0: OUTPUT 4461.36-4464.22: As well as our oral small molecule portfolio of. 
+asr:0: OUTPUT 4464.24-4472.61: Rilsabrutinib, a unique VTK inhibitor, a RIP kinase inhibitor, our oral TNF inhibitor, and the IRAC4 degrader. 
+asr:0: OUTPUT 4472.63-4477.72: So that portfolio of immunology has really blossomed and we look forward to talking more about that in March. 
+asr:0: OUTPUT 4478.52-4487.59: Now the SAR 245, we have a large platform study underway in lung, head and neck, GI, skin and lymphoma. 
+asr:0: OUTPUT 4488.45-4494.49: And like most companies, we sort of started with the obvious to do combinations with PD-1, and we're pursuing that. 
+asr:0: OUTPUT 4495.06-4500.00: But this year we will be embarking on novel combos with other kinds of. 
+asr:0: OUTPUT 4509.07-4520.60: Development. We have our universal allogeneic NK cell platform. So there's a lot to think about as combination opportunities with SART245 across. 
+asr:0: OUTPUT 4520.76-4523.66: A range of fellow tumors and hematologic malignancies. 
+asr:0: OUTPUT 4524.48-4527.51: This will be a rich year for generating those early data signals. 
+asr:0: OUTPUT 4528.61-4535.66: We're eagerly anticipating what we might be able to do with this best-in-class engineer version of Interleukin-2. 
+asr:0: OUTPUT 4538.14-4539.82: I do think I need to learn. 
+asr:0: OUTPUT 4540.00-4549.53: The number of signals that we're going to get across the pipeline, but particularly in oncology, is going to be quite interesting this year. While we know they're only early for some of you, for an. 
+asr:0: OUTPUT 4549.93-4558.08: What we would like to be an emerging player in oncology. There'll be nice moments for us to make some decisions about which way to go and we're optimistic. 
+asr:0: OUTPUT 4559.24-4566.27: Next question please. Yeah next question would be from Emmanuel Kodakis at Deutsche Bank. Emmanuel. 
+asr:0: OUTPUT 4567.63-4572.79: Thank you for taking the question. Perhaps I could clear up with one on evidence.gov. 
+asr:0: OUTPUT 4573.85-4578.88: Just your expectations or your ambitions perhaps for the upcoming pivotal. 
+asr:0: OUTPUT 4578.90-4585.21: I think you said you're hoping to show above near normal expression above 40% factor at. 
+asr:0: OUTPUT 4585.27-4590.73: What sort of figures would you be hoping to be showing in seven days and what kind of. 
+asr:0: OUTPUT 4590.75-4595.36: Implications do you think that could have relative to what they're locked out? 
+asr:0: OUTPUT 4595.60-4599.72: Person indeed if you could give us some comment on where you think a lotter is personally that would be helpful as well. 
+asr:0: OUTPUT 4600.32-4604.96: And that's the second question on the ship 2K rise given the decision to progress the combination to phase 2 with Amgen. 
+asr:0: OUTPUT 4605.69-4610.53: Just wondering if you see any way to find confidence on synergy for that combination given. 
+asr:0: OUTPUT 4610.57-4620.24: The pretty clear lack of shift to monotherapy activity and the timing of that potentially either phase 1 or phase 2. 
+asr:0: OUTPUT 4620.32-4624.54: Ongoing phase two being presented to us at the scientific conference. I hope you find it helpful. Thank you. 
+asr:0: OUTPUT 4626.37-4636.12: Thank you Emmanuel. 
+asr:0: OUTPUT 4636.76-4639.46: I don't think we've declared what our expectation is. 
+asr:0: OUTPUT 4640.52-4646.59: But certainly our profile is going to be best in class, so don't you want to comment on that. 
+asr:0: OUTPUT 4646.73-4651.59: Yeah, I think that's right. I think if you take a look at what was showed in the phase two, which showed that, you know,. 
+asr:0: OUTPUT 4651.61-4656.80: Over half the week, four days where you're at essentially a near normal level. 
+asr:0: OUTPUT 4657.16-4663.16: And by the end of the week, it tapers off to in the 10%, I believe. Yeah, but still quite a... 
+asr:0: OUTPUT 4663.82-4665.53: Protect them even at the end of the week. 
+asr:0: OUTPUT 4666.07-4673.85: I mean, you just look on the slide that I showed, no one's even close to that. 
+asr:0: OUTPUT 4674.37-4677.20: And no one's even close to that with a once-a-week. 
+asr:0: OUTPUT 4677.90-4682.86: So this we consider really transformative in the hemophilia A space. 
+asr:0: OUTPUT 4683.44-4688.93: You know, when you think about patients, kids who want to have an active lifestyle. 
+asr:0: OUTPUT 4689.85-4698.92: And if you can give them something they've never seen before, then maybe for just a brief moment, normal, and you do that for the better part of the week. 
+asr:0: OUTPUT 4699.62-4702.98: You begin to think about giving them a little bit more of their life back. 
+asr:0: OUTPUT 4703.38-4706.57: And being active and so forth. So, you know, we're really excited. That's what. 
+asr:0: OUTPUT 4706.75-4713.73: And we expect to see that in our Phase 3 release. We hope, you know, that's set a pretty high bar. 
+asr:0: OUTPUT 4713.99-4717.04: Set a high bar for us, set a high bar for the market, I think, overall. 
+asr:0: OUTPUT 4718.40-4722.78: Stay tuned, more to come on that one, but this is really something which is different. 
+asr:0: OUTPUT 4723.02-4726.93: No one's been able to offer this before, so I think we're hearing patient communities really excited. 
+asr:0: OUTPUT 4727.13-4734.05: Yeah, and now I've heard that from you, obviously, Bill, and I think the real question is, can it go even longer? 
+asr:0: OUTPUT 4734.41-4743.18: Depending on which the patient's longer term. I mean it gets very exciting for a dentist's doctor to find their confidence is building. As you know, the gene therapy. 
+asr:0: OUTPUT 4743.88-4746.55: At least this generation, doesn't seem to be. 
+asr:0: OUTPUT 4747.13-4755.96: You know, definitive. And of course, Hem Libra comes more towards the weekly or bi-weekly itself. 
+asr:0: OUTPUT 4756.56-4765.75: You know, then the opportunities are perhaps even bigger than we thought when we started on this journey, I'll be honest. And of course, half the markets turned back to that bill, so it's quite interesting for us. 
+asr:0: OUTPUT 4767.21-4770.53: John maybe strip to K-Raz. 
+asr:0: OUTPUT 4771.77-4781.96: Yeah, so you know the reason that we're pursuing a combination is because in preclinical studies where we and others tried different combinations. 
+asr:0: OUTPUT 4781.98-4787.01: Of SHP2 with various other signal transduction locking molecules. 
+asr:0: OUTPUT 4787.07-4795.92: That was always consistently the place where we saw the best combination from aphidisthesis, or the most synergy. 
+asr:0: OUTPUT 4796.70-4801.70: And again, this is not just Sanofi data, but it's Mirati data, it's Amgen data, etc. 
+asr:0: OUTPUT 4802.32-4805.21: We think that if there's a combination where ship two. 
+asr:0: OUTPUT 4805.41-4807.45: This is it. 
+asr:0: OUTPUT 4807.51-4816.26: We're doing the studies this year, it's another one of these where the signals will be the important determinant of what kind of trajectory we can take with that mechanism. 
+asr:0: OUTPUT 4817.74-4823.64: That's the rationale and the data will ultimately speak for themselves and we'll be gathering it this year. 
+asr:0: OUTPUT 4824.98-4831.81: And maybe, Amir, I'll just thank you for the research you did on Bezirov. I found it really interesting, her positions. 
+asr:0: OUTPUT 4831.91-4838.28: We're really thinking, confident already, about moving to earlier lines. I mean, of course, it's just a survey. 
+asr:0: OUTPUT 4838.46-4845.91: But it was very insightful and we enjoyed reading that. So thank you for that work. You're welcome, Zane. Congratulations on the strong launch. 
+asr:0: OUTPUT 4846.87-4849.35: Thank you very much. That means a lot. 
+asr:0: OUTPUT 4850.65-4852.27: Okay, Emma. 
+asr:0: OUTPUT 4857.48-4862.48: Yes, last question would be from Matthew Weston at Credit Suisse. Matthew? 
+asr:0: OUTPUT 4868.09-4872.49: It's true here, I'm sorry. I have two questions. 
+asr:0: OUTPUT 4873.29-4882.24: On Doopie, I wonder, you've given us the 8% penetration in the US adult market in AD. 
+asr:0: OUTPUT 4883.16-4886.97: Perhaps half of the sales potential comes from other indications. 
+asr:0: OUTPUT 4887.55-4892.79: I wonder if you could just tell us how successful you've been in penetrating things like asthma. 
+asr:0: OUTPUT 4893.19-4902.80: So that we can see how broad the appeal of this is beyond atopic dermatitis. I noted that you're going to update your sales projections. 
+asr:0: OUTPUT 4903.86-4906.65: But that's before you have the COPD data. 
+asr:0: OUTPUT 4906.95-4909.73: I thought you were waiting for that before you gave us an update. 
+asr:0: OUTPUT 4910.51-4913.31: My second question would be on FIFA. 
+asr:0: OUTPUT 4913.87-4923.34: So I would have assumed that if somebody was interested in efficacy but not so concerned on safety, they may already have moved from a factor to a non-factor. 
+asr:0: OUTPUT 4923.70-4931.11: So safety is likely to be a very important part in making the decision for these patients to move on to your new product. 
+asr:0: OUTPUT 4931.67-4936.54: How much safety data will you have at the time of submission and launch? 
+asr:0: OUTPUT 4936.70-4942.88: What makes you so confident that people won't think that the different pharmacodynamics of this factor. 
+asr:0: OUTPUT 4942.90-4946.45: Could impact on the safety characteristics of the product. 
+asr:0: OUTPUT 4948.17-4953.79: OK, well, in that you keep guessing sometimes you can't connect and then you hear with Matthew West. 
+asr:0: OUTPUT 4954.29-4958.36: So, but either which way, I'm glad that we got to the questions. 
+asr:0: OUTPUT 4959.50-4964.14: You do see in other indications penetration. 
+asr:0: OUTPUT 4964.70-4970.11: Yeah, so, you know, if you look, Joe, in asthma,. 
+asr:0: OUTPUT 4970.77-4975.24: Were at about 19% biologic penetration. 
+asr:0: OUTPUT 4975.44-4977.10: Okay, so that's the starting point. 
+asr:0: OUTPUT 4977.62-4987.91: And then, as you've heard from a per specify perspective, we're meeting in each of the specialists with the case engineers. 
+asr:0: OUTPUT 4989.19-4996.72: The other indications were that there was a lot of confusion about the. 
+asr:0: OUTPUT 4996.74-4999.30: It depends again on the bio penetration, you know. 
+asr:0: OUTPUT 4999.38-5006.47: They're pretty low. We're starting with a brand new indication, so to speak, with nasal pulse. We're the only player there. 
+asr:0: OUTPUT 5007.13-5014.47: Still working on the epi a little, but it appears as though we're having good, strong penetration there. Won't give a number at this time. 
+asr:0: OUTPUT 5015.10-5018.02: Regarding the second question was. 
+asr:0: OUTPUT 5018.64-5028.37: Well there's one about why are we waiting for the COPD data and I'm sorry I'm having no answer but then we move to a safety and efficacy trade-off on FN-asoptoxone. 
+asr:0: OUTPUT 5028.77-5030.61: Trying to get to the job. 
+asr:0: OUTPUT 5031.21-5033.83: So, Jim, we can't win. 
+asr:0: OUTPUT 5034.51-5042.02: If we wait, you see why you're waiting, and if we don't wait, you see why we're not waiting. 
+asr:0: OUTPUT 5042.22-5046.33: We're sort of the trips in between, I think because the COPD data is in 23. 
+asr:0: OUTPUT 5047.03-5056.70: I think we all felt that a good time to take stock would be towards the end of Q1 and using a deeper immunology. 
+asr:0: OUTPUT 5057.04-5060.00: Catch up that we think that's worth doing and of course. 
+asr:0: OUTPUT 5061.26-5069.53: We won't be able to declare a new peak without referencing, you know, that it's like, you know, it'll be different with CRPD if the data reads that. 
+asr:0: OUTPUT 5069.79-5070.87: How we frame that. 
+asr:0: OUTPUT 5071.43-5080.42: We're very early in the thinking, so stay loose on that until we get there. But I just don't think, given the run rate and the prescriptions,. 
+asr:0: OUTPUT 5080.46-5084.56: That we could ask people to wait a full year or more actually. 
+asr:0: OUTPUT 5084.88-5087.91: To understand what the peak could be. 
+asr:0: OUTPUT 5088.81-5093.51: John, I don't think we got it all on the safety efficacy tradeoff and what data we'll have. 
+asr:0: OUTPUT 5094.55-5104.54: I'd say I'm a little surprised by the question because the safety of this next generation Factor VIII is pristine. 
+asr:0: OUTPUT 5104.60-5106.83: There have been no safety signals. 
+asr:0: OUTPUT 5106.89-5109.21: We don't have any reason to believe there would be any. 
+asr:0: OUTPUT 5111.17-5113.17: You could almost say, to some extent,. 
+asr:0: OUTPUT 5113.89-5116.82: That way was paved with products like. 
+asr:0: OUTPUT 5116.84-5125.67: Which fuses an FC region onto Factor VIII and here there are some additional embellishments with the so-called extend. 
+asr:0: OUTPUT 5125.69-5133.93: But that had also been de-risked with other molecules that had been taken to the clinic, including an approved product. So the components of the molecule, of all,. 
+asr:0: OUTPUT 5133.95-5138.16: We've not seen any safety liabilities. 
+asr:0: OUTPUT 5138.50-5144.94: On the other hand, if you think about alternatives, they do have some safety, historical safety baggage. 
+asr:0: OUTPUT 5145.49-5149.91: So I really think on a safety standpoint, again, we come out best in class. 
+asr:0: OUTPUT 5150.45-5156.68: And John, just to add to that, I think clearly from an efficacy perspective, we win too. 
+asr:0: OUTPUT 5157.66-5166.23: And if you look at the comparison where emetizumab is, if you try to estimate where it is, it's nowhere near normal. 
+asr:0: OUTPUT 5167.43-5171.91: It's nowhere near normal factor levels. 
+asr:0: OUTPUT 5171.93-5177.60: We're really confident that we win on the safety for just redefining the safety bar. 
+asr:0: OUTPUT 5177.80-5182.32: And then if you're looking at a weekly dose. 
+asr:0: OUTPUT 5183.24-5184.32: That's pretty convenient. 
+asr:0: OUTPUT 5184.50-5188.69: So, you know, I think across both parameters we're in really good shape. 
+asr:0: OUTPUT 5189.41-5197.80: Thank you. You know when I joined the company a lot of people ask questions like did the company not understand how Libra was coming when we got into FITUSA around in 001 and. 
+asr:0: OUTPUT 5197.82-5202.70: Half the people responsible for En Libre work for us now. John, really thanks. 
+asr:0: OUTPUT 5203.20-5211.59: But one thing we did learn was that these patients are dynamic and they will move fast. 
+asr:0: OUTPUT 5211.93-5214.27: If they see a better choice to be made. 
+asr:0: OUTPUT 5214.75-5221.00: Particularly if you're not a true monthly, you're actually every one to two weeks in the case of the non-factor. 
+asr:0: OUTPUT 5222.22-5224.84: Built a, you know, cutting-edge standard. 
+asr:0: OUTPUT 5225.69-5234.79: I think the competition needs to be slightly more concerned that the patients are much more likely to change. It's what got them their position in the first place. 
+asr:0: OUTPUT 5235.24-5240.06: And it's what we'll do when we launch with EFFA, which is not that far away. 
+asr:0: OUTPUT 5240.58-5244.68: So thank you for those questions. 
+asr:0: OUTPUT 5245.47-5248.29: Thank you to everybody for the energy and the contribution. 
+asr:0: OUTPUT 5249.33-5260.32: Delighted by the way, as always, we're starting to transition more towards science and the transformation of the company, a little less just on the basic financials, which. 
+asr:0: OUTPUT 5260.56-5263.32: Every day we're responsible for, don't even think that we're not. 
+asr:0: OUTPUT 5263.78-5270.63: That we think in terms of value creation and in the right to bring our pipeline forward and surprise you is very, very important. 
+asr:0: OUTPUT 5271.37-5277.10: Nothing's off the table. We're shooting the company in real time. You may not see it and feel it, you're not part of it. 
+asr:0: OUTPUT 5277.58-5287.15: But I think as we look back, I like to particularly this whole year, you know, we get to look at the distance travelled just in 12 months. I think it feels like we've come an awful long way. 
+asr:0: OUTPUT 5287.91-5290.99: We've got some news to go up ahead of us and we hope it's all positive. 
+asr:0: OUTPUT 5291.71-5301.50: We will keep moving forward, finding signals and advancing 36 programs that were not moving last year, sorry, at the beginning of last year, that moved last year. 
+asr:0: OUTPUT 5301.88-5305.77: And 10% human for the first time in the company's history. 
+asr:0: OUTPUT 5306.17-5313.81: The penny should be dropping that our ability to pivot on science is really in full flight. 
+asr:0: OUTPUT 5314.59-5317.14: Thank you to everybody on the team. Thank you, Sion. Thanks for everything. 
+asr:0: END

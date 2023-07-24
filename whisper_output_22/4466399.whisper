@@ -1,0 +1,417 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.00-5.35: Ladies and gentlemen, thank you for standing by. I'm Konstantinos, your call operator. 
+asr:0: OUTPUT 5.93-13.93: Welcome and thank you for joining the TurkSell conference call and live webcast to present and discuss the TurkSell Third Quarter 2021 Financial Results Conference Call. 
+asr:0: OUTPUT 14.77-20.92: At this time I would like to turn the conference over to Mr. Alistair Dalgadzhi, Investor Relations and Corporate Finance Director. 
+asr:0: OUTPUT 21.44-22.98: Mr. Yatee, you may now proceed. 
+asr:0: OUTPUT 24.02-26.11: Thank you Konstantinos. Hello everyone. 
+asr:0: OUTPUT 26.37-35.66: Welcome to Turkcell's third quarter financial and operational results call. Today's speakers are our CEO Mr. Murat Erkan and our CFO Mr. Osman Yilmaz. 
+asr:0: OUTPUT 36.44-40.62: They will be delivering a brief presentation and afterwards, they may take in your questions. 
+asr:0: OUTPUT 41.48-50.45: Before we start, I'd like to kindly remind you to review the last page of this presentation for our safe harbor statement. Now I hand over to Mr. Erkan. 
+asr:0: OUTPUT 51.73-59.20: Thank you, Serdar. Good morning and good afternoon to all. Welcome to our presentation and thank you for joining us. 
+asr:0: OUTPUT 60.26-65.51: In the third quarter, we recorded 22.3% revenue growth. 
+asr:0: OUTPUT 65.53-74.07: And our EBITDA reached 4 billion TL for the first time, implying an EBITDA margin of 43%. 
+asr:0: OUTPUT 74.09-75.76: 43.1%. 
+asr:0: OUTPUT 77.64-84.32: Growing 18% year on year, we recorded a net income of 1.4 billion Turkish Liras. 
+asr:0: OUTPUT 85.19-92.63: An all-time high quarterly figure. Net income settled above 1 billion TL run rate per quarter. 
+asr:0: OUTPUT 94.11-101.22: Our customer-centric strategy diversifies business model and focuses on mobile and fixed network quality. 
+asr:0: OUTPUT 101.24-104.28: Are the key factors of sustainable performance. 
+asr:0: OUTPUT 104.82-108.83: Which was further supported by increased mobility in the squad. 
+asr:0: OUTPUT 110.23-112.15: This strategy has enabled us. 
+asr:0: OUTPUT 112.17-120.82: Continue outstanding growth in total subscribers by 1.2 million, which marks the record of the past 14 years. 
+asr:0: OUTPUT 121.94-132.99: In the first nine months of the year, we gained a total of 2.5 million subscribers, further strengthening the subscriber base for the upcoming terms. 
+asr:0: OUTPUT 134.51-141.60: The output trend remains robust at 12% for mobile and 10% for residential fiber. 
+asr:0: OUTPUT 142.78-153.51: Lastly, this quarter, the revenue share of digital channels in consumer sales rose to 17%, increasing 5 percentage points year on year. 
+asr:0: OUTPUT 155.06-162.56: We have also distributed the last installment of the 2021 dividend on October 27. 
+asr:0: OUTPUT 163.78-172.21: In consideration of these solid results, we further increase our full year guidance, which I will elaborate on my last slide. 
+asr:0: OUTPUT 172.25-174.73: Next slide. 
+asr:0: OUTPUT 176.18-179.32: Here we see the operational performance of the third quarter. 
+asr:0: OUTPUT 180.22-187.97: In all three fronts, mobile, fixed, broadband and IPTV, we delivered a strong NetEdge performance. 
+asr:0: OUTPUT 188.87-198.56: On the mobile front, we gained a net 464,000 postpaid and 643,000 prepaid subscribers. 
+asr:0: OUTPUT 199.68-202.38: This outstanding performance was achieved. 
+asr:0: OUTPUT 202.40-211.47: Through our customer focus offer, innovative service portfolio, and also support by increased mobility, thanks to vaccination. 
+asr:0: OUTPUT 212.47-221.82: High net-at-performance in prepaid subscribers is due to the visit of Turks living abroad after lifting of restrictions in international travel. 
+asr:0: OUTPUT 223.20-229.57: The average monthly mobile chore rate was at 1.9 percent, well below that of the last year. 
+asr:0: OUTPUT 230.27-235.28: And we believe around 2% monthly churn is a healthy level in this market. 
+asr:0: OUTPUT 236.54-242.90: Blended mobile ARPA rolls to 58% 58 Turkish lira on 12% increase. 
+asr:0: OUTPUT 243.14-252.39: Thanks to higher post-paid subscriber base, upsell to higher tariffs, price adjustments, and increased data and digital service users. 
+asr:0: OUTPUT 253.69-267.59: Also, our AI-based analytical capabilities, we observe strong upsell levels and the incremental that an upsell postpaid customer pays in two times that of same quarter last year. 
+asr:0: OUTPUT 269.49-271.23: In the fixed broadband segment. 
+asr:0: OUTPUT 271.25-280.80: Amid the prevailing demand for high-speed connections with the back-to-school period, we gained net 60,000 fiber subscribers. 
+asr:0: OUTPUT 280.82-283.40: With our high-speed fiber internet offers. 
+asr:0: OUTPUT 284.10-291.71: Our rollout plans are on track as we exceeded 400,000 new home passes in the first nine months. 
+asr:0: OUTPUT 292.29-297.54: This quarter, we also welcome our 25th city in our fiber network. 
+asr:0: OUTPUT 299.14-308.17: We are pleased to register a further 51,000 net additions to our IPTV subscribers exceeding 1 million customers this quarter. 
+asr:0: OUTPUT 309.05-315.34: IPTV's penetration within the residential fiber subscriber reached 63% accordingly. 
+asr:0: OUTPUT 316.46-322.50: Residential fiber arbor rose to 79 Turkish lira on 10% growth. 
+asr:0: OUTPUT 322.52-328.29: 13% annual fiber subscriber growth should be taken into consideration. 
+asr:0: OUTPUT 328.99-334.23: Where we aim to manage a delicate balance between ARPA growth and net addition. 
+asr:0: OUTPUT 336.62-340.88: Next, an update on the data usage and foreign house keys subscription trends. 
+asr:0: OUTPUT 341.98-349.03: Average mobile data usage rose 12% year-on-year to 13.7 GB per user. 
+asr:0: OUTPUT 350.13-358.46: The rise in data consumption was due mainly to higher content consumption boosted by seasonality and lifted restrictions. 
+asr:0: OUTPUT 359.74-365.61: Out of the 34 million subscribers sign up for our health services,. 
+asr:0: OUTPUT 365.63-370.11: Around 70% have 4.5G compatible smartphones. 
+asr:0: OUTPUT 370.31-378.20: Still indicating growth potential for the upcoming quarters and implying further room for growth in data consumption. 
+asr:0: OUTPUT 379.34-387.71: Overall, smartphone penetration is at 84%, with 92% of these units being 4.5G compatible. 
+asr:0: OUTPUT 388.81-390.19: Moving on to phase six. 
+asr:0: OUTPUT 392.49-402.50: We reap the benefits of our careful plan, efforts to provide best-in-class services, which is evident by the outstanding net-ed figures in this quarter. 
+asr:0: OUTPUT 403.46-410.39: Our well-invested high-quality network and strong infrastructure is once again confirmed in the GSA report. 
+asr:0: OUTPUT 411.69-421.44: With its rich spectrum assets and well-planned modern infrastructure, Turkcell is able to provide speeds of up to 1.6 Gbps. 
+asr:0: OUTPUT 422.86-429.13: Which even exceeded the 5 GCPs provided by certain operators with this capability. 
+asr:0: OUTPUT 429.63-437.28: Turkcell ranks among the world's top three operators and is fastest foreign energy network infrastructure in Europe. 
+asr:0: OUTPUT 439.12-447.19: Our long-time invested customer-centric approach, which enables Turkcell to provide service addressing customer exact needs. 
+asr:0: OUTPUT 447.91-452.37: Has made us a winner at the European Customer Centricity Awards. 
+asr:0: OUTPUT 453.03-459.72: At Turkcell team, we have realized over 100 projects that touch the hearts of our customers. 
+asr:0: OUTPUT 460.74-465.77: Additionally, our key strengths, including data-driven personalized offer,. 
+asr:0: OUTPUT 465.79-475.02: And extensive distribution channels, both physical and digital, stand out as core factors influencing customer decision-making. 
+asr:0: OUTPUT 476.30-482.44: With all of above, customers have continued to recommend Turkcell over the competition this quarter. 
+asr:0: OUTPUT 482.92-486.07: Even extended the wide gap with the second best. 
+asr:0: OUTPUT 487.81-495.24: Next. Now our strategic focus areas, let's zoom into digital services and solutions. 
+asr:0: OUTPUT 496.10-502.98: The standalone revenue from digital services and solutions continued its strong growth at 31% year-on-year. 
+asr:0: OUTPUT 503.60-513.21: Reaching 435 million TL. The paid user base reached 3.6 million, up 0.9 million from last. 
+asr:0: OUTPUT 514.49-516.84: We are delighted to have reached. 
+asr:0: OUTPUT 516.86-524.82: Another remarkable milestone for our digital services as the IPTV user base exceeded 1 million in September. 
+asr:0: OUTPUT 525.93-530.79: TV Plus has continued to increase its share in the TV market. 
+asr:0: OUTPUT 531.53-541.24: Reaching just above 13% in Q2, and it is the only TV platform have steadily increased its share for the past 12 quarters. 
+asr:0: OUTPUT 542.32-550.65: Content and product quality enable us to increase prices, whereby the product enjoys rising retention levels. 
+asr:0: OUTPUT 552.01-562.42: With its robust infrastructure, BIP, our instant messaging platform, provides seamless communication and has reached 27 million. 
+asr:0: OUTPUT 562.44-564.70: 3 month active user this quarter. 
+asr:0: OUTPUT 565.47-567.63: Tripled from the same quarter last year. 
+asr:0: OUTPUT 568.43-577.76: A quarter of the active user base is abroad, where the leading countries are highly populated countries like Nigeria, Indonesia, and Bangladesh. 
+asr:0: OUTPUT 579.40-588.81: Our constant effort in our digital service are improving the user experience of the application and we achieve this by responding to our customer needs. 
+asr:0: OUTPUT 589.33-597.74: For instance, new features in BIP this quarter include the status posting and video group call with up to 15 people. 
+asr:0: OUTPUT 597.76-606.79: On Fizi, our digital music services, we have added over 120 podcast series. Next slide. 
+asr:0: OUTPUT 610.25-617.34: Next is the digital business services. We continue to lead end-to-end digital journey of corporate in Turkey. 
+asr:0: OUTPUT 617.92-624.94: This has resulted in a revenue of 499 million TL from digital business services this quarter. 
+asr:0: OUTPUT 626.25-633.95: Of the total revenues, 75% are service revenue, which rose by 28% year on year. 
+asr:0: OUTPUT 634.98-644.86: From the service revenues, we have seen continuous strong demand, particularly in data center and cloud business, cybersecurity services, and IoT. 
+asr:0: OUTPUT 646.43-653.41: We signed 575 new contracts with a total contract value of $221 million. 
+asr:0: OUTPUT 654.49-662.46: Overall, backlog from the System Integration Project signed to date is at 832 million TL. 
+asr:0: OUTPUT 662.90-666.57: Which will be contributing to the pipeline in the upcoming quarter. 
+asr:0: OUTPUT 667.85-673.85: This quarter, we continue our product launch in cybersecurity and cloud services. 
+asr:0: OUTPUT 674.05-680.52: WatchGuard is an economic and flexible firewall solution that works in physical and virtual systems. 
+asr:0: OUTPUT 681.24-682.96: And as the first in the country. 
+asr:0: OUTPUT 683.40-692.61: Object storage is a cloud-based solution for the further support, the vision of keeping corporate data in Turkey. Next slide. 
+asr:0: OUTPUT 694.49-697.06: Last but not least in our text in focus. 
+asr:0: OUTPUT 697.66-705.75: Tech wind services revenue rose to 281 billion TL on 37% year-on-year growth. 
+asr:0: OUTPUT 706.87-714.25: Paycel saw another remarkable quarter, topping 6 million active users on a 30% rise year-on-year. 
+asr:0: OUTPUT 715.03-721.88: The revenue saw 53% year-on-year growth, mainly with traction in the pay letter product. 
+asr:0: OUTPUT 722.92-729.67: We started to monetize POST solution which includes virtual and physical Android POST services. 
+asr:0: OUTPUT 730.55-735.18: We have installed 1.7 thousand devices at the local SMEs. 
+asr:0: OUTPUT 735.20-742.34: And also launch our virtual post solution with 900 e-commerce merchants including TÜXEL SESCHANEL. 
+asr:0: OUTPUT 743.58-752.87: This quarter, financial revenue rose 28% year-on-year due to higher interest rates and support from emerging insurance businesses. 
+asr:0: OUTPUT 754.29-763.10: Financial continues to finance technological needs of a broad range of customers, including individual residentials, SMEs and corporates. 
+asr:0: OUTPUT 763.82-773.05: Today we have scored 11 million customers and we have 24 percent market share in consumer loans below 5,000 Turkish lira. 
+asr:0: OUTPUT 774.23-782.38: One of the key strengths is assigning the right limit to the right customer based on Turkish cell loss data. 
+asr:0: OUTPUT 783.14-787.37: We have recently launched a new credit model based on machine learning. 
+asr:0: OUTPUT 788.17-796.46: Initial results indicate higher approval rates and higher limits without negatively impacting the historically low cost of risk level. 
+asr:0: OUTPUT 796.48-798.88: Next slide. 
+asr:0: OUTPUT 800.82-807.09: Let's look at our performance in the international segment, which now generates 10% of group revenue. 
+asr:0: OUTPUT 808.25-816.78: In this quarter, international revenue grew by 39% year-on-year, thanks to the expanding subscriber base in all three regions. 
+asr:0: OUTPUT 817.92-826.67: Higher mobile data consumption and the positive impact of currency movement, organic growth excluding the currency impact was at 18%. 
+asr:0: OUTPUT 828.03-839.22: Our Ukraine business has continued its strong operational performance in this quarter by reaching 8.9 million mobile subscribers on a 14% rise year-on-year. 
+asr:0: OUTPUT 840.14-848.29: Revenue growth in local currency terms was 24% yearly, exceeding 20% for the last four quarters. 
+asr:0: OUTPUT 849.37-859.26: This business has seen a 4.6% EBITDA margin improvement year on year on the back of limited interconnection costs. 
+asr:0: OUTPUT 859.28-861.76: And well-controlled operational expenses. 
+asr:0: OUTPUT 862.84-869.69: In local currency terms, Belarus' revenue declined 2 percent due mainly to lower handset sales. 
+asr:0: OUTPUT 870.03-873.49: Which on the other hand affected the EBITDA margin positively. 
+asr:0: OUTPUT 874.96-881.72: Belarus, we focus on digital subscription. In the third quarter, one of the most important. 
+asr:0: OUTPUT 881.74-888.41: One out of five new customers opted for live through digital services, digital channels. 
+asr:0: OUTPUT 890.45-904.64: Our subsidiary in Turkish Republic of Northern Cyprus recorded strong 24% growth with rising voice revenues and data usage due to increased mobility after the recovery of education services. 
+asr:0: OUTPUT 904.66-905.95: And tourism in the island. 
+asr:0: OUTPUT 910.27-914.55: I would like to end my presentation by sharing our new guidance for the full year. 
+asr:0: OUTPUT 915.86-927.13: Taking into consideration our outstanding nine-month performance and expectation for the remainder of the year, we once again revise our guidance upwards. 
+asr:0: OUTPUT 928.07-932.61: Accordingly, we raise our revenue growth guidance to around 20%. 
+asr:0: OUTPUT 933.55-942.62: Generating real revenue growth in a high inflationary environment will revise our nominal EBITDA expectations to around $1.5 billion. 
+asr:0: OUTPUT 942.64-949.07: 14.5 billion Turkish Lira and expect to register an operational capex. 
+asr:0: OUTPUT 949.09-951.73: Over cessation around 21%. 
+asr:0: OUTPUT 953.57-960.42: Lastly, as you remember, we held our last capital market day back in November 2019. 
+asr:0: OUTPUT 961.18-968.59: Since then, COVID-19 pandemic has significantly impacted our industry and the way we do business. 
+asr:0: OUTPUT 969.53-977.38: This necessitates us to revisit our plan and target in relation to the core business and strategy focus area. 
+asr:0: OUTPUT 978.20-984.84: We plan to organize a capital market day after the announcement of full year 2021 results. 
+asr:0: OUTPUT 985.45-990.15: Where we aim to reveal our revised three-year business plan and targets. 
+asr:0: OUTPUT 991.57-995.42: We will make necessary announcements regarding the details of the event in time. 
+asr:0: OUTPUT 996.64-1006.11: I will now leave the floor to our CFO Osman for the financial discussion. Thank you, Murat Bey. Now let's take a closer look into our Q3 financials. 
+asr:0: OUTPUT 1006.93-1014.31: In Q3, we recorded a 9.4 billion TL top line on 22% year-on-year growth thanks to subscriber base expansion. 
+asr:0: OUTPUT 1014.33-1020.42: Higher data and digital service revenues, coupled with contributions from international operations, tech wind and equipment sales. 
+asr:0: OUTPUT 1021.24-1029.13: The first nine-month growth exceeded 21%. Our EBITDA reached 4 billion TL level on a 19% increase. 
+asr:0: OUTPUT 1030.05-1036.60: Net income was solid at 1.4 billion TL, marking 18% yearly growth, mainly driven by solid top-line growth. 
+asr:0: OUTPUT 1037.26-1042.82: The bottom line has settled consistently above 1 billion TL with the contribution of disciplined financial risk management. 
+asr:0: OUTPUT 1043.78-1048.97: We are pleased with our solid performance which exceeded our expectations. Next slide. 
+asr:0: OUTPUT 1051.05-1059.82: Now some details on revenue and EBITDA developments. This quarter, with contribution of all segments, generated 1.7 billion TL incremental revenue. 
+asr:0: OUTPUT 1060.56-1068.95: 1 billion TL derives from Turkcell Turkey. This was possible with a larger subscriber base, upgrowth and upside efforts with price adjustments. 
+asr:0: OUTPUT 1069.87-1080.82: 258 million TL from international subsidiaries supported the top line mainly due to robust subscriber and ample performance of Ukrainian operations as well as the positive impact of currency movements. 
+asr:0: OUTPUT 1081.80-1091.77: Our Techfin segment had a 76 million TL positive impact. Paycell and Financial has supported this with an annual growth of 53 and 28 percent respectively. 
+asr:0: OUTPUT 1092.75-1098.56: The other segment contribution of 334 million TL was mainly driven by increased equipment sales. 
+asr:0: OUTPUT 1100.74-1105.29: This quarter our EBITDA margin was at 43%. 
+asr:0: OUTPUT 1105.75-1111.15: The main factors behind the 1.3 percentage points marginal contraction year-on-year were as follows. 
+asr:0: OUTPUT 1111.81-1117.20: First, minus 0.6 percentage points from gross margin. 
+asr:0: OUTPUT 1117.22-1124.08: Impacted by our energy businesses increased cost of goods sold and rising radio costs due to higher energy prices. 
+asr:0: OUTPUT 1124.48-1134.79: And secondly, minus 0.7 percentage points from S&M expenses, mainly due to increased selling expenses on back of record high net heads during the quarter. Next slide. 
+asr:0: OUTPUT 1136.88-1139.28: Now a few words on our balance sheet and leverage. 
+asr:0: OUTPUT 1140.02-1145.77: Our total debt increased by 700 million TL in this quarter, mainly due to the currency movement. 
+asr:0: OUTPUT 1146.57-1154.45: A cash position of around $1.4 billion equivalent, which is mainly in FX, covers our debt service until 2025. 
+asr:0: OUTPUT 1155.54-1164.22: We maintained our leverage below one time in this quarter, despite the second installment of last year's dividend amounting to 862 million TL. 
+asr:0: OUTPUT 1165.43-1171.07: Excluding the financing business, this was at 0.8 times the same level as the previous quarter. 
+asr:0: OUTPUT 1172.43-1181.38: We generated just over 1 billion TL of free cash flow thanks to strong operational performance as well as relatively lower capex in this quarter. Next slide. 
+asr:0: OUTPUT 1183.32-1190.85: Now I will go into the management of foreign currency risk. We continue to hold the bulk of our cash in hard currencies as a natural hedging tool. 
+asr:0: OUTPUT 1191.57-1198.46: With hedging instruments in place, the share of FX debt declined from 83% to 51% as of the end of this quarter. 
+asr:0: OUTPUT 1199.24-1203.92: Our hedge contracts are cash flow hedges and covering the full maturity of related FX liabilities. 
+asr:0: OUTPUT 1205.07-1214.45: We were in a long net FX position of $122 million as at the end of Q3, and we continue to target a neutral to long FX position going forward. Next slide. 
+asr:0: OUTPUT 1217.02-1223.92: Now let's take a closer look at our FinTech company's performance and start with our financing business, Finansel. 
+asr:0: OUTPUT 1224.78-1233.59: As we communicated before, in line with our expectations, the negative trend in finance and financials portfolio ended in Q2 and the growth has gradually restarted. 
+asr:0: OUTPUT 1234.51-1242.50: Revenues rose by 28% year-on-year on the back of higher average interest rates on the portfolio versus last year and growing insurance revenue. 
+asr:0: OUTPUT 1243.34-1247.25: We expect to sustain the loan portfolio at around 2 billion TL by the year-end. 
+asr:0: OUTPUT 1248.45-1254.15: EBITDA rose by 24% to around 120 million TL with a margin of 73%. 
+asr:0: OUTPUT 1254.79-1263.74: The 2.3% margin contraction is due to the base effect as we sold some of our debt receivables in Q3 2020. 
+asr:0: OUTPUT 1265.19-1272.73: As a result of strong collection performance and improvements in the customer portfolio, cost of risk has been declining since the start of this year. 
+asr:0: OUTPUT 1273.59-1280.30: Cost of risk has remained nearly unchanged at 0.3% for this quarter. Next slide. 
+asr:0: OUTPUT 1282.38-1284.70: Lastly, our payments business, Payset. 
+asr:0: OUTPUT 1285.63-1294.51: In line with the global trends, Paycel users continue their payment habits in the post-pandemic period, which is reflected in Paycel's solid operational and financial performance. 
+asr:0: OUTPUT 1295.38-1303.68: PayCell continued to see increased recognition with the contribution of rising active customers and merchant numbers in Q3. 
+asr:0: OUTPUT 1304.46-1310.59: In fact, Paycels 3 month active users reached 6 million and the number of merchants hit 14,000. 
+asr:0: OUTPUT 1312.19-1317.34: The most popular product on our platform, PayLater, delivered another strong performance in Q3. 
+asr:0: OUTPUT 1318.04-1323.32: Pay later volume rose by 84% to 455 million TL year on year. 
+asr:0: OUTPUT 1324.42-1331.55: Transaction volume of Paysal card has increased to sixfold of the same period last year and reached 657 million Tl. 
+asr:0: OUTPUT 1333.07-1338.54: As you may remember, at the beginning of the year, we launched Android Post for our corporate customers. 
+asr:0: OUTPUT 1339.38-1348.91: Focusing on virtual POS as well, we shifted TruXell payment channels to PayCell's virtual POS, providing a revenue channel for PayCell and saving for TruXell. 
+asr:0: OUTPUT 1350.49-1357.40: Thanks to our increased focus on this business, POS transaction volume reached 475 million TL in this quarter. 
+asr:0: OUTPUT 1358.70-1366.89: Overall, in Q3, Paycell revenues increased by 53% to 119 million TL, 55% of which are non-group revenues. 
+asr:0: OUTPUT 1367.79-1374.75: EBITDA margin was at 46% impacted by increased human capital investments and S&M expenditures. 
+asr:0: OUTPUT 1375.76-1381.62: With its unique product range and disruptive nature, Paycel has already taken its place among regional fintech leaders. 
+asr:0: OUTPUT 1382.22-1388.89: As disclosed earlier, we are seeking growth capital to scale this business further in Turkey and then globally. 
+asr:0: OUTPUT 1389.55-1393.77: This concludes our presentation. We are now ready to take your questions. Thank you very much. 
+asr:0: OUTPUT 1395.92-1400.14: The first question is from the line of Kennedy Good Jonathan with JP Morgan. Please go ahead. 
+asr:0: OUTPUT 1400.86-1406.91: Good evening and thanks for the opportunity to ask questions. My first question on pay cell. 
+asr:0: OUTPUT 1407.71-1415.88: Could you give us a sense of what the total payment value across the platform is at the moment and the growth rate there? 
+asr:0: OUTPUT 1416.44-1423.60: And then just wanted to understand why bill payments have declined during the quarter. 
+asr:0: OUTPUT 1424.58-1426.77: That's first question. Second question. 
+asr:0: OUTPUT 1428.59-1435.80: I wanted to understand how your pricing strategy is evolving at the moment given inflation rates. 
+asr:0: OUTPUT 1435.82-1438.22: And whether you can push. 
+asr:0: OUTPUT 1438.24-1446.85: Mobile ARPU growth at higher rates than what you've seen at the moment or whether that's hoping for too much into the new year? 
+asr:0: OUTPUT 1453.19-1459.82: Thank you very much. For the first question regarding total payment is around 500 million Turkish Lira. 
+asr:0: OUTPUT 1459.94-1463.92: Up and down around 500. 
+asr:0: OUTPUT 1464.50-1473.79: And the bill payment is, you know, because it moves from physical channel to the digital channel. 
+asr:0: OUTPUT 1474.15-1482.72: So that's why you might see the diagram, but we see growth, but when it moves to the digital channel, we can get it. 
+asr:0: OUTPUT 1483.16-1493.05: For the pricing strategy, obviously, to be able to grow the business, there are two options in your hand. 
+asr:0: OUTPUT 1493.49-1498.88: One of them is growing subscriber base and the other one is growing to R-pool. 
+asr:0: OUTPUT 1499.46-1501.56: So we would like to push both of them. 
+asr:0: OUTPUT 1502.10-1506.73: This is our strategy since two years to and a half years back. 
+asr:0: OUTPUT 1507.09-1516.94: So we would like to push our, and on the other hand, the inflation was increasing more than expected by the market. 
+asr:0: OUTPUT 1517.04-1523.82: So our initial plan was in terms of inflation, it's not going to grow that much. 
+asr:0: OUTPUT 1524.20-1533.87: We are adopting ourselves based on pricing, but as you know, we have a contract with the customer for 12 months. 
+asr:0: OUTPUT 1533.99-1537.92: So it will take some time to catch up the real inflation. 
+asr:0: OUTPUT 1538.16-1544.36: Are we going to push to reach inflationary pricing? 
+asr:0: OUTPUT 1544.60-1550.65: It was quite fast in terms of our expectation, but we'll catch it up. 
+asr:0: OUTPUT 1550.97-1560.00: On the other hand, I would like to emphasize our customer growth because if you want to pick one,. 
+asr:0: OUTPUT 1560.28-1569.49: I would prefer on the customer growth side because at the end of the day we can create more value from one customer especially. 
+asr:0: OUTPUT 1570.21-1577.46: We have other businesses like Paycel, Financel, and digital services and so on. 
+asr:0: OUTPUT 1577.70-1579.20: If we catch customer. 
+asr:0: OUTPUT 1579.32-1589.87: We can easily increase their ARPA level in near term. So that's why we would like to continue on the table. 
+asr:0: OUTPUT 1590.23-1599.86: So regarding growth rate, it is around 85% for payment in PESA, 84% range. 
+asr:0: OUTPUT 1601.20-1603.08: I came back to the first question. 
+asr:0: OUTPUT 1609.53-1614.25: The next question is from a line of Kim Ivan with Excel's Capital. Please go ahead. 
+asr:0: OUTPUT 1616.74-1619.70: Thank you. 
+asr:0: OUTPUT 1620.16-1628.85: Firstly, on 5G auction, when do you expect the 5G auction and what spectrum do you expect to be sold? Is it C-band and 700 MHz? 
+asr:0: OUTPUT 1629.35-1633.63: That's one. Two, on capital intensity in 22. 
+asr:0: OUTPUT 1633.81-1643.64: So how do we think about it compared to 2021? Do you think capital and tests will increase in 2022 compared to 2021 given where the leader is? 
+asr:0: OUTPUT 1644.52-1648.17: And then thirdly, on basal state grades. 
+asr:0: OUTPUT 1648.99-1655.78: It's pretty high, 3% in 2020 and 3.5% if you look at the third quarter of 2021. 
+asr:0: OUTPUT 1656.68-1662.16: Where do you expect that they create to evolve when the business scales. Thank you. 
+asr:0: OUTPUT 1665.27-1667.51: Thank you very much, Ivan Kim. 
+asr:0: OUTPUT 1667.87-1673.95: First of all, regarding 5G roadmap and options,. 
+asr:0: OUTPUT 1674.47-1679.82: Obviously there is no official timeline for 5G announced by the regulator. 
+asr:0: OUTPUT 1680.20-1688.81: There are a number of explanations or announcements coming from the Ministry. 
+asr:0: OUTPUT 1689.09-1692.55: But obviously we have to wait for official announcement. 
+asr:0: OUTPUT 1693.15-1695.16: 5G is vital technology. 
+asr:0: OUTPUT 1695.64-1703.70: We would like to facilitate this on the digitalization of industry and contribute to the economic development of our country. 
+asr:0: OUTPUT 1704.54-1710.79: However, we believe there are some issues that need to be addressed for the healthy lunch. 
+asr:0: OUTPUT 1710.95-1714.15: First is the fiber connection of base station. 
+asr:0: OUTPUT 1714.65-1723.24: Currently, similar to the low household penetration, fiber connectivity of base station is not enough for the full-fledged transition to 5G. 
+asr:0: OUTPUT 1724.10-1731.75: Secondly, we believe we have not reached a desired localization rate in the development of 5G network equipment. 
+asr:0: OUTPUT 1732.37-1737.90: We think localization rate can only be reached around 20% in 2023. 
+asr:0: OUTPUT 1738.52-1742.22: This could be even lower for the core network and base station level. 
+asr:0: OUTPUT 1742.32-1750.01: Therefore, we believe there are some risks for the full-fledged transition to the local 5G network. 
+asr:0: OUTPUT 1751.31-1758.90: Regarding the license costs or CAPEX side, first of all, auction structure is not clear yet. 
+asr:0: OUTPUT 1759.72-1762.38: And we don't have an official timeline. 
+asr:0: OUTPUT 1763.56-1770.45: Which limits us in making an estimate regarding a possible capex or frequency payment? 
+asr:0: OUTPUT 1771.21-1778.36: The difference between 4.5G and 5G is that 4.5G was a great leap over 3G. 
+asr:0: OUTPUT 1779.30-1783.12: In terms of speed, particularly for the individual users. 
+asr:0: OUTPUT 1783.64-1792.63: Therefore, we need some time to see how it's going to end up for the probably end of this year. 
+asr:0: OUTPUT 1793.41-1798.08: For the CAPEX plan 2022 and allocation,. 
+asr:0: OUTPUT 1798.74-1806.69: We have not finalized our budget planning for the next year and we will give 2020 guidance when we announce our full year result. 
+asr:0: OUTPUT 1807.99-1816.18: But I don't expect a major increase on the topic side, even a little bit decrease. 
+asr:0: OUTPUT 1816.22-1822.16: Because we spent CAPEX earlier than expected this year. 
+asr:0: OUTPUT 1822.52-1830.01: And we get positive results due to the effects fluctuation. 
+asr:0: OUTPUT 1830.49-1836.78: So next year, probably we're going to spend a little more capex on the fixed line on the fiber side. 
+asr:0: OUTPUT 1836.82-1844.70: Little less on the mobile so more or less we're gonna we would like to keep similar level on the on the compact side. 
+asr:0: OUTPUT 1846.55-1853.75: Sorry for the third question. Could you repeat the third question? It was regarding PayCell, but I couldn't catch the third question. 
+asr:0: OUTPUT 1855.02-1863.92: Yes, of course. On PayCell, just a quick question on its take rate. So basically if you take PayCell's revenue and divide it by total payment volume,. 
+asr:0: OUTPUT 1864.88-1872.19: It's pretty high by international standards, 3% in 2020. If you look at the third quarter of 2021, it's 3.5%. 
+asr:0: OUTPUT 1872.81-1877.12: I was just wondering where do you expect that to settle when the business scales? Thank you. 
+asr:0: OUTPUT 1880.50-1884.92: OK, let me give the word to Osman, he'll answer your question. 
+asr:0: OUTPUT 1885.67-1893.25: Yes, actually Paysal started this business as a business unit within the group and then it became a standalone company. 
+asr:0: OUTPUT 1893.29-1899.30: And now we are expanding Paycel revenues outside of the group and now more than half of the revenues are coming out of the group. 
+asr:0: OUTPUT 1899.78-1905.79: Actually, the intensity of revenues over total turnover. 
+asr:0: OUTPUT 1905.85-1909.97: Is partly on back of the two factors. First factor is. 
+asr:0: OUTPUT 1909.99-1911.75: Group revenues. 
+asr:0: OUTPUT 1912.09-1917.36: And the second but more important factor is our lending business, pay later business. 
+asr:0: OUTPUT 1918.04-1924.26: Many payment companies do not have this pay later business which is relatively more profitable part of the FinTech business. 
+asr:0: OUTPUT 1924.66-1926.73: You can see some international examples. 
+asr:0: OUTPUT 1926.97-1936.00: There are companies, fintech companies, payment service companies, which are only processing payments and doing remittances. And on the other hand, there are pay later businesses. 
+asr:0: OUTPUT 1936.60-1939.32: Which have higher profitability and higher growth scale. 
+asr:0: OUTPUT 1939.64-1944.62: We are combination of both. We either have a high volume turnover. 
+asr:0: OUTPUT 1944.94-1951.25: On the other hand, we have a higher profitability thanks to our strong penetration in prepaid. 
+asr:0: OUTPUT 1951.57-1953.53: What we are aiming going forward. 
+asr:0: OUTPUT 1953.55-1960.88: Is to first to penetrate in overall Turkish market. We are expanding our footprint outside of Turkish Turkcell Group. 
+asr:0: OUTPUT 1961.24-1967.49: We are aiming to double our customer base in a couple of years. 
+asr:0: OUTPUT 1967.79-1972.31: And then we want to expand regionally and then later on globally. 
+asr:0: OUTPUT 1972.95-1982.58: That is why we are seeking growth capital for this business, but we will not be doing that at the expense of negative EBITDA. 
+asr:0: OUTPUT 1982.76-1988.21: Are negative profitability. We will keep the healthy balance sheet while doing this growth. 
+asr:0: OUTPUT 1997.98-2004.24: Hello and thank you for the presentation. 
+asr:0: OUTPUT 2004.32-2006.89: I have one follow-up and three questions if I may. 
+asr:0: OUTPUT 2006.95-2018.08: The follow up pertains to the fiber connectivity on towers that you mentioned as a kind of prerequisite to you think, you know, running the 5G auction properly. So can you expand on that? 
+asr:0: OUTPUT 2018.10-2020.18: Does that mean perhaps that you are. 
+asr:0: OUTPUT 2020.44-2024.54: You know, kind of, or you would be kind of pushing for a. 
+asr:0: OUTPUT 2024.56-2029.03: So, some kind of large scale regulated fiber access needed. 
+asr:0: OUTPUT 2029.05-2035.82: Across the market to connect base stations across the operators for 5G to really. 
+asr:0: OUTPUT 2035.86-2037.58: Be successful. Is this what you mean? 
+asr:0: OUTPUT 2038.18-2045.91: And then the free questions, I believe you mentioned four hundred thousand homes passed in terms of fiber year to date. 
+asr:0: OUTPUT 2046.97-2060.12: Can you give us an idea in terms of the take-up on that footprint so far and where this take-up is coming from, whether these are greenfield customers or whether you're perhaps taking market share in some areas? 
+asr:0: OUTPUT 2060.90-2064.62: Second question, if I may understand in terms of your topics. 
+asr:0: OUTPUT 2064.64-2072.23: Guidance. You are now guiding for the low-end. I know it's not a huge difference, but with the Lira having depreciated again in the fourth quarter,. 
+asr:0: OUTPUT 2072.27-2075.22: What has changed in your plans? 
+asr:0: OUTPUT 2075.74-2085.51: Third question, a quick one on Ukraine. One of your peers is looking at doing something with their towers. 
+asr:0: OUTPUT 2086.01-2094.37: In Ukraine, is this also an area, I know you're doing that in Turkey, but is it also something that you're looking at in Ukraine? Thank you. 
+asr:0: OUTPUT 2098.02-2099.40: Thank you very much for the... 
+asr:0: OUTPUT 2099.46-2101.92: Fiber connectivity. 
+asr:0: OUTPUT 2102.10-2106.29: In Turkey overall, I'm talking about all operators,. 
+asr:0: OUTPUT 2106.31-2113.55: The reaching to the base station with the fiber is around less than 40%. 
+asr:0: OUTPUT 2114.25-2118.70: And even incumbent operator has less than 50%. 
+asr:0: OUTPUT 2119.26-2125.17: So in this case, without fiber reaching to the base station,. 
+asr:0: OUTPUT 2125.19-2129.87: It is difficult to give proper 5G services. 
+asr:0: OUTPUT 2130.45-2137.68: On the other hand, for existing base station numbers like around 100,000 for whole operator,. 
+asr:0: OUTPUT 2138.10-2145.61: Probably when we go to the 5G, it's going to be maybe 10 times higher, the base station. 
+asr:0: OUTPUT 2145.93-2155.28: So the fiber connectivity and fiber reaching fiber with the proper connection, this is mandatory. 
+asr:0: OUTPUT 2155.90-2160.00: Regarding 400K home pass years late, so... 
+asr:0: OUTPUT 2161.20-2166.55: It is, we're going to see the increase in demand on the fiber. 
+asr:0: OUTPUT 2167.69-2175.22: So our take-up rate for this segment is around more than 20% for the first year. 
+asr:0: OUTPUT 2175.74-2180.30: But to reach the real take-up rate is around 45%. 
+asr:0: OUTPUT 2180.72-2184.04: So we are faster than our business case. 
+asr:0: OUTPUT 2184.60-2191.81: So there are existing Greenfield customers as well as the customers from the competition. 
+asr:0: OUTPUT 2192.25-2201.54: So in terms of market share, I believe we have more than 50% in the area where we reach. 
+asr:0: OUTPUT 2202.20-2211.19: For. 
+asr:0: OUTPUT 2211.51-2218.70: First of all, we did advance payment to the supplier by lowering the cost of equipment. 
+asr:0: OUTPUT 2219.56-2224.06: So which help us, our CAPEX management? 
+asr:0: OUTPUT 2224.36-2232.23: The second one is we decided to invest earlier than expected, which means first half of this year. 
+asr:0: OUTPUT 2232.31-2234.67: So, which is front-loaded investment. 
+asr:0: OUTPUT 2234.79-2239.24: So this is going to help us to address the CAPEX guidance level. 
+asr:0: OUTPUT 2239.78-2248.29: So for the CAPEX guidance, even though we see a dramatic increase on the effects side, we don't want to change our guidance. 
+asr:0: OUTPUT 2248.87-2251.55: For Ukraine,. 
+asr:0: OUTPUT 2252.45-2261.58: I have no idea what the peers are doing on the tower side. 
+asr:0: OUTPUT 2262.44-2267.63: I don't want to comment on things that I have no clue about. 
+asr:0: OUTPUT 2270.15-2277.06: Thank you very much. If I may just a quick follow up in terms of the connected to you. So you mentioned, you know, 50% of. 
+asr:0: OUTPUT 2277.08-2280.58: Even for the incumbent for the market about 40%. 
+asr:0: OUTPUT 2281.18-2286.95: But what is your proposal then? What do you think needs to be sorted for the 5G auction to make sense at this stage? 
+asr:0: OUTPUT 2289.09-2291.53: Obviously, we publicly announced our proposal. 
+asr:0: OUTPUT 2291.85-2293.65: Turkey needs common. 
+asr:0: OUTPUT 2293.67-2298.06: Infrastructure company, common investment portfolio,. 
+asr:0: OUTPUT 2298.08-2309.53: Because if everybody invests on expensive fiber side, it doesn't help country's economy, it doesn't help for services side of it. 
+asr:0: OUTPUT 2309.81-2319.06: If we invest CAPEX underground, we will probably run out of money to give services to the customers. 
+asr:0: OUTPUT 2319.84-2321.80: Digital services I mean. 
+asr:0: OUTPUT 2322.16-2330.77: That's the, you know, this one proposal on the table, let's have common investment on fiber. 
+asr:0: OUTPUT 2330.97-2339.06: Let's compete on the services side, not the infrastructure side, because infrastructure competition is old world competition. 
+asr:0: OUTPUT 2340.74-2352.67: Understood. If I may, sir, you want a final one? What do you think needs to happen for a common infrastructure company to be a reality in Turkey? What do you think needs to happen? Thank you. 
+asr:0: OUTPUT 2353.71-2361.08: I think the wise way and intelligent way to establish this thing. 
+asr:0: OUTPUT 2361.38-2370.29: I think the ministry has the vision to implement such a common infrastructure company. 
+asr:0: OUTPUT 2370.97-2375.62: And there are, you know, the intention to do so. 
+asr:0: OUTPUT 2376.06-2381.84: So we'll see what's going to happen, but I think the vision is there. The vision of the Prime Minister. 
+asr:0: OUTPUT 2381.90-2388.79: Sorry, President is there, the vision of Ministry of Transportation and Communications is there, so... 
+asr:0: OUTPUT 2388.81-2389.91: I think. 
+asr:0: OUTPUT 2390.45-2392.03: This is the wise way. 
+asr:0: OUTPUT 2393.79-2402.90: And obviously, telecom concession has uncertainty. Recently, the Minister of Communication also told that. 
+asr:0: OUTPUT 2403.00-2406.63: This uncertainty sometimes blocks some of the things. 
+asr:0: OUTPUT 2407.03-2415.56: But I think reasonable people understand that Turkey needs common fiber infrastructure. 
+asr:0: OUTPUT 2417.66-2418.66: Thank you very much. 
+asr:0: OUTPUT 2422.38-2426.83: The next question is from a LAN of Naginora with Erste Group. Please go ahead. 
+asr:0: OUTPUT 2429.27-2432.77: Thank you for the presentation. Only one question from my side, please. 
+asr:0: OUTPUT 2433.65-2438.50: Do you plan to take the fixed assets revaluation by a new legislation? 
+asr:0: OUTPUT 2439.18-2448.43: So that to use that as a deferred tax income release as we have seen in case of third telecom. Thank you. 
+asr:0: OUTPUT 2452.29-2460.62: Let's ask one to take this question. Actually, we disclose same application in our Q2 financials. 
+asr:0: OUTPUT 2461.44-2470.95: And there are further opportunities on our balance sheet which we are evaluating further and we will decide on this issue in our year-end financials. 
+asr:0: OUTPUT 2483.36-2488.25: The next question is a follow-up question from the line of Kabat-Zech, Andre with UBS. Please go ahead. 
+asr:0: OUTPUT 2490.29-2498.98: Thank you. Just one follow-up, please, in terms of the other headlines that we saw today with you looking for monetizing the. 
+asr:0: OUTPUT 2499.00-2500.18: The FinTech business. 
+asr:0: OUTPUT 2500.20-2507.57: Is it still the case that you prefer a strategic partner who would help you develop this business from a minority? 
+asr:0: OUTPUT 2507.59-2510.25: Perspective or are you. 
+asr:0: OUTPUT 2510.45-2517.90: You know, are you in a different place compared to the past couple of quarters where you were kind of suggesting this would be the preferred option? Thank you. 
+asr:0: OUTPUT 2520.00-2528.43: Thank you. First of all, regarding the monetization or strategic partnership things,. 
+asr:0: OUTPUT 2528.79-2538.38: It was not secret, we were talking about Super Online, we were talking about our tower business, we were talking about Paycel and FinTech side. 
+asr:0: OUTPUT 2538.74-2544.08: So I think this is a good opportunity. 
+asr:0: OUTPUT 2544.20-2554.07: And we are planning to offer minority stake and the partner we're looking for should ideally be able to contribute to Paysas growth story. 
+asr:0: OUTPUT 2554.33-2556.14: Not only provide growth capital. 
+asr:0: OUTPUT 2556.78-2562.92: We should be able to share know-how, make expansion plans, and make sure that the business. 
+asr:0: OUTPUT 2562.94-2568.31: Further evolves and potentially get ready for an IPO in the next couple of years. 
+asr:0: OUTPUT 2570.77-2580.00: Thank you. 
+asr:0: OUTPUT 2580.04-2581.18: Please go ahead. 
+asr:0: OUTPUT 2582.52-2593.17: Hi, thank you very much for the presentation on the pay cell side. Do you have some kind of evaluation range for the stake cell? 
+asr:0: OUTPUT 2593.27-2603.06: The second question related to the first remark about the inflationary pricing and the inflationary. 
+asr:0: OUTPUT 2603.46-2611.75: If I understand right, you expect the blended IP group at least to converge to somewhere close to the inflation. 
+asr:0: OUTPUT 2612.59-2621.26: The third question is about the training operations. I think for the past couple of quarters, the operations are performing quite well. 
+asr:0: OUTPUT 2621.42-2624.22: I mean, could you give us some color on that? 
+asr:0: OUTPUT 2624.82-2632.57: I think particularly subscriber additions are strong because of market share and all the market is growing. Thank you. 
+asr:0: OUTPUT 2637.12-2646.57: First of all regarding Payset, obviously Payset is one of our most important and valuable assets. 
+asr:0: OUTPUT 2646.85-2650.09: Not just PESEL, also we have other access as well. 
+asr:0: OUTPUT 2650.61-2656.38: We disclose the company's financial and operational metrics every quarter in our presentation. 
+asr:0: OUTPUT 2656.84-2662.12: And we were quite open to the market as well. 
+asr:0: OUTPUT 2664.02-2674.97: And we all know the fintechs and payment companies around the world enjoy the quite high multiples, and thanks to their disruptive nature and unique growth profiles. 
+asr:0: OUTPUT 2675.64-2682.42: And these companies are mostly having negative EBITDAs, which makes their valuation to be based on their revenues. 
+asr:0: OUTPUT 2683.20-2688.75: But our paycell has a positive EBITDA margin with strong growth profile. 
+asr:0: OUTPUT 2689.41-2696.90: Thanks to its diversified business model involving group and non-group revenue as well as individual user and merchants. 
+asr:0: OUTPUT 2698.06-2704.58: Both in terms of revenue growth and EBITDA margin, pay cell is a unique business. 
+asr:0: OUTPUT 2705.15-2712.21: So everybody can do the math for the variation by using the global revenue and EBITDA multiples. 
+asr:0: OUTPUT 2712.51-2716.40: That's the valuation of Peser per global average. 
+asr:0: OUTPUT 2717.72-2723.14: Regarding about inflation pricing, ARPU growth, and so on. 
+asr:0: OUTPUT 2723.40-2732.57: I think I've tried to explain that we would like to keep our output in line with the inflation increase. 
+asr:0: OUTPUT 2732.99-2739.90: As I said, our initial plan was not expecting that much increase on the inflation side. 
+asr:0: OUTPUT 2740.32-2746.39: So to be able to adapt inflation increase, sometimes we need time. 
+asr:0: OUTPUT 2746.71-2755.90: So I believe that we're going to catch the inflation. I hope inflation is not going to go same speed as we see today. 
+asr:0: OUTPUT 2756.12-2758.90: So we can catch this in a while. 
+asr:0: OUTPUT 2759.20-2763.84: But on the other hand, we shouldn't forget that we are gaining customers. 
+asr:0: OUTPUT 2764.90-2771.91: Two and a half million customers at the beginning of the year. 
+asr:0: OUTPUT 2772.31-2782.10: So this customer, when we get the customer, we put them into the system and provide upsell opportunities for this customer. 
+asr:0: OUTPUT 2782.62-2790.01: And sell other products like Paycell, digital services, TV and so on. 
+asr:0: OUTPUT 2790.45-2799.84: So it will take some time to get acceptable RPO level for the customer who come recently. 
+asr:0: OUTPUT 2800.40-2810.91: So we have quite important system in terms of using AI and other technology, customer centricity, and so on. 
+asr:0: OUTPUT 2811.23-2815.68: We're going to get to the acceptable level. 
+asr:0: OUTPUT 2816.36-2820.86: Regarding Ukraine operation, we actually. 
+asr:0: OUTPUT 2820.96-2829.29: This is not the result of last quarter. We have focus on Ukraine last couple of years. 
+asr:0: OUTPUT 2829.65-2837.12: We invested in the area where we have weak network and captured the customer. 
+asr:0: OUTPUT 2837.34-2844.20: So we probably got to continue on the customer side in a similar level. 
+asr:0: OUTPUT 2844.32-2850.59: I would like to remind that our subscriber growth is 14% year-over-year. 
+asr:0: OUTPUT 2851.25-2856.30: Are to grow with 9 percent. It's above the inflation of Ukraine. 
+asr:0: OUTPUT 2856.78-2860.90: Plus, we are doing better than the competition. 
+asr:0: OUTPUT 2861.28-2866.11: And we are gaining market share in terms of revenue, in terms of customer as well. 
+asr:0: OUTPUT 2866.29-2873.55: And we're growing almost double percentage point versus the competition. 
+asr:0: OUTPUT 2874.73-2881.80: So we're going to keep grabbing market share and our expectation is there as well. 
+asr:0: OUTPUT 2883.66-2888.09: Thank you. And as a follow-up on the subscriber edition of Gainster,. 
+asr:0: OUTPUT 2888.15-2890.07: You can click on the link in the description. 
+asr:0: OUTPUT 2890.11-2898.34: Current case of addition developing towards 1 million very early and more realistic. 
+asr:0: OUTPUT 2898.36-2899.50: Number for the next. 
+asr:0: OUTPUT 2901.34-2908.77: To be honest, we are in the telephone business, we are in the technology business, we are in the services business. 
+asr:0: OUTPUT 2909.29-2910.95: And we are in tech field business. 
+asr:0: OUTPUT 2911.31-2919.74: And so on. So to be able to be successful in this area, you need to get more customers. 
+asr:0: OUTPUT 2920.14-2925.61: So our gaining customers strategy will continue. 
+asr:0: OUTPUT 2926.09-2928.57: We hope to see another million next year. 
+asr:0: OUTPUT 2929.47-2933.11: As I mentioned, this year is our sending year. 
+asr:0: OUTPUT 2933.75-2944.74: And having such a customer is very important for next year revenues as well because you gain this year, you spend subscriber acquisition cost this year. 
+asr:0: OUTPUT 2944.76-2948.29: But you get the real revenue for next year. 
+asr:0: OUTPUT 2948.33-2950.73: The strategy is in line. 
+asr:0: OUTPUT 2951.21-2959.18: We are executing well on the operations side and we hope to continue this level. 
+asr:0: OUTPUT 2961.84-2966.53: Thank you and congratulations on the good results. 
+asr:0: OUTPUT 2970.65-2978.44: Ladies and gentlemen, there are no further questions at this time. I will now turn the conference over to Turks of Management for any closing comments. Thank you. 
+asr:0: OUTPUT 2980.50-2983.96: First of all, I would like to thank everyone to join our conference call. 
+asr:0: OUTPUT 2985.19-2994.47: I hope to see you in our Capital Market Days at the beginning of next year. 
+asr:0: OUTPUT 2994.95-2996.58: So thank you very much, have a good day. 
+asr:0: OUTPUT 2998.56-3003.64: So this concludes our call. Thank you for joining. Have a nice day or evening. Thank you. 
+asr:0: END

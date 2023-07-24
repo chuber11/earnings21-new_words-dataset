@@ -1,0 +1,908 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.24-11.09: Ladies and gentlemen, good day and welcome to the full year 2021 results presentation of POPx. 
+asr:0: OUTPUT 13.81-16.18: This conference is being recorded. 
+asr:0: OUTPUT 17.04-25.55: At this time, I would like to turn the conference over to Mr. Arthur Zadoon, Chairman and CEO of Publicis Group. Please go ahead. 
+asr:0: OUTPUT 29.63-35.26: Bonjour and welcome to Publicis Group 2021, for your results call. 
+asr:0: OUTPUT 36.06-44.66: I am Arthur Sedoun and I'm here in Paris with our CFO, Michel Lapproche, and our Secretary General, Anne-Gabrielle Elbronner. 
+asr:0: OUTPUT 45.67-50.93: Steve King, COO of Publicis Group, is joining us, but remotely. 
+asr:0: OUTPUT 52.03-56.50: As usual, we will take your questions together after the presentation. 
+asr:0: OUTPUT 57.06-65.91: Now during the presentation, after the presentation. And after our call, Alessandra Girolami will be available to answer any of your questions offline. 
+asr:0: OUTPUT 68.45-72.93: I will start this call by sharing the main highlights of our full results. 
+asr:0: OUTPUT 73.97-77.68: Then, Michel Arnault will take us through the details of our numbers. 
+asr:0: OUTPUT 78.56-86.69: After that, I will share with you our strategic priorities for the year to come and conclude with the outlook. 
+asr:0: OUTPUT 87.81-91.43: Finally, we will take all of your questions with the director. 
+asr:0: OUTPUT 93.73-98.52: Please take the time to read the disclaimer as it is an important legal matter. 
+asr:0: OUTPUT 102.76-107.25: In 2021, the group ended the year strongly. 
+asr:0: OUTPUT 107.27-114.85: And ahead of expectations, exceeding 2019 levels on all KPIs. 
+asr:0: OUTPUT 116.32-120.30: We delivered 10% organic growth on the year. 
+asr:0: OUTPUT 121.16-125.87: Implying a 3% increase versus 19%. 
+asr:0: OUTPUT 126.13-137.18: With an historically high operating margin rate at 17.5% and 1.4 billion euro in free cash flow. 
+asr:0: OUTPUT 138.56-148.15: Thanks to our integrated model, our 2021 results demonstrate that we are emerging from this crisis as a stronger company. 
+asr:0: OUTPUT 150.37-157.12: Let's start with the highlights of our performance last year. First, organic growth. 
+asr:0: OUTPUT 158.28-166.37: Q4 was at plus 9.3% above our graded expectations in October. 
+asr:0: OUTPUT 167.61-174.07: This means we deliver an organic growth for the full year at plus 10%. 
+asr:0: OUTPUT 175.48-184.28: Our activities were strong across all regions, both in Q4 and for the full year 2021. 
+asr:0: OUTPUT 185.71-193.19: In the US, organic growth came at plus 8.7% in 2004. 
+asr:0: OUTPUT 193.21-196.98: And that plus 9.8% for the food. 
+asr:0: OUTPUT 198.72-206.01: In Europe, our business grew by plus 8.7% organically in Q4. 
+asr:0: OUTPUT 206.05-210.15: And by plus 9.6% for the full year. 
+asr:0: OUTPUT 211.05-213.25: Finally, in Asia,. 
+asr:0: OUTPUT 213.35-221.68: Our organic performance was at plus 9.2% in Q4, with full year at plus 10.3%. 
+asr:0: OUTPUT 223.38-227.19: Our model means we were best positions. 
+asr:0: OUTPUT 227.21-234.83: To benefit from the structural shift in the industry toward first-party data management. 
+asr:0: OUTPUT 234.87-241.42: Digital media and commerce which have accelerated during the pandemic. 
+asr:0: OUTPUT 242.44-249.51: This is reflected in the global performance of Epsilon and Publicis Sapiens. 
+asr:0: OUTPUT 249.53-258.98: Which came in at plus 12.8% and plus 13.8% respectively for the full year. 
+asr:0: OUTPUT 261.44-267.53: These were record numbers for the group, supported by an overall increase in customer demand. 
+asr:0: OUTPUT 268.15-278.06: Which was fueled by cyclical recovery and government stimulus after a significant drop in marketing spend in 2020. 
+asr:0: OUTPUT 279.16-286.43: That said, we take the view that the real measure of our modern strength is our performance on a two-year basis. 
+asr:0: OUTPUT 287.35-291.71: That's how we have been driving our operations throughout the year. 
+asr:0: OUTPUT 293.59-301.30: In 2021, we exceeded 2019 level faster and more strongly than expected. 
+asr:0: OUTPUT 302.26-311.81: At group level, we recorded 5% growth in Q4 versus 19 and 3% for the full year. 
+asr:0: OUTPUT 312.99-321.24: And our momentum versus 19 accelerated in H2 at plus 5%. 
+asr:0: OUTPUT 321.26-323.82: Versus plus 1% in each one. 
+asr:0: OUTPUT 325.17-326.45: In the US. 
+asr:0: OUTPUT 326.47-335.24: Where RML is the most advanced, our operations were up plus 8% versus 19% on the full year. 
+asr:0: OUTPUT 338.04-340.30: Our second highlight is new business. 
+asr:0: OUTPUT 341.42-345.03: For the third time in the last four years. 
+asr:0: OUTPUT 345.75-352.21: We topped the new business rankings with LeadTable placing us well ahead of the patch. 
+asr:0: OUTPUT 353.41-357.70: In one of the most intense ever in terms of pitch activity. 
+asr:0: OUTPUT 358.38-367.09: We secured the vast majority of our defensive reviews while converting a high number of offensive opportunities. 
+asr:0: OUTPUT 368.39-373.01: Among those major wins were Stellantis Global Media Business,. 
+asr:0: OUTPUT 373.05-381.06: The global creative business 4infinity and TikTok, and the global media account of Eli Lilly and Meta. 
+asr:0: OUTPUT 382.42-390.43: We also saw significant local wins, starting in the US, where we won Wal-Mart, Media and Data. 
+asr:0: OUTPUT 390.45-393.31: And Planet Fitness integrated business. 
+asr:0: OUTPUT 394.57-399.82: We were also awarded L'Oréal Media in China, Lloyd's Media in the UK. 
+asr:0: OUTPUT 400.12-407.85: Cerero in Italy and in Australia, Toyota Creative and Media, Johnson & Johnson, Commerce and Digital Accounts. 
+asr:0: OUTPUT 409.79-419.36: What is more, we are starting the year on a high note, with some significant wins, including McDonnell National U.S. Media Business. 
+asr:0: OUTPUT 420.66-425.65: It is actually worth noting that we have been awarded these important duties. 
+asr:0: OUTPUT 426.13-427.33: Without a pitch. 
+asr:0: OUTPUT 427.63-436.54: Thanks to the uniqueness of our model and the relationship we previously built with the brand on data analytics. 
+asr:0: OUTPUT 436.56-441.24: And digital marketing with Epsilon and Publicis Sapiens. 
+asr:0: OUTPUT 444.00-449.75: In 2021, we also continue to improve and strengthen our model. 
+asr:0: OUTPUT 449.77-454.94: By investing in targeted acquisitions and strategic partnerships. 
+asr:0: OUTPUT 456.18-465.29: We acquired Citrus Ad to lead in retail media and Tremend to scale publicity sapient capabilities in Europe. 
+asr:0: OUTPUT 466.83-468.61: We also acquire a barbecue. 
+asr:0: OUTPUT 469.19-477.68: In the US to expand Publicis Health's clinical trial expertise and complement its end-to-end value proposition. 
+asr:0: OUTPUT 479.30-486.29: BBC Sapiens launched a tech joint venture with Siam Commercial Bank in South East Asia. 
+asr:0: OUTPUT 486.31-492.89: And we signed strategic partnership with the Tridesk, Adobe, and Salesforce. 
+asr:0: OUTPUT 492.91-496.90: To expand the reach of our data and identity backbone. 
+asr:0: OUTPUT 498.86-504.10: After spending nearly 300 million euros in 2021. 
+asr:0: OUTPUT 505.15-513.15: In 2022, we will accelerate with €400 million to €600 million allocated to M&A. 
+asr:0: OUTPUT 513.69-521.34: To further expand our data and tech capabilities through new expertise and geography. 
+asr:0: OUTPUT 524.56-531.21: The fourth highlight is the strength of our financial KPIs thanks to our operating structure. 
+asr:0: OUTPUT 532.23-536.12: Our margin rate was at 17.5%. 
+asr:0: OUTPUT 537.24-546.67: This is 150 basis point increase versus 2020 and the highest margin rate ever for the group. 
+asr:0: OUTPUT 548.07-557.62: On the one hand, we entered the year with a very lean cost base, thanks to our agile and flexible structure. 
+asr:0: OUTPUT 558.20-562.22: Which allowed us to adjust our costs when the crisis hit. 
+asr:0: OUTPUT 563.52-567.23: This had a positive impact on our margins. 
+asr:0: OUTPUT 568.11-577.98: On the other hand, thanks to the same agility and flexibility, we were also able to move fast to support our goals in 2021. 
+asr:0: OUTPUT 579.18-588.57: We welcomed over 9,000 net additional recruits in the year and invested in reward and retention. 
+asr:0: OUTPUT 589.83-592.33: Taking all of this into account. 
+asr:0: OUTPUT 592.93-602.78: Our operating margin was at 1,840,000,000 euros, an increase of 140,000,000 euros compared to 1990. 
+asr:0: OUTPUT 605.02-606.55: As a result. 
+asr:0: OUTPUT 606.57-614.47: Our headline EPS was up 17.6% versus 2020 at. 
+asr:0: OUTPUT 614.49-620.36: 5 euros and 2 cents per share, returning to its 2019 levels. 
+asr:0: OUTPUT 621.90-629.87: In 2021, we generated 1.4 billion euros in free cash flow before working capital. 
+asr:0: OUTPUT 630.61-638.38: Ahead of the upgraded objective of circa 1.3 billion euros we communicated in October. 
+asr:0: OUTPUT 639.64-644.26: This is a 175 million euro increase versus 19. 
+asr:0: OUTPUT 645.85-653.13: This strong free cash flow generation allowed us to accelerate our bill of regime despite the crisis. 
+asr:0: OUTPUT 654.25-660.34: This means our average net debt returned to 1.5 billion euros. 
+asr:0: OUTPUT 660.36-664.82: A broadly similar level to before the acquisition of Epsilon. 
+asr:0: OUTPUT 666.25-667.25: With this. 
+asr:0: OUTPUT 667.27-673.17: We are in a position to propose a dividend of 2 euros and 40 cents. 
+asr:0: OUTPUT 673.37-677.88: Corresponding to a payout of 47.8%. 
+asr:0: OUTPUT 679.30-684.92: It is important to note that we will fully pay our dividend in cash. 
+asr:0: OUTPUT 685.51-693.13: As we have decided, together with the board, to remove the script option in order to stop. 
+asr:0: OUTPUT 693.15-696.16: Any kind of delusion on our charkan. 
+asr:0: OUTPUT 699.42-705.99: Our fifth highlight is not strictly financial, but is vitally important for our business. 
+asr:0: OUTPUT 706.97-709.55: Two years after the crisis hit. 
+asr:0: OUTPUT 710.43-718.68: Not only Publicis is stronger than ever, but we are also emerging as a better and even more responsible company. 
+asr:0: OUTPUT 719.64-726.55: The progress we have made across our ESG strategy is setting a clear industry standard. 
+asr:0: OUTPUT 727.29-732.07: Our combined efforts on this front have led to this ease. 
+asr:0: OUTPUT 732.09-740.20: To top the industry ranking with 8 out of 10 leading ESG ratings agencies. 
+asr:0: OUTPUT 743.62-746.67: Our last highlight is maybe the most important one. 
+asr:0: OUTPUT 747.67-756.66: The outstanding commitment that our people have shown to deliver this record year in what are still challenging times for everyone. 
+asr:0: OUTPUT 757.74-763.18: They have demonstrated incredible resilience, learning to live with the virus. 
+asr:0: OUTPUT 763.20-768.51: And standing in solidarity with each other despite the lack of in-person connection. 
+asr:0: OUTPUT 769.61-776.86: They are faced in unprecedented business challenges and always put our clients' interests first. 
+asr:0: OUTPUT 778.02-787.37: To thank them and reward them for their dedication and determination, we have doubled our bonus pool versus 19. 
+asr:0: OUTPUT 788.67-790.13: But this is not all. 
+asr:0: OUTPUT 790.29-800.84: We have decided that everyone who has been with us since the beginning of the crisis, fighting on our side, will receive a bonus this year. 
+asr:0: OUTPUT 802.00-805.71: This includes 35,000 employees. 
+asr:0: OUTPUT 805.83-812.95: Who do not have any variable remuneration and will receive one week additional salary. 
+asr:0: OUTPUT 815.18-820.90: I will now leave the floor to Michel Alain who will provide further detail on the full year numbers. 
+asr:0: OUTPUT 820.98-825.71: And I will come back later to share our priorities and outlook for 2022. 
+asr:0: OUTPUT 827.71-831.67: Thank you Arthur and good morning to all of you and glad to be with you today. 
+asr:0: OUTPUT 832.45-838.90: I will begin on slide 13 with the evolution of our net revenue for the fourth quarter and full year 2021. 
+asr:0: OUTPUT 840.00-848.01: The group posted net revenue of 2,935 million euros in Q4, which is an organic growth of 9.3%. 
+asr:0: OUTPUT 849.03-854.33: If we compare to 2019, we grew 5% organically in the fourth quarter. 
+asr:0: OUTPUT 854.98-861.60: This means that our second half showed strong acceleration to 5% after 1% in the first half. 
+asr:0: OUTPUT 862.74-872.07: Reported growth in Q4 was at plus 13.1%. This includes a 10 million euro positive impact from acquisition and disposal. 
+asr:0: OUTPUT 872.97-876.76: This quarter, the positive impact from foreign exchange rates. 
+asr:0: OUTPUT 876.78-884.38: Was at 81 million euro which is 3.1% largely due to the USD to Euro exchange rate. 
+asr:0: OUTPUT 885.53-893.09: Full year net revenue was 10,487 million euro, which is an organic growth of 10%. This means that we exceeded. 
+asr:0: OUTPUT 893.13-899.32: 2019 organic net revenue levels by 3% in the full year, faster. 
+asr:0: OUTPUT 899.34-903.54: And stronger than expected, just as Artur said. 
+asr:0: OUTPUT 905.09-918.46: After taking into account a negative foreign exchange of 191 million euros on the year, mostly due to the USD evolution on the first part of the year, reported growth was 8% in 2021. 
+asr:0: OUTPUT 920.70-929.77: Let's now move on slide 14, which gives the dynamics of our Q4 organic growth by geography compared to both 2020 and 2019. 
+asr:0: OUTPUT 930.83-939.84: North America posted another very strong quarter. This was visible in the region performance on a one-year and on a two-year basis. 
+asr:0: OUTPUT 939.86-944.46: At respectively 8.7% and 9% organic growth. 
+asr:0: OUTPUT 945.29-951.27: Europe posted 8.7% organic growth versus 2020 and was very close. 
+asr:0: OUTPUT 951.29-955.62: To full recovering its 2019 levels in Q4. 
+asr:0: OUTPUT 956.34-963.82: Asia patch at 9.2% organic growth versus 2020 fully recovered its 2019 level. 
+asr:0: OUTPUT 964.46-974.17: Middle Eastern Africa and Latin America both posted very strong organic growth at 15.3% and 22.6% respectively. 
+asr:0: OUTPUT 974.96-981.62: When looking at organic growth versus 2019, both regions saw their performance improve in Q4. 
+asr:0: OUTPUT 981.64-987.45: As they exceeded their 2019 levels by 1% and 9% respectively. 
+asr:0: OUTPUT 988.41-992.85: I will detail the performance of each region in the following slide. 
+asr:0: OUTPUT 993.69-996.66: And I begin with North America on slide 15. 
+asr:0: OUTPUT 997.16-1003.36: As I said, our operations in the region posted 8.7% organic growth in Q4. 
+asr:0: OUTPUT 1003.38-1008.85: With a broadly similar performance for both the US and Canada versus 2020. 
+asr:0: OUTPUT 1009.59-1014.39: Compared to 2019, we grew at an impressive 9% organic. 
+asr:0: OUTPUT 1014.41-1020.04: Driven once again by the strength of our US operation on which we will now focus. 
+asr:0: OUTPUT 1020.94-1025.79: In the US, our operation grew 8.7% versus 2020. 
+asr:0: OUTPUT 1027.09-1032.01: Media continues to post a good performance both in traditional and digital. 
+asr:0: OUTPUT 1032.57-1043.10: Digital Media and CJ Affiliate both grew double digits, benefiting from a solid demand from group major clients for the former and a positive environment for the latter. 
+asr:0: OUTPUT 1043.92-1055.22: Creative sequentially improved again this quarter with a strong performance with group clients in financial services and notably in our production unit with CPG clients. 
+asr:0: OUTPUT 1057.04-1066.47: Publicis Sapien posted a 22% organic growth in Q4. This comes on top of a positive performance in Q4 2020. 
+asr:0: OUTPUT 1066.49-1070.93: Thus, a plus 23% performance compared to 2019. 
+asr:0: OUTPUT 1071.73-1081.00: This is a strong sequential improvement in growth on a two-year basis after 11% in H1 and 17% in H2O3. 
+asr:0: OUTPUT 1081.92-1089.55: Publicy Sapien benefited from both ramp-up of new client contracts in the automotive and retail sector. 
+asr:0: OUTPUT 1089.57-1098.28: Both food and non-food, as well as incremental projects with group major clients in financial services and TMT. 
+asr:0: OUTPUT 1099.48-1106.27: This performance demonstrates the relevance of the reorganization in 2019 by industry verticals. 
+asr:0: OUTPUT 1106.29-1115.78: And our ability to capture the shift in our client spend towards commerce, customer experience, and digital business transformation. 
+asr:0: OUTPUT 1116.96-1124.06: Epsilon posted a 6% organic growth in Q4, implying double-digit organic growth versus 2019. 
+asr:0: OUTPUT 1124.66-1133.27: This performance was achieved despite the expected lower activity in the US car dealership due to the ship shortages. 
+asr:0: OUTPUT 1133.81-1139.56: Epsilon Tech, data and digital media activities all performed very well in the quarter. 
+asr:0: OUTPUT 1140.42-1151.43: Finally, Publicis Health delivered its seventh consecutive quarter of double-digit organic growth with increase of scope of work at group major clients. 
+asr:0: OUTPUT 1152.29-1156.10: Overall, Q4 showed a very strong performance for the US. 
+asr:0: OUTPUT 1156.14-1160.14: Let me add that as you remember in Q4 2020,. 
+asr:0: OUTPUT 1160.16-1165.87: We recorded a positive 0.5% organic, so again, on a two-year stack. 
+asr:0: OUTPUT 1165.89-1175.52: The US saw its growth accelerate to 9% in Q4 after 6% in H1 and 8% in Q3. 
+asr:0: OUTPUT 1177.94-1181.52: Let's now turn to the performance of Europe on slide 16. 
+asr:0: OUTPUT 1181.54-1188.21: As I mentioned earlier, Europe recorded an organic growth of 8.7% on the quarter. 
+asr:0: OUTPUT 1188.25-1191.87: And was very close to recovering its 2019 levels. 
+asr:0: OUTPUT 1192.59-1200.06: The UK, which represents 8% of Group Net Review in Q4, posted an organic growth of 6.5%. 
+asr:0: OUTPUT 1200.68-1209.55: All our activities in the country were positive this quarter with a strong contribution of health and some restart at leisure and travel. 
+asr:0: OUTPUT 1210.49-1218.42: Creative and media together grew mid-single digit while Epsilon was a strong performer, although still on a small base. 
+asr:0: OUTPUT 1219.38-1227.81: It's important to note that publicity sapient in the UK returned to positive in Q4 2021 compared to 2020. 
+asr:0: OUTPUT 1227.89-1238.16: As we had anticipated, although not fully recovering its 2019 levels as its activity remained impacted by some client cuts. 
+asr:0: OUTPUT 1238.34-1240.88: Particularly in the financial services sector. 
+asr:0: OUTPUT 1242.04-1251.69: Thanks to its most recent wins, which achieved our goal to diversify its activity to other sectors, notably retail,. 
+asr:0: OUTPUT 1251.79-1259.34: We are confident that Publicis Sapient will actually contribute to our growth in the UK in the coming quarters. 
+asr:0: OUTPUT 1259.98-1267.93: Overall, and excluding the activity of Publicis Sapien, the UK was up 3% versus 2019 in the fourth quarter. 
+asr:0: OUTPUT 1269.77-1278.74: France, which represents 7% of GroupNet revenue in Q4, posted organic growth of 11.5% compared to 2020. 
+asr:0: OUTPUT 1279.50-1288.17: It grew 3% compared to 2019, although this 3% is actually negative when excluding media transport and the drugstore. 
+asr:0: OUTPUT 1288.77-1295.88: Creative activities were stable and media slightly positive after several quarters of solid growth. 
+asr:0: OUTPUT 1296.92-1304.88: Publicis Sapien grew strongly thanks to the ramp-up of contract signed in 2020 in the B2B retail sector. 
+asr:0: OUTPUT 1305.25-1314.15: Outdoor media and the drugstore rebounded significantly as the activities benefited from the full reopening of the economy in the quarter. 
+asr:0: OUTPUT 1315.28-1324.82: Germany, representing 3% of group net revenue, posted 5% organic growth, but was down 6% compared to 2019. 
+asr:0: OUTPUT 1326.07-1333.39: Creative activities were stable, while media posted high single-digit and publicity sapient double-digit growth. 
+asr:0: OUTPUT 1333.87-1339.72: The decrease of 6% versus 2019 is due to the decision we've taken in 2020. 
+asr:0: OUTPUT 1340.00-1346.51: To close down a low-margin print production unit as part of the COVID action plan. 
+asr:0: OUTPUT 1347.23-1352.93: This ramdown is now completed and it will not affect 2022 performance. 
+asr:0: OUTPUT 1353.81-1359.00: Finally, Central and Eastern Europe continue to post very strong growth. 
+asr:0: OUTPUT 1359.02-1372.11: With double-digit organic in both media and creative, Poland, Russia and Romania were extremely dynamic and the clear engines of growth in the region. 
+asr:0: OUTPUT 1374.17-1379.60: On slide 17, let me give you a bit more color on our performance in the rest of the world. 
+asr:0: OUTPUT 1380.48-1388.31: In Asia-Pac, representing 10% of group net revenue in Q4, we delivered another very solid quarter. 
+asr:0: OUTPUT 1389.15-1396.26: The region grew 9.2% organically, with notably an impressive performance in China at 17%. 
+asr:0: OUTPUT 1397.30-1401.16: In China, it's worth noting that we benefited from the ramp-up. 
+asr:0: OUTPUT 1401.18-1407.35: Of our various new business wins, particularly in the non-food consumer products and automotive. 
+asr:0: OUTPUT 1408.07-1414.61: Elsewhere in the region, the performance was more diverse, affected by local lockdown situation. 
+asr:0: OUTPUT 1414.91-1423.64: India was flat this quarter, Australia up mid-single digit, while Singapore was down this quarter due to some delayed contracts. 
+asr:0: OUTPUT 1424.26-1429.91: Thailand, on the other hand, doubled its net revenue in the quarter driven by publicist Sapiens. 
+asr:0: OUTPUT 1431.35-1441.34: In Middle East and Africa, we posted 15.3% organic growth supported by continued strong performance in the Middle East, particularly at Publicis Sapiens. 
+asr:0: OUTPUT 1443.18-1447.77: Latin America posted a 22.6% organic growth in the quarter. 
+asr:0: OUTPUT 1447.79-1453.97: Which was 9% growth versus 2019. The performance was mainly driven by media. 
+asr:0: OUTPUT 1454.71-1462.96: All countries in the region were positive with a notable 22% in Brazil, our largest country in the region. 
+asr:0: OUTPUT 1465.89-1471.55: Let's now turn to slide 18, which summarizes organic growth by region in the full year. 
+asr:0: OUTPUT 1471.81-1480.88: North America posted regular and strong performance throughout the year, leading to 9.7% in 2021 versus 2020. 
+asr:0: OUTPUT 1480.90-1483.84: And as I said, 7% versus 2019. 
+asr:0: OUTPUT 1484.70-1492.45: In Europe, our activities were up 9.6% for the full year, not fully recovering the 2019 levels yet. 
+asr:0: OUTPUT 1493.33-1499.36: Excluding Publicis Sapien UK, though, Europe was nearly flat versus 2019. 
+asr:0: OUTPUT 1500.20-1509.79: Middle East and Africa saw its revenue grow 11.9% organically and almost recovered its 2019 levels in the year. 
+asr:0: OUTPUT 1510.39-1514.37: Latin America was up 16.8% organically. 
+asr:0: OUTPUT 1514.39-1521.06: In 2021 and thanks to its strong Q4 was up 1% versus 2019. 
+asr:0: OUTPUT 1523.30-1528.57: On slide 19, you will find the group performance by industry verticals for the full year. 
+asr:0: OUTPUT 1529.25-1536.48: This is based, as usual, on an analysis of our main clients, representing 91% of our net revenue. 
+asr:0: OUTPUT 1537.26-1544.82: It also excludes media transport and the drugstore. In 2021, all our client industries were positive. 
+asr:0: OUTPUT 1545.67-1550.05: Health posted the strongest growth over the year at 17%. 
+asr:0: OUTPUT 1550.55-1556.34: It also grew double digit in Q4 on an already strong performance in 2020. 
+asr:0: OUTPUT 1557.38-1563.78: Automotive grew 11% in 2021 despite some slowdown in the fourth quarter. 
+asr:0: OUTPUT 1563.80-1567.61: Due to the supply shortages as we anticipated it. 
+asr:0: OUTPUT 1568.89-1575.18: The financial sector was slightly up on the year at 5%, but nonetheless did decelerate in Q4. 
+asr:0: OUTPUT 1576.20-1583.22: TMT, Retail and Non-Food Industry posted double digit growth for both the full year and in Q4. 
+asr:0: OUTPUT 1584.24-1594.73: Public sector, energy and manufacturing, leisure and travel, all accelerated in the fourth quarter compared to the nine first months. 
+asr:0: OUTPUT 1596.58-1600.32: Moving now to page 20, our consolidated income statement. 
+asr:0: OUTPUT 1601.16-1610.79: Our net revenue in 2021 was €10,487 million and EBITDA was €2,317 million. 
+asr:0: OUTPUT 1610.81-1614.23: Respectively 8% and 7.3%. 
+asr:0: OUTPUT 1615.36-1627.11: Operating margin was at 1,840 million euro, which is a margin rate of 17.5% up by 150 basis points year on year. 
+asr:0: OUTPUT 1627.23-1636.10: This actually represents a historically high level for the group, above 2019 levels by 20 basis points. 
+asr:0: OUTPUT 1637.04-1640.20: I will provide more details on this in the next two slides. 
+asr:0: OUTPUT 1641.08-1649.75: Headline group net income was 1264 million euros in 2020, an increase of 22% versus last year. 
+asr:0: OUTPUT 1650.15-1657.58: Headline net financial expenses came as expected at 160 million euros. 
+asr:0: OUTPUT 1657.72-1665.39: While income taxes increased to 407 million euros on the basis of a higher taxable income. 
+asr:0: OUTPUT 1666.73-1675.62: After adding non-cash items, the group net income was at 1,027,000,000 euros in 2021. 
+asr:0: OUTPUT 1675.64-1681.50: Doubling compared to 2020 and up 43% versus 2019. 
+asr:0: OUTPUT 1683.10-1686.47: Let me now get into more details for each of these aggregates. 
+asr:0: OUTPUT 1687.89-1690.05: First, operating margin. 
+asr:0: OUTPUT 1690.07-1700.86: Which improved by 150 BP versus last year reported and 160 BP versus the comparable at constant perimeter and foreign exchange rate. 
+asr:0: OUTPUT 1701.76-1704.92: Our personal costs were up 10% on the year. 
+asr:0: OUTPUT 1704.98-1707.77: After a 6% increase in the first half. 
+asr:0: OUTPUT 1707.79-1714.29: This reflects the acceleration in our investment in talent in the second half to attract the. 
+asr:0: OUTPUT 1714.31-1726.97: Return and reward, as Arthur mentioned previously, with a significant rise in our bonus pool and over 9,000 net recruits in 2021 to accompany our growth. 
+asr:0: OUTPUT 1727.79-1733.05: But we managed to maintain personal costs at 62.8%. 
+asr:0: OUTPUT 1734.27-1743.40: Restructuring costs reached 53 million euro, down as expected by 121 million versus the prior year. 
+asr:0: OUTPUT 1744.18-1749.25: I will detail, as I did in H1, the evolution of the other lines of the PNL. 
+asr:0: OUTPUT 1749.27-1756.06: In the next slide, which shows a bridge between the 15.9% comparable 2020. 
+asr:0: OUTPUT 1756.08-1760.54: And the 17.5% we posted in 2021. 
+asr:0: OUTPUT 1762.90-1768.35: Let me take you through our bridge of operating margin from the left to the right. 
+asr:0: OUTPUT 1768.91-1773.95: I will begin with the 20 basis point increase in personal costs that I just talked about. 
+asr:0: OUTPUT 1774.59-1780.84: Consistent with what I told you at our H1 earnings, the evolution derives from three different elements. 
+asr:0: OUTPUT 1781.96-1787.91: First, an improvement in fixed personnel costs corresponding to 160 basis points. 
+asr:0: OUTPUT 1787.93-1794.71: Which materialized mostly in the first semester due to a low cost base exiting 2020. 
+asr:0: OUTPUT 1796.52-1802.82: Second, an increase in people incentive by 110 BPs in order to boost reward and retain. 
+asr:0: OUTPUT 1803.28-1811.93: This includes a 50% rise in bonus pool versus 2020 and Arthur said it already, doubling the level of 2019. 
+asr:0: OUTPUT 1813.01-1819.52: It also includes the exceptional additional one-week salary bonus that the group decided to award. 
+asr:0: OUTPUT 1819.54-1824.04: To 35,000 people who do not have a viable remuneration. 
+asr:0: OUTPUT 1824.06-1827.41: And were with us throughout the last two years. 
+asr:0: OUTPUT 1828.63-1836.88: Finally, we increased our freelance resources amounting to 70 BPs to help us adapt to the rise in revenue in the second part of the year. 
+asr:0: OUTPUT 1837.76-1846.87: Then the decrease in restructuring costs in line with our anticipation that I previously mentioned represent an improvement of 130 BP. 
+asr:0: OUTPUT 1848.31-1861.60: Cost of sales increased by 110 BPs consistent with H1 and mainly reflecting a charge that used to be accounted for in depreciation and related to the short-term extension. 
+asr:0: OUTPUT 1861.62-1864.36: Of two French outdoor media contracts. 
+asr:0: OUTPUT 1864.78-1868.43: This impact will be reversed in 2022. 
+asr:0: OUTPUT 1868.45-1875.48: As we actually renewed at the end of last year those two contracts for respectively 5 and 10 years. 
+asr:0: OUTPUT 1876.66-1884.02: Half of the decrease in depreciation of 170 BP is explained by the same technical point I just mentioned. 
+asr:0: OUTPUT 1884.90-1894.01: The other half is a result of the reduction of real estate footprint that we have carried over in the last few years, our all-in-one program. 
+asr:0: OUTPUT 1895.50-1901.28: Other operating expenses posted a slight negative 10 BPS to the margin rate performance. 
+asr:0: OUTPUT 1902.06-1913.43: Within operating expenses, it's worth noting that G&A in percentage of revenue continues to decrease year on year as some expenses, like travel, have not yet fully restarted. 
+asr:0: OUTPUT 1914.33-1918.38: As a result, our operating margin rate in 2021. 
+asr:0: OUTPUT 1918.40-1927.57: Amounted to 17.5%, again, an increase of 160 BPs compared to 2020 on a comparable basis. 
+asr:0: OUTPUT 1929.75-1941.28: Let's move now quickly to our headline net financial expenses on slide 23, which is at minus $160 million versus $189 million. 
+asr:0: OUTPUT 1941.30-1949.31: Last year, down by 29 million. This decline is mostly due to two anticipated evolutions. 
+asr:0: OUTPUT 1949.67-1956.94: First, a decrease in interest on net financial debt by 18 million euros derived from the. 
+asr:0: OUTPUT 1957.26-1961.50: And I will get back to that while commenting the evolution of the group average net debt. 
+asr:0: OUTPUT 1962.18-1971.61: And second, the decrease of $7 million in the interest on lease liabilities, which is a direct consequence of the continued reduction. 
+asr:0: OUTPUT 1971.63-1974.99: In the group real estate footprint that I just mentioned. 
+asr:0: OUTPUT 1976.88-1984.16: Now on slide 24, income tax. Reported income taxes of 307 million euros. 
+asr:0: OUTPUT 1984.18-1988.05: Increased along with the rise in profit before tax. 
+asr:0: OUTPUT 1988.61-1993.03: To calculate the headline income taxes of 407 million euros. 
+asr:0: OUTPUT 1993.17-1996.22: We are adding the non-cash elements of our P&L. 
+asr:0: OUTPUT 1996.26-2006.97: I.e. The tax effect on harmonization of intangibles, on impairment and real estate consolidation, as well as other non-cash items. 
+asr:0: OUTPUT 2008.19-2016.14: Effective tax rate reached 23.4%, which is down 130 basis points compared to 2020. 
+asr:0: OUTPUT 2016.16-2021.48: And an improvement versus our expectation of a 24.5% rate. 
+asr:0: OUTPUT 2022.28-2027.47: While the ETR is obviously the reflection of our regional and business mix. 
+asr:0: OUTPUT 2027.83-2030.91: It was positively impacted in 2021. 
+asr:0: OUTPUT 2030.93-2040.26: By a non-recurring deferred tax asset in France that we accounted for when we renewed the two French outdoor media contracts I mentioned earlier. 
+asr:0: OUTPUT 2040.98-2049.93: Taking this into account, we expect our ETR for 2022 to be at around 24% in the current tax environment. 
+asr:0: OUTPUT 2052.23-2061.40: On slide 25, our headline earnings per share fully diluted increased by 17.6% year on year to 5.02 euros. 
+asr:0: OUTPUT 2062.00-2064.60: Returning to its 2019 levels. 
+asr:0: OUTPUT 2064.72-2069.95: This is obviously directly related to the increase in our operating margin. 
+asr:0: OUTPUT 2070.13-2074.97: Decrease of our financial cost and a variation of our share count. 
+asr:0: OUTPUT 2076.62-2079.42: Moving to slide 26, free cash flow. 
+asr:0: OUTPUT 2080.28-2089.45: Our free cash flow before change in working capital was 1,427,000,000 euros in 2021. It is a 20% growth. 
+asr:0: OUTPUT 2089.47-2093.45: Year on year and it's 14% compared to 2019. 
+asr:0: OUTPUT 2094.11-2097.82: This improvement of 237 million euros. 
+asr:0: OUTPUT 2098.72-2103.74: Versus 2020 derives from the following major evolution. First,. 
+asr:0: OUTPUT 2103.76-2111.91: 158 million increase in EBITDA, consequence of the 160 BPs increase in operating margin. 
+asr:0: OUTPUT 2112.69-2128.29: Second, a reduction of 96 million in our lease liabilities, reflecting the benefit from our All-in-One Real Estate Plan and the reclassification of the depreciation of the French outdoor media contract that I already mentioned. 
+asr:0: OUTPUT 2128.93-2136.70: Third, a 19 million reduction in our capex for the year, mostly driven by the lower spend we had in the first half. 
+asr:0: OUTPUT 2136.72-2144.24: Fourth, a €33 million reduction in our interest paid, consistent with the Group's deleveraging. 
+asr:0: OUTPUT 2144.32-2149.53: And finally, an incremental outflow of 69 million of tax pay. 
+asr:0: OUTPUT 2152.15-2155.80: Let's now move on to the next slide, our use of cache. 
+asr:0: OUTPUT 2156.80-2163.44: In 2021, the change in working capital represented an outflow of 216 million euros. 
+asr:0: OUTPUT 2164.18-2171.01: This is a better outcome than the 300 to 500 million euro reversal we initially anticipated. 
+asr:0: OUTPUT 2171.03-2177.30: After the record 1 billion euro inflow in our working capital in December 2020. 
+asr:0: OUTPUT 2178.58-2184.92: At December 2021, we now consider that the working capital at the group balance sheet is normalized. 
+asr:0: OUTPUT 2186.15-2193.09: Acquisition, net of disposal and including earn-out and buy-out reached 283 million euros. 
+asr:0: OUTPUT 2193.11-2200.64: At the top end of the bracket of 200 to 300 million envelopes for bolt-on that we mentioned during the year. 
+asr:0: OUTPUT 2201.30-2208.41: This notably includes the payment of our acquisition of Citrus Ad, Boomerang, Octopus and BBK. 
+asr:0: OUTPUT 2210.19-2223.50: Other non-cash items were plus 192 million euros, resulting from two main factors. First, 119 positive impact from Forex adjustment and change in fair value of swaps. 
+asr:0: OUTPUT 2224.18-2228.87: Second, a 56 million positive impact from the non-cash. 
+asr:0: OUTPUT 2228.89-2231.47: Change in earn out and buy out. 
+asr:0: OUTPUT 2232.37-2240.60: In total, we decreased the group closing net debt by €757 million in December 2021. 
+asr:0: OUTPUT 2240.62-2242.68: Compared to December 2020. 
+asr:0: OUTPUT 2244.58-2255.70: Moving on to slide 28, the net financial debt. The reduction in debt that I just described led to a closing net debt of $76 million at the end of 2021. 
+asr:0: OUTPUT 2256.94-2264.24: But you know that the debt KPI, which is the most important to judge the leverage of the group, is the average net debt. 
+asr:0: OUTPUT 2265.13-2270.49: Our average financial net debt in 2021 was 1.5 billion euros. 
+asr:0: OUTPUT 2271.27-2277.90: This is slightly better than the latest guidance I gave you in October of 1.6 billion euros. 
+asr:0: OUTPUT 2278.98-2285.29: As you know, our priority for 2021 was the deliveraging of the group after the Epsilon acquisition. 
+asr:0: OUTPUT 2286.13-2292.95: Thanks to this, we did reduce the group average net debt by a full turn of EBITDA,. 
+asr:0: OUTPUT 2292.97-2297.94: 1.6 times versus 2.6 times in 2020. 
+asr:0: OUTPUT 2300.44-2308.33: Before handing over to Arthur, let's focus on our 2021 dividend and our cash allocation for 2022. 
+asr:0: OUTPUT 2309.53-2319.38: First, on slide 29, our dividend. We are pleased, together with the board, to announce the dividend per share of 2.40 euros. 
+asr:0: OUTPUT 2320.24-2326.39: This dividend will be submitted to the shareholders' vote at our next AGM in May. 
+asr:0: OUTPUT 2327.47-2335.18: This represents a payout of 47.8% and an increase of 20% versus 2020. 
+asr:0: OUTPUT 2336.40-2346.27: It is actually 10 cents higher than the 2019 dividend that we were planning to pay in 2020 before the crisis hit. 
+asr:0: OUTPUT 2347.81-2357.62: Thanks to our strong cash performance, we have decided with the board to remove the script option which had been in place since 2012. 
+asr:0: OUTPUT 2358.18-2363.70: As a result, our 2021 dividend will be fully paid in cash. 
+asr:0: OUTPUT 2366.05-2373.35: So, let's now summarize our cash allocation for 2022 on slide 30. 
+asr:0: OUTPUT 2373.37-2377.78: Which Arthur and I commented on in the previous slide. 
+asr:0: OUTPUT 2378.12-2386.33: First, we are grading our dividend policy to a 45 to 50 payout ratio. 
+asr:0: OUTPUT 2386.35-2389.41: Versus circa 45% previously. 
+asr:0: OUTPUT 2390.29-2396.02: The 2021 payout of 47.8% is a good illustration of this. 
+asr:0: OUTPUT 2397.28-2403.34: Second, as I just mentioned, we've decided to cancel the script dividend option. 
+asr:0: OUTPUT 2403.38-2408.03: In order to stabilize the number of group shares in circulation. 
+asr:0: OUTPUT 2408.79-2416.30: This means an outflow of around 600 million euros, i.e. 300 million more than in 2020. 
+asr:0: OUTPUT 2417.80-2427.79: Third, we are accelerating our bolt-on acquisition strategy by allocating to it between 400 and 600 million euros in 2020. 
+asr:0: OUTPUT 2427.81-2428.81: 22. 
+asr:0: OUTPUT 2428.83-2438.82: Which is twice the envelope of 2021, to continue straightening our capabilities in data, tech and commerce. 
+asr:0: OUTPUT 2439.78-2454.09: Fourth, we will use the remainder of our free cash flow generation to pursue the deleveraging of the Group with the aim of reaching an average net debt of 1 billion euros by the end of 2022. 
+asr:0: OUTPUT 2455.06-2459.84: This concludes my financial presentation and now I give the floor back to you, Arthur. 
+asr:0: OUTPUT 2460.54-2466.11: Thank you, Michel. In 2020, our industry went through historic lows. 
+asr:0: OUTPUT 2466.77-2470.39: In 2021, it rebounded to reach new heights. 
+asr:0: OUTPUT 2471.11-2479.14: At every moment, thanks to our model, we were able to face the challenges and seize the opportunities. 
+asr:0: OUTPUT 2480.58-2488.11: We are now emerging as a stronger company with three clear priorities for 2022. 
+asr:0: OUTPUT 2489.19-2498.02: Leveraging our unique assets in data and technology, giving our people more opportunity to progress,. 
+asr:0: OUTPUT 2498.94-2503.84: Delivering growth that is both profitable and responsible. 
+asr:0: OUTPUT 2505.25-2506.27: Let me break that down. 
+asr:0: OUTPUT 2507.87-2515.62: Our first priority is to continue to leverage our unique assets in data and technology. 
+asr:0: OUTPUT 2516.38-2519.88: To help our clients win in the platform world. 
+asr:0: OUTPUT 2521.62-2528.13: In the last years, we have shifted our organization from an holding company to a platform. 
+asr:0: OUTPUT 2529.41-2531.91: We have put in place a country model. 
+asr:0: OUTPUT 2531.93-2541.52: Enabling us to connect our creative brand, our media clouds, and all of our digital agencies locally. 
+asr:0: OUTPUT 2542.18-2550.33: To seamlessly deliver omni-channel creative experiences that drive real business outcomes for our clients. 
+asr:0: OUTPUT 2551.89-2553.71: But we did not stop there. 
+asr:0: OUTPUT 2554.59-2562.66: We acquired and integrated Epsilon to take clear leadership in personalization at scale. 
+asr:0: OUTPUT 2563.62-2572.43: And we have repositioned Publicis Sapiens around digital business transformation and industry vertical. 
+asr:0: OUTPUT 2573.97-2580.90: There's been a lot of work and for some years it has penalized our short-term organic growth. 
+asr:0: OUTPUT 2582.74-2592.01: But today, we are in position to lead the three major marketing revolutions that our clients are facing. 
+asr:0: OUTPUT 2594.71-2598.64: It starts with privacy-led identities. 
+asr:0: OUTPUT 2599.62-2602.34: In a soon-to-be cookie-less world. 
+asr:0: OUTPUT 2602.58-2610.69: We have clear leadership in building, enriching, and activating first party data. 
+asr:0: OUTPUT 2611.39-2620.70: Fully respecting the highest privacy standards with Epsilon transaction-based data and identity solutions. 
+asr:0: OUTPUT 2622.06-2629.13: This led to Forester naming Epsilon as a leader in loyalty solutions. 
+asr:0: OUTPUT 2630.11-2635.76: Powering publicists to the top of the rankings for loyalty services. 
+asr:0: OUTPUT 2636.80-2639.74: And it was a key contributing factor. 
+asr:0: OUTPUT 2640.38-2642.40: To the mediarrating councillors. 
+asr:0: OUTPUT 2642.74-2653.51: Awarding Epsilon the industry's first accreditation for outcome-based delivery for its ability to leverage data to link digital media. 
+asr:0: OUTPUT 2653.53-2658.44: To online but also offline consumer purchasing behavior. 
+asr:0: OUTPUT 2660.02-2666.81: Next is a shift in investment toward new digital media channels. 
+asr:0: OUTPUT 2668.51-2677.58: By leveraging our media leadership and capabilities, we are helping our clients lead in this rapidly changing landscape. 
+asr:0: OUTPUT 2678.62-2681.02: Let me give you just two concrete examples. 
+asr:0: OUTPUT 2682.12-2686.59: To meet the exponential demand in advanced CV. 
+asr:0: OUTPUT 2686.71-2693.21: Publicis Media and Epsilon successfully launched PMX Lift in the US. 
+asr:0: OUTPUT 2694.07-2699.80: And with Citrus Ad, that Forrester certified as a leader in retail media. 
+asr:0: OUTPUT 2699.82-2705.57: We will lead the next generation of identity-led retail media solutions. 
+asr:0: OUTPUT 2708.07-2715.64: Last but not least, the rise in direct-to-consumer that has exploded during the pandemic. 
+asr:0: OUTPUT 2717.20-2718.56: We have the technology. 
+asr:0: OUTPUT 2718.58-2734.37: And 18,000 engineers and developers to build the platform and digital ecosystem our clients need to create direct relationships with their consumers and accelerate e-commerce. 
+asr:0: OUTPUT 2735.52-2741.06: To address the drastic shift from paid to owned channels,. 
+asr:0: OUTPUT 2741.68-2750.51: Not only do we have best in class products in this front, as recognized by Forrester in his report on CRM and loyalty provider,. 
+asr:0: OUTPUT 2751.25-2758.64: But we also have the consulting and engineering services to deliver business transformation. 
+asr:0: OUTPUT 2758.66-2761.34: Built around customer experiences. 
+asr:0: OUTPUT 2762.34-2771.33: Last year, Gartner reports rated Publicis Sapiens higher than all competitors on that matter. 
+asr:0: OUTPUT 2771.55-2775.38: Including Accenture, Dilute and Capgemini. 
+asr:0: OUTPUT 2776.40-2786.37: Criteria included driving innovation, reducing time to market, improving business process agility, and driving revenue growth. 
+asr:0: OUTPUT 2789.25-2797.58: Let's be clear, everyone in our industry will claim that they can deliver omni-channel creative experiences. 
+asr:0: OUTPUT 2799.16-2806.91: But even if we all share the same core capabilities in creative and media. 
+asr:0: OUTPUT 2807.27-2813.01: Very few have been making the necessary investment to really transform. 
+asr:0: OUTPUT 2813.63-2819.86: And adapt to the new imperatives of the platform world as we have done in the past. 
+asr:0: OUTPUT 2821.24-2828.85: And none of them have done it at the same scale we have with the acquisition of publicis sapiens and epsilon. 
+asr:0: OUTPUT 2829.27-2832.83: Or the same level of integration with the country. 
+asr:0: OUTPUT 2835.22-2838.42: The best way to concretely measure. 
+asr:0: OUTPUT 2838.90-2847.19: Not only how attractive, but also how differentiating is our model, is new business, and retention rates. 
+asr:0: OUTPUT 2848.23-2855.03: When it comes to new business, we have been number one for three years out of four in the rankings. 
+asr:0: OUTPUT 2855.76-2860.26: And as for our retention rate, over the past four years,. 
+asr:0: OUTPUT 2860.98-2863.58: We are first in terms of net billing. 
+asr:0: OUTPUT 2863.60-2873.53: Thanks to our ability to win significant new clients while maintaining and reinventing our relationship with existing ones. 
+asr:0: OUTPUT 2876.54-2885.85: Our second objective is making our people progress in an ideal world by giving them more opportunity to grow than anywhere else. 
+asr:0: OUTPUT 2886.69-2887.79: To do that we have myself. 
+asr:0: OUTPUT 2889.09-2894.05: We have today an adoption rate of 90% across the group. 
+asr:0: OUTPUT 2894.71-2900.34: We have designed it to become the personal growth platform for everyone at Publiciz. 
+asr:0: OUTPUT 2901.42-2906.95: It is a hub for learning with more than 30,000 online classes available. 
+asr:0: OUTPUT 2907.51-2915.06: Last year, on average, 13 classes were taken by each of our 85,000 employees. 
+asr:0: OUTPUT 2916.22-2925.21: It is also the place to find development opportunities with on average 2,000 applications to jobs and gigs each quarter. 
+asr:0: OUTPUT 2926.03-2935.76: We have added new content, onboarding programs, and partnerships. More recently, we strived global to equip our teams to lead the change in a hybrid world. 
+asr:0: OUTPUT 2938.40-2943.60: We are bringing direct access to personalized progress dashboards. 
+asr:0: OUTPUT 2944.08-2955.62: That tap into Marcel's profile intelligence so that everyone in the group is now empowered to manage and track every step of their career path. 
+asr:0: OUTPUT 2956.60-2960.46: What is more, we are reinventing the future of world. 
+asr:0: OUTPUT 2961.10-2968.33: By offering unprecedented experiences like Work Your World to attract and retain the best talent. 
+asr:0: OUTPUT 2970.39-2983.52: More than 13 million people viewed the launch film for Work Your World and it led to 14,000 new applications to the Publicis Group's career page. 
+asr:0: OUTPUT 2986.05-2995.92: Last but not least, our third objective is delivering profitable and responsible growth in 2022 and beyond. 
+asr:0: OUTPUT 2997.32-3005.07: We have built structures that enable us to deliver the best financial KPIs in the industry. 
+asr:0: OUTPUT 3006.07-3007.67: Our country model. 
+asr:0: OUTPUT 3007.69-3015.54: Our group support functions, including our global delivery center and our shared resource and platform. 
+asr:0: OUTPUT 3015.56-3023.00: Mean we are confident in our ability to continue to deliver industry-leading financial ratios. 
+asr:0: OUTPUT 3023.02-3027.43: While investing in our people and future-facing capabilities. 
+asr:0: OUTPUT 3029.13-3034.49: At the same time, because growth cannot be sustainable without being responsible,. 
+asr:0: OUTPUT 3035.14-3042.28: We are taking the lead in putting our environmental and social commitments at the core of everything we do. 
+asr:0: OUTPUT 3043.60-3049.07: We continue to build the most diverse, inclusive, and equitable working environment. 
+asr:0: OUTPUT 3049.09-3055.54: By bringing 40,000 of us together around the world on Marseille. 
+asr:0: OUTPUT 3055.56-3062.16: For our second POSI for Action Day to evaluate, implement and advance on our DNA initiatives. 
+asr:0: OUTPUT 3065.03-3069.85: We went further in creating a responsible marketing environment. 
+asr:0: OUTPUT 3069.87-3079.12: Through initiatives like Once and for All Coalition and the rollout of the ALICE tool to measure the carbon impact of campaigns. 
+asr:0: OUTPUT 3080.46-3081.82: And finally,. 
+asr:0: OUTPUT 3081.84-3095.22: In the fight against climate change, we became the first holding company to have our ambitious objective of carbon neutrality by 2030 validated by NPTI. 
+asr:0: OUTPUT 3096.52-3104.38: As I said earlier, all of this means we topped industry ranking with eight out of ten leading external agencies. 
+asr:0: OUTPUT 3105.15-3111.63: And we will continue to double down across all of our ESG progress indicators in the year to come. 
+asr:0: OUTPUT 3115.68-3118.44: Delivering on those three priorities. 
+asr:0: OUTPUT 3119.30-3124.18: And assuming no major deterioration in the health situation. 
+asr:0: OUTPUT 3124.20-3130.39: We aim to deliver between 4 to 5% organic growth in 2022. 
+asr:0: OUTPUT 3131.95-3140.16: This means sequential acceleration versus a two-year stack of 3% in 2021. 
+asr:0: OUTPUT 3140.94-3142.64: Manly driven. 
+asr:0: OUTPUT 3142.66-3145.41: By the strength of our model,. 
+asr:0: OUTPUT 3145.45-3152.93: And new business wins in what is still a positive environment for advertising and business transformation. 
+asr:0: OUTPUT 3154.51-3159.68: We expect the Group Q1 2022 Organic Growth. 
+asr:0: OUTPUT 3160.00-3168.47: To land slightly above this full year guidance range due to Q1 more favorable comps. 
+asr:0: OUTPUT 3169.49-3172.71: When it comes to operating margin and free cash flow. 
+asr:0: OUTPUT 3173.71-3180.90: We intend in 2022 to achieve the same levels as in 2021. 
+asr:0: OUTPUT 3180.92-3187.83: At circa 17.5% and 1.4 billion euros respectively. 
+asr:0: OUTPUT 3187.95-3199.32: As the efficiency of our structure will allow us to both invest in talent and absorb the impact of inflation. 
+asr:0: OUTPUT 3201.92-3208.23: Well, as you will have seen, we ended 2021 with a strong Q4. 
+asr:0: OUTPUT 3208.69-3212.53: Delivering record numbers for the full year for publicity. 
+asr:0: OUTPUT 3214.55-3218.76: We are emerging from this crisis stronger, both financially. 
+asr:0: OUTPUT 3220.00-3227.63: Of our KPIs exceeding 2019 and commercially, once again, topping the new business ranking. 
+asr:0: OUTPUT 3229.17-3236.72: We are entering 2022 with confidence, thanks to the robust foundations we have put in place. 
+asr:0: OUTPUT 3238.04-3249.87: We are committed to accelerate on organic growth versus our two-year strike while continuing to deliver industry-leading financials. 
+asr:0: OUTPUT 3250.93-3257.98: We are focused on executing our plan and delivering for our clients, who I would like to thank for their partnership. 
+asr:0: OUTPUT 3258.76-3262.96: Thank you for listening and now with the director we will take all of your questions. 
+asr:0: OUTPUT 3265.77-3273.47: Thank you. Ladies and gentlemen, if you would like to ask a question, please signal by pressing star 1 on your telephone keypad. 
+asr:0: OUTPUT 3274.27-3281.04: If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. 
+asr:0: OUTPUT 3281.84-3288.11: So once again, that is star one for your questions today. We will pause for a brief moment. 
+asr:0: OUTPUT 3292.85-3298.40: Our first question today comes from Lina Geor from BNP Paribas. Please go ahead. 
+asr:0: OUTPUT 3300.40-3310.11: Hi, good morning, Lina here. Congratulations on the results. I have three questions, if that's okay. The first one is on the top line outlook for 2022. 
+asr:0: OUTPUT 3311.17-3319.70: Can you explain a little bit what portion is related to new business? What is publicist specific and what is more industry specific? 
+asr:0: OUTPUT 3320.34-3328.47: The second question is around the margin outlook you're getting for still in margin. Could you just give a little bit more color on the moving parts? 
+asr:0: OUTPUT 3329.31-3335.18: How much operating leverage do you expect by how much with inflation and talent investment of heads up. 
+asr:0: OUTPUT 3336.06-3338.94: And thirdly, on your client behavior,. 
+asr:0: OUTPUT 3338.96-3347.27: Facebook published last night, it was also mentioned that inflation and supply chain disruption have impacted advertising projects. 
+asr:0: OUTPUT 3348.01-3355.64: Have you seen anything similar on your clients apart from the automotive clients? And how do you factor that in your guidance? Thank you very much. 
+asr:0: OUTPUT 3360.00-3364.22: Because we didn't hear very well, is about inflation and supply chain shortage, no? Am I right? 
+asr:0: OUTPUT 3365.45-3368.37: Yes, correct, following Facebook comments last night. 
+asr:0: OUTPUT 3370.83-3376.48: If you don't mind, I'm going to start with number one on 4 to 5%. 
+asr:0: OUTPUT 3377.20-3385.39: And then I'll pass on Michel Alain for the margin, and I'll come back. Maybe we'll say, well, inflation is too patient, and then I'll close with this. 
+asr:0: OUTPUT 3386.53-3394.29: So again, looking at 2022, we definitely expect organic growth to be between 4 to 5%. 
+asr:0: OUTPUT 3395.10-3398.30: Which again is going to be a sequential improvement. 
+asr:0: OUTPUT 3398.32-3405.67: Versus a two-year stack of 3% and on the back of a 2021 at 10% growth. 
+asr:0: OUTPUT 3406.83-3414.27: If I want to split a bit what is industry versus publicity specific, I would say several things. 
+asr:0: OUTPUT 3414.35-3421.26: I say that we have three assumptions to get to this growth of 4 to 5%. 
+asr:0: OUTPUT 3421.94-3425.27: The first is the strength of our model. 
+asr:0: OUTPUT 3425.83-3437.14: And we know that both Epsilon and Sapient will be a creative to our goals. And when you add to that, and this is a very important point,. 
+asr:0: OUTPUT 3437.16-3440.14: What they bring to our overall model. 
+asr:0: OUTPUT 3440.16-3441.70: This is. 
+asr:0: OUTPUT 3441.72-3443.58: Publicis Pacific for sure. 
+asr:0: OUTPUT 3444.74-3451.95: The second thing that is PBC specific is a ramp up of our strong new business win in 2021. 
+asr:0: OUTPUT 3452.55-3462.24: It has been a year with an increase of 50% of activity in new business. We had a great run and this of course has a lot to do with the 4 to 5%. 
+asr:0: OUTPUT 3463.10-3468.07: What is not publicity specific but needs to be factored in. 
+asr:0: OUTPUT 3468.47-3473.13: Is actually the positive environment that we are seeing for advertising. 
+asr:0: OUTPUT 3473.39-3475.36: That is gonna be true to our peers! 
+asr:0: OUTPUT 3476.08-3480.12: But also which is more specific to us in terms of business transformation. 
+asr:0: OUTPUT 3480.90-3490.23: Because I think you have to separate what you can hear about media from what we bring today, which is how can we really help our client transform. 
+asr:0: OUTPUT 3490.39-3498.80: So there is an industry specific about the fact that it looks at who have so far a positive environment for advertising. You add the business transformation. 
+asr:0: OUTPUT 3499.04-3501.08: And you have roughly the three pillars. 
+asr:0: OUTPUT 3501.42-3502.44: That make us confident. 
+asr:0: OUTPUT 3502.58-3509.99: Now, let's be clear, we believe that this is a strong number and there is a lot of work to do, but we are all focusing on that. 
+asr:0: OUTPUT 3511.49-3513.77: You want to take. 
+asr:0: OUTPUT 3513.79-3515.22: The margin is. 
+asr:0: OUTPUT 3515.50-3524.38: Sure. So I take the margin supply chain issue. I begin maybe with the supply chain issue that was mentioned yesterday. 
+asr:0: OUTPUT 3524.86-3527.79: In the MetaCore. 
+asr:0: OUTPUT 3529.21-3533.51: Maybe, Lina, as you may remember, we told you back in October... 
+asr:0: OUTPUT 3533.59-3540.46: That supply shortages may affect some industry verticals in Q4 and in particularly auto. 
+asr:0: OUTPUT 3541.52-3547.35: We were right, it did materialize, but it was softer than anticipated. 
+asr:0: OUTPUT 3547.63-3556.72: Because we were able to help clients redirect spend towards existing inventories and brand building. 
+asr:0: OUTPUT 3557.44-3565.65: So now when we look at 2022, we see these supply chain issues lingering in the first semester. 
+asr:0: OUTPUT 3565.67-3572.31: But overall, progressively being resolved, we see that we are on the right path to resolution. 
+asr:0: OUTPUT 3573.39-3579.82: This is what we have factored in our 4 to 5 growth guidance for the year and as Arthur mentioned,. 
+asr:0: OUTPUT 3579.98-3584.08: With Q1 landing slightly above this range. 
+asr:0: OUTPUT 3584.68-3589.19: Now if I move on to your question about the guidance. 
+asr:0: OUTPUT 3589.49-3592.41: Let's first remember. 
+asr:0: OUTPUT 3592.43-3599.58: That the 17.5% we have achieved in 2021 is an all-time high. 
+asr:0: OUTPUT 3600.00-3601.28: For publicity. 
+asr:0: OUTPUT 3602.04-3613.33: And this 17.5% of 2021 is based on a very particular H1, as I'm sure you remember. 
+asr:0: OUTPUT 3613.35-3618.18: Where we entered into H1 with a very low cost base. 
+asr:0: OUTPUT 3618.26-3620.16: And then add the revenue. 
+asr:0: OUTPUT 3620.18-3621.30: Pumping in. 
+asr:0: OUTPUT 3622.24-3626.81: So what we are guiding to is a 17.5%. Yes. 
+asr:0: OUTPUT 3626.83-3634.69: It's the same number, but we are transforming something that was a bit exceptional in H1, as we said. 
+asr:0: OUTPUT 3635.22-3639.32: To a more recurring margin. 
+asr:0: OUTPUT 3639.86-3642.98: So now in terms of dynamics in the PNL. 
+asr:0: OUTPUT 3643.12-3650.13: We have the operating leverage of the 4 to 5 percent. 
+asr:0: OUTPUT 3650.15-3655.60: Exercising their strengths on the other operating costs of the group. 
+asr:0: OUTPUT 3655.64-3661.18: I.e. Cost of sales, depreciation, other operating expenses. 
+asr:0: OUTPUT 3661.36-3667.93: What we plan here, what we estimate, is that in PPs of revenue,. 
+asr:0: OUTPUT 3668.01-3673.37: It will be a decrease of about up to 100 BP. 
+asr:0: OUTPUT 3674.29-3684.08: And then we will have an increase of our group personal costs, including hiring, obviously, to sustain the 4 to 5% growth. 
+asr:0: OUTPUT 3684.16-3694.89: Incentive, I think Arthur I mentioned it several times, retention packages and obviously increase in salary reflecting inflation. 
+asr:0: OUTPUT 3695.18-3705.05: So that's the plus 100 that we get out of other operating costs, materializing the operating leverage of the group, which is matching. 
+asr:0: OUTPUT 3705.07-3714.87: This 100 BP more group personal cost. So all together, you know, in round number, all together, 17.5% for the year. 
+asr:0: OUTPUT 3716.40-3725.47: The problem is that Tina touched almost all topics in the first question. So maybe I just recap and then we move on to the other one. But when it comes to the top line. 
+asr:0: OUTPUT 3725.99-3733.87: We are confident to deliver between 4% to 5% for three reasons. The strength of our model boosted by epsilon in sapiens. 
+asr:0: OUTPUT 3734.25-3742.46: The ramp up of our new business wins in 2021 and the overall positive environment for advertising and business transformation. 
+asr:0: OUTPUT 3742.86-3752.47: And to come back to your point, this includes possible supply chain shortage that could come in H1 and then linger over the time. 
+asr:0: OUTPUT 3753.09-3759.60: When it comes to the margin, we are maintaining the same margin as 2021. 
+asr:0: OUTPUT 3759.62-3767.33: For three main reasons, Michel said it, we enter 2021 with a lean cost base, which is a big difference. 
+asr:0: OUTPUT 3767.81-3773.85: We are anticipating to mitigate inflation that will be there and also very importantly. 
+asr:0: OUTPUT 3774.25-3779.02: We will continue to invest in our talent to sustain our growth because again,. 
+asr:0: OUTPUT 3779.26-3788.45: We believe that when you are already at the best margin of the industry and the best margin ever for the group, what matters the most is to sustain our growth. 
+asr:0: OUTPUT 3789.01-3798.04: And here again, inflation is included and supply shortages are included in those numbers. Very clear. Thank you both. 
+asr:0: OUTPUT 3803.14-3810.25: Thank you. We now move on to our next question which comes from Lisa Yang of Goldman Sachs. Please go ahead. 
+asr:0: OUTPUT 3812.61-3818.74: Good morning. I have three questions as well. The first one is a follow-up to the question on the FOUILLE guidance. 
+asr:0: OUTPUT 3819.34-3826.79: I'm just wondering given how the nature of your business has evolved with maybe more project-based work at Sapien, more data transformation work. 
+asr:0: OUTPUT 3827.51-3833.17: What percentage of your 2022 revenue do you feel you have visibility on today? 
+asr:0: OUTPUT 3834.15-3839.86: Just like if you could just help us understand like how you constructed that that sort of 45% will be helpful. 
+asr:0: OUTPUT 3840.82-3847.35: The second question is regarding Sapien, where we're seeing a great acceleration again in Q4 in the US. 
+asr:0: OUTPUT 3848.91-3852.75: And again, just wondering if you can maybe give us a bit more color in terms of the pipeline. 
+asr:0: OUTPUT 3852.77-3859.62: Of work there and should we expect a continuation of the double-digit growth rate in 2022? 
+asr:0: OUTPUT 3859.82-3861.84: To basically hit your guidance. 
+asr:0: OUTPUT 3863.20-3867.63: And the third question is on catalogation. And I think your priorities for 2022 are very clear. 
+asr:0: OUTPUT 3868.01-3872.83: I think most people have spoken to this morning, why do you want to be a lawyer? 
+asr:0: OUTPUT 3872.85-3878.06: You know, so conservative on the balance sheet? Is it, you know, you want to keep your value for larger M&A? 
+asr:0: OUTPUT 3879.06-3884.64: At what point you would start considering buyback. So any comment that would be helpful as well. Thank you. 
+asr:0: OUTPUT 3886.89-3892.59: Yeah, sure. 
+asr:0: OUTPUT 3893.13-3902.72: So on the dynamics of the 4 to 5% guidance we're giving for 2022,. 
+asr:0: OUTPUT 3903.40-3910.17: Mean several things we can say. First, in terms of activity, we have a lot of data. 
+asr:0: OUTPUT 3910.19-3915.26: Epsilon and Sapient will be accretive to the group overall growth. 
+asr:0: OUTPUT 3915.36-3920.40: That as they have been in 2021, they will be in 2022. 
+asr:0: OUTPUT 3921.24-3924.76: The second assumption and the second thing we see. 
+asr:0: OUTPUT 3924.78-3932.61: Is media being a strong contributor with a continued strength in digital. 
+asr:0: OUTPUT 3933.47-3936.68: Third, we in this 4 to 5%. 
+asr:0: OUTPUT 3936.70-3946.71: We are counting on a contribution of creative which will be modest in terms of organic growth. 
+asr:0: OUTPUT 3947.57-3953.23: So you see, having said all of this, you need to look at our business as a whole. 
+asr:0: OUTPUT 3953.25-3957.02: As Arthur was saying in the first part of his presentation. 
+asr:0: OUTPUT 3957.08-3963.74: Because each is playing a key role in driving overall growth in our integrated platform model. 
+asr:0: OUTPUT 3964.26-3967.93: Yes, maybe I add a well on that. 
+asr:0: OUTPUT 3967.95-3976.68: The strength of our model today lies on our capability to have at scale, and it's important to say at scale. 
+asr:0: OUTPUT 3977.04-3983.56: Data, creative media and technology to really transform the business of our clients. 
+asr:0: OUTPUT 3984.06-3991.03: And where we are generating value and maybe we'll talk about the smaller acquisition we have been made later but just to take a concrete example. 
+asr:0: OUTPUT 3991.45-3998.16: Where we are really adding value is our ability to connect those expertise through the power of one. 
+asr:0: OUTPUT 3998.84-4002.80: This is where not only we generate growth, but also profits. 
+asr:0: OUTPUT 4003.40-4007.21: A great example of that is what we have done with epsilon. 
+asr:0: OUTPUT 4007.85-4015.58: As you will remember, when we made the acquisition of Exelon, it was a business that at the time was declining. 
+asr:0: OUTPUT 4016.14-4024.82: We turn it to a high-growth engine for us, as for Sapien, by the way, because we've been able to connect it with our media operation. 
+asr:0: OUTPUT 4025.19-4030.95: And we've been able to deliver for our client personalization at scale as none of our competitors can. 
+asr:0: OUTPUT 4031.31-4035.46: So yes, it's important to look at the growth per expertise and we are. 
+asr:0: OUTPUT 4035.78-4039.68: But what really matters is to look at the growth overall and by the way,. 
+asr:0: OUTPUT 4039.92-4043.46: The performance while having a new business because, I mean... 
+asr:0: OUTPUT 4043.48-4051.73: With the incredible work of our people to win new business, what is making the difference is the connection of our assets. 
+asr:0: OUTPUT 4052.11-4054.63: Again, a great example of that is McDonald's. 
+asr:0: OUTPUT 4055.38-4060.64: Winning McDonald's without a pitch for their media business in the US. 
+asr:0: OUTPUT 4061.12-4065.85: Because we were working with them on data, because we were working on them on technology,. 
+asr:0: OUTPUT 4066.07-4073.39: Is the best demonstration not only of the quality of our assets, but our ability through the power of one to come with an end-to-end solution. 
+asr:0: OUTPUT 4076.02-4079.94: Right. On the third question, Lisa, about capital... 
+asr:0: OUTPUT 4080.00-4088.29: That. 
+asr:0: OUTPUT 4088.75-4090.01: A capital allocation. 
+asr:0: OUTPUT 4090.61-4097.64: We had a mandate in 2021 which was de-leveraging. We've been super clear about that throughout the year. 
+asr:0: OUTPUT 4097.94-4100.40: And that's exactly what we did. 
+asr:0: OUTPUT 4100.72-4105.67: As you have seen, we've reduced significantly our average net debt. 
+asr:0: OUTPUT 4105.91-4112.77: And we've reduced it by a full round, a full turn of a bit down. Now, looking at 2022,. 
+asr:0: OUTPUT 4113.05-4122.00: We have with the board decided a more balanced capital allocation with three parts in there. 
+asr:0: OUTPUT 4122.28-4130.33: The first one is, as Arthur mentioned, is the investment in our business to accelerate our growth. 
+asr:0: OUTPUT 4130.35-4136.30: By investing the double of the 2021 M&A envelope. 
+asr:0: OUTPUT 4136.36-4138.58: We go from 200 to 300. 
+asr:0: OUTPUT 4139.26-4140.80: To 400 to 600. 
+asr:0: OUTPUT 4141.22-4150.37: The second part, and I think that's an important one, is a substantial return to shareholder with the dividend which is representing. 
+asr:0: OUTPUT 4150.39-4153.23: Circa 48% of payout. 
+asr:0: OUTPUT 4153.49-4155.26: And which is fully paid in cash. 
+asr:0: OUTPUT 4155.64-4164.28: And the third one, so third part of this capital allocation, is a continued deliverance, which is reflecting our strong financial discipline. 
+asr:0: OUTPUT 4164.72-4166.87: We believe with the bold. 
+asr:0: OUTPUT 4166.89-4176.16: That the cash allocation I just described will create more value for all our stakeholders than a purely financial share buyback. 
+asr:0: OUTPUT 4178.40-4182.30: Last but not least, your question on tapion. 
+asr:0: OUTPUT 4182.70-4190.85: First, I know that many Sepian people are listening to this call, so it gives me an opportunity to sign them because we are extremely, extremely pleased. 
+asr:0: OUTPUT 4191.01-4194.41: With the turnaround and the transformation that... 
+asr:0: OUTPUT 4195.26-4198.26: And under Nigel Vaz's leadership. 
+asr:0: OUTPUT 4198.78-4206.13: And by the way, it's important to note that we are very grateful for their effort because as you know, Sapient Delivery Center. 
+asr:0: OUTPUT 4206.41-4211.93: And I should not call it a delivery center because this is where we have our best engineers are actually in India. 
+asr:0: OUTPUT 4212.35-4217.70: And the least we can say is that 2021 has been a very tough moment for them professionally. 
+asr:0: OUTPUT 4217.78-4222.50: But more importantly, personally, we did a lot of things and we tried to help as much as we can. 
+asr:0: OUTPUT 4222.52-4230.05: Delivering the performance, they are delivering 14% globally is really a big achievement. 
+asr:0: OUTPUT 4230.59-4240.04: Now, to answer your question, we don't think you should consider 2021 numbers as a normalized level of growth. 
+asr:0: OUTPUT 4240.58-4243.96: But to be very straightforward on your question,. 
+asr:0: OUTPUT 4244.26-4252.21: We are confident that Publicis Sapiens will be highly equitative to the Group Organic Growth in 2022. 
+asr:0: OUTPUT 4252.89-4254.45: There is two factors for that. 
+asr:0: OUTPUT 4255.64-4260.88: The third is the US. I mean, for those who were with us in 2019,. 
+asr:0: OUTPUT 4261.54-4267.23: You would remember that sapien foyer has been structurally declining in the US. 
+asr:0: OUTPUT 4267.59-4273.45: We did roughly three things. First, we asked Nigel Vaz, who was in charge of the rest of the world, to take care of it. 
+asr:0: OUTPUT 4273.97-4275.86: Second, we separated. 
+asr:0: OUTPUT 4276.50-4278.48: Sapiens from other fish. 
+asr:0: OUTPUT 4278.52-4289.97: And by the way, give me an opportunity to say that Razorfish now is growing pretty well while it was structurally declining too. And Jim Ripley and his team has been doing a great job in the US. 
+asr:0: OUTPUT 4290.43-4300.38: And we actually transform SapientOffer in the US on the model that Nigel has developed around the world. 
+asr:0: OUTPUT 4300.42-4305.63: Which is industry verticals focusing on business transformation. 
+asr:0: OUTPUT 4306.61-4313.83: By doing this in 2021, sapient in the US reached 20%. 
+asr:0: OUTPUT 4314.53-4321.30: So it gives you an idea of the potential. Again, don't take this number as a normalized number, but you see the potential. 
+asr:0: OUTPUT 4321.94-4329.37: The second good news that matters a lot for us is that Sapient has been doing still a very good job internationally. 
+asr:0: OUTPUT 4330.11-4333.21: But it's not reflected into our UK number. 
+asr:0: OUTPUT 4333.23-4346.63: For a very simple reason, is that a few very big and very loyal clients have reduced their investment during 2020. 
+asr:0: OUTPUT 4347.03-4351.15: And it had a big impact on our number in the UK for the last two years. 
+asr:0: OUTPUT 4351.65-4353.01: There is two good news here. 
+asr:0: OUTPUT 4353.19-4356.82: The third is that investments are starting to ramp up again. 
+asr:0: OUTPUT 4357.00-4364.68: And on the same pace, Sapient in the UK has started, and it comes back to the question you were asking about where are the opportunities. 
+asr:0: OUTPUT 4364.98-4370.63: Sapien has started to win some very interesting and material business in the UK. 
+asr:0: OUTPUT 4370.97-4376.16: That make us confident that Sapient will be back in the UK in 2022. 
+asr:0: OUTPUT 4376.48-4386.11: So if you add the momentum we're having in the US and the fact that UK will have recovered this year, we feel very good about the pipeline. 
+asr:0: OUTPUT 4386.49-4396.28: We are of course very aware of the need to retain first and attract the best talent in an industry that is highly competitive. 
+asr:0: OUTPUT 4396.32-4403.86: But we are putting in place all the mechanisms, and I talked about that with Marcel, but there are many others to make sure that we can create the dynamic. 
+asr:0: OUTPUT 4407.33-4411.31: Very comprehensive. Thank you. 
+asr:0: OUTPUT 4413.37-4419.18: Thank you. We now move on to a question from Richard Eury from UBS. Please go ahead. 
+asr:0: OUTPUT 4420.70-4425.87: Yeah, many thanks. And so just sort of a couple of questions from myself. 
+asr:0: OUTPUT 4427.15-4435.96: Can you just talk about the capital allocation around M&A? Obviously that's lifted to 400 to 600 million. Can you just talk about. 
+asr:0: OUTPUT 4435.98-4444.88: Without giving targets, what acquisitions are you looking to add to? What capabilities do you think you need to add to? 
+asr:0: OUTPUT 4444.90-4453.47: The business from here and what contributions you expect from that investment this year and as we go into next year. So that's the first question. 
+asr:0: OUTPUT 4456.00-4461.54: The second question is on inflation. Obviously we've got inflation running through various different businesses. 
+asr:0: OUTPUT 4461.90-4467.33: Can you just talk to how inflation impacts your business and as we pivot to more. 
+asr:0: OUTPUT 4467.35-4474.43: Sort of revenue streams that are more cost plus in nature, can you start to pass through that underlying inflation through and whether that's a beneficiary. 
+asr:0: OUTPUT 4474.45-4478.66: To you as a business and that's also supportive of the four to five percent revenue growth. 
+asr:0: OUTPUT 4480.36-4484.52: And then just lastly, just coming back to the 4-5% guide. 
+asr:0: OUTPUT 4484.56-4485.69: Obviously, you've said. 
+asr:0: OUTPUT 4485.71-4490.19: Just so I can correct here, Sapien is number one contributor to growth. 
+asr:0: OUTPUT 4490.21-4497.74: Epsilon second, media third, and within media that includes account wins and creative is basically broadly flat to slightly up. 
+asr:0: OUTPUT 4497.90-4500.62: Just to confirm what you had said previously. Thanks. 
+asr:0: OUTPUT 4505.23-4514.23: Sorry, my mic was not on. So I'll start with the third one. This is correct. The assumptions you have are correct. This is exactly what Matt said. 
+asr:0: OUTPUT 4515.54-4518.28: I'll go quickly on inflation. 
+asr:0: OUTPUT 4519.08-4523.30: There is no doubt that there will be an infection this year, everyone knows it, nothing new here. 
+asr:0: OUTPUT 4523.86-4529.97: But when it comes to our business, the impact will be on personal cost. It is clearly there. 
+asr:0: OUTPUT 4530.49-4538.04: And by the way, this is one of the reasons we are coming with 17.5% in terms of margins. 
+asr:0: OUTPUT 4538.62-4548.41: The truth is, and I can go on and on about that, but I'm going to try to make shorter answer now, is that when you look at the model we have built, shifting from an olding company to a platform,. 
+asr:0: OUTPUT 4548.77-4554.49: Today we have the agility and the flexibility to actually mitigate inflation. 
+asr:0: OUTPUT 4554.91-4563.74: Continue to invest in talent, to invest in our growth and maintain what is the industry's first margin and a record for us. 
+asr:0: OUTPUT 4564.28-4567.89: Maybe I'll come back to the MNA because this is a great question. 
+asr:0: OUTPUT 4571.03-4579.74: We wanted to put our MNA track record of 2021 in the highlights to make one point. 
+asr:0: OUTPUT 4580.00-4586.65: Which is thanks to the acquisition we have made of Epsilon and Sapient. 
+asr:0: OUTPUT 4587.47-4591.59: Today, not only we have the technology and the data backbone. 
+asr:0: OUTPUT 4592.25-4599.08: But we have 18,000 engineers and developers that are able to land smaller tech acquisitions. 
+asr:0: OUTPUT 4599.30-4609.11: That can really reinforce our global offer, not only in terms of growth, but also in terms of products and services that are made for the future. 
+asr:0: OUTPUT 4609.85-4611.53: Citrus is a great example. 
+asr:0: OUTPUT 4611.91-4620.70: And sorry to be a bit technical here, but I think it's important for you to see that we are making the best out of the investments we are making. 
+asr:0: OUTPUT 4621.44-4629.69: When we make the citrus acquisition, we buy one of the leader in retail media, not the leader, but one of the leader. 
+asr:0: OUTPUT 4631.11-4638.16: What makes a difference between us and anyone else that could apply it is that through Epsilon we have the core ID. 
+asr:0: OUTPUT 4638.60-4646.33: So we have, for example, in the US, 250 million profiles that we can plug into the Citrus platform. 
+asr:0: OUTPUT 4646.97-4654.73: And then immediately we become the only company that can track a customer. 
+asr:0: OUTPUT 4655.66-4659.56: From onsite, any retailer site where we are doing the tech. 
+asr:0: OUTPUT 4660.00-4661.46: Two of sides. 
+asr:0: OUTPUT 4661.48-4662.90: Thanks to Epsilon-80. 
+asr:0: OUTPUT 4663.48-4664.74: This is a big difference. 
+asr:0: OUTPUT 4665.07-4672.91: When you know that a retailer website will be a media that will be bigger than Linear TV in 25 in the US,. 
+asr:0: OUTPUT 4673.47-4679.36: You understand how important it is not only to have the technology to build it, but to track customers. 
+asr:0: OUTPUT 4679.88-4681.82: And so there is no and by the way. 
+asr:0: OUTPUT 4681.86-4690.45: I can go on and on. I said we do short answer, but I think it's very important topic because it enables you to understand why we are raising our envelope. Tech Tremendous. 
+asr:0: OUTPUT 4691.95-4695.82: Today, the pipeline of Sapient is very strong, sometimes too strong. 
+asr:0: OUTPUT 4696.14-4705.13: I mean, the demand for business transformation coming from the companies at Sapien that has a true differentiator being part of publicists is really encouraging. 
+asr:0: OUTPUT 4705.61-4712.23: With Tremend, we are multiplying our capabilities to deliver and serve more clients in Europe. 
+asr:0: OUTPUT 4712.47-4719.08: And by the way, create another global delivery center in Eastern Europe versus India. 
+asr:0: OUTPUT 4719.52-4720.68: That is Paramount for us. 
+asr:0: OUTPUT 4721.20-4729.03: And this again, and this is why by the way, on both cases, the competitors we have for those acquisitions are definitely not the holding company. 
+asr:0: OUTPUT 4729.71-4733.07: There are more in the system integration or in the adtech world. 
+asr:0: OUTPUT 4733.49-4736.72: But it is the addition of our existing capabilities. 
+asr:0: OUTPUT 4736.74-4745.29: To those new capabilities that make a difference, again, focusing on targeted acquisition that gave us people and technology. 
+asr:0: OUTPUT 4745.75-4752.17: And so to come back to your question, for 2022, we have three priorities in terms of targets. 
+asr:0: OUTPUT 4753.25-4757.54: The first is first party data management outside of the US. 
+asr:0: OUTPUT 4758.34-4763.58: We are leading by far in the US. We have a good position in Europe. We are progressing in Asia. 
+asr:0: OUTPUT 4763.98-4771.43: We are starting in LATAM and it's very important for us to continue to strengthen our first party data management. 
+asr:0: OUTPUT 4772.21-4774.27: The second thing is new digital media. 
+asr:0: OUTPUT 4774.57-4782.70: We talk about retail media. As you know, we are number one in media in the US. We buy $1 out of three. We are second globally. 
+asr:0: OUTPUT 4783.12-4792.99: How can we make sure that all these investments we manage for our clients are optimized in the best way? And how do we bring the capabilities and the people to do it? So that's second. 
+asr:0: OUTPUT 4793.37-4794.57: And serve this commerce. 
+asr:0: OUTPUT 4795.10-4801.36: And commerce we see high growth at the moment on a smaller scale when it comes to shopper. 
+asr:0: OUTPUT 4801.78-4810.67: On a big scale when it comes to e-commerce, because this is where we have a leadership position with Sapient, this is a third area where we will invest. 
+asr:0: OUTPUT 4811.37-4819.52: Sorry it was long. Map is telling me to go faster, but I wanted to make sure that I made the point. No, no, no, that's super clear. Thanks. 
+asr:0: OUTPUT 4822.86-4829.75: We now move on to our next question from Omar Shaikh of Morgan Stanley. Please go ahead. 
+asr:0: OUTPUT 4832.65-4839.56: I've got three questions if I could. Maybe if I could first of all, Artil, go back to the Facebook comments from last night. 
+asr:0: OUTPUT 4840.00-4849.69: I mean, specifically they talked about some of these, the cost pressures and inflation pressures and supply chain issues impacting advertising budgets. 
+asr:0: OUTPUT 4849.75-4859.62: Could you just confirm that the comments that they made aren't being reflected in your guidance and the way you're thinking about your business this year? That's the first question. 
+asr:0: OUTPUT 4860.42-4864.60: And then secondly, on reviews, new business. 
+asr:0: OUTPUT 4865.25-4874.51: You. 
+asr:0: OUTPUT 4874.53-4882.58: In the total number of account movements. If you look, it's about three times the level that you saw in a couple of years ago. 
+asr:0: OUTPUT 4882.60-4891.49: Could you just maybe talk about what you're expecting in terms of account reviews this year, whether they're going to be defensive or offensive? 
+asr:0: OUTPUT 4892.19-4893.91: And then finally,. 
+asr:0: OUTPUT 4893.93-4905.97: You've given guidance for 22 on top line and margins. I wonder whether you could just talk, maybe take a step back and talk about what you think normalized growth and margins might be for your business. 
+asr:0: OUTPUT 4906.75-4909.77: Clearly, we're still going to be benefiting from. 
+asr:0: OUTPUT 4909.79-4918.16: Above average growth, I guess, during the course of 2022. And so how does growth and margins look for publicists beyond that? Thank you very much. 
+asr:0: OUTPUT 4921.70-4927.69: I propose we do one, three, two. So can you start, Michel Alain, with one? 
+asr:0: OUTPUT 4929.51-4934.71: Sure. So, I mean, in terms of inflation, 2.0 mark. 
+asr:0: OUTPUT 4934.81-4940.64: The first one is that as it's relating to our top line,. 
+asr:0: OUTPUT 4940.98-4947.51: As of now, we do not see an impact on inflation on our top line. 
+asr:0: OUTPUT 4947.63-4954.45: Now, is inflation is going to be temporary or be there for a while? I don't know. I leave this to economists. 
+asr:0: OUTPUT 4954.83-4958.60: But what I can say that we don't see any impact for now. 
+asr:0: OUTPUT 4959.16-4967.71: The other point is that we believe that in this environment, we are the best equipped with our assets to continue to capture the shift. 
+asr:0: OUTPUT 4967.73-4972.95: In our client spend towards digital and data and business transformation. 
+asr:0: OUTPUT 4973.31-4975.84: Now, on the cost base,. 
+asr:0: OUTPUT 4976.32-4983.18: I think I have explained the moving parts of the cost base for the. 
+asr:0: OUTPUT 4983.20-4984.44: 2021. 
+asr:0: OUTPUT 4984.50-4994.35: With personal expense going up 100 BP and the operating leverage providing another 100 BP compensating one to another. 
+asr:0: OUTPUT 4995.74-4999.20: The important point to underline here. 
+asr:0: OUTPUT 4999.22-5012.13: Is that we are able to contain this personal cost increase by the significant portion of our talent base that we have shifted to our global delivery center. 
+asr:0: OUTPUT 5012.31-5015.42: Well, it's true for Publicis Sapient and for Epsilon. 
+asr:0: OUTPUT 5015.54-5017.46: But it's also true for media. 
+asr:0: OUTPUT 5017.56-5027.39: It's also true for production and for our support function. Overall, we have an upshot base of about 25%. 
+asr:0: OUTPUT 5028.09-5031.21: And we are going to carry on increasing this footprint. 
+asr:0: OUTPUT 5031.43-5038.44: Last but not least, in terms of salary inflation, what we see in 2022. 
+asr:0: OUTPUT 5038.60-5044.26: I can't give you like an overall number, it doesn't have any meaning really. 
+asr:0: OUTPUT 5044.56-5051.27: But if we look, you know, country by country, we see the US being mid-single digit. 
+asr:0: OUTPUT 5051.61-5055.90: We see the UK being a bit below the US. 
+asr:0: OUTPUT 5056.30-5059.92: In continental Europe, we don't see much. We don't see much. 
+asr:0: OUTPUT 5060.00-5063.62: Except obviously in Central Eastern Europe where it's higher. 
+asr:0: OUTPUT 5064.04-5072.21: And finally, in Asia, we see high single digits in India for sure, and China just a bit below India. 
+asr:0: OUTPUT 5072.29-5075.50: In terms of colors, what I can tell you about the inflation. 
+asr:0: OUTPUT 5076.72-5084.38: Merci. I'll take the question on beyond 2022 and I'll start with the growth. 
+asr:0: OUTPUT 5085.85-5095.32: Obviously it's too early to make any comment beyond 2022, but I can make just a few remarks that hopefully will give you a bit of color. 
+asr:0: OUTPUT 5096.30-5097.46: First. 
+asr:0: OUTPUT 5097.50-5107.27: It's important to note, as I said, that 2022 will benefit from two factors that we need to be taking into account beyond it. 
+asr:0: OUTPUT 5107.49-5111.41: First new business track record in 2021. 
+asr:0: OUTPUT 5111.93-5116.14: Again, this is one of the reasons why we feel confident in our 425. 
+asr:0: OUTPUT 5116.94-5124.58: And second, again, we are still in an overall positive environment when it comes to advertising and business transformation. 
+asr:0: OUTPUT 5125.05-5131.61: So it's very difficult for us to predict beyond 2022 on this second point. 
+asr:0: OUTPUT 5132.49-5140.52: What I can tell you is that when you look at our model, our new business record and the dynamic we're having at the moment, we are actually confident. 
+asr:0: OUTPUT 5140.92-5146.05: That everything we have been building and the robust foundation we are having at the moment. 
+asr:0: OUTPUT 5146.39-5153.45: Will help us deliver and will make us deliver sustainable growth and outperform the market in the midterm. 
+asr:0: OUTPUT 5153.95-5161.68: But at this stage, don't ask me more on the growth because as you know, there are many external factors and it's way too early. 
+asr:0: OUTPUT 5162.62-5164.06: On margin is different, Thomas. 
+asr:0: OUTPUT 5164.70-5174.59: I've been in my job since 2017, but I think that Maurice will agree with me that it was the case before. 
+asr:0: OUTPUT 5174.85-5184.84: It has been almost a decade with some analysts saying that our margin is going to decline and actually decline pretty steeply. 
+asr:0: OUTPUT 5186.11-5195.06: It hurt us in terms of image at the moment where we were confident and we were saying it very clearly. I'm thinking about 2019, for example. 
+asr:0: OUTPUT 5195.58-5203.08: And hopefully at one point, people will just understand that now we maybe have a track record 10 years later. 
+asr:0: OUTPUT 5203.54-5208.53: And that for all of this time we have delivered the best margin of the industry. 
+asr:0: OUTPUT 5209.01-5215.58: This year, we will deliver the best margin of the industry and an historic high for Puglisys. 
+asr:0: OUTPUT 5216.52-5222.52: And what is really important, and this is something that we have to bring, by the way, in our margin, because we are listening on this. 
+asr:0: OUTPUT 5222.90-5229.07: Is it's not margin for the sake of margin. It's margin in order to invest in the future. 
+asr:0: OUTPUT 5229.65-5232.17: And its margin in order to invest in our growth. 
+asr:0: OUTPUT 5232.47-5236.44: And this is why, again, we have a margin for 2022. 
+asr:0: OUTPUT 5236.84-5238.02: That include inflation. 
+asr:0: OUTPUT 5238.14-5247.05: I'm not going to come back to that, but include also the necessary investment to get to what we believe is a strong growth of 4 to 5% in 2022. 
+asr:0: OUTPUT 5253.59-5256.72: Thank you. 
+asr:0: OUTPUT 5257.46-5261.48: We now move on to our next questioner. 
+asr:0: OUTPUT 5265.53-5267.41: Hello, I'm Julien Roque from Barcelona. 
+asr:0: OUTPUT 5267.49-5271.05: Pleasure. Good morning. The usual three questions. 
+asr:0: OUTPUT 5271.61-5278.32: The first one is on the capital allocation. I mean, you were very clear for Full Year 22. 
+asr:0: OUTPUT 5279.32-5281.50: On the dividend and the M&A. 
+asr:0: OUTPUT 5282.08-5291.31: I was wondering whether that is just for 2022 or you think that's going to be for another couple of years because if you take cash flow less M&A. 
+asr:0: OUTPUT 5291.75-5296.88: Less dividend, there's not that much change in the net debt. That's my first question. 
+asr:0: OUTPUT 5297.60-5303.12: The second one is on the breakdown of net cells at group level. So you gave us epinephrine and sepian growth rate. 
+asr:0: OUTPUT 5303.26-5311.01: At group level for the first time, which is great. What percentage of sales do they represent? I know it's around 15%, but. 
+asr:0: OUTPUT 5311.03-5315.60: If we could get 14 or 16 as a mentor rather than 15, that would be great. 
+asr:0: OUTPUT 5315.70-5320.02: And also how much is media and pure healthcare. 
+asr:0: OUTPUT 5320.40-5329.99: I.e. Healthcare X Media, Sapien, Epstein, at group level. And I'll stop at two questions because I think we're running out of time. Thank you. 
+asr:0: OUTPUT 5333.33-5336.72: There is no third question, but there is one and two. I leave it to you, Michel, I guess. 
+asr:0: OUTPUT 5339.66-5349.25: So on the capital allocation for 2022, I don't think I go back on this. I hope I was clear in terms of priorities with the three buckets. 
+asr:0: OUTPUT 5349.93-5355.48: Now, if you look at it beyond 2022,. 
+asr:0: OUTPUT 5355.80-5359.52: Obviously, it's a bit early to share our priority beyond 2020. 
+asr:0: OUTPUT 5359.56-5366.07: But there are a few standing principles that we wish to highlight. 
+asr:0: OUTPUT 5366.63-5375.74: Investing in the business through BroadSUN is a key element of our strategy. I think Arthur has been super clear about that. 
+asr:0: OUTPUT 5375.76-5380.44: To expand our capabilities in data, in tech, in commerce. 
+asr:0: OUTPUT 5380.58-5388.21: And this will obviously take more than just one year, so you can consider this beyond 2022. 
+asr:0: OUTPUT 5388.85-5395.30: The second point is dividend. It has always been one of the fundamentals of our return to shareholder. 
+asr:0: OUTPUT 5395.56-5403.80: So you can take the 45 to 50 payout range that we just upgraded beyond 2022. 
+asr:0: OUTPUT 5404.30-5408.53: And finally, when it comes to the script dividend, and I know it's important. 
+asr:0: OUTPUT 5408.81-5416.32: We have been very clear that now our goal in the midterm, so it means beyond 2022,. 
+asr:0: OUTPUT 5416.52-5422.84: Is to stabilize the share count at the level of December 2021. 
+asr:0: OUTPUT 5422.88-5426.89: So again, these three are beyond 2022. 
+asr:0: OUTPUT 5428.83-5438.96: The second question, if I'm not mistaken, is related to the weight in the mix of Epsilon and Sapiens. 
+asr:0: OUTPUT 5438.98-5440.62: Which as I told you. 
+asr:0: OUTPUT 5440.64-5444.70: Are representing about 15% and 15%. 
+asr:0: OUTPUT 5444.94-5451.63: I mean, it has changed a little bit, but not that much. And the rest of the group was making 10% of growth, too. 
+asr:0: OUTPUT 5452.01-5453.57: So 15%, 15%. 
+asr:0: OUTPUT 5460.00-5462.00: Yeah, we still have some. 
+asr:0: OUTPUT 5463.92-5472.09: Sorry, Arthur, my question was also weight of media and healthcare on top of SAPIEN and Epsilon. 
+asr:0: OUTPUT 5474.71-5482.78: The healthcare is about 5% of the total. 
+asr:0: OUTPUT 5483.06-5493.05: When you look at media, we've said several times that digital media is about 10% of our total. 
+asr:0: OUTPUT 5493.07-5494.45: Revenue. 
+asr:0: OUTPUT 5494.59-5499.52: And the rest is about 20% in traditional media, so 30% for the total media. 
+asr:0: OUTPUT 5500.20-5504.64: Now what is very interesting to look at, Julien, so I'm going to take a minute more, is that. 
+asr:0: OUTPUT 5504.66-5511.79: The way we have organized our operation, which by the way gives us the flexibility and agility I was talking about,. 
+asr:0: OUTPUT 5512.15-5523.40: Is to make sure that media and creative are managed mostly at the country level because it becomes more difficult every day to separate creative from media as of course we are creating experience. 
+asr:0: OUTPUT 5523.72-5524.96: Plus digital agency. 
+asr:0: OUTPUT 5525.21-5532.93: What we really track at global level is sapient and epsilon because you need global capabilities that are delivered. 
+asr:0: OUTPUT 5532.95-5538.40: In a global model and that's again the perception for the thing we are tracking the most. 
+asr:0: OUTPUT 5545.21-5550.19: You. Our next question comes from Tom Singlehurst from Citi. Please go ahead. 
+asr:0: OUTPUT 5552.83-5557.94: Good morning, it's Tom here from Citio. I'm essentially questioned out. 
+asr:0: OUTPUT 5558.40-5561.70: But I had two quick ones if that's okay. 
+asr:0: OUTPUT 5561.76-5577.64: You mentioned the director earlier, and I don't know whether Steve is on the line, but I was interested at a very high level about inflation and your thoughts on what that does for advertising versus promotion and then within advertising for brand versus performance. 
+asr:0: OUTPUT 5577.66-5589.99: I wonder whether with all the questions about Meta and Facebook, there's maybe sort of comparing apples with eggs in terms of inflationary impacts on your top line. That was the first question. 
+asr:0: OUTPUT 5590.37-5600.00: And then secondly, just to maybe challenge you a bit, I mean the tremendous acquisition you talked about before delivering another delivery sensor. 
+asr:0: OUTPUT 5600.16-5607.83: I'm just wondering whether we should view some of the M&A as sort of essentially sort of acquire hires. I mean, is this... 
+asr:0: OUTPUT 5607.85-5615.58: You know, is pushing into or doing deals like Tremend signaling that you're running out of room to execute at Sapien. 
+asr:0: OUTPUT 5616.60-5617.78: Thank you. 
+asr:0: OUTPUT 5620.28-5622.70: Thank you, Steve. I've got good news for you. 
+asr:0: OUTPUT 5623.14-5629.35: We have decided anyway that the next question will be for you, whatever was the question. So the good news is it is definitely appropriate. 
+asr:0: OUTPUT 5629.37-5633.25: So I propose you take the first one and I'll answer the second question. 
+asr:0: OUTPUT 5634.19-5643.26: Okay. Hi Tom, good morning everybody. Yeah, it's Steve here. I thought I was going to get away without having to answer any questions on this call for the first time. 
+asr:0: OUTPUT 5644.06-5650.65: I think Tom, in terms of your question about advertising demands,. 
+asr:0: OUTPUT 5650.77-5658.58: I think what we've seen is a shift in a number of factors during the course of the pandemic. 
+asr:0: OUTPUT 5658.70-5667.97: The impact of the overall economy, we've seen the impact of COVID, we've seen shifting consumers' behaviours and we've obviously seen alongside that evolving media landscape. 
+asr:0: OUTPUT 5668.61-5675.44: And you've been tracking long enough, Tom, to know that this is obviously what we used to call a quadrennial year. So you've got Olympics and you've got the World Cup. 
+asr:0: OUTPUT 5675.82-5678.94: And you've also got the midterm elections, all of which will have a. 
+asr:0: OUTPUT 5678.96-5681.58: An upward impact on demand. 
+asr:0: OUTPUT 5681.90-5688.33: I think what we're also seeing, and I think this is maybe what you were getting at when you were talking about your apples and eggs comparison,. 
+asr:0: OUTPUT 5688.59-5698.40: And we talked in the previous earnings call about the resilience of our economy. We are seeing a real shift now with an increase of new entrants to the market. 
+asr:0: OUTPUT 5698.86-5702.80: And that is really driving the resilience and the growth. 
+asr:0: OUTPUT 5702.86-5711.85: And we've talked obviously and we've talked about the growth of digital media and business transformation and particularly direct to consumer communications. 
+asr:0: OUTPUT 5712.25-5719.92: And although we're putting these together in joint connected solutions where we're bringing together data, tech, and media, and creative,. 
+asr:0: OUTPUT 5720.56-5726.29: Tom, what we are certainly seeing, and I think the impact of the quadrennial year is lessened. 
+asr:0: OUTPUT 5726.65-5735.26: And we are certainly seeing what I think is some significant change with new entrance to the marketplace, driving demand. 
+asr:0: OUTPUT 5735.30-5739.78: Less reliant on retail space and building out direct to consumer. 
+asr:0: OUTPUT 5739.80-5742.26: Relationships. 
+asr:0: OUTPUT 5742.70-5749.57: And I think that is why we have seen a stronger spike than perhaps we anticipated in 2021. 
+asr:0: OUTPUT 5749.91-5754.89: And we're seeing that clearly that resilience and less marked level continue into 2022. 
+asr:0: OUTPUT 5760.38-5768.15: Tom, I'll take the second one. If you want to challenge me, I'm going to challenge you a bit. I think Aquarium is very good. 
+asr:0: OUTPUT 5769.77-5772.81: Again, when we make an acquisition like Tremenda,. 
+asr:0: OUTPUT 5772.91-5777.66: But maybe I'll come back to citrus because it is exactly the same. We have three criteria. 
+asr:0: OUTPUT 5778.82-5781.04: Criteria number one are the talents. 
+asr:0: OUTPUT 5781.94-5790.39: Because again, as I said earlier, everyone can talk about technology and data. If you don't have the scale and talent to deliver in the people business, you just don't exist. 
+asr:0: OUTPUT 5790.91-5796.54: We have 18,000 engineers and developers among our 85,000 people. 
+asr:0: OUTPUT 5796.96-5802.96: This is our biggest trend when it comes to data and technology. I'm going to come back to the platform later, but this is a very important point. 
+asr:0: OUTPUT 5803.30-5804.48: And so tech tremendous. 
+asr:0: OUTPUT 5805.31-5814.69: Tremen today is roughly 650 highly skilled software engineers. When we are going to add those guys,. 
+asr:0: OUTPUT 5815.72-5823.50: Through our Freeplanet platform, we plan to actually accelerate that count to 2,500 in the next years. 
+asr:0: OUTPUT 5823.96-5827.93: Which means that yes, we want to gain scale in terms of talent. 
+asr:0: OUTPUT 5827.95-5836.64: Because we are fighting against other players in this area that can serve their clients in the same way. So, scale in talent matters. 
+asr:0: OUTPUT 5837.16-5838.52: The second thing is technology. 
+asr:0: OUTPUT 5839.24-5847.69: Every time we buy this kind of small acquisition, we look for the right technology that can add to what we do. 
+asr:0: OUTPUT 5847.87-5853.85: And what they can bring to Sapiens for some industry is extremely interesting. 
+asr:0: OUTPUT 5854.13-5857.36: And last but not least, there is a clear business need. 
+asr:0: OUTPUT 5857.82-5860.80: And in this case, the business need is Europe. 
+asr:0: OUTPUT 5861.22-5865.87: But that's the combination of the three things, expanding our talent base,. 
+asr:0: OUTPUT 5866.33-5870.87: And again, this is why we are credible and why we are winning. 
+asr:0: OUTPUT 5870.95-5877.06: Getting new technology that we can land on our existing one and responding to a clear need. 
+asr:0: OUTPUT 5877.48-5886.35: Same thing for Citrus. We bought engineers from all around the world that understand first-party data management and retail media at a moment where cookies will disappear. 
+asr:0: OUTPUT 5887.03-5896.66: We bought a technology, a SaaS, that we can bring into every retailer, and we are fitting with a need that we know is going to grow exponentially, which is retail media. 
+asr:0: OUTPUT 5900.02-5905.33: Very clear. Thank you. Thank you. 
+asr:0: OUTPUT 5905.59-5911.63: We now move on to a question from Christophe Cherblanc from Saucier des Generalis. Please go ahead. 
+asr:0: OUTPUT 5913.01-5917.32: Yes, good morning. So most high-level questions have been asked, so I have two quick ones. 
+asr:0: OUTPUT 5917.82-5919.70: The first one was on CAPEX. 
+asr:0: OUTPUT 5919.76-5923.96: Was still two-thirds of the pre-COVID level. 
+asr:0: OUTPUT 5924.20-5930.85: Is it a permanent reset to a more asset line model or should we expect CAPEX to go back to the let's say 200 million? 
+asr:0: OUTPUT 5931.61-5935.72: And the second one was on the Purdue opioid situation. 
+asr:0: OUTPUT 5935.80-5945.47: I know there is a legal situation there. So do you have any visibility on the timetable? Are you tempted to settle? Any color on the issue would be good. Thank you. 
+asr:0: OUTPUT 5947.41-5956.98: Thank you. We're going to start with one with Michal and we're going to move on to Anne-Gabrielle for two. Except if Anne-Gabrielle want to start. Yeah. Anne-Gabrielle first. 
+asr:0: OUTPUT 5958.10-5964.46: Okay, so on the operator to be very clear, we consider that the lawsuit has no merit. 
+asr:0: OUTPUT 5964.90-5971.27: That it should not have been brought to the court. And because now it's a lawsuit, we don't want to enter into details. 
+asr:0: OUTPUT 5971.93-5980.48: I saw the timeline. It's really too early to know. It can take years, actually. So we are working on it, and we continue monitoring the situation. 
+asr:0: OUTPUT 5982.88-5991.99: OK, on CAPEX, Christophe, you're right, we had a low level of CAPEX in 2021. 
+asr:0: OUTPUT 5992.31-5998.70: Coming actually, and maybe you remember that, coming particularly from our first semester. 
+asr:0: OUTPUT 5999.62-6008.69: In 2022, we are estimating a level of CAPEX that will go back to the level of 2019. 
+asr:0: OUTPUT 6009.01-6017.44: With most of the increase derived from the investment in our platforms. 
+asr:0: OUTPUT 6017.46-6019.64: In both digital media. 
+asr:0: OUTPUT 6020.00-6025.53: Epsilon and Sepian. So just to give you a round number. 
+asr:0: OUTPUT 6025.57-6031.79: We think we'll be in capex around 220-230 for 2022. 
+asr:0: OUTPUT 6034.35-6041.14: OK, thank you. Very clear. Thank you very much. I know we're a bit late, but maybe we'll take a last question. 
+asr:0: OUTPUT 6043.14-6048.25: Our last question today comes from Connor O'Shea from Kepler Chevrolet. Please go ahead. 
+asr:0: OUTPUT 6049.97-6055.46: Yes, yes, morning. Thanks for taking the last question, Arthur. Very quickly, just a couple of follow-ups. 
+asr:0: OUTPUT 6056.64-6065.93: I wonder if you could just give us the mix of the international part of Sapient in 2021 and particularly the UK business. 
+asr:0: OUTPUT 6067.21-6076.88: Secondly, just on the margins, overall a very good performance but if I'm not mistaken quite a sharp drop in Asia, PAK and the Middle East. 
+asr:0: OUTPUT 6077.02-6080.90: Versus the previous year. Can you just explain what was going on there? 
+asr:0: OUTPUT 6081.54-6085.37: And then just very quickly, just in terms of the M&A pipeline. 
+asr:0: OUTPUT 6086.43-6092.95: What kind of sales multiples on average would you expect to pay going forward? 
+asr:0: OUTPUT 6093.33-6099.84: And are those prices coming down or going up coming out of the pandemic? Do you have a strong pipeline? 
+asr:0: OUTPUT 6100.00-6101.80: Already lined up. Thank you. 
+asr:0: OUTPUT 6104.50-6108.75: Thank you, Connor. I think that Michel and I are going to take the three questions and then maybe I'll wrap up. 
+asr:0: OUTPUT 6118.74-6121.56: I'm sorry, I'm sorry, my mic was not on. I'm sorry, I'm sorry. 
+asr:0: OUTPUT 6122.16-6128.13: I was saying, I begin with number two, which is the margin decrease in a. 
+asr:0: OUTPUT 6128.15-6141.98: In a package 2, we see a temporary margin deterioration. We had some minor non-recurring impact, so one-off in there, that will not be repeated in 2022. 
+asr:0: OUTPUT 6142.04-6143.60: That's on the one-off part. 
+asr:0: OUTPUT 6143.98-6150.23: And then we made two very strong investments, particularly in China and the Middle East. 
+asr:0: OUTPUT 6150.71-6159.76: So when you look at it, the margin in this region shall come back to the more normative level in 2022. 
+asr:0: OUTPUT 6159.80-6162.42: That it had in 2020. 
+asr:0: OUTPUT 6162.84-6164.22: That's for the margin. 
+asr:0: OUTPUT 6164.36-6166.01: In regards to. 
+asr:0: OUTPUT 6166.03-6177.04: In regards to sapient, we are not disclosing the size of sapient by country. 
+asr:0: OUTPUT 6177.06-6179.84: If I go back to the UK. 
+asr:0: OUTPUT 6180.02-6185.15: The major thing I want to say here is that the. 
+asr:0: OUTPUT 6185.17-6191.41: Sapient UK will be contributive to the growth of the UK in 2022. 
+asr:0: OUTPUT 6191.69-6196.60: And I think it's important because Arthur and I have been telling you for the last year. 
+asr:0: OUTPUT 6196.74-6204.30: It's a negative organic growth. It will go back to zero positive in Q4. 
+asr:0: OUTPUT 6204.42-6216.72: And then it will be contributive in 2022 and it's exactly what's happening with the diversification of business we've made, not only financial services, but now retail too. 
+asr:0: OUTPUT 6217.18-6223.92: And then finally, the acquisition that we are making, as Arthur was saying. 
+asr:0: OUTPUT 6224.32-6231.53: There are these three criteria that Arthur just explained, so I'm not repeating them. 
+asr:0: OUTPUT 6231.55-6236.90: Between talent, scale, technology, and basically the delivery. 
+asr:0: OUTPUT 6237.18-6246.21: We are looking at this acquisition each time with a very strong discipline in matching them towards these three criteria. 
+asr:0: OUTPUT 6246.35-6252.71: Obviously we bind them in terms of multiples more than our multiples for sure. 
+asr:0: OUTPUT 6252.75-6264.02: But each time we're building up a business case that shows that the synergies manage to get back the value to the shareholder in the near term. Arthur? 
+asr:0: OUTPUT 6265.35-6271.47: Thank you very much to all of you for listening. Sorry you have been running a bit long. 
+asr:0: OUTPUT 6272.09-6281.44: Just to wrap up, as you have seen, we had a Q4 that was ahead of expectation and a record year on every KPIs. 
+asr:0: OUTPUT 6282.32-6287.13: We do believe that we are emerging from this crisis as a stronger company. 
+asr:0: OUTPUT 6287.83-6297.06: We have a growth, an operating margin, and a free cash flow that are above 2019 and at an historical high. 
+asr:0: OUTPUT 6299.38-6304.66: Hopefully you have felt that we are entering actually 2022 with confidence. 
+asr:0: OUTPUT 6305.33-6310.95: Because we truly believe that we have built very robust foundation. 
+asr:0: OUTPUT 6312.53-6316.94: We are committed to continue to deliver industry-leading financials. 
+asr:0: OUTPUT 6317.16-6326.95: With 17.5% operating margin. And again, despite inflation and while investing in our talent to maintain the growth. 
+asr:0: OUTPUT 6327.57-6332.65: And when it comes to growth, we are committed to deliver around 4 to 5%. 
+asr:0: OUTPUT 6333.79-6339.66: It's going to be a lot of work, but we believe that we have three reasons to be confident. 
+asr:0: OUTPUT 6340.16-6344.44: The first and we talked a lot about that, so thank you for the question, the strength of our model. 
+asr:0: OUTPUT 6345.05-6354.47: With Sapient and Epsilon that are creative to our goals, but again, that are also valuing our media and creative operation. 
+asr:0: OUTPUT 6354.75-6358.70: Leading to more new business and client loyalty. 
+asr:0: OUTPUT 6359.40-6364.68: The new business win that will have an impact this year and it's a reason also for the 425. 
+asr:0: OUTPUT 6365.23-6368.15: And what we see as a positive environment. 
+asr:0: OUTPUT 6368.19-6375.74: For advertising and business transformation. We talked a lot about business transformation, but we believe it's true for advertising too. 
+asr:0: OUTPUT 6376.10-6383.94: So we're going to stop here. Thank you again for your time. Take very good care of you. And hopefully see you soon in person. Thank you. Bye-bye. 
+asr:0: OUTPUT 6386.41-6393.29: This concludes today's call. Thank you for your participation. Ladies and gentlemen, you may now disconnect. 
+asr:0: END

@@ -1,0 +1,554 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.62-7.51: Dear all, thank you very much for joining 9X conference call. 
+asr:0: OUTPUT 7.89-13.93: I am Yoichi Orikasa, General Manager, Kyoto branch of Mitsubishi UFJ Morgan Stanley Security. 
+asr:0: OUTPUT 14.97-16.52: As we kick off the conference. 
+asr:0: OUTPUT 16.88-26.55: I'd like to ask you to make sure all the materials are ready in front of you. If not, please download the files on NIDEX homepage right now. 
+asr:0: OUTPUT 29.09-38.14: Please note, this call is being recorded and the conference materials will be posted on NIDEC's homepage for the coming week. 
+asr:0: OUTPUT 38.16-39.74: For investors and analysts. 
+asr:0: OUTPUT 39.98-42.42: Who are not able to join today's call. 
+asr:0: OUTPUT 43.36-48.67: Now, I'd like to introduce today's attendees from NIDEC Corporation. 
+asr:0: OUTPUT 49.55-54.27: Mr. Junseki, representative director, president, and chief executive officer. 
+asr:0: OUTPUT 56.44-61.48: Hello everyone, this is Sekis. 
+asr:0: OUTPUT 62.54-66.21: Senior vice president and chief financial officer. 
+asr:0: OUTPUT 69.47-72.45: First, Mr. Yokota will make a presentation. 
+asr:0: OUTPUT 72.71-79.52: After his presentation, we will move on to Q&A session. And Mr. Seiki and Mr. Yokota, please. 
+asr:0: OUTPUT 79.54-81.52: Will answer your question. 
+asr:0: OUTPUT 82.48-91.97: Mr. Yokota now presents NYDEX Q3 Fiscal Year 2021 Results, Future Outlook, and Management Strategy. 
+asr:0: OUTPUT 92.65-94.59: Mr. Yokota, please go ahead. 
+asr:0: OUTPUT 95.80-100.72: Thank you, Orikasa-san. Good day, everyone, and welcome to today's conference call. 
+asr:0: OUTPUT 101.54-105.57: My name is Hidetoshi Yokota, Chief Financial Officer of Narep. 
+asr:0: OUTPUT 106.61-110.11: Today, Mr. Jun Seki, representative director. 
+asr:0: OUTPUT 110.13-117.48: President and Chief Executive Officer of NADAC and myself will be your main speakers and answer your questions. 
+asr:0: OUTPUT 118.38-124.00: Joining us also is Mr. Masahiro Nagayasu, General Manager of NIDEX IR Team. 
+asr:0: OUTPUT 125.45-131.81: For a full looking statement, please see slide two of our presentation material for details. 
+asr:0: OUTPUT 132.59-135.46: Now I'm going to review the key figures. 
+asr:0: OUTPUT 136.94-141.18: Please sit slightly for the fiscal year 21 nine-month result. 
+asr:0: OUTPUT 142.36-151.85: As shown on slide four, nine months net sales stood at record high of $1,407.2 billion. 
+asr:0: OUTPUT 152.57-155.24: 18.8% higher year-on-year. 
+asr:0: OUTPUT 156.70-160.88: 9 months operating profit and profit before income tax. 
+asr:0: OUTPUT 160.90-169.59: Increased 16.6% year-on-year to $134.6 million. 
+asr:0: OUTPUT 169.61-177.24: 19.4% year-on-year to $130.6 billion, respectively. 
+asr:0: OUTPUT 178.40-180.28: Both stood at the goal high. 
+asr:0: OUTPUT 181.54-184.82: Q3 quarterly net sales increased. 
+asr:0: OUTPUT 184.84-191.55: By 7.2% quarter on quarter to 496.5 billion. 
+asr:0: OUTPUT 191.57-195.88: Marking a record high for three consecutive puts. 
+asr:0: OUTPUT 197.46-199.74: Based on this result. 
+asr:0: OUTPUT 199.80-205.07: We have made an upward revision on year-end dividend focused by 5 yen. 
+asr:0: OUTPUT 205.09-214.37: Resulting in the projected aggregate annual dividend of 65 yen per share for FY21. 
+asr:0: OUTPUT 216.38-218.10: On slide five and six. 
+asr:0: OUTPUT 218.12-219.74: You have stepped through. 
+asr:0: OUTPUT 219.76-231.61: Showing the net sales and operating profit year-on-year and quarter-on-quarter, respectively, by a product group will exchange late effect, elimination, and structural reform expenses. 
+asr:0: OUTPUT 232.71-239.78: As you can see on slide six, all of the segments increase their net sales quarter on quarter. 
+asr:0: OUTPUT 240.74-242.98: With leaders to operating profit. 
+asr:0: OUTPUT 243.00-250.39: Appliance, commercial, and industrial, or ACI, decline due to increased material cost. 
+asr:0: OUTPUT 250.41-257.50: However, small precision models and automotive increased despite this adverse backdrop. 
+asr:0: OUTPUT 259.12-266.41: Machinery decline as the September quarter had a one-off profit increase related to the acquisition. 
+asr:0: OUTPUT 266.43-271.51: And electronic and optical components and others made an increase. 
+asr:0: OUTPUT 273.33-274.35: Please see slide 10. 
+asr:0: OUTPUT 275.48-285.77: We are aiming to become number one automotive hardware manufacturer by anticipating the strong electrification demand boosted by case. 
+asr:0: OUTPUT 285.79-290.15: Which means connected autonomous and sharing and electric. 
+asr:0: OUTPUT 291.23-299.74: In the EV structural motor related business, mass production of e-AXLE at the joint venture with Stellantis. 
+asr:0: OUTPUT 299.76-308.17: Is expected to start in the second half of fiscal year 2022 in addition to those being mass produced in China. 
+asr:0: OUTPUT 309.93-319.84: We are also receiving new orders from Chinese, European, and Japanese OEMs, as well as US EV startups and newcomers. 
+asr:0: OUTPUT 320.00-326.11: From other industries and the turning point of fiscal year 2025 gets closer. 
+asr:0: OUTPUT 328.51-330.81: In other motors and auto parts. 
+asr:0: OUTPUT 330.83-340.06: We have prepared and continue to prepare highly competitive product lineups in ADAS or Advanced Driver Assistance Systems. 
+asr:0: OUTPUT 340.08-344.06: Power drain chassis and body area. 
+asr:0: OUTPUT 344.88-346.79: With those product groups. 
+asr:0: OUTPUT 346.81-358.72: We are aiming to achieve 1 trillion yen net sales organically and 300 billion yen additional net sales through M&As in fiscal year 2025 in the automotive segment. 
+asr:0: OUTPUT 360.60-361.70: Precise line 11. 
+asr:0: OUTPUT 362.54-369.95: The Chinese battery electric vehicle market the largest in the world. 
+asr:0: OUTPUT 369.97-378.04: Achieved dramatic growth of over 150%, entering into explosive high growth period. 
+asr:0: OUTPUT 379.22-386.59: In calendar year 2021, not only domestic sales in China, but also exports from China to overseas. 
+asr:0: OUTPUT 386.69-393.43: Overseas countries are progressing quite rapidly and supporting increase of overall shipment. 
+asr:0: OUTPUT 394.81-402.50: With Ligur's 2D made in China high-end BEV landscape on the right-hand side of the slide. 
+asr:0: OUTPUT 403.80-413.31: That U.S. Company T is expanding sales through exporting their main product models made in the Shanghai factory to Europe. 
+asr:0: OUTPUT 413.71-421.84: And Chinese company En has announced to export vehicles to over 25 countries and regions by 2025. 
+asr:0: OUTPUT 423.94-425.04: Please see slide 12. 
+asr:0: OUTPUT 425.69-429.09: The total sales volume of the 10 EV model. 
+asr:0: OUTPUT 429.11-437.44: Using our E-axles has exceeded around 265,000 units on a cumulative basis. 
+asr:0: OUTPUT 437.46-440.64: Of the end of last December. 
+asr:0: OUTPUT 440.66-447.05: And sales volume in calendar year 2021 doubled compared to the previous year. 
+asr:0: OUTPUT 448.27-454.17: The monthly production is exceeding 20,000 units from last November. 
+asr:0: OUTPUT 456.16-457.52: Please see slide 13. 
+asr:0: OUTPUT 458.34-467.61: We are going to invest around $300 billion to enable vertical startups to prepare for the EV turning point of FY25. 
+asr:0: OUTPUT 468.63-473.39: In addition to the six factories that are up and running or being built. 
+asr:0: OUTPUT 473.99-477.72: We are planning a more global production site. 
+asr:0: OUTPUT 477.78-484.66: And we are going to prepare double the production capacity of expected sales volume in fiscal year 2020. 
+asr:0: OUTPUT 487.17-488.49: Please see slide 14. 
+asr:0: OUTPUT 489.65-498.94: The profitability of Q3 2021 formed a bottom as a result of lost sales due to a chip shortage. 
+asr:0: OUTPUT 498.96-505.53: And high low material price as illustrated on the right hand side of the slide. 
+asr:0: OUTPUT 508.19-509.63: Please see slide 15. 
+asr:0: OUTPUT 513.33-518.78: Paradigm shifts from ICE on internal conversion engine vehicle to EVs. 
+asr:0: OUTPUT 518.80-523.34: Is rapidly accelerating in two-wheel and compact cars as well. 
+asr:0: OUTPUT 524.58-532.69: In the mobility area, the electric motorcycle is mainly found in India, China and ASEAN countries. 
+asr:0: OUTPUT 532.71-537.72: Is expected to enter high growth period driven by environmental measures. 
+asr:0: OUTPUT 538.64-548.13: We are currently focusing on two major markets of India and China and have already started mass production of models for major customers. 
+asr:0: OUTPUT 549.45-551.35: In the mini EV area. 
+asr:0: OUTPUT 551.37-559.50: We have already received orders from major customers in the Chinese market and are studying mass production from fiscal year 2022. 
+asr:0: OUTPUT 560.82-569.89: We consider these business areas as one of the most important growth drivers in small precision motors in Vision 2025. 
+asr:0: OUTPUT 571.93-573.39: Please see slide 16. 
+asr:0: OUTPUT 574.43-584.10: Nidec's small precision motor division starts a shift to mobility in fiscal year 2022 with launching multiple projects. 
+asr:0: OUTPUT 584.12-587.99: Project for electric motorcycles and mini EVs. 
+asr:0: OUTPUT 589.29-592.93: As illustrated on the left-hand side of the slide. 
+asr:0: OUTPUT 593.35-600.34: Our motors have been adopted by China's largest electric motorcycle manufacturer, Yaida. 
+asr:0: OUTPUT 600.90-605.57: Yadia for the first time and actual shipment started last September. 
+asr:0: OUTPUT 606.51-613.19: The annual global market size of motorcycles is estimated at around 60 million units. 
+asr:0: OUTPUT 613.77-618.40: The largest market being in India, followed by China and Indonesia. 
+asr:0: OUTPUT 619.80-623.78: As electrification of motorcycle is progressing,. 
+asr:0: OUTPUT 624.00-630.99: Electric motorcycles are expected to become rapidly widespread mainly in these countries and regions. 
+asr:0: OUTPUT 632.47-634.81: As shown on the right-hand slide. 
+asr:0: OUTPUT 634.83-636.24: Slide. 
+asr:0: OUTPUT 636.54-643.16: We are receiving increasing orders from motors used in electric motorcycles and mini EVs. 
+asr:0: OUTPUT 643.44-651.45: That are under 30 kilowatts and are in mass production within fiscal year 2022 for around 10 projects. 
+asr:0: OUTPUT 653.55-654.79: Please see slide 17. 
+asr:0: OUTPUT 655.80-662.90: We are implementing business portfolio transformation and HDD motor market structural change. 
+asr:0: OUTPUT 663.88-673.93: That sales of other small motors in Quota 3 has achieved record high as HDD sales declined due to reduced HDD shipment volume. 
+asr:0: OUTPUT 675.94-677.16: Please see slide 18. 
+asr:0: OUTPUT 677.84-685.99: In SEI, we are executing structural reform in overseas business and looking to enter a new phase of growth. 
+asr:0: OUTPUT 687.43-692.27: While estimating Kegel of the market at 3-5%. 
+asr:0: OUTPUT 692.29-703.12: We aim to grow HCI sales to a CAGR of 10 to 11 percent by creating new demand through solution proposals in markets such as HVAC,. 
+asr:0: OUTPUT 703.14-707.21: And handling level where structural change is occurring. 
+asr:0: OUTPUT 709.77-710.95: Please see slide 19. 
+asr:0: OUTPUT 711.75-727.75: In SEI, we are continuing to aim for 15% operating profit ratio even though profitability improvement slowdown after progressing for six consecutive quarters since Q4 fiscal year. 
+asr:0: OUTPUT 730.35-731.65: Please see slide 20. 
+asr:0: OUTPUT 732.91-740.84: In other product groups, operating profit ratio is keeping high level after bottoming out in Q4 FY19. 
+asr:0: OUTPUT 743.68-745.09: Please see slide 21. 
+asr:0: OUTPUT 746.59-755.62: NYDEX Board of Directors has approved the resolution to purchase the share of OKK Corporation or OKK. 
+asr:0: OUTPUT 756.64-762.76: Through a third-party allocation of common shares in a meeting of the Board of Directors held last November. 
+asr:0: OUTPUT 763.20-769.31: And we have executed a capital alliance agreement with OKK regarding this share purchase. 
+asr:0: OUTPUT 770.57-772.67: This share purchase enables. 
+asr:0: OUTPUT 772.69-782.28: A mutual complement of products in the area of machine tool, which is an existing area of NIDEX business. 
+asr:0: OUTPUT 783.66-789.71: Synergies expected, especially in such areas, element technology development. 
+asr:0: OUTPUT 789.75-798.74: Manufacturing and sales of machine tool business by NIDEC Manufacturing Tool Corporation, which joined the NIDEC group last August. 
+asr:0: OUTPUT 800.18-821.82: By joining NEDEC via the share purchase, OKCAL will make a fresh start as a comprehensive machine tool market maker and enhance its product lineup as well as sales capability while quickly reinforcing its production capacity as well. 
+asr:0: OUTPUT 823.36-825.15: After the shared purchase. 
+asr:0: OUTPUT 825.17-841.08: We entered into the further expanded NIDILC machine tool business and believe that it can grow globally at a faster pace by making necessary investment where they are needed on a timely basis. 
+asr:0: OUTPUT 842.96-860.80: We hope to mutually export our groups and OKK's respective technological capability, brand power, and customer base to contribute to the development of the machine tool market on global scale. 
+asr:0: OUTPUT 862.96-867.47: Last but not least, on behalf of the entire management team,. 
+asr:0: OUTPUT 867.87-875.76: We would like to thank our customers, partners, suppliers for their support and commitment as well as our shareholders. 
+asr:0: OUTPUT 876.58-881.40: At this time, we would like to open up the call for questions. Thank you. 
+asr:0: OUTPUT 882.26-887.01: Thank you very much, Mr. Yokota. Now we'd like to turn to the Q&A session. 
+asr:0: OUTPUT 888.07-897.88: The senior management of NYDIG will be pleased to answer your questions. Today's Q&A session will be conducted electronically. 
+asr:0: OUTPUT 898.52-904.86: If you would like to ask a question, please press star key and 1 on your touch-tone phone. 
+asr:0: OUTPUT 905.49-911.23: Again, please press star and 1 if you'd like to ask a question. 
+asr:0: OUTPUT 912.07-916.68: If you would like to cancel your request, please press the M2. 
+asr:0: OUTPUT 917.98-920.92: We now pause for questions from the participants. 
+asr:0: OUTPUT 927.55-932.53: OK, our first question today is from Alma Capital. 
+asr:0: OUTPUT 932.95-938.90: David Sparsfold. David, please go ahead. 
+asr:0: OUTPUT 940.58-943.28: And thank you very much for your presentation. 
+asr:0: OUTPUT 944.46-947.29: Can I ask about the... 
+asr:0: OUTPUT 947.31-950.63: A little bit more detail about the margin decline. 
+asr:0: OUTPUT 950.65-953.25: In ACI. 
+asr:0: OUTPUT 953.29-961.04: And also in your materials it was different but on a reported basis in in autos margins also slipped a little bit. 
+asr:0: OUTPUT 961.80-967.99: I'm aware that costs, raw material costs, perhaps shipping costs have gone up. 
+asr:0: OUTPUT 968.35-971.17: If you could perhaps break that down a little bit. 
+asr:0: OUTPUT 971.47-981.80: And also comment on what you're trying to do to offset that and the degree to which you may be able to recover that in pricing for some of the products but perhaps not other ones. 
+asr:0: OUTPUT 982.82-989.13: And so we get a better feel for what we think is likely to happen over the next six months in that area. Thank you. 
+asr:0: OUTPUT 992.47-1001.82: This is Yokota speaking. Let me respond to the question for the material cost and shipping cost. 
+asr:0: OUTPUT 1002.46-1015.26: For the shipping cost? Yes, we are impacted, especially the shipment cost in the vessel between China and US or China and Europe. 
+asr:0: OUTPUT 1016.32-1023.62: We estimated the impact to ACI in Kyoto 3 is roughly 10億円. 
+asr:0: OUTPUT 1024.62-1032.55: And maybe automotive for 5 Auken. Those are the impact of best-sell cost increase. 
+asr:0: OUTPUT 1033.69-1038.28: For the material pricing, please. 
+asr:0: OUTPUT 1039.10-1045.33: This happens mainly in magnetic steel, price increase in this period. 
+asr:0: OUTPUT 1045.55-1052.71: Even though the price increase is still a continuous trend from last quarter or last last quarter. 
+asr:0: OUTPUT 1053.37-1063.20: But this time, Q3, we tried to offset this price increase by asking customers to absorb the impact by increasing the price. 
+asr:0: OUTPUT 1063.80-1070.87: But we have, it took a little bit longer than expected and we cannot absorb the cost completely. So that's why. 
+asr:0: OUTPUT 1071.53-1072.67: Normally. 
+asr:0: OUTPUT 1072.75-1081.86: We say 1% impact still remains after all the negotiations with customers. 
+asr:0: OUTPUT 1082.28-1089.43: But this time Q3 estimated 2% remained because of the delay in the negotiation with the customers. 
+asr:0: OUTPUT 1090.61-1098.10: Especially the magnetic steel, typically there's no purchase contract. 
+asr:0: OUTPUT 1098.42-1107.05: Like copper or aluminum, those are normally, we have a contract with the customer. But steel and magnetic steel. 
+asr:0: OUTPUT 1107.17-1111.89: There is no surcharge contract, so that's why it's a negotiation basis. 
+asr:0: OUTPUT 1112.41-1115.88: The reason why, maybe you know very well in the situation, but... 
+asr:0: OUTPUT 1115.90-1118.92: Magnetic field, especially in the Europe area. 
+asr:0: OUTPUT 1119.30-1130.05: All the steel manufacturers, all the capacity is almost occupied by European automotive OEM due to increasing the spike in the EV production. 
+asr:0: OUTPUT 1130.65-1138.52: So that's why high-end magnetic steels are already occupied, and all the steel makers shift their production to high-end sites. 
+asr:0: OUTPUT 1139.06-1141.30: So therefore, the HCI... 
+asr:0: OUTPUT 1141.36-1149.79: We normally use regular magnetic steel and the capacity of those steel is quite limited due to the shift. 
+asr:0: OUTPUT 1149.81-1151.41: In the steel manufacture. 
+asr:0: OUTPUT 1151.79-1159.64: So that's why our purchase price increased and hit by mainly in the ACI area. 
+asr:0: OUTPUT 1159.92-1163.94: Of course, we use magnetic steel in automotive as well. 
+asr:0: OUTPUT 1164.26-1169.95: But ACI is mostly impacted by magnetic field impact. 
+asr:0: OUTPUT 1170.37-1178.86: So let's say all anti-anidic, this time the material cost spike is roughly. 
+asr:0: OUTPUT 1178.88-1181.26: 60 or 70. 
+asr:0: OUTPUT 1181.94-1188.71: That. 
+asr:0: OUTPUT 1188.73-1193.47: Delay in the price negotiation with customers. 
+asr:0: OUTPUT 1195.16-1204.30: And we also, I forgot to answer the last question. How do we see the market? Of course, we don't have a crystal ball in the market price. 
+asr:0: OUTPUT 1204.74-1207.59: But at this point, for quarter four. 
+asr:0: OUTPUT 1207.79-1216.62: This trend is still there. For example, there is no solution for the capacity enhancement in steel manufacture in Europe. 
+asr:0: OUTPUT 1217.56-1219.72: China's situation is a little bit eased. 
+asr:0: OUTPUT 1220.00-1226.49: So we see a little bit of stability in the steel price, in our magnetic steel price in China. 
+asr:0: OUTPUT 1226.99-1234.03: But still the European, the tighter situation continues. So we still need to fight against this price increase. 
+asr:0: OUTPUT 1234.37-1243.78: And other commodity, it depends. Some is still high price and some start declining, but some climbing again. 
+asr:0: OUTPUT 1244.28-1252.31: The world. 
+asr:0: OUTPUT 1252.61-1254.73: That's a general assumption for us. 
+asr:0: OUTPUT 1255.74-1262.84: In terms of these price increases for shipping raw materials, things you've got coming through. 
+asr:0: OUTPUT 1264.00-1270.41: What proportion of those, obviously there may be a lag of three months or even longer. 
+asr:0: OUTPUT 1270.85-1276.14: What proportion of those do you think is it realistic for you to pass on to your customers or. 
+asr:0: OUTPUT 1276.16-1282.24: Is there a proportion of that, maybe a half or a third? 
+asr:0: OUTPUT 1282.26-1290.49: That you won't be able to pass on and you will have to sort of find through internal cost savings and rationalization. 
+asr:0: OUTPUT 1293.09-1301.20: Roughly nobody we try to absorb or put in the price then try to absorb. 
+asr:0: OUTPUT 1301.22-1304.56: 60 to 70 percent or even more. 
+asr:0: OUTPUT 1304.58-1308.37: Out of a total material cost increase. 
+asr:0: OUTPUT 1309.15-1319.02: So roughly, roughly, every quarter, the low figure for the material cost hike, let's say, like 4 percent against the turnover. 
+asr:0: OUTPUT 1319.64-1328.51: So we try to absorb 3% by asking material suppliers. 
+asr:0: OUTPUT 1328.53-1329.89: To absorb swallow it. 
+asr:0: OUTPUT 1330.07-1339.02: Or we do some technical arrangement as VFB, or ask customer to increase the price by ourselves. 
+asr:0: OUTPUT 1339.20-1343.72: We say 3% out of 4% to be absorbed. 
+asr:0: OUTPUT 1344.08-1350.43: But this time Q3, we couldn't absorb 3%, let's say 2% only. So the 2% remained. 
+asr:0: OUTPUT 1351.47-1361.46: That time lag, it depends on the material, but in short, one is like one quarter, within one quarter. 
+asr:0: OUTPUT 1362.04-1364.44: But maybe the long one is maybe half a year. 
+asr:0: OUTPUT 1365.23-1372.11: So it depends on the customer, it depends on our share in the market and the relationship with the customer. 
+asr:0: OUTPUT 1372.29-1379.84: So there's some range for us to cure the price absorption in those periods. 
+asr:0: OUTPUT 1381.46-1390.03: But if you say you normally would internally absorb 60 to 70 percent, so you would take the 60 to 70 percent of the hits. 
+asr:0: OUTPUT 1391.19-1394.45: In this environment where the increases are rather large. 
+asr:0: OUTPUT 1394.91-1404.62: Do you still expect to have to internally absorb 60 to 70 and the price increase will cover just 30 to 40? Will that be? 
+asr:0: OUTPUT 1404.64-1406.59: Is that the plan? Is that just as... 
+asr:0: OUTPUT 1406.85-1412.05: James, maybe let me precisely state it. So 60 to 70%. 
+asr:0: OUTPUT 1412.75-1416.24: This is a combination of internal effort and price transfer. 
+asr:0: OUTPUT 1417.16-1419.96: So still the remaining piece to be absorbed. 
+asr:0: OUTPUT 1425.29-1434.99: In terms of price transfer, the price has gone up. 
+asr:0: OUTPUT 1435.18-1436.44: What percentage. 
+asr:0: OUTPUT 1436.48-1442.36: How much of the increase would you expect normally to pass on to customers? 
+asr:0: OUTPUT 1442.38-1447.17: What do you expect to be the case on this occasion when the increase is rather large? 
+asr:0: OUTPUT 1453.03-1454.13: Could you? 
+asr:0: OUTPUT 1456.00-1461.16: Let me reply. Thank you, James. This is Sik speaking. 
+asr:0: OUTPUT 1463.28-1472.47: To answer that, can we go to page 19? 
+asr:0: OUTPUT 1472.83-1482.06: You know, left hand side is sales and right hand side is profit. We're talking about sales. 
+asr:0: OUTPUT 1482.62-1488.37: And then Bluebar is a total appliance commercial and industry under me. 
+asr:0: OUTPUT 1488.85-1498.52: And the green one is more like atheism. And then both have the same tendency to keep increasing. 
+asr:0: OUTPUT 1499.86-1501.30: But, you know. 
+asr:0: OUTPUT 1502.52-1511.83: While sales is increasing, reality was it was a bit difficult to tell customers we want to increase price. 
+asr:0: OUTPUT 1515.06-1519.12: We concentrate to supply more. 
+asr:0: OUTPUT 1519.70-1526.43: And then also our profit is deteriorated by increase of materials. 
+asr:0: OUTPUT 1526.85-1528.19: But we have more revenues. 
+asr:0: OUTPUT 1528.63-1534.59: And because we have more revenues, fixed cost percentage go down, and then we can expect to offset some. 
+asr:0: OUTPUT 1535.24-1537.26: At least the total profit amount is more. 
+asr:0: OUTPUT 1537.88-1545.37: That happened from Q2 last fiscal year to Q2 this fiscal year. 
+asr:0: OUTPUT 1545.97-1550.45: And then actual damage getting bigger and bigger. 
+asr:0: OUTPUT 1550.81-1557.48: And then Q3, because maybe we have December Christmas period. 
+asr:0: OUTPUT 1557.66-1562.14: And also we believe, we feel,. 
+asr:0: OUTPUT 1562.16-1567.11: Saturation from like a fridge or air conditioning. 
+asr:0: OUTPUT 1567.69-1571.79: So Thales came down. 
+asr:0: OUTPUT 1572.27-1577.04: Then we decided to tell customers, now we need compensations. 
+asr:0: OUTPUT 1578.52-1581.78: That was the reality. 
+asr:0: OUTPUT 1581.92-1589.99: Even with the Q3, November, up to October to beginning of November, it was still active. 
+asr:0: OUTPUT 1590.69-1596.00: And then we started negotiating with the customer, but it was soft. 
+asr:0: OUTPUT 1596.86-1602.16: We see clear downtrend from end of November till December. 
+asr:0: OUTPUT 1602.58-1606.91: So we became very aggressive attitude to customers. 
+asr:0: OUTPUT 1607.47-1615.30: And then finally, we fully negotiated with most of the customers, let's say 95% of the customers. 
+asr:0: OUTPUT 1615.32-1618.62: By the end of December or beginning of January. 
+asr:0: OUTPUT 1619.30-1624.16: So that was the impact, if we go back to page six. 
+asr:0: OUTPUT 1629.35-1636.28: This is Q2 versus Q3, upper side is sales, lower side is profit. 
+asr:0: OUTPUT 1636.80-1644.68: You see an obvious impact in the middle, the appliance commercial industry. 
+asr:0: OUTPUT 1644.74-1647.29: This is caused by that delay. 
+asr:0: OUTPUT 1648.03-1654.63: But as I said, we finally negotiated fully, and then this will come back in Q4. 
+asr:0: OUTPUT 1655.12-1660.72: Unless we have an extra, extra increase, and then we may have to push that out to Q1. 
+asr:0: OUTPUT 1661.08-1669.01: It may change, but at least this big deficit we created in Q3, that was already concluded. 
+asr:0: OUTPUT 1669.57-1671.43: We will see in two fall. 
+asr:0: OUTPUT 1671.95-1675.62: Then, go back to your questions. 
+asr:0: OUTPUT 1677.18-1684.40: Usually, this type of material increase doesn't last long. 
+asr:0: OUTPUT 1684.68-1693.77: Sometimes, let's say, six months, sometimes even just one quarter. And then we have enough savings to absorb. 
+asr:0: OUTPUT 1694.95-1698.00: This magnetic field increase. 
+asr:0: OUTPUT 1698.02-1705.01: It started from almost one and a half year ago and it keeps increasing with almost no stop. 
+asr:0: OUTPUT 1706.13-1711.51: So, general answer to your question, we definitely observe at least 50%. 
+asr:0: OUTPUT 1712.43-1719.12: But because our savings is getting less and less because this continues long. 
+asr:0: OUTPUT 1719.80-1725.91: So from now on, probably we have to request customers to offset this increase. 
+asr:0: OUTPUT 1726.99-1729.91: Very much. That will continue. 
+asr:0: OUTPUT 1730.39-1737.38: And then our forecast is this magnetic field increase will not stop until like 2023, 2024. 
+asr:0: OUTPUT 1738.12-1746.05: So discussion may become very harsh with customers, but we also have to protect our profits. 
+asr:0: OUTPUT 1746.67-1755.68: At least we cannot lose money to sell. That's what we are seeing. But meanwhile, no. 
+asr:0: OUTPUT 1756.54-1760.00: We know this is not sustainable. 
+asr:0: OUTPUT 1760.04-1773.19: Now I'm giving pressure to our engineering to choose alternative materials or reduce quantity of this magnetic field. 
+asr:0: OUTPUT 1773.81-1780.24: Or manufacturing engineering can increase the OK rate from one plate. 
+asr:0: OUTPUT 1780.86-1786.57: Usually to have a large motor core from one plate. 
+asr:0: OUTPUT 1786.59-1791.07: 55 to 60% remain. 
+asr:0: OUTPUT 1791.63-1794.55: 40 to 45 percent going to scrap. 
+asr:0: OUTPUT 1795.04-1799.86: Of course, we get the money to scrap those, but not the original price. 
+asr:0: OUTPUT 1800.24-1808.65: Now I'm requesting them to increase this OK rate from current 55 to 60 percent to like 70 to 75 percent. 
+asr:0: OUTPUT 1808.81-1810.37: That will help a lot. 
+asr:0: OUTPUT 1811.25-1819.30: So at the end of the day, not only magnetic scale but also magnetic itself, kappas, aluminums,. 
+asr:0: OUTPUT 1820.00-1824.30: Technology will define cost competitiveness. 
+asr:0: OUTPUT 1825.41-1831.79: So that's where, you know, that is the area we historically won. 
+asr:0: OUTPUT 1832.63-1837.24: So this time again, we're pushing engineering to save these situations. 
+asr:0: OUTPUT 1837.70-1839.90: So, uh... 
+asr:0: OUTPUT 1839.92-1843.70: To cut a story short, we want to go parallel. 
+asr:0: OUTPUT 1844.16-1848.17: One, more price negotiation with customers. 
+asr:0: OUTPUT 1848.59-1856.78: As long as this keep increasing. And two, more technology to reduce quantity or increase OK rate. 
+asr:0: OUTPUT 1857.46-1865.07: That we are going to both but this already continues very long that is very much painful. 
+asr:0: OUTPUT 1868.43-1869.87: Thank you for that very complete answer. 
+asr:0: OUTPUT 1874.29-1875.74: James. Thank you very much. 
+asr:0: OUTPUT 1876.82-1885.15: For those who have just joined the conference call, let me repeat how you can ask your question to the company's senior management. 
+asr:0: OUTPUT 1885.95-1891.83: Today's Q&A session is being conducted electronically. 
+asr:0: OUTPUT 1892.25-1898.64: If you'd like to ask a question, please press star key and 1 on your touch-tone phone. 
+asr:0: OUTPUT 1898.98-1904.12: Again, please press star and 1 if you would like to ask a question. 
+asr:0: OUTPUT 1904.80-1909.83: If you'd like to cancel your request, please press star and two. 
+asr:0: OUTPUT 1910.59-1914.98: If you would like to cancel your request, please press star and 2. 
+asr:0: OUTPUT 1918.54-1925.97: Now, our next question is from Mark Im of Giamco. 
+asr:0: OUTPUT 1927.71-1931.77: Mark, why don't you go ahead. Thank you very much for that. 
+asr:0: OUTPUT 1932.03-1936.40: I just want to follow up on the previous question about magnetic steel. 
+asr:0: OUTPUT 1936.54-1944.88: Just to confirm, this is mainly an issue in your European operations or is it pretty much company-wide the same effect? 
+asr:0: OUTPUT 1949.59-1952.35: Thank you, Mark. Let me reply from Seki. 
+asr:0: OUTPUT 1954.81-1956.54: It's global actually. 
+asr:0: OUTPUT 1956.76-1966.73: But particularly from Europe, two reasons. It's highly related with electrification. 
+asr:0: OUTPUT 1967.23-1975.34: You know, electrification is accelerating, but particularly two major markets, one is Europe and one is China. 
+asr:0: OUTPUT 1976.04-1984.72: If you look at North America, Japan and other markets, it's not as aggressive as Europe and China. 
+asr:0: OUTPUT 1985.75-1993.47: And then Europe electrification ratio including the plug-in hybrid. 
+asr:0: OUTPUT 1993.77-2001.24: December sales has already reached more than 20% among new car sales. 
+asr:0: OUTPUT 2002.20-2010.91: The original forecast was around 10% by the end of 2021, so it's almost doubled. It's very much accelerated. 
+asr:0: OUTPUT 2011.41-2015.66: And then obviously, traction motor is large. 
+asr:0: OUTPUT 2015.90-2021.78: And then naturally it required a high quantity of magnetic fields. 
+asr:0: OUTPUT 2022.70-2024.22: That's one of the reasons about it. 
+asr:0: OUTPUT 2024.70-2033.71: The hidden reason is OEM in Europe want to go more for 2022 and 2023. 
+asr:0: OUTPUT 2034.27-2043.20: And then they start reserving magnetic steel for next year and after next year. 
+asr:0: OUTPUT 2044.74-2053.73: That makes it difficult for appliance applications or industrial applications to get magnetic steel. 
+asr:0: OUTPUT 2054.27-2058.82: Because automotive OEM is dominating those. 
+asr:0: OUTPUT 2060.06-2065.75: And then, of course, for steel companies,. 
+asr:0: OUTPUT 2065.79-2069.65: High sales with better profit is better. 
+asr:0: OUTPUT 2069.69-2078.72: I think automotive applications require a very long process to make it thinner. 
+asr:0: OUTPUT 2078.80-2082.20: And then a good price and a good profit for them. 
+asr:0: OUTPUT 2082.22-2086.67: Than appliance applications or industrial applications. 
+asr:0: OUTPUT 2087.45-2089.07: That's happening in Europe. 
+asr:0: OUTPUT 2090.19-2100.68: But China has a little more steel capacity than Europe against the demand. 
+asr:0: OUTPUT 2101.32-2108.51: So that's what Yokota-san explained. It's similar but the capacity and supply point of view. 
+asr:0: OUTPUT 2108.53-2111.33: China has a little more room than Europe. 
+asr:0: OUTPUT 2113.23-2121.94: Overall, because of the intensive demand in Europe and China, globally, this magnetic field is showing a shortage. 
+asr:0: OUTPUT 2123.06-2125.79: It's coming from Europe. 
+asr:0: OUTPUT 2126.47-2127.47: Exactly the background. 
+asr:0: OUTPUT 2129.71-2131.13: Thanks for that. 
+asr:0: OUTPUT 2131.41-2139.78: Are you expanding your suppliers of magnetic steel or looking into. 
+asr:0: OUTPUT 2139.80-2142.68: I don't know, investment in that area yourself over the long term? 
+asr:0: OUTPUT 2145.33-2147.47: We have several actions for this. 
+asr:0: OUTPUT 2148.03-2153.07: Obviously, we are not going to have a steel mill by ourselves. We cannot control that. 
+asr:0: OUTPUT 2154.03-2160.38: One, because globally China has a little more room for adjustment. 
+asr:0: OUTPUT 2160.48-2169.59: We decided to have a huge import from China to Europe for appliance applications and industrial applications. 
+asr:0: OUTPUT 2170.29-2180.00: Of course, that costs a lot, but because European cost is already very high, even paying logistic cost and import duties. 
+asr:0: OUTPUT 2180.42-2186.11: Imported from China are almost similar or a little less. 
+asr:0: OUTPUT 2186.85-2195.52: So we deserved up to FY22. We need to continue this for probably 23 and 24. 
+asr:0: OUTPUT 2196.02-2205.99: That's first one. And second one, this has not been fully decided yet, but generally speaking,. 
+asr:0: OUTPUT 2207.29-2213.97: Automotive application is thinner than industrial applications. 
+asr:0: OUTPUT 2214.41-2220.18: For example, one plate thickness for automotive, particularly traction motor. 
+asr:0: OUTPUT 2220.20-2224.64: Is let's say 0.25 mm to 0.27 mm. 
+asr:0: OUTPUT 2225.29-2230.11: While industrial application is, let's say, 0.35 to 0.40. 
+asr:0: OUTPUT 2231.49-2237.74: This sickness is created by times of lowlings. 
+asr:0: OUTPUT 2238.08-2242.76: That means automotive industry application needs more rolling time. 
+asr:0: OUTPUT 2243.78-2251.75: Then, because steel mills only make applications for automotive sites,. 
+asr:0: OUTPUT 2252.35-2258.02: Very difficult for industry and appliance to get heat. 
+asr:0: OUTPUT 2258.04-2260.08: They are standard sickness. 
+asr:0: OUTPUT 2260.96-2263.90: So what we are studying is. 
+asr:0: OUTPUT 2264.54-2269.99: No, it may become expensive, but surprise more important. 
+asr:0: OUTPUT 2270.35-2277.20: So they start studying if we can use automotive industry application for appliance and industry. 
+asr:0: OUTPUT 2277.80-2281.58: Then instead efficiency becomes a little higher. 
+asr:0: OUTPUT 2282.14-2289.09: So let's say while we usually use 150, we may be able to reduce to 135. 
+asr:0: OUTPUT 2289.57-2292.59: With thinner magnetic fields. 
+asr:0: OUTPUT 2293.07-2294.59: That we are studying. 
+asr:0: OUTPUT 2295.20-2306.89: Now automotive is dominating and therefore minor users such as industry applications or appliance applications may have to follow automotive standards. 
+asr:0: OUTPUT 2307.43-2308.49: That's the way I study. 
+asr:0: OUTPUT 2309.15-2318.04: Probably we have many other choices and ways of adjustment we have to squeeze out to survive. 
+asr:0: OUTPUT 2320.34-2324.32: Okay, thank you. I'm sorry, just one more question. This is about your acquisition of OKK. 
+asr:0: OUTPUT 2325.15-2334.33: Can you explain the background of that? I know you have exposure to machine tools and you've made M&A in that area, like with Mitsubishi. 
+asr:0: OUTPUT 2334.91-2339.60: Why OKK and what is your long-term plan for machine tools? 
+asr:0: OUTPUT 2341.12-2350.91: Okay, maybe I go first and then maybe Nagayasu-san or Yokota-san, you can add a separate comment later. 
+asr:0: OUTPUT 2351.55-2353.41: Fast, you know. 
+asr:0: OUTPUT 2355.70-2357.90: We believe. 
+asr:0: OUTPUT 2357.94-2367.79: Electrification from automotive side will grow very rapidly and then we are very strong to build motors. 
+asr:0: OUTPUT 2368.99-2373.01: But we are not so strong for gear. 
+asr:0: OUTPUT 2375.03-2379.16: When you are thinking of gear for manual transmissions,. 
+asr:0: OUTPUT 2380.00-2387.49: And gear for electric EVs. It's very different. Function is the same. 
+asr:0: OUTPUT 2387.73-2393.17: Transfer rotation power to wheels. 
+asr:0: OUTPUT 2393.81-2403.08: But as you have experienced before, manual transmission vehicle is very difficult. 
+asr:0: OUTPUT 2403.10-2407.27: Fun to drive, same time very noisy. 
+asr:0: OUTPUT 2407.45-2415.40: No one cares when manual transmission is noisy with a sound from engine too. 
+asr:0: OUTPUT 2416.14-2422.50: But once turned into EVs, very quiet, at least no combustion sounds. 
+asr:0: OUTPUT 2423.08-2427.63: So sound from gear becomes very noisy. 
+asr:0: OUTPUT 2428.15-2433.73: Actually, same or much less noise and vibrations than manual transmission. 
+asr:0: OUTPUT 2434.25-2442.36: Because entire sound and vibration become smaller, that sound from ear become outstanding. 
+asr:0: OUTPUT 2442.94-2444.70: Then to control this. 
+asr:0: OUTPUT 2445.09-2449.01: We need a very precise machining and grinding for gear. 
+asr:0: OUTPUT 2449.71-2453.09: And then,. 
+asr:0: OUTPUT 2453.23-2458.90: We hired many experts from GIA areas, but. 
+asr:0: OUTPUT 2458.92-2465.57: We finally found that the best way is to acquire the best quality machine builders. 
+asr:0: OUTPUT 2465.93-2471.75: That was Mitsubishi Heavy Industry Machine Tool Division. And now they are in our hands. 
+asr:0: OUTPUT 2472.61-2476.28: And then same time we found that, you know,. 
+asr:0: OUTPUT 2476.30-2479.86: To complete this machining area,. 
+asr:0: OUTPUT 2480.84-2488.73: We need not only for gear machining or gear grinding but also standard machining centers. 
+asr:0: OUTPUT 2490.25-2500.00: Then we also found that this segment, way of competition is very soft. 
+asr:0: OUTPUT 2501.38-2510.87: So usually they have a standard price depending on brand, sales power, they have like a plus minus 10% price gap. 
+asr:0: OUTPUT 2511.41-2519.90: But because, again, many of the time they have a trading company to reach final users. 
+asr:0: OUTPUT 2520.66-2525.51: And then because of those structure of commercial and business. 
+asr:0: OUTPUT 2526.55-2535.68: Their ranking from number 1 to number 10 has no change for 40 years. Very, very soft competition. 
+asr:0: OUTPUT 2536.28-2545.53: So our chairman, Mr. Naramuri, determined, let's go into this segment. 
+asr:0: OUTPUT 2545.95-2547.71: It's not difficult to get the wind. 
+asr:0: OUTPUT 2548.27-2557.14: So while we had the machine tool, which used to be a part of the Mitsubishi Heavy industry,. 
+asr:0: OUTPUT 2558.00-2562.70: We decided to find good machining center builders. 
+asr:0: OUTPUT 2563.40-2572.07: And then OKK has very good engineering, history, and assets. 
+asr:0: OUTPUT 2572.09-2574.57: Their business was terrible. 
+asr:0: OUTPUT 2575.82-2581.46: They had a huge negative profit from 20 and possibly 21. 
+asr:0: OUTPUT 2581.58-2585.95: So therefore it's not expensive to purchase. 
+asr:0: OUTPUT 2586.19-2589.27: There was a background we bought. 
+asr:0: OUTPUT 2589.35-2599.98: And also this combination, machine tool and the OKK, also help a lot to make a reducer for robot as well. 
+asr:0: OUTPUT 2600.84-2608.51: And then this is also another one we believe extends very much from future to future. 
+asr:0: OUTPUT 2609.61-2619.04: So while we are making these structures, our idea is expanding. 
+asr:0: OUTPUT 2619.32-2626.13: Probably we need this company, we need this company. This company will help a lot to sell in China or USA. 
+asr:0: OUTPUT 2626.89-2629.49: We will extend this idea for further. 
+asr:0: OUTPUT 2630.01-2638.78: And then, Mr. Nagamori is very energized to make this machine tool division bigger and needed. 
+asr:0: OUTPUT 2638.94-2645.95: But, go back to your first question, original background, and it's still background, but. 
+asr:0: OUTPUT 2645.97-2656.22: Not to sell outside but to help internal business such as motors for EV or reducers for robots. 
+asr:0: OUTPUT 2656.68-2657.86: That is background. 
+asr:0: OUTPUT 2658.10-2661.30: So potentially we can expand this to very strong. 
+asr:0: OUTPUT 2663.36-2666.41: Now, I asked them, if you have any additional comments. 
+asr:0: OUTPUT 2668.97-2677.06: Just a simple explanation on top of what Mr. Seki explained. 
+asr:0: OUTPUT 2680.00-2685.99: The Nitec machine tool lineup is for larger size of machining sanders. 
+asr:0: OUTPUT 2686.37-2691.33: Of course, one of the benefits that we get is gearing technology. 
+asr:0: OUTPUT 2691.71-2695.00: But their product line is mainly on the high-end. 
+asr:0: OUTPUT 2696.74-2701.86: On the other hand, OKK is very good at mid-size or small-size machining setup. 
+asr:0: OUTPUT 2702.40-2706.79: If we really try to be successful in the machining business,. 
+asr:0: OUTPUT 2707.19-2712.57: We need a product lineup because we have to access all of the potential customers in every way. 
+asr:0: OUTPUT 2712.85-2718.22: We cannot compete only one product in a very, very wide range of product competition. 
+asr:0: OUTPUT 2718.46-2725.35: So that's why OKK is very essential to add such variety of lineups on top of the standard. 
+asr:0: OUTPUT 2725.37-2731.17: NIDEC machine tool which is very good at large size machining center. 
+asr:0: OUTPUT 2731.53-2735.50: So this is also one of the biggest motivations for us to pursue OKK. 
+asr:0: OUTPUT 2738.76-2744.90: Thank you very much. 
+asr:0: OUTPUT 2746.19-2750.47: We have a few more minutes to accommodate some questions. 
+asr:0: OUTPUT 2750.51-2758.74: And there seems to be a new question from Zachary Noe on MAFG Securities America. 
+asr:0: OUTPUT 2763.28-2767.99: Good morning and good evening. Thank you for hosting this timely call once again. 
+asr:0: OUTPUT 2769.01-2773.79: I have some questions on your production capacity for your e-axle. 
+asr:0: OUTPUT 2774.47-2779.28: First of all, congratulations on reaching 20,000 mile production last month. 
+asr:0: OUTPUT 2779.94-2787.31: And on the flight 13, I know you have this capacity to increase to 6 million units in FY24. 
+asr:0: OUTPUT 2788.13-2794.65: Rough calculation, that's about 500,000 units per month. That's 25 times greater than last month. 
+asr:0: OUTPUT 2795.18-2800.46: So my two questions for me, one, based on your current customer inquiries. 
+asr:0: OUTPUT 2801.10-2808.25: What is your expected or estimated order for e-AXL in FY24? 
+asr:0: OUTPUT 2808.97-2816.32: And my second question is, when do you think the orders from non-Chinese auto companies will start to kick in? 
+asr:0: OUTPUT 2822.06-2829.89: Thank you, this is Seiji speaking. Let me explain. First, if you are on page 13,. 
+asr:0: OUTPUT 2831.43-2840.26: Please look at the graph on the right hand side. Blue bar is the capacity. That's your scene. 
+asr:0: OUTPUT 2840.28-2845.87: The green portion is actual current forecast of production volumes. 
+asr:0: OUTPUT 2846.43-2849.95: So 3.5 million in 2025. 
+asr:0: OUTPUT 2851.49-2857.54: And then we are not showing this screen for 24, 23, 22. Your question was 24. 
+asr:0: OUTPUT 2858.38-2863.56: In 2022, we are seeing about 1 million. 
+asr:0: OUTPUT 2864.84-2873.77: And then we're expecting a very linear increase from 22 to 23, 24, and 25. 
+asr:0: OUTPUT 2874.55-2876.60: So, uh... 
+asr:0: OUTPUT 2876.62-2885.07: First answer to your question, 24, probably around 2.8 or 2.7 million. 
+asr:0: OUTPUT 2886.71-2888.47: And then. 
+asr:0: OUTPUT 2888.49-2896.88: This 3.5 million was the number we announced at the last financial announcement in October. 
+asr:0: OUTPUT 2897.46-2905.85: Actually, this 3.5 already increased to 3.8 by 300,000. 
+asr:0: OUTPUT 2906.37-2907.81: So, you know. 
+asr:0: OUTPUT 2907.83-2913.17: After discussion with Mr. Nagamori and we stopped. 
+asr:0: OUTPUT 2913.19-2918.10: To announce this volume increase because time by time it's not so impactful. 
+asr:0: OUTPUT 2918.52-2924.88: So instead, probably we announce this volume increase by every half year. 
+asr:0: OUTPUT 2925.17-2929.63: So we didn't explain this time, but probably in April we explained. 
+asr:0: OUTPUT 2930.19-2933.69: But time by time this volume will increase. 
+asr:0: OUTPUT 2934.31-2941.06: And then that's why we are aiming double of capacities because. 
+asr:0: OUTPUT 2941.08-2950.97: One day, this prepared capacity will be fulfilled and even customers want us to supply it, we have no room. 
+asr:0: OUTPUT 2951.41-2958.36: We know 25 is a breaking point. 
+asr:0: OUTPUT 2959.34-2963.96: It looks a very steep curve, but for us, this is still slow. 
+asr:0: OUTPUT 2964.18-2970.23: After 25, the speed of increase for electrification will be even more accelerated. 
+asr:0: OUTPUT 2970.69-2975.36: Therefore, we need spare capacity to absorb all of those opportunities. 
+asr:0: OUTPUT 2976.32-2983.14: That we are aiming and we set this as a strategy and this strategy is not the first one. 
+asr:0: OUTPUT 2983.88-2993.63: We had a very huge success for hard disk drive by exact same strategies. 
+asr:0: OUTPUT 2994.83-2998.60: Prepared capacity first and then demand comes next. 
+asr:0: OUTPUT 2999.58-3002.96: Actually, because we had capacity, demand came. 
+asr:0: OUTPUT 3003.34-3012.79: If we didn't capacitate, everybody was slow and we were one of them and we probably had to share those demands with our competitors. 
+asr:0: OUTPUT 3013.79-3019.60: So to repeat that success again, we have this success. 
+asr:0: OUTPUT 3021.50-3030.63: And then second question, European customers, I don't know if your question is excluding Stellantis. 
+asr:0: OUTPUT 3030.65-3040.10: We have a strength, therefore our delivery to them starts from this coming Q2. 
+asr:0: OUTPUT 3040.42-3041.70: 22 cases. 
+asr:0: OUTPUT 3042.84-3051.03: So that's the first one. And then, I don't know, we should really count Strelitz as one, but. 
+asr:0: OUTPUT 3051.07-3057.12: We supply to Peugeot, Citroën, Fiat, Opel, and many other companies. 
+asr:0: OUTPUT 3057.72-3065.09: And then now we are discussing with Chrysler as part of the studies and then that will come. 
+asr:0: OUTPUT 3065.37-3071.19: And then apart from Stilantes, two things I would like to explain. 
+asr:0: OUTPUT 3072.41-3082.04: I cannot mention their name, but last time we explained type, customer type A, B, C. 
+asr:0: OUTPUT 3082.44-3085.55: A is stick to being housed. 
+asr:0: OUTPUT 3086.09-3091.79: And C is non-stick, they automatically outsource. 
+asr:0: OUTPUT 3092.15-3098.42: And B is like a hybrid, joint ventures. Stellantis is therefore type B. 
+asr:0: OUTPUT 3099.18-3106.29: We are talking about this type A customer. Actually, we don't see clear type C customer in Europe. 
+asr:0: OUTPUT 3106.79-3109.47: They are either type A or B. 
+asr:0: OUTPUT 3109.49-3114.95: Type A customer start drifting to Type A dash. 
+asr:0: OUTPUT 3115.24-3120.56: A dash means, you know, the stick for final assembly. 
+asr:0: OUTPUT 3121.16-3126.45: But they are abandoning to assemble motor itself or inverter itself or gear itself. 
+asr:0: OUTPUT 3127.09-3135.48: They purchase motor, inverter, and gear set from outside, and then they keep final assembly in their plant. 
+asr:0: OUTPUT 3136.48-3140.16: And then they probably insisted to enhance the traction motor. 
+asr:0: OUTPUT 3140.80-3146.97: Anyway, we start receiving RFQ for motors and inverter for those. 
+asr:0: OUTPUT 3148.37-3155.48: Therefore, after the 70s, I think those parts business coming into the European side. 
+asr:0: OUTPUT 3156.16-3158.62: And another one is... 
+asr:0: OUTPUT 3158.64-3163.42: I explained this partially last time as well. 
+asr:0: OUTPUT 3163.44-3170.73: Because most of European OEM treating EV as core business. 
+asr:0: OUTPUT 3171.35-3175.86: I think they put aside hybrid business. 
+asr:0: OUTPUT 3176.32-3180.40: So hybrid business becoming a non-core business from them. 
+asr:0: OUTPUT 3181.10-3189.17: They used to build hybrid motor at in-house, like tier 1 suppliers. 
+asr:0: OUTPUT 3189.51-3191.29: Those shifting to us. 
+asr:0: OUTPUT 3191.87-3194.57: So we are receiving a lot more of hybrid. 
+asr:0: OUTPUT 3195.18-3201.32: Hybrid is a bridging technology, but it won't disappear for another 10 years at least. 
+asr:0: OUTPUT 3201.48-3204.42: It will not be increased, but... 
+asr:0: OUTPUT 3204.46-3210.13: I think as long as it continues for at least five years or six years,. 
+asr:0: OUTPUT 3210.69-3215.08: We can absorb it and we can get the profit for those. 
+asr:0: OUTPUT 3215.46-3221.08: So we are receiving many hybrid motors, hybrid inverters in Europe. 
+asr:0: OUTPUT 3223.52-3228.15: Is that a good answer to your question, Zach? 
+asr:0: OUTPUT 3229.65-3237.48: Yes, President Sekiya, very clear. Very exciting, yeah. Thank you so much. Thank you. Thank you very much. 
+asr:0: OUTPUT 3239.20-3243.56: We still have a few more minutes and we'll come to your questions. 
+asr:0: OUTPUT 3244.02-3252.85: For those who want to direct your question to senior management, please press star 1 at this moment. 
+asr:0: OUTPUT 3260.00-3267.73: Okay, the next question is again from Mark Imogamco and this will be today's final question. 
+asr:0: OUTPUT 3268.81-3270.17: Mark, please go ahead. 
+asr:0: OUTPUT 3271.49-3273.43: Yeah. Thanks again. 
+asr:0: OUTPUT 3274.27-3281.08: I know this is a difficult topic to discuss, but do you have any comments on the Bloomberg article that appeared on Monday? 
+asr:0: OUTPUT 3281.14-3285.91: About Chairman Nagamori and President Seki. 
+asr:0: OUTPUT 3289.55-3293.77: Thank you, Mark. What I can tell is,. 
+asr:0: OUTPUT 3295.58-3305.43: We don't have any gap between the Nagamori's philosophy and my way. 
+asr:0: OUTPUT 3306.37-3310.45: Almost zero gap, even one millimeter. 
+asr:0: OUTPUT 3311.43-3316.86: So I'm fully aligning and personally I respect him a lot. 
+asr:0: OUTPUT 3318.24-3324.54: And then, you know, he's very severe. And then he's my master. 
+asr:0: OUTPUT 3325.35-3331.35: It's very natural. Master trains his pupil to be very strong. 
+asr:0: OUTPUT 3331.67-3338.92: So I think time by time he sometimes very harsh to me to put more output. 
+asr:0: OUTPUT 3339.44-3342.32: And then I am OK. 
+asr:0: OUTPUT 3343.34-3345.75: He's not telling me any wrong. 
+asr:0: OUTPUT 3345.95-3349.09: So we are fully aligning. 
+asr:0: OUTPUT 3349.11-3354.55: First of all, I don't know why Bloomberg made that as articles. 
+asr:0: OUTPUT 3354.59-3359.74: Because Brumbau is a tier one medias and then. 
+asr:0: OUTPUT 3359.76-3369.59: I think content has many misreadings of our relationships and company philosophy. 
+asr:0: OUTPUT 3370.29-3379.32: So straight answer to your questions, I think there are no worries. We are still fully aligning. 
+asr:0: OUTPUT 3379.80-3381.40: And then. 
+asr:0: OUTPUT 3381.62-3388.99: At this moment, I request him to take care of every job in Japan. 
+asr:0: OUTPUT 3389.35-3397.56: And then while we need a quick turnaround from automotive divisions,. 
+asr:0: OUTPUT 3397.60-3403.32: The key is the town around the operation in Germany and the operation in Mexico. 
+asr:0: OUTPUT 3403.84-3412.57: So I'm fully spending my time in Germany and Mexico. Actually, I'm attending this meeting from Germany. 
+asr:0: OUTPUT 3413.19-3416.04: And then last week I was in the Mexico. 
+asr:0: OUTPUT 3417.24-3423.00: So he accepted me to spend more time in this Europe and Mexico. 
+asr:0: OUTPUT 3423.46-3430.99: So maybe because I am so absent in Japan, people may feel it's very strange, but... 
+asr:0: OUTPUT 3431.01-3438.76: Everything is under agreement between Nagamori and myself. No misalignment. That's what I want to explain. 
+asr:0: OUTPUT 3440.84-3442.66: What's the issue in Mexico? 
+asr:0: OUTPUT 3445.43-3451.39: It's the same. It's an automotive business and we have very slow operations. 
+asr:0: OUTPUT 3452.33-3458.88: In terms of overall efficiency and scrap rate and people's training and qualities. 
+asr:0: OUTPUT 3458.90-3467.65: And inventories. While we have a very strong Nidec in Japan and China, Southeast Asia,. 
+asr:0: OUTPUT 3467.99-3472.15: It's a bit slow to transfer to Europe and Mexico. 
+asr:0: OUTPUT 3472.21-3479.60: And then I retrained my peoples and then enhancement of business and then, you know. 
+asr:0: OUTPUT 3479.62-3485.47: Build basic strengths as manufacturers. That's what we are doing. And Mechisco is one of the operations. 
+asr:0: OUTPUT 3487.97-3489.17: Very helpful indeed, thank you. 
+asr:0: OUTPUT 3491.01-3492.13: Thank you very much. 
+asr:0: OUTPUT 3492.77-3498.80: Now we'd like to conclude the conference call. I'd like to appreciate for your participation. 
+asr:0: OUTPUT 3499.20-3505.39: Should you have any further questions, please do not hesitate to contact NYDEC Corporation or. 
+asr:0: OUTPUT 3505.41-3509.37: Your sales representative at Mitsubishi UFJ Morgan Securities. 
+asr:0: OUTPUT 3509.39-3510.75: More gunfighter-only security. 
+asr:0: OUTPUT 3511.59-3520.00: Again, thank you. 
+asr:0: OUTPUT 3520.88-3523.72: As Yokota-san explained,. 
+asr:0: OUTPUT 3524.48-3526.49: Our. 
+asr:0: OUTPUT 3526.51-3535.78: Q3 accumulated cells reaching 1.4 trillion yen and then Q3 cells itself is like 0.5 trillion yen. 
+asr:0: OUTPUT 3537.32-3546.63: We updated our sales target last time to be 1.9 trillion yen. Now it's become very positive. 
+asr:0: OUTPUT 3546.91-3556.20: And then also in July we announced the Vision 2025 to be a 4 trillion yen in 2025. 
+asr:0: OUTPUT 3556.58-3562.92: As a very fast milestone, I committed to trillion yen by 22. 
+asr:0: OUTPUT 3563.56-3569.51: Which is another 0.1 trillion yen if we land 1.9 billion this year. 
+asr:0: OUTPUT 3569.91-3578.48: So, triturary ion is very reachable and then as we explained through the electrification. 
+asr:0: OUTPUT 3579.14-3587.93: And we have a lot of source for further growth and of course M&A, particularly machine tool. 
+asr:0: OUTPUT 3588.53-3591.39: It's very active. 
+asr:0: OUTPUT 3592.37-3597.22: We will make a committed growth for next year, this year and next year. 
+asr:0: OUTPUT 3597.68-3603.36: And then we will approach what we targeted in Vision 2020. 
+asr:0: OUTPUT 3604.36-3607.27: So thanks for your support. 
+asr:0: OUTPUT 3607.29-3615.48: At this moment, we have a difficulty of material price and material supply. 
+asr:0: OUTPUT 3616.04-3619.62: It's a very small thing. 
+asr:0: OUTPUT 3619.64-3621.78: Two years period or three years period. 
+asr:0: OUTPUT 3622.08-3629.87: The important point is we have enough strength to grow and then a firm strategy to execute. 
+asr:0: OUTPUT 3630.55-3636.28: So we will be there and we will not betray your expectations. 
+asr:0: OUTPUT 3637.50-3644.82: That's final remark from me. Sorry, Orikasa. Mr. Seki, thank you very much for your closing remarks. 
+asr:0: OUTPUT 3646.59-3653.79: Again, I would like to thank you for joining the conference call, and you may now disconnect. 
+asr:0: OUTPUT 3656.04-3657.98: Everyone see you next time. 
+asr:0: END

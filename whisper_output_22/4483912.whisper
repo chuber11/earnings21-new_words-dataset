@@ -1,0 +1,564 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.18-11.31: Good morning, everyone. Welcome to the conference call for analysts and investors for Infineon's 2022 fiscal first quarter results. 
+asr:0: OUTPUT 12.03-21.54: Today's call will be hosted by Alexander Fulton, Executive Vice President, Finance, Treasury and Investor Relations of Infineon Technologies. 
+asr:0: OUTPUT 22.52-25.25: As a reminder, today's call is being recorded. 
+asr:0: OUTPUT 26.53-35.76: This conference call contains forward-looking statements and or assessments about the business, financial condition, performance and strategy of the Infineon Group. 
+asr:0: OUTPUT 36.76-45.71: These statements and our assessments are based on assumptions and management expectations resting upon currently available information and present estimates. 
+asr:0: OUTPUT 46.63-53.55: They are subject to a multitude of uncertainties and risks, many of which are partially or entirely beyond Infineon's control. 
+asr:0: OUTPUT 54.33-63.60: Infineon's actual business development, financial condition, performance and strategy may therefore differ materially from what is discussed in this conference call. 
+asr:0: OUTPUT 64.38-71.77: Beyond disclosure requirements stipulated by law, Infineon does not undertake any obligation to update forward-looking statements. 
+asr:0: OUTPUT 72.81-76.44: At this time I'd like to turn the call over to Infinian. Please go ahead. 
+asr:0: OUTPUT 78.46-86.29: Thank you, operator, and good morning and welcome, ladies and gentlemen, to our first quarterly earnings call in 2022. 
+asr:0: OUTPUT 87.45-96.22: As usual, we have the entire management board on this call. Reinhard Ploss, CEO, Helmut Gassel, CMO, Jochen Hanebeck, COO. 
+asr:0: OUTPUT 96.24-100.34: Constanze Hufenbecher, CDTO and Sven Schneider, CFO. 
+asr:0: OUTPUT 101.56-102.90: Today's call is a special one. 
+asr:0: OUTPUT 103.52-113.05: As we announced two and a half months ago, Reinhard will retire and pass the baton on to Jochen by 1st of April, after leading Infineon as CEO for nearly 10 years. 
+asr:0: OUTPUT 114.13-116.88: So it's the last earnings call hosted by Reinhart today. 
+asr:0: OUTPUT 117.98-121.94: But for now, back to business. You are familiar with our usual procedure. 
+asr:0: OUTPUT 123.00-128.63: Reinhardt's summary will again come after the Q&A, so please stay tuned until the end of the call. 
+asr:0: OUTPUT 129.59-138.48: The illustrating slideshow, which is synchronized with a telephone audio signal, is available at www.infinian.com. 
+asr:0: OUTPUT 139.78-143.86: After the introduction, we will, as always, be happy to take your questions. 
+asr:0: OUTPUT 144.32-152.59: However, today we will be strict on the one question per caller rule in order to let as many participants as possible have their say. 
+asr:0: OUTPUT 153.99-160.48: A recording of this conference call including the aforementioned slides and a copy of our earnings press release. 
+asr:0: OUTPUT 160.58-165.97: As well as our investor presentation are also available on our website at www.infinian.com. 
+asr:0: OUTPUT 167.85-170.97: And now, for one last time, Reinhard, over to you. 
+asr:0: OUTPUT 172.03-179.84: Thank you, Alexander, and good morning, everyone. The new year has started and for us it feels very similar to how the old year ended. 
+asr:0: OUTPUT 180.52-188.23: With the business situation looking very positive. Our December quarter topped the record revenue and segment result levels of the previous quarter. 
+asr:0: OUTPUT 188.91-196.10: Semiconductors continue be the gating items in many verticals as demand is outstripping supply by far. 
+asr:0: OUTPUT 196.96-204.98: Manufacturing capacities are being added, but ongoing cyclical and underlying structural needs are still exceeding them. 
+asr:0: OUTPUT 205.99-212.73: Inventory reaches in some areas are going slightly up, but stay considerably below long-term averages. 
+asr:0: OUTPUT 213.47-221.84: Of course, dynamics are different in the various sub-markets. In some, a supply-demand equilibrium will be reached sooner than in others. 
+asr:0: OUTPUT 222.50-231.91: For our target applications, automotive, industrial data center and IoT, as well as other areas. We do not see this happening in the near future. 
+asr:0: OUTPUT 232.85-238.32: Supply limitations, especially from foundries, will persist well into 2022. 
+asr:0: OUTPUT 239.24-246.41: In such an environment, specific supply disruptions in individual fabs are being felt twice as severely. 
+asr:0: OUTPUT 247.13-254.71: The December quarter was the first one in a while where we did not experience such disruptions and the numbers are clearly showing it. 
+asr:0: OUTPUT 255.58-260.84: We started our 2022 fiscal year with revenues of $3 billion. 
+asr:0: OUTPUT 260.86-268.59: 159 million euros, 5% up compared to the previous quarter and a 20% increase year over year. 
+asr:0: OUTPUT 269.41-272.47: A stronger US dollar supported these growth rates. 
+asr:0: OUTPUT 273.13-282.58: Assuming a constant US dollar-euro exchange rate, sequential growth would have been 3% and the yearly one 17%. 
+asr:0: OUTPUT 283.32-286.75: On higher revenue, margin expanded considerably. 
+asr:0: OUTPUT 287.13-296.82: With a segment result of 717 million euros, the segment result margin came to 22.7%. 
+asr:0: OUTPUT 296.84-301.74: An increase of a bit over two percentage points compared to the quarter before. 
+asr:0: OUTPUT 302.82-309.37: All of our four segments were able to grow their profitability. Several factors drove this development. 
+asr:0: OUTPUT 309.93-313.93: We saw a good products mix in an overall favorable pricing environment. 
+asr:0: OUTPUT 314.63-322.48: In addition, and as already mentioned, the absence of major supply disruptions allowed us to achieve a very good operational performance. 
+asr:0: OUTPUT 323.40-333.39: Our FEPs are basically running at full levels. We take maximum COVID precaution measures, but of course risks cannot be completely excluded. 
+asr:0: OUTPUT 334.43-339.10: Near-term indicators tell us that the positive momentum in our key markets is intact. 
+asr:0: OUTPUT 339.90-347.75: The order backdrop remains very supportive. New incoming orders continue to outweigh cancellation by quite a margin. 
+asr:0: OUTPUT 348.51-354.95: Thus, for we have provided book-to-bill figures as a proxy to assess the business situation. 
+asr:0: OUTPUT 355.72-361.54: In the last quarters we reported like-for-like numbers. We will cease to do so from now on. 
+asr:0: OUTPUT 362.02-369.39: The ratio has lost much of its meaning given that orders are being confirmed more flexible in times of allocation. 
+asr:0: OUTPUT 370.15-375.58: Besides, Infineon has lately been the only company regularly publishing book-to-bill figures. 
+asr:0: OUTPUT 376.28-379.46: Many of you have used them to reverse calculate our backlog. 
+asr:0: OUTPUT 380.32-386.65: For the sake of transparency, we will provide you this figure directly going forward at company level. 
+asr:0: OUTPUT 387.45-397.14: The combined total of confirmed and unconfirmed orders stood at around 31 billion euros at the end of December. 
+asr:0: OUTPUT 398.02-401.98: A further increase of about two billion quarter over quarter. 
+asr:0: OUTPUT 402.64-408.27: In other words, our nominal stable of orders corresponds to more than two years of revenue. 
+asr:0: OUTPUT 409.35-420.60: It is fair to assume that some of it reflects cyclical shortages and the number might go well down in coming quarters as supply gradually improves in some double orders. 
+asr:0: OUTPUT 420.62-422.14: Are being cleaned off. 
+asr:0: OUTPUT 422.98-430.77: Having said this, the few underlying structural demand is very healthy and are fully booked for 2022. 
+asr:0: OUTPUT 432.13-438.78: Now to our divisions and their performance in the December quarter, beginning as usual with automotive. 
+asr:0: OUTPUT 439.24-443.18: The segment recorded revenues of 1,390,000,000 euros. 
+asr:0: OUTPUT 443.62-451.59: The 10% increase over the previous quarter was helped by a favorable currency development in the absence of specific supply disruptions. 
+asr:0: OUTPUT 452.25-460.00: The higher volumes also led an improved profitability level. The segment result came in at 261 million euros. 
+asr:0: OUTPUT 460.38-468.19: Resulting in a segment result margin of 18.8% compared to 16.7% in the quarter before. 
+asr:0: OUTPUT 468.91-475.26: In general terms, the supply-demand mismatch burden in the automotive industry remains quite wide. 
+asr:0: OUTPUT 475.88-485.77: Global car production in 2022 was only slightly up compared to 2020 with 76.4 million units. 
+asr:0: OUTPUT 486.39-494.95: Researchers from IHS Market estimate that around 10 million cars were not built due to semiconductor and other component shortages. 
+asr:0: OUTPUT 494.98-497.70: As well as various supply chain issues. 
+asr:0: OUTPUT 498.44-503.54: For 2022, a gradual easing of the worst constraints is expected. 
+asr:0: OUTPUT 503.56-512.85: But the recovery of worldwide auto production remains susceptible to external shocks like the spread of the Omicron virus variant. 
+asr:0: OUTPUT 513.83-525.95: The 82.9 million vehicles currently predicted by IHS for this year would still be considerably below the 2018 and 2019 numbers. 
+asr:0: OUTPUT 527.43-533.65: And supply limitations are far from over and will persist well into 2022. 
+asr:0: OUTPUT 534.67-542.72: Inventories are likely to remain tight, albeit gradually improve, with some replenishment moving into 2023. 
+asr:0: OUTPUT 543.98-550.05: Within an overall constrained core market, electromobility is remaining on a strong trajectory. 
+asr:0: OUTPUT 550.41-555.54: In fact, the current phase might once be seen as pivotal for EV adoption. 
+asr:0: OUTPUT 556.14-565.75: In 2021, around 6.7 million battery electric and plug-in hybrid vehicles were sold, basically doubling within a year's time frame. 
+asr:0: OUTPUT 566.55-570.99: About half of these corers have inverters equipped with Infineon chips or modules. 
+asr:0: OUTPUT 571.55-577.84: With an industry-leading portfolio of silicon and silicon carbide solutions, we are central to EV growth. 
+asr:0: OUTPUT 578.48-585.97: Anecdotally, December was the first month ever in which more battery electric vehicles than diesel cars were sold in Europe. 
+asr:0: OUTPUT 586.85-593.35: The car of the future will not only be carbon neutral, but also autonomous, fully connected and cyber secure. 
+asr:0: OUTPUT 594.33-600.44: This is opening up attractive semiconductor content growth opportunities for which we are at the pole position. 
+asr:0: OUTPUT 601.00-607.91: Our Aurex microcontroller family has become the first choice, automotive architecture for high growth and safety. 
+asr:0: OUTPUT 607.93-616.94: Critical applications such as assisted and autonomous driving, powertrain safety, as well as domain or zone control. 
+asr:0: OUTPUT 617.90-625.53: At the CES a couple of weeks ago we launched a new Oryx generation focusing on addressing growing vehicle complexity. 
+asr:0: OUTPUT 625.99-630.47: The enablement of AI implementations and advanced connectivity. 
+asr:0: OUTPUT 632.15-639.84: With its scalable family concept, Oryx is a key ingredient for dependable electronics and software-based applications. 
+asr:0: OUTPUT 640.44-645.65: We expect OREC's related revenues to grow strongly over the coming years. 
+asr:0: OUTPUT 646.85-648.65: Now to industrial power control. 
+asr:0: OUTPUT 649.23-658.02: Following a very strong second half of our 2021 fiscal year, revenues in the December quarter moderated to 382 million euros. 
+asr:0: OUTPUT 658.48-664.76: A sequential decline of 6%, reflecting typical seasonal patterns in most application areas. 
+asr:0: OUTPUT 665.59-673.93: A positive exception was power infrastructure, which among others comprises energy storage as well as EV charging stations. 
+asr:0: OUTPUT 674.65-683.14: The segment result of APC came in at 73 million euros, corresponding to a segment result margin of 19.1%. 
+asr:0: OUTPUT 683.16-687.55: After 17.7% in the prior quarter. 
+asr:0: OUTPUT 688.51-696.02: The impact of lower revenue was more than offset by positive mix effects and the fall away of costs related to supply disruptions. 
+asr:0: OUTPUT 697.08-699.62: The current business perspective is positive. 
+asr:0: OUTPUT 699.84-708.41: Order intake is strong and many of our product areas continue to be on allocation and channel inventories have down ticked again. 
+asr:0: OUTPUT 709.27-714.57: The market outlook remains constructive across the majority of end applications. 
+asr:0: OUTPUT 715.58-718.98: After strong surge in sales to serve pent-up demand. 
+asr:0: OUTPUT 719.00-725.77: Mature markets like home applications or industrial drives see a reversion to average long-term growth rates. 
+asr:0: OUTPUT 726.71-730.29: Manufacturing PMIs are staying in expansion territory. 
+asr:0: OUTPUT 731.33-739.34: Structural drivers in areas like solar power remain fully intact. However, some supply chain imbalances are limiting near-term growth. 
+asr:0: OUTPUT 740.00-749.65: Our advanced power solution, based on silicon as well as silicon carbide, enabled the energy transition necessary in order to meet CO2 reduction targets. 
+asr:0: OUTPUT 750.33-757.74: Governments and enterprises alike now need to turn net zero commitments into specific cause of action. 
+asr:0: OUTPUT 758.88-764.12: Now over to Power and Sensor System, which continues its very strong performance seen in the previous quarter. 
+asr:0: OUTPUT 764.94-769.93: Revenue came in at 955 million euros, a bit up sequentially. 
+asr:0: OUTPUT 770.39-779.26: Various components for smartphones witnessed a seasonal decline. All power-related product areas saw strong demand from cordless power tools. 
+asr:0: OUTPUT 779.28-781.04: To serve our power stages. 
+asr:0: OUTPUT 781.60-785.39: The strengthening US dollar provided an additional tailwind. 
+asr:0: OUTPUT 786.23-796.58: Like revenue, also the segment result of PSS edged up slightly for the December quarter from 276 to 285 million euros. 
+asr:0: OUTPUT 796.60-799.62: Corresponding to a segment result margin of. 
+asr:0: OUTPUT 799.64-801.60: 29.8%. 
+asr:0: OUTPUT 802.90-811.81: Demand remains very robust across a large majority of applications. Customer orders exceed our supply abilities by quite a margin. 
+asr:0: OUTPUT 812.51-818.24: Around half of our products remain on allocation and channel inventories are very lean. 
+asr:0: OUTPUT 819.02-824.68: This overall healthy picture should last well into this year, driven by several trends. 
+asr:0: OUTPUT 825.33-837.84: For a data center, we see continued demand from cloud operators and hyperscalers, but also rising enterprise spending motivated by return to office momentum and platform refreshes from processor vendors. 
+asr:0: OUTPUT 839.10-846.77: The ongoing 5G cycle will continue to support smartphone upgrades and drive spending on telecom infrastructure equipment. 
+asr:0: OUTPUT 847.75-853.43: The desire to make human-machine interaction more intuitive is calling for advanced sensor solutions. 
+asr:0: OUTPUT 854.29-862.10: One of them is capacitive inductive touch for which we recently launched a new generation of our CapSense technology. 
+asr:0: OUTPUT 862.90-867.29: It enables advanced solutions like proximity sensing. 
+asr:0: OUTPUT 867.31-879.84: Guess the direction and directivity along which Hoover direction for demanding user interfaces in home appliances, industrial, consumer and IoT products. 
+asr:0: OUTPUT 886.15-890.09: Closing the divisional revenue by connected secure systems. 
+asr:0: OUTPUT 890.49-898.02: The segment strongly increased its revenue by 11 percent quarter over quarter to 427 million euros. 
+asr:0: OUTPUT 898.64-907.33: Main drivers were a favorable product and customer mix, strengthening of the US dollar, and some supply improvements for microcontrollers and Wi-Fi products. 
+asr:0: OUTPUT 907.95-912.39: These factors also led to a significant profitability increase. 
+asr:0: OUTPUT 912.87-921.66: The segment result margin of CSS amounted to 100 million euros, equivalent to a segment result margin of 23.4%. 
+asr:0: OUTPUT 921.68-925.17: After 15.5% for the quarter before. 
+asr:0: OUTPUT 926.01-932.65: Going forward, we will continue to invest in R&D resources to further strengthen our product roadmap. 
+asr:0: OUTPUT 933.75-942.90: Demand continues to be very robust across practically all application areas, far outstripping available supply, especially from foundries. 
+asr:0: OUTPUT 943.48-948.99: Therefore, revenue potential is kept by scores of aid capacities. 
+asr:0: OUTPUT 950.41-956.64: Meanwhile, we see ongoing momentum in design inactivity, especially for connectivity offerings. 
+asr:0: OUTPUT 957.18-965.95: Our Wi-Fi chip sets have been selected for a next generation automotive infotainment system and by a leading smart home, Thermostat OEM. 
+asr:0: OUTPUT 966.63-972.09: Generally speaking, connectivity is one of the key ingredients of our digitalization. 
+asr:0: OUTPUT 972.47-977.64: And we continue to strengthen our position in this field with our Aeroc product family. 
+asr:0: OUTPUT 978.56-980.16: A few recent examples. 
+asr:0: OUTPUT 980.58-989.47: With our Cloud Connectivity Manager solution, developers can easily and securely connect IoT devices to Amazon Web Services. 
+asr:0: OUTPUT 990.05-999.24: We launched a multi-protocol solution including Bluetooth Low Energy for small home applications, supporting the META standard. 
+asr:0: OUTPUT 1000.12-1010.75: As well as low-power Wi-Fi chipsets enables precise location solution for the Israel location as a service company, D-YOK. 
+asr:0: OUTPUT 1011.67-1017.34: All in all, our innovation pipeline around the IoT is well filled. 
+asr:0: OUTPUT 1018.28-1022.22: Now over to Sven who will comment on our key financial figures. 
+asr:0: OUTPUT 1023.54-1031.13: Thank you Reinhard and good morning everyone. It's always reassuring to report on positive numbers at the beginning of the new year. 
+asr:0: OUTPUT 1032.17-1034.69: Let's take a closer look at our margin development. 
+asr:0: OUTPUT 1034.85-1048.75: Gross profit in the first quarter of our fiscal 22 came in at 1,312,000,000 euros, resulting in a gross margin of 41.5%, slightly up compared to the previous quarter. 
+asr:0: OUTPUT 1049.71-1056.14: Excluding non-segment result effects, the adjusted gross margin was stable at 43.9%. 
+asr:0: OUTPUT 1057.60-1074.89: This high level reflects the good traction we are seeing in the market for our high value system solutions and an overall supportive environment in which we are able to pass on higher input costs related to foundry and sub-con supply, base materials and energy. 
+asr:0: OUTPUT 1075.78-1085.65: Furthermore, utilization rates at our manufacturing sites are high. Before coming to operational expenses, let me spend a word on currency development. 
+asr:0: OUTPUT 1086.49-1098.78: As you are well aware, Infineon benefits from a strengthening US dollar as around two-thirds of our group sales after the Cyprus acquisition are in this currency. 
+asr:0: OUTPUT 1098.80-1100.18: And looking at. 
+asr:0: OUTPUT 1100.20-1111.41: Very recent headlines this morning, I think I just want to stress that again in your calculations, please factor in two-thirds of the revenues are in dollars, not 100%. 
+asr:0: OUTPUT 1111.93-1121.80: Therefore, according to our well-known rule of thumb for sensitivity, for each cent movement in the US dollar-euro exchange rate,. 
+asr:0: OUTPUT 1121.82-1129.19: We see a quarterly impact of around 15 million euros in revenue and around 5 million euros in segment result. 
+asr:0: OUTPUT 1129.61-1145.37: To illustrate that, assuming the US dollar stays at 1.15 throughout the entire fiscal year, this would lead to a positive revenue impact of around 300 million euros compared to our initial planning rate of 1.20. 
+asr:0: OUTPUT 1145.91-1149.63: Reinhard will build on this in the Outlook section later on. 
+asr:0: OUTPUT 1150.97-1159.92: Now back to our OPEX numbers, which at the end of September had seen a true up of variable compensation for our successful 2021 fiscal year. 
+asr:0: OUTPUT 1160.58-1169.77: In the currently running 2022 fiscal year, we accrue for bonus payments at a lower rate reflecting internally raised targets. 
+asr:0: OUTPUT 1170.43-1183.94: Despite this, research and development expenses remained flat quarter over quarter at 399 million euros, showing our consistent efforts to fund an ambitious technology and product roadmap. 
+asr:0: OUTPUT 1184.42-1194.45: Selling, general and administrative expenses, however, decreased to 330 million euros from 373 million euros in the quarter before. 
+asr:0: OUTPUT 1195.02-1199.04: The net other operating income was 34 million euros. 
+asr:0: OUTPUT 1200.04-1210.13: The non-segment result for the quarter amounted to minus 100 million euros. Of this amount, 76 million euros corresponded to cost of goods sold. 
+asr:0: OUTPUT 1210.15-1216.38: 6 million euros to R&D expenses and 47 million euros to SG&A expenses. 
+asr:0: OUTPUT 1217.00-1224.97: As a partial offset, the net other operating income contained 29 million euros of non-segment result income. 
+asr:0: OUTPUT 1226.17-1233.71: The financial result for the September quarter was minus 45 million euros after minus 37 million euros in the previous quarter. 
+asr:0: OUTPUT 1234.97-1245.67: Income tax expense amounted to 117 million euros for the first quarter of the current fiscal year, equivalent to an effective tax rate of 20%. 
+asr:0: OUTPUT 1246.23-1248.65: A quarter over quarter comparison. 
+asr:0: OUTPUT 1248.67-1257.44: Is not meaningful as fiscal year-end quarter in September was influenced by adjustments to deferred tax assets and liabilities. 
+asr:0: OUTPUT 1257.96-1266.79: Cash taxes in the December quarter were 51 million euros resulting in a cash tax rate adjusted for PPA effects of 7%. 
+asr:0: OUTPUT 1267.43-1274.37: This is somewhat lower than our expectation for the entire fiscal year 2022 of around 15%. 
+asr:0: OUTPUT 1274.63-1283.24: As in many years the cash tax rate for the first quarter is influenced by a time lag with respect to the assessment of prepayments. 
+asr:0: OUTPUT 1284.38-1290.97: Let's now look at our investments into property, plant and equipment, other intangible assets and capitalized development costs. 
+asr:0: OUTPUT 1291.45-1299.72: These totaled 408 million euros in the December quarter, down from 596 million euros in the quarter before. 
+asr:0: OUTPUT 1300.14-1309.49: We expect this amount to go up again in the coming quarters as we are consistently investing to reap opportunities for profitable growth. 
+asr:0: OUTPUT 1310.05-1314.75: Depreciation and amortization including acquisition related non-segment results. 
+asr:0: OUTPUT 1314.77-1322.60: Effects were 393 million euros in Q1 after 397 million euros in the preceding quarter. 
+asr:0: OUTPUT 1324.20-1339.92: The free cash flow from continuing operations was 378 million euros, identical to the level achieved in the September quarter as higher operating income and lower investments were offset by incentive payouts that took place in December. 
+asr:0: OUTPUT 1341.24-1346.87: The strong free cash flow contributed to a further improvement of our liquidity and leverage figures. 
+asr:0: OUTPUT 1346.99-1351.93: Our gross cash at the end of December was close to 4.3 billion euros. 
+asr:0: OUTPUT 1352.39-1362.12: Our gross debt amounted to just under 6.7 billion euros, leading to a further reduced net debt figure of 2.4 billion euros. 
+asr:0: OUTPUT 1362.70-1373.55: We are pleased to report already today to you that gross leverage is now closing in on our target level of below 2 with sequentially rising EBITDA. 
+asr:0: OUTPUT 1374.37-1378.92: Net leverage at the end of December quarter came to a level of. 
+asr:0: OUTPUT 1378.94-1390.43: Point seven times, underlining once again the strong business performance over the last quarters and the success of the faster than anticipated Cyprus refinancing. 
+asr:0: OUTPUT 1390.77-1394.29: And we are not standing still on our deleveraging path. 
+asr:0: OUTPUT 1394.33-1407.09: In mid-January, we fully repaid back a former Cyprus convertible bond for a conversion amount of 387 million US dollars, bringing our gross leverage down further. 
+asr:0: OUTPUT 1408.17-1416.50: We are proud that these efforts and our firm commitment to investment grade are being recognized also by our rating agency. 
+asr:0: OUTPUT 1416.76-1423.88: As you might have seen, the day before yesterday, S&P Global increased our rating by one notch to BBB flat. 
+asr:0: OUTPUT 1424.52-1435.02: Counting from the closing of the 9 billion Cyprus transaction, it took us less than two years to get back to our starting rating level. 
+asr:0: OUTPUT 1436.40-1441.16: I will finalize my part with reporting on our after-tax return on capital employed. 
+asr:0: OUTPUT 1441.48-1447.37: The ROSI for the first quarter of our 2022 fiscal year came in at 12.5%. 
+asr:0: OUTPUT 1447.93-1453.21: This number is underestimating the margin by which we exceed our cost of capital. 
+asr:0: OUTPUT 1453.25-1458.80: As it is burdened by bookings related to the acquisitions of Cyprus and international rectifier. 
+asr:0: OUTPUT 1459.00-1464.88: In particular goodwill, fair value step-ups and amortization, as well as deferred tax effects. 
+asr:0: OUTPUT 1465.15-1473.65: However, to simplify our reporting, we will not anymore illustrate these effects by providing an adjusted ROSI figure going forward. 
+asr:0: OUTPUT 1474.29-1477.90: Now back to Reinhard, who will comment on our outlook. 
+asr:0: OUTPUT 1479.12-1486.65: Thank you, Sven. The market environment continues to be characterized by tight supply and strong demand. 
+asr:0: OUTPUT 1487.17-1490.09: Due to cyclical tailwinds and structural factors. 
+asr:0: OUTPUT 1490.97-1497.98: Over time, capacities will gradually be added, allowing for some restocking from very low levels. 
+asr:0: OUTPUT 1498.00-1501.04: But no full replenishment in the foreseeable future. 
+asr:0: OUTPUT 1502.08-1511.09: Rather, across a large majority of product categories and end markets, everything that we ship gets assembled into final products and sold. 
+asr:0: OUTPUT 1511.81-1512.87: As a consequence. 
+asr:0: OUTPUT 1513.11-1518.00: Our outlook is still predominantly determined from the supply side. 
+asr:0: OUTPUT 1518.02-1526.79: That is, by the extent by which we can expand capacities both in-house as well as from external manufacturing partners. 
+asr:0: OUTPUT 1527.75-1538.50: Regarding currency, we adjust our outlook to an assumed US dollar-euro exchange rate of 1.15 from 1.20 before. 
+asr:0: OUTPUT 1539.34-1547.33: This is a major driver for raising our projections, as you can conclude from the sensitivities Sven mentioned earlier. 
+asr:0: OUTPUT 1548.67-1553.85: First to the running second quarter of our 2022 fiscal year. 
+asr:0: OUTPUT 1554.53-1559.68: We anticipate revenues to increase modestly to around 3.2 billion euros. 
+asr:0: OUTPUT 1560.40-1568.29: By division, we expect IPC to grow sequentially by a high, ATV by a low single-digit percentage. 
+asr:0: OUTPUT 1569.05-1574.57: CSS should be flat and PSS seasonally declined by a low single digit percentage. 
+asr:0: OUTPUT 1575.36-1577.10: In terms of profitability. 
+asr:0: OUTPUT 1577.12-1585.65: Typically, the March quarter marks a low point within our fiscal year, driven by effects from inventory revaluation and price declines. 
+asr:0: OUTPUT 1586.23-1591.53: As stated in last analyst call already, we do not expect charts to dip in the current environment. 
+asr:0: OUTPUT 1591.97-1600.18: Hence, the segment result margin should come in again at a level of around 22%, beating our usual seasonality. 
+asr:0: OUTPUT 1601.24-1611.53: For the full 2022 fiscal year, we raise our anticipated revenue figure from 12.7 to 13 billion euros plus. 
+asr:0: OUTPUT 1611.55-1616.40: Or minus 500 million euros, taking into account the stronger US dollar. 
+asr:0: OUTPUT 1617.38-1624.72: At the midpoint, this would constitute an annual growth rate of 17.5 percent, higher than market predictions. 
+asr:0: OUTPUT 1625.43-1632.09: We expect to benefit from structural growth opportunities and the expansion of our in-house manufacturing capacities. 
+asr:0: OUTPUT 1632.71-1639.10: From a divisional perspective, we continue to expect ATV and CSS to exceed the group average growth rate. 
+asr:0: OUTPUT 1639.50-1648.43: PSS should grow in line with group average. For IPC, increase our projected growth slightly to a high single digit percentage range. 
+asr:0: OUTPUT 1650.37-1653.35: Specifically talking about silicon carbide. 
+asr:0: OUTPUT 1653.57-1663.10: We confirm our goal to roughly double our business again and achieve close to 300 million euros of revenue in our 2022 fiscal year. 
+asr:0: OUTPUT 1663.84-1668.57: Also in this area, the demand lies clearly above available capacities. 
+asr:0: OUTPUT 1669.65-1678.92: On a cautionary note, our outlook is predicated on the absence of larger supply chain disruptions or other new bottlenecks. 
+asr:0: OUTPUT 1679.48-1685.13: Whereas our current visibility is fairly good, the resurgence of COVID-19 cases. 
+asr:0: OUTPUT 1685.15-1689.89: And the rapid spread of the Omicron virus variant create uncertainties. 
+asr:0: OUTPUT 1690.77-1694.61: Bearing this in mind, we are confident about our margin trajectory. 
+asr:0: OUTPUT 1694.97-1703.44: Therefore, we are firming up our guidance for the segment result margin, which goes from 21 to a level of 22 percent. 
+asr:0: OUTPUT 1703.52-1705.93: Assuming the expected revenue comes in. 
+asr:0: OUTPUT 1706.85-1713.13: As already mentioned, cost and price increases do not necessarily occur at synchronized points in time. 
+asr:0: OUTPUT 1714.45-1718.46: Our protection for investment, property, plant and equipment. 
+asr:0: OUTPUT 1718.52-1727.23: Other intangible assets and capitalized development cost remains unchanged at around 2.4 billion euros. 
+asr:0: OUTPUT 1727.95-1729.11: Key projects. 
+asr:0: OUTPUT 1729.13-1740.28: Are the expansion of 300 mm silicon capacities at the Dresden and Filak sites, and expanding our wide band gap manufacturing in Filak and also Kulim, Malaysia. 
+asr:0: OUTPUT 1741.24-1747.19: For depreciation and amortization we expect a value between 1.6 and 1.7 billion euros. 
+asr:0: OUTPUT 1747.21-1754.53: Including amortization of around 400 million euros resulting from the purchase price allocation for Cyprus and. 
+asr:0: OUTPUT 1754.55-1758.14: To a lesser extent still related to international rectifier. 
+asr:0: OUTPUT 1759.14-1764.14: For free cash flow we expect a level of around 1 billion euros. Overall? 
+asr:0: OUTPUT 1764.52-1770.07: We are well set to continue our successful journey into 2020. 
+asr:0: OUTPUT 1771.49-1775.50: Before coming to your question, please allow for a short personal note. 
+asr:0: OUTPUT 1776.10-1782.62: Today's analyst call will be the last one from years in Finian CEO. The first one was 10 years ago. 
+asr:0: OUTPUT 1783.44-1789.07: I have enjoyed the rigor of this quarterly exercise, same as I have enjoyed the dialogue with you. 
+asr:0: OUTPUT 1789.93-1797.60: As sell-side analysts, you are the key link between our company and our owners, as well as general capital markets. 
+asr:0: OUTPUT 1798.22-1805.65: Many thanks for all your support, reports and recommendations, in particular those with buy and strong buy. 
+asr:0: OUTPUT 1806.21-1810.23: Many thanks for all your investigative questions. 
+asr:0: OUTPUT 1811.03-1817.34: I hope I could answer most of them throughout the years, but I'm sure you have a couple more. Let's bring them on. 
+asr:0: OUTPUT 1817.64-1822.54: Some of them I might pass on to Jochen who will chair this call from next quarter onwards. 
+asr:0: OUTPUT 1831.43-1835.54: Thank you. Our question and answer session will be conducted electronically. 
+asr:0: OUTPUT 1836.26-1842.58: If you would like to ask a question, simply press the star key followed by the number 1 on your telephone. 
+asr:0: OUTPUT 1843.24-1848.99: If you are joining us today using a speakerphone, please ensure that your mute function is turned off. 
+asr:0: OUTPUT 1849.95-1854.77: Once again, in order to be fair to all participants, please keep it to one question. 
+asr:0: OUTPUT 1856.42-1861.78: And we'll take our first question then from Alex Duval from Goldman Sachs. Please go ahead. 
+asr:0: OUTPUT 1864.00-1869.33: Yes, many thanks for the question actually to Reinhard as well for all the dialogue and help over the years. 
+asr:0: OUTPUT 1870.23-1879.74: So one question was just on what you said about your business and tightness not being resolved in the near term. 
+asr:0: OUTPUT 1880.54-1885.87: It sounded like you said you think tightness is going to persist for all of auto, industrial and data center. 
+asr:0: OUTPUT 1886.73-1891.15: So can you just clarify that correct? And can you give a bit more color on what NETA means? 
+asr:0: OUTPUT 1892.01-1898.42: To what extent do you see areas of the business that are likely to come more into balance this year? 
+asr:0: OUTPUT 1898.44-1903.38: And can you help us think about the phasing as we look through the year? Many thanks. 
+asr:0: OUTPUT 1906.43-1909.87: Thank you, Alex. First, in general, yes. 
+asr:0: OUTPUT 1910.85-1920.36: Our outlook is definitely affected by the tightness of supply, mainly from foundries. 
+asr:0: OUTPUT 1920.38-1921.48: Uh... 
+asr:0: OUTPUT 1921.90-1925.51: Helmut will go into details for the automotive market. 
+asr:0: OUTPUT 1925.95-1935.78: We also can briefly touch on other verticals, but I think the major one is the automotive, not to forget also our CSS segment. 
+asr:0: OUTPUT 1937.14-1946.35: I'm just happy to add some color. At first, yes, the current demand situation is by far exceeding capability supply. 
+asr:0: OUTPUT 1946.71-1948.77: That is in particular true for automotive. 
+asr:0: OUTPUT 1949.41-1953.97: Figures have been reported by analysts that about 10 million cars would have. 
+asr:0: OUTPUT 1953.99-1961.58: Been built more in last year than actually was possible through the shortage of semiconductors and other materials. 
+asr:0: OUTPUT 1962.10-1966.73: And certainly there is a need to catch up with that figure throughout the year. 
+asr:0: OUTPUT 1967.13-1976.48: So for the entire year 22, we do see that demand in automotive will continue to exceed, gradually improving over the year. 
+asr:0: OUTPUT 1976.58-1986.47: Yet there is definitely no doubt that demand will be more than sufficient to fill the books of hours. 
+asr:0: OUTPUT 1987.61-1992.99: There are other verticals that are also very strong or remain to be very strong. 
+asr:0: OUTPUT 1994.01-2001.38: Let's say the server market in the compute area definitely we see to hold on very strongly. 
+asr:0: OUTPUT 2001.42-2006.19: On the renewable side in particular, solar is going to be driving double-digit growth. 
+asr:0: OUTPUT 2006.93-2011.67: So many other things besides automotive continue to drive our demand up. 
+asr:0: OUTPUT 2012.71-2017.82: Then the situation, I will hand over to Jochen. 
+asr:0: OUTPUT 2017.88-2024.46: We expect that the foundry supply will improve in second half year. You see it only partially in our numbers. 
+asr:0: OUTPUT 2025.13-2031.45: One addition to the automotive segment, what we also see, that the current model is not any more fitting 100%. 
+asr:0: OUTPUT 2031.53-2039.00: As the feature level in cars has increased significantly and the automakers are moving to. 
+asr:0: OUTPUT 2039.02-2041.60: Higher end cars but also in the midsize. 
+asr:0: OUTPUT 2041.64-2048.13: Much more is added, especially in the electric, but capacity and supply, Jochen, can you comment please? 
+asr:0: OUTPUT 2049.13-2056.12: Yeah, thank you Reinhard. So let's start with the tightest area, which is still from the foundries. 
+asr:0: OUTPUT 2056.96-2061.42: Here we secured more wafers in 22 than in 21. 
+asr:0: OUTPUT 2061.58-2070.95: But mainly backloaded, meaning supply improves for the second calendar year, which is then of course only reflected partially. 
+asr:0: OUTPUT 2072.81-2074.59: Second half of the calendar year. 
+asr:0: OUTPUT 2075.84-2084.70: Which is of course only reflected then partially in our forecast for our fiscal year. 
+asr:0: OUTPUT 2085.53-2093.19: We see the tightest supply areas still in the mature nodes from 130 down to 4028. 
+asr:0: OUTPUT 2094.11-2102.72: On the power side, our outsourcing share is not very significant. There we see some additional supply in the market. 
+asr:0: OUTPUT 2103.70-2111.53: But on the power side, we of course benefit mainly from our continuous ramp in our own factories. 
+asr:0: OUTPUT 2111.69-2118.76: And here the CAPEX spent in 2019, 2020, 2021 of course. 
+asr:0: OUTPUT 2118.78-2127.39: Give us the momentum reflected lately by the opening of our new 300 millimeter factory in Villach. 
+asr:0: OUTPUT 2138.00-2142.48: The call now comes from Sandeep Deshpand from J.P. Morgan. 
+asr:0: OUTPUT 2144.54-2145.63: Thanks for letting me on. 
+asr:0: OUTPUT 2146.29-2149.95: Since you left off right now talking about your vaccines, we lost. 
+asr:0: OUTPUT 2150.97-2155.22: Has the ramp-up plans of the factory in Villach changed at all? 
+asr:0: OUTPUT 2155.50-2161.72: How quickly will it ramp up and is the capex that you have outlaid for this year 2.4 billion euros? 
+asr:0: OUTPUT 2162.04-2164.62: Enough to ramp it up or is there a potential that you may. 
+asr:0: OUTPUT 2164.68-2166.35: The CAPEX again through the year. 
+asr:0: OUTPUT 2168.25-2171.59: Thank you for the question. Right away to Jochen. 
+asr:0: OUTPUT 2172.55-2180.94: So the current environment is determined by, let's say, lead times of equipment. 
+asr:0: OUTPUT 2181.88-2190.77: In general, I feel very comfortable with the page we showed at the CMD where we showed two facilities ramped up. 
+asr:0: OUTPUT 2190.99-2196.06: Over time. Of course, we would take any advantage of. 
+asr:0: OUTPUT 2196.08-2201.82: Equipment becoming earlier available to boost this ramp. 
+asr:0: OUTPUT 2202.02-2207.13: But this is difficult in the current market environment, so that is more determining. 
+asr:0: OUTPUT 2207.15-2212.45: Everything than the let's say CapEx budget number. 
+asr:0: OUTPUT 2214.87-2223.12: One addition, Sandeep, we are in a very good position that we also can now ramp into 300mm factories which we... 
+asr:0: OUTPUT 2241.68-2251.33: Yes thank you. The first order to write now then thank you for your leadership over the last decade and turning into nearly what it is today. We'll meet you. 
+asr:0: OUTPUT 2253.01-2254.17: My question is this. 
+asr:0: OUTPUT 2254.73-2260.16: So you've given us your backlog of 31 billion euros at the end of December. 
+asr:0: OUTPUT 2260.38-2266.37: I just wanted to understand how you reconcile that backlog with your revenue guide for fiscal year 22. 
+asr:0: OUTPUT 2267.55-2276.04: How much of that is non-cancellable orders, and also the benefit of pricing in your Fiscal Year 22 Revenue Guide. Thank you. 
+asr:0: OUTPUT 2277.40-2278.58: Did you think? 
+asr:0: OUTPUT 2279.98-2288.69: Helmut will take it, but in general we have various patterns in our order concept and Helmut will go into detail. 
+asr:0: OUTPUT 2289.27-2290.91: Yes, I did hear. Welcome. 
+asr:0: OUTPUT 2291.67-2300.94: The backlog we reported obviously is exceeding by more than two our revenue forecast that we have for the year. 
+asr:0: OUTPUT 2301.34-2305.37: So clearly, the backlog. 
+asr:0: OUTPUT 2305.55-2312.65: I'd say has a maturity where around 80% of that is targeted for the next 12 months. 
+asr:0: OUTPUT 2313.05-2318.40: And obviously that doesn't fit to our revenue forecast. So we will not be able to fulfill all of this. 
+asr:0: OUTPUT 2319.96-2329.13: So I think at this time, non-cancellable orders are really a term that is not necessary given the fact that you have that maturity and absolute number. 
+asr:0: OUTPUT 2330.53-2334.89: You also added the additional aspect of pricing and I think... 
+asr:0: OUTPUT 2334.91-2342.70: We see out of the revenue growth for the year that we have planned, more than 50% of that is actually coming from volume. 
+asr:0: OUTPUT 2343.24-2350.61: But we do have a triple digit effect in terms of pricing as well as from the US dollar. 
+asr:0: OUTPUT 2350.63-2354.05: In the current forecast included. 
+asr:0: OUTPUT 2355.54-2362.30: One addition to that, non-cancellable orders are a double-sided sword. You for sure will get the revenue for the time being. 
+asr:0: OUTPUT 2362.78-2366.69: But we experienced this in former times where we had such contracts. 
+asr:0: OUTPUT 2367.03-2376.34: And after the periods where the non-cancellable orders are, I would say, finished from the contract, we saw significantly dip in revenue. 
+asr:0: OUTPUT 2376.64-2386.25: We very much prefer to be close to the market and follow our customers along these lines and I ask them to participate in the risks of idle cost. 
+asr:0: OUTPUT 2395.40-2400.78: Thank you and now go to our next question from Andrew Gardnier from City. Please go ahead. 
+asr:0: OUTPUT 2402.66-2408.95: Good morning, gentlemen. Thanks for taking the question. First of all, I echo sentiments, my peers best best wishes, Reinhard. 
+asr:0: OUTPUT 2409.93-2412.23: I had a question for you on the margin front. 
+asr:0: OUTPUT 2413.11-2419.32: With the results you just reported for December and then the outlook you've given us for the March quarter? 
+asr:0: OUTPUT 2419.34-2424.72: You're looking at margins in the low to mid 22% range for the first half of the fiscal year. 
+asr:0: OUTPUT 2425.31-2432.33: Which then begs the question with continued revenue growth in the back half, full utilization, the supply-demand imbalance you've talked about. 
+asr:0: OUTPUT 2433.09-2439.90: Why would margins decline in the second half of this fiscal year to drive only 22% operating margins? 
+asr:0: OUTPUT 2442.74-2451.35: So thank you, Andrew. And Sven already hinted slightly in his presentation, but I think it makes sense to go more into detail. 
+asr:0: OUTPUT 2451.83-2461.60: Thank you, Andrew, for the question. As we said, the margin, perspective and trajectory is of course the sum of many different parts. 
+asr:0: OUTPUT 2462.34-2466.43: There are some pluses and there are some minuses as always. 
+asr:0: OUTPUT 2466.49-2472.67: I think the most important thing to notice, as we have said last time and this time in Reinhard's part as well,. 
+asr:0: OUTPUT 2472.97-2481.72: This typical seasonality is no longer fully in sync, talking about cost increases and price pass-through. 
+asr:0: OUTPUT 2482.06-2486.85: So therefore, we also need to be here a bit mindful of how we interpret quarters. 
+asr:0: OUTPUT 2487.23-2491.75: But looking at how we come to the 22% for the full year. 
+asr:0: OUTPUT 2491.89-2498.70: I mean, as you say, we have now 22-something in the books. We are guiding for 22. 
+asr:0: OUTPUT 2498.72-2506.43: The first half of the year would then be a little bit less than 50% of the revenue guidance for the full year. 
+asr:0: OUTPUT 2506.69-2511.51: And taking all the positives like pricing environment. 
+asr:0: OUTPUT 2511.53-2528.05: The revenue fall through on the gross margin, lower idle cost, the currency contribution on the positive side and further cost pressure from foundries, from commodity prices and all that into equation. 
+asr:0: OUTPUT 2528.09-2536.98: And also having a, I would call it a balanced approach between risks and opportunities. We just talked about opportunities. 
+asr:0: OUTPUT 2537.06-2546.79: If foundry supply would be a bit higher in second half, there could be also a risk that an omicron impact could hit our supply side. 
+asr:0: OUTPUT 2547.07-2556.44: If that would not materialize, there would be some kind of upside. That's also the reason why in the revenue guidance we have given you $13 billion plus. 
+asr:0: OUTPUT 2556.46-2557.72: 500 million. 
+asr:0: OUTPUT 2557.80-2561.24: So taking all that together, we think it's a balanced approach. 
+asr:0: OUTPUT 2561.26-2574.95: Of coming with 22, taking all these factors into consideration. And last element, as also explained, I think, well, at the capital markets day, please also always factor in, especially for CSS,. 
+asr:0: OUTPUT 2575.06-2581.98: But also for the group that we are heavily investing, we are pre-funding P2S revenue synergies. 
+asr:0: OUTPUT 2582.62-2590.23: We are investing into white band gap and that also has an impact on the margin side going forward. 
+asr:0: OUTPUT 2600.00-2606.07: Go to our next question now from Alexander Peterick from Societe Generale. Please go ahead. 
+asr:0: OUTPUT 2607.97-2615.46: Good morning, thank you for the question and congratulations to Reinhardt for taking Infineon to what it is today. Great job done there. 
+asr:0: OUTPUT 2616.36-2621.82: I'd like to come back a little bit on the CAPEX situation. 
+asr:0: OUTPUT 2623.26-2630.23: Given the very, very strong demand patterns and the inability of the industry to supply outstanding demand. 
+asr:0: OUTPUT 2631.37-2637.16: Would there be any upsides to your CapEx budget for the year and what would you ideally like to spend this year? 
+asr:0: OUTPUT 2637.70-2642.02: If you had no constraints on the side of equipment suppliers. 
+asr:0: OUTPUT 2644.28-2650.45: That is an interesting question we never ask ourselves, no joking. I think yes, of course, and Jochen can go into details. 
+asr:0: OUTPUT 2651.03-2656.88: Yeah, we always invest in a meaningful manner and let's face it,. 
+asr:0: OUTPUT 2657.08-2659.04: We have now. 
+asr:0: OUTPUT 2659.06-2667.19: Our fiscal year ends in September, in difference to our competition. 
+asr:0: OUTPUT 2667.39-2676.14: So 2.4 billion is a good number. Again, if there are opportunities, we would take them. 
+asr:0: OUTPUT 2676.52-2680.20: But the market is currently limited by. 
+asr:0: OUTPUT 2680.22-2688.77: Equipment and it doesn't make sense to take equipment on the books which is not in the critical path to more. 
+asr:0: OUTPUT 2688.79-2690.25: Revenue. 
+asr:0: OUTPUT 2690.43-2696.86: But again, we are planning here along our structural growth. 
+asr:0: OUTPUT 2696.88-2710.13: Drivers and plans and that is over multi years and of course will expand our capacity in order to take advantage of the coming growth. 
+asr:0: OUTPUT 2710.15-2712.87: In all our target markets. 
+asr:0: OUTPUT 2714.33-2723.96: I think especially in the silicon carbide area, we would be happy if we could accelerate the capacity ramp up. 
+asr:0: OUTPUT 2724.97-2730.59: But here, as Jochen said, the supply is limited from the equipment side. 
+asr:0: OUTPUT 2740.36-2746.05: Our next question now comes from Adhiatha Machukwu from Credit Suisse. 
+asr:0: OUTPUT 2748.43-2757.10: Yeah, good morning guys. And again, firstly to Ryan Harden, it's been great following the company over the last decade and seeing the way you built up Infineon. 
+asr:0: OUTPUT 2757.14-2760.14: I wish you the very best in your future endeavors. 
+asr:0: OUTPUT 2761.52-2767.51: I had two questions. Firstly, your peers have recently been talking about. 
+asr:0: OUTPUT 2767.61-2775.64: Capturing more of the value added by semis, you know, talking about how pricing dynamics in the industry are changing to what they've been over the last 20 years. 
+asr:0: OUTPUT 2776.16-2782.60: And I just wonder when you gave your margin target, you gave it when you bought Cyprus. 
+asr:0: OUTPUT 2782.68-2787.49: And pricing dynamics in the industry were very different than 19% through cycle margin target. 
+asr:0: OUTPUT 2787.81-2790.17: And you're already at 22% segment result margin. 
+asr:0: OUTPUT 2790.61-2794.19: And you're talking about some potential upside depending on how the year goes. 
+asr:0: OUTPUT 2794.77-2799.68: I just wonder how should we think about any upside potential to the through cycle margin target of 19%. 
+asr:0: OUTPUT 2800.76-2807.55: As these pricing dynamics change, any color you can provide around that would be helpful. 
+asr:0: OUTPUT 2807.83-2817.06: And then just on the free cash flow question for Sweat, when, you know, there's no, you obviously updated Biden, you're keeping your capex flat. 
+asr:0: OUTPUT 2817.66-2826.97: So are there any material parts we should be aware of when modeling free cash flow, remaining at probably a billion? Any color around that would be helpful. 
+asr:0: OUTPUT 2828.43-2834.03: Thank you. I will hand it over, but due to the acquisition I want to make a brief remark. 
+asr:0: OUTPUT 2834.37-2839.86: At the time, we had maybe a different pricing situation, but also a different supply situation. 
+asr:0: OUTPUT 2840.20-2842.32: Considering this heads and tailwinds. 
+asr:0: OUTPUT 2842.38-2850.85: We believe that we are very successful in getting the value and the acquisition, especially taking into account that we are still in a. 
+asr:0: OUTPUT 2850.87-2855.52: Hardly to no touch scenario of the integration process. 
+asr:0: OUTPUT 2855.98-2861.44: Therefore, I believe it is a very balanced number, but Sven, please elaborate on that more. 
+asr:0: OUTPUT 2862.12-2868.13: Thank you Adi for the question and let me maybe start with the obvious as we said in the past. 
+asr:0: OUTPUT 2868.53-2871.49: This 19% profitability level is. 
+asr:0: OUTPUT 2871.53-2873.25: A through the cycle number. 
+asr:0: OUTPUT 2873.27-2877.12: And through the cycle to us means that in boom years, in good years,. 
+asr:0: OUTPUT 2877.14-2889.79: You need to be significantly above the number as in bad years, a COVID year for example, which was not as bad at Infineon as for others, but still below the margin target you saw it. 
+asr:0: OUTPUT 2889.81-2890.89: To the downside. 
+asr:0: OUTPUT 2890.93-2901.48: So having now three percentage points up compared to the 19 is, from my perspective, just a confirmation that through the cycle logic works. 
+asr:0: OUTPUT 2902.34-2909.71: The other thing I just want to repeat, if you recall our capital markets day in the Q&A session, I said that. 
+asr:0: OUTPUT 2909.73-2912.39: Once markets have normalized. 
+asr:0: OUTPUT 2912.41-2919.90: And once all these supply-demand imbalances are fading out, we will upgrade our target. 
+asr:0: OUTPUT 2919.92-2922.10: Operating model. 
+asr:0: OUTPUT 2922.12-2925.25: But I think at that moment in time, there is nothing. 
+asr:0: OUTPUT 2925.27-2926.73: To add from that perspective. 
+asr:0: OUTPUT 2927.49-2936.40: And to your free cash flow question, why have we not changed the 1 billion, given that we have now 300 million more of revenues? 
+asr:0: OUTPUT 2937.38-2942.44: Mathematically, there would be a small additional component, I agree. 
+asr:0: OUTPUT 2942.50-2951.23: But it's an around number and also please factor in that in order to secure supply for the years to come,. 
+asr:0: OUTPUT 2951.33-2961.08: We are also entertaining discussions with our suppliers on some prepayments which have also an impact on the free cash flow. All that is factored in into the guidance. 
+asr:0: OUTPUT 2963.92-2973.43: Understood. Thank you. 
+asr:0: OUTPUT 2975.42-2984.28: Yes, good morning. I have a question on the automotive margin actually because it's pretty high at the moment. 
+asr:0: OUTPUT 2984.64-2993.59: In the past you were saying that there was a significant difference between electromobility and kind of more classic. 
+asr:0: OUTPUT 2993.61-3001.60: Automotive business. Can you update us on this and what do you see going forward for this? Thank you. 
+asr:0: OUTPUT 3002.86-3007.29: Thank you Stefan. Helmut will touch on that. 
+asr:0: OUTPUT 3007.57-3013.69: But first of all, I want to remind you that for a very long time,. 
+asr:0: OUTPUT 3013.81-3018.88: We communicated that we have to improve the margin in the EV business. 
+asr:0: OUTPUT 3018.98-3024.56: Means the IGBT and silicon carbide and other products going in there. 
+asr:0: OUTPUT 3025.09-3033.17: And there we have been very successful as volume was up and I would say we managed it well as predicted. 
+asr:0: OUTPUT 3034.01-3039.98: But there are other factors in the portfolio structure I hand over to Helmut. 
+asr:0: OUTPUT 3041.34-3043.92: Yeah, thank you, Stefan, for the question. 
+asr:0: OUTPUT 3044.22-3048.89: First of all, EV dynamics is continuing to be super strong. 
+asr:0: OUTPUT 3049.41-3057.74: Doubling the volume of plug-in and battery driven vehicles and in particular battery electric vehicles are super strong. 
+asr:0: OUTPUT 3058.08-3066.15: China again leading the growth with more than doubling as compared to the previous year again. 
+asr:0: OUTPUT 3066.61-3075.48: Which by the way, side note, not to your question but in general interesting, is also driving charging infrastructure which is another important growth driver for Infineon. 
+asr:0: OUTPUT 3075.50-3076.96: Bracket closed. 
+asr:0: OUTPUT 3077.56-3084.48: As to the margin, as Reinhard said, we have been working on improving our cost position on one side. 
+asr:0: OUTPUT 3084.72-3093.05: The other thing is we are very strong in modules as well as in the chip business that we provide to this market. 
+asr:0: OUTPUT 3093.35-3103.04: And there is a margin difference between the two. In fact, as there is less material that we have to purchase on the chip side, the margin is generally higher. 
+asr:0: OUTPUT 3103.34-3105.71: So that's a structural effect that certainly helps us. 
+asr:0: OUTPUT 3106.45-3114.33: Automotive then in general is also trending towards higher end vehicles. This path continues as well. 
+asr:0: OUTPUT 3114.57-3118.00: Which is driving components with a higher value again. 
+asr:0: OUTPUT 3118.36-3122.98: And so that is all contributing to a margin improvement in automotive. 
+asr:0: OUTPUT 3128.53-3137.74: Much. Thank you. We have a question now from Sebastian Stabowicz from Kepler. 
+asr:0: OUTPUT 3139.76-3141.94: Thank you and thank you for taking the question. 
+asr:0: OUTPUT 3142.34-3147.85: Could you provide some indication on the size of your backlog today on the silicon carbide and. 
+asr:0: OUTPUT 3148.01-3156.70: Also, have you seen any change in the competitive landscape for silicon carbide because it seems that some Chinese companies are investing. 
+asr:0: OUTPUT 3156.74-3160.60: Increasingly in poor semis, generally speaking, but also. 
+asr:0: OUTPUT 3160.86-3163.96: In silicon carbide like CR micro and other. Thank you. 
+asr:0: OUTPUT 3165.73-3166.85: Thank you for. 
+asr:0: OUTPUT 3167.69-3169.01: Your question, Sebastian. 
+asr:0: OUTPUT 3169.35-3173.27: First of all, we want to say that we still see. 
+asr:0: OUTPUT 3173.41-3177.92: We are very proud of that. We are very advanced in the technology. 
+asr:0: OUTPUT 3177.96-3185.15: Progress and are leading the industry on the trench-based silicon carbide MOSFET. 
+asr:0: OUTPUT 3186.49-3191.81: We are pretty much in line with our goal to 1 billion in the mid-20s. 
+asr:0: OUTPUT 3192.15-3199.38: And the order backlog here is, I would say, developing quite positively. 
+asr:0: OUTPUT 3200.30-3204.04: As we are a very, I would say, reliable port,. 
+asr:0: OUTPUT 3204.84-3213.35: We do not offer to our customers, especially in the automotive industry, more capacity than we foresee in the near future. 
+asr:0: OUTPUT 3213.49-3216.48: So I would say the outlook is... 
+asr:0: OUTPUT 3216.78-3223.06: The outlook is more supply constrained and. 
+asr:0: OUTPUT 3223.24-3226.97: Here we would expect that in all verticals we could do more. 
+asr:0: OUTPUT 3227.23-3235.44: That is charging stations, it is renewable power supplies for photovoltaic. 
+asr:0: OUTPUT 3235.96-3237.78: In the drive train. 
+asr:0: OUTPUT 3238.02-3242.66: And I think here, the. 
+asr:0: OUTPUT 3242.88-3251.67: There we cannot give you a precise number and we see Infineon becoming a leader in this market as we go forward. 
+asr:0: OUTPUT 3251.79-3261.44: But the investment plans we talked about, especially moving to Kulim, will be a substantial part of it and they have more to come in the next quarters. 
+asr:0: OUTPUT 3271.23-3280.08: Thank you. Jerome Rama from BNP Paribas has our next question. Yeah, good morning. 
+asr:0: OUTPUT 3281.10-3284.76: Thank you, Ryan Knight, for this year and best of luck for the future. 
+asr:0: OUTPUT 3285.65-3294.61: My question is concerning the Fuller-Rowley guidance. When we look at the guidance, it typically does not have to be shared, just 4% of all the first half. 
+asr:0: OUTPUT 3295.03-3303.10: So I'd just like to understand the dynamics there because on one hand you'd say you're going to have a little bit more capacity coming online, or source coming from the phone read. 
+asr:0: OUTPUT 3303.56-3312.89: And the seasonality of dementia will be a bit stronger. So I'm just a little bit surprised that we don't see more outside in the second half than in the first half. Thank you. 
+asr:0: OUTPUT 3315.22-3323.92: Thank you Jerome, I think we touched it a little bit already. Jochen said something and we will share that question but as we move forward we see that. 
+asr:0: OUTPUT 3323.94-3326.87: Capacities coming on in-house. 
+asr:0: OUTPUT 3326.91-3332.63: As we are investing and the foundry is still pretty constrained. 
+asr:0: OUTPUT 3332.77-3341.58: Affecting ATV, CSS and also PSS. Please don't forget that in many areas we have kind of a bundle. 
+asr:0: OUTPUT 3341.74-3343.38: Solution. 
+asr:0: OUTPUT 3343.66-3345.87: We could deliver more power. 
+asr:0: OUTPUT 3346.27-3350.29: But are constrained in other areas. Jochen, can you please go into detail? 
+asr:0: OUTPUT 3351.79-3353.77: First of all, I would like to reiterate. 
+asr:0: OUTPUT 3353.79-3363.72: That the additional foundry waivers we are getting are rather good for revenue in the second half of the calendar year 2022. 
+asr:0: OUTPUT 3364.14-3369.93: And I would also like to point that we baked in some risk into the forecast. 
+asr:0: OUTPUT 3370.33-3375.76: Nothing like, as Reinhard said in his intro, nothing like a Texas winter storm. 
+asr:0: OUTPUT 3376.10-3380.00: But I am concerned about. 
+asr:0: OUTPUT 3380.48-3386.57: Omicron spreading, for example, in China, zero COVID strategy there. 
+asr:0: OUTPUT 3387.39-3391.31: So let's see if we come... 
+asr:0: OUTPUT 3391.33-3399.02: Into the next quarter, but for right now we see it as a balanced forecast and some risks. 
+asr:0: OUTPUT 3399.20-3400.22: Baked in. 
+asr:0: OUTPUT 3401.36-3407.67: Which of course we do not know yet exactly where they are going to be. 
+asr:0: OUTPUT 3407.97-3416.70: We do not see market risk, we see the balance forecast which we are giving as a supply based forecast. 
+asr:0: OUTPUT 3416.80-3421.60: That we have figured in risks and opportunity, you know in Finnian how we act. 
+asr:0: OUTPUT 3422.12-3428.01: And therefore I believe the good message is the market would support more. 
+asr:0: OUTPUT 3434.85-3439.36: Thank you. We have a question now from Johannes Schaller from Deutsche Bank. 
+asr:0: OUTPUT 3441.50-3443.54: Thanks for taking my question. 
+asr:0: OUTPUT 3443.58-3444.66: Lost from my traffic. 
+asr:0: OUTPUT 3444.80-3454.73: Thank you for making it fitting on what it is today and the great communication with us analysts. So all the best for your future. And again, Mr. Harnepek, congratulations on taking over. 
+asr:0: OUTPUT 3455.76-3462.78: I wanted to dig a little bit deeper on the 5G gallium nitride on silicon business you talked about on the last call. 
+asr:0: OUTPUT 3463.16-3470.73: Doing a bit of digging on that it feels like your customer and design pipeline is probably quite broad and. 
+asr:0: OUTPUT 3470.75-3474.63: The financial opportunity maybe there is even bigger than the LTV. 
+asr:0: OUTPUT 3474.65-3478.16: Sorry, the Aldi most business that you sold to Wolfsby. 
+asr:0: OUTPUT 3478.54-3485.81: Can you talk a little bit just about the breadth of that opportunity and maybe also how we should be thinking about the size of that over the next year? So thank you. 
+asr:0: OUTPUT 3486.95-3496.82: Yeah, thank you, Johannes. The situation with the gallium nitrate on silicon for RF application,. 
+asr:0: OUTPUT 3496.84-3498.52: Is a complex one. 
+asr:0: OUTPUT 3499.16-3507.81: The opportunity there lies in the application and introduction of the. 
+asr:0: OUTPUT 3507.83-3511.21: High complexity MIMO architectures. 
+asr:0: OUTPUT 3511.49-3516.12: Moving away from, I would say, the kind of, let's call it, single antenna concept. 
+asr:0: OUTPUT 3516.76-3526.29: And here you see two things to happen, and we see these on good track. First of all, the gallium nitride technology has to develop. 
+asr:0: OUTPUT 3526.65-3536.26: And there are quite substantial challenges in the behavior of gallium nitride RF components that we believe we have solved this better than the competitors. 
+asr:0: OUTPUT 3537.10-3540.34: Make it more easy for our customer to design it in. 
+asr:0: OUTPUT 3540.72-3548.47: On the other side, we also see that the adoption of new architectures has to go on. 
+asr:0: OUTPUT 3549.09-3557.58: And of course we see in this a very wide interest but also some challenges due to the geopolitical constraints. 
+asr:0: OUTPUT 3557.66-3562.10: Which does not enable us to move everywhere fully freely. 
+asr:0: OUTPUT 3562.72-3569.91: And here we have a very great technical cooperation, but see a great opportunity to go beyond. 
+asr:0: OUTPUT 3570.31-3572.43: You will see this gradually growing. 
+asr:0: OUTPUT 3572.73-3576.00: But we should not overestimate the consequence. 
+asr:0: OUTPUT 3576.02-3583.50: On the business as it will remain a small absolute number of revenue. 
+asr:0: OUTPUT 3583.86-3591.01: But we believe that we will be able to enter this, especially when we think about moving to higher frequencies. 
+asr:0: OUTPUT 3591.31-3597.30: But you see there are a number of steps to be taken and we believe that we are very well positioned. 
+asr:0: OUTPUT 3600.14-3601.46: Very clear. Thank you very much. 
+asr:0: OUTPUT 3604.86-3611.43: Thank you. We have a follow-up question now from Didier Skimama from Bank of America. Please go ahead. 
+asr:0: OUTPUT 3613.35-3618.32: Thank you for that. I just wanted to just come back to the point earlier on the backlog. 
+asr:0: OUTPUT 3618.78-3628.25: So you're saying 80% of your 31-year-old billion backlog is for fiscal year 2022 delivery, but clearly you won't deliver on that given your capacity limitations. 
+asr:0: OUTPUT 3629.01-3632.41: How much of it do you think will speed into 23 at this stage? 
+asr:0: OUTPUT 3632.99-3642.68: Or let's put it differently, is 20% of your 31 billion already for 23 deliveries? Can you just comment on this? That would be great. 
+asr:0: OUTPUT 3644.94-3648.35: So yeah, I think Helmut can put more light on it. 
+asr:0: OUTPUT 3649.05-3654.41: Yes, that's a one billion dollar question I would say. If I would know I'd be happy. 
+asr:0: OUTPUT 3654.69-3660.46: How much of that is going to be in 23? But definitely yes to the second part of the question. 
+asr:0: OUTPUT 3662.42-3666.59: 80% for 12 months means 20% beyond 12 months. 
+asr:0: OUTPUT 3667.11-3674.33: And so as you know, our fiscal year ends in September, so there's, what is it, eight months, I think. 
+asr:0: OUTPUT 3674.37-3677.68: That we're probably having of that 12 months. 
+asr:0: OUTPUT 3678.10-3686.99: Of the 80 percent. So 8 out of 12 times 80 percent is what we have in this fiscal year and the rest goes already into the next fiscal year, which is substantial. 
+asr:0: OUTPUT 3688.07-3691.91: For a substantial portion of it. 
+asr:0: OUTPUT 3692.67-3702.10: How that is going to develop will, as usual, depend on many things. One of it, how is the market going to hold? Is there going to be an increase in supply? 
+asr:0: OUTPUT 3703.20-3710.13: But to predict the figure for that one for 20, 23 is not possible now. 
+asr:0: OUTPUT 3710.43-3713.53: In this backlog we have confirmed and unconfirmed orders. 
+asr:0: OUTPUT 3714.45-3723.36: We very much believe that quite a portion of those which we cannot serve, we will shift forward to 23. 
+asr:0: OUTPUT 3724.08-3732.05: And therefore I think this is not so simple to try to have a precise calculation on it. 
+asr:0: OUTPUT 3740.00-3745.13: Thank you. We have a follow-up question now from Jerome Rama from BNP Paribas. 
+asr:0: OUTPUT 3747.65-3754.07: Thank you for excluding me. Last question. On the target of 1 billion dollars will be used in 2025,. 
+asr:0: OUTPUT 3754.59-3759.72: How much is the mix between modules, MOSFET, and diode? Thank you. 
+asr:0: OUTPUT 3762.04-3764.44: Oh, Jerome, this is a challenging question. 
+asr:0: OUTPUT 3766.03-3772.23: We believe that industrial business is to a large extent module-based. 
+asr:0: OUTPUT 3772.25-3779.82: A lot of customer in the renewables which prefer to use modules. We see also some. 
+asr:0: OUTPUT 3779.84-3799.72: Trends to discrete packages which we can solve quite well. You know that the challenge with silicon carbide is that out of the same package size you have four times the current use. So for many of our competitors it's difficult to support that technology. 
+asr:0: OUTPUT 3799.74-3804.04: In the automotive segment, we see quite some demand on. 
+asr:0: OUTPUT 3804.10-3806.83: Silicon carbide chips. 
+asr:0: OUTPUT 3807.29-3809.13: And they're. 
+asr:0: OUTPUT 3810.59-3818.56: It is, we cannot clearly say as business develops and therefore I think, Helmut, any addition to that? 
+asr:0: OUTPUT 3819.74-3825.35: Yeah, what I can say is obviously the diets are substantially lower in value than the MOSFETs. 
+asr:0: OUTPUT 3826.15-3832.47: We have higher volume in diodes but higher value in MOSFETs if you want to take that split between MOSFETs. 
+asr:0: OUTPUT 3832.63-3837.06: And diodes and it all depends on, yeah. 
+asr:0: OUTPUT 3837.76-3843.60: Right now we are much stronger in industrial and we do see a stronger growth in industrial too. 
+asr:0: OUTPUT 3843.88-3846.39: Then we do have an automotive currently in there. 
+asr:0: OUTPUT 3846.95-3849.69: And we have a higher portion of discreets as well. 
+asr:0: OUTPUT 3850.25-3852.85: But overall modules are more than discreets. 
+asr:0: OUTPUT 3853.29-3861.66: And then to add here, for PSS, for high-end server supplies, for larger power service supplies,. 
+asr:0: OUTPUT 3862.28-3871.93: The silicon carbide in the PFC stage is a very valuable solution parallel to gallium nitride and nevertheless don't forget. 
+asr:0: OUTPUT 3872.39-3881.66: And I think here we really have a strong foothold because we can offer the full range, especially also high-power packaging. 
+asr:0: OUTPUT 3882.08-3887.75: So let's wait and see how it develops and of course you can guess Infineon optimized for profit. 
+asr:0: OUTPUT 3888.11-3897.94: And therefore, this may change over time as we take business on. But I think we can go next time more in detail on that. 
+asr:0: OUTPUT 3899.78-3907.93: So back to... I think here we come to the end. 
+asr:0: OUTPUT 3908.23-3912.19: And now ladies and gentlemen, it's time to summarize. 
+asr:0: OUTPUT 3912.87-3917.28: Infineon was off to a strong start into the 2022 fiscal year. 
+asr:0: OUTPUT 3917.62-3924.30: With more than 3.1 billion euros of revenue, a 22.7% segment result margin,. 
+asr:0: OUTPUT 3924.32-3927.55: And close to 400 million euros of free cash flow. 
+asr:0: OUTPUT 3928.31-3937.80: In our target application areas, the near-term dynamic remains favorable. Supply is seeing some improvement but keeps being insufficient to meet demand. 
+asr:0: OUTPUT 3938.34-3941.86: Many products are in allocation and inventories remain low. 
+asr:0: OUTPUT 3942.44-3947.35: Against this backdrop, we continue to expect a strong 2022 fiscal year. 
+asr:0: OUTPUT 3947.37-3954.91: To reflect the stronger US dollar, we have raised our guidance to revenue of around 13 billion euros. 
+asr:0: OUTPUT 3954.93-3963.10: A segment result margin around 22% euros and around 1 billion euros of free cash flow. 
+asr:0: OUTPUT 3963.68-3967.57: The supply-demand imbalance will stretch well into 2022. 
+asr:0: OUTPUT 3968.05-3974.03: But hardly last forever. There will be restocking and phases of slower momentum. 
+asr:0: OUTPUT 3974.73-3978.84: But more importantly, our structural growth drivers are fully intact. 
+asr:0: OUTPUT 3979.40-3983.68: Semiconductors are becoming ever more strategic and product-defining. 
+asr:0: OUTPUT 3984.24-3993.53: Infineon is ideally positioned to shape and benefit from the two secular themes of our time, electrification and digitalization. 
+asr:0: OUTPUT 3994.23-4004.22: With both near and long-term prospects bright and full trust in the execution capability of this team here under Jochen's leadership. 
+asr:0: OUTPUT 4004.60-4008.05: It is a great time for me to say goodbye. 
+asr:0: OUTPUT 4011.51-4020.14: Ladies and gentlemen, thank you very much for dialing in. This concludes our today's call. Thank you for all your questions and in particular for being so disciplined with the. 
+asr:0: OUTPUT 4020.38-4022.74: Question for caller rule. 
+asr:0: OUTPUT 4023.12-4028.13: If you do have further questions, please do not hesitate to reach out to us in the IR team here in Munich. 
+asr:0: OUTPUT 4028.73-4031.35: Other than that, stay safe and healthy and have a good day. 
+asr:0: END

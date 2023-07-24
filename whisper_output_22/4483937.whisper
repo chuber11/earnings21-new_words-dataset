@@ -1,0 +1,523 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.66-11.79: Good morning everyone. I'm Chris Pocket, Head of Communications for the Renishaw Group and I would like to welcome you to this live webcast presentation. 
+asr:0: OUTPUT 11.81-16.90: Of Renishaw's interim financial results for the period ended December 2021. 
+asr:0: OUTPUT 17.98-22.84: Today's presenters are Will Lee, Chief Executive, and Alan Roberts, Group Finance Director. 
+asr:0: OUTPUT 23.64-28.15: Before I hand over to Will, I would like to go through some basic housekeeping for the event. 
+asr:0: OUTPUT 29.09-32.43: After the presentation, which will last around 25 minutes. 
+asr:0: OUTPUT 32.45-38.18: Sir David McMurtry, Executive Chairman, will join Will and Alan for a question and answer session. 
+asr:0: OUTPUT 38.42-43.50: In which we'll try to answer as many questions as possible before we close at 11 o'clock. 
+asr:0: OUTPUT 44.56-47.07: No questions will be answered during the formal presentation. 
+asr:0: OUTPUT 47.23-57.78: However, you will be able to submit questions both during and after the presentation via the question icon that you can see on the control panel on the right of your screen. 
+asr:0: OUTPUT 59.70-65.45: I'd also like to point out that all financial information given during this presentation will be in pound sterling. 
+asr:0: OUTPUT 66.29-70.39: Thank you again for joining this webcast event and I will now hand over to Will. 
+asr:0: OUTPUT 72.15-79.00: Thank you very much, Chris. So let's take a start looking at the numbers. A really good first half for us. 
+asr:0: OUTPUT 79.28-84.52: Revenue growth of 27% up to £325 million. That is a record for us. 
+asr:0: OUTPUT 85.05-86.99: We are seeing record levels of demand. 
+asr:0: OUTPUT 87.39-97.00: It's those key markets that we've talked about before really strongly recovering and also the semiconductor electronics markets remaining strong. 
+asr:0: OUTPUT 97.42-103.22: This has been across the board in all of our region and continuing the trends that we talked about at the last webcast. 
+asr:0: OUTPUT 103.72-112.83: Profit up by 94% from 43 million to 84 million again a record profit for us for the first half. 
+asr:0: OUTPUT 113.27-120.60: And this has benefited from both the strong sales and also some of the productivity improvements that we put in place a while ago. 
+asr:0: OUTPUT 121.84-128.95: Cash up to 222 million at the end of the period. This is really driven by the strong trading performance. 
+asr:0: OUTPUT 129.13-134.63: We have invested more in capital expenditure in the last half than we did last year. 
+asr:0: OUTPUT 135.88-140.80: And also with the dividend payment. Alan will cover this in more detail later on. 
+asr:0: OUTPUT 142.78-149.83: Now take a look at our manufacturing technologies segment. We can see here really good performance, strong growth of 30%. 
+asr:0: OUTPUT 150.49-158.28: Very much similar trends the last time we spoke. So we're seeing sustained investment in semiconductor and electronics capex. 
+asr:0: OUTPUT 158.62-162.12: And that's very much driving the demand for our encoder technologies. 
+asr:0: OUTPUT 162.64-171.47: And we're also seeing in the more traditional manufacturing sectors the need for more automation driving both the flexible gauging, the equator product. 
+asr:0: OUTPUT 171.51-173.57: And also our machine tool products. 
+asr:0: OUTPUT 176.04-183.90: What we have been asked about quite a few times in the past is what our thoughts are on the end markets for our technologies. 
+asr:0: OUTPUT 184.34-189.89: Now, as we explain here, we have a range of routes to market, and this varies quite a bit actually depending on the product line. 
+asr:0: OUTPUT 190.25-196.28: So with additive manufacturing, we're selling direct to the end user and we know exactly where they are going. 
+asr:0: OUTPUT 196.80-203.90: With products such as encoders, then we know what the equipment is, which is typically into electronics and semiconductor equipment. 
+asr:0: OUTPUT 204.26-211.35: But with industrial metrology products, particularly machine tool probes and CMM probes, we are normally selling through a machine tool or CMM builder. 
+asr:0: OUTPUT 211.69-215.52: And therefore we are less certain on what the actual end use is. 
+asr:0: OUTPUT 216.04-222.50: Now in the pie chart you can see we have our estimate here for the complete manufacturing technology part of the business. 
+asr:0: OUTPUT 223.20-227.53: And that gives an indication as to what we feel the market sector split is. 
+asr:0: OUTPUT 227.95-232.91: You can see it's quite diverse. One probably worth explaining a little bit is on the precision manufacturing. 
+asr:0: OUTPUT 233.33-242.22: Here we have a range of subsystem subcontractors making a range of parts, bearings, motors, sensors, etc. Going into a range of industries. 
+asr:0: OUTPUT 242.66-248.07: And also general subcontractors making parts for a range of different industries. 
+asr:0: OUTPUT 249.05-255.66: So the exciting thing here also is very positive long-term growth rates for the markets we're serving here. 
+asr:0: OUTPUT 255.86-261.86: And also we've got the great technologies now and the future developments really to exploit those opportunities. 
+asr:0: OUTPUT 264.62-272.93: So if we now take a look at the analytical instruments and medical devices segment, then we can see here we did see a revenue drop of 10%. 
+asr:0: OUTPUT 273.61-275.00: Looking behind that a little bit. 
+asr:0: OUTPUT 275.06-279.58: Spectroscopy the order intake actually was strong in H1. 
+asr:0: OUTPUT 279.64-285.81: What we did see though was a bit of delay in shipments going into China, particularly with educational. 
+asr:0: OUTPUT 285.83-286.97: Facilities. 
+asr:0: OUTPUT 286.99-290.27: Achieving duty-free exemption certificates. 
+asr:0: OUTPUT 291.57-296.10: We did also see a reduced turnover in our Neuro product line. 
+asr:0: OUTPUT 297.60-302.72: We have been really positive news here, as we talked about before, engaging with a number of large farmer. 
+asr:0: OUTPUT 302.86-310.13: The trial actually that we talked about last time actually has ended. There were issues with the drug there. 
+asr:0: OUTPUT 310.59-315.40: Positive news was that our technology, the drug delivery technology, worked very well. 
+asr:0: OUTPUT 316.46-321.32: And this showed a model that we will work with with pharma companies going forward. 
+asr:0: OUTPUT 322.68-328.81: If we look here at the end market overview, so less sectors naturally here. 
+asr:0: OUTPUT 328.83-335.00: Large one dominated research here very much with our spectroscopy product line. 
+asr:0: OUTPUT 336.14-340.78: So if we now take a look at the breakdown of the revenue by region. 
+asr:0: OUTPUT 341.20-348.97: What we can see here, which is very positive, is that where we talked before about the recovery being driven by our Asia-Pacific region,. 
+asr:0: OUTPUT 349.17-353.23: We now see that all three of our sales regions are growing nicely. 
+asr:0: OUTPUT 354.05-358.12: Many similar trends causing that growth across the regions. 
+asr:0: OUTPUT 358.54-361.34: APAC stands out still as being a bit different though. 
+asr:0: OUTPUT 362.08-370.77: That really comes from a significant volume of the manufacturing of semiconductor and electronics CAPEX equipment is done in the APAC region. 
+asr:0: OUTPUT 371.41-376.74: And that is meaning that the revenue and demand for our encoders is very strong there. 
+asr:0: OUTPUT 377.68-386.47: We also see a lot of the manufacturing of consumer electronics happening there, and that is pulling on demand for particularly our own creative flexible gauge, but also for machine tool probes. 
+asr:0: OUTPUT 387.69-391.15: What we're also seeing is these general drivers in all of our regions. 
+asr:0: OUTPUT 391.43-399.78: What we're seeing is machine tool investments and machine tool consumption going up, meaning increased sales through machine tool builders or machine tool probes. 
+asr:0: OUTPUT 400.66-410.37: Our AM strategy is really working with repeat orders for our AM machines by the same customers. So that key account strategy working nicely. 
+asr:0: OUTPUT 410.93-416.84: We're seeing increased investment into the automotive, EV, clearly a lot of investment going on. 
+asr:0: OUTPUT 417.08-421.30: And also a recovery in the aerospace market and more investment there. 
+asr:0: OUTPUT 421.50-428.45: And this is really good driving growth in our Revo system, the five-axis technology for highly productive CMM measurement. 
+asr:0: OUTPUT 429.07-436.58: And we're also seeing increased industrial robots, which is good, particularly for our magnetic encoders. 
+asr:0: OUTPUT 438.08-439.86: I will now hand over to Alan. 
+asr:0: OUTPUT 442.18-444.46: Thank you Will and good morning everybody. 
+asr:0: OUTPUT 445.43-455.30: As Will has already mentioned, we have experienced a very strong performance this half year with significant growth in revenue, profitability and cash generation. 
+asr:0: OUTPUT 456.72-459.24: Due to the skills and dedication of our people. 
+asr:0: OUTPUT 459.26-465.91: RUKUB has maintained strong customer support, global supply chains and all other business operations. 
+asr:0: OUTPUT 465.93-470.23: Throughout this period of record First Half revenue and in order intake. 
+asr:0: OUTPUT 472.15-475.20: Revenue amounted to £325.2 million. 
+asr:0: OUTPUT 475.22-483.10: Compared to 255.1 million last year, an increase of 27% or 30% at concert exchange rates. 
+asr:0: OUTPUT 484.56-487.81: Adjusted profit before tax is £84.2 million. 
+asr:0: OUTPUT 488.23-494.79: A record half year profit and compares with £43.4 million in the prior year. 
+asr:0: OUTPUT 494.81-499.02: Mainly as a result of the additional growth margin from revenue growth. 
+asr:0: OUTPUT 500.76-506.01: This gives a return on revenue of 26% compared to 17% for the previous year. 
+asr:0: OUTPUT 507.81-515.56: Adjusted profit before tax is one of the key performance measures used by the Board to monitor the underlying trading performance of the Group. 
+asr:0: OUTPUT 516.22-520.44: And the following items are excluded from adjusted profit before tax. 
+asr:0: OUTPUT 521.86-527.77: Losses of 2.9 million from forward contracts mostly use US dollar denominated. 
+asr:0: OUTPUT 527.79-533.89: Deemed ineffective for cash flow hedging compared with gains of 20.5 million in the previous year. 
+asr:0: OUTPUT 535.40-544.26: These gains and losses have no impact on our cash balances and no additional contracts have been designated as ineffective this year. 
+asr:0: OUTPUT 545.95-554.23: And a credit of £0.2 million for third party advisory fees relating to the formal sales process in the current half year only. 
+asr:0: OUTPUT 555.88-563.52: The resultant statutory profit before tax was £81.5 million compared to £63.9 million last year. 
+asr:0: OUTPUT 565.27-571.53: The effective tax rate for the half year is 15.9% compared to 18% in the previous year. 
+asr:0: OUTPUT 572.09-580.06: Representing a best estimate of the full year effective tax rates by geographical territory applied to the half year profits. 
+asr:0: OUTPUT 581.20-590.09: The reduced effective tax rate mainly arises from the forecast increase in the UK patent box benefit from nil in the prior year. 
+asr:0: OUTPUT 591.97-599.70: Earnings per share on an adjusted basis is £97.2 up from £49.2 last year. 
+asr:0: OUTPUT 600.34-606.85: And on a statutory basis is 94.2 pence from 72.1 pence last year. 
+asr:0: OUTPUT 608.43-617.56: The Board has proposed an interim dividend of 16 pence per share, a 14.3% increase over the last year's 14 pence per share. 
+asr:0: OUTPUT 620.50-621.54: Income statement. 
+asr:0: OUTPUT 621.94-635.94: This slide presents detail of our income statement and the profit bridge shows the movements that reconcile the adjusted profit before tax of £43.4 million for the last half year to the £84.2 million this year. 
+asr:0: OUTPUT 637.20-646.13: We've seen a £46 million improvement in gross margin, excluding engineering costs, mostly attributable to the increase in revenue. 
+asr:0: OUTPUT 646.95-651.87: Our gross margin of 35.5% of revenue is similar to the previous year. 
+asr:0: OUTPUT 652.89-662.74: However, we have seen an increase in the cost of some purchased items, particularly electronic components, aluminium and steel, and an adverse currency impact. 
+asr:0: OUTPUT 662.76-669.15: Which have been offset by improved efficiencies resulting from higher production volumes. 
+asr:0: OUTPUT 670.93-679.42: The group headcount is increased during the first half of the financial year and was 4,975 at the end of December 2021. 
+asr:0: OUTPUT 680.00-684.10: Compared to 4,664 at the end of June 21. 
+asr:0: OUTPUT 685.15-689.27: And 4,324 at the end of December 2020. 
+asr:0: OUTPUT 690.55-696.92: The increase since June mostly comprises manufacturing staff to ensure we have sufficient capacity to meet demand. 
+asr:0: OUTPUT 696.94-700.86: And also an intake of 127 graduates and apprentices. 
+asr:0: OUTPUT 702.02-707.93: Labour costs excluding bonus provisions and prior year overseas job retention grant income. 
+asr:0: OUTPUT 707.97-714.09: Were 115.1 million in this half year compared to 102.4 million last year. 
+asr:0: OUTPUT 714.55-723.14: With an average headcount in the first half of 4832 against a previous half year of 4371. 
+asr:0: OUTPUT 724.10-728.61: More on this topic will be covered by Will later on. 
+asr:0: OUTPUT 730.01-738.82: We remain committed to our long-term strategy of developing new, innovative and patented products to create strong market positions. 
+asr:0: OUTPUT 738.84-746.25: And incurred net engineering expenditure of £37.8 million in the first half compared to £37.2 million last year. 
+asr:0: OUTPUT 747.71-756.98: Certain other operating costs such as travel and exhibitions are higher this half year compared to last year as some restrictions relating to the pandemic have been lifted. 
+asr:0: OUTPUT 758.48-761.62: We have also experienced an increase in other overhead costs. 
+asr:0: OUTPUT 761.64-763.74: Including high utility costs. 
+asr:0: OUTPUT 763.76-772.39: Due to rising energy prices and higher usage. Another third-party administrative cost rises due to the current inflationary pressures. 
+asr:0: OUTPUT 773.49-781.08: Turning to cash flow, this bridge tracks the movements from our opening cash and bank deposits balance of £215 million. 
+asr:0: OUTPUT 781.10-787.25: The 1st of July to the closing position of 222 million at the end of December. 
+asr:0: OUTPUT 788.73-795.86: Our operating profit before non-cash items and research and development costs gave a cash inflow of £122.6 million. 
+asr:0: OUTPUT 796.92-807.89: We have seen a net 17.9 million cash outflow from changes in working capital primarily relating to an increase in inventory levels of 22.3 million. 
+asr:0: OUTPUT 808.75-813.77: This reflects increases in global demand and planned uplifts to succeed. 
+asr:0: OUTPUT 813.79-819.46: Strategic safety stock levels to mitigate global supply shortages. 
+asr:0: OUTPUT 820.52-827.33: This has been partially offset by a cash inflow of 5.4 million following an improvement in debt-a-days. 
+asr:0: OUTPUT 828.73-833.23: Significant cash outflows relating to our capital allocation strategy. 
+asr:0: OUTPUT 833.25-841.18: Include 27.9 million of R&D costs, 13 million of CapEx, including intangibles,. 
+asr:0: OUTPUT 841.20-844.28: And £37.8 million of dividends paid. 
+asr:0: OUTPUT 845.31-853.21: Other significant cash outflows include £10.4 million for tax payments and £4.4 million of pension scheme funding. 
+asr:0: OUTPUT 855.30-856.82: Turning to capital expenditure. 
+asr:0: OUTPUT 857.90-863.98: Of the £12.2 million capital expenditure in the first half, £8.5 million related to plant and equipment. 
+asr:0: OUTPUT 864.00-868.97: Primarily to support our manufacturing processes and IT infrastructure. 
+asr:0: OUTPUT 868.99-878.70: And 3.7 million on property for completion of our new distribution facility in South Korea, providing demonstration capability for our capital goods products. 
+asr:0: OUTPUT 880.26-884.26: We are planning to increase our capital expenditure in the coming 18 months. 
+asr:0: OUTPUT 884.64-891.95: Including new production equipment and property expansion at our MISC insight in South Wales to support future business growth. 
+asr:0: OUTPUT 893.01-902.08: We have detailed planning permission for two additional halls which will roughly double the space available for production at this site. 
+asr:0: OUTPUT 902.90-911.29: The first phase of this development could result in spend of up to £20 million next financial year. On their hand back to Will. 
+asr:0: OUTPUT 912.35-919.92: Thank you very much Alan. So if you look at sustainability, clearly this is key for us as with every business going forward. We are committed. 
+asr:0: OUTPUT 920.00-929.51: To a net zero emission target of 2050. Hopefully we'll bring that further forward when we understand what is required better. 
+asr:0: OUTPUT 930.29-932.61: We are continuing to invest here. 
+asr:0: OUTPUT 932.95-938.36: So we do get the majority of our global electricity from renewable sources. 
+asr:0: OUTPUT 938.60-943.02: We are also investing in our own solar panels and we will continue to do that. 
+asr:0: OUTPUT 943.10-951.79: You can see here in the picture actually investment going on in our Dublin manufacturing facilities with new solar power panels being installed. 
+asr:0: OUTPUT 952.61-961.00: One of our real challenges of this half has been really ramping up our manufacturing capacity to meet the demands of our customers. 
+asr:0: OUTPUT 961.46-969.21: That's a huge effort that's gone on by our global manufacturing team who have done an absolutely amazing job of ramping up our capacity. 
+asr:0: OUTPUT 969.97-973.19: We've grown, continued to grow our manufacturing headcount. 
+asr:0: OUTPUT 974.01-981.68: We've been really working closely with our suppliers, making sure that we can keep the supply chains going of critical components. 
+asr:0: OUTPUT 982.54-991.19: We've done a really good job, so clearly there are cost pressures on some components coming in, but actually we've really offset that and kept our gross margin. 
+asr:0: OUTPUT 991.21-997.04: Are stable by looking at manufacturing efficiencies and productivity improvements ourselves. 
+asr:0: OUTPUT 998.16-1001.08: What we are seeing is that we're now starting to catch up. 
+asr:0: OUTPUT 1001.10-1005.77: With that rising demand. You can see on the graph on the right. 
+asr:0: OUTPUT 1006.09-1011.27: How the order book has been going up steadily quarter by quarter. 
+asr:0: OUTPUT 1012.97-1023.52: What we have seen from a manufacturing point of view in terms of prices is, as everyone has seen, an increase in energy price which will really cut in for the second half of this financial year. 
+asr:0: OUTPUT 1023.60-1029.13: Where we expect an additional £1.2 million worth of energy costs in the business. 
+asr:0: OUTPUT 1031.79-1040.24: So we now take a look at our commercial strategy. Now for us going forward, the really important thing is we're looking at growing our market share. 
+asr:0: OUTPUT 1041.76-1049.45: And what we have here is with a lot of our OEM products which get designed in, our success rate here is really of getting new design wins. 
+asr:0: OUTPUT 1049.95-1057.56: Now, this is a long process from introducing products, getting it tested, and then getting it built and designed into our customers' products. 
+asr:0: OUTPUT 1058.12-1063.74: This has been helped with new products coming through and machine tool for example such as the NC4 Blue. 
+asr:0: OUTPUT 1065.31-1070.23: But one of particular interest and is going very well for us is with our new enclosed encoder. 
+asr:0: OUTPUT 1070.61-1076.86: This is really good for us from a growth point of view because it's a new market as well. It's a product we didn't line, we didn't have before. 
+asr:0: OUTPUT 1077.64-1087.21: And what we are seeing is a very good uptake and adoption here. And this is as we ramp up our production capabilities of this new product. 
+asr:0: OUTPUT 1088.83-1095.26: We are also complementing this with the end user strategy that we talked about. We have become more focused here. 
+asr:0: OUTPUT 1095.60-1103.56: More focused on key accounts, whether this is from a CMM engaging systems point of view or from an additive manufacturing point of view. 
+asr:0: OUTPUT 1103.58-1108.21: That strategy, repeat business as I talked about earlier, is working well for us. 
+asr:0: OUTPUT 1109.33-1118.46: To complement our direct sales force, which is still relatively small. We are looking then at how do we address more end users. 
+asr:0: OUTPUT 1119.50-1129.29: And what we're doing here is products such as the Equator, which has very much now gained market acceptance as being a fantastic shop floor gauge. 
+asr:0: OUTPUT 1129.69-1136.80: Is we are looking at distributors and other people to sell the equator directly to end customers for us. 
+asr:0: OUTPUT 1137.16-1145.11: As part of this, we are looking at opening up the equator and collaborating with others with their software packages, allowing customers. 
+asr:0: OUTPUT 1145.13-1148.85: To choose the software package that they want to program the Equator with. 
+asr:0: OUTPUT 1149.45-1153.69: As Covid restrictions hopefully ease in the second half of the year. 
+asr:0: OUTPUT 1154.37-1162.30: But we are very much looking forward to getting out and meeting in person our OEM and our end-user customers all around the world. 
+asr:0: OUTPUT 1163.02-1166.75: This is both in person and at trade shows and exhibitions which will be happening. 
+asr:0: OUTPUT 1168.49-1178.02: This will result in an increase and we are factoring in an extra million pounds for the second half of the year relative to the first half for travel and exhibition spend. 
+asr:0: OUTPUT 1179.10-1182.54: Okay, so if we now take a look at engineering and research. 
+asr:0: OUTPUT 1183.24-1191.75: The bit to start with here really is saying that the markets that we operate in, as we've talked about, we feel have good long-term growth opportunities. 
+asr:0: OUTPUT 1192.19-1200.14: And we also feel that one of our core competencies is research and development and then taking that technology to develop really innovative new products. 
+asr:0: OUTPUT 1200.72-1207.05: And therefore our primary growth strategy over the next few years will be one of organic growth. 
+asr:0: OUTPUT 1207.07-1211.21: Through exploiting the output from our R&D facilities. 
+asr:0: OUTPUT 1211.81-1217.16: Now we have seen our R&D spend go down over the last couple of years. 
+asr:0: OUTPUT 1217.70-1219.80: This was when we introduced our fit for the future. 
+asr:0: OUTPUT 1220.00-1229.93: Initiative which very much focused our engineering efforts on what we thought were really key new products for the health and long-term success of the business. 
+asr:0: OUTPUT 1230.41-1232.37: We are now recruiting. 
+asr:0: OUTPUT 1232.87-1241.70: And we are planning to grow in H2 our engineering spend as we want to accelerate a number of these new programs. 
+asr:0: OUTPUT 1242.26-1247.41: If we look at the breakdown of the engineering span, then there's a number of different activities that are going on here. 
+asr:0: OUTPUT 1247.75-1250.39: You have a really important one of process development. 
+asr:0: OUTPUT 1250.41-1257.86: And developing incremental changes in our products, keeping our product lines fresh and maintaining those product margins by making us more productive. 
+asr:0: OUTPUT 1258.52-1267.37: We've also had a fair bit of resource in this area recently, making sure that when we have supply chain issues and we have to look at alternative parts, the design teams are supporting that change. 
+asr:0: OUTPUT 1267.39-1273.33: To make sure those components are compatible and will work well and deliver quality products for our customers. 
+asr:0: OUTPUT 1274.75-1278.90: What we're trying to focus on is more and more resource on major new products. 
+asr:0: OUTPUT 1279.20-1289.07: Those that are going to make a real difference both in established markets for us and in new markets where we come along with really patented, differentiated new technologies. 
+asr:0: OUTPUT 1290.05-1299.88: And then what we also have then is the research for the future. Typically smaller teams looking at the technology that's going to power us and our growth over the next 10, 20 years. 
+asr:0: OUTPUT 1300.52-1307.31: We've also been steadily increasing our investment into software and we have some really important new products coming through in the future. 
+asr:0: OUTPUT 1308.25-1313.81: These are focused on both making it easier for customers to program and use our products. 
+asr:0: OUTPUT 1314.41-1320.88: And also in terms of helping them do new things, controlling manufacturing processes better. 
+asr:0: OUTPUT 1320.90-1328.35: And also then getting an insight and information from the data that they are generating during their manufacturing processes. 
+asr:0: OUTPUT 1329.29-1331.63: If we now look at our people. 
+asr:0: OUTPUT 1331.85-1342.52: First thing to say here clearly, been a huge amount of dedication by everyone across the group in responding to the opportunities that we've had with the increase in demand from our customer. 
+asr:0: OUTPUT 1342.54-1344.44: So a huge thank you there. 
+asr:0: OUTPUT 1345.43-1348.65: We have increased our workforce to respond to this growth. 
+asr:0: OUTPUT 1349.49-1356.76: We have increased by over 300 people, of which the majority has been in supporting the manufacturing capacity growth. 
+asr:0: OUTPUT 1357.96-1366.29: We have been complementing across the group with targeted increases and we will continue to do that going into the second half. 
+asr:0: OUTPUT 1366.85-1370.83: We've also put a lot of effort into employee development and retention. 
+asr:0: OUTPUT 1371.49-1377.74: We've gone through a large benchmarking exercise in the UK to make sure that our pay is competitive. 
+asr:0: OUTPUT 1378.06-1388.55: And then we've also been looking at how do we give everyone clear progression routes through the organisation and making sure we are giving them the skills and development. 
+asr:0: OUTPUT 1388.57-1389.71: To succeed. 
+asr:0: OUTPUT 1389.73-1390.85: And do well. 
+asr:0: OUTPUT 1391.53-1396.48: We are having a real focus on productivity across the group, a continued focus. 
+asr:0: OUTPUT 1396.94-1406.61: And this is looking at initiatives to help us increase the efficiency and making the most of all these very valuable resources that we have to make sure we maintain our operating margins. 
+asr:0: OUTPUT 1408.67-1412.59: From a financial perspective we will see our labour cost increase. 
+asr:0: OUTPUT 1413.07-1423.00: By around 6 million for the second half relative to the first half. This is a combination of recruitment, benchmarking, increased employer NI. 
+asr:0: OUTPUT 1424.24-1427.33: Now, part here is recruiting for the future. 
+asr:0: OUTPUT 1427.55-1430.13: As we talked about, we want to invest. 
+asr:0: OUTPUT 1430.15-1438.22: Here we think we have the opportunity to do so and therefore we are planning to increase our headcount in the second half for these long-term opportunities. 
+asr:0: OUTPUT 1440.28-1441.52: So looking forward. 
+asr:0: OUTPUT 1442.42-1450.31: As we've talked about, we believe we are operating in very attractive markets with good long-term growth opportunities. 
+asr:0: OUTPUT 1451.09-1458.24: We are therefore continuing to increase our investment for organic growth going forward for that long-term potential. 
+asr:0: OUTPUT 1459.12-1468.75: If we look in the shorter term, though for this financial year, we expect the markets to continue to be strong with those same drivers continuing. 
+asr:0: OUTPUT 1469.67-1478.74: We're therefore putting out a revenue range for the full year of between £650 million and £690 million. 
+asr:0: OUTPUT 1480.00-1486.95: The profit we expect to be within the range of £157 million to £181 million. 
+asr:0: OUTPUT 1488.23-1489.45: And over to you, Chris. 
+asr:0: OUTPUT 1499.70-1509.61: Thank you. Good morning everyone again. Thank you to Will and Alan. We've now been joined by Sir David Murtry for this Q&A session. 
+asr:0: OUTPUT 1510.39-1512.83: We have around 35 minutes remaining. 
+asr:0: OUTPUT 1513.91-1521.52: As ever, I'll try to group similar questions together so that we may not answer all individual questions. 
+asr:0: OUTPUT 1523.06-1531.67: We're going to start with a question from Mark Davis-Jones. Good morning, Mark. Relating to R&D. The question is... 
+asr:0: OUTPUT 1532.41-1536.04: R&D spend was down slightly despite much stronger revenues. 
+asr:0: OUTPUT 1536.40-1538.04: Is this just a timing issue? 
+asr:0: OUTPUT 1538.32-1548.21: Or should we expect R&D to sales ratios to remain lower than in the past, given your tighter focus on a smaller number of flagship products? 
+asr:0: OUTPUT 1548.51-1550.33: I think that one's going to go to well. 
+asr:0: OUTPUT 1554.51-1562.36: Thanks, Chris. So, no, if we're going to, we have a very ambitious five-year plan in place. 
+asr:0: OUTPUT 1563.04-1568.77: That relies on us delivering a number of new products through to the market. 
+asr:0: OUTPUT 1569.47-1572.31: And investing in R&D will be key to delivering on that. 
+asr:0: OUTPUT 1572.43-1577.52: So, Mark, as you say, we have focused on some more key flagship projects. 
+asr:0: OUTPUT 1577.78-1581.24: They need more resourcing to accelerate those through. 
+asr:0: OUTPUT 1582.18-1588.49: And also we have some nice new technologies coming through at an earlier stage that we now want to accelerate as well. 
+asr:0: OUTPUT 1588.95-1593.85: So we plan, as we always have, that the majority of our growth will be organic. 
+asr:0: OUTPUT 1594.71-1601.70: So we will be investing. And that's one of the reasons why our second half costs are higher than we've had. 
+asr:0: OUTPUT 1601.98-1605.47: We are forecasting an increase in our R&D expenditure. 
+asr:0: OUTPUT 1610.75-1612.21: Thanks a lot, Will. 
+asr:0: OUTPUT 1614.49-1624.32: I've got a question from Anthony Pong. Good morning, Anthony. Thank you for the additional disclosure on end markets. Very helpful! 
+asr:0: OUTPUT 1625.19-1632.75: In manufacturing technologies, can we infer from this that 71% of Renishaw's sales are direct to end customer? 
+asr:0: OUTPUT 1633.07-1637.78: If so, what percentage would this have been five or 10 years ago? 
+asr:0: OUTPUT 1652.65-1661.12: End up irrelevant of whether we have sold them direct to that end customer, in which case we clearly know where the end use. 
+asr:0: OUTPUT 1662.24-1664.32: Or if they have gone through. 
+asr:0: OUTPUT 1667.71-1672.69: Form of distribution. So a machine tool builder or a CMM builder, etc. 
+asr:0: OUTPUT 1673.63-1680.98: So no, that is not saying that 71% of our sales are directed to an end customer, as I think I mentioned. 
+asr:0: OUTPUT 1681.42-1684.16: We do have a number of routes to market here. 
+asr:0: OUTPUT 1684.76-1694.39: Sometimes like with our encoders, when we're selling into some electronics capital equipment, we know that equipment's going to end up in the electronics market. Other times when we're selling machine tool probes to a machine tool builder. 
+asr:0: OUTPUT 1694.75-1702.96: We will only really understand the end use if we are talking with that machine tool builder to understand roughly the ratios of where they are selling into. 
+asr:0: OUTPUT 1703.44-1709.75: So this should be taken as our best guess as the end use of our products. 
+asr:0: OUTPUT 1714.59-1721.32: Will. How are we going? 
+asr:0: OUTPUT 1721.34-1724.62: Another question here from Mark. 
+asr:0: OUTPUT 1724.64-1725.81: David James. 
+asr:0: OUTPUT 1726.87-1735.90: Could you please explain the China export issue in spectroscopy? Is this ongoing? I think that's also going to be answered by Will. 
+asr:0: OUTPUT 1739.72-1746.69: This is still ongoing. We think it's just a timing issue and nothing to be concerned about. It's due to the process. 
+asr:0: OUTPUT 1747.45-1756.38: Many educational customers for us, but also for equipment in China, claiming duty slash VAT back on the product and there's paperwork to do in advance. 
+asr:0: OUTPUT 1757.28-1765.41: So this has pushed things over into next year that we would have hoped we would have shipped. Sorry, into the second half that we hoped we would have shipped in the first half. 
+asr:0: OUTPUT 1765.71-1768.97: So I don't think it's anything to be concerned about. We think it is just a timing issue. 
+asr:0: OUTPUT 1771.95-1773.11: OK, thanks Will. 
+asr:0: OUTPUT 1774.67-1779.80: We'll stay with Mark's questions. It's also a question on... 
+asr:0: OUTPUT 1780.00-1787.47: The new disclosure on end markets. He asked, could you comment on what you are seeing in automotive? 
+asr:0: OUTPUT 1787.85-1793.93: There have been concerns in the past about the EV transition and declining ICE business. 
+asr:0: OUTPUT 1794.37-1798.82: How are you seeing this play out in practice? And I'll give that one to Will. 
+asr:0: OUTPUT 1802.28-1808.11: Yeah, so very interesting transition. So clearly, as we all know, there are. 
+asr:0: OUTPUT 1808.13-1812.31: Going to be less machined parts in a pure EV vehicle. 
+asr:0: OUTPUT 1812.99-1820.94: But a number of new metrology challenges that some of our products, equator gauging, Revo are very well suited. 
+asr:0: OUTPUT 1821.46-1826.67: To measuring. So it's still early days there. We're still finding and understanding their challenges. 
+asr:0: OUTPUT 1827.11-1832.79: But the nice thing is that we believe there's going to be continued investment in that transition for quite a while. So that change. 
+asr:0: OUTPUT 1833.77-1841.46: We believe will have probably changed some of the different bits and some of the different stuff in terms of products for us. But the investment there is really good for us. 
+asr:0: OUTPUT 1847.43-1856.60: Thanks, Will. We'll move on to a different question now. So good morning, Anthony Lynch, who joins us. 
+asr:0: OUTPUT 1857.90-1862.36: He asks, the order book demonstrates strong near-term visibility. 
+asr:0: OUTPUT 1862.60-1868.23: But what gives the longer term confidence to double miskin manufacturing capacity? 
+asr:0: OUTPUT 1870.43-1872.29: And I think that one's going to go to Will to start. 
+asr:0: OUTPUT 1875.48-1881.64: So just to clarify, we've put planning permission into double the capacity. That is two new halls. 
+asr:0: OUTPUT 1882.24-1889.69: That is not saying that we will be doing both halls immediately. So we have the option to do one hall and the next, depending on how we see the plans going forward. 
+asr:0: OUTPUT 1891.17-1899.98: What we do see with some of our newer products and products under development, that they are larger than the traditional products that we are used to. 
+asr:0: OUTPUT 1900.52-1902.00: Even stuff that is quite. 
+asr:0: OUTPUT 1902.02-1910.65: Traditional for us, like with the new Fortis machine tool encoder that I talked about, actually the size of that compared to a traditional encoder is much bigger. 
+asr:0: OUTPUT 1911.15-1916.80: So we are going to need more floor space to efficiently and productively manufacture these products. 
+asr:0: OUTPUT 1917.28-1923.72: And we still very much believe that keeping them close to our design facilities is the right thing to do. 
+asr:0: OUTPUT 1925.53-1928.99: So this will be one of our decisions to make in the. 
+asr:0: OUTPUT 1929.31-1930.35: Second half of this year. 
+asr:0: OUTPUT 1930.69-1939.82: At the moment, our assumption is that we will do one hall immediately, and then depending on how we see demand going for the future, we may do the second one very soon afterwards. 
+asr:0: OUTPUT 1946.31-1953.05: Thanks, Will. We'll stay with the order book and there's a question from Jonathan Hearn. Good morning, Jonathan. 
+asr:0: OUTPUT 1954.61-1961.94: Is your order book visibility still around three months or is it currently longer? Any signs of double customer ordering in the order book? 
+asr:0: OUTPUT 1962.28-1966.09: Now you're seeing a return of large one-off orders. 
+asr:0: OUTPUT 1966.51-1968.43: And again, Will's going to lead on that one. 
+asr:0: OUTPUT 1971.99-1976.48: So this isn't being driven by large one-off orders. 
+asr:0: OUTPUT 1977.54-1982.40: I think the interesting change probably from what we're used to is in the position measurement order book. 
+asr:0: OUTPUT 1982.94-1990.05: Where we are seeing far more visibility there and guidance from our customers than we used to. I guess this shows that. 
+asr:0: OUTPUT 1990.07-1992.99: That the challenge they're having with all their supply chains. 
+asr:0: OUTPUT 1993.49-2002.72: Not just in terms of getting stuff from us, but across the board. And what they are there for trying to do is to help with us and giving us more visibility there. 
+asr:0: OUTPUT 2002.74-2004.02: Unscheduling. 
+asr:0: OUTPUT 2004.52-2013.17: So yes, there certainly is a change from a position measurement encoder product line in terms of the order book visibility going out further. 
+asr:0: OUTPUT 2014.11-2018.96: But a lot of the other stuff is more normal and just strong demand. 
+asr:0: OUTPUT 2021.16-2023.34: And. 
+asr:0: OUTPUT 2024.88-2030.93: Sorry, in terms of double ordering and whatever, so how much are people trying to overorder? 
+asr:0: OUTPUT 2030.95-2040.64: Then we honestly we never really know but we don't believe so we believe in general the stuff that we are seeing is genuine for very strong demand. 
+asr:0: OUTPUT 2044.60-2049.43: OK, thanks Will. We'll stay with another question from Jonathan. 
+asr:0: OUTPUT 2051.09-2060.88: How much are you looking to increase headcount in the second half of the year? And what specific areas have been the focus of retention payments? 
+asr:0: OUTPUT 2061.98-2063.12: Start with Will on that one. 
+asr:0: OUTPUT 2066.67-2069.59: So if we just count for the retention payments. 
+asr:0: OUTPUT 2069.73-2077.82: So that has been a benchmarking. These aren't awards that vest over time. 
+asr:0: OUTPUT 2078.00-2084.36: So this is us benchmarking, understanding where we are paying relative to the market. 
+asr:0: OUTPUT 2084.40-2089.79: And making adjustments there. And that has been across the board with a UK focus. 
+asr:0: OUTPUT 2090.11-2092.31: At the moment. 
+asr:0: OUTPUT 2092.91-2097.36: So which has been very well received and has been a good exercise for us to go through. 
+asr:0: OUTPUT 2098.72-2104.48: In terms of headcount increase in H2, then we're looking probably at recruiting. 
+asr:0: OUTPUT 2104.50-2108.79: Another couple of million of headcount costs for the second half. 
+asr:0: OUTPUT 2109.77-2111.09: And this is now on. 
+asr:0: OUTPUT 2112.15-2122.12: Very targeted investments, accelerating new product development plans, key commercial activities that we want to achieve. 
+asr:0: OUTPUT 2122.90-2131.13: And with some manufacturing headcount increase where we are still trying to ramp up and accelerate some of the product manufacturing capabilities. 
+asr:0: OUTPUT 2137.30-2143.64: Question here from Henry Carver. Good morning Henry. 
+asr:0: OUTPUT 2146.25-2159.54: Market share gains. Where does Renishaw's manufacturing technology segment stand versus competition in terms of one, pricing, and two, software capability? 
+asr:0: OUTPUT 2163.88-2169.35: Thank you. So let's do the two easy ones to start with. So position measurement with our encoders. 
+asr:0: OUTPUT 2169.55-2178.98: There is no software that goes with that, so it's very much a hardware product line, so that's a fairly simple one. 
+asr:0: OUTPUT 2179.06-2182.58: But the calibration side of that, we do have excellent software that goes with that. 
+asr:0: OUTPUT 2183.76-2188.05: Additive manufacturing, a role there again is to be. 
+asr:0: OUTPUT 2188.07-2196.64: The best hardware supplier with the software that will sit in the background and make sure we get the most out of the hardware. So that's quite an integrated. 
+asr:0: OUTPUT 2197.04-2203.58: But we don't intend to be the leader there in terms of the programming, the CAD CAM software for AM. 
+asr:0: OUTPUT 2203.96-2210.89: So again, quite a clear situation there. With the industrial metrology area, clearly this is different. 
+asr:0: OUTPUT 2211.87-2219.70: And traditionally, we have been more competitive, stronger as a traditional hardware manufacturer. 
+asr:0: OUTPUT 2220.20-2223.80: We have, as I mentioned, been investing quite a lot in. 
+asr:0: OUTPUT 2223.82-2233.31: Software here and focusing on areas which we believe can be quite disruptive with ease of use and data. 
+asr:0: OUTPUT 2233.75-2243.58: Again, this is quite a broad picture across the different industrial metrology lines from machine tool, where we have a huge install base of our macro software. 
+asr:0: OUTPUT 2243.60-2244.92: All around the world. 
+asr:0: OUTPUT 2245.65-2252.53: Which is maybe different to some of the situations on some of the newer products like Equator. As I said, there are a number of different software packages out there. 
+asr:0: OUTPUT 2252.55-2256.46: And we are collaborating with more of them now. 
+asr:0: OUTPUT 2258.04-2267.39: So in terms of pricing, then we, again, this varies across the board on the different areas here. 
+asr:0: OUTPUT 2267.49-2271.69: In general though we tend to be a. 
+asr:0: OUTPUT 2272.61-2280.46: We are certainly not going after the cheap end of the market, and we are offering a premium product in what it can do, and we would look to charge our. 
+asr:0: OUTPUT 2280.72-2282.74: Customers for that premium offering. 
+asr:0: OUTPUT 2287.39-2291.51: Will. It's a question now from some. 
+asr:0: OUTPUT 2293.15-2297.76: Morning Sanjay. There's a question about our equator gauging system. 
+asr:0: OUTPUT 2299.96-2309.35: Is you mentioned the need for compatibility with multiple software vendors. Is this a shift in the market? And I think that one's going to go to Will as well. 
+asr:0: OUTPUT 2313.81-2316.86: I'd say it's a shift in our strategy. 
+asr:0: OUTPUT 2317.74-2319.00: If you look at our... 
+asr:0: OUTPUT 2319.02-2323.54: History with Equator, one of the challenges sometimes of coming up with something that. 
+asr:0: OUTPUT 2323.56-2330.55: Doesn't exist before, it is that you need to grow people's understanding of their need for it. 
+asr:0: OUTPUT 2330.79-2332.33: That product and what it can do for them. 
+asr:0: OUTPUT 2332.51-2335.05: And the early stages of Equator were doing that. 
+asr:0: OUTPUT 2335.46-2343.70: Over the last few years, it's been very much accepted as a key part of a manufacturing machine shop. 
+asr:0: OUTPUT 2345.37-2348.69: So we've seen the acceptance of Equator really take off. 
+asr:0: OUTPUT 2349.47-2350.87: So our strategy has been. 
+asr:0: OUTPUT 2350.89-2359.58: How do we maximize our sales of Equator with a relatively small end-user sales force of our own within Renishaw. 
+asr:0: OUTPUT 2360.32-2368.19: And this has meant that we've been looking at getting other people selling Equator for us and meeting the pull of the customers. 
+asr:0: OUTPUT 2369.23-2372.25: Now with this, some of the customers will want to use it with our software. 
+asr:0: OUTPUT 2372.69-2382.68: Others may already have other software that you're using. What we are now saying is, look, we are happy. We will allow other people to sell Equator and support it with the customer's choice of software. 
+asr:0: OUTPUT 2387.13-2388.17: Thanks Will. 
+asr:0: OUTPUT 2390.99-2396.80: Here's a question again from, that's the first question for Robert Davis. Hello, Robert. 
+asr:0: OUTPUT 2397.58-2404.50: How receptive are your additive manufacturing customers to purchasing your AM machines? 
+asr:0: OUTPUT 2404.82-2411.21: Versus wanting to outsource the work, i.e. Getting you to produce the AM parts for them. 
+asr:0: OUTPUT 2411.75-2413.43: And I'll put that one over to Will. 
+asr:0: OUTPUT 2417.48-2427.41: So we won't make production AM parts for customers. That's not a service we do. 
+asr:0: OUTPUT 2427.85-2435.70: What we will do is clearly at the early stages of working with a customer who's looking at really accelerating and developing AM capabilities. 
+asr:0: OUTPUT 2436.66-2440.02: Then we will support them by making initial parts for them. 
+asr:0: OUTPUT 2440.46-2446.65: And we may also host some of their early machines that they have bought here so we can support them. 
+asr:0: OUTPUT 2446.67-2450.79: Before they are ready to host those machines at their own facilities. 
+asr:0: OUTPUT 2451.81-2455.24: Now, if a customer is interested in additive manufacturing. 
+asr:0: OUTPUT 2455.26-2462.92: And wants to get the benefits that they can bring with design and productivity that comes with additive manufacturing. 
+asr:0: OUTPUT 2463.70-2469.05: And getting that from our machines, but they don't want to invest in the manufacturing infrastructure themselves. 
+asr:0: OUTPUT 2469.31-2477.10: Then they can clearly go to an AM subcontractor, use our machines there so we can help them with that journey. 
+asr:0: OUTPUT 2478.08-2485.95: That that's not an area of the market that we want to get into ourselves. We are clearly going to be focused on making the best machines, the most productive machines. 
+asr:0: OUTPUT 2486.77-2489.99: That will grow pad-a-pad fusion very well in the future. 
+asr:0: OUTPUT 2495.50-2496.52: OK, thanks Will. 
+asr:0: OUTPUT 2498.32-2503.42: Were very light on questions, I have to say. I'm sure Alan or Sir David would appreciate the question. 
+asr:0: OUTPUT 2505.19-2513.29: But there's one here that actually I can answer. It's a question from Sanjay Jha. Again, thank you. 
+asr:0: OUTPUT 2513.83-2516.74: Just asking is a copy of the presentation on the website. 
+asr:0: OUTPUT 2517.32-2521.26: Will be Sanjay, also a. 
+asr:0: OUTPUT 2521.28-2527.41: Recording of this presentation, the whole webinar with the presentation and the Q&A session. 
+asr:0: OUTPUT 2527.69-2535.86: Will be available. We'll try and make that by the end of the day, but certainly by tomorrow morning so you can go through again, obviously, for those people unable to attend. 
+asr:0: OUTPUT 2536.20-2538.98: Then they can also listen as well. 
+asr:0: OUTPUT 2541.14-2548.63: We, yes, we have another question and this one is from Anthony Plon. 
+asr:0: OUTPUT 2550.75-2560.56: Saw the hiatus sale to Meggitt, is this a one-off or are there any other parts of the business that you'd consider selling? 
+asr:0: OUTPUT 2561.66-2563.40: We're going to start with Will on that. 
+asr:0: OUTPUT 2566.81-2570.73: Yeah, we're very pleased selling our stake in Hayita. 
+asr:0: OUTPUT 2570.81-2574.63: A really good home with Meggitt and look forward to supporting. 
+asr:0: OUTPUT 2574.75-2581.06: HAYTA and MEGIT very closely as a supplier of additive and other technologies to them in the future. 
+asr:0: OUTPUT 2582.10-2591.17: At the moment, that's the only thing we were planning in the immediate future. So, very pleased to get that done, but nothing else that we're working on at the moment. 
+asr:0: OUTPUT 2595.26-2600.78: Thanks Will. Another question here from Robert Davis. 
+asr:0: OUTPUT 2603.36-2609.17: Six or seven the last half years have seen positive medical margins. 
+asr:0: OUTPUT 2610.15-2614.27: What has structurally changed here versus a few years ago? 
+asr:0: OUTPUT 2617.16-2619.68: And that one's going to. 
+asr:0: OUTPUT 2623.00-2627.25: Okay, so with our medical side. 
+asr:0: OUTPUT 2627.57-2639.16: We have there, clearly, we have a slight change with selling our business in RDL, the diagnostics business, which helped profitability there. 
+asr:0: OUTPUT 2639.66-2646.51: We also made some changes, which I think we talked about in the past, with our neurological business. 
+asr:0: OUTPUT 2646.53-2663.24: Of a focus there are saying that really the strong future there and the opportunities is on the collaboration with large pharma companies in terms of developing therapies with them and supporting them doing that for which we get paid as part of the program. 
+asr:0: OUTPUT 2663.82-2668.71: So that focus of the neuro group has certainly helped the margins there as well. 
+asr:0: OUTPUT 2668.81-2675.01: Together with a nice steady good growth on our existing strategy with our spectroscopy business. 
+asr:0: OUTPUT 2680.00-2684.12: We've had a number of questions come in. Thanks for those. 
+asr:0: OUTPUT 2687.01-2690.11: And here's one from David Robinson. Go on, David. 
+asr:0: OUTPUT 2690.77-2693.15: Can you give any indication? 
+asr:0: OUTPUT 2693.17-2700.78: Of any change in the demand or requirements for your products from the EV cars versus. 
+asr:0: OUTPUT 2700.80-2703.86: Conventional cars and start with Will on that one as well. 
+asr:0: OUTPUT 2707.83-2714.81: Yes, I think within our industrial metrology group, what we may see over time is a shift from maybe. 
+asr:0: OUTPUT 2714.83-2718.90: That has less machining operations, potentially less machine tool. 
+asr:0: OUTPUT 2719.00-2726.57: Although a lot of these operations were quite automated, not using machine tool probes already from the processes that they were using. 
+asr:0: OUTPUT 2726.59-2728.03: Particularly on the cylinder blocks. 
+asr:0: OUTPUT 2729.65-2738.14: Towards more of a stronger demand for the equator and new products that we'll have coming out there in the future in engaging. 
+asr:0: OUTPUT 2738.52-2741.62: And our Revo product line. 
+asr:0: OUTPUT 2741.86-2748.71: So we are seeing a good engagement with customers there, the same productivity benefits that they bring. 
+asr:0: OUTPUT 2748.73-2753.85: To traditional IC manufacturing carry over into EV. 
+asr:0: OUTPUT 2754.37-2755.54: What we're also seeing... 
+asr:0: OUTPUT 2755.92-2764.40: And this is a Revo one, is that some of the parts where they don't need to be touched, actually the Revo with Vision is complementing the touch there well as well. 
+asr:0: OUTPUT 2765.01-2772.39: So, as I said, I think it's still early days from the EV market in terms of maturity of understanding metrology requirements. 
+asr:0: OUTPUT 2772.41-2777.10: But we think we've got some good, flexible offerings that will grow that over time. 
+asr:0: OUTPUT 2781.36-2789.67: Thanks Will. Alan's been waiting patiently and I think this is one that he can finally get his teeth into. 
+asr:0: OUTPUT 2790.15-2792.93: There's a question from Richard Page. Good morning, Richard. 
+asr:0: OUTPUT 2794.39-2799.48: Thank you for the guidance on additional workforce costs in. 
+asr:0: OUTPUT 2799.50-2807.05: Second half Q4 profitability last year was impacted by additional bonus accrual. 
+asr:0: OUTPUT 2807.87-2815.68: Should we assume that these costs are better smoothed this year? So I'm going to push that one across to Alan. 
+asr:0: OUTPUT 2821.30-2824.56: Thank you Chris, thank you Jonathan. Richard? 
+asr:0: OUTPUT 2826.65-2835.22: Yes, we have factored in additional bonus accruals, which do occur when we know what the year-end results are. 
+asr:0: OUTPUT 2835.60-2838.72: So they have been factored into our profit range. 
+asr:0: OUTPUT 2839.30-2844.28: As disclosed in the statement. 
+asr:0: OUTPUT 2861.10-2867.07: And go question here from Robert, Robert Davis again. 
+asr:0: OUTPUT 2867.11-2873.31: Have you seen any changes in terms of threats from competitors or new market entrants? 
+asr:0: OUTPUT 2873.69-2877.60: Is it getting any more challenging to protect your IP? 
+asr:0: OUTPUT 2878.28-2879.98: We'll start with Will on that one. 
+asr:0: OUTPUT 2884.40-2894.65: So no, it's still fine to protect IP. The patterns department here, our internal patterns department, are still very, very busy with a backlog of ideas that need to come through. 
+asr:0: OUTPUT 2894.67-2896.44: For our new inventions. 
+asr:0: OUTPUT 2897.02-2901.32: So that's absolutely still part of the strategy and it's still working. 
+asr:0: OUTPUT 2902.10-2907.53: In terms of competitors, new market entrance, then. 
+asr:0: OUTPUT 2908.35-2914.29: Nothing that stands out I think that to bring attention to at the moment now. 
+asr:0: OUTPUT 2920.00-2921.78: Thanks Will. 
+asr:0: OUTPUT 2923.86-2931.05: Question here about inventory from Nishad Subramaniam. 
+asr:0: OUTPUT 2932.61-2941.54: Can you talk about the inventory situation in the channel and your customers, maybe end customers? Thanks. 
+asr:0: OUTPUT 2942.02-2943.36: And again, the will. 
+asr:0: OUTPUT 2947.75-2953.19: So maybe if I talk through inventory in general. 
+asr:0: OUTPUT 2953.97-2959.42: So we have been growing eventually, work in progress as we respond to the rising demand. 
+asr:0: OUTPUT 2960.00-2969.19: We would still like to have more, particularly on such products as our encoders, to really accelerate the growth that we think we can do there. 
+asr:0: OUTPUT 2969.59-2973.29: So we will be focusing that on this half. 
+asr:0: OUTPUT 2974.53-2980.00: In terms of then the inventory that we see with our customers and end customers. 
+asr:0: OUTPUT 2980.52-2988.09: Feels like everything is still quite hand to mouth. So with our customers getting products to their customers. 
+asr:0: OUTPUT 2989.11-2997.82: So I don't think there's a large stockpiling, but look, we're probably not the experts and the right people to ask that, but it doesn't feel that's the situation at the moment. 
+asr:0: OUTPUT 3002.54-3003.60: OK, thanks Will. 
+asr:0: OUTPUT 3007.33-3009.33: Another question from Richard Page. 
+asr:0: OUTPUT 3009.99-3018.04: A number of your peers and customers have spoken about the impact of component shortages on sales growth. 
+asr:0: OUTPUT 3018.06-3020.28: To what extent did these impact? 
+asr:0: OUTPUT 3020.32-3022.82: Your first half performance. 
+asr:0: OUTPUT 3023.02-3026.09: And may impact a second half. 
+asr:0: OUTPUT 3027.37-3029.15: Will, you want to start with that one? 
+asr:0: OUTPUT 3033.67-3038.62: Yes, so component shortages is a major challenge. 
+asr:0: OUTPUT 3038.66-3048.71: It is something that our manufacturing and product design teams have done a great job to make the most in a really tricky situation. 
+asr:0: OUTPUT 3048.97-3057.36: So we have had to divert design engineering resource onto making sure that when we run into a component shortage,. 
+asr:0: OUTPUT 3057.38-3065.95: That we can look around and find alternatives for that so that we can keep production going and our customers supported. 
+asr:0: OUTPUT 3066.37-3070.13: And we have done a great job of making sure that is happening. 
+asr:0: OUTPUT 3071.23-3080.70: Now, clearly that has made us less productive with having to do this work, and that has impacted. 
+asr:0: OUTPUT 3080.72-3083.30: In terms of our engineering spend. 
+asr:0: OUTPUT 3085.55-3090.71: Now, in terms of getting products out and what was the impact in our first half. 
+asr:0: OUTPUT 3091.45-3099.16: Then we for sure we would have shipped more of our order book if we could have shipped more product at the moment. 
+asr:0: OUTPUT 3099.36-3107.59: So it's hard to put it exactly into how much that was due to component shortages, because generally we'll find a workaround for that. 
+asr:0: OUTPUT 3108.59-3117.18: In terms of H2 going forward, then as you'll see, we do have a wider range than usual at this time of year. 
+asr:0: OUTPUT 3117.32-3125.83: We've gone up to 40 million. Some of that is factoring in uncertainty, both on our supply chain. 
+asr:0: OUTPUT 3126.61-3135.72: And also the concern that our customers may be, even if we supply to them well, they may be let down by other suppliers. 
+asr:0: OUTPUT 3135.82-3142.16: And therefore the demand may be softer than the market is requesting. 
+asr:0: OUTPUT 3143.42-3145.13: So our sales will be less. 
+asr:0: OUTPUT 3152.33-3157.38: Thanks Will. Another question from Jonathan Hearn. 
+asr:0: OUTPUT 3158.30-3167.93: Can you give us some more colour on the assumptions made to get to the guidance range, particularly the upper end? 
+asr:0: OUTPUT 3168.87-3176.88: For example, what visibility do you have? What is it assuming for end markets such as automotive and aerospace? 
+asr:0: OUTPUT 3176.96-3182.22: And also what cost inflation does it assume? 
+asr:0: OUTPUT 3182.26-3189.59: We'll start with Alan. Well, apologies. 
+asr:0: OUTPUT 3193.39-3198.16: Okay, so let's start with the turnover range here. 
+asr:0: OUTPUT 3198.64-3206.43: So as I just mentioned, we have factored in a little bit more uncertainty there than normally at this time of year, although it is on a higher number. 
+asr:0: OUTPUT 3207.65-3211.33: So what we have in there is uncertainty on timing. 
+asr:0: OUTPUT 3211.35-3218.14: For larger orders that may come through at the end of the year. 
+asr:0: OUTPUT 3218.66-3225.09: We have uncertainty that I've talked about in terms of demand for some of our position measurement line in terms of. 
+asr:0: OUTPUT 3225.11-3231.03: Our ability to supply and also our customers' ability to get products from other people. 
+asr:0: OUTPUT 3231.67-3237.32: And also from their own uncertainty from the demand from their customers. 
+asr:0: OUTPUT 3237.80-3247.15: So we have tried to be a little bit broader this time to reflect that. We will see in a quarter's time how much of those things have come through. 
+asr:0: OUTPUT 3248.83-3258.74: In terms of specific stuff with automotive and aerospace, that's probably more steady state. So I don't think they are the largest areas of uncertainty that we would have. 
+asr:0: OUTPUT 3260.00-3261.12: Uh, bye. 
+asr:0: OUTPUT 3262.74-3276.22: In terms of cost inflation, we've talked of some of the parts during the presentation of bringing up where we have increased overheads for the business in terms of things like the heat, light and power. 
+asr:0: OUTPUT 3277.28-3284.30: We've also put in more for travel as we're looking forward to getting out and meeting customers both. 
+asr:0: OUTPUT 3284.32-3287.69: At their facilities and also at trade shows. 
+asr:0: OUTPUT 3288.81-3296.48: And we are also going to see the impact of the cost-based increases with the labor costs that we talked about. 
+asr:0: OUTPUT 3296.50-3298.94: In the first half and also. 
+asr:0: OUTPUT 3298.96-3306.27: We are planning now to be increasing our, particularly our engineering headcount in the second half. 
+asr:0: OUTPUT 3309.03-3310.51: If anything Alan you want to add. 
+asr:0: OUTPUT 3314.85-3324.20: I would just add to that that the costs have been factored into the forecast, as Will just mentioned. 
+asr:0: OUTPUT 3324.70-3333.51: But also, of course, the margin is such that it has a big impact on revenue forecasts. 
+asr:0: OUTPUT 3335.40-3342.08: They are factored into the projections and the forecast. 
+asr:0: OUTPUT 3352.13-3360.90: Thanks Alan. Question for Sir David, I'm sure he's delighted about this. 
+asr:0: OUTPUT 3362.02-3364.22: It's from Mark Davis-Jones again. 
+asr:0: OUTPUT 3366.59-3374.83: Could Sir David comment on where he may be focusing in terms of longer term R&D projects and technology developments? 
+asr:0: OUTPUT 3375.24-3382.14: And what is the next big thing he sees on the horizon for manufacturing technology. 
+asr:0: OUTPUT 3386.41-3392.69: Well, I've been keeping out of Will's hair and focusing solely on additive manufacturing. 
+asr:0: OUTPUT 3393.21-3400.82: The present offerings are very much small batch sizes, but the future. 
+asr:0: OUTPUT 3400.86-3405.37: Is the price per part when it comes down. 
+asr:0: OUTPUT 3405.93-3407.37: Bye. 
+asr:0: OUTPUT 3407.39-3410.73: The potential for additive manufacturing is enormous. 
+asr:0: OUTPUT 3411.63-3416.20: There's no tooling to be sharpened. There's a lot of advantages. 
+asr:0: OUTPUT 3416.88-3422.52: And the price per part is coming down really rapidly and then I think we'll take off in my opinion. 
+asr:0: OUTPUT 3429.47-3431.63: OK, thanks David. 
+asr:0: OUTPUT 3433.97-3442.00: We've had. Okay, this is another question to answer the plumb. 
+asr:0: OUTPUT 3442.64-3450.71: Has there been any progress in the neurology business with regards to winning more partners. 
+asr:0: OUTPUT 3450.73-3452.79: And a very similar question actually from... 
+asr:0: OUTPUT 3452.81-3459.58: I thank Araceli Strasburger for her question. 
+asr:0: OUTPUT 3459.72-3466.07: Is it possible to give a bit more granularity around the clinical trials for the healthcare division, any timeframes? 
+asr:0: OUTPUT 3466.37-3469.05: So I think we're going to push that one towards Will. 
+asr:0: OUTPUT 3473.15-3479.58: Yeah, thank you. So look, as I mentioned, the trial we talked about before, unfortunately,. 
+asr:0: OUTPUT 3479.60-3484.70: Although our product worked well, there was an issue with the drug. 
+asr:0: OUTPUT 3485.19-3492.21: The really good part about this is it showed a framework that we have now in place where a farmer can engage with us. 
+asr:0: OUTPUT 3492.23-3497.48: Work with us on that drug with our drug delivery technology. 
+asr:0: OUTPUT 3498.38-3507.79: We have a number, this is less than 10, of potential pharma accounts that we are discussing and working with. 
+asr:0: OUTPUT 3507.93-3514.81: None of those are actively going now with an agreed longer-term plan. 
+asr:0: OUTPUT 3515.36-3519.92: But that some are coming through and we're doing early stages with them and working well. 
+asr:0: OUTPUT 3520.44-3530.29: So we really hope this is going to be something over the next 12 months where in a place where really these are starting to accelerate. 
+asr:0: OUTPUT 3538.50-3539.82: Thanks Will. 
+asr:0: OUTPUT 3540.88-3545.75: We've had a couple of questions around. 
+asr:0: OUTPUT 3546.41-3552.83: The combined shareholding for Sir David and John Deere, the company founders. 
+asr:0: OUTPUT 3554.81-3560.18: And anything that we can say on that. What options are being considered? There are a couple of questions there. 
+asr:0: OUTPUT 3560.20-3566.17: Similar questions, so it's from Edward Peter Hovland. Good morning, Edward, and also from. 
+asr:0: OUTPUT 3566.19-3570.13: Jonathan Hearn, I think that one's going to go to Will. 
+asr:0: OUTPUT 3573.25-3581.82: Yes, look, unfortunately, we've tried to be a bit more open and give a bit more information out today on some of the end markets and additional information. This is one that we really can't. 
+asr:0: OUTPUT 3581.84-3583.32: Talk about it. 
+asr:0: OUTPUT 3583.68-3593.57: All I can say from talking with David and John is they're very much aligned in terms of wanting to find the best long-term future for Ramaneshwar. 
+asr:0: OUTPUT 3593.75-3597.32: And but unfortunately, more than that, we really can't say today. 
+asr:0: OUTPUT 3601.16-3602.90: Okay, well. 
+asr:0: OUTPUT 3602.92-3611.33: That's the end of the questions and perfectly the end of the session at Bangor 11 o'clock. 
+asr:0: OUTPUT 3612.51-3616.90: So thank you everyone for joining. 
+asr:0: OUTPUT 3617.86-3621.22: As I said earlier, we will aim to publish a recording. 
+asr:0: OUTPUT 3621.24-3628.11: Of today's presentation and Q&A session on the IR section of our website. Bye tomorrow morning at the latest. 
+asr:0: OUTPUT 3628.45-3636.64: So just on behalf of Renishaw, I'd like to thank you all for attending this event. Hopefully it's been of value to all of you that have attended. 
+asr:0: OUTPUT 3637.22-3646.83: And finally, just a reminder that you will be able to download a copy of the interim report and copy the financial presentation later today from the IR pages of our website. 
+asr:0: OUTPUT 3646.95-3650.27: So again, thank you for attending and have a good day. 
+asr:0: END

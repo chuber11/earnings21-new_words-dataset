@@ -1,0 +1,434 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.26-6.35: Good day and welcome to the new residential fourth quarter and full year 2021 earnings call. 
+asr:0: OUTPUT 7.19-13.89: All participants will be in listen-only mode. Should you need assistance, please signal conference specialists by pressing the star key followed by zero. 
+asr:0: OUTPUT 14.57-17.82: After today's presentation, there will be an opportunity to ask questions. 
+asr:0: OUTPUT 18.30-20.18: Please note this event is being recorded. 
+asr:0: OUTPUT 20.64-23.94: I'd now like to turn the conference over to Bo-Hee Yoon. Please go ahead. 
+asr:0: OUTPUT 24.50-31.49: Thank you, Jason, and good morning, everyone. I would like to thank you for joining us today for New Residential's fourth quarter 2021 earnings call. 
+asr:0: OUTPUT 31.99-40.12: Joining me today are Michael Nirenberg, Chairman, CEO, and President of U Residential, and Nick Santoro, Chief Financial Officer of U Residential. 
+asr:0: OUTPUT 40.60-47.07: Also with us today are Baron Silverstein, President, and Jordan Leach, Chief Operating Officer of New Red Leach Halliburton. 
+asr:0: OUTPUT 47.71-52.55: Throughout the call, we are going to reference the earnings supplement that was posted to the new residential website this morning. 
+asr:0: OUTPUT 52.93-56.80: If you have not already done so, I encourage you to download the presentation now. 
+asr:0: OUTPUT 57.40-65.47: I would like to point out that certain statements today will be forward-looking statements. These statements, by their nature, are uncertain and may differ materially from actual results. 
+asr:0: OUTPUT 66.11-75.70: I encourage you to review the disclaimers in our press release and earnings supplement regarding forward-looking statements and review the risk factors contained in our annual and quarterly reports filed with the SEC. 
+asr:0: OUTPUT 76.38-85.79: In addition, we will be discussing some non-GAAP financial measures during today's call. Reconciliations of these measures to the most directly comparable GAAP measures can be found in our earnings supplement. 
+asr:0: OUTPUT 86.13-88.21: And with that, I will turn the call over to Michael. 
+asr:0: OUTPUT 89.05-92.69: Thanks, Chloe. Good morning, everyone, and thanks for dialing in. 
+asr:0: OUTPUT 93.23-98.52: 2021 was a very good year for our shareholders and our company as we continued our strategy. 
+asr:0: OUTPUT 98.54-108.57: Of building and acquiring world-class operating companies with the ability to manufacture assets for our own balance sheet as well as an investment portfolio that's very hard to replicate. 
+asr:0: OUTPUT 109.35-117.56: The positioning of our company today, as well as the investment experience of our team, should enable us to drive strong returns for shareholders as we go forward. 
+asr:0: OUTPUT 118.58-123.20: With interest rates rising, our MSR portfolios will see much slower amortization. 
+asr:0: OUTPUT 123.92-131.11: Keeping our customers through our retention efforts should drive book value higher and offset any decrease in origination earnings. 
+asr:0: OUTPUT 131.95-138.94: We have one of the largest MSR portfolios today, and MSRs do rise in value as interest rates increase. 
+asr:0: OUTPUT 139.54-151.63: Today, only 16% of our borrowers have the incentive to refinance as compared to 2020 when that number was a little bit south of 50% and in the upper 40s. 
+asr:0: OUTPUT 152.53-160.92: To put this into context, the 10-year Treasury, which has risen approximately 45 basis points since year end, coupled with rising mortgage rates,. 
+asr:0: OUTPUT 160.94-167.85: Helped increase our book value where we stand today to between $11.75 and $12 per share. 
+asr:0: OUTPUT 168.63-177.30: Our mortgage company, New Rent, had a very good year, and the addition of Caliber, which closed in August, has created one of the best non-bank mortgage companies anywhere. 
+asr:0: OUTPUT 177.92-180.80: Our goal is to be the best, not the biggest. 
+asr:0: OUTPUT 181.38-185.27: We will continue to focus on efforts working with our government partners. 
+asr:0: OUTPUT 185.29-192.85: On affordable housing initiatives, as well as taking care of our 3.2 million customers, offering better solutions for home ownership. 
+asr:0: OUTPUT 193.89-199.68: The past two years in the mortgage origination business have been very good. They will not be repeated. 
+asr:0: OUTPUT 200.40-208.87: Gain on sale margins will come under pressure as rates rise. Many customers who wanted to refinance have done so in lower rate environments. 
+asr:0: OUTPUT 209.73-219.96: As it relates to our origination business, we have many origination channels and different levers we can pull, which will enable us to adapt quickly to whatever the gain on sale climate looks like. 
+asr:0: OUTPUT 220.66-224.12: A great example of this is our growth in the non-QM channel. 
+asr:0: OUTPUT 224.48-231.47: Our year-over-year production numbers are up over 100 percent and in the fourth quarter we originated $700 million. 
+asr:0: OUTPUT 231.97-236.46: We expect that number to be something close to 1 billion in the first quarter of 2020. 
+asr:0: OUTPUT 237.76-245.43: As you think about market share and gain on sale, we will not get into a price war with anyone. We are not about market share. 
+asr:0: OUTPUT 245.61-252.09: We will focus on areas where we can make money, improve our retention rates on our existing portfolios. 
+asr:0: OUTPUT 253.19-258.66: I would also like to acknowledge the strong retail purchase franchise we have as a result of the Caliber acquisition. 
+asr:0: OUTPUT 259.26-267.55: As we go forward, the purchase market will be a much larger percentage of the origination market, and we are well positioned for what's going to come ahead. 
+asr:0: OUTPUT 268.47-274.41: The integration of the two organizations, and Jordan will speak to this shortly, has been coming along extremely well. 
+asr:0: OUTPUT 274.85-280.88: Our new hire of Nenu King as Chief Digital Officer, coupled with our existing leadership team. 
+asr:0: OUTPUT 280.90-285.71: Will help us continue down the path of providing our customers with a great digital experience. 
+asr:0: OUTPUT 287.01-295.22: We are starting to see the synergies as a result of the combination of the two companies with significant expenses. Again, Jordan will speak to that shortly. 
+asr:0: OUTPUT 296.98-300.06: In the fourth quarter, we closed on the acquisition of Genesis Capital. 
+asr:0: OUTPUT 300.42-304.78: We're very excited to work with Robert Wasman and his team to help grow that business. 
+asr:0: OUTPUT 305.02-308.01: Just refresh your memory. That's a fix and flip lender. 
+asr:0: OUTPUT 309.11-316.90: When we acquired the company, we acquired 1.4 billion of approximately 8% coupon short duration assets for our balance sheet. 
+asr:0: OUTPUT 317.44-319.24: On the investment portfolio side. 
+asr:0: OUTPUT 319.26-329.03: We'll stay the course, focus on MSRs, call rates, growing our SFR business, and looking at other asset classes in the financial services space. 
+asr:0: OUTPUT 329.05-335.50: As higher yields in the bond market coupled with additional volatility should create better investment opportunities for us. 
+asr:0: OUTPUT 336.36-339.12: I'll now refer to the supplement which has been posted online. 
+asr:0: OUTPUT 340.88-342.32: I'm going to begin on page 3. 
+asr:0: OUTPUT 342.82-345.51: This is the new residential corporate overview. 
+asr:0: OUTPUT 346.23-351.09: This rolling back in time since inception, we've paid $3.9 billion in dividends. 
+asr:0: OUTPUT 351.81-357.66: Our book equity is 6.6 billion in net equity. Market cap, roughly $5 billion. 
+asr:0: OUTPUT 358.34-364.80: We have a balance sheet of approximately $40 billion in assets. We are the largest non-bank owner of MSRs. 
+asr:0: OUTPUT 365.61-369.43: Top five non-bank mortgage originator and servicer. 
+asr:0: OUTPUT 369.77-377.16: And then if you think about our business, over the past few years we've acquired a number of what I would call complementary businesses to the mortgage space. 
+asr:0: OUTPUT 377.18-380.20: That includes title, appraisal. 
+asr:0: OUTPUT 380.22-385.53: Field services and other businesses which help drive our earnings higher. 
+asr:0: OUTPUT 386.29-394.35: Page four, financial highlights for the fourth quarter. Gap net income, $160 million or 33 cents per diluted share. 
+asr:0: OUTPUT 395.14-400.44: Quarantines, $191.9 million, 40 cents per diluted share. 
+asr:0: OUTPUT 401.66-409.77: Common stock dividend, 25 cents or 9.3% dividend yield. Cash and liquidity at the end of the year was 1.4 billion. 
+asr:0: OUTPUT 410.39-414.71: Today's incident about 1.3, just to give you a placeholder. 
+asr:0: OUTPUT 414.91-419.96: Book value 1144 at the end of December. That was up from 1135. 
+asr:0: OUTPUT 420.40-425.99: I quoted in my opening remarks, remarks for failure approximately $11.75 to $12. 
+asr:0: OUTPUT 426.39-430.55: And then again in the fourth quarter, we close the acquisition of Genesis Capital. 
+asr:0: OUTPUT 430.95-432.45: 2021 highlight. 
+asr:0: OUTPUT 433.65-436.98: The acquisition of Caliber was a game changer for our mortgage business. 
+asr:0: OUTPUT 437.16-439.54: That deal closed in August of 2012. 
+asr:0: OUTPUT 439.64-448.47: I pointed out Genesis. During the year we did a little under $4 billion in securitizations. Shareholder return 17%. 
+asr:0: OUTPUT 448.49-450.81: Full year according to dollar 48. 
+asr:0: OUTPUT 451.33-457.72: Did a little bit around the capital formation side with a common stock offering as well as a preferred stock offering. 
+asr:0: OUTPUT 458.14-464.56: And then on our mortgage company, when you think about the origination in servicing business, we originated $170 billion. 
+asr:0: OUTPUT 464.58-465.59: And loans. 
+asr:0: OUTPUT 466.29-471.57: And we have a servicing portfolio between NRC and the mortgage company of $630 billion. 
+asr:0: OUTPUT 471.59-478.78: Which includes loan service both at our own mortgage company as well as Mr. Cooper, Loan Care, and Auckland. 
+asr:0: OUTPUT 480.08-482.36: Stage 6 of strategic evolution. 
+asr:0: OUTPUT 482.76-489.75: This company was formed in 2013 to really be an MSR asset owner. 
+asr:0: OUTPUT 490.33-494.89: We got good re-status, first one to make that happen with the IRS. 
+asr:0: OUTPUT 495.22-496.22: Over time we grew. 
+asr:0: OUTPUT 496.66-503.42: We grew into what I would say from a small asset manager focused on MSRs and advances. 
+asr:0: OUTPUT 503.44-510.37: To where we are today, which is a great investment portfolio with really good complementary operating companies. 
+asr:0: OUTPUT 510.77-513.37: So really proud of the growth and where we sit today. 
+asr:0: OUTPUT 514.01-520.00: Pink7 Business Highlights, again, $630 billion MSR portfolio. 
+asr:0: OUTPUT 520.20-524.50: As I pointed out earlier, MSRs go up in value as interest rates rise. 
+asr:0: OUTPUT 525.45-534.23: With a 194 tenure note this morning or 195 tenure note this morning, we should see further gains in market value on our MSR portfolio. 
+asr:0: OUTPUT 535.06-538.60: Dividend 25 cents. Close the acquisition in Genesis. 
+asr:0: OUTPUT 539.16-546.09: Another thing to point out, 99% of our portfolio away from the agency business is non-daily mark to market. 
+asr:0: OUTPUT 546.59-553.17: Cash and liquidity, 1.3 billion today or 1.4 billion at the end of the year, and our call rate business remains strong. 
+asr:0: OUTPUT 554.17-561.74: Just have a quick look at the left side of the page. This really just talks about our business. We have a mortgage company that we originate in service. 
+asr:0: OUTPUT 562.18-572.83: We have Genesis Capital, which is a large provider of loans to the real estate industry around both building and fixed and flip lending, our MSR portfolio. 
+asr:0: OUTPUT 572.85-574.35: Non-agency. 
+asr:0: OUTPUT 574.37-576.46: Loans and securities. 
+asr:0: OUTPUT 576.60-582.14: Today our non-agency security portfolio is virtually zero other than risk retention. 
+asr:0: OUTPUT 582.64-586.07: And then we have a bunch of loans as it relates to our origination activities. 
+asr:0: OUTPUT 586.85-595.36: Market conditions today, our belief is that the Fed is going to go somewhere between five and seven times in 2022. 
+asr:0: OUTPUT 595.72-604.96: We expect the tenure note to continue to rise as the easing of financial conditions goes in the buying of mortgages and treasuries. 
+asr:0: OUTPUT 605.65-608.11: On the origination front, I can't be more clear. 
+asr:0: OUTPUT 608.67-613.43: I don't care if we originate one loan or if we originate a hundred loans. 
+asr:0: OUTPUT 614.17-622.82: Our goal is to service our customers, make money, and if origination volumes go down, which we expect them to do, and Barron will talk to that in a minute. 
+asr:0: OUTPUT 623.04-629.47: So be it. Our MSR portfolio more than offset any decrease in earnings we're going to see in the origination business. 
+asr:0: OUTPUT 630.09-632.47: As we look at the non-agency part of our business. 
+asr:0: OUTPUT 632.83-634.73: In the origination side. 
+asr:0: OUTPUT 635.14-636.56: I mentioned non-QM. 
+asr:0: OUTPUT 636.86-646.29: Zero to 700 a year over here in the fourth quarter. This quarter we expect to do a billion and we're growing our prime gember origination as well. 
+asr:0: OUTPUT 646.59-650.07: And the borrower remains healthy when you look at it at the length of each rent. 
+asr:0: OUTPUT 651.35-660.70: On the asset side, this is the way that we think we can originate different pools of assets for our own balance sheet and for the marketplace. 
+asr:0: OUTPUT 661.36-667.49: When you look at the agency origination market, it's roughly $2.5 trillion that we expect for 2022. 
+asr:0: OUTPUT 667.89-672.85: The non-agency business, we expect approximately 600 billion. 
+asr:0: OUTPUT 673.05-678.54: And the business purpose lending business, we see a total addressable market of about 500 billion. 
+asr:0: OUTPUT 679.64-684.62: Page 11 or playbook. Emesaurus, Emesaurus, Emesaurus is ready to rise. 
+asr:0: OUTPUT 685.47-691.99: Operating businesses, Genesis Capital, Gordian Asset Management, which is a property preservation business. 
+asr:0: OUTPUT 692.33-696.40: We have our own title and insurance business, and we have an appraisal business. 
+asr:0: OUTPUT 697.10-705.89: On the origination side, New Res Caliber. Again, very large mortgage company. Focused on making money, not just creating size. 
+asr:0: OUTPUT 706.33-707.45: Genesis Capital. 
+asr:0: OUTPUT 708.01-712.85: And then we speak to our ability to adapt to different interest rate environments. 
+asr:0: OUTPUT 712.87-722.18: As well as gain on tilt environments. So the growth in non-QM, jumbo prime, investor loans, and business purpose loans will be a priority this year. 
+asr:0: OUTPUT 722.58-731.33: They're also, when you look at gain on sale margins, those four areas have significant gain on sale margins, net-net at the end of the day. 
+asr:0: OUTPUT 731.93-740.72: As we look into 22, I've been pretty vocal about getting into the commercial space. We will do that at some point in 22, and hopefully that's sooner rather than later. 
+asr:0: OUTPUT 742.14-744.58: For performance MSR portfolio. 
+asr:0: OUTPUT 745.91-748.83: I'm not going to beat a dead horse here. Just a couple of things to point out. 
+asr:0: OUTPUT 749.13-758.94: 16% of our portfolio is in the money to refinance as compared to 29 at the end of Q3 and then down from a little under 50% in 2020. 
+asr:0: OUTPUT 760.34-764.68: MSR speeds, we expect MSR speeds and amortization to truly slow down. 
+asr:0: OUTPUT 765.07-774.17: We're starting to see that now. I think speeds that came out a couple days ago were much slower than street expectations. We expect that to continue as we go through the course of the year. 
+asr:0: OUTPUT 774.59-777.38: Keep in mind January, February. 
+asr:0: OUTPUT 777.42-784.62: And looking back to December, typically slower month in the mortgage origination space, but we expect that to pick up as we go forward. 
+asr:0: OUTPUT 787.27-791.79: Page 15, just have a look at the right side of the, actually look at the middle part of the page. 
+asr:0: OUTPUT 792.11-794.23: The change in the 10-year treasury rate. 
+asr:0: OUTPUT 794.51-802.14: What that means to overall amortization as we see it in our portfolios, what we think it's going to do to the origination P&L. 
+asr:0: OUTPUT 802.48-806.77: And just take the middle part of the left side of the page. Raise up 100 basis points. 
+asr:0: OUTPUT 806.79-814.47: We expect amortization to slow down by approximately $175 million and origination PTI to go down by 125. 
+asr:0: OUTPUT 814.81-817.84: Net net net net gain of $50 million. 
+asr:0: OUTPUT 818.30-824.44: If you look to the right side of the page, what does that mean for shareholders? It's an increase in 11 cents in annual core earnings. 
+asr:0: OUTPUT 827.19-836.04: The other thing to point out on this page, if you look at our MSR multiples at the end of 12-31, they're 3.9 as we go forward in rates increasing. 
+asr:0: OUTPUT 836.20-838.30: This is what's going to drive our book value higher. 
+asr:0: OUTPUT 838.60-845.37: Up 100, we expect multiples to go to 4.4. Up 150, 4.5 and potentially even higher than that. 
+asr:0: OUTPUT 846.21-849.29: Paul Rice, been talking about this for years. 
+asr:0: OUTPUT 850.17-851.79: Our portfolios remain. 
+asr:0: OUTPUT 852.09-860.18: But as the homeowner cleans up and delinquency trends continue to go lower and advance balances come down. 
+asr:0: OUTPUT 860.66-863.64: Continue with our far-right strategy of calling more and more. 
+asr:0: OUTPUT 864.88-866.17: Family rental strategy. 
+asr:0: OUTPUT 866.55-872.41: At the end of the year, we had approximately 2,700 homes. We did our first securitization in this quarter. 
+asr:0: OUTPUT 873.05-876.86: Equity in the business, just to give you a sense, is a little over $100 million. 
+asr:0: OUTPUT 877.44-882.00: And we will and expect to continue to grow that business. We are going to be prudent about it. 
+asr:0: OUTPUT 883.08-889.79: We will announce a small acquisition of some homes we acquired from Zillow over the course of the next... 
+asr:0: OUTPUT 889.81-898.08: 30 days or so. Probably won't announce it publicly, but it's just to let you know. It's roughly 300 homes. 
+asr:0: OUTPUT 898.68-907.49: So that business will continue to grow and we're going to be smart about it as we think home prices, or I personally think home prices could come up a little bit here from the growth that we've seen. 
+asr:0: OUTPUT 907.87-911.31: On the loan side, if you look at page 18. 
+asr:0: OUTPUT 911.33-918.18: Performing and non-performing loans. Right now, our portfolio at the end of Q4 is 1.2 billion EVOs. 
+asr:0: OUTPUT 918.20-922.26: On the NRG side was 500 million and non-QM was 300 million. 
+asr:0: OUTPUT 922.46-932.09: All this stuff will either be redelivered in the case of EBOs into the Ginnie Mae market, in the case of our loan business, either securitization or outright sales on that. 
+asr:0: OUTPUT 932.85-941.12: The service or advanced side balances remain low. We have a ton of excess capacity. As I pointed out earlier, the homeowners in great shape. 
+asr:0: OUTPUT 941.44-949.37: And then when you look at our interest rates on our financing, we had extended those at the lows, our cost of capital is very, very low there. 
+asr:0: OUTPUT 950.39-955.64: Now I'll turn it over to Barron who will take you through the mortgage company highlights and him and Jordan will take you through the next section. 
+asr:0: OUTPUT 957.38-960.00: Thank you, Michael. This is Jordan. 
+asr:0: OUTPUT 960.42-969.07: Michael mentioned the integration of New Red and Caliber is well underway as we continue to combine our origination platform technology and service and leadership. 
+asr:0: OUTPUT 970.11-978.12: If you look through the fourth quarter, we've realized approximately 90 million of our target synergies as a result of actions taken in 2021. 
+asr:0: OUTPUT 978.88-988.75: These synergies include personnel reductions, reduced cost of funds, and vendor consolidations, as well as increased efficiencies due to alignments and best practices. 
+asr:0: OUTPUT 989.73-998.22: We expect to achieve an additional 45 to 60 million synergies in 2022 as we complete our origination platform consolidation. 
+asr:0: OUTPUT 998.24-1003.48: Removal of duplicate technology systems, and finalization of our servicing strategy. 
+asr:0: OUTPUT 1004.04-1012.49: Once completed, our full year 2022 target run rate synergy is expected to be between 175 to 200 million. 
+asr:0: OUTPUT 1013.97-1019.68: As Michael mentioned, there's other exciting news. We hired a new chief digital officer and she will help us drive. 
+asr:0: OUTPUT 1019.70-1029.51: Digital innovation, user experience, our customer experience, and increased engagement across our customer production and servicing channels. 
+asr:0: OUTPUT 1030.39-1037.36: We've kicked off the year with both companies aligned with a single vision of helping our customers and homeowners. I'll now turn it back. 
+asr:0: OUTPUT 1038.58-1042.02: Thanks Jordan, good morning. Turning to slide 21. 
+asr:0: OUTPUT 1042.72-1051.05: The origination division ended the second quarter with 101 million of pre-tax income, funded volume of 38.1 billion. 
+asr:0: OUTPUT 1051.07-1056.78: Which is in a decline of 43% and 14%, respectively quarter over quarter. 
+asr:0: OUTPUT 1057.54-1064.54: The biggest impact of PTI was the pressure on gain on sale margins, which had an 18 basis point drop quarter over quarter. 
+asr:0: OUTPUT 1065.39-1075.36: And as I look at each one of the businesses, for our direct-to-consumer business, our margins increased approximately six basis points, even with the reduction of funded volume. 
+asr:0: OUTPUT 1075.38-1080.08: Which was 17% reduction over those two quarters. 
+asr:0: OUTPUT 1080.52-1088.99: We've also seen a 14% pickup in lot volume in January and a flattening of margins when comparing December to January. 
+asr:0: OUTPUT 1090.87-1100.26: For our retail and JV channels, our margins decreased approximately 23 basis points with a reduction in funded volume of 14% quarter over quarter. 
+asr:0: OUTPUT 1100.80-1109.73: While we expect further competitive pressure within our retail channels, our platforms allow us to take advantage of the expected growth in the purchase market to come. 
+asr:0: OUTPUT 1110.81-1117.64: For our third party wholesale and correspondent channels, margins decreased 17 basis points and 13 basis points respectively. 
+asr:0: OUTPUT 1118.50-1124.28: However, while the higher interest rate environment present headwinds for our origination business,. 
+asr:0: OUTPUT 1124.30-1129.49: Our balanced business strategy provides us a competitive advantage over other monoline competitors. 
+asr:0: OUTPUT 1130.31-1138.84: As Michael previously mentioned, we intend on managing our business to focus on profitability, take a disciplined approach to right-sizing the cost basis. 
+asr:0: OUTPUT 1139.82-1148.97: Our plans include concentrating on our higher margin channels, retail and direct-to-consumer, which was 42% of our funded volume in the fourth quarter. 
+asr:0: OUTPUT 1149.47-1153.97: We're also looking to expand our partnership business through our joint venture platform. 
+asr:0: OUTPUT 1154.63-1161.04: We're going to adjust our lower margin channels towards higher margin products, including non-agency and non-QM products. 
+asr:0: OUTPUT 1161.94-1165.41: We're going to remain opportunistic on MSR origination and acquisition. 
+asr:0: OUTPUT 1165.87-1174.23: And on the expense side, our overall expenses decreased approximately 13% quarter over quarter, a portion of which are synergies that Jordan talked about. 
+asr:0: OUTPUT 1174.67-1180.92: But this also includes additional savings as we reduce our origination capacity based upon the current market environment. 
+asr:0: OUTPUT 1181.98-1190.67: Our plan for the first quarter is to stay focused on the efficient integration of both companies, readjusting origination volumes based upon profitability. 
+asr:0: OUTPUT 1190.69-1192.97: And being vigilant on reducing costs. 
+asr:0: OUTPUT 1194.37-1203.56: Turning to slide 22, and we've said this for the past few quarters, but our extensive presence in our distributed retail and JD business. 
+asr:0: OUTPUT 1204.08-1210.79: Plus our direct to consumer channel that's coupled with 3.2 million homeowners in our MSR portfolio. 
+asr:0: OUTPUT 1210.81-1215.42: Allows us to take advantage and grow market share in the forecasted growth in purchase market and. 
+asr:0: OUTPUT 1217.64-1222.88: It's difficult to replicate these models and these models differentiate us from the competition. 
+asr:0: OUTPUT 1224.94-1230.53: We've also fully rolled out our Smart Series programs, which previously was referred to as non-QM. 
+asr:0: OUTPUT 1230.61-1235.96: Even though approximately 50% of our portfolio has been to qualified self-employed consumers. 
+asr:0: OUTPUT 1236.70-1245.41: Michael talked about this, we've seen our lock volume nearly triple quarter over quarter and in January alone, lock volume was 50% of everything we did in the fourth quarter. 
+asr:0: OUTPUT 1246.31-1249.49: We continue to see growth in our Smart Series programs. 
+asr:0: OUTPUT 1249.51-1259.10: As approximately 75% of these have been to purchased customers and to date only 10% of our sales force has participated so far. 
+asr:0: OUTPUT 1261.44-1269.21: It is with our partnership with NRZ coupled with our ability to continue to roll out new products that will continue to drive growth in our origination business. 
+asr:0: OUTPUT 1270.51-1279.34: And it's with these products can we further expand on our relationships, our existing relationships, and build new relationships through a retail wholesale and correspondent program. 
+asr:0: OUTPUT 1280.78-1288.89: Turning to slide 23, and Michael talked about the size of our NFC portfolio, but I just want to talk about two different things here. 
+asr:0: OUTPUT 1289.41-1297.18: And the first is, given our focus on special servicing, we increased our subservicing portfolio by approximately 5% quarter over quarter. 
+asr:0: OUTPUT 1297.50-1302.92: And our expectation is that we can capture additional share of the market dynamics change in 2012. 
+asr:0: OUTPUT 1304.02-1313.85: The second point is we've announced a new head of servicing for both the Caliber and NewRes servicing platforms that will allow us to finalize our servicing strategies and align on best practices. 
+asr:0: OUTPUT 1314.47-1319.80: Promoting chain and run servicing will ensure our core focus of helping homeowners stay in their home. 
+asr:0: OUTPUT 1319.98-1324.58: Third-party subservicing clients can continue to grow and build our servicing portfolio. 
+asr:0: OUTPUT 1325.47-1333.67: On the last slide, slide 24, talking about recapture, on the top right, you'll see that our recapture performance remains strong quarter over quarter. 
+asr:0: OUTPUT 1334.65-1343.54: In the bottom two charts, you see our recapture performance where we have previously originated alone and our ability to recapture the customer. 
+asr:0: OUTPUT 1343.56-1348.37: Is much stronger, whether through purchase recapture or refinance recapture. 
+asr:0: OUTPUT 1348.89-1357.38: So as we continue to mature in our relationships with our homeowners, we'll be able to take a higher share of opportunities, whether offering additional products or services. 
+asr:0: OUTPUT 1357.40-1359.18: Including recapturing the future. 
+asr:0: OUTPUT 1359.74-1369.51: Even in the higher interest rate market, our ability to offer customers the ability to purchase a new home, provide cash out week finances, business purpose loan alternatives through Genesis. 
+asr:0: OUTPUT 1370.17-1375.12: And other home equity solutions will provide for ongoing fuel in our direct-to-consumer channels. 
+asr:0: OUTPUT 1376.36-1377.56: On that, Michael, back to you. 
+asr:0: OUTPUT 1378.26-1385.19: Thanks, Barron. Thanks, Jordan. We'll wrap up our supplement and then we'll go to Q&A. 
+asr:0: OUTPUT 1385.63-1389.77: Page 25 just talks about our operating companies. I'm not going to read these off to you, but... 
+asr:0: OUTPUT 1390.11-1393.53: You know, we are a full-scale... 
+asr:0: OUTPUT 1393.57-1400.52: I would say financial services company, when you look at the complementary businesses that go along with Amoreous Company. 
+asr:0: OUTPUT 1400.58-1404.62: And then on page 26, it's really just a slide how we think about ourselves. 
+asr:0: OUTPUT 1404.68-1407.47: We think about ourselves first as an investment manager. 
+asr:0: OUTPUT 1407.77-1417.26: And then two, when we look at our, you know, one is a very strong balance sheet with a lot of cash and liquidity. Two, the MSR portfolio in this rate environment is. 
+asr:0: OUTPUT 1417.28-1418.96: Quite frankly, AGM. 
+asr:0: OUTPUT 1419.06-1421.32: It was hard in 2020. 
+asr:0: OUTPUT 1421.68-1428.21: We did a lot of origination, but it is truly a gem today and we expect that to provide very good returns as we go forward. 
+asr:0: OUTPUT 1428.69-1432.05: With that, I'm going to turn it back to the operator. We'll open it up for Q&A. Thank you. 
+asr:0: OUTPUT 1433.35-1439.40: We will now begin the question and answer session. To ask a question, you may press star, then one on your touchtone phone. 
+asr:0: OUTPUT 1440.20-1446.73: If you're using a speakerphone, please pick up your handset before pressing the keys. To withdraw your question, please press star and then two. 
+asr:0: OUTPUT 1447.45-1449.97: At this time, we'll pause momentarily to assemble our roster. 
+asr:0: OUTPUT 1452.85-1457.14: Our first question comes from George from KBW. Please go ahead. 
+asr:0: OUTPUT 1458.80-1460.52: Good morning. 
+asr:0: OUTPUT 1461.24-1467.63: I see first question just on, again on sale margins, you guys noted that in one queue you've seen a flattening. 
+asr:0: OUTPUT 1468.25-1471.39: But you could see more pressure in retail going forward. 
+asr:0: OUTPUT 1471.79-1478.04: Give us some color on how much pressure you think you could see, just how you think things will play out this year. 
+asr:0: OUTPUT 1479.16-1484.88: Yeah, so, all I said is in one month we saw a flattening in our direct-to-consumer channel. 
+asr:0: OUTPUT 1485.37-1493.31: Month over month, we certainly continue to see pressure across the board in the context of margins for each of our channels. 
+asr:0: OUTPUT 1493.67-1501.06: And that's due to overcapacity and less production in the marketplace. Michael's been very clear. 
+asr:0: OUTPUT 1501.08-1506.89: And his message and we're pivoting our rejuvenation business to focus on core profitability. 
+asr:0: OUTPUT 1507.89-1514.99: We continue to have attractive margins, I will tell you, within our retail and our retail, JV, and our direct-to-consumer channels. 
+asr:0: OUTPUT 1515.40-1518.76: It's a third party challenge from our perspective that I continue to see. 
+asr:0: OUTPUT 1519.10-1527.41: You know, what we look at as, you know, additional pressure in those, and we'll just continue to focus on our view on profitability. 
+asr:0: OUTPUT 1527.51-1535.92: And then we'll be opportunistic about, you know, which assets that we're looking to basically participate in and in those channels to the extent that margins continue to compress. 
+asr:0: OUTPUT 1537.96-1542.52: I would just say it's further to that. You know, when I talk about origination, whether we do one loan or ten loans,. 
+asr:0: OUTPUT 1543.00-1548.57: You know, if you take a step back and you look at what our business is. 
+asr:0: OUTPUT 1549.39-1553.35: I pointed out, I keep pointing out our $630 billion MSR portfolio. 
+asr:0: OUTPUT 1555.08-1560.80: To Barron's point earlier, the wholesale and correspondence side, you're going to see a lot more competition. 
+asr:0: OUTPUT 1560.98-1567.93: You'll always see more competition because United Wholesale and Rocket are huge in wholesale. 
+asr:0: OUTPUT 1568.93-1574.83: So one thing I would say is if we can create MSRs, even if we don't have a huge gain on sale, we will originate that loan. 
+asr:0: OUTPUT 1575.42-1582.54: So if we like where MSR multiples and values are, for example, in the GINI space right now, you know, we like where multiples are. 
+asr:0: OUTPUT 1582.64-1584.50: So if we could originate. 
+asr:0: OUTPUT 1584.56-1589.17: Know, $100 billion, quite frankly, in the wholesale and correspondence channel, we may. 
+asr:0: OUTPUT 1589.19-1596.48: We may think about doing that. You can't because the market share as a result of the overall production market is smaller. 
+asr:0: OUTPUT 1596.80-1605.55: But that may lead us into a potential acquisition of a GINI originator, for example, so we could focus on growing our GINI presence. 
+asr:0: OUTPUT 1605.69-1610.17: So it's one of these things, gain or kill margins are in because you're in the winter months. 
+asr:0: OUTPUT 1610.83-1619.52: You're going to have less production. You're also seeing the highest level of tenure rate that we've seen since December of 2011. 
+asr:0: OUTPUT 1620.00-1628.21: So I think once the markets settle and we come in the spring, we're going to have a good purchase market. Our retail and DTC franchises will thrive. 
+asr:0: OUTPUT 1628.55-1636.84: And our origination business will be good. We just want to be prudent about how we think about making money and not disoriginating widgets. 
+asr:0: OUTPUT 1636.86-1638.86: Unless we really like the value of the MSR. 
+asr:0: OUTPUT 1640.02-1642.02: Okay, great. Thanks. That's very helpful. 
+asr:0: OUTPUT 1642.34-1647.75: And then actually just one on the servicing, you know, consolidation of servicing on one platform. 
+asr:0: OUTPUT 1647.77-1654.05: Is that, you know, what's the timeline for that and is that the plan still to move it on to Caliber's, the MSP platform? 
+asr:0: OUTPUT 1654.27-1662.16: We continue to evaluate those and we have not made a final decision as to where we're headed. The change in the servicing leadership for us was the first step. 
+asr:0: OUTPUT 1662.70-1669.55: You know, in the context of us evaluating, you know, which servicing platform we will end up operating on. 
+asr:0: OUTPUT 1670.17-1679.38: And the other important fact for us is making sure that we're basically servicing the loans based on best practices to help our homeowners. That was the most important. 
+asr:0: OUTPUT 1679.42-1683.02: You know, really critical fact for us in making sure that our leadership is aligned. 
+asr:0: OUTPUT 1684.32-1692.09: Okay, great. Thanks a lot. Thanks, Buzz. The next question comes from Tevin Barker from Piper's Handler. Please go ahead. 
+asr:0: OUTPUT 1693.73-1697.30: Good morning. Thanks for the questions. I just wanted to follow up. 
+asr:0: OUTPUT 1697.96-1704.18: I just wanted to follow up on your comments around the tangible. Was it tangible book at 1175 to 12, or was that book better? 
+asr:0: OUTPUT 1709.93-1717.84: Does that include the dividend? And could you outline what's driving that? 
+asr:0: OUTPUT 1718.00-1722.76: That as far as quantifying how much was MSR markup. 
+asr:0: OUTPUT 1723.10-1728.37: And then how much of that was offset by maybe portfolio marks or fair value marks. 
+asr:0: OUTPUT 1729.67-1731.93: Sure, Kevin. So the. 
+asr:0: OUTPUT 1731.99-1740.84: The range of $11.75 to $12 does include, it has to be for dividend, keeping it the same as prior quarter. 
+asr:0: OUTPUT 1741.18-1746.61: And the pickup is primarily due to the increase in MSR marks. 
+asr:0: OUTPUT 1747.07-1755.80: And it does follow the page that we have in the deck that references the basis point change and the subsequent increase in fair value. 
+asr:0: OUTPUT 1758.74-1767.77: With the sensitivity that you outlined. That's correct. It's in line with that sensitivity. And Kevin, part two of your question, as we think about other potential marks,. 
+asr:0: OUTPUT 1768.15-1770.05: We're fully hedged across our business. 
+asr:0: OUTPUT 1770.25-1779.80: We've had this bias, I think I've alluded to this maybe forever, but the higher rates in the market, we're really starting to see that played out. 
+asr:0: OUTPUT 1780.00-1786.95: The way we're positioned, whether it be in our loan portfolios, having hedges or anything else. 
+asr:0: OUTPUT 1787.07-1790.55: I feel like we're extremely well protected. 
+asr:0: OUTPUT 1791.09-1798.36: And when you look at the increase in books value, I think that going forward, hopefully we see more of that. 
+asr:0: OUTPUT 1798.38-1801.90: To the extent that we remain in this rate environment towards higher rates. 
+asr:0: OUTPUT 1804.46-1813.57: So if you're fully hedged, shouldn't the mark be minimal or just incremental relative to your total equity? 
+asr:0: OUTPUT 1813.73-1818.54: Or do you feel like you're still quite biased to higher rates? 
+asr:0: OUTPUT 1818.96-1820.88: Given the composition of the portfolio. 
+asr:0: OUTPUT 1821.62-1828.03: We are very biased to higher rates. And quite frankly, the market has rallied significantly the other way. 
+asr:0: OUTPUT 1828.63-1832.99: The origination business is, you know, you flip the switch and you start doing a ton. 
+asr:0: OUTPUT 1833.45-1841.48: So as of now, we are extremely biased on higher rates. MSR portfolios fully hedged across all of our. 
+asr:0: OUTPUT 1841.50-1844.00: Investment portfolio so we feel like we're going to change. 
+asr:0: OUTPUT 1846.27-1847.55: Thank you. 
+asr:0: OUTPUT 1848.91-1856.34: Again, if you have a question, please press star, then one. The next question comes from Eric Hagan from VTIG. Please go ahead. 
+asr:0: OUTPUT 1857.90-1860.14: Thanks, good morning. 
+asr:0: OUTPUT 1860.70-1867.09: Good morning. Can you guys discuss how the capital allocation across the business might evolve with higher interest rates like the EC or SELF? 
+asr:0: OUTPUT 1867.11-1872.39: Potentially reallocating from the production side to other areas of the business as origination volumes close. 
+asr:0: OUTPUT 1872.99-1878.54: And how the capital needs to support the MSR might evolve along with that. 
+asr:0: OUTPUT 1880.42-1884.44: So, answer to your first question is yes. 
+asr:0: OUTPUT 1884.88-1893.87: There'll be less capital in the origination business unless, you know, listen, we're going to strive for higher ROEs in our business overall. 
+asr:0: OUTPUT 1895.12-1900.00: So that means that, you know, to Baron's point and all of our points,. 
+asr:0: OUTPUT 1900.26-1909.25: If wholesale is not going to produce anything on the agency side, but it's going to produce more on the non-QM and jumbo side, we're going to put more capital in the wholesale side on. 
+asr:0: OUTPUT 1909.27-1910.55: Production channel. 
+asr:0: OUTPUT 1911.65-1916.48: I think overall, you're likely to see more capital allocated. I pointed out if we could find a. 
+asr:0: OUTPUT 1917.20-1924.32: We do believe there's going to be opportunities to acquire some origination or smaller originators as a result of the current rate environment. 
+asr:0: OUTPUT 1924.68-1930.57: So we have our eyes out on some good retail, you know, genie producers, for example. 
+asr:0: OUTPUT 1931.25-1938.56: I don't know if there's anything else you want to elaborate on that front, as we think about the potential acquisition and the mortgage company around some of these issues. 
+asr:0: OUTPUT 1939.40-1948.29: I think as you mentioned, in this market environment, we're seeing smaller players that are looking to cash in or exit out. 
+asr:0: OUTPUT 1949.61-1956.14: Because Genome-Tail margins and folks are holding on to their MSRs, so they're only out if either they sell themselves or sell the MSRs. 
+asr:0: OUTPUT 1957.34-1962.04: And Eric, to your point, would we allocate more money to the MSR business? The answer is absolutely yes. 
+asr:0: OUTPUT 1963.04-1968.33: So you'll likely see a shift from some capital out of the origination business into the MSR business. 
+asr:0: OUTPUT 1968.85-1972.23: The other thing is when we look at our origination business, we haven't spoken about this. 
+asr:0: OUTPUT 1972.65-1982.10: So between hiring Nenu on the digital side, we just promoted Dino Lack on the technology side, who's doing a great job for us. 
+asr:0: OUTPUT 1982.42-1985.71: To help drive down the cost of origination. 
+asr:0: OUTPUT 1985.81-1990.41: Coupled out with Bob Johnson, who's running our fulfillment and offside. 
+asr:0: OUTPUT 1990.81-1999.66: As we bring down our cost of production, we need to do that. It makes us more competitive in some of the more, what I would say, very competitive channels. 
+asr:0: OUTPUT 1999.98-2003.06: Which may enable us to actually get a little more aggressive there. 
+asr:0: OUTPUT 2003.56-2011.51: So a lot of focus on bringing costs down, but a lot of focus on bringing costs down through the technology initiatives that we have and within the leadership. 
+asr:0: OUTPUT 2014.95-2017.74: I think you noted you expect us to have a. 
+asr:0: OUTPUT 2017.76-2025.55: You said to go five to seven times this year. Any thoughts on how that could translate into spreads at the longer end of the yield curve? 
+asr:0: OUTPUT 2026.61-2033.85: You know, we think that they are going to, you know, whether they have reinvestment strategies or mortgages and treasuries. 
+asr:0: OUTPUT 2033.91-2038.54: We had a good update call with one of our economic advisors yesterday and we went through this. 
+asr:0: OUTPUT 2039.04-2043.76: The general feeling is that they think fives are the most important. 
+asr:0: OUTPUT 2043.82-2045.75: 5 read height not 7. 
+asr:0: OUTPUT 2047.75-2054.73: And the other thing that's out in the market is 50 basis points in March. They don't, and I don't think they go 50 basis points in March. 
+asr:0: OUTPUT 2055.14-2059.90: In it every meeting, folks are going to be like, whether they go in 25 or 50, and that could rock the markets. 
+asr:0: OUTPUT 2060.98-2064.70: Could be wrong, but it's my own personal view as well as our advisors. 
+asr:0: OUTPUT 2065.73-2071.87: I do think rates in the long end are going to go up. You know, Charles Sorrentino, my partner, is sitting next to me here. 
+asr:0: OUTPUT 2072.61-2077.36: We were talking about 2018 where we were hedging out some of our business. 
+asr:0: OUTPUT 2077.70-2082.70: And we were paying our swaps at $327 on 10th, today's 10th at $195. 
+asr:0: OUTPUT 2082.74-2092.05: You have inflation at the highest levels you've seen. The Fed is going to stop buying mortgages and reduce their balance sheets. So I think rates go up. 
+asr:0: OUTPUT 2092.21-2094.21: You know, Fair Mountain alone, and I really do. 
+asr:0: OUTPUT 2094.57-2097.66: I think the market is under-pricing where the 10-year note could actually go. 
+asr:0: OUTPUT 2098.26-2102.84: It's still historically, think about it, 195 tenure notes, still historically very, very low. 
+asr:0: OUTPUT 2103.10-2109.73: We do think you'll get your bear market rallies, but I do think rates are historically low, particularly in the longer run. 
+asr:0: OUTPUT 2111.53-2120.00: Thanks, and then one more on the portfolio construction. Since the end of the year, have you guys done anything with the agency MBS portfolio as a hedge for the MSR? 
+asr:0: OUTPUT 2120.64-2130.57: I'm just wondering where that fits in. 
+asr:0: OUTPUT 2130.59-2131.83: We've taken that off. 
+asr:0: OUTPUT 2132.39-2135.44: So there, you know, at this point, there's no hedging against the MSR. 
+asr:0: OUTPUT 2137.44-2146.03: Okay, thanks guys, for sure. 
+asr:0: OUTPUT 2149.19-2153.93: Thanks, just hoping to clarify the comments around the expense synergies. 
+asr:0: OUTPUT 2155.34-2163.08: Does that include the updated synergies? Does that include any further actions you're taking or would those further actions be on top of those synergies? 
+asr:0: OUTPUT 2166.59-2169.41: Yeah, the further actions are going to be on top of those synergies. 
+asr:0: OUTPUT 2169.49-2178.24: We looked at synergies as specific to the eventual merger of both operating businesses. 
+asr:0: OUTPUT 2178.38-2180.00: And we looked at... 
+asr:0: OUTPUT 2180.14-2185.63: No further adjustments due to market conditions. It's just BAU expense cost reduction. 
+asr:0: OUTPUT 2188.47-2194.47: So I guess when all is said and done and kind of those expense reductions are done and obviously it does take time. 
+asr:0: OUTPUT 2194.73-2203.96: I guess how would you expect your costs per unit of production to compare to kind of where they were last year? 
+asr:0: OUTPUT 2206.13-2211.27: I mean, as Michael just talked about as well with our initiatives in the context of the technology side. 
+asr:0: OUTPUT 2211.71-2216.42: We believe our costs are going to be materially lower than where they are today. 
+asr:0: OUTPUT 2217.00-2234.61: And the other really great vantage point that we had with the acquisition of Calibre was we were able to look at two different operating businesses and the mousetraps that they each had to effectively close mortgage loans. 
+asr:0: OUTPUT 2234.75-2237.48: And then you saw the differences between the costs. 
+asr:0: OUTPUT 2237.74-2247.03: We've been able to take advantage of best practices within our fulfillment strategy to effectively, you know, have a plan to reduce costs. 
+asr:0: OUTPUT 2247.89-2255.40: Obviously that also takes some technology initiatives for us to basically ensure that we meet those objectives and goals, but that is what we're basically working towards. 
+asr:0: OUTPUT 2258.26-2266.79: Very helpful, thank you. The next question comes from Trevor Cranston from JMP Securities. Please go ahead. 
+asr:0: OUTPUT 2268.75-2275.52: Okay, thanks. Question on the non-QM side, you mentioned that you're expecting. 
+asr:0: OUTPUT 2275.54-2279.30: The quarterly volume to reach up to about a billion dollars this quarter. 
+asr:0: OUTPUT 2280.86-2284.54: As that number grows to potentially a billion plus per quarter,. 
+asr:0: OUTPUT 2285.27-2288.05: Is the anticipation that you guys will have. 
+asr:0: OUTPUT 2288.07-2299.98: The appetite and capital availability to bring that onto NRZ's balance sheet or is there going to be some mix expected between selling loans to third parties and keeping some for NRZ? 
+asr:0: OUTPUT 2300.66-2307.29: You know, the mortgage company is about making money. NRC is obviously about making money as well. 
+asr:0: OUTPUT 2308.43-2313.27: Currently we don't expect to be selling non-sum loans into the marketplace. 
+asr:0: OUTPUT 2314.65-2320.22: The NRG team works extremely close with the mortgage company and I think that's the beauty of our. 
+asr:0: OUTPUT 2320.24-2325.95: Of our corporate structure and capital structure makes us very different than anybody else. 
+asr:0: OUTPUT 2326.53-2334.27: So, you know, as we look where we are today, if we could grow this to a multi-billion dollar a year origination business. 
+asr:0: OUTPUT 2335.18-2344.52: One of the things that we have a lot of experience in here over at Fortress NRC and the mortgage company, whether it be Barron, Jordan, Charles, or everybody else,. 
+asr:0: OUTPUT 2344.54-2350.05: We've been in the securitization markets for, I have been, for 30 years, 30 plus years. 
+asr:0: OUTPUT 2350.59-2358.98: So I expect no change other than growth and for the mortgage company to work very closely with the NRC team. 
+asr:0: OUTPUT 2361.94-2373.51: Got it. That's helpful. You mentioned briefly in the prepared comments that you guys were exploring the commercial space and could get involved there in 2022. 
+asr:0: OUTPUT 2374.83-2382.58: Can you elaborate any on sort of what segments of the commercial market would be the most likely place for NRZ to potentially become involved? 
+asr:0: OUTPUT 2384.08-2391.45: We have some small investments now. I would say in the commercial space we have some secure term loans and the like. 
+asr:0: OUTPUT 2393.05-2395.98: We're scoring. 
+asr:0: OUTPUT 2396.04-2405.15: There's a terrific group of what I would call conduit originators that we've been in discussions with for a long time. 
+asr:0: OUTPUT 2405.23-2407.51: A while. 
+asr:0: OUTPUT 2407.75-2411.79: We're looking at some redevelopment stuff with some proven operators. 
+asr:0: OUTPUT 2412.19-2419.92: And this is not, you know, this is not quite frankly to hire somebody to come in and just look at CMBS. This is to be something a little bit more strategic. 
+asr:0: OUTPUT 2420.38-2430.13: So as you think about the growth in our business, where we went from being an MSR owner to where we are today with having operating companies that support our overall business. 
+asr:0: OUTPUT 2430.61-2437.50: An example of that is the new res caliber side which is focused on recapture or recapture rates on the refi side. 
+asr:0: OUTPUT 2437.52-2440.74: On caliber in the 60s, on new res, they're in the mid 40s. 
+asr:0: OUTPUT 2441.58-2448.77: That's a big, big deal to support our overall MSR franchise. So as we look at the commercial space, it's going to be something that's more strategic. 
+asr:0: OUTPUT 2449.55-2451.83: And more growth oriented as we go forward. 
+asr:0: OUTPUT 2452.31-2460.14: And we're hopeful that we'll get some things done there, probably over the next quarter or during this quarter. 
+asr:0: OUTPUT 2463.36-2464.99: Appreciate the comments. Thank you. 
+asr:0: OUTPUT 2466.97-2475.56: Again, if you have a question, please press star, then 1. Our next question comes from Giuliano Bologna from Compass Point. Please go ahead. 
+asr:0: OUTPUT 2477.82-2483.90: Just a word, I just want to touch on some of the sensitivities that you guys put out there on slide 15. 
+asr:0: OUTPUT 2485.15-2490.69: When I look at that table, one of the things that I just wanted to make sure I was thinking about correctly there was that, you know,. 
+asr:0: OUTPUT 2491.25-2496.48: As the amortization goes down, you'll have to increase things, you know, re-eligible. 
+asr:0: OUTPUT 2497.20-2501.26: Pre-tax income, but on the origination side, you're reducing taxable income. 
+asr:0: OUTPUT 2501.80-2507.25: And I'll write to think about it from that perspective because the roughly, you know, the 20-ish, the 21% tax rate. 
+asr:0: OUTPUT 2507.27-2513.89: On the origination side, so the impact should actually be slightly greater than just the pre-tax income numbers that you have on the slide. 
+asr:0: OUTPUT 2514.57-2524.24: Yeah, I think that's correct. I mean, obviously, there's a portion of the MSR, if you're not in the operating business, you know, the MSR becomes the agreed asset. 
+asr:0: OUTPUT 2524.70-2527.31: So the answer is yes to your question. 
+asr:0: OUTPUT 2529.53-2530.85: Then,. 
+asr:0: OUTPUT 2531.13-2536.66: I'll follow up on the question that came up earlier about capital allegation. 
+asr:0: OUTPUT 2539.04-2545.21: Originated 17 billion more MSRs or more of MSR-U2D than you ran off in a quarter. 
+asr:0: OUTPUT 2546.11-2548.87: And you're out, yes, yes, in growth plans or some of the other assets. 
+asr:0: OUTPUT 2549.75-2558.16: I'm just trying to think about how you think about capital allocation and the capital needs to fund some of the growth in the balance sheet versus dialing up the dividends. 
+asr:0: OUTPUT 2560.40-2567.47: So first on the MSR side and the capital allocated, if you think about it, there's a lot of capital that sits in the mortgage company today. 
+asr:0: OUTPUT 2567.91-2577.40: So there's plenty of capital to shift from the origination business over to, you know, if we want to acquire MSRs there, whether it be in the mortgage company and or on the NRP side. 
+asr:0: OUTPUT 2577.86-2583.00: You know, with 1.3 billion of cash and liquidity, we feel like we're in a good position today. 
+asr:0: OUTPUT 2583.36-2590.11: I've been pretty clear over the past number of earnings calls that we are going to run with a lot more capital. 
+asr:0: OUTPUT 2590.13-2596.10: It's not to take every last dollar invested in some asset, so we drive an extra penny a share. 
+asr:0: OUTPUT 2596.38-2598.32: We're not going to live our life that way. 
+asr:0: OUTPUT 2599.96-2605.79: As we look forward and think about the dividend, it's really a board decision, quite frankly. 
+asr:0: OUTPUT 2606.63-2609.23: I think the run rate of the company. 
+asr:0: OUTPUT 2609.57-2616.90: Is going to be from all of our perspective. I think it's going to be interesting to see what happens in the spring. 
+asr:0: OUTPUT 2617.36-2624.30: As we come out of the winter months and what happens to the origination business, meaning gain on sale or really what the demand is for mortgages. 
+asr:0: OUTPUT 2625.21-2628.81: I think that will help drive a little bit of our dividend strategy as we go forward. 
+asr:0: OUTPUT 2629.41-2632.71: The one thing to be clear is, you look at some of our peers out there. 
+asr:0: OUTPUT 2633.83-2642.70: Our book value, we continue to see increase in book value because of our positioning in the market and our macro view. 
+asr:0: OUTPUT 2642.72-2646.07: As we go forward over time until that kind of changes. 
+asr:0: OUTPUT 2646.73-2654.93: So I think the net of it is we're hopeful that we continue to drive book value higher. The result of that should hopefully drive our stock price higher. 
+asr:0: OUTPUT 2656.32-2661.52: And with rates still at 195 on 10s or 2% wherever they are after this call. 
+asr:0: OUTPUT 2662.52-2669.89: It's my belief that our equity is extremely cheap. Whether you trade an 8% dividend yield, a 10% dividend yield, a 6% dividend yield,. 
+asr:0: OUTPUT 2670.69-2674.81: I feel like we're in a great place as it relates to our capital. 
+asr:0: OUTPUT 2675.82-2680.30: Our earnings projections and our book value projections as we go forward. 
+asr:0: OUTPUT 2680.90-2687.85: The dividend discussion is a board thing and we'll continue to evaluate as a group, but there's nothing I can say to that. 
+asr:0: OUTPUT 2692.27-2697.52: Just a quick recap too, kind of a two-part question. 
+asr:0: OUTPUT 2697.86-2705.89: So, I'm going to go ahead and close this out. 
+asr:0: OUTPUT 2706.05-2715.50: I'm assuming the addition is moving consumer loans to interest not other and the mortgage loan receivables is due to Genesis. 
+asr:0: OUTPUT 2716.22-2724.30: I just want to make sure that's correct. And then when you think about Genesis, is there a sense of how much you can originate on the Genesis platform and what kind of efforts? 
+asr:0: OUTPUT 2724.82-2728.99: And if the assets should resemble the portfolio that came over on the $1.5 billion. 
+asr:0: OUTPUT 2730.37-2734.69: So Nick, why don't you take the balance sheets, the income statement stuff, and then I'll take the general... 
+asr:0: OUTPUT 2735.98-2744.14: Correct, Juliano, so the Genesis business is shown in the separate segment and we did move the consumer segment given its size. 
+asr:0: OUTPUT 2745.93-2748.01: And then on the Genesis side. 
+asr:0: OUTPUT 2748.93-2757.60: You know, we're in the, you know, first inning. We're getting up to the plate together as partners. 
+asr:0: OUTPUT 2758.88-2768.07: I think the growth opportunities there are going to be pretty significant as we go forward. Keep in mind they were owned by Goldman Sachs, a little bit different of a corporate structure than us. 
+asr:0: OUTPUT 2769.35-2774.97: Clearly, we're going to be in the market with a securitization on the Genesis site probably in the next two weeks. 
+asr:0: OUTPUT 2775.70-2779.66: We've heard 1.4 billion. We'll probably be out with, I think, 500 million-ish. 
+asr:0: OUTPUT 2780.00-2788.35: On our first securitization. So we think there's a lot of growth there and we look forward to creating more products for. 
+asr:0: OUTPUT 2788.39-2792.65: Either the home building industry or the fix and flip industry. 
+asr:0: OUTPUT 2792.71-2796.14: And as a result, that deficit should grow pretty significantly over time. 
+asr:0: OUTPUT 2799.38-2801.82: Thanks, Juliano. 
+asr:0: OUTPUT 2803.50-2812.07: There are no more questions in the queue. This concludes our question and answer session. I would like to turn the conference back over to Michael Nirenberg for any closing remarks. 
+asr:0: OUTPUT 2813.15-2818.78: Thanks for joining us this morning. Very excited for where we are today with our. 
+asr:0: OUTPUT 2818.80-2825.79: Whether it be on the investment portfolio side, the leadership team on the mortgage company side. 
+asr:0: OUTPUT 2826.15-2830.01: And look forward to updating you during the quarter and next quarter. 
+asr:0: OUTPUT 2830.77-2833.91: Stay well and have a great day. Thank you. 
+asr:0: OUTPUT 2835.84-2840.42: This conference is now concluded. Thank you for attending today's presentation. You may now disconnect. 
+asr:0: END

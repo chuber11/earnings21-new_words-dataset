@@ -1,0 +1,572 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.90-12.81: Good morning, good afternoon. Welcome to our online conference. We will discuss the results of the KGHM for the third quarter and for the first. 
+asr:0: OUTPUT 13.05-14.55: Nine months of 2021. 
+asr:0: OUTPUT 15.02-21.46: Apologies for the delay. Unfortunately, due to technical constraints,. 
+asr:0: OUTPUT 22.58-25.07: So we have... 
+asr:0: OUTPUT 25.31-32.79: Had to make sure that everything runs seamlessly and we deliver the best quality transmission. That's why it took us a little bit longer. 
+asr:0: OUTPUT 33.25-35.90: We will start with a quick comment on the results. 
+asr:0: OUTPUT 36.30-45.63: They will be commented on by Mr. Marcin Chludzinski, the president of KGHM, Mr. Adam Bogajczuk, vice president for development. 
+asr:0: OUTPUT 47.05-56.26: Mr. Paweł Gruza, Vice President for Foreign Assets, and Mr. Andrzej Kainzbog, Vice President for Finance. 
+asr:0: OUTPUT 60.34-61.34: As I said,. 
+asr:0: OUTPUT 61.44-68.75: We would very much like to be here with you face to face but for. 
+asr:0: OUTPUT 68.77-74.65: For concern for the health of ourselves and our people. 
+asr:0: OUTPUT 75.18-82.30: We had to reduce the number of live meetings and choose online events instead. 
+asr:0: OUTPUT 82.76-84.88: Nevertheless. 
+asr:0: OUTPUT 84.90-89.67: After the presentation, during the commentary. 
+asr:0: OUTPUT 90.45-93.21: We will also move on to a Q&A session. 
+asr:0: OUTPUT 93.71-103.00: Feel encouraged to submit your questions to ir at KGHM.com. 
+asr:0: OUTPUT 103.40-106.79: All the questions that have been or will have been submitted. 
+asr:0: OUTPUT 107.77-113.77: Will be answered on our website as soon as possible. 
+asr:0: OUTPUT 114.19-118.08: Also, the transcript of this conference will be available as well. 
+asr:0: OUTPUT 118.86-123.46: I hope that we will manage to answer as many questions as possible today. 
+asr:0: OUTPUT 125.29-129.03: So now let me give the floor to the CEO. 
+asr:0: OUTPUT 131.11-136.56: Hi hello everyone uh... Welcome from. 
+asr:0: OUTPUT 137.48-143.26: On this charming autumn afternoon. 
+asr:0: OUTPUT 143.82-145.59: Oh, actually, midday. 
+asr:0: OUTPUT 148.11-155.66: But let's not talk about weather. Let's talk about climate, which is somehow related. 
+asr:0: OUTPUT 156.58-162.72: Why climate? This week we have adopted KGHM climate policy. 
+asr:0: OUTPUT 163.88-171.57: That's a sign of the times. It's somehow related to EU regulations. 
+asr:0: OUTPUT 172.33-179.82: But it's also a matter of market requirements. We want to be transparent. We want to our. 
+asr:0: OUTPUT 179.84-185.37: Production to be transparent in terms of our climate agenda. 
+asr:0: OUTPUT 186.05-189.93: And we want to be in line with the European climate agenda. 
+asr:0: OUTPUT 190.29-193.19: That's why we adopted this document. 
+asr:0: OUTPUT 193.21-202.46: That defines what KGHM should do in response to climate change and what is the footprint. 
+asr:0: OUTPUT 202.48-203.92: Of the company. 
+asr:0: OUTPUT 204.24-207.33: What is the impact of KGHM on the climate. 
+asr:0: OUTPUT 207.65-215.38: What we want to do, what initiatives we want to take to reduce that footprint and to change the impact. 
+asr:0: OUTPUT 215.86-219.46: So that's the essence of the newly adopted document. 
+asr:0: OUTPUT 221.64-230.19: There is one quite important goal in 2050, KGHM is to be climate neutral. 
+asr:0: OUTPUT 230.37-239.94: There will be two intermediate goals. In 2030, we want to reduce our emissions by 30% versus 2020. 
+asr:0: OUTPUT 241.88-245.63: And we're talking about two kinds of emissions. 
+asr:0: OUTPUT 246.63-255.05: We have range two emissions. That's emissions related to electricity production. 
+asr:0: OUTPUT 255.66-258.18: So what? 
+asr:0: OUTPUT 258.48-267.79: CO2 emissions are related to power generation. We want to run a number of initiatives to reduce those emissions. 
+asr:0: OUTPUT 268.13-275.60: And the other area is the so-called range one, which is our impact. 
+asr:0: OUTPUT 275.76-277.30: Sorry our production. 
+asr:0: OUTPUT 278.76-281.70: Which of course generates CO2. 
+asr:0: OUTPUT 282.10-289.47: So we want to become CO2 neutral by 2050. 
+asr:0: OUTPUT 294.57-303.26: The agenda includes such measures as buying green energy or deployment of our own renewable energy sources. 
+asr:0: OUTPUT 303.84-307.37: We want to be a more responsible consumer of energy. 
+asr:0: OUTPUT 307.61-315.74: We want to use less energy and we want to maximize the share of green energy that we use. 
+asr:0: OUTPUT 318.18-326.31: In 2050 we also want to become independent in terms of energy supplies. 
+asr:0: OUTPUT 329.03-335.24: When it comes to our production cycle, there are a number of initiatives such as add the mixture of. 
+asr:0: OUTPUT 335.26-341.08: Hydrogen to our smelting processes, we want to use electron mobility and. 
+asr:0: OUTPUT 341.98-344.64: In our mining operations. 
+asr:0: OUTPUT 345.00-348.33: We want to use CCU and CCUNS. 
+asr:0: OUTPUT 349.05-351.79: So carbon capture and storage technologies. 
+asr:0: OUTPUT 352.43-356.54: So the technologies that are already in place and can be deployed. 
+asr:0: OUTPUT 357.02-365.95: There are also some technologies that are still in the development stage and we hope they will be developed and they will become viable in a few years. 
+asr:0: OUTPUT 367.01-369.45: So this is what we want to do. 
+asr:0: OUTPUT 369.79-378.28: These are the challenges of European regulations and the requirements of our clients. 
+asr:0: OUTPUT 383.84-389.59: So in a nutshell, I'm talking about the. 
+asr:0: OUTPUT 389.61-394.15: The here and now, so nine months into 2021, there are a few. 
+asr:0: OUTPUT 394.61-398.46: A number of key facts and figures. 
+asr:0: OUTPUT 398.96-405.87: Year-on-year is 7.73 billion which is greater than last year. 
+asr:0: OUTPUT 407.01-412.87: Which is a reflection of greater revenues. We sell at better prices. 
+asr:0: OUTPUT 413.75-420.32: So our revenues grew by 31%. That's over 21 billion zloty. 
+asr:0: OUTPUT 421.94-429.33: And higher prices, the better prices, are not the only factor that has contributed to this improvement. 
+asr:0: OUTPUT 429.93-434.01: We also have a 10% greater production of copper. 
+asr:0: OUTPUT 435.74-441.94: We have been following our plans, our strategy. 
+asr:0: OUTPUT 443.86-447.55: With greater production, we are immune to lower prices. 
+asr:0: OUTPUT 447.85-451.55: But we are very happy to have the tailwind. We have great surprises. 
+asr:0: OUTPUT 452.15-457.00: In 2019 or 2018 the prices were very low. 
+asr:0: OUTPUT 457.44-465.17: In April 2019, it was $4,600 per ton and we still managed. 
+asr:0: OUTPUT 466.23-469.81: We reduced our cost, or we increased our production. 
+asr:0: OUTPUT 470.49-478.46: But these figures are the most important findings. Now I will give the floor to Andrzej Kinszabog. 
+asr:0: OUTPUT 478.92-481.26: Who will tell you more about the finance. 
+asr:0: OUTPUT 483.42-487.05: The production vice president is not with us today. 
+asr:0: OUTPUT 489.47-495.24: Because he has some health concerns. So we won't be talking about production in detail. 
+asr:0: OUTPUT 496.04-503.68: Thank you very much. Good day to all of you. Let me start with a quick summary of our production output. 
+asr:0: OUTPUT 503.70-509.89: Metals, the good news is that pay copper has grown by 10.1%. 
+asr:0: OUTPUT 510.55-516.02: Three quarters of compared to the same period of 2020. 
+asr:0: OUTPUT 516.30-518.62: All three segments of our operations. 
+asr:0: OUTPUT 518.64-528.41: Have made a contribution, so that's domestic production from 1412 to 440,000 tons KGHM International. 
+asr:0: OUTPUT 528.53-533.03: 49,000 tons to 55,000 tons and Sierra Gorda from. 
+asr:0: OUTPUT 533.07-536.34: 60 to 78 thousand tons. 
+asr:0: OUTPUT 540.24-547.03: I will give you the details in a second, but before I do that... 
+asr:0: OUTPUT 547.13-552.03: Let me mention silver production which is very important to us. 
+asr:0: OUTPUT 552.09-553.29: Last year. 
+asr:0: OUTPUT 554.33-555.98: The production was very high. 
+asr:0: OUTPUT 556.32-560.46: We didn't actually assume such a. 
+asr:0: OUTPUT 560.48-567.07: Great performance this year. Looking at the geological parameters and the richness of the ore. 
+asr:0: OUTPUT 568.37-569.49: But... 
+asr:0: OUTPUT 569.51-570.57: The results. 
+asr:0: OUTPUT 572.31-579.74: Have been very good both in terms of mining output and the content of silver in the ore. 
+asr:0: OUTPUT 580.60-587.87: And also in terms of recovery performance in smelting operations. 
+asr:0: OUTPUT 588.71-598.02: So the combined production of the whole group is 1,008 tons of silver in the first three quarters of 2021. 
+asr:0: OUTPUT 598.66-600.00: Last year. 
+asr:0: OUTPUT 601.34-607.77: Well, when you compare this to last year figures, we can hope that we will solidify our. 
+asr:0: OUTPUT 607.79-614.05: Leading position globally, we are the second largest silver producer in. 
+asr:0: OUTPUT 614.19-616.88: In the world we are very happy about that. We want to. 
+asr:0: OUTPUT 617.76-625.11: We want to maintain this top two position when it comes to precious metals. 
+asr:0: OUTPUT 626.13-633.63: We have a slight decline which is most of all related to the quality of ore in the US and Canada. 
+asr:0: OUTPUT 634.01-636.52: Mali production has not changed. 
+asr:0: OUTPUT 636.54-642.04: Mollie content in the ore and Chile remains stable. 
+asr:0: OUTPUT 649.69-659.14: Now let's take a look at KGHM Poland. The other operations will be discussed by Mr. Gruza. 
+asr:0: OUTPUT 659.62-666.77: Here we look at mining or extraction. In terms of tonnage, we have increased our output. 
+asr:0: OUTPUT 669.89-671.99: So in terms of processing. 
+asr:0: OUTPUT 674.93-676.58: Processing operations. 
+asr:0: OUTPUT 677.28-685.00: The output has been quite stable over last year. 
+asr:0: OUTPUT 691.01-695.18: Copper content in the ore is slightly lower. 
+asr:0: OUTPUT 696.16-701.98: This is related to the fact that we keep continuing our prospecting operations. 
+asr:0: OUTPUT 702.96-705.89: And the. 
+asr:0: OUTPUT 706.45-714.75: Copper content cannot be predicted to a very fine degree of detail, to three decimal places. 
+asr:0: OUTPUT 715.52-720.60: But we are pretty much satisfied with what we get. 
+asr:0: OUTPUT 721.06-725.75: We keep finding new ore deposits and we. 
+asr:0: OUTPUT 725.77-730.71: Keep mining those areas that are most economically viable. 
+asr:0: OUTPUT 731.21-737.10: Now, smelting operations. There are two important elements. 
+asr:0: OUTPUT 737.82-747.29: That's maintaining and maintenance of smelting operations and refinery operations at last year's level. 
+asr:0: OUTPUT 749.19-752.49: All the figures are presented in the presentation. 
+asr:0: OUTPUT 754.73-762.34: Quite importantly, we have more copper production from third party ores. 
+asr:0: OUTPUT 763.60-766.15: This is relayed third-party sources. 
+asr:0: OUTPUT 767.53-774.59: Because we have improved the efficiency of scrap copper processing. 
+asr:0: OUTPUT 775.38-779.28: And this is also the direction we want to go for in the future. 
+asr:0: OUTPUT 779.64-784.62: Also in the context of our climate policy and we want to. 
+asr:0: OUTPUT 784.64-794.61: Keep improving our operations in this area and the main growth driver in silver here in the year is KGH and Polska Miedź. 
+asr:0: OUTPUT 796.00-805.17: Here we have a growth from 975 tons up to 983 tons in the first three quarters of 2021. 
+asr:0: OUTPUT 812.51-819.08: Let's take a look at Sierra Gorda International, so I'll give the floor to mr.. Gruza. 
+asr:0: OUTPUT 820.82-828.67: Ladies and gentlemen, we are happy to present these results. 
+asr:0: OUTPUT 829.23-838.84: Thanks to favorable macroeconomic situation, we focused on maximizing production in all our international assets. 
+asr:0: OUTPUT 841.50-849.35: Also geology has been favorable and has been a positive contributor to our results. As a result... 
+asr:0: OUTPUT 849.93-854.49: Payable copper in Sierra Gorda has grown by nearly a third. 
+asr:0: OUTPUT 855.32-857.22: Also, silver has gone up. 
+asr:0: OUTPUT 865.65-875.01: Obviously, we have been trying to optimize our processing operations. 
+asr:0: OUTPUT 875.58-881.56: And the costs that we pay in Sierra Corde. 
+asr:0: OUTPUT 888.55-891.03: Let's move on to KJGM International. 
+asr:0: OUTPUT 893.05-898.58: Here we also have a 13% growth in payable copper production. 
+asr:0: OUTPUT 899.82-906.81: The main driver is the efficiency of our mining operations in Robinson. 
+asr:0: OUTPUT 910.03-913.47: And Robinson's. 
+asr:0: OUTPUT 913.99-923.44: We've also been trying to extend the lifetime of the mine, so we want to keep mining in that area for the years to come. 
+asr:0: OUTPUT 923.78-927.85: And production results are very good when it comes to silver. 
+asr:0: OUTPUT 931.15-934.39: Some minds produce. 
+asr:0: OUTPUT 934.41-941.42: Less but because of their relative share their contribution to the overall. 
+asr:0: OUTPUT 941.48-946.27: International results is negligible. Thank you very much. 
+asr:0: OUTPUT 950.55-956.96: So let's move on to the financial results of the group. The first piece of news is the revenues. 
+asr:0: OUTPUT 957.96-963.32: The revenues have grown by 31% year on year. 
+asr:0: OUTPUT 964.30-970.49: Up to 21,735,000,000. 
+asr:0: OUTPUT 971.69-977.96: And this improvement is first of all related to changing metal prices. 
+asr:0: OUTPUT 979.18-986.57: But there are a number of other factors that are less favorable. That's a slight decrease in sales. 
+asr:0: OUTPUT 987.65-991.11: First of all in KGHM International. 
+asr:0: OUTPUT 992.09-997.90: And that's related to certain logistic problems in US ports. 
+asr:0: OUTPUT 998.14-1002.30: Also in TriDocs there have been some delays. 
+asr:0: OUTPUT 1002.32-1012.13: And transportation resources are less available than they used to, but this we believe is temporary. 
+asr:0: OUTPUT 1012.69-1020.18: We also had foreign exchange differences between the Polish zloty and the dollar. 
+asr:0: OUTPUT 1021.78-1027.83: It was 394 the average 394 last year now it's 387. 
+asr:0: OUTPUT 1028.75-1034.77: Of course we keep track of what's going on, on the Zloty and the Euro and the Dollar. 
+asr:0: OUTPUT 1036.70-1037.86: We... 
+asr:0: OUTPUT 1038.26-1039.52: Looking closely at. 
+asr:0: OUTPUT 1039.96-1041.88: What's going on in foreign exchange. 
+asr:0: OUTPUT 1041.90-1050.29: Another negative factor was the adjustment of revenues on derivatives in the first three quarters. 
+asr:0: OUTPUT 1050.83-1054.37: The adjustment was in the area of 1.1 billion zloty. 
+asr:0: OUTPUT 1055.48-1059.68: But there is a slight, you know. 
+asr:0: OUTPUT 1060.84-1068.43: Difference because of the first three quarters of the last year so the year-on-year difference is 1.4 billion. 
+asr:0: OUTPUT 1069.25-1073.93: And the positive change, the 200 million that's. 
+asr:0: OUTPUT 1073.95-1079.80: Greatest sale of materials other than silver and copper. 
+asr:0: OUTPUT 1080.36-1089.25: The quiet leader here is the sulfuric acid that we sell. We sell more of that acid and at a higher price than last year. 
+asr:0: OUTPUT 1089.73-1095.98: But there's also lead, rhenium, selenium, a number of other derivative products. 
+asr:0: OUTPUT 1097.00-1105.83: That sell greater volumes and or at greater prices than in the first three quarters of 2020. 
+asr:0: OUTPUT 1110.13-1113.23: Now let's move on to unit cost. 
+asr:0: OUTPUT 1114.63-1116.58: As you can see in the slide. 
+asr:0: OUTPUT 1117.44-1120.16: The unit cost is significantly higher. 
+asr:0: OUTPUT 1120.40-1130.27: But when you look at the group level, if you take into account the copper tax,. 
+asr:0: OUTPUT 1130.41-1140.00: And then the C1 cost would actually be lower in the first three first nine months of 2021 than in 2020. 
+asr:0: OUTPUT 1140.86-1146.21: Because the what we all know what the uh... The the the cop attacks. 
+asr:0: OUTPUT 1146.71-1155.96: Is we know the formula and you just can't beat that formula. It is rigid. There is no workaround. 
+asr:0: OUTPUT 1156.92-1164.28: But when you look at KGHM Polish copper, then the growth of the C1 cost. 
+asr:0: OUTPUT 1164.38-1167.97: Net of the copper tax. 
+asr:0: OUTPUT 1169.03-1174.99: Is in the range of three dollar cents per pound. 
+asr:0: OUTPUT 1175.92-1183.78: And this small growth is mostly related to growing power prices, CO2 emission rates. 
+asr:0: OUTPUT 1183.80-1187.89: And the cost of diesel. 
+asr:0: OUTPUT 1188.61-1193.31: So these are the main cost drivers. In KJHM International,. 
+asr:0: OUTPUT 1195.34-1200.70: Well, the C1 cast is comparable. We have a significant... 
+asr:0: OUTPUT 1200.88-1203.44: Growth in... 
+asr:0: OUTPUT 1203.84-1211.73: We have greater volumes and higher prices of additional metals that actually bring our C1 cost down. 
+asr:0: OUTPUT 1212.29-1214.53: When it comes to our operating results. 
+asr:0: OUTPUT 1217.18-1219.20: First of all, our Abid... 
+asr:0: OUTPUT 1220.66-1230.09: Is significantly higher, 75% greater year on year, oh actually 9 months over 9 months. 
+asr:0: OUTPUT 1230.91-1233.11: And. 
+asr:0: OUTPUT 1234.65-1242.26: This is an aggregate for all the segments, so KJGM, Polish Copper, International and Sierra Gorda. 
+asr:0: OUTPUT 1242.92-1252.65: And the main driver here is higher metal prices and thus higher sales prices. 
+asr:0: OUTPUT 1255.18-1261.58: It's not in this slide but let me mention one more thing when you look quarter by quarter. 
+asr:0: OUTPUT 1261.72-1270.67: You will see that our quarter-by-quarter performance has been very stable, very constant, and the contribution of each quarter to the aggregate. 
+asr:0: OUTPUT 1270.69-1275.03: Results for the three quarters has been pretty much the same. 
+asr:0: OUTPUT 1275.56-1280.00: So consistently we have been building our results. 
+asr:0: OUTPUT 1280.16-1286.65: And also the third quarter has made a very good contribution to the results after nine months. 
+asr:0: OUTPUT 1290.07-1292.57: Now then, profit or net result. 
+asr:0: OUTPUT 1294.51-1300.96: It's significantly higher, more than three times higher for the whole group. 
+asr:0: OUTPUT 1300.98-1305.57: Compared with the three quarters of the previous year. 
+asr:0: OUTPUT 1307.65-1315.44: This is mainly linked to the change in metal prices and. 
+asr:0: OUTPUT 1315.46-1323.06: Higher revenues, but what I also mentioned during the previous revenue conference, it was related to. 
+asr:0: OUTPUT 1323.08-1325.59: But it's hard. 
+asr:0: OUTPUT 1325.61-1331.15: Evaluation of loans we provided to other entities including Syracaulda. 
+asr:0: OUTPUT 1332.03-1335.86: And also the measurement of interest accrued. 
+asr:0: OUTPUT 1337.08-1344.38: As well as the contrast between the negative result last year and the positive result achieved. 
+asr:0: OUTPUT 1344.82-1354.03: This year and joint ventures 1 billion 900 million. That is the profit on involvement in joint ventures. 
+asr:0: OUTPUT 1355.08-1360.40: What is also important is higher profit from sales. 
+asr:0: OUTPUT 1360.48-1363.60: By more than 1 billion from so. 
+asr:0: OUTPUT 1363.62-1367.07: 1,765,000,000. 
+asr:0: OUTPUT 1367.29-1375.34: With higher copper prices, slightly lower silver sales and an increase in. 
+asr:0: OUTPUT 1375.38-1376.40: Services. 
+asr:0: OUTPUT 1377.40-1384.74: So we have been watching this, especially the net profit on sales. 
+asr:0: OUTPUT 1385.55-1389.49: Because this is the core of our operations. 
+asr:0: OUTPUT 1392.25-1395.46: Is also one thing that I'd like to mention. 
+asr:0: OUTPUT 1395.54-1403.62: That is the drop in our result on derivatives, it is related to. 
+asr:0: OUTPUT 1403.86-1407.31: The measurement of derivatives was 67 million. 
+asr:0: OUTPUT 1407.65-1413.99: Million but also at the lower valuation by 150 million. 
+asr:0: OUTPUT 1414.35-1421.10: So derivatives had the impact by minus 8 to 1. 
+asr:0: OUTPUT 1421.12-1422.80: Million on the net risk. 
+asr:0: OUTPUT 1423.78-1432.69: Change in CIT, exchange differences that I mentioned previously, and CIT is corporate income tax, so we have high. 
+asr:0: OUTPUT 1433.37-1436.02: Profits. 
+asr:0: OUTPUT 1436.62-1442.56: To the net result in that the profit remains strong and robust. 
+asr:0: OUTPUT 1443.66-1449.75: And with each quarter we've seen a significant contribution to the overall profit. 
+asr:0: OUTPUT 1450.17-1456.10: But we have to mention that the increase in the costs of energy. 
+asr:0: OUTPUT 1456.42-1465.87: Those prices accelerated in the last quarter by 17%, quarter to quarter. 
+asr:0: OUTPUT 1465.99-1469.43: That is how energy prices have increased. 
+asr:0: OUTPUT 1470.71-1478.58: We have been offsetting these higher energy prices by conservation of energy savings, but. 
+asr:0: OUTPUT 1478.60-1485.97: It's not possible to offset such an increase in energy prices by reducing the consumption only. 
+asr:0: OUTPUT 1487.21-1490.89: And now let me move on to our cash flows. 
+asr:0: OUTPUT 1493.93-1497.12: So there are three important factors here. 
+asr:0: OUTPUT 1498.26-1500.32: So the first one. 
+asr:0: OUTPUT 1500.34-1509.15: There is the allocation of the profit. The second is a change in the working capital. 
+asr:0: OUTPUT 1510.39-1519.66: And that was related to us knowingly abandoning the use of some of the factoring. 
+asr:0: OUTPUT 1520.00-1523.32: Contracts, so it's one billion zlotys. 
+asr:0: OUTPUT 1524.02-1530.81: We see no need to use factoring in these areas, and this is how we can. 
+asr:0: OUTPUT 1530.83-1534.55: Save on the financing costs of these contracts. 
+asr:0: OUTPUT 1534.97-1542.46: The contracts remain valid. They're in full force and in effect as our credit agreements are. 
+asr:0: OUTPUT 1542.84-1550.43: We can use them, but we're not using them at the moment because we don't see any reason to do so, and we can save the cost. 
+asr:0: OUTPUT 1551.21-1559.50: And another area is an increase in stock by 1.6 billion compared with the beginning of this year. 
+asr:0: OUTPUT 1560.10-1568.29: Well, that is related to two factors. One, planned downtime and repairs. 
+asr:0: OUTPUT 1569.01-1574.19: So we're planning to have a downtime of the suspension. 
+asr:0: OUTPUT 1574.21-1580.00: Which is really a huge project. 
+asr:0: OUTPUT 1580.32-1584.52: We need to prepare our company to have the stock at every. 
+asr:0: OUTPUT 1584.54-1591.11: Stage of the process for the downtime of that important flash furnace. 
+asr:0: OUTPUT 1591.47-1596.62: We're also preparing for other repairs, other work. 
+asr:0: OUTPUT 1597.20-1606.33: Be going to do like the anode carousel filling machine and other. 
+asr:0: OUTPUT 1606.63-1610.39: Major work we're going to perform. 
+asr:0: OUTPUT 1610.89-1620.10: And the other area is the uncertainty surrounding supply chain. We have seen that over the last couple of months where we were confronted. 
+asr:0: OUTPUT 1620.58-1625.01: With a serious breakdown in one of our concentrations. 
+asr:0: OUTPUT 1627.29-1632.25: And you know how. 
+asr:0: OUTPUT 1633.85-1636.82: Vessels are for transportation. 
+asr:0: OUTPUT 1637.82-1639.48: In order to ensure continuity. 
+asr:0: OUTPUT 1639.94-1646.19: Production of copper we are keeping our stock at a slightly higher level. 
+asr:0: OUTPUT 1647.15-1648.21: Because. 
+asr:0: OUTPUT 1648.51-1652.43: So we made a commitment in that respect. 
+asr:0: OUTPUT 1652.45-1659.46: In the sense that we would like to test the possibility of increasing our production volume from one year to the other. 
+asr:0: OUTPUT 1659.78-1668.55: And in order to do so, we need to optimize all production areas, including the smelting operations. 
+asr:0: OUTPUT 1668.77-1677.90: So that we can optimize that process in terms of the selection of the material and in terms of the processes themselves. 
+asr:0: OUTPUT 1678.16-1685.87: So that we need to make sure that this Meltep plant as well as the Zedinia plant. 
+asr:0: OUTPUT 1685.89-1690.03: Have the resources to optimize production this year and next year. 
+asr:0: OUTPUT 1690.73-1692.47: But looking at stock. 
+asr:0: OUTPUT 1693.47-1698.22: We're not only thinking about a long, short-term, one-year horizon. 
+asr:0: OUTPUT 1698.64-1708.11: We're looking forward long term and would like to streamline our production and make it more efficient. 
+asr:0: OUTPUT 1709.09-1714.41: The judge has not changed at the end of quarter three. 
+asr:0: OUTPUT 1716.24-1718.12: That that's not changed really. 
+asr:0: OUTPUT 1720.36-1726.25: We received cash from KGHM International, as I've mentioned. 
+asr:0: OUTPUT 1727.65-1731.55: But we also had a. 
+asr:0: OUTPUT 1732.31-1738.80: A situation which is stable really, not much changed. 
+asr:0: OUTPUT 1738.84-1747.79: The only change was a slightly lower cash position. The net debt increased, but the debt. 
+asr:0: OUTPUT 1747.81-1751.07: In terms of the banking debt. 
+asr:0: OUTPUT 1751.61-1753.47: It's not changed. 
+asr:0: OUTPUT 1753.95-1761.54: So we repaid these borrowings in the second quarter, and that is why we're not mentioning them. 
+asr:0: OUTPUT 1762.78-1765.37: Let me give the floor to Adam Bugajczyk now. 
+asr:0: OUTPUT 1768.35-1774.95: Thank you. Ladies and gentlemen, now let me focus on advancement of development initiatives. 
+asr:0: OUTPUT 1778.28-1781.22: Well, as for the projects fulfilled. 
+asr:0: OUTPUT 1781.96-1789.49: Well, it's not so impressive, maybe, but we're doing that on budget and on time. 
+asr:0: OUTPUT 1790.19-1795.46: So, for example, the southern quarter was finished. 
+asr:0: OUTPUT 1795.48-1801.80: Six months ahead of the schedule, which shows that we're coping with the present situation. 
+asr:0: OUTPUT 1802.26-1805.45: We all were of the broken supply chains. 
+asr:0: OUTPUT 1806.21-1812.59: Unavailable materials and all these minor challenges. 
+asr:0: OUTPUT 1812.91-1815.86: We're facing in some smaller projects, but we... 
+asr:0: OUTPUT 1815.88-1825.43: Really trying to resolve the problems as they arise and fulfill our objectives on time. 
+asr:0: OUTPUT 1827.63-1832.83: As for the role of Deep Gwagw GGP,. 
+asr:0: OUTPUT 1833.67-1843.34: The role is increasing by 30% year to year in all areas of our production, extraction and also. 
+asr:0: OUTPUT 1843.36-1848.47: The copper content of the heavy grade. 
+asr:0: OUTPUT 1849.97-1854.59: And silver is also becoming more and more important in that area. 
+asr:0: OUTPUT 1856.74-1861.66: We have also began drilling an exploratory ball hole. 
+asr:0: OUTPUT 1861.88-1866.53: Forbytom Odrzański, our license there. 
+asr:0: OUTPUT 1866.61-1876.32: And at the end of the third quarter we were drilling exploratory boreholes at Kulów Luboszyce. 
+asr:0: OUTPUT 1879.00-1887.69: So, well, these are the results of our project. So the southern quarter that I've mentioned. 
+asr:0: OUTPUT 1887.71-1891.31: Which is like the jewel in our crown. 
+asr:0: OUTPUT 1891.33-1895.40: This is a very complex operation. 
+asr:0: OUTPUT 1895.52-1901.18: It has lasted more than 3 years and has been completed successfully. 
+asr:0: OUTPUT 1901.60-1906.73: We have sent our depositors the first waste there. 
+asr:0: OUTPUT 1907.17-1912.21: And we've really managed to complete that very successfully. 
+asr:0: OUTPUT 1912.65-1921.52: As for the access program, GG1 is sunk to 1295 meters. We have no problems there. 
+asr:0: OUTPUT 1923.94-1928.17: And commence shaft sinking procedures around the way for GG2. 
+asr:0: OUTPUT 1930.57-1939.74: We have also the central air cooling system on the surface. So all our key projects. 
+asr:0: OUTPUT 1939.76-1941.68: Are being delivered. 
+asr:0: OUTPUT 1941.70-1943.44: On time and on budget. 
+asr:0: OUTPUT 1947.01-1950.85: Now the energy development programme, including renewables. 
+asr:0: OUTPUT 1952.21-1961.84: So we are showing the work which is underway to increase our renewables potential, our energy potential, including renewables. 
+asr:0: OUTPUT 1964.46-1972.39: We continue our work to increase the share of renewables, and we have been doing that very consistently. 
+asr:0: OUTPUT 1973.63-1977.82: As for the share of renewables in our own energy production,. 
+asr:0: OUTPUT 1978.62-1985.73: Yeah, that's what our CEO, Marcin, said about our climate policy. 
+asr:0: OUTPUT 1986.09-1994.55: All of these are tools to implement our climate policy to bring us closer to our neutrality target. 
+asr:0: OUTPUT 1994.77-1997.66: Ambitious parameters so that in 2030. 
+asr:0: OUTPUT 1998.14-2001.20: Half of our energy consumption is. 
+asr:0: OUTPUT 2001.22-2008.31: Met by our own energy sources, including renewables in 2030. 
+asr:0: OUTPUT 2008.53-2013.77: So what Syrac Gorda will be supplied 100% from renewables. 
+asr:0: OUTPUT 2014.75-2016.22: So that's the situation. 
+asr:0: OUTPUT 2019.90-2026.93: Ladies and gentlemen, we will now have a Q&A session. 
+asr:0: OUTPUT 2029.59-2037.92: We would like to thank you for the positive comments and feedback we've received from you on our climate policy. 
+asr:0: OUTPUT 2038.22-2041.06: Before I give the floor to Janusz Krzysztoś,. 
+asr:0: OUTPUT 2042.38-2047.83: Let me read one question about the climate policy and not the results. The question we received. 
+asr:0: OUTPUT 2050.33-2052.31: Page 10 in the presentation which. 
+asr:0: OUTPUT 2052.79-2057.04: Says that the decarbonization program for the group will be. 
+asr:0: OUTPUT 2057.56-2066.13: Adopted will we? Hear about the details of that publicly it will be presented the program. I mean in 2022. 
+asr:0: OUTPUT 2066.99-2068.71: And done. 
+asr:0: OUTPUT 2068.73-2076.30: According to our information and disclosures policy, information which is significant for. 
+asr:0: OUTPUT 2076.32-2079.64: Investors will be made public. 
+asr:0: OUTPUT 2082.38-2087.07: Okay. 
+asr:0: OUTPUT 2087.89-2092.43: We have also a presentation which is broad in scope. 
+asr:0: OUTPUT 2092.45-2100.32: Detailed presentation which is a discussion of our climate policy so we can also. 
+asr:0: OUTPUT 2100.38-2102.10: Read that. 
+asr:0: OUTPUT 2103.26-2110.89: It's important not to make a mistake here. So the question was about the decarbonization of the group. 
+asr:0: OUTPUT 2111.83-2120.28: So in our document, we assumed how much we're emitting in our smelting and mining operations. We know what to do. 
+asr:0: OUTPUT 2120.30-2127.51: The President. 
+asr:0: OUTPUT 2127.65-2133.67: And also to take a comprehensive approach and tackle all aspects. 
+asr:0: OUTPUT 2135.14-2136.22: And... 
+asr:0: OUTPUT 2136.24-2145.29: We would like to have a big picture of the whole group, including our companies. 
+asr:0: OUTPUT 2145.43-2147.09: And some CG rays. 
+asr:0: OUTPUT 2147.13-2149.65: And also to. 
+asr:0: OUTPUT 2149.67-2158.88: Implement the right measures to achieve the zero emissions target in our subsidiaries. We know what's happening in the parent company. 
+asr:0: OUTPUT 2159.00-2164.02: And 2022 will be about the subsidiaries in our group of companies. 
+asr:0: OUTPUT 2165.01-2171.27: Thank you. Janusz Krystosiak, head of Investors Relations, will head the Q&A. 
+asr:0: OUTPUT 2172.11-2181.50: Thank you. Let me begin with a number of questions which will be about RFO in operations. 
+asr:0: OUTPUT 2185.85-2191.67: And these will be directed first to Pavel Gruza. 
+asr:0: OUTPUT 2193.55-2202.48: Łukasz Ludwik Trigun, Investment expenditure on the Victoria project have been growing noticeably in the last quarter. 
+asr:0: OUTPUT 2203.58-2208.93: What is the scale of spending in 2022 and onwards? 
+asr:0: OUTPUT 2214.11-2218.64: Well, are we not projecting that? 
+asr:0: OUTPUT 2218.78-2224.02: We are in the middle of our budgeting work and. 
+asr:0: OUTPUT 2224.04-2229.51: Some of the things have not been finished, so I don't think we can tell you everything right now. 
+asr:0: OUTPUT 2231.09-2234.11: That's clear. Okay. Thank you for that question. 
+asr:0: OUTPUT 2236.10-2237.54: Slowly. 
+asr:0: OUTPUT 2237.56-2241.46: CAPEX on Victoria. 
+asr:0: OUTPUT 2241.48-2248.65: It has a different nature, there are different kinds of capex. Some of the spending. 
+asr:0: OUTPUT 2248.67-2253.13: Is to meet the local regulatory requirements in Canada. 
+asr:0: OUTPUT 2253.81-2260.34: And the other expenditures are to ensure for our KGHM. 
+asr:0: OUTPUT 2262.08-2270.09: That we have the flexibility in our Victoria project contracts. 
+asr:0: OUTPUT 2273.39-2278.22: And that is why we have embarked on investment projects this year. 
+asr:0: OUTPUT 2278.96-2281.04: Talking about 2022. 
+asr:0: OUTPUT 2281.22-2289.33: We're preparing the budget session, so it's really hard to tell at this point in time. 
+asr:0: OUTPUT 2290.27-2292.17: We're looking at several options though. 
+asr:0: OUTPUT 2292.95-2302.42: And well I mean the options for the Victoria budget and these decisions will be made at the board level. 
+asr:0: OUTPUT 2303.54-2310.51: And that is why I'm not in a position to comment on that question in precise terms at this moment. 
+asr:0: OUTPUT 2312.73-2316.30: Any questions from Łukasz to Paweł Grusa? 
+asr:0: OUTPUT 2317.40-2324.44: Could we ask you for an update on the information concerning the extraction? 
+asr:0: OUTPUT 2324.46-2328.03: Tax, mining tax in Chile. 
+asr:0: OUTPUT 2329.31-2335.20: Well, there's been no significant change so far. We're waiting for the situation to develop in Chile. 
+asr:0: OUTPUT 2336.84-2340.00: We have been watching these developments. 
+asr:0: OUTPUT 2342.10-2343.24: As I've told you. 
+asr:0: OUTPUT 2344.58-2346.25: Well, it's here in Gouda. 
+asr:0: OUTPUT 2346.35-2348.91: Draw some... 
+asr:0: OUTPUT 2348.93-2358.74: Tax and legal security measures to ensure that the effect of these changes, if they happen, will be. 
+asr:0: OUTPUT 2358.76-2361.72: Deferred in time for Siragoda. 
+asr:0: OUTPUT 2362.44-2368.75: Thank you. 
+asr:0: OUTPUT 2368.77-2370.39: And the market higher. 
+asr:0: OUTPUT 2372.63-2384.64: So what are the order levels from Chinese customers and what are the expectations for demand from China in 2022? 
+asr:0: OUTPUT 2385.05-2387.69: Do they fear a slowdown? 
+asr:0: OUTPUT 2387.89-2396.06: On the housing market and what about green energy and development. 
+asr:0: OUTPUT 2396.42-2401.22: In China and are they foreseeing any constraints in the use of energy? 
+asr:0: OUTPUT 2402.56-2404.20: Well, that's a good question. 
+asr:0: OUTPUT 2405.97-2409.65: Well, we're in touch with the Chinese. 
+asr:0: OUTPUT 2409.67-2418.16: Market by being in touch with a company which imports anodes, copper anodes. 
+asr:0: OUTPUT 2418.28-2420.14: To China directly. 
+asr:0: OUTPUT 2421.82-2429.91: Not seen any significant slowdown in Chinese economy judging by that trading relationship. 
+asr:0: OUTPUT 2431.19-2437.54: The other area is the concentrate market but we've not seen any problems either. 
+asr:0: OUTPUT 2439.90-2450.05: We see that the demand for that material from the smelters, and we've not seen any significant slowdown there. 
+asr:0: OUTPUT 2452.53-2461.54: Is the increase of premium and copper related to higher demand? Or maybe it's to offset the energy prices, which have increased. 
+asr:0: OUTPUT 2462.22-2465.33: Are you talking about the premium in China? 
+asr:0: OUTPUT 2468.49-2470.29: Yes, I think so. 
+asr:0: OUTPUT 2474.33-2477.16: I think there are a number of reasons for this. 
+asr:0: OUTPUT 2480.92-2490.43: Generally though, there is a need to supply high quality concentrate. 
+asr:0: OUTPUT 2490.45-2495.14: For smelters and that is what is driving the premium and the prices up. 
+asr:0: OUTPUT 2495.46-2500.58: I don't know which premium the question is about. 
+asr:0: OUTPUT 2502.36-2511.35: Okay, I see. We will ask about that and provide the answer to that question on our website. 
+asr:0: OUTPUT 2511.37-2513.79: When we clarify with the OSCA. 
+asr:0: OUTPUT 2514.63-2521.02: And a question from Łukasz Rudnik, Pulbiznesu newspaper. 
+asr:0: OUTPUT 2522.08-2526.03: The question is about the period. 
+asr:0: OUTPUT 2526.15-2529.31: For the decision of the. 
+asr:0: OUTPUT 2529.33-2538.12: A preemptive right to buy a block in shares in Sierra Gorda. 
+asr:0: OUTPUT 2542.08-2547.15: Well, the periods are... 
+asr:0: OUTPUT 2547.39-2556.22: For the board, well the board has time until end of November to announce that decision. 
+asr:0: OUTPUT 2559.18-2560.42: Uh... 
+asr:0: OUTPUT 2560.44-2565.57: I would not expect any comment from the board at this moment. 
+asr:0: OUTPUT 2565.59-2573.47: All the information will be provided on the decision of the board in accordance with all the information procedures. 
+asr:0: OUTPUT 2573.75-2576.22: Yes, we've not come to the decision yet. 
+asr:0: OUTPUT 2578.74-2588.73: The energy prices, energy from gas, and the grid for your own planet. 
+asr:0: OUTPUT 2589.91-2592.39: Are they hedged for next year? 
+asr:0: OUTPUT 2592.91-2599.92: And what is the scale of the cost with the same production volume for KGHM? 
+asr:0: OUTPUT 2600.00-2603.70: Poland. 
+asr:0: OUTPUT 2605.69-2613.95: Most of our demand for gas and electricity has been fixed for next year. 
+asr:0: OUTPUT 2614.31-2622.08: I wouldn't actually say hedged. We don't use hedging or derivative instruments on energy. 
+asr:0: OUTPUT 2622.48-2624.97: We simply use forward prices. 
+asr:0: OUTPUT 2628.85-2632.27: So that's in the bag, so to speak. 
+asr:0: OUTPUT 2633.05-2636.80: Obviously we never buy 100% in advance. 
+asr:0: OUTPUT 2637.64-2643.64: So we leave some space for spot deals because of our balancing needs. 
+asr:0: OUTPUT 2643.80-2651.47: And because of bargains on spot these and what was the second part of the question? 
+asr:0: OUTPUT 2668.45-2673.27: So what will be the scale of the cost with the production scale is the same. 
+asr:0: OUTPUT 2674.83-2677.68: Electricity production from our own. 
+asr:0: OUTPUT 2677.70-2683.32: Gas resources, well, then here the gas price is lower. 
+asr:0: OUTPUT 2683.38-2692.29: Than when we buy energy from the grid. That's where we maximize our own energy production assets. 
+asr:0: OUTPUT 2692.39-2700.60: And we also keep running a prediction of energy prices, both from third party. 
+asr:0: OUTPUT 2700.64-2705.73: Providers and from our own assets and here the. 
+asr:0: OUTPUT 2705.81-2711.35: There are no clear answers because gas prices may change as they did last month. 
+asr:0: OUTPUT 2712.21-2716.00: And when they do electricity production. 
+asr:0: OUTPUT 2716.44-2722.86: From coal was lower than from gas despite the CO2 emission costs. 
+asr:0: OUTPUT 2723.44-2732.87: But the situation is volatile, it changes rapidly, but we keep analyzing this and we decide as and when necessary. 
+asr:0: OUTPUT 2734.29-2738.36: Okay, thank you very much. We spoke about hedging. 
+asr:0: OUTPUT 2739.32-2748.97: Could I ask you to comment on another question, and that's the question about. 
+asr:0: OUTPUT 2749.03-2758.62: What is the volume of copper production that are secured with contracts for 2022 and 2023 and what is the average price. 
+asr:0: OUTPUT 2759.28-2766.97: Well, we do hedging transactions in accordance with our hedging policy. 
+asr:0: OUTPUT 2768.57-2770.25: And this is work in progress. 
+asr:0: OUTPUT 2770.95-2777.78: We keep signing hedging transactions in the third quarter. 
+asr:0: OUTPUT 2778.62-2782.56: Most of those transactions were adjustment transactions. 
+asr:0: OUTPUT 2783.12-2790.23: We took advantage of high prices so we increased the bottom. 
+asr:0: OUTPUT 2790.65-2800.58: The bottom line of transactions to secure higher prices. 
+asr:0: OUTPUT 2801.46-2803.64: For silver we open the top. 
+asr:0: OUTPUT 2803.84-2812.21: At the top line waiting for possible increases on silver prices which have been expected for a few years. 
+asr:0: OUTPUT 2812.83-2815.34: And have materialized to some extent. 
+asr:0: OUTPUT 2815.90-2822.58: The next year is still being analyzed. We've made some range transactions. 
+asr:0: OUTPUT 2825.13-2831.31: The average level of. 
+asr:0: OUTPUT 2831.33-2836.34: Hedging of our volume is in the area of 35%. 
+asr:0: OUTPUT 2836.36-2841.38: Don't take my word for it, maybe we'll provide a written answer. 
+asr:0: OUTPUT 2842.78-2851.63: Thank you very much. Now a question from Paweł Puchalski from Santander. When can we expect a refreshment of KGHM's strategy? 
+asr:0: OUTPUT 2855.52-2862.16: We've actually done that at the economic forum in Carpathians. 
+asr:0: OUTPUT 2862.54-2871.85: We presented new business initiatives or energy policy initiatives. 
+asr:0: OUTPUT 2872.39-2878.36: Those that were either impossible in 2018 or were not identified in 2018. 
+asr:0: OUTPUT 2879.12-2888.19: So the strategy update is an ongoing process. So whenever any new circumstances arise, we do that. 
+asr:0: OUTPUT 2888.65-2893.67: We also have a certain perspective that we follow. 
+asr:0: OUTPUT 2895.30-2902.56: And an extension of this strategic perspective is also possible. 
+asr:0: OUTPUT 2902.72-2906.47: Processes. Some projects take 10 years or more. 
+asr:0: OUTPUT 2907.27-2913.69: And that's a living thing and the process is always ongoing. 
+asr:0: OUTPUT 2914.35-2919.02: Thank you very much. A question from Paul Spisnesu in the context of Belarus. 
+asr:0: OUTPUT 2919.44-2927.43: If Belarus decides to suspend gas supplies, will this affect KGHM? Do you have any other... 
+asr:0: OUTPUT 2927.45-2932.87: And do you have any other goods that you import from Belarus? 
+asr:0: OUTPUT 2934.39-2940.10: Well, this is a difficult situation from the perspective of state security, but it doesn't affect us. 
+asr:0: OUTPUT 2941.04-2947.47: The gas that we use comes from deposits that are present locally. 
+asr:0: OUTPUT 2949.27-2957.18: So our gas supplies are different than the country average, so to speak. 
+asr:0: OUTPUT 2958.66-2961.48: Of course, the volume of those deliveries is very high. 
+asr:0: OUTPUT 2961.96-2964.24: But there are no key. 
+asr:0: OUTPUT 2964.28-2966.99: And. 
+asr:0: OUTPUT 2967.03-2975.34: Volumes that would be imported from Belarus, whether it's gas or anything else. Thank you very much. 
+asr:0: OUTPUT 2980.34-2985.71: Let me go back to mr. Garouza a question from Santander. 
+asr:0: OUTPUT 2986.61-2991.31: How would you explain the excellent results of KGHM International in the third quarter? 
+asr:0: OUTPUT 2997.76-2999.44: Well, let me say this again. 
+asr:0: OUTPUT 3001.80-3011.29: In the beginning of the COVID crisis, we managed to renegotiate a number of cost contracts. 
+asr:0: OUTPUT 3012.15-3014.85: We optimized. 
+asr:0: OUTPUT 3019.26-3024.68: We optimized many investments and this reduced our costs. 
+asr:0: OUTPUT 3025.35-3031.79: On the other hand, we maintained or sometimes we even improved our production. 
+asr:0: OUTPUT 3033.35-3039.86: So when you combine these two factors with one more factor, and that is. 
+asr:0: OUTPUT 3041.38-3046.13: Macroeconomic climate and metal prices. 
+asr:0: OUTPUT 3046.67-3055.78: So when you do the maths, you will get the results that you can see on KGHM International and Sierra Gorda. 
+asr:0: OUTPUT 3061.44-3070.41: And until this favorable macroeconomic situation continues, we will be enjoying. 
+asr:0: OUTPUT 3072.41-3075.88: The benefits of it. 
+asr:0: OUTPUT 3082.46-3092.39: 2021 has been very favorable in terms of geology, both for international and for Sierra Gorda. 
+asr:0: OUTPUT 3093.21-3102.12: Next year there will be more challenges related to tripping in Robinson. 
+asr:0: OUTPUT 3105.57-3111.69: We will have to remove a lot of overburden to get access to new ore deposits. 
+asr:0: OUTPUT 3113.51-3118.88: But it seems that our operations have been optimized. 
+asr:0: OUTPUT 3118.98-3123.60: In terms of our deposit management policy. 
+asr:0: OUTPUT 3124.50-3125.63: Thank you very much. 
+asr:0: OUTPUT 3132.93-3138.58: Apologies, I'm trying to... 
+asr:0: OUTPUT 3140.00-3147.63: To eliminate duplicate questions. Here comes another. 
+asr:0: OUTPUT 3149.33-3159.74: What wage increases and bonus increases can be expected next year? What are the demands of trade unions as of now? 
+asr:0: OUTPUT 3160.66-3170.65: Well, nothing extraordinary has been happening in this regard. And I think in addition to our collective bargaining,. 
+asr:0: OUTPUT 3171.37-3172.89: So. 
+asr:0: OUTPUT 3173.25-3182.36: We adjust the wages to the average industrial wages coefficient. 
+asr:0: OUTPUT 3183.02-3190.83: We don't know the coefficient for the next year because it's published after the end of the year. 
+asr:0: OUTPUT 3191.45-3194.03: We don't actually try to project it. 
+asr:0: OUTPUT 3194.65-3204.62: But year after year, we increase the wages by what is required in collective bargaining. 
+asr:0: OUTPUT 3205.21-3211.93: And we will be able to calculate that increase when it's published by the Statistical Office of Poland. 
+asr:0: OUTPUT 3212.47-3220.04: And what will be the CAPEX related to the climate policy other than the SMR project? 
+asr:0: OUTPUT 3221.16-3223.18: So another budget question, isn't it? 
+asr:0: OUTPUT 3223.98-3227.39: Some of those capexes. 
+asr:0: OUTPUT 3227.91-3234.95: Are already included in our budget because these are the things that. 
+asr:0: OUTPUT 3234.97-3241.90: Have been going on regardless of our climate policy. For instance in 20... 
+asr:0: OUTPUT 3241.92-3246.37: 18 we assumed that 50% of our. 
+asr:0: OUTPUT 3246.39-3248.45: Energy sources will be renewable. 
+asr:0: OUTPUT 3249.01-3254.77: There are some projects that need to be counted or calculated. 
+asr:0: OUTPUT 3255.70-3260.54: Some of them are experimental, such as carbon capture and storage. 
+asr:0: OUTPUT 3261.16-3270.15: So only after we investigate these technologies in detail, we'll be able to calculate the related cost. 
+asr:0: OUTPUT 3270.35-3277.84: So we know some of the costs and they are included in our annual CAPEX budgets. 
+asr:0: OUTPUT 3278.10-3283.94: Other costs, especially those that we're looking at in the context of 2050. 
+asr:0: OUTPUT 3284.22-3288.67: Still need to go through the R&D phase. 
+asr:0: OUTPUT 3288.97-3296.96: Then we need to select the practical solution and only then we can calculate the related cost. 
+asr:0: OUTPUT 3297.98-3305.91: Thank you very much. 
+asr:0: OUTPUT 3306.99-3309.79: Could you give us some detail... Details? 
+asr:0: OUTPUT 3312.15-3320.62: About the suspension furnace renovation in Gwogów 1 and Gwogów 2. 
+asr:0: OUTPUT 3320.90-3324.20: What is the period, what is the expected downtime? 
+asr:0: OUTPUT 3324.22-3325.23: Of the furnace. 
+asr:0: OUTPUT 3325.51-3330.21: That's about Gua Guf 2 smelting plant. 
+asr:0: OUTPUT 3332.73-3340.36: We have been discussing about how to optimize the downtime. 
+asr:0: OUTPUT 3340.84-3345.77: It will be 70 something days. We don't know how much exactly. 
+asr:0: OUTPUT 3347.85-3350.13: Another question from Jakub Skopek. 
+asr:0: OUTPUT 3350.85-3359.76: Have you seen any problems in terms of supplies of rare metals? 
+asr:0: OUTPUT 3360.00-3363.60: In the context of limited supplies from China. 
+asr:0: OUTPUT 3364.10-3369.85: Well, as I mentioned when I spoke about our investments, we do have some minor... 
+asr:0: OUTPUT 3369.87-3376.04: Problems, but we've been in the marketplace for 60 years and. 
+asr:0: OUTPUT 3376.06-3380.10: We have a very good understanding of the marketplace and. 
+asr:0: OUTPUT 3383.26-3387.53: We are pretty much immune to those minor problems. 
+asr:0: OUTPUT 3388.53-3393.85: And everything has been going on as planned. Thank you. 
+asr:0: OUTPUT 3395.92-3399.68: A few more questions from Interia, Monika Borkowska. 
+asr:0: OUTPUT 3403.90-3410.73: Actually, two of them have been answered, and they were about the transformation costs. 
+asr:0: OUTPUT 3411.41-3417.84: And the expected copper price levels. We don't do expectations or projections. 
+asr:0: OUTPUT 3420.34-3427.21: We also don't make any projections with regards to the supply and demand situation. 
+asr:0: OUTPUT 3432.27-3434.71: So I think we can skip that. 
+asr:0: OUTPUT 3435.52-3439.62: And Monika Borkowska also asks the following questions. 
+asr:0: OUTPUT 3439.92-3447.25: The following question, what is the 2022 perspective when you look at growing energy prices? 
+asr:0: OUTPUT 3447.93-3457.36: And maybe let's merge this question with another one. What other important challenges, other than energy prices? 
+asr:0: OUTPUT 3458.46-3460.64: KJGM will have to face. 
+asr:0: OUTPUT 3460.92-3466.33: So, the 2022 perspective in the context of. 
+asr:0: OUTPUT 3466.35-3473.87: Of growing energy prices and what other major challenges will have to be faced by the company. 
+asr:0: OUTPUT 3476.44-3483.16: Well, we've been discussing energy at length. 
+asr:0: OUTPUT 3484.68-3489.79: We know that gas prices and diesel prices are going up. 
+asr:0: OUTPUT 3490.45-3499.86: We know what the reason for higher prices is. That's geopolitical situation and regulatory framework. 
+asr:0: OUTPUT 3500.42-3510.33: So that's essentially beyond our control. What we control is adherence to our long-term energy transformation strategy. 
+asr:0: OUTPUT 3510.97-3515.10: And also our climate policy. 
+asr:0: OUTPUT 3515.26-3523.24: So we do that year after year, month after month, and we want to stick to that. 
+asr:0: OUTPUT 3524.00-3531.69: We want to increase our energy production, our energy generation assets. 
+asr:0: OUTPUT 3532.05-3538.14: We want to optimize the price of energy we purchase from third-party suppliers. 
+asr:0: OUTPUT 3540.20-3544.86: We also reduce energy consumption whenever possible. 
+asr:0: OUTPUT 3549.27-3555.90: Well, 2022, well, it's actually hard to say what it's going to look like. 
+asr:0: OUTPUT 3557.36-3563.24: The world is changing at a very rapid pace and that pace is only increasing. 
+asr:0: OUTPUT 3563.98-3567.29: So if you want to be responsible. 
+asr:0: OUTPUT 3567.33-3572.69: Manager, you can't actually make predictions for the next year. 
+asr:0: OUTPUT 3573.03-3578.70: Well, maybe the prices will go up, maybe they will go down. That's anybody's guess. 
+asr:0: OUTPUT 3580.06-3589.19: But we can respond to any changes. We can increase production. We can keep our. 
+asr:0: OUTPUT 3589.21-3590.97: Cost under control. 
+asr:0: OUTPUT 3591.41-3601.02: And that's how we deliver the financial results, which, as you can see, it's still pretty much OK. 
+asr:0: OUTPUT 3601.46-3605.03: Despite the growing energy prices. 
+asr:0: OUTPUT 3605.51-3614.95: And the other question was, the other part of the question? I guess you actually answered it. That was perspectives and challenges. 
+asr:0: OUTPUT 3615.62-3619.72: Okay, thank you very much. There is a question from... 
+asr:0: OUTPUT 3620.72-3621.86: Robert, my... 
+asr:0: OUTPUT 3622.90-3632.55: He put them as securities but actually we answered that question because it's a question about the cost of. 
+asr:0: OUTPUT 3632.57-3636.52: Energy transformation in the context of SMRs. 
+asr:0: OUTPUT 3639.52-3643.30: That's Robert's question, so let me answer it actually. 
+asr:0: OUTPUT 3645.17-3654.79: We will keep reporting the next steps. So the agreement with NuScale on SMRs. 
+asr:0: OUTPUT 3655.76-3657.80: Oh, actually, it's a letter of intent. 
+asr:0: OUTPUT 3659.36-3668.47: Has been signed and it defines a timeline and our obligations. 
+asr:0: OUTPUT 3669.25-3672.59: We will report this as and when required. 
+asr:0: OUTPUT 3672.89-3681.88: And caste aspects have been mentioned. 
+asr:0: OUTPUT 3682.76-3685.77: When we spoke about energy transformation. 
+asr:0: OUTPUT 3686.57-3693.57: Now let me quickly skim through the questions. Do we have any other questions? 
+asr:0: OUTPUT 3695.54-3700.00: It seems that we do not. 
+asr:0: OUTPUT 3700.76-3707.79: Actually, there are more questions, but they are about the things we spoke about. So that's it for me. So thank you very much. 
+asr:0: OUTPUT 3708.17-3714.81: Thank you. Feel free to keep submitting your questions to IR at KGHM.com. 
+asr:0: OUTPUT 3714.83-3719.38: All the questions and all the answers will be submitted at our. 
+asr:0: OUTPUT 3719.42-3727.21: Website as soon as possible. Now let me give the floor to Mr. Kuludzinski for a quick summary. 
+asr:0: OUTPUT 3729.47-3732.31: I believe that today is. 
+asr:0: OUTPUT 3732.33-3740.30: Presentation has shown you the direction in which we have been going in terms of our financial performance and the challenges. 
+asr:0: OUTPUT 3741.34-3747.41: We have the answers to these challenges and how we know how to cope with them. 
+asr:0: OUTPUT 3747.71-3753.81: It's not possible to eliminate some of them in months' time or over a year. 
+asr:0: OUTPUT 3754.19-3758.98: Some of them require to act consistently. 
+asr:0: OUTPUT 3759.62-3765.77: Over 10 years, this is the project for small nuclear reactors. 
+asr:0: OUTPUT 3766.19-3771.59: All these challenges we are aware of have been strategically. 
+asr:0: OUTPUT 3772.15-3777.76: And. 
+asr:0: OUTPUT 3778.52-3788.01: We assume that we can achieve that by 2050, and we see the possibilities for continued operations. 
+asr:0: OUTPUT 3789.19-3796.82: And that's very important. So let me thank the board for the presentation and thank you for your attention. 
+asr:0: OUTPUT 3797.36-3804.94: And we will meet next time when we will be presenting the results for 2021. 
+asr:0: OUTPUT 3806.05-3807.99: Okay, so thank you very much. 
+asr:0: OUTPUT 3808.03-3817.50: Thanks for your attention and we will meet next quarter or next time for the presentation of the results. Thank you. 
+asr:0: END

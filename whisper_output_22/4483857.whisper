@@ -1,0 +1,620 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.50-9.87: Good morning ladies and gentlemen and welcome to Siemens Healthineers conference call. As a reminder, this conference is being recorded. 
+asr:0: OUTPUT 10.53-18.16: Before we begin, I would like to draw your attention to the Safe Harbor Statement on page 2 of the Siemens Healthineers presentation. 
+asr:0: OUTPUT 18.38-21.66: This conference call may include forward-looking statements. 
+asr:0: OUTPUT 22.08-31.09: These statements are based on the company's current expectations and certain assumptions, and are therefore subject to certain risks and uncertainties. 
+asr:0: OUTPUT 31.31-40.00: At this time, I would like to turn the call over to your host today, Mr. Mark Kubanek, Head of Investor Relations. Please go ahead, sir. 
+asr:0: OUTPUT 41.14-47.75: Thanks, operator, and welcome, dear analysts and investors, to today's call. Also from my side. 
+asr:0: OUTPUT 48.51-51.93: Our first quarter results were released at 7am CET this morning. 
+asr:0: OUTPUT 52.15-59.30: And you can find all the material, presentation, earnings release and the recording of the call on our IR web page. 
+asr:0: OUTPUT 59.84-69.53: I'm sitting here with Bernd Montag, CEO of Siemens Healthineers, and Jochen Schmitz, our CFO, who will be taking you through our first quarter results in the usual detail. 
+asr:0: OUTPUT 70.49-78.94: After the presentation, you will have the chance to ask questions. Please may I ask you to limit yourselves to two questions each. Some things never change. 
+asr:0: OUTPUT 79.88-86.69: With this, I pass the word over to our CEO, Bernd Montag. Bernd, the floor is yours. 
+asr:0: OUTPUT 87.17-90.69: Thank you, Mark. Good morning, dear analysts and investors. 
+asr:0: OUTPUT 91.07-96.34: Thank you for dialing in and expressing your continued interest in Siemens Healthineers. 
+asr:0: OUTPUT 97.48-102.40: It has been a few months since we last spoke at our 2021 Capital Market Day. 
+asr:0: OUTPUT 103.18-109.47: In case you missed it back then and have a few hours to spare, you can still watch it on our web page. 
+asr:0: OUTPUT 110.59-120.14: Let me start by shedding some light on our financial performance in Q1, which shows that we have been able to take the momentum from 2021. 
+asr:0: OUTPUT 120.16-122.80: Over into the new financial year despite a. 
+asr:0: OUTPUT 122.82-125.15: Quite challenging environment. 
+asr:0: OUTPUT 126.03-135.88: We increased our order backlog with an excellent equipment book-to-bill rate at 1.2, which is for all segments roughly on the same level. 
+asr:0: OUTPUT 136.46-138.36: Comparable revenue growth,. 
+asr:0: OUTPUT 138.38-141.08: Was strong with 9.5%. 
+asr:0: OUTPUT 141.10-150.25: Driven by an excellent 20% growth in diagnostics, including 329 million Euro of rapid antigen sales. 
+asr:0: OUTPUT 151.73-158.60: Varian had a very solid start to the fiscal year and contributed 750 million Euro to the revenue. 
+asr:0: OUTPUT 159.40-166.23: Imaging continues to be strong with 6% comparable revenue growth and advanced therapies with 3% growth. 
+asr:0: OUTPUT 167.35-173.05: The adjusted EBIT margin for the group came in at 17.6% in Q1. 
+asr:0: OUTPUT 173.91-183.44: Foreign exchange headwinds and currently higher procurement and logistic costs were mostly offset by a better than expected rapid antigen contribution. 
+asr:0: OUTPUT 184.76-191.09: Our adjusted earnings per share increased year on year and was 55 Eurocents in Q1. 
+asr:0: OUTPUT 191.71-196.24: Free cash flow was strong with 556 million Euro. 
+asr:0: OUTPUT 197.26-206.47: We have raised the outlook for the group. In terms of comparable revenue, we now expect 3 to 5 percent growth from previously 0 to 2. 
+asr:0: OUTPUT 207.89-213.21: For adjusted basic earnings per share we expect 2.18 to 2.3. 
+asr:0: OUTPUT 213.25-218.28: Eurocents from previously 2.08 to 2.20. 
+asr:0: OUTPUT 219.24-224.04: This increase is the result of higher than expected antigen revenues. 
+asr:0: OUTPUT 224.36-230.97: We now assume 700 million of revenues out of rapid antigen testing in fiscal year 2020. 
+asr:0: OUTPUT 232.43-241.54: So while it looks like it's shaping up to be another successful year at Siemens Healthineers, and Jochen will explain in more depth the numbers of this successful start,. 
+asr:0: OUTPUT 241.62-246.43: Let me recap a bit on what we told you at our Capital Markets Day. 
+asr:0: OUTPUT 247.41-251.19: What makes Siemens Healthineers so unique? 
+asr:0: OUTPUT 252.45-260.70: The basis for our success is the set of unique capabilities which we have systematically built in the past years. 
+asr:0: OUTPUT 261.36-270.99: A set of capabilities which we keep strengthening every day. Patient training, precision therapy, and digital data and AI. 
+asr:0: OUTPUT 271.97-279.62: Patient twinning means adding more effective and efficient ways to accurately describe the state of an individual patient. 
+asr:0: OUTPUT 280.54-288.19: Having the ultimate vision of a digital twin of a patient in mind, on which diagnosis, therapy selection,. 
+asr:0: OUTPUT 288.21-292.65: And response control can be based very individually. 
+asr:0: OUTPUT 293.59-303.30: This is why we drive imaging to new levels of insights, develop new diagnostics tests and work on making imaging and diagnostics more productive and accessible. 
+asr:0: OUTPUT 304.62-306.43: Position therapy means. 
+asr:0: OUTPUT 306.45-315.22: Using cutting-edge technologies to deliver individualized therapies, often with submillimeter accuracy. 
+asr:0: OUTPUT 315.94-319.80: Whether it's cancer, neural or cardiac disorders. 
+asr:0: OUTPUT 320.48-327.11: The importance of precision in treating patients is what makes variants so unique in cancer therapies. 
+asr:0: OUTPUT 327.81-337.80: It is also why Advanced Therapies is focusing on making more and more procedures minimally invasive by image guidance and robotic assistance. 
+asr:0: OUTPUT 339.56-345.43: Precision improves results, reduces side effects, in short, makes therapies better for patients. 
+asr:0: OUTPUT 346.23-351.83: Our third strength is our unique competence in digital, data and AI. 
+asr:0: OUTPUT 352.09-357.82: It is key for scaling the application of technological advances. 
+asr:0: OUTPUT 357.84-366.71: For having the next patient benefiting from the knowledge generated by diagnosing and treating millions of patients before,. 
+asr:0: OUTPUT 366.73-371.05: And for connecting patient training with precision therapy. 
+asr:0: OUTPUT 372.01-378.16: Our unique capabilities allow us to pioneer breakthrough innovations to fuel further growth. 
+asr:0: OUTPUT 380.36-383.00: Let's look at some of the most recent examples. 
+asr:0: OUTPUT 383.52-391.29: First, the Magnetom FreeMax, our lightest, smallest and most cost-effective MR system. 
+asr:0: OUTPUT 391.47-393.07: The Magnetron Fremax. 
+asr:0: OUTPUT 393.09-406.99: Comes with a basically helium-free technology that significantly reduces total cost of ownership and therefore makes MR more accessible and consequently improves access to high-quality diagnosis globally. 
+asr:0: OUTPUT 407.87-409.03: Since its launch. 
+asr:0: OUTPUT 410.01-419.52: We have seen more than 50% of systems being sold into new markets. That means into settings where MR could not go before. 
+asr:0: OUTPUT 420.00-429.77: Buyer decisions are driven by favorable infrastructure requirements and ease of use, especially for those first-time users. 
+asr:0: OUTPUT 431.11-438.94: It was released in August 21 and we see a steady order ramp up also for the little sister, the Magnetome 3 star. 
+asr:0: OUTPUT 441.34-446.83: The Neotome Alpha is the first FDA-cleared photon counting CT on the planet. 
+asr:0: OUTPUT 447.31-456.10: After more than 15 years of development, over 280 patents and over 100 publications, we have successfully launched Neo2Ri. 
+asr:0: OUTPUT 456.12-458.48: Alpha on November 18th 21. 
+asr:0: OUTPUT 459.84-467.55: Described by the FDA as the first major imaging device advancements for CT in nearly a decade,. 
+asr:0: OUTPUT 467.77-474.35: Neoterm Alpha is seeing an impressive customer interest in both private and academic institutions. 
+asr:0: OUTPUT 475.52-484.04: Our customers confirm that photon counting technology has the potential to become the new global technical standard in CT in the decades to come. 
+asr:0: OUTPUT 485.75-492.67: More than 35,000 patients were already scanned using the new system as of today. 
+asr:0: OUTPUT 492.81-499.64: And we started to book orders in fiscal year 21 for a selected customer group of early adopters already. 
+asr:0: OUTPUT 500.96-509.71: Atelika CI 1900, Atelika Solutions' little sister, is targeted towards mid-sized labs, hub and spoke settings, and the emerging countries. 
+asr:0: OUTPUT 510.55-516.78: It brings the Atelika philosophy of combining quality and throughput to even more customers worldwide. 
+asr:0: OUTPUT 517.64-519.82: Speaking of Atelika... 
+asr:0: OUTPUT 519.84-528.13: In Q1 we were capable to sign a contract for more than 40 Atelika solution analyzers with Ascent in California. 
+asr:0: OUTPUT 528.41-533.65: Making it one of the country's largest single-site atelika solution locations. 
+asr:0: OUTPUT 535.08-544.08: Turning the page over to Precision Therapy Ethos, our AI-driven adaptive radiation therapy system provides data-driven personalized cancer care. 
+asr:0: OUTPUT 544.10-547.53: With maximum impact while minimizing side effects. 
+asr:0: OUTPUT 548.07-552.63: Since launch, we have booked more than 110 orders for Ethos already. 
+asr:0: OUTPUT 552.65-561.40: Around 50 systems are installed with a remarkable number of over 15,000 adaptive sessions since launch. 
+asr:0: OUTPUT 562.14-570.27: And with CorePath, we are on the way to advance endovascular robotics to better and more accessible state-of-the-art stroke treatment. 
+asr:0: OUTPUT 571.49-577.20: All of this is enabled by the glue of digital data and AI. 
+asr:0: OUTPUT 577.50-582.28: Like our AI-RAT companion or variants oncology as a service offering. 
+asr:0: OUTPUT 582.66-583.72: As an example,. 
+asr:0: OUTPUT 584.26-593.81: We advance clinical decision making with a comprehensive AI-powered portfolio with our AI companions providing solutions for anatomies covering 35. 
+asr:0: OUTPUT 593.83-595.92: Percent of imaging procedures. 
+asr:0: OUTPUT 596.72-602.20: By 2025, we aim to increase this number to 85%. 
+asr:0: OUTPUT 604.04-605.87: These breakthrough innovations. 
+asr:0: OUTPUT 605.89-615.82: Our unique capabilities and the focus and scale of our broad products and solutions portfolio allow us to benefit from and to contribute. 
+asr:0: OUTPUT 615.84-621.40: To the three company-wide growth vectors that we presented at our Capital Market Day. 
+asr:0: OUTPUT 622.26-625.00: These growth opportunities include. 
+asr:0: OUTPUT 625.02-633.73: Fighting the most threatening diseases, enabling efficient operations, and expanding access to care. 
+asr:0: OUTPUT 634.85-642.94: Our unique technologies and competencies are tackling exactly these opportunities and we tirelessly strengthen them even further. 
+asr:0: OUTPUT 643.48-648.83: As a result, we will have even more impact on global health care and accelerated growth. 
+asr:0: OUTPUT 649.77-658.84: And while we pursue these three company-wide growth vectors, each segment keeps a razor-sharp focus on its respective targets. 
+asr:0: OUTPUT 658.86-664.16: And contributes to our midterm targets that we presented at our Capital Markets Day. 
+asr:0: OUTPUT 665.25-666.95: As a reminder,. 
+asr:0: OUTPUT 666.97-671.95: We aim to grow our comparable revenue growth by 6 to 8 percent. 
+asr:0: OUTPUT 671.97-680.92: Per year and our adjusted EPS by 12 to 15 percent per year in the years from 23 to 25. 
+asr:0: OUTPUT 682.40-683.84: Quickly turning to Varian. 
+asr:0: OUTPUT 685.07-694.83: I highlighted already before the incredible success of Varian with the rollout of Ethos, taking a lead in the adaptive therapy market. 
+asr:0: OUTPUT 695.26-700.08: However, besides this, Varian also delivered a very remarkable quarter. 
+asr:0: OUTPUT 700.84-710.21: Varian had a very solid start with a very positive revenue growth across all regions with revenues reaching 750 million euros. 
+asr:0: OUTPUT 711.11-721.96: At the same time, Varian has been capable to further expand its strong order backlog with an equipment book to build of 1.23 in the first quarter. 
+asr:0: OUTPUT 723.54-728.77: Documentation of this strong performance are two notable long-term partnerships we signed. 
+asr:0: OUTPUT 728.79-733.69: With the Oulu University Hospital and the US Oncology Network. 
+asr:0: OUTPUT 734.93-745.19: The partnership with Oulu University Hospital in Finland is a 10-year strategic partnership to build a comprehensive digital diagnostic and therapeutic ecosystem. 
+asr:0: OUTPUT 745.21-754.83: That addresses the entire cancer treatment pathway and advances the quality of care for cancer patients in northern Finland. 
+asr:0: OUTPUT 755.82-765.27: Through this partnership, Varian and Siemens Healthineers will provide Oulu University Hospital with a technology and services package. 
+asr:0: OUTPUT 765.29-775.16: That includes both imaging and radiation therapy equipment for cancer treatment, software solutions for improved workflow and physician support,. 
+asr:0: OUTPUT 775.18-781.54: And a range of services from equipment maintenance to staff training and workforce development. 
+asr:0: OUTPUT 782.24-788.03: This is just one of many proof points of combined deals that we have in our pipeline. 
+asr:0: OUTPUT 788.93-791.53: So stay tuned for more combined deals to come. 
+asr:0: OUTPUT 792.23-801.88: At the same time, during the quarter, Varian signed a multi-year agreement with the US Oncology Network, further extending the existing partnership. 
+asr:0: OUTPUT 802.70-808.69: The US Oncology Network is the largest network of community oncologists in the United States. 
+asr:0: OUTPUT 809.57-819.36: The agreement includes software, service and equipment solutions across the US, including service support for over 150 linear accelerators. 
+asr:0: OUTPUT 820.40-825.37: Also in terms of profitability, Varian achieved a strong quarter. 
+asr:0: OUTPUT 826.09-838.38: With an adjusted EBIT of 117 million euros and a margin of 15.7%, Varian is already right in the middle of its margin target range of 15 to 17%. 
+asr:0: OUTPUT 838.70-844.36: And therefore very well on track to deliver on what we have committed. 
+asr:0: OUTPUT 845.23-853.97: So before I hand it over to Jochen for the financials and our updated outlook, let me just say how proud I am on how we as a team. 
+asr:0: OUTPUT 853.99-865.53: Have managed these challenging times and that we consistently work and deliver on our target to pioneer breakthroughs in healthcare for everyone, everywhere. 
+asr:0: OUTPUT 866.67-875.82: And with this, over to you, Jochen. Thank you, Bernd, and also good morning, everyone, also from my side. Glad that you are joining us again. 
+asr:0: OUTPUT 876.74-881.54: Let me take you through our financials of our first quarter in fiscal year 2022. 
+asr:0: OUTPUT 882.58-890.49: As Bernd highlighted before, we see the momentum from fiscal year 2021 to continue in the first quarter of our fiscal year 2021. 
+asr:0: OUTPUT 890.81-895.10: Let me start with giving some color on the dynamics in the equipment orders first. 
+asr:0: OUTPUT 896.46-906.09: We continue to post very good equipment order intake growth in the high single digits, a very healthy dynamic both year over year as well as sequentially. 
+asr:0: OUTPUT 906.53-911.93: Underpinned by the again very good equipment book to build of 1.2 in Q1. 
+asr:0: OUTPUT 913.41-918.14: In revenue, we also continue to see good underlying revenue growth. 
+asr:0: OUTPUT 918.78-926.17: I.e. Excluding rapid antigen revenue of 4.5% growth with growth across the board. 
+asr:0: OUTPUT 926.63-933.79: This is particularly good when you take into account that we grew by around 10% X antigen last year. 
+asr:0: OUTPUT 934.63-941.92: And this again was on the last quarter in fiscal year 20, which was not impacted by the pandemic. 
+asr:0: OUTPUT 942.72-949.13: This is for me a clear testimony not only to the accelerated growth momentum,. 
+asr:0: OUTPUT 949.15-956.96: And at the same time as and as important to our unique resilience in extremely challenging environments. 
+asr:0: OUTPUT 957.62-967.15: In particular, the appearance of the Omicron variant accelerated the momentum of the antigen business in Q1 with 329 million of revenue. 
+asr:0: OUTPUT 967.21-973.87: Primarily in EMEA, which brings us to the overall 9.5% comparable revenue growth. 
+asr:0: OUTPUT 974.43-980.84: Bear in mind that we received the EUA approval for the US market only at the end of December. 
+asr:0: OUTPUT 981.56-986.51: Therefore, we did not see US revenue from the antigen business in Q1. 
+asr:0: OUTPUT 988.05-995.14: I will talk later in my presentation in detail on what we have assumed for the antigen business in the remaining fiscal year. 
+asr:0: OUTPUT 995.98-1004.18: In the geographies, we also see the very good underlying momentum continuing. Also in China, which saw very tough comes in the prior year quarter. 
+asr:0: OUTPUT 1004.72-1013.47: Last year in Q1, we saw significant equipment growth in China due to government-backed preparations for a potential second COVID-19 wave. 
+asr:0: OUTPUT 1014.33-1020.86: In Q1, we also saw tailwind from foreign exchange to insulation of around 3 percentage points. 
+asr:0: OUTPUT 1021.36-1027.05: So revenue in Q1 grew by around 12% if you take out portfolio effects only. 
+asr:0: OUTPUT 1028.63-1036.70: This growth we saw also drop through to the bottom line with 12% growth on our adjusted earnings per share this quarter. 
+asr:0: OUTPUT 1037.74-1040.62: Obviously there were some moving parts in between. 
+asr:0: OUTPUT 1042.58-1050.09: Adjusted EBIT margin came in at 17.6% below the stellar prior year quarter. 
+asr:0: OUTPUT 1050.31-1057.34: Bear in mind that last year's Q1 was exceptionally good since we posted the highest margin of the fiscal year in Q1. 
+asr:0: OUTPUT 1057.36-1063.46: Which is quite unusual, so we see some degree of normalization in the Q1 margin this year. 
+asr:0: OUTPUT 1065.23-1071.81: On top of this, we saw two major headwinds this quarter. Headwinds from foreign exchange on the bottom line. 
+asr:0: OUTPUT 1072.79-1082.26: And currently higher costs from procurement and logistics related to the current situation of global supply change in the COVID-19 pandemic. 
+asr:0: OUTPUT 1083.30-1087.35: On the other side, we saw tailwind from the higher rapid antigen contribution. 
+asr:0: OUTPUT 1088.85-1098.22: I will talk in more detail later in this presentation on the different profit impacts this quarter and what to expect in the course of the remaining fiscal year. 
+asr:0: OUTPUT 1099.80-1104.86: Below the EBIT line we posted minus 30 million euros of financial income. 
+asr:0: OUTPUT 1104.90-1113.19: Which was above our normal run rate for interest expenses due to a negative impact from the variation of smaller equity investments. 
+asr:0: OUTPUT 1113.69-1119.02: We continue to expect the targeted 50 to 70 million expenses. 
+asr:0: OUTPUT 1119.04-1124.94: Financial income net for the full fiscal year unchanged to our guidance from early November. 
+asr:0: OUTPUT 1125.49-1129.79: Tax rate came in at 29 percent, slightly above prior year quarter. 
+asr:0: OUTPUT 1130.95-1132.03: Regarding Keshe,. 
+asr:0: OUTPUT 1132.59-1137.12: We had also a very strong start to fiscal year 2022 in generating free cash flow. 
+asr:0: OUTPUT 1138.00-1142.76: With a strong free cash generation of 556 million euros. 
+asr:0: OUTPUT 1142.78-1151.47: Despite significantly higher bonus payouts and the ongoing challenges in the supply chain with its impacts on inventory levels. 
+asr:0: OUTPUT 1152.37-1157.22: This was largely driven by excellent cash collection. 
+asr:0: OUTPUT 1158.64-1161.58: Now let us have a look at the dynamics in the different segments. 
+asr:0: OUTPUT 1161.72-1170.33: Bear in mind that Varian has no comparable prior year quarter yet and therefore is not included in the comparable growth numbers yet. 
+asr:0: OUTPUT 1170.85-1176.04: We will include variant in our comparable growth from Q3 onwards. 
+asr:0: OUTPUT 1178.28-1186.17: Let us now have a look at our segment performance. As Bernd has already covered Varian, I will comment on the remaining three. 
+asr:0: OUTPUT 1187.89-1191.47: Imaging continues to be strong with 6% revenue growth. 
+asr:0: OUTPUT 1191.49-1194.75: Driven by a very strong growth in molecular imaging. 
+asr:0: OUTPUT 1194.77-1199.74: CT and MRI on the back of very strong prior year growth. 
+asr:0: OUTPUT 1199.76-1206.99: Fueled both by healthy underlying growth in the core business as well as some pandemic-related demand. 
+asr:0: OUTPUT 1207.57-1212.79: On the adjusted EBIT line, imaging showed a good performance of 20% margin. 
+asr:0: OUTPUT 1213.53-1218.82: However, it was 340 base points below prior years record margin. 
+asr:0: OUTPUT 1219.10-1224.02: Partially due to headwinds from foreign exchange and procurement and logistic costs. 
+asr:0: OUTPUT 1225.27-1232.99: Our marketing and sales activities for the new product launches in the first quarter also impacted the margin slightly negatively. 
+asr:0: OUTPUT 1233.63-1241.96: Diagnostics showed excellent growth driven by rapid antigen sales as well as a very solid core business growth. 
+asr:0: OUTPUT 1242.90-1246.89: Given the normalization of the test volume for routine examinations. 
+asr:0: OUTPUT 1247.47-1256.16: Excluding the rapid antigen contribution core business continues with solid growth at more than 3%. 
+asr:0: OUTPUT 1256.82-1264.84: On the margin side, profitability was up by 530 base points year over year from the highly accretive rapid antigen business. 
+asr:0: OUTPUT 1265.51-1270.89: Excluding antigen, the core business sustained solid underlying profitability. 
+asr:0: OUTPUT 1271.43-1276.62: I will give more detail what this means for the diagnostic performance going forward on the next slide. 
+asr:0: OUTPUT 1277.08-1278.54: At the same time,. 
+asr:0: OUTPUT 1278.58-1285.91: We also saw an impact of around 300 base point headwinds from foreign exchange and procurement and logistics costs. 
+asr:0: OUTPUT 1285.93-1290.47: Which were overcompensated obviously by the antigen contribution. 
+asr:0: OUTPUT 1292.29-1303.80: Advanced therapies saw 3% growth this quarter, a decent performance on a strong comparable of 6% in prior year and almost 10% in Q1 of fiscal year 20. 
+asr:0: OUTPUT 1304.54-1311.07: Despite a softer growth quarter, we see advanced therapies well on track for growth this year with a healthy order backlog. 
+asr:0: OUTPUT 1311.73-1316.46: Q1 margin in advanced therapies was down to 14.3% in Q1. 
+asr:0: OUTPUT 1317.10-1324.40: Versus a very strong prior year quarter and in the guided range for this fiscal year. 
+asr:0: OUTPUT 1325.71-1330.51: In this quarter, the margin was negatively impacted by the headwinds from foreign exchange. 
+asr:0: OUTPUT 1330.53-1338.52: And procurement and logistic costs of around 150 bips and also by ongoing investments for Corindus. 
+asr:0: OUTPUT 1340.66-1347.01: In our diagnostic business, we now assume a higher rapid antigen revenue contribution. 
+asr:0: OUTPUT 1347.03-1350.95: Of 700 million euros in fiscal year 2022. 
+asr:0: OUTPUT 1351.61-1355.12: Up from previously communicated 200 million. 
+asr:0: OUTPUT 1356.50-1360.38: Since our fiscal year 2022 outlook announced. 
+asr:0: OUTPUT 1361.10-1367.21: In November, the situation has changed significantly with the Omicron variant wave. 
+asr:0: OUTPUT 1367.41-1374.55: Adding to this, we have received the FDA emergency use authorization approval in the United States. 
+asr:0: OUTPUT 1374.57-1379.18: States both was not factored into our original guidance. 
+asr:0: OUTPUT 1379.84-1389.03: The team worked very hard to get the US approval and meet the additional demand which arose from this opportunity. However,. 
+asr:0: OUTPUT 1389.05-1396.02: The full year visibility on the testing demand is still relatively low and the situation is still very dynamic. 
+asr:0: OUTPUT 1396.74-1404.24: Based on the trends we experienced over the last years, we anticipate strong demand in Q1 and Q2. 
+asr:0: OUTPUT 1404.30-1407.01: And then softening demand during the summer months. 
+asr:0: OUTPUT 1408.27-1409.37: Additionally,. 
+asr:0: OUTPUT 1409.39-1418.90: Pricing has come down substantially for tenders in Germany and considering we are not the only player to receive the US approval for its COVID-19 antigen test. 
+asr:0: OUTPUT 1419.26-1424.10: We should see how pricing and volumes evolve over time in the United States. 
+asr:0: OUTPUT 1425.03-1434.83: So the overall market becomes more and more competitive with more capacity overall. Therefore, we expect revenues to decline sharply in the second half. 
+asr:0: OUTPUT 1436.62-1441.50: Profitability in the segment is largely a result of the development in volume and prices. 
+asr:0: OUTPUT 1441.64-1443.48: We expect profit accretion. 
+asr:0: OUTPUT 1443.50-1452.13: From rapid antigen peaking in the first half to then decline sharply in the second half due to the expected lower demand and price erosion. 
+asr:0: OUTPUT 1452.99-1457.52: Finally, a few comments on the Q1 performance of diagnostics core business. 
+asr:0: OUTPUT 1459.22-1469.09: Excluding rapid antigen margin accretion, we continue to see that the core business is developing according to our plans with a solid underlying profitability. 
+asr:0: OUTPUT 1469.67-1475.44: And this needs to be evaluated taking into account the current global supply chain challenges. 
+asr:0: OUTPUT 1476.24-1482.28: Taking everything into consideration, we can be very happy with the steady improvements in our diagnostic segment. 
+asr:0: OUTPUT 1482.86-1486.45: We continue to be on track with our plans to turn around the business. 
+asr:0: OUTPUT 1488.77-1495.14: Now let us have a closer look at the different profit impact that we expect to be more material in this fiscal year. 
+asr:0: OUTPUT 1495.72-1497.44: You see on the slide. 
+asr:0: OUTPUT 1497.46-1506.43: The four topics that we currently consider material and their year-over-year impact on adjusted EBIT in the first half and the second half of this fiscal year. 
+asr:0: OUTPUT 1507.39-1514.23: And you also see that they all have somewhat different profiles in terms of year-over-year comparison over the course of the year. 
+asr:0: OUTPUT 1515.86-1520.34: Let me start with what we just talked about, our rapid antigen testing. 
+asr:0: OUTPUT 1521.18-1525.47: We expect a very positive accretion in the first half. 
+asr:0: OUTPUT 1525.49-1531.91: Year turning into a very negative year over year impact in the second half due to the slowing demand. 
+asr:0: OUTPUT 1531.93-1537.80: And at the same time comparing against the very strong second half of last fiscal year. 
+asr:0: OUTPUT 1538.76-1546.53: Regarding foreign exchange, as said before, we see a translational tailwind of around 3 percentage points this quarter. 
+asr:0: OUTPUT 1547.33-1552.83: Particular from the strengthening of the US dollar and we expect this to continue throughout the year. 
+asr:0: OUTPUT 1553.41-1566.25: However, since we do hedging on a rolling basis for three to six months forward, the impact to the EBIT line is usually trading the top line impacts by the set three to six months. 
+asr:0: OUTPUT 1567.03-1575.46: Consequently, we expect a negative impact from foreign exchange on the first half bottom line turning. 
+asr:0: OUTPUT 1575.48-1577.90: In second half. 
+asr:0: OUTPUT 1578.00-1583.20: The topic of impacts from incentives followed us during the course of last year. 
+asr:0: OUTPUT 1583.56-1591.09: So let me start that the updated assumption for rapid antigen for this fiscal year is already fully reflected in our books. 
+asr:0: OUTPUT 1591.77-1596.00: Also group incentives related to antigen are kept this year. 
+asr:0: OUTPUT 1596.04-1605.33: So any incentive impacts from antigen will be limited to the diagnostic segment from now on as the new assumption is already beyond the set cap. 
+asr:0: OUTPUT 1607.01-1612.69: For fiscal year 2022 we expect an overall tailwind from incentives skewed towards the second half. 
+asr:0: OUTPUT 1613.21-1623.10: We expect the tailwind in the second half of the fiscal year to be larger, since we booked in last year's Q4 the employee bonus provision of 56 million euros. 
+asr:0: OUTPUT 1623.50-1629.65: The tailwind from incentives in Q1 was largely compensated by higher travel and marketing costs. 
+asr:0: OUTPUT 1630.47-1636.06: And now to the impacts from procurement and logistic costs related to the current situation of global supply chains. 
+asr:0: OUTPUT 1636.88-1640.70: We are aware that this is a big topic currently also in the capital market. 
+asr:0: OUTPUT 1640.74-1647.69: So let me give you three main messages that sum up our current situation and what we expect for the remainder of the year. 
+asr:0: OUTPUT 1649.29-1656.48: First, very important, we did not see material impacts on our revenues from supply chain issues so far. 
+asr:0: OUTPUT 1656.96-1661.58: And we assume that we will not see material impacts going forward. 
+asr:0: OUTPUT 1662.78-1669.71: Obviously, there is uncertainty from the future development of the pandemic and for example from new variants, which we cannot foresee. 
+asr:0: OUTPUT 1670.01-1671.21: Second. 
+asr:0: OUTPUT 1671.71-1682.06: We see the headwinds, mainly in procurement and logistic cost of around 100 base points in margins year over year, skewed towards the first half of the fiscal year. 
+asr:0: OUTPUT 1683.30-1686.35: These headwinds have two main drivers. 
+asr:0: OUTPUT 1687.69-1696.90: One driver is price increases due to shortages, most notable in the electronic components and in certain raw materials like metals. 
+asr:0: OUTPUT 1698.06-1712.01: The other driver is logistic cost, including structural changes, e.g. Switching from sea to air freight and mitigation measures in our manufacturing to secure production. 
+asr:0: OUTPUT 1713.05-1715.02: And this brings me to the third message. 
+asr:0: OUTPUT 1716.28-1721.52: Thanks to our team, we have been managing these challenges extremely well so far. 
+asr:0: OUTPUT 1722.06-1726.43: And we expect to continue to manage the situation well going forward. 
+asr:0: OUTPUT 1727.39-1739.34: Our procurement, manufacturing and R&D teams work closely together on mitigation and new solutions, working together with our suppliers who are closely integrated into our value chain. 
+asr:0: OUTPUT 1740.08-1744.58: Albeit we manage the situation, relatively speaking, very well. 
+asr:0: OUTPUT 1744.86-1752.83: The 100 base points year over year headwind now reflects the intensified global supply chain challenges and of course. 
+asr:0: OUTPUT 1752.85-1756.50: This is also reflected in our updated outlook. 
+asr:0: OUTPUT 1756.66-1760.14: Which brings me directly to the next chart. 
+asr:0: OUTPUT 1762.32-1772.23: We raised the outlook for fiscal year 2022 due to the new assumption of 700 million euros for rapid antigen revenues in fiscal year 2022. 
+asr:0: OUTPUT 1772.93-1779.02: Consequently, we raise the revenue target for diagnostics to low single digit negative growth. 
+asr:0: OUTPUT 1779.64-1786.63: This raises the outlook for the group to 3 to 5 percent comparable revenue growth. 
+asr:0: OUTPUT 1787.35-1790.89: We also raised the outlook for adjusted basic earnings per share. 
+asr:0: OUTPUT 1791.07-1798.56: The range for the adjusted EPS is now between 2.18€ and 2.30€. 
+asr:0: OUTPUT 1799.24-1804.16: This new range obviously includes the different profit impact that we have discussed before. 
+asr:0: OUTPUT 1805.27-1811.47: E.g. The headwinds from procurement and logistic costs, as well as the higher rapid antigen contributions in diagnostics. 
+asr:0: OUTPUT 1812.27-1821.42: This results in a net impact of around 10 cents higher outlook by which we increase the outlook for adjusted earnings per share. 
+asr:0: OUTPUT 1822.04-1831.61: The diagnostic margin in fiscal year 2020-2 is now expected in the low teens, driven by the higher contribution from the rapid antigen business. 
+asr:0: OUTPUT 1831.81-1838.42: And all other targets for the segments and the other items of the previous outlook remain unchanged. 
+asr:0: OUTPUT 1840.54-1845.79: One comment on the margin target for imaging in the range of 22 to 23 percent. 
+asr:0: OUTPUT 1846.41-1855.50: We currently expect the imaging margin to be around the lower end of the range, mainly due to the aforementioned headwinds from procurement and logistic costs. 
+asr:0: OUTPUT 1856.00-1859.78: This reflects an element of caution, since there is uncertainty. 
+asr:0: OUTPUT 1859.96-1867.01: Especially how headwinds and mitigation measures will play out in the second half of the year. 
+asr:0: OUTPUT 1867.69-1872.91: Let me also add a comment on what we expect in Q2, where we have obviously better visibility. 
+asr:0: OUTPUT 1873.45-1879.34: For comparable revenue growth, we expect momentum from Q1 to continue into Q2 for all segments. 
+asr:0: OUTPUT 1880.08-1884.94: On the margin side, we expect imaging margins in Q2 to continue to be. 
+asr:0: OUTPUT 1884.96-1893.95: Somewhat below the 22 to 23 margin range, whereas we expect in the other segments some more pressure from procurement and logistics. 
+asr:0: OUTPUT 1894.05-1900.42: So margins in the other three segments might end up around or slightly lower compared to Q1. 
+asr:0: OUTPUT 1900.84-1907.69: And with this, I close my presentation and hand it over to you, Marc, for Q&A. Thanks, Jochen. 
+asr:0: OUTPUT 1908.31-1917.30: So I will be obviously managing the Q&A, but let me just hand it also briefly to the operator to start the Q&A session. 
+asr:0: OUTPUT 1919.48-1927.19: Thank you, gentlemen. We will start today's question and answer session where we would like to ask you to limit yourself to two questions. 
+asr:0: OUTPUT 1927.45-1934.17: If you wish to ask a question, please press the star key followed by the digit 5 on your telephone keypad. 
+asr:0: OUTPUT 1934.55-1939.96: Again, ladies and gentlemen, please press star 5 on your telephone keypad. 
+asr:0: OUTPUT 1942.22-1949.71: I see you're lining up here. First caller on the line would be Veronica Dubajova from Goldman Sachs. 
+asr:0: OUTPUT 1950.23-1953.07: Veronica, your line should be open. Please ask your questions. 
+asr:0: OUTPUT 1954.89-1958.12: Hi guys, good morning and thank you for taking my questions. I have two, please. 
+asr:0: OUTPUT 1959.00-1965.87: One is on the COVID-19 guidance. I mean, obviously you've already delivered 329 million of sales. 
+asr:0: OUTPUT 1965.89-1973.93: In the first quarter and just looking at the 700, it seems to me like there might be some room for upside, even just thinking about the second quarter. 
+asr:0: OUTPUT 1974.15-1984.82: Maybe, Johan, you can give us a little bit of your thinking on why Q2 shouldn't be at least as good as Q1 and in that context why the 700 might be. 
+asr:0: OUTPUT 1984.84-1986.61: Maybe a bit more cautious. 
+asr:0: OUTPUT 1987.03-1994.73: I know you mentioned pricing, but I'm just curious in terms of demand, if you can give us a little bit of insight into what you're seeing at the moment. That would be my first question. 
+asr:0: OUTPUT 1995.20-2002.40: And then my second question is on the imaging margin, obviously coming in at around 20% in Q1 and assuming Q2 is similar. 
+asr:0: OUTPUT 2002.42-2005.35: That does leave you quite a lot of work in the second half. 
+asr:0: OUTPUT 2005.73-2006.81: To do. 
+asr:0: OUTPUT 2007.33-2018.60: How much visibility do you have on component pricing and transportation costs as you move into the second half of the year? Have you been able to lock in some prices there that help you? 
+asr:0: OUTPUT 2018.66-2024.74: And therefore, how de-risked is that 22% on a full year basis? Thank you. 
+asr:0: OUTPUT 2027.27-2030.51: Hello Veronica, thank you very much for the good questions. 
+asr:0: OUTPUT 2031.83-2034.33: Let me start with antigen first. 
+asr:0: OUTPUT 2034.53-2035.78: I'm going to... 
+asr:0: OUTPUT 2035.80-2043.34: As you know, we were always relatively conservative with assuming. 
+asr:0: OUTPUT 2043.36-2047.41: In our outlook and antigen revenue portion. 
+asr:0: OUTPUT 2048.31-2053.37: And we have good visibility on the 700 million. 
+asr:0: OUTPUT 2053.83-2060.48: And I would also expect to see a relatively similar. 
+asr:0: OUTPUT 2060.50-2064.80: Level of revenue in Q2 as we saw in Q1. 
+asr:0: OUTPUT 2064.99-2074.15: At least, and this leaves then some trailing out antigen revenue for the remaining quarters. 
+asr:0: OUTPUT 2074.77-2076.62: That is our current thinking. 
+asr:0: OUTPUT 2076.64-2085.57: And there are a lot of, I would say, variables still open, yeah, pricing, availability, channel development in the United States. 
+asr:0: OUTPUT 2085.59-2086.65: And other things, yeah. 
+asr:0: OUTPUT 2086.77-2098.06: Which led us to give you, I would say, a very balanced guidance for 700 million, or assumption for 700 million in our outlook. 
+asr:0: OUTPUT 2099.46-2104.20: On the imaging margin, when you asked several questions around this. 
+asr:0: OUTPUT 2105.15-2112.53: Last year you saw quite some, I would say, spread in the margins. 
+asr:0: OUTPUT 2112.63-2119.58: From 18% in Q3 up to I think 20, 23, 24% in Q4. 
+asr:0: OUTPUT 2119.60-2127.37: In the highest quarters and we started now with and ended up on average with 21%. 
+asr:0: OUTPUT 2130.07-2139.00: My result now was 20% with significant headwind from foreign exchange as well as procurement and logistic cost. 
+asr:0: OUTPUT 2139.64-2147.65: We expect those procurement logistic costs to be skewed towards the first half of the fiscal year. 
+asr:0: OUTPUT 2148.41-2154.05: This is our assumption. Visibility is not super great in this regard. 
+asr:0: OUTPUT 2154.87-2156.80: But this is what we currently assume. 
+asr:0: OUTPUT 2158.34-2166.93: And we have a clear plan to get to the lower end of the range, as I highlighted. 
+asr:0: OUTPUT 2168.51-2172.95: But visibility is beside backlog. 
+asr:0: OUTPUT 2173.09-2176.80: Where we have good visibility, strong, I would say. 
+asr:0: OUTPUT 2176.82-2182.22: I would say it's strong security on the top line. 
+asr:0: OUTPUT 2182.24-2187.45: I think we still have some limited visibility on certain cost items. 
+asr:0: OUTPUT 2187.75-2191.73: But I'm still confident that we can reach the lower end of the band. 
+asr:0: OUTPUT 2194.13-2198.86: Thank you so much, Jochen. Thanks, Veronica. 
+asr:0: OUTPUT 2199.64-2208.97: So then I would head over to the next person on the line. This would be Patrick Wood from Bank of America. 
+asr:0: OUTPUT 2209.49-2212.55: Patrick, you should be live now. Please ask your questions. 
+asr:0: OUTPUT 2213.73-2220.80: Thank you very much for taking my questions. I guess the first one predicts to be on the margin side. 
+asr:0: OUTPUT 2221.18-2227.95: I'm just curious as to, you clearly have quite a lot of offset work going on within the business to manage some of those increased costs. 
+asr:0: OUTPUT 2228.43-2235.50: Just curious, what are some of the things that you're actually doing within the business to offset those costs? Some detail there would be great. 
+asr:0: OUTPUT 2235.96-2238.92: The other side may be actually on the demand side of things. 
+asr:0: OUTPUT 2239.00-2240.02: You know, the near term. 
+asr:0: OUTPUT 2240.46-2245.13: It's good to know it's in the early launch phases with early adopters. 
+asr:0: OUTPUT 2245.15-2250.69: That if you ask when should we expect it to become more in a full commercial launch. 
+asr:0: OUTPUT 2251.05-2260.18: Is that really back off this year or when do you feel youíre going to be able to put more of the pedal down and push the product in a more. 
+asr:0: OUTPUT 2260.20-2261.30: Way. 
+asr:0: OUTPUT 2262.86-2265.37: Thank you, Patrick. 
+asr:0: OUTPUT 2266.15-2274.97: Maybe I rephrase the question here, how do we offset the cost, I mean the other thing is also how do we preserve margins here, because margin. 
+asr:0: OUTPUT 2274.99-2278.12: Is the difference of price and cost sense. 
+asr:0: OUTPUT 2279.92-2286.79: And I mean one big topic is of course to very carefully manage pricing. 
+asr:0: OUTPUT 2287.31-2295.03: And also to make sure that we use our pricing power. 
+asr:0: OUTPUT 2295.50-2298.34: And there we have good signals. 
+asr:0: OUTPUT 2298.44-2300.00: Yeah, that... 
+asr:0: OUTPUT 2300.82-2304.84: That we also make good progress on that front. 
+asr:0: OUTPUT 2305.71-2314.87: I mean we see it also in the order book, that pricing quality is good. 
+asr:0: OUTPUT 2315.78-2320.68: So don't only look at the cost side. 
+asr:0: OUTPUT 2321.22-2327.91: And when it comes to the component supply aspects,. 
+asr:0: OUTPUT 2328.53-2337.50: I believe that we are getting into more and more stable waters. 
+asr:0: OUTPUT 2338.60-2346.07: Which will also help to ease the effect from there. 
+asr:0: OUTPUT 2346.27-2350.99: But in the end I mean I think please bear in mind two things on the one hand. 
+asr:0: OUTPUT 2351.01-2360.06: I think we did a great job, also compared to some of our competitors, in safeguarding the top line. 
+asr:0: OUTPUT 2360.20-2364.97: Which is I think the first big topic to achieve. 
+asr:0: OUTPUT 2366.23-2372.83: And secondly, we will manage very carefully the cost implications, but on the other hand,. 
+asr:0: OUTPUT 2373.13-2377.50: There is a big topic when it comes to pricing power. 
+asr:0: OUTPUT 2377.52-2383.58: And also passing some of these effects on, so to say. 
+asr:0: OUTPUT 2384.92-2393.87: And when it comes to the photon counting, I mean this year is the year of a rollout to selected customers. 
+asr:0: OUTPUT 2394.01-2402.04: There we will, so that the, I mean an early commercial rollout I would say,. 
+asr:0: OUTPUT 2402.72-2407.93: The full commercial effect you will see in the next fiscal year. 
+asr:0: OUTPUT 2408.87-2418.90: But what we see so far in terms of interest, in terms of also real demand. 
+asr:0: OUTPUT 2418.94-2422.96: But also in terms of price realization is. 
+asr:0: OUTPUT 2422.98-2424.52: Very, very encouraging. 
+asr:0: OUTPUT 2425.89-2429.57: And maybe Patrick one other aspect on that margin topic. 
+asr:0: OUTPUT 2429.63-2437.14: We have made a deliberate decision to have a clear prioritization to be able to deliver our products. 
+asr:0: OUTPUT 2437.34-2438.48: To our customers. 
+asr:0: OUTPUT 2439.52-2444.00: Currently, this doesn't come for free. We need to be clear about this. 
+asr:0: OUTPUT 2444.30-2451.83: This is a deliberate decision and that's also why we currently do not see any material impact on the top line. 
+asr:0: OUTPUT 2452.99-2457.04: Not because of the strength of our team but also based on the decision we made. 
+asr:0: OUTPUT 2458.12-2459.32: And... 
+asr:0: OUTPUT 2459.52-2468.27: I think we feel so far, in relative terms speaking, comfortable with that decision. 
+asr:0: OUTPUT 2468.49-2473.55: And we will obviously observe it very, very carefully. 
+asr:0: OUTPUT 2473.85-2482.30: If things would get out of control in this regard, we might need to do things differently, but we don't expect this to happen. 
+asr:0: OUTPUT 2484.32-2487.73: Thanks for taking the questions. 
+asr:0: OUTPUT 2488.59-2497.32: So next one on the line would be Lisa Clive from Bernstein. Lisa, line should be open. Please ask your questions. 
+asr:0: OUTPUT 2499.34-2504.30: I have two questions on the IBD business. First, on your US antigen revenues,. 
+asr:0: OUTPUT 2505.15-2512.25: Are you selling to specific government programs or are you going to pharmacies, more of a direct-to-consumer approach? 
+asr:0: OUTPUT 2512.27-2516.44: Just curious as to the channels and whether you may expand that over time. 
+asr:0: OUTPUT 2516.94-2526.57: And then second question just on the IVD business X antigen. Nice to hear that there's some decent revenue growth and margin improvement there. 
+asr:0: OUTPUT 2527.19-2531.15: If we think about the underlying demand for sort of routine tasks. 
+asr:0: OUTPUT 2531.85-2539.12: How close are we to getting back to normal volumes? Are we at sort of 85% or is it more or less than that? Thanks. 
+asr:0: OUTPUT 2541.46-2543.96: Yeah, let me go first here. 
+asr:0: OUTPUT 2545.57-2549.19: I mean the primary. 
+asr:0: OUTPUT 2549.23-2557.04: Customer group when it comes to antigen testing or rapid tests in the United States is let's say large customers. 
+asr:0: OUTPUT 2557.44-2559.86: And we are not. 
+asr:0: OUTPUT 2559.88-2570.17: We don't have the channels and not the ambition yet to go into a scattered retail space. 
+asr:0: OUTPUT 2570.47-2574.05: So number one is of course the big government programs. 
+asr:0: OUTPUT 2574.37-2579.18: This is also what our strength is and has been in Europe. 
+asr:0: OUTPUT 2579.30-2594.55: Where the claim to fame for Siemens Healthineers as a super agile company was to make sure to deliver big quantities of super reliable tests with high confidence and certainty. 
+asr:0: OUTPUT 2595.20-2601.86: So in terms of millions of tests which need to be delivered at once and this is also. 
+asr:0: OUTPUT 2601.88-2607.59: One aspect we are now living up to in the US when it comes to the government program. 
+asr:0: OUTPUT 2608.63-2614.29: We are also looking at larger retail chains. 
+asr:0: OUTPUT 2614.61-2619.64: And we'll see how that market develops. 
+asr:0: OUTPUT 2619.90-2625.15: But that is currently baked into our forecast of the 700 million. 
+asr:0: OUTPUT 2626.59-2632.77: When it comes to the core business, I mean, yes, it had a diagnostics. 
+asr:0: OUTPUT 2634.03-2642.46: I'm very happy with the start we had here. It shows a nice continuation of the trend. 
+asr:0: OUTPUT 2642.48-2646.61: Of a step by step approach. 
+asr:0: OUTPUT 2646.75-2653.19: Improvement towards the targets we have set for this business. 
+asr:0: OUTPUT 2655.98-2663.08: When it comes to how close this business is to the, let's say, pre-pandemic levels. 
+asr:0: OUTPUT 2663.50-2670.57: I think it's pretty, it can give you a clear number. 
+asr:0: OUTPUT 2670.87-2676.28: I mean, but it is more in the 90 to 100% normal. 
+asr:0: OUTPUT 2676.80-2682.02: But what you still see and which is when you double click on it is. 
+asr:0: OUTPUT 2683.28-2687.99: That when it comes to the testing menu, there might be some shifts. 
+asr:0: OUTPUT 2688.37-2692.29: Compared to what normally has been done, compared to two years ago. 
+asr:0: OUTPUT 2692.77-2696.10: There were maybe two years ago more wellness tests and now. 
+asr:0: OUTPUT 2696.12-2702.62: There are still more secondary COVID related tests here which are baked in. 
+asr:0: OUTPUT 2702.64-2706.77: Because of some COVID related comorbidities also. 
+asr:0: OUTPUT 2707.35-2708.83: But overall... 
+asr:0: OUTPUT 2708.85-2718.00: We are largely back to a normal situation in that business. 
+asr:0: OUTPUT 2722.56-2724.68: Okay. 
+asr:0: OUTPUT 2725.17-2732.87: The next one on the line should be James from Jefferies. James, your line should be open, so please ask your questions. 
+asr:0: OUTPUT 2735.26-2738.96: Thanks very much. It's James Lane Tempest from Jefferies. Two questions, please. 
+asr:0: OUTPUT 2739.48-2744.36: So just on procurement and logistics, you mentioned you don't have a lot of visibility. 
+asr:0: OUTPUT 2744.38-2752.31: I'm just curious, what's changed in the past three months when you first gave guidance? Where were the additional pressures which weren't initially anticipated? 
+asr:0: OUTPUT 2752.83-2757.84: And without that visibility how do you have confidence we won't see additional pressures in the second part of the year? 
+asr:0: OUTPUT 2758.76-2765.99: And then my second question is just on Varenne, actually. I think you said it's going to be included in comparable sales growth from Q3 this year. 
+asr:0: OUTPUT 2766.89-2771.91: I think we just look back a bit, I think in Q3 before, I think you said it was around 17%. 
+asr:0: OUTPUT 2772.39-2777.78: Can't remember the Q4 number off the top of my head, but from April, I think you sort of slow teams to expect. 
+asr:0: OUTPUT 2778.24-2785.59: So just wondering if you can give us a flavor what that was in Q1 so we can see the trajectory for that. Thank you. 
+asr:0: OUTPUT 2788.09-2790.49: Thanks for the question James. 
+asr:0: OUTPUT 2790.51-2796.00: What has changed since the initial assumption was. 
+asr:0: OUTPUT 2796.02-2804.22: That I think we saw, I would say, the shortages and the necessity to buy. 
+asr:0: OUTPUT 2804.24-2808.45: At spot rate, a certain component has increased. 
+asr:0: OUTPUT 2808.61-2811.81: Relative to where we stand at early November. 
+asr:0: OUTPUT 2814.31-2823.78: Secondly, as I said beforehand, we deliberately made the decision to prioritize the ability to be able to deliver to our customers. 
+asr:0: OUTPUT 2824.12-2831.33: And by this we had to do because of the difficulties, because it's not only price of components. 
+asr:0: OUTPUT 2831.95-2833.25: When you have shortages. 
+asr:0: OUTPUT 2833.29-2837.60: You also need to be super agile and flexible in your internal processes. 
+asr:0: OUTPUT 2837.62-2850.27: Which sometimes also leads to certain disruptions in the internal processes which might also lead to later ability to manufacture things. 
+asr:0: OUTPUT 2850.39-2860.22: And therefore you also have certain logistic challenges following up, and that's also why I said structural changes from sea to air freight and things like this. 
+asr:0: OUTPUT 2860.42-2864.72: I would say the tension just increased across the board. 
+asr:0: OUTPUT 2865.25-2879.14: But as Bernd said, what we currently see is that we see a stabilization of some, in particular on the supply side of components, which gives us, I would say, some confidence. 
+asr:0: OUTPUT 2879.30-2886.39: In being able even to manage that even better than we have already managed it today. 
+asr:0: OUTPUT 2886.69-2890.11: And there's also, when also the... 
+asr:0: OUTPUT 2890.13-2900.44: With the learning curve we currently walk through, we are being under this pressure in the organization is helping to optimize our internal processes according to the challenging environments. 
+asr:0: OUTPUT 2901.22-2905.02: On the variant side on a pro forma basis. 
+asr:0: OUTPUT 2905.05-2911.47: The growth rate on revenue in Q1 was in the low teens again. 
+asr:0: OUTPUT 2911.75-2913.65: So a super strong start. 
+asr:0: OUTPUT 2913.67-2918.72: Fully in line with what we have guided for for Varian for the full fiscal year. 
+asr:0: OUTPUT 2921.74-2930.69: That's great, thank you. 
+asr:0: OUTPUT 2933.57-2937.32: Hello, good morning, Don. Good morning, Jaron. Thanks for taking my questions. I have two. 
+asr:0: OUTPUT 2937.84-2941.18: The first one, and sorry if you mentioned that in your prepared remarks. 
+asr:0: OUTPUT 2941.20-2948.07: But the line was a bit patchy, but it relates to the diagnostics margin excluding the COVID contribution. 
+asr:0: OUTPUT 2948.75-2951.97: I think you have a guidance for fiscal year 2022. 
+asr:0: OUTPUT 2951.99-2959.64: Which is to reach a mid-single-digit to high-single-digit margin for the underlying diagnostic business. 
+asr:0: OUTPUT 2960.10-2967.67: So just curious whether the Q1 margin was in line with that guidance or maybe marginally above. 
+asr:0: OUTPUT 2967.69-2971.45: And any help in understanding profitability of the COVID tests. 
+asr:0: OUTPUT 2971.69-2973.95: In Q1 would also be helpful. 
+asr:0: OUTPUT 2974.21-2977.04: I think you had previously indicated that the pricing had been. 
+asr:0: OUTPUT 2977.06-2984.60: Maybe have been in some instances, so just willing to understand what the profitability of the underlying business and the COVID test, if possible. 
+asr:0: OUTPUT 2985.17-2989.53: The second question relates, sorry for that again, to the logistics and procurement costs. 
+asr:0: OUTPUT 2990.09-2995.76: It's more looking at the midterm guidance that you had indicated at your capital market day back in November. 
+asr:0: OUTPUT 2996.98-3000.24: You have said that you expect an improvement on that side in H2. 
+asr:0: OUTPUT 3000.60-3011.81: So you would say that there is nothing structural there that could prevent you from reaching your midterm guidance, both in imaging and diagnostics for the next few years? 
+asr:0: OUTPUT 3014.37-3018.66: Thanks for the questions. As you rightfully said, our... 
+asr:0: OUTPUT 3018.68-3028.61: Guidance for the diagnostic business or core business for this fiscal year is on the profitability side, mid-single digit to higher single digit. 
+asr:0: OUTPUT 3029.11-3032.45: And we were at the lower end of this range. 
+asr:0: OUTPUT 3032.77-3034.89: In the range, what are the lower end. 
+asr:0: OUTPUT 3034.95-3038.72: Also due to the fact that we had significant, as we highlighted,. 
+asr:0: OUTPUT 3038.76-3045.49: Significant headwind from foreign exchange as well as the procurement and logistic costs. 
+asr:0: OUTPUT 3045.79-3049.63: In diagnostics, it's primarily the logistic cost count. 
+asr:0: OUTPUT 3052.03-3059.58: And we feel well on track to stay in that line and see progress as we proceed through the year. 
+asr:0: OUTPUT 3062.20-3072.07: On the procurement and logistic front, I do not see this as a critical item for our midterm target. 
+asr:0: OUTPUT 3072.47-3076.14: We consider this a temporary problem. 
+asr:0: OUTPUT 3077.22-3085.75: Which should be dealt with over time. And as Bernd already said beforehand, we have also mitigation measures. 
+asr:0: OUTPUT 3085.85-3092.41: When you extend this topic not only to COVID-19 but also to the inflation topic. 
+asr:0: OUTPUT 3092.45-3103.06: That we can also, I would say, in a very meaningful way, address it by significant price discipline. 
+asr:0: OUTPUT 3103.76-3106.79: And we have initiated the measures and we will see... 
+asr:0: OUTPUT 3106.97-3121.10: We expect to see also benefits from this kicking in according to when the orders come in and turn into revenue more in the later end of this fiscal year. 
+asr:0: OUTPUT 3121.16-3122.70: In the next year. 
+asr:0: OUTPUT 3127.01-3128.37: Okay, thanks for now. 
+asr:0: OUTPUT 3129.59-3138.84: Then I would pass it over now to Hassan from Barclays. Hassan, your line should be open. 
+asr:0: OUTPUT 3145.37-3146.39: I can't hear you. 
+asr:0: OUTPUT 3158.12-3165.79: Just a second. I don't know if we have any technical issues here. Maybe just a second. Hassan, I hope we get you into the line. 
+asr:0: OUTPUT 3167.61-3170.99: In a second or two. 
+asr:0: OUTPUT 3172.53-3176.14: Please record your name after the tone and press the pound key. 
+asr:0: OUTPUT 3182.28-3184.62: The conference is in presentation mode. 
+asr:0: OUTPUT 3185.95-3195.36: Okay, so we try it again. Are you live now, Hasan? Give us... Yes, I can hear you now, Mark. Thank you. 
+asr:0: OUTPUT 3196.08-3202.36: Brilliant. I have two questions please. So firstly, just to follow up on the comments on the top line. 
+asr:0: OUTPUT 3203.04-3207.21: Your competitors have clearly seen headwinds and have talked about deferred installations. 
+asr:0: OUTPUT 3207.99-3214.53: Is this something that you're seeing at all or is this getting worse in fiscal Q2? 
+asr:0: OUTPUT 3214.91-3221.06: And then second, could you elaborate on your comments on pricing burned and whether you have any meaningful ability to offset? 
+asr:0: OUTPUT 3221.08-3227.05: Cost increases and pass them on to customers or are you seeing overall level of pricing deflation? 
+asr:0: OUTPUT 3228.77-3234.17: Thank you, Hasan. I mean, first of all, and here I... 
+asr:0: OUTPUT 3234.59-3239.82: Coming back to Jochen's point, we made a decision. 
+asr:0: OUTPUT 3240.00-3247.73: To deliver, but on the other hand we have the ability to deliver, which is I think something which sets us apart. 
+asr:0: OUTPUT 3248.81-3254.19: Because here really this organization does a wonderful job. 
+asr:0: OUTPUT 3254.23-3259.84: In extremely quickly reacting to new. 
+asr:0: OUTPUT 3259.86-3265.31: I mean, it's similar to also what we do in the antigen tests and so on. 
+asr:0: OUTPUT 3266.31-3276.14: It is very, very encouraging and I'm very proud how the organization is dealing with the topics. 
+asr:0: OUTPUT 3276.52-3277.54: When it comes to. 
+asr:0: OUTPUT 3277.64-3286.79: I mean your question is more about, I understand it as outbound logistics, the question of is our customers ready to take the orders and so on. 
+asr:0: OUTPUT 3287.09-3291.37: So here we are very flexibly reacting. 
+asr:0: OUTPUT 3292.71-3297.80: And prioritize then one customer over the other. 
+asr:0: OUTPUT 3299.02-3311.63: We see, we are confident when it comes to the visibility we have in turning the order book into revenue, also in the short term that this challenge is not increasing. 
+asr:0: OUTPUT 3312.05-3315.02: So, and you can trust us here. 
+asr:0: OUTPUT 3315.03-3319.40: The way we were able to handle it in Q1. 
+asr:0: OUTPUT 3319.42-3326.23: Will continue and here we really stand out in the market and to some extent our ability to deliver. 
+asr:0: OUTPUT 3326.71-3333.25: Helps us to even gain share. 
+asr:0: OUTPUT 3333.53-3342.76: Because some of the delivery times. 
+asr:0: OUTPUT 3342.78-3347.73: Of competitors are just not what the market accepts. 
+asr:0: OUTPUT 3349.03-3353.77: And that brings me also to the other topic when it comes to pricing. 
+asr:0: OUTPUT 3354.35-3356.64: It is, it is, uh... 
+asr:0: OUTPUT 3356.68-3369.59: Of course, some of the pricing which we have is set by the point of the order intake. 
+asr:0: OUTPUT 3369.81-3383.16: And as you know in our business, typically on the imaging side, the time between order and revenue or between book and bill is in the range of six to nine months. 
+asr:0: OUTPUT 3383.82-3389.33: So that means that pricing measures which we have initiated. 
+asr:0: OUTPUT 3390.97-3398.44: And which we see in the order book here, will also materialize towards the second half of the year. 
+asr:0: OUTPUT 3399.80-3411.67: And we see actually a good acceptance of this both internally, so to say, in the sales force, but also when it comes to customers. 
+asr:0: OUTPUT 3412.39-3418.96: So, and as a last point, please also bear in mind here. 
+asr:0: OUTPUT 3419.06-3427.37: About 50% or more, 55% of our revenue is recurring revenue. 
+asr:0: OUTPUT 3428.75-3435.76: And especially when it comes to the service aspects, we have also. 
+asr:0: OUTPUT 3435.78-3440.76: Price adjustment clauses and so on and are also protected. 
+asr:0: OUTPUT 3441.18-3446.95: When it comes to inflationary tendencies. 
+asr:0: OUTPUT 3450.53-3454.81: Thank you so much. Thanks, Hasan. Sorry for the technical problems. 
+asr:0: OUTPUT 3456.32-3462.34: So now we hand over to Daniel Randolph, you're the second but last one on the queue. 
+asr:0: OUTPUT 3462.90-3466.91: Daniel, your line should be open. Please ask your questions. 
+asr:0: OUTPUT 3468.47-3473.09: Yes, good morning everyone. I hope you can hear me well. Thanks for taking my questions. 
+asr:0: OUTPUT 3473.75-3478.36: I have a question, the first question on the Varian top line development. 
+asr:0: OUTPUT 3479.62-3483.82: Maybe you can tell us a bit how. 
+asr:0: OUTPUT 3483.84-3497.40: The combination now with Varian part of Siemens Health has helped to that, if at all. Maybe give a few examples what really drove the revenue line, if it was helped at all. 
+asr:0: OUTPUT 3497.42-3500.00: By being part of the team itself. 
+asr:0: OUTPUT 3500.40-3506.91: I have a question on the Atelika low to mid throughput solution, the CI1900. 
+asr:0: OUTPUT 3507.97-3514.81: What is the key marketing message you would give customers here on this front, given that the. 
+asr:0: OUTPUT 3514.83-3518.62: The end market is slightly different, competition is slightly different. 
+asr:0: OUTPUT 3518.70-3525.81: What is really the key thing standing out for the Italica solution in the mid to low to mid-range. 
+asr:0: OUTPUT 3525.85-3527.51: Segment. Thank you. 
+asr:0: OUTPUT 3528.13-3537.86: So thank you, Daniel. I mean, looking at Varian, there is on the one hand, when it comes to the revenue development. 
+asr:0: OUTPUT 3538.06-3544.18: A very very strong recovery of the business. 
+asr:0: OUTPUT 3544.60-3547.73: Coming from the pandemic. 
+asr:0: OUTPUT 3547.85-3560.70: And which on the one hand is triggered by a very, very strong competitive situation of variant SA. 
+asr:0: OUTPUT 3560.72-3563.28: Quote-unquote standalone business. 
+asr:0: OUTPUT 3564.28-3567.57: But in addition, and that's what we see on the order book. 
+asr:0: OUTPUT 3568.47-3572.81: We see many deals. 
+asr:0: OUTPUT 3572.97-3580.70: Some of them have already been booked here, like the one example I gave on Oulu in Finland. 
+asr:0: OUTPUT 3580.86-3583.62: But many are in what we call the funnel. 
+asr:0: OUTPUT 3583.68-3587.71: Which is the project the Science Force is working on. 
+asr:0: OUTPUT 3587.73-3600.96: Where there is a super encouraging and momentum across the entire. 
+asr:0: OUTPUT 3600.98-3602.00: Globe. 
+asr:0: OUTPUT 3602.12-3606.81: In the sales teams to team up and to work jointly on opportunities. 
+asr:0: OUTPUT 3607.15-3614.21: And that goes in both directions. This can be specialty oncology customers who know. 
+asr:0: OUTPUT 3614.23-3619.86: Who are strongly tied to variant. 
+asr:0: OUTPUT 3619.94-3630.07: Who now want to go into the, also expand the relationship to imaging and. 
+asr:0: OUTPUT 3630.13-3632.31: And it can be. 
+asr:0: OUTPUT 3632.33-3646.53: Using the strength we have in C-level relationships as Siemens Healthineers classic, if you wish to pull in the Varian team and to use this additional effect. 
+asr:0: OUTPUT 3646.59-3652.71: It is using our strength as Siemens Healthineers classic again. 
+asr:0: OUTPUT 3652.95-3657.76: In parts of the world where Varian hasn't been as strong. 
+asr:0: OUTPUT 3658.28-3663.64: In terms of sales presence, sometimes not even having a direct sales force. 
+asr:0: OUTPUT 3664.90-3671.75: So here we are extremely positive about the internal momentum and it also shows in the numbers. 
+asr:0: OUTPUT 3672.19-3674.43: And looking at the order book we see. 
+asr:0: OUTPUT 3675.08-3682.58: I mean it's not only a very strong start on the revenue side in Varian with the 750. 
+asr:0: OUTPUT 3682.86-3688.39: But you need to look at the book to bill of 1.23. 
+asr:0: OUTPUT 3688.47-3693.07: That the orders have been even 23% more than that. 
+asr:0: OUTPUT 3693.39-3694.45: So here. 
+asr:0: OUTPUT 3694.47-3704.90: A clearly very very strong start and I'm very very bullish when it comes to this. 
+asr:0: OUTPUT 3706.13-3715.40: The second question was, what is the positioning of the product? 
+asr:0: OUTPUT 3717.18-3725.25: It expands the philosophy of atelika solution, which is highest throughput. 
+asr:0: OUTPUT 3725.33-3727.67: Highest quality. 
+asr:0: OUTPUT 3728.59-3729.77: I. 
+asr:0: OUTPUT 3729.79-3743.16: So highest quality test in high throughput, so the unique mix we bring as Siemens Healthineers as an engineering company in the lab. 
+asr:0: OUTPUT 3743.50-3746.19: To new customer groups. 
+asr:0: OUTPUT 3746.63-3753.81: And these are on the one hand the mid-sized labs in the developed countries. 
+asr:0: OUTPUT 3753.83-3755.36: Thank you. 
+asr:0: OUTPUT 3755.40-3768.45: Very importantly hub and spoke deployments, that means hospital networks who use the quote-unquote big atelika-atelika solution in the hub. 
+asr:0: OUTPUT 3768.47-3775.36: And the small atelica in the associated spoke. 
+asr:0: OUTPUT 3775.38-3783.28: Places which brings them on the one hand so-called result concordance, the same test results. 
+asr:0: OUTPUT 3783.62-3787.33: But also allows them to purchase the same reagents and so on. 
+asr:0: OUTPUT 3787.61-3790.19: So this is a big requirement in the market. 
+asr:0: OUTPUT 3791.53-3801.12: And the third topic is it is an ideal system for labs in the emerging countries. 
+asr:0: OUTPUT 3803.80-3806.05: Thank you. 
+asr:0: OUTPUT 3806.17-3814.67: So now we go over to the last one for today, that should be last but not least, Falco Friedrichs from Deutsche Bank. 
+asr:0: OUTPUT 3815.42-3817.66: Fargo York should be live now. 
+asr:0: OUTPUT 3820.44-3825.49: Thank you and good morning. I have two questions. Well, please, firstly on your new imaging launches. 
+asr:0: OUTPUT 3827.01-3831.75: How would you describe the replacement behavior of your customers in light of these launches? 
+asr:0: OUTPUT 3832.69-3837.68: So is it that the replacement cycles might actually be shortened a bit now because. 
+asr:0: OUTPUT 3837.70-3843.88: Do customers really want to get their hands on this new technology or is that not really the case? 
+asr:0: OUTPUT 3844.46-3849.83: And then secondly, on advanced therapies, can you just provide a bit more color on the underlying trends you see? 
+asr:0: OUTPUT 3850.39-3855.08: And at the moment with regard to the recovery from the pandemic and potential customer wins. 
+asr:0: OUTPUT 3855.58-3860.78: And also, was there anything specific that stood out in the quarter that caused this very strong performance in the Americans? 
+asr:0: OUTPUT 3863.92-3867.65: Thank you, Faiko, on the imaging launches. 
+asr:0: OUTPUT 3868.73-3871.95: I think they come in two different buckets. 
+asr:0: OUTPUT 3872.15-3881.12: On the one hand, when it comes to what we do with the Magnetome Free Max and also Free Star, which is the smaller version of it,. 
+asr:0: OUTPUT 3881.58-3886.17: This is about creating new markets for MRI. 
+asr:0: OUTPUT 3887.29-3892.65: And it's bringing MR to places where it couldn't go before. 
+asr:0: OUTPUT 3892.75-3900.64: So from that point of view, it is independent of replacement cycles, to answer your question. 
+asr:0: OUTPUT 3901.04-3906.49: Because it so to say comes on top of the normal course of business. 
+asr:0: OUTPUT 3907.63-3915.92: And we are very happy with what we are seeing, that the products exactly do that. 
+asr:0: OUTPUT 3916.18-3922.32: Bringing MR to the outpatient clinic which so far only had CT. 
+asr:0: OUTPUT 3922.86-3927.97: Or bringing MR to places in emerging countries which didn't do it. 
+asr:0: OUTPUT 3928.01-3934.47: Or bringing MR to clinical specialties outside radiology. 
+asr:0: OUTPUT 3934.73-3941.38: So irrespective of replacement cycle, this is typically installations where there is no MRI before. 
+asr:0: OUTPUT 3942.66-3944.44: On the photon counting CT. 
+asr:0: OUTPUT 3946.39-3960.50: This is, I mean I commented before that this is in the early phase of launch where we have. 
+asr:0: OUTPUT 3960.52-3967.33: Where we have a lot of excited and exciting customers. 
+asr:0: OUTPUT 3969.31-3978.04: Who are coming either from the academic medical centers or very prestigious private institutions. 
+asr:0: OUTPUT 3978.54-3980.20: Here. 
+asr:0: OUTPUT 3980.34-3985.97: The topic of shortening a replacement cycle can definitely happen. 
+asr:0: OUTPUT 3986.09-3991.45: Because one of the reasons to buy the product is. 
+asr:0: OUTPUT 3991.47-3997.08: To stay at the forefront of medical research. 
+asr:0: OUTPUT 3997.30-4001.26: This is more the academic medical center type of thinking. 
+asr:0: OUTPUT 4001.58-4010.41: Or to be a quality leader in terms of what type of diagnosis you can offer as a private imaging center. 
+asr:0: OUTPUT 4011.29-4017.14: So, and when your business model is to be competitive,. 
+asr:0: OUTPUT 4017.16-4024.72: And an early adopter because you are an innovator as a healthcare provider, it shortens the replacement cycle. 
+asr:0: OUTPUT 4026.01-4034.73: And the good thing is that this effect of shortening the replacement cycle will over time migrate into broader segments of the market. 
+asr:0: OUTPUT 4034.91-4047.53: Yeah, because I sometimes use this little bit maybe trivial analogy of comparing photon-counting CT to flat panel TV or to HDTV. 
+asr:0: OUTPUT 4048.09-4062.76: When a technology like this is available, people make the decision to go to the next level product earlier than when the next generation offers just little improvements. 
+asr:0: OUTPUT 4066.49-4072.73: Maybe answering your question on the Americas, you just highlighted that the ATF is a strong quarter in the Americas. 
+asr:0: OUTPUT 4072.75-4078.06: I think that is also, as you know, this is not a book and bill business, so it was nothing. 
+asr:0: OUTPUT 4078.08-4081.50: Which happened at the end of the day in the quarter from an. 
+asr:0: OUTPUT 4081.52-4083.00: Market success. 
+asr:0: OUTPUT 4083.12-4092.41: This is the success we had over the last years with the strong order intake also on the AT side which then materialized in the quarter as revenue. 
+asr:0: OUTPUT 4093.35-4100.62: And by the way, it was across the board of America. This was not US only, but also on a much lower scale. 
+asr:0: OUTPUT 4100.64-4106.31: Scale, very good revenue growth in Latin America on the AT side. 
+asr:0: OUTPUT 4107.01-4115.34: So I think nothing what you can really point out to particular in the quarter but it was a particular driver of the revenue line in the quarter. 
+asr:0: OUTPUT 4120.00-4125.71: Thank you. 
+asr:0: OUTPUT 4125.77-4131.67: Thanks for your participation, for your continued interest in Siemens Healthineers and your questions in today's call. 
+asr:0: OUTPUT 4132.43-4139.30: We look forward to seeing some of you on our roadshow in the next days or at the London conferences early March. 
+asr:0: OUTPUT 4139.78-4144.12: Or at the Barclays Conference in Florida in person maybe. 
+asr:0: OUTPUT 4144.98-4148.25: Till then, stay healthy. Your Anthony Esteem. 
+asr:0: OUTPUT 4150.75-4152.89: That will conclude today's conference call. 
+asr:0: OUTPUT 4153.17-4162.74: Thank you for your participation ladies and gentlemen a recording of this conference call will be available on the investor relations section of the semens health in years website. 
+asr:0: OUTPUT 4163.46-4169.95: The website address is corporate.siemens-healthineers.com slash investor-related. 
+asr:0: OUTPUT 4220.00-4223.66: Please record your name after the tone and press the pound key. 
+asr:0: OUTPUT 4229.71-4233.67: The conference is in presentation mode. The conference will begin. 
+asr:0: OUTPUT 4237.80-4241.00: The conference is in presentation mode. The conference will. 
+asr:0: OUTPUT 4244.97-4247.61: And years dot com slash investor dash. 
+asr:0: OUTPUT 4256.48-4259.36: Be available on the investor relations section of. 
+asr:0: OUTPUT 4260.76-4262.88: Stay healthy, your Healthiness Team. 
+asr:0: OUTPUT 4265.45-4267.59: That will conclude today's conference call. 
+asr:0: OUTPUT 4267.85-4277.60: Thank you for your participation, ladies and gentlemen. A recording of this conference call will be available on the investor relations section of the Siemens Healthineers website. 
+asr:0: OUTPUT 4278.16-4280.00: The website address is. 
+asr:0: OUTPUT 4280.54-4284.16: Dot semen's dash healthineers dot com slash investor. 
+asr:0: END

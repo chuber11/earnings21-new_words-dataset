@@ -1,0 +1,855 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.14-10.31: Good morning and welcome to CaixaBank's financial results presentation for the fourth quarter of 2021. I hope you and your loved ones are well. 
+asr:0: OUTPUT 11.07-17.26: For today's presentation, we are joined by our CEO, Mr. Gonzalo Gótez and the CFO, Javier Pano. 
+asr:0: OUTPUT 18.42-25.09: Please note that reported figures are affected by M&A impacts and do not include Q1 2021 of Bankia. 
+asr:0: OUTPUT 26.25-30.23: However, to facilitate comparisons, we have also provided pro forma figures. 
+asr:0: OUTPUT 31.39-40.68: Moving on, just a reminder that we aim to spend around 30 minutes for the presentation and 45 to 60 minutes available for Q&A after that. 
+asr:0: OUTPUT 41.54-45.31: To participate in which you should have received instructions via email. 
+asr:0: OUTPUT 46.41-55.88: Let me just end by saying that my team and I are available to take any calls after this presentation. And without further ado, let me hand it over to our CEO, Mr. Gortas. 
+asr:0: OUTPUT 57.98-63.52: Well, good morning. Thank you, Eddie, and thank you everybody for joining us today. 
+asr:0: OUTPUT 63.74-69.97: Get directly into the highlights of the quarter and the year. 
+asr:0: OUTPUT 70.55-77.66: It's a quarter where we conclude a year of integration, which has been obviously our main duty during 2021. 
+asr:0: OUTPUT 78.60-85.13: But it's also a quarter where we find some very positive data, I have to say, in terms of our business. 
+asr:0: OUTPUT 85.63-98.52: First of all, core revenues, core revenues, the whole year has been a year of contrast between NII, significant pressure associated to lower rates and very strong performance and fees and insurance revenue. 
+asr:0: OUTPUT 98.88-103.26: And the quarter has been extremely you see that 14% peak up quarter on quarter. 
+asr:0: OUTPUT 103.28-104.34: On our fee level. 
+asr:0: OUTPUT 104.86-108.91: The fourth quarter being always a positive quarter from a seasonal point of view. 
+asr:0: OUTPUT 108.93-116.42: But certainly not to the extent that we have seen this year. So, very satisfied with that performance. 
+asr:0: OUTPUT 117.90-120.98: Our year has also been... 
+asr:0: OUTPUT 121.00-128.73: A year of success in all what has to do with one of our key business of long-term savings with insurance, mutual pension funds. 
+asr:0: OUTPUT 129.75-135.36: Year on year we have an increase in 12.7% on comparable figures, obviously. 
+asr:0: OUTPUT 135.38-140.76: Excluding the impact of Bankia, we include the impact, it will be much, much higher. 
+asr:0: OUTPUT 141.86-149.31: And in the fourth quarter we've seen our lending bulk in consumer and business growing, 1.8% quarter on quarter. 
+asr:0: OUTPUT 149.93-153.65: The training mortgages continues downward, elevated, but. 
+asr:0: OUTPUT 153.67-155.68: We've seen an inflection. 
+asr:0: OUTPUT 155.70-158.72: In consumer and business language which is quite. 
+asr:0: OUTPUT 158.74-167.11: Notable, particularly in consumer business lending, I would have expected it also for seasonal reasons. Consumer was quite positive, I have to say. 
+asr:0: OUTPUT 167.41-173.39: Cost of risk very low. We have been improving our guidance on cost of risk during the year. 
+asr:0: OUTPUT 173.51-178.52: And actually we haven't used the 1.4 Covid reserve during the second half. 
+asr:0: OUTPUT 178.92-182.40: So over 25 basis points of cost of risk for this year. 
+asr:0: OUTPUT 182.42-186.09: Is quite notable. Our NPL stays at the same level but. 
+asr:0: OUTPUT 186.11-195.54: The total amount of non-performing loss actually came down, the race is at 3.6 because obviously we've seen the leverage in these years so that's stable. 
+asr:0: OUTPUT 196.06-202.18: Capital has been also a positive factor throughout the year and also in this fourth quarter. 
+asr:0: OUTPUT 202.72-211.43: We end the year with this 12.8% on a fully loaded basis, 13.2% if we include the IFRS 9 transitional adjustment. 
+asr:0: OUTPUT 211.97-221.68: Almost 500 basis points of MDA buffer and all this is allowing us to return to what we think is a generous capital return policy. 
+asr:0: OUTPUT 222.24-228.13: We have fixed the payout for 2022 at a range of 50 to 60 percent. 
+asr:0: OUTPUT 228.95-238.54: We have proposed the exact dividend of 14 cents and 63 for 2021, which will be decided by the general meeting. 
+asr:0: OUTPUT 238.96-243.40: In April and we have also announced our intention to implement a Share-by-Bank program. 
+asr:0: OUTPUT 244.48-249.03: We are at the beginning of the process and we expect to complete the details of this program. 
+asr:0: OUTPUT 249.05-252.05: When we present our three-year plan. 
+asr:0: OUTPUT 252.17-256.54: During the second quarter. All in all, adjusted net income. 
+asr:0: OUTPUT 256.78-265.79: Is close to 2.4 billion, obviously a much higher figure than last year, particularly because of the reduction of provisions. 
+asr:0: OUTPUT 266.63-276.60: The merger is ongoing, obviously we have after the fourth quarter completed the majority of the various significant steps that we have to. 
+asr:0: OUTPUT 276.62-280.00: To take, and I will highlight three, one,. 
+asr:0: OUTPUT 280.68-283.90: Is the three. 
+asr:0: OUTPUT 283.92-291.19: The IT integration, you've seen the details already. It went very well. 
+asr:0: OUTPUT 291.79-300.06: The departure of people are taking place according to schedule. By the end of this quarter we will have had. 
+asr:0: OUTPUT 301.22-307.03: 70% of the people that are going to leave will be gone. 
+asr:0: OUTPUT 307.05-316.22: Already now the figure is 60%, so we're fairly well advanced in the program and can confirm we'll continue to expect to deliver on the cost savings that we have. 
+asr:0: OUTPUT 317.52-322.04: And now some integration of branches, we've done almost half of the program. 
+asr:0: OUTPUT 322.06-328.95: Before the year end and during this quarter and next quarter we expect it to be mostly done. 
+asr:0: OUTPUT 330.23-335.40: So still work to do, but a lot that we have left behind at this stage. 
+asr:0: OUTPUT 335.42-345.55: News of the quarter, including the news that we announced yesterday with respect to the agreement we reached with Mutua Madrileña to extend. 
+asr:0: OUTPUT 345.57-351.73: The joint venture on non-life to distribute through the banking branches. 
+asr:0: OUTPUT 352.33-358.54: Where we have agreed to receive a loan of 650 million euros. 
+asr:0: OUTPUT 359.02-364.16: But also we agreed at the end of the year. 
+asr:0: OUTPUT 364.18-369.09: On the terms with which we will be acquiring Banca de Havida. 
+asr:0: OUTPUT 369.11-376.06: The life insurance company where Maffei used to own 51%, which is already 100% owned. 
+asr:0: OUTPUT 376.08-377.22: Bye-yas! 
+asr:0: OUTPUT 377.96-384.66: So, a very active quarter and very significant steps these states complete. 
+asr:0: OUTPUT 385.89-387.45: Keep very large market shares. 
+asr:0: OUTPUT 387.63-393.13: You know those details around 25% and closer to 30%. 
+asr:0: OUTPUT 393.15-399.92: When we look at the business of long-term savings and basically leadership positions in almost every sector. 
+asr:0: OUTPUT 399.94-403.00: Business that has to do with financial services. 
+asr:0: OUTPUT 403.70-409.47: I wanted to say a few words on BPI because it's now five years since we took control of BPI. 
+asr:0: OUTPUT 409.99-419.78: And we haven't spoken that much about BPA in the last year, we've been focused on integration, but BPA has had yet another extraordinary year and when you look at the five year history. 
+asr:0: OUTPUT 420.28-429.23: I think the figures speak for themselves in terms of the loan and client funds development with these 4.5 to 5.4 compounded annual growth rate. 
+asr:0: OUTPUT 429.63-438.82: Very significant increase in market share, approximately 2 points of market share gains in 5 years, which is quite notable. 
+asr:0: OUTPUT 439.16-446.45: And you see the impact it's having in core revenues, core operating income, and most notable, core cost-income ratios. 
+asr:0: OUTPUT 447.45-452.55: From the 65% area to the 54% of 2021. 
+asr:0: OUTPUT 452.61-460.34: Continued and progressive decreases are fantastic job that is being done by our people at BPI obviously. 
+asr:0: OUTPUT 460.36-464.68: With very positive indicators of asset quality and capital. 
+asr:0: OUTPUT 465.93-469.15: I have to say we are very confident in what we are doing here. 
+asr:0: OUTPUT 469.49-478.64: I think it also shows in the long term what integration in a group can deliver for a large financial services company like BPI. 
+asr:0: OUTPUT 479.10-489.59: And when we look at the integration of Bankia, although we're not going to be able to track the members in a separate basis as we're doing with Portugal for obvious reasons because we have. 
+asr:0: OUTPUT 489.61-491.55: Consolidated case of anger. 
+asr:0: OUTPUT 491.89-501.46: I think we have to be confident that the combined force of the group is going to deliver a very sound, a very promising story. But my congratulations are not to be taken lightly. 
+asr:0: OUTPUT 501.48-502.64: To BPI. 
+asr:0: OUTPUT 503.78-511.93: On the economy. We feel fairly positive, expecting 5.5% GDP growth for 2023. 
+asr:0: OUTPUT 512.31-518.68: We're actually seeing the consumption being very resilient even during this wave of Omicron. 
+asr:0: OUTPUT 518.80-527.95: January figures of domestic credit debit card spending, ATM withdrawals at 6%, very much in line with what we have seen. 
+asr:0: OUTPUT 527.99-529.89: In the previous months. 
+asr:0: OUTPUT 530.75-540.46: So actual resilience here and obviously there is a different interest rate outlook now which is very familiar to you in this context. 
+asr:0: OUTPUT 540.76-548.27: We are looking to the future with confidence. We are stepping up commercial initiatives as we progressively leave integration work behind. 
+asr:0: OUTPUT 548.51-551.73: You've seen or may have seen some campaign. 
+asr:0: OUTPUT 551.75-560.02: On the home ecosystem called MyHome which we are conducting currently and it's going to stay for the whole year and I have. 
+asr:0: OUTPUT 560.06-568.09: The expectation that it will help us obviously in terms of new business particularly in the mortgage side. 
+asr:0: OUTPUT 568.11-577.64: Sort of lending and other products associated to the home ecosystem. We're going to continue pushing our long-term savings strategy, which is doing extremely well, as you know. 
+asr:0: OUTPUT 577.66-580.42: MyBox product, you'll see a few figures in... 
+asr:0: OUTPUT 580.44-584.90: In the next pages focus on business, payments and consumer. 
+asr:0: OUTPUT 585.35-592.31: And obviously it's the year where we want to start delivering on revenue synergies with Bankiano. 
+asr:0: OUTPUT 592.79-600.00: You still have the figures there of different penetration of health insurance, 721, life risk insurance, 221. 
+asr:0: OUTPUT 600.16-603.62: And the difference in long-term savings between 24% and 18%. 
+asr:0: OUTPUT 603.84-609.63: And there's more than that, but those are probably the figures that are more easily understood. 
+asr:0: OUTPUT 610.95-616.74: I said the fourth quarter is positive in consumer and business lending. You have new lending production here. 
+asr:0: OUTPUT 616.84-621.72: Consumer evolution is quite remarkable. 
+asr:0: OUTPUT 621.74-627.29: Growth quarter on quarter and obviously also if you look at last year, 11% higher. 
+asr:0: OUTPUT 627.47-633.87: This is a different trend than what we have seen, obviously, with the aspect of water. We need to see how this develops. 
+asr:0: OUTPUT 634.09-642.98: But given the macro environment, I would be hopeful that this is something that can be sustained in the future. Maybe it will be somewhat unbalanced, but it can be sustained. 
+asr:0: OUTPUT 643.00-644.06: And business lending. 
+asr:0: OUTPUT 644.08-655.42: It's been a very positive quarter here. There is again a bit more of seasonal impact in every single year, but we've done actually very well. 
+asr:0: OUTPUT 655.88-662.82: Just to remind you that we integrated the business side, CIB and business, very early in the process. 
+asr:0: OUTPUT 663.64-669.85: They've been now working completely as one single entity since the summer. 
+asr:0: OUTPUT 670.03-675.36: And I think we're seeing some of that already in the results in the fourth quarter, obviously. 
+asr:0: OUTPUT 675.40-681.66: Going forward, we have NGEU, which hopefully would also provide some tailwinds. 
+asr:0: OUTPUT 682.62-690.87: Monetary savings, the total star, inflows double the level of last year. Market share increasing again. 
+asr:0: OUTPUT 691.29-696.02: It's quite remarkable to see our market share increase when we have been so busy integrating the businesses. 
+asr:0: OUTPUT 697.18-704.44: And hopefully it's an indication of what we can deliver as we go forward and we leave the integration behind. 
+asr:0: OUTPUT 704.50-712.05: And obviously very significant pickup in revenues. We're up to $620 billion in terms of customer funds. 
+asr:0: OUTPUT 712.15-720.36: And as I said that's 10.5% organic but if we look at the long term services 12.7% organic. 
+asr:0: OUTPUT 720.44-722.28: Obviously markets have helped this year. 
+asr:0: OUTPUT 723.18-728.91: But you see with over 9 billion of net inflows, we've been very active on this front. 
+asr:0: OUTPUT 729.43-732.37: My box working very well. 
+asr:0: OUTPUT 732.79-741.32: You see PCAP and PNIA 76% if it's a life risk and 95% if you look at non-life. 
+asr:0: OUTPUT 741.66-747.93: It's a product that has a lot of traction within our commercial network and with our clients. 
+asr:0: OUTPUT 748.81-753.63: So expect continued success from this study. 
+asr:0: OUTPUT 753.95-760.02: Look at the P&L, big numbers obviously, contrast between NII down 5.8% and. 
+asr:0: OUTPUT 760.40-766.25: Non-interest income which is up by higher percentages but obviously. 
+asr:0: OUTPUT 766.49-772.23: As the base effect given that these are still lower numbers. 
+asr:0: OUTPUT 772.27-777.74: Is that core revenues are slightly down, 1% as you can see. 
+asr:0: OUTPUT 777.98-785.97: Again, good trends, certainly in the fourth quarter, I would say, very remarkable. 
+asr:0: OUTPUT 786.71-796.36: The other piece of news in the P&L, sort of big picture, cost under control in line with our guidance and the significant reduction of. 
+asr:0: OUTPUT 796.38-797.68: Loan loan charges. 
+asr:0: OUTPUT 798.68-803.80: I think here we have two effects. One is we've been very prudent in the past in terms of provision building. 
+asr:0: OUTPUT 804.48-814.37: The actual management of the NPL during 2021, the inflows, the monitoring of flaccid quality has been spectacular. 
+asr:0: OUTPUT 814.53-815.76: It's been an area of focus. 
+asr:0: OUTPUT 816.76-830.83: And we continue to see actually the lowest numbers ever on the range of 1 to 90 days default, which is usually not considered yet as a non-performing long water still seen. 
+asr:0: OUTPUT 830.85-834.25: Of the lowest numbers that we have seen in history. 
+asr:0: OUTPUT 834.27-837.60: Including now, actually in January, which tends to be a bad month. 
+asr:0: OUTPUT 837.64-841.90: So, very strong performance on that front. 
+asr:0: OUTPUT 842.62-849.83: Obviously, you know, this year has been including a lot of extraordinary one-offs. We've tried to separate those. 
+asr:0: OUTPUT 849.85-853.53: So that we have a clean netting from the performance tool. 
+asr:0: OUTPUT 853.55-859.08: 2.4 billion and then the real net income as reported is 5.2. 
+asr:0: OUTPUT 859.10-864.60: Mainly up by the bar will and reduced by the restructuring charges. 
+asr:0: OUTPUT 865.77-871.97: To conclude, very strong balance sheet, non-performing losses as I said. 
+asr:0: OUTPUT 871.99-882.94: Stable in terms of ratio down in terms of absolute numbers, coverage is high, cost of risk is low, capital is high and increasing. We have done completely. 
+asr:0: OUTPUT 883.02-891.59: With MRAIL we have a significant headroom and liquidity numbers speak for themselves. So with all this in mind,. 
+asr:0: OUTPUT 891.61-897.34: We've fixed the demand to be proposed to the general meeting. 
+asr:0: OUTPUT 897.36-902.16: With a 50% payout as. 
+asr:0: OUTPUT 902.18-905.71: We communicated to the market as 14 cents, 63. 
+asr:0: OUTPUT 906.05-908.03: We propose a range of 50 to 60. 
+asr:0: OUTPUT 908.57-917.06: And we are also, as I said, starting the process of our Share by Bank program. 
+asr:0: OUTPUT 917.26-925.97: We have announced today the intention, which was approved yesterday by the board, to bring our core equity tier one closer to the target level. 
+asr:0: OUTPUT 926.77-932.09: And this is obviously going to be subject to the approval of the ECB ones. 
+asr:0: OUTPUT 932.11-939.46: Were done and we have the details of all these we will announce those to the market most likely again. 
+asr:0: OUTPUT 939.48-942.12: During our capital markets day in the second quarter. 
+asr:0: OUTPUT 942.86-946.65: And thank you very much. With that, I will leave the floor to Javier. 
+asr:0: OUTPUT 949.19-955.34: Okay, thank you and good morning. Well, I will start. 
+asr:0: OUTPUT 955.42-963.98: Making some brief comments on the balance sheet initially, on the loan book, the ALCO and also on our customer plans. 
+asr:0: OUTPUT 964.58-970.75: On the learnbook, well, better dynamics as commented in terms of reproduction and consumer learning. 
+asr:0: OUTPUT 971.01-979.18: And corporates and SMEs. This has resulted into an increase of our loan book in those segments. Still the leveraging. 
+asr:0: OUTPUT 979.20-981.02: Or mortgages on that front. 
+asr:0: OUTPUT 981.50-988.53: I would say that looking into 2022, I would say aiming to reduce the gap between the market share. 
+asr:0: OUTPUT 988.55-991.65: Of the front book and the back book. 
+asr:0: OUTPUT 992.13-1001.82: Also note that we have had some maturities in the public sector portfolio. Short-term lending originated during last year. 
+asr:0: OUTPUT 1002.72-1010.67: Finally, on this front, just to fully confirm that we have met the metrics for the TLTO-RAW benchmark. 
+asr:0: OUTPUT 1011.81-1014.19: Moving to the ALCO, we have increased the size. 
+asr:0: OUTPUT 1015.08-1017.60: This quarter, last quarter in. 
+asr:0: OUTPUT 1017.94-1019.76: In October, we took advantage of. 
+asr:0: OUTPUT 1019.82-1025.03: For spiking yields to purchase some medium-term securities. 
+asr:0: OUTPUT 1025.05-1031.69: As a consequence, you may see that the metrics average life and duration are not very high. 
+asr:0: OUTPUT 1032.15-1042.10: Slightly, but the maturity profile and the breakdown of the sovereign exposure, I would say that remains broadly unchanged. 
+asr:0: OUTPUT 1042.52-1052.09: On wholesale funding, no news. 85 basis points over a six-month arrival is what we are paying for our wholesale funding course. Remember that is swapped into flow. 
+asr:0: OUTPUT 1053.77-1062.60: And on customer funds I would rather focus on the central chart. It's already known but I think it's remarkable in terms of long-term savings. 
+asr:0: OUTPUT 1063.20-1072.31: Very positive market impacts, also inflows, 9 billion in the year, every single quarter with positive inflows, 2 billion in the fourth quarter. 
+asr:0: OUTPUT 1073.91-1077.62: In terms of deposit, charging to approximately 37 billion. 
+asr:0: OUTPUT 1078.38-1082.62: And we think that we still have some room to expand. 
+asr:0: OUTPUT 1082.74-1089.39: Figure, although this is clearly a measure that prevents further deposit growth. 
+asr:0: OUTPUT 1090.17-1098.20: On the right hand side, the most remarkable in my view is that the fact that the end of period AUM balances. 
+asr:0: OUTPUT 1098.38-1100.68: Approximately. 
+asr:0: OUTPUT 1100.70-1106.45: Up by 5% compared to the average of 2021. 
+asr:0: OUTPUT 1106.47-1112.65: Obviously offers some support to a few revenues on this business into 2020. 
+asr:0: OUTPUT 1113.57-1120.80: And with this, let's move to the P&L. I would make some remarks on the quarter on quarter evolution. 
+asr:0: OUTPUT 1122.74-1128.71: What has been commented, a very good performance in fees and insurance that has allowed us to have. 
+asr:0: OUTPUT 1128.73-1134.53: Positive quarter on quarter core revenue evolution up by 2.8%. 
+asr:0: OUTPUT 1135.64-1140.78: On NII pressure still affected by lower asset yields and average volumes. 
+asr:0: OUTPUT 1141.48-1150.41: On fees very good performance, I would call it seasonal, not extraordinary, we had positive impact from success fees and also. 
+asr:0: OUTPUT 1150.43-1154.69: On non-life we had a very strong fourth quarter. 
+asr:0: OUTPUT 1155.16-1162.28: On life insurance progressing as I would say in line with our initial expectations. 
+asr:0: OUTPUT 1162.72-1168.29: And it has been a record high quarter actually in terms of revenues on this business. 
+asr:0: OUTPUT 1168.97-1178.52: On costs, we are down by 1.9% as we have already having the benefits of the cost savings from the restructuring plans. 
+asr:0: OUTPUT 1179.16-1184.44: And on provisions in general, we have taken a pro-NGRN approach. 
+asr:0: OUTPUT 1184.70-1190.47: And we have added some extra provisions, some other provisions. 
+asr:0: OUTPUT 1190.95-1198.16: And in terms of loan loss charges, at the end of the day, we end the year with this cost of risk at 25 basis points. 
+asr:0: OUTPUT 1198.18-1201.18: Below our initial guidance. 
+asr:0: OUTPUT 1202.10-1210.91: On M&A impacts, well you know that this is already ending, but it is for quarter we still have some impacts. 
+asr:0: OUTPUT 1211.09-1217.84: On the positive side mostly related to this proposal of the former payment business of Bankia to Comercia. 
+asr:0: OUTPUT 1218.38-1223.84: And on the negative side some restructuring related to the branch network. 
+asr:0: OUTPUT 1223.98-1229.41: So the net impact of those M&A one-offs is 88 million. 
+asr:0: OUTPUT 1229.95-1234.87: Excluding those, the fourth quarter pro forma net income has been $340,000. 
+asr:0: OUTPUT 1234.91-1236.98: 37 million euros. 
+asr:0: OUTPUT 1238.90-1248.47: Now BPI, well the long-term trends have already been commented by the CEO, but here looking into 2021 you see that this is continuing. 
+asr:0: OUTPUT 1248.87-1250.99: Revenues up by 8%. 
+asr:0: OUTPUT 1251.37-1260.88: Costs very well contained at just over 1% as a consequence the operating leverage keeps improving with co-operating income up by more than 19%. 
+asr:0: OUTPUT 1260.90-1267.71: Long growth across all segments with NPLs very well contained with an NPL ratio of 2.3. 
+asr:0: OUTPUT 1267.73-1271.97: And with the bulk of the moratoria already behind us. 
+asr:0: OUTPUT 1272.85-1278.14: With this, the actual world profit in Portugal this year, €170 million. 
+asr:0: OUTPUT 1279.22-1285.91: Going into the detail, NII down 1.9% quarter on quarter. 
+asr:0: OUTPUT 1286.73-1291.57: You see in the central chart, it's still everything related to clients. 
+asr:0: OUTPUT 1291.87-1293.09: Is driving it downwards. 
+asr:0: OUTPUT 1293.31-1295.44: Impacted by lower average loan yields. 
+asr:0: OUTPUT 1296.72-1300.32: And also lower loam volumes. 
+asr:0: OUTPUT 1300.74-1309.47: But this time the ALCO is starting to provide some support after the increase of the size of the portfolio, as you may see. 
+asr:0: OUTPUT 1309.89-1319.46: And on the right hand side you see the evolution of our back book yield that is down by two basis points to 161. 
+asr:0: OUTPUT 1319.48-1323.20: Suffering the latest lacks of rival replacings. 
+asr:0: OUTPUT 1323.58-1327.43: And on the front book I would say you should not read too much into it this quarter. 
+asr:0: OUTPUT 1327.85-1336.88: As approximately 50% of the from book has been, is coming from CIV, obviously, at lower, lower yields. 
+asr:0: OUTPUT 1338.94-1346.73: On fees, very good performance, 6.7% up for the year, 14% this quarter. 
+asr:0: OUTPUT 1347.31-1354.07: Even excluding the more volatile wholesale banking fees up by more than 8% for the year. 
+asr:0: OUTPUT 1355.24-1359.74: You may see the breakdown. We are doing well across, I would say, all segments. 
+asr:0: OUTPUT 1360.68-1361.98: On recurring banking fees. 
+asr:0: OUTPUT 1362.32-1365.17: With the support from corporate deposit charges. 
+asr:0: OUTPUT 1366.01-1374.69: On asset management, success fees have contributed this quarter. As I say, I don't call them extraordinary, I call them seasonal. 
+asr:0: OUTPUT 1375.26-1377.24: So obviously we'll do our best to repeat it. 
+asr:0: OUTPUT 1377.88-1386.57: And on insurance distribution, strong focus during the quarter from the commercial point of view. Also some revenue recognition during this fourth quarter. 
+asr:0: OUTPUT 1387.07-1393.15: So all in all, a very set of results on that part of the business. 
+asr:0: OUTPUT 1393.61-1397.76: And we think that it's a trend that in our view may continue. 
+asr:0: OUTPUT 1399.02-1402.04: On life risk on this front on the side. 
+asr:0: OUTPUT 1402.40-1409.67: Chart what I was commenting initially, record high in terms of life risk revenue, 172 million. 
+asr:0: OUTPUT 1410.39-1415.74: You may see that this is a clear uptrend and you may see that there is some volatility. 
+asr:0: OUTPUT 1417.44-1424.06: Data set during the year, but anyhow, a clear uptrend that in our view is set to continue. 
+asr:0: OUTPUT 1424.22-1432.51: And on the right you have the breakdown of the different impacts of the consolidation of Banqueavida. 
+asr:0: OUTPUT 1433.47-1435.52: In the first column. 
+asr:0: OUTPUT 1435.60-1443.64: What you may see is the P&L breakdown as it was in 2021 with 49% ownership of Bankia Vida. 
+asr:0: OUTPUT 1444.50-1450.13: This results into a pre-tax income of 109 million. 
+asr:0: OUTPUT 1450.77-1455.86: And on the second column, for reflection purposes, you can see the situation. 
+asr:0: OUTPUT 1455.88-1461.16: That we have had if we had owned 100% of Bankia bidder. 
+asr:0: OUTPUT 1461.62-1467.23: Resulting into an extra pre-tax income and obviously a different PLL breakdown. 
+asr:0: OUTPUT 1468.55-1477.28: We wanted to disclose this information because I think it may help you in order to project into 2022 and beyond. 
+asr:0: OUTPUT 1479.30-1488.25: Costs, not much news here. As I said, we have reduced costs by close to 2%. 
+asr:0: OUTPUT 1488.65-1493.11: This quarter with the tailwind of the restructuring. 
+asr:0: OUTPUT 1493.19-1498.74: Implemented that is affecting personnel costs. 
+asr:0: OUTPUT 1499.00-1501.36: Already 60% of. 
+asr:0: OUTPUT 1501.38-1509.63: Of the staff involved in the layoff has already left the bank, close to 4,000 people out of 6,500. 
+asr:0: OUTPUT 1510.61-1516.62: We are planning to reach 80% of cumulative cost synergies by 2022. 
+asr:0: OUTPUT 1517.26-1524.94: And you may see some increase in depreciation as we continue with a strong CAPEX program mainly related to IT. 
+asr:0: OUTPUT 1526.99-1536.10: Finally, on the P&L, cost of risk, slightly higher end of the year loan or charges, but this cost of risk at 25 basis points. 
+asr:0: OUTPUT 1536.24-1539.44: As commented, you may see the breakdown of the load bulk by stages. 
+asr:0: OUTPUT 1540.30-1549.71: On stage 2 a reduction of approximately 3 billion which is related to lower overall. 
+asr:0: OUTPUT 1549.79-1553.49: That is no longer needed mainly for the moral to be heard. 
+asr:0: OUTPUT 1553.79-1556.26: That is possible. 
+asr:0: OUTPUT 1558.78-1564.02: Moving to the balance sheet on our MPLS board. 
+asr:0: OUTPUT 1564.22-1565.63: You may see that. 
+asr:0: OUTPUT 1566.15-1575.44: The NPR ratio is pretty much stable at 3.6%, well below our initial guidance. The breakdown across the different segments, no major news as you may see. 
+asr:0: OUTPUT 1576.26-1581.84: In actual numbers, 3.6 billion of NPLs, 400 million less. 
+asr:0: OUTPUT 1582.64-1586.91: And we have been active in the market with some MPL disposals. 
+asr:0: OUTPUT 1587.51-1595.82: And we are happy to see that our marks are correct as we can dispose with any major P&L impacts as also commented. 
+asr:0: OUTPUT 1595.96-1599.62: We keep our 1.4 billion COVID reserve unused. 
+asr:0: OUTPUT 1600.26-1607.15: And in terms of credit quality on our moratoria portfolio or ex-moratoria portfolio. 
+asr:0: OUTPUT 1607.97-1615.00: I would say that no major changes, so this is clearly doing better than our very initial expectations. 
+asr:0: OUTPUT 1615.50-1620.28: And on ECOS we have 38% of those already paying principal. 
+asr:0: OUTPUT 1621.10-1627.39: Major milestones here being May, June when the major part of them will start paying principal. 
+asr:0: OUTPUT 1628.95-1635.22: So the solar ratio is pretty much stable at 63% by the end of the year. 
+asr:0: OUTPUT 1639.82-1648.49: You have here all the metrics, I would only remark the net stable funding ratio at 154% which is quite a remarkable figure. 
+asr:0: OUTPUT 1649.03-1652.33: On M-Rail we have an ample buffer. 
+asr:0: OUTPUT 1652.45-1661.78: Our ratio stands by the end of the year at 26.2% with an MMDA over 400 basis points. 
+asr:0: OUTPUT 1662.52-1668.47: We have been very active during the year in terms of funding across, as you may see, all asset classes. 
+asr:0: OUTPUT 1669.03-1676.20: And going forward the plan is to focus on the roll over of maturities and also. 
+asr:0: OUTPUT 1676.22-1680.36: On diversifying the investor base also. 
+asr:0: OUTPUT 1680.38-1682.84: Is shrinking into foreign currencies. 
+asr:0: OUTPUT 1684.80-1690.01: Well, you know well about our engagement with EHE principles. 
+asr:0: OUTPUT 1690.47-1699.30: And this is now being reflected in strong sustainability ratings you have here or very detailed inventory. 
+asr:0: OUTPUT 1699.36-1703.44: Good qualifications in all those. 
+asr:0: OUTPUT 1703.82-1708.47: And the commitment of the management team to keep those improving. 
+asr:0: OUTPUT 1708.75-1712.77: But obviously this is facilitating ESG instances. 
+asr:0: OUTPUT 1713.39-1719.62: And as you may see, we are the number one bank by ESG issuance for the second consecutive year. 
+asr:0: OUTPUT 1720.38-1724.70: And this is obviously to our plan going forward. 
+asr:0: OUTPUT 1725.77-1735.64: And finally capital, we have further reinforced our solvency. This quarter no major capital impacts from M&A. 
+asr:0: OUTPUT 1736.24-1743.22: Organic capital generation of 25 basis points, dividend and 81 minus 10. 
+asr:0: OUTPUT 1743.74-1749.63: This results into a CT1 extensional IFRS 9 of 12.8%. 
+asr:0: OUTPUT 1750.41-1757.22: And when adding IFRS 9 transitional 13, 17% and this is an NDA. 
+asr:0: OUTPUT 1760.26-1769.45: And the tangible value per share has improved by 6% during the year, adding 22% to the total. 
+asr:0: OUTPUT 1772.55-1778.54: That is going to be proposed to the general meeting of 1463. 
+asr:0: OUTPUT 1780.00-1783.86: This meeting probably in the month of April. 
+asr:0: OUTPUT 1784.56-1790.85: And that's it. I think that with this we are done and we might be ready for questions. Thank you very much. 
+asr:0: OUTPUT 1792.41-1797.84: Okay, thank you Javier and thank you Gonzalo. As Javier said, it's now time to proceed to Q&A. 
+asr:0: OUTPUT 1798.44-1806.15: So operator, please proceed with the first question, including the name and company of the caller. We have a rather long queue. 
+asr:0: OUTPUT 1806.21-1811.49: So just a reminder to everyone to keep your questions as brief as possible. Thank you. 
+asr:0: OUTPUT 1812.69-1818.74: Thank you. As a reminder, to ask a question, you will need to press star 1 on your telephone. 
+asr:0: OUTPUT 1819.70-1825.55: And the first question comes from the line of Max Meehan from JB Capital. Please go ahead. 
+asr:0: OUTPUT 1827.57-1835.06: Hi, good morning. Thank you for the presentation and for allowing us to make questions. I have three, if I may. The first one is on. 
+asr:0: OUTPUT 1836.10-1839.72: I was just wondering if you could add more color and what the internal targets for. 
+asr:0: OUTPUT 1839.98-1846.43: You've previously been guiding for 11 to 11 and a half percent range and I was wondering whether it has changed after the murder. 
+asr:0: OUTPUT 1847.27-1856.60: The second is on NII. Now that you've rebuilt some ALCO and there are promising signs in loan book growth, do you still expect first quarter of 2022 to be the bottom of the NII? 
+asr:0: OUTPUT 1857.04-1859.18: Or perhaps the dynamics are somewhat better. 
+asr:0: OUTPUT 1860.00-1866.63: And then the last one is a clarification on Segurkaya Adashles. Thank you for the details on the expansion of the agreement with Bankia. 
+asr:0: OUTPUT 1867.01-1872.91: But we also heard from the press that Mutuha has reached an agreement with Elkhart English and I was wondering... 
+asr:0: OUTPUT 1873.53-1877.76: Whether this will have any effect whatsoever on your piano. Thank you very much. 
+asr:0: OUTPUT 1880.16-1885.81: Thank you very much Max. I will start with Capito. 
+asr:0: OUTPUT 1887.15-1894.49: We have not changed our target for core equity tier 1, XI, first line, it is 11 to 11.5. 
+asr:0: OUTPUT 1895.10-1903.70: So, our intention is to bring down the 12.8 towards our range. 
+asr:0: OUTPUT 1903.74-1906.73: We haven't the system fixed exactly at which. 
+asr:0: OUTPUT 1906.75-1913.83: Point where we'll take it is the beginning of the process, but clearly there is very significant headroom here. 
+asr:0: OUTPUT 1914.45-1920.98: And I would also like to briefly mention that the agreement between MUTU and El Corte Inglés, obviously,. 
+asr:0: OUTPUT 1921.08-1925.29: I only know the public information around it. 
+asr:0: OUTPUT 1925.69-1928.11: Is a good agreement for both parties. 
+asr:0: OUTPUT 1928.63-1941.24: And for Segucaisha Deslas it's going to mean that they will be able to increase its sales on the health side because all the health business of Montua Group is run by Segucaisha Deslas. 
+asr:0: OUTPUT 1941.54-1942.62: That should be positive. 
+asr:0: OUTPUT 1943.12-1948.69: But I cannot quantify it, I think, in the sort of broader picture for Kai Shaman. 
+asr:0: OUTPUT 1948.71-1953.89: Is not going to have a material impact but if any, that should be positive for other. 
+asr:0: OUTPUT 1954.53-1956.76: With respect to NII, Javier, you may want to address that one. 
+asr:0: OUTPUT 1958.36-1964.76: Okay, Max, thank you. Yes, let me elaborate. I think that probably answers plenty of questions. 
+asr:0: OUTPUT 1965.87-1974.37: Well, now it looks increasingly likely that the TOTO raw funding benefit is ending by June. 
+asr:0: OUTPUT 1974.39-1978.64: Didn't give clear signs that this would be rolled over. 
+asr:0: OUTPUT 1978.98-1980.16: On the or hand. 
+asr:0: OUTPUT 1980.22-1981.38: Is true that they. 
+asr:0: OUTPUT 1981.40-1992.61: Suggested that potentially the amount of balances subject to tithing could be revised upwards. 
+asr:0: OUTPUT 1992.83-2000.00: I think that it's important also to know which may be the impact from this. 
+asr:0: OUTPUT 2000.30-2006.05: The tiering is 6 times the minimum reserve requirement. 
+asr:0: OUTPUT 2006.25-2012.43: And there is some market talk that this can be increased by two times or doubled. 
+asr:0: OUTPUT 2013.39-2018.88: In this case, the impact for Casablanca will be approximately 100 million years. 
+asr:0: OUTPUT 2019.52-2020.76: Just to have this number. 
+asr:0: OUTPUT 2021.00-2025.61: So that part is uncertain what may happen. 
+asr:0: OUTPUT 2025.97-2032.89: Then you have, as we gave the breakdown of the different impacts now from Bankia Vida. 
+asr:0: OUTPUT 2032.97-2041.20: You saw that in 2021 we would have had a positive impact on NII of 88 million euros. 
+asr:0: OUTPUT 2041.86-2045.85: So when making forecasts for NIR you need to take this into consideration. 
+asr:0: OUTPUT 2046.47-2053.03: So setting aside all this heavy noise because it's difficult to predict what may end up happening. 
+asr:0: OUTPUT 2054.07-2059.36: I can now confirm that the draft on NII is going to be in the first quarter. 
+asr:0: OUTPUT 2059.68-2065.49: So we may have some negative delta in the first quarter from the fourth quarter. 
+asr:0: OUTPUT 2066.19-2072.55: But it's going to be lower than the negative delta we have had in the fourth quarter from the third quarter. 
+asr:0: OUTPUT 2073.45-2077.86: And this has to do with lower the account, still some. 
+asr:0: OUTPUT 2077.88-2084.38: Negative arrival resets that are still filtering into the first quarter node, but from there. 
+asr:0: OUTPUT 2084.62-2091.37: In our view, setting aside, I insist, everything that may happen from this EV. 
+asr:0: OUTPUT 2091.39-2097.52: Organically I would say we should see the draft in the first quarter. 
+asr:0: OUTPUT 2097.64-2101.60: It's about, as you said, a long book that is. 
+asr:0: OUTPUT 2101.86-2107.07: It's improving gradually and I already mentioned that it's our aim. 
+asr:0: OUTPUT 2107.53-2108.61: To raise. 
+asr:0: OUTPUT 2108.93-2114.09: The gap in mortgages between the market share of the front book and the back book. 
+asr:0: OUTPUT 2114.65-2116.70: And obviously this is going to be a very difficult decision. 
+asr:0: OUTPUT 2117.02-2126.83: Process, but this may help and the positive dynamics that we are seeing also in terms of consumer lending and corporate and HME lending. 
+asr:0: OUTPUT 2127.29-2133.77: Also will help to have, in our view, at least a flattish runbook into next year. 
+asr:0: OUTPUT 2134.01-2135.28: And this hopefully will help. 
+asr:0: OUTPUT 2135.98-2139.30: On the ankles where we have upset, we. 
+asr:0: OUTPUT 2139.32-2148.77: I made comments some time ago that the size of the portfolio could reach a level of up to 15% of our. 
+asr:0: OUTPUT 2148.79-2149.79: I. 
+asr:0: OUTPUT 2150.49-2154.73: And this is quite a large amount, no? It's approximately 90 million. 
+asr:0: OUTPUT 2155.42-2158.46: Obviously we are not going to be there in one go. 
+asr:0: OUTPUT 2159.56-2160.98: Will be very market dependent. 
+asr:0: OUTPUT 2161.62-2171.11: Depending on the pace of increase or in years, long term years, the shape of the yield curve, we'll see. So we don't have a pre-set view on this. 
+asr:0: OUTPUT 2172.05-2177.30: We are going to diversify the portfolio also, other than on Spanish government bonds. 
+asr:0: OUTPUT 2177.90-2183.30: And obviously this offers plenty of upside because we have plenty of liquidity to deploy. 
+asr:0: OUTPUT 2184.04-2191.41: And if markets help, which it looks increasingly likely that this is the trend, obviously this offer is up. 
+asr:0: OUTPUT 2192.01-2196.48: Finally, I would like to mention our sensitivity to higher rates. 
+asr:0: OUTPUT 2196.50-2203.34: We know now obviously the market is already discounting that 12-month arrival is going to be at zero by the end of this year. 
+asr:0: OUTPUT 2203.64-2206.29: Who knows, but it's clear. 
+asr:0: OUTPUT 2206.49-2211.13: What in the other side of the Atlantic, which is the approach, no, I don't know. 
+asr:0: OUTPUT 2211.33-2217.86: What DCV will decide, but I think that at least it's the first time that things are moving for real. 
+asr:0: OUTPUT 2218.36-2225.55: And you know that our sensitivity is quite high in that sense, and an upward move of 100 basis points. 
+asr:0: OUTPUT 2225.67-2231.11: In years would result in an improvement of NIH. 
+asr:0: OUTPUT 2231.13-2236.26: Between 20 and 25 percent depending on the different assumptions you make. 
+asr:0: OUTPUT 2236.36-2237.76: Of people you need to make. 
+asr:0: OUTPUT 2237.84-2240.98: Then just assumptions to this in terms of which. 
+asr:0: OUTPUT 2242.76-2243.82: Account into. 
+asr:0: OUTPUT 2245.75-2250.63: Hope this helps. We are not giving today a specific guideline. 
+asr:0: OUTPUT 2252.63-2256.46: As you know, we are working on our long-term. 
+asr:0: OUTPUT 2258.36-2260.02: Obviously in due time. 
+asr:0: OUTPUT 2260.66-2265.47: And in this spring when we reconvene for the investor day. 
+asr:0: OUTPUT 2265.49-2270.99: Will give you detailed figures, not only for 2022 but also for. 
+asr:0: OUTPUT 2271.01-2273.11: Longer term. Thank you. 
+asr:0: OUTPUT 2274.27-2280.00: Thank you Max, I hope that answers your question. Let's move on to the next question please operator. 
+asr:0: OUTPUT 2281.94-2287.91: Thank you. Next question comes from the line of Sophie Petersen from JP Morgan. Please go ahead. 
+asr:0: OUTPUT 2288.89-2293.23: Yeah, hi. Here is the feed from JP Morgan. Thank you for taking my question. 
+asr:0: OUTPUT 2293.77-2297.32: Just to follow up on net interest income,. 
+asr:0: OUTPUT 2298.00-2305.57: In terms of the TOTR, can you just remind us how much you have maturing in 2022? 
+asr:0: OUTPUT 2306.01-2315.10: And I confirmed that it's accrued at 100 basis points. And kind of what in an early headwind you expect from this? 
+asr:0: OUTPUT 2315.84-2324.24: And then my second question would be kind of on the cost of inflation. You're doing well on the restructuring. 
+asr:0: OUTPUT 2324.58-2329.85: But how should we think about kind of underlying cost inflation for 2022? 
+asr:0: OUTPUT 2330.87-2341.14: Should we expect to see some higher wages? Can you just remind us when you do the wage negotiations in Spain? 
+asr:0: OUTPUT 2342.24-2346.33: And then just the final question on fee income. 
+asr:0: OUTPUT 2346.99-2353.71: How sustainable are the grossing fees that we saw in the fourth quarter? 
+asr:0: OUTPUT 2353.79-2359.84: I know you mentioned that it's not the 1.0, but it was exceptionally high this quarter. 
+asr:0: OUTPUT 2360.20-2363.12: How should we think about seed growth going forward? Thank you. 
+asr:0: OUTPUT 2364.90-2372.87: Thank you, Sophie. Good morning. I leave TLTRO for Javier. It's his favorite. Well, it's so relevant for all of us. 
+asr:0: OUTPUT 2374.05-2379.48: Cost inflation. Obviously cost is something we can have a. 
+asr:0: OUTPUT 2379.98-2385.13: Higher definition of this stage as. 
+asr:0: OUTPUT 2385.15-2392.41: We control more variables on cost. I would say first we are on track. 
+asr:0: OUTPUT 2392.43-2398.76: With respect to the synergies that we announced for 2022, 645 million. 
+asr:0: OUTPUT 2399.22-2406.57: I think this is fairly safe, it's mostly related to stop departures, so at this stage that's something that you need to incorporate. 
+asr:0: OUTPUT 2407.43-2413.39: You need to incorporate some accounting impact basically from the acquisition of Banca Vida. 
+asr:0: OUTPUT 2414.25-2419.92: You've seen those numbers in the presentation. I've explained this approximately 30 million, 31 million. 
+asr:0: OUTPUT 2420.00-2429.03: From consolidating Bank Yabita. That's obviously going to have a significant and positive impact on revenues but it also has an impact on costs. 
+asr:0: OUTPUT 2430.59-2440.48: And then there is with respect to the comparison between 22 and 21, not necessarily for the future. 
+asr:0: OUTPUT 2440.84-2449.29: Obviously, we're going to work hard in making sure the cost inflation is contained over the three-year period that we will be discussing. 
+asr:0: OUTPUT 2449.31-2451.03: In our capital markets. 
+asr:0: OUTPUT 2451.31-2460.06: But for 21 to 22, we're going to have the reversal of some savings that are related to the lower level of activity. 
+asr:0: OUTPUT 2460.08-2462.66: In 2021 associated to the. 
+asr:0: OUTPUT 2462.70-2463.80: COVID waves. 
+asr:0: OUTPUT 2464.86-2473.23: And that is something that is going to impact our cost base, the comparison between 2022 and 2021. 
+asr:0: OUTPUT 2473.77-2482.06: Keeping all this in mind, what we expect is that we will have a cost base this year 2022 somewhere between 5.9 and 6 billion. 
+asr:0: OUTPUT 2482.94-2491.95: So that is what I would say at this stage that is going to also depend on a number of variables, including the evolution of the pandemic. 
+asr:0: OUTPUT 2493.01-2499.20: But I would say on the cost side, that estimate would be between 5.9 and 6 billion. 
+asr:0: OUTPUT 2499.44-2502.68: Is what I would like to share with you now. 
+asr:0: OUTPUT 2502.74-2509.51: Now beyond the TLTRO fees, and Javier will complement. 
+asr:0: OUTPUT 2509.57-2516.00: Obviously fees and insurance are key towards that. 
+asr:0: OUTPUT 2516.14-2522.46: The way we've been working this year gives me a lot of confidence that we have significant potential here. 
+asr:0: OUTPUT 2522.82-2526.07: We have had an extraordinary fourth quarter. 
+asr:0: OUTPUT 2526.53-2534.61: With some performance fees and a very good sort of also on the non-life levels of commercialization. 
+asr:0: OUTPUT 2535.18-2539.04: I have to say, to be honest, my expectation. 
+asr:0: OUTPUT 2539.40-2544.16: But certainly my aspiration is that we keep repeating very strong. 
+asr:0: OUTPUT 2544.18-2551.79: Fourth quarter this year, next year, because the strategy we're following should lead to that structurally. 
+asr:0: OUTPUT 2551.99-2556.76: Obviously there will be ups and downs. The market is going to be the major factor. 
+asr:0: OUTPUT 2557.66-2560.56: But obviously we are going to go back to. 
+asr:0: OUTPUT 2560.60-2579.46: A lower level as we include some of these performance and special incentives that we achieve in the fourth quarter, but why not? Our aspiration has to be to repeat those quarter of next year and the fourth quarter of 2023 and onwards. 
+asr:0: OUTPUT 2580.52-2584.78: Maybe you can also compliment me on this and discuss it. 
+asr:0: OUTPUT 2584.90-2588.07: Yes, on fish as to complement. 
+asr:0: OUTPUT 2588.11-2589.45: Is already. 
+asr:0: OUTPUT 2589.47-2595.84: We made a comment on the presentation, but what we can call seasonal for this fourth quarter. 
+asr:0: OUTPUT 2595.86-2599.90: I mean this excess in terms of AUM fees. 
+asr:0: OUTPUT 2600.24-2603.80: Due to success fees and also outperformance in terms of. 
+asr:0: OUTPUT 2604.14-2608.09: Non-life is approximately 65 million, but I insist. 
+asr:0: OUTPUT 2609.21-2616.04: This is not an extraordinary seasonality and as the CEO was commenting, our aim is to be able to repeat. 
+asr:0: OUTPUT 2617.10-2626.53: On TLTRO, just to be more specific, TLTRO is not ending. What is ending is the funding benefit of minus 1%. 
+asr:0: OUTPUT 2627.33-2636.52: So we have basically funding at minus 1 and we are depositing those proceeds at minus 50. 
+asr:0: OUTPUT 2637.12-2645.71: So we are making 50 basis points carry and this is affecting 80 billion, 80 billion at. 
+asr:0: OUTPUT 2646.51-2656.32: So the maths are simple, this is 400 million per year, so this is ending in June, theoretically, unless GCB says the contrary. 
+asr:0: OUTPUT 2656.92-2663.22: For the year the impact is half this, which is 200 million euros. Rough numbers, eh? It's only a little bit less. 
+asr:0: OUTPUT 2663.80-2666.57: But, well, that's it, no? And as I say... 
+asr:0: OUTPUT 2666.59-2675.38: Clearly, this will be hinted that they could, I would not like to use the word, but compensate. 
+asr:0: OUTPUT 2675.40-2683.28: No rolling over this facility with an increase of the balances affected to TIRING, deposited at zero. 
+asr:0: OUTPUT 2684.00-2690.85: And I will see we have an ECB meeting next week. So we probably will have further information. 
+asr:0: OUTPUT 2691.91-2697.26: Thank you, Sophie. Okay, Sophie, thank you very much. Let's move on to the next question, please. 
+asr:0: OUTPUT 2700.16-2704.52: Next question from the line of Britain's need from autonomous, please go ahead. 
+asr:0: OUTPUT 2706.25-2711.29: Yeah, hi there, good morning. I've got a few questions. One is just a clarification on the net interest income. 
+asr:0: OUTPUT 2711.77-2721.12: Essentially guiding to a less than 2% decline Q1, Q2 and Q1. But does that include consolidation of the insurance business of around 20 or so million? 
+asr:0: OUTPUT 2722.40-2731.39: Another question I have is on the cost of risk outlook for 2020. Is there any idea that you can give us relative to 2021? 
+asr:0: OUTPUT 2731.65-2733.87: In terms of credit cost of risk performance. 
+asr:0: OUTPUT 2734.29-2741.12: And maybe a clarification, there were quite a few asset buydowns linked to the commercial network scattered across several lines in Q4. 
+asr:0: OUTPUT 2742.04-2745.71: Is there anything more that we should expect in these lines? Thank you. 
+asr:0: OUTPUT 2747.71-2753.69: Thank you, Britta, and I'll just mention on the cost of risk. 
+asr:0: OUTPUT 2755.86-2764.42: We have had a very positive 2021 and actually expect 2022 to be equally positive. 
+asr:0: OUTPUT 2764.52-2768.51: So, at this stage, we tend to be fairly conservative on these things, as you know. 
+asr:0: OUTPUT 2769.05-2777.78: I would say loan loss charges, our expectation is for them to be in line with this year around 25 basis points. 
+asr:0: OUTPUT 2777.90-2784.92: And again, I will emphasize that we tend to be conservative on these matters. 
+asr:0: OUTPUT 2785.03-2790.07: We have 1.4 billion of unused COVID reserve. 
+asr:0: OUTPUT 2790.37-2799.66: And at this stage when I look at the state of the economy, what I mentioned in terms of sort of late payments that we're seeing,. 
+asr:0: OUTPUT 2799.82-2808.39: The status of the market expectations, GDP actually came just an hour ago above our expectations. 
+asr:0: OUTPUT 2809.23-2810.99: I think we have upside here. 
+asr:0: OUTPUT 2812.51-2815.68: Maybe you can take home a game and I am honored. 
+asr:0: OUTPUT 2820.00-2829.91: The draft is ex TLTRO to be clear, all the ECB actions is expected to be in the first quarter. 
+asr:0: OUTPUT 2830.29-2836.58: Delta, negative delta lower than the negative delta we have had in the forecourt. 
+asr:0: OUTPUT 2837.88-2843.02: This may be less than this minus 2% you, quarter and quarter you mentioned. 
+asr:0: OUTPUT 2843.18-2852.79: And yes, Bankia, Vida and Allai will be included because it's already consolidating since the 1st of January. 
+asr:0: OUTPUT 2853.71-2861.08: On restructuring charges, I would say that in general on restructuring charges we are almost done. We may have still some. 
+asr:0: OUTPUT 2861.90-2869.41: I would say non-material M&A impacts on the P&L this year. 
+asr:0: OUTPUT 2869.75-2874.03: It's difficult still to see if we are at the end. 
+asr:0: OUTPUT 2874.93-2876.18: Clearly normative. 
+asr:0: OUTPUT 2877.36-2881.46: And that's it, so in terms of restructuring you know that. 
+asr:0: OUTPUT 2881.48-2887.95: We have early providing for what is coming in the following quarters. 
+asr:0: OUTPUT 2888.41-2892.49: So we think that on that front we are almost done. Thank you. 
+asr:0: OUTPUT 2895.96-2902.40: Okay, Britta, I hope that does answer your questions. And with that, let's move on to the next one, please. 
+asr:0: OUTPUT 2905.05-2910.13: Thank you. Next question from Francisco Riquel from Alantra, please go ahead. 
+asr:0: OUTPUT 2912.17-2915.68: Good morning. Two questions for me. First one on. 
+asr:0: OUTPUT 2916.22-2922.84: You can give more color in terms of long growth in Spain in particular. You mentioned Flatish, I guess for the group. 
+asr:0: OUTPUT 2924.48-2934.23: So if you can update on your mortgage strategy recently launched, I saw a new commercial offer in my home. What would it bring? 
+asr:0: OUTPUT 2935.56-2941.08: If you still see the leverage, I guess the front book you mentioned, crossing the Gampa Trees would still be negative. 
+asr:0: OUTPUT 2941.66-2949.63: Seasonal pick up, the pick up we have seen in consumer in corporate lending whether this is seasonal or you see this is a changing trend. 
+asr:0: OUTPUT 2950.11-2953.67: The next generation in advance seems to be a slow process. 
+asr:0: OUTPUT 2954.69-2958.08: Show a bit more color on long growth by category, if possible. 
+asr:0: OUTPUT 2959.50-2970.33: Second, on capital, you can update on the outlook for the build-up, if any, in 2022, any type of risk-weighted asset inflation, regulatory headwinds left. 
+asr:0: OUTPUT 2970.91-2979.32: Impact the reorganization of the insurance operations or any other impact you may highlight. Thank you. 
+asr:0: OUTPUT 2982.52-2994.81: Thank you very much Paco and let me start maybe giving you some color on what we see on the credit side and Javier can take it on RWA and. 
+asr:0: OUTPUT 2994.83-2995.96: Capital. 
+asr:0: OUTPUT 2996.18-3003.48: I anticipate we expect to have another positive, clearly positive year in 2022 in terms of real level of capital. 
+asr:0: OUTPUT 3004.84-3007.29: Career I'm sure will elaborate on that. 
+asr:0: OUTPUT 3007.89-3015.50: On the lending side, we feel it's going to be a reasonable year for the sector. 
+asr:0: OUTPUT 3015.74-3017.94: And a good year for us. 
+asr:0: OUTPUT 3019.44-3022.98: Taking sort of category by category. 
+asr:0: OUTPUT 3023.70-3026.59: Housing is being. 
+asr:0: OUTPUT 3026.61-3032.77: Slightly positive it seems with the figures I have for this year for the sector I'm sure. 
+asr:0: OUTPUT 3033.29-3043.18: I think continue that trend for 2022. We're expecting a slight growth just below 2% for the sector in the housing. 
+asr:0: OUTPUT 3043.20-3044.40: Credit. 
+asr:0: OUTPUT 3045.17-3052.39: On our side, we are clearly going to try to increase our share of new production. 
+asr:0: OUTPUT 3053.07-3060.66: We have seen a significant reduction during 2022 with, I think,. 
+asr:0: OUTPUT 3061.16-3069.05: That we felt good about it being selective discipline in terms of price. 
+asr:0: OUTPUT 3069.07-3071.85: And I certainly... 
+asr:0: OUTPUT 3071.87-3081.12: I think very conservative from an asset quality point of view and making sure that the mortgages that we give today continue to be good for. 
+asr:0: OUTPUT 3081.14-3083.80: For their total life. 
+asr:0: OUTPUT 3085.37-3089.47: We have launched this campaign, My Home, at the beginning of the year again. 
+asr:0: OUTPUT 3089.95-3095.80: This campaign is not just about mortgages, but it includes mortgages. It's my home, it's the ecosystem. 
+asr:0: OUTPUT 3096.52-3119.00: And we are offering quite a lot of things for this ecosystem. We are offering obviously protection within our MyBox SRT. We are offering funding of refurbishing, reforms. We are offering funding of electronics associated to the home which. 
+asr:0: OUTPUT 3119.04-3122.68: As you know, we also distribute through our WeBuy. 
+asr:0: OUTPUT 3122.70-3123.98: Sort of marketplace. 
+asr:0: OUTPUT 3125.69-3126.83: We are. 
+asr:0: OUTPUT 3126.89-3133.55: Including in these also some mobility elements to and from your home, so it's a whole pack. 
+asr:0: OUTPUT 3133.59-3139.12: But within that we have the mortgage product, Casa Facil, which we have... 
+asr:0: OUTPUT 3139.14-3141.30: Commercialize with a lot of success. 
+asr:0: OUTPUT 3142.24-3148.19: But we are clearly putting incentives and the attention of our people in a. 
+asr:0: OUTPUT 3148.21-3155.34: That were giving the growth that we're seeing in this part of the business to be more active. 
+asr:0: OUTPUT 3157.36-3167.17: Obviously pricing is part of that and we're going to be slightly more aggressive on that front because the market is going through levels that are very competitive. 
+asr:0: OUTPUT 3167.49-3174.71: But it's not just about changing our pricing strategy, changing or focusing on that ecosystem. 
+asr:0: OUTPUT 3175.56-3184.48: Well, we think we can play a pivotal role. We still have 26% of market share in mortgages, but in terms of our. 
+asr:0: OUTPUT 3184.50-3190.95: Client penetration in Spain with our 19 million clients, we have a big, big reach. 
+asr:0: OUTPUT 3191.27-3195.20: And we want to build a whole ecosystem. 
+asr:0: OUTPUT 3196.14-3200.74: And again, this is not going to be a one-off campaign that we have for a month or a month and a half. 
+asr:0: OUTPUT 3201.04-3207.95: This is going to be a permanent push during the whole year, one of our main targets. 
+asr:0: OUTPUT 3208.35-3218.22: As a result of that we expect that new lending is going to increase significantly from the levels of 2022. We've seen that. 
+asr:0: OUTPUT 3218.24-3224.12: In the fourth quarter and actually the fourth quarter has been particularly difficult because of the integration. 
+asr:0: OUTPUT 3224.14-3231.37: Were starting to see the success and the growth during the month of January on the mortgage. 
+asr:0: OUTPUT 3231.49-3234.21: So again, significant increase for us. 
+asr:0: OUTPUT 3234.67-3240.56: Does that mean we're going to increase our market share of stock? I would say unlikely. I would expect. 
+asr:0: OUTPUT 3240.58-3245.81: To see because our book is very mature, very seasoned. 
+asr:0: OUTPUT 3245.83-3248.73: And we're going to have higher multi-seasons than the average of the market. 
+asr:0: OUTPUT 3249.29-3253.51: I would still expect a slight reduction of market share. 
+asr:0: OUTPUT 3253.67-3259.80: But certainly very different from what we have seen in 2021 and before. 
+asr:0: OUTPUT 3260.26-3267.15: On consumption, we're fairly optimistic. I think this is going to be growing gradually during the year. 
+asr:0: OUTPUT 3267.37-3269.67: We have had a fantastic fourth quarter. 
+asr:0: OUTPUT 3270.07-3277.74: I think there, even though it's difficult and too early to look at the proper comparison to know that we compare apples with apples with the rest of the market. 
+asr:0: OUTPUT 3278.14-3287.11: But my feeling is that we've done clearly better on the market in the fourth quarter and my expectation is that we can continue to do so. 
+asr:0: OUTPUT 3287.37-3291.55: But we'll have to see how the year evolves. 
+asr:0: OUTPUT 3291.57-3299.10: The senses pent up demand and the normalization of life hopefully post-crisis. 
+asr:0: OUTPUT 3299.12-3304.38: At least intensive phases of COVID should be very helpful. 
+asr:0: OUTPUT 3304.70-3309.53: And on the business front, again, we're in pretty good shape. 
+asr:0: OUTPUT 3309.67-3318.84: And I, the same way we expect businesses to be aided by next generation EU funds, but still with plenty of liquidity. 
+asr:0: OUTPUT 3319.32-3328.21: I think we're in good shape and we should be at least maintaining our market share, but certainly our aim would be to increase that market share. 
+asr:0: OUTPUT 3328.51-3334.27: In NGEU fund, it is true that they haven't yet made an impact to the business. 
+asr:0: OUTPUT 3334.73-3342.88: But it's something that is coming, it's coming gradually, but it's getting closer and obviously we see that during this year it is going to have an impact. 
+asr:0: OUTPUT 3343.36-3347.15: We actually were saying for a while that it was going to be backloaded. 
+asr:0: OUTPUT 3347.57-3352.57: In 2021. In fact, it's not been backloaded, it's been moved to 2022. 
+asr:0: OUTPUT 3353.19-3356.82: But we're going to see that impact this year. So when we look at that. 
+asr:0: OUTPUT 3357.12-3366.73: That's why Javier had comments that make us pretty positive on that inflection point on the overall loan book because I can see why we're going to be. 
+asr:0: OUTPUT 3366.75-3368.65: Doing better across the three. 
+asr:0: OUTPUT 3368.75-3370.93: Categories. 
+asr:0: OUTPUT 3371.73-3373.67: And 21. 
+asr:0: OUTPUT 3380.00-3382.06: M&A and regulatory impacts. 
+asr:0: OUTPUT 3382.70-3387.17: I would say that the net is going to be in neutral. 
+asr:0: OUTPUT 3388.45-3396.82: On M&A we will have some still pending positives and negatives that are going to be probably compensate each other. 
+asr:0: OUTPUT 3397.70-3407.23: On the regulatory front, we have also positives and negatives. We have the convergence of internal models of Bankia to, let's say, the. 
+asr:0: OUTPUT 3407.25-3411.37: Let's say the Casabank models. 
+asr:0: OUTPUT 3411.43-3417.16: We have also some limitations in place in some portfolios. 
+asr:0: OUTPUT 3417.22-3424.34: In terms of risk-weighted assets due to some internal inspections that are going to be released during the year. 
+asr:0: OUTPUT 3424.50-3430.65: These are positives. Then we have the potentially, it's not clear. 
+asr:0: OUTPUT 3430.67-3437.76: Still fully if the rollout of IRB models in Portugal is going to be this year or next, but. 
+asr:0: OUTPUT 3437.78-3443.88: Anyhow as you see positives and negatives is not clear to me. 
+asr:0: OUTPUT 3443.90-3451.45: Every single quarter when we would have the positives and the negatives, but not that large in any case. 
+asr:0: OUTPUT 3452.21-3456.58: So the end result for the year pretty much neutral. 
+asr:0: OUTPUT 3457.16-3464.52: We are having now the view that this western asset inflation due to rate immigration is going to be very moderate. 
+asr:0: OUTPUT 3469.93-3473.65: According to our comments about the positive evolution in the world. 
+asr:0: OUTPUT 3473.79-3475.80: In general about grade quality. 
+asr:0: OUTPUT 3477.78-3479.56: And that is not for a year. 
+asr:0: OUTPUT 3479.84-3486.33: Where we think that we will continue generating capital organically. 
+asr:0: OUTPUT 3486.73-3491.05: By having raised the layout ratio to 50 to 60. 
+asr:0: OUTPUT 3491.19-3494.01: And you know that what will be a crude. 
+asr:0: OUTPUT 3494.83-3496.16: The upper boundary. 
+asr:0: OUTPUT 3497.06-3505.71: This is what the regulation requires. So, in our view, still a year with strong capital generation. 
+asr:0: OUTPUT 3506.35-3512.19: So this works well for our capital return policies. 
+asr:0: OUTPUT 3514.09-3517.98: Thank you very much for your questions. Let's move on to the next one, please. 
+asr:0: OUTPUT 3520.00-3525.75: Thank you. It comes from the line of Ignacio Olari from BMP Paribas Exam. Please go ahead. 
+asr:0: OUTPUT 3527.51-3530.89: Thank you very much for the presentation and for taking my questions. 
+asr:0: OUTPUT 3531.31-3542.76: I have two questions. One is on NPL management and the strategy that you are having in terms of portfolio disposals and what should we expect. 
+asr:0: OUTPUT 3542.78-3544.86: Into 2022. 
+asr:0: OUTPUT 3544.94-3554.69: And also, if you could also give us a bit of a sense when do you think NPS will peak because we have been just waiting the iteration from the ICO being postponed. 
+asr:0: OUTPUT 3554.79-3557.48: So, just a bit of color on NPLs. 
+asr:0: OUTPUT 3557.66-3565.51: And linked to that, the 63% coverage for across the cycle period looks high. 
+asr:0: OUTPUT 3565.53-3568.33: To what level you think that the coverage could go down. 
+asr:0: OUTPUT 3569.21-3574.73: One question on the integration of the franchise with Bankyard. 
+asr:0: OUTPUT 3575.30-3583.66: Do you think that the second half of 22 will be just sort of like all completed in a way we could see the real. 
+asr:0: OUTPUT 3583.68-3590.65: Strength of the franchise in terms of commercial at all speed or we are already there now? 
+asr:0: OUTPUT 3593.17-3601.66: Thank you, Racho, and let me address the questions. I would say, first of all, on NPL management. 
+asr:0: OUTPUT 3603.92-3605.02: We're having. 
+asr:0: OUTPUT 3605.05-3608.81: I think fairly good trends but we face. 
+asr:0: OUTPUT 3608.83-3615.36: The bump in the road which is the eco loan, the finalisation of the. 
+asr:0: OUTPUT 3615.38-3620.64: Of the moratoria or the deferral of principle in the law. 
+asr:0: OUTPUT 3620.66-3622.70: And mostly in the second quarter of this year. 
+asr:0: OUTPUT 3623.62-3626.45: We're going to be very prudent until that happens. 
+asr:0: OUTPUT 3626.79-3629.85: And hence I wouldn't expect. 
+asr:0: OUTPUT 3629.97-3639.80: News of us moving in the sense of being less conservative until at least the end of the second quarter, maybe the end of the third quarter, depending on how. 
+asr:0: OUTPUT 3639.82-3641.14: The whole thing evolved. 
+asr:0: OUTPUT 3641.16-3643.78: But we have a big concentration in the second quarter. 
+asr:0: OUTPUT 3644.42-3649.41: That's first point. Second is all the information we have today, which is a lot, is fairly positive. 
+asr:0: OUTPUT 3650.51-3659.26: Fairly positive. We have indeed reclassified to S3 a few or significant number of ecologues that are still paying, but. 
+asr:0: OUTPUT 3659.28-3670.31: For sort of internal rating, the sectors they operate within, they may move into NPL. So not every single non-payment that we have next year is going to mean an NPL. 
+asr:0: OUTPUT 3671.13-3680.64: Because we already have recognized quite a few. But I don't think there is any upside if we're not prudent until this happens. 
+asr:0: OUTPUT 3680.82-3687.77: And I also take comfort from the fact that when we looked at the moratorium, we thought that we're going to have a significant impact on asset quality. 
+asr:0: OUTPUT 3688.09-3691.93: I wouldn't say pretty, I would say extraordinarily well. 
+asr:0: OUTPUT 3693.13-3699.04: So let's see how that goes, but I think we have to be positive. 
+asr:0: OUTPUT 3699.12-3705.55: The peak for NPLs should be reached this year. 
+asr:0: OUTPUT 3706.05-3708.69: I am not going to be able to tell you in which quarter. 
+asr:0: OUTPUT 3709.13-3716.60: From our point of view because it's going to depend obviously on what happens with Ecolon, so that may suggest third quarter of this year. 
+asr:0: OUTPUT 3717.02-3722.26: But it also is going to depend on what do we do on the disposal of portfolios. 
+asr:0: OUTPUT 3722.36-3731.47: We have been fairly successful in that generally, but when we look at, for instance, this fourth quarter, which holds a large portfolio,. 
+asr:0: OUTPUT 3732.09-3739.50: And again, we had a very positive result in terms of the level at which we showed clearly above the marks we had. 
+asr:0: OUTPUT 3740.42-3745.39: So my expectation during 2022 is that. 
+asr:0: OUTPUT 3745.41-3752.47: We can be fairly successful with that strategy and hence we're not only going to try and contain the new entries. 
+asr:0: OUTPUT 3753.17-3759.90: We have I think opportunities to reduce non-performing loans in a significant manner and. 
+asr:0: OUTPUT 3760.96-3765.99: As opposed to what we might have felt, I don't know, ten years ago after the big crisis. 
+asr:0: OUTPUT 3766.31-3775.66: What we are seeing now is our markets are very conservative and that leads into the 63% coverage ratio. Completely agree, it's not a normal level. 
+asr:0: OUTPUT 3775.82-3781.50: That is the result, among other things, of our COVID 1.4 billion reserves. 
+asr:0: OUTPUT 3781.64-3787.91: And our PPA, particularly associated to the Bankia transaction. 
+asr:0: OUTPUT 3788.91-3790.87: Which is around 400, but anyhow. 
+asr:0: OUTPUT 3791.21-3799.74: We can confirm that to you later. So yes, we have a very large coverage. Instead of normal ordinary course of business, none of these would be there. 
+asr:0: OUTPUT 3799.90-3803.40: Because it would have run off. 
+asr:0: OUTPUT 3803.54-3814.47: That doesn't mean we're going to release all these in a very short time. Clearly not. But certainly we are, as you say, very well provided. 
+asr:0: OUTPUT 3815.18-3820.00: Second point in terms of where we are, I think if you look at the business,. 
+asr:0: OUTPUT 3820.68-3825.07: We have some business in which we are at 100% shape. 
+asr:0: OUTPUT 3825.97-3829.55: And that includes private banking, it includes. 
+asr:0: OUTPUT 3829.57-3834.41: CIB includes business, certainly the product factories. 
+asr:0: OUTPUT 3834.81-3840.80: I think they have zero impact at this stage from the integration, generally speaking. 
+asr:0: OUTPUT 3843.10-3850.19: And then we have the retail network, which is obviously the vast majority of the business, where. 
+asr:0: OUTPUT 3850.41-3860.04: A lot of things have happened and the business has been now integrated but we still have to integrate 750 branches. 
+asr:0: OUTPUT 3860.36-3862.70: Is there some impact from all of this process? 
+asr:0: OUTPUT 3863.00-3868.23: Obviously, yes, we can try and do a good execution in integration. 
+asr:0: OUTPUT 3869.53-3879.30: But when we moved 10 million clients from branches and we changed 6,000 people that actually were managing client relationships, we changed a different phase. 
+asr:0: OUTPUT 3880.00-3881.88: This is a process which takes time. 
+asr:0: OUTPUT 3883.06-3890.63: And the time that it takes making sure we provide the right service, the right quality to our clients is obviously. 
+asr:0: OUTPUT 3890.65-3893.25: Lower timer we had for other things. 
+asr:0: OUTPUT 3893.87-3895.84: So I would say we are. 
+asr:0: OUTPUT 3895.86-3902.86: Almost there, but during the first half of the year, we're still going to have the retail network. 
+asr:0: OUTPUT 3903.36-3912.27: I wouldn't say distracted, but focused on service quality issues, making sure that we don't lose clients and that the business stays with us for the long term. 
+asr:0: OUTPUT 3913.81-3920.52: Throughout the year, I would expect that this is going to mean that sort of by the summer, turn of the summer. 
+asr:0: OUTPUT 3920.94-3925.06: We are really 100%, absolute 100% all engines of the bank. 
+asr:0: OUTPUT 3925.13-3933.99: But again, a good number of them are already there and that's what I would emphasize when we look at the business of the private bank, etc. 
+asr:0: OUTPUT 3934.49-3939.54: And that's the very last part of our business, even if it's retail. 
+asr:0: OUTPUT 3940.00-3951.09: That is done with the integration or where the integration is not very significant because as you know the geographical presence of overlap of Bankia and CaixaBank is focused on certain. 
+asr:0: OUTPUT 3951.11-3953.71: Rios, Madrid, Valencia, the islands. 
+asr:0: OUTPUT 3954.15-3959.64: Some other places and others have very limited input. For instance, the north of Spain,. 
+asr:0: OUTPUT 3959.98-3963.28: Or Western Andalucía or Cataluña, etc. 
+asr:0: OUTPUT 3963.54-3972.67: So we're going to have a very significant part of the bank at 100% from the 1st of January. 
+asr:0: OUTPUT 3972.91-3978.48: And the rest of the retail is going to gradually get there during the first half of the year. 
+asr:0: OUTPUT 3980.88-3984.74: Okay, Nachel, thank you very much. Let's move on to the next question, please. 
+asr:0: OUTPUT 3986.91-3992.79: Thank you. It comes from the line of Mario Ropero from Best in their Securities. Please go ahead. 
+asr:0: OUTPUT 3994.35-4003.88: Hi, good morning everyone. Two quick questions. The first one is on the distribution of the share of the bank to bring down the capital to the target level. 
+asr:0: OUTPUT 4005.53-4011.75: Would you bring it down right to the target level or would you consider keeping some sort of cushion? 
+asr:0: OUTPUT 4012.31-4015.88: If so, what kind of questions should we have in mind? 
+asr:0: OUTPUT 4016.58-4020.72: And the second question is, I know you're not giving any guidance for 2022. 
+asr:0: OUTPUT 4022.72-4030.49: But, well, I mean, it's obvious that the outlook for NIA, it's hard for phasing insurance, maybe better. 
+asr:0: OUTPUT 4030.99-4037.14: So could you give us at least some sort of indication of how you see the net of these three? 
+asr:0: OUTPUT 4037.16-4041.18: In 2022, positive or negative. Thank you. 
+asr:0: OUTPUT 4042.52-4049.65: Thank you, Mario. In terms of capital, clearly we're not going to bring it down to. 
+asr:0: OUTPUT 4049.73-4054.07: The target, we're saying closer to the target, not down to the target. 
+asr:0: OUTPUT 4054.37-4060.00: And I think there is no decision taken on these. 
+asr:0: OUTPUT 4060.32-4067.03: I would say it is a reasonable assumption to think that around 12% would be the end point. 
+asr:0: OUTPUT 4067.17-4072.49: But this is only an assumption again, no decision has been taken. 
+asr:0: OUTPUT 4073.07-4080.88: And on NII fees etc I am afraid it is going to be difficult to answer because. 
+asr:0: OUTPUT 4081.46-4089.47: We have decided that we need to give guidance for a three-year period, and we're going to do that in May. 
+asr:0: OUTPUT 4089.91-4099.88: And at this stage we are trying to be as helpful as we can in every single category. We are being fairly more specific on cost because there. 
+asr:0: OUTPUT 4099.96-4109.79: I think it's fair to you to say what we see things, but beyond the comments that we have. 
+asr:0: OUTPUT 4110.37-4116.80: I would say let's wait for the investor day in the second quarter. Apologia is for that, Mario. 
+asr:0: OUTPUT 4119.02-4122.08: Thanks for that and let's move on to the next one please. 
+asr:0: OUTPUT 4124.22-4129.43: Thank you. From the line of Alvaro Serrano from Morgan Stanley, please go ahead. 
+asr:0: OUTPUT 4130.91-4138.06: Hi, good morning. Thanks very much for the detail on the moving parts on the NII. 
+asr:0: OUTPUT 4138.52-4139.76: I don't know if you can make me. 
+asr:0: OUTPUT 4140.18-4149.75: So, to get some color on the sustainability of fees, because we've seen you had a very strong Q4. I noted the comments from Javier saying that. 
+asr:0: OUTPUT 4149.77-4150.77: Some of it is. 
+asr:0: OUTPUT 4150.79-4153.79: I think it was 64 million or something like that. 
+asr:0: OUTPUT 4154.33-4158.54: But obviously, 21 was a very good year also in Indian banking. 
+asr:0: OUTPUT 4158.84-4160.98: I don't know if you can share some thoughts. 
+asr:0: OUTPUT 4161.42-4166.15: If you don't want to share a number, but at least some thoughts on should it be... 
+asr:0: OUTPUT 4166.17-4173.35: Sort of accelerate and slow down the cost is tough, so maybe it has to slow down. 
+asr:0: OUTPUT 4173.39-4174.59: Put some thoughts there. 
+asr:0: OUTPUT 4175.03-4182.18: And obviously with the IT integration now done, you've touched on it, maybe some of the cross-selling can start coming through. 
+asr:0: OUTPUT 4182.64-4185.47: And the second question is on the buyback. 
+asr:0: OUTPUT 4187.73-4194.97: Is it fair to assume that the limitation ultimately will be the criteria can't go above 40%? 
+asr:0: OUTPUT 4195.34-4199.28: Is that, would that be the limit? Thank you. 
+asr:0: OUTPUT 4201.02-4206.33: Thank you. I refer to Javier to give you a detail on fees. 
+asr:0: OUTPUT 4206.55-4218.46: On the second point, I would not relate the limitation of the share buyback to the ownership of any particular shareholder, be it large or small. 
+asr:0: OUTPUT 4218.82-4226.71: The limitation is going to be our capital position and our views, not just on... 
+asr:0: OUTPUT 4226.73-4228.55: On the short term but not the long term. 
+asr:0: OUTPUT 4229.05-4231.89: That's what is going to be driving the decision. 
+asr:0: OUTPUT 4232.31-4241.98: Again, as I see, as Javier explained, 2022 is fairly positive in terms of capital creation as well. I am optimistic on that front. 
+asr:0: OUTPUT 4242.78-4249.97: But there's nothing to do with the particular position of shareholders. On fees, Javier, you want to elaborate? 
+asr:0: OUTPUT 4253.27-4258.18: Well, you know that what is clearly. 
+asr:0: OUTPUT 4258.26-4265.29: Supporting fees is asset management, it's 1.4 billion revenue pool. 
+asr:0: OUTPUT 4266.13-4274.55: This is a structurally growing business. We have done well. Obviously, market has helped. It has been an exceptional year on that front. 
+asr:0: OUTPUT 4275.44-4277.10: But in terms of inflows. 
+asr:0: OUTPUT 4277.48-4284.44: We don't think that we should have lower inflows than in any region. 
+asr:0: OUTPUT 4284.60-4287.97: We should be having lower inflows than in 2021. 
+asr:0: OUTPUT 4288.07-4295.12: So I think that we are quite upbeat on the evolution of this business. We think we are good at it. 
+asr:0: OUTPUT 4295.26-4301.48: So we have really a very good franchise on the distribution of AUMs. 
+asr:0: OUTPUT 4301.58-4305.83: And we are quite a bit as I say. 
+asr:0: OUTPUT 4305.91-4309.51: The pace of inflows in our view will continue. 
+asr:0: OUTPUT 4310.55-4319.40: On non-life on that front we had a very strong end of the year. There is a very strong focus as you know. 
+asr:0: OUTPUT 4320.50-4327.25: You know that well our commercial strategy there, the MyBox commercial offer,. 
+asr:0: OUTPUT 4327.99-4335.54: Is doing extremely well now, obviously, gradually rolling out into former Bankia clients. 
+asr:0: OUTPUT 4336.28-4339.32: So our view is very positive. 
+asr:0: OUTPUT 4339.80-4347.19: So I think that I mentioned that we had some seasonality in the fourth quarter. 
+asr:0: OUTPUT 4347.41-4349.59: Also in this business but. 
+asr:0: OUTPUT 4349.61-4359.52: We should at least be able to try to repeat. So I think that it's a growing business also. 
+asr:0: OUTPUT 4360.86-4366.21: And then we have the larger world of recurring fees. 
+asr:0: OUTPUT 4366.31-4374.53: On that front we are having the extra support of something that actually is an AI, but it's. 
+asr:0: OUTPUT 4374.55-4375.76: The custody of his. 
+asr:0: OUTPUT 4376.04-4384.72: We have had close to 90 million this year on custody fees and our view is that we can have something more. 
+asr:0: OUTPUT 4385.99-4387.21: But clearly on that front it's. 
+asr:0: OUTPUT 4388.33-4397.22: It's a figure that is important, but the most important is that the fact that we have this strategy in place is shielding a little bit ourselves. 
+asr:0: OUTPUT 4397.24-4398.90: On the positive influence. 
+asr:0: OUTPUT 4399.20-4402.66: And actually we have anecdotal observation that. 
+asr:0: OUTPUT 4403.80-4407.63: That is preventing a clear deposit inflow. 
+asr:0: OUTPUT 4409.61-4411.89: There is an area that is important, which is payment. 
+asr:0: OUTPUT 4413.63-4421.94: That area we have had two consecutive summers that have been, let's say, much different than normal. 
+asr:0: OUTPUT 4423.02-4425.63: And for us, the summary is important. 
+asr:0: OUTPUT 4426.35-4435.72: Because part of the payment fee revenue pool is due to the use of ATMs. Our ATMs which have the largest park. 
+asr:0: OUTPUT 4435.74-4438.54: Or of ATMs in Spain. 
+asr:0: OUTPUT 4439.12-4447.55: And when a non-cash bank uses our ATM, we have a fee. 
+asr:0: OUTPUT 4447.77-4453.39: And well, the summer for us is important with all foreigners using ATMs, etc. 
+asr:0: OUTPUT 4454.75-4458.90: Hopefully this is going to be a better summer also despite. 
+asr:0: OUTPUT 4459.26-4468.03: We have already been observing an increase on the traffic in terms of the use of points of sale, terminals, etc. 
+asr:0: OUTPUT 4468.55-4473.17: Obviously, if we have a better summer season, also this will help on that front. 
+asr:0: OUTPUT 4474.05-4483.92: And at the end of the day, if lending improves, this ends up with fees also, because mainly on the CIV wall. 
+asr:0: OUTPUT 4484.20-4486.41: You have origination fees, etc. 
+asr:0: OUTPUT 4487.09-4493.97: So this is also going to be providing support. So all in all, AUM in our view. 
+asr:0: OUTPUT 4494.43-4502.42: Going to keep doing well, probably with less support from the market than this year, who knows. 
+asr:0: OUTPUT 4502.44-4506.53: But in terms of inflows, no less. This is our view. 
+asr:0: OUTPUT 4507.25-4511.09: And on non-life insurance also very good momentum. 
+asr:0: OUTPUT 4511.79-4520.00: And not specifically fees, but I would like to mention also our life insurance business. 
+asr:0: OUTPUT 4520.58-4528.03: I displayed the chart of the quarterly evolution and it's clearly an upward trend. 
+asr:0: OUTPUT 4528.91-4532.11: And this is in our view set to continue. 
+asr:0: OUTPUT 4532.27-4541.20: And as you know, gradually rolling out also the revenue synergies on that front that you know that is one of our key businesses. 
+asr:0: OUTPUT 4542.24-4548.67: Hope this helps Alvaro. Thank you. Okay, thank you Alvaro. Let's move on to the next question please. 
+asr:0: OUTPUT 4552.79-4558.58: Thank you. Next question comes from the line of Carlos Cobo from Societe General. Please go ahead. 
+asr:0: OUTPUT 4560.76-4563.52: Hello. Good morning and thank you for the presentation. 
+asr:0: OUTPUT 4564.82-4569.93: I wanted to, sorry if you touched on this already, but if you could clarify a little bit more. 
+asr:0: OUTPUT 4570.57-4576.08: In terms of what are the one-offs related to the merger and other impact. 
+asr:0: OUTPUT 4577.00-4586.71: You reported something around 90 million in costs, but in the other provisions, non-credit and gains and losses, there seems to be another... 
+asr:0: OUTPUT 4586.73-4592.53: 200 million roughly from let's call it unexpected losses in consensus. 
+asr:0: OUTPUT 4593.49-4597.80: Could you explain a little bit more what that is and what is the breakdown? 
+asr:0: OUTPUT 4599.64-4605.45: And then a quick question in the future about the, for instance, by Barker. 
+asr:0: OUTPUT 4605.71-4611.19: Should we adjust any potential penalty from the agreement with Muffet? 
+asr:0: OUTPUT 4611.79-4615.28: And also around this ancient business. 
+asr:0: OUTPUT 4616.14-4622.32: Did you expect any positive impact on capital from the consolidation of Bank Avida under the. 
+asr:0: OUTPUT 4622.34-4631.59: Your own life company under the Danish compromise. Would that have any positive impact on C81? Thank you very much. 
+asr:0: OUTPUT 4633.33-4637.38: Thank you Carlos for your answer. Yes, it will have a positive impact. 
+asr:0: OUTPUT 4638.02-4648.97: In due course and with respect to the share buy back and the penalties associated to the reorganization of insurance, I would say there's no. 
+asr:0: OUTPUT 4648.99-4650.73: No relationship. 
+asr:0: OUTPUT 4650.95-4658.36: Again, share buyback, we are saying it's going to be based on capital, excess capital at year end. 
+asr:0: OUTPUT 4658.54-4662.48: Bringing it down closer to our target capital. 
+asr:0: OUTPUT 4663.02-4667.09: And there is no further impact obviously. 
+asr:0: OUTPUT 4667.39-4673.61: If we were to have a view of issues, problems, capital threats in 2022,. 
+asr:0: OUTPUT 4674.03-4675.64: We will take that into account. 
+asr:0: OUTPUT 4675.74-4682.08: I am confident that that's not the case, as I said, the net of, and I've experienced some of the details,. 
+asr:0: OUTPUT 4682.10-4687.11: The net of what we expect for 2022 in terms of capital generation. 
+asr:0: OUTPUT 4687.31-4693.37: Beyond the 60% payout or 50 to 60, but as you know, they say 50 to 60, we will be accruing 60. 
+asr:0: OUTPUT 4694.39-4699.50: Beyond that, we still expect significant capital generation in 2022. 
+asr:0: OUTPUT 4700.00-4708.47: All in all and we have perfect room to accommodate if we unexpected surprises. 
+asr:0: OUTPUT 4708.59-4712.79: If any caps on the west, Javier, maybe you can help me. 
+asr:0: OUTPUT 4713.61-4720.36: Well on what you mentioned about other provisions and other one as well. On other provisions. 
+asr:0: OUTPUT 4722.64-4730.53: But a broader approach to some legal issues mainly related to foreign exchange. 
+asr:0: OUTPUT 4732.25-4734.35: To revolving. 
+asr:0: OUTPUT 4734.83-4738.06: A conservative approach towards the. 
+asr:0: OUTPUT 4738.40-4745.53: Also we had a book on that front, an early retirement scheme in Portugal. 
+asr:0: OUTPUT 4746.15-4751.07: So all this adds approximately 100 million to that path. 
+asr:0: OUTPUT 4751.39-4756.30: So this is, as I say, X the M&A impact. 
+asr:0: OUTPUT 4756.54-4762.18: And then I understand that probably is a little bit complex, no, but we have. 
+asr:0: OUTPUT 4762.20-4769.63: Quarter on quarter some moves, some changes. In other provisions we have the release. 
+asr:0: OUTPUT 4770.09-4775.46: And this is related to M&A. So we have the release of approximately 113 million. 
+asr:0: OUTPUT 4776.00-4784.48: That is now being assigned to another VNL line, which is gains and losses by approximately 100 million. 
+asr:0: OUTPUT 4784.90-4790.31: And also to extra costs for the 25 million remaining. 
+asr:0: OUTPUT 4791.23-4796.12: And additionally, we have on other provisions. 
+asr:0: OUTPUT 4796.18-4801.98: 68 million from I would say this is. 
+asr:0: OUTPUT 4802.00-4808.43: Advancing which is going to be the impact of branch restructuring implemented into the first quarter. 
+asr:0: OUTPUT 4808.81-4811.83: That has already been booked as other provisions. 
+asr:0: OUTPUT 4812.23-4816.70: And that in due time will be assigned on other games and bosses. 
+asr:0: OUTPUT 4816.86-4824.60: So this is, I understand probably a little bit confusing, sorry, but this is accounting rules. 
+asr:0: OUTPUT 4825.15-4836.32: On that front I would only highlight that the total amount of charges is perfectly in line with the number, the figure initially announced. 
+asr:0: OUTPUT 4836.56-4839.80: Remember approximately 2.4 billion of. 
+asr:0: OUTPUT 4839.84-4848.07: Of restructuring costs and we are there. So if you do the maths for the year, we are there and as I mentioned. 
+asr:0: OUTPUT 4848.67-4853.57: Any remaining for 2022 is going to be non-material. 
+asr:0: OUTPUT 4855.78-4859.70: Thank you. Okay. Thank you, Carlos. Let's move on to the next one, please. 
+asr:0: OUTPUT 4861.20-4866.23: Thank you. It comes from the line of Hernando Gil from Barclays. Please go ahead. 
+asr:0: OUTPUT 4868.05-4876.42: Hi, good morning. Thank you for taking my question. I have a question about the insurance operations and the agreements reached with Segovia Kaiser, Tesla, Sembaita and Manquerida. 
+asr:0: OUTPUT 4877.74-4887.11: I don't have any, if you can provide clarity on how this will be accounted into the PNL, because I see some kind of footnote saying that it will be accrued during 10 years. 
+asr:0: OUTPUT 4887.69-4894.67: And if you can just clarify how this will enter and be cognitive, it would be great. 
+asr:0: OUTPUT 4895.38-4899.00: And a follow-up question on mortgages, if I may. 
+asr:0: OUTPUT 4899.06-4907.69: Can you please remind us what is the percentage back book on fixed mortgages and variable mortgages? Thank you very much. 
+asr:0: OUTPUT 4908.65-4918.18: I think we have two more questions. 
+asr:0: OUTPUT 4918.62-4926.69: On the queue. 
+asr:0: OUTPUT 4928.67-4935.58: Part of it is going to be used also to compensate the penalty. 
+asr:0: OUTPUT 4936.32-4939.40: To pay to MAFRE. 
+asr:0: OUTPUT 4940.00-4941.48: For the non-life business. 
+asr:0: OUTPUT 4942.26-4944.76: So this is, that is also a group. 
+asr:0: OUTPUT 4945.25-4947.29: So then you have a net of. 
+asr:0: OUTPUT 4947.31-4955.92: Of both things and remind that this is paid by Segur Casadeslas, that actually it's owned. 
+asr:0: OUTPUT 4956.00-4960.82: 49.9% by cash a bank. 
+asr:0: OUTPUT 4961.28-4962.52: Of the world. 
+asr:0: OUTPUT 4962.68-4964.82: Impact on the equity accounted. 
+asr:0: OUTPUT 4965.23-4972.93: From Seguro Cachadas, but if you do, the net of all those impacts actually is not. 
+asr:0: OUTPUT 4974.59-4976.70: Cities I could over 10 years. 
+asr:0: OUTPUT 4977.64-4981.90: And unfortunately, we still don't have a final view. 
+asr:0: OUTPUT 4982.48-4987.73: On which is going to be the final breakdown by P&L. 
+asr:0: OUTPUT 4988.03-4995.48: Because there are different moving pieces and unfortunately we are still working on it and I am sure we will be able to inform. 
+asr:0: OUTPUT 4996.08-5000.56: Once we announce the first quarter results. 
+asr:0: OUTPUT 5001.12-5006.33: And back to your question about the mortgage portfolio, I was consulting my notes. 
+asr:0: OUTPUT 5008.21-5011.47: Well, I can give you the data for the overall portfolio. 
+asr:0: OUTPUT 5011.53-5019.92: But we have now at group level at fixed 35% of the loan book. 
+asr:0: OUTPUT 5020.00-5021.22: And this is the Lombo. 
+asr:0: OUTPUT 5022.00-5024.40: And at floating 65. 
+asr:0: OUTPUT 5024.97-5032.15: And of the total loan book indexed to 12-month arrival, we have 42%. 
+asr:0: OUTPUT 5033.15-5040.72: And then we have three months arrival 12% and six months arrival 7%. So this is approximately the breakdown. 
+asr:0: OUTPUT 5042.62-5044.18: To the mortgage portfolio. 
+asr:0: OUTPUT 5044.98-5053.89: Percentage of floating to fix is a little bit lower, it's approximately 25% fix and 75% floating. 
+asr:0: OUTPUT 5055.38-5061.44: Thank you. 
+asr:0: OUTPUT 5062.68-5065.67: It comes from the line of Borja Ramirez, please go ahead. 
+asr:0: OUTPUT 5068.97-5071.21: So good morning. Thank you very much for your time. 
+asr:0: OUTPUT 5071.67-5073.13: I have two quick questions. 
+asr:0: OUTPUT 5074.35-5080.00: Firstly, as a follow-up on the AUM growth,. 
+asr:0: OUTPUT 5080.10-5085.99: We could kindly provide a bit more detail on the outlook of the close of AUM. 
+asr:0: OUTPUT 5086.61-5095.44: Did you see an increase in the conversion of the 4-6 into ADM? 
+asr:0: OUTPUT 5096.88-5102.62: And then my second question would be related to CID. 
+asr:0: OUTPUT 5103.94-5109.31: I saw an announcement that KaiserLank had launched ESG advisory capabilities. 
+asr:0: OUTPUT 5109.97-5119.86: I would like to ask if you could provide some details on the CID opportunity for the group. Thank you. 
+asr:0: OUTPUT 5127.07-5134.41: I'll start with that, Borja, thanks. Obviously ESG is a big, big driver. 
+asr:0: OUTPUT 5134.95-5143.20: We actually did over 30 billion of ESG related funding for clients only in 2021. 
+asr:0: OUTPUT 5144.80-5149.99: It's a moving environment, fast moving. 
+asr:0: OUTPUT 5150.73-5153.41: And, um... 
+asr:0: OUTPUT 5153.43-5161.06: It's become integral part of what corporations have to do is to fund themselves but also show that path. 
+asr:0: OUTPUT 5161.08-5168.23: Towards net zero on the environmental side and obviously a number of other considerations both on the environmental and social. 
+asr:0: OUTPUT 5169.49-5172.13: Having that dialogue is absolutely critical. 
+asr:0: OUTPUT 5172.25-5180.82: And you look at the sustainable fund in last year, we were number 6, we were first among the Spanish banks. 
+asr:0: OUTPUT 5180.98-5184.88: We have a great DNA, a great team. 
+asr:0: OUTPUT 5185.51-5192.21: And lots of early winds, not so early but lots of very significant winds. 
+asr:0: OUTPUT 5193.05-5195.04: We have, for instance,. 
+asr:0: OUTPUT 5195.06-5198.06: Growth of 41%. 
+asr:0: OUTPUT 5198.08-5201.00: In sustainable operations. 
+asr:0: OUTPUT 5201.02-5204.78: In 2021 vis-à-vis 2020. 
+asr:0: OUTPUT 5204.86-5220.90: Big opportunity both for us in terms of how we position ourselves, Javier made some comments about how the sustainability agencies look at us and we are almost at the top, almost from every dimension. 
+asr:0: OUTPUT 5220.92-5223.04: Or from every agency. 
+asr:0: OUTPUT 5223.24-5227.67: Lots of things to do but plenty of opportunities indeed. 
+asr:0: OUTPUT 5229.19-5235.08: AUM conversion of deposits is obviously part of the study. Javier, do you want to add anything? 
+asr:0: OUTPUT 5237.92-5244.58: But I mentioned that it's, as you know well, it's one of our key businesses. 
+asr:0: OUTPUT 5246.91-5254.97: Have had 9 billion euros of inflows. I mentioned that we don't see less than this into 2020. 
+asr:0: OUTPUT 5257.32-5258.68: We think that we do it well. 
+asr:0: OUTPUT 5259.52-5260.52: The proper manner. 
+asr:0: OUTPUT 5261.82-5268.47: You know that this is not about pushing, it's about the proper distribution, about the advantage. 
+asr:0: OUTPUT 5268.89-5274.71: And we have I think the most advanced advisory model in Spain. 
+asr:0: OUTPUT 5276.02-5285.89: Well and at the end of the day this is doing well, inflows every quarter, even in the worst. 
+asr:0: OUTPUT 5286.59-5289.49: When markets had such high volatility. 
+asr:0: OUTPUT 5290.19-5297.82: We've had no outflows, so this already tells you that the selling process, the distribution process, the advisory process. 
+asr:0: OUTPUT 5297.84-5307.63: Has been done well. And just to reconfirm one more time, that is one of our key levers for revenues. 
+asr:0: OUTPUT 5308.85-5315.01: Okay, thanks, Borja. Operator, let's take one final question, please. Thank you. 
+asr:0: OUTPUT 5316.00-5319.98: It's from the line of Muerta Sanchez Romero from Bank of America. Please go ahead. 
+asr:0: OUTPUT 5321.80-5326.53: Thank you very much. Just a couple of quick ones. The first one on mortgages. 
+asr:0: OUTPUT 5326.59-5333.57: What level of market share in your mortgage lending would make you confident the My Home campaign has been a success? 
+asr:0: OUTPUT 5334.19-5336.08: You're currently around 10, 11%. 
+asr:0: OUTPUT 5337.18-5346.73: And the second question is on capital. What has been the impact on core equity tier 1 from the revaluation of your pension liability this quarter? 
+asr:0: OUTPUT 5348.11-5353.49: Sure, on my home, again, it's not just about mortgages, Martha, so maybe. 
+asr:0: OUTPUT 5353.51-5360.14: We do greatly or just half greatly in mortgages, but there's plenty of consumer. 
+asr:0: OUTPUT 5360.16-5362.26: Associated to that and plenty of insurance. 
+asr:0: OUTPUT 5362.72-5369.29: So we don't want to define the success of my home by just the mortgage product. 
+asr:0: OUTPUT 5370.43-5376.46: But it will contribute, that's our clear view, to a higher share of new production. 
+asr:0: OUTPUT 5376.98-5380.66: We haven't made a target now of a share of new production. 
+asr:0: OUTPUT 5381.04-5382.26: But I would say. 
+asr:0: OUTPUT 5382.40-5388.77: I think we have to be much closer to our sort of. 
+asr:0: OUTPUT 5388.79-5395.36: Stock market share of mortgages than we are currently. 
+asr:0: OUTPUT 5395.84-5398.98: And that means a significant increase in new production. 
+asr:0: OUTPUT 5399.42-5406.29: I.e. Above 50% increase in new production is something that we should be expecting for this year. 
+asr:0: OUTPUT 5406.43-5413.41: Time will tell you what to put on also on the market but yes a significant impact. 
+asr:0: OUTPUT 5414.17-5420.00: Yes, on pension liability, I was consulting my feelers, but they. 
+asr:0: OUTPUT 5420.62-5421.76: From. 
+asr:0: OUTPUT 5424.94-5429.07: That lats, so it's just a few basis points. 
+asr:0: OUTPUT 5434.15-5438.98: And the variabilities are also revalued at market levels. 
+asr:0: OUTPUT 5439.64-5443.94: In an issue at all, nor the ALCO portfolio. 
+asr:0: OUTPUT 5444.14-5451.39: That you know that we have the major part of it accounted as hope to maturity. 
+asr:0: OUTPUT 5451.79-5455.98: For sale or the portfolio. 
+asr:0: OUTPUT 5456.20-5458.78: With impact on her well-being. 
+asr:0: OUTPUT 5458.86-5468.27: Is limited because you know that we have the long standing view that deals should go up at some point. 
+asr:0: OUTPUT 5469.23-5478.02: Thank you, Marta. Okay, thanks Marta. That's all we have time for today. It's been a pleasure to host you. One more quarter and thank you for watching and goodbye. 
+asr:0: END

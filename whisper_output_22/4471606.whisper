@@ -1,0 +1,542 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.04-5.57: Ladies and gentlemen, thank you for standing by. I'm Myrtle, your course co-operator. 
+asr:0: OUTPUT 6.11-14.75: Welcome and thank you for joining the HEP CIBURRADA conference call and live webcast to present and discuss the third quarter 2021 financial results. 
+asr:0: OUTPUT 15.56-18.98: All participants will be in listening only mode and the conference is being recorded. 
+asr:0: OUTPUT 19.48-28.61: The presentation will be followed by a question and answer session. Should anyone need assistance during the conference call, you must declare an operator by pressing star and zero on your telephone. 
+asr:0: OUTPUT 29.17-37.46: At this time, I would like to turn the conference over to Ms. Helene Selig-Bilek, Investor Relations Director. Ms. Selig-Bilek, you may now proceed. 
+asr:0: OUTPUT 39.12-45.63: Thank you, operator. Thank you for joining us today for HIFCV Brada's third quarter 2021 earnings call. 
+asr:0: OUTPUT 46.15-51.21: I'm pleased to be joined on the call today by our CEO, Murat Emirdag and our CFO, Korhan Öz. 
+asr:0: OUTPUT 51.93-57.80: The following discussion, including responses to your questions, reflects management views as of today's date only. 
+asr:0: OUTPUT 58.20-63.72: We do not undertake any obligation to update or revise this information except as required by law. 
+asr:0: OUTPUT 64.24-71.33: Certain statements made on today's call are forward-looking statements. Actual results may differ materially from these forward-looking statements. 
+asr:0: OUTPUT 72.05-81.90: The earnings release has been filed with the SEC on a form 6K and is currently available on the SEC's website and on our investor relations website. 
+asr:0: OUTPUT 82.44-89.05: Please refer to today's earnings release as well as the risk factors described in the Safe Harbor slide of today's presentation. 
+asr:0: OUTPUT 89.07-90.65: Today's press release. 
+asr:0: OUTPUT 90.67-99.24: The 6k, our prospectus filed with the SEC on July 1st, 2021, and other SEC filings for information about factors. 
+asr:0: OUTPUT 99.26-103.44: Which could cause our actual results to differ materially from these forward-looking statements. 
+asr:0: OUTPUT 104.38-108.43: Also, we will reference certain non-IFRS measures during today's call. 
+asr:0: OUTPUT 108.95-114.39: Please refer to the appendix of our supplemental slide deck as well as today's earnings release. 
+asr:0: OUTPUT 114.41-122.18: For a presentation of the most directly comparable IFRS measure as well as the relevant IFRS and non-IFRS reconciliations. 
+asr:0: OUTPUT 122.80-132.25: As a reminder, a replay of this call will be available on the Investor Relations page of HTSI Brada's website. With that, I will now hand this over to our CEO, Murad. 
+asr:0: OUTPUT 135.50-143.36: Thank you, Helen, and welcome everyone. Before we dive into the quarterly updates, some of which we shared in our pre-announcement on November 12th,. 
+asr:0: OUTPUT 143.92-149.55: Let me start by saying that we, the HB team, acknowledge the concerns of the market. 
+asr:0: OUTPUT 150.49-158.02: Given the headwinds we previously reported on, we had a challenging Q3 and fell behind our expectations in GMV and WTH. 
+asr:0: OUTPUT 158.84-167.65: Today, we will share actions that raise those challenges in the market. Also, we will share with you positive news on the progress we have been making. 
+asr:0: OUTPUT 168.57-176.36: With that, before passing over to Korhan for a more detailed look at our financials, let me provide some context around the third quarter. 
+asr:0: OUTPUT 179.82-187.75: Since our ITO, there have been strong headwinds on multiple fronts in the Turkish market, which have presented significant challenges. 
+asr:0: OUTPUT 188.61-191.43: There are three themes that particularly stand out. 
+asr:0: OUTPUT 191.91-201.56: Firstly, following the full lifting of COVID-19 restrictions on July 1st, mobility increased and customer behavior began changing dramatically. 
+asr:0: OUTPUT 202.36-211.85: The change was so drastic that the quarter-on-quarter market growth slowed to its lowest third-quarter growth rate in the past four years in Turkey. 
+asr:0: OUTPUT 212.35-218.02: According to Turkey Statistics Institute tweet and Interbank Car Center VKM. 
+asr:0: OUTPUT 218.82-227.61: In response to the slowdown, we increased the customer discount to stimulate customer demand during that period, in particular in July and August. 
+asr:0: OUTPUT 229.79-238.24: Secondly, the competition further intensified in Turkey, as evidenced by the fundraising announcement of our main competitor following our IPO. 
+asr:0: OUTPUT 239.26-244.26: And thirdly, there was the impact of the overall macroeconomic environment in Turkey. 
+asr:0: OUTPUT 244.84-253.11: In particular, the exchange rate becoming more volatile since September could have affected customers' consumption decisions in various ways. 
+asr:0: OUTPUT 254.25-260.28: In light of these macroeconomic headwinds, customer discounts and competitive pricing became more essential. 
+asr:0: OUTPUT 261.90-268.23: In response to this headwind, we increased spending on total customer discounts, marketing, and advertising. 
+asr:0: OUTPUT 269.05-273.99: As a result, we continue to generate strong GNV growth despite significant hedge wins. 
+asr:0: OUTPUT 274.53-279.90: But this came at the cost of lowering our gross contribution margin and flat revenue growth. 
+asr:0: OUTPUT 281.28-288.27: Finally, as you know, we already informed the market with a pre-announcement on November 12 prior to this call. 
+asr:0: OUTPUT 288.99-293.05: We now want to share with you the context regarding the timing of the announcement. 
+asr:0: OUTPUT 294.01-297.84: Our business has always shown a strong and loaded seasonality. 
+asr:0: OUTPUT 298.50-303.56: Historically, the second half of the year is higher than the first half in terms of GMD. 
+asr:0: OUTPUT 304.02-319.70: And within the second half, the last four months of the year generally make approximately 40% of annual GMV due to key shopping occasions such as back to school, legendary November shopping month, and New Year season. 
+asr:0: OUTPUT 320.96-330.45: Taking this signal into account, we made the pre-announcement after we had full visibility on the business performances in the months of September and October. 
+asr:0: OUTPUT 333.57-341.92: Despite these major headwinds in the third quarter, we also have positive news regarding the progress being made in multiple fronts, including as follows. 
+asr:0: OUTPUT 342.98-349.27: Accelerating our growth drivers such as increase in customer, order frequency, merchant and selection. 
+asr:0: OUTPUT 350.25-358.30: Strengthening our key differentiators such as MPS performance, unique services like frictional return, merchant and customer experience. 
+asr:0: OUTPUT 359.60-367.01: Gaining our new strategic assets including our wallet companion HapsiPay and our on-demand grocery delivery service HapsiExpress. 
+asr:0: OUTPUT 367.03-369.97: And also expanding our logistics footprint. 
+asr:0: OUTPUT 371.19-376.86: Before we move into details on business updates, please let me reemphasize two things. 
+asr:0: OUTPUT 377.94-384.64: Firstly, with a sharpened focus on key differentiators and drivers of sustainable GMB growth,. 
+asr:0: OUTPUT 385.25-392.71: Managing customer discounts, marketing spend, and cash flow more efficiently, we will deliver our long-term value proposition. 
+asr:0: OUTPUT 393.79-401.14: Secondly, following our IPO, the market conditions have changed, but the attractive bids opportunity did not. 
+asr:0: OUTPUT 402.00-404.88: 90% of total retail is still offline. 
+asr:0: OUTPUT 405.33-412.47: And the remaining online 10% is expected to double its penetration within total retail by 2025. 
+asr:0: OUTPUT 413.15-416.86: Offering a sizable and timely market opportunity ahead. 
+asr:0: OUTPUT 417.82-422.18: This keeps our equity story intact and we remain fully committed to it. 
+asr:0: OUTPUT 423.18-430.03: Now, I would like to share a few highlights from our financial and operational performance in the third quarter. 
+asr:0: OUTPUT 432.49-440.02: Total number of orders in the third quarter marked an all-time quarterly high at 13.8 million. 
+asr:0: OUTPUT 441.22-442.56: With this strong. 
+asr:0: OUTPUT 442.58-451.61: 72% older growth generated a 50% GMV growth in the third quarter compared to the same period of last year. 
+asr:0: OUTPUT 452.67-459.22: Considering the strong baseline effect last year, our 2-year CAGR growth rate was 84%. 
+asr:0: OUTPUT 460.76-470.17: While increasing our active customer base, we also noticed that we had successfully engaged our customers in terms of GMV per active customer. 
+asr:0: OUTPUT 470.19-471.29: Across the platform. 
+asr:0: OUTPUT 471.87-477.56: As it grew by 33% year-on-year compared to the same period last year. 
+asr:0: OUTPUT 478.76-487.35: On the other hand, the 50% GMV growth came in more costly than we anticipated given the market headwinds I briefly mentioned. 
+asr:0: OUTPUT 488.43-498.14: In the third quarter, we gain more customer discounts in total and spend more advertising to stimulate demand and also cope with the intensified competitive environment. 
+asr:0: OUTPUT 499.26-508.29: This is visible in the BTA as a percentage of GMV reaching a negative 10.2% in the third quarter compared to the same period of last year. 
+asr:0: OUTPUT 509.91-517.74: Taking a BTHA negative 5.7% of GMV in the nine-month cumulative period in 2021. 
+asr:0: OUTPUT 520.08-529.67: Korhan will address our financial performance in more depth in his section. Let's move to the next slide where I would like to discuss our performance in key growth drivers. 
+asr:0: OUTPUT 532.55-537.22: Exhilarating our drivers of sustainable GMB growth is an important focus area for us. 
+asr:0: OUTPUT 537.88-546.25: This means we aim continuously to attract more customers, drive further order frequency, and add more merchants and enrich our selection. 
+asr:0: OUTPUT 547.39-550.59: Over the past year, we continue to progress in these drivers. 
+asr:0: OUTPUT 551.15-563.30: Our investment in growth, brand, marketplace, and customer experience paid off given the strong momentum in our active customer base, order frequency, active merchant base, and selection. 
+asr:0: OUTPUT 564.62-573.03: Let me now share a few data points here. Active customer base grew by 26%, reaching 10.7 million in the third quarter. 
+asr:0: OUTPUT 574.29-579.32: Order frequency grew by 21%, reaching 4.4 in the Q3. 
+asr:0: OUTPUT 580.50-586.99: Active merchant base grew by 87% reaching 67,000 in Q3. 
+asr:0: OUTPUT 588.09-595.20: The rising number of merchants facilitates a wider selection with improved availability across long-tail products and services. 
+asr:0: OUTPUT 596.06-604.76: As a result, our total number of SKUs more than doubled by reaching 77 million at the end of the third quarter. 
+asr:0: OUTPUT 605.73-611.05: These robust trends in our key growth drivers give us confidence for our path ahead. 
+asr:0: OUTPUT 612.49-619.44: Let's move to the slide where I would like to highlight how we continue to develop and benefit from our key differentiators. 
+asr:0: OUTPUT 622.72-633.93: As a household brand name in Turkey with 99% total awareness, we had welcomed 240 million sessions on a monthly average in the third quarter. 
+asr:0: OUTPUT 635.08-638.82: In September, based on the study contacted for our company,. 
+asr:0: OUTPUT 638.84-645.87: RMPS performance marks the highest in the Turkish e-commerce market at 65%. 
+asr:0: OUTPUT 646.81-651.01: This course shows our superior customer experience. 
+asr:0: OUTPUT 651.03-657.34: But also underlines our robot logistics capabilities as key differentiations in customer experience. 
+asr:0: OUTPUT 658.84-668.21: Frixion's return service, where we pick up returns from customer stores at their preferred schedule across the country, is unique to HepsiBroda in this sector. 
+asr:0: OUTPUT 668.91-677.76: With this service, we were awarded with the Golden Award at the International Business Awards in the Best User Experience category in October. 
+asr:0: OUTPUT 678.84-685.33: With its coverage of 81 cities and 1800 carriers, HapsiPay is... Sorry. 
+asr:0: OUTPUT 685.35-688.95: HappyJet is highly focused on increasing its delivery speed. 
+asr:0: OUTPUT 690.09-697.00: In the third quarter, FCJ delivered 75% of 1p orders on the next day. 
+asr:0: OUTPUT 698.22-707.19: In addition, HEPCIJET expanded its city coverage for its two-man cargo handling service, called HEPCIJET-X-Large. 
+asr:0: OUTPUT 707.59-712.83: And began offering scheduled return pickup for such oversized products as well. 
+asr:0: OUTPUT 714.15-731.17: Offering a high quality and reliable service in that particular segment has to just X large has made a significant difference in customer experience and achieve over 97% customer satisfaction score in September, according to our internal reporting. 
+asr:0: OUTPUT 732.33-736.54: While we are encouraged by the strong progress in our growth drivers,. 
+asr:0: OUTPUT 736.88-742.02: We will certainly keep on differentiating with our best-in-class customer experience. 
+asr:0: OUTPUT 742.04-748.85: Powered by our robust logistics reaching over 190,000 square meters at this point. 
+asr:0: OUTPUT 749.89-754.73: Another important opportunity for us to further differentiate is the merchant experience. 
+asr:0: OUTPUT 757.74-760.86: Regard our merchants as our long-term partners. 
+asr:0: OUTPUT 761.44-769.63: As such, we pursue a constructive approach with our value proposition, which has helped us to significantly grow the number of active merchants. 
+asr:0: OUTPUT 770.47-775.78: I would like to share some data points that will shed light on the level of integrated offerings. 
+asr:0: OUTPUT 776.64-786.15: In the third quarter, our last mile delivery service has delivered around 53% of our total marketplace parcels. 
+asr:0: OUTPUT 787.21-793.91: This corresponds to the largest share in delivered parcels volume on a quarterly basis by FTJ. 
+asr:0: OUTPUT 795.12-802.74: At Logistics, our fulfillment service has increased its focus on scaling its volume from merchants on our platform. 
+asr:0: OUTPUT 803.52-809.59: It has significant room for growth and is running its operations at our six fulfillment centers. 
+asr:0: OUTPUT 811.21-814.37: Our advertising service has been increasing in popularity. 
+asr:0: OUTPUT 815.24-823.42: Nearly 12,000 merchants use our sponsored ads through our advertising platform HapsteeAds in the third quarter. 
+asr:0: OUTPUT 824.97-833.63: We believe our strategic collaborations with Facebook and Google on advertising technology and solutions will contribute to the growth of the business. 
+asr:0: OUTPUT 835.40-840.76: Moreover, we continued our merchant training to accelerate their integration onto our platform. 
+asr:0: OUTPUT 841.52-851.01: As such, in the first nine months of 2021, around 39,000 training sessions were completed on our training portal, Hep-C Academy. 
+asr:0: OUTPUT 851.93-859.36: Now, I would like to update you on our new strategic assets, in particular, HFCPay and HFCPay Express. 
+asr:0: OUTPUT 863.12-865.15: Let me begin with Hep C pay first. 
+asr:0: OUTPUT 866.21-875.60: Since its debut in June 2021, FCPAI has made strong progress, reaching 2.7 million FCPAI wallet base. 
+asr:0: OUTPUT 876.72-883.88: As of the end of October, 2.4 billion Turkish Lira Gmb passed through HepsiPay wallet. 
+asr:0: OUTPUT 885.13-903.34: With its license to operate as an open wallet, HapsiPay aspires to evolve into best-in-class payment companion, enabling frictionless experience across payment, money transfers, and other incremental FinTech capabilities across online and offline worlds. 
+asr:0: OUTPUT 904.97-913.73: Accordingly, in November, HTP agreed with PaySelf, which is a fintech subsidiary of Turkey's leading telecom operator Turkcell. 
+asr:0: OUTPUT 914.31-919.10: To enable direct carrier billing capability at HAPCPay Wallet. 
+asr:0: OUTPUT 920.00-926.85: By doing so, Turkcell customers will be able to shop at HPC Burada without a credit or debit card. 
+asr:0: OUTPUT 928.05-935.01: With HEPCPAY, we are extremely excited about the future opportunities ahead, across online and offline. 
+asr:0: OUTPUT 936.78-940.08: Another asset we are excited about is FCExpress. 
+asr:0: OUTPUT 940.94-947.13: FastExpress is our on-demand grocery delivery service with instant and slotted delivery options. 
+asr:0: OUTPUT 948.05-959.78: We regard Hepster Express as a strategic asset as we believe it is well positioned to drive further order frequency and new customer acquisitions for the platform. 
+asr:0: OUTPUT 960.90-967.87: At Hesta Express, we are focused on enhancing our customer experience, selection, and ecosystem synergies. 
+asr:0: OUTPUT 969.19-973.57: Accordingly, we developed a new cross-service search capability. 
+asr:0: OUTPUT 974.11-981.30: This allows customers to discover products and compare prices among different stores in a frictionless way. 
+asr:0: OUTPUT 981.32-984.50: Which is an essential part of the multi-store model. 
+asr:0: OUTPUT 985.39-991.65: Further, Hepsa Express began accepting payments via debit card, which enlarged its addressable audience. 
+asr:0: OUTPUT 992.71-1000.04: In addition to internal development, Hapsta Express expanded to over 50 retailer brands and roughly. 
+asr:0: OUTPUT 1000.06-1008.11: 1950 stores including regional retailers as well as national retailers such as Carrefour and Shock. 
+asr:0: OUTPUT 1009.21-1016.46: And just this month, Hepstet Express made a new partnership deal with Migros, a leading national retailer. 
+asr:0: OUTPUT 1017.14-1020.88: We can't wait to welcome the Negroes shop on our platform moving forward. 
+asr:0: OUTPUT 1024.30-1027.45: Before I finish, let me reiterate a few key areas. 
+asr:0: OUTPUT 1029.41-1033.03: 90% of total retail is still offline. 
+asr:0: OUTPUT 1033.47-1041.14: And that remaining online 10% is expected to double its penetration within total retail by 2025. 
+asr:0: OUTPUT 1041.58-1044.90: Offering a sizable and timely market opportunity. 
+asr:0: OUTPUT 1046.01-1055.60: I want to wrap up here by reassuring you that with our strong customer and merchant base, our hybrid 1P and 3P models,. 
+asr:0: OUTPUT 1055.62-1059.38: Are differentiated services for customers and merchants. 
+asr:0: OUTPUT 1060.10-1067.19: Our robots logistics network, our continued investment in technology and data science alongside with the talent. 
+asr:0: OUTPUT 1067.21-1077.18: And our strategic assets emerging from our ecosystem such as HFC Pay, HFC Express, HFC Jet and HFC Ads. 
+asr:0: OUTPUT 1077.48-1081.14: We are well positioned to capture the business opportunity ahead. 
+asr:0: OUTPUT 1082.04-1086.85: We believe that our equity story is intact and we remain fully committed to it. 
+asr:0: OUTPUT 1087.95-1099.70: Regarding 2021, in light of current market conditions, we are forecasting a full-year 2021 GMV to be around 24 billion Turkish Liras as previously disclosed. 
+asr:0: OUTPUT 1100.68-1105.97: With this, I would like to thank you for listening and leave the floor to our CFO, Korhan. 
+asr:0: OUTPUT 1110.33-1112.55: Thank you, Murat, and welcome everyone. 
+asr:0: OUTPUT 1114.05-1126.53: As Murat elaborated in his section, our value proposition for our customers has been instrumental in driving our growth drivers across the number of active customers with 26% growth. 
+asr:0: OUTPUT 1126.95-1136.22: Order frequency with 21% growth, active merchants with 87% growth, and number of SKUs with more than 100% growth. 
+asr:0: OUTPUT 1137.44-1145.13: Accordingly, with a 72% yearly order growth, we generated around 50% GMV growth in the third quarter. 
+asr:0: OUTPUT 1146.13-1150.03: This performance was achieved against an already strong base of last year. 
+asr:0: OUTPUT 1150.75-1157.12: On a two-year compounded basis, our growth momentum continued in the third quarter at 84%. 
+asr:0: OUTPUT 1158.08-1163.38: On the next slide, I would like to discuss how certain factors impacted our financial performance. 
+asr:0: OUTPUT 1166.47-1177.00: There are key factors that we need to discuss in depth to better understand the dynamics affecting our revenue and gross contribution margin in the third quarter. 
+asr:0: OUTPUT 1177.68-1180.40: Let me start by commenting on our commission rate. 
+asr:0: OUTPUT 1181.22-1191.01: Our commission rates that we charge to our merchants on the marketplace remained at around the same level in the third quarter compared to the same period last year. 
+asr:0: OUTPUT 1191.97-1197.46: Our average commission rate that we are able to charge to our merchants is in the high single digits. 
+asr:0: OUTPUT 1198.66-1201.82: Another factor is the 1P3P mix. 
+asr:0: OUTPUT 1202.56-1211.21: The 13 percentage point year-on-year GMV share shift from retail to marketplace in the third quarter resulted in lower revenue. 
+asr:0: OUTPUT 1211.87-1217.62: And yet, this shift was in line with the continued expansion of our merchant base and selection. 
+asr:0: OUTPUT 1218.68-1224.10: Another key factor is, as already discussed by Murat, the third quarter. 
+asr:0: OUTPUT 1224.16-1226.35: Was impacted by major headwinds. 
+asr:0: OUTPUT 1226.85-1234.95: Our response to this new environment was to increase total customer discounts significantly in particularly July and August. 
+asr:0: OUTPUT 1235.78-1241.08: Starting from September onwards, we did gradually lower such customer discounts. 
+asr:0: OUTPUT 1241.68-1249.17: And in October, we continued on generating efficiencies on our total spending with some encouraging results. 
+asr:0: OUTPUT 1249.93-1251.33: However,. 
+asr:0: OUTPUT 1251.35-1263.48: Q4 is not the best quarter to realize the full impact on efficiencies due to existence of peak occasions such as the legendary November shopping month as well as the New Year season. 
+asr:0: OUTPUT 1264.84-1278.90: Overall, these were the most instrumental factors to our performance of nearly flat revenues at around 1.7 billion TL and 4.3% gross contribution margin in the third quarter. 
+asr:0: OUTPUT 1280.04-1291.37: It is worth mentioning that our gross contribution margin is not a direct reflection of the commission rate, but it reflects our marketplace commission net of customer discounts. 
+asr:0: OUTPUT 1292.27-1298.62: On the next slide, I would like to discuss revenue performance further along with gross contribution performance. 
+asr:0: OUTPUT 1303.48-1310.77: Before further discussing gross contribution, I would like to give some color on our revenue breakdown compared to the same quarter of last year. 
+asr:0: OUTPUT 1311.63-1315.64: Revenue generated from retail operations remains flat. 
+asr:0: OUTPUT 1315.66-1322.84: While marketplace revenues declined 80% mainly due to higher customer discounts as I have touched upon. 
+asr:0: OUTPUT 1323.78-1330.61: Meanwhile, our delivery service revenue increased by 83% driven by the rise in the number of orders. 
+asr:0: OUTPUT 1330.63-1335.80: And higher delivery service revenue from services provided to third parties. 
+asr:0: OUTPUT 1337.02-1344.66: In the first nine months, total revenues grew by around 15% compared to the first nine months of 2020. 
+asr:0: OUTPUT 1345.69-1352.85: Now at the gross contribution level, our gross contribution was 280 million TL in the third quarter. 
+asr:0: OUTPUT 1353.73-1361.94: This is reflected as a 4.5 percentage point decline in gross contribution margin compared to the third quarter of last year. 
+asr:0: OUTPUT 1363.24-1371.43: In the first nine months, gross contribution grew by around 11% compared to the first nine months of 2020. 
+asr:0: OUTPUT 1372.09-1375.40: With a 7.1% gross contribution margin. 
+asr:0: OUTPUT 1376.58-1380.00: Now let's have a look at our operating expenses in the next slide. 
+asr:0: OUTPUT 1383.96-1391.45: Our net operating expenses as a percentage of GMV reached 14.5% in the third quarter. 
+asr:0: OUTPUT 1391.47-1394.35: Up from 8.6% AU record. 
+asr:0: OUTPUT 1395.14-1403.40: Around 5.9 percentage point rise was mainly due to 3.9 percentage point rise in advertising expenses. 
+asr:0: OUTPUT 1403.42-1406.69: As we continue to invest in our growth drivers. 
+asr:0: OUTPUT 1407.39-1414.89: These advertising expenses, unfortunately, became more costly under intensified competitive environment in the third quarter. 
+asr:0: OUTPUT 1416.00-1423.50: 1.3 percentage points rise in our GNA expenses due to rise in the number of full-time and outsource employees. 
+asr:0: OUTPUT 1423.52-1426.41: Along with the impact of annual salary rise. 
+asr:0: OUTPUT 1427.15-1435.86: The impact of share-based payment expenses booked in Q3 2021 was 0.8 percentage points within the total increase. 
+asr:0: OUTPUT 1437.40-1446.55: 0.7 percentage point rise in shipping and packing expenses driven by the 72% increase in number of orders. 
+asr:0: OUTPUT 1446.57-1451.55: And around 22% rise in unit prices applied by our delivery partners. 
+asr:0: OUTPUT 1453.33-1456.42: Let's move to EBTA margin bridge on the next slide. 
+asr:0: OUTPUT 1460.10-1462.96: As a function of aforementioned drivers. 
+asr:0: OUTPUT 1463.00-1474.09: EBITDA in the third quarter was negative 659.4 million TL compared to positive 8.9 million TL in Q3 2020. 
+asr:0: OUTPUT 1475.06-1482.96: This corresponds to a negative 10.2% CBD8 as a percentage of GMB in Q321. 
+asr:0: OUTPUT 1482.98-1491.01: And negative 5.7% EBTA as a percent of GMB for the nine months cumulative as of Q3 2021. 
+asr:0: OUTPUT 1492.29-1501.34: The increase was driven by 4.5 percentage points decreasing gross contribution margin due to customer discounts. 
+asr:0: OUTPUT 1501.84-1505.99: 3.9 percentage point rise in advertising expenses. 
+asr:0: OUTPUT 1506.51-1511.31: 1.2 percentage points rise in payroll and outsource staff expenses. 
+asr:0: OUTPUT 1511.65-1520.46: And 0.8 percentage point rise in other OPEX item excluding the cost of inventory sold and depreciation and amortization. 
+asr:0: OUTPUT 1521.86-1531.47: These results indicate that cost of growth was higher, primarily driven by the increasing customer discounts, advertising spend, and unit cost of marketing. 
+asr:0: OUTPUT 1532.87-1536.10: Finally, I would like to say a few words on our cash flow dynamics. 
+asr:0: OUTPUT 1539.56-1547.15: Net cash used in operating activities increased from negative 47.8 million TL in Q3 2020. 
+asr:0: OUTPUT 1547.17-1552.47: To negative 582.4 million TL in Q3 2021. 
+asr:0: OUTPUT 1553.19-1556.82: Which is mainly driven by the increase in net dose for the period. 
+asr:0: OUTPUT 1557.86-1566.77: Pre-cash flow was negative 639 million TL mainly driven by the decreasing cash flow from trading activities. 
+asr:0: OUTPUT 1567.45-1574.95: And this way mainly due to 698.8 million TL increase in our net loss for the period. 
+asr:0: OUTPUT 1576.52-1584.58: We continued to operate with negative networking capital, which reached 2.1 billion TL as of Q3 2021. 
+asr:0: OUTPUT 1584.94-1591.23: Increasingly by 23.4 million TL in Q2 2021. 
+asr:0: OUTPUT 1592.87-1597.46: CAPEX was 57 million TL in the third quarter of 2021. 
+asr:0: OUTPUT 1598.12-1602.14: Our investments were mainly for the product development across app. 
+asr:0: OUTPUT 1602.16-1608.99: Websites and mobile platforms given our growing operations and pure purchase of property and equipment. 
+asr:0: OUTPUT 1610.45-1617.24: Before I end my presentation, I would like to highlight that we feel comfortable with the liquidity we currently have. 
+asr:0: OUTPUT 1617.58-1625.11: And therefore we have no plans to go to the capital markets to raise any funds in the next 18 months. 
+asr:0: OUTPUT 1625.95-1629.99: With this, I end our presentation. Thanks for listening. 
+asr:0: OUTPUT 1630.39-1639.42: Operator, please open the floor for questions. Thank you. Ladies and gentlemen, at this time, we'll begin the question and answer session. 
+asr:0: OUTPUT 1640.06-1648.69: Anyone who wishes to ask a question may press star followed by 1 on the telephone. If you wish to remove yourself from a question key, then you may press star and tilt. 
+asr:0: OUTPUT 1649.67-1659.00: Please use your hands when asking your question for better quality. Anyone who has a question may press star and 1 at this time. One moment for the first question please. 
+asr:0: OUTPUT 1661.94-1666.95: The first question comes from a line of Tyrone Cesare with Bank of America. Please go ahead. 
+asr:0: OUTPUT 1669.23-1677.08: Yes, hi. Good morning or good afternoon, everyone. It's Cesar from Banks of America. Thanks so much for the presentation, the call, and the opportunity to ask questions. 
+asr:0: OUTPUT 1677.54-1679.34: I have four questions, if that's okay. 
+asr:0: OUTPUT 1679.92-1682.10: The first one. 
+asr:0: OUTPUT 1682.12-1693.99: Would really be on the competition and probably if you can explain a little bit more how does it impact the business being specific both about online and offline players. 
+asr:0: OUTPUT 1694.15-1699.16: And given that triangular capital raise was known since 2Q21,. 
+asr:0: OUTPUT 1699.30-1708.41: Did you maybe react a little bit with the lag to this incremental competition and that's why we're seeing this incremental spend in Q3? 
+asr:0: OUTPUT 1708.73-1709.73: That was the first question. 
+asr:0: OUTPUT 1710.99-1719.64: Second question, what was your 3P take rate in 3Q and how much was it down sequentially? 
+asr:0: OUTPUT 1721.18-1729.71: Third question, you seem to have stimulated GMV growth through a much larger than expected advertising spend in the quarter. 
+asr:0: OUTPUT 1730.35-1736.62: What do you think happens when you reduce advertising spend, or are you planning on keeping advertising? 
+asr:0: OUTPUT 1736.64-1742.00: To GMV at high single digit mark going forward. 
+asr:0: OUTPUT 1742.68-1752.17: And then on the fourth question relates to your comments on liquidity and no need to raise capital in the next 18 months. 
+asr:0: OUTPUT 1752.43-1755.07: Is that only valid for the next 18 months? 
+asr:0: OUTPUT 1755.18-1764.20: Should I consider that the cash burn of the company could be similar to Q3 going forward for the next couple of quarters? 
+asr:0: OUTPUT 1764.38-1774.79: Thank you so much. Thank you so much for the questions, Cesar. Actually, we appreciate the opportunity to address those as well. 
+asr:0: OUTPUT 1774.87-1778.28: In terms of the competition and actually how we reacted to it. 
+asr:0: OUTPUT 1778.30-1785.81: I guess it is fair to say when actually Alibaba raised the fundraising after our IPO. 
+asr:0: OUTPUT 1786.69-1790.89: There was an intensified competitive landscape in the market and also with God. 
+asr:0: OUTPUT 1791.15-1798.04: There's also a market headwind because of the market slowdown in the growth rate and other macro dynamics as well. 
+asr:0: OUTPUT 1798.44-1805.87: So all in combined, we needed to stimulate the customer demand to address the challenges. 
+asr:0: OUTPUT 1806.01-1809.03: Which means actually the heavily used customer discounts. 
+asr:0: OUTPUT 1809.53-1813.71: Then we also increased the amount of advertising to ensure. 
+asr:0: OUTPUT 1813.73-1823.54: We also get a fair share of voice and more access to our customers. And also, finally, the unit cost of marketing. 
+asr:0: OUTPUT 1823.60-1827.41: Also got impacted because of this instance-wide competitive landscape. 
+asr:0: OUTPUT 1827.67-1832.67: It also actually increased the total mix in terms of cost structure. 
+asr:0: OUTPUT 1832.77-1837.38: So in other words, we heavily use customer discounts to stimulate the demand in the market. 
+asr:0: OUTPUT 1837.92-1844.34: We increased the amount of marketing and advertising we used, but also the unit cost of marketing and advertising also went up. 
+asr:0: OUTPUT 1844.80-1849.61: This is the combination of the actually like the structure you referred. 
+asr:0: OUTPUT 1849.79-1855.20: In terms of the competitive landscape and how we reacted to it and why it was increasing the cost of marketing. 
+asr:0: OUTPUT 1856.30-1862.54: Now maybe let's shift to the second question. I guess, Kona, I can take this one. Yes. Thank you, Cesar, for your question. 
+asr:0: OUTPUT 1864.04-1869.31: Our take rates are the commissions that we are able to charge to our merchants. 
+asr:0: OUTPUT 1869.33-1876.94: Between Q2 and Q3, there is no significant change in our commissions that we charge to our merchants. 
+asr:0: OUTPUT 1877.26-1880.46: But if your question refers to gross contribution margin. 
+asr:0: OUTPUT 1880.74-1888.29: It is down by 4.3 percent and as I explained, this is mainly driven by the discounts that are given to our. 
+asr:0: OUTPUT 1888.31-1892.45: Customers during the intensive competition period. 
+asr:0: OUTPUT 1893.49-1900.00: And for the high advertising expense, I can say. 
+asr:0: OUTPUT 1900.10-1902.44: During. 
+asr:0: OUTPUT 1902.46-1910.25: Well, during September, as we mentioned before, we reduced CRM spending that are given to our customers. 
+asr:0: OUTPUT 1910.65-1919.04: And we continued this reduction during October. And we see some encouraging results during October. 
+asr:0: OUTPUT 1919.38-1926.49: However, Q4 is not the right period to make this assessment because it's the heavily discount period. 
+asr:0: OUTPUT 1926.89-1934.99: So we will be continuing this reduction starting from next year onwards. And we believe we will see some encouraging results going forward. 
+asr:0: OUTPUT 1935.82-1941.32: On the liquidity for the next 18 months, yes, in our initial plans. 
+asr:0: OUTPUT 1942.30-1949.23: We see that our liquidity is sufficient enough and we don't need any liquidity for the next 18 months. 
+asr:0: OUTPUT 1949.69-1952.93: And we have a plan for the next 24 months. 
+asr:0: OUTPUT 1953.29-1959.94: And by the end of this year, we might need to revise those plans because of the macroeconomic environment in Turkey. 
+asr:0: OUTPUT 1960.00-1968.05: However, it is not so easy to make us plan above 24 months for the time being. 
+asr:0: OUTPUT 1968.17-1971.91: But for the next 24 months, we feel comfortable in terms of the liquidity. 
+asr:0: OUTPUT 1972.61-1978.18: And I guess, Cesar, we head to us, I guess, just to make sure we are not missing out any questions unanswered. 
+asr:0: OUTPUT 1978.56-1982.78: But you also referred to what will happen, right, if you decree the retirement, if I'm not wrong. 
+asr:0: OUTPUT 1983.58-1990.25: And in terms of like the... Yeah, so more on the stickiness of consumers, et cetera. 
+asr:0: OUTPUT 1991.23-1999.58: Exactly, so I guess this is a very fair question. Also, like Quran said, we are already testing some efficient tools and tactics with the. 
+asr:0: OUTPUT 1999.60-2002.66: Increasing muscle of our data science and marketing outlets. 
+asr:0: OUTPUT 2002.92-2009.63: But also let me remind you, in our key differentiators and strongholds, we are not just relying on marketing as you know. 
+asr:0: OUTPUT 2009.85-2016.94: All the four components of our Group Drivers are growing. You saw the numbers. Customer, Frequency, Merchant and Selection. 
+asr:0: OUTPUT 2017.26-2020.94: It is a very healthy dynamic in terms of the growth and this has been happening. 
+asr:0: OUTPUT 2021.32-2026.93: So basically, when I refer to our other areas that are supporting our growth,. 
+asr:0: OUTPUT 2026.99-2032.51: I want to emphasize the fact that we are a household brand name, 99% total awareness. 
+asr:0: OUTPUT 2033.19-2038.08: We are the only one with this strong hybrid model, 1P and 3P. 
+asr:0: OUTPUT 2038.92-2045.61: We actually operate this, so I don't want to replicate, but the customer and merchant differentiate the experiences. 
+asr:0: OUTPUT 2045.67-2054.67: We can discuss in more depth in other questions. As you know, the frictionless return is unique to us and many more services for customers and many more unique services for merchants. 
+asr:0: OUTPUT 2054.71-2056.76: Like we offer in a package. 
+asr:0: OUTPUT 2057.24-2066.43: And then we are, as you saw, leading in terms of NPS, which is a great asset for us, where we differentiate the experience. 
+asr:0: OUTPUT 2067.01-2075.05: And of course our nationwide robust logistics coupled with our assets like pay, grocery on demand, Epsa Express. 
+asr:0: OUTPUT 2075.08-2077.42: Advertising and so on. 
+asr:0: OUTPUT 2077.62-2084.92: We feel we have many actually levers to drive the growth across the platform, but not just marketing. 
+asr:0: OUTPUT 2085.29-2090.59: And also we definitely gonna introduce more efficiency as we go forward. 
+asr:0: OUTPUT 2094.31-2103.24: Very helpful. Thanks so much. 
+asr:0: OUTPUT 2105.39-2109.03: Good afternoon, everyone. Thanks for taking my questions. It's Miriam and Padisha from August Stanley. 
+asr:0: OUTPUT 2109.57-2112.63: Firstly, just another question on competition. 
+asr:0: OUTPUT 2112.97-2117.54: I think you mentioned that you've lowered the discounting in September and October. 
+asr:0: OUTPUT 2117.78-2125.09: Is that because the market is becoming slightly less competitive or is it more you're just focusing more on profitability and getting better efficiency? 
+asr:0: OUTPUT 2125.37-2129.03: If you could just comment on what you're seeing in the last couple of weeks, that would be great. 
+asr:0: OUTPUT 2129.41-2136.52: And then also on competition as well, are you seeing that it's mainly just competition around marketing spend and then also discounting but. 
+asr:0: OUTPUT 2136.54-2144.18: Are there any other gaps that you're seeing that's emerged in terms of your proposition versus peers aside from just the discounting and high marketing spend? 
+asr:0: OUTPUT 2144.74-2150.29: And then finally, if you could just comment on the customer behavior that you're seeing at the moment in terms of order frequency. 
+asr:0: OUTPUT 2150.31-2157.10: And particularly the cohorts that you've acquired over COVID, how are those cohorts comparing to your prior cohorts? Thank you. 
+asr:0: OUTPUT 2160.00-2169.51: Maybe I can start from the last question first, which is referring to the customer behavior in terms of the order frequency, I guess, if I'm not mistaken. 
+asr:0: OUTPUT 2170.91-2177.06: So basically in terms of the drivers of our customer dynamics. 
+asr:0: OUTPUT 2177.20-2183.86: You can see both the customer numbers, active customer numbers and the order frequency increase. 
+asr:0: OUTPUT 2184.38-2190.73: And this is continuing in a healthy way. And also you can see the GMV per customer also rising. 
+asr:0: OUTPUT 2191.11-2194.47: That is actually the way we see in terms of the overall dynamics. 
+asr:0: OUTPUT 2194.49-2201.34: Because the GME per customer also increased by 33% as you saw in the numbers year over year. 
+asr:0: OUTPUT 2201.86-2208.03: And also going back to the customer behavior in this dynamic right now. 
+asr:0: OUTPUT 2208.77-2214.73: Actually right now, can you please scroll on I can I want to see the questions first. 
+asr:0: OUTPUT 2215.01-2219.26: Yes, because you start asking about the questions. I want to make sure I get all the questions you ask. 
+asr:0: OUTPUT 2219.64-2227.09: The other question you asked was lowering discounts. Are we getting better efficiency? I also want to address this. 
+asr:0: OUTPUT 2227.29-2235.56: In terms of the customer behavior, in July and August, actually we saw a very drastic slowdown, which we already mentioned back in the other earnings call. 
+asr:0: OUTPUT 2236.02-2243.90: As you can see from the public data from the Interbank Card Center and TÜV, Turkish Statistics Institute,. 
+asr:0: OUTPUT 2244.20-2247.95: There was a drastic drop in this Q3 this year, Q on Q. 
+asr:0: OUTPUT 2248.41-2258.40: So basically, moving on with the seasonality, we expect that the customer behavior will get better normalized. However,. 
+asr:0: OUTPUT 2258.72-2263.06: Given the macroeconomic headwind, also you want to be cautious about it. 
+asr:0: OUTPUT 2263.48-2269.17: In the first piece so far, up to this point, we can see. 
+asr:0: OUTPUT 2269.43-2277.64: We've been actually also unlocking a lot of efficiencies in our marketing practice, growth practice, and so on across the board. 
+asr:0: OUTPUT 2277.96-2280.26: Which is actually very encouraging. 
+asr:0: OUTPUT 2280.56-2290.51: However, we want to be also remain very cautious and realistic given these major macroeconomic headwinds, we need to closely monitor the customer behavior moving forward. 
+asr:0: OUTPUT 2291.09-2299.42: And as Koran says, Q4 is kind of a very extraordinary quarter with multiple shopping occasions and long period of campaign. 
+asr:0: OUTPUT 2299.68-2304.68: But also coupled with this macroeconomic headwinds, it's going to be a very interesting time for us to see. 
+asr:0: OUTPUT 2304.82-2306.91: So far, we are monitoring very closely. 
+asr:0: OUTPUT 2307.43-2314.25: And the second part you asked about actually, are you seeing any other area where you see any gap between us and competition? 
+asr:0: OUTPUT 2314.55-2320.24: I guess the good news is we are seeing that we are actually leading the MPS scores. 
+asr:0: OUTPUT 2320.88-2329.51: We are making significant differences in many areas, like for instance our experiences like Hep-C-Jet, like the next day delivery. 
+asr:0: OUTPUT 2329.81-2331.21: Are friction return. 
+asr:0: OUTPUT 2331.35-2346.17: As you know, it's unique. We can pick up your return at your door, at your paper schedule, at no additional fee across the country. No one else can do it. For Hefzai Jet XL, where we began actually now offering the two-man handling cargo service, and as you saw, we are seeing. 
+asr:0: OUTPUT 2346.19-2350.81: Like very strong numbers like 97 plus percent customer satisfaction scores. 
+asr:0: OUTPUT 2351.21-2357.56: In other words, we are making significant progress in areas where we are differentiating from customers. 
+asr:0: OUTPUT 2357.60-2361.42: These are the areas we see the gap between us and others. 
+asr:0: OUTPUT 2361.66-2363.20: That we are in our favor. 
+asr:0: OUTPUT 2363.58-2370.59: And also in terms of the Hapstipay, you saw the numbers. We are making a strong progress along with the other updates like Add and so on. 
+asr:0: OUTPUT 2370.83-2377.24: So our goal actually is to make sure we remain differentiated and get more efficient and smart moving forward. 
+asr:0: OUTPUT 2377.48-2386.83: As you can see, we are already taking the actions to make sure we run and manage our marketing spend, customer discounts, and cash flow more efficiently. 
+asr:0: OUTPUT 2387.05-2395.32: So all this combined, we believe we are going to actually increase the gap in our favor when you look at all these parameters I described. 
+asr:0: OUTPUT 2399.62-2406.75: And so just to clarify on the competition point, so is it that you're not seeing competition let up in the last couple of weeks or you are? 
+asr:0: OUTPUT 2408.91-2411.37: To lower the discounts. 
+asr:0: OUTPUT 2413.23-2414.87: Thank you, Madam First Lady. 
+asr:0: OUTPUT 2416.68-2419.14: Be definitely I guess. 
+asr:0: OUTPUT 2420.00-2423.88: The entire flight competitive landscape remains as we speak in Q4 as well. 
+asr:0: OUTPUT 2423.98-2433.29: And as you can imagine, this is the quarter where the seasonality is high. We described how major role this quarter plays in the total year. 
+asr:0: OUTPUT 2433.73-2439.02: Therefore, from offline and online, it is, I guess, fair to expect increased competition this quarter. 
+asr:0: OUTPUT 2439.28-2447.37: But despite that, we are both delivering and trying to get more efficient and also try to differentiate with our key differentiator. 
+asr:0: OUTPUT 2447.51-2452.13: So basically, we are trying to not just... 
+asr:0: OUTPUT 2452.15-2457.92: Differentiate, also get more efficient and increase the gap between us and competition in our favor. 
+asr:0: OUTPUT 2458.14-2460.00: All these things happening at the same time. 
+asr:0: OUTPUT 2463.76-2472.59: Thank you. 
+asr:0: OUTPUT 2476.78-2480.34: Thank you very much for the presentation. So I have a couple of questions. 
+asr:0: OUTPUT 2481.16-2484.20: The first one is related to the fourth quarter and. 
+asr:0: OUTPUT 2484.22-2491.67: How is the operating environment in Port Carter given that the guidance indicates only 18% year-on-year growth in the Port Carter? 
+asr:0: OUTPUT 2492.33-2498.86: And also what is your initial thoughts on the growth and possibility as well as competitive environment into 2022? 
+asr:0: OUTPUT 2499.62-2502.18: I'm sure they expect Mark to be more close to. 
+asr:0: OUTPUT 2502.20-2511.11: Third quarter into a more close to third quarter in the next year, or you will reduce CRM expenses largely in the coming year. 
+asr:0: OUTPUT 2511.91-2515.26: And then my second question is also related to the first one. 
+asr:0: OUTPUT 2515.96-2525.03: Do you see any slowdown due to volatile Turkish environment and how it's been affecting the merchants and their pricing capability on the product they sell? 
+asr:0: OUTPUT 2525.79-2532.71: Obviously volatile Turkish Lira can affect this negatively, which might result in a slowdown due to lack of availability. 
+asr:0: OUTPUT 2533.55-2535.76: And finally, my third question. 
+asr:0: OUTPUT 2536.56-2540.34: My third question is related to the market share of Pepsi-Broda. 
+asr:0: OUTPUT 2541.36-2544.10: So even from the... 
+asr:0: OUTPUT 2544.12-2558.26: As e-commerce data system in Turkey exits announced year-on-year growth numbers in first half 2021 for the e-commerce market in Turkey on a year-on-year basis where the market grew by 75% year-on-year in first half. 
+asr:0: OUTPUT 2558.28-2562.82: While Hep2Border gRNP growth was at 60% year-on-year in the same period. 
+asr:0: OUTPUT 2563.66-2573.35: We know that this is not an addressable market for HEPC abroad as it includes many other parts like sports betting, lottery, gaming, cross borders. 
+asr:0: OUTPUT 2574.23-2581.72: But do you have any insight in your market share either year to date or in the first half at least or what was the growth? 
+asr:0: OUTPUT 2581.76-2585.05: Of the adversable marks in this first half. 
+asr:0: OUTPUT 2585.85-2588.05: On a year-on-year basis. Thank you very much. 
+asr:0: OUTPUT 2589.65-2598.96: Thank you, Cem. Actually, let me start maybe from the last question and go the other way around. In terms of market share, actually, we share your concerns in terms of lack of. 
+asr:0: OUTPUT 2599.44-2602.10: That everyone can actually leverage and use. 
+asr:0: OUTPUT 2602.42-2608.93: Because as you know, we are the only public company in Turkish market. No one has disclosed publicly their numbers. 
+asr:0: OUTPUT 2609.51-2615.16: And it's also hard to get real-time access to market competition and competitive landscaping that's done. 
+asr:0: OUTPUT 2615.48-2620.10: So we are kind of also facing the same challenge you described. 
+asr:0: OUTPUT 2620.40-2626.07: However, we try to refer to public sources to kind of get some and extract some insights. 
+asr:0: OUTPUT 2626.65-2636.46: Maybe what we can share with you is to refer into the latest trend, again the BKN, like the Interbank Card Center public data, which you can also access. 
+asr:0: OUTPUT 2636.94-2639.20: What we actually also shared in the deck. 
+asr:0: OUTPUT 2639.46-2647.07: When you look at the similar addressable factors reported by BKM in terms of. 
+asr:0: OUTPUT 2647.09-2649.85: Online Card Transaction Volume. 
+asr:0: OUTPUT 2650.59-2660.16: And if you look at those numbers from Q3 over Q2 perspective, it looks like the most relevant sectors in BKM. 
+asr:0: OUTPUT 2660.94-2664.46: Grew only 7% two on two. 
+asr:0: OUTPUT 2665.41-2673.33: And if you look at our GMV, again, this is not the exact apple staple, but trying to just find insight, as you said. 
+asr:0: OUTPUT 2673.73-2680.66: If you look at RGM, VQ on Q, you see almost kind of a 10% plus, 10% they say, growth. 
+asr:0: OUTPUT 2680.90-2688.53: Which means in this case, looking at 7% versus our 10%, it might give us some signals regarding the Q3 trend. 
+asr:0: OUTPUT 2688.95-2698.28: However, again, I'm emphasizing this, it is not a direct market share measurement, but it's a way of actually trying to understand the pulse in the market. 
+asr:0: OUTPUT 2699.54-2704.20: In terms of the other questions, how does slowdown or volatility and slowdown need to be correlated? 
+asr:0: OUTPUT 2704.64-2713.29: This is actually a very tough question because it's hard to understand the dynamics in the Turkish market because it could be affecting the customer behavior in two different ways. 
+asr:0: OUTPUT 2713.67-2721.78: One could be that people actually see this time and shopping season as an opportunity, an affordability solution and opportunity for them. 
+asr:0: OUTPUT 2721.98-2729.11: And they can also see e-commerce as a transparent platform for price comparison, selection and convenience. 
+asr:0: OUTPUT 2729.23-2732.53: And so they can actually increase their online behavior. This could be option one. 
+asr:0: OUTPUT 2732.81-2738.22: Option two could be, we've seen this volatility, they can also reduce their overall consumption. 
+asr:0: OUTPUT 2738.54-2746.29: So again, these are the two extremes of the potential trend and we are closely monitoring what is going to be the case for Q4. 
+asr:0: OUTPUT 2746.55-2750.21: It is too early and I'm also not going to your first question, Cedric. 
+asr:0: OUTPUT 2750.61-2760.22: It is too early to mention but if you look at our current trading as of this month, at least we can maybe share some high level insight with you guys to make sure you understand. 
+asr:0: OUTPUT 2760.60-2767.87: So basically, yes, there's a shopping hype in this season, but there's also a lot of headwinds, as we discussed, in the market. 
+asr:0: OUTPUT 2768.01-2771.99: When we see at least so far in the current dynamics. 
+asr:0: OUTPUT 2772.33-2780.32: We can say what we tried to achieve in November in terms of our execution seemed to resonate fairly well with our customers. 
+asr:0: OUTPUT 2780.94-2783.70: What we are doing is also publicly visible. 
+asr:0: OUTPUT 2784.00-2792.93: We are very focused on affordability solutions. As you know, we did somehow like some sort of buy now pay later solution with leaving banks in Turkey. 
+asr:0: OUTPUT 2793.15-2795.66: So people can purchase now and pay in January. 
+asr:0: OUTPUT 2796.08-2804.92: And also, we emphasize our customer experience and convenience with unique services like frictionless return and also emphasize others like we discussed. 
+asr:0: OUTPUT 2805.33-2810.93: And also we try to differentiate in our approach to social commerce. 
+asr:0: OUTPUT 2811.17-2816.42: We introduced this viral shopping list that actually regular people also can become authentic influencers. 
+asr:0: OUTPUT 2816.74-2822.28: So this kind of dynamics seems to resonate well based on the early high-level observations we have. 
+asr:0: OUTPUT 2822.38-2831.87: Even in the 11.11, actually I guess we recorded like the all time high daily orders, maybe over a half a million orders to share for you guys. 
+asr:0: OUTPUT 2832.59-2840.98: This is the trend we see in terms of the first part of November. But we yet to see the big time in the month, which is the legendary Friday part of the month. 
+asr:0: OUTPUT 2841.40-2849.73: So it's going to be an interesting time for us together to close the monitor, but we are seeing our execution and it seems to resonate with our customers. 
+asr:0: OUTPUT 2849.91-2851.67: Please answer to your first question. 
+asr:0: OUTPUT 2852.07-2857.36: Now going to the GMB and profitability in 2022, I refer to Korhan. 
+asr:0: OUTPUT 2859.70-2863.72: As I mentioned, we have a plan for 2020. 
+asr:0: OUTPUT 2864.06-2871.35: This is the most intense period for us and November, December is the main shopping season. 
+asr:0: OUTPUT 2871.63-2874.79: So we would like to see the closure of November and December. 
+asr:0: OUTPUT 2875.10-2884.28: To understand if we need to make small adjustments in our plan and we will come back to you with our guidance with our Q4 announcement. 
+asr:0: OUTPUT 2884.32-2888.85: You can expect the guidance in the next year's first quarter or end of first quarter. 
+asr:0: OUTPUT 2891.15-2895.22: About I would like to add one thing on the profitability. 
+asr:0: OUTPUT 2895.48-2901.60: Yes, we are taking certain precautions to improve our gross contribution margin. 
+asr:0: OUTPUT 2901.96-2905.37: We have done certain tests during October. 
+asr:0: OUTPUT 2905.63-2914.25: But November and December is not the time, but we believe going forward starting from Q1 onwards, we will be able to improve our gross contribution margin. 
+asr:0: OUTPUT 2914.49-2916.96: Which will help for our profitability. 
+asr:0: OUTPUT 2917.32-2923.10: But for the guidance for the whole 2020, we will come back to you with Q4 announcements. 
+asr:0: OUTPUT 2927.75-2929.21: Thank you very much, Matthew and Colum. 
+asr:0: OUTPUT 2932.61-2937.76: The next question comes from the line of Kilkis and Hansaday with JP Morgan. Please go ahead. 
+asr:0: OUTPUT 2939.86-2944.97: I have some follow-up questions and also need questions. 
+asr:0: OUTPUT 2945.59-2953.69: The first one is about your take rates. You presented a chart that shows stable take rates on a weighted average perspective. 
+asr:0: OUTPUT 2954.63-2959.64: So can you please also help us to understand the change in GMB per category? 
+asr:0: OUTPUT 2959.66-2966.57: I'm trying to understand whether you are also cutting the pay grade per category or. 
+asr:0: OUTPUT 2966.59-2969.85: This is stable mainly because of a shift in the GMB. 
+asr:0: OUTPUT 2971.01-2974.71: The second one is about your inventory level. 
+asr:0: OUTPUT 2974.91-2982.96: You have a low 1P retail margin in the third quarter, but there is not a substantial Turkish lira depreciation. 
+asr:0: OUTPUT 2983.80-2988.43: Do you have any inventory that you may benefit on the margin side in the fourth quarter? 
+asr:0: OUTPUT 2989.83-2993.37: And the third question is about the... 
+asr:0: OUTPUT 2993.39-3001.44: We don't see much increase in the CAPEX so far, so how should we think about it, particularly in 2022? 
+asr:0: OUTPUT 3002.70-3007.09: And final is about your actions to improve the growth contribution. 
+asr:0: OUTPUT 3008.07-3011.93: I mean, can you please let us know about this? I mean. 
+asr:0: OUTPUT 3011.95-3018.44: I mean plan to action. So what are you planning to how are you planning to improve the growth contribution next year? 
+asr:0: OUTPUT 3019.38-3024.68: And maybe the final question is, I really wonder the impact of the growth rate on the order of frequency, because we observed. 
+asr:0: OUTPUT 3024.72-3031.79: Some sort of improvement in the order frequency, but is this driven largely by the increasing cost of expanding or. 
+asr:0: OUTPUT 3031.81-3036.32: You are also seeing the customer buying more on other categories. 
+asr:0: OUTPUT 3040.00-3047.51: For the questions, let me start with the first one about the take rate. Yes, compared to last year's safe period, our take rate means. 
+asr:0: OUTPUT 3047.59-3051.31: Our commission rates that we are charging to our merchants. 
+asr:0: OUTPUT 3051.67-3053.21: Does not change significantly. 
+asr:0: OUTPUT 3053.49-3060.94: There has been an investment period during Q1, Q2, but those are improved and we are back to our original commission level. 
+asr:0: OUTPUT 3062.14-3071.13: On the shift in the GND, I can say our share of marketplace is 70% and 1P is 30%. 
+asr:0: OUTPUT 3071.49-3073.55: In terms of electronic sales. 
+asr:0: OUTPUT 3074.39-3080.46: Last year it was 65% electronics and 35% non-electronics. 
+asr:0: OUTPUT 3080.72-3087.87: And this year Q3 is 62% electronics and 38% in non-electronics. 
+asr:0: OUTPUT 3088.07-3092.65: However, there has been some shift from 1P to 3P. 
+asr:0: OUTPUT 3092.75-3098.18: Between last year and this year, around 13 percentage points. 
+asr:0: OUTPUT 3098.20-3105.17: Which affected our results for the shift between those categories. 
+asr:0: OUTPUT 3105.71-3113.51: On the inventory level, at the starting point I can say yes, we have enough inventories to benefit from the price increases. 
+asr:0: OUTPUT 3113.87-3122.76: We started onboarding many inventories from September onwards. That is one of the reasons that our negative networking capital. 
+asr:0: OUTPUT 3123.22-3130.13: Could have been higher but only improved around 30-40 million TL for the Q3 closing. 
+asr:0: OUTPUT 3130.37-3135.82: That is the reason that we purchased many mansions for the readiness for Q4. 
+asr:0: OUTPUT 3136.74-3142.50: However, at the same time, we somehow paid with shorter payment terms. 
+asr:0: OUTPUT 3142.54-3146.83: Or even we made some advance payments to secure those products. 
+asr:0: OUTPUT 3146.85-3149.79: To be to make them available for Q4. 
+asr:0: OUTPUT 3150.05-3153.09: But now we will be enjoying availability of those products. 
+asr:0: OUTPUT 3153.59-3163.08: In terms of CAPEX, yes, it hasn't increased significantly in 2021 because we have seen some operational deficiencies. 
+asr:0: OUTPUT 3163.14-3167.21: And we spent less on the property, plant and equipment. 
+asr:0: OUTPUT 3167.35-3171.13: However, going forward, especially for the next year. 
+asr:0: OUTPUT 3171.19-3178.78: We are making a plan between 350 to 400 million Turkish lira spending on the CATEG side. 
+asr:0: OUTPUT 3179.36-3187.95: With this foreign exchange increases, we need to make a detailed plan for those purchases. 
+asr:0: OUTPUT 3188.15-3193.33: However, the initial plan is something around 350 to 400 million Turkish Lira. 
+asr:0: OUTPUT 3194.73-3201.04: On the actions about the gross contribution margin improvement. 
+asr:0: OUTPUT 3201.54-3208.07: Yes, we are not happy with the gross contribution margin and we believe we definitely need to increase the margin. 
+asr:0: OUTPUT 3209.67-3212.55: We have to. 
+asr:0: OUTPUT 3212.61-3219.76: I mean, during Q3, we had to increase the customer discounts due to market dynamics, as we explained. 
+asr:0: OUTPUT 3220.42-3228.57: There was an intense fight competition in the market and the market growth was slow down so we had to make those customer discounts. 
+asr:0: OUTPUT 3228.99-3235.46: We realized that those are not sustainable and we made the decision to sharpen our focus. 
+asr:0: OUTPUT 3235.48-3243.04: On our gross contribution margin, key differentiators, and drivers of sustainable GMB growth. 
+asr:0: OUTPUT 3243.76-3250.41: While optimizing our customer discounts, marketing spend, and cash flow more efficiently. 
+asr:0: OUTPUT 3250.47-3255.04: We believe we will be able to improve our margins going forward. 
+asr:0: OUTPUT 3256.82-3260.00: Would just like to take over this for the future. 
+asr:0: OUTPUT 3260.70-3269.81: Yes, before I go there, actually, on that, I want to address and actually add on to the answers for two questions specifically, and I answer to your last question. 
+asr:0: OUTPUT 3270.25-3279.34: The one actually with inventory levels, I want to add on the fact that we actually were very aware of the global supply chain challenges as well. That's why we wanted to this time with a. 
+asr:0: OUTPUT 3280.00-3288.61: Well prepared. And as you know, we had a muscle from last year during the COVID where we also successfully were able to plan and manage our inventory. 
+asr:0: OUTPUT 3288.77-3290.55: You know in one piece. 
+asr:0: OUTPUT 3290.81-3300.16: So basically using R1P as a strong muscle during this period of time, despite the global supply chain challenges, and also leveraging and. 
+asr:0: OUTPUT 3301.24-3303.38: Benefiting from our long-lasting, strong. 
+asr:0: OUTPUT 3303.40-3304.58: Supply. 
+asr:0: OUTPUT 3305.09-3309.59: We were able to actually get well prepared this season with our inventory and one piece. 
+asr:0: OUTPUT 3310.21-3313.63: So this was just to make sure I ate that color as well. 
+asr:0: OUTPUT 3313.97-3323.72: The other question I want to add on is the gross contribution margin piece. Koran successfully addressed the cost part and efficiency part of it. I also want to add the other side of the story. 
+asr:0: OUTPUT 3324.12-3330.43: One actually, as you know, as you move forward with 3P is getting stronger, this is exactly what you observe, right? 
+asr:0: OUTPUT 3330.65-3336.94: Year over year we have a stronger one, 3P now, which actually also kind of distorts the comparison. 
+asr:0: OUTPUT 3337.32-3344.22: But actually moving forward, this 3P strength will remain as is, right? It's going to be always a strong part of our platform. 
+asr:0: OUTPUT 3344.48-3352.97: And as this happens, we are also expecting to continue to see more long-term products, adding more long-term virtues coming to our platform. 
+asr:0: OUTPUT 3353.23-3361.50: Which will inherently by nature also help with the overall mix and margin of the platform. 
+asr:0: OUTPUT 3361.82-3371.77: Other two aspects I want to emphasize is how our value proposition with customers and merchants will also help us improve our profitability moving forward. 
+asr:0: OUTPUT 3372.15-3374.27: Just for the sake of time, briefly mention this. 
+asr:0: OUTPUT 3374.65-3384.22: As you remember, our FCJET now actually crossed 53% of marketplace parcels are delivered by FCJET in Q3. 
+asr:0: OUTPUT 3384.40-3385.75: Gradually growing as you know. 
+asr:0: OUTPUT 3386.15-3391.35: This means actually now with our Last Mile Delivery service, we are making a difference for our merchants. 
+asr:0: OUTPUT 3391.71-3397.42: It helps with logistics, which is actually a valid position to scale moving forward our procurement service, as you remember. 
+asr:0: OUTPUT 3397.64-3402.06: We're also going to have our nurses save time and money and also increase the customer experience. 
+asr:0: OUTPUT 3402.48-3409.89: And also advertising. We briefly mentioned some numbers with the recent announcements I am sure you saw with Google and Facebook. 
+asr:0: OUTPUT 3410.05-3413.73: We are making like innovative ad tech tools helping our merchants. 
+asr:0: OUTPUT 3414.11-3423.32: And also with training and potentially with also other merchant financing tools, stuff like that, we are trying to make sure we. 
+asr:0: OUTPUT 3423.34-3427.75: Become the most preferred platform for our merchants. These are eight. 
+asr:0: OUTPUT 3428.23-3432.07: And also, the second part of the story, which is our customers. 
+asr:0: OUTPUT 3432.67-3441.60: We also try to be their ultimate choice, right? That's why we are also seeing a lot of actually room for that improvement as well. 
+asr:0: OUTPUT 3441.90-3451.75: With our strong brand, with our unique services like which we discussed like special return, next day delivery and like the ex large delivery and service and so on. 
+asr:0: OUTPUT 3451.83-3455.54: With our ecosystem play, which I'm going to also tap on shortly. 
+asr:0: OUTPUT 3455.76-3462.00: All this coming together, we also believe that our margin and profitability will improve over time. 
+asr:0: OUTPUT 3462.26-3466.21: So these are actually gonna be a function of multiple improvements. 
+asr:0: OUTPUT 3466.69-3470.31: Now I'm going to address your HEP C expert a question. 
+asr:0: OUTPUT 3470.43-3479.64: F3 Express for us is very strategic because to your question it improves and helps us improve both frequency and also customer growth. 
+asr:0: OUTPUT 3479.70-3490.35: Because we now realize that Hapstake Spread is a great tool to bring on new customers with a different profile and demographics and also triggers frequency because of the nature of the product. 
+asr:0: OUTPUT 3490.93-3498.10: And as you know, it also offers instant and slotted. And now we have Migros, as I mentioned, within the previous section of the call. 
+asr:0: OUTPUT 3498.42-3507.01: Now we have many of the national players like Carrefour, Shock, Negros now, we have a lot of regional players. 
+asr:0: OUTPUT 3507.17-3509.85: So now we have almost more than 50 grand. 
+asr:0: OUTPUT 3510.17-3518.12: So the selection is getting larger and we aim to offer the widest selection with our service and with multiple options like instant and slotted. 
+asr:0: OUTPUT 3518.46-3525.45: And also finally, we are improving our own experience like with technological and experience-wise development on our app. 
+asr:0: OUTPUT 3526.27-3532.31: All this together, I also want to give you maybe one kind of indication how we are seeing this business. 
+asr:0: OUTPUT 3532.71-3540.72: We are very overly focused on the customer experience, the selection, and as well as sustainability of the model. 
+asr:0: OUTPUT 3540.74-3543.90: That's why you will see us moving forward and onwards. 
+asr:0: OUTPUT 3543.94-3550.87: Because this is still the early phase these years to invest in that business. But moving forward, you will see us more focusing on sustainability of the model as well. 
+asr:0: OUTPUT 3551.09-3561.08: And also we are very internally focused on actually perfect order success ratio. So this is actually a number of metric we carefully watch and monitor. 
+asr:0: OUTPUT 3561.14-3567.81: Which means for us it is the order where there is no delay, no return, and no cancellation because of availability. 
+asr:0: OUTPUT 3568.07-3572.13: We take it very seriously because we know it's a 10 of days output customer experience. 
+asr:0: OUTPUT 3572.53-3580.48: And right now we are seeing, just to give you an idea, around like 60% perfect order ratio, which is very strong. 
+asr:0: OUTPUT 3580.74-3588.55: So we are going to hopefully focus on this moving forward even more and gradually increase this strong number, already strong number ahead. 
+asr:0: OUTPUT 3590.27-3593.05: Maybe this was a tough answer to your question. 
+asr:0: OUTPUT 3593.71-3594.81: Me along more. 
+asr:0: OUTPUT 3596.08-3602.34: Thank you very much, Murat Bey. Regarding the MIGLs onboarding, is it exclusive to HEP2? 
+asr:0: OUTPUT 3602.60-3607.05: But they are also presenting themselves in other platforms. 
+asr:0: OUTPUT 3607.89-3611.13: So, honestly, the nature of the partnership. 
+asr:0: OUTPUT 3611.21-3618.32: The ship doesn't actually force any exclusivity on either side because as you know our value proposition is actually slightly unique. 
+asr:0: OUTPUT 3618.66-3621.64: We believe we're going to grow with our retailer partners together. 
+asr:0: OUTPUT 3622.18-3628.95: This is our model. It's much more inclusive than other models. We are not running dark stores. We work with our retailers. 
+asr:0: OUTPUT 3629.55-3635.66: We see this as an incremental growth opportunity with our partner, retail partners. 
+asr:0: OUTPUT 3635.90-3638.14: Therefore with migros in this example because yes. 
+asr:0: OUTPUT 3638.40-3647.39: It is nothing like, there is no exclusive involved, but we believe because of our kind of experience we can offer on our platform. 
+asr:0: OUTPUT 3647.63-3654.11: And because we are hopefully going to deliver a strong mutual incremental growth for both sides. 
+asr:0: OUTPUT 3654.15-3659.72: This is going to be a sustainable long-term partnership with both sides. 
+asr:0: OUTPUT 3660.20-3665.71: Because this is also an area we are working with our retail departments, not just them but others as well. 
+asr:0: OUTPUT 3666.01-3670.57: We also work with our partners how we can improve and enhance our experience. 
+asr:0: OUTPUT 3670.89-3672.95: And sustainability of the model together. 
+asr:0: OUTPUT 3673.51-3676.60: Maybe this is much I can share at this point and I will stop here. 
+asr:0: OUTPUT 3677.92-3678.96: Thank you very much. 
+asr:0: OUTPUT 3679.76-3688.09: As a reminder, if you would like to register for a question, please press star and 1 on your telephone. 
+asr:0: OUTPUT 3695.08-3702.92: Ladies and gentlemen, there are no further questions at this time. I will now turn the conference over to CEO Mr. Murat Ermirdag for any closing comments. Thank you. 
+asr:0: OUTPUT 3706.97-3708.41: Thanks so much for everyone. 
+asr:0: OUTPUT 3709.17-3714.65: Before we end the call, I want to reiterate that we acknowledge your concerns and take them very seriously. 
+asr:0: OUTPUT 3715.22-3718.90: And we remain confident in our market opportunity and long-term value proposition. 
+asr:0: OUTPUT 3719.20-3724.06: Because we know the opportunity and the fundamentals of the business remain strong. 
+asr:0: OUTPUT 3724.14-3732.67: And actually following our IPO, while competition and near-term market conditions have become more challenging, two things have not changed. 
+asr:0: OUTPUT 3733.95-3740.74: The significant long-term market opportunity in the digitalization of the Turkish market. And the other one actually is our firm belief in our business model. 
+asr:0: OUTPUT 3741.32-3750.07: So we are committed to deliver on our drivers of sustainable growth, key differentiators, strategic assets, settings, and various services for customers and merchants. 
+asr:0: OUTPUT 3750.21-3755.52: With a disciplined cash management, creating long-term value for our company and shareholders. 
+asr:0: OUTPUT 3756.10-3759.10: We look forward to speaking with you again in the next quarter scope. 
+asr:0: OUTPUT 3759.64-3768.23: Thank you all. 
+asr:0: END

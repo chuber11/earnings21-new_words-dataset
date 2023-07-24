@@ -1,0 +1,621 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 5.39-13.31: Welcome to Ecopetrol's Earnings Conference Call, in which we will discuss the main financial and operational results for the third quarter 2021. 
+asr:0: OUTPUT 15.96-20.64: All lines have been muted. There will be a Q&A session at the end of the presentation. 
+asr:0: OUTPUT 21.54-30.09: Before we begin, it is important to mention that the comments in this call by Ecopetrol Senior Management include projections of the company's future performance. 
+asr:0: OUTPUT 30.91-38.74: These projections do not constitute any commitment as to future results, nor do they take into account risks or uncertainties that could materialize. 
+asr:0: OUTPUT 39.34-46.95: As a result, Ecopetrol assumes no responsibility in the event that future results are different from the projections shared in this conference call. 
+asr:0: OUTPUT 48.23-52.39: The call will be led by Mr. Felipe Bayon, CEO of Ecopetrol. 
+asr:0: OUTPUT 53.23-59.48: Alberto Consuegra, COO, and Jaime Caballero, CFO. Thank you for your attention. 
+asr:0: OUTPUT 63.94-68.51: Good morning, everyone, and welcome to our third quarter 2021 earnings conference. 
+asr:0: OUTPUT 69.21-78.90: During this quarter, we continue to deliver record results. As of September, we are now consolidating Interconexión Eléctrica CSA's financial statement. 
+asr:0: OUTPUT 79.94-90.57: We generated revenues of 23.3 trillion pesos, an EBDOW of 10.4 trillion pesos, a net income of 3.8 trillion pesos. 
+asr:0: OUTPUT 91.01-99.70: These results highlight our successful commercial strategy, which has allowed us to capture the favorable conditions of international crude oil prices. 
+asr:0: OUTPUT 100.18-106.75: We achieved important progress in our strategic agenda with the accomplishment of milestones such as the following. 
+asr:0: OUTPUT 107.05-114.13: The closing of ESA's acquisition and the first consolidation of its financial results into the results of the Ecopetrol Group. 
+asr:0: OUTPUT 114.63-119.84: Materializing this transformational step in our energy transition and decarbonization program. 
+asr:0: OUTPUT 120.12-126.97: Our first liability management transaction for $2 billion through the issuance of 10-year notes and 30-year bonds. 
+asr:0: OUTPUT 126.99-131.99: To partially prepay the loan disbursed to finance ESA's acquisition. 
+asr:0: OUTPUT 132.37-140.88: The authorization granted by the Superintendencia Financiera de Colombia to subscribe the program for the issuance and placement of common stocks. 
+asr:0: OUTPUT 140.90-146.53: Enabling Ecopetrol during five years to execute simultaneous issuance. 
+asr:0: OUTPUT 146.55-153.29: Within the local and international markets, providing flexibility and opportunity in our capital structure strategy. 
+asr:0: OUTPUT 153.61-160.74: And now, more than 86% of our employees have completed their immunization against COVID-19. 
+asr:0: OUTPUT 161.18-166.31: Let's move on to the next slide with the acquisition of the controlling stake in ESA. 
+asr:0: OUTPUT 167.07-174.94: The EcoPetrol Group turns into a leading company in the energy sector of the region, participating across the hydrocarbon value chain. 
+asr:0: OUTPUT 174.96-180.26: Energy transmission, renewable energy self-generation, and infrastructure. 
+asr:0: OUTPUT 180.50-184.74: After the closing of the transaction, our efforts have been focused on ensuring compliance. 
+asr:0: OUTPUT 184.76-191.21: With legal and regulatory requirements related with accounting consolidation, reporting, and financial planning. 
+asr:0: OUTPUT 191.55-200.38: We have made progress in matters regarding corporate governance such as the election of ESA's new board of directors following its AGM held on October 22nd. 
+asr:0: OUTPUT 201.28-206.95: The new composition of the board will allow Ecopetrol to exercise as controlling party over the company. 
+asr:0: OUTPUT 207.35-209.87: Also, I would like to highlight that. 
+asr:0: OUTPUT 210.21-218.12: For market reporting purposes, ESAS financial results are now incorporated as a new business line in addition to the existing business segment. 
+asr:0: OUTPUT 218.56-223.86: ISA will maintain its value promise and independence as we have done with the rest of our subsidiaries. 
+asr:0: OUTPUT 224.36-229.59: These I will bring to the table experience and knowledge that will boost new growth opportunities. 
+asr:0: OUTPUT 230.05-237.50: We are progressing a gradual integration process led by the Transition Management Office, a multidisciplinary team from both companies. 
+asr:0: OUTPUT 237.90-247.33: This process involves mutual and detailed knowledge between both companies, understanding of both business models, and the construction of a shared vision. 
+asr:0: OUTPUT 247.69-256.30: After having consolidated an orderly transition, we'll pursue opportunities that allow accelerating the capture of value from our investments. 
+asr:0: OUTPUT 256.76-266.25: We see potential synergies in opportunities such as energy and fuel storage, development of new and additional renewable energy projects,. 
+asr:0: OUTPUT 266.27-269.93: Generation and commercialization of energy in other countries. 
+asr:0: OUTPUT 269.95-275.72: And growth opportunities in the hydrocarbon business in geographies where ESA already operates. 
+asr:0: OUTPUT 276.24-282.66: I will now pass on the floor to Alberto Consuegra, who will elaborate on the main operating results for this quarter. 
+asr:0: OUTPUT 284.60-292.87: Thank you, Felipe. I will start by highlighting the discovery of hydrocarbons after drilling the exploratory well Lydia YW-12. 
+asr:0: OUTPUT 292.89-300.40: Which confirmed the presence of gas and 49 degree API light oil in a new structure near the Cupiaguas field. 
+asr:0: OUTPUT 300.42-306.87: A milestone that sets the company exploratory reactivation in Piedmont, where Ecopetrol is the operator. 
+asr:0: OUTPUT 307.63-312.21: We also highlight the commerciality of Boranda and Flamenco's Juan discoveries. 
+asr:0: OUTPUT 312.25-319.30: Which are part of the near field exploration strategy, which seeks production and reserves incorporation in the short term. 
+asr:0: OUTPUT 319.50-322.54: These coveries are located in Santander Department. 
+asr:0: OUTPUT 322.56-331.79: And have produced about 94,000 barrels of crude oil for Ecopetrol's share during the testing stage between January and September of the current year. 
+asr:0: OUTPUT 332.01-335.06: We continue our international exploratory strategy. 
+asr:0: OUTPUT 335.78-340.00: During the 17th round of the Brazilian Oil and Gas Agency. 
+asr:0: OUTPUT 340.12-346.51: The consortium between Ecopetrol Brazil and Shell acquired this SM-1709 block. 
+asr:0: OUTPUT 346.53-351.27: Located in the Santos Basin, expanding the portfolios among hives. 
+asr:0: OUTPUT 351.29-356.48: Potential areas with competitive break-evens close to $40 per barrel. 
+asr:0: OUTPUT 356.80-358.78: Let's move on to the next slide, please. 
+asr:0: OUTPUT 359.50-364.90: The quarterly production was 683,600 bottles of oil equivalent per day. 
+asr:0: OUTPUT 365.41-369.53: 22,700 more than the volume achieved in the second quarter. 
+asr:0: OUTPUT 370.35-380.12: Despite achieving the production stabilization of the fields affected by blockages and also increasing gas sales, milestones of the plan previously announced,. 
+asr:0: OUTPUT 380.46-387.07: There were two climate events during the quarter that limited an additional recovery in the growth of our production. 
+asr:0: OUTPUT 387.45-398.22: Abroad, the hurricane season in the Gulf of Mexico caused the closure of wells and in Colombia, the rainy season caused landslides which affected the Primeriente gas pipeline. 
+asr:0: OUTPUT 398.24-404.20: As well as the flooding of the Karikari field causing its temporary closure for 20 days. 
+asr:0: OUTPUT 404.78-408.27: Other weather impacts were related to increasing power outages. 
+asr:0: OUTPUT 409.07-416.40: These events impacted production in and around 10,000 barrels of oil equivalent per day. 
+asr:0: OUTPUT 416.70-422.72: For the fourth quarter, we expect a production around 700,000 barrels of oil equivalent per day. 
+asr:0: OUTPUT 422.74-428.27: Mainly leveraged in the drilling of between 110 and 130 wells. 
+asr:0: OUTPUT 428.29-437.48: The reactivation of the Promeo Oriente gas pipeline and the continuity of the operation of the Nare assets, which we received on November 4th. 
+asr:0: OUTPUT 437.50-440.00: After ending the association contract. 
+asr:0: OUTPUT 440.28-444.90: Adding an average of 7,500 bottles of oil equivalent per day. 
+asr:0: OUTPUT 445.59-453.05: However, some risks associated with climate and public order issues remain and could affect production levels. 
+asr:0: OUTPUT 453.29-457.30: Gas and LPG contributed 21% to total production. 
+asr:0: OUTPUT 457.76-465.79: Highlighting the signing of the Santiago de las Atalayas Gas Exploitation and Exploration Agreement with the National Hydrocarbons Agency. 
+asr:0: OUTPUT 465.81-471.31: Which allowed the beginning of predrilling activities in two new wells in the Piedmontes area. 
+asr:0: OUTPUT 471.53-475.88: Given the effects on gas production due to maintenance and climatic events,. 
+asr:0: OUTPUT 475.90-487.23: A commercial strategy was developed to guarantee gas supply at nationwide along with the Ministry of Mines and Energy and market agents through the signing of contingency contracts. 
+asr:0: OUTPUT 487.95-492.31: On the social front, new gas and LPG connections have been made. 
+asr:0: OUTPUT 492.71-501.64: Allowing near 5,000 new families from strata one and two to have this service and improve their quality of life between January and September. 
+asr:0: OUTPUT 501.84-503.92: Let's move on to the next slide, please. 
+asr:0: OUTPUT 505.19-514.33: 2021 has been a challenging year in terms of production due to all the factors that we have revealed throughout the year. 
+asr:0: OUTPUT 514.35-517.10: Which have mainly affected the basic curve. 
+asr:0: OUTPUT 518.20-526.05: Resuming activity on our wells generated higher levels of water versus soil content with a gradual stabilization. 
+asr:0: OUTPUT 527.19-536.06: The pandemic and public order situations affected our projects in terms of supply chain, delivery deadlines, and execution. 
+asr:0: OUTPUT 536.54-539.94: This has been partially offset by the implementation. 
+asr:0: OUTPUT 539.96-548.89: Of initiatives such as anticipation of 2022 work fronts and strengthening of our commercial gas strategy. 
+asr:0: OUTPUT 548.93-552.57: With which we expect to restore our growth path. 
+asr:0: OUTPUT 552.97-562.94: Given all the above, projected production levels for 2021 would be around 680,000 barrels of oil equivalent per day. 
+asr:0: OUTPUT 563.24-565.31: Let's move on to the next slide, please. 
+asr:0: OUTPUT 566.57-570.49: And unconventionals, we highlight that on July 8th,. 
+asr:0: OUTPUT 570.51-576.56: The first territorial dialogue was held for the Platero Comprehensive Research Pilot Project. 
+asr:0: OUTPUT 576.74-584.62: And on October 29th, an environmental impact study was filed requesting approval of the license for the drilling of Calais. 
+asr:0: OUTPUT 585.43-594.65: In parallel, progress is being made in the documentation of Platero's environmental study in synergy with what has been filed for Calais. 
+asr:0: OUTPUT 594.85-601.98: In August, a public survey was carried out by the National Consulting Center in the area of influence of the pilots. 
+asr:0: OUTPUT 602.34-609.59: Evidencing a positive change in perception among communities regarding the industry and non-conventional pilots. 
+asr:0: OUTPUT 610.15-614.15: Eco-Petrol being the oil company that generates the most confidence. 
+asr:0: OUTPUT 614.29-619.68: In September, Ecopetrol started the operation of a mobile environmental laboratory. 
+asr:0: OUTPUT 619.70-633.61: For the Magdalena-Medio region so that communities have a better knowledge of the environmental variables present in their surroundings and that will allow, once the pilot starts, to monitor their behavior. 
+asr:0: OUTPUT 633.85-643.58: Abroad, Permian reached a gross production level for ecopetrol of 24,400 bottles of oil equivalent per day in the third quarter. 
+asr:0: OUTPUT 643.84-650.33: Evidence in the ramp up of unconventional with a cumulative EBITDA margin of 83%. 
+asr:0: OUTPUT 650.57-652.61: Let's move on to the next slide, please. 
+asr:0: OUTPUT 652.95-659.14: The transported volume of refined products increased 63,000 barrels per day. 
+asr:0: OUTPUT 659.16-661.58: Compared to the third quarter of 2020. 
+asr:0: OUTPUT 661.60-669.51: Thanks to the recovery of local demand, mainly the Galán-Sebastopol Trench, by supplying the large consumption areas of the country. 
+asr:0: OUTPUT 669.59-682.72: On the other hand, the volume of crude oil transported decreased by 30,000 barrels per day compared to the same quarter of last year as a result of lower production driven by the previously mentioned causes. 
+asr:0: OUTPUT 682.84-692.03: In order to secure the evacuation of the Canyon-Limon field, 11 reversal cycles of the Bicentenario pipeline were carried out, finally. 
+asr:0: OUTPUT 692.35-701.86: I want to mention that the conciliation agreement between Frontera, Senate and Bicentenario was approved by the Administrative Tribunal of Cundinamarca. 
+asr:0: OUTPUT 701.88-706.75: To solve the existing disputes regarding the transportation of crude oil in Colombia. 
+asr:0: OUTPUT 706.95-718.28: As a result of the conciliation, Frontera will recognize to Senate and Bicentenario the outstanding obligations under their agreements as of December 31st, 2019. 
+asr:0: OUTPUT 718.66-725.83: Frontera will transfer to Senate its 43.03% interest in Bicentenario. 
+asr:0: OUTPUT 725.91-729.45: And will transfer to Bicentenario depending dividends. 
+asr:0: OUTPUT 729.47-734.23: The funds deposited in a trust as guarantee for one of the disputes. 
+asr:0: OUTPUT 734.27-739.90: The advanced payments from prior years and the Bicentennial Pipeline line field that they have. 
+asr:0: OUTPUT 740.42-749.19: As part of the agreement, Frontera will recognize to Bicentenario a portion of Bicentenario's syndicate loan in the amount of $438 billion. 
+asr:0: OUTPUT 749.35-754.57: Additionally, Senator Vicentenario signed new ship or pay agreements with Frontera. 
+asr:0: OUTPUT 754.59-763.40: Allowing them to receive additional revenues for the payment of obligations included in the conciliation for a value of up to 92 million dollars. 
+asr:0: OUTPUT 763.42-766.41: Subject to adjustment as per the value of the line field. 
+asr:0: OUTPUT 766.63-774.07: Likewise, OGL, a Senate subsidiary, obtained the execution with Frontera of a new ship-for-pay agreement. 
+asr:0: OUTPUT 774.13-781.24: Which shall allow ODL to receive additional income up to $55.5 million. 
+asr:0: OUTPUT 781.32-783.60: The financial impacts of the transaction. 
+asr:0: OUTPUT 783.62-791.53: Correspond to the total recovery of outstanding debt as of December 31st, 2019 for a value of 729 billion pesos. 
+asr:0: OUTPUT 791.63-799.82: The one-time impact on EBITDA will be approximately 700 billion pesos, which will be reflected in the figures for the fourth quarter of this year. 
+asr:0: OUTPUT 800.08-806.07: Additionally, financial revenues for approximately 41 billion pesos will be received. 
+asr:0: OUTPUT 806.09-810.45: Due to the effect of default interest and returns on trust funds. 
+asr:0: OUTPUT 810.59-812.65: Let's move on to the next slide, please. 
+asr:0: OUTPUT 812.99-831.09: We achieved an accumulated EBITDA record result as of September of 2.35 trillion pesos thanks to selling of inventories and benefit from market prices at Barron Cabermeja Refinery, Essentials, Commercial Strategies, and an Inver-Colsas increase in natural gas sales. 
+asr:0: OUTPUT 831.19-838.58: Which contribute to mitigate impacts derived from operational challenges and keeping the cash cost of the segment under control. 
+asr:0: OUTPUT 838.80-848.59: Additionally, we are pleased to inform that we achieved the delivery of gasoline at 50 parts per million contemplated by regulation for January 2022. 
+asr:0: OUTPUT 848.91-853.71: The integrated gross margin of the refineries remain at pre-pandemic levels. 
+asr:0: OUTPUT 853.81-866.85: Despite having a more expensive diet because the recovery of brand price, a challenging scenario for the realization of valuable products, especially in the Cartagena refinery due to the discount on export diesel. 
+asr:0: OUTPUT 866.99-873.57: And the scheduled maintenance of the petrochemical train and the alkylation unit at the Barranca Bermeja refinery. 
+asr:0: OUTPUT 873.69-882.58: The consolidated throughput in September was above 365,000 barrels per day, exceeding the throughput restrictions on the refineries. 
+asr:0: OUTPUT 882.60-887.15: Affected by public order events at Canyon Limon-Coveña oil pipeline. 
+asr:0: OUTPUT 887.67-895.80: An electrical contingency presented in August and corrective maintenance planned in the catalytic tracking unit at Cartagena's refinery. 
+asr:0: OUTPUT 896.32-901.12: These events had an EBITDA impact of 121 billion pesos. 
+asr:0: OUTPUT 901.32-907.69: A shutdown plan is being implemented with the purpose of improving the reliability of the refineries. 
+asr:0: OUTPUT 907.73-912.73: Which will take the operational availability from 92.5% in. 
+asr:0: OUTPUT 912.75-913.79: 2019. 
+asr:0: OUTPUT 913.81-923.38: To 94.2% in 2021 and up to international reference levels above the 96% in 2024. 
+asr:0: OUTPUT 923.68-930.49: Other scheduled maintenance for the flare in plants one and two in Ascensia will be occurring. 
+asr:0: OUTPUT 931.55-933.59: Let's move on to the next slide, please. 
+asr:0: OUTPUT 934.69-940.22: At the end of third quarter, we have delivered efficiencies close to 1.8 trillion pesos. 
+asr:0: OUTPUT 940.50-947.63: Highlighting a reduction of the dilution factor, energy efficiency, and savings obtained with the renewable energies. 
+asr:0: OUTPUT 948.05-955.84: The total unit cost accrued to September increased $10.3 per barrel as compared to the same period in 2020. 
+asr:0: OUTPUT 955.86-960.94: Mainly due to higher purchase and import costs associated with higher brand prices. 
+asr:0: OUTPUT 961.06-964.86: On the other hand, the cumulative lifting cost to September. 
+asr:0: OUTPUT 964.88-971.91: Increased $0.87 per barrel as compared to the same period in 2020, reaching $8 per barrel. 
+asr:0: OUTPUT 972.65-976.82: Such anticipated increase is due to greater numbers of well interventions. 
+asr:0: OUTPUT 977.24-985.65: The execution of process safety and integrity work included in the plan, as well as increasing the cost of oil services due to industry inflation. 
+asr:0: OUTPUT 986.31-992.53: By the end of the year, we expect to have a lifting cost in the order of $8.5 per barrel. 
+asr:0: OUTPUT 992.75-1000.80: The cost per barrel transported showed a slight decrease as compared to the same period in 2020, reaching $2.9 per barrel. 
+asr:0: OUTPUT 1001.32-1005.55: Thanks to the control of variable cost given the lower volumes transported. 
+asr:0: OUTPUT 1006.03-1016.00: The refining cash cost accumulated to September showed a downward trend as compared to previous years correlated to gas composition and its supply chain. 
+asr:0: OUTPUT 1016.30-1023.06: I will open the floor to Jaime Caballero, who will talk to you about the main financial results of the Eco-Petrol Group. 
+asr:0: OUTPUT 1023.58-1031.29: Thanks Alberto. During the nine months ended in September 2021, Ecopetrol's net income reached 10.6 trillion pesos. 
+asr:0: OUTPUT 1031.71-1036.32: Exceeding more than nine times the result obtained during the same period of the previous year. 
+asr:0: OUTPUT 1036.68-1045.13: This increase is mainly explained by a higher EBITDA generation of 15.5 trillion pesos where the following factors stand out. 
+asr:0: OUTPUT 1045.51-1055.28: A positive net effect of 13 trillion pesos due to realization prices, higher crude oil spreads, and foreign exchange increase for purchases and sales. 
+asr:0: OUTPUT 1055.62-1059.88: A positive valuation of inventories for 4.2 trillion pesos. 
+asr:0: OUTPUT 1060.00-1068.43: Related to market prices and increasing ships in transit to India and the U.S., given the new delivery-at-place commercial strategy. 
+asr:0: OUTPUT 1068.79-1077.80: And the consolidation of 100% of ISIS EBIDTA for 0.7 trillion pesos corresponding to one month of operation after closing the acquisition. 
+asr:0: OUTPUT 1078.18-1085.39: The above was partially offset by lower volume of purchases and sales for 1.5 trillion pesos. 
+asr:0: OUTPUT 1085.41-1089.97: Affected by schedule and corrective maintenance activities within the refineries. 
+asr:0: OUTPUT 1090.11-1099.90: Higher operating activity costs for 0.6 trillion pesos mainly associated to maintenance and higher materials consumption as a result of the economic reactivation. 
+asr:0: OUTPUT 1100.06-1104.62: And other effects in the EBITDA for 0.4 trillion pesos. 
+asr:0: OUTPUT 1104.66-1112.67: Mainly related to the increase in expiratory expenses, recognition of public work provisions and environmental provisions, among other aspects. 
+asr:0: OUTPUT 1113.03-1117.70: Likewise, the year-to-date includes the impact of three non-operational items. 
+asr:0: OUTPUT 1117.82-1124.68: The non-recurring positive effect of 0.4 trillion recognized in January for the divestment of Sabia, Peru. 
+asr:0: OUTPUT 1124.88-1130.37: A negative variation from other non-cash items for $1.8 trillion. 
+asr:0: OUTPUT 1130.39-1134.01: Including foreign exchange effect, depreciation,. 
+asr:0: OUTPUT 1134.03-1141.86: Taxes, financial expenses, and eases non-controlling interest for $0.7 trillion and $1 trillion in other subsidiaries. 
+asr:0: OUTPUT 1142.08-1150.83: An increase in income tax provision as a result of higher financial results and related to the deferred tax restatement for 36 billion pesos. 
+asr:0: OUTPUT 1150.85-1157.98: After implementing the new rate established by the tax reform in Colombia from 30% to 35%. 
+asr:0: OUTPUT 1159.06-1168.27: These results show a clear continuity of the favorable trend in the company's financial results. Please turn to the next slide to see ESA's main financial results. 
+asr:0: OUTPUT 1169.93-1173.97: For the third quarter and the nine months ended on September 2021. 
+asr:0: OUTPUT 1174.73-1183.98: Ices Evita continues its growth trend, increasing 5.8% and 5.2% respectively as compared to the same periods in 2020. 
+asr:0: OUTPUT 1184.32-1187.73: Net income decreased affected by non-recurring events. 
+asr:0: OUTPUT 1187.75-1199.10: Such as costs associated to the liability management transaction at Interchile, which also included the unwind of debt hedging for a total of 273 billion pesos. 
+asr:0: OUTPUT 1200.00-1208.19: And a higher deferred tax expense of 146 billion pesos due to the application of the rates from the tax reform in Colombia. 
+asr:0: OUTPUT 1208.61-1217.68: In the absence of these impacts, ESA's net income for the quarter would have been $541 billion and $1.6 trillion year-to-date. 
+asr:0: OUTPUT 1218.70-1227.31: ESAS consolidation in the co-patrol group is carried out through a business combination of control businesses as defined in IFRS 3. 
+asr:0: OUTPUT 1228.39-1237.32: A new segment has been established to incorporate ESA's standalone results starting September and the expenses related to the debt raised to complete the acquisition. 
+asr:0: OUTPUT 1237.72-1244.44: ESA's contribution is material for the COPITROL group and it will be progressively incorporated over the next accounting period. 
+asr:0: OUTPUT 1244.46-1248.35: When normalizing the consolidation for the nine months ended in September. 
+asr:0: OUTPUT 1248.37-1254.95: ESA's contribution to the EBITDA would have been $5.3 trillion, representing about 19% of the total. 
+asr:0: OUTPUT 1255.28-1263.46: The net income contribution would have been 0.6 trillion pesos and 0.8 trillion excluding the non-recurring events mentioned above. 
+asr:0: OUTPUT 1263.98-1272.27: After consolidation, assets and liabilities of the Ecopetrol Group increased by 82 and 55 trillion pesos, respectively. 
+asr:0: OUTPUT 1273.19-1280.48: Total equity increased by 27 trillion pesos reflecting the concept of non-controlling interest associated to ESA. 
+asr:0: OUTPUT 1281.00-1288.97: The values of assets, liabilities and non-controlling interests as well as goodwill are preliminary and will be updated to final amounts by the end of the year. 
+asr:0: OUTPUT 1290.39-1293.85: Please turn to the next slide to see the main financial KPIs. 
+asr:0: OUTPUT 1294.91-1301.94: Cumulative financial indicators year-to-date reaffirm ECOPETROL's ability to capture the favorable price environment. 
+asr:0: OUTPUT 1301.96-1308.85: As well as the initial benefits from ESA after consolidating the first month of its operations since the acquisition. 
+asr:0: OUTPUT 1309.39-1319.10: In the oil and gas business, it is worth to highlight the EBITDA per barrel that reached record levels of $40.2 per barrel and quality results of $40.1. 
+asr:0: OUTPUT 1320.00-1324.68: These levels compare very favorably with other industry peers. 
+asr:0: OUTPUT 1325.11-1329.69: Net income break-even continues to improve as compared to the end of 2020. 
+asr:0: OUTPUT 1329.71-1338.96: And the same period of the previous year, reaching $34.8 per barrel, thanks to the recovery of product spreads and higher throughput in the refineries. 
+asr:0: OUTPUT 1339.22-1347.99: Regarding ESA's results, it is worth to highlight the EBITDA margin, excluding construction, that was 77.7%, aligned with 2020. 
+asr:0: OUTPUT 1348.59-1355.76: ESA's return on equity for the quarter was affected by the liability management transaction effect that did not impact the group results. 
+asr:0: OUTPUT 1356.46-1362.56: Due to the extent that it corresponds to an event prior to the acquisition and therefore, it was registered as equity. 
+asr:0: OUTPUT 1363.08-1372.15: Year to date, evident margin for the eco patrol group was 46.7% among the highest levels historically, surpassing pre-pandemic levels. 
+asr:0: OUTPUT 1373.23-1379.86: The leverage ratio of the perpetual group is similar to 2020 levels when incorporating EASES debt and one-month EBITDA. 
+asr:0: OUTPUT 1380.50-1386.43: Normalizing with Isla de Vista for the last 12 months, the indicator would have been 2.4 times. 
+asr:0: OUTPUT 1386.77-1392.77: Please turn to the following slide to see the main highlights of the commercial strategy and its contribution to the financial results. 
+asr:0: OUTPUT 1393.21-1398.36: The commercial strategy has been fundamental to the successful capture of value in the current environment. 
+asr:0: OUTPUT 1399.40-1406.57: Stable quality of our blends, supply reliability and contractual flexibility are fundamental to the corporate strategy. 
+asr:0: OUTPUT 1407.83-1416.20: As of September 2021, the realization price of our crude oil basket increased from 76%. 
+asr:0: OUTPUT 1416.22-1421.62: To 94% as compared to the average rent price for the same period in 2020. 
+asr:0: OUTPUT 1422.00-1439.08: It is worth highlighting the increase in barrels delivered to destinations such as South Korea, India, Brunei, Sweden, and the U.S. Gulf of Mexico, going from 17% in 3Q2020 to 37.5% in 3Q2021. 
+asr:0: OUTPUT 1439.18-1440.42: In volumetric terms. 
+asr:0: OUTPUT 1440.80-1447.37: This strategy has allowed a higher commercial margin as compared to shipments sold and delivered at the Cobenas port. 
+asr:0: OUTPUT 1447.73-1457.48: Likewise, we continue to maximize the value of crude oil and products through asset-backed trading strategies with an incremental benefit of $47 million by the end of September. 
+asr:0: OUTPUT 1457.54-1460.76: Almost twice the amount achieved during full year 2020. 
+asr:0: OUTPUT 1461.22-1467.67: We estimate that so far this year, the commercial effort has contributed around $339 million. 
+asr:0: OUTPUT 1468.11-1473.83: Equivalent to $1.19 per barrel to the Eco Patrol's Group EBITDA. 
+asr:0: OUTPUT 1474.33-1483.84: As a result of export strategies, purchase of new crudes from the refineries, benefits from using our crudes, and savings from energy efficiencies, among others. 
+asr:0: OUTPUT 1484.06-1490.59: Sales of gas and LPG, a key element of the strategy, contributed almost $15 per barrel to the EBITDA. 
+asr:0: OUTPUT 1491.27-1494.09: Proving the relevance of this product within the company's results. 
+asr:0: OUTPUT 1494.51-1496.18: Let's turn to the next slide, please. 
+asr:0: OUTPUT 1496.72-1505.99: Organic investment as of end 3Q amounted to nearly $2.2 billion, showing an important recovery versus the previous year. 
+asr:0: OUTPUT 1506.65-1514.79: Despite global supply chain disruptions, public unrest in certain areas of our operation, and longer regulatory permitting lead times. 
+asr:0: OUTPUT 1515.22-1520.12: The upstream segment accounted for 77% of total organic capex. 
+asr:0: OUTPUT 1521.20-1527.91: With a focus on increasing production and reserves, while 23% went to the midstream, downstream, and corporate segments. 
+asr:0: OUTPUT 1528.25-1534.31: By the end of the year, we expect to invest between $3.3 and $3.5 billion. 
+asr:0: OUTPUT 1534.75-1544.90: CapEx execution for the fourth quarter will be focused on an increase in drilling rigs directly operated by EcoPetrol, securing the arrival of materials with supply delays,. 
+asr:0: OUTPUT 1544.92-1551.27: Boosting activity in Permian, Eco-Petrol, America and Ocol and an increase in activity in the refineries. 
+asr:0: OUTPUT 1551.53-1558.16: As for ESA's CAPEX, its cumulative execution as of September was $946 million. 
+asr:0: OUTPUT 1558.82-1564.72: Mainly allocated to the progress in the construction of energy transmission projects in the countries where the company operates. 
+asr:0: OUTPUT 1565.15-1573.09: ISA estimates a year-end execution of $1.2 billion. 
+asr:0: OUTPUT 1574.41-1582.26: Cash balance for the third quarter was 13.1 trillion pesos, with the operating cash flow adding 11.5 trillion pesos. 
+asr:0: OUTPUT 1583.14-1589.77: ESA contributed 6 trillion pesos to the cash balance and 0.5 trillion to the operating cash flow, respectively. 
+asr:0: OUTPUT 1590.89-1596.16: The investment component for the year presented an outflow of 8.8 trillion pesos related to capex. 
+asr:0: OUTPUT 1597.10-1605.11: The financing component, excluding Giza acquisition, registered an outflow of 2.8 trillion pesos for principal and interest payments. 
+asr:0: OUTPUT 1605.37-1613.39: During 2021, dividends for $1.4 trillion have been paid to Ecopetrol shareholders and to non-controlling shareholders of its subsidiaries. 
+asr:0: OUTPUT 1614.51-1623.40: Final Cash Balance considers cash and cash equivalents for $10.1 trillion and a short-term investment portfolio of $3 trillion. 
+asr:0: OUTPUT 1624.22-1632.45: The Ecopetrols Group cash composition is 64% dollar-based and 36% Colombian Peso based. 
+asr:0: OUTPUT 1632.73-1638.00: This cash balance does not include the account receivable from the Full Price Stabilization Fund. 
+asr:0: OUTPUT 1638.52-1644.66: FAPEC for its Spanish acronym, which at the end of 3Q amounts to 7.2 trillion pesos. 
+asr:0: OUTPUT 1645.97-1650.75: It is worth mentioning that the recently approved general budget of the Republic of Colombia. 
+asr:0: OUTPUT 1650.77-1657.52: Includes a specific provision of 2.7 trillion pesos for the recognition of this item. 
+asr:0: OUTPUT 1657.56-1662.68: As well as additional budgetary mechanisms to address the remaining amounts. 
+asr:0: OUTPUT 1663.32-1664.54: Please turn to the next slide. 
+asr:0: OUTPUT 1666.33-1680.82: Finally, we would like to highlight the completion of our first external liability management transaction for $2 billion by which we partially refinance the $3.7 billion loan associated with the ESA acquisition. 
+asr:0: OUTPUT 1681.98-1690.73: This transaction optimizes the debt maturity profile of the Ecopetrol Group with market rates at historically low levels since 2014. 
+asr:0: OUTPUT 1691.17-1697.04: The transaction had a robust demand from around 270 investors from different geographies globally. 
+asr:0: OUTPUT 1697.78-1705.53: With individual bids of up to $470 million, evidencing the confidence in Ecopetrol's financial strength. 
+asr:0: OUTPUT 1706.71-1717.86: This transaction, in addition to the approval of the program to issue common stock in Colombia by the Superintendency of Finance, provides flexibility and access to different sources of debt and equity financing. 
+asr:0: OUTPUT 1718.96-1727.49: With the objective to continue optimizing the maturity profile and to fund the energy transition strategy of the company. Now I hand over to the CEO for closing remarks. 
+asr:0: OUTPUT 1728.13-1734.21: Thank you, Jaime. We continue to move forward on each of the pillars of our TESG strategy. 
+asr:0: OUTPUT 1734.79-1740.34: On the environmental side, we particularly highlight achievements in our renewable energy projects. 
+asr:0: OUTPUT 1741.10-1746.59: With the entry into operation of the San Fernando solar farm that is located in the metal department. 
+asr:0: OUTPUT 1746.61-1755.74: We have now an additional installed capacity of 61 megawatts that will supply part of the energy demand for both Eco-Petrol and SENEP operations. 
+asr:0: OUTPUT 1756.54-1764.72: It will also help us to avoid emissions for more than 508,000 tons of CO2 equivalent during the next 15 years. 
+asr:0: OUTPUT 1764.74-1767.89: And will contribute to the group's decarbonization plan. 
+asr:0: OUTPUT 1768.65-1772.79: All this in addition to over 21,000 tons of CO2 emissions. 
+asr:0: OUTPUT 1772.81-1780.48: That have already been avoided by the Castilla solar farm in its first two years of operation since October 2019. 
+asr:0: OUTPUT 1781.24-1788.99: During such period, we have also saved with the Castilla Solar Farm some $2 million in operational costs. 
+asr:0: OUTPUT 1789.77-1796.58: With San Fernando, the group's current capacity on renewable energy stands at 112 megawatts. 
+asr:0: OUTPUT 1797.56-1803.26: Likewise, Ecopetrol also inaugurated the gas-based self-generation plant in Chichimene,. 
+asr:0: OUTPUT 1803.48-1812.97: That will avoid emissions of some 44,000 tons of CO2 each year and will supply part of the energy required by the Chichimene. 
+asr:0: OUTPUT 1813.13-1818.50: CPO9 and Castilla fields all located in the META department. 
+asr:0: OUTPUT 1819.08-1826.79: In terms of hydrogen, we highlight the active participation of Ecopetrol as one of the key players in the construction of Colombia's hydrogen roadmap. 
+asr:0: OUTPUT 1826.81-1830.27: Aimed at developing this energy source for the country. 
+asr:0: OUTPUT 1830.65-1839.24: On the other hand, we recently joined the group of the Task Force on Nature-Related Financial Disclosures, TNFD. 
+asr:0: OUTPUT 1839.26-1847.81: To help develop a reporting framework for nature-related risk and opportunities, as well as mitigating negative impacts on the environment. 
+asr:0: OUTPUT 1847.91-1854.45: Last week, we participated in COP26 in Glasgow as one of the organizations representing Colombia. 
+asr:0: OUTPUT 1855.04-1860.00: In addition to discussing actions that allow to mitigate climate change impact,. 
+asr:0: OUTPUT 1860.08-1871.81: We met with different leading organizations to explore potential alliances in the development of several opportunities on our Road to Net Zero and Energy Transition Roadmaps. 
+asr:0: OUTPUT 1871.93-1882.26: Regarding technology, I want to highlight the capture of some $36 million year-to-date of benefits from our digital transformation agenda. 
+asr:0: OUTPUT 1882.70-1894.11: Also, the award of the Sustainable Development Goals Good Practices led by the Global Compact of the UN to our Open Innovation Program 100 times 100. 
+asr:0: OUTPUT 1895.20-1896.74: In the social dimension. 
+asr:0: OUTPUT 1896.76-1905.93: Ecopetrol achieved the Equipares Silver Seal, a certification with a 98.47% score. 
+asr:0: OUTPUT 1905.95-1912.41: Which gives us now five companies in the group that have favorable processes for gender equality. 
+asr:0: OUTPUT 1912.77-1914.67: Let's move on now to the conclusions. 
+asr:0: OUTPUT 1915.08-1921.48: During the quarter, we achieved significant progress towards energy transition, such as the closing of the ESA acquisition. 
+asr:0: OUTPUT 1921.56-1923.94: Setting a milestone. 
+asr:0: OUTPUT 1923.96-1927.53: In the history of the country and for both companies. 
+asr:0: OUTPUT 1927.55-1936.72: Providing the opportunity to consolidate the Eco-Petrol Group as a new leading energy company with greater capacity to continue generating sustainable value. 
+asr:0: OUTPUT 1937.18-1942.38: We continue delivering strong financial results to our shareholders and our groups of interest. 
+asr:0: OUTPUT 1942.74-1951.67: We will keep consolidating our integrated strategy, maintaining the focus on the core business while moving forward in the pillars of energy transition. 
+asr:0: OUTPUT 1952.01-1958.80: Thanks to everyone for participating today in the call. And now I will open up for the Q&A session. 
+asr:0: OUTPUT 1961.04-1969.73: Thank you. At this time, I would like to remind everyone, in order to ask a question, simply press star and then one on your telephone keypad. 
+asr:0: OUTPUT 1970.63-1977.98: If you would like to withdraw your question, please press the pound key. We'll pause for just a moment to compile the Q&A roster. 
+asr:0: OUTPUT 1991.49-1995.58: We have a question from Guilherme Levy from Morgan Stanley. 
+asr:0: OUTPUT 2000.00-2006.59: Thank you for taking my questions. I have two questions. The first one is on lifting costs. 
+asr:0: OUTPUT 2007.29-2019.64: I just wanted to understand your expectations for the deadline going forward when we consider both recovery production and higher oil prices. 
+asr:0: OUTPUT 2020.00-2024.66: That are expected to remain into the next quarter. 
+asr:0: OUTPUT 2025.89-2032.69: If we should continue to expect lifting costs close to the $8 per BOE range. 
+asr:0: OUTPUT 2033.43-2037.54: And if the company is already seeing some level of industry cost inflation. 
+asr:0: OUTPUT 2038.50-2045.37: And then the second question is on the production expectations for 2022. 
+asr:0: OUTPUT 2046.15-2054.77: I just wanted to try to understand what sort of projects can be anticipated at the current oil price environment. 
+asr:0: OUTPUT 2056.00-2066.81: And also how much the Shale JV in the US could contribute to the group in this strong oil price environment. Thank you very much. 
+asr:0: OUTPUT 2072.63-2077.16: Guillerme, thanks and thanks for participating today in the conference call. 
+asr:0: OUTPUT 2077.60-2081.88: So I'll give you some context and then I'll ask Alberto. 
+asr:0: OUTPUT 2081.90-2088.41: To provide more detail first around lifting costs and then around production. 
+asr:0: OUTPUT 2089.19-2096.18: So the first thing around nifting costs, if you look at where we ended up on 3Q around the $8 per barrel. 
+asr:0: OUTPUT 2097.16-2103.16: We're signaling that the year should end up in around or at around $8.50 per barrel. 
+asr:0: OUTPUT 2103.76-2109.33: For next year, the rate should be around $9.50 to $10 per barrel. 
+asr:0: OUTPUT 2109.65-2111.55: That's the expectation. 
+asr:0: OUTPUT 2111.63-2120.52: Clearly, we see there will be an increment or an increase in terms of the lifting cost. 
+asr:0: OUTPUT 2121.06-2125.37: Alberto will provide data around levels of activity. 
+asr:0: OUTPUT 2125.43-2128.87: And also some of the prisoners we're seeing. 
+asr:0: OUTPUT 2128.89-2138.30: From some of the first increases in terms of sector inflation, particularly around some materials and the like. 
+asr:0: OUTPUT 2138.60-2139.90: So he'll talk about that. 
+asr:0: OUTPUT 2140.56-2149.47: In terms of production, I'll share my view with you and then again Alberto will provide some detail. But if you look at what has happened this year,. 
+asr:0: OUTPUT 2150.51-2153.47: We started at 1QF676. 
+asr:0: OUTPUT 2154.11-2159.78: We went down to 661 in 2Q and up to 684 in 3Q. 
+asr:0: OUTPUT 2160.54-2166.43: So there's our recovery. We're seeing recovery from some of the issues, operational issues that we had in June. 
+asr:0: OUTPUT 2166.95-2176.06: Especially with the production of water and some other issues and some of the blockages and stoppages and civil arrests in the country. 
+asr:0: OUTPUT 2177.22-2182.40: We expect that in 4Q, we will be at around 700,000 barrels. 
+asr:0: OUTPUT 2183.42-2192.41: The way I would describe it is that we're seeing recovery, there's a clear path of recovery, but it's taking longer than what we had anticipated. 
+asr:0: OUTPUT 2192.69-2194.69: So I think that's message number one. 
+asr:0: OUTPUT 2195.24-2200.76: We are currently working on the numbers for 2022. We don't have a number yet in terms. 
+asr:0: OUTPUT 2218.94-2219.98: Please be prepared to. 
+asr:0: OUTPUT 2264.48-2275.38: Your name, please. 
+asr:0: OUTPUT 2275.44-2277.14: Thank you. Here's your question. 
+asr:0: OUTPUT 2277.16-2279.98: In the core business. Thank you. 
+asr:0: OUTPUT 2286.85-2292.89: Thanks, Matthews. I'll start with Issa, and then I'll hand over to Walter to talk about the downstream. 
+asr:0: OUTPUT 2293.35-2301.42: In terms of ESA, I want to provide a bit of context. We have something called the TMO, the Transition Management Office. 
+asr:0: OUTPUT 2301.82-2308.21: It's basically comprised of some 80 people, roughly, top and top from each of the organizations. 
+asr:0: OUTPUT 2308.89-2318.12: Has been working for some months now, and for the last two and a half months since we closed the deal on the 20th of August,. 
+asr:0: OUTPUT 2318.14-2321.94: A dedicated team has been focused. 
+asr:0: OUTPUT 2321.96-2331.45: On the premises, maybe, working on some 10 to 12 streams of work. 
+asr:0: OUTPUT 2331.49-2343.62: Different things, you know, and we've talked about the legal, the regulatory, the financial consolidation. So we're working now on things like budget and planning. 
+asr:0: OUTPUT 2343.64-2345.89: Purposes and so there's a lot of work. 
+asr:0: OUTPUT 2346.13-2348.71: And that's actually going quite well. 
+asr:0: OUTPUT 2349.45-2353.73: I'm happy to answer any questions. 
+asr:0: OUTPUT 2354.17-2360.18: That's already happened. So I just wanted to provide sort of the high level context in terms of where we are. 
+asr:0: OUTPUT 2360.50-2361.72: So things that we're looking at. 
+asr:0: OUTPUT 2362.30-2368.33: And there's some very tactical, pragmatic things that we're looking at. So, for example,. 
+asr:0: OUTPUT 2370.37-2375.56: In a lot of the things in which we operate, for example, on a digital. 
+asr:0: OUTPUT 2376.46-2381.48: We have a lot of synergies and opportunities because we use the same providers. 
+asr:0: OUTPUT 2382.00-2390.81: We can share some of the favorable conditions that Ecopetrol has on contracting some of these services. 
+asr:0: OUTPUT 2390.93-2392.87: Those can be passed through to each. 
+asr:0: OUTPUT 2393.33-2398.40: So that's low-high improved, very early on, those things have identity. 
+asr:0: OUTPUT 2399.14-2406.15: And there's some ongoing work between the teams around things like innovation and technology, very important. 
+asr:0: OUTPUT 2406.47-2410.13: So things like when you mentioned power generation, so. 
+asr:0: OUTPUT 2410.67-2414.95: In Colombia by the current existing regulation. 
+asr:0: OUTPUT 2415.14-2422.20: Since we are in transmission, we would not be allowed to enter the power generation market to sell to third parties. 
+asr:0: OUTPUT 2422.84-2426.67: So that's the current regulatory framework in Colombia. 
+asr:0: OUTPUT 2427.09-2434.01: Having said that, there's opportunities in the other countries where we do not have a presence. So that's point number one. 
+asr:0: OUTPUT 2434.59-2443.02: But in terms of things like additional renewable, our generation projects from renewable sources,. 
+asr:0: OUTPUT 2443.22-2446.03: There's a lot of opportunity both in country and outside. 
+asr:0: OUTPUT 2446.09-2448.19: In terms of energy storage. 
+asr:0: OUTPUT 2448.47-2457.60: Which is fundamental as we think about the transition and sort of ensuring that there's reliability in terms of the provision of electricity. 
+asr:0: OUTPUT 2457.74-2460.90: To the consumers. 
+asr:0: OUTPUT 2461.72-2470.29: Even in things like hydrogen, low emission energy. The teams are actually working on that. 
+asr:0: OUTPUT 2470.31-2480.00: We're very enthusiastic, I would say, in terms of the new opportunities and there's a lot of things that are coming up from those conversations. 
+asr:0: OUTPUT 2480.84-2489.77: What we'd like to do, Matthews, is that as soon or as long as we're progressing and advancing, we'll continue to communicate. 
+asr:0: OUTPUT 2489.95-2491.53: You know, in terms of. 
+asr:0: OUTPUT 2491.79-2495.26: Where we are, how we've landed some of those off. 
+asr:0: OUTPUT 2495.28-2502.92: Opportunities, but I would end up saying here before handing on to Walter is that a. 
+asr:0: OUTPUT 2502.94-2508.93: I don't think we fully understand the potential that we can unlock. 
+asr:0: OUTPUT 2509.09-2514.07: In terms of the transaction that we've done and the opportunities going forward. 
+asr:0: OUTPUT 2514.77-2522.18: Juan, why don't we move into the downstream to talk a little bit more about the margins and what we see going forward? 
+asr:0: OUTPUT 2524.06-2528.57: Thank you, Felipe. Thank you, Matthew, for your question on the downtrend business. 
+asr:0: OUTPUT 2529.57-2535.76: I will start mentioning that you saw on the slide, it was covered by Alberto. 
+asr:0: OUTPUT 2535.78-2544.84: That as of September we have accumulated a record EBITDA of 2.3 billion pesos for the segment. 
+asr:0: OUTPUT 2544.90-2549.39: This is mainly coming from excellent results in the second quarter. 
+asr:0: OUTPUT 2549.97-2557.00: Regarding the sales quota, it is important to mention that we started around July. 
+asr:0: OUTPUT 2557.02-2561.00: Activities at the Barranca Bermeja. 
+asr:0: OUTPUT 2561.42-2567.11: Refinery, mainly in the alkylation unit and the petrochemical business. 
+asr:0: OUTPUT 2567.47-2574.69: Those activities at Barranca will continue. So those have already been completed, although. 
+asr:0: OUTPUT 2574.81-2583.98: We are progressing right now, maintenance, major maintenance on one of the crew units and on the FCC. 
+asr:0: OUTPUT 2584.52-2593.99: In the case of Cartagena, the result of the third quarter was impacted by the blackout event that we had in August. 
+asr:0: OUTPUT 2594.89-2603.04: And also a maintenance that we needed to do at the FCC unit in August and finish in the middle of September. 
+asr:0: OUTPUT 2603.42-2605.83: At the Cartagena refinery, those were. 
+asr:0: OUTPUT 2605.85-2615.44: One-time events, both of them, and the refinery was recovered for those events and is running close to full rate right now. 
+asr:0: OUTPUT 2615.82-2620.00: And at the Cartagena refinery, we are projecting the fourth quarter. 
+asr:0: OUTPUT 2620.06-2627.55: We are not projecting to have a plan turnaround or big maintenance at the Cartagena Refining in the fourth quarter. 
+asr:0: OUTPUT 2627.93-2633.97: We see Cartagena for the fourth quarter coming up in terms of margins. 
+asr:0: OUTPUT 2635.34-2641.42: At the Barranca, as I mentioned, we are executing the plan turnaround for the crew unit of the FCC. 
+asr:0: OUTPUT 2641.80-2647.41: But marching for the baranca are planned to be steady for the fourth quarter and very similar to the third quarter. 
+asr:0: OUTPUT 2647.71-2653.51: In overall, for the refining, we are projecting to finish 2021. 
+asr:0: OUTPUT 2654.55-2656.50: Regarding a crude weight. 
+asr:0: OUTPUT 2657.30-2663.86: We have told you that we are planning to be on the 345 to 365 KBDE. 
+asr:0: OUTPUT 2664.06-2668.03: And we are projecting to be on the high side of that range. 
+asr:0: OUTPUT 2668.47-2676.80: Regarding March for projection for 2021, we are projecting to finish the year between both business, Cartagena and Barranca. 
+asr:0: OUTPUT 2676.82-2683.24: On the upper side of the one digit, so close to the $10 per barrel for 2021. 
+asr:0: OUTPUT 2683.66-2690.03: Regarding 2022, I would say that we see margins coming up. 
+asr:0: OUTPUT 2690.23-2698.98: Although I have to mention, during the first half of the year, we do have plant maintenance activities at both refineries. 
+asr:0: OUTPUT 2699.00-2700.94: Barranca and Cartagena. 
+asr:0: OUTPUT 2701.26-2703.06: And mainly on the first half of the year. 
+asr:0: OUTPUT 2703.74-2710.79: So, but in overall, we see a margin. There will be some ups and downs. 
+asr:0: OUTPUT 2710.91-2715.34: Because that depends on what type of maintenance activities we do every month. 
+asr:0: OUTPUT 2715.38-2724.22: But in overall we see margin for 2022 on the low side of the two digits for the refining business. 
+asr:0: OUTPUT 2726.01-2728.87: And I think that I would like to mention that. 
+asr:0: OUTPUT 2728.89-2731.57: 2020-2021 and 2022-2022. 
+asr:0: OUTPUT 2731.59-2740.98: To. 
+asr:0: OUTPUT 2741.02-2742.30: But because of COVID-19. 
+asr:0: OUTPUT 2742.50-2750.43: We need to move some of those maintenance from 2020 to 2021 and 2021. 
+asr:0: OUTPUT 2752.49-2756.08: I hope, Matthew, I was clear and I was able to answer your question. 
+asr:0: OUTPUT 2762.28-2766.19: Our next question comes from Vicente Falanga from Bradesco. 
+asr:0: OUTPUT 2768.37-2771.59: Hi, good afternoon everyone. Thank you for taking my questions. 
+asr:0: OUTPUT 2772.59-2781.46: My first one is regarding Brazil. When do you expect the drilling of the first well there? What are the next key milestones? 
+asr:0: OUTPUT 2782.54-2786.27: My second question is regarding to unconventional. 
+asr:0: OUTPUT 2786.67-2791.71: Do you feel that after you get the licenses for Calais and Platero? 
+asr:0: OUTPUT 2791.73-2799.20: That for other future potential areas, these licenses could come out quicker. 
+asr:0: OUTPUT 2799.86-2802.92: And then if I just may, sorry, a follow up on the previous question. 
+asr:0: OUTPUT 2803.60-2809.05: Do you still see risks of public order in the Canyon Limon pipeline this quarter? 
+asr:0: OUTPUT 2809.07-2814.07: That could again affect the refineries or things calmer there. Thank you. 
+asr:0: OUTPUT 2822.42-2830.59: Vicente, good morning and thanks for the question. With regards to Brazil, what we are doing right now? 
+asr:0: OUTPUT 2830.77-2833.89: In terms of exploration,. 
+asr:0: OUTPUT 2834.01-2841.78: Now we are in the planning phase to drill our second well in the Saturnoblock. 
+asr:0: OUTPUT 2841.80-2845.03: Which basically is what we call the Iapetus prospectus. 
+asr:0: OUTPUT 2845.67-2851.99: And we expect to drill this well late in 2022 or early 2023. 
+asr:0: OUTPUT 2852.97-2860.62: And this will depend very much in our conversations with our partners, in that case, Shell and Chevron. 
+asr:0: OUTPUT 2862.12-2871.59: Also, in terms of development, just to recognize that Gato Domato is going well and that we. 
+asr:0: OUTPUT 2871.73-2875.64: Several milestones to complete them in the next few months. 
+asr:0: OUTPUT 2876.02-2882.04: The first one is the award of the FPSO, the Floating Production Storage and Uploading Facility. 
+asr:0: OUTPUT 2883.10-2891.63: Initiate fabrication of the FPSO, also award the subsea facilities contract. 
+asr:0: OUTPUT 2892.33-2900.22: Depending on the advance and progress of those activities, we are shooting for an early. 
+asr:0: OUTPUT 2900.28-2903.42: At the end of 2025, early 2026. 
+asr:0: OUTPUT 2904.12-2913.11: That's the program. If we see opportunities to build additional wells, that will be depending very much on decisions taken with our partners. 
+asr:0: OUTPUT 2913.79-2916.96: So that's times where we are in Brazil, exactly. 
+asr:0: OUTPUT 2921.48-2925.45: With regards to PEPFAR, the unconvention. 
+asr:0: OUTPUT 2926.47-2935.66: So we're in the process, as we mentioned in our report, in the process of obtaining the licenses for Calais and Pateno. 
+asr:0: OUTPUT 2936.12-2941.40: We already delivered the environmental assessment study for Calais. 
+asr:0: OUTPUT 2941.98-2947.17: And we are trying to do so for Platero. 
+asr:0: OUTPUT 2947.87-2949.25: So,. 
+asr:0: OUTPUT 2949.41-2957.92: In terms of whether this will increase the potential of getting licenses for new areas. 
+asr:0: OUTPUT 2958.36-2966.17: I will be very conservative. I think our focus should be in the two areas where we have at this moment the climate. 
+asr:0: OUTPUT 2966.71-2976.54: Once we are successful in getting the licenses, as well as doing the execution of the wealth. 
+asr:0: OUTPUT 2976.64-2982.24: Doing the drilling of the wells, then we can foresee if there are opportunities in other places. 
+asr:0: OUTPUT 2983.72-2989.57: I guess I would probably just like to add, and before you come back to Pena Limon, and the third question is... 
+asr:0: OUTPUT 2990.73-2999.86: What we've said, Vicente, with regard to the unconventional pilots in Colombia is that this is not about doing it quickly. It's about doing it well. 
+asr:0: OUTPUT 3000.42-3009.53: In that sense, and you saw some of the timelines that we produced in the report, we see ourselves. 
+asr:0: OUTPUT 3009.99-3015.98: But we're working to see if we can actually accelerate that. Can we bring that forward into 2020? 
+asr:0: OUTPUT 3017.32-3020.92: But bear in mind that after we have all the results and the data. 
+asr:0: OUTPUT 3021.36-3028.27: There is an independent commission that will look at the results of the pilot and determine if the pilots were successful or not. 
+asr:0: OUTPUT 3028.79-3034.09: In terms of achieving the objectives that were set up with the regulations to the pilot. 
+asr:0: OUTPUT 3034.73-3038.74: We'll need to see what that means. Having said that... 
+asr:0: OUTPUT 3038.76-3044.10: Obviously, we've worked on identifying additional areas with potential. 
+asr:0: OUTPUT 3044.24-3051.29: And thinking about how can we take this to the next level in terms of becoming part of the operation that we do. 
+asr:0: OUTPUT 3051.35-3055.66: We now have a lot of expertise from the Kermian to use under our belt. 
+asr:0: OUTPUT 3056.54-3059.84: So that's being brought home. 
+asr:0: OUTPUT 3059.86-3064.66: In terms of planning and ensuring that we can understand how to move. 
+asr:0: OUTPUT 3064.68-3070.15: To the next phase, which if I understand correctly, is sort of the question. 
+asr:0: OUTPUT 3070.57-3072.81: And I'm very concerned so far, and in one. 
+asr:0: OUTPUT 3073.57-3079.36: Well, in terms of Pano Limón, we need to recognize that we have the pressure of social unrest. 
+asr:0: OUTPUT 3079.56-3083.80: And guerrilla activity in both the Catatumbo and the Arauca regions. 
+asr:0: OUTPUT 3084.46-3091.91: So the risk is there, but we have the contingency means to manage the production impact. 
+asr:0: OUTPUT 3092.27-3097.62: If the Tanya Limon pipeline is... 
+asr:0: OUTPUT 3097.64-3104.98: Affected by this social number, then we have the contingent route of the best-in-scenario pipeline. 
+asr:0: OUTPUT 3105.63-3113.07: If this is working, as has been working during the third quarter, where we have 11 reversal cycles,. 
+asr:0: OUTPUT 3113.69-3121.36: Then we shouldn't expect major impact in terms of the loads for the refiners. 
+asr:0: OUTPUT 3133.41-3138.80: Thank you. Our next question comes from Frank McGann from Bank of America. Please go ahead. 
+asr:0: OUTPUT 3140.48-3149.81: Thank you very much. Just stepping back to a little bit bigger picture in terms of how you're seeing the CapEx potential in upstream. 
+asr:0: OUTPUT 3150.13-3153.75: After the last four or five years, which I think is a long time, I think I've been doing. 
+asr:0: OUTPUT 3153.91-3160.98: You went from having a lot of opportunities and being very aggressive to pulling back. 
+asr:0: OUTPUT 3161.02-3163.54: Is rightfully so. 
+asr:0: OUTPUT 3163.56-3174.17: Restore the balance sheet and not get overly aggressive in terms of spending given the less clear environment especially of course over the last 18-24 months. 
+asr:0: OUTPUT 3174.79-3178.56: I'm just wondering now how you're thinking about upstream. 
+asr:0: OUTPUT 3178.68-3185.13: You've got, I would assume, a lot of low-hanging fruit that you could potentially exploit. 
+asr:0: OUTPUT 3185.19-3198.68: I would think you could increase CapEx quite a bit and profitably so if you wanted to, but I'm just wondering how big that portfolio is potentially. 
+asr:0: OUTPUT 3198.72-3209.69: Are you tempted to get more aggressive over the next couple of years given the very favorable environment and fairly short payback period that you have for a lot of those investments? 
+asr:0: OUTPUT 3215.68-3216.76: Thank you, Ms. Pratt. 
+asr:0: OUTPUT 3216.78-3219.32: Great question, and I think. 
+asr:0: OUTPUT 3219.86-3228.21: I'll provide you some views and then Jaime can add up and Alberto as well and the team can start to basically complete the views. 
+asr:0: OUTPUT 3229.17-3231.41: The way I would put it,. 
+asr:0: OUTPUT 3231.49-3233.21: I like your... 
+asr:0: OUTPUT 3233.23-3243.68: Your intro to the question in terms of us being very careful with the management of the balance sheet and the opportunities. 
+asr:0: OUTPUT 3244.32-3250.67: And if you look at how we've ramped up CAPEX over the last few years,. 
+asr:0: OUTPUT 3250.69-3259.34: From $2.2 billion in 2017 to $2.9 billion in 2018 to $3.5 billion in 2019. 
+asr:0: OUTPUT 3259.42-3260.94: Will be that range this year. 
+asr:0: OUTPUT 3261.02-3267.11: I was answering a question earlier saying that we see ourselves in the four to five. 
+asr:0: OUTPUT 3267.13-3271.21: Billion dollar range organic excluding. 
+asr:0: OUTPUT 3272.05-3276.80: And historically, 80 to 85% of the CAPEX has gone to the upstream. 
+asr:0: OUTPUT 3277.36-3285.19: We're not going to abandon that. There will be additional focus in terms of exploration. 
+asr:0: OUTPUT 3285.99-3288.75: And this goes from a... 
+asr:0: OUTPUT 3288.77-3296.32: Looking at seismic that we already have and doing the reinterpretation of that seismic with new technology and new capabilities,. 
+asr:0: OUTPUT 3296.82-3298.06: So that's point number one. 
+asr:0: OUTPUT 3298.60-3302.60: And I think the news that we gave the market share during the week. 
+asr:0: OUTPUT 3302.62-3310.31: With the media AW well, which is the discovery of a new field show that. 
+asr:0: OUTPUT 3310.33-3313.85: So adjusting our view on exploration is paying off. 
+asr:0: OUTPUT 3314.11-3315.46: And I think that's very important. 
+asr:0: OUTPUT 3316.50-3319.38: This year we'll end up with some 400 wells. 
+asr:0: OUTPUT 3320.00-3326.99: In our portfolio that we've drilled development wells, we should probably see an increase in that and that's the way you need to think about it. 
+asr:0: OUTPUT 3327.53-3330.57: If you look at geographically,. 
+asr:0: OUTPUT 3330.87-3333.83: We have a very good activity team at Birmingham. 
+asr:0: OUTPUT 3333.97-3341.82: It's not only providing molecules or barrels, but it's also producing good EBW. 
+asr:0: OUTPUT 3342.18-3346.93: We'll be able to talk about that when we close the year. 
+asr:0: OUTPUT 3347.73-3356.92: So a lot of focus in Colombia, but we do have focus in both the Permian and Alberto was just referring to Gato D'Omato in Brazil. 
+asr:0: OUTPUT 3357.34-3359.60: That will require some additional topics. 
+asr:0: OUTPUT 3360.84-3368.11: But clearly, focusing on Colombia where EOR techniques, increasing recovery factors are fundamental. 
+asr:0: OUTPUT 3368.55-3374.39: We have to deal with a 15 to 17 decline, natural decline per year in our main fields. 
+asr:0: OUTPUT 3375.14-3377.98: Good news, I think tailwings are healthy. 
+asr:0: OUTPUT 3378.52-3383.82: We've done a lot of work over the last four or five years in terms of efficiencies, in terms of becoming. 
+asr:0: OUTPUT 3384.34-3390.25: A much better in terms of producing margin at the upstream level. So I think that's paying off. 
+asr:0: OUTPUT 3390.85-3395.36: Having said that, we had a good discussion earlier on about. 
+asr:0: OUTPUT 3395.40-3400.40: Sector information and some of the things that we're doing, but again things like serial phase budgeting. 
+asr:0: OUTPUT 3400.76-3408.03: And something called Performance Plus, which is an internal program to look at more efficiencies, I think can provide a lot of... 
+asr:0: OUTPUT 3408.07-3412.81: Support in terms of how we see ourselves going forward. 
+asr:0: OUTPUT 3414.85-3417.30: We have identified lots of opportunities. 
+asr:0: OUTPUT 3418.08-3427.53: We have something called taxonomy, so we know which each and every opportunity that we have in the pipeline ranks up. But, and I'll stop here. 
+asr:0: OUTPUT 3427.89-3433.67: We don't want to get crazy in terms of spending money just for the sake of spending money. 
+asr:0: OUTPUT 3434.09-3442.00: Stay very focused on discipline in terms of how do we deploy the CAPEX in the operations. 
+asr:0: OUTPUT 3442.62-3446.41: Jaime, if you want to add something else for Alberto, just hit me. 
+asr:0: OUTPUT 3447.89-3449.41: Thank you, Felipe. 
+asr:0: OUTPUT 3449.43-3451.55: So Frank, good to hear you. 
+asr:0: OUTPUT 3451.65-3454.61: I'll give you some color and initially I'm going to... 
+asr:0: OUTPUT 3454.63-3464.52: I'm going to give you some broad group numbers that provide context for the conversation and then some directional numbers associated to the plan which we're working on. 
+asr:0: OUTPUT 3465.31-3474.33: I think the biggest headline is that as we look to refresh the plan 22-24 in the context of a higher price environment,. 
+asr:0: OUTPUT 3474.41-3478.66: And in the context, of course, of the production lag that we've seen this year. 
+asr:0: OUTPUT 3478.70-3483.78: Clearly, our strategic intent is to increase production. 
+asr:0: OUTPUT 3484.16-3487.59: So directionally, what we want to do with the option is to increase production. 
+asr:0: OUTPUT 3487.99-3496.90: And the good news is that the result of the portfolio analysis that we've been having over the last few months. 
+asr:0: OUTPUT 3496.92-3499.48: Is one that indicates a stronger portofolio. 
+asr:0: OUTPUT 3500.00-3505.83: With more prospects, with more possibilities and therefore with more value. 
+asr:0: OUTPUT 3505.91-3516.26: To give you an idea, this year's plan compared to last year's plan speaks about. 
+asr:0: OUTPUT 3516.28-3523.02: Maturing around 1.5 billion barrels of resources, of 3P resources. 
+asr:0: OUTPUT 3523.32-3525.17: That's the extent of the total for a. 
+asr:0: OUTPUT 3525.39-3535.20: Last, when we were looking at this number 18 months ago, it was more in the 1.1 and our range. So we've actually seen a bigger portfolio to work. 
+asr:0: OUTPUT 3536.00-3546.27: The second thing that we're seeing is that in the context of the full agenda of a performance plus and efficiencies and becoming more competitive and the like,. 
+asr:0: OUTPUT 3546.31-3552.37: We are also seeing improved rate keeping and therefore more value associated to the portfolio. 
+asr:0: OUTPUT 3552.55-3564.32: So, directionally, a portfolio that maybe a couple of years ago was worth, and I'm talking about the growth component of the portfolio, around $6 billion in NPD. 
+asr:0: OUTPUT 3564.50-3567.71: It's now around $9 billion in MGB. 
+asr:0: OUTPUT 3568.05-3575.32: So where I'm trying to go here is that there's value to be had and we want to chase that. 
+asr:0: OUTPUT 3575.44-3583.96: Obviously in a distinct way like Felipe mentioned, in a structured way, but there's value to be created. 
+asr:0: OUTPUT 3584.56-3592.71: When you look at the ramp up of activity, the ramp up of activity that we expect to have in theory is significant. 
+asr:0: OUTPUT 3593.09-3602.12: We're talking about directionally around 540 development wells next year, around 600 workover. 
+asr:0: OUTPUT 3602.14-3611.51: A workover around anywhere between 25 and 30 exploration wells and going back into sites. 
+asr:0: OUTPUT 3611.79-3617.50: So the opportunities are there and they are sufficiently mature. 
+asr:0: OUTPUT 3618.48-3622.88: All these numbers that I'm quoting, about 67% of the activity said. 
+asr:0: OUTPUT 3623.00-3627.77: It's already in its third or fourth stage of maturing. 
+asr:0: OUTPUT 3627.81-3636.70: So they're things that are reasonably good to go and it gives us confidence that we're going to be able to execute them this next year. 
+asr:0: OUTPUT 3637.12-3645.83: So that's where we're going. When you look at that number that Felipe mentioned of between $4 and $5 billion of organic CAPEX,. 
+asr:0: OUTPUT 3646.57-3655.28: I would say that the upstream, as usual, will represent a big chunk of that. 
+asr:0: OUTPUT 3655.92-3662.60: When we look at the next three years, I would expect the option to be capturing. 
+asr:0: OUTPUT 3662.62-3666.79: Probably anywhere between $10 and $12 billion of capital. 
+asr:0: OUTPUT 3667.13-3671.23: Upstream alone. That's where direction we're heading. 
+asr:0: OUTPUT 3671.41-3679.94: Obviously, this is all subject to some fine-tuning and we're going to have a more detailed conversation in February, but that's where our head is right now. 
+asr:0: OUTPUT 3681.24-3691.19: I will just add that when you look at our portfolio, years back our focus was on. 
+asr:0: OUTPUT 3691.21-3695.01: Of the main mature fields, heavy oil fields. 
+asr:0: OUTPUT 3695.76-3698.92: So now in our plan, now. 
+asr:0: OUTPUT 3699.06-3707.69: You'll see new areas emerging. For example, in terms of exploration, you'll see activity associated with the Caribbean offshore. 
+asr:0: OUTPUT 3708.15-3713.95: And also a lot of focus in terms of the Piedmont foot hill. 
+asr:0: OUTPUT 3714.53-3721.32: Where we have the expectation of finding both light oil and gas. 
+asr:0: OUTPUT 3721.98-3726.55: So you'll see that diversification when you look at other projects. 
+asr:0: OUTPUT 3726.59-3732.21: That are going to be emerged. You'll see Tanya Sur close to Rubiales and then Acacia. 
+asr:0: OUTPUT 3732.23-3735.34: Which will be another focus in our portfolio. 
+asr:0: OUTPUT 3735.88-3740.50: So more diversification, I would say. Thanks, Agustin. Thanks, Heine. 
+asr:0: OUTPUT 3744.12-3748.23: Thank you. Our next question comes from Kristen Audi from Santa. 
+asr:0: OUTPUT 3751.05-3754.07: Thank you. Hello, Felipe. Hi, May. Hope you're well. 
+asr:0: OUTPUT 3756.14-3760.80: I wanted to get your views on a couple of points. 
+asr:0: OUTPUT 3762.34-3768.83: First, capital allocation and then on return on capital employed. 
+asr:0: OUTPUT 3769.31-3775.34: In terms of capital allocation, you've already touched on CapEx. 
+asr:0: OUTPUT 3776.98-3779.78: I was wondering if you could also touch on the leveraging. 
+asr:0: OUTPUT 3780.00-3782.88: And dividend payments. 
+asr:0: OUTPUT 3782.90-3790.81: How you prioritize those given the very strong results and cash flow generation that you're having. 
+asr:0: OUTPUT 3790.83-3794.35: Also, touch on... 
+asr:0: OUTPUT 3794.37-3816.06: The potential need for an equity offering and whether that equity offering, if needed, would be more to supply ESA with capital to pursue inorganic growth or would it be more driven to just strengthen the overall Eco-Patrol financial position? 
+asr:0: OUTPUT 3816.70-3825.19: Then in terms of returning to employed, which is an area where you as a company always stood out relative to your peers. 
+asr:0: OUTPUT 3825.49-3837.00: With the addition of ESA, it has great margins and great return on capital employed. I was just wondering if you could talk a little bit about where you see Rossi. 
+asr:0: OUTPUT 3837.10-3842.26: Maybe X is going into 2022, please. Thank you. 
+asr:0: OUTPUT 3848.21-3851.69: Thank you, Christian. I hope you're doing well. 
+asr:0: OUTPUT 3852.31-3861.98: So let's talk about capital allocation and ROCHA. I'd first start with what is our view of the world going forward in terms of price environment? 
+asr:0: OUTPUT 3862.14-3867.57: Because it actually does set the stage a lot around how to think about. 
+asr:0: OUTPUT 3867.75-3874.13: Some of the questions you're making, capital allocation, deleveraging, dividends and the. 
+asr:0: OUTPUT 3874.89-3886.33: And one of the things that we've seen is that fundamentals do support a more optimistic view. 
+asr:0: OUTPUT 3886.35-3889.21: Around prices going forward. 
+asr:0: OUTPUT 3889.23-3890.79: You might recall that in the plan. 
+asr:0: OUTPUT 3890.83-3898.64: The plan that we're actually executing right now, our price assumption for this year was around $45 per barrel. 
+asr:0: OUTPUT 3898.70-3902.08: Next year, we were looking at $50 per barrel. 
+asr:0: OUTPUT 3902.42-3909.25: And that's something that we have been reflecting on and that we are going to update in our plans going forward. 
+asr:0: OUTPUT 3909.59-3919.30: So the outlook in which we are planning ahead is one where next year is at $63 per barrel. 
+asr:0: OUTPUT 3919.32-3922.62: And 23 and 24 are at 60. 
+asr:0: OUTPUT 3923.04-3932.97: These prices are still conservative when you look at the current headline price. 
+asr:0: OUTPUT 3933.73-3942.18: But we believe that it can position us as well in a place where we can retain our capital and cost discipline. 
+asr:0: OUTPUT 3942.56-3947.91: While at the same time making sure that we don't leave opportunities on the table. 
+asr:0: OUTPUT 3948.95-3954.71: The broader conversation around long-term price in this business. 
+asr:0: OUTPUT 3954.89-3962.46: We still remain conservative. We believe that all our projects need to fly at $50 per barrel. 
+asr:0: OUTPUT 3962.56-3970.87: And that's in a view that when you look at the majority of our projects and the time to market associated with these projects, you're looking at the long term. 
+asr:0: OUTPUT 3971.31-3972.81: So that's how we're thinking about this. 
+asr:0: OUTPUT 3973.71-3982.54: So with that in mind, what are we looking at? What we're looking at, firstly, in terms of your question about leverage. 
+asr:0: OUTPUT 3984.20-3991.77: The 2.5 times growth step to EBIT decision that we have been operating is one that seems reasonable. 
+asr:0: OUTPUT 3992.21-3996.76: It seems reasonable and it continues to be reasonable when you look ahead. 
+asr:0: OUTPUT 3997.08-4007.85: What is the balance that we want to have? The balance that we want to have is one where we have a bit of space there to encourage them, whether it's for inorganic opportunities that might arise,. 
+asr:0: OUTPUT 4008.01-4020.66: And also to capture or to reflect in our consolidated balance sheet the leverage that ESAT might have given that their ceiling is 4.5 times gross debt to EBITDA. 
+asr:0: OUTPUT 4020.98-4027.31: Why is that important? Leverage is an engine of growth for ESHA. 
+asr:0: OUTPUT 4027.65-4032.81: ESA has a pipeline of opportunities going forward that is very attractive. 
+asr:0: OUTPUT 4033.11-4042.32: The more we look at it, the more excited we are. And we definitely don't want capital to be a constraint for ESA's growth. 
+asr:0: OUTPUT 4043.16-4047.33: So we are comfortable with that range that they're operating in. 
+asr:0: OUTPUT 4047.87-4054.29: It's 3.5 to 4.5 times, and we wouldn't have any problem with these going to the very top end of that range. 
+asr:0: OUTPUT 4055.16-4061.42: So with that, our range of 2.5 kind of makes sense. That's how we're looking at this. 
+asr:0: OUTPUT 4061.92-4064.88: On leverage we're not going to stay put. 
+asr:0: OUTPUT 4064.92-4072.15: We just had this liability management transaction. We put $2 billion off our, if you will, off the near term. 
+asr:0: OUTPUT 4072.27-4075.02: It was an expiry that we were going to have in 2023. 
+asr:0: OUTPUT 4075.24-4079.96: Now we kick that off into the future and we intend to do that more. 
+asr:0: OUTPUT 4080.00-4092.57: We believe that the fundamentals of the capital markets right now and the results that Eco Petroleum are delivering allow us to pursue more transactions like that into the future. So, directly, that's how we're thinking about that. 
+asr:0: OUTPUT 4093.09-4095.18: With regards to dividend payment,. 
+asr:0: OUTPUT 4095.20-4103.82: You know our policy remains unchanged, 40-60% of net income and in good years. 
+asr:0: OUTPUT 4103.84-4107.91: You should expect and we all should expect to be on the very high end of that range. 
+asr:0: OUTPUT 4107.95-4116.12: That's how we're thinking ahead and that's how we're planning our cash and our capex accordingly. 
+asr:0: OUTPUT 4116.54-4120.08: Equity offering, where does the equity offering fit in into all of this? 
+asr:0: OUTPUT 4120.32-4121.66: It's about optionality. 
+asr:0: OUTPUT 4121.94-4123.46: It's about optionality, Christian. 
+asr:0: OUTPUT 4124.20-4126.71: The idea here is that a. 
+asr:0: OUTPUT 4126.73-4137.00: While our spending is robust and we're comfortable with leverage and we're comfortable with our ability to fund these topics for growth, which is our main. 
+asr:0: OUTPUT 4137.06-4139.28: We want to continue growing the company. 
+asr:0: OUTPUT 4139.72-4150.55: We believe that the equity offering offers the optionality to support whether it's an increased. 
+asr:0: OUTPUT 4150.57-4158.94: Necessity of CAPEX, you know, that's competitive, whether it's organic or inorganic, or simply to strengthen the balance sheet. 
+asr:0: OUTPUT 4159.00-4162.66: Directionally, right now, it would be about strengthening the balance sheet. 
+asr:0: OUTPUT 4163.00-4167.59: It would be about reducing the depth that we have to get into a more comfortable level. 
+asr:0: OUTPUT 4168.21-4177.24: Finally, with regards to your question around ROCHI, you might have seen that we posted a pretty solid ROCHI result on District Q. 
+asr:0: OUTPUT 4177.46-4182.48: 10.8% which is great, going back to double digits. 
+asr:0: OUTPUT 4182.80-4191.09: It's a number that puts us in with very little company in our sector, very, very few companies are out there with us. 
+asr:0: OUTPUT 4191.49-4192.77: And we're happy about that. 
+asr:0: OUTPUT 4193.09-4198.82: When you include ESA in the equation, ESA is accretive. With ESA, we're actually. 
+asr:0: OUTPUT 4198.96-4205.81: Isa will probably add, once you normalize, temporary effects and the like, because obviously it's a consolidation. 
+asr:0: OUTPUT 4206.15-4208.69: That you're seeing right now over your next one month. 
+asr:0: OUTPUT 4208.97-4212.95: But once you normalize for, if you will, business as usual with ISSA,. 
+asr:0: OUTPUT 4213.23-4220.36: Ethan is going to add probably four or five points into that. 
+asr:0: OUTPUT 4220.52-4228.97: I would believe that hopefully by year-end we're going to be above 12% in terms of ROGI and we can sustain that into the future. 
+asr:0: OUTPUT 4229.59-4231.85: Obviously, depending on price. 
+asr:0: OUTPUT 4232.07-4235.28: But that's what we believe in right now. Thanks, Christian. 
+asr:0: OUTPUT 4239.72-4245.29: We have no further questions at this time. I would like to turn the call over to Mr. Bayon for final remarks. 
+asr:0: OUTPUT 4250.65-4257.96: Thank you so much and very, very quickly I'd just like to thank everyone for being here today at the conference call. 
+asr:0: OUTPUT 4257.98-4265.53: Thanks again for following Ecopetrol for the interest that you put into our activities and how we continue to make progress. 
+asr:0: OUTPUT 4265.95-4273.57: Very good results for the quarter. Very good results not only in terms of numbers but in terms of how strategically we continue to advance. 
+asr:0: OUTPUT 4273.95-4283.64: It's great to have now one month of ETH results into our consolidated sales. They're very, very pleased with the acquisition. It's going very well. 
+asr:0: OUTPUT 4283.82-4287.33: We continue to make progress in our TESG agenda. 
+asr:0: OUTPUT 4287.75-4290.85: And hopefully we'll be able to. 
+asr:0: OUTPUT 4291.31-4300.00: Sit again with you guys virtually for year-end results and conversations around our plans going forward. 
+asr:0: OUTPUT 4300.80-4308.59: Hope that everybody stays safe, please stay here, and thanks again for being with us today at this conference call. Bye bye, ciao, gracias. 
+asr:0: OUTPUT 4310.93-4316.68: Thank you, ladies and gentlemen. This concludes today's conference. Thank you for participating. You may now disconnect. 
+asr:0: END

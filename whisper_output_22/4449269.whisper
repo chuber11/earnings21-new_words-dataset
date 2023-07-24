@@ -1,0 +1,383 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 2.04-10.25: Good morning ladies and gentlemen and welcome to the ESG flight plan event in Embraer's second quarter 2021 financial results. 
+asr:0: OUTPUT 10.81-15.04: Thank you for standing by. I'm Felipe Calçada, and I'll be your host for today. 
+asr:0: OUTPUT 15.70-19.98: At this time, all participants will watch our financial results presentation. 
+asr:0: OUTPUT 20.42-26.65: Right after, we'll conduct a question and answer session, and instructions to participate will be given at that time. 
+asr:0: OUTPUT 27.11-32.55: If you should require any assistance during the event, you can do so using the chat box on the platform. 
+asr:0: OUTPUT 33.09-38.32: As a reminder, this presentation is being recorded and webcasted at Reuters platform. 
+asr:0: OUTPUT 38.88-48.73: Before we begin, just a legal statement. This conference call includes forward-looking statements or statements about events or circumstances which have not occurred. 
+asr:0: OUTPUT 49.33-54.57: Embraer has based these forward-looking statements largely on its current expectations. 
+asr:0: OUTPUT 54.71-61.46: And projections about future events and financial trends affecting the business and its future financial performance. 
+asr:0: OUTPUT 61.92-66.71: These forward-looking statements are subject to risks, uncertainties, and assumptions. 
+asr:0: OUTPUT 66.99-75.74: Including among other things, general economic, political and business conditions in Brazil and in other markets where the company is present. 
+asr:0: OUTPUT 76.22-84.70: The words believes, may, will, estimates, continues, anticipates, intends, expects, and similar words. 
+asr:0: OUTPUT 84.72-87.99: Are intended to identify those forward-looking statements. 
+asr:0: OUTPUT 88.49-98.12: Embraer undertakes no obligations to update publicly or revise any forward-looking statement because of new information, future events, or other factors. 
+asr:0: OUTPUT 98.66-107.29: In light of these risks and uncertainties, the forward-looking events and circumstances discussed on this conference call might not occur. 
+asr:0: OUTPUT 107.89-114.39: And the company's actual results could differ substantially from those anticipated in the forward-looking statements. 
+asr:0: OUTPUT 115.12-120.40: Participants on today's conference are Francisco Gomes Neto, President and CEO. 
+asr:0: OUTPUT 120.84-128.59: Antonio Carlos Garcia, Chief Financial Officer and Procurement, and Eduardo Couto, Director of Investor Relations. 
+asr:0: OUTPUT 129.19-135.00: And now I would like to turn the conference over to Francisco Gomes Neto. Please go ahead, Francisco. 
+asr:0: OUTPUT 154.25-160.70: Good morning to all and thank you for joining our call today. 
+asr:0: OUTPUT 161.96-168.93: I hope that all of you are well and safe and thank you for your interest in our company. 
+asr:0: OUTPUT 170.23-176.54: As you will see in Antonio's presentation, our results for the quarter were strong. 
+asr:0: OUTPUT 177.48-190.59: The Q2 results are a clear example that our strategic planning has been well executed with the right focus and discipline, showing. 
+asr:0: OUTPUT 190.61-194.15: Significant improvement in our financial performance. 
+asr:0: OUTPUT 195.18-206.33: Before we go into more details regarding the Q2 results, I'd like to highlight the good momentum we are going in the different business segments. 
+asr:0: OUTPUT 207.29-213.07: In commercial aviation, we announced a new firm order for third. 
+asr:0: OUTPUT 213.09-219.16: E195E2 jets from the Canadian Porter Airlines. 
+asr:0: OUTPUT 219.18-223.76: With purchase rights for 50 more aircraft. 
+asr:0: OUTPUT 224.64-234.69: We also announced new firm orders for 34 E175 jets to Horizon Air and SkyWest. 
+asr:0: OUTPUT 235.22-239.96: To be operated for Alaska Airlines and Delta Airlines. 
+asr:0: OUTPUT 241.28-249.53: These new orders and other active campaigns reiterate the continuous interest in the EJET family. 
+asr:0: OUTPUT 249.55-253.21: As the best option in the regional aviation market. 
+asr:0: OUTPUT 254.93-260.80: In executive aviation, we keep up the momentum with the record sales in the quarter. 
+asr:0: OUTPUT 261.66-273.45: We maintained our price discipline strategy and had a strong backlog growth with book to bill in excess of two to one for this business. 
+asr:0: OUTPUT 274.69-281.92: In defense and security, we delivered seven Super Tucano aircraft in the first half of the year. 
+asr:0: OUTPUT 282.88-290.03: Also, we had strong performance in our cybersecurity and systems integration companies. 
+asr:0: OUTPUT 290.69-299.50: With double-digit revenue growth in the first half of this year compared to the first half of last year. 
+asr:0: OUTPUT 300.38-313.19: Further, in the second quarter, the KC390 Millennium reached an important milestone by successfully performing unpaved runaway tests. 
+asr:0: OUTPUT 314.43-322.34: Although we are currently in negotiations with the Brazilian Air Force on the KC-390 Millennium Contract,. 
+asr:0: OUTPUT 322.42-331.55: We continue to be focused on the new export sales campaigns for this aircraft as well as the Super Tucano. 
+asr:0: OUTPUT 333.05-339.56: In services and support, we are pleased with strong second quarter results. 
+asr:0: OUTPUT 340.00-352.91: With better revenues and higher margins, as traffic recovery and strong maintenance activity drove 55% revenue growth in the second quarter. 
+asr:0: OUTPUT 353.85-359.82: It is exciting to see the continued positive sales activity in services. 
+asr:0: OUTPUT 360.00-367.71: With deals signed with several important customers across all markets and at OGMA. 
+asr:0: OUTPUT 368.43-373.71: Driving backlog expansion for this segment during the period. 
+asr:0: OUTPUT 375.00-384.97: This was further highlighted by the contract we signed with Porter Airlines for a 20-year total support program. 
+asr:0: OUTPUT 386.73-397.40: With respect to innovation, we continue to make progress on partnerships in the urban air mobility ecosystem through our subsidiary, EVE. 
+asr:0: OUTPUT 397.42-402.18: In a segment with strong growth potential in the years to come. 
+asr:0: OUTPUT 403.80-415.42: In addition, our services collaborative platform Beacon signed agreements with key customers such as Republic for its maintenance applications. 
+asr:0: OUTPUT 416.82-422.22: Finally, on the operations front, we continue to see great improvements. 
+asr:0: OUTPUT 422.72-429.15: We expect a 16% increase in inventory turns compared to 2020. 
+asr:0: OUTPUT 429.99-437.34: And a 20% reduction in production cycle time of our aircraft this year. 
+asr:0: OUTPUT 437.64-442.14: Positively impacting working capital and production costs. 
+asr:0: OUTPUT 443.40-448.05: I will now hand it over to Antonio Garcia, our CFO. 
+asr:0: OUTPUT 448.07-455.20: To give further details on the financial results and I will return in the end. Thank you. 
+asr:0: OUTPUT 470.57-477.12: Thank you, Francisco, and good morning, everyone. I will start with our backlog for the quarter. 
+asr:0: OUTPUT 478.46-479.62: On slide seven. 
+asr:0: OUTPUT 479.64-485.33: The graph shows we ended the second quarter at 59 billion. 
+asr:0: OUTPUT 485.41-490.31: Up 1.7 billion or 12% from the prior quarter. 
+asr:0: OUTPUT 491.51-499.98: This represents a return to the same 15.9 billion we were at in 2020 before the pandemic began. 
+asr:0: OUTPUT 500.84-509.21: In our commercial aviation business. We close 48 aircraft sales in a quarter, spread across several different airlines. 
+asr:0: OUTPUT 510.03-519.54: In executive aviation, we had a record second quarter sales, a solid backlog as demand for light and larger business jets continue to grow. 
+asr:0: OUTPUT 520.70-527.71: Backlogging service and support and defense and security also grew from the prior quarter level. 
+asr:0: OUTPUT 528.61-533.35: In summary, it was the best sales quarter since mid-2009. 
+asr:0: OUTPUT 534.98-540.96: This gives us confidence in our plans for future revenue growth and improvements. 
+asr:0: OUTPUT 544.26-546.25: Moving to slide eight. 
+asr:0: OUTPUT 546.27-556.08: You can see the continuous improvement in aircraft deliveries compared last year and both commercial aviation and executive aviation. 
+asr:0: OUTPUT 556.72-561.08: In commercial aviation, we delivered 14 aircrafts in the quarter. 
+asr:0: OUTPUT 561.84-573.07: This represents a 56% increase compared to the prior quarter and 250% increase compared to the second quarter in 2020. 
+asr:0: OUTPUT 573.91-577.16: Year-to-date deliveries, we were at 23. 
+asr:0: OUTPUT 577.72-579.56: Almost two and a half times higher. 
+asr:0: OUTPUT 579.92-582.04: Than the same period in the prior year. 
+asr:0: OUTPUT 582.90-591.19: Of these 23 deliveries, 14 were e-tools, compared to four e-tools in the same period last year. 
+asr:0: OUTPUT 592.45-601.42: CES continues to perform very well for D2 as the most efficient right-sized single-aisle aircraft for the world post-pandemic. 
+asr:0: OUTPUT 602.30-611.83: In executive aviation, we deliver 12 jets, light jets, and eight larger jets for a total of 20 aircrafts in the second quarter. 
+asr:0: OUTPUT 612.51-622.42: This represents 54% increase compared to both first quarter 2021 and the second quarter of the prior year. 
+asr:0: OUTPUT 623.24-633.37: Year to date, executive aviation delivered 33 aircraft, a 50% increase compared to the first half of 2020. 
+asr:0: OUTPUT 635.01-641.20: As noted in the guidelines, the guidelines 2021, we published this morning. 
+asr:0: OUTPUT 641.28-653.05: We expect deliveries of commercial jets to reach between 45 to 50 aircrafts and executive jets to reach between 90 to 95 aircrafts. 
+asr:0: OUTPUT 657.04-660.14: On the slide nine, we show Embraer's net revenue. 
+asr:0: OUTPUT 661.16-670.03: Embraer had a solid revenue growth in the quarter as all four business units rebranded strongly from the pandemic. 
+asr:0: OUTPUT 671.01-675.68: Our top line more than doubled compared to the second quarter of last year. 
+asr:0: OUTPUT 676.86-686.69: The growth came primarily from higher deliveries in commercial aviation, although all our segments showed much improved growth during the quarter. 
+asr:0: OUTPUT 688.01-691.99: Year to date net revenue was just under $2 billion. 
+asr:0: OUTPUT 692.01-698.38: As 767 million or 65% increase over 2020. 
+asr:0: OUTPUT 699.34-703.88: Net revenue breakdown by business, show in BRER diversification. 
+asr:0: OUTPUT 704.22-709.45: With commercial aviation representing 34% of the total revenues. 
+asr:0: OUTPUT 709.85-716.54: Service and support, 28. Executive aviation, 22. And defense, 16%. 
+asr:0: OUTPUT 717.74-722.94: It's important to highlight the strong recovery in commercial aviation. 
+asr:0: OUTPUT 722.96-727.89: As this business was severely impacted by the pandemic last year. 
+asr:0: OUTPUT 731.31-739.80: Slide 10, as DNA expenses reduction continues to trend very favorably over the last six quarters. 
+asr:0: OUTPUT 740.42-747.89: We remain highly focused on the SDG&A efficiencies that are being implemented since the company's restructuring last year. 
+asr:0: OUTPUT 748.75-752.59: Although the second quarter had a slight increase in DNA. 
+asr:0: OUTPUT 753.13-762.14: This was primarily driven by increase in provision for profit sharing and performance-based incentives program due to better. 
+asr:0: OUTPUT 762.16-767.85: Expected results for the company in 2021 as compared to 2020. 
+asr:0: OUTPUT 768.65-778.50: Combined with the consolidation of expenses from Tempest, our new cybersecurity company acquired in the end of 2020. 
+asr:0: OUTPUT 780.00-784.02: Selly expenses remain at historical low levels. 
+asr:0: OUTPUT 784.04-793.49: Compared to the prior quarters, sales expenses increased 4% while net revenue increased over 40% sequentially. 
+asr:0: OUTPUT 794.65-804.12: As percentage of net revenue, sale expenses was 4.2% in the second quarter, compared to 5.7% in the first quarter. 
+asr:0: OUTPUT 804.94-816.64: We achieve these results by leveraging our sales activity as volume increase combined with more cost efficiency digital sales efforts. 
+asr:0: OUTPUT 821.50-827.07: It's like 11 shows are adjusted a bit and adjusted a bit today. 
+asr:0: OUTPUT 828.03-834.29: We are very encouraged by the strong margin performance across all business segments in the second quarter. 
+asr:0: OUTPUT 835.14-842.84: Our adjusted EBIT margin was 9.3%, up 13 percentage points over the first quarter. 
+asr:0: OUTPUT 844.04-853.95: Our adjusted EBITDA margin was in double digits at 14% or up over 16 percentage points from the first quarter. 
+asr:0: OUTPUT 855.40-861.34: Both of these profitability metrics have recovered to the levels not seen before 2020. 
+asr:0: OUTPUT 863.02-865.79: For the first half of 2021. 
+asr:0: OUTPUT 865.81-873.09: Our adjusted EBIT margin was 3.9% and our adjusted EBITDA margin was 9.2%. 
+asr:0: OUTPUT 873.55-876.38: Both well above prior years level. 
+asr:0: OUTPUT 877.98-881.18: This improvement comes from several factors. 
+asr:0: OUTPUT 881.54-888.99: Including higher deliveries resulting in higher revenue, better gross margin on improved pricing,. 
+asr:0: OUTPUT 889.01-891.85: Mixed production efficiency. 
+asr:0: OUTPUT 891.87-901.46: Fixed cost leveraged on higher volumes and favourable tax obligation reversal of this quarter of approximately 25 million. 
+asr:0: OUTPUT 902.58-906.29: All of our segments have much better performance in the second quarter. 
+asr:0: OUTPUT 908.13-913.31: Adjusted a bit margin by segment in the second quarter were as follows. 
+asr:0: OUTPUT 914.85-924.78: Commercial aviation was at 1.7% negative, which, although negative, shows a great improvement from last year. 
+asr:0: OUTPUT 926.13-933.59: Executive aviation was at positive 8% with a strong price discipline and consistent profitability. 
+asr:0: OUTPUT 934.93-938.98: Defense and security was at positive 25%. 
+asr:0: OUTPUT 939.00-945.91: Led by Super Tucano Deliverers along with positive adjustments on certain defense contracts. 
+asr:0: OUTPUT 947.13-954.61: And service and support was at 19% as a strong contribution from spare parts programs. 
+asr:0: OUTPUT 960.04-963.72: If slide 12 shows our adjusted net income. 
+asr:0: OUTPUT 964.06-970.91: It was positive 44 million or 24 cents per ADS in the second quarter. 
+asr:0: OUTPUT 974.31-979.98: This represents the first net profit on a quarterly basis since 2018. 
+asr:0: OUTPUT 981.58-987.09: The recovery in adjusted net income is primarily driven by improved operating margins. 
+asr:0: OUTPUT 989.11-994.05: Reductions in financial leverage also contribute to improved profitability and. 
+asr:0: OUTPUT 994.07-1000.14: Any future debt reduction would naturally have any additional positive impact on earnings. 
+asr:0: OUTPUT 1004.44-1009.17: Moving to slide 13, I would like to begin with free cash flow. 
+asr:0: OUTPUT 1011.07-1015.74: Free cash flow in the second quarter was positive 45 million. 
+asr:0: OUTPUT 1016.60-1025.00: 272 million higher than first quarter and 517 million higher than the same period of last year. 
+asr:0: OUTPUT 1025.83-1027.67: This is a remarkable achievement. 
+asr:0: OUTPUT 1028.81-1033.51: Although year to date the cash flow is negative 181 million. 
+asr:0: OUTPUT 1034.13-1039.76: This is compared with a free cash flow burden of a round. 
+asr:0: OUTPUT 1039.78-1043.36: A billion of the first half of 2020. 
+asr:0: OUTPUT 1044.48-1051.01: We expect positive free cash flow from the second half of the year to. 
+asr:0: OUTPUT 1051.03-1055.62: 2021 as indicated in this morning guidance. 
+asr:0: OUTPUT 1057.16-1058.62: No to investments. 
+asr:0: OUTPUT 1059.90-1066.21: Our total investment worth $50 million in the second quarter and $89 million. 
+asr:0: OUTPUT 1066.23-1070.29: Year to date, both of which are in line with last year levels. 
+asr:0: OUTPUT 1071.09-1075.32: This is important because it shows we continue to invest in our future. 
+asr:0: OUTPUT 1076.38-1083.26: We have been very judicious in balancing the need to invest our future with the need to preserve cash. 
+asr:0: OUTPUT 1086.23-1089.57: Slide 14 shows our cash and liquidity position. 
+asr:0: OUTPUT 1090.21-1098.66: We ended the quarter with 2.49 billion cash and cash equivalents. I'd like to increase it from the end of the first quarter. 
+asr:0: OUTPUT 1099.56-1105.01: Our debt balance was at $4.3 billion, a slight decrease from three months ago. 
+asr:0: OUTPUT 1107.17-1110.23: Our average debt to maturity remains at four years. 
+asr:0: OUTPUT 1111.11-1119.88: We expect to continue to generate cash in the second half of 2021. And beyond so, our leverage will naturally decrease. 
+asr:0: OUTPUT 1121.18-1129.39: This will correspondly reduce our net interest and expenses and have an additional positive impact on net income. 
+asr:0: OUTPUT 1133.71-1136.54: Finally, move it to your slide 60. 
+asr:0: OUTPUT 1138.80-1146.83: Embraer has published 2021 financial deliveries guidance for the first time since the start of the pandemic. 
+asr:0: OUTPUT 1148.83-1156.62: Despite risks of the economy recovery, vaccination rates around the world. 
+asr:0: OUTPUT 1156.90-1159.58: And with a solid first half. 
+asr:0: OUTPUT 1159.60-1167.85: And good visibility for the remain of the year, we decided to share the marked our targets for 2021. 
+asr:0: OUTPUT 1170.55-1175.46: We expect to deliver between 54 to 50. 
+asr:0: OUTPUT 1175.48-1183.50: Commercial jets, just to correct, 45 to 50 commercial aircrafts in 2021. 
+asr:0: OUTPUT 1183.58-1188.11: And 90 to 95 executive jets in the year. 
+asr:0: OUTPUT 1188.65-1196.20: We have a good confidence in those figures as our skyline, our red fillet for both segments. 
+asr:0: OUTPUT 1197.14-1200.06: Combined with the growth in defense and security. 
+asr:0: OUTPUT 1200.32-1204.86: And continued the recovery in the service and support traffic. 
+asr:0: OUTPUT 1204.88-1213.75: Recover globally, we expect consolidated revenues to be between four to four and a half billion dollars this year. 
+asr:0: OUTPUT 1214.55-1219.34: Represent a low double-dividend growth at the midpoint compared to the last year. 
+asr:0: OUTPUT 1221.26-1229.35: Adjusted the BIT margin should be in the range of 3 to 4% and adjusted the BTDA for 2021. 
+asr:0: OUTPUT 1229.37-1233.11: Should be between 8.5 to 9.5 percent. 
+asr:0: OUTPUT 1236.02-1240.00: Embraer has had in the first half of 2020. 
+asr:0: OUTPUT 1240.22-1246.79: Margin in these ranks as we expect these good margins to repeat in the second half of the year. 
+asr:0: OUTPUT 1247.69-1259.00: It's important to mention that those margins includes costs related to the integration of commercial aviation as well as expenses related to the arbitration process. 
+asr:0: OUTPUT 1260.78-1265.67: Finally, our free cash flow guidance is arranged from. 
+asr:0: OUTPUT 1265.69-1271.77: Free cash flow usage of 150 million to a break even for 2021. 
+asr:0: OUTPUT 1272.65-1277.96: We had 181 million of free cash flow users in the first half of the year. 
+asr:0: OUTPUT 1278.30-1286.83: So we are anticipating to generate up to 180 million cash in the second half of 2021. 
+asr:0: OUTPUT 1286.99-1290.95: Without any cash inflows from M&A projects. 
+asr:0: OUTPUT 1291.79-1299.50: With that, I conclude my presentation and hand it back over to Francisco for his final remarks. Thank you very much. 
+asr:0: OUTPUT 1309.25-1318.80: Thanks, Antonio. The second quarter results and the guidance for the year reinforce our confidence in our strategy. 
+asr:0: OUTPUT 1320.00-1330.67: And this confidence motivates us to accelerate the performance improvements and the delivery of our long-term strategic plan. 
+asr:0: OUTPUT 1330.87-1333.59: With focus and discipline. 
+asr:0: OUTPUT 1334.85-1339.88: As I have mentioned in the past, this year is one of recovery. 
+asr:0: OUTPUT 1340.60-1348.23: In next year and beyond, we plan to capture Embraer's full potential to grow with profitability. 
+asr:0: OUTPUT 1349.35-1356.56: Looking ahead, we foresee in the middle term the potential to double the size of the company. 
+asr:0: OUTPUT 1357.18-1361.62: And that doesn't include new strategic projects. 
+asr:0: OUTPUT 1362.74-1365.83: We are going to be bigger and stronger. 
+asr:0: OUTPUT 1366.67-1372.91: Focusing not only on the top line, but also much higher profitability. 
+asr:0: OUTPUT 1374.17-1386.77: We are already showing some positive results of the hard work our united and motivated teams of employees have done over the past several months. 
+asr:0: OUTPUT 1387.73-1395.30: With expectation for positive operating profit this year and much better free cash flow performance. 
+asr:0: OUTPUT 1395.36-1399.98: With a clear potential to break even for the year. 
+asr:0: OUTPUT 1401.40-1410.73: This will be supplemented by partnerships and new programs to drive even higher growth opportunities. 
+asr:0: OUTPUT 1412.27-1416.00: We are also advancing on our ESG journey. 
+asr:0: OUTPUT 1417.24-1425.47: And right after the Q&A session, we will share with you our new ESG commitments. 
+asr:0: OUTPUT 1426.49-1436.16: I invite everyone, therefore, to remain online for this ESG event, which will start just after the results Q&A. 
+asr:0: OUTPUT 1438.06-1442.82: Also, we are looking forward to a new chapter of Embraer. 
+asr:0: OUTPUT 1442.90-1448.13: With our extraordinary shareholder meeting scheduled for next Monday. 
+asr:0: OUTPUT 1449.03-1456.52: We expect our shareholders to approve the election of two international board members. 
+asr:0: OUTPUT 1456.72-1461.82: With extensive global aerospace industry experience. 
+asr:0: OUTPUT 1462.74-1470.53: Following constructive feedback from analysts and shareholders to improve our corporate governance. 
+asr:0: OUTPUT 1471.99-1481.20: These candidates have deep technical knowledge, strategic profiles, and an innovative thought process. 
+asr:0: OUTPUT 1482.50-1489.23: Finally, I will close today by thanking everyone for this strong quarter. 
+asr:0: OUTPUT 1490.25-1498.08: It always starts with our people and their focus and passion on executing our strategic planning. 
+asr:0: OUTPUT 1499.44-1505.45: As I mentioned to you in the last earnings call, we are a different company today. 
+asr:0: OUTPUT 1506.45-1510.87: We are in a process of transformation and we are moving fast. 
+asr:0: OUTPUT 1512.37-1518.58: Thank you for your interest and confidence in our company. Over to you, Felipe. 
+asr:0: OUTPUT 1525.49-1530.75: Thank you very much Francisco. And before we continue, we'd like to show you a video. Check this out. 
+asr:0: OUTPUT 1532.97-1538.82: A different place to a year ago. Industries have changed. Aviation perhaps more than any. 
+asr:0: OUTPUT 1540.00-1546.01: The Breyer has changed too. We're leaner, more agile, and fit for growth. 
+asr:0: OUTPUT 1546.83-1550.01: We're already on a path that will make us bigger and stronger. 
+asr:0: OUTPUT 1550.63-1557.22: And with an all new product portfolio that are the most efficient and technologically advanced in their class. 
+asr:0: OUTPUT 1557.54-1565.85: All built with the passion to improve sustainability, economics, cost efficiencies, and driving new innovations. 
+asr:0: OUTPUT 1566.13-1569.77: Were better adapted to the challenges and opportunities of now. 
+asr:0: OUTPUT 1570.63-1576.14: Like our customers, we're always looking above and beyond what was previously thought possible. 
+asr:0: OUTPUT 1576.64-1578.96: That's why the world looks to Embraer. 
+asr:0: OUTPUT 1579.36-1588.37: We're right for the world ahead. Right now. Embraer. Challenge. Create. 
+asr:0: OUTPUT 1588.39-1589.61: Outperform. 
+asr:0: OUTPUT 1591.73-1600.64: And now let's move on to our questions and answer session. We are preparing the set here. And remember that questions can only be sent through the Reuters platform. 
+asr:0: OUTPUT 1601.20-1605.45: Eduardo Couto will be our moderator and he already has some questions with him. 
+asr:0: OUTPUT 1605.93-1607.35: Eduardo, over to you. 
+asr:0: OUTPUT 1619.88-1624.48: Let me see the questions that we have. 
+asr:0: OUTPUT 1625.59-1631.61: The first question we have is, can you give an update on the SPAC negotiations with Yves? 
+asr:0: OUTPUT 1632.05-1637.42: I don't know if Francisco or Antonio wants to take that. Yes, thank you, Edu. Thanks for the question. 
+asr:0: OUTPUT 1638.34-1646.37: At this point of time, we can say that the negotiation is moving very well, I would say. We are very optimistic with this process. 
+asr:0: OUTPUT 1648.61-1653.69: Okay. Moving on to questions. Second question we have. 
+asr:0: OUTPUT 1654.77-1663.52: What work has Embraer been doing to develop electric aircraft and making this product more viable for customers. 
+asr:0: OUTPUT 1663.82-1672.63: Thank you. That was a good question. We had our first technical flight recently with the Ipanema full electric. 
+asr:0: OUTPUT 1673.23-1677.72: And we hope to present this aircraft to the public soon. 
+asr:0: OUTPUT 1678.36-1680.40: And continue to invest. 
+asr:0: OUTPUT 1680.68-1682.96: In this electrification field. 
+asr:0: OUTPUT 1683.10-1685.25: As one of the... 
+asr:0: OUTPUT 1685.27-1698.92: One of the innovation fronts that we have to be in line with the ESG activities that we are moving fast in Embraer. 
+asr:0: OUTPUT 1700.80-1706.25: The third question we have from investors is from Vitor Misuzaki from Bradesco. 
+asr:0: OUTPUT 1706.73-1715.46: He said the fence showed a material gross margin expansion in the second quarter. Can you give her more details about that, Antonio? 
+asr:0: OUTPUT 1717.64-1718.94: Victor, thanks for the question. 
+asr:0: OUTPUT 1719.62-1722.76: We had in the second quarter. 
+asr:0: OUTPUT 1722.84-1724.50: To me, facts. 
+asr:0: OUTPUT 1724.52-1733.17: On the defense side. First one was the super cannon deliver that we were not able to deliver in Q1. 
+asr:0: OUTPUT 1733.61-1735.80: That flows to the Q2 figures. 
+asr:0: OUTPUT 1736.66-1745.21: In addition to it, we have the adjustment in the defense contract we have in the local currency in Brazil. 
+asr:0: OUTPUT 1745.41-1757.10: I would say both effects, higher deliveries and super Tucano and the adjustment in the contracts lead us to this 25% margin in Q2. 
+asr:0: OUTPUT 1761.52-1762.92: Okay, very good. 
+asr:0: OUTPUT 1763.88-1766.61: Next question comes from UBS. 
+asr:0: OUTPUT 1767.95-1772.79: Could you comment on the 25 million reversal mentioned in the press release? 
+asr:0: OUTPUT 1773.25-1781.66: Also, what was the positive cost-based revision related on the results. 
+asr:0: OUTPUT 1783.16-1790.71: So thanks for the question. First point, we built up a provision in 2018 for the Brazilian guys. 
+asr:0: OUTPUT 1790.89-1799.44: The. 
+asr:0: OUTPUT 1799.56-1803.08: To gain this claim in second quarter. 
+asr:0: OUTPUT 1803.40-1806.31: That's why we reversed this text position. 
+asr:0: OUTPUT 1806.81-1812.77: That was also already adjusted in 2018. That's why we also consider in our results. 
+asr:0: OUTPUT 1814.47-1824.46: The second question was in regards to the contracts. We have an adjustment here around $10 million in the second quarter. That were both effects. 
+asr:0: OUTPUT 1825.29-1833.91: It's important also to mention that even that we have this tax reversal, $25 million, let's put first quarter and second quarter. 
+asr:0: OUTPUT 1834.63-1837.90: We do have other types of costs that we are not adjusting. 
+asr:0: OUTPUT 1838.20-1840.00: That's also not, I would say. 
+asr:0: OUTPUT 1840.90-1845.39: For example, reintegration of commercial aviation and arbitration costs. 
+asr:0: OUTPUT 1845.61-1855.20: Which is more or less net this 25 million, I would say. The numbers we are seeing right now, I would say, combined Q1 and Q2 is really. 
+asr:0: OUTPUT 1855.22-1859.74: For me, describe the real performance of the company. 
+asr:0: OUTPUT 1863.36-1866.51: We have several questions about Eve. 
+asr:0: OUTPUT 1866.53-1875.08: I will try to summarize them. So basically, any general updates on your eVTOL initiatives would be very helpful. 
+asr:0: OUTPUT 1875.10-1877.94: Particularly on negotiations with Zenite. 
+asr:0: OUTPUT 1878.38-1880.00: We already talked a little bit, but maybe. 
+asr:0: OUTPUT 1881.64-1889.43: Francisco and Tony. 
+asr:0: OUTPUT 1890.13-1899.32: We had the first flight with the prototype, scale 1 to 3, a successful test by the way. 
+asr:0: OUTPUT 1899.74-1906.07: Now we are preparing the next test with the prototype scale 1 to 1. 
+asr:0: OUTPUT 1906.65-1916.64: And technically it's moving very well. We are planning the certification by 2025 and entering service in 2026. 
+asr:0: OUTPUT 1917.00-1920.64: And about the negotiation with Zanaita I mentioned already, that's moving very well. 
+asr:0: OUTPUT 1922.58-1923.70: Okay, very good. 
+asr:0: OUTPUT 1924.22-1928.13: Now moving to business jets, we have a question from Credit Suisse. 
+asr:0: OUTPUT 1929.63-1930.83: Uh... 
+asr:0: OUTPUT 1930.85-1939.74: BusinessJet has been very strong, and on the first quarter results, you mentioned half of the deliverers were for first-time buyers. 
+asr:0: OUTPUT 1939.90-1941.30: In the second quarter. 
+asr:0: OUTPUT 1941.42-1943.40: How much were first-time buyers? 
+asr:0: OUTPUT 1943.70-1945.93: Maybe we can give an overview of the business jet. 
+asr:0: OUTPUT 1946.23-1954.61: I can do it. I would say today in our backlog, the portion of first time buyers,. 
+asr:0: OUTPUT 1954.89-1960.70: I would say is a third, something like 30% in your backlog and deliveries for the whole year. 
+asr:0: OUTPUT 1961.12-1963.62: We are talking about 30% first-time buyers. 
+asr:0: OUTPUT 1964.36-1967.21: And we are going with the market if you see the industry. 
+asr:0: OUTPUT 1967.81-1975.36: Book to be between 1 to 5, 2 to 1, 1 to 5 to 1, and 2 to 1 to 2. 
+asr:0: OUTPUT 1975.66-1985.63: And we are, I would say, a little bit above that and doing pretty well, but for sure the first place pushing also the market especially in the light jets category. 
+asr:0: OUTPUT 1988.33-1992.11: Now there is a question on commercial from Credit Suisse. 
+asr:0: OUTPUT 1992.99-2002.08: Your guidance for commercial delivers of 45 to 50 seems low given you have already delivered 23 jets. 
+asr:0: OUTPUT 2003.04-2009.99: Are there any supply chain issues that could prevent you from being above that range? 
+asr:0: OUTPUT 2011.37-2017.90: Also, they are asking what do you see in terms of delivers for 2022, any color on that? 
+asr:0: OUTPUT 2020.28-2025.17: Let's take into account that commercial aviation is still suffering from the pandemic. 
+asr:0: OUTPUT 2026.53-2031.37: What we are giving as guidance to deliver this year. 
+asr:0: OUTPUT 2031.95-2041.22: Is a little bit higher than last year. Last year we delivered 44 and for sure we are selling more but it's going to impact more 2022. 
+asr:0: OUTPUT 2041.80-2045.75: And the fact that we deliver at 23 aircrafts. 
+asr:0: OUTPUT 2046.07-2053.73: It's because it's well divided throughout the year. That's why the 47. 
+asr:0: OUTPUT 2055.82-2058.22: I would say between 45 to 50. 
+asr:0: OUTPUT 2058.68-2066.15: Is the number we are having and we do see, I would say, around 30% for next year. 
+asr:0: OUTPUT 2066.25-2069.45: Between 65 to 70 aircraft. 
+asr:0: OUTPUT 2069.65-2073.49: But has to be confirmed, but it's more or less the number you're seeing. 
+asr:0: OUTPUT 2073.83-2075.05: It's important to mention. 
+asr:0: OUTPUT 2075.40-2080.48: We do see commercial aviation coming back to historical levels at the Embraer. 
+asr:0: OUTPUT 2081.52-2083.60: From 2003 onwards. 
+asr:0: OUTPUT 2083.68-2092.17: We are selling more, but the sales country we are closing right now is going to fulfill this kind of line starting 2022. 
+asr:0: OUTPUT 2092.59-2097.00: And 2021 is more or less the same level from 2020. 
+asr:0: OUTPUT 2100.00-2105.13: I would like to make a link between this answer and the result of the company. 
+asr:0: OUTPUT 2105.57-2112.95: It is true that in this first half of the year, comparing to the first half of last year, we did much better. 
+asr:0: OUTPUT 2113.05-2116.12: In terms of deliveries, in terms of results. 
+asr:0: OUTPUT 2116.18-2118.14: The numbers speak by themselves. 
+asr:0: OUTPUT 2118.60-2124.96: But if you look at the guides for the entire year, you see that, no, S-Planet. 
+asr:0: OUTPUT 2125.17-2131.43: We won't see a huge increase in volumes in the commercial or executive. 
+asr:0: OUTPUT 2131.71-2137.10: Yes, we are seeing some growth, moderate growth this year compared to the last year. 
+asr:0: OUTPUT 2137.68-2139.62: But the improvement in their results. 
+asr:0: OUTPUT 2140.00-2145.45: I mean either the EBIT coming from almost minus 3% last year. 
+asr:0: OUTPUT 2145.47-2148.31: To something between 3 and 4 percent this year. 
+asr:0: OUTPUT 2148.59-2155.92: Or the free cash flow from minus 900 million last year to something between minus 150 and zero this year. 
+asr:0: OUTPUT 2156.30-2161.60: All this good performance is coming from efficiency gains, pure efficiency gains. 
+asr:0: OUTPUT 2161.92-2164.54: We really did a good right size in the organization. 
+asr:0: OUTPUT 2164.84-2170.65: We are improving a lot of activities on cost reduction, on inventory reduction. 
+asr:0: OUTPUT 2170.67-2175.04: In all the company, you know, I mean, pushing the sales for the future. 
+asr:0: OUTPUT 2175.34-2177.62: So again, I mean, from next year on. 
+asr:0: OUTPUT 2177.78-2185.81: I mean, we expect that with a stronger growth in the volumes, in all the business units. 
+asr:0: OUTPUT 2186.01-2191.53: And with this more efficient and agile company, then you see much better performance. 
+asr:0: OUTPUT 2191.73-2199.14: So that's why our result is coming from this year, from efficiency gains, from some additional sales, of course, but mainly from efficiency gains. 
+asr:0: OUTPUT 2200.00-2203.82: To complete the question for supply chain. 
+asr:0: OUTPUT 2204.82-2209.79: What we are putting the guidance in, what we agreed with our customers for this year. 
+asr:0: OUTPUT 2210.23-2216.12: At least for the commercial version, have not seen any supplier chain problems this year. 
+asr:0: OUTPUT 2220.00-2225.61: Several other questions. So the next one is related to margins and free cash flow. 
+asr:0: OUTPUT 2225.93-2230.69: So the question is, how do we see margins per business in the long term? 
+asr:0: OUTPUT 2231.23-2238.96: And what sort of free cash flow conversion, EBITDA into free cash flow conversion does Embraer expect? 
+asr:0: OUTPUT 2241.10-2248.61: So in regards to margin, we do see that's in a long-term perspective. 
+asr:0: OUTPUT 2248.71-2252.89: We do see service and support at DoubleDigit as it is today. 
+asr:0: OUTPUT 2253.85-2256.08: We do see executive in this sense. 
+asr:0: OUTPUT 2256.72-2261.20: Single higher dish, and we are more or less also today. 
+asr:0: OUTPUT 2261.56-2264.98: And with the commercial aviation. 
+asr:0: OUTPUT 2265.85-2272.41: I would say mid-single digit, close between 3% to 5% in the long term. 
+asr:0: OUTPUT 2272.61-2276.38: That's what we see in regards to profitability for the company. 
+asr:0: OUTPUT 2277.04-2285.27: And in regards to the conversion from EBITDA to EBITDA, I would prefer to talk, we are seeing today. 
+asr:0: OUTPUT 2285.71-2289.29: A 50% conversion from EBIT to cash flow. 
+asr:0: OUTPUT 2289.67-2294.61: We still needed to improve something, but it's more or less the metrics I'm using internally. 
+asr:0: OUTPUT 2294.97-2301.44: We do see today in the long run 50% of their BIT being converted into cash. 
+asr:0: OUTPUT 2301.48-2302.72: For the years to come. 
+asr:0: OUTPUT 2304.36-2308.19: So the next question is from JP Morgan, Marcelo Motta. 
+asr:0: OUTPUT 2308.73-2315.32: Any update on the sales campaigns for commercial aviation? Could we see more orders during the second quarter? 
+asr:0: OUTPUT 2317.20-2324.08: Good question, yes, we have a lot of active sales campaigns ongoing in our commercial aviation. 
+asr:0: OUTPUT 2324.64-2331.99: We just announced the sales for SkyWest with 16 aircraft and yes, we have more to come. 
+asr:0: OUTPUT 2332.77-2340.14: By the way, the SkyOS is not part of the backlog in Q2. We are going to book. 
+asr:0: OUTPUT 2340.16-2342.78: These 70 aircrafts in Q3. 
+asr:0: OUTPUT 2343.94-2346.69: 17 aircraft, correct. Thank you, Antonio. 
+asr:0: OUTPUT 2348.73-2351.97: There is a question here from Lucas from Santander. 
+asr:0: OUTPUT 2352.79-2362.50: Talking about inflation, can you please comment on how the company is seeing the raw material inflation and how is the company offsetting this impact? 
+asr:0: OUTPUT 2363.60-2368.11: I would say we do see in our final products. 
+asr:0: OUTPUT 2368.55-2373.95: Inflation, I would say, all index we have with our suppliers. 
+asr:0: OUTPUT 2374.03-2382.44: Between 2 to 3% for next year. And to the customer side, we have also the readjustment clause. 
+asr:0: OUTPUT 2382.62-2384.08: With the index, I would say. 
+asr:0: OUTPUT 2384.36-2388.11: Our takeaway for next year. 
+asr:0: OUTPUT 2388.31-2393.41: Is a balance between what you have internally inflation and the pass through to the customer base. 
+asr:0: OUTPUT 2393.73-2394.99: That's more or less what we are seeing. 
+asr:0: OUTPUT 2395.26-2399.54: But there is in some indicators a spike in deflation. 
+asr:0: OUTPUT 2399.62-2406.75: In the index for next year that we are going to discuss for our customer base. Moreover,. 
+asr:0: OUTPUT 2406.83-2410.19: We do have, we did this year and we are doing this year. 
+asr:0: OUTPUT 2410.51-2418.90: And we do have also a lot of design to value activities inside Embraer to reduce the base of the cost we have today. 
+asr:0: OUTPUT 2419.60-2422.80: Without any impact on any inflation or indicators. 
+asr:0: OUTPUT 2424.24-2426.89: Very good. So now moving to new projects. 
+asr:0: OUTPUT 2426.91-2434.53: There is a question from Rio Verde Investimentos. Any update on the partnerships for the turboprop aircraft? 
+asr:0: OUTPUT 2436.00-2439.80: That was a good question. Well, this front is also moving very well. 
+asr:0: OUTPUT 2440.24-2447.19: Especially with the recent interest of US airlines in that product. 
+asr:0: OUTPUT 2447.59-2455.10: So we see that product as a good alternative for that market and other markets as well. 
+asr:0: OUTPUT 2455.22-2459.38: And also as a preparation for new technology in the future. 
+asr:0: OUTPUT 2459.72-2465.87: So we are very optimistic and working hard to accelerate this partnership. 
+asr:0: OUTPUT 2471.17-2476.00: I think we have at least one final question. It's back to commercial aviation. 
+asr:0: OUTPUT 2476.44-2479.58: What do you expect? It's from WTS. 
+asr:0: OUTPUT 2480.00-2484.16: What do you expect in the midst of long-term commercial aviation? 
+asr:0: OUTPUT 2484.18-2491.37: As we are seeing recovering demand for flights and also renewal for having more sustainable fleets. 
+asr:0: OUTPUT 2493.35-2496.30: Thank you. So again, we have a. 
+asr:0: OUTPUT 2496.76-2498.58: I mean, globally. 
+asr:0: OUTPUT 2498.66-2504.30: 94% of the Embraer fleet back in the skies. 
+asr:0: OUTPUT 2504.52-2510.27: In the U.S. 97% of the fleet is flying again. 
+asr:0: OUTPUT 2510.77-2516.48: So it shows that the recovery in the domestic market really is coming. 
+asr:0: OUTPUT 2516.92-2526.67: And that's why we are working in a lot of sales campaigns in that segment for E1s and E2s as well. 
+asr:0: OUTPUT 2527.03-2532.31: So we are working hard to take advantage of this moment. 
+asr:0: OUTPUT 2532.51-2535.64: As Antonio mentioned, we see volumes growing. 
+asr:0: OUTPUT 2535.82-2544.02: I mean 2020 but strongly from 2000, 2022 but strongly from 2023 onwards. 
+asr:0: OUTPUT 2546.81-2556.14: I think a final question, it's related to defense. Can you please comment on the expectations for new KC-390 orders? 
+asr:0: OUTPUT 2557.66-2560.34: It's, as I said in the opening. 
+asr:0: OUTPUT 2560.48-2568.55: We are working in many sales campaigns for import sales campaigns for the KC390 and also. 
+asr:0: OUTPUT 2568.99-2578.54: I mean, we are working to develop partnerships that will help us to open new markets for that great aircraft. 
+asr:0: OUTPUT 2581.76-2583.98: I think that's what we had on the Q&A. 
+asr:0: OUTPUT 2587.71-2593.69: So I think that concludes the Q&A. I want to thank you all for the questions and the time. 
+asr:0: OUTPUT 2594.17-2598.40: So now. 
+asr:0: OUTPUT 2599.40-2601.02: Antonio Francisco, no comment. 
+asr:0: OUTPUT 2601.82-2610.81: Thank you all. Thanks a lot. Thanks a lot. So thanks for your interest and support in our company. We are living a really special moment. 
+asr:0: OUTPUT 2611.31-2620.42: As I said before, this year is the year of recovery, the year of turnaround and of embryo. And the numbers, as I said before, speak for themselves. 
+asr:0: OUTPUT 2621.00-2627.93: We expect to have a much better year in 2021 compared to the last year. 
+asr:0: OUTPUT 2627.99-2631.01: Coming from a very tough crisis, as you know. 
+asr:0: OUTPUT 2631.27-2641.00: And we hope to, no, we expect to capture the new Embraer potential to grow from 2022 onward. So thank you very much for. 
+asr:0: OUTPUT 2644.94-2653.19: So this concludes today's Q&A session that in turn concludes Emperor's second quarter 2021 financial results presentation. 
+asr:0: OUTPUT 2653.79-2655.88: Thank you very much for your participation. 
+asr:0: END

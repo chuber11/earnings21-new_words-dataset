@@ -1,0 +1,564 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 1.34-11.01: Thank you for standing by and welcome to the Pilbara Minerals December 2021 quarterly investor conference call and webcast. All participants are in a listen-only mode. 
+asr:0: OUTPUT 11.61-14.89: There will be a presentation followed by a question and answer session. 
+asr:0: OUTPUT 15.38-21.78: If you wish to ask a question via the phones, you will need to press the star key followed by the number 1 on your telephone keypad. 
+asr:0: OUTPUT 22.42-28.47: I would now like to hand the conference over to Mr Ken Brinsden, Managing Director and CEO. Please go ahead. 
+asr:0: OUTPUT 31.39-35.88: Thank you, Michael, and welcome to everybody joining on the call. 
+asr:0: OUTPUT 36.18-43.20: To participating via the webcast, especially those shareholders that have taken the time to join in. Much appreciated. 
+asr:0: OUTPUT 44.20-50.09: We're here in the Third Filburg Minerals Head Office. I'm joined by Dale Henderson, our Chief Operating Officer. 
+asr:0: OUTPUT 50.11-56.12: And Brian Lynn, our Chief Financial Officer, both of whom you'll hear from during the call. 
+asr:0: OUTPUT 56.44-65.87: Also in the office here with us, Alex Eastwood, Chief Commercial Officer, General Counsel and David Hamm, our Vector Relations Specialist. 
+asr:0: OUTPUT 65.99-67.11: Thanks everyone for joining. 
+asr:0: OUTPUT 68.33-76.50: Well, the backdrop to the quarterly call is one of strong demands, accelerating price,. 
+asr:0: OUTPUT 77.08-85.89: And in part, too bare minerals responding, albeit with some production challenges evident, especially during the beginning of the quarter. 
+asr:0: OUTPUT 87.09-91.91: We've been continuing to work on the acceleration of kettle gangora production. 
+asr:0: OUTPUT 92.19-102.10: Been a very, very busy quarter as we started production at the Novajew plant, that is to remind you the former El Shura facility. 
+asr:0: OUTPUT 102.72-107.83: And we brought on the Kilghan Plant Improvements Project. 
+asr:0: OUTPUT 107.85-113.71: Which is complete and now fully tied in. 
+asr:0: OUTPUT 113.77-118.08: And we continue to ramp up the production at the Pilgrim Plant. 
+asr:0: OUTPUT 118.80-121.32: In support of all that, a lot more site access for you. 
+asr:0: OUTPUT 121.80-127.31: And that includes relatively significant growth in mining. 
+asr:0: OUTPUT 127.39-132.21: Volumes, which you can see in the production tables within the quarterly. 
+asr:0: OUTPUT 132.33-139.72: Albeit still having to go higher as we support production growth both in the short and the medium term. 
+asr:0: OUTPUT 140.68-144.08: And customers obviously want more products. 
+asr:0: OUTPUT 144.40-153.39: You can see that with respect to pricing. The pricing is quite incredible and that's something that I'll come back to talk to in more detail during our commentary. 
+asr:0: OUTPUT 154.47-160.30: Yeah, incredible results on our BMX platform with respect to spot sale. 
+asr:0: OUTPUT 160.32-164.94: Very, very strong pricing, especially in China. 
+asr:0: OUTPUT 165.39-169.77: Which is just reminding everyone is the world's largest material market. 
+asr:0: OUTPUT 169.79-175.94: And that's now spreading to international markets with pricing hitting record highs virtually every week. 
+asr:0: OUTPUT 176.76-184.36: And that's translating very well to spodumene, which is part of what, again, I'll explain in more detail. 
+asr:0: OUTPUT 185.23-193.57: The reference prices at a headline lithium chemicals price and how that's playing into the value in the spot you mean. I'm going to explain a bit more detail there to us. 
+asr:0: OUTPUT 193.65-196.10: So that you understand some of the dynamics in the market. 
+asr:0: OUTPUT 197.80-201.12: The ramp up in production continues, albeit slower than we would like. 
+asr:0: OUTPUT 201.98-210.53: Just to remind everyone, we're taking Pilgangora production from approximately 330,000 spodumene concentrate tungperanum. 
+asr:0: OUTPUT 210.55-215.58: To 580,000 spodumene concentrate production. 
+asr:0: OUTPUT 216.44-220.92: Feed production growth, and with that have come some challenges. 
+asr:0: OUTPUT 221.44-231.15: But as always, the Pilbara Minerals team is working incredibly hard and carries some fantastic skills that we've learned over the years about how to bring that production on. 
+asr:0: OUTPUT 232.43-240.38: Still targeting 580,000 spodumene concentrate tons by the run rate by the middle of this year. 
+asr:0: OUTPUT 241.08-246.11: However, both plans are still in their ramp-up phase and it's that issue. 
+asr:0: OUTPUT 246.13-257.94: Combined with the effects of difficulties in the labour market and then more recently community distribution of the COVID virus here in Western Australia, that means there is some risk to. 
+asr:0: OUTPUT 257.96-262.70: To our ability to produce as hard and as fast as we would like. 
+asr:0: OUTPUT 263.56-265.57: But nonetheless,. 
+asr:0: OUTPUT 265.59-274.27: A lot of work going on as I said and the Pilbara Minerals team carries all the right skills to make it happen and we're obviously doing the best that we can. 
+asr:0: OUTPUT 275.40-279.10: So the pot's going to downstream joint venture with executed during the quarter. 
+asr:0: OUTPUT 279.94-285.15: And we're now going through the completion criteria for the final formation of the joint venture. 
+asr:0: OUTPUT 286.57-291.57: In parallel, Popcoats and Shells have started the early work. 
+asr:0: OUTPUT 291.59-298.78: At the Wanyang site and they've confirmed that they'll start the significant construction work. 
+asr:0: OUTPUT 299.54-301.04: During the current quarter. 
+asr:0: OUTPUT 301.92-305.71: So we're looking forward to their progress over approximately the next two years. 
+asr:0: OUTPUT 306.51-315.00: As we head towards silver and minerals first hydroxide production in joint venture with POSCO. 
+asr:0: OUTPUT 316.52-317.62: So, coming up... 
+asr:0: OUTPUT 318.02-326.41: Dale will explain a bit more about what we're up to in both production and if we ramp up the plant and also production growth to the medium term. 
+asr:0: OUTPUT 326.75-338.42: Brian will follow up with some more commentary about cash flow generation and a little bit of a follow up to the cost story. 
+asr:0: OUTPUT 338.72-340.00: On that note. 
+asr:0: OUTPUT 340.18-343.78: Dale, over to you. Thanks again and good morning everyone. 
+asr:0: OUTPUT 344.88-350.63: I'll offer my commentary on three parts. Firstly, a little bit about the operations. 
+asr:0: OUTPUT 350.65-361.10: A quick touch on the reserve update that we did during the quarter and then to finish I'll provide some insight into the projects space and expansion plans which we've got coming up. 
+asr:0: OUTPUT 362.12-364.14: Various operations. 
+asr:0: OUTPUT 364.56-373.47: As Kim described, it's been a growth quarter, bringing on two operations, ramping them, starting to ramp those up both simultaneously. 
+asr:0: OUTPUT 374.39-379.28: So grow the quarter but we've definitely had some growing pains and can mention. 
+asr:0: OUTPUT 379.30-384.32: The labour shortages which are happening across the state. 
+asr:0: OUTPUT 384.44-391.29: Pilbara has not been immune to that and we have found some of those pains end to end through our operations. 
+asr:0: OUTPUT 391.95-399.98: That being said, the cause is talking about purely solid production at 84,000 tonnes at the low end of our guidance. 
+asr:0: OUTPUT 400.26-407.43: Recovery 62% average across both operations, yet again slightly below where we wanted it to be. 
+asr:0: OUTPUT 408.13-411.33: Stepping through the subsurface of the operation. 
+asr:0: OUTPUT 411.77-420.94: From a mining perspective, it was a quarter of moving more waste. That was added through the plan, but not quite the volume we wanted to achieve. 
+asr:0: OUTPUT 421.02-426.29: Again, a function of some of the labor shortages that a mining contractor is seeing. 
+asr:0: OUTPUT 426.93-433.93: One of the consequences of this was slightly compromised ore and contemporary feed ore to the plant. 
+asr:0: OUTPUT 433.95-440.78: Which translated through to slightly lower recovery than we had planned. So, consequences around mining movement. 
+asr:0: OUTPUT 442.40-464.06: As part of the response to mining, during the quarter Pilbara instigated our own mine fleet and mobilised our own small owner-operated fleets to support the Southpet operation, which principally serves the Nugajook plant. So we kicked that off during the quarter and please report that started well. 
+asr:0: OUTPUT 465.17-469.53: Moving from mining and stepping into each of the processing farms. 
+asr:0: OUTPUT 469.87-471.45: So the two games. 
+asr:0: OUTPUT 471.47-481.86: Processing for the quarter, average of 65% recovery versus the plan of 35. As mentioned earlier, slightly off where we wanted it to be. 
+asr:0: OUTPUT 482.96-497.34: The improvement project package, which is the default on every project for that plant with construction complete, commissioned and we're really just moving through an optimization phase as we look to ramp up and increase throughput through that operation. 
+asr:0: OUTPUT 498.18-499.68: From a call space to... 
+asr:0: OUTPUT 499.70-506.01: Higher than where we want it to be, a consequence of increased mine movement. 
+asr:0: OUTPUT 506.03-509.55: Some mining contract performance challenges that I mentioned. 
+asr:0: OUTPUT 509.57-519.08: And in the plant space, the oil feed being slightly off where we want it and some delays around commissioning for both plants, including some extended shutdown. 
+asr:0: OUTPUT 519.32-525.39: And then finally, quite a few contributing factors applying through cost impact. 
+asr:0: OUTPUT 525.45-531.31: And Brian will speak to this in a little bit more detail later in his section. 
+asr:0: OUTPUT 532.11-537.18: So moving from two grandparents who think plants and now speaking to Nugget June. 
+asr:0: OUTPUT 538.68-548.29: The December quarter was the quarter where we had the ignition switch, so to speak. First concentrated from the core circuit coming through in early October. 
+asr:0: OUTPUT 548.91-555.78: And in operation we're moving it through a stage ramp up with coolant to cook through the float. 
+asr:0: OUTPUT 556.28-565.69: To follow the circuit. We're on track to effectively start that ignition switch of the circuit in this quarter. 
+asr:0: OUTPUT 566.55-574.67: So, RAMPA is slower than what we wanted it to be. Some maintenance issues contributing there. 
+asr:0: OUTPUT 575.66-581.26: But all said and done, good to get the wheels turning and production starting to flow from that operation. 
+asr:0: OUTPUT 582.62-588.07: A lot of things on the AltSuppDate, production guidance, you will not have to go and update that. 
+asr:0: OUTPUT 588.09-593.39: Given the labour challenges and some of the ramp-up challenges we've had. 
+asr:0: OUTPUT 593.43-602.92: We're commencing a review and we'll look to provide our guidance on the RPLE results when they come out due course. 
+asr:0: OUTPUT 604.66-611.25: That concludes the Ops update. Moving to part two on the reserve, just a note there that. 
+asr:0: OUTPUT 611.27-619.30: During the quarter we did do a significant preserve upgrade so this was the combination of bringing in the Altura. 
+asr:0: OUTPUT 619.32-623.14: Reserve and resource into the 50 Kilogram Minerals one. 
+asr:0: OUTPUT 623.22-629.81: So a big increase, 47% upgrade from the prior year to 163 million tonnes. 
+asr:0: OUTPUT 630.15-632.61: Future that I'll cry but you go to the polls. 
+asr:0: OUTPUT 633.25-635.98: The ramp up we're doing and the progressive expansion plan. 
+asr:0: OUTPUT 636.96-640.00: So, lastly, the extension plans, where are we at? 
+asr:0: OUTPUT 640.58-648.09: So historically we talked about expansion in terms of stage 2 and incremental stages of stage 2. 
+asr:0: OUTPUT 648.69-656.58: We've dropped that naming convention and chose to reverse it and simplify labelling for everyone's benefit. 
+asr:0: OUTPUT 657.06-666.05: The P680 project that is now called is the next incremental expansion beyond the ramp-up that we're in the thick of at the moment. 
+asr:0: OUTPUT 666.23-674.93: This is to provide 100,000 tonnes additional to our total production capacity bringing us up to 680,000 tonnes per annum. 
+asr:0: OUTPUT 675.58-684.42: Where are we at with this project? We're in the closing stages of study works and targeting NFID and the June quarter all going well. 
+asr:0: OUTPUT 685.13-699.06: Beyond that, there's the P1000 expansion project, which is, as the name suggests, stepping up to 1000 kilotons per hour in aggregate production from the operations. 
+asr:0: OUTPUT 699.08-703.94: And we're targeting FID for that expansion in the December quarter this year. 
+asr:0: OUTPUT 704.76-709.07: And lastly, the project space, the midstream project. 
+asr:0: OUTPUT 709.09-719.66: I wish to remind everyone that the production of the value-added high-purity lithium chemical salts scoping study has been a finalization stage at the moment. 
+asr:0: OUTPUT 719.68-727.19: We're also completing the economic evaluation for that and looking to announce that in the coming weeks. 
+asr:0: OUTPUT 728.13-730.35: Beyond that scoping study announcement. 
+asr:0: OUTPUT 730.93-739.40: We are positively disposed as to moving forward with that project with that part of Calix ultimately to commercialise. 
+asr:0: OUTPUT 739.74-749.57: That project and that approach and bring what we think is a superior product to market. So there's lots of space and we look forward to updating on that accordingly. 
+asr:0: OUTPUT 750.45-756.38: So that's a wrap for Ops, Reverb and Projects and at this point I'll hand over to Brian. 
+asr:0: OUTPUT 757.50-761.38: Thanks very much, Darlen, and good morning or good afternoon, everyone. 
+asr:0: OUTPUT 763.44-769.31: If I think about the financial impact of the quarter that we just had, I think that we've. 
+asr:0: OUTPUT 769.41-776.20: I sort of put it in three different aspects. One is obviously a very, very positive price environment. 
+asr:0: OUTPUT 776.72-779.78: Very strong operating margins generated. 
+asr:0: OUTPUT 780.08-790.49: But with some of the operating challenges that they were just gone through, we've obviously had some impact in terms of higher units operating costs. 
+asr:0: OUTPUT 792.43-794.75: In terms of the physical,. 
+asr:0: OUTPUT 795.10-800.20: We produce just over 83,000 tonnes of spodumene concentrate. 
+asr:0: OUTPUT 800.48-805.97: And sold about 75,000 tons of concrete that was produced on the Gildam plant. 
+asr:0: OUTPUT 806.15-811.29: And around 3600 tonnes of concentrate was produced from the Nagajoo plant. 
+asr:0: OUTPUT 812.21-820.90: So that's coming through to an increase in inventory of about 5,000 tonnes and we've closed the quarter with closing stocks of about 16,000 tonnes which. 
+asr:0: OUTPUT 821.22-825.27: Which represents about half a month's worth of production. 
+asr:0: OUTPUT 826.93-835.30: In terms of price and operating margin now, I think everyone's aware it's been quite an extraordinary improvement in pricing over the last quarter. 
+asr:0: OUTPUT 835.44-844.00: And we averaged a price of somewhere between US$1,750 and US$1,800 a tonne on an SE6 basis. 
+asr:0: OUTPUT 845.09-854.93: And just as a reminder, that compares to a pricing of $850 to $900 a ton that we achieved for September. So that's quite an extraordinary uplift in pricing. 
+asr:0: OUTPUT 856.04-860.58: So with that pricing environment clearly we generated a... 
+asr:0: OUTPUT 861.06-867.87: A much stronger operating margin. So our margin was about US$1,150. 
+asr:0: OUTPUT 867.89-872.85: Per dry metric tonne for each for the tonne of salt from Peelgan, the 75,000 tonnes from Peelgan. 
+asr:0: OUTPUT 874.19-880.20: So with that strong operating margin, there's been a significant increase in the company's cash position. 
+asr:0: OUTPUT 881.82-882.90: I'm sorry. 
+asr:0: OUTPUT 882.98-894.89: The September cash position was about $137 million and that obviously would be quite cash, with quite cash plus the LCs as well for shipments out of Curtin and Recorder. 
+asr:0: OUTPUT 895.08-897.44: September we had $137 million. 
+asr:0: OUTPUT 897.74-901.72: And at the end of December, we now find ourselves at $245 million. 
+asr:0: OUTPUT 902.34-906.71: So that's an increase of just under $108 million. 
+asr:0: OUTPUT 908.89-912.13: So where has that increase come from? 
+asr:0: OUTPUT 912.15-920.98: The cash operating margin at the Pilgham plant was able to generate represents just under $116 million for the quarter. 
+asr:0: OUTPUT 922.06-929.99: We also, through the trums that we sold at Noviaget, even though Noviaget is still in ramp up and commissioning phase. 
+asr:0: OUTPUT 930.85-938.72: We actually still generate a positive cash flow of about $2 million following the sale of the 3,600 tonnes from that particular operation. 
+asr:0: OUTPUT 940.24-941.80: Capital expanded across the business. 
+asr:0: OUTPUT 942.16-949.13: Was just under $27 million and that's only spent on the Pill Gown plant improvements. 
+asr:0: OUTPUT 949.15-956.82: On the restart of the Nagajew operation, the commissioning and also on the official waste mining that's currently being undertaken. 
+asr:0: OUTPUT 958.62-971.85: So that was largely offset by the drawdown of debt. So during the quarter we took the opportunity to increase our debt facility with our banks by US$20 million. 
+asr:0: OUTPUT 972.39-986.25: That was done deliberately to help us fund the restart of the nuggeting operation. So that year's $20 million agreement was signed up during the quarter and the monies were drawn down in December. 
+asr:0: OUTPUT 986.35-990.83: And that was worth about 27 million Australian dollars. 
+asr:0: OUTPUT 992.53-996.58: We also paid about $2 million in interest costs on the debt. 
+asr:0: OUTPUT 997.06-1003.76: And we also paid a cash sweep under the debt facility of about US $2 million as well. 
+asr:0: OUTPUT 1004.52-1018.20: So at the end of the quarter we end up with about $245 million of cash and that represents a net cash position, so net of debt of around about $68 million. 
+asr:0: OUTPUT 1018.26-1020.22: So clearly this corner. 
+asr:0: OUTPUT 1020.24-1027.55: Has been a significant, significant product company and places the company in a much, much stronger financial position. 
+asr:0: OUTPUT 1027.77-1031.01: Than we were at the start of the quarter. 
+asr:0: OUTPUT 1033.63-1041.30: The one downside, if you like, from a financial point of view, is the unit operating cost. 
+asr:0: OUTPUT 1042.20-1049.79: So the year of operating costs clearly has been impacted by the challenging operating environment that we faced during the quarter. 
+asr:0: OUTPUT 1050.07-1055.86: And was US 587 a ton? 
+asr:0: OUTPUT 1056.36-1062.70: Which was about a US$140 to a tonne higher than the unit operating cost for the September quarter. 
+asr:0: OUTPUT 1064.86-1073.75: So that increase of $142, about 56, US$56 of that, really relates to royalty. 
+asr:0: OUTPUT 1074.15-1078.94: Obviously if the selling price environment is going up. 
+asr:0: OUTPUT 1079.66-1085.03: We are paying a much higher royalty so about $56 of that increase related. 
+asr:0: OUTPUT 1085.05-1090.89: Solely through the fact that we are having to pay higher royalties as a result of receiving a high selling price. 
+asr:0: OUTPUT 1092.43-1100.60: The remaining $86 is really attributable to the fact that we generated lower levels of spiky concentrate production. 
+asr:0: OUTPUT 1101.64-1111.15: This, as I alluded to, really was as a result of a plan shutdown to facilitate the time of the time improvement project that killed her. 
+asr:0: OUTPUT 1112.17-1120.20: We had some unplanned out-of-home events due to some maintenance and equipment issues that needed to be rectified. 
+asr:0: OUTPUT 1120.98-1124.52: We always started off with a low recovery as mentioned. 
+asr:0: OUTPUT 1125.09-1133.37: This is really due to the fact that the old feed being presented to the park wasn't as optimal as it should be. 
+asr:0: OUTPUT 1134.03-1143.92: And then we were also impacted by the fact that there's just a lack of mining production and maintenance personnel in the mine, which impacts how the operation. 
+asr:0: OUTPUT 1143.94-1145.93: Um, get, get drunk. 
+asr:0: OUTPUT 1148.05-1155.22: Now if I think about those cost increases, yeah they are I think unique to the challenges that we're currently facing. 
+asr:0: OUTPUT 1155.32-1160.02: I don't think they are necessarily something which is going to be a permanent increase. 
+asr:0: OUTPUT 1160.76-1167.23: Other than the higher audit costs, which are linked to the 7th bus, my expectation is as we. 
+asr:0: OUTPUT 1167.25-1174.67: As we achieve day-to-day production from the operations that they have caught, we will come back to the levels that we have gone to previously. 
+asr:0: OUTPUT 1175.54-1179.28: As Donald mentioned before,. 
+asr:0: OUTPUT 1179.30-1185.57: We are currently undertaking a review of our production and whether we need to provide our production guidance. 
+asr:0: OUTPUT 1186.19-1198.20: And if there is any impact of that production guidance on unit costs, we will be making that disclosure at the same time in late February when we release our half-year account. 
+asr:0: OUTPUT 1199.50-1203.84: So I think that's everything I wanted to address. I cannot lock my hand back to you. 
+asr:0: OUTPUT 1204.54-1206.37: Yes, thank you, Brian. Thank you, Daryl. 
+asr:0: OUTPUT 1207.35-1209.87: A bit more commentary about the market. 
+asr:0: OUTPUT 1210.31-1211.71: And in particular. 
+asr:0: OUTPUT 1211.77-1219.10: Pauline in advance for delving into a little bit of detail about the pricing environment, but I think it's particularly important to. 
+asr:0: OUTPUT 1219.12-1226.37: To explain how that works so that you have a greater understanding of the opportunities that the current market represents. 
+asr:0: OUTPUT 1228.67-1238.84: Obviously, given where prices got to, there is a growing disconnect between available supply and surging demand. 
+asr:0: OUTPUT 1239.06-1243.32: Searching for man is driven by all those things that. 
+asr:0: OUTPUT 1243.34-1251.29: That represent opportunity in electrifying the global economy, lithium-ion batteries are now key to that, hence the growth in demand. 
+asr:0: OUTPUT 1252.25-1253.45: On the supply side. 
+asr:0: OUTPUT 1254.25-1261.20: Without wanting to put words in other producers' mouths, I don't think their experience is necessarily any different to Pilbara Mineral. 
+asr:0: OUTPUT 1261.42-1265.39: It is tough to bring on additional capacity. 
+asr:0: OUTPUT 1265.41-1274.71: In an environment where you were previously being punished. Very low pricing environment had meant that every producer had slowed down. 
+asr:0: OUTPUT 1275.70-1280.56: So I think it's highly likely that on the supply side,. 
+asr:0: OUTPUT 1280.66-1287.47: There will be challenges and it's probably the case that the supplier response is already being overstated. 
+asr:0: OUTPUT 1288.51-1294.17: So it's against that challenging environment that the price is surging. 
+asr:0: OUTPUT 1294.37-1297.58: And it's kind of perverse. 
+asr:0: OUTPUT 1297.60-1306.57: For the very same reason that silver and minerals are a challenging production quarter, you are likely to see a pricing increase because the supply response is insufficient. I hope that makes sense. 
+asr:0: OUTPUT 1307.71-1312.19: On pricing itself and delving into a little bit of the detail,. 
+asr:0: OUTPUT 1312.21-1321.86: FLEX reported China domestic pricing in battery grade lithium carbonate of $386,000. 
+asr:0: OUTPUT 1321.88-1326.81: One, thermetric tump, lithium carbonate equivalent basis. 
+asr:0: OUTPUT 1327.21-1332.95: So that's over USD $60,000 a ton in China. 
+asr:0: OUTPUT 1333.69-1342.52: Now people will tend to want to dismiss that price because I think it's somewhat unfairly described as a spot price. 
+asr:0: OUTPUT 1343.32-1359.94: But what's actually being discovered in that price survey is the real price being paid by the same relationship, i.e. A long-term seller and a long-term buyer who are constantly renegotiating the price and volume. 
+asr:0: OUTPUT 1360.62-1366.75: So what it is, I think what it represents is the real price that the chemical conversion industry receives in China. 
+asr:0: OUTPUT 1367.67-1372.59: Bearing in mind that Tanner is the world's largest lithium raw materials market. 
+asr:0: OUTPUT 1373.41-1379.76: And I think all the evidence points to that price being a real price because it's also driving international pricing. 
+asr:0: OUTPUT 1380.00-1381.96: Critically as long without a contract. 
+asr:0: OUTPUT 1382.54-1389.55: But international pricing is already approaching $50,000 a tonne. 
+asr:0: OUTPUT 1389.77-1394.77: But for those that want to characterise it as a spot price, I think that's a little bit of a misrepresentation. 
+asr:0: OUTPUT 1394.89-1398.92: It is the product that the chemical conversion industry receives. 
+asr:0: OUTPUT 1400.00-1401.18: Well, why is that important? 
+asr:0: OUTPUT 1401.24-1403.98: This is where the portion might deprive us. 
+asr:0: OUTPUT 1404.00-1411.77: Ultimately have their say in the fund and I think Bilberry Minerals is particularly well placed to participate in that pricing environment. 
+asr:0: OUTPUT 1413.31-1421.80: What it means is if a chemical converter is receiving 60,000 or over 60,000 US dollars a tonne for their battery grade carbonate,. 
+asr:0: OUTPUT 1422.52-1427.09: If you deduct the VAT and you deduct the cost of chemical conversion,. 
+asr:0: OUTPUT 1427.55-1433.99: They have approximately $50,000 left to spend on their war materials. 
+asr:0: OUTPUT 1435.88-1443.08: $50,000 left to spend on their raw material of which spodumene is obviously a key component. 
+asr:0: OUTPUT 1444.36-1454.11: What that means is that the chemical conversion industry can pay a lot more for progamine and in my view they likely will because there is no alternative. 
+asr:0: OUTPUT 1455.08-1459.84: They already have chemical conversion capacity, of which there is Oodle in Toronto. 
+asr:0: OUTPUT 1460.70-1465.59: But there is insufficient spodumene to backfill the chemical conversion capacity. 
+asr:0: OUTPUT 1466.23-1476.52: The net effect of all that is that they will pass their margins upstream, which means spodumene pricing is already very strong. 
+asr:0: OUTPUT 1476.54-1480.50: But in my view likely to get stronger. 
+asr:0: OUTPUT 1481.66-1485.33: And I know everyone thinks that sounds like a pretty extraordinary scenario. 
+asr:0: OUTPUT 1486.31-1491.39: But have a think about this. It's not iron ore. What do you mean it's not iron ore? 
+asr:0: OUTPUT 1492.57-1501.74: Kodumone and its derivative chemicals are part of an industrial mineral supply chain turning into a specialty chemical supply chain. 
+asr:0: OUTPUT 1501.76-1506.21: For which most players will already be contractually bound. 
+asr:0: OUTPUT 1506.93-1510.57: Biocontractually bound to sell chemicals. 
+asr:0: OUTPUT 1510.59-1517.66: To a cathode materials player or a cell maker, maybe in China, but equally probably Japan and Korea. 
+asr:0: OUTPUT 1518.32-1526.15: They are contractually bound but they don't have the raw material. What that means is that they will pay virtually anything for the raw material. 
+asr:0: OUTPUT 1526.61-1533.95: So the dynamic that I'm describing is one that's very different to what most people might be used to in natural resources markets. 
+asr:0: OUTPUT 1534.27-1540.62: Because if you took Ryanair as an example, that's a very large liquid pool of available products. 
+asr:0: OUTPUT 1541.34-1546.59: That's not what's represented by an industrial mineral supply chain where people are. 
+asr:0: OUTPUT 1548.23-1559.56: Have built purpose-built chemical facilities to match a combination of input raw material feed for a defined quality for a customer, probably a longer-dated customer downstream. 
+asr:0: OUTPUT 1560.14-1569.75: So all those dynamics create something that's very unusual in the pricing world when there's such a bad disconnect between available supply and surging demand. 
+asr:0: OUTPUT 1570.15-1572.89: So that's what's going on in the progimene market. 
+asr:0: OUTPUT 1573.33-1581.08: Quite incredible. I think Silver & Minerals is really well placed. We probably outperformed as it relates to price received in the December quarter. 
+asr:0: OUTPUT 1581.54-1586.33: And the March quarter is already looking very, very strong. 
+asr:0: OUTPUT 1586.37-1596.26: So we've got it for between $2,600 and $3,000 US dollar per tonne CIF China on a 6% spodumene basis. 
+asr:0: OUTPUT 1596.46-1603.12: Because we see lithium chemical striping being very strong which represents a key. 
+asr:0: OUTPUT 1603.14-1613.03: A key peg to our Faujimini price. So yeah, incredible times, but nonetheless, silver and minerals will be having its day in the sun. 
+asr:0: OUTPUT 1614.33-1623.48: So that's the detail in the Spodumene market. The other means by which we look to take advantage of that is through the BMX platform. 
+asr:0: OUTPUT 1624.16-1630.83: The VMS platform will typically handle air surf products from our Pilgangora production. 
+asr:0: OUTPUT 1631.49-1636.34: Most of which is coming through the growth in overdue production which is coming. 
+asr:0: OUTPUT 1637.16-1640.24: We've only been producing through the HMS circuit so far. 
+asr:0: OUTPUT 1640.26-1650.25: We're continuing to strip away that and the floatation circuit with the expectation that the floatation circuit starts during the latter part of the current quarter. 
+asr:0: OUTPUT 1651.57-1657.22: In which case, we should have more products available for the BMX platform. 
+asr:0: OUTPUT 1658.06-1661.80: And we're looking forward to the price recovery that that flushes out. 
+asr:0: OUTPUT 1662.80-1664.42: Sorry, it's a close. 
+asr:0: OUTPUT 1665.43-1666.93: In summary... 
+asr:0: OUTPUT 1667.31-1675.96: It's a challenge bringing on the two plants and the expanded capacity that they represent, especially in light of the tight labour market. 
+asr:0: OUTPUT 1676.68-1679.56: That WA currently suffers from. 
+asr:0: OUTPUT 1680.50-1688.71: We're all looking forward to the borders opening because ultimately it should provide some relief to those tight labour market conditions. 
+asr:0: OUTPUT 1691.05-1693.35: So this week, we'll start with the challenging quarter. 
+asr:0: OUTPUT 1694.19-1701.52: It's not just Pilbara Minerals experience. We expect that every resources company is going through similar issues, including the other. 
+asr:0: OUTPUT 1701.54-1704.56: The other lithium raw material providers. 
+asr:0: OUTPUT 1705.23-1712.53: What does that point to? Well it points to a less than part constrained supply which points to probably higher price. 
+asr:0: OUTPUT 1713.85-1718.84: We think we are really well placed to take advantage of that in the coming quarters. 
+asr:0: OUTPUT 1719.92-1725.25: Confident in the team and their ability to bring on the remaining capacity. 
+asr:0: OUTPUT 1725.75-1730.31: In which case, we will have a very, very good year. 
+asr:0: OUTPUT 1731.73-1740.26: Rachel, I'm going to throw it back to you. I'm sure there'll be plenty of interesting questions on the phone call, but equally some that'll come in. 
+asr:0: OUTPUT 1740.42-1741.98: Out with Kyle. 
+asr:0: OUTPUT 1742.98-1745.37: Yeah, I look forward to people's questions. Thank you, Rachel. 
+asr:0: OUTPUT 1746.31-1752.65: Thank you. If you wish to ask a question, please press star 1 on your telephone and wait for your name to be announced. 
+asr:0: OUTPUT 1753.47-1760.90: If you wish to cancel your request, please press star 2. If you are on a speakerphone, please pick up the handset to ask your question. 
+asr:0: OUTPUT 1761.94-1766.31: Your first question comes from Al Harvey from J.P. Morgan. Please go ahead. 
+asr:0: OUTPUT 1768.33-1769.93: You go 10 and 10. 
+asr:0: OUTPUT 1770.71-1780.42: Just a couple from me, perhaps just starting with the recovery across Pilgim Gura, just wondering with Nagadir,. 
+asr:0: OUTPUT 1781.68-1790.83: When do you think, what's kind of the expected maximum recovery you think you'll be able to get there once you bring the floats online and what sort of timing do you think you'll be able to get there? 
+asr:0: OUTPUT 1790.87-1792.79: We might be able to say that across. 
+asr:0: OUTPUT 1796.44-1798.34: In the data. 
+asr:0: OUTPUT 1800.02-1808.59: Silgam was compromised by the new equipment being brought on as part of the improvements project and the effect of a less than optimal blend. 
+asr:0: OUTPUT 1809.81-1816.42: So that we experience recovery of PILGAN for the 65% versus 75%. 
+asr:0: OUTPUT 1817.82-1824.74: Now we do the recovery is materially lower while we're using just the HMS circuit. 
+asr:0: OUTPUT 1825.29-1832.25: With the transitional nominally state pent recovery until we bring on the slow fashion circuit. 
+asr:0: OUTPUT 1834.37-1835.58: Recovery. 
+asr:0: OUTPUT 1835.60-1839.72: And that is you over time with a fully optimized. 
+asr:0: OUTPUT 1839.74-1846.63: Circuit is likely in the order of high 60s, 70%. 
+asr:0: OUTPUT 1847.51-1852.89: As compared to Kilgann being 75% for argument's sake. 
+asr:0: OUTPUT 1856.68-1864.14: That's really helpful. Thanks, Ken. Just secondly, just on the FIDs for P680 and P1000,. 
+asr:0: OUTPUT 1864.90-1872.65: I'm wondering how long after FID if they are successful could works begin just given the tight labor markets you're seeing? 
+asr:0: OUTPUT 1872.77-1879.84: Just any commentary you have on perhaps percentage increases in CAPEX you've been saying relative to prior studies? 
+asr:0: OUTPUT 1881.90-1883.96: Yeah, I'll try it now. 
+asr:0: OUTPUT 1885.15-1892.85: Yes, sure. I'll enter the timing around starting execution of that project posted by the. 
+asr:0: OUTPUT 1893.81-1898.14: The good news is that the P6A could be fairly quick. 
+asr:0: OUTPUT 1898.28-1905.55: And that project is effectively an expansion to the French Hermit Circle. 
+asr:0: OUTPUT 1905.71-1910.63: So the function of engineering, timing, long-lead. 
+asr:0: OUTPUT 1910.67-1917.62: I think construction could be as soon as six months, starting as soon as six months, by SSID. 
+asr:0: OUTPUT 1917.74-1925.29: But we wouldn't expect likely the ramp up of that to maybe 9 to 12 months post-FID. 
+asr:0: OUTPUT 1925.31-1929.25: That's largely driven by our estimates around long leaves. 
+asr:0: OUTPUT 1930.37-1939.70: As to capital increase and cost increases, we've definitely observed escalation. 
+asr:0: OUTPUT 1939.98-1944.02: Across the board, the WA environment, steel prices and the like. 
+asr:0: OUTPUT 1944.62-1951.59: We haven't translated that through quite yet to the CAPEX forecast for these particular projects. 
+asr:0: OUTPUT 1951.71-1955.24: But of course, we will do that. I'll be at my table. 
+asr:0: OUTPUT 1957.56-1959.06: I hope that answers your question. 
+asr:0: OUTPUT 1960.94-1963.10: Yeah, thanks, Al, and just might be with. 
+asr:0: OUTPUT 1963.34-1972.25: The pay 1000, do you think that will have a longer build time frame after FYD? 
+asr:0: OUTPUT 1976.64-1982.96: One of the questions we haven't resolved yet is the staging of that particular part of the expansion. 
+asr:0: OUTPUT 1983.32-1995.62: It's potential that we might choose to forward order long leads and the long leads for both those two expansions really drives the critical path, not so much. 
+asr:0: OUTPUT 1995.64-1998.36: And I'm going to have you, Elijah. 
+asr:0: OUTPUT 1998.38-2007.87: Constraints, it's more long-lived and as it relates to the P1000. 
+asr:0: OUTPUT 2008.07-2009.37: The good kid there is. 
+asr:0: OUTPUT 2009.91-2013.37: We already have a high speed GR for that circuit. 
+asr:0: OUTPUT 2013.41-2023.20: So for us it would be really around looking at bore mill timing and the float cells principally, all the other things that are largely in hand. 
+asr:0: OUTPUT 2024.32-2028.65: We could be well-placed potentially to move fairly quickly with that one. 
+asr:0: OUTPUT 2032.43-2040.78: Thanks, I can just make one last one in just wondering if you guys have a rough split of. 
+asr:0: OUTPUT 2040.84-2042.78: It's a very good service product. 
+asr:0: OUTPUT 2042.82-2051.77: Hydroxide versus carbonate converters and whether or not that's changed substantially since we've seen these bigger increases in carbonate pricing versus hydroxide price? 
+asr:0: OUTPUT 2056.72-2058.08: A contracted customer. 
+asr:0: OUTPUT 2058.50-2067.33: Mix of both. So it's very difficult to determine exactly how much goes into the carbonate chemical sweet versus like oxide. 
+asr:0: OUTPUT 2068.43-2071.43: But to be honest, in today's environment, you can. 
+asr:0: OUTPUT 2071.53-2073.67: You can be ambivalent about it. 
+asr:0: OUTPUT 2073.71-2082.26: Because any primary hydroxide producer, i.e. Straight from Bodger Bank for Hydroxide,. 
+asr:0: OUTPUT 2082.30-2088.07: Is probably twisting hydroxide to carbon at a very low cost process of carbonation. 
+asr:0: OUTPUT 2088.09-2091.43: To take advantage of the carbon at price. 
+asr:0: OUTPUT 2091.71-2093.21: Bye. 
+asr:0: OUTPUT 2093.23-2103.20: And actually in the scheme of things they're doing that for roughly the same cost as the cost of chemical conversion to carbonate anyway, because the primary hydroxide route would typically be a bit cheaper. 
+asr:0: OUTPUT 2104.82-2108.23: So from our point of view, we're not overly fussed. 
+asr:0: OUTPUT 2108.25-2112.11: Kind of one way or the other, we're ultimately being consumed. 
+asr:0: OUTPUT 2112.13-2120.00: Given the price differential between carbon and hydroxide, that's very much a likely market response, twisting hydroxide to carbonate. 
+asr:0: OUTPUT 2123.92-2125.61: Thanks, Ken. Thanks very much, Josh. Appreciate it. 
+asr:0: OUTPUT 2129.55-2133.97: Thank you. The next question is from Mitch Ryan from Jeffries. Please go ahead. 
+asr:0: OUTPUT 2141.44-2148.65: So, we're ramping up everything for those sort of binaries coming in and the aspect. 
+asr:0: OUTPUT 2161.06-2170.17: Yeah, good question, Mitch. And it's hard to disagree with the logic that says the more volume and the more price points that are established on such a platform,. 
+asr:0: OUTPUT 2170.19-2179.20: The better the combination of price transparency and market development for more sophisticated market tools to emerge. 
+asr:0: OUTPUT 2179.32-2181.32: So, broadly speaking,. 
+asr:0: OUTPUT 2182.20-2184.46: Of carbon and drinkage. 
+asr:0: OUTPUT 2184.90-2191.59: More product pricing on things like the BMX platform. 
+asr:0: OUTPUT 2192.75-2198.68: And I won't surprise you that those discussions are already underway. 
+asr:0: OUTPUT 2199.34-2207.23: Logical model to deploy and the industry is absolutely crying out for stronger price transparency. 
+asr:0: OUTPUT 2208.39-2213.53: In line of that I guess that you wouldn't necessarily looking for a commercial benefit. 
+asr:0: OUTPUT 2214.41-2219.90: Material commercial benefit it would be more about the improved transparency of the market would benefit all players involved. 
+asr:0: OUTPUT 2221.68-2228.09: That's right, right in time, float, all boats, so yeah, it's pretty much that logic. 
+asr:0: OUTPUT 2228.11-2234.45: And ultimately it's going to be good for the market as a whole to get more sophisticated pricing methodology out there. 
+asr:0: OUTPUT 2234.51-2239.16: We're not interested so much in the commercial potential in that model. 
+asr:0: OUTPUT 2239.80-2242.76: Just forward participation across all products. 
+asr:0: OUTPUT 2243.12-2249.49: And in fact, Children and Minerals itself is also keen to put more price points on the platform. 
+asr:0: OUTPUT 2249.57-2258.74: I.e. Varying explosion mean grades and over time, mid-stream products and who knows, maybe our own lithium chemical service. 
+asr:0: OUTPUT 2258.76-2261.88: Thanks for taking the time. 
+asr:0: OUTPUT 2266.39-2271.47: Thank you. The next question comes from Jack Gabb from Bank of America. Please go ahead. 
+asr:0: OUTPUT 2273.95-2282.82: Thanks, hi Kennedy. Just a couple of questions for me. Firstly, just on the labour challenges and particularly with respect to some of the stripping I guess. 
+asr:0: OUTPUT 2283.02-2286.37: This year was going to be a bit of a catch up year for stripping rates. 
+asr:0: OUTPUT 2286.49-2291.57: I'm just curious, is this going to pose a challenge at some point? Is it going to create a bottleneck? 
+asr:0: OUTPUT 2291.63-2297.00: For you as you look to expand or are you, we got quite a lot of headway on that. And I'll just follow up with one more question. Thanks. 
+asr:0: OUTPUT 2300.88-2304.94: I'm going to check a couple of introductory comments on that subject and I'll hand the dial. 
+asr:0: OUTPUT 2306.77-2315.86: Yeah, you're right. This year is all about catch-up and we had about 15 to 18 months worth of higher than life of mine strip to catch up. 
+asr:0: OUTPUT 2317.26-2318.86: The state society. 
+asr:0: OUTPUT 2318.88-2320.44: Mobilising more fleets. 
+asr:0: OUTPUT 2320.78-2330.41: And largely it's been constrained by labor, so that's part of the challenge. So, if there's anything else you want to add? 
+asr:0: OUTPUT 2331.59-2339.60: Anything I would add is with the acquisition of Elk Shire presents more opportunities and access to all. 
+asr:0: OUTPUT 2339.62-2344.68: A narrow question. There's a heap of material to move waste movements but. 
+asr:0: OUTPUT 2344.70-2354.29: We do have multiple areas to draw from so that puts us in fairly good stead as we think about various mine plans. 
+asr:0: OUTPUT 2354.45-2356.24: Future. That's a lot. 
+asr:0: OUTPUT 2359.42-2360.82: Just one on pricing. 
+asr:0: OUTPUT 2361.28-2369.11: Can you give us a sense of the range of your pricing that you actually receive across your contracts? Ignoring BMX for a second. 
+asr:0: OUTPUT 2369.19-2372.31: Within your guidance and then secondly within that guidance as well. 
+asr:0: OUTPUT 2372.85-2378.16: Are you including any material volumes from the BMX platform at this point? 
+asr:0: OUTPUT 2381.60-2385.33: So, Jack, one second question for... 
+asr:0: OUTPUT 2385.35-2386.59: Um. 
+asr:0: OUTPUT 2386.61-2394.77: In fact, what we've described in the quarterly $2,600 to $3,000 a ton represents an estimate of contracted pricing. 
+asr:0: OUTPUT 2394.79-2396.88: But on what we see today. 
+asr:0: OUTPUT 2398.34-2405.21: So it's only contract pricing excludes whatever might yet occur on the BMX platform. 
+asr:0: OUTPUT 2408.07-2417.16: And I might have said that there's probably a risk to further upside as a function of the speed with which chemicals have accelerated. 
+asr:0: OUTPUT 2421.02-2429.05: Oh yeah, sorry, the first question. Actually it's relatively tight contract pricing across the customer group. 
+asr:0: OUTPUT 2429.33-2435.30: There's really no material difference emerging. 
+asr:0: OUTPUT 2435.80-2440.92: In respect of the various pricing models, but they pretty much approximated each other. 
+asr:0: OUTPUT 2441.28-2445.85: Within a couple of hundred dollars of each individual contract. 
+asr:0: OUTPUT 2447.47-2454.41: I do vary over time because I do use a lot of different pricing modeling but it's in the detail. They all reference. 
+asr:0: OUTPUT 2454.45-2458.16: Lithium, typically all reference lithium chemical. 
+asr:0: OUTPUT 2458.90-2464.36: Potentially in a slightly different way but the net outcome of the pricing is pretty tight. 
+asr:0: OUTPUT 2466.65-2468.71: That's really helpful. Thanks so much. I'll leave it at that. 
+asr:0: OUTPUT 2472.61-2477.12: If you have a question come to Peter Kerr from the Australian Financial Review. Please go ahead. 
+asr:0: OUTPUT 2478.32-2487.33: G'day Ken, thanks for your time. Just wondering on the border, I assume you're not going to join the exodus of all the other WHO CEOs who are coming out? 
+asr:0: OUTPUT 2488.63-2491.31: And secondly, with the February 5 delay,. 
+asr:0: OUTPUT 2491.59-2494.95: Did that upend any plans you had in terms of. 
+asr:0: OUTPUT 2494.99-2504.10: Did you have particular markets on the East Coast you were targeting as of Feb 6? How do you cope now with that? 
+asr:0: OUTPUT 2504.12-2506.29: With that sort of indefinite uncertainty. 
+asr:0: OUTPUT 2509.05-2515.07: Yeah, good question, Tater. I can assure you there was lots of tears in the Brinkman household. 
+asr:0: OUTPUT 2515.84-2523.12: With the board. I think they've been pretty close to every five given kids and their locations and the desire to catch up with them. 
+asr:0: OUTPUT 2525.07-2527.03: With respect to work. 
+asr:0: OUTPUT 2527.07-2532.37: No, not my intention to merge Melbourne or Sydney, not any time soon. 
+asr:0: OUTPUT 2532.95-2537.00: And didn't disrupt planned growth. 
+asr:0: OUTPUT 2537.04-2544.38: It's an indirect impact of the border that it constrains short-term labour supply. 
+asr:0: OUTPUT 2544.66-2550.57: So that actually gets to the heart of a lot of the issues that we've been dealing with, especially while we're ramping up the food plant. 
+asr:0: OUTPUT 2550.63-2554.31: When something breaks or when we've got to do a shutdown,. 
+asr:0: OUTPUT 2554.51-2561.68: You typically can't get the labour, at least not in the way we used to, to create the peak load that's required to get the jobs done quickly. 
+asr:0: OUTPUT 2562.30-2568.55: So a shutdown that should have taken 36 hours takes 72. 
+asr:0: OUTPUT 2568.57-2577.50: And a broken ball mill coupling takes 56 hours to fix when it should have taken 24, that type of thing. 
+asr:0: OUTPUT 2578.56-2585.29: That's really one of the key issues and then our contractors, our mining contractors feel it as well. 
+asr:0: OUTPUT 2586.13-2592.31: They typically have a slightly higher transitory workforce and they're highly mobile. 
+asr:0: OUTPUT 2592.75-2597.54: What's happening now is everyone's fishing from the same pool in that contrasted space. 
+asr:0: OUTPUT 2598.60-2606.17: And it's leading to lots of challenges accessing labor and hanging onto labor for our contractors. 
+asr:0: OUTPUT 2606.47-2610.33: But yeah, it's the more things continue to collide. 
+asr:0: OUTPUT 2610.35-2618.88: So this creates challenges in that key personnel and the extent to which our contractors can retain their personnel. 
+asr:0: OUTPUT 2619.06-2620.42: The biggest issue. 
+asr:0: OUTPUT 2621.00-2622.08: The thing of the Lord of Darkness. 
+asr:0: OUTPUT 2622.20-2629.87: And we get the, you know, the mobility back in the workforce is really the key. 
+asr:0: OUTPUT 2631.41-2638.72: And so presumably you think the negative impact of those labour challenges is greater than the COVID impact. 
+asr:0: OUTPUT 2638.76-2642.76: Be when it starts spreading through your workforce as it is over here. 
+asr:0: OUTPUT 2644.34-2657.54: Definitely some risk to the production environment for WA mining companies, no two ways about it, but it should be relatively transitory. I measured in months, a couple of months, not six or 12 months. 
+asr:0: OUTPUT 2657.56-2660.00: Thanks again. 
+asr:0: OUTPUT 2664.04-2669.41: Thank you. The next question comes from Adam Baytas from Global Mining Research. Please go ahead. 
+asr:0: OUTPUT 2672.19-2679.30: Just a question on the mining grade. 
+asr:0: OUTPUT 2680.00-2681.60: Uh. 
+asr:0: OUTPUT 2681.86-2690.05: Just wondering what your mind is saying about coming back to meet reserve grades. How far off are we from that? 
+asr:0: OUTPUT 2692.89-2694.49: Yeah, good question. 
+asr:0: OUTPUT 2694.71-2695.94: With that, we're going to go ahead and close out the meeting. 
+asr:0: OUTPUT 2695.96-2705.29: It's reasonably clear historically that the original Pilgangor operation was always mining a slightly higher grade in the first four years, roughly. 
+asr:0: OUTPUT 2705.93-2707.15: Of production. 
+asr:0: OUTPUT 2707.83-2713.11: That's just a function of the way the ore presents at Il Gangora. 
+asr:0: OUTPUT 2713.13-2716.10: So nothing particularly sort of tricky there. 
+asr:0: OUTPUT 2717.38-2719.60: The lower we do, the greater. 
+asr:0: OUTPUT 2719.62-2733.53: Also, has resulted from the addition of the South Peak, i.e. The former Altura operations, which again was always a lower reserve grade than the original Pilgangora reserve grade. 
+asr:0: OUTPUT 2734.41-2736.58: So that also explains some of the gaps. 
+asr:0: OUTPUT 2737.28-2738.64: Yeah, sorry. 
+asr:0: OUTPUT 2738.74-2740.16: We've made an impression now. 
+asr:0: OUTPUT 2740.20-2750.05: For a year, so we've got another year or two with the slightly elevated grades and then they'll start to revert more to their reserve norm. 
+asr:0: OUTPUT 2754.15-2762.62: I think that's a good point. 
+asr:0: OUTPUT 2763.64-2767.89: I'm guessing there'll be some impact to the second half of the financial year 2022 guidance. 
+asr:0: OUTPUT 2768.33-2775.18: Just wondering how likely this is to impact the targeted 540 to 580,000 tonnes of spot crops by mid-year? 
+asr:0: OUTPUT 2779.20-2787.37: We've got a lot of discussion to come given that we've got about another four weeks prior to the half-year results. There's several things going through our mind there. 
+asr:0: OUTPUT 2787.93-2790.71: And the next threat or wake will probably be corned. 
+asr:0: OUTPUT 2791.95-2795.66: The third is the effect of continued plant or ag. 
+asr:0: OUTPUT 2796.54-2803.74: There's a big gap between the historical production of 330,000 spores of main concentrate per annum. 
+asr:0: OUTPUT 2804.44-2809.43: Compared to where we're going 580,000 fortunately concentrate pumps per annum. 
+asr:0: OUTPUT 2810.13-2814.91: And our guidance is sensitive to the speed with which we can bring on that capacity. 
+asr:0: OUTPUT 2815.92-2819.82: So we really need another three or four weeks to see how we go with the plants. 
+asr:0: OUTPUT 2819.84-2828.87: And the work that's already happened and integrating the combination of new equipment, especially W2. 
+asr:0: OUTPUT 2829.55-2831.53: Where we're printing on the flotation circuit. 
+asr:0: OUTPUT 2833.11-2834.17: So that's part one. 
+asr:0: OUTPUT 2835.03-2844.90: As an absolute production capacity by 590,000 tons, well, we're still confident about hitting that run rate in the middle of the year. 
+asr:0: OUTPUT 2845.95-2848.95: As a function of both facts and their performance. 
+asr:0: OUTPUT 2849.33-2852.95: So the bit that we're sensitive to is the remaining ramp up. 
+asr:0: OUTPUT 2854.43-2864.22: Lastly, it's worthwhile mentioning the borders and COVID. There's obvious community transmission going on here now. Mining companies are going to start fueling that. 
+asr:0: OUTPUT 2865.63-2874.29: So we are a bit sensitive to what that impact might be. Now indirectly it's already hurt us because we struggle to get people as I described. 
+asr:0: OUTPUT 2875.28-2882.24: But it's possible there's also production impact from the community transmission and how that relates to our available workforce. 
+asr:0: OUTPUT 2883.12-2892.71: Give us another three or four weeks mate and we'll have that largely cleared up and we'll provide more definitive guidance. 
+asr:0: OUTPUT 2896.96-2903.08: Thank you. There are no further telephone questions at this time. I'll now hand over to Nicholas Reid for any webcast questions. 
+asr:0: OUTPUT 2905.79-2910.57: Thanks Rachel. We have a number of questions that have been logged online for the team here. 
+asr:0: OUTPUT 2911.37-2914.67: Hopefully some questions from John Beckwith. 
+asr:0: OUTPUT 2914.69-2925.37: He said, could you please expand on the company's strategy and the initiatives that have been put in place to deal with the current skills and labour challenges and risks? 
+asr:0: OUTPUT 2925.41-2926.91: In WI. 
+asr:0: OUTPUT 2928.75-2935.07: That's a good question, John. And yes, of course, there has already been actually significant response. 
+asr:0: OUTPUT 2936.48-2944.90: So the first thing is to have taken on some of the challenge ourselves. Fillbury Minerals has connected its own mining fleet. 
+asr:0: OUTPUT 2945.59-2950.25: And the logic in doing that, it's multifaceted, but one of the key drivers is. 
+asr:0: OUTPUT 2950.27-2958.26: The relative accessibility of longer term employees by Kilbara Minerals as compared to our contractors. 
+asr:0: OUTPUT 2959.48-2962.78: To do with the way the workforce works here in WA. 
+asr:0: OUTPUT 2962.90-2970.15: Most employees, not all, but most employees would say longer term employment with an established company is the safer bet. 
+asr:0: OUTPUT 2970.53-2978.94: And I think we also trade on the benefit of being involved in the new economy and buying battery-ruled materials, which is seen as the future. 
+asr:0: OUTPUT 2978.98-2985.09: And hence that brand has a better attraction and retention status. 
+asr:0: OUTPUT 2985.59-2993.07: So that's the key thing that we've taken on ourselves and so far so good. We haven't had too many traumas accessing. 
+asr:0: OUTPUT 2993.09-2997.20: People, ourselves, but certainly our contractors have. 
+asr:0: OUTPUT 2999.28-3001.18: There has also been... 
+asr:0: OUTPUT 3001.20-3011.15: Work done with respect to retention, so for example the way we pay our people, the bonuses, the net benefits. We've done work on our camps. There's lots of things that have happened. 
+asr:0: OUTPUT 3011.37-3016.80: That should have the desired effect of attracting and retaining people over time. 
+asr:0: OUTPUT 3018.06-3024.74: With respect to our contractors, we've done a bit more innovative thinking with them. 
+asr:0: OUTPUT 3024.76-3034.03: The camp and in certain circumstances the way they're incentivized with abuse are helping attract and retain people. 
+asr:0: OUTPUT 3034.97-3045.81: The one key challenge which we still haven't really broken the back of is the peak labor that I described when you need large numbers of personnel to shut down. 
+asr:0: OUTPUT 3046.01-3047.63: And or both down. 
+asr:0: OUTPUT 3048.79-3050.89: That is an area that's still well concerned. 
+asr:0: OUTPUT 3051.63-3060.82: And again, not a challenge that we're dealing with on our own. It's a broad, a very broad issue for the mining companies here in WA generally. 
+asr:0: OUTPUT 3060.90-3062.04: I hope that my expense drops. 
+asr:0: OUTPUT 3063.68-3067.21: Thanks, Ken. Two others from John here. 
+asr:0: OUTPUT 3068.01-3077.24: The fallback in the share price over the last week or so, how much of that would be attributed to the Bordeaux global market correction? 
+asr:0: OUTPUT 3077.26-3082.16: And how much to invest a concern about the risks and challenges that. 
+asr:0: OUTPUT 3082.18-3083.46: Being discussed by. 
+asr:0: OUTPUT 3083.96-3093.39: Secondly, can you update us on how the company is thinking about dividend policy given the strong forms of financial aid in that recent time? 
+asr:0: OUTPUT 3097.90-3100.00: With respect to... 
+asr:0: OUTPUT 3100.26-3110.17: I think it's largely traded in line with its peers. I don't think there's anything particularly special that's gone on there that relates to Pilbara Minerals specifically. 
+asr:0: OUTPUT 3111.31-3113.89: It wouldn't be unusual to have a pullback. 
+asr:0: OUTPUT 3114.01-3118.80: When lithium stocks had run as hard as they had. 
+asr:0: OUTPUT 3118.82-3124.46: But also taking into account broader sentiment issues in global markets. 
+asr:0: OUTPUT 3126.97-3135.38: The specter of inflation clearly led to a bit of a risk off attitude and I would attribute most of it to the share price movement. 
+asr:0: OUTPUT 3136.00-3138.04: Enough to do that. 
+asr:0: OUTPUT 3140.56-3150.07: As described by Dale, we have a lot of growth ahead of us. 
+asr:0: OUTPUT 3151.63-3155.56: Which we think represents a reasonable reinvestment in our business. 
+asr:0: OUTPUT 3157.48-3159.62: That's important. 
+asr:0: OUTPUT 3159.64-3162.12: And ultimately depends on what the price. 
+asr:0: OUTPUT 3162.76-3171.93: Does, but cost versus, you know, cost will be one of our assessments as to whether dividends ultimately become part of the story for the medium-term. 
+asr:0: OUTPUT 3172.57-3178.48: So more to be discovered in that regard, John, before we can do the thing that is about dividend strength. 
+asr:0: OUTPUT 3180.60-3186.81: Thanks Ken. A question from Rob Clark. He says with respect to your impressive balance sheet strengthening. 
+asr:0: OUTPUT 3186.83-3193.61: Does your midstream project warrant more resources and can you look at ways to increase the speed to market of this product? 
+asr:0: OUTPUT 3194.29-3203.72: Also, can you please clarify if the product is being targeted directly at Chinese LFP capo makers? Ah, okay. They're both good questions. 
+asr:0: OUTPUT 3204.80-3210.79: Well we very much like the midstream product and Dale said I think. 
+asr:0: OUTPUT 3210.81-3216.62: Be worth something like a very competitive product or compelling product for the market, something like that. 
+asr:0: OUTPUT 3217.54-3227.43: I agree wholeheartedly, it is a compelling product to the market and recutting the sportsman supply chain is going to be a big part of the future of our industry. 
+asr:0: OUTPUT 3228.51-3231.27: Because there are more efficient solutions. 
+asr:0: OUTPUT 3232.17-3240.62: We're working about as hard and as fast as we can on that project. I'm really happy to be working with Calix in their smart team. 
+asr:0: OUTPUT 3242.30-3250.13: But it's still got engineering development to be undertaken and it's very difficult to short circuit that. 
+asr:0: OUTPUT 3251.51-3261.36: So more work to be done and probably more to be said about that as we look to publish the first round of engineering in the coming weeks. 
+asr:0: OUTPUT 3264.94-3268.57: Pretty much it. 
+asr:0: OUTPUT 3268.65-3277.60: The next question is from Hayden Baird, he says is the long term production target post the expansion still approximately 1 million tonnes per annum? 
+asr:0: OUTPUT 3278.06-3288.05: Or have you made some changes to long-term recovery assumptions? And secondly, what percentage of sales in 2022 are likely to be on the BMX platform? 
+asr:0: OUTPUT 3289.13-3294.15: Yep. Yeah, so. 
+asr:0: OUTPUT 3294.57-3302.48: Long-term production Hayden is still targeting beyond 1 million tonnes per annum of spotty main concentrate. 
+asr:0: OUTPUT 3302.52-3305.05: And broadly speaking. 
+asr:0: OUTPUT 3305.07-3314.63: That should happen in the period sort of 2000 and the latter part of 2023, early part of 2024 onward. 
+asr:0: OUTPUT 3315.96-3320.56: Now more work to be done from an engineering and a delivery point of view. 
+asr:0: OUTPUT 3321.48-3325.67: But we have no doubt that Pilgangora as a production centre. 
+asr:0: OUTPUT 3325.89-3333.57: Has that capacity and it will be a very important part of global supply, so very much still in the future. 
+asr:0: OUTPUT 3334.39-3339.96: With respect to recovery, it's actually no, nothing's changed with respect to our views around recovery. 
+asr:0: OUTPUT 3340.74-3342.94: Consistent with previous commentary. 
+asr:0: OUTPUT 3344.12-3351.57: Slightly lower recovery at nogatude, just as a function of the way that plant works in comparison to Pilgan. 
+asr:0: OUTPUT 3353.07-3360.18: And a slightly lower head grade overall, likely to be fed to no redo over time. 
+asr:0: OUTPUT 3361.06-3370.99: But recovery is still the same and the floatation is still a very important part of the future at Philgangora, whether at Philgan or at Muggerdoo. 
+asr:0: OUTPUT 3376.36-3380.86: So if i start to change it's size sorry it's not a little bit more. 
+asr:0: OUTPUT 3382.64-3385.21: Well, there's still some uncertainty, so... 
+asr:0: OUTPUT 3385.23-3393.83: That's a function of how quickly we can bring on the remaining capacity at noted due. From a production point of view it's still relatively early days because we're only relying on. 
+asr:0: OUTPUT 3393.85-3396.56: On HMS being the transitional oar. 
+asr:0: OUTPUT 3398.42-3401.56: The flotation circuit construction is well advanced. 
+asr:0: OUTPUT 3402.78-3411.41: We're into the cells now and still expecting that those cells will be fired up. From a construction point of view, we're finishing off the. 
+asr:0: OUTPUT 3411.87-3416.18: The last of this construction in the cell to align it with our flotation technique. 
+asr:0: OUTPUT 3417.46-3421.14: Of you that will be commissioned from later in the March quarter. 
+asr:0: OUTPUT 3422.50-3428.73: So then the question is how quickly we can bring that on to bring on additional capacity because of that capacity. 
+asr:0: OUTPUT 3428.75-3435.01: And then whatever we can stretch fuel gain to that becomes exit capacity to go to the BMX platform. 
+asr:0: OUTPUT 3436.34-3443.56: So it's difficult to be definitive, to be honest, Hayden, about what ultimately gets sold on spot this hard. 
+asr:0: OUTPUT 3444.82-3450.11: Once the plant is at full capacity, so 580,000 tons,. 
+asr:0: OUTPUT 3451.13-3455.88: Then approximately 200,000 tons of that is available. 
+asr:0: OUTPUT 3456.74-3462.40: It's at our disposal to sell as we choose and at the moment we would choose to sell. 
+asr:0: OUTPUT 3462.42-3468.09: By far the majority of that to the BMX platform because pricing is going to be very strong. 
+asr:0: OUTPUT 3469.31-3480.68: The mechanical conversion industry is going to give away their margin to secure a sponge and main supply, in which case sponge and main supply or pricing. 
+asr:0: OUTPUT 3481.06-3482.46: Surprise to the outside. 
+asr:0: OUTPUT 3485.25-3486.75: Thanks, Tim. 
+asr:0: OUTPUT 3486.83-3496.14: Of other BMX questions, so I'll just group them together and apologies if we're going over the same ground here, but one was to confirm, are you expecting a BMX? 
+asr:0: OUTPUT 3496.26-3498.60: Option this problem. 
+asr:0: OUTPUT 3499.80-3501.24: Yes, that's a hot tip. 
+asr:0: OUTPUT 3501.78-3505.47: And the second was it all goes well with the mother to parents. 
+asr:0: OUTPUT 3505.49-3513.71: Can you give some sort of estimate of how many PMX sales and managers in total would be expecting for this calendar year? 
+asr:0: OUTPUT 3516.14-3520.92: Yeah, I guess similar to my previous comment about seeing which the No G Plan comes on. 
+asr:0: OUTPUT 3521.94-3529.55: I can be more definitive about it once the capacity has been built out because then you would have approximately an option every three weeks roughly. 
+asr:0: OUTPUT 3530.07-3535.32: As represented by the total exit capacity that makes its way to the spot market. 
+asr:0: OUTPUT 3538.22-3539.44: All right, thanks, King. 
+asr:0: OUTPUT 3540.00-3548.75: Question here from Mr Mills. He says as the company moves relatively quickly to P680 and P1000 what can. 
+asr:0: OUTPUT 3548.77-3554.97: Should there be or are there shifting movements to markets given. 
+asr:0: OUTPUT 3554.99-3558.30: Bible, shipping characters and increased cost. 
+asr:0: OUTPUT 3559.38-3561.72: I am. 
+asr:0: OUTPUT 3561.80-3570.61: The experience is that we don't have typically accessing vessels. There's enough trade and vessels. 
+asr:0: OUTPUT 3570.63-3572.55: Available in our sector. 
+asr:0: OUTPUT 3574.23-3581.18: So we don't institutionalize difficulty accessing the vessels themselves. It's just the cost of attracting the vessels that's the issue. 
+asr:0: OUTPUT 3583.44-3590.15: There has been some relief, a little bit of relief in this quarter with respect to shipping costs. 
+asr:0: OUTPUT 3591.89-3596.60: We pay the shipping cost at about $70 to $80 a ton. 
+asr:0: OUTPUT 3596.62-3602.04: Average shipping cost prior to memory were about $55. 
+asr:0: OUTPUT 3602.72-3609.69: Trust. So it's come off slightly which is indicative of more vessels being available but again. 
+asr:0: OUTPUT 3609.73-3616.08: I mean, I make the point that it's not so much that you can't get a vessel, it's just the cost of the vessel itself. 
+asr:0: OUTPUT 3618.48-3619.60: Just a couple of marks. 
+asr:0: OUTPUT 3619.94-3639.72: Related questions to wrap up. First one from Mr. Zeng. He asked if you can offer some commentary on the impact on the lithium market of some recent developments we've seen, for instance the Rio Tinto project in Serbia and also some of the political changes in Chile and any potential relevance. 
+asr:0: OUTPUT 3639.74-3641.34: Passions of life. 
+asr:0: OUTPUT 3641.38-3643.24: The relevance of lithiums. 
+asr:0: OUTPUT 3644.36-3653.09: Well the first thing that comes to mind and no disrespect to the analyst community but it's easy to put supply numbers in a spreadsheet, it's not so easy to deliver them on the ground. 
+asr:0: OUTPUT 3653.99-3657.94: By the time you're doing that, a lot more complexity is coming to play. 
+asr:0: OUTPUT 3659.16-3666.79: From from Filbura about difficulties in bringing in additional capacity. Well, our experience with it, you know, is not. 
+asr:0: OUTPUT 3666.81-3675.54: We're not on our path alone. Bringing on spodumene supply and lithium units globally is challenging. 
+asr:0: OUTPUT 3675.78-3683.58: And especially when you think about the combination of volume, volume growth and quality. 
+asr:0: OUTPUT 3684.70-3687.75: And each of those are going to be... 
+asr:0: OUTPUT 3687.77-3695.64: Overestimated in our view, in which case markets will continue to be tight for quite some time. 
+asr:0: OUTPUT 3696.58-3703.96: We've heard many analysts say over the years that the lithium markets will be oversupplied, that there's plenty of lithium in the world, but. 
+asr:0: OUTPUT 3703.98-3711.69: There's not plenty of lithium in the world that fits the right combination of location, quality of supply, accessibility to infrastructure. 
+asr:0: OUTPUT 3712.53-3717.36: In the right jurisdictions that don't otherwise suffer from geopolitical challenges. 
+asr:0: OUTPUT 3718.80-3719.98: Yeah, I mean... 
+asr:0: OUTPUT 3720.42-3727.73: It's a complex world of an industrial mineral supply chain that doesn't want to be complex but naturally is. 
+asr:0: OUTPUT 3729.51-3733.79: Ken, one final one as a reminder of questions and a good one to wrap up on. 
+asr:0: OUTPUT 3733.81-3740.82: As the gentleman said, major car manufacturers are talking big numbers for EV production through to 2030. 
+asr:0: OUTPUT 3740.90-3745.29: Is there enough lithium to achieve those production forecasts? 
+asr:0: OUTPUT 3746.57-3750.05: I don't want to be trite, but car makers have been asleep at the wheel. 
+asr:0: OUTPUT 3751.19-3758.44: They haven't been paying enough attention to the raw material supply base in battery raw materials in the last five years. 
+asr:0: OUTPUT 3759.24-3761.12: And it's coming back to haunt them. 
+asr:0: OUTPUT 3761.16-3771.47: Because insufficient incentive was placed in the market when it was really required and especially within that period three to five years ago. 
+asr:0: OUTPUT 3771.63-3780.64: To get to where we need to be today. So not enough capital flowing upstream, not enough. 
+asr:0: OUTPUT 3780.72-3782.72: That tie up with the bar chain. 
+asr:0: OUTPUT 3783.80-3791.21: Not enough interconnected agreements that motivate the supply chain to be interconnected? 
+asr:0: OUTPUT 3792.17-3800.00: Each of those things represents a serious challenge to the industry that should have been solved some years ago but now needs to be solved. 
+asr:0: OUTPUT 3814.67-3818.02: Conference for today. Thank you for participating. You may now disconnect. 
+asr:0: END

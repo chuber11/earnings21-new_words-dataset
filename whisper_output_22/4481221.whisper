@@ -1,0 +1,164 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.20-12.95: Good day, ladies and gentlemen, and welcome to the CFI Technologies financial results for third quarter and fiscal year 2021-2022. 
+asr:0: OUTPUT 13.85-21.14: At this time, all participants have been placed on the listen-only mode, and the floor will be open for questions and comments after the presentation. 
+asr:0: OUTPUT 22.08-27.89: It is now my pleasure to turn the floor over to your host, Praveen Krishna. Sir, the floor is yours. 
+asr:0: OUTPUT 29.69-36.48: Thank you, Holly. Good morning. I'd like to extend a warm welcome to all our participants on behalf of the P Technologies Limited. 
+asr:0: OUTPUT 37.26-46.45: I'm joined on the call today by Mr. Raju Vexenas, Chairman, Mr. Kamal Nath, Chief Executive Officer, Mr. M.P. Vijay Kumar, Chief Financial Officer. 
+asr:0: OUTPUT 47.39-50.45: Following our comments on the results, there will be an opportunity for questions. 
+asr:0: OUTPUT 51.33-60.06: If you do not have a copy of our press release, please call Grayling Global at 646-284-7000. 
+asr:0: OUTPUT 60.08-62.02: 9400. 
+asr:0: OUTPUT 62.40-64.00: And we will have one sent to you. 
+asr:0: OUTPUT 64.78-73.73: Alternatively, you may obtain a copy of the release at the investor information section on the company's corporate website at. 
+asr:0: OUTPUT 73.75-78.88: Www.sifitechnologies.com slash investors. 
+asr:0: OUTPUT 79.64-84.46: A replay of today's call may be accessed by dialing in on the numbers provided. 
+asr:0: OUTPUT 84.48-93.31: In the press release or by accessing the webcast in the investor information section of CEPI corporate website. 
+asr:0: OUTPUT 94.41-100.32: Some of the financial measures referred to during this call and the earnings release may include non-GAAP measures. 
+asr:0: OUTPUT 100.84-105.63: So if these results for the year are according to the International Financial Reporting Standard,. 
+asr:0: OUTPUT 105.65-111.35: Or IFRS and will differ somewhat from the gap announcement made in previous years. 
+asr:0: OUTPUT 111.99-115.62: A presentation of the most directly comparable financial measures. 
+asr:0: OUTPUT 115.64-122.34: Calculated and presented in accordance with GAP and a reconciliation of such non-GAP measures. 
+asr:0: OUTPUT 122.36-133.81: And of the differences between such non-GAAP measures and the most comparable financial measures calculated and presented in accordance with GAAP will be made available on SIFI's website. 
+asr:0: OUTPUT 136.22-144.66: Before we continue, I'd like to point out that certain statements contained in the earnings release and on this conference call are forward-looking statements. 
+asr:0: OUTPUT 145.15-146.59: Rather than historical fact. 
+asr:0: OUTPUT 147.09-155.34: And are subject to risk and uncertainty that could cause actual results to differ materially from those described. 
+asr:0: OUTPUT 156.02-164.92: The. 
+asr:0: OUTPUT 165.87-172.19: These risks include a variety of factors, including competitive development and risk factors. 
+asr:0: OUTPUT 172.21-177.32: Listed from time to time in the company's SEC reports and public releases. 
+asr:0: OUTPUT 178.48-188.33: Those lists are intended to identify certain principle factors that could cause actual results to differ materially from those described in the forward-looking statements, but... 
+asr:0: OUTPUT 188.41-195.62: Are not intended to represent a complete list of all risks and uncertainties inherent to the company's business. 
+asr:0: OUTPUT 196.26-202.16: I would now like to introduce Mr. Raju Vexena, Chairman of SIFI Technologies. Chairman. 
+asr:0: OUTPUT 204.10-212.87: Thank you, Praveen. Good morning. Thank you for joining all of you. Given the proactive government through the pandemic,. 
+asr:0: OUTPUT 213.71-220.20: India is a better place through the third phase that we are currently experiencing. 
+asr:0: OUTPUT 221.60-223.28: Digital IT infrastructure. 
+asr:0: OUTPUT 223.56-232.81: Across the country has been scaled up aggressively since the network and the data centers are declared essential services. 
+asr:0: OUTPUT 234.21-240.78: Indian businesses are now convinced of the importance of the business processes continuity. 
+asr:0: OUTPUT 241.70-244.54: Converging services of seamless business output. 
+asr:0: OUTPUT 246.13-253.43: We have left to the board a search of the services from a cloud-based local startup, CloudBorne. 
+asr:0: OUTPUT 253.87-260.62: Native cloud-borne startups local and growing hyperscaler investment in Indian IT infrastructure. 
+asr:0: OUTPUT 261.82-268.95: As you know, CP is still at the core as the plan. 
+asr:0: OUTPUT 269.09-275.64: We are seeing that the right time for the CP to scale up to capture all these opportunities. 
+asr:0: OUTPUT 276.30-285.67: Let me bring in Kamal Nath, our CEO, to expand on some of the business highlights for the past quarter. Kamal? 
+asr:0: OUTPUT 287.95-294.59: Yeah, thank you, Raju. Enterprises looking for cloud-based digital transformation services. 
+asr:0: OUTPUT 295.44-300.98: See our digital first bouquet of services as a natural fitment for the revolving business demands. 
+asr:0: OUTPUT 302.48-308.43: We are seeing an upswing in demand for our cloud at core services as the right delivery model for these demands. 
+asr:0: OUTPUT 309.99-317.74: Our successful delivery for hyperscalers is a strong endorsement of our agility and capability on the data center front. 
+asr:0: OUTPUT 318.02-321.88: And increases the attractiveness of our data centers to our enterprise clients. 
+asr:0: OUTPUT 323.22-327.85: With the market learning to work around the pandemic, these demands should continue. 
+asr:0: OUTPUT 329.39-334.61: As with previous quarters, I would like to expand on the business highlights and summarize our business performance. 
+asr:0: OUTPUT 336.18-339.26: As part of our corporate venture capital initiative. 
+asr:0: OUTPUT 339.40-348.75: SIFI has further invested during the quarter US dollars 100,000 in the earlier announced startups in the Silicon Valley area. 
+asr:0: OUTPUT 350.25-359.96: If we committed to a capital outlay of INR 9,900 million, towards fresh capacity building for data center expansion in the Navi Mumbai region. 
+asr:0: OUTPUT 361.22-370.33: This is in addition to the capital outlay of INR 1,200 million for expansion of DC capacity in the same region. 
+asr:0: OUTPUT 371.91-380.48: Chippy Technologies has been recognized as a niche player in the 2021 Gartner Magic Quadrant for managed network services. 
+asr:0: OUTPUT 381.74-387.37: The recognition is for completeness of vision and ability to execute leading to superior quality of service. 
+asr:0: OUTPUT 389.15-392.27: The business continues to grow the reach of the network. 
+asr:0: OUTPUT 393.37-396.48: As of 31st December 2021,. 
+asr:0: OUTPUT 396.50-405.59: SIFI provides services via 769 fiber nodes and 1,893 wireless base stations across the country. 
+asr:0: OUTPUT 406.63-412.13: 6% and 11% increase respectively over the same quarter last year. 
+asr:0: OUTPUT 413.55-419.24: As part of his digital experience project, Sify completed full automation of service assurance. 
+asr:0: OUTPUT 420.00-428.65: Asset management, and service provisioning across this network. This will accelerate the deployment of a streamlined customer experience in the coming quarters. 
+asr:0: OUTPUT 430.31-438.94: To summarize our business performance, revenue from data center co-location services grew by 44% over the same quarter last year. 
+asr:0: OUTPUT 440.06-444.24: Revenue from digital services fell by 18% over the same quarter last year. 
+asr:0: OUTPUT 445.47-450.29: And revenue from network centric services grew by 8% over the same quarter last year. 
+asr:0: OUTPUT 452.11-459.18: The revenue split between the businesses during the quarter was data center co-location services at 30%. 
+asr:0: OUTPUT 459.88-464.92: Digital services at 24% and network centric services at 46%. 
+asr:0: OUTPUT 466.09-472.65: A detailed list of our key wins is recorded in our press release, now live on our website. 
+asr:0: OUTPUT 474.15-479.46: Let me bring in Vijay, our CFO, to elaborate on the financial highlights for the past quarter. 
+asr:0: OUTPUT 480.00-485.23: Vijay. Thank you Kamal. Good morning everyone. 
+asr:0: OUTPUT 486.53-494.77: Let me briefly sum up the financial performance for the third quarter of financial year 2021-2022. 
+asr:0: OUTPUT 497.00-506.59: Revenue of INR 6,783 million, a growth of 8% over the same quarter last year. 
+asr:0: OUTPUT 508.93-518.32: EBITDA was INR 1574 million, an increase of 22% over the same quarter last year. 
+asr:0: OUTPUT 520.68-529.75: Profit before tax for the quarter was INR 477 million, an increase of 19% over the same quarter last year. 
+asr:0: OUTPUT 531.49-540.74: Profit after tax was INR 344 million, an increase of 36% over the same quarter last year. 
+asr:0: OUTPUT 542.66-549.89: Capital expenditure during the quarter was INR 2887 million. 
+asr:0: OUTPUT 552.15-558.56: The customer demand for digital infrastructure services continues to be encouraging. 
+asr:0: OUTPUT 560.46-566.75: We will continue to expand on our data center and network capacity. 
+asr:0: OUTPUT 568.93-576.60: Our fiscal discipline will continue right through our investment journey without impacting customer experience. 
+asr:0: OUTPUT 579.20-584.44: Cash balance at the end of quarter was INR 2381 million. 
+asr:0: OUTPUT 586.33-593.63: I will now hand over to our chairman for his closing remarks. 
+asr:0: OUTPUT 595.82-603.98: India was already in the midst of the transformation of legacy systems through the adoption of automation. 
+asr:0: OUTPUT 605.04-608.69: The pandemic only accelerated that process. 
+asr:0: OUTPUT 610.49-620.14: In this process, some of our services matured through their adoption of enterprises. 
+asr:0: OUTPUT 620.18-623.08: Fine-tuned by the enterprise demand. 
+asr:0: OUTPUT 623.10-626.31: Some are more had to be completely overhauled. 
+asr:0: OUTPUT 627.49-634.43: You know, the current city, Bouquet of Services, sits well with the market demand. 
+asr:0: OUTPUT 636.20-643.28: Thank you for joining us on this call. I will now hand over to the operator for questions. 
+asr:0: OUTPUT 646.37-649.57: Ladies and gentlemen, the floor is now open for questions. 
+asr:0: OUTPUT 649.91-654.39: If you have any questions or comments, please press star 1 on your phone at this time. 
+asr:0: OUTPUT 655.16-662.78: We ask that while posing your question, you please pick up your handset if listening on speakerphone to provide optimum sound quality. 
+asr:0: OUTPUT 663.48-665.53: Please hold while we poll for questions. 
+asr:0: OUTPUT 675.80-682.26: Your first question for today is coming from Greg Burns. Please announce your affiliation, then pose your question. 
+asr:0: OUTPUT 683.96-686.11: Good morning, Greg Burns with Sudoti & Company. 
+asr:0: OUTPUT 686.89-690.71: I just wanted to ask about the first, about the KOTAK investment. 
+asr:0: OUTPUT 690.95-699.82: What was the rationale behind taking that investment in the contact center business. 
+asr:0: OUTPUT 699.84-703.84: You know, what benefits do you see from their involvement? Thank you. 
+asr:0: OUTPUT 710.53-714.55: Shall I? Yeah, Vijay Kumar, please go ahead. Yeah. 
+asr:0: OUTPUT 716.36-717.38: Greg. 
+asr:0: OUTPUT 717.40-726.65: Kotex is an alternate investment fund which is managed by one of the most established bankers in India. 
+asr:0: OUTPUT 727.83-730.65: Where the fund has LPs. 
+asr:0: OUTPUT 730.69-739.18: Which includes sovereign wealth funds, which are among the best names to participate in data center investments across the globe. 
+asr:0: OUTPUT 741.08-742.40: As you are aware,. 
+asr:0: OUTPUT 743.20-750.71: CFI has a very active business present in the data center services. 
+asr:0: OUTPUT 750.89-756.34: And we have been continuously investing and expanding our data center capacity. 
+asr:0: OUTPUT 756.74-762.80: Considering the highly encouraging demand for data center co-location services. 
+asr:0: OUTPUT 764.62-773.05: So this investment from KOTAK is through a compulsorily convertible instrument. 
+asr:0: OUTPUT 774.23-779.00: Where it is meant for financing or rather part financing. 
+asr:0: OUTPUT 779.90-785.81: Some of our green field data center capacity expansion over the next three years. 
+asr:0: OUTPUT 787.61-793.25: So that's the background of the investment and the investment house. 
+asr:0: OUTPUT 796.80-801.18: Okay. 
+asr:0: OUTPUT 801.40-805.59: It's. 
+asr:0: OUTPUT 807.01-811.61: A little bit better, what advantages taking that outside capital has. 
+asr:0: OUTPUT 815.36-819.72: It actually does multiple things. One is it. 
+asr:0: OUTPUT 819.88-824.64: Gives us fast track or data center capacity expansion. 
+asr:0: OUTPUT 824.70-832.89: As we tend to raise about 1,000 crores, which in terms of INR million is 10,000 million. 
+asr:0: OUTPUT 833.45-839.52: Amount of capital which will be accessible to us for our expansion needs. 
+asr:0: OUTPUT 840.96-850.07: Along with the debt financing which we can raise from the banking system approximately with a debt equity ratio of 2 is to 1. 
+asr:0: OUTPUT 850.23-856.12: It helps us to create substantial capacity over the next three years. 
+asr:0: OUTPUT 856.18-865.23: And lastly, participation by an established banker and the sovereign wealth funds who are globally respected LPs. 
+asr:0: OUTPUT 865.73-872.35: Also validate our data center business model and our competencies in this business. 
+asr:0: OUTPUT 873.27-880.36: So it places before us capital for expansion and also gives us access to rates. 
+asr:0: OUTPUT 880.38-884.12: Capital beyond what we have already contracted. 
+asr:0: OUTPUT 888.83-891.93: I guess, and then you mentioned also... 
+asr:0: OUTPUT 891.95-900.80: Committing to 9,900 million incremental investment in the data centers. Is that all part of this? 
+asr:0: OUTPUT 900.96-909.71: With the incremental capital erase from KOTAK or is that separate from that? Is that incremental and new or how should we read into that? 
+asr:0: OUTPUT 909.83-915.86: What's the time frame on when you expect that investment to be made? 
+asr:0: OUTPUT 918.02-922.16: The numbers which have been communicated to the press release. 
+asr:0: OUTPUT 922.76-929.99: Or for the data center projects where there is currently work in progress. 
+asr:0: OUTPUT 930.91-937.28: Those will be financed by internal accrual and debt from the banking system. 
+asr:0: OUTPUT 938.24-942.46: What we are raising from Kotex Fund. 
+asr:0: OUTPUT 942.48-945.97: Is for new greenfield projects. 
+asr:0: OUTPUT 945.99-952.85: For which the projects will be taken up effective from March of this calendar year. 
+asr:0: OUTPUT 959.56-966.47: And then in terms of, I guess, your reclassified, the way you report your segments. 
+asr:0: OUTPUT 966.63-974.85: Within digital services, could you just give us an idea of the growth of the different pieces? 
+asr:0: OUTPUT 975.36-980.00: I'm assuming cloud and managed services was continuing to grow, but... 
+asr:0: OUTPUT 980.12-983.94: Can you just give me a little breakdown of that 18% decline? 
+asr:0: OUTPUT 985.83-989.91: Yeah, so as far as the city digital service are concerned. 
+asr:0: OUTPUT 990.77-996.08: As you rightly observed, the cloud and managed services continues to grow. 
+asr:0: OUTPUT 997.24-1003.58: Whereas in this particular quarter, our technology integration services. 
+asr:0: OUTPUT 1004.40-1008.63: Where we had a couple of large projects to be executed. 
+asr:0: OUTPUT 1009.47-1017.70: Those projects execution is work in progress and given the pandemic associated supply chain issues. 
+asr:0: OUTPUT 1018.40-1025.59: Those projects will get completed, hopefully in this quarter four. 
+asr:0: OUTPUT 1026.29-1036.30: So the cloud and managed services grown during the quarter and the other, particularly the technology integration services, there's a degrowth. 
+asr:0: OUTPUT 1039.40-1044.40: I guess, since you brought it up in terms of the pandemic, where... 
+asr:0: OUTPUT 1044.78-1052.89: What's the status of the conditions in India? Are you constrained by. 
+asr:0: OUTPUT 1052.91-1062.08: Like mandates or lockdowns anymore? Is business getting back more back to normal there? And. 
+asr:0: OUTPUT 1062.10-1064.38: What's your view, I guess? 
+asr:0: OUTPUT 1064.42-1067.23: Looking forward in terms of maybe some of the constraints. 
+asr:0: OUTPUT 1067.91-1069.87: On the business in terms of the pandemic. 
+asr:0: OUTPUT 1072.93-1075.38: It's getting back to normal. 
+asr:0: OUTPUT 1076.12-1083.72: Except that with this Omicron, there are lockdowns specified in a few states for the weekend. 
+asr:0: OUTPUT 1084.82-1093.15: Otherwise, the business continued to work as they're almost limping back to normal. 
+asr:0: OUTPUT 1093.19-1099.38: Except that many organizations are still pursuing work from home as a model. 
+asr:0: OUTPUT 1100.00-1105.75: From a business perspective as far as chairman observed in his opening remarks. 
+asr:0: OUTPUT 1106.55-1111.99: The network and data center services demand continues to be high and growing. 
+asr:0: OUTPUT 1112.87-1121.60: And on the digital transformation services, the customers are having extensive conversations. 
+asr:0: OUTPUT 1121.80-1127.47: And these conversations we expect to get converted into tangible. 
+asr:0: OUTPUT 1127.49-1132.23: Orders and revenue conversion in the foreseeable future. 
+asr:0: OUTPUT 1135.18-1137.62: Okay, great, thank you. 
+asr:0: OUTPUT 1142.12-1147.05: Once again, if there are any questions or comments, please press star 1 on your phone. 
+asr:0: OUTPUT 1159.18-1161.30: There are no questions in queue at this time. 
+asr:0: OUTPUT 1163.48-1170.03: Thank you very much. 
+asr:0: OUTPUT 1175.08-1180.74: Thank you, ladies and gentlemen. This does conclude today's conference call. 
+asr:0: OUTPUT 1181.14-1186.41: You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation. 
+asr:0: END

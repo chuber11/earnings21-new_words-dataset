@@ -1,0 +1,617 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.18-12.67: Hello, thank you for standing by and welcome to Imperial fourth quarter 2021 earnings conference call. At this time, all participants are in a listen only mode. 
+asr:0: OUTPUT 13.09-20.70: After the speaker presentation, there will be a question and answer session. To ask a question during the session, you'll need to press star one on your telephone. 
+asr:0: OUTPUT 21.30-27.47: Please be advised that today's conference may be recorded. If you require any further assistance, please press star zero. 
+asr:0: OUTPUT 27.91-34.63: I would now like to hand the conference over to your speaker today, Dave Hughes, Vice President, Investor Relations. Please go ahead. 
+asr:0: OUTPUT 37.16-44.98: Thank you very much. Good morning everybody and welcome to our fourth quarter earnings call. I'll start by introducing you to the management team we have in attendance. 
+asr:0: OUTPUT 45.47-54.21: Brad Corson, Chairman, President and CEO. Dan Lyons, Senior Vice President of Finance and Administration. Simon Younger, Senior Vice President of the Upstream. 
+asr:0: OUTPUT 54.69-59.70: Sherry Evers, Vice President of Commercial and Corporate Development, and John Wetmore, Vice President of the Downstream. 
+asr:0: OUTPUT 60.26-62.12: So I'll quickly go over the cautionary statement. 
+asr:0: OUTPUT 62.56-69.93: Today's comments include reference to non-GAAP financial measures. The definitions and reconciliations of these measures can be found in attachment 6. 
+asr:0: OUTPUT 69.95-74.41: Of our most recent press release and are available on our website with a link to this conference call. 
+asr:0: OUTPUT 75.20-82.86: Today's comments may also contain forward-looking information, and any forward-looking information is not a guarantee of future performance and actual future. 
+asr:0: OUTPUT 82.88-88.19: Financial performance and operating results can differ materially depending on a number of factors and assumptions. 
+asr:0: OUTPUT 89.21-95.82: Forward-looking information and the risk factors and assumptions are described in further detail in our fourth quarter earnings press release that we issued this morning. 
+asr:0: OUTPUT 96.20-102.38: As well as our most recent Form 10-K. And all of these documents are available on CDER, EDGAR, and on our website. 
+asr:0: OUTPUT 102.74-104.24: So I'd ask you to please refer to those. 
+asr:0: OUTPUT 104.97-113.77: So just before I turn it over to Brad for his opening remarks, once he's done and he and Dan go over our financial and operating performance for the quarter, we will be moving to the Q&A. 
+asr:0: OUTPUT 113.79-115.08: Session as usual. 
+asr:0: OUTPUT 115.16-116.54: So with that, I'll turn it over to Brad. 
+asr:0: OUTPUT 118.04-126.83: Good morning, everybody, and welcome to our fourth quarter 2021 earnings call. I hope each of you are doing well and are in good health to start the new year. 
+asr:0: OUTPUT 127.79-132.57: As we bring 2021 to a close, well, at least from a reporting point of view. 
+asr:0: OUTPUT 133.29-138.86: I would like to repeat something I said on the third quarter call. Wow, what a difference a year makes. 
+asr:0: OUTPUT 139.60-148.43: I'm very pleased to report that we finished the year strong with another quarter of solid operating performance and strong financial results. 
+asr:0: OUTPUT 149.07-162.52: In 2020, we focused heavily on ensuring Imperial was well positioned to take advantage of the market recovery through ongoing focus on reducing our cost structure, improving our reliability,. 
+asr:0: OUTPUT 162.54-165.77: And progressing high return brownfield projects. 
+asr:0: OUTPUT 166.73-171.49: And you can now see the benefits of those efforts in our 2021 results. 
+asr:0: OUTPUT 171.95-177.04: As we continue to make the most of the improving and attractive business environment. 
+asr:0: OUTPUT 177.60-185.37: This performance was reflected in all business lines, although we did see some pretty challenging weather to close out the year. 
+asr:0: OUTPUT 186.75-188.71: And as it has all year. 
+asr:0: OUTPUT 188.77-195.24: This performance allowed us to return a material amount of cash to shareholders in the quarter. 
+asr:0: OUTPUT 195.54-205.41: And in fact to accelerate the pace of these returns resulting in around $3 billion for the full year. 
+asr:0: OUTPUT 205.45-208.03: The highest level in the company's history. 
+asr:0: OUTPUT 209.63-215.26: Throughout 2021, we continued to manage the ongoing challenges due to COVID-19. 
+asr:0: OUTPUT 215.80-228.55: Our focus on maintaining the health and safety of our workforce was key, not only in minimizing disruptions to our operations, but also, and most importantly, in ensuring the well-being of our people. 
+asr:0: OUTPUT 229.29-238.30: From a business perspective, we saw a continued demand recovery throughout the year and significant improvement in commodity prices. 
+asr:0: OUTPUT 238.88-240.94: Both of which are reflected in our results. 
+asr:0: OUTPUT 241.56-247.99: Over the next few minutes, Dan and I will detail the results of what was a very strong quarter. 
+asr:0: OUTPUT 249.55-252.75: So now let's turn more specifically to the fourth quarter results. 
+asr:0: OUTPUT 253.23-262.78: Earnings for the fourth quarter were $813 million and our cash from operating activities was over $1.6 billion. 
+asr:0: OUTPUT 263.34-266.01: Both somewhat lower versus the third quarter. 
+asr:0: OUTPUT 266.73-274.87: Earnings were negatively impacted by approximately $160 million in one-time non-cash events. 
+asr:0: OUTPUT 275.58-281.00: And cash flow excluding working capital effects was up more than $100 million. 
+asr:0: OUTPUT 281.16-287.31: Reflecting our strong operating performance and the strong commodity fundamentals in the quarter. 
+asr:0: OUTPUT 288.45-295.22: Crude prices continue to strengthen through the quarter while both downstream and chemical margins remain strong. 
+asr:0: OUTPUT 296.54-303.30: Our upstream continued to perform very well, delivering its highest annual production in over 30 years. 
+asr:0: OUTPUT 304.12-314.05: And our downstream performed well also. We saw utilization of 97% for the quarter and higher product sales as demand continued to recover. 
+asr:0: OUTPUT 315.42-323.84: Our chemical business closed out the year with another strong quarter and delivered the highest full year earnings in over 30 years. 
+asr:0: OUTPUT 324.68-334.31: As expected, polyethylene margins did soften somewhat in the quarter, but remained strong and supported the best ever full year earnings for this business. 
+asr:0: OUTPUT 335.66-336.80: So in total. 
+asr:0: OUTPUT 336.82-345.83: Our strong cash flow generation in a period of strong commodity prices was underpinned by continued strong operational performance. 
+asr:0: OUTPUT 346.33-352.67: We were able to take advantage of attractive markets for crude, refined products and chemicals. 
+asr:0: OUTPUT 353.89-363.32: And all of this contributes to a very strong cash position, which continues to allow us to deliver on our priority of returning cash to shareholders. 
+asr:0: OUTPUT 364.00-372.07: In the quarter, we returned $950 million to our shareholders in the form of dividends and accelerated share buybacks. 
+asr:0: OUTPUT 373.33-379.90: For the year, we generated about $5.5 billion of cash from operating activities. 
+asr:0: OUTPUT 380.00-383.62: And around 4.5 billion dollars of free cash flow. 
+asr:0: OUTPUT 385.09-386.83: And we put this cash to good use. 
+asr:0: OUTPUT 387.33-392.57: Early in the year, we announced the largest quarterly dividend in the company's history. 
+asr:0: OUTPUT 392.59-401.08: And reinstituted our share buyback program, which we suspended in 2020 due to the business environment brought on by the pandemic. 
+asr:0: OUTPUT 402.24-407.87: And in the fourth quarter, we announced an acceleration of the renewed NCIB. 
+asr:0: OUTPUT 408.55-415.01: All of this resulted in the return of nearly three billion dollars of cash to our shareholders in the year. 
+asr:0: OUTPUT 416.52-422.00: 2021 marks the 27th consecutive year of dividend increases. 
+asr:0: OUTPUT 422.92-431.63: And he would have seen us continue this trend with the announcement this morning of another significant dividend increase of seven cents per share. 
+asr:0: OUTPUT 432.15-437.24: Which is around 26 percent, our largest dividend increase in history. 
+asr:0: OUTPUT 438.60-444.58: This equates to a 55% increase since the beginning of 2021. 
+asr:0: OUTPUT 444.60-449.85: And represents an increase of almost 80% since the beginning of 2019. 
+asr:0: OUTPUT 452.13-461.18: Going forward, following yesterday's completion of our accelerated NCIB and today's announcement of a sizable dividend increase. 
+asr:0: OUTPUT 461.58-469.33: We remain committed to returning surplus cash to shareholders and are actively evaluating our next steps in this area. 
+asr:0: OUTPUT 469.85-473.29: Including a potential substantial issue or bid. 
+asr:0: OUTPUT 474.43-482.74: We are unwavering in our commitment to a reliable and growing dividend and delivering further shareholder value and returns. 
+asr:0: OUTPUT 485.55-490.57: I'll now turn it over to Dan to go through our financial performance for the quarter in more detail. 
+asr:0: OUTPUT 491.53-499.86: Thanks, Brad. Getting into the financial results for the full year, we recorded net income of almost $2.5 billion, an increase. 
+asr:0: OUTPUT 499.92-512.69: Of around $3.2 billion excluding the one-time $1.2 billion non-cash impairment charge related to our unconventional business that we recognized in the fourth quarter of last year. 
+asr:0: OUTPUT 513.57-522.88: For the fourth quarter of 2021, our debt income was $813 million excluding identified items, that income increased almost $800 million. 
+asr:0: OUTPUT 522.90-524.76: From the fourth quarter of last year. 
+asr:0: OUTPUT 525.37-532.49: This increase was primarily driven by stronger realizations in the upstream and improved margins in the downstream and chemicals. 
+asr:0: OUTPUT 533.37-542.34: Now if we look sequentially, our fourth quarter income of $813 million is down about $95 million from the third quarter of this year. 
+asr:0: OUTPUT 542.74-550.97: As Brad noted, the fourth quarter results include a number of unrelated one-time non-cast charges totaling about $160 million. 
+asr:0: OUTPUT 552.07-553.69: Looking at each business line. 
+asr:0: OUTPUT 553.79-566.09: The upstream recorded net income of $545 million up $20 million from our third quarter net income of $524 million as a result of higher realizations and volumes. 
+asr:0: OUTPUT 566.13-574.45: Partly offset by higher operating expenses driven in part by mine progress spend at curl and higher energy costs. 
+asr:0: OUTPUT 575.20-580.64: Upstream results included a number of one-time charges of about $85 million. 
+asr:0: OUTPUT 582.62-591.67: The downstream recorded net income of $250 million down $43 million from net income of $293 million in the third quarter. 
+asr:0: OUTPUT 592.45-597.98: Downstream results included a number of one-time charges totaling around $75 million. 
+asr:0: OUTPUT 598.82-602.52: Chemicals continue to demonstrate strong performance in the fourth quarter. 
+asr:0: OUTPUT 602.90-614.85: With net income of $64 million, down about $60 million from the third quarter of this year as polyethylene prices moderated from the extremely strong levels seen in the third quarter. 
+asr:0: OUTPUT 617.00-618.26: Moving on to cash flow. 
+asr:0: OUTPUT 619.42-629.33: In the fourth quarter, we generated over $1.6 billion in cash flow from operating activities, an improvement of about $1.3 billion in the fourth quarter of 2020. 
+asr:0: OUTPUT 630.01-634.13: Our free cash flow for the quarter was just over $1.2 billion. 
+asr:0: OUTPUT 634.53-641.10: Looking at the full year, our strong results in capital discipline deliver free cash flow of almost $4.5 billion. 
+asr:0: OUTPUT 641.82-652.99: As we start 2022, strong commodity prices along with our continued cost and capital discipline position us well to generate very substantial free cash flow going forward. 
+asr:0: OUTPUT 654.67-664.16: Moving on to CapEx, capital expenditures in the fourth quarter totaled $441 million, up from $195 million in the fourth quarter of 2020. 
+asr:0: OUTPUT 665.07-671.43: Full year capital expenditures were aligned with revised guidance at just over $1.1 billion. 
+asr:0: OUTPUT 672.11-680.44: Capital spending in 2021 was focused on progressing key projects such as curl input tailings infrastructure and the Sarnia products pipeline. 
+asr:0: OUTPUT 680.86-686.87: We also continue to invest in improving volumes through projects like the solvent-assisted laser project. 
+asr:0: OUTPUT 686.89-692.13: At our McKeese's Cold Lake plant and improving the efficiency and cost structure of our operations. 
+asr:0: OUTPUT 692.31-696.76: By continuing to invest in projects like our autonomous haul truck fleet. 
+asr:0: OUTPUT 696.78-703.12: And related infrastructure as well as installing our first boiler flue gas heat recovery unit at CURL. 
+asr:0: OUTPUT 704.26-712.73: In December, we announced our 2022 capital guidance at $1.4 billion, reflecting our strong ongoing capital discipline. 
+asr:0: OUTPUT 713.39-715.50: In the upstream at curl. 
+asr:0: OUTPUT 715.52-726.77: Capital spending includes the ramp up of the curl input tailings project, ongoing investment in our autonomous truck fleet, and installing additional boiler flue gas heat recovery units. 
+asr:0: OUTPUT 727.23-737.06: At Cold Lake, we will work on developing phase one of our Grand Rapids project, continue to progress solvent-assisted laser, as well as infill drilling and well work. 
+asr:0: OUTPUT 738.12-746.95: And the downstream spending includes the completion and commissioning of the Sarnia products pipeline and spending on the Stratona renewable diesel project. 
+asr:0: OUTPUT 747.03-751.77: We will have an opportunity to discuss these plans in more detail at our investor day. 
+asr:0: OUTPUT 754.29-756.24: Shifting to shareholder distributions. 
+asr:0: OUTPUT 757.22-758.92: As I mentioned earlier,. 
+asr:0: OUTPUT 758.94-768.91: We generated about four and a half billion dollars of free cash flow in 2021. This performance supported record returns of almost $3 billion of cash to shareholders, including. 
+asr:0: OUTPUT 768.93-773.17: Returns of about $950 million in the fourth quarter alone. 
+asr:0: OUTPUT 773.87-782.84: We repurchased 17.5 million shares for $761 million in the quarter under an accelerated program, bringing our full year. 
+asr:0: OUTPUT 782.86-787.99: Buy back to 56 million shares for over $2.2 billion. 
+asr:0: OUTPUT 788.35-794.83: We pay dividends of $188 million in the fourth quarter and a total of over $700 million for the full year. 
+asr:0: OUTPUT 795.84-801.60: Despite these record distributions, we ended the year with about $2.2 billion of cash on hand. 
+asr:0: OUTPUT 802.24-809.27: Consistent with our previous announcement, we continued our accelerated NCIB purchases in January 2022. 
+asr:0: OUTPUT 809.29-812.41: And completed this program on January 31st. 
+asr:0: OUTPUT 813.03-818.06: We also declared an increased dividend of 34 cents per share payable on April 1. 
+asr:0: OUTPUT 818.82-831.19: Furthermore, as Brad mentioned, in light of our current cash balance and the strong business outlook, we are actively evaluating options for additional shareholder returns, including a potential substantial issuer bid. 
+asr:0: OUTPUT 831.81-835.20: Now I'll turn it back to Brad to discuss our operational performance. 
+asr:0: OUTPUT 836.78-846.75: Thanks, Dan. As we switch our focused operations, I would sum up the fourth quarter as being another strong quarter operationally across all business lines. 
+asr:0: OUTPUT 847.37-853.15: In the upstream, we average 445,000 oil equivalent barrels per day. 
+asr:0: OUTPUT 853.17-858.14: Which is an increase of 10,000 barrels per day versus the third quarter. 
+asr:0: OUTPUT 858.22-863.76: But is down 15,000 barrels per day versus the fourth quarter of 2020. 
+asr:0: OUTPUT 864.20-869.65: This decrease year on year was due mainly to an early start to winter. 
+asr:0: OUTPUT 870.47-878.18: In fact, Alberta saw several weeks of extreme arctic temperatures in the last half of December and early January. 
+asr:0: OUTPUT 878.20-883.42: Which as you know, presents some operational challenges, particularly in our mining operations. 
+asr:0: OUTPUT 884.80-886.87: At our investor day in late 2020. 
+asr:0: OUTPUT 887.35-895.36: We communicated our intent to focus the upstream organization's efforts on maximizing the performance of our existing asset base. 
+asr:0: OUTPUT 896.12-900.12: And given how the assets performed in 2021, I would say. 
+asr:0: OUTPUT 901.12-906.63: We are on that strategy and achieving it, and it's also paying off for us. 
+asr:0: OUTPUT 907.25-915.48: In fact, our full year 2021 production was 428,000 oil equivalent barrels per day. 
+asr:0: OUTPUT 915.54-920.82: Which is the highest in over 30 years and exceeded our guidance for the year. 
+asr:0: OUTPUT 922.14-927.83: I would also note the current market environment and the strong commodity prices we are seeing. 
+asr:0: OUTPUT 928.37-938.92: While in the fourth quarter there were a number of factors which drove the WTI WCS spreads wider, such as the phased startup of Line 3 and other smaller disruptions,. 
+asr:0: OUTPUT 939.18-944.72: We are now seeing narrower spreads and are well positioned to continue to benefit from this. 
+asr:0: OUTPUT 945.45-947.85: So now let's move on and talk about CURL. 
+asr:0: OUTPUT 949.27-954.93: Production at Curl in the fourth quarter averaged 270,000 barrels per day gross. 
+asr:0: OUTPUT 954.96-964.26: Which was down 4,000 barrels per day versus the third quarter, and 14,000 barrels per day lower than the fourth quarter of 2020. 
+asr:0: OUTPUT 964.92-974.13: As I mentioned, Western Canada saw an early start to winter, feeling the effects of a deep freeze that started late in the fourth quarter and extended into the new year. 
+asr:0: OUTPUT 974.63-983.82: And as we have talked about in the past, extended periods of extreme cold weather can be challenging for our operations, and particularly mining. 
+asr:0: OUTPUT 985.35-988.49: The result of these weather challenges... 
+asr:0: OUTPUT 988.51-998.12: Was lower than expected production in the fourth quarter at Curl, with an estimated impact of around 13,000 barrels per day in the quarter. 
+asr:0: OUTPUT 998.14-1002.42: Or just over 3,000 barrels per day on a full year basis. 
+asr:0: OUTPUT 1003.20-1012.23: The impacts of the extreme cold weather continue to linger into January, but I'm pleased to say that as of now our operations have essentially returned to normal. 
+asr:0: OUTPUT 1013.43-1018.58: I would also like to take a moment to recognize the tremendous dedication of our workforce. 
+asr:0: OUTPUT 1018.74-1028.73: Whose efforts to safely maintain our operations in these extreme conditions and mitigate the production impacts are a huge credit to the organization. 
+asr:0: OUTPUT 1029.99-1038.04: Despite the weather impacts, total full year production for curl was 263,000 barrels per day. 
+asr:0: OUTPUT 1038.08-1040.10: The highest in the assets history. 
+asr:0: OUTPUT 1040.74-1044.10: This compares to 222,000. 
+asr:0: OUTPUT 1044.12-1051.09: Barrels per day in 2020, an increase of 41,000 barrels per day for the year. 
+asr:0: OUTPUT 1052.09-1057.14: And its curl continues to deliver on its production and reliability commitments. 
+asr:0: OUTPUT 1057.16-1063.36: Including the elimination of the second annual turnaround a full year ahead of schedule. 
+asr:0: OUTPUT 1064.86-1074.87: Looking forward, we continue to be excited about CURL's potential as we make progress on our accelerated journey to 280,000 barrels per day. 
+asr:0: OUTPUT 1075.98-1078.48: And despite the slower start to the year. 
+asr:0: OUTPUT 1078.54-1084.58: We reiterate our 2022 guidance of 265 to 270,000. 
+asr:0: OUTPUT 1084.60-1089.21: Barrels per day, reflecting the next step in production growth at the site. 
+asr:0: OUTPUT 1090.89-1099.54: I would also note that this 2022 guidance reflects one major plan turnaround expected to be executed in the second quarter of the year. 
+asr:0: OUTPUT 1101.16-1109.01: I'd like to wrap up our discussion about CURL with some comments about unit costs, another positive reflection of the asset's performance. 
+asr:0: OUTPUT 1110.37-1112.59: As I mentioned on our third quarter call,. 
+asr:0: OUTPUT 1112.61-1116.04: Continued pressure from higher energy prices. 
+asr:0: OUTPUT 1116.06-1125.49: And the strength of the Canadian dollar presented some challenges in meeting our unit cash cost target of US $20 per barrel. 
+asr:0: OUTPUT 1126.85-1139.94: In 2021, higher energy costs and the strength of the Canadian dollar represented approximately an incremental $2.50 per barrel relative to 2020. 
+asr:0: OUTPUT 1140.84-1144.56: However, if we normalize for energy costs in Forex,. 
+asr:0: OUTPUT 1144.58-1149.57: Both items outside our control, our unit costs would have achieved. 
+asr:0: OUTPUT 1149.59-1157.10: A reduction of almost $1 per barrel from 2020 and been below the target of US $20 per barrel. 
+asr:0: OUTPUT 1159.76-1161.86: Close management of unit costs. 
+asr:0: OUTPUT 1161.88-1167.07: Continues to be core to our approach to maximizing profitability at Curl. 
+asr:0: OUTPUT 1167.43-1172.37: And we remain focused on achieving further unit cost reductions as we go forward. 
+asr:0: OUTPUT 1174.01-1175.46: So now let's talk about Cold Lake. 
+asr:0: OUTPUT 1176.58-1180.08: Cold Lake has been a really positive story throughout 2021. 
+asr:0: OUTPUT 1180.74-1189.21: Production for the quarter averaged 142,000 barrels per day, which was up 7,000 barrels per day versus the third quarter. 
+asr:0: OUTPUT 1189.95-1193.83: And 6,000 barrels per day higher than the fourth quarter of 2020. 
+asr:0: OUTPUT 1195.08-1201.50: This strong performance reflects the benefits of our continued focus on production, optimization, and reliability. 
+asr:0: OUTPUT 1202.30-1208.41: And while Cold Lake experienced the same extreme cold temperatures in December,. 
+asr:0: OUTPUT 1208.63-1212.33: It did not have a material impact given the nature of this operation. 
+asr:0: OUTPUT 1213.65-1222.98: For the year, production averaged 140,000 barrels per day, exceeding our updated guidance of 135,000 barrels per day. 
+asr:0: OUTPUT 1224.12-1230.41: Our full year production at Cold Lake was driven by significant improvement to the base performance. 
+asr:0: OUTPUT 1230.43-1235.50: Highlighting the effectiveness of our strategy to focus on reliability and optimization. 
+asr:0: OUTPUT 1236.34-1245.27: We also saw the benefits from recent drilling investments in our operations, which contributed almost 2,000 barrels per day of production for the year. 
+asr:0: OUTPUT 1246.41-1250.99: We are looking forward to continuing to benefit from these improvements in the coming year. 
+asr:0: OUTPUT 1251.51-1259.50: And for 2022, we have issued guidance of 135,000 to 140,000 barrels per day. 
+asr:0: OUTPUT 1259.52-1264.18: For Cold Lake, which includes a typical plant turnaround in the second quarter. 
+asr:0: OUTPUT 1267.09-1272.97: Now at Syncrude, Imperial's share of production for the quarter averaged 79,000 barrels per day. 
+asr:0: OUTPUT 1272.99-1277.98: Which was up slightly from 78,000 barrels per day in the third quarter. 
+asr:0: OUTPUT 1278.00-1282.98: But down 8,000 barrels per day from the fourth quarter of 2020. 
+asr:0: OUTPUT 1283.72-1291.31: Unplanned downtime coupled with extreme cold weather presented challenges for these operations in December. 
+asr:0: OUTPUT 1291.63-1296.70: As detailed in the statement issued by the operator Suncor earlier in January. 
+asr:0: OUTPUT 1297.86-1303.74: We estimate the impact to be close to 5,000 barrels per day, our share in the quarter. 
+asr:0: OUTPUT 1305.01-1314.09: Imperial share of full year production averaged 71,000 barrels per day, an increase of 2,000 barrels per day versus 2020. 
+asr:0: OUTPUT 1315.36-1320.64: As the ownership continues its focus on improving asset reliability. 
+asr:0: OUTPUT 1320.68-1326.03: We reiterate our guidance for 2022 of 75 to 80,000 barrels per day. 
+asr:0: OUTPUT 1326.63-1333.71: This guidance reflects the impacts of planned maintenance in the second quarter and a major COCR turnaround in the third quarter. 
+asr:0: OUTPUT 1335.14-1339.52: 2021 also marked a change in the operating structure at Syncrude. 
+asr:0: OUTPUT 1339.94-1348.39: And we remain confident that this change will better support the continued focus on improved reliability and cost performance for this asset. 
+asr:0: OUTPUT 1350.45-1351.87: So now moving to the downstream. 
+asr:0: OUTPUT 1352.45-1357.42: We refined an average of 416,000 barrels per day in the fourth quarter. 
+asr:0: OUTPUT 1357.44-1362.18: Which was up 12,000 barrels a day versus the third quarter of 2021. 
+asr:0: OUTPUT 1362.20-1367.47: And up 57,000 barrels per day versus the fourth quarter of 2020. 
+asr:0: OUTPUT 1367.81-1375.46: Reflecting the strong operating performance and the continuation of demand recovery we have seen throughout 2021. 
+asr:0: OUTPUT 1377.16-1386.17: The fourth quarter throughput equates to a utilization of 97%, which is the highest fourth quarter utilization in over 30 years. 
+asr:0: OUTPUT 1387.09-1394.77: This represents a 3% increase over the third quarter, bringing our full year utilization to 89%. 
+asr:0: OUTPUT 1394.79-1398.96: Which is right on the guidance we provided for 2021. 
+asr:0: OUTPUT 1399.54-1408.11: And for the year, throughput was 379,000 barrels per day, up 39,000 barrels per day versus 2020. 
+asr:0: OUTPUT 1409.91-1411.81: Looking forward to 2022. 
+asr:0: OUTPUT 1412.63-1421.96: We have a fairly light turnaround year planned, supporting our increased guidance for 2022 of 92 to 94% utilization. 
+asr:0: OUTPUT 1423.40-1431.13: Looking at cash operating costs, our downstream business continues to do an exceptional job in managing its operating costs. 
+asr:0: OUTPUT 1431.61-1436.60: Full year cash operating costs were down $70 million compared to 2020. 
+asr:0: OUTPUT 1436.62-1443.34: And down even more when normalizing for the rising energy prices we saw in 2021. 
+asr:0: OUTPUT 1444.84-1457.80: This decrease is especially notable because over the same period, our refining throughput increased by 39,000 barrels per day and our petroleum product sales grew by 35,000 barrels per day. 
+asr:0: OUTPUT 1459.70-1465.89: So we are refining more barrels and selling more products, and we're doing it at a lower absolute cost. 
+asr:0: OUTPUT 1466.87-1472.53: And again, this was a year of significant turnaround activity and higher energy costs. 
+asr:0: OUTPUT 1475.08-1480.92: Petroleum product sales in the fourth quarter were 496,000 barrels per day. 
+asr:0: OUTPUT 1481.14-1486.89: Up 11,000 barrels per day from the third quarter on continued strong demands. 
+asr:0: OUTPUT 1486.91-1496.66: Up 80,000 barrels per day from the fourth quarter of 2020, reflecting significant recovery from the pandemic-related softness of 2020. 
+asr:0: OUTPUT 1499.40-1505.25: We continue to see industry demand trends pretty consistent with what we saw through 2021. 
+asr:0: OUTPUT 1506.41-1518.08: With gasoline and diesel demands hovering around 90 to 95% of historical levels, and jet continuing to improve, averaging around 70 to 75%. 
+asr:0: OUTPUT 1518.92-1527.25: However, as mentioned, JET continues to be somewhat volatile as we experience subsequent waves of COVID-19. 
+asr:0: OUTPUT 1527.27-1530.11: And the associated restrictions related to travel. 
+asr:0: OUTPUT 1531.71-1538.38: Also of note is that our jet sales volumes continue to track about 10% ahead of industry. 
+asr:0: OUTPUT 1538.74-1546.17: Predominantly related to competitive gains, we were able to capture in 2021, increasing our overall market share. 
+asr:0: OUTPUT 1547.91-1557.90: And with respect to downstream margins, unlike crude prices, our fourth quarter crack spreads continue to hover around the middle of the five-year band. 
+asr:0: OUTPUT 1557.92-1564.04: Which reflects fairly steady improvement over early 2020 at the onset of the pandemic. 
+asr:0: OUTPUT 1565.15-1577.10: And despite ongoing demand volatility, our continued focus on reliable and efficient operations ensures we are capturing as much value as possible in the current downstream pricing environment. 
+asr:0: OUTPUT 1578.52-1580.20: Looking forward to 2022. 
+asr:0: OUTPUT 1580.84-1588.21: The outlook is positive as we continue to see improvements in the market environment, driving further strengthening of our downstream business. 
+asr:0: OUTPUT 1588.23-1594.33: Which supports our continued journey back to typical earnings and cash flows for this business segment. 
+asr:0: OUTPUT 1595.70-1603.06: And I'll wrap up our operating results with chemicals. 2021 was an incredible year for this key part of our business. 
+asr:0: OUTPUT 1603.38-1607.85: And I just can't say enough about how pleased I am with the performance it delivered. 
+asr:0: OUTPUT 1607.87-1611.87: Making the most of capturing a very favorable market environment. 
+asr:0: OUTPUT 1613.01-1616.10: The fourth quarter was another solid quarter. 
+asr:0: OUTPUT 1616.50-1624.98: Earnings in the fourth quarter were $64 million, supported by continued strong production, reliability, and margins. 
+asr:0: OUTPUT 1625.43-1634.55: Fourth quarter earnings were down $57 million versus the third quarter, which I will remind you was the highest quarterly earnings in over 30 years. 
+asr:0: OUTPUT 1635.54-1641.38: This reduction was driven largely by expected softening of polyethylene margins. 
+asr:0: OUTPUT 1642.12-1650.85: And while margins did soften somewhat in the quarter, they still remain quite strong. And that sets the chemical business up well for a strong 2020. 
+asr:0: OUTPUT 1652.89-1656.84: Four-year chemical earnings were $361 million. 
+asr:0: OUTPUT 1656.96-1664.72: 74 million higher than the previous full year record of $287 million set in 2015. 
+asr:0: OUTPUT 1665.29-1670.79: An outstanding year for our chemical business, which continues to be a differentiator for us. 
+asr:0: OUTPUT 1671.41-1678.40: The integrated nature of our business supports a long history of profitability, even in a year like 2020. 
+asr:0: OUTPUT 1678.52-1684.32: And we expect this to continue even as we see polyethylene prices normalizing somewhat. 
+asr:0: OUTPUT 1686.41-1691.13: And just before wrapping up, I wanted to highlight a couple of other important items of note. 
+asr:0: OUTPUT 1692.09-1702.06: First, we announced our plans to market our interest in XTO Energy Canada a few weeks ago, which as you will recall is our unconventional business. 
+asr:0: OUTPUT 1702.98-1712.15: We have been quite open recently about where this business fits into our longer term upstream strategy and our decision to market the assets is fully consistent with this. 
+asr:0: OUTPUT 1712.77-1716.56: To be clear though, no decision has been made to sell these assets. 
+asr:0: OUTPUT 1717.02-1720.82: But in our view, we felt it was appropriate to test the market. 
+asr:0: OUTPUT 1720.88-1727.39: In the event there is an opportunity to generate increased value through a potential sales transaction. 
+asr:0: OUTPUT 1729.03-1731.41: I also wanted to highlight the announcements. 
+asr:0: OUTPUT 1731.51-1742.12: We made recently on Imperial's plans for further reductions in greenhouse gas emissions intensity over the next decade to help support Canada's net zero goals. 
+asr:0: OUTPUT 1742.82-1750.29: Imperial has set a 2030 goal to reduce scope 1 and scope 2 greenhouse gas emissions intensity. 
+asr:0: OUTPUT 1750.31-1756.56: Of our operated oil sands facilities by 30 percent compared with 2016 levels. 
+asr:0: OUTPUT 1756.98-1763.42: This target builds on our previous 2023 commitment, which we are well on track to deliver. 
+asr:0: OUTPUT 1764.62-1772.41: I'm quite proud of the progress we've made to date in reducing the intensity of our greenhouse gas emissions at our operated oil sands assets. 
+asr:0: OUTPUT 1772.79-1780.28: And our recent announcement is another step in our journey to net zero at our operated oil sands assets by 2050. 
+asr:0: OUTPUT 1782.48-1792.19: So in closing, another strong quarter which brings to a close a year of very strong results, both operationally and financially. 
+asr:0: OUTPUT 1793.17-1801.22: As you have heard me say before, the decisions we have made and the work the organization has done over the past several quarters. 
+asr:0: OUTPUT 1801.24-1805.83: Is allowing us to take maximum advantage of the prevailing market conditions. 
+asr:0: OUTPUT 1807.17-1813.37: And this performance supports our ongoing commitment to drive increased shareholder value. 
+asr:0: OUTPUT 1813.39-1817.24: And our continued commitment to shareholder returns. 
+asr:0: OUTPUT 1818.28-1820.00: As you heard Dan and I mentioned. 
+asr:0: OUTPUT 1820.06-1829.23: In 2021, we returned nearly $3 billion to our shareholders via our reliable and growing dividend and share buybacks. 
+asr:0: OUTPUT 1830.97-1835.70: And we are also excited to reinforce our commitments to sustainability. 
+asr:0: OUTPUT 1836.22-1841.26: Not only with our recent announced greenhouse gas intensity reduction target. 
+asr:0: OUTPUT 1841.28-1847.73: But with our participation in the Pathways Initiative, an unprecedented industry alliance. 
+asr:0: OUTPUT 1848.89-1855.76: A long-term focus on reducing our environmental footprint through investments in things like solvent technologies. 
+asr:0: OUTPUT 1855.78-1860.64: And carbon capture and storage underpin our confidence in meeting these goals. 
+asr:0: OUTPUT 1862.28-1864.76: Looking forward to 2022. 
+asr:0: OUTPUT 1864.80-1873.43: We continue to see support for commodity prices and fully expect to deliver another year of strong operational performance. 
+asr:0: OUTPUT 1873.89-1879.84: Underpinning our ability to take utmost advantage of the current market conditions. 
+asr:0: OUTPUT 1881.06-1890.19: We will continue our focus on reduced emissions and sustainability, including our plans for renewable diesel at our Strathcona refinery. 
+asr:0: OUTPUT 1891.75-1897.16: We will remain disciplined with respect to spending levels, both operating and capital. 
+asr:0: OUTPUT 1899.38-1905.25: And we will also continue to return cash in excess of these needs to our shareholders. 
+asr:0: OUTPUT 1906.61-1910.15: And finally, I'd like to thank all of you for your continued support. 
+asr:0: OUTPUT 1911.17-1916.86: I hope you're as excited about 2022 as we are. Thank you and back to you, Dave. 
+asr:0: OUTPUT 1918.60-1926.39: We're going to move to the Q&A now. We did have a couple of questions pre-submitted, which we'll get to first, and then we'll go to the live Q&A line. 
+asr:0: OUTPUT 1927.01-1929.73: So the two questions came from Phil Skolnick at Eight Capital. 
+asr:0: OUTPUT 1930.31-1938.14: The first one, what are you and ExxonMobil looking for in order to make a decision on marketing the XTO assets? Would you consider selling it in pieces? 
+asr:0: OUTPUT 1939.90-1943.42: Yeah, thanks for that question, Phil. 
+asr:0: OUTPUT 1943.44-1952.73: As you know, we announced earlier in January our intention to market those assets jointly with ExxonMobil. 
+asr:0: OUTPUT 1953.49-1958.28: And in fact, we've progressed those activities now, have the data room open. 
+asr:0: OUTPUT 1959.10-1961.54: There's a lot of interest. 
+asr:0: OUTPUT 1961.74-1977.48: Our decision around marketing was really driven by the strategic work we have done over the last couple of years where we have prioritized our focus on certain assets in our portfolio. 
+asr:0: OUTPUT 1977.54-1981.78: And really prioritized our capital as well. 
+asr:0: OUTPUT 1982.18-1984.16: And through that work,. 
+asr:0: OUTPUT 1984.18-1993.55: We have concluded that we have higher value opportunities with our core mining assets. 
+asr:0: OUTPUT 1994.05-1996.02: And as such,. 
+asr:0: OUTPUT 1996.04-2006.71: You'll recall we took an impairment decision in late 2020 for some of the unconventional assets that we had. 
+asr:0: OUTPUT 2006.73-2008.59: Not included in our development plans. 
+asr:0: OUTPUT 2009.07-2014.19: So again, this is really a continuation of that strategy. 
+asr:0: OUTPUT 2014.71-2017.46: We have not made the decision to sell though. 
+asr:0: OUTPUT 2017.76-2026.13: So we're going to be looking at how do we create maximum value for us, for our shareholders. 
+asr:0: OUTPUT 2028.25-2029.93: Prior to. 
+asr:0: OUTPUT 2029.95-2039.24: To putting the assets in the marketplace, we had received several unsolicited offers for those assets. 
+asr:0: OUTPUT 2040.06-2041.72: And we shouldn't be surprised by that. 
+asr:0: OUTPUT 2042.22-2051.47: There's been a lot of consolidation that's occurring in the Motney and DuVernay Shale resource plays. 
+asr:0: OUTPUT 2051.95-2059.56: So it's really the culmination of all that that drove us to put those assets in the marketplace. 
+asr:0: OUTPUT 2060.00-2062.66: And uh... And and we'll see what we get back. 
+asr:0: OUTPUT 2063.96-2073.35: It is a very large resource play, over 650,000 net acres. 
+asr:0: OUTPUT 2075.03-2077.10: And so from a. 
+asr:0: OUTPUT 2077.14-2085.53: From a transaction structure, we are open to selling it in pieces. 
+asr:0: OUTPUT 2086.05-2095.20: We do know that there are some industry players that are primarily focused in the Monteney. There are others that are primarily focused in the Duvernay. 
+asr:0: OUTPUT 2096.18-2105.17: There's some that are in both. So we are open to considering alternate structures for the transaction. 
+asr:0: OUTPUT 2106.09-2108.71: The key is going to be what delivers the most value. 
+asr:0: OUTPUT 2109.03-2119.56: And how does that compare to our view of value if we were to continue to retain the asset and develop it further ourselves? 
+asr:0: OUTPUT 2120.00-2128.71: So we're excited to see what comes out of the data room and the bids in another month or so. Thanks for that question. 
+asr:0: OUTPUT 2129.71-2136.66: Okay, and Phil's follow-up, I think Dan, I'll direct straight to you, is are you still considering an SIB given the dividend increase? 
+asr:0: OUTPUT 2137.70-2145.57: Thanks, Phil. We talked about this, you know, in our kind of prepared remarks, but it's probably worth talking a little more. 
+asr:0: OUTPUT 2145.63-2147.15: I mean the short answer is yes. 
+asr:0: OUTPUT 2147.55-2156.92: We are considering an SIB and just stepping back, we have a longstanding philosophy, I think as you know, to return surplus cash to shareholders. 
+asr:0: OUTPUT 2157.42-2163.82: It starts with a reliable and growing dividend, which we've demonstrated over many years, and of course this morning's announcement of a. 
+asr:0: OUTPUT 2163.84-2167.43: Sizable increases is another step in that. 
+asr:0: OUTPUT 2167.45-2168.63: In that direction. 
+asr:0: OUTPUT 2169.29-2177.08: After dividends, our next vehicle for surplus cash is the NCIB. It's simple, efficient, and flexible. 
+asr:0: OUTPUT 2178.18-2187.51: We used it certainly to the max in 2021. We had a program where we started in May, June. We bought a bunch of shares. We launched a new program in June. 
+asr:0: OUTPUT 2187.93-2191.15: We ended up accelerating that to wrap up early. 
+asr:0: OUTPUT 2192.01-2199.58: Over the course of 2021, we repurchased over $2.2 billion through that program. 
+asr:0: OUTPUT 2199.60-2206.77: Just, you know, January 31st, yesterday, we wrapped up that program with our acceleration through January 31st of another. 
+asr:0: OUTPUT 2206.87-2212.65: Incremental $450 million, so over 13 months about $2.7 billion. 
+asr:0: OUTPUT 2212.67-2221.36: Through the NCIB. But as you know as well, we're limited to 5% of outstanding shares annually in that program. 
+asr:0: OUTPUT 2222.22-2227.95: Our next renewal would be late June of this year. We certainly plan to do that. 
+asr:0: OUTPUT 2229.05-2234.13: But looking at our cash balances and our outlook, you know, for strong cash flow. 
+asr:0: OUTPUT 2234.49-2239.46: We're anticipating taking action on shareholder returns, additional action before. 
+asr:0: OUTPUT 2239.48-2246.77: Renewal of the NCIB in late June. We haven't made a final decision, but we've certainly heard the market's feedback. 
+asr:0: OUTPUT 2246.79-2251.49: A strong preference for an SIB and that's our lead case at this point. 
+asr:0: OUTPUT 2253.15-2258.26: Operator, can we turn it over to you now, please, to go to the live Q&A line? 
+asr:0: OUTPUT 2260.52-2267.75: Thank you. As a reminder, to ask a question, you will need to press star one on your telephone. To withdraw your question, press the pound key. 
+asr:0: OUTPUT 2268.47-2273.63: Our first question comes from Dennis Fong with CIBC World Market. You may proceed with your question. 
+asr:0: OUTPUT 2275.26-2277.64: Good morning and thanks for taking my questions. 
+asr:0: OUTPUT 2278.16-2285.35: The first one maybe follows in line with Dan's comment there on returning cash back to shareholders. 
+asr:0: OUTPUT 2285.63-2289.19: Obviously, Imperial Oil is in an enviable position with respect to leverage. 
+asr:0: OUTPUT 2289.53-2294.71: Can you describe what you view as the ideal capital structure for the company? 
+asr:0: OUTPUT 2295.01-2304.98: And how we should be thinking about that, obviously, balancing the available free cash flow that you're generating, the relative CAPEX that you have already outlined with your 2022 guidance. 
+asr:0: OUTPUT 2305.01-2309.85: As well as the various other levers that you have in returning cash back to shareholders. Thanks. 
+asr:0: OUTPUT 2312.67-2319.46: I'll turn that question over to Dan. He can build on his comments about shareholder returns. 
+asr:0: OUTPUT 2320.16-2328.39: Yeah, look, you know, we could, we have about $5 billion of debt, which we've had for, you know, pretty stable for a number of years. 
+asr:0: OUTPUT 2328.83-2336.18: We feel comfortable with that level of debt, you know, given our leverage on an absolute basis and relative to peers is low. 
+asr:0: OUTPUT 2336.86-2346.35: It's not our first move to repay the debt. So to the extent we have surplus cash, once we've exhausted the NCIB,. 
+asr:0: OUTPUT 2346.49-2350.55: It's used other mechanisms to return that to shareholders. 
+asr:0: OUTPUT 2351.31-2361.10: That's maybe a short answer, but I think that is that in a nutshell. And you see, we have a fairly, as I mentioned in my remarks, a fairly modest capital program. 
+asr:0: OUTPUT 2361.12-2362.54: In 2022. 
+asr:0: OUTPUT 2362.90-2371.37: And, you know, at current price levels, we anticipate generating significant free cash flow in addition to, you know, a pretty significant cash balance right now. 
+asr:0: OUTPUT 2374.43-2381.84: Great. Great. Thanks. And my second question here is more on the op-side, so they're maybe directed to you, Brad, or to Simon. 
+asr:0: OUTPUT 2382.94-2392.01: Just with respect to Cold Lake, you've obviously seen fairly strong production levels and a lot of success from the optimization side. 
+asr:0: OUTPUT 2392.03-2396.26: You mentioned a little bit around laser and the utilization of solvents. 
+asr:0: OUTPUT 2396.32-2402.04: Just curious as to how the optimization is continuing, what maybe some of the next steps happen to be. 
+asr:0: OUTPUT 2402.08-2410.93: And what does that potentially mean for a project like Grand Rapids, which was potentially going to utilize existing steam infrastructure in the area? Thanks. 
+asr:0: OUTPUT 2412.67-2415.26: Yeah, thanks for that question, Dennis. 
+asr:0: OUTPUT 2416.50-2421.66: You know, we are super excited about the progress we're making at Cold Lake. 
+asr:0: OUTPUT 2422.54-2431.11: We have put a lot of focus into optimizing the reservoir performance of those assets. 
+asr:0: OUTPUT 2431.13-2434.31: Continue to focus on reliability as well. 
+asr:0: OUTPUT 2434.67-2440.82: And then, as you mentioned, and we've commented on this call and in the past,. 
+asr:0: OUTPUT 2441.60-2456.08: We continue to look for ways to employ next generation solvent technologies like laser that achieve multiple objectives for us. 
+asr:0: OUTPUT 2456.26-2461.54: They do have the benefit of enhancing reservoir performance. 
+asr:0: OUTPUT 2461.66-2470.99: But equally important, they've reduced the greenhouse gas emissions because they have lower steam and energy intensity. 
+asr:0: OUTPUT 2471.49-2476.32: And so, you know, it is a continued strategy of ours. 
+asr:0: OUTPUT 2476.34-2484.60: To continue to deploy solvent technologies to enhance cold lakes performance. 
+asr:0: OUTPUT 2485.51-2495.38: Next on the docket is Grand Rapids Phase I, which will employ SASAG-D technology. 
+asr:0: OUTPUT 2495.86-2498.56: And then looking a little bit longer term. 
+asr:0: OUTPUT 2499.12-2506.05: We're evaluating application of a cichlid solvent process. 
+asr:0: OUTPUT 2506.17-2522.26: CSP, which allows us to replace steam with propane and achieve even further reductions in greenhouse gas intensity while improving reservoir performance. In the case of. 
+asr:0: OUTPUT 2522.28-2523.48: Of CSP. 
+asr:0: OUTPUT 2524.04-2530.59: We've already piloted that quite successfully, and so now looking at the further application. 
+asr:0: OUTPUT 2531.03-2551.87: I think over the coming quarters and years you're going to continue to hear us talk about the evolution of these technologies, how they're integral to both our reservoir optimization but also our greenhouse gas intensity reduction objectives. 
+asr:0: OUTPUT 2552.03-2560.12: And I'm sure in our upcoming investor day, we'll spend some more time talking about each of those and how they fit in. 
+asr:0: OUTPUT 2560.36-2562.14: Thanks for the question and again. 
+asr:0: OUTPUT 2562.44-2566.37: We're very excited about our actions at Cold Lake. 
+asr:0: OUTPUT 2573.51-2576.72: Comes from Manav Gupta with Credit Suisse. You may proceed with your question. 
+asr:0: OUTPUT 2580.00-2583.18: This question is more on the renewable diesel side. 
+asr:0: OUTPUT 2583.52-2587.55: I'm just trying to understand if you can give us some preliminary work. 
+asr:0: OUTPUT 2587.87-2593.85: What kind of feedstocks are you looking to run? Soyabean, canola, I mean you are in that vegetable oil belt. 
+asr:0: OUTPUT 2593.91-2598.16: Is it primarily going to be vegetable oils? Can you bring in some use cooking oil? 
+asr:0: OUTPUT 2598.18-2599.82: Some animal fats. 
+asr:0: OUTPUT 2600.12-2603.42: And so if I could get some understanding of that. 
+asr:0: OUTPUT 2605.07-2613.99: Yeah, thanks for that question. And again, we're going to spend some more time at Investor Day describing this project. 
+asr:0: OUTPUT 2614.01-2616.84: Kind of that. 
+asr:0: OUTPUT 2616.86-2620.32: The foundation of your question. 
+asr:0: OUTPUT 2620.44-2623.92: Fundamentally, this is going to be plant-based materials. 
+asr:0: OUTPUT 2624.42-2633.57: We're not looking at animal fat or other sorts of supply. 
+asr:0: OUTPUT 2633.69-2641.50: It's very much focused on plant-based materials that are sourced generally in the region. 
+asr:0: OUTPUT 2642.64-2645.63: You know we haven't talked explicitly about. 
+asr:0: OUTPUT 2645.65-2653.59: The specific type of plant, we're still in commercial discussions with potential suppliers. 
+asr:0: OUTPUT 2653.97-2657.24: And so those. 
+asr:0: OUTPUT 2657.26-2663.22: Commercial discussions are still sensitive around the type, but needless to say there's. 
+asr:0: OUTPUT 2663.24-2679.42: There's an abundant supply of available materials and good options for us that are going to allow us to ultimately produce 20,000 barrels a day of very competitive supply. 
+asr:0: OUTPUT 2680.00-2683.42: And so we're really excited about this project. 
+asr:0: OUTPUT 2683.70-2690.31: Driven by the overall benefits it will bring to Canada. 
+asr:0: OUTPUT 2690.37-2693.73: In achieving, you know,. 
+asr:0: OUTPUT 2693.75-2696.62: Achieving our. 
+asr:0: OUTPUT 2696.64-2705.17: Total emissions objectives of net zero by 2050, this is a key contributor to reducing scope three emissions. 
+asr:0: OUTPUT 2707.75-2709.73: Perfect. 
+asr:0: OUTPUT 2710.19-2719.46: Again, keeping on the line of emission reductions, you and others have obviously committed to carbon capture and sequestration. 
+asr:0: OUTPUT 2720.38-2723.20: It was a big project kind of which was announced. 
+asr:0: OUTPUT 2724.38-2730.61: How is it progressing? How are the partner commitments? What are you looking for from the government in terms of help? 
+asr:0: OUTPUT 2731.27-2736.22: It's an excellent project, but we don't get too many details on that carbon capture and sequestration project. 
+asr:0: OUTPUT 2736.46-2743.14: So if you could just help us understand how the discussions are progressing between you and all the others and the government for that project. 
+asr:0: OUTPUT 2744.56-2752.83: Yeah, thanks for the question. I'm excited to talk about it. We're making, I think, really, really good progress. 
+asr:0: OUTPUT 2753.15-2758.42: You know, this is a very complex undertaking to achieve. 
+asr:0: OUTPUT 2758.44-2770.45: Net zero by 2050 and the alliance we've established amongst the member companies is unprecedented, the level of cooperation. 
+asr:0: OUTPUT 2770.75-2776.44: The amount of investment that will ultimately be required to get to net zero. 
+asr:0: OUTPUT 2776.86-2785.11: We've estimated as $70-75 billion from now to 2050. 
+asr:0: OUTPUT 2785.33-2787.23: It's a huge undertaking. 
+asr:0: OUTPUT 2787.53-2792.73: It's not just one single project, it's multiple projects. 
+asr:0: OUTPUT 2793.59-2798.64: There's a foundational project which is building this large trunk line. 
+asr:0: OUTPUT 2798.72-2802.92: That will allow the transport of carbon. 
+asr:0: OUTPUT 2803.00-2808.87: That's captured in the Fort McMurray area all the way down to the Cold Lake region. 
+asr:0: OUTPUT 2809.43-2818.16: Where we've applied with the government for access to poor space so we can sequester the carbon there. 
+asr:0: OUTPUT 2819.38-2824.68: So, you know, building this large trunk line is a significant project. 
+asr:0: OUTPUT 2825.07-2833.13: But then there's several other projects around the capture side at each of the individual sites where we're. 
+asr:0: OUTPUT 2833.15-2836.54: You know, producing hydrocarbons today. 
+asr:0: OUTPUT 2838.22-2842.42: And then on top of that, as I just talked at Cold Lake. 
+asr:0: OUTPUT 2842.78-2852.21: You know, not only are we focused on capturing carbon and transporting it to a site to store it,. 
+asr:0: OUTPUT 2852.65-2861.38: But we're also looking at how can we fundamentally reduce the amount of carbon that's generated. And so things like solvent technologies are quite important there. 
+asr:0: OUTPUT 2861.80-2862.88: So,. 
+asr:0: OUTPUT 2862.92-2869.79: A lot of moving pieces, if you will, to progress this project. But, you know,. 
+asr:0: OUTPUT 2869.83-2880.28: We as an alliance have been able to develop preliminary plans around. 
+asr:0: OUTPUT 2880.30-2883.96: Kind of the sequence of the trunkline project. 
+asr:0: OUTPUT 2884.12-2889.91: The carbon capture projects, as well as other technology initiatives. 
+asr:0: OUTPUT 2891.13-2896.80: You know, we will talk more about that on Investor Day, but I think it's moving quite well. 
+asr:0: OUTPUT 2897.80-2899.76: We are also... 
+asr:0: OUTPUT 2899.78-2910.55: Spending a lot of time with both the federal and provincial government around enabling steps that are necessary to progress these huge investments. 
+asr:0: OUTPUT 2911.27-2919.84: Specifically, we are looking for investment tax credit and other financial support from the government. 
+asr:0: OUTPUT 2920.00-2924.90: Given the nature of these investments, the risks associated with them. 
+asr:0: OUTPUT 2925.31-2928.27: So those discussions are ongoing. 
+asr:0: OUTPUT 2930.45-2935.34: The cooperation amongst the companies is just exceptional. 
+asr:0: OUTPUT 2937.04-2946.83: In fact, as CEOs, the six companies, we get together every single week. 
+asr:0: OUTPUT 2947.23-2955.48: And are having discussions about the progress of the project, key priorities, how do we keep it moving along. 
+asr:0: OUTPUT 2955.58-2957.40: You know, what are some of the key issues. 
+asr:0: OUTPUT 2957.68-2967.45: And again, as I mentioned, we're also actively engaged with the government. So as CEOs, we're meeting directly with key officials. 
+asr:0: OUTPUT 2967.83-2977.00: And certainly our teams are meeting with officials and staffs as well at both the federal and provincial levels. 
+asr:0: OUTPUT 2977.34-2987.17: You know, it's all hands on deck. This is a huge challenge, but we think it's achievable and we think it's necessary. And so we're going to do what it takes. 
+asr:0: OUTPUT 2988.35-2994.55: That is great, Kallaran. Hoping to meet you at an in-person investor day in March. 
+asr:0: OUTPUT 2995.82-2997.30: Thank you. Thank you. 
+asr:0: OUTPUT 2997.38-3003.16: I look forward to meeting you as well. Unfortunately, the Omicron virus has... 
+asr:0: OUTPUT 3003.18-3013.47: Has continued to delay many in-person meetings, but as soon as the opportunity affords itself, I very much look forward to it as well. 
+asr:0: OUTPUT 3013.61-3019.22: It's been a long two years, right? Right. So again, I look forward to meeting you as well. Thank you. 
+asr:0: OUTPUT 3022.00-3026.41: Your next question comes from Doug LeGate with Bank of America. You may proceed with your question. 
+asr:0: OUTPUT 3028.41-3032.23: Thanks. Good morning, everyone. I'm delighted to be on your call. Thanks for taking my questions. 
+asr:0: OUTPUT 3034.09-3041.90: Brad, I wonder if I could start with ExxonMobil's announcement yesterday of combining their downstream and chemicals business. 
+asr:0: OUTPUT 3042.54-3049.27: I wonder if there's any read-through for Imperial as it relates to incremental cost-cutting initiatives or whether you follow suit. 
+asr:0: OUTPUT 3051.15-3059.68: Yeah, thanks for the question, Doug. And it's good to hear your voice. It's been a while since we've connected. So thanks for doing the call today. 
+asr:0: OUTPUT 3062.48-3071.45: Regarding ExxonMobil's announcements yesterday, super, super exciting news for ExxonMobil. 
+asr:0: OUTPUT 3071.47-3081.50: With ExxonMobil being a majority shareholder of Imperial, we benefit from that relationship in many ways. 
+asr:0: OUTPUT 3081.64-3094.95: We often talk about the technology benefits that we're able to leverage, their global best practices, some operational synergies. 
+asr:0: OUTPUT 3095.32-3100.52: And and i think all of that comes to play uh... With the announcement that was made yesterday. 
+asr:0: OUTPUT 3101.42-3112.69: We still have a lot of work to do to fully understand their plans and then see how we can best leverage them and adapt them. 
+asr:0: OUTPUT 3113.07-3120.68: But I fully expect that we will, within Imperial, see benefits from. 
+asr:0: OUTPUT 3120.70-3124.64: Their announcements, the strategies that they're progressing. 
+asr:0: OUTPUT 3124.99-3127.17: And like I said, we're super excited. 
+asr:0: OUTPUT 3129.03-3130.65: Thank you for that. 
+asr:0: OUTPUT 3131.23-3140.94: I don't want to get ahead of myself here for your upcoming analyst day. It seems Exxon has also decided to go virtual unfortunately, so I don't know what you ultimately decide. 
+asr:0: OUTPUT 3141.40-3143.44: My question is specifically on Carol. 
+asr:0: OUTPUT 3144.06-3149.67: When you lead out the kind of reliability trajectory towards 2025,. 
+asr:0: OUTPUT 3150.75-3155.48: It seems that you're well on your way to that. You're probably a little bit ahead of the pace, I would guess. 
+asr:0: OUTPUT 3156.12-3165.65: Is there any thoughts you could provide in terms of the timing or the scale of what you ultimately see Keral doing on that original timeline? 
+asr:0: OUTPUT 3165.73-3166.73: I'll leave it there. Thanks. 
+asr:0: OUTPUT 3168.17-3172.41: Yeah, thanks for that question. And you're right, it is. 
+asr:0: OUTPUT 3172.57-3176.36: Is it unfortunate some of the impacts that... 
+asr:0: OUTPUT 3176.40-3186.59: That COVID has had on plans for investor day, you know, it impacted us last year, has the risk of impacting us this year, but. 
+asr:0: OUTPUT 3186.61-3194.03: Weíre committed to engaging with our investors, our analysts. 
+asr:0: OUTPUT 3194.05-3199.92: And sharing our forward plans. I think it's a very positive story. 
+asr:0: OUTPUT 3201.02-3203.78: And in terms of curl, you're exactly right. 
+asr:0: OUTPUT 3203.86-3205.25: You know, each year... 
+asr:0: OUTPUT 3205.59-3215.58: Over the last couple of years, we continue to set new records at CURL. As I mentioned, we just completed. 
+asr:0: OUTPUT 3215.60-3217.24: 2021 with. 
+asr:0: OUTPUT 3217.26-3221.18: 263,000 barrels a day. 
+asr:0: OUTPUT 3221.74-3228.39: Gross. Our guidance for next year is $265,000 to $270,000. 
+asr:0: OUTPUT 3228.67-3237.40: Which again moves us one step closer to 280, which as you accurately note,. 
+asr:0: OUTPUT 3237.42-3243.88: We had previously indicated that we would get to 280 in that 2025. 
+asr:0: OUTPUT 3243.90-3245.07: Timeframe. 
+asr:0: OUTPUT 3245.11-3247.27: But we are well ahead of that. 
+asr:0: OUTPUT 3248.53-3253.61: And at Investor Day, we'll lay out kind of a revised plan. 
+asr:0: OUTPUT 3253.63-3259.46: But safe to say, there's a lot of organizational focus. 
+asr:0: OUTPUT 3259.48-3267.73: On how we can get to that 280,000 level sooner than 2025. 
+asr:0: OUTPUT 3269.65-3284.22: And so, you know, some of the things we've already done that will contribute are things like moving to one turnaround per year, which we achieved a year earlier than what we shared at last Investor Day. 
+asr:0: OUTPUT 3285.69-3291.41: We have multiple de-bottlenecking projects that we're progressing. 
+asr:0: OUTPUT 3291.59-3295.46: We're continuing to look at how do we optimize. 
+asr:0: OUTPUT 3295.72-3302.02: You know, or recovery and movement in the minds. 
+asr:0: OUTPUT 3302.12-3307.61: And then taking full advantage of digital. 
+asr:0: OUTPUT 3308.33-3320.32: I've talked on prior calls about how we're employing multiple digital techniques that are adding real value to us. 
+asr:0: OUTPUT 3320.36-3324.97: That will also have beneficial effects on our production rate. 
+asr:0: OUTPUT 3325.09-3333.65: So I think $265 to $270 is appropriate for 2022. 
+asr:0: OUTPUT 3333.93-3340.74: But you can see that's going to step us to 280 quicker than the 2025 time frame. 
+asr:0: OUTPUT 3341.62-3348.17: And Simon at Investor Day will give a lot more detail about those individual projects. 
+asr:0: OUTPUT 3349.69-3352.63: Thanks for the full answer, guys. I look forward to it. Thanks again. 
+asr:0: OUTPUT 3355.34-3359.80: Thank you. Our next question comes from Greg Party with RBC Capital Markets. You may proceed with your question. 
+asr:0: OUTPUT 3360.60-3364.06: Yeah, thanks, good morning, and thanks for the rundown, as always, very thorough. 
+asr:0: OUTPUT 3366.23-3370.49: Again at the risk of probably jumping ahead but. 
+asr:0: OUTPUT 3370.55-3375.52: You mentioned that there are steps you're taking to strengthen the downstream business. 
+asr:0: OUTPUT 3375.54-3378.60: I'm just wondering if there are any things you can kind of share. 
+asr:0: OUTPUT 3378.62-3385.61: And whether the, I'm assuming the products pipeline, you know, fix into that mix, but any color there would be great. 
+asr:0: OUTPUT 3387.57-3396.18: Yeah, thanks for the question, Greg. And you're right. We'll give a much more comprehensive story at Investor Day. 
+asr:0: OUTPUT 3396.66-3406.15: You know, it starts fundamentally with our cost structure. And as I mentioned, we've done a lot of things around our cost structure. 
+asr:0: OUTPUT 3406.85-3410.17: And I feel really good about that. 
+asr:0: OUTPUT 3410.67-3415.06: And then it's ensuring that we are leveraging. 
+asr:0: OUTPUT 3416.02-3424.08: You know, all the synergy that we have based on our location of our three refineries. 
+asr:0: OUTPUT 3424.12-3434.15: The integration that they have between themselves, but that they also have with our upstream production assets. 
+asr:0: OUTPUT 3435.01-3455.54: And then, you know, ensuring that we maximize the flexibility of their run slate, you know, which has been key through the pandemic, as we've had to adjust to much lower jet demand and move that into other products. 
+asr:0: OUTPUT 3457.14-3462.98: And then look at where we have an opportunity to grow new product outlets. 
+asr:0: OUTPUT 3463.28-3474.94: We've talked about things we've done with asphalt over the last couple of years and how that's an increasing part of our portfolio and again leverages on our. 
+asr:0: OUTPUT 3474.95-3478.02: On our heavy crude slate. 
+asr:0: OUTPUT 3478.46-3486.93: And then, most recently, of course, the Shred project and our ability to generate the. 
+asr:0: OUTPUT 3486.95-3493.91: Renewable diesel at Strathcona will be a key strategic undertaking for us. 
+asr:0: OUTPUT 3496.12-3511.39: And then of course, you know, the integration we have between Sarnia Refinery and Sarnia Chemical Plant also allows us to, you know, further capture market and value. 
+asr:0: OUTPUT 3511.53-3515.72: And so again, that's kind of a broad brush on it. 
+asr:0: OUTPUT 3516.12-3524.90: John Wetmore will give a much more comprehensive story at Investor Day. 
+asr:0: OUTPUT 3524.94-3528.33: But exciting opportunities for us in the downstream. 
+asr:0: OUTPUT 3529.39-3538.80: Okay, no, terrific. And maybe now it's probably more of a question for Dan, but I mean, just as an observation, and we've been talking about a SIV for a long time. 
+asr:0: OUTPUT 3540.00-3544.36: And I totally understand where you guys are coming from in terms of evaluation, but... 
+asr:0: OUTPUT 3544.48-3552.71: But maybe, Dan, specifically, would it be possible for you to just frame what the mechanics are? Like, I've never worked through one of these. 
+asr:0: OUTPUT 3552.73-3557.74: From that standpoint and is it possible just to again enlighten us in terms of Black Oaks? 
+asr:0: OUTPUT 3557.78-3568.45: I'm not trying to pin you down on a date per se because you're sort of saying within the June timeframe, but I just think I'd love to know what needs to go into this in terms of formalizing your decision process. 
+asr:0: OUTPUT 3570.83-3579.66: Yeah, I mean, technically, the technicalities of an SIB, it requires a filing, it's open for 35 days. 
+asr:0: OUTPUT 3580.00-3584.10: Generally speaking, you shouldn't do it during a blackout period. 
+asr:0: OUTPUT 3584.56-3591.23: Which is typically sort of 30 days before earnings release, you know, ballpark is when the blackout periods are. 
+asr:0: OUTPUT 3591.49-3595.70: So that's sort of the timing and technicalities of it. 
+asr:0: OUTPUT 3597.86-3600.88: OK, thanks very much. Thanks, Greg. 
+asr:0: OUTPUT 3602.92-3607.41: Thank you. Our next question comes from Neil Beto with Goldman Sachs. You may proceed with your question. 
+asr:0: OUTPUT 3609.03-3617.60: Thanks so much. Brad, one of the core competencies that you've had and you brought into the business is your background around M&A. 
+asr:0: OUTPUT 3617.64-3620.62: Given your prior role at Exxon. 
+asr:0: OUTPUT 3621.00-3630.09: Just be curious on your own perspective of do you view imperial as a logical consolidator especially in light of the deferred tax position? 
+asr:0: OUTPUT 3630.11-3637.12: And your success in turning around operations and scale and cost of capital. 
+asr:0: OUTPUT 3637.46-3645.43: If so, how do you think about balancing that versus return of capital? 
+asr:0: OUTPUT 3646.85-3651.63: Yeah, thanks Neil, and good to hear from you. 
+asr:0: OUTPUT 3652.69-3654.83: You know, as we've said in the past,. 
+asr:0: OUTPUT 3654.85-3665.07: We continue to keep an open mind and open aperture around potential. 
+asr:0: OUTPUT 3665.09-3667.23: M&A opportunities. 
+asr:0: OUTPUT 3668.15-3675.90: It's not our top priority. Our top priority centers around our existing asset base. 
+asr:0: OUTPUT 3676.06-3680.88: And maximizing value from those assets, which I think. 
+asr:0: OUTPUT 3680.90-3692.95: We have demonstrated success over the last couple of years and has us well positioned for the future with some very long life assets that are going to be very important. 
+asr:0: OUTPUT 3692.97-3700.08: Under favorable markets will continue to generate significant cash. 
+asr:0: OUTPUT 3700.52-3703.94: So when we look at potential M&A opportunities,. 
+asr:0: OUTPUT 3704.40-3712.29: We need to convince ourselves that not only do they fit into a long-term strategy,. 
+asr:0: OUTPUT 3712.35-3720.46: But they are accretive and they do compete for capital relative to the market. 
+asr:0: OUTPUT 3720.48-3727.65: The brownfield investments that we already have identified and are progressing. 
+asr:0: OUTPUT 3729.51-3737.02: We're not driven to acquire something just to grow for the sake of growing. 
+asr:0: OUTPUT 3737.18-3742.82: I think we've demonstrated our ability to grow with the existing asset base. 
+asr:0: OUTPUT 3742.98-3747.83: Take curl, for example. 
+asr:0: OUTPUT 3747.85-3755.72: Just a couple years ago that that we were at or below 200,000 barrels a day and so you know now. 
+asr:0: OUTPUT 3755.78-3761.64: This year we're at 263. We expect to grow that to 265 to 270. 
+asr:0: OUTPUT 3761.76-3768.47: And within a relatively short time frame, I expect we'll be at 280 or higher. 
+asr:0: OUTPUT 3768.57-3776.20: And so in a few short years, we will have added 80,000 barrels a day of growth in our portfolio. 
+asr:0: OUTPUT 3776.56-3783.58: At a cost much, much lower than any acquisition we could have contemplated. 
+asr:0: OUTPUT 3783.60-3790.77: That will continue to be the priority is making sure we first focus on our existing assets. 
+asr:0: OUTPUT 3791.21-3795.34: But there is a lot of consolidation occurring. 
+asr:0: OUTPUT 3795.40-3801.76: And we want to make sure we are making thoughtful decisions. 
+asr:0: OUTPUT 3801.78-3809.83: We look at potential acquisitions and evaluate them and we discuss them as a management team. 
+asr:0: OUTPUT 3810.13-3813.67: And, you know, that guides us accordingly. 
+asr:0: OUTPUT 3815.74-3817.42: So I hope that answered your question. 
+asr:0: OUTPUT 3818.26-3820.38: It's a helpful framework, Brad. 
+asr:0: OUTPUT 3820.50-3828.19: The follow-up is just around cash taxes. Can you just remind us, team, how you're thinking about your deferred tax position? 
+asr:0: OUTPUT 3828.39-3831.13: Good problem to have, to have a lot of earnings per share. 
+asr:0: OUTPUT 3831.35-3839.02: But I would imagine that would also create some considerations that we need to embed in the model going forward. 
+asr:0: OUTPUT 3840.20-3841.48: Yeah, absolutely. 
+asr:0: OUTPUT 3841.90-3850.39: Dan and his team spent a lot of time thinking about that and so I'll ask him to answer. 
+asr:0: OUTPUT 3850.61-3852.17: If you didn't know our position. 
+asr:0: OUTPUT 3853.21-3862.40: We don't expect, well, in 2021, actual cash taxes will be quite small. 
+asr:0: OUTPUT 3863.06-3872.07: 2022 will be sort of a transition year and by 2023, you know, with current economic conditions, we'd expect to be fully taxpaying. 
+asr:0: OUTPUT 3872.61-3880.14: So, you know, I think that's probably as much as I can tell you, but on a pure cash basis, out the door. 
+asr:0: OUTPUT 3880.94-3890.09: We should pay less than the statutory rate in 2022, but by 2023, we'll be fully taxpaying on a cash basis. 
+asr:0: OUTPUT 3890.15-3891.15: That's kind of where we are. 
+asr:0: OUTPUT 3892.55-3893.57: Thank you. 
+asr:0: OUTPUT 3897.18-3901.50: Our next question comes from Meno Holosoft with TD Securities. You may proceed with your question. 
+asr:0: OUTPUT 3903.16-3905.91: Good morning, everyone, and thanks for squeezing me in. 
+asr:0: OUTPUT 3906.85-3911.65: Most of my questions have been answered, but maybe I'll just round things out with. 
+asr:0: OUTPUT 3911.67-3919.28: We have a pretty good sense of what that could look like for upstream across the industry. 
+asr:0: OUTPUT 3919.32-3924.66: What are you seeing in terms of cost pressures for downstream and would you be able to provide. 
+asr:0: OUTPUT 3924.68-3926.49: Separate ranges for the two. 
+asr:0: OUTPUT 3929.77-3933.85: Yeah, thanks for the question and no doubt that is a... 
+asr:0: OUTPUT 3933.87-3942.00: Is an emerging theme across industry and more broadly society right now. 
+asr:0: OUTPUT 3942.02-3946.63: Inflationary pressures from from lots of angles you know i i think. 
+asr:0: OUTPUT 3947.29-3957.16: You know, fortunately for us, we haven't seen huge impacts of inflationary pressures yet. 
+asr:0: OUTPUT 3957.36-3961.10: But that's not to say we won't going forward. 
+asr:0: OUTPUT 3961.38-3968.43: You know, probably the single largest impact we've had is around our own energy costs. 
+asr:0: OUTPUT 3968.79-3976.70: You know where where we we purchase natural gas You know for for our facilities. 
+asr:0: OUTPUT 3977.12-3982.28: And obviously, we all know what's happened there, but as. 
+asr:0: OUTPUT 3982.30-3989.07: As somebody who also produces energy, on balance, that's still favorable for us. 
+asr:0: OUTPUT 3990.45-3996.10: We're taking a close look at other consumable supplies and things like that. 
+asr:0: OUTPUT 3996.12-4003.68: First, making sure we have access to the supplies and we're not impacted by any market shortages. 
+asr:0: OUTPUT 4004.42-4012.97: But then also looking at how we can optimize the cost and mitigate any cost pressures. 
+asr:0: OUTPUT 4014.05-4023.92: You know, where we could see, you know, more significant impacts would be things like, you know, steel, for example. 
+asr:0: OUTPUT 4024.28-4030.01: But the good news is, when we look at our large projects,. 
+asr:0: OUTPUT 4030.19-4033.95: For next year. We talk about. 
+asr:0: OUTPUT 4033.97-4042.84: Sonya Products pipeline, you know, that project is essentially complete, steel bought, you know, a long time ago. 
+asr:0: OUTPUT 4042.88-4051.39: The Curl In-Pit Tailings Project has some steel associated with it, again, most of which has already been. 
+asr:0: OUTPUT 4051.41-4054.83: But it's more of a. 
+asr:0: OUTPUT 4054.85-4059.54: You know, earth-moving project than anything. 
+asr:0: OUTPUT 4060.00-4064.86: Very labor intensive and so we got to keep an eye on labor costs. 
+asr:0: OUTPUT 4064.88-4074.05: But again, so far we haven't seen huge impacts there. So, something we're going to keep a very close eye on going forward. 
+asr:0: OUTPUT 4074.07-4077.46: But so far, we've been able to manage it quite well. 
+asr:0: OUTPUT 4079.96-4088.83: Thanks, Brian. I'll leave it there. Okay. Thanks. Thank you. Our next question comes from Bill Gresh with J.P. Morgan. You may proceed with your question. 
+asr:0: OUTPUT 4090.69-4099.74: My first question is on the dividend. Obviously, as you noted, two very large increases in the past two years since the last time we saw a dividend. 
+asr:0: OUTPUT 4099.76-4101.50: You had an analyst day. 
+asr:0: OUTPUT 4101.58-4109.05: And you had talked about, you know, a certain break-even level at that time. So I was just wondering if you could refresh us. 
+asr:0: OUTPUT 4109.19-4114.61: On how you think about what that break-even would be today, and then as you go forward. 
+asr:0: OUTPUT 4114.65-4119.58: How do you think about sustainable levels, increases in the dividend? 
+asr:0: OUTPUT 4119.60-4124.06: With respect to a break-even framework or however else you might look at it. 
+asr:0: OUTPUT 4126.91-4130.59: Thanks for the question. I think Dan will give an answer on that. 
+asr:0: OUTPUT 4131.29-4137.94: Yeah, hey Phil, we'll talk more about break-evens at the analyst day. I mean, last year we talked about... 
+asr:0: OUTPUT 4137.96-4147.31: 36 bucks with both including sustaining capital and dividend. I think that's still a good number. 
+asr:0: OUTPUT 4147.39-4149.09: We're pretty far away from that. 
+asr:0: OUTPUT 4149.37-4152.39: So it is important to us, obviously, that... 
+asr:0: OUTPUT 4152.67-4160.42: The dividend is a sustainable and growing dividend is our core kind of one of our core investor offerings. 
+asr:0: OUTPUT 4160.80-4169.15: And we do think about that, and we feel, given our outlook, that the 7th sense is warranted, and we feel quite good about it going forward. 
+asr:0: OUTPUT 4169.83-4176.84: So I guess it's probably as much as I'll say, but you know, break even is well below current prices. So that gives us a lot of comfort. 
+asr:0: OUTPUT 4177.22-4186.33: And obviously, as we go forward, we continue to, you know, we've had energy inflation as has been discussed, but we continue to work on our base cost structure. 
+asr:0: OUTPUT 4187.29-4191.53: So obviously we want to get that break even down as low as we can. 
+asr:0: OUTPUT 4193.31-4194.79: Understood. Okay. Thank you. 
+asr:0: OUTPUT 4195.52-4199.56: And then just one other question on the OPEX in the quarter. 
+asr:0: OUTPUT 4199.60-4210.43: Obviously, it was up sequentially. I wasn't sure if some of the one-time costs that you called out in any way flowed through OPEX or not. 
+asr:0: OUTPUT 4210.53-4213.27: But just in general, you know, latest. 
+asr:0: OUTPUT 4213.31-4214.97: Apex in 22. 
+asr:0: OUTPUT 4216.12-4224.96: Yeah, of that, you know, 160 million, there's a lot of things in there. There's deferred tax adjustments, there's LIFO and inventory changes, but there's. 
+asr:0: OUTPUT 4225.02-4229.19: There's also I'd say $60 million of OPEX in the upstream. 
+asr:0: OUTPUT 4229.33-4230.59: Included in that number. 
+asr:0: OUTPUT 4230.79-4239.10: So yeah, part of that 160 is one-time OpEx from some smaller write-downs of a number of things. 
+asr:0: OUTPUT 4240.48-4241.54: Okay, great, thank you. 
+asr:0: OUTPUT 4244.54-4252.61: Thanks, Phil. Thank you. I'm not showing any further questions at this time. I would now like to turn the call back over to Dave Hughes for any further remarks. 
+asr:0: OUTPUT 4254.35-4259.06: All right, well thank you very much and thank you everybody for joining us this morning. 
+asr:0: OUTPUT 4259.08-4266.21: As usual, if you have any further questions, please don't hesitate to reach out to us at any time. Thank you. 
+asr:0: OUTPUT 4270.07-4274.31: Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect. 
+asr:0: END

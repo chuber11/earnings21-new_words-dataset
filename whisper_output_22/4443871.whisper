@@ -1,0 +1,394 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.48-6.21: Hello, good morning everyone. Welcome to our first semester results conference call. 
+asr:0: OUTPUT 7.01-15.28: As usual, besides myself and the investor relations team, we have on the call today Uli Almayev from SunIMC. 
+asr:0: OUTPUT 16.02-21.06: Paul Simões from Borton, Hugo Martins from Famag Fashion. 
+asr:0: OUTPUT 21.14-28.21: Luis Mota-Guardia from Sonai Sierra and Cristina Nuvales from Sonai Investment Management. 
+asr:0: OUTPUT 29.39-38.56: I will start by presenting an overview of our results in the first half of the year and at the end, as usual, we will have time for Q&A. 
+asr:0: OUTPUT 40.48-42.72: So as you all know,. 
+asr:0: OUTPUT 42.74-50.79: 2021 continues to be marked by severe restrictions to all our businesses across several geographies. 
+asr:0: OUTPUT 51.93-56.20: In spite of the progress in the vaccination plan around the world. 
+asr:0: OUTPUT 56.74-62.08: In Portugal in particular, we had another lockdown from mid-January until mid-April. 
+asr:0: OUTPUT 62.88-67.99: And since then, we have witnessed a gradual easing of the restrictions. 
+asr:0: OUTPUT 68.21-74.69: But still with significant limitations both in terms of store capacity and also opening hours. 
+asr:0: OUTPUT 75.66-81.46: In total, we had 11 weeks of lockdown this year versus seven weeks of lockdown last year. 
+asr:0: OUTPUT 82.36-89.97: This being said, our businesses displayed a very positive reaction and we are very proud of our operational results this year. 
+asr:0: OUTPUT 92.13-101.78: Just before diving into the results, quick notes on portfolio management. As you know, these last six months have been important in a number of fronts in terms of capital allocation. 
+asr:0: OUTPUT 102.56-110.51: I would like to highlight the restructuring of our operations in Borda, Spain, the increase of our state in Santa Isquiera. 
+asr:0: OUTPUT 111.37-115.92: The launch of a partnership between Somai FS and Bankus Fibite. 
+asr:0: OUTPUT 117.62-124.44: Obviously the ability also shown by some IIMs to continue to invest in high growth tech companies and crystallize value in the right moment. 
+asr:0: OUTPUT 125.29-137.72: And also the agreement reached by Some IMC to sell its 50% stake in MaxMats for €65 million with an estimated capital gain of €40 million. 
+asr:0: OUTPUT 137.74-142.16: So the completion of the appeal is expected in Q3. 
+asr:0: OUTPUT 143.62-151.35: So let's go into the results. I will do this business by business as usual, and then I will talk about the consolidated results for the semester. 
+asr:0: OUTPUT 152.47-153.51: Starting with command P. 
+asr:0: OUTPUT 154.55-163.58: Some IMC had a subcomparable, as last year our food format benefited from the first full lockdown in Portugal that implied the shutdown of restaurants. 
+asr:0: OUTPUT 164.38-167.49: And continents significantly outperformed the market last year. 
+asr:0: OUTPUT 168.37-172.75: Nevertheless, total turnover increased 4% year on year in Q2. 
+asr:0: OUTPUT 172.97-175.30: With a resilient performance of food formats. 
+asr:0: OUTPUT 175.32-183.06: And with other brands such as Hermal and Wells benefiting from a recovery from last year's difficult period in terms of restrictions. 
+asr:0: OUTPUT 184.08-193.97: In the first half of the year, turnover amounted to 2.5 billion euros, a 5.4% year-on-year growth and a like-for-like increase of 2.3%. 
+asr:0: OUTPUT 194.01-197.20: Quite solid performance across different banners. 
+asr:0: OUTPUT 197.80-203.94: And once again, Sun MC was able to strengthen its leadership position with a market share increase in the period. 
+asr:0: OUTPUT 204.90-213.33: A quick note to some IMT's online channels that registered high growth rates in the first half of the year, around 45%. 
+asr:0: OUTPUT 213.35-220.98: Having also grown in Q2 despite the abnormal peak of demand levels in the same period of 2020. 
+asr:0: OUTPUT 222.08-223.40: Regarding profitability. 
+asr:0: OUTPUT 223.76-232.93: The Lange BTA in the first half of 2021 improved by 7.3% year-on-year to €235 million. 
+asr:0: OUTPUT 232.95-238.10: Representing a margin of 9.4%, 17 basis points above last year. 
+asr:0: OUTPUT 239.38-241.72: This is the result of a... 
+asr:0: OUTPUT 241.74-250.45: Strong turnover growth and also a sustained operational profitability profile diluting the extra COVID-19 directly related costs. 
+asr:0: OUTPUT 251.51-252.95: In terms of store expansion. 
+asr:0: OUTPUT 254.57-259.86: SolIMC continued to open stores in its proximity format. 
+asr:0: OUTPUT 259.98-265.35: With new Bombilla stores, a total of six new Bombilla stores up to the end of June. 
+asr:0: OUTPUT 265.97-273.49: And launched the first cashierless store offered by a European retailer which is called Continental Labs. 
+asr:0: OUTPUT 275.00-278.00: Pre-cash flow before dividends stood at 156. 
+asr:0: OUTPUT 278.02-285.23: Million euros over the last 12 months, leading NetDebt to 654 million euros at the end of June. 
+asr:0: OUTPUT 285.39-296.34: And only 16 million euros above last year's figure, mainly impacted by the dividend payment of 140 million euros in Q2 and implying a total net debt to an aligned ETA of 3.3 times. 
+asr:0: OUTPUT 298.02-300.00: Moving on to Voting. 
+asr:0: OUTPUT 300.14-308.87: At Vorten, the dynamics were quite similar to some IMPs, with the Portuguese operation decelerating growth after the strong performance achieved. 
+asr:0: OUTPUT 308.89-310.27: During last year's lockdown. 
+asr:0: OUTPUT 310.87-317.72: In Spain, obviously, total turnover decreased as a result of the downsizing of our operations in mainland Spain. 
+asr:0: OUTPUT 318.62-321.84: But the evolution on a pro forma basis was quite positive. 
+asr:0: OUTPUT 322.56-330.51: Overall, Vorton delivered a very strong sales performance in Q2, reaching €246 million, more than 4%. 
+asr:0: OUTPUT 330.53-339.78: Growth versus 2019 and almost in line with 2020, obviously with the latter benefiting from extraordinary sales resulting from the first. 
+asr:0: OUTPUT 339.80-342.64: And most stringent confinement period of last year. 
+asr:0: OUTPUT 343.62-349.05: On a like-for-like basis, Vorton posted sound growth of 1.5% in Q2. 
+asr:0: OUTPUT 349.07-356.36: With positive performances from both the online and offline operations, including also the marketplace and services operations. 
+asr:0: OUTPUT 357.40-366.69: In year-to-date terms, total turnover increased 7.5% year-on-year, with the likelihood of 14.4%, reaching 518 per year. 
+asr:0: OUTPUT 367.61-372.77: We further reinforced our market share and consolidated our leadership position in Portugal. 
+asr:0: OUTPUT 373.79-378.12: This positive top-line performance and also the restructuring process in Spain. 
+asr:0: OUTPUT 378.14-390.11: Contributed to an improved underlying NBPA that reached 31 million years at the end of H1, with a margin of 6%, growing 1.9 percentage points versus 2020. 
+asr:0: OUTPUT 392.27-399.24: That's my passion. Q2 was a quarter of clear recovery following the losses experienced during last year's lockdown. 
+asr:0: OUTPUT 400.00-408.93: Social turnover increased 41% and was practically in line with 2019, a year without any restrictions obviously in terms of pandemic. 
+asr:0: OUTPUT 410.29-416.58: Sonai Fashion proved once again to be a solid performer in a challenging context, getting market share in its key markets. 
+asr:0: OUTPUT 417.34-424.66: In year-to-date terms, Sun Life Fashion's performance is also encouraging, as top line stood at €135 million. 
+asr:0: OUTPUT 425.13-430.43: 3.7% above last year with a like for like of 5.1%. 
+asr:0: OUTPUT 431.77-439.66: And this is particularly taking into account that in the first half of the year, as I mentioned before, stores were closed for 11 weeks. 
+asr:0: OUTPUT 440.00-443.54: Which compares to the seven weeks of full lockdown in 2020. 
+asr:0: OUTPUT 445.11-453.15: An important highlight for online sales, which continue to deliver high growth rates, having reached 17% of total turnover this semester. 
+asr:0: OUTPUT 454.13-460.50: Overall, for my passion, I was able to post and improve the Lang EVTA both in Q2 and in the first semester. 
+asr:0: OUTPUT 462.12-463.54: After a negative Q1. 
+asr:0: OUTPUT 463.58-473.11: Mostly due to the new lockdown in Portugal and the Lange BTA reached 5.4 million euros in Q2 and 1.5 million euros in the first half of the year. 
+asr:0: OUTPUT 475.06-476.20: Moving on to ISRG. 
+asr:0: OUTPUT 477.38-482.56: ESRG is having a terrific recovery, already surpassing 2019 performance levels. 
+asr:0: OUTPUT 482.96-489.53: A clear sign that even under this backdrop, the company's banners have truly unique selling proposition. 
+asr:0: OUTPUT 490.33-495.00: As you know, we have a calendar mismatch with the VJD, so we consolidate the company's Q1 accounts. 
+asr:0: OUTPUT 495.60-503.72: We saw a significant recovery both regarding last year and the year before, with all the banners presenting an encouraging positive evolution. 
+asr:0: OUTPUT 503.96-514.57: Once again, the online channel played a critical role with a threefold increase and more than offsetting a weaker evolution of the offline channel, given the restrictions that we experienced. 
+asr:0: OUTPUT 515.28-521.30: Overall, the last six months showed a very good performance, both above last year and also 2019 figures. 
+asr:0: OUTPUT 521.94-527.09: This top-line improvement in the quarter was able to fuel a significant improvement at the BTA level. 
+asr:0: OUTPUT 528.03-533.15: This performance implied a much better equity method contribution towards Fonai's results. 
+asr:0: OUTPUT 534.29-543.60: Apart from the operational performance, I would like to highlight the agreement between ISRG and DeferVillages founders to acquire an 80% stake in this e-commerce player. 
+asr:0: OUTPUT 543.62-545.75: For 140 million euros. 
+asr:0: OUTPUT 546.33-550.75: Bepar Village is a well-known online retailer focused on the sale of specialist sports equipment. 
+asr:0: OUTPUT 551.27-560.20: Mainly for cycling, running and outdoor, with sales of 118 million euros and a profit for tax of 7.4 million euros in 2020. 
+asr:0: OUTPUT 560.78-567.47: Post completion, the two founders will keep a 20% stake in their management role, the CEO and also Chief Purchasing Officer. 
+asr:0: OUTPUT 567.99-572.85: And this acquisition will enhance ISRG's specialization in key sports categories. 
+asr:0: OUTPUT 573.07-577.48: While significantly increasing its digital capabilities in the sports equipment market. 
+asr:0: OUTPUT 577.84-584.16: And also complementing the ongoing positive developments in its existing banners, namely Sprinter and SportsZone. 
+asr:0: OUTPUT 585.17-594.75: Also in Q2, ISRG expanded into a new geography by acquiring SUR that operates in the Netherlands with the PERI and AXI banners. 
+asr:0: OUTPUT 595.44-605.08: This is also an important milestone for the company, an important international expansion move, and a clear step towards achieving the vision of being a European leader in sports retail. 
+asr:0: OUTPUT 607.11-616.66: As for Sanay Tierra, as you all know, 2021 continues to be a challenging year for the shopping center industry as lockdown restrictions across different countries continue to impact performance. 
+asr:0: OUTPUT 617.60-622.18: Nevertheless, I would like to highlight that there have been positive signs of a return to normality. 
+asr:0: OUTPUT 622.76-629.01: Every time restrictions are eased as there continues to be strong consumer demands for quality shopping center detonation. 
+asr:0: OUTPUT 630.37-639.22: Forza Nice Sierra Q2 was also a quarter of recovery, with encouraging sales performances in Portugal since the reopening of shopping centers in the middle of April. 
+asr:0: OUTPUT 639.78-642.82: And a sustained positive evolution in the remaining European countries. 
+asr:0: OUTPUT 643.88-647.01: From an operational standpoint and considering near-to-date figures. 
+asr:0: OUTPUT 647.27-653.47: So, NYSE-ERA's European portfolio recorded an 11.6% year-on-year increase in tenant sales. 
+asr:0: OUTPUT 653.49-660.38: A decrease of 12.3% year on year in rent, penalized by discounts in Portugal. 
+asr:0: OUTPUT 660.40-666.45: And occupancy rates continued at very high and stable rates of 97%. 
+asr:0: OUTPUT 666.47-667.53: At the end of each one. 
+asr:0: OUTPUT 668.49-674.71: Looking at proportional management accounts, the NICR reported a net loss of 4.6 million euros year-to-date. 
+asr:0: OUTPUT 674.73-682.90: Split between a positive 11 million years direct result and a negative 15 million years of indirect results mainly due to property revaluations in the quarter. 
+asr:0: OUTPUT 683.56-687.71: In any case, NAV actually increased for the first time in several quarters. 
+asr:0: OUTPUT 687.73-696.62: Up to 911 million euros at the end of June, with the net loss that I mentioned previously being more than offset by a positive FX impact in Brazil. 
+asr:0: OUTPUT 698.78-700.24: For Sunai Financial Services. 
+asr:0: OUTPUT 700.34-708.91: The second quarter was marked by the launch of the partnership with Bankus TTT, as I mentioned before, and the implementation of the new business model for the universal card. 
+asr:0: OUTPUT 709.81-715.14: Due to this business model change, and as the credit fact book only started being generated in December 2020. 
+asr:0: OUTPUT 715.48-721.72: The company's turnover naturally shows a discontinuity that will be mitigated in the coming months with the growth of the credit stock. 
+asr:0: OUTPUT 722.80-730.27: Nevertheless, in operational terms and with regards to Universal's market share, it's stood at 15% at the end of May, the latest data that we have. 
+asr:0: OUTPUT 730.35-733.41: Which compares to 14.8% last year. 
+asr:0: OUTPUT 733.95-742.48: The company also continued its strong efforts to expand its digital footprint, surpassing already 500,000 customers. 
+asr:0: OUTPUT 742.50-744.46: And digital customers at the end of June. 
+asr:0: OUTPUT 744.78-748.71: At 39,000 cut or increase when compared to the end of March. 
+asr:0: OUTPUT 749.51-757.40: Regarding MDS, the insurance brokerage company, it continues to show a strong commercial performance across all channels and geographies. 
+asr:0: OUTPUT 758.28-766.41: And this results in very strong growth, which is high single digit in Portugal and double digit in Brazil, and a significant improvement in operating profitability. 
+asr:0: OUTPUT 767.49-773.15: Similarly to the first quarter in proportional terms, considering the 50% consolidation of MDS. 
+asr:0: OUTPUT 773.27-782.88: Some assets continue to register a year-on-year decrease as a result of both the pandemic context and the business model change that I mentioned before with Banco's CTT. 
+asr:0: OUTPUT 783.66-792.89: The overall H1 turnover stood at 30.1 million euros and then the Lange Vitae followed the same trend, reaching a negative 3 million euros in the first half of the year. 
+asr:0: OUTPUT 794.47-803.58: At 10am, the quarter was marked by the sale of parts of our stake in articles for €36 million with a gross capital gain of €12 million. 
+asr:0: OUTPUT 804.24-812.49: And the announcement of the sale together with the other shareholders of BILD Direct for just over 12 million euros, which should be concluded in Q3. 
+asr:0: OUTPUT 813.47-820.80: And this direct was already considered as an asset held for sale and therefore it is not considered both in 2021 and in past comparables. 
+asr:0: OUTPUT 821.38-826.67: In operational terms, the IAM's turnover increased by 11% year-on-year to 29 EUR. 
+asr:0: OUTPUT 826.69-833.29: Benefiting from the performance of the cybersecurity portfolio and underlying MTA also improved compared to last year. 
+asr:0: OUTPUT 834.23-841.20: In terms of portfolio activity, the company's NAB reached 305 million euros and apart from the already mentioned activity,. 
+asr:0: OUTPUT 841.54-845.33: So I am entered into the shared capital of Portainer.io. 
+asr:0: OUTPUT 845.77-848.69: One of the most popular container management platforms globally. 
+asr:0: OUTPUT 849.61-853.77: In addition to this, and also not less relevant,. 
+asr:0: OUTPUT 854.29-859.42: H1 was marked by relevant achievement in some of the minority stakes that we hold. 
+asr:0: OUTPUT 859.44-865.37: Indirectly, namely, Feed-Rite, Arctic Wolf, and OutSystems, the three companies that reached already unicorn valuations. 
+asr:0: OUTPUT 865.91-878.80: Regarding articles, the company recently announced a new financing round of $150 million by some of the existing and new investors at an underlying valuation of $4.3 billion. 
+asr:0: OUTPUT 879.26-885.29: Despite being a relatively small transaction, it's also a good sign of the company's strong evolution and potential. 
+asr:0: OUTPUT 886.27-892.83: Finally, NOS. NOS has already published its results last week. I would say a solid set of results. 
+asr:0: OUTPUT 893.65-903.58: The company continued to post solid operational performance in the telco segment and the media and entertainment segment was marked by the reopening of cinema theaters on the 19th of April. 
+asr:0: OUTPUT 904.28-911.29: Turnover amounted to 341 million euros in Q2, a growth of 6.2% year-on-year. 
+asr:0: OUTPUT 911.67-919.12: The first quarter with growth since the end of 2019, supported by a 5% positive evolution in telco. 
+asr:0: OUTPUT 919.20-925.71: And a nearly 50% growth in the media and entertainment segment, driven by the reopening of cinema theaters, as I mentioned before. 
+asr:0: OUTPUT 925.93-931.05: In each one, turnovers stood at a total of 678. 
+asr:0: OUTPUT 931.07-933.91: Million euros or 1.8% year-on-year increase. 
+asr:0: OUTPUT 934.57-935.64: Regarding profitability. 
+asr:0: OUTPUT 935.78-943.44: Q2 of the EPA decreased 2.2% year on year due to an increase in direct costs. As last year these were unusually low. 
+asr:0: OUTPUT 943.46-946.33: Due to some extraordinary accounting of content costs. 
+asr:0: OUTPUT 946.79-953.53: And in year-to-date terms, the NFTA stood at 307 million euros, a 1.3% decrease year-on-year. 
+asr:0: OUTPUT 954.69-957.30: Overall net income decreased by 2 million euros. 
+asr:0: OUTPUT 957.34-966.59: To 43 million euros in Q2 and more than doubled compared to last year to 74 million euros in the first half of the year. 
+asr:0: OUTPUT 968.37-971.45: I will now cover briefly consolidated performance. 
+asr:0: OUTPUT 972.17-980.24: And so in consolidated terms, turnover increased by 5.1% year on year to 1.6 billion euros in Q2. 
+asr:0: OUTPUT 980.94-985.61: Mainly anchored on the positive contributions from SONI MP and SONI Fashion. 
+asr:0: OUTPUT 985.63-991.33: Leading to a 5.5% growth in H1 to 3.2 billion euros. 
+asr:0: OUTPUT 992.55-1000.72: Following the stop line trend in Q2, the LNG BTA increased 9.9% year-on-year to €136 million. 
+asr:0: OUTPUT 1000.74-1003.30: Mainly driven by the recovery of spontive fashion. 
+asr:0: OUTPUT 1003.52-1007.43: And also the impact of the Spanish restructuring process at Wharton. 
+asr:0: OUTPUT 1007.99-1014.21: And at the end of the semester, we reached 246 million Euros, 11.4% above last year. 
+asr:0: OUTPUT 1015.18-1017.94: And Bit.ly reached 165 million. 
+asr:0: OUTPUT 1018.64-1027.91: In the Q2, a significant improvement versus last year, mainly backed by the operational recovery of the businesses harmed by the COVID-19 restrictions last year. 
+asr:0: OUTPUT 1028.49-1036.74: Also a higher net result of ISRG when compared to 2020 and the capital gain from the dilution of IIM stake in article. 
+asr:0: OUTPUT 1037.70-1045.83: This performance led to a total EBITDA in the semester of 292 million euros, a 15.5% increase year on year. 
+asr:0: OUTPUT 1046.91-1056.58: Overall, direct results increased almost 50 million euros in Q2 to 55 million euros and more than 70 million euros in the first semester. 
+asr:0: OUTPUT 1056.60-1063.30: Due to the high level of COVID-19 extra costs and provisions registered back in Q1 of 2020. 
+asr:0: OUTPUT 1064.56-1067.81: The direct result was 10 million euros in Q2 this year. 
+asr:0: OUTPUT 1068.11-1072.75: Positively impacted by some IAM sports goal evaluations and the dividends increased. 
+asr:0: OUTPUT 1072.95-1082.40: The dividend received from direct state is just under 11 million euros, which more than offsets the investment property valuation decrease. 
+asr:0: OUTPUT 1083.18-1089.29: All in all, SunriseNet results reached €62 million both in Q2 and also in the semester. 
+asr:0: OUTPUT 1091.35-1097.32: In terms of operational cash flows, on iSports Gold you released a total of 123 million EUR during the last 12 months. 
+asr:0: OUTPUT 1098.36-1104.54: These last 12 months saw quite some activity in terms of portfolio management, as we discussed in previous calls. 
+asr:0: OUTPUT 1104.78-1109.97: Astonite reinforced its shareholder positions in NOS, Delta and Piscaris. 
+asr:0: OUTPUT 1109.99-1116.66: For a total consideration of €323 million, also including some IIMs investments in the period. 
+asr:0: OUTPUT 1117.54-1122.12: This was partially offset by 109 million of cash proceeds from asset sales. 
+asr:0: OUTPUT 1123.48-1127.77: Mainly related with SomaIM and SomaMC, so these back transactions. 
+asr:0: OUTPUT 1128.41-1136.98: But all in all, tonight, free cash flow for the last 12 months before dividends paid stood at a negative 100 million euros, 101 million euros. 
+asr:0: OUTPUT 1137.00-1139.26: At the end of June this year. 
+asr:0: OUTPUT 1139.90-1146.23: Therefore, after dividend paid consolidated net debt reached just under 1.5 billion euros. 
+asr:0: OUTPUT 1146.55-1153.75: Still a conservative level of leverage as Sonex continues to hold a solid capital structure with a comfortable financing position. 
+asr:0: OUTPUT 1153.77-1160.14: Which includes a low cost of debt of 1.1%, an average maturity profile of 3.6 years,. 
+asr:0: OUTPUT 1160.16-1162.52: And an LTV of 15%. 
+asr:0: OUTPUT 1164.04-1171.05: Additionally, if we look at the leverage profiles of our main businesses, they also remain quite solid and prudent across the portfolio. 
+asr:0: OUTPUT 1171.37-1176.22: MC reached, as I mentioned before, 3.3 times total net debt from the Langevin-Pierre ratio. 
+asr:0: OUTPUT 1176.66-1181.98: Not maintain its net financial debt to the BPA at 1.8 times. 
+asr:0: OUTPUT 1182.02-1188.67: And Sonai Sierra currently holds a loan to value of 24% and has a very strong liquidity position. 
+asr:0: OUTPUT 1189.95-1195.84: So overall, we are quite pleased with the results achieved by our portfolio of businesses this year. 
+asr:0: OUTPUT 1197.30-1206.77: These last 18 months have been challenging, but we feel that we are now coming out of this pandemic strong and prepared for the future. 
+asr:0: OUTPUT 1207.65-1212.75: That's it for me for now. Thank you everyone for listening. And you can now open the session to Q&A, please. 
+asr:0: OUTPUT 1215.30-1218.20: Thank you. The Q&A session has now started. 
+asr:0: OUTPUT 1218.60-1224.42: As a reminder ladies and gentlemen, if you would like to ask a question, please press star 1 on your telephone keypad. 
+asr:0: OUTPUT 1226.43-1233.77: Our first question is from Jose Rito from Caxia Bank. Your line is open, please go ahead. 
+asr:0: OUTPUT 1235.76-1237.16: Yes, I give the money to all. 
+asr:0: OUTPUT 1238.90-1243.48: And congrats for anticipating the release of the results. 
+asr:0: OUTPUT 1244.70-1253.83: I have some questions on SLAN IMT. First on the fact that you are facing quite difficult comps. 
+asr:0: OUTPUT 1254.97-1262.40: Last year was a strong period, still you achieved quite decent likes for like in Q2. 
+asr:0: OUTPUT 1262.84-1265.29: My question is if this level of... 
+asr:0: OUTPUT 1265.31-1273.75: For the life that you are achieving, so slightly positive could be a good reference for the upcoming quarters. 
+asr:0: OUTPUT 1273.87-1276.50: That's the first question on IMC. 
+asr:0: OUTPUT 1276.88-1284.96: The second related to the new business with Info9 and HIF, so these businesses are recovering fast because last year they, some of us are so close. 
+asr:0: OUTPUT 1286.63-1292.33: My question is if these business on a steady state are margin-equitive tools on IMC. 
+asr:0: OUTPUT 1294.87-1303.40: The third question on SunIMC is if you think flat ish margins feasible over the coming quarters, even if competition seems to be picking up? 
+asr:0: OUTPUT 1305.29-1309.99: That will be my questions on SANA-MC and then I can continue with another on Fortin. 
+asr:0: OUTPUT 1311.77-1316.34: Thank you. Thank you for your questions. I will hand it over to Uwe to cover those topics. 
+asr:0: OUTPUT 1320.80-1327.09: Well, I will answer to the very first question. 
+asr:0: OUTPUT 1327.77-1334.91: I failed to understand the second one and the third one. I almost thought I did the third. 
+asr:0: OUTPUT 1335.74-1343.32: Going forward, we are committed to maintain our margins. 
+asr:0: OUTPUT 1344.56-1347.65: We have to look at it. 
+asr:0: OUTPUT 1349.11-1351.51: As we start some years ago. 
+asr:0: OUTPUT 1352.63-1354.29: During the actual. 
+asr:0: OUTPUT 1354.59-1360.86: And we see that our margin will be stable in the years to come. 
+asr:0: OUTPUT 1360.88-1364.74: Or at least until the end of this year. 
+asr:0: OUTPUT 1365.63-1367.69: Going forward in the very first question. 
+asr:0: OUTPUT 1368.77-1376.78: Well, as you said, the second question was very difficult. 
+asr:0: OUTPUT 1377.54-1384.90: But we see, we see, we see very positive evolution in our side. 
+asr:0: OUTPUT 1385.39-1394.93: In fact, in July we saw positive microlights and we have seen that the. 
+asr:0: OUTPUT 1395.04-1400.00: We don't see any reason to not consider positive life-aligning fields in the number. 
+asr:0: OUTPUT 1401.20-1404.14: Regarding the second question, I apologize. 
+asr:0: OUTPUT 1404.32-1412.99: Yes, so this new business, I think this is around 10% of Sona IMC sales. 
+asr:0: OUTPUT 1413.59-1420.00: If the margin is higher than the consolidated margin of an IMC or lower? 
+asr:0: OUTPUT 1421.34-1425.37: New businesses, growth businesses as we call them. 
+asr:0: OUTPUT 1427.81-1429.47: Well, they are evolving quite well. 
+asr:0: OUTPUT 1429.95-1438.02: In fact, they suffered a lot due to the lockdown measures in the last month. 
+asr:0: OUTPUT 1439.10-1445.02: But they are doing quite well. And in fact, there are several businesses, they provide us with very good margins. 
+asr:0: OUTPUT 1445.31-1452.57: But still, as you said, the account for less than 10% of our total sales is still in the. 
+asr:0: OUTPUT 1452.99-1458.74: And the bulk is basically... 
+asr:0: OUTPUT 1460.18-1468.31: We have those businesses from the food format and also from the wealth. 
+asr:0: OUTPUT 1468.35-1473.71: Child's vials are going quite well and we see good prospects for evolving. 
+asr:0: OUTPUT 1474.59-1480.54: The other formats, the providers were very good performers as well. 
+asr:0: OUTPUT 1480.98-1482.26: But this is... 
+asr:0: OUTPUT 1482.44-1486.83: We have several formats we consider in that information. 
+asr:0: OUTPUT 1486.87-1493.31: For instance like a zoo or a mountain. 
+asr:0: OUTPUT 1493.77-1500.92: Which are businesses that we are developing in the wrapping up phase. 
+asr:0: OUTPUT 1501.96-1511.01: And that's for us a very critical thing in the sense that they are reinforcing the cooling power of our food products. 
+asr:0: OUTPUT 1511.33-1518.40: So we see those businesses as being very important to enlarge the pulling power of the performance. 
+asr:0: OUTPUT 1518.66-1526.59: They are doing quite well and we continue to see the margins evolving quite well in the future. 
+asr:0: OUTPUT 1528.45-1530.75: OK, but if I end, yes. 
+asr:0: OUTPUT 1531.65-1539.98: Just before you go into your follow-up questions, may I just ask everyone to put their mics on mute because we're hearing a lot of noise. 
+asr:0: OUTPUT 1541.32-1544.88: If you could speak closer to the microphone, I think that would also help. Sorry, go ahead. 
+asr:0: OUTPUT 1547.15-1555.52: Just to understand if on a steady state these businesses are already being acquitted to. 
+asr:0: OUTPUT 1555.64-1561.06: Not specifically this quarter or last year that was impacted by the pandemic but. 
+asr:0: OUTPUT 1561.10-1569.09: Let's say in 2019 if this new business were accretive or not to the to the consolidated margin of Sun IMC. 
+asr:0: OUTPUT 1570.97-1572.87: Yes. 
+asr:0: OUTPUT 1572.91-1581.40: All businesses are equities. In the first place we have for instance Bager, our coffee shop business. 
+asr:0: OUTPUT 1582.02-1591.17: The business, we suffered a lot due to the lockdown measures and we didn't sell as much as we sold in the previous years. 
+asr:0: OUTPUT 1591.97-1600.60: But the majority of the business are accredited to our portfolio. 
+asr:0: OUTPUT 1601.66-1607.01: The business will be more attractive in the future. 
+asr:0: OUTPUT 1608.59-1609.87: Okay, thank you. 
+asr:0: OUTPUT 1610.73-1618.30: Then I have a question on Vortens for this marketplace strategy. How much is the marketplace in total of GMV? 
+asr:0: OUTPUT 1619.38-1628.63: If you can share what are the average fees that you charge and what is the mid-term target for this marketplace as percentage of. 
+asr:0: OUTPUT 1628.65-1633.15: GMV or cell, I'm not sure if you have any specific target. 
+asr:0: OUTPUT 1633.73-1639.78: And what will be the strategy. So I noticed that you have been adding new products, new categories to the marketplace. 
+asr:0: OUTPUT 1640.38-1646.97: So what should be the driver in terms of products and if it's fashion also a possibility? 
+asr:0: OUTPUT 1647.51-1651.31: So if you can elaborate a little bit more on the strategy, it would be great. 
+asr:0: OUTPUT 1653.27-1655.92: Sure. 
+asr:0: OUTPUT 1656.28-1660.84: Good morning to you all. Good morning, Josiah. Thank you for the question. 
+asr:0: OUTPUT 1661.50-1670.73: Regarding the marketplace strategy. We are in early stages of development of the marketplace. 
+asr:0: OUTPUT 1671.57-1679.70: So, the percentage of GNV represented by other categories is still small. 
+asr:0: OUTPUT 1681.10-1684.66: But of course we are looking to increase it going forward. 
+asr:0: OUTPUT 1686.95-1690.95: Our strategy is to continue to develop new categories. 
+asr:0: OUTPUT 1691.33-1698.00: And we should be launching new categories along the next month. 
+asr:0: OUTPUT 1699.84-1704.90: What we are trying to do is to build strong verticals for architectures. 
+asr:0: OUTPUT 1705.25-1712.81: We will be looking into pets, for example, and develop a strong offer there and then market it. 
+asr:0: OUTPUT 1714.45-1722.68: And then continue to develop verticals as we go along. And with that, widening our offer. 
+asr:0: OUTPUT 1723.60-1725.45: So that we are more. 
+asr:0: OUTPUT 1725.47-1728.59: A comprehensive marketplace than we have today. 
+asr:0: OUTPUT 1728.63-1736.22: And guarantee competitive prices by acquiring sellers as much as we can. 
+asr:0: OUTPUT 1736.24-1737.46: In the following months. 
+asr:0: OUTPUT 1738.34-1745.93: So overall that's the kind of structure that we are following. 
+asr:0: OUTPUT 1748.01-1755.48: I think it's too early to talk about those kinds of metrics, which is why, to be honest, it's early stages of development. 
+asr:0: OUTPUT 1756.08-1760.84: We are very confident that it's the right way for Borton, very confident on promoting growth. 
+asr:0: OUTPUT 1760.88-1770.63: We are currently the leading e-commerce website in Portugal, so we want to leverage that traffic page. 
+asr:0: OUTPUT 1771.19-1780.26: And we are confident to be able to give additional elasticity to the brands so that we can grow. 
+asr:0: OUTPUT 1780.40-1783.16: So very confident on future growth. 
+asr:0: OUTPUT 1783.72-1785.49: Using this strategy. 
+asr:0: OUTPUT 1786.25-1789.11: But it's quite early to say how often we'll have it. 
+asr:0: OUTPUT 1790.47-1797.52: But can you say if the BTA margin is much higher than 0.07? 
+asr:0: OUTPUT 1800.30-1805.99: Well, it's a very different business from 1P electronics. 
+asr:0: OUTPUT 1806.27-1810.23: Because we charged the commission and, but then all the. 
+asr:0: OUTPUT 1810.25-1816.52: Cost and logistics, everything else is bared by the seller. 
+asr:0: OUTPUT 1817.14-1818.58: We don't like those kinds of costs. 
+asr:0: OUTPUT 1820.34-1825.33: The only thing we have is a central team that manages the business. 
+asr:0: OUTPUT 1826.49-1832.71: So we do think it's a positive contribution to profitability going forward. 
+asr:0: OUTPUT 1835.18-1841.88: And then we can also allow us to leverage some economies of scale, hopefully. 
+asr:0: OUTPUT 1843.80-1845.83: Maybe if I can just add to a follow-up. 
+asr:0: OUTPUT 1847.23-1853.93: Vorten's digital evolution has been quite outstanding over the last few months. 
+asr:0: OUTPUT 1854.55-1859.56: As Paulo said, working today as the largest e-commerce player in Portugal. 
+asr:0: OUTPUT 1860.68-1866.83: It's really a company that thinks digital first with a fantastic omnichannel value proposition. 
+asr:0: OUTPUT 1866.93-1871.43: We're also leveraging the stores to serve our customers. 
+asr:0: OUTPUT 1871.89-1880.54: And so the marketplace strategy is a key element of the strategy for Borten in the coming years. And we have a lot of ambition there. 
+asr:0: OUTPUT 1880.82-1885.83: You are going to hear more about the marketplace strategy in the coming months and years. 
+asr:0: OUTPUT 1887.11-1888.49: Okay, understood. Thank you. 
+asr:0: OUTPUT 1889.21-1891.81: And finally, on Cierra, Kikwen, just to. 
+asr:0: OUTPUT 1891.83-1899.34: Just to ask if the company could do further asset rotation or if the level of ownership is okay. 
+asr:0: OUTPUT 1899.98-1902.56: And in this regard the view on the Brazilian state. 
+asr:0: OUTPUT 1905.47-1909.39: Luis, are you there? I am here, yes. Good morning. 
+asr:0: OUTPUT 1910.35-1914.45: Thank you for the question. So in relation to our aspect rotation strategy. 
+asr:0: OUTPUT 1914.67-1922.96: The largest chunk and the most important element of our interpretation strategy have been concluded. 
+asr:0: OUTPUT 1923.40-1928.79: Nevertheless, there are a few selected outputs where we have a. 
+asr:0: OUTPUT 1928.81-1933.91: More significant stakes than what we usually have on average on our assets. 
+asr:0: OUTPUT 1934.49-1937.76: Which we will try to seek to reduce over the coming years. 
+asr:0: OUTPUT 1938.76-1945.09: We don't think the moment is appropriate right now to complete those processes and that strategy. 
+asr:0: OUTPUT 1945.65-1953.79: And uh... But once the market that a lot of the ones we have normalized earnings and we will speak to reduce opposition in both uh... In the back. 
+asr:0: OUTPUT 1954.77-1955.92: In relation to Brazil. 
+asr:0: OUTPUT 1956.72-1965.75: Brazil is a strategic asset for us. Alianz Sonai is having a very good performance with a very dynamic and driven management team. 
+asr:0: OUTPUT 1966.09-1971.77: There are meaningful synergies that we can extract through the interactions between both teams. 
+asr:0: OUTPUT 1972.29-1976.72: So we do not envisage sale of our stake in Brazil at this point. 
+asr:0: OUTPUT 1980.02-1981.16: For me. 
+asr:0: OUTPUT 1985.05-1989.61: Our next question is from Yohei Pinto from JB Capital. Please go ahead. 
+asr:0: OUTPUT 1991.33-1996.74: Hi, good morning everyone. Thanks for taking my questions. I have three, two on Sonam C. 
+asr:0: OUTPUT 1997.38-2003.10: A follow-up on Jose's question, this positive like-for-like that you're seeing in July on the overall portfolio. 
+asr:0: OUTPUT 2003.48-2006.93: You are also seeing a positive light for lighting hyper and supermarkets. 
+asr:0: OUTPUT 2008.13-2015.56: The second question is, can you elaborate on how the competitive environment has evolved in the recent months? 
+asr:0: OUTPUT 2016.30-2019.00: And finally, a question on capital allocation. 
+asr:0: OUTPUT 2019.42-2027.97: You have been very active in terms of capital allocation and sold MaxMatch, ClosePortal in Spain, and Curiz de Este in Norway and Sierra. 
+asr:0: OUTPUT 2028.33-2031.57: What could be the next big move for Sonay? 
+asr:0: OUTPUT 2032.27-2035.20: Also knowing that you want to grow your international presence. 
+asr:0: OUTPUT 2035.46-2045.07: If you could tell us in general terms what you're looking for, including if it is in the same sectors you're invested in or in new ones, it would be great. 
+asr:0: OUTPUT 2046.03-2049.13: Thank you. Thank you. 
+asr:0: OUTPUT 2050.05-2051.63: And I'll take this last one. 
+asr:0: OUTPUT 2060.00-2066.69: Well July didn't yet finish, but it's happening in the last week. 
+asr:0: OUTPUT 2066.71-2071.65: Positive luck for like hackers both in supers and get on this one. 
+asr:0: OUTPUT 2073.57-2081.62: Regarding the environment, well, pretty much the time that we were witnessing in the last. 
+asr:0: OUTPUT 2082.90-2090.45: But there are some players growing in terms of scrims like Gavod and others. 
+asr:0: OUTPUT 2090.71-2094.79: Yes, but we knew that the situation would happen as they announced. 
+asr:0: OUTPUT 2094.87-2104.62: The. 
+asr:0: OUTPUT 2105.25-2111.43: Is the segment is totally underprepared when compared to other European countries. 
+asr:0: OUTPUT 2112.87-2119.10: And also, the segment is showing very good prospects going forward in terms of growth. 
+asr:0: OUTPUT 2121.36-2130.05: It's basically the same and we don't see much difference between what is happening today and what will happen in the next coming months. 
+asr:0: OUTPUT 2130.35-2135.12: But what happened for instance last year or the last four to seven years. 
+asr:0: OUTPUT 2138.12-2144.24: I think that Joao will be more suitable to answer to you. 
+asr:0: OUTPUT 2145.91-2150.75: Yes, very good. So on the capital allocation question. 
+asr:0: OUTPUT 2151.75-2159.00: I would say that we are quite happy with what we have achieved in the last couple of years in terms of portfolio rearrangement. 
+asr:0: OUTPUT 2160.38-2168.01: I think it's the operations that we've done have better prepared us for the future and also better prepared our businesses. 
+asr:0: OUTPUT 2168.33-2173.15: Many of the transactions that we did were critical. 
+asr:0: OUTPUT 2173.47-2183.00: Also to achieve the level of results that we are achieving right now, because it focuses the management team on the right markets, on the right businesses. 
+asr:0: OUTPUT 2183.16-2188.45: So we are quite happy with what we've achieved in terms of what will be the next big move. 
+asr:0: OUTPUT 2190.17-2199.06: We will remain active, looking for opportunities that match our investment criteria. 
+asr:0: OUTPUT 2199.24-2204.58: So high growth opportunities that somehow leverage our existing assets and capabilities. 
+asr:0: OUTPUT 2205.89-2212.11: Also match our return targets and help us achieve the best possible balance geographically and sector-wise. 
+asr:0: OUTPUT 2212.91-2222.48: We will also remain active and attentive in looking for opportunities to maximize value in our existing assets. As you know, we have a. 
+asr:0: OUTPUT 2223.82-2225.81: We have companies in which we have partners. 
+asr:0: OUTPUT 2226.59-2234.77: Companies in which we are 100% shareholders and so we will remain on the lookout for opportunities that help us maximize the value of our. 
+asr:0: OUTPUT 2240.34-2245.07: Thank you very much. Thank you as well. 
+asr:0: OUTPUT 2245.29-2250.71: Our next question comes from Antonio Saladas from AS Independent Research. Please go ahead. 
+asr:0: OUTPUT 2252.95-2256.02: Good morning. Thank you for taking my questions and thank you for the presentation. 
+asr:0: OUTPUT 2256.42-2260.66: I have two questions, one related with Gerard. 
+asr:0: OUTPUT 2261.14-2269.41: It could provide more color on the traffic on Sierra if it is evolving as we were expecting or not. 
+asr:0: OUTPUT 2270.29-2280.12: If you can share with us how it is the traffic on shopping centers because we have been talking. 
+asr:0: OUTPUT 2280.14-2282.28: Online and marketplace and so on. 
+asr:0: OUTPUT 2282.96-2289.91: So should we be worried about the traffic on shopping centers in the coming future? 
+asr:0: OUTPUT 2290.59-2298.26: And second question is related with the legal problems on ZOP, if there's any news on this subject. Thank you very much. 
+asr:0: OUTPUT 2301.02-2302.90: Okay, we're gonna start to the scare. 
+asr:0: OUTPUT 2304.64-2312.85: Will. 
+asr:0: OUTPUT 2313.93-2316.16: The best way to think about us. 
+asr:0: OUTPUT 2316.18-2325.93: And typically looking at everything that is in the press etc. But the best way to think about us is like a factory that currently is not allowed to operate two or three production lines. 
+asr:0: OUTPUT 2326.87-2332.53: And we are not allowed to operate them because the health authorities or the government don't allow us to operate. 
+asr:0: OUTPUT 2332.83-2339.82: The machines are in very good form. The raw material is all there. We're just not allowed to turn them on. 
+asr:0: OUTPUT 2340.44-2349.47: And that's why when you look at our current performance, it's very difficult to make a judgment on how we can actually operate at full capacity. Having said that. 
+asr:0: OUTPUT 2351.19-2357.60: Maybe the best month to look for fundamentals is the month of May. 
+asr:0: OUTPUT 2357.92-2366.09: The month of May was the first month post lockdown, was maybe a month only partially impacted by the Delta variant. 
+asr:0: OUTPUT 2367.11-2369.83: Nevertheless, it has material restrictions. 
+asr:0: OUTPUT 2370.43-2378.88: But when we look at our portfolio in the month of May, sales were down by 12% compared to 2019. 
+asr:0: OUTPUT 2380.00-2386.63: 12% or 1-2% at the European level and this was relatively consistent across all geographies. 
+asr:0: OUTPUT 2387.35-2395.76: We are also seeing in some centres an outperformance compared to 2019 and some other centres a bit below. 
+asr:0: OUTPUT 2396.12-2398.48: But sales were only down by 12%. 
+asr:0: OUTPUT 2399.32-2408.07: 12% might still look like a big number and we would all like it to be much lower, but if you take into account that we have zero tourism right. 
+asr:0: OUTPUT 2408.13-2410.69: In tourism is a relevant part of our shopping centers. 
+asr:0: OUTPUT 2411.43-2418.30: We still have significant people working from home, meaning less people at the offices. 
+asr:0: OUTPUT 2419.10-2427.35: Three, we have the harshest limitations in terms of number of people per square meter in our shopping center, the harshest limitations in Europe. 
+asr:0: OUTPUT 2427.87-2434.37: Which means that the shopping experience is not very positive, which means again we're not allowed to utilize full capacity. 
+asr:0: OUTPUT 2434.91-2442.94: For. 
+asr:0: OUTPUT 2443.00-2447.27: Again a limitation of our full capacity. 
+asr:0: OUTPUT 2447.79-2455.50: If you take all of these limitations into account and you look at minus 12% of sales compared to 2019,. 
+asr:0: OUTPUT 2455.84-2457.94: I think that is a very, very good number. 
+asr:0: OUTPUT 2459.86-2468.41: Furthermore, when we look at June, in June things across Europe maintained the trajectory that we saw in May. 
+asr:0: OUTPUT 2469.23-2476.94: Portugal was maybe the only country where things backtracked a bit, again, due to the severe restrictions that we witnessed in Portugal. 
+asr:0: OUTPUT 2477.46-2484.76: Overall, I would say that the recovery is very satisfactory. We are very encouraged by what we see. 
+asr:0: OUTPUT 2485.23-2491.47: But bear in mind that we still have a few machines that we are not allowed to switch on. 
+asr:0: OUTPUT 2492.31-2497.20: And we are very keen to switch them on. Our finger is on the button. 
+asr:0: OUTPUT 2497.68-2504.18: And once we compress it, everything indicates that we will return to normality very quickly. 
+asr:0: OUTPUT 2504.66-2510.03: We are also monitoring official forecasts from reputable market sources. 
+asr:0: OUTPUT 2510.37-2513.75: And the return to normality is not something that we say. 
+asr:0: OUTPUT 2513.83-2523.72: The return to normality is something that markets, especially independent resources, also confirm will happen in the short term. 
+asr:0: OUTPUT 2524.46-2531.53: So, lots to do, lots going on, very keen on operating at full speed. We are just not allowed to do that. 
+asr:0: OUTPUT 2531.85-2535.76: But we feel that the demand is there and we have fundamental figures to prove that. 
+asr:0: OUTPUT 2538.32-2545.93: Just to clarify, minus 12% was on your portfolio, not just in Portugal. It was on your portfolio in Europe, yes? 
+asr:0: OUTPUT 2547.19-2548.41: My answer is about the back of the dress. 
+asr:0: OUTPUT 2549.25-2554.73: That is right, minus 12% across Europe. 
+asr:0: OUTPUT 2558.10-2566.21: Unfortunately, the answer there is no. We don't have any relevant news on the legal proceedings. 
+asr:0: OUTPUT 2567.65-2571.33: In terms of change of decisions from the court. 
+asr:0: OUTPUT 2571.91-2575.48: I think the good news is that the company is functioning well, operating normally. 
+asr:0: OUTPUT 2576.10-2583.64: We are obviously monitoring the situation and actively engaging with relevant parties. 
+asr:0: OUTPUT 2584.38-2587.41: But we don't have anything to announce as of this date yet. 
+asr:0: OUTPUT 2589.59-2592.77: OK, thank you very much. Thank you. 
+asr:0: OUTPUT 2596.58-2600.98: There are no further questions from the participant lines. I hand the floor back over to Ms. EOI Delores. 
+asr:0: OUTPUT 2604.60-2610.57: Okay, so if there are no more questions, I would like to thank everyone for listening. 
+asr:0: OUTPUT 2610.75-2617.76: I would also like to thank Giselle's initial remarks on commending us for presenting results before the holidays. 
+asr:0: OUTPUT 2617.96-2619.88: With a huge effort on the part of the teams. 
+asr:0: OUTPUT 2621.80-2627.91: But we are very happy that we were able to achieve this and present you with our Q2 results at this moment in time. 
+asr:0: OUTPUT 2628.09-2635.90: So thank you everyone. I would like to wish good holidays for those of you going on holidays and I hope you all remain safe and healthy. 
+asr:0: OUTPUT 2636.18-2643.64: Thank you very much and let's talk again when we present our Q3 results later in the year. Thank you, bye bye. 
+asr:0: END

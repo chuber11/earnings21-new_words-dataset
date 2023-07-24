@@ -1,0 +1,563 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.78-9.71: Welcome to the Goal Airlines 3rd Quarter 2021 Results Conference Call. 
+asr:0: OUTPUT 10.51-19.12: This morning the company made its numbers available along with three videos with the results presentation, financial review, and preliminary Q&A. 
+asr:0: OUTPUT 19.84-22.26: Goal hopes everyone connected has watched them. 
+asr:0: OUTPUT 23.26-29.47: After the company's brief remarks, we will initiate the Q&A session when further instructions will be provided. 
+asr:0: OUTPUT 31.13-34.53: This event is also being broadcast live via webcast. 
+asr:0: OUTPUT 34.73-44.68: And may be accessed through the company website at www.voegoal.com.br slash ir. 
+asr:0: OUTPUT 45.19-51.67: And on the MZIQ platform at www.mziq.com. 
+asr:0: OUTPUT 52.51-61.64: Those following the presentation via the webcast may post their questions on the platform, and their questions will either be answered by the management during this call. 
+asr:0: OUTPUT 61.66-65.83: Or by the Goal Investor Relations team after the conference is finished. 
+asr:0: OUTPUT 66.73-73.77: Before proceeding, let me mention that forward-looking statements are based on the beliefs and assumptions of goals management. 
+asr:0: OUTPUT 73.81-76.76: And on information currently available to the company. 
+asr:0: OUTPUT 77.44-85.71: They involve risks and uncertainties because they relate to future events and therefore depend on circumstances that may or may not occur. 
+asr:0: OUTPUT 86.89-91.97: Investors and analysts should understand that events related to macroeconomic conditions. 
+asr:0: OUTPUT 91.99-99.56: Industry and other factors could also cause results to differ materially from those expressed in such forward-looking statements. 
+asr:0: OUTPUT 100.92-106.11: At this time, I'll hand you over to Mr. Paul Kakanoff, CEO. Please begin. 
+asr:0: OUTPUT 107.95-115.68: Good morning everyone and welcome to GOL Red Line's quarterly earnings call. I would like to start by highlighting our most important achievements of this period. 
+asr:0: OUTPUT 116.50-122.24: The first one was a continued recovery in demand, which showed solid growth during the fourth quarter. 
+asr:0: OUTPUT 123.20-130.39: At the end of September, Brazil became fourth among all countries with the most vaccines administered against COVID-19. 
+asr:0: OUTPUT 131.47-139.58: Approximately 56% of Brazil's population is fully vaccinated and over 74% have received their first dose. 
+asr:0: OUTPUT 139.60-144.56: A higher percentage than the vast majority of the countries, including the United States. 
+asr:0: OUTPUT 145.61-153.05: Similar to demand trends in other markets, the rising vaccination rate in the general population is supporting the air market's long-going recovery. 
+asr:0: OUTPUT 154.19-162.28: As a result, gold's departures in the fourth quarter grew by 87%, reaching 53% of the levels in 2019. 
+asr:0: OUTPUT 163.32-171.71: In response to this demand, GOES is expanding its network and has already announced a new route from Congonhas to Bonito, starting this December. 
+asr:0: OUTPUT 173.11-182.32: We are taking a conservative approach to increasing capacity as travel demand recovers to help maintain high load factors and profitability in our routes. 
+asr:0: OUTPUT 183.42-187.65: The second important event was the transition of the fleet to Boeing Max. 
+asr:0: OUTPUT 188.67-194.29: In preparation for the strong recovery in air travel that we expect to see in the coming quarters. 
+asr:0: OUTPUT 194.31-202.80: We signed agreements to accelerate the transformation of our fleet with the acquisition of 28 additional Boeing 737 MAX 8 aircraft. 
+asr:0: OUTPUT 203.76-209.23: This initiative is expected to reduce the company's unit cost by 8% in 2022. 
+asr:0: OUTPUT 210.49-217.94: Under the new contracts, we will run 2021 with 28 MAX aircraft, which represents 20% of the fleet. 
+asr:0: OUTPUT 218.44-225.61: By the end of 2022, we expect to have 44 MAX aircraft, raising this total to 32%. 
+asr:0: OUTPUT 226.57-234.13: With current purchase commitments, we will meet our 2030 goal of having 75% of the fleet in this new aircraft. 
+asr:0: OUTPUT 235.01-240.24: And as is widely recognized, the MAX is 15% more fuel efficient. 
+asr:0: OUTPUT 240.26-246.57: Generates 60% less carbon emissions and is 40% quieter compared to the energy. 
+asr:0: OUTPUT 247.21-255.02: These aircraft position us to grow even more competitively, expanding routes to new destinations and providing efficiency gains. 
+asr:0: OUTPUT 255.03-259.18: All of which will capture more value for all our stakeholders. 
+asr:0: OUTPUT 260.40-265.71: The third important achievement was the conclusion of the merger with Smiles into GLE. 
+asr:0: OUTPUT 266.51-278.16: The transaction will generate greater value from several operational synergies as well as new opportunities and strategies that will become even more significant during the airline market recovery. 
+asr:0: OUTPUT 279.08-288.63: We are optimistic that the synergies from this corporate reorganization are expected to be approximately R$3 billion in net present value for the next five years. 
+asr:0: OUTPUT 288.73-295.52: And the subsequent benefits to our shareholders will be realized in a relatively short period of time. 
+asr:0: OUTPUT 296.54-303.48: With that, I will hand the floor over to Richard, our CFO, who will present some financial highlights. 
+asr:0: OUTPUT 305.95-311.77: Thank you, Kaki. Our most recent notable event was the success of our liability management program. 
+asr:0: OUTPUT 312.11-318.80: In September, we issued $150 million in a retap at 8% annual interest rate. 
+asr:0: OUTPUT 318.82-322.54: On our senior secured notes maturing in 2026. 
+asr:0: OUTPUT 323.02-325.35: Moody's assigned the notes a rating of B2. 
+asr:0: OUTPUT 326.15-332.47: Proceeds from the offering will be used for general corporate purposes, including aircraft acquisitions and working capital. 
+asr:0: OUTPUT 333.47-341.96: In October, we refinanced our short-term bank debt in the amount of 1.2 billion reais via the extension of the seventh series of debentures. 
+asr:0: OUTPUT 341.98-347.37: And the issuance of our eighth series of simple non-convertible debentures. 
+asr:0: OUTPUT 347.97-355.92: This refinancing enabled the company to return to its lowest level of short-term debt since 2014 at about half a billion reais. 
+asr:0: OUTPUT 356.24-364.12: Which will also improve Goal's credit metrics by better matching future assets and liabilities and reducing the company's average cost of debt. 
+asr:0: OUTPUT 365.21-368.85: Our next relevant maturity date for outstanding debt is not until July. 
+asr:0: OUTPUT 371.25-379.46: Gold's balance sheet is now in a stronger position in terms of its outstanding debt versus our peers, which we view to be a competitive advantage in the current market environment. 
+asr:0: OUTPUT 380.12-385.41: In addition, the company advertised around 518 million reals of debt in this quarter. 
+asr:0: OUTPUT 386.01-391.31: The average maturity of goals long-term debt, excluding aircraft leases and perpetual notes,. 
+asr:0: OUTPUT 391.33-396.28: Is approximately 3.4 years with the main obligations already addressed in our cash flow. 
+asr:0: OUTPUT 397.90-406.53: The net debt ratio, excluding exchangeable notes and perpetual bonds to adjusted last 12-month EBITDA, was 9.7 times on September 30th, 2011. 
+asr:0: OUTPUT 407.07-411.07: Representing the lowest financial leverage among peers. 
+asr:0: OUTPUT 412.33-416.28: Considering the amounts fundable from deposits and unencumbered assets,. 
+asr:0: OUTPUT 416.30-422.86: The company's potential sources of liquidity resulted in approximately 6.1 billion reais of accessible liquidity. 
+asr:0: OUTPUT 424.22-429.41: The recent capitalization of the balance sheet was a capital increase led by the majority shareholder. 
+asr:0: OUTPUT 429.43-434.41: Represented the recognition of Gold's value as Brazil's largest airline with the best product. 
+asr:0: OUTPUT 435.18-444.78: The refinancing of our short-term bank debt in October added to long-term capital of 2.7 billion reais raised in the second and third quarters of this year. 
+asr:0: OUTPUT 444.88-450.41: Totals over 3.9 billion reais of capital raised in the last seven months. 
+asr:0: OUTPUT 451.85-459.66: As for our discussion of financial results for the quarter, it was shared this morning in the video presentation and we believe you all had a chance to access that. 
+asr:0: OUTPUT 460.48-466.85: In short, our work to reestablish operating margins that can support the sustained growth of our operations is bearing fruit. 
+asr:0: OUTPUT 467.65-475.40: We ended the third quarter with an EBIT reaching 338 million Reais and an operating margin totaling 17.7%. 
+asr:0: OUTPUT 475.78-485.47: Concurrently, the Jocity Bidah reached R$464 million with a 24.3% margin, evidencing our successful efforts in matching supply and demand. 
+asr:0: OUTPUT 486.47-488.49: I will now return back over to Kakuno. 
+asr:0: OUTPUT 490.21-499.86: Thanks Richard. We are seeing a recovering demand for air travel and we believe that now, with greater population immunization and the significant expansion of vaccination,. 
+asr:0: OUTPUT 499.88-502.38: We will have a strong fourth quarter. 
+asr:0: OUTPUT 502.40-505.11: Coinciding with the start of the summer season. 
+asr:0: OUTPUT 506.03-513.55: I would like to close by thanking our employees, the team of Egos, who are working with extreme professionalism and commitment. 
+asr:0: OUTPUT 514.31-521.10: All this intimidation puts us in a solid position to expand operations and achieve profitable growth. 
+asr:0: OUTPUT 521.68-528.89: We reiterate our confidence that gold will emerge strong and even more resilient as markets normalize. 
+asr:0: OUTPUT 529.97-532.49: Now I would like to initiate the Q&A session. 
+asr:0: OUTPUT 534.01-543.62: Thank you. The conference call is now open for questions. If you have a question, please press star 1 on your touchtone phone at this or any time. 
+asr:0: OUTPUT 544.28-549.85: If at any point your question is answered, you may remove yourself from the queue by pressing star 2. 
+asr:0: OUTPUT 550.67-556.80: We ask that when you ask your questions, speak close to the receiver of the device so that everyone can hear you clearly. 
+asr:0: OUTPUT 557.50-561.52: Participants can also send questions via the webcast platform. 
+asr:0: OUTPUT 562.02-568.53: You need to click on the question mark in the upper left corner and type in your question. Please hold while we poll for questions. 
+asr:0: OUTPUT 573.55-577.42: Our first question is from Steven Trent with Citi. Please go ahead. 
+asr:0: OUTPUT 580.02-584.54: Good morning, gentlemen, and thanks very much for taking my questions, guys. 
+asr:0: OUTPUT 585.77-594.63: I just kind of wanted your high-level views on international demand to the US spooling up again. 
+asr:0: OUTPUT 595.03-603.68: Now that you're partnering with American Airlines, what sort of bigger opportunity are you seeing on the horizon? 
+asr:0: OUTPUT 604.46-611.47: And do you see any opportunity as well for American to possibly increase its stake and goal at some point in the future? 
+asr:0: OUTPUT 615.16-621.82: Thank you very much for your question. Let me give you an overview on the North American market specifically. 
+asr:0: OUTPUT 622.92-629.79: Firstly, you know, we are now gradually reintroducing our international roots. 
+asr:0: OUTPUT 630.07-640.92: We have already made available the ticket sales for Cancun, Mexico, Dominican Republic. 
+asr:0: OUTPUT 640.94-645.97: And we are now resuming flight to Montevideo and Buenos Aires. 
+asr:0: OUTPUT 646.13-647.31: United States. 
+asr:0: OUTPUT 648.09-657.26: Will be likely the roots to be added in our international portfolio by the second quarter next year. 
+asr:0: OUTPUT 657.40-659.64: And this is because you're right. 
+asr:0: OUTPUT 659.84-665.04: The borders are now open to the Brazilians, but. 
+asr:0: OUTPUT 665.09-673.19: And there is a considerable but which is the default, the exchange rate. 
+asr:0: OUTPUT 673.21-682.50: Made the purchase, the ticket purchase, and the whole trip cost, including hotel, strategy card expense. 
+asr:0: OUTPUT 682.52-685.43: Pretty expensive from a Brazilian perspective. 
+asr:0: OUTPUT 686.21-692.39: You know, the Real has devaluated quite significantly along the last quarter. 
+asr:0: OUTPUT 692.85-697.96: So, the geoeconomic conditions... 
+asr:0: OUTPUT 698.92-704.96: Also were affected during the last three months. 
+asr:0: OUTPUT 705.04-709.37: And the combination of a clear excitement. 
+asr:0: OUTPUT 709.39-723.38: To resume, international trips has a great contrast with the important constraints imposed by the exchange rate. 
+asr:0: OUTPUT 723.50-728.21: So the passengers are willing to fly mainly to the United States. 
+asr:0: OUTPUT 728.23-734.45: But that trip became quite expensive at the moment. 
+asr:0: OUTPUT 734.67-740.02: So I cannot say that there is a boom. 
+asr:0: OUTPUT 740.10-749.01: Related to North American airline tickets to fly to the United States. 
+asr:0: OUTPUT 749.71-754.79: You know, we are about to begin the Brazilian high season, December and January. 
+asr:0: OUTPUT 755.76-757.86: And cheap coffee. 
+asr:0: OUTPUT 757.88-765.83: That at the period when you see more passengers willing to travel for leisure purpose. 
+asr:0: OUTPUT 766.11-773.27: This is not going to be different this year, maybe slightly better for the international market. 
+asr:0: OUTPUT 773.43-777.78: And the second constraint, which is also affecting the demand,. 
+asr:0: OUTPUT 777.80-792.95: Is that there is a backlog to provide North American visas to the Brazilians, which will not be solved, or neither addressed, in the short term. 
+asr:0: OUTPUT 793.03-799.22: So if you have a family of five members,. 
+asr:0: OUTPUT 799.26-806.09: It's pretty much likely that at least one of them has no private visa at the moment. 
+asr:0: OUTPUT 806.17-810.17: Making it not possible to fly to the United States. 
+asr:0: OUTPUT 810.21-827.59: So all those things combined are affecting the potential flight catch-up that we could get if not by these two constraints. 
+asr:0: OUTPUT 827.63-829.73: And finally, in our case. 
+asr:0: OUTPUT 830.97-839.70: We have the partnership with American Alliance who has already deployed a considerable. 
+asr:0: OUTPUT 839.72-843.36: Capacity increase for the following three months. 
+asr:0: OUTPUT 843.76-852.11: So we have decided to support that investment. 
+asr:0: OUTPUT 852.19-864.06: By selling the American Alliance tickets in our channels, as we have done already since April 2020. 
+asr:0: OUTPUT 865.47-871.25: And through that strategy, we are simultaneously attending our customers. 
+asr:0: OUTPUT 871.27-880.40: And supporting this additional capacity increase deployed by American Alliance, our partner. 
+asr:0: OUTPUT 880.70-888.83: We believe that this is the best strategy to cope with the current demand. 
+asr:0: OUTPUT 889.01-895.82: And then we will resume our flight from Brasilia to Florida. 
+asr:0: OUTPUT 895.98-905.09: A market which has not been attended by American Alliance at the moment from the second quarter next year on. 
+asr:0: OUTPUT 905.19-914.03: So this is an overview of the North American market from a Brazilian perspective in the airline segment. 
+asr:0: OUTPUT 915.88-927.61: Super, Kaki, really appreciate that. And just very quickly, one last thing, on business travel, any sort of high-level trends you're seeing in the domestic market? And let me leave it at that. Thank you. 
+asr:0: OUTPUT 930.37-938.98: You might be surprised by the speed. 
+asr:0: OUTPUT 939.00-946.91: To which the business segment is recovering. 
+asr:0: OUTPUT 947.13-950.87: Its pre-pandemic level. 
+asr:0: OUTPUT 951.53-959.36: We are now verifying, identifying actually, that some specific segments in Brazil. 
+asr:0: OUTPUT 959.38-965.67: Is catching up its business-level behavior. 
+asr:0: OUTPUT 965.77-972.23: Even above the pre-pandemic level. Those are the services, generally speaking,. 
+asr:0: OUTPUT 972.29-982.30: Mainly those companies pretty much benefited by the new customer behavior. 
+asr:0: OUTPUT 982.50-989.71: So like food delivery, just to say one example, and e-commerce. 
+asr:0: OUTPUT 990.69-996.60: So those segments are booming and they are probably more than they were. 
+asr:0: OUTPUT 996.70-999.84: Before the pre-pandemic and also. 
+asr:0: OUTPUT 1000.00-1015.44: If I could say so, some of the traditional segments, those are pretty strong in Brazil, such as the agricultural business, oil and gas, and some specific industries. 
+asr:0: OUTPUT 1015.66-1031.47: We foresee that by the beginning of the next year, we might be above our prior projection, which has considered that one-third of the business travelers would be gone for good. 
+asr:0: OUTPUT 1031.59-1033.69: Which might be not the case. 
+asr:0: OUTPUT 1033.81-1040.86: So it's too early to be precise on that projection. 
+asr:0: OUTPUT 1040.94-1050.11: But at this moment, we see that some segments are recovering faster than expected. 
+asr:0: OUTPUT 1051.89-1059.92: Great. Thank you very much, Kaki. Thank you. The next question is from Mike Lindenberg with Deutsche Bank. Please go ahead. 
+asr:0: OUTPUT 1060.76-1062.34: Oh yeah, hey, good morning everybody. 
+asr:0: OUTPUT 1062.86-1068.43: I want to just run through liquidity and I want to make sure I'm comparing apples to apples here. 
+asr:0: OUTPUT 1068.45-1075.84: Step two, your total liquidity, it looked like it ended at 2.1 billion reais and you're guiding to 3.8 at year end. 
+asr:0: OUTPUT 1076.52-1083.86: Is that predominantly the American Airlines investment and an improvement or an increase in your ATL? 
+asr:0: OUTPUT 1084.44-1087.13: Or is there other things we should be mindful of? 
+asr:0: OUTPUT 1088.91-1090.15: Of the. 
+asr:0: OUTPUT 1090.23-1094.21: Any transaction that's not closed is not in those numbers. 
+asr:0: OUTPUT 1094.23-1101.38: So that is not in those numbers, Michael, nor is new additional capital rates. 
+asr:0: OUTPUT 1103.42-1108.55: The Q3 number, and I'll walk you through that. Q3 number. 
+asr:0: OUTPUT 1108.57-1112.65: Which was composed of the four billion rides that you mentioned. 
+asr:0: OUTPUT 1112.67-1118.74: Which is about 1.1 billion of cash investments, about 300 million reais. 
+asr:0: OUTPUT 1118.76-1127.47: Of restricted cash, about 600 million rai of accounts receivable, and 1.9 billion rai of deposits. 
+asr:0: OUTPUT 1127.77-1132.27: The way that would break down in the Q4 would be about... 
+asr:0: OUTPUT 1132.29-1142.76: 900 to a billion Reais of cash and investments, which is down around 200 million Reais. 
+asr:0: OUTPUT 1142.84-1152.85: Because as we ramp up to the high season and get our fleet back up above 100 operating aircraft, we're investing in working capital, spare parts. 
+asr:0: OUTPUT 1152.97-1154.81: If you will, to. 
+asr:0: OUTPUT 1154.83-1157.02: Get all these aircraft up and flying. 
+asr:0: OUTPUT 1157.12-1164.98: So that's effectively going into assets, but it's obviously consuming some liquidity and to some extent it's also. 
+asr:0: OUTPUT 1165.01-1170.73: Increasing our spare parts inventory, which supports the collateral in our Senior Security Notes program. 
+asr:0: OUTPUT 1171.35-1175.52: The restricted cash will be a similar balance of around 300 million reais. 
+asr:0: OUTPUT 1176.50-1181.44: Accounts receivable increases about $300 million to $800 million. 
+asr:0: OUTPUT 1181.46-1188.65: Millionary eyes that's obviously associated with the ramp up in operations that we expect by the q1. 
+asr:0: OUTPUT 1188.67-1193.15: We should be back to a more normalized level of accounts receivable. 
+asr:0: OUTPUT 1193.25-1196.84: Which should be somewhere between 1 to 1.2 billion Reais. 
+asr:0: OUTPUT 1198.00-1203.08: The positive amount goes down from the Q3 to the Q4. 
+asr:0: OUTPUT 1203.42-1208.07: I have about 100 million reais because as we return aircraft... 
+asr:0: OUTPUT 1209.13-1216.54: We use some of those security deposits as well as maintenance reserve deposits to cost out. 
+asr:0: OUTPUT 1216.56-1221.52: The returns of the MGs, because as you know, we're accelerating our transition from the MGs to the masses. 
+asr:0: OUTPUT 1222.26-1225.19: And so we're using... 
+asr:0: OUTPUT 1225.21-1228.63: Those deposits to cost out their proper delivery. 
+asr:0: OUTPUT 1228.71-1236.66: Which is why, as we've said, we do have access to those deposits as it relates to the asset that they're supporting. 
+asr:0: OUTPUT 1237.22-1240.72: And so that's why we include that number in our liquidity. 
+asr:0: OUTPUT 1240.98-1245.15: So that basically, there's no external capital raising in there, it's all operational. 
+asr:0: OUTPUT 1245.31-1251.89: So the difference, which is around that total number down from 4 billion to. 
+asr:0: OUTPUT 1251.97-1253.53: 3.8 billion. 
+asr:0: OUTPUT 1253.65-1263.46: It basically represents an investment in working capital spare parts to end the year with a little over 100 operating aircraft. 
+asr:0: OUTPUT 1264.32-1271.37: Douglas Goldstein, CFPÆ, is the director of Profile Investment Services and the host. 
+asr:0: OUTPUT 1272.33-1281.58: Capital raising in there as you know we have in addition to that and kind of maybe taking advantage of your question because we have some questions on how we get to the 6.1 billion of liquidity. 
+asr:0: OUTPUT 1282.54-1283.98: In addition to what I described. 
+asr:0: OUTPUT 1284.00-1285.15: You know, we have. 
+asr:0: OUTPUT 1285.17-1290.37: Potential financing sources of, based on. 
+asr:0: OUTPUT 1290.39-1295.62: Unencumbered assets that we have of a little over two billion reacts. 
+asr:0: OUTPUT 1295.72-1301.98: And so how we get to the $6 billion, the additional $2 billion comes out of unencumbered assets, about half of that. 
+asr:0: OUTPUT 1302.38-1306.85: Is the collateral we have through the loyalty program. 
+asr:0: OUTPUT 1306.95-1313.51: In the Q3, we finalized the take-in of the loyalty program, so now we control 100% of those assets. 
+asr:0: OUTPUT 1313.57-1319.26: The additional collateral we have in their parts intellectual property. 
+asr:0: OUTPUT 1319.40-1325.85: Which if we wanted to could be deposited into our Senior Secure Notes program to raise additional capital. 
+asr:0: OUTPUT 1325.87-1328.13: We have no plans currently. 
+asr:0: OUTPUT 1328.25-1333.63: To do anything with this additional collateral, but it is important to highlight that the unencumbered assets that we have. 
+asr:0: OUTPUT 1333.65-1341.82: Represents a potential additional two billion rise of long-term capital should we choose to pursue that. 
+asr:0: OUTPUT 1342.62-1344.32: Okay, now that's super helpful. 
+asr:0: OUTPUT 1344.36-1347.87: You're always helpful in sort of calling out. 
+asr:0: OUTPUT 1347.95-1358.22: Douglas Goldstein, financial planner & investment advisor, interviewed Stewart on Arutz Sheva Radio. 
+asr:0: OUTPUT 1358.74-1368.37: Now over the year, that number has actually moved up meaningfully despite the fact that you are putting more people and planes back into service. 
+asr:0: OUTPUT 1368.43-1369.91: Is that in affects. 
+asr:0: OUTPUT 1370.05-1378.20: Related issue what's driving that number or am I just my logic and thinking that as you put more people in planes back to work and that that should go down. 
+asr:0: OUTPUT 1378.66-1380.00: That's that logic. 
+asr:0: OUTPUT 1380.16-1384.44: That maybe there's something wrong there and how it's being accounted for. If you could just detail that. Thanks, Rich. 
+asr:0: OUTPUT 1386.11-1391.69: I think it's a depreciation effect, Michael, which is a non-cash effect in there. 
+asr:0: OUTPUT 1392.27-1396.26: OK, let me let me let me get back to that because that's a more technical. 
+asr:0: OUTPUT 1396.38-1398.08: But obviously in that. 
+asr:0: OUTPUT 1398.10-1406.75: You know, in the unit cost is the depreciation, and so part of it relates to that. 
+asr:0: OUTPUT 1407.47-1413.61: Also, in the Q3, the number of flights is still reduced. 
+asr:0: OUTPUT 1415.20-1420.62: And so there's a substantial ramp up in the Q4. 
+asr:0: OUTPUT 1420.96-1426.61: And uh... I will never work back but in the in the q three also in the month of uh... To cover you know. 
+asr:0: OUTPUT 1426.65-1431.73: We had to scale back a little bit given the transition of our PSS. 
+asr:0: OUTPUT 1431.77-1444.78: Which impacted our scale and our revenues and our ability to improve fixed cost solution because of the migration to the. 
+asr:0: OUTPUT 1444.80-1448.77: The revenue system which was done in August and September. 
+asr:0: OUTPUT 1448.99-1458.04: But in the Q3, you know, we had 70 aircraft operators, and so we still had 60 aircraft still idle in the Q3. 
+asr:0: OUTPUT 1458.12-1461.78: And so what you're seeing there in the Q3 is the effect of those 60 aircraft. 
+asr:0: OUTPUT 1463.74-1470.05: Still idle, that number at the end of the Q4 will be reduced to, you know, hopefully less than 30. 
+asr:0: OUTPUT 1471.15-1473.97: And so those, you know, it works. 
+asr:0: OUTPUT 1474.43-1482.44: We're trying to separate that out. I think we're one of the few companies that tried to separate that out for you guys, in other words, separating the idle costs versus the total. 
+asr:0: OUTPUT 1483.24-1493.19: But we'll probably only see a normalization on a unit cost basis for comparative purposes in the Q1. Because we're still going to have idle costs in the Q2. 
+asr:0: OUTPUT 1494.15-1498.56: So now when you say normal in Q1, are you saying that approaches zero? 
+asr:0: OUTPUT 1498.58-1507.71: In Q1 or I'm just assuming it gets to zero by the back part of 2022 but maybe maybe it gets there sooner. Oh no no no no in the Q1 because again we're. 
+asr:0: OUTPUT 1507.87-1511.63: We've returned aircraft. We are... 
+asr:0: OUTPUT 1511.71-1519.72: This Q4 is activation of a majority of the grounded aircraft. 
+asr:0: OUTPUT 1520.00-1523.40: And as we get into the January, February high season. 
+asr:0: OUTPUT 1523.54-1528.03: There might be a little bit in there in the Q4, but for the most part, we'll be eliminating. 
+asr:0: OUTPUT 1528.13-1530.71: And then when you get into the normal seasonality. 
+asr:0: OUTPUT 1530.91-1540.86: Q2 for us is kind of a down seasonality normally. We'll have to see where, how the, as Kaki said, we could have some positive surprises on the corporate demand. 
+asr:0: OUTPUT 1541.14-1546.01: Taking the Q2 of next year a little bit better than we might normally see. 
+asr:0: OUTPUT 1546.09-1547.61: But I'll cross the Q1. 
+asr:0: OUTPUT 1547.95-1550.51: Again, we're 100% domestic focused. 
+asr:0: OUTPUT 1550.71-1553.59: We don't have wide bodies, we don't depend on the international piece. 
+asr:0: OUTPUT 1553.71-1561.94: And, you know, the right sizing we did on our capacity, in our fleet, if you will, should kind of, you know, triangulate to. 
+asr:0: OUTPUT 1561.96-1569.49: You know, goal being back to more or less normalized operating efficiency by end of December, beginning of January. 
+asr:0: OUTPUT 1570.25-1573.35: Okay, great. Thanks for that, Rich. Thanks, everyone. 
+asr:0: OUTPUT 1574.81-1579.20: The next question is from Dan McKenzie with Seaport Global Securities. Please go ahead. 
+asr:0: OUTPUT 1580.66-1581.66: Oh hey, good morning guys. 
+asr:0: OUTPUT 1582.04-1583.16: A couple questions here. 
+asr:0: OUTPUT 1583.20-1592.17: I guess first another question on the corporate recovery, big picture, what are you hearing from corporate customers today on their travel plans for next year? 
+asr:0: OUTPUT 1592.75-1594.77: And then just related to that. 
+asr:0: OUTPUT 1594.79-1604.10: Given the FX volatility, I believe there's a certain percent of the revenue that actually benefits from a weaker Brazilian hail. I'm thinking the oil and gas sectors, I'm thinking agriculture. 
+asr:0: OUTPUT 1604.60-1612.67: So it seems like there should be a component of the revenue there that should do a little better if the Brazilian hail weakens. But maybe you could clarify or even correct me on that. 
+asr:0: OUTPUT 1615.76-1619.36: Just quickly, the customers that. 
+asr:0: OUTPUT 1619.42-1626.59: The large corporates, they are basically saying they will resume flights on January 1. 
+asr:0: OUTPUT 1626.77-1637.78: And it is somehow attached to their home office policy, which is for the vast majority, rather than to the end of this year. 
+asr:0: OUTPUT 1639.72-1644.04: When we talk specifically to those statements you have just repeated,. 
+asr:0: OUTPUT 1645.27-1654.55: They are already pulling some troubles ahead, but this is not even close to the potential. 
+asr:0: OUTPUT 1654.95-1657.86: They have to go to the next year on. 
+asr:0: OUTPUT 1659.28-1660.90: In a side note. 
+asr:0: OUTPUT 1661.44-1667.07: The way we have structured ourselves to address that specific market. 
+asr:0: OUTPUT 1667.09-1675.54: By a new passenger service system disabled, we will likely give us an additional. 
+asr:0: OUTPUT 1675.56-1692.65: Set of false sayers because we can now in a much more flexible and fast way address some specific demands raised by the corporate side. 
+asr:0: OUTPUT 1692.71-1702.30: So I believe that we will have the combination of a better product with a redesigned network which might accelerate. 
+asr:0: OUTPUT 1702.88-1706.63: The big speed. 
+asr:0: OUTPUT 1706.71-1715.32: We are now envisioning to see that segment catching up. 
+asr:0: OUTPUT 1717.88-1722.02: I guess, go ahead, I'm sorry Rich, go ahead please. 
+asr:0: OUTPUT 1724.60-1731.95: Well, I guess, you know, just tied to that point, I guess what I was trying to get at is it seems like there should be some pent up demand next year. 
+asr:0: OUTPUT 1732.07-1740.00: And so I guess I just was thinking that there's potentially some more revenue upside here that folks might be underappreciating. 
+asr:0: OUTPUT 1740.52-1748.57: But going back to, I guess, a question for Edu, or is just with respect to that cut over a saber that you just referenced. 
+asr:0: OUTPUT 1748.69-1753.13: The ability to market products in a way digitally that you haven't been able to historically. 
+asr:0: OUTPUT 1753.67-1760.72: So you think about the grand vision, what is the time frame for exploiting that full capability and how material could that be? 
+asr:0: OUTPUT 1762.24-1763.42: I think that's going to be it. 
+asr:0: OUTPUT 1763.84-1772.57: So we're going to have 100% of the improvements and enhancements deployed until the end of this year. 
+asr:0: OUTPUT 1773.13-1782.66: And then we will review gradually because those are marketing events. We will be gradually offering that to the customers around 2020. 
+asr:0: OUTPUT 1783.92-1793.09: It's really difficult to give you a flavor on how material those improvements can be. 
+asr:0: OUTPUT 1794.45-1802.60: We are now basically closing every single gap that we could get from a customer service point of view. 
+asr:0: OUTPUT 1803.66-1811.49: To a full legacy company at the same time. 
+asr:0: OUTPUT 1812.45-1820.16: At the same time that we are now resuming the CASC advantage. 
+asr:0: OUTPUT 1820.64-1824.50: That we always had. So I believe that the combination of the two things. 
+asr:0: OUTPUT 1824.84-1833.47: It's more than promising. It's something that can definitely positively affect our results. 
+asr:0: OUTPUT 1833.51-1845.09: But I wouldn't like to, because I couldn't at the moment, to share any percentage or precise numbers on that expectation. 
+asr:0: OUTPUT 1847.27-1848.41: Okay, thanks for the time you guys. 
+asr:0: OUTPUT 1850.17-1853.93: Let me just, before we go to the next question on the cell site analyst. 
+asr:0: OUTPUT 1854.31-1862.06: Let me weave in a question we have from one of our Bitesize investors sending us questions on the platform. 
+asr:0: OUTPUT 1862.64-1868.25: And I'll basically do that so that we don't have to save the people that sent the... 
+asr:0: OUTPUT 1868.89-1878.86: The questions through the platform don't have to wait until the end of this, but we'll come back to the next question from the cell-side analysts after I go through this question from one of our... 
+asr:0: OUTPUT 1879.60-1880.60: Thank you. 
+asr:0: OUTPUT 1882.58-1885.67: It has three components on the results. 
+asr:0: OUTPUT 1887.97-1897.56: This is explaining what was the write-off of deposits for aircraft lease deposits and maintenance and curb deposits. 
+asr:0: OUTPUT 1898.64-1904.88: So just to explain that to you and to answer your question, in the cash flow in the quarter,. 
+asr:0: OUTPUT 1905.67-1911.99: We recognized provisions for return of aircraft of 176 million reais. 
+asr:0: OUTPUT 1913.25-1922.18: And against that, we were able to use and reverted R166 million of maintenance reserves. 
+asr:0: OUTPUT 1923.16-1927.21: And then we reduced the number of people who were in the room. 
+asr:0: OUTPUT 1927.25-1934.09: We have a reduction in deposits of 264 million Reais. 
+asr:0: OUTPUT 1934.51-1940.20: And all this relates to what I was speaking about previously, but it refers to... 
+asr:0: OUTPUT 1940.22-1953.15: Us maintaining current, our maintenance provisions for the transformation of the fleet from Max's to Angie's. 
+asr:0: OUTPUT 1954.03-1958.96: Provision for the return of aircraft that's in that, and you can see that in the... 
+asr:0: OUTPUT 1958.98-1964.62: In the tables in the back of the release and also in the footnotes of the financial statement is about 176 million rise. 
+asr:0: OUTPUT 1964.66-1970.97: Which has to be a provision because, you know, from an accounting perspective, because we are accelerating the return of NGS to Maxis. 
+asr:0: OUTPUT 1972.45-1985.65: And we are no longer constituting any more MENUS reserves because we're utilizing deposits, MENUS reserve deposits, to cost that out, as I mentioned in the previous question. 
+asr:0: OUTPUT 1986.29-1994.85: So there's more or less a 100% offset between use of maintenance reserves and what I just mentioned. 
+asr:0: OUTPUT 1995.06-2001.12: Within that question as well, what was the provision for legal proceedings in your cash flow? 
+asr:0: OUTPUT 2001.68-2008.95: In the cash flow, we have payment for legal proceedings. 
+asr:0: OUTPUT 2009.25-2018.94: In there, about 150 million reais related to contingencies on peace and co-fins taxes. 
+asr:0: OUTPUT 2019.98-2028.45: And then there is in that amount as well in that legal proceedings line item that you're looking at there, the person who asked the question. 
+asr:0: OUTPUT 2029.15-2035.92: There are other credits that increase the 192 million realities that compensate. 
+asr:0: OUTPUT 2036.54-2042.36: As compensate these values of these legal proceedings in the same amount. 
+asr:0: OUTPUT 2043.00-2048.73: And then the final component of the question in that category, what was the... 
+asr:0: OUTPUT 2048.75-2054.67: What was the reason for the increase in other expenses in the third quarter versus the second quarter of 2021? 
+asr:0: OUTPUT 2055.30-2059.68: Which is basically 296 million reais versus 167 million reais. 
+asr:0: OUTPUT 2061.14-2073.75: And that is a necessity we had to constitute an increased provision for contingencies on peace and co-pay taxes for the importation of aircraft. 
+asr:0: OUTPUT 2074.49-2097.48: Because one of our peers, Azul, lost a process in the amount of, lost a lawsuit in the amount of 150 million reais, and so that forced us to change our perspective from a possible loss on that discussion if those taxes apply to the importation of aircraft to probable. 
+asr:0: OUTPUT 2098.32-2106.67: And in the accounting policies process, when it goes to probable, you then have to constitute a provision. 
+asr:0: OUTPUT 2106.95-2124.48: That was based on, we have not yet lost the discussion with the government, but as one of our peers did lose the discussion, that then creates the need to increase the amount of provision on that. 
+asr:0: OUTPUT 2124.60-2132.23: So hopefully that answers your questions on some of those details as you're looking at those items that are less focused on. 
+asr:0: OUTPUT 2132.35-2138.16: Operator, we can go back to the call list on the cell side analysis. 
+asr:0: OUTPUT 2140.00-2143.56: This question will be from Sally Fifth with Raymond James. Please go ahead. 
+asr:0: OUTPUT 2145.97-2148.69: Hey, good morning. This is Matt on for Savi here. 
+asr:0: OUTPUT 2149.53-2159.36: Hi there, Rich Orkaki. If you could, regarding the 2022 CASCX outlook, the 8% reduction versus 2019. 
+asr:0: OUTPUT 2160.00-2168.05: You give us a little bit of color in what you're thinking in terms of capacity production and utilization there? Also, is there any change in. 
+asr:0: OUTPUT 2168.07-2172.51: In the NGV deliveries or anything we should consider there? 
+asr:0: OUTPUT 2174.07-2180.36: Sorry, you're asking about, we didn't, can you repeat the question? Because I think you're asking about 22. 
+asr:0: OUTPUT 2181.40-2185.85: 2022, right, the CASS, okay, so I think it was more so maybe on the... 
+asr:0: OUTPUT 2186.41-2191.85: You talked about an 8% reduction in cask from the fleet. I wasn't sure if the... 
+asr:0: OUTPUT 2192.01-2194.03: The slide, I believe it was 23. 
+asr:0: OUTPUT 2195.01-2197.22: In early outlook into 2022. 
+asr:0: OUTPUT 2199.04-2208.83: The MAX has a lower operating cost than the NGs, and so as our aircraft portfolio increases, the amount of aircraft that are MAXed. 
+asr:0: OUTPUT 2209.01-2216.72: That has an effect of reducing our unit cost. 
+asr:0: OUTPUT 2216.80-2223.66: The main source of that is the lower fuel consumption. We're getting the as advertised. 
+asr:0: OUTPUT 2223.92-2228.57: Roughly, for us, it's about 16% less fuel consumption. 
+asr:0: OUTPUT 2229.65-2231.29: So I think that's what you're asking about. 
+asr:0: OUTPUT 2232.61-2239.06: Okay, certainly that makes sense. I'm sorry, I thought it was maybe earlier looking at 2022. 
+asr:0: OUTPUT 2240.00-2241.96: On the cask ox side. 
+asr:0: OUTPUT 2242.02-2250.43: Is there anything that we should consider though in terms of how you plan to return to your fleet utilization or capacity early looking at 2022 that we should consider? 
+asr:0: OUTPUT 2251.81-2253.87: Beyond the few settings there. 
+asr:0: OUTPUT 2255.34-2264.52: So the question, I mean, we'll be back, you know, in our ecosystem, we'll be back to more normalized aircraft utilization numbers in the Q1. 
+asr:0: OUTPUT 2265.89-2268.33: Which for us is, you know,. 
+asr:0: OUTPUT 2268.47-2277.76: It should be, the sweet spot for us is 12 hours a day of utilization. We expect to be back above 11 hours of utilization in the Q1. 
+asr:0: OUTPUT 2280.14-2284.50: Thanks, Rich. And then if I go on the revenue side. 
+asr:0: OUTPUT 2284.78-2294.75: Versus what you were thinking in late July, last quarter when you provided guidance to now what's in the four key revenue outlook. 
+asr:0: OUTPUT 2295.86-2302.52: What has changed? I know you talk about looking out into one queue, how some corporate segments have come back faster. 
+asr:0: OUTPUT 2303.34-2308.61: That 4Q number has gone lower versus late July, so I was wondering what has changed since then. 
+asr:0: OUTPUT 2310.61-2314.93: I think we revised down the revenue forecast for the Q4. 
+asr:0: OUTPUT 2315.76-2317.60: It's mainly based on. 
+asr:0: OUTPUT 2317.62-2320.42: Lower overall yields in the market. 
+asr:0: OUTPUT 2320.76-2328.89: And which has a big effect just given the still situation of low efficiency. 
+asr:0: OUTPUT 2329.37-2333.41: And then also, and that's overall market, that's not just us. 
+asr:0: OUTPUT 2333.49-2341.40: And then the – and we've been staying out of the way of that scenario, and how do we stay out of the way of that? 
+asr:0: OUTPUT 2341.42-2343.50: You know, we keep capacity. 
+asr:0: OUTPUT 2343.52-2344.58: Lower. 
+asr:0: OUTPUT 2345.19-2351.27: So when you combine those effects, you know, it's staying out of the way of the low-yield environment, given the overcapacity. 
+asr:0: OUTPUT 2351.29-2360.02: Coming out of competitors and adjusting our offer down or our capacity down, you know, those two effects magnify. 
+asr:0: OUTPUT 2360.18-2363.18: Into the reduced revenue. 
+asr:0: OUTPUT 2364.14-2366.07: But the catalyst is obviously more on the yield side. 
+asr:0: OUTPUT 2367.33-2373.37: We have the ability to flex up capacity faster if we need to, given the amount of aircraft that we have. 
+asr:0: OUTPUT 2373.75-2377.88: We have had a management during this 20 months of the pandemic. 
+asr:0: OUTPUT 2377.90-2383.32: Focused on two key metrics. One is preserving our unit cost advantage. 
+asr:0: OUTPUT 2383.46-2389.37: In the post-pandemic environment and also matching our cash inflows with cash outflows. 
+asr:0: OUTPUT 2389.89-2392.67: So that limits what we can do. 
+asr:0: OUTPUT 2393.47-2403.12: And you've seen how we've done that, for those of you that have followed us, you've seen how we've done that through the pandemic in terms of minimizing any operating cash burns. 
+asr:0: OUTPUT 2403.26-2412.99: So, and how can we do that through the capacity equation? If yields are better, we can track that up. Now, as Taqeem mentioned, we're now in the process of reactivating. 
+asr:0: OUTPUT 2413.93-2421.22: Our core network, which is mainly focused on the business traveler, and as you saw in the slides as well. 
+asr:0: OUTPUT 2421.64-2442.24: That shifts our focus from a network perspective from that massive hub we created in Barrios to manage through the pandemic based on connecting flights, which is not that convenient for gold passengers, to going back to a more point-to-point network with very attractive point-to-point flights out of our. 
+asr:0: OUTPUT 2442.26-2449.27: Other hubs and also from our channel markets out of Sao Paulo, Rio and Brasilia. 
+asr:0: OUTPUT 2449.47-2450.63: That's happening as we speak. 
+asr:0: OUTPUT 2451.37-2456.82: And so, at the goal, in the goal ecosystem,. 
+asr:0: OUTPUT 2456.84-2465.19: That can have a significant impact on yields as if we have some positive surprises on the corporate coming back. 
+asr:0: OUTPUT 2465.21-2466.71: I think we'll see that more in the Q1. 
+asr:0: OUTPUT 2467.47-2469.85: Because we're still in a transition on that. 
+asr:0: OUTPUT 2470.71-2472.61: We're done. I'm back to normalized levels. 
+asr:0: OUTPUT 2472.69-2480.92: On market capacity as well as demand from the business traveler. 
+asr:0: OUTPUT 2481.40-2487.77: Now those effects that you mentioned on the revenue side, obviously they have the effect on EBITDA. 
+asr:0: OUTPUT 2488.25-2492.17: Because it needs lower scale and so less fixed cost solution. 
+asr:0: OUTPUT 2492.53-2495.80: And so that's why our expectations for Q4 even are down a bit. 
+asr:0: OUTPUT 2496.16-2502.16: The other thing that is in there is, as I was mentioning, I think, in one of the previous questions,. 
+asr:0: OUTPUT 2502.18-2505.43: Is an increase in CapEx. 
+asr:0: OUTPUT 2505.47-2512.83: About a 200 million real increase in CapEx in the Q4. That mainly relates to investments. 
+asr:0: OUTPUT 2512.85-2515.74: In spare parts inventories. 
+asr:0: OUTPUT 2515.92-2522.34: And other assets related to reactivation of the outbreaks. 
+asr:0: OUTPUT 2522.68-2529.99: So, you kind of...those are the factors, you know, one obviously on the yield capacity side and then the other on the cutback side. 
+asr:0: OUTPUT 2530.01-2533.33: That account for about a... 
+asr:0: OUTPUT 2533.35-2542.92: $400 million real reduction in our target of liquidity for the end of the Q4. But about half of that number is investment in assets. 
+asr:0: OUTPUT 2543.56-2547.61: Like I said, it also has a side benefit of increasing the... 
+asr:0: OUTPUT 2547.63-2553.77: Collateral pool that's in our secured notes program. 
+asr:0: OUTPUT 2554.35-2562.68: And those same effects will get you to the difference in the leverage. Those exact same effects all kind of roll into that. 
+asr:0: OUTPUT 2562.98-2566.41: And. 
+asr:0: OUTPUT 2566.47-2573.89: And so it's a transitional quarter for us. 
+asr:0: OUTPUT 2575.82-2577.36: And, um... 
+asr:0: OUTPUT 2577.38-2583.34: There are some exchange rate effects in there, obviously. 
+asr:0: OUTPUT 2583.96-2589.33: They kind of run through those calculations and put pressure on it, you know, on the net side of the equation also. 
+asr:0: OUTPUT 2590.39-2599.46: And those result in massive negative exchange rate effects, but those are not economic and don't affect the cash flow. Just to highlight that, because we have gotten some questions on. 
+asr:0: OUTPUT 2600.30-2604.04: What are exchange and monetary variations? 
+asr:0: OUTPUT 2604.08-2615.76: You know, for those that aren't maybe familiar with investing in developing countries with weak functional currencies. And our functional currencies,. 
+asr:0: OUTPUT 2616.64-2630.73: Therefore, we have to recognize the exchange rate variation on the balance sheet and that produces accounting effects in negative and positive, you know, the exchange and monetary variation. 
+asr:0: OUTPUT 2630.83-2637.14: Which continue to be quite large given the short-term negative evaluation of the Brazilian reality. 
+asr:0: OUTPUT 2637.28-2646.39: And so, for the most part, we recommend kind of backing that out, which is what we try to do in our... 
+asr:0: OUTPUT 2646.47-2648.99: Furnished this work. 
+asr:0: OUTPUT 2650.59-2654.35: Certainly. Thank you very much, Father Tyler. I really appreciate it. 
+asr:0: OUTPUT 2657.22-2661.36: The next question is from Dwayne Fennegworth with Evercore ISI. Please go ahead. 
+asr:0: OUTPUT 2664.04-2665.85: Hey, thanks. Good to speak with you. 
+asr:0: OUTPUT 2667.55-2674.21: On fleet, can you just maybe play back for us the fleet simplification opportunity here? 
+asr:0: OUTPUT 2675.10-2685.09: I mean, it's not just Max and you've outlined those. You did a number of fleet transactions pre-COVID, you know, short-term leases to solve for a gap. 
+asr:0: OUTPUT 2685.77-2686.97: Then COVID hit. 
+asr:0: OUTPUT 2687.01-2693.57: Can you just help bring us up to speed on where we are with respect to those shorter term leases? 
+asr:0: OUTPUT 2693.59-2698.00: Rolling off and and what the fleet simplification opportunity is here. 
+asr:0: OUTPUT 2700.00-2705.03: Yes, yeah, we still have a fair amount of... 
+asr:0: OUTPUT 2705.05-2714.97: On short-term operating leases where we have the optionality of either extending those or returning them. 
+asr:0: OUTPUT 2716.02-2720.26: The nut there to crack is the available in Maxxis. 
+asr:0: OUTPUT 2722.00-2724.18: Market right now is constrained. 
+asr:0: OUTPUT 2724.50-2732.11: In terms of availability of mattresses, given that Boeing is still only producing below 20 mattresses a day. 
+asr:0: OUTPUT 2732.17-2735.58: So it's still quite low, which is about a third of what they were producing pre. 
+asr:0: OUTPUT 2735.60-2737.30: Pandemic. 
+asr:0: OUTPUT 2738.42-2749.17: We have all the financing sources lined up to add as many maxes as we want to in the short term and next year. 
+asr:0: OUTPUT 2749.37-2755.70: The bottleneck is the availability of new matches. 
+asr:0: OUTPUT 2756.12-2765.17: There are still some white-calls out there, but they have, you know, it's going to be configuration costs and other issues that make them less tracked. 
+asr:0: OUTPUT 2765.35-2771.77: Now, so we have the ability to accelerate the returns of NGs based on the structure of our... 
+asr:0: OUTPUT 2771.79-2776.78: Aircraft portfolio, which is still today a 100% operating lease. 
+asr:0: OUTPUT 2779.76-2782.72: And I think another part of the simplification that you're mentioning. 
+asr:0: OUTPUT 2782.74-2791.17: That you're hinting at is that what we will do also as we move into the acceleration of the transition from the engine to the MAX,. 
+asr:0: OUTPUT 2791.77-2800.42: In addition to this, the operating cost benefit based on the lower fuel consumption and higher seat count on those aircraft and so on. 
+asr:0: OUTPUT 2800.44-2808.17: Is the component of how we're financing those acquisitions and so we will also be... 
+asr:0: OUTPUT 2808.19-2812.27: Doing more finance lease transactions as we move forward. 
+asr:0: OUTPUT 2812.53-2819.44: Somewhere in the order of between four and maybe as much as 16 of those next year. 
+asr:0: OUTPUT 2820.00-2826.07: Depending on the availability maxes and there's a significant equity value of creation that comes with that. 
+asr:0: OUTPUT 2826.67-2832.69: As you saw on the previous cycle, when we did 40 financial leases on the first quarter with Boeing,. 
+asr:0: OUTPUT 2832.77-2841.72: And we created in excess of $500 million of cash equity gains through that process. And it also gives us equity to borrow against and things like that. 
+asr:0: OUTPUT 2842.48-2845.51: So the other component I would say, Dwayne, of that is... 
+asr:0: OUTPUT 2845.53-2848.09: Our ability to. 
+asr:0: OUTPUT 2848.15-2856.88: Get back in the game of owning a portion of our fleet. 
+asr:0: OUTPUT 2857.74-2864.46: The reason why we're 100% operating today is pre-pandemic, we had finalized the monetization of our NG portfolio. 
+asr:0: OUTPUT 2864.86-2870.31: And we were in the midst of, you know, still in the midst of the MACS grounding. 
+asr:0: OUTPUT 2871.09-2879.18: So we, in that, and then the pandemic happened, all that's kind of got pushed out. So we have enormous flexibility to return. 
+asr:0: OUTPUT 2879.20-2881.32: NGs at a faster pace. 
+asr:0: OUTPUT 2883.90-2892.97: And the bottleneck is the availability of the maxis to do it. Operationally, you know, we're scaled up in our operational capacity. 
+asr:0: OUTPUT 2893.05-2899.80: On a normalized basis is easily two aircraft receipts and two redeliveries per month. 
+asr:0: OUTPUT 2899.84-2904.06: You know, two in, two out, fourth total, we can go as high as three per month. 
+asr:0: OUTPUT 2904.82-2907.13: Given our operational capabilities. 
+asr:0: OUTPUT 2907.33-2916.62: So for us, it's easily done operationally to bring in 24 maxes and... 
+asr:0: OUTPUT 2916.72-2919.30: Transition out 24 inches make sure if we need to do. 
+asr:0: OUTPUT 2919.72-2922.96: So our fleet plan is a little bit less than that. 
+asr:0: OUTPUT 2923.06-2933.91: And part of it is because we're still in the sourcing of the right maxes for that activity. But I think it's important to mention that none of that is going to consume our liquidity because. 
+asr:0: OUTPUT 2933.93-2943.66: We already have the financing sources lined up to pay for those max acquisitions that are in our plan, plus some additionals if we need it. 
+asr:0: OUTPUT 2943.76-2951.65: We already have the liability is lined up and we're still working on additional sourcing of aircraft. 
+asr:0: OUTPUT 2951.91-2953.25: Hopefully that answers your question. 
+asr:0: OUTPUT 2954.75-2960.32: Yeah, listen, it does. The delivery rate came up on the Ryanair call as well. 
+asr:0: OUTPUT 2960.94-2968.71: So I guess the question would be for the deliveries that you've outlined for the rest of this year and into 2022,. 
+asr:0: OUTPUT 2969.23-2972.27: How many of those are already built? 
+asr:0: OUTPUT 2972.47-2981.30: How does that forecast feel relative to the delivery rate that you're seeing? 
+asr:0: OUTPUT 2983.10-2988.99: In terms of what's coming out of the factory, we would need somewhere between eight to... 
+asr:0: OUTPUT 2989.13-2993.87: 10 aircraft if the source is the factory, if the source is the whitetail market, we've got that covered. 
+asr:0: OUTPUT 2995.22-2997.72: And that's what we're working on as we speak. 
+asr:0: OUTPUT 2998.80-3007.07: The issue with the whitetail market is we have some additional reconfiguration costs that we wouldn't have if it was coming out of the factory for us. 
+asr:0: OUTPUT 3008.45-3013.33: But maybe you can help us convince Boeing to ramp up production to sell more aircraft. 
+asr:0: OUTPUT 3015.58-3023.52: I wouldn't be your guy for that, but I'll stick one more in here, Rich, because I'm always interested in your thoughts here. 
+asr:0: OUTPUT 3024.22-3028.69: You know, what FX rate kind of drives the long-term plan? 
+asr:0: OUTPUT 3028.85-3036.50: And for what it's worth, how do we get there? How do you see the path to that long-term rate? Thank you. 
+asr:0: OUTPUT 3038.42-3041.38: Well, we're not in charge of that, but. 
+asr:0: OUTPUT 3042.72-3049.33: The most bank market forecasts are for an appreciating real. 
+asr:0: OUTPUT 3049.67-3055.30: You know, something with a four handle on it at some point next year, if you take fair value calculations. 
+asr:0: OUTPUT 3056.02-3058.56: Our fair value calculations are below four. 
+asr:0: OUTPUT 3060.32-3064.80: We're now 12 months inside of presidential elections in Brazil. 
+asr:0: OUTPUT 3065.19-3073.15: And so that is going to be a factor that will maintain volatility high. 
+asr:0: OUTPUT 3074.17-3083.16: We addressed in our presentation on the videos on the website this morning and also in our release, I mean, the Brazil fiscal situation. 
+asr:0: OUTPUT 3083.18-3090.55: Is much better at improving it. It's much better than the U.S. Fiscal situation, for example. 
+asr:0: OUTPUT 3091.57-3097.82: And GDP in Q3 was up 4%. 
+asr:0: OUTPUT 3098.38-3103.66: It's around 3% for the Q4, which is down a little bit. 
+asr:0: OUTPUT 3105.83-3111.55: But I think my own personal opinion would be you're going to see weakness in the currency. 
+asr:0: OUTPUT 3111.57-3116.32: Because of the political dynamic between now and October of next year. 
+asr:0: OUTPUT 3118.02-3126.67: But, you know, going back to Jackie's point, that is going to keep a relatively captive audience for us for domestic air travel. 
+asr:0: OUTPUT 3126.91-3129.95: Which is perhaps the silver lining on that. 
+asr:0: OUTPUT 3130.51-3135.50: Which is why we're not focused today on driving international travel. 
+asr:0: OUTPUT 3136.30-3140.60: Just give them a little purchasing power of Brazilians and Rai's. 
+asr:0: OUTPUT 3141.78-3150.19: And I have to point you to market projections on that because there is, there does seem to be a disconnect between the fundamentals of Brazil and the currency which are related to other factors. 
+asr:0: OUTPUT 3150.37-3156.20: Iowa prices are a gold factor for Brazil. 
+asr:0: OUTPUT 3156.96-3165.45: The raw materials sector of Brazil, the extraction economy, which primarily drives the Brazilian economy, has been doing very well during this pandemic. 
+asr:0: OUTPUT 3166.73-3175.50: And that will create a positive effect in what other people are asking about in terms of the elasticity of the return of corporate travel. 
+asr:0: OUTPUT 3177.24-3183.72: In terms of those sectors being consumers of air travel. So on the volume side, I think the exchange rate is less of an issue. 
+asr:0: OUTPUT 3185.43-3189.33: It obviously does affect cash flow because it pressures. 
+asr:0: OUTPUT 3189.39-3198.48: Both the oil price that we have to pay, which is now million dollars, as well as the aircraft costs, which is not ideal. 
+asr:0: OUTPUT 3199.02-3208.61: But it doesn't look like we're going to be getting any, let's say, market relief on that anytime soon. And just given the volatility. 
+asr:0: OUTPUT 3208.63-3215.52: And the relative perception of the outside world on Brazil. 
+asr:0: OUTPUT 3215.82-3221.28: That's my two cents on that, but we're not the boss of that. We're price takers on that. 
+asr:0: OUTPUT 3222.66-3229.49: Very fair. Thank you. Again, if you have a question, please press star, then 1. 
+asr:0: OUTPUT 3230.17-3233.81: The next question is from Alejandro Zamacona with Credit Suisse. Please go ahead. 
+asr:0: OUTPUT 3237.22-3239.98: Thank you for taking my questions. 
+asr:0: OUTPUT 3240.66-3248.77: I'm just curious on what's your view on the potential recovery of the international market to pre-COVID levels? 
+asr:0: OUTPUT 3249.35-3255.82: And what would be the impact on yields amid this international market reactivation. 
+asr:0: OUTPUT 3258.74-3259.76: We are. 
+asr:0: OUTPUT 3259.80-3266.71: Not that bullish on the international market recovery for 2022. 
+asr:0: OUTPUT 3266.75-3274.95: There are still different regulations and different sanitary requirements. 
+asr:0: OUTPUT 3275.28-3280.00: Which makes us doubt whether. 
+asr:0: OUTPUT 3280.02-3284.76: It's going to be possible to harmonize all of them in the first half of the year. 
+asr:0: OUTPUT 3285.43-3287.33: So this is one thing. 
+asr:0: OUTPUT 3287.85-3296.06: The second is also that a potential overcapacity will be deployed because you can imagine. 
+asr:0: OUTPUT 3296.60-3301.54: The total amount of white bodies available in the world. 
+asr:0: OUTPUT 3301.70-3308.69: Those have not been those have not been utilized for for many months. 
+asr:0: OUTPUT 3309.39-3313.01: And also really. 
+asr:0: OUTPUT 3313.09-3316.56: If there's going to be one specific segment. 
+asr:0: OUTPUT 3316.76-3320.56: Being severely affected. 
+asr:0: OUTPUT 3320.68-3330.53: By the so-called new normal behavior is gonna be the long haul business trips. 
+asr:0: OUTPUT 3331.83-3333.33: I think that... 
+asr:0: OUTPUT 3333.35-3336.06: This customer will really. 
+asr:0: OUTPUT 3336.08-3339.78: Think twice before deciding to take a plane. 
+asr:0: OUTPUT 3339.80-3346.63: For a short business trip, mainly long haul. 
+asr:0: OUTPUT 3347.71-3349.43: Honestly, I think that. 
+asr:0: OUTPUT 3349.45-3357.70: Generally speaking, the international markets will be affected. 
+asr:0: OUTPUT 3357.72-3364.36: They are very effective and that effect will last longer than expected. 
+asr:0: OUTPUT 3364.52-3365.97: So,. 
+asr:0: OUTPUT 3366.07-3371.11: By another hand, I believe that long-haul leisure travelers. 
+asr:0: OUTPUT 3371.13-3377.52: Will be there and mainly for the most important risk destinations. 
+asr:0: OUTPUT 3378.08-3384.18: So, but you know how important was the business traveler? 
+asr:0: OUTPUT 3385.01-3392.65: Pandemic for those airlines operating white bodies, business classes, businesses and first classes. 
+asr:0: OUTPUT 3392.67-3396.50: I am not that bullish. 
+asr:0: OUTPUT 3396.52-3399.76: About this specific market demand. 
+asr:0: OUTPUT 3403.22-3412.59: Thank you. And then a second question, if I may, on the maintenance. We saw a significant increase during this quarter in the maintenance expense. 
+asr:0: OUTPUT 3413.51-3419.78: So we were wondering what was behind this increase and what can we expect going forward. 
+asr:0: OUTPUT 3421.46-3429.95: I assume that it's a catch-up from the deferred maintenance, but I'm just curious to hear your thoughts. Thank you, guys. 
+asr:0: OUTPUT 3431.25-3435.08: I guess you didn't hear the answer to the previous question, but I'll go through that again. 
+asr:0: OUTPUT 3436.32-3446.59: You're asking about the increase in maintenance expenses from Q2 to Q3 from R88 million to R246 million. 
+asr:0: OUTPUT 3447.95-3449.51: That is from. 
+asr:0: OUTPUT 3450.15-3453.71: And maybe I'll give it, I'll answer it from a different perspective. 
+asr:0: OUTPUT 3454.63-3461.16: That is related to the acceleration of the transition of the fleet from Engies to Maxis. 
+asr:0: OUTPUT 3461.52-3468.41: Where we are accelerating the returns of aircraft. 
+asr:0: OUTPUT 3468.97-3471.67: Now, over the next couple months, over the next year. 
+asr:0: OUTPUT 3471.93-3480.48: And what you have to do on a quarterly basis is always be fully provisioned on your future re-delivery estimates. 
+asr:0: OUTPUT 3480.84-3485.11: And so as we're accelerating now, the... 
+asr:0: OUTPUT 3485.13-3493.85: The return of the MDs, we have to top up, we have to increase the amount of provisions for maintenance on aircraft. 
+asr:0: OUTPUT 3494.89-3496.98: And so in that particular case,. 
+asr:0: OUTPUT 3497.20-3499.32: There's a certain number of aircraft. 
+asr:0: OUTPUT 3499.34-3507.73: In the mid-single digits where those provisions increase. 
+asr:0: OUTPUT 3508.01-3514.53: So it's in there, always remember that. You always have to be estimating. If you're doing your accounting properly... 
+asr:0: OUTPUT 3514.73-3521.54: I always ask that question to make sure the companies are provisioning properly their future redelivery costs. 
+asr:0: OUTPUT 3522.08-3525.37: You have to always be adjusting your. 
+asr:0: OUTPUT 3525.39-3532.31: Provision for that. And for us, you know, the main component of those delivery costs is engine overhauls. 
+asr:0: OUTPUT 3533.97-3541.22: And so in our particular case, as we increased the number of NGs that were returning,. 
+asr:0: OUTPUT 3542.06-3549.83: And the number of maxes that we're bringing in, those provisions in the Q3 increase from 88 million reales to 246 million reales. 
+asr:0: OUTPUT 3554.11-3555.40: Okay. 
+asr:0: OUTPUT 3557.04-3558.16: No, sure, no worries. 
+asr:0: OUTPUT 3559.56-3561.76: We have one more person in the queue. 
+asr:0: OUTPUT 3561.98-3569.23: Before that, I'm going to take another question that we have from the platform. 
+asr:0: OUTPUT 3569.25-3578.80: Which is asking about yields, RASC, and CASC. 
+asr:0: OUTPUT 3578.82-3580.00: Um... 
+asr:0: OUTPUT 3581.42-3587.03: Q2, Q3, Q4, and so I'll just walk through that. 
+asr:0: OUTPUT 3588.33-3595.16: We had a 15% increase in yields in the Q3. 
+asr:0: OUTPUT 3595.62-3604.72: And, you know, what's implicit in our Q4 guidance is basically flat fields versus the Q3. 
+asr:0: OUTPUT 3605.19-3606.67: Yeah, we'll be conservative on that. 
+asr:0: OUTPUT 3607.51-3611.55: Given the capacity environment. 
+asr:0: OUTPUT 3613.49-3616.72: Given that we are forecasting load factors up a little bit. 
+asr:0: OUTPUT 3617.86-3623.88: That will, in the Q4, is implied. 
+asr:0: OUTPUT 3623.94-3630.43: A slight increase in RASC over where we were in the Q3. 
+asr:0: OUTPUT 3631.17-3633.01: We did the 26 cents and the Q3. 
+asr:0: OUTPUT 3634.47-3637.66: I think we could be around something around $0.28 in the Q4. 
+asr:0: OUTPUT 3639.30-3640.58: The cost side of the equation. 
+asr:0: OUTPUT 3640.98-3647.45: You know the recurring unit costs that we did in the. 
+asr:0: OUTPUT 3647.47-3654.57: In the Q3 of just under 22 cents in real. 
+asr:0: OUTPUT 3655.30-3659.50: In those Q4 guidance numbers that we provided,. 
+asr:0: OUTPUT 3660.30-3663.04: Is a similar level. 
+asr:0: OUTPUT 3663.60-3671.93: Even though we are, as I was mentioning, increasing the operating fleet and ballooning fixed costs, as we. 
+asr:0: OUTPUT 3672.07-3675.76: Return NGs and accelerate transition from the maxes. 
+asr:0: OUTPUT 3676.92-3680.02: We have a combination of higher. 
+asr:0: OUTPUT 3680.20-3689.25: Expenses for maintenance, for the re-deliveries, higher provisions, and also higher depreciation. 
+asr:0: OUTPUT 3689.55-3692.09: Um... 
+asr:0: OUTPUT 3692.47-3699.10: And so that goes to just looking at that basically addresses that question. 
+asr:0: OUTPUT 3699.24-3704.58: Which is basically a conservative forecast for the two, four guidance we're providing. 
+asr:0: OUTPUT 3704.99-3711.05: It's mainly volume driven. It's not being driven out of an increase in yields or a reduction in unit costs. 
+asr:0: OUTPUT 3711.51-3720.00: But as Jackie was mentioning, if we get a higher positive elasticity on the business side, that's going to have a positive impact on yields. 
+asr:0: OUTPUT 3720.66-3725.67: You know, could translate into better revenue numbers for the Q4. 
+asr:0: OUTPUT 3726.13-3728.47: With that, we can go back to the last question. 
+asr:0: OUTPUT 3749.43-3752.39: And if you have a question, please press star, then 1. 
+asr:0: OUTPUT 3752.99-3759.90: This will be the last opportunity for questions for Galls Management. The next question is from Matthew Breckenridge from DSC Meridian. Please go ahead. 
+asr:0: OUTPUT 3761.76-3763.36: My question has actually been answered. Thank you very much. 
+asr:0: OUTPUT 3767.89-3774.55: This concludes today's question and answer session. I would like to invite Mr. Kakanoff to proceed with his closing remarks. Please go ahead, sir. 
+asr:0: OUTPUT 3776.52-3779.00: I would like to thank you all very much for the attention. 
+asr:0: OUTPUT 3787.45-3789.33: Thank you very much for your participation. 
+asr:0: END

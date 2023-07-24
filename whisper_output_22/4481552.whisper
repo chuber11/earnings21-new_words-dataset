@@ -1,0 +1,531 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 20.10-29.29: Are you still there? Hi, sir. How are you? Good, good. How are you? 
+asr:0: OUTPUT 30.05-31.09: Good, good, good. Thanks. 
+asr:0: OUTPUT 31.97-39.26: So we will have moderator joining us, right? I am the moderator, sir. Oh, you will be moderating? Yes, sir. 
+asr:0: OUTPUT 40.34-47.05: Oh, so we didn't take that. We didn't take that the regular one that we used to. 
+asr:0: OUTPUT 47.55-52.37: No, since last 2 times you are using webinar and Jonathan used to monitor it. 
+asr:0: OUTPUT 52.93-60.74: Because Jonathan is not here, I'm going to monitor. So whoever raises question on our analyst list, I'll make them unmute and they can answer. 
+asr:0: OUTPUT 65.55-67.89: I can't you know with gap and mask I can't. 
+asr:0: OUTPUT 69.85-79.80: I see you clearly. So and how about the inbound traffic then you will be trickling them in right? Yes sir. 
+asr:0: OUTPUT 80.32-83.10: Yes. All right. Okay. 
+asr:0: OUTPUT 85.69-92.43: Okay, so then that's fine. Then people join and then we just, so then you will have to just keep guiding us how do we go about it, right? 
+asr:0: OUTPUT 93.73-101.52: Sure, I'll just let you know about what all who are asking question. I will just unmute. Yeah, that is later. But when we have to start. 
+asr:0: OUTPUT 102.30-107.69: You know, so you basically then open it for us and then we can start. Right. 
+asr:0: OUTPUT 108.63-114.65: I think Bipul has to start, he's got the script. He will start with introduction and everything that Jonathan used to say. 
+asr:0: OUTPUT 115.10-119.64: And then he will transfer it to the human. 
+asr:0: OUTPUT 119.66-128.15: But I mean, typically moderator would say, OK, now it's time because we've got these people. You will get a sense of how many have joined, et cetera. 
+asr:0: OUTPUT 128.49-132.49: Yeah, Brocks 13 as of now. 13 already joined. 
+asr:0: OUTPUT 133.65-141.24: Fair enough. So we can wait and then we can just go live. So go live signal will you give us? 
+asr:0: OUTPUT 143.12-148.83: Yeah, yeah, because otherwise how would we know? I mean, how would how would we know when to start? 
+asr:0: OUTPUT 149.43-157.28: Okay, sure, sure, sure. 
+asr:0: OUTPUT 158.22-162.14: So let's just see how many were there. Can you read out the names who all have joined? 
+asr:0: OUTPUT 164.40-170.87: Show. Brian, Dushyant, Gaurav, James, Nikhil,. 
+asr:0: OUTPUT 171.53-179.44: Ratna, Sam, Sanjay. Sorry, Rajesh, we are already live actually. Whoever has joined can hear us. 
+asr:0: OUTPUT 183.08-190.45: So there is no separate goal I will just start at 6. All right, okay. And we can start at 6. Okay. And I am going to go mute for now. 
+asr:0: OUTPUT 266.77-270.17: Thank you. Deep, we are already live. We'll just start at 6. 
+asr:0: OUTPUT 409.49-411.65: We'll choose this audible. 
+asr:0: OUTPUT 413.07-418.90: Yeah, yeah, yeah, we can hear you, but we are right now live. So I guess we'll just start at 6. 
+asr:0: OUTPUT 422.46-435.42: Are you in office Rajesh? No, no. Almost looks like. Yeah, yeah, this is the background. I know. 
+asr:0: OUTPUT 544.28-550.69: Hello everyone, we're starting the earning call now. I'd like to now turn the call over to Bipul, please. 
+asr:0: OUTPUT 552.13-559.74: Thank you, Richie. Hello, everyone. I'm Vipul Garg, Vice President, Investor Relations at MakeMyTrip Limited. 
+asr:0: OUTPUT 560.24-564.92: And welcome to our fiscal year 2022 third quarter earnings webinar. 
+asr:0: OUTPUT 565.55-573.03: Today's event will be hosted by Deep Kalra, our company's founder and group executive chairman. Joining him is Rajesh Magu. 
+asr:0: OUTPUT 573.47-579.62: Our co-founder and group chief executive officer, and Mohit Kabra, our group chief financial officer. 
+asr:0: OUTPUT 580.46-590.45: As a reminder, this live event is being recorded by the company and will be made available. 
+asr:0: OUTPUT 591.69-599.14: And will be made available for replay on our IR website shortly after today's session. 
+asr:0: OUTPUT 599.70-603.66: At the end of these prepared remarks, we will also be hosting a Q&A session. 
+asr:0: OUTPUT 605.43-614.23: Furthermore, certain statements made during today's event may be considered forward looking in statements. 
+asr:0: OUTPUT 614.25-620.42: Within the meaning of safe harbor provision of US private securities litigation reform act of 1995. 
+asr:0: OUTPUT 621.08-628.47: These statements are not guarantees of future performance, are subject to inherent uncertainties and actual results may differ materially. 
+asr:0: OUTPUT 629.23-640.32: Any forward-looking information relayed during this event speaks only as of this date and company undertakes no obligation to update the information to reflect the change circumstances. 
+asr:0: OUTPUT 640.90-650.15: Additional information concerning these statements are contained in the risk factors and forward-looking statements section of the company's annual report. 
+asr:0: OUTPUT 650.17-654.61: On form 20-F filed with the SEC on July 13, 2021. 
+asr:0: OUTPUT 655.18-661.54: Copies of these filings are available from the SEC or from companies' investor relationship department. 
+asr:0: OUTPUT 662.36-666.45: With that, I would like to now turn the call over to Deep. Over to you, Deep. 
+asr:0: OUTPUT 667.81-673.29: Thank you, Virpal. Welcome everybody to our third quarter earnings call of fiscal 2022. 
+asr:0: OUTPUT 674.19-677.82: I sincerely hope everyone joining us today is keeping safe and healthy. 
+asr:0: OUTPUT 678.92-683.00: Let me start by giving a quick update on the COVID situation in the country. 
+asr:0: OUTPUT 683.62-689.33: India, like other countries in the world, is going through another surge driven by the Omicron variant. 
+asr:0: OUTPUT 690.23-696.14: This wave started in December 2021 and while the positivity rate continues to remain high,. 
+asr:0: OUTPUT 696.28-702.88: India's vaccination coverage gives hope and assurance that the severity of infections this time around will remain low. 
+asr:0: OUTPUT 703.96-711.35: It is definitely reassuring to see that the country's cumulative vaccination coverage has crossed 1.6 billion doses. 
+asr:0: OUTPUT 711.37-715.84: With over 72% of India's adult population being fully vaccinated. 
+asr:0: OUTPUT 716.56-724.48: Around 52% of children in the 15 to 18 years old age group have also been inoculated with the first dose of the vaccine. 
+asr:0: OUTPUT 725.31-731.89: Going by predictions of health experts, India should soon start seeing decline in the number of daily new infections. 
+asr:0: OUTPUT 732.85-742.68: Travel in India, much like other countries, also slowed down with the onset of the Omicron wave, albeit with relatively lower travel restrictions than the previous waves. 
+asr:0: OUTPUT 743.38-751.85: As the severity remains low, the country continued to see domestic travel being undertaken in the form of essential travel, but with caution. 
+asr:0: OUTPUT 752.57-756.32: Leisure travel has understandably taken a backseat temporarily. 
+asr:0: OUTPUT 756.84-765.95: That said, overall travel sentiment remains moderately high with people waiting to hit the road again as the situation begins to ease out in the coming months. 
+asr:0: OUTPUT 766.65-777.04: During the reported third quarter of FY 2022, domestic travel witnessed a strong recovery riding on the back of pent-up demand, further fueled by festival travel. 
+asr:0: OUTPUT 777.06-778.64: And winter holiday season. 
+asr:0: OUTPUT 779.18-786.17: Unfortunately, as Omicron began to spread in December, we saw demand for leisure travel sliding down towards the end of the quarter. 
+asr:0: OUTPUT 786.51-790.79: Although broad travel sentiment remained considerably high during the quarter. 
+asr:0: OUTPUT 791.57-800.26: As a result, the good news coming out from the reported quarter is that we recorded our best adjusted operating profit during the pandemic. 
+asr:0: OUTPUT 802.82-808.99: The past two years have been tough, but the silver lining is that, similar to global trends, India has gained momentum. 
+asr:0: OUTPUT 809.01-814.33: In becoming a truly digital economy with significant improvement in online buying behavior. 
+asr:0: OUTPUT 815.03-820.64: Studies indicate that e-commerce in India has seen tremendous growth across the country during the last two years. 
+asr:0: OUTPUT 821.20-827.59: It is heartening to note that tier 2 and 3 cities in the country are now transacting online more than ever. 
+asr:0: OUTPUT 828.37-831.59: Enthused by this new base of internet users. 
+asr:0: OUTPUT 831.61-843.10: And increasing online penetration, we are focusing on growing the penetration of online travel bookings by making the end-to-end process of planning and booking travel simple. 
+asr:0: OUTPUT 843.16-847.57: And convenient for buyers across tier 1 2 3 and the hinterland. 
+asr:0: OUTPUT 848.37-852.55: This is one area where I believe we have made tremendous progress in the last quarter. 
+asr:0: OUTPUT 852.57-857.94: From launching the platform in Hindi language India's largest native language. 
+asr:0: OUTPUT 857.96-863.00: To supporting regional air connectivity by powering UDAAN or the regional flights. 
+asr:0: OUTPUT 863.02-866.61: On our platform and the government's AirSeva portal. 
+asr:0: OUTPUT 866.63-871.87: To introducing rail ticket booking service on Redbus with IRCTC and more. 
+asr:0: OUTPUT 872.79-877.32: We are committed to bringing more Indians to make their first ever travel booking online. 
+asr:0: OUTPUT 877.94-883.38: We're also aggressively ramping up our efforts to build travel products that are more inclusive and diverse. 
+asr:0: OUTPUT 883.96-887.17: I must mention that along the journey of building products for all. 
+asr:0: OUTPUT 887.23-896.12: We're also focusing on personalizing the experience of each user to make the booking experience more relevant and meaningful across all our platforms. 
+asr:0: OUTPUT 897.82-904.72: With the third wave expected to subside soon, we believe 2022 holds better prospects for the entire travel and tourism industry. 
+asr:0: OUTPUT 905.25-913.27: We've seen strong recovery of demand following the previous waves, giving us adequate optimism for a strong recovery post the Omicron wave as well. 
+asr:0: OUTPUT 914.13-918.72: We also believe that with our recent investments in new platforms like my biz. 
+asr:0: OUTPUT 918.74-925.67: My partner, host in-app feature for homestay segment, and others were well-poised to tap into new demand segments. 
+asr:0: OUTPUT 926.23-934.37: My optimism is further fueled by the latest developments in the US, UK, and other parts of Europe, where restrictions have begun to gradually ease. 
+asr:0: OUTPUT 935.78-940.54: We believe that the recovery in travel demand post the third wave will be led by domestic travel. 
+asr:0: OUTPUT 941.04-949.83: While resumption of scheduled international flights has been postponed till February 22, we can expect graded opening up of destinations for Indian travelers. 
+asr:0: OUTPUT 949.85-951.23: In the next fiscal year. 
+asr:0: OUTPUT 952.07-963.06: In the previous quarter, while only few international destinations were open for fully vaccinated Indian travelers, we observed a steady increase in bookings to destinations including the Maldives and Dubai on our platform. 
+asr:0: OUTPUT 963.80-972.97: I'm pleased to also share that recently Make My Trip was recognized as the only Indian travel company to be honored with the Top Producer Award at Travel Trade in the Maldives. 
+asr:0: OUTPUT 974.33-980.94: I would also like to briefly talk about our social corporate social responsibility or CSR initiatives. 
+asr:0: OUTPUT 980.96-986.29: And especially the ones that focus on taking care of those impacted due to the ongoing health crisis. 
+asr:0: OUTPUT 986.85-996.50: As part of Make My Trip Foundation, we have launched a scholarship support program, Pardte Raho, Barde Raho, for underprivileged students who unfortunately lost their parents due to COVID. 
+asr:0: OUTPUT 997.86-1002.12: We are also closely working with the Government of India, Ministry of Tourism and other. 
+asr:0: OUTPUT 1002.14-1011.23: Not-for-profit organizations such as Stata Trust to boost community-based tourism and extend support in scaling up travel infrastructure across the country. 
+asr:0: OUTPUT 1012.23-1015.76: With that, I would request Rajesh to share highlights from the last quarter. 
+asr:0: OUTPUT 1020.00-1026.23: As Deep mentioned, India, like many other countries, is also battling its way through the third wave. 
+asr:0: OUTPUT 1026.77-1031.75: But thankfully, while this virus variant is highly contagious, it is less severe. 
+asr:0: OUTPUT 1032.39-1038.04: With high rate of vaccination and less hospitalization, there is hope of this wave subsiding soon. 
+asr:0: OUTPUT 1038.82-1046.01: While essential travel is continuing, even in the middle of this wave, our growth-oriented performance in the reported quarter. 
+asr:0: OUTPUT 1046.03-1050.05: Is a strong indicator that as the situation eases,. 
+asr:0: OUTPUT 1050.07-1053.31: India will jump back to traveling for their leisure trips. 
+asr:0: OUTPUT 1053.93-1059.38: We continue to stay watchful of the situation on a daily basis and are managing the business accordingly. 
+asr:0: OUTPUT 1060.10-1062.52: Now let me share some highlights from the previous quarter. 
+asr:0: OUTPUT 1063.36-1071.01: I'm happy to share that we recorded one of the most profitable quarters over the years, linked to strong business growth coming in from pent-up demand. 
+asr:0: OUTPUT 1071.69-1076.92: On gross bookings, we grew 95.1% over the same quarter in previous year. 
+asr:0: OUTPUT 1077.06-1082.42: And 58.5% over Q2 in constant currency terms. 
+asr:0: OUTPUT 1083.12-1092.27: In our air business, we continue to stay on an upward recovery trajectory following the momentum picked up during July to September quarter last year. 
+asr:0: OUTPUT 1092.91-1099.30: The good news is that we have managed to recover faster than the market in our domestic air ticketing business. 
+asr:0: OUTPUT 1099.74-1103.02: Touching 68% year-on-year growth in passengers flown. 
+asr:0: OUTPUT 1104.10-1111.79: Festive travel season further propelled demand with November recording highest daily segments during the pandemic. 
+asr:0: OUTPUT 1112.83-1122.42: Huge surge in demand came from domestic leisure destinations that accounted for 94% increase in volume of tickets as compared to the same quarter last year. 
+asr:0: OUTPUT 1123.12-1132.81: On the other hand, international travel demand recovery continued to be slow overall, with exceptions of Maldives and Dubai, where we saw rubus growth. 
+asr:0: OUTPUT 1133.47-1136.98: On the product side, we launched MakeMyTrip bundles. 
+asr:0: OUTPUT 1137.00-1139.22: A custom fare option. 
+asr:0: OUTPUT 1139.24-1147.51: That allows customers to bundle various convenience-based offerings such as zero cancellation, travel insurance, airport meals,. 
+asr:0: OUTPUT 1147.53-1148.97: And calves in one whooping. 
+asr:0: OUTPUT 1149.85-1152.31: Moving on to our hotels and packages business now. 
+asr:0: OUTPUT 1153.45-1159.96: Our domestic hotel and packages business saw robust quarter-on-quarter and year-on-year growth during the third quarter. 
+asr:0: OUTPUT 1160.60-1166.49: We recorded year-on-year growth of about 125% in constant currency terms in gross bookings. 
+asr:0: OUTPUT 1166.99-1171.79: We also recorded highest check-ins during the pandemic for the Christmas weekend. 
+asr:0: OUTPUT 1171.93-1177.24: Although the bookings had started to dip by that time as the third wave was setting in. 
+asr:0: OUTPUT 1177.92-1180.52: While B2C platform showed solid recovery. 
+asr:0: OUTPUT 1180.90-1189.25: Growth was also partly aided by our corporate platforms, namely MyBiz, Quest2Travel, and my partner B2B platform. 
+asr:0: OUTPUT 1190.07-1200.02: As shared earlier, our MyPartner platform aims to deliver on its promise of empowering travel agent partners with quick and easy access to our wide range of. 
+asr:0: OUTPUT 1200.28-1204.12: Inventory across hotels and flights and more products in future. 
+asr:0: OUTPUT 1204.80-1211.23: We are now ramped up to currently about 22,000 plus registered travel agents on MyPartner. 
+asr:0: OUTPUT 1211.33-1216.14: And we are adding around 1500 agents every month. 
+asr:0: OUTPUT 1216.94-1222.38: On various segments of hotels while premium hotels continue to lead recovery. 
+asr:0: OUTPUT 1222.54-1230.51: Glad to share that budget to mid-segment hotels have also started to see pickup in demand, leading to inclusive recruitment. 
+asr:0: OUTPUT 1230.53-1234.41: Recruitment of all price segments of hotel this quarter. 
+asr:0: OUTPUT 1235.24-1240.12: On our homestay segments, bookings for villas managed to surpass pre-pandemic numbers. 
+asr:0: OUTPUT 1240.84-1245.00: On the product side, we continue to strengthen our offerings for the hotel segment. 
+asr:0: OUTPUT 1245.73-1254.43: We have scaled up packages across 450 plus premium hotels and are beginning to see great traction on both supplier as well as consumer side. 
+asr:0: OUTPUT 1255.08-1262.76: We have further refined the user generated content collection flows, mobile site and post sales flows. 
+asr:0: OUTPUT 1263.32-1270.87: On Goibibo, we introduced daily steel deals to make booking through the platform more value-driven and rewarding. 
+asr:0: OUTPUT 1271.61-1280.24: In Q3, we also introduced assurance-driven products to help make travel planning worry-free amid the ongoing uncertainty. 
+asr:0: OUTPUT 1280.84-1285.87: These included zero cancellation fee on any last minute cancellations and more. 
+asr:0: OUTPUT 1286.73-1295.28: On our Homestays product. I'm excited to share that we recently launched the beta version of our in-app host feature called Become a Host. 
+asr:0: OUTPUT 1296.04-1304.08: The feature allows accommodation owners to list their villas, apartments, and other independent properties on the platform in just a few clicks. 
+asr:0: OUTPUT 1304.64-1308.27: We're already seeing early wins here since its soft launch. 
+asr:0: OUTPUT 1308.83-1314.99: In parallel, we continue to stay focused on enhancing our products to further improve the booking experience. 
+asr:0: OUTPUT 1315.48-1318.90: We have also ramped up home stays inventory further. 
+asr:0: OUTPUT 1318.92-1326.67: And close the quarter with about 30,000 properties, recording a 66% increase in supply over pre-pandemic. 
+asr:0: OUTPUT 1327.55-1335.72: On the holiday packages side of the business, we saw 2x bookings in domestic packages sold when compared with same quarter in 2009. 
+asr:0: OUTPUT 1336.78-1341.40: On the other side while bookings for international destinations remained muted. 
+asr:0: OUTPUT 1341.60-1350.33: Maldives that was open for vaccinated travelers registered 300% growth over same quarter during pre-COVID times on our platform. 
+asr:0: OUTPUT 1351.53-1356.16: Now I would like to share updates on our bus ticketing business led by Redbus brand. 
+asr:0: OUTPUT 1356.84-1363.30: This business has been as has seen a significant quarter-on-quarter growth of 77% in gross bookings value. 
+asr:0: OUTPUT 1364.00-1370.71: During the quarter as the festive season added to the travel demand along with well-timed fuel price reductions. 
+asr:0: OUTPUT 1371.09-1378.24: We saw 93% private supply and 102% regional transport corporation operators supply. 
+asr:0: OUTPUT 1378.28-1379.44: Coming back online. 
+asr:0: OUTPUT 1380.00-1384.76: Apart from bringing back supply, our focus remained on driving personalization. 
+asr:0: OUTPUT 1384.78-1391.17: And customization of booking experience on the platform, such as introduction of boarding point,. 
+asr:0: OUTPUT 1391.19-1392.35: Dropping point. 
+asr:0: OUTPUT 1392.37-1393.71: Feature. 
+asr:0: OUTPUT 1394.27-1395.86: We also introduced. 
+asr:0: OUTPUT 1395.88-1401.56: Customized nudges, persuasion triggers based on parameters such as on-time performance,. 
+asr:0: OUTPUT 1401.58-1406.85: And ratings from similar cohort of travelers to help customers choose the right bus service. 
+asr:0: OUTPUT 1407.43-1413.19: Furthermore, our Primer program for top rated sellers is taking shape nicely. 
+asr:0: OUTPUT 1413.73-1419.88: We now have close to 1800 Primo branded buses across the length and breadth of the country. 
+asr:0: OUTPUT 1420.40-1423.90: And this is already helping build good top of the mind awareness. 
+asr:0: OUTPUT 1424.40-1433.51: It is encouraging to note that about 85% of customers who took a Primo service say that their next trip would also be on a Primo bus. 
+asr:0: OUTPUT 1434.07-1438.42: We have launched a number of new initiatives to differentiate a Primo experience. 
+asr:0: OUTPUT 1439.00-1444.80: Including an ongoing Primo launch pilot at one of the popular bus boarding point in Bangalore. 
+asr:0: OUTPUT 1445.61-1450.91: I'm also happy to share some exciting news coming from overall ground transport business. 
+asr:0: OUTPUT 1451.45-1456.26: While Micmatrip and Goibibo platforms have been offering rail booking services for a while. 
+asr:0: OUTPUT 1456.74-1463.82: We have now launched RedRail on our RedBus web platform and have plans to have a RedRail app soon as well. 
+asr:0: OUTPUT 1465.33-1471.77: Through Red Rail, we aim to leverage the customer overlap between bus travelers on Red Bus. 
+asr:0: OUTPUT 1471.79-1475.54: Who also happened to be a part of India's large train passenger base. 
+asr:0: OUTPUT 1476.24-1480.34: Another initiative that also kept our ground transport team busy. 
+asr:0: OUTPUT 1480.44-1487.53: During this period is the pilot launch of RIDE, a network of cab franchises across the country. 
+asr:0: OUTPUT 1487.55-1489.55: That operate under Wright's umbrella. 
+asr:0: OUTPUT 1490.55-1499.42: With superior technology at the back end, it powers all aspects of booking, fulfillment, and travel, and will help improve the reliability of supply. 
+asr:0: OUTPUT 1500.08-1507.27: Currently, we are running a pilot in Delhi, NCR and Bangalore and plan to scale this up in other cities in future. 
+asr:0: OUTPUT 1508.13-1515.90: With these new initiatives, we hope to build on the strong brand and user base of Redbus to create leadership positions. 
+asr:0: OUTPUT 1515.92-1519.02: In ground transport categories other than buses in future. 
+asr:0: OUTPUT 1520.04-1522.70: Moving on to our corporate and SME travel business. 
+asr:0: OUTPUT 1523.08-1524.36: While business travel. 
+asr:0: OUTPUT 1524.42-1527.43: Overall saw a sluggish recovery. 
+asr:0: OUTPUT 1527.45-1535.72: Pattern, but for us, the growth was robust this quarter, partially aided by new accounts acquired over the past few quarters. 
+asr:0: OUTPUT 1536.34-1542.34: We recorded a 122% recovery in comparison to same period in fiscal year 1920. 
+asr:0: OUTPUT 1542.96-1550.17: More than 250 key accounts, 340 SMEs were onboarded on MyBiz during this quarter. 
+asr:0: OUTPUT 1550.77-1554.61: On Quest to Travel also, we celebrated some big wins. 
+asr:0: OUTPUT 1554.63-1561.74: We bagged accounts of 11 large groups including Tata Capital, NICA and K. Raheja Corporation and more. 
+asr:0: OUTPUT 1562.84-1566.99: Now sharing updates from some of our recent strategic initiatives. 
+asr:0: OUTPUT 1567.53-1571.65: We continue to invest in our FinTech initiative called TripMoney. 
+asr:0: OUTPUT 1571.67-1578.70: After having launched successful products including Travel Loan or BookNow Pay Later and insurance offerings,. 
+asr:0: OUTPUT 1578.94-1583.04: We are ready to launch ForexCard on Micmatrip and Guaibibo. 
+asr:0: OUTPUT 1583.66-1592.23: As international travel picks up in the coming months, we are confident that this card will make its way into wallets of Indian outbound travelers. 
+asr:0: OUTPUT 1593.01-1599.72: In GCC, during the last quarter, our focus was on building supply modes and products for. 
+asr:0: OUTPUT 1599.74-1606.67: Best in class booking experience for Indian nationals, other expats and local Emirati population. 
+asr:0: OUTPUT 1607.29-1616.36: Happy to share that there was a 96% quarter-on-quarter increase in new user acquisition in Q3, albeit at a low base. 
+asr:0: OUTPUT 1616.90-1617.92: All focus. 
+asr:0: OUTPUT 1617.94-1619.88: Will continue to remain. 
+asr:0: OUTPUT 1619.90-1622.56: On increasing air penetration in the region. 
+asr:0: OUTPUT 1622.58-1630.15: Considering that 93% of UAE population uses the internet on a daily basis as per research estimates. 
+asr:0: OUTPUT 1631.49-1635.62: Lastly, allow me to give a short update on our loyalty programs. 
+asr:0: OUTPUT 1636.34-1639.00: To continue extending value to our loyal customers. 
+asr:0: OUTPUT 1639.28-1648.87: We organized the MMT Black Fest, a sale campaign ran in partnership with key hotel and flight partners, which received positive feedback from our customers. 
+asr:0: OUTPUT 1649.45-1657.14: Since the launch of the program, about 1 lakh users have been added to the top two tiers of MMT Black. 
+asr:0: OUTPUT 1657.16-1664.70: And 72,000 users were able to upgrade their tiers by transacting for more than 1 lakh gross booking value on the platform. 
+asr:0: OUTPUT 1665.47-1668.65: For Goibibo loyal consumers under Go Tribe. 
+asr:0: OUTPUT 1668.67-1677.54: We further simplified the flow of Tribecoin or GoCash redemption, helping improve usage by 94% in the quarter. 
+asr:0: OUTPUT 1678.34-1680.76: We also launched personalized instant. 
+asr:0: OUTPUT 1680.78-1688.37: Cashback engine on Goibibo to reward consumers with instant Go cash to offer more value against a single booking. 
+asr:0: OUTPUT 1689.07-1694.13: With this, let me now hand over the call to Mohit for financial highlights of the quarter. 
+asr:0: OUTPUT 1695.58-1699.70: Thanks Rajesh. Hello everyone. I hope you're all staying safe and healthy. 
+asr:0: OUTPUT 1700.74-1702.20: The report. 
+asr:0: OUTPUT 1703.08-1711.39: Third quarter of the fiscal year started on a positive note with customers more confident than ever to step out of their homes and plan a much needed holiday break. 
+asr:0: OUTPUT 1712.01-1718.42: Strong supply side recovery across all travel segments further boosted demand side momentum during this high seasonality quarter. 
+asr:0: OUTPUT 1719.10-1728.57: Since international travel was still restricted during this quarter, domestic leisure destinations in India saw major recovery before bookings were slightly hit. 
+asr:0: OUTPUT 1728.59-1731.45: In December due to the Omicron scare. 
+asr:0: OUTPUT 1731.47-1734.81: And the beginning of the third wave of the pandemic in India. 
+asr:0: OUTPUT 1735.92-1740.42: Over last few updates, we have spoken about our cost optimization efforts. 
+asr:0: OUTPUT 1740.44-1747.33: Through structural reductions in fixed costs and building efficiencies in variable costs like marketing and sales promotional expenses. 
+asr:0: OUTPUT 1748.45-1749.81: In quarter three. 
+asr:0: OUTPUT 1749.83-1753.69: We could see the multiplier effect of this cost efficiencies. 
+asr:0: OUTPUT 1753.71-1759.96: Which aided by demand recovery led to doubling of the adjusted operating profits compared to the last quarter. 
+asr:0: OUTPUT 1760.26-1767.43: Registered operating profit for this quarter stood at $13.2 million which is almost two times compared to $6.6 million in Q2. 
+asr:0: OUTPUT 1767.61-1773.15: And almost 2.6 times compared to $5.2 million reported in the same quarter last year. 
+asr:0: OUTPUT 1774.03-1777.30: Adjusted further for non-cash depreciation and amortization expenses. 
+asr:0: OUTPUT 1778.10-1786.45: The current quarter's adjusted operating cash profit reached nearly $7.6 million, the highest in a quarter achieved by year till date. 
+asr:0: OUTPUT 1787.79-1790.13: Our Q3 total gross bookings stood. 
+asr:0: OUTPUT 1790.15-1794.43: At $1,155.7 million. 
+asr:0: OUTPUT 1794.45-1802.38: Which was the highest since the pandemic, registering a strong growth of 58.5% over the previous quarter. 
+asr:0: OUTPUT 1802.40-1807.49: And about 95% growth over same quarter last year in constant currency terms. 
+asr:0: OUTPUT 1808.31-1811.09: Moving on to our business segments. 
+asr:0: OUTPUT 1811.11-1827.51: A ticketing adjusted margin stood at $52.9 million, representing 105.9% growth over same quarter a year ago and 38.4% growth over the previous quarter in constant currency terms. 
+asr:0: OUTPUT 1828.07-1836.46: We continue to be one of the most preferred air ticketing platforms with a market share of about 30% in the domestic air ticketing business. 
+asr:0: OUTPUT 1836.48-1839.36: Including both the online and offline modes of booking. 
+asr:0: OUTPUT 1840.26-1847.67: The adjusted margin for our hotels and packages business increased to $54.1 million during the quarter reported. 
+asr:0: OUTPUT 1847.79-1855.58: Which is an increase of 117.6% over same quarter a year ago and a 53.6% increase. 
+asr:0: OUTPUT 1855.60-1861.40: Over the adjusted margin reported in the previous quarter in constant currency rounds. 
+asr:0: OUTPUT 1862.08-1864.82: As for our bus ticketing business, the. 
+asr:0: OUTPUT 1864.84-1877.80: Manchester margin stood at over $14.1 million and represented a 58.4% increase over same quarter last year and a very robust 79.1%. 
+asr:0: OUTPUT 1877.82-1879.98: Quarter on quarter improvement. 
+asr:0: OUTPUT 1880.46-1883.18: Led by supply recovery in the domestic bus business. 
+asr:0: OUTPUT 1883.74-1888.89: Our RedBus brand continues to lead in the bus ticketing segment in the country and in future. 
+asr:0: OUTPUT 1888.91-1894.95: We will be expanding the Redbus brand franchise to intercity cabs and rail bookings as mentioned by Rajesh earlier. 
+asr:0: OUTPUT 1895.36-1903.16: Lastly, the adjusted margin in other businesses was $5.9 million, an increase of 44.4%. 
+asr:0: OUTPUT 1903.18-1909.61: Over last year same quarter and an increase of 33.3% over the previous quarter in constant currency terms. 
+asr:0: OUTPUT 1910.67-1914.27: Let me now share some details around the operating costs during the quarter. 
+asr:0: OUTPUT 1915.04-1920.40: The reported Q3, after a lull of almost two years, we finally returned. 
+asr:0: OUTPUT 1920.42-1926.63: With our Jo Hoga Wo Hoga campaign on the Make My Trip brand on the Indian television. 
+asr:0: OUTPUT 1927.39-1934.27: The campaign was targeted at boosting confidence while highlighting the convenience and flexibility offered on the MakeMyTrip platform. 
+asr:0: OUTPUT 1934.97-1939.14: Guaibibo's new marketing theme, Apna Rool To Paisa Vasool. 
+asr:0: OUTPUT 1940.14-1946.19: Was centered around the brand's promise to always offer best value and value adds on travel bookings. 
+asr:0: OUTPUT 1946.67-1954.23: Even with the increased brand spending, our overall marketing and promotional expenses during the quarter stood at 5.6% of gross bookings. 
+asr:0: OUTPUT 1954.57-1958.88: Marginally higher than the 5.4% reported in the previous quarter. 
+asr:0: OUTPUT 1959.38-1969.31: Adjusted personal costs and SGI costs for the quarter stood at about $34.7 million compared to the pre-pandemic run rate of about $45 million per quarter. 
+asr:0: OUTPUT 1970.11-1979.08: Aided by significant long-term fixed cost rationalization and efficiencies in our customer acquisition spends built during the last six quarters. 
+asr:0: OUTPUT 1980.00-1985.91: Under the pandemic, we could witness the impact of scale economics filtering down to adjusted operating profit. 
+asr:0: OUTPUT 1986.75-1990.85: During this quarter, we have increased our stake in Quest2Travel. 
+asr:0: OUTPUT 1990.87-1998.98: As part of the acquisition framework and are excited about the strong future prospects of this business, which is directed towards facilitating. 
+asr:0: OUTPUT 1999.00-2001.38: Travel bookings for large corporate customers. 
+asr:0: OUTPUT 2002.14-2009.27: Within the corporate segment, we have surpassed pre-COVID levels and it remains one of the key demand segments for our company. 
+asr:0: OUTPUT 2010.27-2015.01: It may also give some color on a few non-operating PNL elements. 
+asr:0: OUTPUT 2015.54-2019.78: During this quarter, we recorded a profit of about $2.5 million. 
+asr:0: OUTPUT 2019.80-2026.63: From exchange of our shareholding in Inspiroc which was acquired by Klarna, a Swedish print tech company. 
+asr:0: OUTPUT 2027.29-2029.99: We have also additionally provisioned. 
+asr:0: OUTPUT 2030.01-2044.62: For $8.4 million to fully provide for all the tribunal awards in the ongoing litigation with the founders of the H-T group on a conservative basis while we'll continue to take all available legal remedies in the matter. 
+asr:0: OUTPUT 2045.45-2051.69: During the ongoing quarter, we continue to focus on tight cost control amid muted demand. 
+asr:0: OUTPUT 2052.31-2058.60: However, with the reports that many of the key cities in India have already seen the peak of the third wave. 
+asr:0: OUTPUT 2058.84-2065.23: We believe there is a good possibility of a sharp recovery in demand in the coming months. 
+asr:0: OUTPUT 2065.69-2067.77: As Indians plan their next summer vacations. 
+asr:0: OUTPUT 2068.19-2076.92: Soon we'll be with them with their most trusted brands, McMyTrip, Goibibo and RedBus, to make their travel more connected and convenient. 
+asr:0: OUTPUT 2077.38-2081.42: With that, I'd like to turn the call over to the operator for QnA. 
+asr:0: OUTPUT 2083.70-2090.65: Thank you, Mohit. We are now ready for Q&A. Anyone who wants to ask a question can please raise their hands and the lines can be ended. 
+asr:0: OUTPUT 2091.25-2094.85: Thank you. 
+asr:0: OUTPUT 2096.52-2097.54: Would you like to speak now? 
+asr:0: OUTPUT 2100.62-2104.78: Hi, sorry. 
+asr:0: OUTPUT 2106.07-2110.91: Bridget does echo your side. No, no, I think it's better now. Yeah. Yeah. Sorry. 
+asr:0: OUTPUT 2111.77-2120.40: My question is just on the business. Now I know that international has barely recovered in Q3 and I know. 
+asr:0: OUTPUT 2120.76-2121.80: On. 
+asr:0: OUTPUT 2122.10-2124.78: He is a tamper for the ongoing quarter but. 
+asr:0: OUTPUT 2125.67-2134.07: Did the domestic business return to its pre-COVID levels in Q3, given that you were, I think,. 
+asr:0: OUTPUT 2142.80-2146.93: Yeah, hi, Vijay. This is Rajesh. Good question. Let me just take this. 
+asr:0: OUTPUT 2147.97-2153.91: You're right, Vijay. October, November, December quarter, the quarter that we are reporting out, we did see. 
+asr:0: OUTPUT 2153.93-2160.84: On a run rate basis, few days where, you know, actually even for. 
+asr:0: OUTPUT 2160.86-2165.77: Air ticketing business we had seen recovery up to 90-95% on some days as well. 
+asr:0: OUTPUT 2166.33-2173.77: In fact, even for even hotel bookings, you know, as I mentioned very briefly, just in one line. 
+asr:0: OUTPUT 2173.79-2179.28: That we had seen during the pandemic record check-ins during the Christmas. 
+asr:0: OUTPUT 2179.30-2184.08: Weekend as well, which was very close to the pre-pandemic peak as well. 
+asr:0: OUTPUT 2184.58-2191.33: So, you know, I guess that was a good indication of overall demand sentiment improving. 
+asr:0: OUTPUT 2191.35-2197.26: Across the board and recovery coming very close to as far as domestic travel is concerned. 
+asr:0: OUTPUT 2198.20-2203.32: I think with an exception of, I would say, business travel to an extent. 
+asr:0: OUTPUT 2204.24-2211.29: Leisure segment was definitely back, you know, in some, you know, visiting friends and relatives, but in any case happening. 
+asr:0: OUTPUT 2212.45-2221.60: So with an exception of, I would say, business travel, which was taking a little bit more time to come back. I mean, for us, it was a good story given that we had acquired a lot of accounts. 
+asr:0: OUTPUT 2222.02-2229.85: But on an overall basis, business travel was lagging behind a little bit, but all other segments were coming very close to. 
+asr:0: OUTPUT 2229.87-2232.51: Pre-pandemic level on a run rate basis. 
+asr:0: OUTPUT 2232.81-2234.15: I think that will be fair to say. 
+asr:0: OUTPUT 2237.40-2243.30: My second question is on the advertisement vertical if you can give a. 
+asr:0: OUTPUT 2243.32-2250.47: Some of the because I think last time you guys had mentioned that you're looking to make further investments in that space. 
+asr:0: OUTPUT 2250.51-2252.61: Any further update on that side of the business? 
+asr:0: OUTPUT 2255.78-2264.54: And an additional question, just a housekeeping question, if you can share what your sense is of market sharing. 
+asr:0: OUTPUT 2264.56-2269.03: In the aviation business and in the bus ticketing business. 
+asr:0: OUTPUT 2270.37-2280.26: Sure. Okay, let me just take the first one first. Yeah, so the platform that we had built, which was a third party advertisement platform, we've been making continuous investments on that. 
+asr:0: OUTPUT 2281.30-2285.59: In fact, we've been just improving the product offering also on that. 
+asr:0: OUTPUT 2286.15-2289.65: You know, more recently we have scaled up the sponsored link. 
+asr:0: OUTPUT 2290.47-2298.32: You know, sort of ads that any partner can come in and advertise on our platform. 
+asr:0: OUTPUT 2299.56-2307.47: Further from what it was in the last quarter in terms of just the product enhancements that we've been able to do. 
+asr:0: OUTPUT 2307.83-2317.00: And we've been continuously getting good traction from all our partners, especially on the hotel side. 
+asr:0: OUTPUT 2317.20-2320.00: But also on ground transport. 
+asr:0: OUTPUT 2320.64-2329.79: In some cases, even some of the airlines have been very, very interested in participating and advertising on our platform as well. 
+asr:0: OUTPUT 2330.25-2333.69: So, this is a long-term initiative. 
+asr:0: OUTPUT 2334.21-2340.66: We are continuously going to keep making our platform far more robust with additional features. 
+asr:0: OUTPUT 2340.98-2348.01: We do have plans to add a lot more analytics in the coming quarters. 
+asr:0: OUTPUT 2348.37-2353.91: For our partners and keep making their product, you know, far more sort of attractive and robust. 
+asr:0: OUTPUT 2355.60-2360.86: You know, from, from, you know, people who would come and advertise on our platform standpoint. 
+asr:0: OUTPUT 2361.50-2367.29: So it's going to be a continuous sort of investment area from our point of view. And, you know, like I said, it is already. 
+asr:0: OUTPUT 2367.31-2374.91: Giving us good traction on the number of advertisers who are increasing quarter on quarter. 
+asr:0: OUTPUT 2376.66-2382.36: Now talking about the civil aviation market share, I think Mohit just called out as part of his speech. 
+asr:0: OUTPUT 2382.68-2390.95: We continue to be close to about 30% of the total market, both online and offline put together. 
+asr:0: OUTPUT 2392.21-2394.59: As far as domestic air ticketing business is concerned. 
+asr:0: OUTPUT 2395.36-2401.76: And as far as bus segment is concerned, we continue to be the market leader, I guess. 
+asr:0: OUTPUT 2401.92-2406.47: By far from the online booking space standpoint. 
+asr:0: OUTPUT 2407.89-2417.58: And we should have off the online booking space on bus, we should have close to about 65, 70% share, I would have thought. 
+asr:0: OUTPUT 2419.54-2424.54: Got it, thanks a lot Rajesh. Rajesh, one final question before I jump back into the queue. 
+asr:0: OUTPUT 2425.87-2434.97: With the cab business that you called out on ground transport, that's part of the bundled offering. 
+asr:0: OUTPUT 2435.50-2444.97: I noticed from the app that it's really a marketplace, right? Where you are showing availability of cars on rain. 
+asr:0: OUTPUT 2444.99-2447.59: From third party partners and stuff like that. 
+asr:0: OUTPUT 2447.91-2454.19: Can you talk a little bit about monetization on that? What is the commission structure like on that business with your partners? 
+asr:0: OUTPUT 2454.71-2458.06: And I'm assuming this will be housed under other revenues, right? 
+asr:0: OUTPUT 2459.24-2466.51: Yeah, so let me just tell you a little bit more about this, you know, the whole car business that we are trying to build. 
+asr:0: OUTPUT 2467.25-2473.65: You know, it has two sort of products out there. One is airport transfer, which is effectively. 
+asr:0: OUTPUT 2473.69-2480.32: And attached to a flight customer who would be at the airport and he would like to just, you know,. 
+asr:0: OUTPUT 2480.60-2483.42: Come to the airport or go from the airport to the destination. 
+asr:0: OUTPUT 2483.86-2486.57: And the other one is the intercity cab. 
+asr:0: OUTPUT 2486.67-2490.65: Product and I think what you were referring to was more the marketplace. 
+asr:0: OUTPUT 2490.67-2503.20: Or, you know, a lot of partners who are already listed out there and the customer has the option to pick and choose from the car option and then and then it could be fulfilled by, you know,. 
+asr:0: OUTPUT 2503.26-2508.05: Various sort of partners or the operators that we have it at the back end which we have aggregated. 
+asr:0: OUTPUT 2508.87-2513.65: And we had if you if I miss sort of, you know,. 
+asr:0: OUTPUT 2513.69-2519.84: Also add here that we had mentioned it in the past that we had made an investment on the supply side. 
+asr:0: OUTPUT 2521.10-2526.05: You know, a software where we were trying to just, you know, provide this. 
+asr:0: OUTPUT 2526.07-2533.35: The supply side technology platform for the operators as well or the cab aggregators. 
+asr:0: OUTPUT 2533.77-2535.94: So that's one model on the InterCityCab. 
+asr:0: OUTPUT 2536.26-2544.76: What I was trying to highlight in the script early on was also there is one more initiative that we have launched. 
+asr:0: OUTPUT 2545.33-2552.35: We are already pilot testing it out in the two markets, Delhi and CR and Bangalore. 
+asr:0: OUTPUT 2552.71-2554.69: And that is called ride. 
+asr:0: OUTPUT 2555.08-2562.88: Which is a slightly different model where we are signing up partners, you know, who already have a pool of cabs. 
+asr:0: OUTPUT 2563.86-2568.67: We are, you know, sort of branding the cars on the road. 
+asr:0: OUTPUT 2568.69-2574.91: You know, taking better control of the inventory to improve the overall product experience. 
+asr:0: OUTPUT 2575.28-2577.78: Like the actual ride experience. 
+asr:0: OUTPUT 2577.92-2582.86: And trying to position it more like a differentiated experience. 
+asr:0: OUTPUT 2582.94-2591.29: With the set of partners that we are going to have. I mean, we're calling it ride franchises, the partners who would work with us. 
+asr:0: OUTPUT 2591.75-2600.44: The model for either the aggregator model or the right model is going to be the either a commission model or a revenue share model. 
+asr:0: OUTPUT 2600.70-2603.00: So that's really the monetization plan on that. 
+asr:0: OUTPUT 2604.12-2610.59: But it's early days in this market. We are right now doing some strategic investments in this area. 
+asr:0: OUTPUT 2611.43-2617.16: But we definitely see this as a very big opportunity and we are going to sort of scale this up in the coming quarters. 
+asr:0: OUTPUT 2618.94-2622.86: And thank you so much. I'll just jump back into the queue. Thank you. Thanks. 
+asr:0: OUTPUT 2630.81-2635.76: Thank you, Richard. Any other participant who wishes, who wish to ask a question, can please raise your hand. 
+asr:0: OUTPUT 2652.09-2655.58: Vikas wants to ask a question. Vikas, you can speak now, please. 
+asr:0: OUTPUT 2680.00-2683.68: Ashwin wants to ask a question. We'll move to Ashwin. 
+asr:0: OUTPUT 2685.59-2690.77: Ashwin, you can ask question please. Yeah, can you hear me? Yes, please. 
+asr:0: OUTPUT 2691.75-2693.25: Hi, thanks for the opportunity. 
+asr:0: OUTPUT 2694.25-2699.90: So I had one question in terms of the hotels segment wherein. 
+asr:0: OUTPUT 2699.92-2709.59: The ATVs materially went up almost to the extent of 20% sequentially and there was a drop in terms of the take rates this quarter. 
+asr:0: OUTPUT 2709.95-2714.29: So was it largely due to the skew towards the premium hotels? 
+asr:0: OUTPUT 2716.44-2724.68: I could take that you know there are two reasons, clearly one, you know that the excuse kind of you know being more towards, you know, the premium set of hotels. 
+asr:0: OUTPUT 2725.09-2727.11: And also during this specific quarter. 
+asr:0: OUTPUT 2727.57-2735.72: You know, the mixed change was also in favor of the holiday packages. So, you know, a lot more growth is what we have seen coming through our holiday packages. 
+asr:0: OUTPUT 2736.06-2741.50: As customers have chosen the comfort of a packaged product instead of doing standalone bookings. 
+asr:0: OUTPUT 2742.02-2745.65: And since the holiday package product is more like a. 
+asr:0: OUTPUT 2745.67-2753.83: Slightly muted margin business compared to hotels because it's a combination of hotels as well as air tickets etc. 
+asr:0: OUTPUT 2754.43-2758.98: Therefore, the segment kind of margins have come down a little bit. 
+asr:0: OUTPUT 2759.06-2764.80: But the hotel margins per se haven't really seen any significant contraction but for the mixed change towards. 
+asr:0: OUTPUT 2766.41-2770.57: Okay, and just one more in terms of the air side. 
+asr:0: OUTPUT 2771.35-2776.88: So domestic passenger growth if you look at it sequentially was up I think more than 60%. 
+asr:0: OUTPUT 2777.64-2785.53: But in terms of our flight segments, there was a lag. So is it more a timing issue or what is driving that? 
+asr:0: OUTPUT 2789.29-2792.05: Could you just repeat that sorry miss that. 
+asr:0: OUTPUT 2793.31-2799.54: So essentially if you look at the domestic flight traffic in India,. 
+asr:0: OUTPUT 2800.00-2809.85: That was up almost 60% sequentially in this quarter, wherein for us the flight segment growth was a tad lower. 
+asr:0: OUTPUT 2810.23-2813.75: So, is it more to do with the timings or? 
+asr:0: OUTPUT 2814.47-2817.20: Yes, absolutely. You know, you got it right. 
+asr:0: OUTPUT 2817.38-2825.95: You know, what did you see reports is, you know, flown passengers what we report is booked passengers and therefore you know you will see a little bit of a. 
+asr:0: OUTPUT 2826.37-2828.99: You know, difference across quarters. 
+asr:0: OUTPUT 2829.45-2833.01: Based on the emerging trends on, you know, booked versus flown. 
+asr:0: OUTPUT 2834.87-2839.08: Thanks, Mohit. Thanks and all the best. Thank you. 
+asr:0: OUTPUT 2844.08-2849.69: I think we have a question on chat as well. Maybe we can take that because I think Saurabh. 
+asr:0: OUTPUT 2849.71-2858.52: So, Mike is not able to speak so maybe very quickly before we go to push other. I can just quickly respond to that question. 
+asr:0: OUTPUT 2858.98-2867.15: And the question for everybody's benefit is how has your initiatives translated into improvement in client stickiness and LTV over the years in different businesses? 
+asr:0: OUTPUT 2868.47-2870.23: Yeah, no, it's a great question, Saurabh. 
+asr:0: OUTPUT 2870.39-2879.64: So I'll tell you one sort of metric where we very closely track. You know, I think the short answer to this question is it has played out quite well. 
+asr:0: OUTPUT 2880.00-2884.90: Especially for our matured lines of products and the offerings. 
+asr:0: OUTPUT 2886.15-2888.07: And we measured it through the repeat rate. 
+asr:0: OUTPUT 2888.53-2892.35: And, you know, on any given quarter,. 
+asr:0: OUTPUT 2892.63-2898.52: We would have, you know, in anywhere between 65 depending upon the quarter that you. 
+asr:0: OUTPUT 2898.54-2906.03: Specifically look at anywhere between 65 to 70% of the transactions will actually come from the existing customers. 
+asr:0: OUTPUT 2906.53-2909.73: And the rest will come from the new customers in that particular quarter. 
+asr:0: OUTPUT 2910.23-2912.11: So it's a pretty healthy repeat rate. 
+asr:0: OUTPUT 2912.37-2921.96: In fact, it's a very sort of good balance between, you know, the repeat transactions coming from the existing consumer base. 
+asr:0: OUTPUT 2923.10-2927.75: But also the new users every quarter, quarter after quarter that keeps coming our way. 
+asr:0: OUTPUT 2928.75-2933.85: So overall, given that we've been in the business for many years. 
+asr:0: OUTPUT 2934.67-2939.28: It has been playing out. All these investments have been really playing out in a manner. 
+asr:0: OUTPUT 2940.00-2945.51: You know that, you know, sort of helps the overall p&l as well. 
+asr:0: OUTPUT 2953.77-2958.36: I think we can go to Kushagra now. Kushagra, please feel free to... 
+asr:0: OUTPUT 2960.08-2968.39: Thanks for the opportunity. Just one question on, so if I look at your overall structure, cost structure. 
+asr:0: OUTPUT 2969.21-2971.25: If you can get more sins on now. 
+asr:0: OUTPUT 2971.83-2979.66: Which of the segments is sort of taking a higher share in the expenses part. 
+asr:0: OUTPUT 2980.12-2983.62: You have been a market leader in air ticketing for a fairly long time. 
+asr:0: OUTPUT 2984.00-2988.15: So this segment would be sort of cashing in for you guys. 
+asr:0: OUTPUT 2989.23-2994.53: Generally, hotels is one which would be taking a relatively higher share in the overall expense. 
+asr:0: OUTPUT 2995.20-2998.24: So just a broader change on. 
+asr:0: OUTPUT 2998.26-3007.27: If I have to look at on the operating profit wise which of the segments probably is taking a higher share in the overall spends. 
+asr:0: OUTPUT 3009.71-3014.49: That, you know, while it's kind of difficult to, you know, you know, execute. 
+asr:0: OUTPUT 3014.69-3021.56: Get to kind of you know segment wise kind of you know profitability because you know guess what like Rajesh mentioned we have a lot of repeat. 
+asr:0: OUTPUT 3021.84-3026.49: And a lot of customers come in and kind of transact across, you know, business segments. 
+asr:0: OUTPUT 3027.43-3032.15: And therefore it's kind of very difficult to allocate these customer acquisition costs. 
+asr:0: OUTPUT 3032.47-3038.78: Know by the segment. However, broadly, at a high level sense, what we've always been calling out that. 
+asr:0: OUTPUT 3039.06-3044.72: You know the business has been kind of profitable for a fairly long time, you know, almost since the time of our IPO. 
+asr:0: OUTPUT 3045.95-3054.75: And therefore, the overall kind of customer edition spends in that business are very well optimized. 
+asr:0: OUTPUT 3055.90-3059.74: Clearly, we have been calling out that the accommodation space. 
+asr:0: OUTPUT 3059.98-3067.37: Specifically hotels and that within hotels, the budget segment of hotels has been an area of investment over the last few years. 
+asr:0: OUTPUT 3067.75-3073.59: In 2016 onwards and therefore a large part of these spends have been directed towards that particular segment. 
+asr:0: OUTPUT 3074.13-3083.74: The good part is, you know, our kind of, you know, pretty much our investment cycle, even on this, you know, segment or in this space also is pretty much played out now. 
+asr:0: OUTPUT 3084.30-3087.57: And therefore, the unit economics kind of, you know, now start looking much better. 
+asr:0: OUTPUT 3088.09-3096.12: And overall, therefore, if you see a marketing and promotional expense have trended down very well over the last five or six years, you know, there is, there must be. 
+asr:0: OUTPUT 3096.14-3104.12: At a peak, they used to be almost close to about 15 odd percentage points of gross booking and they are now closer to about 5-6 percentage points of gross booking. So we've seen that. 
+asr:0: OUTPUT 3104.66-3110.65: Significant efficiency coming in as the entire accommodation business has got built. 
+asr:0: OUTPUT 3111.07-3114.29: So much so that if you see on a normative basis pre-pandemic. 
+asr:0: OUTPUT 3114.89-3121.06: You know, the hotels business now accounts for almost like, you know, half of the business mix. 
+asr:0: OUTPUT 3121.80-3128.87: Which used to be a very small contribution until about seven years back. So that's broadly how it is kind of playing out right now. 
+asr:0: OUTPUT 3132.07-3133.55: Again last one from my side. 
+asr:0: OUTPUT 3135.01-3139.58: Like how do you see the commissions in the hotel space overall? 
+asr:0: OUTPUT 3139.80-3146.67: You know the reason I asked this, the commission's moving over the medium term for the hotel segment and the reason I asked this question is. 
+asr:0: OUTPUT 3147.67-3155.54: So, and you're largely dependent on, I mean, you have a fairly, you have fair presence in the premium hotels. 
+asr:0: OUTPUT 3155.82-3161.48: So one point, all these hotels and all will also more and more digitized. 
+asr:0: OUTPUT 3162.32-3164.56: Lot of these new models which are coming up. 
+asr:0: OUTPUT 3165.63-3172.33: So there is a, there is a, or there is an indication towards more capital coming in this part of the hotel. 
+asr:0: OUTPUT 3173.43-3180.00: So, where do you see the commission's overall heading over the median income for the hotel segment for you? 
+asr:0: OUTPUT 3184.02-3185.83: The entire world space. 
+asr:0: OUTPUT 3186.33-3190.55: You need to keep in mind that overall occupancy in India. 
+asr:0: OUTPUT 3190.79-3197.78: Even in kind of normal times, pre-pandemic, it used to be more in the 60s for the industry as a whole. 
+asr:0: OUTPUT 3198.58-3201.90: When it comes to this particular business,. 
+asr:0: OUTPUT 3202.16-3210.11: Any room night which goes unoccupied is actually kind of a wasted room night or it's almost like a perishable room night. 
+asr:0: OUTPUT 3210.57-3220.32: And also the incremental costs on an on an on a on a on a night compared to, you know, the, the incremental margins coming in for the hotel. 
+asr:0: OUTPUT 3220.34-3228.13: Are very disproportionate. So the hotel is extremely incentivized in terms of taking the occupancy levels as high as possible. 
+asr:0: OUTPUT 3229.21-3234.71: But like I said, overall at an industry level also, the occupancy rates used to be kind of in the 60s. 
+asr:0: OUTPUT 3235.72-3242.24: Therefore, compared to a lot of the other global markets or the mature markets where the occupancy rates are much higher. 
+asr:0: OUTPUT 3242.80-3251.13: And the fact that, you know, the hotel industry is extremely fragmented in India with more and more of, you know, independent mom and pop kind of properties. 
+asr:0: OUTPUT 3251.33-3257.80: Rather than chains of hotels, the landscape per se does offer slightly better margins compared to the mature markets. 
+asr:0: OUTPUT 3258.56-3262.00: However, from our own kind of point of view,. 
+asr:0: OUTPUT 3262.46-3268.81: We've always kind of looked at creating long-term sustainable economics with all our suppliers irrespective of the line of business. 
+asr:0: OUTPUT 3269.33-3276.02: And therefore, over the last few years, we've actually brought down our overall margins in the hotel business. 
+asr:0: OUTPUT 3276.04-3280.14: From being in the early 20s to kind of being more in the. 
+asr:0: OUTPUT 3280.30-3281.76: High teens now. 
+asr:0: OUTPUT 3282.10-3287.75: And that we believe is kind of sustainable, both in the short term to the longer term period. 
+asr:0: OUTPUT 3289.37-3292.43: For the reasons that I called out. Yes, got it. Thanks. 
+asr:0: OUTPUT 3299.28-3301.64: Ask a question. Arya, you are on mute now. 
+asr:0: OUTPUT 3302.80-3304.42: Yeah, thanks. 
+asr:0: OUTPUT 3308.61-3316.50: But so I mean, firstly, you know, you mentioned that this deeper internet penetration outside of the metros and tier one cities. 
+asr:0: OUTPUT 3316.54-3320.00: How has the share of transactions, traffic, etc. 
+asr:0: OUTPUT 3320.22-3323.68: Move for you on, you know, outside. 
+asr:0: OUTPUT 3324.16-3330.45: Metros and tier 1 cities, can you track that and can you share any numbers on that and maybe across the segments or overall? 
+asr:0: OUTPUT 3332.53-3335.03: I'm happy to just give you a. 
+asr:0: OUTPUT 3337.58-3339.98: Question given the fact that. 
+asr:0: OUTPUT 3340.58-3350.49: The next level of growth has already been sort of coming in from the smaller cities now and more and more in future it's going to come in from there. 
+asr:0: OUTPUT 3351.29-3354.51: You know, as we all know, as Deep also mentioned as part of his speech. 
+asr:0: OUTPUT 3355.52-3359.30: That thanks to pandemic, the. 
+asr:0: OUTPUT 3359.36-3368.47: The penetration on the adoptability of internet and even e-commerce sort of accelerated in these cities as well. 
+asr:0: OUTPUT 3368.81-3371.97: So we are taking a bunch of initiatives, some of them we have already called out. 
+asr:0: OUTPUT 3372.93-3382.80: But I think it'd be fair to say that the new user acquisition, for instance, for our rail bookers, or for that matter, even bus bookers,. 
+asr:0: OUTPUT 3384.12-3392.71: We've been getting out of the new users, as I called out, about 30% of the transactions in a quarter come from new users. 
+asr:0: OUTPUT 3393.73-3401.78: Our overall and the contribution coming in from smaller cities, you know, through the real bookers of the bookers. 
+asr:0: OUTPUT 3402.44-3406.09: Of that new user base is about 25-30%. 
+asr:0: OUTPUT 3406.73-3416.42: So about 25, 30% of the new users are coming through the smaller cities, you know, doing rail bookings or bus bookings. 
+asr:0: OUTPUT 3417.16-3420.46: And budget hotel bookings, etc. As well. 
+asr:0: OUTPUT 3420.90-3429.61: And the other, you know, sort of product that in the area that we've seen a lot of traction coming in. 
+asr:0: OUTPUT 3430.61-3434.97: Is the on the air ticketing side, the Udaan flights. 
+asr:0: OUTPUT 3435.20-3438.50: So all the regional small sectors. 
+asr:0: OUTPUT 3438.52-3445.29: You know, the all those bookings are on sectors are effectively tier 2 tier 3 cities in fact even beyond. 
+asr:0: OUTPUT 3445.89-3449.77: And in future also, the expansion of the airports are also going to be like that. 
+asr:0: OUTPUT 3450.51-3455.28: And we've been actually more than lunch of all those sectors, even on the air ticketing business. 
+asr:0: OUTPUT 3455.66-3460.00: All in all, good traction coming in from. 
+asr:0: OUTPUT 3464.38-3468.25: I think the jacket is from your side or somebody else's. 
+asr:0: OUTPUT 3470.67-3478.42: So the 25 to 30% of the 30% new users you mentioned is on the entire base of new users or only for. 
+asr:0: OUTPUT 3480.00-3481.68: No entire base of new users. 
+asr:0: OUTPUT 3483.50-3490.51: Secondly, can you talk a little bit about how you expect the margins to move next year? 
+asr:0: OUTPUT 3491.19-3498.40: Assuming it's a more normalized year, but then some of your investment some of your ad spend etc is also going to come back. 
+asr:0: OUTPUT 3499.28-3504.16: So can we expect you to be profitable on a full year basis and what sort of a. 
+asr:0: OUTPUT 3504.54-3505.97: Range of margin are you looking at? 
+asr:0: OUTPUT 3507.99-3515.58: Sure, I can take that. You know, like I just called out in on the hotels business. We do expect margins to kind of largely remain stable in the high teens. 
+asr:0: OUTPUT 3516.00-3524.86: So is the case with the bus ticketing business, you know, with the margins kind of largely remaining probably stable, closer to the 8.5 to 9.5% kind of a range. 
+asr:0: OUTPUT 3525.25-3530.81: And on the air ticketing business also, we do expect margins to remain around the 6% to 7% range at least. 
+asr:0: OUTPUT 3531.39-3536.52: Now, with that kind of a margin structure, by line of business, we do believe. 
+asr:0: OUTPUT 3536.92-3544.42: With the kind of efficiencies that we've seen on the customer acquisition expense side, which we've just talked about. 
+asr:0: OUTPUT 3545.03-3552.17: We do expect that while there might be small increases in the overall marketing and promotional. 
+asr:0: OUTPUT 3552.55-3559.86: It is unlikely to go beyond the 7% percentage point of gross bookings. 
+asr:0: OUTPUT 3559.94-3564.02: Compared to the 9-10% points of gross booking. 
+asr:0: OUTPUT 3564.04-3566.09: That it used to be pre-pandemic. 
+asr:0: OUTPUT 3566.51-3572.25: And therefore, that kind of gives us confidence that we kind of should kind of remain on a profitable path. 
+asr:0: OUTPUT 3573.03-3579.88: And just to kind of, you know, give a little bit color on how you know give kind of in a fair at least over the last two years, if you see. 
+asr:0: OUTPUT 3580.38-3586.85: Last year which was a high pandemic hit kind of a year, we were kind of almost cash break even. 
+asr:0: OUTPUT 3587.27-3593.37: And this year we expect to be kind of, you know, operationally, you know, have a profitable year. 
+asr:0: OUTPUT 3593.79-3600.00: And therefore, that gives us even more confidence. And if you see in this particular quarter also, you know, with. 
+asr:0: OUTPUT 3600.30-3608.01: With volumes kind of recovering and with kind of good recovery in the couple of months of the quarter coming through. 
+asr:0: OUTPUT 3608.43-3611.51: We've actually been able to scale up profitability pretty nicely. 
+asr:0: OUTPUT 3611.97-3615.12: And therefore, we believe if the recovery kind of. 
+asr:0: OUTPUT 3615.42-3622.90: Comes back and you know normal travel recovery is kind of back in place as the pandemic ends. 
+asr:0: OUTPUT 3623.28-3625.33: We should be in a good space on the profitability side. 
+asr:0: OUTPUT 3627.63-3636.62: And lastly any update on India listing plans? 
+asr:0: OUTPUT 3637.18-3640.00: I'm not sticking to kindly put it on mute because there's a lot of. 
+asr:0: OUTPUT 3640.46-3645.29: You know, background voice. 
+asr:0: OUTPUT 3651.47-3659.00: Yeah, so any update on the India listing plans, could it happen next year what are the sort of how are you thinking about it. 
+asr:0: OUTPUT 3661.14-3670.83: We didn't really call out any listing plans as such, but you know, we'll keep our options open on that. No plans as yet. 
+asr:0: OUTPUT 3671.21-3673.61: But yeah, we remain open and like I had called out. 
+asr:0: OUTPUT 3674.19-3675.90: The focus is to kind of, you know. 
+asr:0: OUTPUT 3676.14-3680.86: If you look at it from a cash position point of view, we kind of have. 
+asr:0: OUTPUT 3680.90-3688.19: We're very comfortable on the cash position. We've got over $450 million of free cash and cash equivalents on the balance sheet. 
+asr:0: OUTPUT 3688.41-3695.32: And I also just kind of mentioned it that we should probably be cash accretive and not be kind of deploying cash for operations. 
+asr:0: OUTPUT 3695.90-3702.78: We also don't believe there is any large investment opportunity requiring a significant amount of capital infusion. 
+asr:0: OUTPUT 3703.32-3709.65: And so therefore keeping all of that in mind I think the focus right now is in terms of making sure that the. 
+asr:0: OUTPUT 3709.75-3715.24: The recovery on the travel side comes through, we see through the end of the pandemic. 
+asr:0: OUTPUT 3715.56-3718.26: And kind of have a much better kind of cost structure. 
+asr:0: OUTPUT 3718.68-3721.22: And continue to be on the path to profitability. 
+asr:0: OUTPUT 3721.58-3728.91: As that happens, we will kind of you know take an appropriate view if you want to kind of look at an alternative capital raise model. 
+asr:0: OUTPUT 3744.22-3746.73: Mohit, maybe we can take that and we pull. 
+asr:0: OUTPUT 3747.19-3754.49: There is, I can see one more question from Vikas on the chat and then there's an anonymous and a similar question. 
+asr:0: OUTPUT 3755.24-3758.42: And I guess, you know, the question on profitability. 
+asr:0: OUTPUT 3759.40-3766.69: Because we are already profitable, we actually called out that it's the best ever profitable quarter that we just reported out. 
+asr:0: OUTPUT 3767.75-3775.18: And as we've been sort of recovering out of the wave, whenever there has been recovery on the quarter based on all the measures that we've taken. 
+asr:0: OUTPUT 3776.66-3783.24: You know, historically just to restructure our cost base, we've been profitable and profitable at scale. 
+asr:0: OUTPUT 3784.97-3790.23: I guess Rajesh that also answers the anonymous question that we have from an anonymous attendee. Yes. Yes. 
+asr:0: OUTPUT 3791.77-3801.28: Sounds good. I mean, if you have any last questions, we could take that now. I'll, you know, we'll kind of look at wrapping up the call. 
+asr:0: OUTPUT 3806.95-3808.77: I think we'll hit the... 
+asr:0: OUTPUT 3808.79-3809.87: Thanks. 
+asr:0: OUTPUT 3809.89-3816.30: Yeah, we can end the call for now and any further questions, I would request the participants. 
+asr:0: OUTPUT 3816.32-3824.60: Uh, to mail us and we'll get back to you guys. Our mail ID is updated on the 6 days and their disclosures and on the. 
+asr:0: OUTPUT 3824.62-3831.15: So, please feel free to reach out to us. Thank you everyone. Thank you. Thank you. 
+asr:0: END

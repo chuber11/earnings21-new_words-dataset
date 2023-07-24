@@ -1,0 +1,410 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 0.82-9.17: Good day ladies and gentlemen and welcome to our NO Chile third quarter and nine months 2021 results conference call. 
+asr:0: OUTPUT 9.63-12.55: My name is Victor and I will be your operator for today. 
+asr:0: OUTPUT 13.35-23.22: During this conference call, we may make statements that constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. 
+asr:0: OUTPUT 24.12-32.37: Such forward-looking statements reflect only our current expectations, are not guarantees of future performance, and involve risks and uncertainties. 
+asr:0: OUTPUT 33.07-40.26: Actual results may differ materially from those anticipated in the forward-looking statements as a result of various factors. 
+asr:0: OUTPUT 40.84-49.63: These factors are described in MLTLIT's press release reporting its third quarter and nine months 2021 results. 
+asr:0: OUTPUT 50.27-58.86: The presentation accompanying this conference call and NO2's annual report on Form 20-F include under risk factors. 
+asr:0: OUTPUT 59.32-67.25: You may access our third quarter and nine months 2021 results, press release and presentation on our website. 
+asr:0: OUTPUT 67.51-70.33: Www.annal.cl. 
+asr:0: OUTPUT 71.23-77.24: NR20S on the SEC's website www.sec.gov. 
+asr:0: OUTPUT 78.08-82.74: Readers are cautioned not to place under-reliance on those forward-looking statements. 
+asr:0: OUTPUT 83.08-85.25: Which speak only as of their date. 
+asr:0: OUTPUT 85.41-89.85: NOCLA undertakes no obligation to update these forward-looking statements. 
+asr:0: OUTPUT 89.87-97.64: Or to disclose any development as a result of which these forward-looking statements become inaccurate, except as required by law. 
+asr:0: OUTPUT 98.26-105.13: I will now turn the presentation over to Ms. Isabella Clemes, Head of Investor Relations of Eno Chile. Please proceed. 
+asr:0: OUTPUT 108.03-117.66: Thank you, Ritur. Buenos dias, good morning and welcome to an ALCHILES-TELCOR 2021 results presentation. Thanks to all for joining us today. 
+asr:0: OUTPUT 118.32-120.94: I am Isabella Cramy, the head of investor relations. 
+asr:0: OUTPUT 121.26-130.51: Let me remind you that our presentation related financial information are available on our website www.nl.cl. 
+asr:0: OUTPUT 130.53-132.11: In the investors section. 
+asr:0: OUTPUT 132.37-134.07: Any hour at the Vector. 
+asr:0: OUTPUT 134.45-143.06: In the final of the presentation, there will be an opportunity to ask questions via phone or chat through the link Ask a Question. 
+asr:0: OUTPUT 143.54-148.57: Joining me this morning, our CEO, Paolo Palocce, and our CFO, Giuseppe Turcherini. 
+asr:0: OUTPUT 148.99-157.02: In the following slides, Paolo will open the presentation with the main highlights of our strategy and operational performance of the quarter. 
+asr:0: OUTPUT 157.50-160.26: Then use that reward to approve our financial results. 
+asr:0: OUTPUT 160.92-163.40: A replay of this call will also be available. 
+asr:0: OUTPUT 163.46-173.29: And as always, our IR team will be continually available to provide you with another detail that you need. 
+asr:0: OUTPUT 175.01-181.00: Also, let me remind you that media participants are connected only in listening mode. 
+asr:0: OUTPUT 181.28-185.31: Thank you all for your attention and let me hand over to Paulo. Paulo? 
+asr:0: OUTPUT 186.27-194.41: Thank you Isabella. Good morning and thanks for joining us. Let me start with the main highlights of the period of science number three. 
+asr:0: OUTPUT 195.16-199.36: First, let me comment about the unusual situation of the Chilean native demand. 
+asr:0: OUTPUT 200.40-206.11: In terms of hydrology, the country is facing the driest calendar year of its history. 
+asr:0: OUTPUT 206.15-215.02: And as a consequence the system has required and is still requiring an important support from thermal generation. 
+asr:0: OUTPUT 215.68-220.64: At the same time, by the end of 2020, in the first month of 2021,. 
+asr:0: OUTPUT 221.52-228.23: Chile suffered a shortfall of Argentinian natural gas, followed by the rise of the illegitimate price. 
+asr:0: OUTPUT 229.49-232.79: Considering this lack of resources in the system,. 
+asr:0: OUTPUT 232.81-242.08: Since the first month of 2021, we put in place some actions to improve gas availability, buying additional energy, cargos. 
+asr:0: OUTPUT 242.26-244.56: To supply our clients first. 
+asr:0: OUTPUT 244.92-247.33: And then to say yes to the system. 
+asr:0: OUTPUT 248.77-255.18: During the first period of 2021, we have been the largest importer of energy gas in the country. 
+asr:0: OUTPUT 256.34-264.86: At the same time, we launch a force to improve the performance of our hydro plants to operate also with minimal air conditions. 
+asr:0: OUTPUT 266.07-270.35: Despite all the actions we put in place during 2021. 
+asr:0: OUTPUT 270.37-277.76: The external scenario has worsened with the escalation of commodity prices and very bad hydrology. 
+asr:0: OUTPUT 278.10-282.64: Especially in July and the front out rolls leaving their solution. 
+asr:0: OUTPUT 282.66-288.37: To put in place a preventive Russian decree within due date March 2022. 
+asr:0: OUTPUT 289.25-291.97: Consequently, our margin remains affected. 
+asr:0: OUTPUT 293.17-302.30: Within this challenging scenario, investing in renewables to diversify our matrix to reduce our exposure to the hydrology and commodities has been confirmed to be a priority. 
+asr:0: OUTPUT 303.16-307.87: In reference to our 1.3 G-gallon for new project and reconstruction. 
+asr:0: OUTPUT 308.49-318.70: The activities on site are advancing and during the last quarter we also celebrated the start of the construction of the first green hydrogen. 
+asr:0: OUTPUT 318.72-319.82: By the prophets. 
+asr:0: OUTPUT 319.90-322.62: In Chile and in Latin America. 
+asr:0: OUTPUT 324.40-331.91: Last week, I signed an agreement to bring to Chile the first mining electric truck. 
+asr:0: OUTPUT 333.11-347.03: Additionally, today we have more than 10,000 wood heating systems replaced with safer, efficient and cleaner technology as part of our effort to support the contamination of the cities. 
+asr:0: OUTPUT 347.71-352.93: We continue to develop our actions based on the ESG Excel standard. 
+asr:0: OUTPUT 353.09-359.64: Allowing us, for instance, to leverage our expansion through SDG-linked financial instruments. 
+asr:0: OUTPUT 361.02-365.93: Now move on page four, our capacity in construction. 
+asr:0: OUTPUT 367.65-371.49: We continue to develop our strategy toward a cleaner generation market. 
+asr:0: OUTPUT 372.67-380.48: Renewable energy is the catalyser for the energy transition and an essential pillar for our position in the market. 
+asr:0: OUTPUT 381.68-383.46: During the last 18 months. 
+asr:0: OUTPUT 384.26-393.43: We went through some heavy winds associated with the COVID-19 pandemic, other constraints in workers' displacement and closing of the borders. 
+asr:0: OUTPUT 393.97-399.26: And the bureaucracies as long as for archaeological permits, for instance. 
+asr:0: OUTPUT 400.38-406.75: Now that without including Los Congress, today we have 1.3 gigawatts of project under construction. 
+asr:0: OUTPUT 407.41-413.99: Of which around 0.6 gigawatts have been already connected to the system by the end of September. 
+asr:0: OUTPUT 415.80-423.46: But during the course of this year, we are maximizing the effort to advance the construction of the remaining project, expecting to reach. 
+asr:0: OUTPUT 423.48-429.23: Or at least 900 MW to be connected into the grid. 
+asr:0: OUTPUT 429.99-434.63: An additional 250 will be connected to the grid by 1st of Q2 2022. 
+asr:0: OUTPUT 435.22-442.18: And the ramp-up to full production will be finalized by 1st of 2022 for most of the projects. 
+asr:0: OUTPUT 443.82-447.79: The construction of wind farms on the Nile Cove II will be finalized during 2032. 
+asr:0: OUTPUT 448.39-454.37: Considering the effort to move components of the wind facility from the port to the site location. 
+asr:0: OUTPUT 456.60-460.68: With reference to our JD on green animation with AIMI. 
+asr:0: OUTPUT 460.70-468.01: And other partners, we have recently started the construction of this first pilot project in Chile. 
+asr:0: OUTPUT 468.81-473.43: And we expect it to be operational by second quarter 2022. 
+asr:0: OUTPUT 474.31-480.58: We are fully convinced that along the renewable energy, green hydrogen will be essential for. 
+asr:0: OUTPUT 480.60-488.21: In the energy transition and the carbonization process, we have to adapt to this. 
+asr:0: OUTPUT 489.61-494.59: Now let's move to the decarbonization of the final product. Page 5. 
+asr:0: OUTPUT 496.32-501.32: NLX is expanding its effort to displace polluting energy sources. 
+asr:0: OUTPUT 501.58-506.89: And promotes the intensive use of electricity in the public and private sectors. 
+asr:0: OUTPUT 506.91-514.67: Accelerating an agenda that allows the electrification of industrial processes, fleets and public transport. 
+asr:0: OUTPUT 514.71-519.12: As well as the implementation of energy efficiency meters. 
+asr:0: OUTPUT 519.14-521.14: In private and public buildings. 
+asr:0: OUTPUT 522.36-527.85: Along with the framing, a great complement is the action in public transport. 
+asr:0: OUTPUT 528.53-534.71: Chilean government committed to reaching 100% electric public transport by 2040. 
+asr:0: OUTPUT 534.73-540.92: Launched a tender to replace 1,640 buses in early 2021. 
+asr:0: OUTPUT 541.92-548.51: At NLX we are participating in this process and have been awarded, together with our partners,. 
+asr:0: OUTPUT 548.53-552.93: With 891 electric buses. 
+asr:0: OUTPUT 553.25-561.56: Reinforcing our leadership position in public mobility in Chile with a market share of 81%. 
+asr:0: OUTPUT 562.84-567.33: In the field of product sector flints together with the mining company, SQM. 
+asr:0: OUTPUT 568.71-578.58: We have presented the first 30 tons electric mining truck with incorporation of 6 electric buses for transportation of vehicles. 
+asr:0: OUTPUT 579.70-585.81: And an act is supposed to prevent the necessary charging infrastructures for the operation. 
+asr:0: OUTPUT 586.87-592.55: This is an important step for the mining industry in Chile. Welcome. 
+asr:0: OUTPUT 592.81-600.70: Complete process has been made in mitigating emissions at core of the mining operations. 
+asr:0: OUTPUT 602.30-606.67: Regarding the decarbonization of homes and final consumer,. 
+asr:0: OUTPUT 606.79-618.52: We have achieved the milestone of replacing 10,000 good stores with efficient electrical air conditioning equipment in Chile. 
+asr:0: OUTPUT 619.46-628.49: This initiative reduces CO2 emissions and improves the well-being of our cities and communities, benefiting more than 40,000 people. 
+asr:0: OUTPUT 630.15-634.37: Finally, in the face of efficient lighting in our cities,. 
+asr:0: OUTPUT 634.47-646.77: And expand and consolidate its presence in regions with the work of maintenance service of the public lighting system in the municipalities of Temuco. 
+asr:0: OUTPUT 646.85-655.72: With more than 32,000 public lighting that allow us to reach 340,000 points of light. 
+asr:0: OUTPUT 656.48-665.89: Of which 50% correspond to projects carried out outside Santiago, lighting our city efficiently and increasing the safety of the city. 
+asr:0: OUTPUT 667.65-670.23: Now let's go to network page two. 
+asr:0: OUTPUT 672.19-680.26: Energy distribution improvement reflects the recent easing of the sanitary conditions showing a partial recovery. 
+asr:0: OUTPUT 680.28-682.72: When comparing to the Pyramidia. 
+asr:0: OUTPUT 683.54-685.83: Our efforts and investments. 
+asr:0: OUTPUT 685.85-694.53: Have allowed to increase the quality of our service, without lowering SAIDI by 16%. 
+asr:0: OUTPUT 695.66-701.94: Our investment in digitalization continues to improve the contact channels with our clients. 
+asr:0: OUTPUT 702.68-711.25: In this period, almost 90% of our contacts with our clients have been executed through digital channels. 
+asr:0: OUTPUT 713.23-715.92: Let's now move to the traffic service load. 
+asr:0: OUTPUT 717.34-724.10: Within the extension, within each extension until 31st December 2021. 
+asr:0: OUTPUT 724.28-728.81: The application of such a law is still affecting the level of overview data. 
+asr:0: OUTPUT 730.65-735.84: As of September, they will do that for each $180 million. 
+asr:0: OUTPUT 738.08-740.02: In order to minimize the impact. 
+asr:0: OUTPUT 740.84-746.25: We continue to promote payment agreements with the aim of reducing the overdue accounts. 
+asr:0: OUTPUT 746.85-748.75: By September 2021. 
+asr:0: OUTPUT 748.77-756.64: In more than one year, we have reached more than 58,000 payment agreements with our clients. 
+asr:0: OUTPUT 756.98-760.86: Of which 53% corresponds to the basic service load. 
+asr:0: OUTPUT 762.32-769.97: Moving to collection, the ongoing process for the update to SAP ISO of our billing system. 
+asr:0: OUTPUT 769.99-779.54: As important lead in the digital transformation process of our company, are temporarily working our KPI, virtues premiums quarters. 
+asr:0: OUTPUT 780.22-785.67: We expect a normalization of the collection rate during the next quarter. 
+asr:0: OUTPUT 787.37-796.98: A quick update on regulation. On the pollution, we expect that the consultant report on the reference model will be released during November. 
+asr:0: OUTPUT 798.30-804.60: If this date is confirmed, the final report could be issued early next year. 
+asr:0: OUTPUT 805.09-809.67: Continue the challenge of potential discrepancy to the X-planes. 
+asr:0: OUTPUT 810.03-815.72: The final distribution tariff decrease is expected to be raised during mid-2014. 
+asr:0: OUTPUT 817.84-821.72: On submission, we have answered in the expert panel phase. 
+asr:0: OUTPUT 822.44-831.45: Quantum discrepancies are serving to the final re-authoring report on the transmission system for the period 2020-2023. 
+asr:0: OUTPUT 831.51-833.47: We're at over 80%. 
+asr:0: OUTPUT 833.91-839.96: After this all, we expect that the new VAT shall be published early 2030. 
+asr:0: OUTPUT 842.20-845.25: You and now I will hand over to you. 
+asr:0: OUTPUT 847.99-854.51: Thanks Paolo. Let me start with the summary of our financial highlights on slide 8. 
+asr:0: OUTPUT 856.00-860.12: Before starting, let me explain the extraordinary effects of the pier. 
+asr:0: OUTPUT 861.92-871.43: 2021 addresses the build-up and net income, considering the effects arising from the cold stock impairment associated to Boccamino II,. 
+asr:0: OUTPUT 871.45-875.28: And the voluntary retirement programme announced last quarter. 
+asr:0: OUTPUT 876.68-880.66: The cold stock impairment in the voluntary retirement program. 
+asr:0: OUTPUT 880.68-889.19: Had an aggregated effect of $56 million and $39 million, respectively. 
+asr:0: OUTPUT 890.61-894.07: In Evida and at the bottom line in Cumulative Fibre. 
+asr:0: OUTPUT 895.36-902.66: In the third quarter of 2021, the coal stock impairment amounted to $11 million in EBITDA. 
+asr:0: OUTPUT 902.68-905.51: And 8 million dollars in the group net income. 
+asr:0: OUTPUT 906.65-916.46: For cumulative figures in 2020, the adjustment coming from the cold stock environment is $22 million in EBITDA. 
+asr:0: OUTPUT 917.16-925.57: And the net effect of the impairment of Botulinum-2 is $659 million at the bottom line. 
+asr:0: OUTPUT 926.15-930.03: All the details are described in the bottom of the slide. 
+asr:0: OUTPUT 930.91-936.30: Now on Capex, deployment on slide 9. 
+asr:0: OUTPUT 937.96-944.28: 2021 accumulated CAPEX reached $735 million. 
+asr:0: OUTPUT 944.50-949.19: Largely devoted to the construction of our new renewable capacity. 
+asr:0: OUTPUT 950.35-958.96: Customer CAPEX totalled $49 million, mainly allocated to build new connections and to implement the new commercial system. 
+asr:0: OUTPUT 960.56-965.55: Asset management topics reached $86 million. 
+asr:0: OUTPUT 965.71-969.33: 21% higher than 9 month 2020. 
+asr:0: OUTPUT 970.03-978.00: Mainly due to the maintenance of new high voltage projects awarded in 2021 and other revitalization projects. 
+asr:0: OUTPUT 979.50-982.98: Development topics reached 1600. 
+asr:0: OUTPUT 983.20-985.59: 600 million dollars. 
+asr:0: OUTPUT 985.61-995.92: Largely driven by our renewable expansion program and development of our distribution business to continue the digitalization of our network. 
+asr:0: OUTPUT 998.40-1005.37: Let's now start with the third cue adjusted the Vida breakdown on slide 10. 
+asr:0: OUTPUT 1006.23-1013.11: That accounted $93 million, 71% lower versus 2020 figures. 
+asr:0: OUTPUT 1014.57-1016.32: May we do too. 
+asr:0: OUTPUT 1016.50-1019.54: Higher ppa sales in the third queue. 
+asr:0: OUTPUT 1019.56-1028.05: 2021 primary explained by the new agreement started in 2021 with mining companies. 
+asr:0: OUTPUT 1028.07-1030.33: As Anglo-American in BHP. 
+asr:0: OUTPUT 1031.11-1039.70: The adjustment due to the indexation and the new contract coming from NLDistribution 3 customer portfolio at the beginning of the year. 
+asr:0: OUTPUT 1041.96-1051.79: Hydrology, lack of Argentinian gas and higher LNG international prices explain the main biases of this quarter. 
+asr:0: OUTPUT 1052.11-1059.20: That demanded us to increase the volume of purchases at a higher price versus last year. 
+asr:0: OUTPUT 1060.30-1063.46: Let me explain each element that are included in the slide. 
+asr:0: OUTPUT 1065.39-1075.00: Spot purchases volume represented a variation of almost 120 million dollars mainly explained by the lower hydro generation. 
+asr:0: OUTPUT 1076.86-1082.74: Top purchasing costs represented an increase of around $90 million. 
+asr:0: OUTPUT 1083.92-1093.39: Variable production costs partially offset by the aging contracted for the year represented a variance of around $100 million. 
+asr:0: OUTPUT 1095.14-1100.94: The gas margin represented a positive balance of $6 million in our economy. 
+asr:0: OUTPUT 1100.98-1106.65: Be done as the increase of our natural gas trading activity in the market. 
+asr:0: OUTPUT 1108.81-1112.89: Following the chart we have also in the period variances coming from. 
+asr:0: OUTPUT 1113.75-1119.32: A recovery of the 3rd Q2021 demand in distribution business. 
+asr:0: OUTPUT 1119.34-1126.67: Mainly in the regulated customer due to the release of the lockdown measures in the step-by-step government plan. 
+asr:0: OUTPUT 1128.31-1132.29: Network remuneration mainly related to the provision. 
+asr:0: OUTPUT 1132.69-1141.82: On lower remuneration on distribution tariff which should be retroactive to November 2020. 
+asr:0: OUTPUT 1141.88-1149.13: And in the lower remuneration of transmission tariff and tariff value of the indexation of the tariff. 
+asr:0: OUTPUT 1150.05-1153.55: Other effects accounted for 18 million dollars. 
+asr:0: OUTPUT 1153.93-1161.82: May liberally into a higher analysis be done in the court, mainly due to the public likening by business. 
+asr:0: OUTPUT 1162.82-1166.95: Lower penalty and compensation costs in distribution business. 
+asr:0: OUTPUT 1167.33-1172.27: Due to a better quality indicators and the temporary effect during the third Q-test. 
+asr:0: OUTPUT 1172.29-1178.32: On reading services costs due to the logistic restrictions. 
+asr:0: OUTPUT 1180.66-1183.08: Let's move now to slide 11. 
+asr:0: OUTPUT 1183.10-1191.55: Where we have the summary of 9 months adjusted without breakdown accounting for $536 million. 
+asr:0: OUTPUT 1192.83-1202.46: As you can see, the main effects are the same that we presented in the third cube. 
+asr:0: OUTPUT 1203.96-1212.41: Higher TPAs failed in the 9 months 2021 due to the new agreement already mentioned, which started in 2021. 
+asr:0: OUTPUT 1213.65-1220.34: I have bought purchases volume during the 9 months with an effect of $160 million. 
+asr:0: OUTPUT 1222.04-1225.91: The increase in the spot price due to the drought. 
+asr:0: OUTPUT 1225.93-1237.10: And for the commodity availability and other higher commodity prices in the international market represented an impact of $151 million. 
+asr:0: OUTPUT 1238.54-1240.48: The variable generation cost,. 
+asr:0: OUTPUT 1240.56-1250.79: Mainly impacted by the third quarter results, offset by the commodity coverage of around $8 million, total $45 million in the period. 
+asr:0: OUTPUT 1252.51-1258.74: We already mentioned gas oil trade effect with a positive impact in the bid house $17 million. 
+asr:0: OUTPUT 1260.48-1267.63: The distribution business has had a recovery of the demand due to the flexibility of the lockdown. 
+asr:0: OUTPUT 1267.65-1270.69: With an effect of 5 million dollars in dividends. 
+asr:0: OUTPUT 1271.97-1279.28: In negative, 33 million dollars on network accumulation related to the expected lower distribution in tariff. 
+asr:0: OUTPUT 1280.00-1282.90: Lower distribution and transmission times. 
+asr:0: OUTPUT 1283.62-1286.43: In other accounted for. 
+asr:0: OUTPUT 1286.45-1295.04: $7 million mainly due to the new contract agreement booked in 1st June 2021 with the energy distribution unions. 
+asr:0: OUTPUT 1297.10-1302.88: Now, on slide 12, let's go through the main driver of our Blueprint engine. 
+asr:0: OUTPUT 1304.70-1308.35: DNA embed act reached 223 million dollars. 
+asr:0: OUTPUT 1308.77-1315.56: A variance of 42 million dollars, mainly related to lower DNA in N-generation. 
+asr:0: OUTPUT 1315.58-1319.34: Due to the impairment made in Boccaminio II in 2020. 
+asr:0: OUTPUT 1320.06-1324.84: And lower DNA in ECP acid due to depreciation of silane and pesos in the. 
+asr:0: OUTPUT 1326.89-1333.93: Net financial results totaled an expense of $165 million. 
+asr:0: OUTPUT 1333.95-1337.40: An increase of 47 million dollars in mid-June. 
+asr:0: OUTPUT 1338.30-1339.92: Higher cost. 
+asr:0: OUTPUT 1339.94-1348.97: Mainly related to the factoring, executing, duration, business, own stabilization, mechanism, account. 
+asr:0: OUTPUT 1348.99-1357.22: Higher client agreement needs to do basic service flow and higher financial expense capitalized during 2021. 
+asr:0: OUTPUT 1359.14-1364.06: In contrast, reflect the impact related to the lower EBW. 
+asr:0: OUTPUT 1364.88-1371.81: Higher financial expense and higher tax credit in the quarter due to the higher monetary correction in the period. 
+asr:0: OUTPUT 1372.63-1379.42: As a result, the adjustment 9 months 2021 is think and reach 100. 
+asr:0: OUTPUT 1380.00-1381.04: And 4 million. 
+asr:0: OUTPUT 1382.70-1389.01: The adjusted 3rd Q 2021 registered a loss of 13.5%. 
+asr:0: OUTPUT 1389.03-1395.70: Million dollar mainly explained by the lower EBITDA results in the quarter for the reasons mentioned in the previous slide. 
+asr:0: OUTPUT 1395.72-1406.81: Partially offset by the lower income tax in May due to the early before tax results and the monetary correction due to the higher inflation in the country versus last period. 
+asr:0: OUTPUT 1409.25-1412.03: Moving to the cash flow on slide 13. 
+asr:0: OUTPUT 1413.37-1423.36: 9 months 2021 FSO reached $309 million, 45% lower than previous year figures, mostly due. 
+asr:0: OUTPUT 1424.60-1433.17: Lower EDA due to the radiation of hydrogen spot price effect, higher in contact during 9 months. 
+asr:0: OUTPUT 1434.33-1438.16: 2021 mainly related to. 
+asr:0: OUTPUT 1438.18-1446.43: COVID-19 measures during 2020 that postponed part of the corporate tax payment to 2021. 
+asr:0: OUTPUT 1447.09-1452.39: Lower fiscal tax payment rate during 2020 and. 
+asr:0: OUTPUT 1452.41-1461.06: Chilean pesos shot depreciation in the end of 2020 that generated gains resulting in higher tax payments during this year. 
+asr:0: OUTPUT 1462.92-1469.93: The entire financial expense, mainly explained by the cost of the factoring of the stabilization mechanism account,. 
+asr:0: OUTPUT 1472.29-1480.02: All these effects were offset by the higher net working capital. 
+asr:0: OUTPUT 1480.88-1490.47: Versus 2020 mainly explained by the factoring in both generation and distribution business accounted for almost 300 million dollars. 
+asr:0: OUTPUT 1491.65-1501.12: A transmission line saved in 2020 with a cash impact of $28 million in 2021, lower impact of stabilization. 
+asr:0: OUTPUT 1501.14-1506.37: Price maintenance in 2021 vs 2020 due to depreciation of Shilin Bank. 
+asr:0: OUTPUT 1508.25-1514.39: Partially offset by sales of e-buses during 9 months in 2020. 
+asr:0: OUTPUT 1514.61-1522.96: A temporary effect in collection in 2021 mainly due to the implementation of new commercial systems. 
+asr:0: OUTPUT 1525.15-1530.27: Let me now go to our deck on slide 14. 
+asr:0: OUTPUT 1531.31-1539.36: Our gross debt increased by around $700 million basis December 2020, amounting. 
+asr:0: OUTPUT 1539.38-1548.35: To $4.7 billion as a result of new issues in the period with NFI and third parties. 
+asr:0: OUTPUT 1549.55-1560.54: The new insurance, all SDG linked, which consider as KPI the CO2 emission of our generation fleet by 2023,. 
+asr:0: OUTPUT 1560.56-1563.86: Are mainly related to the Catechism-line execution. 
+asr:0: OUTPUT 1565.63-1571.47: Therefore, we now have 14% of our total gross debt as digitally linked. 
+asr:0: OUTPUT 1572.47-1582.46: Our plan is to continue to pursue this kind of deadline that is awarding our movement toward a cleaner matrix. 
+asr:0: OUTPUT 1583.68-1589.29: In terms of debt amortization, our schedule remains sustainable. 
+asr:0: OUTPUT 1589.41-1597.32: With an average of 6 years and with the cost substantially aligned with the last year's. 
+asr:0: OUTPUT 1598.08-1605.39: Finally, in terms of liquidity, our figures give us flexibility to face potential headwinds in the market. 
+asr:0: OUTPUT 1608.09-1609.97: And now on page 15. 
+asr:0: OUTPUT 1611.41-1619.48: Since the first quarter of this year we have been anticipating our internal view of the hydrology for Chile. 
+asr:0: OUTPUT 1620.00-1629.59: As we show in this slide, the ideal performance is pretty much correlated to the driest period we have faced for China. 
+asr:0: OUTPUT 1629.69-1635.44: And there is no perspective this far from the last year figures. 
+asr:0: OUTPUT 1636.10-1638.06: To this scenario. 
+asr:0: OUTPUT 1638.08-1651.51: Which demanded much higher national thermal generation levels, the lack of Argentinean natural gas, coped with the sharp increase of LNG and the brain crisis exposed ourselves. 
+asr:0: OUTPUT 1651.61-1657.00: To a non-competitive mix of generation and higher spot prices. 
+asr:0: OUTPUT 1658.16-1661.66: Therefore, we have revised our number. 
+asr:0: OUTPUT 1661.70-1668.23: To express this update, I want several scenarios to reflect the evolution of some variables. 
+asr:0: OUTPUT 1669.41-1678.64: The study drove us to predict 2021 adjusted-deduct figures between $0.8 and $0.9 million. 
+asr:0: OUTPUT 1679.54-1686.59: Implying an evaluation of around 300 million dollars based on our guidance reported in the last quarter. 
+asr:0: OUTPUT 1688.03-1697.66: We don't see essential deviation on CAPEX as the more significant part of our development CAPEX is being deployed in the following mode. 
+asr:0: OUTPUT 1698.72-1704.46: In our view, the 2021 scenario adjustment. 
+asr:0: OUTPUT 1704.86-1707.37: Is not a structural web one. 
+asr:0: OUTPUT 1707.71-1718.90: We strongly believe that our strategy of increasing renewable capacity will significantly reduce the exposure to commodity and hydro in the following year. 
+asr:0: OUTPUT 1720.40-1723.44: Paolo, I will hand over to you for closing remarks. 
+asr:0: OUTPUT 1726.29-1737.62: Thank you, Mr. Hector. Executing our investment plan will remain our priority and key to bring additional flexibility and efficiency to our current portfolio. 
+asr:0: OUTPUT 1738.54-1745.81: Last month, the regulator presented a proposal to define a new framework for storage and remuneration in the electrical system. 
+asr:0: OUTPUT 1747.23-1756.64: Companies and associations submitted their feedbacks on the proposal and we are waiting for the final version of this regulation, expected to be published in the next month. 
+asr:0: OUTPUT 1757.84-1767.03: This is an important step ahead for the improvement of the use of such technology, adding resilience and flexibility into the system. 
+asr:0: OUTPUT 1768.41-1772.69: We will continue to support our clients and communities. 
+asr:0: OUTPUT 1772.71-1779.14: To accelerate the electrification of their energy use in order to reach the net zero ambition. 
+asr:0: OUTPUT 1779.92-1784.56: Our strategy will continue to be deployed under the highest ESG standards. 
+asr:0: OUTPUT 1785.75-1788.37: For example, we have been awarded... 
+asr:0: OUTPUT 1788.39-1802.26: In the Informe Reporta 2021 as the best company in terms of reporting and purpose and recognition in a PwC study as one of the companies with the best practice in corporate governance in China. 
+asr:0: OUTPUT 1803.86-1809.27: Thank you for your attention. Now let's move into the Q&A session. 
+asr:0: OUTPUT 1813.55-1821.62: To ask a question at this time, please press star 1 on your telephone. And to withdraw your question, just press the pound key. 
+asr:0: OUTPUT 1822.34-1825.69: Once again, that's star one for questions, one more for questions. 
+asr:0: OUTPUT 1829.43-1836.12: Our first question will come from line of Javier Suarez from Medio Blanca. You may begin. 
+asr:0: OUTPUT 1838.38-1843.92: Thank you. Good morning and thank you for the presentation and for taking my questions as well. 
+asr:0: OUTPUT 1845.21-1846.41: I have three questions. 
+asr:0: OUTPUT 1846.79-1852.63: The first one is on the margin for the generation activity this quarter. 
+asr:0: OUTPUT 1852.75-1858.26: That has been affected by hydro and I guess that the company is a faker. 
+asr:0: OUTPUT 1858.70-1866.93: And also by the lack of Argentinian gas and very high international gas prices. 
+asr:0: OUTPUT 1867.33-1874.35: So I was wondering if you can give us an update on your natural gas supply strategy. 
+asr:0: OUTPUT 1874.67-1885.00: And I will look for the next couple of quarters because obviously that is going to be very relevant for your profitability in terms of higher conditions continues to be difficult. 
+asr:0: OUTPUT 1885.51-1894.91: So any guidance on managerial action to improve natural gas supply for the next quarter and maybe mitigate that negative impact would be helpful. 
+asr:0: OUTPUT 1895.58-1904.50: Ben, second question is on the TPIs during the third quarter. There has been some deterioration on the collection. I think you mentioned that during the presentation. 
+asr:0: OUTPUT 1904.80-1909.45: So you can kindly elaborate on the reason for that deterioration in the collection. 
+asr:0: OUTPUT 1910.09-1911.39: The third question is on a slide. 
+asr:0: OUTPUT 1911.43-1913.33: September 13, 2012. 
+asr:0: OUTPUT 1913.37-1918.26: On your refactoring strategy, refactoring. 
+asr:0: OUTPUT 1918.28-1922.06: For the stabilization mechanism. 
+asr:0: OUTPUT 1922.10-1928.93: If you can help us to understand how this is working and how that is accounted. Many thanks. 
+asr:0: OUTPUT 1934.37-1936.44: Thank you, Javier, for your questions. 
+asr:0: OUTPUT 1937.56-1945.17: I will take the first two and the second one and we manage to get a receptor and link the. 
+asr:0: OUTPUT 1946.57-1956.16: Regarding the gas strategy, just to give you an update on the situation,. 
+asr:0: OUTPUT 1956.26-1961.68: Starting from end of September and say very early October. 
+asr:0: OUTPUT 1961.80-1968.17: The gas, the Argentinian gas has been available for the Chilean market. 
+asr:0: OUTPUT 1969.01-1972.57: So we started to import it to Pisa. 
+asr:0: OUTPUT 1973.57-1978.06: Argentina and the British continue until now and. 
+asr:0: OUTPUT 1978.18-1987.19: Just as an analysis, we don't have, let's say, certainty 100%. 
+asr:0: OUTPUT 1987.27-1996.06: But I can mention that today the flow, the beginning of October started with an amount of 2.5 million. 
+asr:0: OUTPUT 1996.08-1997.94: We couldn't meet up per day. 
+asr:0: OUTPUT 1998.56-2003.08: And then now it's increased a little bit. 
+asr:0: OUTPUT 2003.20-2013.13: We have, together with other players in the Chilean market, we have a firm contract with an Argentinian counterpart. 
+asr:0: OUTPUT 2013.79-2019.88: And considering the current situation and considering that. 
+asr:0: OUTPUT 2019.90-2027.27: During recent times the pressure on energy demand in Brazil. 
+asr:0: OUTPUT 2027.51-2034.69: Is a little bit lower, demand from outside, so the importing from Argentina to Brazil,. 
+asr:0: OUTPUT 2034.87-2042.54: We see some more stability for the availability of the Archimdeagraphs. 
+asr:0: OUTPUT 2042.96-2049.17: It's hard to mention how it will be relaxed, but it is, let's say, a relief within this situation. 
+asr:0: OUTPUT 2049.85-2055.78: And four additional elements during this period. 
+asr:0: OUTPUT 2055.84-2063.88: We are analyzing our negotiation with our counterpart in the LNG gas contract. 
+asr:0: OUTPUT 2064.32-2069.17: In order to define the availability of delivery. 
+asr:0: OUTPUT 2069.23-2075.72: For the next years, starting from early 2022. This is important because. 
+asr:0: OUTPUT 2076.10-2084.30: We are working to cover all the periods for 2022, including the, let's say, the early months. 
+asr:0: OUTPUT 2084.68-2093.35: Where maybe the impact of growth is higher and usually, if you look at the standard year,. 
+asr:0: OUTPUT 2093.47-2099.76: We used to let's say burn only Argentina gas, now we are doing let's say. 
+asr:0: OUTPUT 2100.02-2105.49: In a more integrated approach on this availability. 
+asr:0: OUTPUT 2105.77-2111.27: Irrigare making also other elements in terms of gas availability. 
+asr:0: OUTPUT 2111.41-2121.32: The other element that I would like to mention is that the issuing of the Russian decree. 
+asr:0: OUTPUT 2121.34-2122.48: Or Biden. 
+asr:0: OUTPUT 2122.52-2123.78: And will. 
+asr:0: OUTPUT 2123.96-2133.21: Let's say some agreements that we have signed with the local community in our water basins. 
+asr:0: OUTPUT 2135.76-2143.34: Allow us also to keep the level of Belgium with a higher level. 
+asr:0: OUTPUT 2144.32-2147.45: Consider also the availability of Argentinian gas as a means. 
+asr:0: OUTPUT 2147.67-2153.83: So the outlook in the next months even if. 
+asr:0: OUTPUT 2153.85-2167.97: The contribution of melting of the snow and rain is very very limited, give us let's say. 
+asr:0: OUTPUT 2168.03-2172.19: I would say, not negative view for the next month. 
+asr:0: OUTPUT 2172.27-2175.82: Clearly everything is based on the next month's evolution. 
+asr:0: OUTPUT 2176.14-2184.48: Considering also that the commodity price still remains high looking at the forward curve,. 
+asr:0: OUTPUT 2184.50-2188.49: For the end of the year early 2020. 
+asr:0: OUTPUT 2190.39-2195.94: Regarding collection, as we mentioned, I said to myself,. 
+asr:0: OUTPUT 2196.40-2201.42: We are in the process of upgrading our system. 
+asr:0: OUTPUT 2202.30-2208.09: So it is requiring the adequate time to measure. 
+asr:0: OUTPUT 2208.27-2217.86: Migrate to meet your client from one system to another and put everything in line and keep working. 
+asr:0: OUTPUT 2217.88-2219.00: Appropriately. 
+asr:0: OUTPUT 2219.38-2228.03: Clearly, at the regime, we will gain a lot in terms of speed and, let's say,. 
+asr:0: OUTPUT 2228.05-2230.69: Precision and so we can have a. 
+asr:0: OUTPUT 2230.75-2239.42: Let's say, the capability of elaborating, issuing the bills in a quicker and more precise way. 
+asr:0: OUTPUT 2239.46-2241.78: In a more adequate way. 
+asr:0: OUTPUT 2242.68-2249.33: For the time being, we are working for finalizing this transition. 
+asr:0: OUTPUT 2250.29-2257.24: We elaborated and issued the bill for the month of September. We are finalizing the month of October. 
+asr:0: OUTPUT 2257.66-2263.28: We still have some weeks of delay that we are covering during November and December. 
+asr:0: OUTPUT 2264.70-2271.45: Regarding factoring, I will leave the answer to the. 
+asr:0: OUTPUT 2277.72-2278.86: Up to now. 
+asr:0: OUTPUT 2279.66-2287.55: We sold $226 million of receivables coming from the price stabilization mechanism. 
+asr:0: OUTPUT 2288.67-2295.94: And we have an agreement to sell up to around 350. 
+asr:0: OUTPUT 2296.28-2303.84: So we are still part of the trade that is going to be sell in the future. 
+asr:0: OUTPUT 2305.23-2312.19: According to the release of the decree, because as we discussed several times. 
+asr:0: OUTPUT 2312.23-2317.50: We can start the receiver only once. 
+asr:0: OUTPUT 2317.52-2319.32: Warfare. 
+asr:0: OUTPUT 2319.34-2329.51: The regulator will issue the decree stating exactly how much credit each bank has in their portfolio. 
+asr:0: OUTPUT 2330.35-2340.08: Having said that, the impact that we have in the profit and loss is pretty high because the discount. 
+asr:0: OUTPUT 2341.48-2345.45: Of the receivable are made assuming. 
+asr:0: OUTPUT 2345.79-2351.93: A kitchen of the receivables. 
+asr:0: OUTPUT 2351.95-2354.79: The last moment of 2027. 
+asr:0: OUTPUT 2356.34-2361.00: So it means that the time value of the money. 
+asr:0: OUTPUT 2361.50-2366.79: From 2027 till this year is pretty important. 
+asr:0: OUTPUT 2367.57-2373.39: And the reason is because we have such a high level of interest expense. 
+asr:0: OUTPUT 2374.13-2381.10: This year that we made $226 million of. 
+asr:0: OUTPUT 2387.39-2397.16: An agreement based on which if the resource will be paid in a box. 
+asr:0: OUTPUT 2399.82-2406.39: But in general there is a unique sphere that has an important amount of intelligence. 
+asr:0: OUTPUT 2416.74-2426.21: Thank you. Once again, that's star one for questions. Our next question will come from Morillo Resini from Sun Tender. Your line is open. 
+asr:0: OUTPUT 2428.77-2431.49: I'm Paolo, Giuseppe and Isabella. Thanks for the call. 
+asr:0: OUTPUT 2432.77-2436.48: I have some questions and sorry if I repeat any that has already been answered. 
+asr:0: OUTPUT 2437.38-2441.04: Could you comment on the production of your solar facilities? 
+asr:0: OUTPUT 2441.80-2450.43: Are they producing accordingly to your estimates? And are you seeing some seasonal deviation in this regard? 
+asr:0: OUTPUT 2451.33-2459.76: The second one is, are you having any deviation from CAPEX versus the expected guidance? 
+asr:0: OUTPUT 2460.30-2468.39: And could we see a lower than expected COPEX execution since most of it was left by the end of this year? 
+asr:0: OUTPUT 2469.63-2474.25: And the last one, just to confirm the previous question about natural gas. 
+asr:0: OUTPUT 2475.32-2479.20: You were not able to get more gas DPAs during the past year. 
+asr:0: OUTPUT 2479.40-2484.28: Is that right or I misunderstood something here? That's it for my side, thanks. 
+asr:0: OUTPUT 2489.71-2493.21: I am a Leo. Thank you for your question. 
+asr:0: OUTPUT 2493.81-2500.22: Regarding the production of solar facilities, let me comment that. 
+asr:0: OUTPUT 2500.70-2506.47: If we see the expected. 
+asr:0: OUTPUT 2506.49-2515.24: Generation curve that we projected at the beginning of this year, beginning of 2021, clearly there is a remodulation. 
+asr:0: OUTPUT 2515.70-2522.70: In relation to the execution of the project that has been affected, especially in 2021. 
+asr:0: OUTPUT 2523.30-2526.17: From events derived from the pandemic. 
+asr:0: OUTPUT 2526.67-2536.56: So in some cases we had to wait until the opening of the borders to have people on board and working on the. 
+asr:0: OUTPUT 2536.58-2538.38: On the sides. 
+asr:0: OUTPUT 2538.94-2542.60: And we manage in KZR. 
+asr:0: OUTPUT 2542.64-2549.11: And we managed very well all the problems regarding the delay in the purpose from the archaeology. 
+asr:0: OUTPUT 2549.63-2557.18: Now we are, let's say, almost at regime, even if clearly each side has its peculiarities. 
+asr:0: OUTPUT 2557.56-2567.47: So what we are projecting is to have at least 900 MHz already connected by the end of this year. 
+asr:0: OUTPUT 2568.97-2574.53: The remaining, considering 1.3 Giga. 
+asr:0: OUTPUT 2574.83-2580.48: There remain 250 connected in the early months of 2022. 
+asr:0: OUTPUT 2581.12-2589.95: And the remain plant, the oleic one in the south. 
+asr:0: OUTPUT 2590.33-2595.18: It's still requiring some more time because of transferring of the kitchen. 
+asr:0: OUTPUT 2595.52-2602.90: So what I would say is that the work on site is advancing. 
+asr:0: OUTPUT 2603.56-2611.89: We started to operate some megawatts that are really connected to the grid, with a limited amount of integration. 
+asr:0: OUTPUT 2612.45-2617.98: The full ramp-up will take place in the first part of 2022. 
+asr:0: OUTPUT 2618.50-2632.31: We think as well to, let's say, to reach approximately the expected level of CAPEX that we have, let's say, forecast for this year. 
+asr:0: OUTPUT 2632.85-2641.58: And we are also working for opening additional working areas for new projects. So, the activity... 
+asr:0: OUTPUT 2642.62-2648.37: The studies are advancing, we are very focused on this development. 
+asr:0: OUTPUT 2649.11-2658.18: And we do not expect to lower the capex for this year and we are preparing the new capex plan for the. 
+asr:0: OUTPUT 2659.46-2661.70: For the next, for the following year. 
+asr:0: OUTPUT 2664.60-2666.51: Regarding us. 
+asr:0: OUTPUT 2667.65-2668.99: Regarding Jack's... 
+asr:0: OUTPUT 2669.01-2674.77: If you look backward what happened this year, clearly,. 
+asr:0: OUTPUT 2674.79-2679.60: You have also to consider that the plan for. 
+asr:0: OUTPUT 2679.62-2680.72: Dispatching. 
+asr:0: OUTPUT 2681.10-2685.23: Our gas contract is. 
+asr:0: OUTPUT 2685.55-2691.03: So if they discuss and agree with the counterpart, let's say, interdependent. 
+asr:0: OUTPUT 2692.57-2701.92: So at that time it was not possible to anticipate the shortage of Argentinean gas. 
+asr:0: OUTPUT 2702.60-2710.85: So what happened to every player in the gas market, in the energy market in Chile? 
+asr:0: OUTPUT 2711.33-2715.30: Is that there was a lack of resources in the early 20th century. 
+asr:0: OUTPUT 2717.46-2723.96: So we manage in some cases to anticipate the delivery of shift. 
+asr:0: OUTPUT 2724.00-2731.47: We managed to buy on the spot the required amount. 
+asr:0: OUTPUT 2731.59-2740.94: And the lack of gaps still remains because not all the players have been able to cover their gaps. 
+asr:0: OUTPUT 2742.20-2750.19: Clearly, starting from end of March, April, the delivery of shale gas was a regime. 
+asr:0: OUTPUT 2750.97-2760.86: But, continuing the month of July and August, especially the first 15 days of August,. 
+asr:0: OUTPUT 2760.88-2770.33: Where the draft was very, very big, so the heat to the system was very much. 
+asr:0: OUTPUT 2771.31-2779.88: Additional ship, additional vests have been bought and to be delivered early September. 
+asr:0: OUTPUT 2780.00-2781.44: So these new weapons of faith... 
+asr:0: OUTPUT 2781.64-2782.88: The nutrition fact board. 
+asr:0: OUTPUT 2783.60-2793.09: Looking forward, we are managing to have a more equilibrated delivery of gas along 2020. 
+asr:0: OUTPUT 2793.59-2802.50: This is a negotiation, a negotiation with the counterpart and we have to take into consideration the pressure on this sector at a global level. 
+asr:0: OUTPUT 2803.06-2808.21: So it is a nerve-wrack that we are trying to cover because clearly. 
+asr:0: OUTPUT 2808.51-2813.19: Our scope is to cover all the needs that we have in 2032. 
+asr:0: OUTPUT 2820.00-2828.63: Thanks, Paolo. And once again, hit star one for questions. Star one. One moment for questions. 
+asr:0: OUTPUT 2834.91-2841.60: And I'm not showing any further questions in the queue. I'd like to turn the call back over to Isabella for any closing remarks. 
+asr:0: OUTPUT 2844.42-2850.25: Thank you all for your attention to be here with us today. As I anticipated, we received questions. 
+asr:0: OUTPUT 2850.45-2854.67: Sorry, so I'll take your questions that we have already received. 
+asr:0: OUTPUT 2854.79-2862.62: But if you have any other questions or any other comments, please let us know. Just send us a message from the IR team. 
+asr:0: OUTPUT 2863.06-2865.91: Many thanks for your patience and stay safe. Bye bye. 
+asr:0: OUTPUT 2873.13-2879.50: This concludes our conference call for today. Thank you for your participation. You may now disconnect. Have a great day. 
+asr:0: END

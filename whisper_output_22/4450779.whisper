@@ -1,0 +1,310 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.92-13.29: Good afternoon, everyone. Thank you for standing by. And welcome to our Go Platform second quarter 2021 earnings call. 
+asr:0: OUTPUT 14.15-19.96: This event is being recorded and all participants will be in a listening only mode during the company's presentation. 
+asr:0: OUTPUT 20.62-27.07: After our core remarks, there will be a question and answer session. At that time, further instructions will be given. 
+asr:0: OUTPUT 27.91-33.51: Should any participant need assistance during this call, please press star zero to reach the operator. 
+asr:0: OUTPUT 34.57-43.86: This event is also being broadcast live with the webcast and may be accessed through ARCO's website at investor.arcoplatform.com. 
+asr:0: OUTPUT 44.68-46.61: For the presentation is also available. 
+asr:0: OUTPUT 47.59-54.67: Now I will turn the conference over to Karina Carrera, our Co-IR Director. Karina, you may begin your presentation. 
+asr:0: OUTPUT 58.02-62.42: Thank you. I'm pleased to welcome you to ARCO's second quarter 2021 conference call. 
+asr:0: OUTPUT 62.88-71.91: With me on the call today, we have Arco's CEO, Aridu Saka-Balcantineto, and Arco's CFO, Roberto Otero. During today's presentation, our executives will make forward-looking statements. 
+asr:0: OUTPUT 72.47-79.72: Fort Logging statements generally relate to future events or future financial or operating performance and involve known and unknown risks. 
+asr:0: OUTPUT 79.74-86.89: Uncertainties, and other factors that may cause our actual result to differ materially from those contemplated by these forward-looking statements. 
+asr:0: OUTPUT 87.69-94.27: Forward-looking statements in this presentation include, but are not limited to, statements related to our business and financial performance. 
+asr:0: OUTPUT 94.49-102.32: Our expectations and guidance for future periods, our expectations regarding strategic product initiatives and their related benefits. 
+asr:0: OUTPUT 102.48-104.54: And our expectations regarding the market. 
+asr:0: OUTPUT 105.27-114.61: These risks include those set forth in the documents that we issued earlier today, as well as those more fully described in our findings with the Securities and Exchange Commission. 
+asr:0: OUTPUT 115.36-120.92: The forward-looking statements in this presentation are based on the information available to us as of the day hereof. 
+asr:0: OUTPUT 121.50-129.73: You should not rely on them as prediction of future events and we disclaim any obligation to update any forward-looking statements except as required by law. 
+asr:0: OUTPUT 130.41-134.95: In addition, management may reference non-IFRS financial measures on this call. 
+asr:0: OUTPUT 135.42-143.62: The non-IFRS financial measures are not intended to be considered in isolation or as a substitute for results prepared in accordance with IFRS. 
+asr:0: OUTPUT 144.18-152.83: We have provided a reconciliation of these non-IFRS financial measures to the most directly comparable IFRS financial measure in our press release. 
+asr:0: OUTPUT 153.51-160.32: Please note that except from revenue, gross margin, selling expense, G&A and cash flow from operations,. 
+asr:0: OUTPUT 160.40-164.16: All other financial measures we discussed here are non-IFRS. 
+asr:0: OUTPUT 164.42-169.67: And growth rates are compared to the prior year comparable period unless otherwise stated. 
+asr:0: OUTPUT 170.37-177.18: We also note that year-over-year comparisons are affected by acquisitions that were not included in our 2020 financials. 
+asr:0: OUTPUT 177.68-186.11: Let me now turn the call over to Adi, Arco's CEO. Thank you, Karina. And thanks, everyone, for joining today's conference call. 
+asr:0: OUTPUT 186.87-195.08: We hope that you and your families are all healthy and safe. We would like to present four topics today, as shown in slide three. 
+asr:0: OUTPUT 196.04-198.34: First, on the results. 
+asr:0: OUTPUT 198.86-204.04: We had a 21.9% revenue recognition in the quarter. 
+asr:0: OUTPUT 204.46-210.93: Leading to a net revenue of R$ 588 million for the first six months of 2021. 
+asr:0: OUTPUT 211.43-216.12: Or 18% increase versus the same period of 2020. 
+asr:0: OUTPUT 217.72-222.02: Adjusted EBITDA this quarter was impacted by lower revenue recognition. 
+asr:0: OUTPUT 222.04-227.97: Product development, and sales force increase as we prepare for a post-pandemic recovery. 
+asr:0: OUTPUT 228.15-235.74: Leading to an accumulated adjusted EBITDA margin for the first six months of the year of 32.4%. 
+asr:0: OUTPUT 236.98-244.92: Despite an even softer third quarter ahead following historical seasonality trends as Otero will show in a few minutes. 
+asr:0: OUTPUT 245.41-250.55: We are confident that the fourth quarter will lead us to meet the adjusted EBITDA margin guidance. 
+asr:0: OUTPUT 250.57-255.86: Of 35.5% and 37.5% range. 
+asr:0: OUTPUT 258.32-267.19: The free cash flow improved this quarter as we collected the receivables generated by the extension of the payment terms to assist our partner schools. 
+asr:0: OUTPUT 267.21-270.23: Taking us back to our strong cash generation profile. 
+asr:0: OUTPUT 272.11-281.96: Second, the commercial cycle for 2022 school year continues to show encouraging results as pandemic-related restrictions are progressively lifted. 
+asr:0: OUTPUT 282.72-293.21: At this point, we see organic growth pace for core solutions in line with pre-pandemic levels, while supplemental solutions accelerate versus 2020. 
+asr:0: OUTPUT 293.25-297.76: But indicated two-step recovery to pre-pandemic growth rate levels. 
+asr:0: OUTPUT 299.48-310.03: We are achieving great results from our cross-sell initiatives, which will now be powered by the creation of a centralized supplemental business unit called ARCO+. 
+asr:0: OUTPUT 311.91-321.84: Third, as we continue to search for innovative ways of better service our clients and consolidate our leadership position in the industry,. 
+asr:0: OUTPUT 321.86-324.58: We launched this year SAS Adapt. 
+asr:0: OUTPUT 325.15-331.23: A customizable and data-oriented version of SAS, our most premium core solution. 
+asr:0: OUTPUT 331.25-335.64: Allowing us to better serve the premium segment. 
+asr:0: OUTPUT 338.62-343.22: SASAdapt was developed on top of Edukos LMS, a solution. 
+asr:0: OUTPUT 343.24-351.17: We acquired in July that will integrate our Archotech portfolio and has great data analytics capabilities. 
+asr:0: OUTPUT 352.45-362.08: And finally, we concluded our first step towards disclosure improvement and commitment to increase our impact with the release of our first ESG report. 
+asr:0: OUTPUT 363.22-368.83: I will now turn the call to Otero to discuss the results for the quarter. Otero, please go ahead. 
+asr:0: OUTPUT 372.33-378.10: Thank you, Adi, and good evening, everyone. Thank you for your time. I also hope that you are all safe and healthy. 
+asr:0: OUTPUT 378.66-379.76: Move into like five. 
+asr:0: OUTPUT 379.88-386.11: Net revenues for the second quarter of 2021 were R$256 million. 
+asr:0: OUTPUT 386.13-392.81: Representing a 9% year-over-year growth and 21.9% of revenue recognition. 
+asr:0: OUTPUT 393.05-398.20: Below the historical average for the quarter impacted by the second wave of COVID-19. 
+asr:0: OUTPUT 398.72-408.37: As a result, net revenues for the six months of 2021 totaled R$ 588 million, 18% above the same period for last year. 
+asr:0: OUTPUT 409.23-414.31: Lower revenues added to higher costs related to product development and higher selling expenses. 
+asr:0: OUTPUT 414.33-424.12: Aiming a stronger sales cycle, led to an adjusted EBITDA for the quarter of R$72.3 million, 28 per cent below the second quarter last year. 
+asr:0: OUTPUT 424.14-427.63: With a 28.2% EBITDA margin. 
+asr:0: OUTPUT 428.57-432.53: I just did EBITDA for the first six months of the year totaled. 
+asr:0: OUTPUT 432.55-439.16: R$190.6 million resulting in a 32.4% accumulated margin. 
+asr:0: OUTPUT 439.66-446.25: Finally, adjusted net income was $36.4 million for the quarter with a 14.2% net margin. 
+asr:0: OUTPUT 446.27-451.37: And 97.5 million for the first six months with 16.6% margin. 
+asr:0: OUTPUT 452.27-459.68: On slide six, we present a breakdown for our receivables, which reduce 19% from the first quarter level. 
+asr:0: OUTPUT 459.70-466.13: As we collected the receivables from our partners' schools to whom we provided support through more flexible payment terms. 
+asr:0: OUTPUT 466.57-475.08: That added to the lower effective tax rate resulting from corporate restructuring led to significant improvement in the free cash flow this quarter. 
+asr:0: OUTPUT 476.02-482.64: On slide seven, we present an update on our ongoing corporate restructuring, which will further contribute to our cash generation in the future. 
+asr:0: OUTPUT 483.28-490.29: We concluded the incorporation of SAS subsidiaries on July 1st, leading to annual savings amounting to 30 million reais. 
+asr:0: OUTPUT 490.87-497.78: Next steps include incorporation of Navia Vela this year and Escole Movimento, Plano and Estudos in 2022. 
+asr:0: OUTPUT 498.64-505.75: As we incorporate businesses acquired in the past, we will be able to capture additional tax benefits and further reduce our effective tax rate. 
+asr:0: OUTPUT 506.65-508.99: To conclude this session, moving to slide eight. 
+asr:0: OUTPUT 509.01-517.28: We'd like to take the opportunity to make a quick recap on the seasonality of our business and how we expect this year to behave when compared to historical trends. 
+asr:0: OUTPUT 518.32-525.09: Adjusted EBITDA and cash flow for operating activities have different behaviors along the year, as we can see in the two charts. 
+asr:0: OUTPUT 525.71-534.33: The blue line for both charts represent the historical trend, while the red line represents the expected behavior for 2021. 
+asr:0: OUTPUT 535.70-543.54: When analyzing adjusted EBITDA, best performing quarter for revenue recognition is skill 4 when all solutions have their first content delivered to schools. 
+asr:0: OUTPUT 544.14-549.87: On the other hand, the worst performing quarter is Q3, as most of the content has been delivered in previous quarters. 
+asr:0: OUTPUT 550.31-555.08: This year we expect a more accentuated seasonality but still following historical trends. 
+asr:0: OUTPUT 555.86-559.80: When analyzing cash flow from operating activities at the majority of schools. 
+asr:0: OUTPUT 559.82-568.57: Pay for our solutions in up to 8 installments starting around February, Q2 is usually the strongest cash generator, while Q4 is the weakest. 
+asr:0: OUTPUT 569.21-576.34: This year, as we extend the payment terms to assist our partners' calls, the cash collection behavior will be a little different from historical trends. 
+asr:0: OUTPUT 577.34-586.15: Moving to slide 10, we are very excited about the return of in-person classes in most states in Brazil, as it increases the effectiveness of our commercial activities. 
+asr:0: OUTPUT 586.69-593.29: At this point, 56% of the population received at least the first dose of the COVID-19 vaccine. 
+asr:0: OUTPUT 593.31-599.66: And 24% are fully vaccinated, with vaccination of teenagers starting this month in some states. 
+asr:0: OUTPUT 600.52-606.01: The reopening of schools and vaccination of the population has a direct impact in the commercial cycle. 
+asr:0: OUTPUT 606.15-612.59: As principals become more optimistic and open to meet our team and discuss positive changes to their schools. 
+asr:0: OUTPUT 614.01-616.16: As represented in slide 11. 
+asr:0: OUTPUT 616.24-625.53: Despite in a still early stage, the commercial cycle for the 2022 school year is presenting a much faster organic growth pace versus last year. 
+asr:0: OUTPUT 625.69-628.79: Indicating that the worst is definitely behind us. 
+asr:0: OUTPUT 629.63-639.52: For our car solution, year-to-date organic growth pace is in line with pre-pandemic levels, indicating a strong lead conversion on top of a suppressed demand. 
+asr:0: OUTPUT 640.10-647.65: Positivo is the leading performer for the core segment, two times ahead of the commercial cycle for 2020 school year. 
+asr:0: OUTPUT 647.67-651.97: Proving the effectiveness of our acquire and improve strategy. 
+asr:0: OUTPUT 653.03-659.58: As for our supplemental solutions, year-to-date organic growth pace shows strong recovery versus last year. 
+asr:0: OUTPUT 659.60-664.04: But indicates a two-step recovery to pre-pandemic growth rate levels. 
+asr:0: OUTPUT 664.74-667.97: We had one of the best years for renewals last year. 
+asr:0: OUTPUT 668.25-677.04: And at this point, renewal rates for car solutions are in line with historical levels, while supplemental solutions are presenting a stronger renewal performance. 
+asr:0: OUTPUT 678.14-686.57: Moving to slide 12, CROCEL has further accelerated and now represents 85% of the intake for supplemental solutions year to date. 
+asr:0: OUTPUT 687.11-696.10: Important to mention that the economics for Crossel are better as we see a faster lead conversion, signing of larger contracts and usually with longer terms. 
+asr:0: OUTPUT 696.38-700.44: And the relationship with the partner's call becomes stronger, increasing the rotation rates. 
+asr:0: OUTPUT 701.16-705.91: The possibilities to capture cross-option are numerous, and here are some recent examples. 
+asr:0: OUTPUT 706.45-709.23: In the first one, named cross-cell intake. 
+asr:0: OUTPUT 709.25-717.46: We signed with a large school that did not use any ARCO product before, adding both SAI and NAVE, our maker solution. 
+asr:0: OUTPUT 718.10-727.95: In the second example, named Renewal Core plus Cross-Self Supplemental, we extended the contract term with Positivo Partners' call to five years and added Plano. 
+asr:0: OUTPUT 728.83-737.18: In the third example, named upselling supplemental plus cross-sale core, we extended the contract term within international school partner school. 
+asr:0: OUTPUT 737.20-744.22: While adding other branches of the same chain and including SAS, leading to a 5 times ACV increase. 
+asr:0: OUTPUT 745.04-749.41: Finally, in the fourth example named renewal supplemental plus cross-cell. 
+asr:0: OUTPUT 749.87-754.51: We extended the contract with an Escola de Inteligencia partner school to four years. 
+asr:0: OUTPUT 754.53-760.56: And added Cy, PES and Plano, leading to a 10 times ACV increase. 
+asr:0: OUTPUT 762.02-770.93: Moving to slide 13, we are now powering the cross-sell initiatives with the creation of ARCO+, a business unit that will centralize our supplemental solutions. 
+asr:0: OUTPUT 771.37-781.08: This structure will allow us to extract synergies by centralizing activities that will lead to cost savings, reducing time spent with repeated demands and challenges,. 
+asr:0: OUTPUT 781.10-789.81: Is simulating cooperation between solutions, providing access to tools and resources from one to another, and leveraging on Arco's employer branding. 
+asr:0: OUTPUT 790.05-799.42: While of course maintaining strong brands, pedagogical approach with clear identities, fast response to customer needs, and focus on quality and innovation. 
+asr:0: OUTPUT 800.14-803.12: I'll now turn the call back to Ari. Ari, please go ahead. 
+asr:0: OUTPUT 805.65-815.28: Thank you, Otero. Innovation has always been part of our DNA, especially when it translates into delivering a better product or service to our clients. 
+asr:0: OUTPUT 816.04-821.40: On slide 15, we present SAS Adapt, a version of SAS, our most premium brand. 
+asr:0: OUTPUT 821.80-824.90: That offers more customization possibilities. 
+asr:0: OUTPUT 824.92-834.37: Generates more data on students' engagement and pedagogical gaps, and allows for higher connectivity among all content available in the platform. 
+asr:0: OUTPUT 835.22-841.52: It's a solution that fits well with the demands of school segments that want to customize their content. 
+asr:0: OUTPUT 841.62-846.87: Which in turn will provide valuable feedback that will guide us to further improve our solutions. 
+asr:0: OUTPUT 847.65-851.55: SAS Adapt was created using Studos and Edukos features. 
+asr:0: OUTPUT 851.69-862.96: Which are now part of ArcoTec alongside Scola e Movimento, our app communication solution, and W-Pensar, our ERP solution, as presented on slide 16. 
+asr:0: OUTPUT 864.10-869.53: ArcaTec was recently created with a goal of centralizing the technology backbone of our solutions. 
+asr:0: OUTPUT 870.03-878.34: Gathering the best features from all platforms acquired along the years that can be the common tool into one single strong backbone. 
+asr:0: OUTPUT 879.50-881.50: It will allow for us. 
+asr:0: OUTPUT 881.52-889.91: Cost savings and better user experience as we will be able to implement improvements and add new features much faster. 
+asr:0: OUTPUT 890.43-896.44: Besides strengthening our employer branding to attract talents on the technology segment. 
+asr:0: OUTPUT 897.72-899.74: Educo, acquired in July. 
+asr:0: OUTPUT 899.76-913.93: It's a great complement to Archotech's portfolio as it is a powerful LMS that provides a personalized learning experience and helps schools to acquire more students based on data intelligence. 
+asr:0: OUTPUT 915.90-923.66: On our final slide on page 18, we bring a summary of our ESG report released last week. 
+asr:0: OUTPUT 924.36-931.59: Our first step towards mapping our strengths and gaps so we can further expand our impact on Brazilian education. 
+asr:0: OUTPUT 932.73-941.76: The materiality analysis presented last quarter guided us to focus on three main topics, which are fully aligned with our strategy. 
+asr:0: OUTPUT 942.40-948.57: Impact on education, focus on people and strong and sustainable structure. 
+asr:0: OUTPUT 949.51-958.64: The report brings relevant information on each of these topics and challenges us to continue pursuing better practice going forward. 
+asr:0: OUTPUT 960.78-963.04: ARCA is undergoing relevant changes. 
+asr:0: OUTPUT 963.64-968.23: M&A was key to support our mission to scale quality education across Brazil. 
+asr:0: OUTPUT 968.71-970.93: And now is the time for us. 
+asr:0: OUTPUT 970.95-979.98: To organize our structure and further extract the benefits of having reputable brands, quality solutions, and a highly talented team. 
+asr:0: OUTPUT 980.76-988.71: The creation of ArcoTech and ArcoPlus allow us to centralize a structure that will generate even more value when combined. 
+asr:0: OUTPUT 989.45-993.83: And there is more to come as we deep dive into our processes generating. 
+asr:0: OUTPUT 993.85-999.82: Savings that will translate into freeing capital to invest in what really creates value. 
+asr:0: OUTPUT 999.84-1004.08: Serving well our clients and unlocking value to grow. 
+asr:0: OUTPUT 1005.39-1008.97: Thank you for your time, operator. We can now open for questions. 
+asr:0: OUTPUT 1012.79-1022.58: Thank you. The floor is now open for questions. If you have a question, please press star 1 on your touch-tone phone. Edit this or any time. 
+asr:0: OUTPUT 1023.36-1029.09: If at any point your question is answered, you may remove yourself from the queue by pressing star 2. 
+asr:0: OUTPUT 1030.23-1032.89: Questions you'll be taking in the order they are received. 
+asr:0: OUTPUT 1033.51-1040.38: We do ask that when you pose our questions that you pick up your headset to provide an optimal sound quality. 
+asr:0: OUTPUT 1041.50-1043.58: Please hold while we poll for questions. 
+asr:0: OUTPUT 1045.69-1050.15: Our first question comes from Vitor Tomita, the Goldman Sachs. 
+asr:0: OUTPUT 1051.99-1059.54: Hello, good evening all and thanks for taking our questions. Two questions on our side. The first one is on ArcoPlus. 
+asr:0: OUTPUT 1060.02-1065.37: If you could give us some more details on the type of activity that will be centralized. 
+asr:0: OUTPUT 1065.91-1071.03: Particularly if you will have a single commercial team for all brands now. 
+asr:0: OUTPUT 1071.09-1080.20: And if so, if you see any risks to brand perception in using the same team for higher-end and lower-end supplemental brands. 
+asr:0: OUTPUT 1080.80-1084.94: And the second question would be on Archotech. 
+asr:0: OUTPUT 1085.71-1093.11: Especially how it will interact with the various core brands other than SAS and SAS. 
+asr:0: OUTPUT 1093.13-1100.78: Or how it separates the technological back-end currently used between different car brands. 
+asr:0: OUTPUT 1101.08-1111.07: And if there could be significant cost savings arising from unifying the technology backbone across core brands. Thank you. 
+asr:0: OUTPUT 1113.43-1116.12: Hi, Vitor. Thanks for the questions. It's Otero here. 
+asr:0: OUTPUT 1117.58-1126.31: On ARCHO+, I would say that there's no change in mindset here. I think that's something that we always mapped that was going to happen. 
+asr:0: OUTPUT 1126.41-1132.03: We were just waiting for the right timing to do such integration. 
+asr:0: OUTPUT 1132.17-1139.94: So the idea here is really to join efforts in a more efficient way across those brands. 
+asr:0: OUTPUT 1140.44-1144.10: So in terms of what is going to be centralized and integrated. 
+asr:0: OUTPUT 1144.60-1148.23: We here internally are saying that everything that is behind the curtain. 
+asr:0: OUTPUT 1148.29-1156.76: So everything that will not prevent the client from perceiving the unique identity of the brand. 
+asr:0: OUTPUT 1157.36-1166.61: So everything related to operations and back office services will at first be integrated. 
+asr:0: OUTPUT 1167.73-1172.07: With regards to the sales team, the idea here is to keep them independent, right? 
+asr:0: OUTPUT 1172.47-1177.84: So as we discussed in the presentation, we already have a team dedicated to the cross cell. 
+asr:0: OUTPUT 1178.28-1183.36: So this team dedicated to cross-sell is already selling all brands. 
+asr:0: OUTPUT 1183.82-1187.67: But we're going to keep independent sales teams for each of the brands as well. 
+asr:0: OUTPUT 1187.77-1194.31: So this is what will drive clients and customers to perceive the uniqueness of each of the brands. 
+asr:0: OUTPUT 1194.71-1199.16: But behind the curtains we will integrate several areas. 
+asr:0: OUTPUT 1201.70-1208.69: As to ARCO-TAC, I would say that similarly to ARCO+, here there's no change in mindset as well. 
+asr:0: OUTPUT 1209.29-1212.75: So it's really about finding the right timing to do it. 
+asr:0: OUTPUT 1212.91-1217.22: As you know, we made several acquisitions over the last two, three years. 
+asr:0: OUTPUT 1217.24-1225.35: And the key priority at first was really to improve the content, to improve the product, to improve the customer service. 
+asr:0: OUTPUT 1225.95-1228.29: And to improve the go-to-market strategy. 
+asr:0: OUTPUT 1228.45-1237.02: And to use the local technology at first. So that was the strategy for those acquisitions that we made. 
+asr:0: OUTPUT 1237.40-1242.78: Now we think it's the time to drive the integration of the technology platform. 
+asr:0: OUTPUT 1243.04-1252.79: So what we're going to do is create one single technology backbone, right, backing those platforms and the front end is going to be independent. 
+asr:0: OUTPUT 1253.43-1254.53: So we're going to have. 
+asr:0: OUTPUT 1254.57-1261.60: A local team at each of the brands driving the uniqueness of the front end to students and to schools. 
+asr:0: OUTPUT 1262.06-1266.53: But we're going to have this centralized backbone driven by Architect. 
+asr:0: OUTPUT 1267.11-1275.05: So the idea here is to drive more efficiency, to drive more agility, and to allocate the best resources possible to all the brands. 
+asr:0: OUTPUT 1275.86-1277.24: So that's the idea here. 
+asr:0: OUTPUT 1280.14-1287.61: Thank you. Our next question comes from Pedro Mariani with Bank of America. 
+asr:0: OUTPUT 1289.89-1294.11: Hi guys, thanks for the opportunity to hear. I also have two questions. 
+asr:0: OUTPUT 1294.79-1304.16: So, Befresa, if you could just provide an update on the ongoing commercial cycle for next year and how you're seeing the new intake dynamics for the most important business lines. 
+asr:0: OUTPUT 1304.52-1311.19: What is the profile of these intakes, like if they are coming from the operators or through the conversion to learning systems? 
+asr:0: OUTPUT 1312.21-1320.44: That would be super helpful if that's the first question. And the second is regarding the self-adapt that you provided some information right now. I just wanted to understand. 
+asr:0: OUTPUT 1320.90-1324.60: What is the strategy here? 
+asr:0: OUTPUT 1325.23-1329.29: And if there is any difference in terms of tickets versus the traditional SAS program. 
+asr:0: OUTPUT 1329.79-1331.05: These are the two questions. Thank you. 
+asr:0: OUTPUT 1336.64-1344.98: Hi Pedro, this is Ari, thank you for your question. Regarding the commercial cycle, I would say that the early signs are very strong. 
+asr:0: OUTPUT 1345.53-1355.12: We still are in the beginning of the cycle. Most of the contracts are signed in the second semester of the year between September and November. 
+asr:0: OUTPUT 1355.62-1364.94: But I think the main difference here is that we are now able to visit schools. Our team is traveling extensively. 
+asr:0: OUTPUT 1365.23-1372.47: We are able to receive schools in our headquarters, so we are hosting events very frequently. 
+asr:0: OUTPUT 1372.53-1378.78: And this last step of the sales cycle to close the deal is very important. 
+asr:0: OUTPUT 1378.90-1385.95: So we see that in core we are multiple times ahead of 2020. 
+asr:0: OUTPUT 1386.05-1389.83: And in a growth phase in line of 2019. 
+asr:0: OUTPUT 1390.75-1395.24: In the supplemental in 2019, we were growing 60%. 
+asr:0: OUTPUT 1395.92-1402.86: So I would say that in 2020 it's multiple times ahead of, sorry, in 2021 it's multiple times ahead of 2020. 
+asr:0: OUTPUT 1403.34-1410.85: But I would say that the recovery to the levels of 2019, it's going to be in a two-step way. 
+asr:0: OUTPUT 1411.57-1425.13: So we're very optimistic at this point, still early, but the traction of the sales force and the sales team is very strong. We are very excited for the months ahead. 
+asr:0: OUTPUT 1425.79-1427.69: Regarding SARS-Adapt,. 
+asr:0: OUTPUT 1428.03-1439.38: I would say that the idea here is most to address those schools that use textbooks and want to have a white label product. 
+asr:0: OUTPUT 1439.76-1442.44: And the ability to flexibilize their content. 
+asr:0: OUTPUT 1442.80-1451.37: And also to have the possibility that their teachers produce content and upload in their platform. 
+asr:0: OUTPUT 1452.23-1455.90: I would say that these are. 
+asr:0: OUTPUT 1455.92-1462.54: In most of the times at premium schools that they have their own content produced in-house. 
+asr:0: OUTPUT 1462.82-1470.53: And regarding the pricing, it's the same pricing that we use as SAS because it's already a premium solution. 
+asr:0: OUTPUT 1481.40-1485.45: Our next question comes from Vinicius Ribeiro with UBS. 
+asr:0: OUTPUT 1487.25-1492.79: Hello, guys. Good afternoon. Thanks for taking our question. Two themes we'd like to discuss here, please. 
+asr:0: OUTPUT 1493.59-1497.26: First, thanks for the meters on the ATVs. Super helpful. 
+asr:0: OUTPUT 1497.80-1507.41: You mentioned that core legacy sales are in line with 2019. We just wanted to clarify if those sales already include positive performance during 2019 or not. 
+asr:0: OUTPUT 1508.39-1514.89: And the second question is, you guys reiterated your margin guidance, and Adi alluded to the 4th key results. 
+asr:0: OUTPUT 1515.30-1520.54: We just wanted to understand how dependent is this guidance on you achieving your internal goals for the ATV. 
+asr:0: OUTPUT 1520.56-1525.99: That should start being recognized during the 4Q and should result in operating leverage. Thanks. 
+asr:0: OUTPUT 1529.57-1538.80: So, thanks for the questions. As to the first one, we are including Positivo in 2019. 
+asr:0: OUTPUT 1539.40-1542.54: So same brand, growth. 
+asr:0: OUTPUT 1544.58-1547.71: To the second one with regards to the margin. 
+asr:0: OUTPUT 1547.97-1554.83: Yes, we are reaffirming or reiterating the range between 35.5 and 37.5. 
+asr:0: OUTPUT 1555.54-1562.54: I mean, internally, of course, we assume that we will reach the internal goals for next year. 
+asr:0: OUTPUT 1563.10-1566.47: So I mean traditionally we do, right? 
+asr:0: OUTPUT 1566.73-1574.55: So we are assuming and based on the early signs for as I said for the commercial cycle they seem achievable. 
+asr:0: OUTPUT 1575.74-1580.12: We brought the expected season island for margin this year. 
+asr:0: OUTPUT 1580.44-1583.88: So seasonality will reflect the historical trends. 
+asr:0: OUTPUT 1583.92-1593.19: So we should expect a weak adjusted EBITDA margin in Q3 and a strong adjusted EBITDA margin in Q4. 
+asr:0: OUTPUT 1593.33-1595.44: So there should be no surprises there. 
+asr:0: OUTPUT 1599.54-1607.73: Thank you. Our next question comes from Ian Suskin with EBCO BTG PACT12. 
+asr:0: OUTPUT 1610.51-1615.44: Good evening, Ari, Ottero, and Karina. I have two brief questions here on my side. 
+asr:0: OUTPUT 1616.32-1624.32: The first one, I just wonder if you guys could give us more color on the two-step recovery in the supplemental ACV. 
+asr:0: OUTPUT 1625.43-1634.25: I mean, does it mean that it will take two years to fully recover should we expect these supplemental ACVs? 
+asr:0: OUTPUT 1634.35-1638.10: Back to 2019 levels like in the. 
+asr:0: OUTPUT 1638.12-1640.46: 2023 cycle. 
+asr:0: OUTPUT 1641.54-1642.70: That's the first question. 
+asr:0: OUTPUT 1643.20-1648.21: And the second question, I just wanted to know if you guys could give us. 
+asr:0: OUTPUT 1648.23-1653.71: A breakdown on the non-recurring expenses. 
+asr:0: OUTPUT 1653.73-1656.00: That you guys published here. 
+asr:0: OUTPUT 1656.10-1657.66: Today. Thank you. 
+asr:0: OUTPUT 1663.20-1665.04: I have a title here. 
+asr:0: OUTPUT 1665.47-1671.17: So, to your first point on the supplemental growth,. 
+asr:0: OUTPUT 1672.09-1678.08: As Ari mentioned, in 2019 this was a business unit that was growing close to 60%. 
+asr:0: OUTPUT 1678.40-1685.41: So by saying that we expect this to be a two-step recovery, it's not that we don't think that 60% growth is no longer achievable. 
+asr:0: OUTPUT 1685.69-1694.47: It's just because we think that to reach those growth levels, we would need to have a full one year of a normal commercial activity. 
+asr:0: OUTPUT 1694.67-1696.20: Which did not happen, right? 
+asr:0: OUTPUT 1696.26-1699.80: So the truth is that our SAFE team. 
+asr:0: OUTPUT 1699.82-1708.53: Was able to more intensively interact with schools from the month of May, beginning of June onward, right? 
+asr:0: OUTPUT 1709.33-1715.90: And the level of stress at the schools was much higher in the first semester of the year. 
+asr:0: OUTPUT 1716.02-1726.05: So our point here is that we think we would need a full year of normalized commercial activity to be able to reach those. 
+asr:0: OUTPUT 1726.07-1728.03: Growth rate. 
+asr:0: OUTPUT 1728.69-1734.49: So we think that structurally this business unit is capable of having this growth. 
+asr:0: OUTPUT 1734.51-1739.50: And by staying to the stage we think that possibly this could happen in 2020. 
+asr:0: OUTPUT 1740.32-1749.87: As to the non-recurring expenses, could you just repeat the question? You wanted to understand what is included in non-recurring, right? 
+asr:0: OUTPUT 1751.29-1761.66: Yes, there is a line called the non-recurring expenses, but we don't have further details. So I just wonder if you could break it down for us. That's it. 
+asr:0: OUTPUT 1764.10-1772.87: Yeah, absolutely. So inside of non-recurring, you basically have costs related to the SOX implementation. 
+asr:0: OUTPUT 1772.89-1775.98: Or accreditation to the company. 
+asr:0: OUTPUT 1776.42-1786.03: And you have other expenses related to M&A deals and due diligence process that we are undergoing. 
+asr:0: OUTPUT 1789.01-1792.27: Yes, thank you. Very clear. Thank you guys. 
+asr:0: OUTPUT 1798.16-1805.33: The next question comes from Javier Martinez with Mark and Stanley. Hi. Thank you. Good evening to everybody. 
+asr:0: OUTPUT 1806.61-1810.75: I want to ask you again about the commercialization. 
+asr:0: OUTPUT 1811.25-1817.20: But I want to try to get some color on maybe some new trends. 
+asr:0: OUTPUT 1817.56-1822.22: And trying to understand how COVID or affordability may be impacting. 
+asr:0: OUTPUT 1822.24-1827.01: Mix for next year. I don't know if you have noticed any different trends. 
+asr:0: OUTPUT 1827.03-1836.48: In SAS, SAE, this is the new brands and also in the Supplemental International School, the old Supplemental products versus the new ones. 
+asr:0: OUTPUT 1837.78-1839.74: That will be my first question. 
+asr:0: OUTPUT 1843.74-1846.19: Yeah, Adi here. Thank you for your question. 
+asr:0: OUTPUT 1846.79-1854.49: So we have seen when you look at core, a strong performance for all the brands. 
+asr:0: OUTPUT 1855.20-1861.32: I use highlight that Sauce, which is a premium brand, is performing quite well so far. 
+asr:0: OUTPUT 1862.38-1865.81: But I think the good surprise here is really positive. 
+asr:0: OUTPUT 1865.99-1874.33: Where we have a two times higher student intake this year when you compare that to last year. 
+asr:0: OUTPUT 1874.61-1877.70: And I think the reason for that is it's. 
+asr:0: OUTPUT 1877.94-1886.79: It's not the price positioning, it's mainly the changes and the evolution that we made in the product and in the technology. 
+asr:0: OUTPUT 1887.55-1894.07: I would say that it has been a good year for replacing schools that use textbooks. 
+asr:0: OUTPUT 1894.33-1900.32: Because they lack the technology necessary to pursue their activities in a post-COVID scenario. 
+asr:0: OUTPUT 1901.28-1913.05: But I also would say that especially for the less professionalized and smaller learning systems that lack the scale to invest. 
+asr:0: OUTPUT 1913.07-1920.24: It has also been a trend that these schools look for more robust solutions like ours. 
+asr:0: OUTPUT 1920.28-1932.75: So I would say that technology is playing a very important role in shifting schools from textbooks and small learning systems to our solutions. 
+asr:0: OUTPUT 1936.14-1942.32: I remember when you bought Shai that you had a bump during one year or something like that. 
+asr:0: OUTPUT 1942.84-1948.23: Related with some churn, related with the change in hunch from the run-time. 
+asr:0: OUTPUT 1948.45-1952.05: So sounds like this time you're going to be able to avoid that. That will be really good news. 
+asr:0: OUTPUT 1952.65-1957.88: Should we expect the same for Don Bosco, for the ones that are under antitrust approval? 
+asr:0: OUTPUT 1960.02-1974.65: So I would say that we will not be able to execute a full cycle regarding both a retention and commercial cycle. 
+asr:0: OUTPUT 1975.10-1981.18: Both for the retail and commercial cycle because the deal is expected to be approved on the fourth quarter. 
+asr:0: OUTPUT 1982.02-1984.06: So far,. 
+asr:0: OUTPUT 1984.08-1992.91: Because of the antitrust, the limited figures that we have show us that the numbers are in line with previous years. 
+asr:0: OUTPUT 1993.49-2007.33: But definitely I think we won't have enough time to conclude a full cycle in COC and the law school because the untouched first would be approved on the last quarter of the year. 
+asr:0: OUTPUT 2010.29-2012.97: Thank you, Javier. 
+asr:0: OUTPUT 2020.98-2028.85: Hey guys, it's Otero here. We have a question from Marilia from RSI from the webcast. 
+asr:0: OUTPUT 2029.37-2032.73: So can you provide more color on the Salva prospect? 
+asr:0: OUTPUT 2033.09-2039.82: How does the student growth look like and what are the opportunities identified for the B2C product. 
+asr:0: OUTPUT 2040.26-2046.41: So Marilia, thanks very much for the question. So we are super excited with Miss Alba. 
+asr:0: OUTPUT 2046.49-2052.87: I think strategically this was a movement that we have been talking about for a while. 
+asr:0: OUTPUT 2053.43-2061.82: We wanted to have the possibility to serve students enrolled in public schools, right? 
+asr:0: OUTPUT 2061.94-2070.21: So we wanted to impact those students but it was very challenging to find the right product. 
+asr:0: OUTPUT 2070.51-2079.82: And to find equilibrium between what would be affordable for those students and the acquisition cost of those students. 
+asr:0: OUTPUT 2079.84-2082.96: Those are traditionally digital products. 
+asr:0: OUTPUT 2083.00-2085.71: So Misalva is a great fit. 
+asr:0: OUTPUT 2085.73-2093.71: To this strategy and we are conforming the thesis more and more as we know better the assets. 
+asr:0: OUTPUT 2094.33-2106.55: Your point on B2C is actually very interesting because there is a possibility, right? So we think that the products offered by Missalva. 
+asr:0: OUTPUT 2106.57-2110.49: And the profile of tutoring that they offer. 
+asr:0: OUTPUT 2110.51-2117.26: Is highly capable of adding incremental value to these calls that we serve already. 
+asr:0: OUTPUT 2117.98-2119.56: We are starting to test. 
+asr:0: OUTPUT 2119.58-2127.45: The appetite for this product already in this semester, right in the second semester of 2021. 
+asr:0: OUTPUT 2127.97-2129.65: Through a free man. 
+asr:0: OUTPUT 2129.83-2132.27: Feature. 
+asr:0: OUTPUT 2133.41-2136.98: And let's see, I mean, we're testing appetite right now. 
+asr:0: OUTPUT 2137.00-2144.42: And the idea is possibly next year upsell this product to a paid version. 
+asr:0: OUTPUT 2154.45-2162.32: At this time, I have no more questions in the queue. That concludes ARCO's second quarter 2021 earnings call. 
+asr:0: OUTPUT 2162.92-2166.31: Thank you very much for your participation and have a nice day. 
+asr:0: END

@@ -1,0 +1,628 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.54-7.13: Good afternoon, this is the Costco conference operator. 
+asr:0: OUTPUT 7.95-13.15: Welcome and thank you for joining the DSR in 9 months 2021 results conference call. 
+asr:0: OUTPUT 13.99-21.22: As a reminder, all participants are in listen-only mode. After the presentation, there will be an opportunity to ask questions. 
+asr:0: OUTPUT 21.74-27.99: Should anyone need assistance during the conference call, they may signal an operator by pressing star and zero on their telephone. 
+asr:0: OUTPUT 28.95-35.44: At this time, I would like to turn the conference over to Mr. Carlo Rosa, CEO of the Asforin. Please go ahead, sir. 
+asr:0: OUTPUT 37.88-45.15: Operator and good morning or good afternoon to all the participants, to the participants. 
+asr:0: OUTPUT 45.87-52.71: Third quarter 2021 results as usual, we make a few comments about the business. 
+asr:0: OUTPUT 52.99-61.56: More qualitative and then Mr. Pedron, the CFO of the company is going to take all of us through the numbers. 
+asr:0: OUTPUT 62.30-75.80: Now, this is the first quarter where we also have Luminix including our members. In order for everybody to understand how the business is trailing, I'm going to make my comments. 
+asr:0: OUTPUT 75.82-77.58: Without Luminex. 
+asr:0: OUTPUT 77.86-83.12: At the beginning, then I'm going to give some remarks on the Luminix performance. 
+asr:0: OUTPUT 83.80-91.89: So, if we look at the business at constant exchange rate and without Luminex,. 
+asr:0: OUTPUT 91.91-98.72: In Q3, the growth was 10% versus Q3 of 2020. 
+asr:0: OUTPUT 100.80-103.36: If we look at the different technologies,. 
+asr:0: OUTPUT 103.48-112.39: Clia X vitamin D had an outstanding performance, plus 30 percent, and we're going to see. 
+asr:0: OUTPUT 112.41-120.96: This is the result of a sexual placement in all the different geographies, primarily US and Europe. 
+asr:0: OUTPUT 122.64-136.26: The programs that today are driving the success of our CLIA business are the specialty and the tool program together with the TB deployment and the program that we are running together with QIAGENT. 
+asr:0: OUTPUT 136.30-141.34: To convert and grow the TV franchise around the world. 
+asr:0: OUTPUT 142.12-146.43: Vitamin D is down 8.7%. 
+asr:0: OUTPUT 146.57-152.49: This is clearly related to the Quest loss that happened in 2020. 
+asr:0: OUTPUT 153.05-160.14: At the end of 2019 and now it's in full effect starting from this quarter. 
+asr:0: OUTPUT 160.84-166.05: As far as molecular is concerned, the business overall grew 5.5%. 
+asr:0: OUTPUT 166.13-171.49: Versus uh... Last year clearly the vast majority of the business uh... Is uh... 
+asr:0: OUTPUT 171.51-176.30: COVID related and I'm going to make some comments about the COVID later on. 
+asr:0: OUTPUT 177.18-186.31: Now if we deep dive into the geographies and we start from Europe, Europe grew actually. 
+asr:0: OUTPUT 187.23-192.23: Clia is including vitamin D, so all in is up 18%. 
+asr:0: OUTPUT 193.49-197.52: COVID molecular is up 30% versus. 
+asr:0: OUTPUT 197.54-199.88: Quarter three in 2020 and this is. 
+asr:0: OUTPUT 200.00-206.47: I think many other operators in this industry have already commented about the fact that. 
+asr:0: OUTPUT 206.49-220.26: The European COVID business has been more flat and so less affected from volume increase or decrease over the last few quarters. 
+asr:0: OUTPUT 221.52-231.27: We do have an installed base of MDX systems which today sits primarily in Italy, Spain, and France. 
+asr:0: OUTPUT 231.69-238.22: And this is due to the fact that when we had to launch the system during the COVID pandemic. 
+asr:0: OUTPUT 238.34-249.33: We clearly gave to these geographies preference over other geographies due to the limitation in number of systems that we could manufacture today that install based in Europe. 
+asr:0: OUTPUT 250.01-258.22: Primarily into hospitals and it is used to triage patients. 
+asr:0: OUTPUT 258.80-266.73: It is used on symptomatic and therefore today we are not at risk of losing. 
+asr:0: OUTPUT 266.81-270.39: Some of the volume that typically was. 
+asr:0: OUTPUT 270.53-276.42: Was related to screening of asymptomatic that was happening in the high-throughput platforms in the core labs. 
+asr:0: OUTPUT 277.38-280.00: When it comes to the US and Canada,. 
+asr:0: OUTPUT 280.38-288.55: The business overall is flat, but I think we need to read between the lines in terms of how technologies are performing. 
+asr:0: OUTPUT 289.15-295.03: CLIA is up 36% versus Q3 last year. 
+asr:0: OUTPUT 295.60-303.94: The deployment of the hospital strategy with the TB product and the stool again and all the specialties that are really leading the charge. 
+asr:0: OUTPUT 303.96-307.09: Is allowing us to penetrate this segment. 
+asr:0: OUTPUT 307.63-313.47: If you remember, at the end of 2019, we invested $5 million in creating a. 
+asr:0: OUTPUT 313.49-320.98: I think that today we are reaping the benefit of the fact that we do have a dedicated sales force for this segment. 
+asr:0: OUTPUT 321.24-324.14: A menu of products that fit very well to space. 
+asr:0: OUTPUT 325.51-337.78: The TB is certainly a product that is interesting in this space. Today there is a lot of send out in this space that due to the viability of the Eliasomexel now, hospitals can bring in-house. 
+asr:0: OUTPUT 338.42-343.30: And save money versus send out opportunities. 
+asr:0: OUTPUT 343.70-350.15: Overall, the clear strategy is working very well in the US. 
+asr:0: OUTPUT 350.73-359.52: When it comes to the molecular business in the US, itís flourishing. 
+asr:0: OUTPUT 360.00-361.54: Versus Q3 last year. 
+asr:0: OUTPUT 361.56-371.19: This is due to the fact that there has been a softening of volumes clearly from the peak of the industry. 
+asr:0: OUTPUT 371.21-374.11: Enjoy it in Q1. 
+asr:0: OUTPUT 374.13-376.38: Of 2021. 
+asr:0: OUTPUT 377.74-382.86: I think what is noteworthy is that when it comes to the instrument sales, there are a. 
+asr:0: OUTPUT 383.06-389.37: We are 7 million euro down versus last year and this is explainable by the fact that the. 
+asr:0: OUTPUT 389.39-396.82: All the emergency funding that was available in 2020 to buy instruments, now it really dried down. 
+asr:0: OUTPUT 397.32-400.16: And so today we are converting. 
+asr:0: OUTPUT 400.20-409.29: We are not selling systems any longer. We are placing systems under the reintegrated business model which is what weíve always been doing. 
+asr:0: OUTPUT 409.85-411.91: Before the COVID pandemic. 
+asr:0: OUTPUT 412.01-414.35: Pandemic and the emergency funds became. 
+asr:0: OUTPUT 414.51-423.08: So, overall, the business is flat, but the CLIA is clearly very successful in the U.S. 
+asr:0: OUTPUT 424.06-433.07: Now if we move to China, year to date is plus 28%, quarter 3 is plus 5%, so we see that. 
+asr:0: OUTPUT 433.75-443.24: There is a recovery compared to the debacle of 2020, although I believe that there are a couple of things that are not worthy. 
+asr:0: OUTPUT 443.26-444.30: In the geography. 
+asr:0: OUTPUT 445.65-453.45: First thing is that there is volatility in testing volumes and this has to do with the fact that in order to fight the pandemic,. 
+asr:0: OUTPUT 453.85-457.00: There are continuous lockdowns in different provinces and cities. 
+asr:0: OUTPUT 457.64-461.46: And every time there is a lockdown, certainly the routine testing is suffering. 
+asr:0: OUTPUT 462.02-466.67: The second effect that is noteworthy is that we start to see, as everybody else,. 
+asr:0: OUTPUT 466.99-473.07: Due to the fact that this provincial tender is entering into effect. 
+asr:0: OUTPUT 473.77-478.42: There has been a report which has been issued. 
+asr:0: OUTPUT 478.44-485.77: A couple of days ago by one of the primary research firms in the US. 
+asr:0: OUTPUT 485.85-492.49: Iíll say something interesting about the standards. Diasurin has been one of the companies that has been on the winning side. 
+asr:0: OUTPUT 492.67-493.67: So we won. 
+asr:0: OUTPUT 493.69-502.80: A certain number of provincial tenders, although it is very clear that the pricing structure. 
+asr:0: OUTPUT 502.82-507.43: Like the thyroid and oncology products that today are really suffering. 
+asr:0: OUTPUT 507.45-518.56: The competition from local manufacturers, the price structure certainly is very different from what we used to enjoy when we were going to each hospital offering our products. 
+asr:0: OUTPUT 519.06-528.95: I believe that as far as China is concerned and as other manufacturers have expressed in the last few days,. 
+asr:0: OUTPUT 529.43-539.44: I believe that the future for China is quite uncertain and quite difficult really to predict what is going to happen in the next few quarters. 
+asr:0: OUTPUT 540.14-542.30: In this geography. 
+asr:0: OUTPUT 542.38-543.44: So,. 
+asr:0: OUTPUT 543.46-550.79: I believe that from an overall geographical perspective though, today the US represents 50% of the diasporan business. 
+asr:0: OUTPUT 550.81-555.40: And strategically, if you remember when we were commenting about the Luminax acquisition. 
+asr:0: OUTPUT 555.86-567.13: One of the reasons why we want to buy Luminex is because we strongly believe that the market that today guarantees growth, good pricing and reward for innovation is the US. 
+asr:0: OUTPUT 567.71-575.60: And I assume he is very well positioned to enjoy this opportunity again through the Luminex acquisition. 
+asr:0: OUTPUT 576.24-582.16: Now I'm gonna talk about COVID a little bit, the elephant in the room. 
+asr:0: OUTPUT 582.68-588.49: So today COVID including Luminex, and again, sorry for changing the perimeter but. 
+asr:0: OUTPUT 588.63-596.38: I think this is important. COVID for the Australian does represent today 30% of the overall business. 
+asr:0: OUTPUT 597.84-606.07: Here today, the business has been growing nicely around 55%-57% when it comes to the. 
+asr:0: OUTPUT 606.81-608.67: It's... 
+asr:0: OUTPUT 608.69-617.58: I think that's a good point. 
+asr:0: OUTPUT 618.02-622.94: It is quite difficult to predict, in my opinion, what is going to happen to COVID. 
+asr:0: OUTPUT 622.98-628.51: As I think again other operators have been commenting in their quarterly results. 
+asr:0: OUTPUT 629.23-630.59: And so... 
+asr:0: OUTPUT 630.77-636.80: But today, again, when it comes to Europe, we see a steady demand and when it comes to the US,. 
+asr:0: OUTPUT 636.86-642.04: We certainly see a decrease in testing volume compared to peak of around 30%. 
+asr:0: OUTPUT 642.76-649.43: But the demand is at this point relatively flat in the last two to three months. 
+asr:0: OUTPUT 649.83-654.53: We now need to really wait and see what is going to happen. 
+asr:0: OUTPUT 654.55-661.32: During the upcoming flu season or respiratory season. 
+asr:0: OUTPUT 662.84-664.12: Today,. 
+asr:0: OUTPUT 664.14-673.07: I always provided you with also volume, testing volume in terms of manufacturing. Today is. 
+asr:0: OUTPUT 673.11-674.19: And Luminex. 
+asr:0: OUTPUT 674.29-677.38: We are shipping roughly 1 million tests a month. 
+asr:0: OUTPUT 677.40-680.80: Of COVID products. 
+asr:0: OUTPUT 683.30-687.85: Then I'm gonna make a comment about Luminix. As you know. 
+asr:0: OUTPUT 688.15-697.00: We have incorporated now Luminex for the full quarter, roughly 19 million euros of revenues in the quarter. 
+asr:0: OUTPUT 698.96-703.18: The acquisition has been completed in July since then. 
+asr:0: OUTPUT 704.84-709.37: We have started to work with the Luminix management on the integration. 
+asr:0: OUTPUT 710.39-711.79: We have. 
+asr:0: OUTPUT 711.83-714.27: I recently announced a new organization. 
+asr:0: OUTPUT 714.31-725.63: Where we do have now a management team that is a combination of Diasorian and Luminex managers that we have the responsibility to lead the company forward. 
+asr:0: OUTPUT 726.41-732.59: We are completing the integration plan that will be presented to the board of directors in December. 
+asr:0: OUTPUT 733.61-742.06: And it is going to be disclosed as part of the December 17 Investor Day. 
+asr:0: OUTPUT 742.08-750.45: When in broad terms we're going to talk about what we intend to do luminous and now we intend to leverage all the. 
+asr:0: OUTPUT 750.47-754.79: Asset that actually Luminex has brought to the SRE. 
+asr:0: OUTPUT 755.88-765.89: I make one more comment about the VeriGene 2 platform that is one of the key platforms or key technologies that. 
+asr:0: OUTPUT 765.91-768.31: We acquired it through this acquisition. 
+asr:0: OUTPUT 769.15-776.78: We are planning to have a soft launch of the Verigen II in 2022. 
+asr:0: OUTPUT 776.86-781.44: So in Europe, and then we're going to have all the submissions. 
+asr:0: OUTPUT 782.68-787.49: In the USA where we expect to launch the platform in 2023. 
+asr:0: OUTPUT 788.47-790.51: The platform is going to be renamed. 
+asr:0: OUTPUT 790.75-798.18: So the virgin two name is going to be soon abandoned and is going to be substituted by the new name, which is a liaison plex. 
+asr:0: OUTPUT 798.72-802.56: And this is because this platform does complete. 
+asr:0: OUTPUT 802.70-809.39: The product portfolio of Diasurin that I remind you is going to be made of the MDX Plus. 
+asr:0: OUTPUT 809.41-817.96: Which will be the platform that can offer small Plexus, the Liaison Plex. 
+asr:0: OUTPUT 817.98-821.96: Which will be the one that will allow us to develop high complex panels. 
+asr:0: OUTPUT 822.36-830.79: And the Liaison Nest that will be the one that we are going to use for decentralization. 
+asr:0: OUTPUT 831.31-839.72: Alongside the Ares platform which is the legacy platform from Luminex. 
+asr:0: OUTPUT 839.74-849.63: Has been successfully launched in Europe, primarily in the US with an installed base of roughly 70 systems to date. 
+asr:0: OUTPUT 849.65-852.39: In some European countries. 
+asr:0: OUTPUT 853.43-862.12: One thing that is worth noting is the fact that when we look at the customer base in. 
+asr:0: OUTPUT 863.22-872.33: What is very interesting is that Luminex is primarily offering its products, I'm talking about the IVD products, to the hospital market. 
+asr:0: OUTPUT 872.85-879.16: There are over 700 hospitals that the company is selling to in the US. 
+asr:0: OUTPUT 879.66-888.43: And Diasurin has roughly 250 hospitals that we are serving and supporting. 
+asr:0: OUTPUT 888.91-894.59: And the interesting part is that only 70 hospitals in the U.S. Are overlapping. 
+asr:0: OUTPUT 895.30-903.74: And so we believe that there is a very interesting opportunity for cross-selling products in this hospital base. 
+asr:0: OUTPUT 904.28-911.33: Of the hospital segment, one of its primary targets to develop the US market. 
+asr:0: OUTPUT 912.03-913.69: The reason why... 
+asr:0: OUTPUT 914.39-922.50: There is no overlap between the two companies because they did develop a store-based using. 
+asr:0: OUTPUT 922.90-924.84: Yes, an Excel certainly requires. 
+asr:0: OUTPUT 926.31-936.04: Certain testing volumes in the immune OSA and the hospitals that typically were running this volume were large institutions in the US. 
+asr:0: OUTPUT 936.10-938.88: Whereas as far as Luminex is concerned,. 
+asr:0: OUTPUT 938.90-948.13: They've been serving this market really starting from a mid-low throughput system, which is the Verizon platform, the Verizon One platform, and the Aries. 
+asr:0: OUTPUT 948.53-956.52: And therefore they traditionally have developed their business in the mid-size segment. 
+asr:0: OUTPUT 956.54-962.56: This provides a phenomenal opportunity in my opinion to the liaison excess. 
+asr:0: OUTPUT 962.64-971.27: As you know, we are waiting for the approval of the TBSA on the excess. We already have all the. 
+asr:0: OUTPUT 971.29-977.28: The other products, the stool products and the PCP are ready to go. 
+asr:0: OUTPUT 977.74-984.12: And as soon as TB is going to be migrated there, and we expect to hear something from the FDA by the year end. 
+asr:0: OUTPUT 985.65-991.31: Then we are ready, we have an available market of... 
+asr:0: OUTPUT 991.33-997.84: Over almost 700 institutions that we can go and sell the access to. So I'm very excited. 
+asr:0: OUTPUT 997.86-1003.88: About this cross-selling opportunity that the Luminous Acquisition has provided to us. 
+asr:0: OUTPUT 1005.11-1017.04: Now I think I'm going to turn the microphone to Pierre Giorgio and he's going to take you through the financials and then we're going to open up the Q&A session. Thank you. 
+asr:0: OUTPUT 1019.34-1022.70: Thank you, Carlo, and good morning, good afternoon, everybody. 
+asr:0: OUTPUT 1022.94-1030.95: In the next few minutes, as usual, I'm going to walk you through the financial performance of the SOR in the first nine months of 2021. 
+asr:0: OUTPUT 1031.77-1039.50: I would also make some remarks on the contribution of the third quarter and on the impact of the Luminex business. 
+asr:0: OUTPUT 1039.82-1043.34: Whose acquisition has been completed on July the 14th. 
+asr:0: OUTPUT 1044.58-1049.67: Again, please know that we are consolidating a full quarter of Luminex into diastolic financials. 
+asr:0: OUTPUT 1050.29-1055.82: So said that, I'd like to start with what I believe are the main highlights of this period. 
+asr:0: OUTPUT 1056.70-1065.37: On July 14th, we closed the Luminex transaction for a total equity value of $1.8 billion and starting from Q3 2021. 
+asr:0: OUTPUT 1065.53-1069.43: Luminex financials are consolidated into the Solarin ones. 
+asr:0: OUTPUT 1070.37-1079.08: Please let me remind you that the acquisition has been financed by a mix of a bank term. 
+asr:0: OUTPUT 1079.10-1084.94: And the zero interest convertible bond for 500 million euro with 2028 maturity. 
+asr:0: OUTPUT 1086.41-1100.64: Revenues as reported at current exchange rate and with the contribution of about 91 million Euros to Luminex business grew by 41% year to date and 51% in the quarter. 
+asr:0: OUTPUT 1101.26-1110.99: The growth at constant exchange rate and scope of consolidation in the nine months is 29% and 10% in the quarter. 
+asr:0: OUTPUT 1112.01-1120.18: These numbers, as we will see, are in line with the high range of the guidance we provided in July. 
+asr:0: OUTPUT 1120.90-1128.53: Q3 2021 gross margin at 65% is below last year, which closed at 68%. 
+asr:0: OUTPUT 1129.29-1133.23: Because of the expected dilution of the luminescence. 
+asr:0: OUTPUT 1134.15-1140.10: The year-to-date margin at 68% is substantially in line with 2020. 
+asr:0: OUTPUT 1141.22-1147.13: Likewise, luminance consolidation is at a dilutive effect on Q3 adjusted beta margin. 
+asr:0: OUTPUT 1147.15-1153.07: Which closed the quarter at 41% vis-à-vis 46% of 2020. 
+asr:0: OUTPUT 1153.77-1160.56: Once again, this is in line with our expectations and the guidance we provided back in July. 
+asr:0: OUTPUT 1161.46-1167.09: Lastly, we keep confirming our ability to generate a very healthy free cash flow. 
+asr:0: OUTPUT 1167.67-1176.00: To. 
+asr:0: OUTPUT 1176.82-1186.87: The net financial position is negative for 1.05 billion euro with 330 million euro positive cash position. 
+asr:0: OUTPUT 1188.63-1195.94: Let's now go through the main items of the P&L. So, September year-to-date revenues at $850. 
+asr:0: OUTPUT 1195.96-1201.64: 9 million euro due by 41% of 249 million euro compared to 2020. 
+asr:0: OUTPUT 1202.26-1212.21: Trade. 
+asr:0: OUTPUT 1212.85-1219.22: Then we have the contribution of COVID sales which grew by 93 million or 56%. 
+asr:0: OUTPUT 1219.66-1223.40: And the growth at constant exchange rate is 60%. 
+asr:0: OUTPUT 1223.84-1229.61: Luminex, which is a difference in scope of consolidation which accounted for 91 million. 
+asr:0: OUTPUT 1230.65-1237.50: September year-to-date gross margin at 580 million euro grew by 38% compared to last year. 
+asr:0: OUTPUT 1237.76-1243.54: Closing the first nine months of 2021 with a ratio of revenue substantially in line with 2020. 
+asr:0: OUTPUT 1244.70-1252.97: I said at the beginning of my remarks that the difference with the previous year is mainly the event by the inclusion of the Luminex business in the scope of consolidation. 
+asr:0: OUTPUT 1253.71-1263.04: This is even more clear when we consider the gross margin ratio of the quarter, which closed at 65% compared to 68% of 2020. 
+asr:0: OUTPUT 1263.92-1269.53: Let me please remind you that this variance, again, is in line with our expectation and the guidance provided. 
+asr:0: OUTPUT 1270.35-1277.28: September operating expenses at 243 million euro grew by 24% compared to 2020. 
+asr:0: OUTPUT 1277.80-1282.88: With a ratio of revenues of 28% vis-à-vis 32% of the previous year. 
+asr:0: OUTPUT 1283.70-1292.81: The. 
+asr:0: OUTPUT 1292.83-1299.26: To the very same reason I liked it for the gross margin, the consolidation of luminescence to DSR in numbers. 
+asr:0: OUTPUT 1299.78-1304.66: Once again, let me remind you that this is in line with what we forecasted. 
+asr:0: OUTPUT 1304.78-1310.53: And we are expecting this ratio to diminish as the integration process will move forward. 
+asr:0: OUTPUT 1310.97-1318.22: And we will deliver the synergies discussed during the call we had when we announced the Luminex deal. 
+asr:0: OUTPUT 1319.14-1325.29: Year-to-date operating expenses at 23 million euro increased by 12 million euro compared to last year. 
+asr:0: OUTPUT 1325.95-1334.01: This variance is almost entirely driven by the one-off expenses related to the acquisition, which accounted for about 16 million Euros. 
+asr:0: OUTPUT 1335.06-1336.10: There is that of. 
+asr:0: OUTPUT 1336.12-1342.96: Of what just said, September EBIT at 314 million Euros, 37% of revenues. 
+asr:0: OUTPUT 1342.98-1347.99: Has increased compared to 2020 by 47% or 101 million Euros. 
+asr:0: OUTPUT 1349.01-1358.98: The interest expenses at 14 million euro are almost completely driven by the bank term loan and the convertible bond to support the Luminex acquisition. 
+asr:0: OUTPUT 1359.58-1367.19: Thank you. 
+asr:0: OUTPUT 1367.51-1372.53: To. 
+asr:0: OUTPUT 1372.67-1374.49: The way to account for income. 
+asr:0: OUTPUT 1374.83-1382.86: On convertible bond even though let me remind you that the convertible bond was issued with. 
+asr:0: OUTPUT 1383.60-1389.17: The tax rate at 24% is a sanction in line with 2020 which closed at 23%. 
+asr:0: OUTPUT 1390.19-1398.68: This brings us to the year-to-date meta-results at 229 million Euros or 27% of revenues. 
+asr:0: OUTPUT 1399.28-1404.14: Which is higher than previous year by 67 million euro or 41%. 
+asr:0: OUTPUT 1405.17-1412.89: Lastly, 2021 adjusted a bit there at 383 million euro, 45% of revenues. 
+asr:0: OUTPUT 1412.91-1418.48: Is there a better way to do it? 
+asr:0: OUTPUT 1419.26-1426.33: The variance at constant exchange rate is positive by 51% with a ratio over revenues of 45%. 
+asr:0: OUTPUT 1427.01-1430.01: The adjusted bid duration, the quarter is 41%. 
+asr:0: OUTPUT 1430.89-1434.03: And is lower than 2020, which closed at 46%. 
+asr:0: OUTPUT 1434.07-1441.22: Because of what we said before, the dilutive effect of the consolidation of the Ruminex business. 
+asr:0: OUTPUT 1442.00-1448.51: And as I said before for the OPEX, let me remind you that this is in line with our expectations. I want to make this very clear. 
+asr:0: OUTPUT 1448.87-1453.79: And it's coming from the lower operating leverage in the Luminix business. 
+asr:0: OUTPUT 1456.58-1462.62: Let me now please move to the free cash flow as usual in the first nine months of the year. 
+asr:0: OUTPUT 1462.72-1469.45: The group generated €224 million of free cash flow vis-à-vis €153 million of 2020. 
+asr:0: OUTPUT 1470.19-1473.33: With an increase of 46% or 71 million euro. 
+asr:0: OUTPUT 1474.33-1483.70: As discussed back in July, I believe it is worth underlining that in 2021 we have had a much higher tax cash-out compared to 2020. 
+asr:0: OUTPUT 1483.78-1487.13: 78 million Euro or vis-à-vis 23 million Euro. 
+asr:0: OUTPUT 1487.29-1490.77: The difference has been driven mainly by two elements. 
+asr:0: OUTPUT 1491.37-1501.28: A different phasing accounting for about 15 million Euro and about 35 million Euro driven by the higher profit compared to the previous year. 
+asr:0: OUTPUT 1503.00-1511.19: Lastly, let me please move to the 2021 guidance, as usual, at the previous constant exchange rate. 
+asr:0: OUTPUT 1512.09-1522.14: So, in light of the performance of the third quarter and what we expect for the remainder of the year, the guidance for 2021 has been increased compared to July. 
+asr:0: OUTPUT 1523.04-1533.11: In order to make the numbers comparable with 2020, we will also provide, as we did in July, a breakdown of the revenues between DSO and LuminEx business. 
+asr:0: OUTPUT 1533.75-1540.80: So the new guidance is calling for a total combined revenues increase at around 40%. 
+asr:0: OUTPUT 1541.34-1546.37: And the total combined adjusted bidder margin at around 43%. 
+asr:0: OUTPUT 1547.31-1556.12: The. 
+asr:0: OUTPUT 1556.14-1557.94: 18 percent. 
+asr:0: OUTPUT 1559.50-1567.73: Before concluding, please remember that the Australian financials are exposed to the US dollar, as we always remind everybody. 
+asr:0: OUTPUT 1568.07-1573.89: And even more so now that the United States represents about 50% of the total group sales. 
+asr:0: OUTPUT 1575.32-1582.48: Therefore, as a rule of thumb for your modeling, consider that for every one cent movement of the dollar against the euro,. 
+asr:0: OUTPUT 1582.52-1587.73: The solid revenues moved by about 6 million euro on a yearly basis. 
+asr:0: OUTPUT 1589.13-1594.27: And now let me please turn the line to the operator to open the Q&A session. Thank you. 
+asr:0: OUTPUT 1597.74-1603.06: The QC Conference operator. We will now begin the question and answer session. 
+asr:0: OUTPUT 1603.66-1609.03: Anyone who wishes to ask a question may press star and 1 on their touchtone telephone. 
+asr:0: OUTPUT 1609.75-1613.47: To remove yourself from the question queue, please press star and 2. 
+asr:0: OUTPUT 1614.07-1620.78: Please pick up the receiver when asking questions. Anyone who has a question may press star and 1 at this time. 
+asr:0: OUTPUT 1621.96-1628.15: The first question is from Alexander Berglund with Bank of America. Please go ahead. 
+asr:0: OUTPUT 1629.75-1633.63: Thank you so much for taking my question. Actually, it's two. I'll start. 
+asr:0: OUTPUT 1634.51-1644.30: I just wanted to get your thoughts on this kind of recent news on the COVID pill and how you think that might affect testing for COVID, if at all. 
+asr:0: OUTPUT 1645.25-1648.97: I mean, I always assume you need to have a positive COVID test before taking any pill, but... 
+asr:0: OUTPUT 1649.31-1658.16: I wanted to check if you think that kind of maybe on the margin it could actually increase some testing as people get less cautious. 
+asr:0: OUTPUT 1658.18-1663.72: Or people that are a bit more resistant to vaccine might consider not taking a booster shot. 
+asr:0: OUTPUT 1664.34-1667.57: So that was my first question and I'll let you answer it and I'll follow up with another one. 
+asr:0: OUTPUT 1670.99-1672.67: Yes, I'll take the question. 
+asr:0: OUTPUT 1674.47-1679.76: You know the data announced the pill, I think the whole industry lost over 5%. 
+asr:0: OUTPUT 1680.00-1689.21: The company that is making the mRNA for the vaccine lost 19% that day. 
+asr:0: OUTPUT 1690.01-1692.65: So I think there has been a lot of overreaction. 
+asr:0: OUTPUT 1692.73-1701.06: When it comes to testing, as you said, a rifle is so you don't get this is not an aspirin, so you're going to get it under medical advice. 
+asr:0: OUTPUT 1701.56-1709.03: And you're going to get it once there is confirmation that you have contracted COVID. 
+asr:0: OUTPUT 1709.61-1718.18: To be honest with you, I don't think that when it comes to volumes, testing volume, this is going to have a positive or a negative effect more than. 
+asr:0: OUTPUT 1718.80-1731.27: I believe the fact that the vaccination and the fact that now the boost is going to be made available certainly is going to affect the testing volume, I believe, next year. 
+asr:0: OUTPUT 1731.63-1735.68: Especially when it comes to the asymptomatic testing. 
+asr:0: OUTPUT 1736.00-1743.10: Right, because let's not forget that a lot of testing and testing volume came from asymptomatic testing. 
+asr:0: OUTPUT 1743.98-1749.73: There is a testing that will remain. It has to do with the fact that everybody admitted to a hospital is going to get tested. 
+asr:0: OUTPUT 1750.21-1755.46: You're going to have professional testing, you're going to have airline testing, da da da da da. 
+asr:0: OUTPUT 1756.04-1765.89: But believe me, I'm not losing sleep on the effect that the pill is going to have on the business. I think the COVID business, as said, is going to be affected by other factors. 
+asr:0: OUTPUT 1767.57-1771.29: Thanks for that. And then just kind of moving on to the base business. 
+asr:0: OUTPUT 1772.91-1782.70: I mean I had a couple of feedback today that some people were kind of expecting a bit more kind of other recovery of the base business especially kind of you. 
+asr:0: OUTPUT 1782.72-1786.85: If you can look at it compared to 2019, so looking at non-COVID. 
+asr:0: OUTPUT 1788.09-1793.07: I was going to get your sense and you kind of mentioned a little bit of what's been going on. 
+asr:0: OUTPUT 1793.09-1800.24: How are your kind of expectations of non-COVID business recovery and how are you seeing any kind of in. 
+asr:0: OUTPUT 1800.26-1806.19: Inflection points in the trends given now that we're already quite far into the fourth quarter. 
+asr:0: OUTPUT 1806.41-1809.39: If there's anything you can comment, comment on that, how it's doing right now. 
+asr:0: OUTPUT 1811.87-1815.04: You are referring to 2019. 
+asr:0: OUTPUT 1815.42-1821.86: Look, if you compare 2021 to 2019, I think there are two elements that. 
+asr:0: OUTPUT 1821.88-1829.51: It makes the overall business comparison difficult. The first one is that we are missing. 
+asr:0: OUTPUT 1829.53-1832.67: A very large vitamin D contract. 
+asr:0: OUTPUT 1832.75-1837.60: That now the effect is going to be felt throughout 2021. 
+asr:0: OUTPUT 1838.40-1841.44: And then it's going to go away clearly. 
+asr:0: OUTPUT 1842.20-1849.49: The second effect, though, that everybody is forgetting is the fact that in 2019, we had a hefty still. 
+asr:0: OUTPUT 1850.67-1854.67: A business that was coming from Siemens. 
+asr:0: OUTPUT 1855.72-1865.33: The 2019 was the year when we were still shipping the ELISA that we did not convert to the Liaison. 
+asr:0: OUTPUT 1865.89-1870.77: And all that business pretty much evaporated in 2021. 
+asr:0: OUTPUT 1871.25-1880.78: So this is why I keep saying if you really look at the, you need to look at the component of the business, which has to do with the clear, the clear growth. 
+asr:0: OUTPUT 1881.56-1887.11: You need to look at vitamin D and in the vitamin D element, as I said, minus 8.7%. 
+asr:0: OUTPUT 1887.57-1897.36: There is a negative effect of Quest and a positive effect of the fact that some of the positive impact of COVID and COVID testing for vitamin D on patients. 
+asr:0: OUTPUT 1898.84-1905.55: And then clearly you have all the molecular part which has to do with COVID. 
+asr:0: OUTPUT 1906.65-1915.26: I don't understand why you don't see the growth of the base business because to me it's exactly. 
+asr:0: OUTPUT 1915.54-1925.11: When it comes to the Excel 440 placements here today. Again, we're going to be placing over 550 systems. 
+asr:0: OUTPUT 1925.17-1927.09: Considering a slowdown of China. 
+asr:0: OUTPUT 1927.51-1933.59: Which is telling you that placements are not slowing down in the other geographies. Actually, they are picking up. 
+asr:0: OUTPUT 1934.57-1941.00: The clear business and again the success of some of the programs we are conducting together. 
+asr:0: OUTPUT 1941.90-1949.51: Some of the partners like the Cajun or internally developed products is growing very, very nicely. 
+asr:0: OUTPUT 1950.13-1957.08: And on top of it, when it comes to the base business, we are weeks away from launching the MIMET assay. 
+asr:0: OUTPUT 1957.56-1962.94: You know, we are the only company that will be able to carry that product on them. 
+asr:0: OUTPUT 1962.96-1964.26: On the platform. 
+asr:0: OUTPUT 1965.03-1970.91: And very excited about that. Last but not least, as I did comment on the liaison access. 
+asr:0: OUTPUT 1971.11-1980.70: We have 700 hospitals in the U.S. That today are diastolic customers and we are on the verge of launching the liaison access in the U.S. With TB and the rest of the menu. 
+asr:0: OUTPUT 1981.68-1985.73: I'm very excited to be honest with you about the Bayes business. 
+asr:0: OUTPUT 1987.93-1988.95: Thank you very much. Appreciate it. 
+asr:0: OUTPUT 1991.69-1994.31: So if you can just add a comment for the benefit of Alex. 
+asr:0: OUTPUT 1994.61-2002.22: Usually we've always looked at the CLEAX vitamin D and X-COVID as a proxy of how the business is going. 
+asr:0: OUTPUT 2002.88-2007.77: And I believe I didn't mention it in my remarks, but if I look at Q3 data,. 
+asr:0: OUTPUT 2007.81-2015.03: CLEAR, X vitamin D and X COVID over 2019 is growing by almost 20%. 
+asr:0: OUTPUT 2015.06-2018.14: Constant exchange rate, 19% to be precise. 
+asr:0: OUTPUT 2018.74-2026.39: So, this is just to confirm all of your comments on the growth of the base business. 
+asr:0: OUTPUT 2030.61-2035.40: The next question is from Hugo Solvay with Exambion Pita Ribas. Please go ahead. 
+asr:0: OUTPUT 2038.00-2046.21: Thanks for taking my question. I have one on VeriGene2. Carlo, you mentioned in the call the 2023 US launch. 
+asr:0: OUTPUT 2046.83-2054.05: Can you maybe give us a bit more detail on the exact timeline and phasing for this launch? Should we assume that's similar to Europe? 
+asr:0: OUTPUT 2054.41-2060.30: Will have a soft launch period in the US during which you will probably upgrade existing customers. 
+asr:0: OUTPUT 2060.32-2065.65: I'm just wondering when we should expect sales to kick in from the US from the Verigin II. 
+asr:0: OUTPUT 2066.11-2072.63: And what menu would you expect to have by 2023 in the US and in Europe? 
+asr:0: OUTPUT 2074.03-2079.82: One question on China. China is up 5%. 
+asr:0: OUTPUT 2080.62-2088.55: Can you maybe remind us here what business lines are impacted and what should we expect the recovery? 
+asr:0: OUTPUT 2089.33-2097.92: One last question on the margin. You used three parts for us. Luminex on the top line. Can you maybe help us understand. 
+asr:0: OUTPUT 2097.94-2101.72: What are the moving parts on the EBDA? 
+asr:0: OUTPUT 2101.74-2105.59: Margin and what would have been the margin excluding Luminex. Thank you. 
+asr:0: OUTPUT 2107.87-2112.17: Okay, in terms of colors on the Viridium 2 or the Liaison Plex launch. 
+asr:0: OUTPUT 2112.55-2120.32: I think you will need to wait until the December 17th Investor Day because I believe we're going to be more specific about this. 
+asr:0: OUTPUT 2120.96-2121.96: What I. 
+asr:0: OUTPUT 2121.98-2131.51: Today, there are five panels that are in development, the respiratory included clearly, which has been extended to the COVID product. 
+asr:0: OUTPUT 2132.67-2134.55: You have the blood culture. 
+asr:0: OUTPUT 2135.03-2136.06: Three panels. 
+asr:0: OUTPUT 2136.48-2141.20: You have the GI panel and then you have the CNS panel. 
+asr:0: OUTPUT 2141.24-2148.67: That is the one that it was where a luminous start a development later than the other. 
+asr:0: OUTPUT 2149.43-2158.06: The bad news about the Virgin 2 is that the company intended to start launching the product starting from the end of this year. 
+asr:0: OUTPUT 2158.56-2169.37: But due to the fact that the manufacturability of the cartridge and the instrument is not where it should be in terms of being able to. 
+asr:0: OUTPUT 2169.39-2176.62: We decided that we want to make an investment. 
+asr:0: OUTPUT 2177.20-2183.62: Into bringing up all the lines that today are sitting in Chicago not validated, moving away from. 
+asr:0: OUTPUT 2184.06-2192.61: I. 
+asr:0: OUTPUT 2193.47-2201.64: The. 
+asr:0: OUTPUT 2202.50-2207.09: As far as the good news is concerned is that product development has continued. 
+asr:0: OUTPUT 2207.41-2212.59: In parallel and now rather than launching the system with just one panel,. 
+asr:0: OUTPUT 2212.61-2219.24: We plan to have the completion of the menu happening very rapidly after launch. 
+asr:0: OUTPUT 2219.76-2228.77: Certainly, this is the benefit of the delay in the cartridge and system availability from an industrial point of view. 
+asr:0: OUTPUT 2228.79-2235.26: But again, in terms of positioning, in terms of expectation, I think you need to wait a few weeks. 
+asr:0: OUTPUT 2235.28-2237.34: Until we have made everything. 
+asr:0: OUTPUT 2237.36-2238.74: Of the investor. 
+asr:0: OUTPUT 2238.80-2241.34: As far as China is concerned, plus 5%. 
+asr:0: OUTPUT 2242.06-2244.82: Look, I said that there are. 
+asr:0: OUTPUT 2244.84-2250.05: To. 
+asr:0: OUTPUT 2250.55-2256.80: I heard a few calls from other companies and everybody is pointing in the same direction. 
+asr:0: OUTPUT 2257.42-2263.82: And his price and his protectionism of the government vis-a-vis them. 
+asr:0: OUTPUT 2263.84-2268.69: Local suppliers when it comes to price and we already did comment on that. 
+asr:0: OUTPUT 2269.03-2275.12: There is an effect of provincial tenders which is really resetting the base for some of the tool products. 
+asr:0: OUTPUT 2275.66-2279.88: When it comes to the protectionism of the Chinese government,. 
+asr:0: OUTPUT 2280.00-2285.95: You can read the Financial Times, but itís very clear that today, the financial markets. 
+asr:0: OUTPUT 2285.97-2292.99: There is a preference of the Chinese government to the Chinese suppliers when possible. There has been an acceleration. 
+asr:0: OUTPUT 2293.17-2296.40: Of a strategy that, if you remember, was set in place. 
+asr:0: OUTPUT 2296.42-2305.06: A. 
+asr:0: OUTPUT 2305.09-2312.81: There is today a desire and an ambition to actually make this happen much faster than we thought. 
+asr:0: OUTPUT 2314.01-2323.44: And as far as we are concerned and as far as how this is going to affect the business, look, I think short term there is going to be an effect on the business. 
+asr:0: OUTPUT 2323.90-2333.51: In Chinese business because there is really nothing you can do if a provincial tender is asking you to be a Chinese manufacturer and you're not. 
+asr:0: OUTPUT 2334.03-2338.58: And so you are excluded from the standard by the same token. 
+asr:0: OUTPUT 2338.60-2347.13: I believe that we initiated, as you know, over a year ago, the construction of a manufacturing site in Shanghai, which is proceeding. 
+asr:0: OUTPUT 2347.67-2354.91: And i believe that what this is teaching to all of us is that uh... You cannot be a pregnant in china so you have to be uh... 
+asr:0: OUTPUT 2354.93-2365.89: We are a Chinese local supplier with products that are also directed to the Chinese market, which in some cases is different from what we offer. 
+asr:0: OUTPUT 2366.41-2373.43: In the US and in Europe. So fundamentally, I believe that we are at a crossroad today where either. 
+asr:0: OUTPUT 2373.55-2379.86: You decide that you develop a Chinese brand with Chinese products or you're going to be strategically excluded. 
+asr:0: OUTPUT 2379.88-2381.42: From that market. 
+asr:0: OUTPUT 2381.82-2386.47: And so the discussion we're having internally is that we really need to. 
+asr:0: OUTPUT 2386.49-2395.28: Weíve developed now a strategy that goes behind what we had in mind in developing a Chinese set of products and Chinese manufactured products. 
+asr:0: OUTPUT 2396.04-2397.78: Just dedicated to the Chinese market. 
+asr:0: OUTPUT 2401.78-2404.18: I believe, Carlo, there was a question on margins. 
+asr:0: OUTPUT 2404.22-2412.77: I will take it for Luminex. We are not going to disclose a detailed margin for the Luminex business going forward. 
+asr:0: OUTPUT 2412.79-2415.52: If you just do some reverse engineering,. 
+asr:0: OUTPUT 2415.54-2417.82: On Q3 numbers. 
+asr:0: OUTPUT 2418.00-2420.70: Comparing to Q3 2020. 
+asr:0: OUTPUT 2420.74-2429.63: What you would see is that Luminex gross margin for the quarter is around 55-60%. 
+asr:0: OUTPUT 2429.65-2435.42: To. 
+asr:0: OUTPUT 2435.96-2441.44: And if you go down to the beta level for the quarter, then you do a similar reverse math. 
+asr:0: OUTPUT 2441.56-2446.45: You would get to a number which is around 25%. 
+asr:0: OUTPUT 2447.09-2457.02: Again, this is quarter one, this is without including all the synergies which we discussed. 
+asr:0: OUTPUT 2457.04-2460.74: Integration process of the two companies. 
+asr:0: OUTPUT 2462.28-2471.57: One last comment, this is a touch better than what we modeled and what we used for our guidance. So I believe we are. 
+asr:0: OUTPUT 2471.59-2474.31: I'm absolutely comfortable with the numbers we're seeing. 
+asr:0: OUTPUT 2476.40-2486.15: Okay, thank you very much. And just a quick follow up on those synergies, given that the Regene II launch is now expected a bit more far out in 2022 and 2023. 
+asr:0: OUTPUT 2486.51-2493.11: Should we expect the impact from the synergies to kick in a bit later than you usually thought? Thank you. 
+asr:0: OUTPUT 2499.10-2501.36: I will take it. I believe we would again. 
+asr:0: OUTPUT 2501.70-2507.41: We will be more detailed and we will give more information during the Capital Market. 
+asr:0: OUTPUT 2507.43-2517.38: From now but when we did our modeling in terms of synergies, we gave a number which if I. 
+asr:0: OUTPUT 2517.40-2518.50: On the cost side. 
+asr:0: OUTPUT 2518.60-2526.37: We didn't share any kind of number in terms of revenues on the top line. 
+asr:0: OUTPUT 2526.83-2536.34: I don't believe that any discussion we're having on the region 2 is going to affect our synergies on the integration process side. 
+asr:0: OUTPUT 2536.74-2546.53: Quite the opposite in terms of revenue side. I believe Carl commented pretty well about the good opportunities we see from the $700 or so. 
+asr:0: OUTPUT 2546.55-2552.97: Hospitals to which we can go and offer our access with our menu. 
+asr:0: OUTPUT 2553.69-2558.14: Which was not included in our modeling and nor in the synergies we gave. 
+asr:0: OUTPUT 2558.78-2567.89: So, you know, I still, I don't think that this comment on the origin is going to have any effect on how we see the business going forward. 
+asr:0: OUTPUT 2570.33-2577.66: Thank you very much. 
+asr:0: OUTPUT 2578.90-2582.78: Yes, good evening. Three questions from my side, please, if I may. 
+asr:0: OUTPUT 2584.30-2587.79: Carlo, you are moving up. 
+asr:0: OUTPUT 2587.81-2598.38: The revenue guidance to the operand of where we were in H1. And yet, when I listen to your comments about COVID testing and volumes,. 
+asr:0: OUTPUT 2601.44-2602.82: It doesn't really sound. 
+asr:0: OUTPUT 2603.18-2612.87: Like you changed your view very much. So I'm trying to understand what is the reason that you expect now to come in at the upper end of the guidance, if you could just share some thoughts on that. 
+asr:0: OUTPUT 2613.45-2625.99: The second question is, as usual, about the point of care rollout that you're doing in Italy. Can you give us some feedback on how it's going? What is the feedback? What is the demand that you're seeing? 
+asr:0: OUTPUT 2626.51-2629.57: For that product and then I'll follow up with the third one. 
+asr:0: OUTPUT 2633.99-2638.80: I'm going to make a qualitative comment and then PG can actually add to this. 
+asr:0: OUTPUT 2640.24-2653.39: So it's not, I believe that when, let me say the visibility that we have today with COVID versus what we had when we actually gave a guidance. 
+asr:0: OUTPUT 2653.43-2657.04: Is allowing us to be more precise. 
+asr:0: OUTPUT 2657.54-2661.00: And I think it's fair to say that. 
+asr:0: OUTPUT 2661.02-2669.49: Compared to a gloomy scenario that could have been possible and some have anticipated with COVID in this flu season. 
+asr:0: OUTPUT 2669.59-2676.40: I believe that quarter three was higher than everybody in the industry was anticipating. 
+asr:0: OUTPUT 2677.46-2680.00: I believe, Mario, that... 
+asr:0: OUTPUT 2680.46-2687.39: The big question mark still is in Q4, but not necessarily whether Q4 is going to be lower than Q3. 
+asr:0: OUTPUT 2687.53-2692.23: The question is whether Q4 is going to be higher than Q3 or not. 
+asr:0: OUTPUT 2692.87-2701.30: And the impact of the differential diagnosis vis-à-vis the respiratory system. 
+asr:0: OUTPUT 2701.54-2710.81: Everybody coughing from now on with some fever will have to go through some sort of differential diagnosis. And the question is,. 
+asr:0: OUTPUT 2710.83-2720.54: In those countries like the US, where there is an extended, I think, availability over the counter testing, I believe that that volume is going to be captured primarily. 
+asr:0: OUTPUT 2721.34-2728.97: By the over-the-counter test in other geographies where the over-the-counter like in Europe did not really pick up. 
+asr:0: OUTPUT 2729.53-2732.13: Because not sponsored by the government. 
+asr:0: OUTPUT 2732.91-2737.56: You're going to have an increase in testing volume because it's going to be done. 
+asr:0: OUTPUT 2737.58-2743.06: In laboratories where all the traditional operators are operating,. 
+asr:0: OUTPUT 2743.40-2752.97: So this explains, in my opinion, now the comfort that we have on the upper end of the guideline. But, Pidgey, do you want to add more? 
+asr:0: OUTPUT 2754.33-2760.50: No, Carlo, that's exactly right. I mean, the rise in the guidance is coming from a better Q3. 
+asr:0: OUTPUT 2761.16-2763.24: Mainly driven by COVID. 
+asr:0: OUTPUT 2763.26-2768.11: If you do the reverse engineering, what you would find out is that in Q4,. 
+asr:0: OUTPUT 2768.13-2775.22: What we are expecting in terms of revenues is a similar number to the one we saw in Q3. 
+asr:0: OUTPUT 2775.94-2782.04: And with a bit margin of around in the quarter of 41%. 
+asr:0: OUTPUT 2782.16-2789.13: So it's the visibility we're having is the actual, as you said, is the better COVID-19 series we're having. 
+asr:0: OUTPUT 2790.25-2798.54: Maybe just a quick follow up. And Carla, you have been fairly negative in the first half of the year on what you anticipate to happen with the COVID pricing. 
+asr:0: OUTPUT 2798.96-2805.89: Can you just comment whether you start to see some pricing pressure on COVID testing or whether that still hasn't really materialized? 
+asr:0: OUTPUT 2808.41-2815.40: No, up to today we have not seen any price effect but this is because. 
+asr:0: OUTPUT 2815.42-2818.58: In the primary geographies where we operate. 
+asr:0: OUTPUT 2818.94-2826.31: That there has not been a reduction in reimbursement. So in the US, reimbursement continues to be same level as before. 
+asr:0: OUTPUT 2826.33-2834.95: In Europe, in Italy, we're again a second largest geography for us, the government with the emergency decree. 
+asr:0: OUTPUT 2835.01-2842.12: Is actually the one buying the products at a fixed price from the different suppliers. 
+asr:0: OUTPUT 2842.14-2845.33: The guarantee is that there is no price erosion. 
+asr:0: OUTPUT 2845.75-2855.64: Spain is very similar where we have contracts where for the time being the price stays as is. So I do not expect in Q4 price effect. 
+asr:0: OUTPUT 2856.24-2868.55: With one exception, which is on the overall one is the mix, because as you well know, in Italy and Europe, we sell COVID at 25%, 20-25%. 
+asr:0: OUTPUT 2868.57-2876.64: Price discount compared to what we offer in the US. And this is again to do with a different reimbursement system in the US. 
+asr:0: OUTPUT 2877.68-2886.37: If I can move to the Iliad Zone IQ, which I think is your question, the program is proceeding in Italy. 
+asr:0: OUTPUT 2887.51-2896.92: I have to tell you that there is a problem and the problem has to do with pricing because I believe that there has been a. 
+asr:0: OUTPUT 2897.54-2898.82: Overflow. 
+asr:0: OUTPUT 2898.86-2907.23: Of products made in China that have been flooding the European market since we don't have the. 
+asr:0: OUTPUT 2907.25-2912.01: Approval system that I believe has sheltered the US from this. 
+asr:0: OUTPUT 2912.69-2921.66: Today you can go to a pharmacy and Chinese are offering these products lateral flow without much sophistication. 
+asr:0: OUTPUT 2921.68-2924.00: At 1.3 euro. 
+asr:0: OUTPUT 2924.97-2930.59: So you're getting to a point where you need to make a decision vis-a-vis do you want to make money or not. 
+asr:0: OUTPUT 2930.95-2940.04: On this lateral flow and if you just sell it in the European market, I believe that the situation is very different when it comes to the US. 
+asr:0: OUTPUT 2940.46-2947.43: I believe one of the primary companies providing this is. 
+asr:0: OUTPUT 2947.47-2950.63: Using $9 as an end-user price. 
+asr:0: OUTPUT 2951.17-2962.16: So if you operate in Italy, today you want to really decide if this is worth it or not. And so for the time being, we have been disciplined in terms of only providing. 
+asr:0: OUTPUT 2962.22-2966.49: This system to those pharmacies that appreciate the. 
+asr:0: OUTPUT 2966.51-2973.31: The technology added value that we provide, so not a simple strip, but the instrument, the traceability, and so forth. 
+asr:0: OUTPUT 2973.97-2979.44: But certainly the opportunity is shrinking unless you accept. 
+asr:0: OUTPUT 2980.10-2984.70: A dumping on price which is not what you know we are famous for. 
+asr:0: OUTPUT 2986.21-2991.23: Okay, thank you for that. And maybe my last question, now I remembered, I'm sorry. 
+asr:0: OUTPUT 2992.07-3001.06: I was wondering if you could give us some qualitative statements around the growth in Luminex and Q3 for the various businesses. 
+asr:0: OUTPUT 3001.64-3006.91: If you don't want to attach numbers, that's fine, but just give us a bit of a feeling of how things are going. 
+asr:0: OUTPUT 3008.71-3013.19: Okay, I'm not going to touch numbers and I'll give you a feeling. How about that? Perfect. 
+asr:0: OUTPUT 3014.51-3026.81: First, you need to take into consideration that when you are comparing Q3 to Q3 in this company you are really comparing for certain product lines apples with oranges. 
+asr:0: OUTPUT 3027.41-3034.15: Let me explain why. 
+asr:0: OUTPUT 3034.17-3036.96: Three products. 
+asr:0: OUTPUT 3037.22-3040.88: Of which one of the areas, which is the single plexus,. 
+asr:0: OUTPUT 3040.94-3049.13: The other one is related with Virigin 1 and Virigin 2, which were plex panels. 
+asr:0: OUTPUT 3049.71-3053.55: Certainly these Plex panels were very manual. 
+asr:0: OUTPUT 3053.59-3060.38: And they do not stand vis-a-vis products which are offered by competition. 
+asr:0: OUTPUT 3060.82-3074.57: But back then, remember there was shortage all over the place. So hospitals that had the Virgin One platform or the Nextag, they were actually taking whatever companies were making available at that point. 
+asr:0: OUTPUT 3074.95-3077.82: So there has been a spike that... 
+asr:0: OUTPUT 3077.84-3086.23: Back then, today is not repeated, notwithstanding the fact that there is a COVID testing volume simply because they migrated away. 
+asr:0: OUTPUT 3086.27-3091.51: From these more manual solutions to more automated solutions. 
+asr:0: OUTPUT 3092.33-3096.88: So as far as, so you need to clean the numbers, the... 
+asr:0: OUTPUT 3096.90-3102.38: Of the company if you compare to Q3 last year from this spike effect that is not repeated. 
+asr:0: OUTPUT 3102.98-3107.59: If you take that away and you look at the Plex business, it is fairly stable. 
+asr:0: OUTPUT 3108.91-3117.98: And this is one of the reasons why, again, we bought this company, because there is $120 million of business ex-COVID effect. 
+asr:0: OUTPUT 3118.00-3126.41: Between virgin to an expect that is a nice solid business and is a business where we tend to build clearly grows for. 
+asr:0: OUTPUT 3126.43-3129.63: With the launch of the Verigin II liaison plaques. 
+asr:0: OUTPUT 3130.27-3140.24: When it comes to the Aries, I believe that compared to last year, we are miles better than where we were. 
+asr:0: OUTPUT 3140.60-3149.59: And this is to the fact that we have been able, the company has been able really to bring up the manufacturing volume and stability. 
+asr:0: OUTPUT 3150.01-3154.95: In manufacturing. Today we are selling like a. 
+asr:0: OUTPUT 3154.97-3160.72: Around 230-240,000 tests a month of the cartridge back then. 
+asr:0: OUTPUT 3160.96-3163.42: I think we're at 50,000. 
+asr:0: OUTPUT 3163.52-3170.97: And so you understand that there is, and not because there was no demand, but because there was no ability to manufacture at that point. 
+asr:0: OUTPUT 3171.67-3173.71: So that component is doing well. 
+asr:0: OUTPUT 3173.83-3182.26: And also we keep placing some of the ARIES systems in Europe and in the US. 
+asr:0: OUTPUT 3182.28-3183.32: Is proceeding fine. 
+asr:0: OUTPUT 3184.08-3190.01: When it comes to the LTG business, it's booming. 
+asr:0: OUTPUT 3190.95-3195.76: I mean, if you look at the growth versus last year is around 20%. 
+asr:0: OUTPUT 3196.54-3203.50: The reason is that this business is not a life science business. 
+asr:0: OUTPUT 3204.10-3207.19: When we're going to have the investor day, we're going to clarify this. 
+asr:0: OUTPUT 3208.03-3210.29: This has nothing to do with life science. 
+asr:0: OUTPUT 3210.83-3217.96: This business fundamentally has to do with the fact that the multiplexing technology that this company invented 25 years ago. 
+asr:0: OUTPUT 3218.04-3223.68: It has been made available to partners like Thermo Fisher, BioRat, Biotechnik, and so forth. 
+asr:0: OUTPUT 3223.70-3225.89: With instruments that the company makes. 
+asr:0: OUTPUT 3225.97-3236.12: And the system has been utilized by these partners to develop products in the space. 
+asr:0: OUTPUT 3236.14-3241.74: Research, clinical research, or like for thermo fisher warm landa,. 
+asr:0: OUTPUT 3241.76-3244.34: In the case of transplant IVD. 
+asr:0: OUTPUT 3245.13-3250.59: The fact that clearly some of these programs have been very successful. 
+asr:0: OUTPUT 3250.65-3258.88: If I look, for example, at the thermo fisher business, when it comes to all the protein testing, the antibody testing business is booming. 
+asr:0: OUTPUT 3259.52-3267.41: Or when i look at the fact that the life science that the new convenience of the other people that will be put into the into the u.s. Especially. 
+asr:0: OUTPUT 3267.43-3274.39: By the past and current administration that explains why this business is really growing significantly. 
+asr:0: OUTPUT 3274.83-3278.90: And I see this, again, as an opportunity. 
+asr:0: OUTPUT 3278.92-3286.71: In some of these fields, to work with the partner and now launch programs which will include also liaison technology. 
+asr:0: OUTPUT 3287.09-3293.11: In some clinical spaces where we believe the multiplexing plus the liaison technology can really offer. 
+asr:0: OUTPUT 3293.13-3295.26: An opportunity to the partner. 
+asr:0: OUTPUT 3295.86-3300.82: Is a very profitable business by the way, as you understand it's a solid business. 
+asr:0: OUTPUT 3300.88-3307.67: This company has been manufacturing for 20 years. So that component, I think, is performing better than what we expected. 
+asr:0: OUTPUT 3308.15-3314.85: And we expect this to be in line in terms of growth to not dilute it vis-a-vis. 
+asr:0: OUTPUT 3314.87-3320.30: The group revenues growth in the foreseeable future. 
+asr:0: OUTPUT 3320.74-3329.11: Again, Maya, we're going to be discussing this better and more specifically during the investor day. Understood. Thank you very much. 
+asr:0: OUTPUT 3333.31-3337.98: The next question is from Peter Welford with Jeffries. Please go ahead. 
+asr:0: OUTPUT 3340.60-3348.87: Thanks for taking my questions. I've just got two left, I think, please. Firstly, just to try to understand with regards to the cost synergies. 
+asr:0: OUTPUT 3349.75-3358.22: How much of that 55 million cost synergies is potentially, I guess, have to be delayed or slowed down? 
+asr:0: OUTPUT 3358.48-3363.44: Given the need, as you said, to invest in the manufacturing improvements that you're doing. 
+asr:0: OUTPUT 3364.12-3366.47: Or should we regard that as any way of being? 
+asr:0: OUTPUT 3366.67-3375.50: If you like, that just some of this investment you're doing in Luminex is more offsetting, if you like, upside or near-term upside to that 55 million. 
+asr:0: OUTPUT 3375.72-3380.54: So I guess what I'm asking is, is the more expense than you'd initially assumed required in the near term? 
+asr:0: OUTPUT 3380.76-3385.81: Or is that to some extent anyway offset by conservatism in that original 55 million aid? 
+asr:0: OUTPUT 3387.13-3391.41: Second question then is just with regards to the Luminex platform itself. 
+asr:0: OUTPUT 3391.55-3397.66: I think there's been a lot of discussion around one of the issues in the image, if you actually use these cartridges. 
+asr:0: OUTPUT 3398.32-3403.90: Has been that there's been a reasonably high relative to some of the peers error rate and issue using them. 
+asr:0: OUTPUT 3404.28-3412.91: Just wondering whether you think the manufacturing changes that you're doing, will that also improve the error rate or is this purely focused on the manufacturing and the warning letter? 
+asr:0: OUTPUT 3413.21-3416.28: And what steps are underway to potentially improve. 
+asr:0: OUTPUT 3416.46-3421.80: The reliability I guess of the Luminex system before you roll it out under your name. Thank you. 
+asr:0: OUTPUT 3425.51-3436.24: As far as the synergies are concerned, we said 55 million and they're going to come alive in the next three to five years. I'm very comfortable. 
+asr:0: OUTPUT 3436.26-3437.88: About the synergies. 
+asr:0: OUTPUT 3438.62-3440.28: I don't think there's going to be any delay. 
+asr:0: OUTPUT 3440.48-3443.66: We actually took into consideration the fact that. 
+asr:0: OUTPUT 3443.68-3452.13: We are going to have some investments that are going to be necessary in order to achieve some of these synergies. 
+asr:0: OUTPUT 3452.15-3453.73: Very comfortable with that number. 
+asr:0: OUTPUT 3453.75-3458.82: And I don't think there's going to be a delay and it has nothing to do with the delay on VeriGym2 manufacturing. 
+asr:0: OUTPUT 3459.46-3468.91: When it comes to the cartridge, I think you put it in the right term. 
+asr:0: OUTPUT 3470.47-3471.53: We. 
+asr:0: OUTPUT 3471.65-3476.36: This company, when I learned about this company, is that it's. 
+asr:0: OUTPUT 3476.48-3479.74: It is a step, not still a notch. 
+asr:0: OUTPUT 3479.76-3484.66: Away from being an IVD consolidated manufacturer and this. 
+asr:0: OUTPUT 3484.68-3490.33: It's clearly explainable by the fact that if you think about this company was actually built around the research. 
+asr:0: OUTPUT 3490.35-3493.39: Research products. 
+asr:0: OUTPUT 3493.41-3498.16: Today still, as said, the hard core of this company, the Luminex. 
+asr:0: OUTPUT 3499.04-3512.13: Is that business and then uh... The company stepped into try to step into accelerate the growth in diagnostic buying technologies are buying other companies uh... Around uh... Around the globe on the u s. 
+asr:0: OUTPUT 3512.41-3518.92: And bring in that IBD well-needed infrastructure to the company. 
+asr:0: OUTPUT 3519.38-3528.05: The problem I believe that some of the companies that have been bought were small and not necessarily properly structured and certainly from a quality standpoint. 
+asr:0: OUTPUT 3528.09-3535.70: From a quality system point of view, I believe behind what are the expectations in modern IVT. 
+asr:0: OUTPUT 3536.22-3540.78: I believe the 483 that was actually given to the company. 
+asr:0: OUTPUT 3540.80-3548.35: I think that the reason why we are not seeing a lot of growth is because of the fact that. 
+asr:0: OUTPUT 3548.37-3551.23: We are in the process of correcting. 
+asr:0: OUTPUT 3553.01-3560.38: By the way, we have decided that we are going to participate to, and we've been accepted. 
+asr:0: OUTPUT 3561.62-3568.45: To participate to a pilot program that the FDA has issued in the U.S. Where nine companies. 
+asr:0: OUTPUT 3568.47-3579.58: Are going to be enrolled into a program where the agency together with a consulting firm that the agency has actually selected to use. 
+asr:0: OUTPUT 3579.60-3586.31: They're going to be working with the company for 18 months. During these 18 months, we're going to redesign the quality system. 
+asr:0: OUTPUT 3586.41-3594.91: And we're going to redesign it in light of what are the most recent expectations by the agency. And this to me is great. 
+asr:0: OUTPUT 3595.48-3602.72: Because as far as Luminex is concerned, it's clearly focusing the people to the program, it's giving free access, by the way. 
+asr:0: OUTPUT 3603.34-3611.27: To. 
+asr:0: OUTPUT 3611.69-3617.16: My expectation is that at the end of this process, 18 months from now, we're going to pretty much exit. 
+asr:0: OUTPUT 3617.18-3623.66: This program with a very modern, up-to-date, and FDA-blessed quality system. 
+asr:0: OUTPUT 3624.97-3628.13: As far as the cartridge and what you said, again,. 
+asr:0: OUTPUT 3628.41-3635.14: I think you are very right and the problem is that the cartridge we found and the manufacturing. 
+asr:0: OUTPUT 3635.28-3639.40: We found over here was not really ready to launch a product. 
+asr:0: OUTPUT 3639.92-3649.67: It was ready for a prototyping launch, which is not a tradition of Diasoren. Being an IBD supplier, we look at finished products launched to the market. 
+asr:0: OUTPUT 3650.15-3656.94: Also, we are talking about a much bigger commercial infrastructure, so we would expect the ramp-up of volumes to be faster. 
+asr:0: OUTPUT 3657.78-3659.46: Then prior with Luminex. 
+asr:0: OUTPUT 3659.84-3668.03: And we did not feel that we could really go to the market with manual manufacturing lines. 
+asr:0: OUTPUT 3668.13-3673.23: And a process that was very cumbersome, prone to errors, whereas... 
+asr:0: OUTPUT 3673.25-3676.56: The company already ordered some fully validated. 
+asr:0: OUTPUT 3676.58-3683.70: Completely automated lines that now we are in process of validating and putting into operation. 
+asr:0: OUTPUT 3684.10-3690.21: And then we are going to conduct clinicals then with a much better process under control. 
+asr:0: OUTPUT 3690.75-3692.01: So long story short. 
+asr:0: OUTPUT 3692.59-3702.26: We always, it's very clear that when it comes to multiplexing, this is not a space where we're going to be pioneering. 
+asr:0: OUTPUT 3702.64-3705.65: Is a space that today already has good solutions. 
+asr:0: OUTPUT 3706.15-3713.13: And so the only way, in my opinion, to make it to that space is with a system that is very solid and stable. 
+asr:0: OUTPUT 3713.61-3723.34: With the complete panel and what is very attractive of this system in my opinion is the FlexiConcept, the ability to utilize the FlexiConcept. 
+asr:0: OUTPUT 3723.44-3725.87: That provides flexibility. 
+asr:0: OUTPUT 3725.89-3734.91: Of the launch of the panels, especially in the European countries where you know all the reimbursement are different, and also in the US where there has been a recent pushback. 
+asr:0: OUTPUT 3734.93-3741.22: Vis-a-vis the complexity of the panels that are offered by the competition. 
+asr:0: OUTPUT 3741.82-3746.37: If you want to make money with the Flexi concept, you better have your manufacturing cost under control. 
+asr:0: OUTPUT 3747.03-3752.75: Because certainly there is a margin effect on the flexi concept and this is why. 
+asr:0: OUTPUT 3752.77-3758.76: The company more established today are selling products that cannot really go back to that concept. They will be killing their business. 
+asr:0: OUTPUT 3759.12-3768.69: As far as we are concerned, we want to have all ducks in a row and the manufacturing cost under control before we launch it. So when we launch it, we are going to make money, right? 
+asr:0: OUTPUT 3775.34-3783.54: Sorry, I won't be as great. Thank you very much. Very glad. The next question is from Scott Bardo with Berenberg. Please go ahead. 
+asr:0: OUTPUT 3785.57-3787.15: Good evening, guys. Thanks for taking my questions. 
+asr:0: OUTPUT 3787.87-3793.53: I've got a couple of questions for Pierre Georgiou, please, and one high-level question for you, Mr Rosa. 
+asr:0: OUTPUT 3794.97-3800.08: Just wondering if you can please qualify. 
+asr:0: OUTPUT 3800.46-3808.55: I think that the last H1 update you provided an implicit guidance for. 
+asr:0: OUTPUT 3808.57-3813.21: 15% growth for your base business ex-COVID. 
+asr:0: OUTPUT 3814.23-3824.02: I just wonder if you could give us an update on what your expectation is this year on that basis, outside of the scope of consolidation. 
+asr:0: OUTPUT 3824.04-3826.39: That would be helpful please. 
+asr:0: OUTPUT 3827.05-3829.29: And second question for you, Pierre-Georges, please. 
+asr:0: OUTPUT 3830.99-3840.92: The revenues coming in from Luminex were better than we expected and I think you talked about performance being pretty decent there. 
+asr:0: OUTPUT 3842.66-3850.79: Can you confirm whether Luminex's original guidance to the market of $480 million is still on track this year? 
+asr:0: OUTPUT 3851.91-3860.28: And maybe give us a sense of what COVID was for Luminex last year and roughly speaking what you expect it to be this. That would be helpful. 
+asr:0: OUTPUT 3861.00-3863.78: I'll follow up with Carlo in a moment if possible. 
+asr:0: OUTPUT 3867.81-3869.71: So let me start with the first one. 
+asr:0: OUTPUT 3869.81-3877.36: I believe that what we see, as we said before, the increase in the guy that said that we are. 
+asr:0: OUTPUT 3877.38-3884.74: In the high part of the range has been driven by beta 2,3-6. 
+asr:0: OUTPUT 3884.76-3887.75: And mainly by BEDF COVID case. 
+asr:0: OUTPUT 3888.31-3893.43: I believe we have commented at length about what we see in the ex-COVID business. 
+asr:0: OUTPUT 3893.67-3897.34: Which is going very well. 
+asr:0: OUTPUT 3897.68-3905.03: In terms of the ex-COVID sales for the remaining of the year,. 
+asr:0: OUTPUT 3905.09-3909.33: I believe that what we said in H1 was 15%. 
+asr:0: OUTPUT 3909.67-3914.13: And they think that that is still the right number, the way in which we look at it. 
+asr:0: OUTPUT 3914.49-3921.72: It's there, you know, 1% better, 1% lower, but that's the right number. 
+asr:0: OUTPUT 3922.66-3932.25: In terms of the guidance for Luminex, I believe we said a few times that when we modelled the. 
+asr:0: OUTPUT 3933.05-3941.18: We didn't take face value of the plan that they put together. 
+asr:0: OUTPUT 3941.30-3948.33: Was made public in all the firing that followed the acquisition. 
+asr:0: OUTPUT 3949.07-3957.16: So, we didn't use the face value, we used a different one, a lower one. 
+asr:0: OUTPUT 3957.90-3965.61: And we are a little bit better than what we modeled for this year. 
+asr:0: OUTPUT 3966.05-3974.29: Then for 2022 and so on, you need to wait until the capital market day when we'll be more specific. 
+asr:0: OUTPUT 3974.81-3980.50: In terms of COVID sales, I believe Carlos said that overall in the quarter,. 
+asr:0: OUTPUT 3980.52-3988.39: The Asurion Plus Luminex COVID-safe accounted for 30% of the total world safe. 
+asr:0: OUTPUT 3989.63-3997.16: The luminex part of those revenues, we said 91 million euro of luminex sales in the quarter. 
+asr:0: OUTPUT 3997.56-4003.36: I believe a ballpark number on the top of my head that the COVID related shades. 
+asr:0: OUTPUT 4003.56-4012.63: So I'm not taking a respiratory pill. COVID only is ballpark 15 million euro. 
+asr:0: OUTPUT 4012.65-4020.96: Out of those 91 million euros. 
+asr:0: OUTPUT 4021.74-4030.25: There's been some market speculation about a potential tie-up combination between Vomeria and QIAGEN. 
+asr:0: OUTPUT 4030.95-4039.32: By a member of Merio, having an Amuno athlete business, and Kajan being a player in Quantafir. 
+asr:0: OUTPUT 4039.64-4054.03: I wonder if you could talk to a little bit about your current relationship with QIAGEN and whether any combination of these two companies could impact your ongoing relationship with QuantoPhyrro and Align. 
+asr:0: OUTPUT 4056.68-4062.62: Listen Scott, since I'm in Texas I think I can use the Fifth Amendment. 
+asr:0: OUTPUT 4063.62-4072.25: And I will not comment on this rumor and speculation because I think, again,. 
+asr:0: OUTPUT 4072.27-4074.94: Today is a rumor and a speculation. 
+asr:0: OUTPUT 4076.40-4084.60: I can comment on the fact that the relationship today with my good friend Thierry is doing very well. 
+asr:0: OUTPUT 4084.80-4093.87: I believe that in Europe the program today is almost to maturity because together we have been driving the. 
+asr:0: OUTPUT 4093.89-4100.70: Conversion and growth of this business and today we are working on actually. 
+asr:0: OUTPUT 4100.72-4104.30: Still works on driving demand. 
+asr:0: OUTPUT 4104.36-4107.31: So testing volume now that we have a... 
+asr:0: OUTPUT 4107.33-4113.03: Almost 400 accounts today that are using the product on our platforms. 
+asr:0: OUTPUT 4113.43-4117.42: In the US, we are at the beginning of the story. 
+asr:0: OUTPUT 4117.62-4125.67: We had a very successful conversion of one of the two largest labs in the US to the technology. 
+asr:0: OUTPUT 4126.33-4127.91: We have... 
+asr:0: OUTPUT 4127.93-4145.02: Today, a very significant number of hospitals that are using the Excel and together with QIAGEN, we are working and we are eagerly waiting for the approval of the Excel because in the U.S. We see the mid-size. 
+asr:0: OUTPUT 4145.05-4149.63: Hospital market is an untapped opportunity. A lot of these businesses send out. 
+asr:0: OUTPUT 4150.19-4151.33: And that we can catch up. 
+asr:0: OUTPUT 4151.41-4160.70: Capture the businesses uh... Enterprise uh... Arranger that uh... It really makes a kajan both parties uh... Very very happy very happy. 
+asr:0: OUTPUT 4161.36-4168.67: I would like just to make one comment, Scott, to the famous $480 million that you were discussing about. 
+asr:0: OUTPUT 4169.33-4176.90: If you look at those 480 million, there are two components to it that do not materialize. 
+asr:0: OUTPUT 4176.92-4182.28: They were in the expectation of Luminex and when we look into it we decided to de-risk. 
+asr:0: OUTPUT 4183.64-4187.99: One is to do with the fact that in those numbers, you had a very gentle launch. 
+asr:0: OUTPUT 4188.23-4193.01: In 2021, which we know. 
+asr:0: OUTPUT 4193.03-4199.42: We expected not to happen when we made certain decisions as diastolic about the launch of this product. 
+asr:0: OUTPUT 4199.94-4208.23: The second thing is the fact that in that assumption there was a certain dynamic of increase of manufacturing capacity. 
+asr:0: OUTPUT 4208.83-4218.30: That eventually did not happen and so today the volume is kept at 230-240,000 testaments. 
+asr:0: OUTPUT 4218.38-4225.91: I believe that plan was actually calling for an increase that would have taken the company behind that number. 
+asr:0: OUTPUT 4226.17-4236.16: So if you really take out these two effects and if you look at that number, I think we are running pretty much to where the company was saying. 
+asr:0: OUTPUT 4236.26-4242.10: With I believe a better mix which may, does contribute to profitability. 
+asr:0: OUTPUT 4242.12-4246.79: Which is an LTG performance which is above expectations. 
+asr:0: OUTPUT 4256.66-4263.14: Mr. Rosa, there are no more questions registered at this time. Okay, operator. Thank you. 
+asr:0: OUTPUT 4268.15-4273.31: Ladies and gentlemen, thank you for joining. The conference is now over. You may disconnect your telephones. 
+asr:0: END

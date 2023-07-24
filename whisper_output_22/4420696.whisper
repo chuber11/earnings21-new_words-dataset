@@ -1,0 +1,517 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 10.93-20.42: Greetings, I am Peter Kwon, Head of IR at KB Financial Group. We will now begin the 2021 Q1 earnings release presentation. 
+asr:0: OUTPUT 21.30-25.43: I would like to express my gratitude to everyone for your participation. 
+asr:0: OUTPUT 25.97-34.29: We have here with us at today's earnings release KBFG SEVP Lee Hwan-ju who is our group CFO as well as other executives from the group. 
+asr:0: OUTPUT 34.65-43.42: We will first hear SCVP Lee Hwan-ju's presentation on 2021 Q1 major business highlights and then we will engage in a Q&A session. 
+asr:0: OUTPUT 44.30-49.25: I would like to invite our SAVP to deliver 2021 Q1 Business Results presentation. 
+asr:0: OUTPUT 56.02-61.24: Ewan Ju CFO, KB Financial Group. 
+asr:0: OUTPUT 61.68-67.89: Thank you for joining KBFG's Q1 2021 Earnings Release Presentation. 
+asr:0: OUTPUT 69.39-76.54: Also, even in the middle of an unprecedented crisis brought on by the COVID-19 pandemic,. 
+asr:0: OUTPUT 76.88-83.36: I extend my deep gratitude to shareholders for your undivided support and kind patience. 
+asr:0: OUTPUT 86.27-93.09: Fortunately, during the first quarter, COVID-19 spread came under somewhat of a control. 
+asr:0: OUTPUT 93.35-99.56: And there was vaccination rollout which brought expectations for economic recovery. 
+asr:0: OUTPUT 100.40-108.29: As such, Korean economy is displaying signs of improvement driven by exports and capex investment. 
+asr:0: OUTPUT 108.57-117.48: And as there were signs of uptrend in the market rate, more positivity was expressed for the sector and banking share prices outperformed the market. 
+asr:0: OUTPUT 117.50-119.38: First time in a long while. 
+asr:0: OUTPUT 121.16-123.88: But when optimisms abound,. 
+asr:0: OUTPUT 123.92-130.49: We at KBFG feel that it is important to focus on the fundamentals. 
+asr:0: OUTPUT 130.51-138.36: And think of ways to enhance corporate value and undertake bold innovations so as to respond to future changes. 
+asr:0: OUTPUT 139.62-145.79: First, we have placed foremost priority on profitability and soundness. 
+asr:0: OUTPUT 145.81-149.95: Thereby focusing on improving fundamentals for sustainability. 
+asr:0: OUTPUT 151.21-152.21: This quarter. 
+asr:0: OUTPUT 152.23-162.22: Driven by the bank's core deposit growth and sophisticated loan pricing, we were able to improve NIM 5 basis points on quarter. 
+asr:0: OUTPUT 163.06-172.65: And the insurance business, whose performance was relatively subdued last quarter, managed to recover margin, supported by loss ratio improvements. 
+asr:0: OUTPUT 173.05-179.80: Also, on stronger competitiveness of core businesses including Trust, WM, Investment Banking,. 
+asr:0: OUTPUT 179.84-183.70: We expanded net fees and commission income of the group. 
+asr:0: OUTPUT 184.90-189.61: To overcome economic crisis triggered by the COVID pandemic,. 
+asr:0: OUTPUT 189.63-195.38: KB actively joined in on efforts towards soft landing of the financial system. 
+asr:0: OUTPUT 195.90-204.44: We have also been quite rigorous in controlling the asset quality through systematic monitoring of problem-prone exposures. 
+asr:0: OUTPUT 204.46-206.93: And re-examination of the portfolio. 
+asr:0: OUTPUT 207.89-213.67: Second, we issued 600 billion won of hybrid bond last February. 
+asr:0: OUTPUT 213.69-219.06: Securing additional capital buffer against internal and external uncertainties. 
+asr:0: OUTPUT 219.52-223.06: On top of reinforcing flexibility of the capital structure. 
+asr:0: OUTPUT 223.08-235.10: To realize shareholder value that fall in line with our capital adequacy levels which is top tier in the industry, we are conducting in-depth reviews of the shareholder return policy as we speak. 
+asr:0: OUTPUT 235.56-245.47: Lastly, to make the leap and become a No. 1 financial platform, KB Financial Group is steadfast at implementing its strategic tasks. 
+asr:0: OUTPUT 247.09-252.95: KBstore banking application now has around 17 million customer base. 
+asr:0: OUTPUT 253.19-260.54: And from convenience perspective, we are currently integrating groups core services, thereby upgrading to. 
+asr:0: OUTPUT 260.56-264.94: An earnings-generating and all-encompassing financial platform. 
+asr:0: OUTPUT 265.91-267.41: For the credit card business,. 
+asr:0: OUTPUT 267.43-270.83: LiveMate which is the MyData platform. 
+asr:0: OUTPUT 270.85-279.76: And KBPay, an open payment platform, form the basis for delivering product and services in connection with group affiliates. 
+asr:0: OUTPUT 280.12-289.79: And externally we have expanded product partnerships with many other institutions and have bolstered our competitiveness as an open and comprehensive financial platform. 
+asr:0: OUTPUT 291.59-296.52: KBFG will boldly respond to impending crisis and risks. 
+asr:0: OUTPUT 296.54-304.88: And will do our utmost to prepare against future changes to further upgrade group fundamentals and corporate value. 
+asr:0: OUTPUT 308.29-314.07: With that, I will now move on to Q1 2021 Financial Highlights. 
+asr:0: OUTPUT 318.88-327.01: KBFG in Q1 2021 reported a net profit of 1,270,000,000,000 won. 
+asr:0: OUTPUT 327.47-332.23: Which is a historical quarterly performance since the company was launched. 
+asr:0: OUTPUT 332.47-337.48: Driven by our efforts to beef up competitiveness of groups' core businesses. 
+asr:0: OUTPUT 337.50-342.14: And the result of business portfolio diversification from our M&A efforts. 
+asr:0: OUTPUT 343.32-351.85: Also, quarterly figure reported a sizable increase of 74.1% on year which is attributable to. 
+asr:0: OUTPUT 351.87-360.10: Solid core profit growth led by net interest income and net fees and commission income while at the same time. 
+asr:0: OUTPUT 360.64-365.63: There was large improvement in other operating income. 
+asr:0: OUTPUT 365.65-372.23: Which was impacted from sudden volatilities of the financial market in the first quarter of last year. 
+asr:0: OUTPUT 373.31-380.46: As can be seen from the upper right graph, KBFG meaningfully expanded earnings generating capacity. 
+asr:0: OUTPUT 380.48-383.42: Across all segments over the past year. 
+asr:0: OUTPUT 384.28-389.99: While securing incremental earnings from the capital market and the insurance businesses. 
+asr:0: OUTPUT 390.89-400.26: We also have proven our unparalleled capability in asset quality management, elevating the group's earnings profile in a stable and robust manner. 
+asr:0: OUTPUT 402.18-405.57: Let's now take a look at each segment in more detail. 
+asr:0: OUTPUT 408.79-414.13: Q1 Net Interest Income was $2,642,340,000,000. 
+asr:0: OUTPUT 414.61-418.34: Driven by MNAs, i.e. Acquisition of presidential life. 
+asr:0: OUTPUT 418.36-423.02: And solid known growth of the bank which led to 12.3%. 
+asr:0: OUTPUT 423.04-428.43: 12.5% year on year increase while an improvement in NIM. 
+asr:0: OUTPUT 428.45-432.91: There was an increase of 2.5% versus last quarter. 
+asr:0: OUTPUT 435.26-439.94: The Q1 Net Fees and Commission Income was $967.2 billion won. 
+asr:0: OUTPUT 440.36-448.67: There was a sizable increase of around 297 billion won on year and 179 billion won on quarter. 
+asr:0: OUTPUT 449.15-457.24: Which was driven by significant increase in fee income from securities business on the back of the bullish stock market. 
+asr:0: OUTPUT 457.60-462.86: Also, there was recovery of trust sales, boosting trust income for the bank. 
+asr:0: OUTPUT 462.88-470.13: And in the recovery of consumer spending, merchant fees from the credit card business also recorded an increase. 
+asr:0: OUTPUT 470.97-473.17: Particularly in Q1. 
+asr:0: OUTPUT 473.19-483.94: Banks' trust income, which was somewhat muted for some time on the back of regulations and worsening market conditions, largely regained its level. 
+asr:0: OUTPUT 483.96-487.99: And by bolstering market competitiveness of the IB business,. 
+asr:0: OUTPUT 488.01-494.73: For the first time on a quarterly basis, net fees and commission income came in at around 900 billion won level. 
+asr:0: OUTPUT 494.75-499.86: Which attests to a more improved earnings capacity in the non-interest income businesses. 
+asr:0: OUTPUT 501.76-504.88: Next is on other operating profit for Q1. 
+asr:0: OUTPUT 505.95-512.57: With the removal of securities and derivatives and ethics-related losses of Q1 of 2020. 
+asr:0: OUTPUT 512.59-516.08: And consolidation impact of prudential life. 
+asr:0: OUTPUT 516.72-523.28: Other operating profit was up 311.2 billion won on year. 
+asr:0: OUTPUT 524.80-533.83: For the insurance underwriting profit for non-life insurances there was a decline in auto accident rate and on premium hikes. 
+asr:0: OUTPUT 533.85-539.40: Loss ratio improved mostly around auto insurance and in terms of the life insurance. 
+asr:0: OUTPUT 539.42-544.10: On base effect of year-end guarantee reserves and improved investment yield. 
+asr:0: OUTPUT 544.32-548.21: There was performance improvement versus last quarter. 
+asr:0: OUTPUT 551.89-554.69: Next is on the group's DNA expense. 
+asr:0: OUTPUT 557.20-562.64: Q1 group GNA was 1,722,800,000,000 won. 
+asr:0: OUTPUT 563.16-569.45: Which is up 18.1% year on year, seeming to have risen quite significantly. 
+asr:0: OUTPUT 569.99-578.22: However, unlike Q1 of 2020, following the acquisition of Prudential Life, Prasak, etc.,. 
+asr:0: OUTPUT 578.94-583.02: 134 billion won was booked as related expenses. 
+asr:0: OUTPUT 583.40-589.57: And also there was additional expense adjustments for employees' welfare fund and EON special bonuses. 
+asr:0: OUTPUT 589.89-595.58: So if we were to exclude such factors, we can say that DNA is being well controlled. 
+asr:0: OUTPUT 596.60-598.10: Next is on PCL. 
+asr:0: OUTPUT 600.00-605.29: Q1 group PCL was 173.4 billion won. 
+asr:0: OUTPUT 606.25-611.91: Despite Groove's yearly loan asset growth of 37 trillion won,. 
+asr:0: OUTPUT 611.93-618.24: PCL was actually down 70.3 billion won year over year. 
+asr:0: OUTPUT 619.28-626.65: And thanks to our continuous efforts towards quality improvement of the loan portfolio and pre-emptive risk management. 
+asr:0: OUTPUT 627.01-630.91: We are keeping asset quality at a steady level. 
+asr:0: OUTPUT 632.71-638.28: Next, if you look at the bottom right graph, KBFG has been expanding. 
+asr:0: OUTPUT 638.30-643.04: Its earnings capacity by driving up core competitiveness of. 
+asr:0: OUTPUT 643.06-645.09: Each of its subsidiaries. 
+asr:0: OUTPUT 645.11-654.45: And as a result non-banking businesses as of Q1 account for 48.6% of the group's net income. 
+asr:0: OUTPUT 654.67-658.06: As such, companies' earnings profile has improved. 
+asr:0: OUTPUT 660.00-665.97: For the banking business, in order to overcome difficult business environment in the domestic market,. 
+asr:0: OUTPUT 666.21-673.09: We sought out for inorganic growth opportunities in the global market, reinforcing our earnings capacity. 
+asr:0: OUTPUT 673.43-682.94: For the securities business, aside from brokerage services, we strengthen profitability across all of the businesses including wealth management, capital market and investment banking. 
+asr:0: OUTPUT 683.24-692.25: And while for insurance, by acquiring Prudential Life, we were able to increase its contribution to the performance of the group. On the next page, I will walk through key financial metrics. 
+asr:0: OUTPUT 694.27-698.50: 2021 Q1 Group ROA and ROE each posted. 
+asr:0: OUTPUT 699.00-703.66: 0.85% and 12.5% respectively. 
+asr:0: OUTPUT 704.14-711.55: Through interest income and fee-income-centered core earnings growth and group-level revenue diversification. 
+asr:0: OUTPUT 711.87-717.00: We are improving profitability and maintaining sound earnings fundamentals. 
+asr:0: OUTPUT 718.32-722.46: Next, to elaborate on banks' loans-in-one growth,. 
+asr:0: OUTPUT 722.48-730.81: As of March 2021, banks' loans in won posted 297 trillion won. 
+asr:0: OUTPUT 730.83-734.25: And grew 0.4% YTD. 
+asr:0: OUTPUT 735.72-740.96: Amidst this situation, household loans posted 163 trillion won. 
+asr:0: OUTPUT 741.18-748.21: Centering on Jeonse loans and prime unsecured loans, household loans grew 0.6% YTD. 
+asr:0: OUTPUT 749.47-759.00: Considering the overall household debt level and loan portfolio mix, we are partially controlling the speed of growth compared to the previous year. 
+asr:0: OUTPUT 760.58-765.59: Corporate loans grew 0.1% YTD. 
+asr:0: OUTPUT 765.69-774.57: A marginal increase, but it was because in the case of corporate loans, due to the revitalization of corporate loan issuing market,. 
+asr:0: OUTPUT 774.87-779.48: There was overall loan demand decrease and in March temporarily. 
+asr:0: OUTPUT 779.68-786.73: There was a great increase of repayments leading to a around 1 trillion won decrease YTD. 
+asr:0: OUTPUT 787.53-795.84: In the case of SME loans, centering on SOHO loans, it increased 1% YTD and is stably growing. 
+asr:0: OUTPUT 798.68-800.92: Next is the net interest margin. 
+asr:0: OUTPUT 801.84-811.45: Q1 Group and Bank NIM posted 1.82% and 1.56% respectively. 
+asr:0: OUTPUT 811.77-816.74: And following the previous Q4, a growth momentum is continuing. 
+asr:0: OUTPUT 817.06-824.32: And since it has already increased by a 5 to 6 BP level compared to the previous year's annual NIM. 
+asr:0: OUTPUT 824.58-830.45: This year's solid interest income growth momentum has gained more visibility. 
+asr:0: OUTPUT 831.15-834.71: Going into detail, in the case of the bank NIM,. 
+asr:0: OUTPUT 834.79-839.56: Quarterly deposits increased by around 6 trillion won in this quarter. 
+asr:0: OUTPUT 839.68-843.12: And with the proportion of low-cost deposits. 
+asr:0: OUTPUT 843.14-852.89: Among the total deposits continuously increasing, alleviating the overall funding cost burden, bank NIM increased by 5 BPQOQ. 
+asr:0: OUTPUT 853.27-860.08: In the case of the group NIN, reflecting card asset yield improvement, centering on installment financing,. 
+asr:0: OUTPUT 860.10-866.39: Coupled with bank NIM improvement grew NIM increase by 7 BP QOQ. 
+asr:0: OUTPUT 866.65-868.19: Let's go to the next page. 
+asr:0: OUTPUT 870.71-875.52: First, I would like to cover the group's cost-income ratio, the CIR. 
+asr:0: OUTPUT 876.32-882.80: The group CIR based on 2021 Q1 posted 47.3%. 
+asr:0: OUTPUT 883.24-889.21: And efforts to increase core earnings and control costs is gaining visibility. 
+asr:0: OUTPUT 890.21-898.74: On a recurring basis, excluding one-offs including digitalization costs, it posted 46.1%. 
+asr:0: OUTPUT 899.08-901.82: And even on a recurring CIR basis. 
+asr:0: OUTPUT 902.14-907.03: It is showing a lower stabilization trend which is gradual. 
+asr:0: OUTPUT 907.41-917.30: For your reference, taking into consideration the cost adjustment effect from Employee Welfare Fund Reserve this quarter and Year-end Bonus Expenses Accrual,. 
+asr:0: OUTPUT 917.80-920.94: The cost efficiency improvement trend. 
+asr:0: OUTPUT 920.96-928.33: Is gaining more visibility and on the back of sound top-line expansion and group-wide cost control efforts. 
+asr:0: OUTPUT 928.49-932.75: Cost efficiency is expected to additionally improve. 
+asr:0: OUTPUT 933.19-935.88: Next is the credit cost. 
+asr:0: OUTPUT 938.26-942.02: 2021 Q1 Group and Bank Credit Cost. 
+asr:0: OUTPUT 942.04-949.87: As a result of our continued prudent lending policy and credit quality management,. 
+asr:0: OUTPUT 949.89-956.02: Posted 0.20% and 0.08% respectively. 
+asr:0: OUTPUT 956.10-959.88: And is being maintained stably at a low level. 
+asr:0: OUTPUT 960.00-964.86: Proving KBFG's advanced risk management efforts. 
+asr:0: OUTPUT 967.73-974.13: We are taking into account the situation where COVID-19 related uncertainty is being continued. 
+asr:0: OUTPUT 974.59-981.12: And we are going to maintain preemptive and conservative asset quality management for the time being. 
+asr:0: OUTPUT 981.56-983.94: Next is the group's capital ratio. 
+asr:0: OUTPUT 986.09-991.67: As of end March 2021, the group BIS ratio boosted 16%. 
+asr:0: OUTPUT 991.93-996.86: And the CET1 ratio posted 13.75% respectively. 
+asr:0: OUTPUT 997.24-1005.71: And grew by 0.72 percentage points and 0.45 percentage points, respectively, QoQ. 
+asr:0: OUTPUT 1006.39-1011.19: Based on our solid earnings fundamentals centering on CT1. 
+asr:0: OUTPUT 1011.61-1016.48: We are maintaining the highest level of capital strength in the industry. 
+asr:0: OUTPUT 1016.96-1024.82: And we are also improving our capital structure's flexibility through strategic capital management. 
+asr:0: OUTPUT 1024.84-1027.71: Including issuing hybrid bonds. 
+asr:0: OUTPUT 1028.37-1030.03: Let's go to the next page. 
+asr:0: OUTPUT 1031.85-1038.82: From this page, I will cover KBFG's non-face-to-face or digital channel competitiveness. 
+asr:0: OUTPUT 1039.78-1049.75: With the development of IT technology, platform models are evolving and service expediency and efficiency is rapidly improving. 
+asr:0: OUTPUT 1050.45-1055.40: The population structure is changing with the increase of one-person households. 
+asr:0: OUTPUT 1055.42-1061.74: And the rise of the MZ generation leading to a rapid increase of consumers preferring digital channels. 
+asr:0: OUTPUT 1062.08-1069.11: With the expansion of COVID-19, transition into the untapped generation is accelerating. 
+asr:0: OUTPUT 1069.43-1078.58: And the center of weight of financial transaction channels is rapidly moving from face-to-face channels to digital or non-face-to-face channels. 
+asr:0: OUTPUT 1079.16-1089.07: KBFG, which has been preemptively responding to these changes as of late last year, has secured more than 110 million digital customers. 
+asr:0: OUTPUT 1089.09-1093.45: Which is around 44% of the group's total active customers. 
+asr:0: OUTPUT 1094.63-1102.34: In addition, in the case of banks KB Star Banking, which is our group's representative digital platform,. 
+asr:0: OUTPUT 1102.60-1111.55: We have secured around 8 million monthly active users, MAU as of now, and is maintaining the industry's leading position. 
+asr:0: OUTPUT 1112.09-1117.92: As a result of customer-centered UI UX reorganization and diverse product offerings,. 
+asr:0: OUTPUT 1118.28-1126.65: Customer convenience has improved in an innovative way, leading to rapidly growing MAU each year. 
+asr:0: OUTPUT 1129.75-1147.95: Looking at the financial transactions through the group's digital channels, in the case of major investment products, including time deposits and funds, around 50% of new accounts are being transacted through digital channels such as internet and mobile banking. 
+asr:0: OUTPUT 1148.19-1150.99: In the case of loan products, in the past,. 
+asr:0: OUTPUT 1151.03-1163.10: There was a smaller proportion of digital channel transactions relatively, but as a result of online product lineup alignment and focus on process simplification,. 
+asr:0: OUTPUT 1163.34-1165.08: It is growing at a fast speed. 
+asr:0: OUTPUT 1165.41-1169.57: In particular in the case of unsecured loans in 2017,. 
+asr:0: OUTPUT 1169.81-1174.47: The size of digital channel new loans was only 400 billion won per annum. 
+asr:0: OUTPUT 1174.77-1181.02: But last year, it grew to around 3 trillion won level and is rapidly expanding. 
+asr:0: OUTPUT 1181.66-1182.68: In addition. 
+asr:0: OUTPUT 1182.72-1192.31: I would like to elaborate on some of the major efforts we're making to bolster our group's non-face-to-face or digital channel competitiveness. 
+asr:0: OUTPUT 1193.59-1201.04: In January of this year, among our subsidiaries, bank and card subsidiaries acquired MyData Business license. 
+asr:0: OUTPUT 1201.30-1205.41: And we are doing our best to prepare for service launch in August. 
+asr:0: OUTPUT 1206.39-1215.58: The bank subsidiary through KB Star Banking with the goal of establishing the group's integrated comprehensive financial platform. 
+asr:0: OUTPUT 1215.60-1224.80: Is advancing seamless wealth management services through converging wealth management know-how and specialized data connection technology. 
+asr:0: OUTPUT 1225.33-1234.29: Card subsidiary plans to offer optimized customized financial product solution by utilizing LiveMate 3.0. 
+asr:0: OUTPUT 1234.31-1239.32: Which connects information from around 130 financial institutions. 
+asr:0: OUTPUT 1239.36-1243.12: As an externally open comprehensive financial platform. 
+asr:0: OUTPUT 1243.70-1245.23: In addition,. 
+asr:0: OUTPUT 1245.25-1256.68: KB Mobile Certificate, which received attention from the market by being the industry's first private digital certificate as a local financial group,. 
+asr:0: OUTPUT 1256.80-1268.25: And the only public sector digital signature pilot provider among financial companies as a result of securing definite competitive edge in customer convenience and security. 
+asr:0: OUTPUT 1268.55-1275.70: In just one year and eight months after launching has surpassed 7.3 million registered users. 
+asr:0: OUTPUT 1276.06-1285.65: We expect the competitiveness of these mobile certificates to contribute to expanding the group's customer touchpoints and customers' convenience. 
+asr:0: OUTPUT 1286.25-1287.77: In addition,. 
+asr:0: OUTPUT 1287.79-1300.16: Card has launched KBPay which has strengthened competitiveness compared to other existing app cards to expediently respond to the rapidly changing settlement market. 
+asr:0: OUTPUT 1301.16-1310.27: Insurance kb insurance based on customers health information plans to offer ultra customized comprehensive digital health care service. 
+asr:0: OUTPUT 1310.93-1315.44: And we plan to secure a newly elevated level of competitiveness. 
+asr:0: OUTPUT 1315.82-1321.38: Last but not least, KBFG plans to not only bolster digital channel competitiveness,. 
+asr:0: OUTPUT 1321.40-1330.35: But also for wealth management, loan consulting, and other areas where face-to-face channels importance is high. 
+asr:0: OUTPUT 1330.67-1339.64: We plan to offer services that are elevated through centering on a more specialized consulting and differentiated products. 
+asr:0: OUTPUT 1340.08-1349.19: Through seamless connection between digital channels and face-to-face channels, leading to maximizing customer convenience and satisfaction,. 
+asr:0: OUTPUT 1349.45-1357.20: We will work hard to grow as the solid leading financial group even amidst the future financial industry's paradigm change. 
+asr:0: OUTPUT 1357.70-1362.70: From the next page, there are detailed pages regarding the earnings that I have covered so far. 
+asr:0: OUTPUT 1363.20-1372.65: With this, I will conclude KBFG's Q1 2021 Business Results presentation. Thank you for listening. 
+asr:0: OUTPUT 1381.50-1391.37: Contact information. 
+asr:0: OUTPUT 1391.73-1398.56: For those of you using the phone, press star and 1 to submit your questions. Please bear with us as we wait for questions to come in. 
+asr:0: OUTPUT 1407.93-1414.65: For your information, there is a slight time lag between the internet and the phone bridge, so please bear with us one more moment. 
+asr:0: OUTPUT 1418.72-1424.56: Take the first question from Samsung Securities Mr. Kim Jae-ho. Please go ahead. 
+asr:0: OUTPUT 1425.85-1432.55: Good afternoon, I am Kim Jae-ho from Samsung Securities. I would like to ask you three questions. First question relates to dividends. 
+asr:0: OUTPUT 1434.27-1443.06: There's a high level of expectation and people are looking forward towards quarterly dividend. I understand that KB is willing to pay out on a quarterly basis. 
+asr:0: OUTPUT 1443.08-1445.03: Do you have plans to do so? 
+asr:0: OUTPUT 1445.45-1450.61: And also when we talk of quarterly dividend. 
+asr:0: OUTPUT 1451.01-1460.88: I feel that in terms of interim dividend payout may be most optimal. So what's the possibility of that? 
+asr:0: OUTPUT 1461.16-1466.09: And also, secondly, according to press articles,. 
+asr:0: OUTPUT 1466.55-1470.23: I think the major banks are also talking about internet-based banks. 
+asr:0: OUTPUT 1470.65-1479.44: What is your policy or stance vis-a-vis the online banking, for instance, Kakao and other. 
+asr:0: OUTPUT 1480.54-1487.87: Since you also have certain shareholding at Kakao, we would like to understand what your position is with respect to the online dedicated banks. 
+asr:0: OUTPUT 1488.31-1496.08: And also my last question is that your performance this quarter was quite good. Had there been any one-off items? 
+asr:0: OUTPUT 1497.16-1503.78: Thank you for the questions. Would like to respond to the questions. Just give us one moment. 
+asr:0: OUTPUT 1514.05-1520.96: Thank you Mr. Kim for those questions. You asked about quarterly dividend payout. 
+asr:0: OUTPUT 1524.32-1533.57: At this point in time, we are looking into and reviewing different options when it comes to dividend payout and shareholder return. 
+asr:0: OUTPUT 1533.87-1543.76: I understand that the market has quite a bit of interest and as I have mentioned during the IR session at the year end of last year, if I may just once again summarise what our. 
+asr:0: OUTPUT 1543.78-1545.25: Position is. 
+asr:0: OUTPUT 1545.27-1548.99: Is as follows in terms of payout ratio as you know. 
+asr:0: OUTPUT 1549.25-1555.42: We have adopted a progressive dividend payout policy. This is something that we have been quite steadfast at. 
+asr:0: OUTPUT 1555.76-1560.70: Basically, from mid to long term perspective, increase the payout ratio to around 30%. 
+asr:0: OUTPUT 1561.24-1574.93: Second point is that in the second half of this year, we expect uncertainties around COVID-19 pandemic to alleviate and also the capital ratios and our earning stability and the quality of our assets. 
+asr:0: OUTPUT 1574.95-1578.02: And asset quality and soundness of our assets. 
+asr:0: OUTPUT 1578.46-1581.92: In light of all of these elements,. 
+asr:0: OUTPUT 1582.18-1591.73: We are going to do our utmost to actually regain and recover to the previous payout level. 
+asr:0: OUTPUT 1593.93-1595.48: And also... 
+asr:0: OUTPUT 1596.24-1600.26: We will balance and consider different. 
+asr:0: OUTPUT 1600.28-1609.19: Aspects such as need to retain earnings for M&A purposes and also interim payouts as well as share buybacks. 
+asr:0: OUTPUT 1609.27-1617.80: And other shareholder return enhancement options are being at this point in time deliberated by the company. 
+asr:0: OUTPUT 1618.66-1625.89: Of the Korean financial institutions, when it comes to shareholder return and dividend payout, we've been quite pre-emptive. 
+asr:0: OUTPUT 1626.17-1629.63: If you look back at our track record, you will be able to see that. 
+asr:0: OUTPUT 1630.09-1632.67: And even quite aggressive and progressive. 
+asr:0: OUTPUT 1633.45-1642.68: And lastly, together with the supervising authority, we will also engage in very close communication with respect to this item. 
+asr:0: OUTPUT 1644.08-1646.61: The second question will be responded by our CSO. 
+asr:0: OUTPUT 1646.97-1648.91: And the third question. 
+asr:0: OUTPUT 1648.93-1656.10: The Welfare Fund. 
+asr:0: OUTPUT 1656.12-1661.62: Q1 or Q2 of last year there was some reserve so there's not been anything that's quite significant. 
+asr:0: OUTPUT 1662.60-1666.87: And also we haven't really made any, I guess. 
+asr:0: OUTPUT 1670.55-1675.74: Yes, I am Ailee Tangum, the CSO. As you have mentioned, Mr. Kim,. 
+asr:0: OUTPUT 1676.82-1683.48: When it comes to the internet dedicated, the online bank and launching of that business,. 
+asr:0: OUTPUT 1684.02-1688.51: There's a lot of interest and currently the Association of Banks. 
+asr:0: OUTPUT 1689.07-1699.06: Currently is talking to the FSC and is in discussions as to allowing financial holding companies to gain an internet online bank license. 
+asr:0: OUTPUT 1699.46-1709.17: If there are any changes in the direction of the regulation by the FSC, we will of course be in line with those directions and review the potential possibility. 
+asr:0: OUTPUT 1709.51-1717.02: I think it would not be appropriate for me to specify any specific business model per se today at this point in time. 
+asr:0: OUTPUT 1721.88-1725.59: We will move on to the next question. Mr. Kim Jin Sung from Hyundai Motor Securities. 
+asr:0: OUTPUT 1727.23-1729.19: Please ask your question. 
+asr:0: OUTPUT 1730.59-1733.73: Congratulations and thank you for your earnings. 
+asr:0: OUTPUT 1737.06-1739.12: As the CFO mentioned,. 
+asr:0: OUTPUT 1739.72-1743.86: Your Q2 NIM has passed the... 
+asr:0: OUTPUT 1743.88-1751.39: Can you give us a breakdown of the NIMS report? 
+asr:0: OUTPUT 1752.57-1755.36: I know that the commercial interest rate has gone up. 
+asr:0: OUTPUT 1756.16-1763.74: And I know that your low-cost deposits have come in. So if you can give us a breakdown, it will be very helpful. 
+asr:0: OUTPUT 1764.40-1773.13: And including the next quarter. If you can give us an estimate of your forecast of quarterly trend, it will be very helpful. 
+asr:0: OUTPUT 1773.57-1780.36: My second question is about your group's digital or non-face-to-face channel plans. 
+asr:0: OUTPUT 1782.50-1786.59: I know that you have a platform and you have many advantages. 
+asr:0: OUTPUT 1789.77-1794.23: And I am sure that you will be quite profitable. 
+asr:0: OUTPUT 1794.25-1800.56: But can you tell us about what is your forecast for earnings? 
+asr:0: OUTPUT 1800.70-1805.07: If you have any simulated numbers, it will be very helpful. 
+asr:0: OUTPUT 1805.45-1812.59: And we see banks going online and there is the internet and the existing. 
+asr:0: OUTPUT 1812.73-1816.52: Sales channels that are becoming divided and. 
+asr:0: OUTPUT 1817.96-1824.54: I believe that the banks need to make the existing channels more efficient. So can you tell us what you're doing in that direction? 
+asr:0: OUTPUT 1825.07-1829.07: Thank you very much for your questions. We will soon answer them. 
+asr:0: OUTPUT 1855.94-1859.76: Thank you very much, Mr. Kim Jin-sung, for your questions. 
+asr:0: OUTPUT 1861.40-1868.23: Regarding the Nim question that you first posed,. 
+asr:0: OUTPUT 1869.83-1872.21: As you just aforementioned,. 
+asr:0: OUTPUT 1872.33-1874.95: Compared to the previous quarter. 
+asr:0: OUTPUT 1875.94-1886.19: Largely, there will be the volume effect and rate effect related to profitability and the low-cost deposits or portfolio change impact. 
+asr:0: OUTPUT 1886.93-1889.71: That has added to this improvement. 
+asr:0: OUTPUT 1890.07-1898.78: Regarding the concrete numbers, I don't have them with me now, but I'm sure that our team can get back to you about the details. 
+asr:0: OUTPUT 1900.00-1902.36: Regarding the NIMH,. 
+asr:0: OUTPUT 1906.57-1913.15: Talking about the forecast, looking at what the market has said until Q2,. 
+asr:0: OUTPUT 1913.33-1918.88: There are estimations that the NIM will go up, but there will be a floor later. 
+asr:0: OUTPUT 1919.28-1923.46: So I think that is the main gist of what people are mentioning now. 
+asr:0: OUTPUT 1924.00-1931.75: But regarding our annual earnings presentation, I mentioned that on an annual level,. 
+asr:0: OUTPUT 1932.53-1936.62: We will safeguard the NIM at about 1.51%. 
+asr:0: OUTPUT 1937.00-1940.78: And as you have seen in our presentation materials. 
+asr:0: OUTPUT 1942.34-1948.91: The interest environment and the funding costs have been rapidly changing. 
+asr:0: OUTPUT 1949.29-1955.78: And we are seeing the NIM that has actually improved by a large scale. 
+asr:0: OUTPUT 1956.22-1959.74: We had 5BP improvement in this quarter as well. 
+asr:0: OUTPUT 1959.92-1964.04: And looking roughly at the reasons first. 
+asr:0: OUTPUT 1964.28-1970.81: We had efforts to increase low-cost deposits and core deposits had increased by 6 trillion won. 
+asr:0: OUTPUT 1971.99-1977.14: And it led to our funding cost burden going down. 
+asr:0: OUTPUT 1977.58-1983.78: And relatively speaking, for the time deposits,. 
+asr:0: OUTPUT 1984.04-1987.77: You can see that there was a portfolio effect because it contracted. 
+asr:0: OUTPUT 1988.57-1992.53: And regarding the rollover of our deposits. 
+asr:0: OUTPUT 1995.52-2000.00: You can see that there was an impact as well. So overall,. 
+asr:0: OUTPUT 2000.20-2006.93: We had an alleviation of the funding burden which led to this positive trend. 
+asr:0: OUTPUT 2008.13-2015.68: We put the prudency first and we said we want loan growth based on conservative. 
+asr:0: OUTPUT 2015.70-2020.30: So we believe that also added to the NIM improvement. 
+asr:0: OUTPUT 2020.52-2024.72: And in Q1, regarding low-cost deposits, we had the increase. 
+asr:0: OUTPUT 2024.88-2030.69: And we had the time deposits that went down, so it led to funding cost decrease. 
+asr:0: OUTPUT 2031.03-2039.32: So we believe that on average balance effect, this trend will continue in going forward and. 
+asr:0: OUTPUT 2039.34-2044.66: We plan to have a prudent loan policy going forward. 
+asr:0: OUTPUT 2047.53-2049.09: And we believe that. 
+asr:0: OUTPUT 2049.11-2058.22: In the 1.5% level for the bank name, we believe that will be what we're forecasting. 
+asr:0: OUTPUT 2059.62-2067.23: And when we had a 1BP NIM improvement in the previous quarter,. 
+asr:0: OUTPUT 2067.61-2072.75: So we believe that we will be doing a very detailed. 
+asr:0: OUTPUT 2072.77-2077.66: Management so that we can have the best NIM level going forward. 
+asr:0: OUTPUT 2081.02-2087.29: Your second question was about the platform and what. 
+asr:0: OUTPUT 2087.31-2092.57: Type of benefits that we are looking at and looking for. 
+asr:0: OUTPUT 2094.15-2101.36: The market environment, as was mentioned in my presentation, is veering toward an untapped economy. 
+asr:0: OUTPUT 2101.50-2108.57: So we believe that it goes without saying that we need to bolster the digital channels or non-face-to-face channels. 
+asr:0: OUTPUT 2108.91-2114.37: And regarding the indexes for digitalization,. 
+asr:0: OUTPUT 2114.55-2122.38: And indicators, we are actually creating them and we are assessing them as we speak. 
+asr:0: OUTPUT 2122.58-2126.65: So internally,. 
+asr:0: OUTPUT 2128.47-2138.74: We are currently organizing them and aligning them so that we can actually talk in more detail about it at future IERs if possible. 
+asr:0: OUTPUT 2139.52-2148.05: Thirdly, you mentioned about the digital channels, you mentioned about the face-to-face channels. 
+asr:0: OUTPUT 2148.53-2155.36: And although we have more percentage of the non-face-to-face channels, but, or offline channels,. 
+asr:0: OUTPUT 2155.66-2158.56: There are many things that we need to do. 
+asr:0: OUTPUT 2162.20-2165.15: For the offline channels. 
+asr:0: OUTPUT 2165.49-2170.61: And online channels, we need hybrid seamless connection for the customers. 
+asr:0: OUTPUT 2171.01-2178.68: And we need to satisfy the customer so this can be well and seamlessly connected. So we need to work in that direction. 
+asr:0: OUTPUT 2178.94-2187.01: And we need to have upskill and reskill of our employees so that they can gain more professionalism in this area. 
+asr:0: OUTPUT 2187.25-2189.51: So we are working toward that as well. 
+asr:0: OUTPUT 2189.99-2195.20: Next, in 2014,. 
+asr:0: OUTPUT 2198.48-2201.94: Looking at our channel numbers. 
+asr:0: OUTPUT 2202.68-2210.35: And its breakdown. For the channels and the employees, we have seen a contraction of about 20% for both of them. 
+asr:0: OUTPUT 2210.87-2216.56: So it means that we are becoming more lean and we are becoming more muscular. 
+asr:0: OUTPUT 2216.96-2222.40: So that we are gaining more efficiency and we plan to work toward that end as well. Thank you. 
+asr:0: OUTPUT 2223.68-2226.79: Thank you for your answer. We will take the next question. 
+asr:0: OUTPUT 2229.77-2238.52: From Cape Investment, Kim Doha. Please go ahead with your question. Thank you. I am Kim Doha from Cape Investment. I have two questions. 
+asr:0: OUTPUT 2239.16-2243.14: First is on your fee income line item. 
+asr:0: OUTPUT 2243.42-2249.17: Compared to my forecast, actually, there was a quite big surprise. 
+asr:0: OUTPUT 2250.05-2262.42: If you look at last year, I've been looking at the banking related fees but because of difficult circumstances on the trust as well as sales through the bank branches, there's been decline. But if you look at other. 
+asr:0: OUTPUT 2262.44-2263.50: Banks. 
+asr:0: OUTPUT 2263.52-2266.35: Which did earnings last year. 
+asr:0: OUTPUT 2266.41-2269.13: Yesterday as well as KB. If you look at trust. 
+asr:0: OUTPUT 2269.35-2274.91: On a QOQ basis, there's a 60% increase, so you've really regained your previous level. 
+asr:0: OUTPUT 2275.38-2277.64: So out at the front end. 
+asr:0: OUTPUT 2277.70-2284.72: How do your people actually assess this in terms of trust fees as well as sales related commissions? 
+asr:0: OUTPUT 2284.94-2290.63: Do they feel that this trend can continue in Q2 and Q3 as well? So that's my first question. 
+asr:0: OUTPUT 2291.03-2298.38: The second question, if you look at the bank and if you look at the credit cost, I think it's only 7 basis points. 
+asr:0: OUTPUT 2298.82-2304.06: So compared to the past, there must have been some reversals or write-back. 
+asr:0: OUTPUT 2304.42-2309.75: So in terms of the reserve that you booked last year to respond to COVID. 
+asr:0: OUTPUT 2309.93-2318.22: When do you think is going to be the cycle or the timeline for us to see a significant write back from those reserves? 
+asr:0: OUTPUT 2318.70-2321.24: Thank you. Just give us one moment to answer that question. 
+asr:0: OUTPUT 2338.02-2340.16: Thank you, Ms. Kim Doha, for your question. 
+asr:0: OUTPUT 2342.02-2343.52: You ask two questions. 
+asr:0: OUTPUT 2343.90-2348.17: First, for the commission income you've mentioned,. 
+asr:0: OUTPUT 2348.93-2357.82: Trust income. So let me just provide some overall explanation on the fee and commission side. 
+asr:0: OUTPUT 2360.82-2369.83: As I said before, the first aspect is at the group level, if you look at the stock market and the bullish stock market,. 
+asr:0: OUTPUT 2370.37-2378.52: We've seen brokerage fee income increase quite significantly and if you look at the IB business. 
+asr:0: OUTPUT 2379.12-2385.89: Basically, we've seen our market competitiveness strengthen and also out of the trust business. 
+asr:0: OUTPUT 2386.03-2389.71: Because of some of the regulatory impact. 
+asr:0: OUTPUT 2390.69-2396.78: As well as despite the fact that we're still in the middle of the pandemic. 
+asr:0: OUTPUT 2398.28-2404.06: There has been some recovery in the spending of the consumers and the merchant fees have gone up. 
+asr:0: OUTPUT 2404.12-2409.37: So overall we have seen fee and commission income actually improve across the board. 
+asr:0: OUTPUT 2411.41-2414.65: Now, but is this sustainable? That is a question. 
+asr:0: OUTPUT 2414.67-2421.44: That you have asked and also is an aspect that we are looking into. 
+asr:0: OUTPUT 2422.46-2428.77: In our view, our customers for the WM,. 
+asr:0: OUTPUT 2428.99-2434.59: And also strengthening related assets that will be our priority. 
+asr:0: OUTPUT 2435.60-2441.32: And also if you look at DCM and ECM and M&A, so corporate advisory businesses. 
+asr:0: OUTPUT 2441.60-2448.25: We want to be able to expand our sales related capabilities and if we could really leverage our sales capabilities. 
+asr:0: OUTPUT 2448.81-2455.38: I believe that we can bring about a double-digit growth on an annual basis. 
+asr:0: OUTPUT 2456.32-2460.82: So that would be the answer to the first question that you asked. 
+asr:0: OUTPUT 2461.18-2462.52: Second question. 
+asr:0: OUTPUT 2462.94-2472.61: Any reversals of COVID-19 reserves? 
+asr:0: OUTPUT 2475.44-2477.92: At this point in time,. 
+asr:0: OUTPUT 2477.94-2482.50: If you look at this year, we're still in the middle of the pandemic. 
+asr:0: OUTPUT 2482.52-2488.51: And some are also talking about a possibility of the fourth wave of pandemic coming. 
+asr:0: OUTPUT 2489.13-2492.91: And government support, financial support is still ongoing. 
+asr:0: OUTPUT 2493.27-2499.54: So in light of all these circumstances, I think it would be too premature to talk about a reversal of the reserves. 
+asr:0: OUTPUT 2501.06-2504.66: Only when the whole circumstances are normalized. 
+asr:0: OUTPUT 2505.03-2512.37: Maybe then we may have a possibility to think about a right back. I say that with caution. Thank you. 
+asr:0: OUTPUT 2516.68-2522.02: We will take the next question from DB Securities. Lee Byung Gun, you're on the line, sir. 
+asr:0: OUTPUT 2525.31-2532.03: Hello, thank you for your good earnings results. I have two questions. First,. 
+asr:0: OUTPUT 2533.85-2539.14: Compared to your long-growth plans at the early part of this year,. 
+asr:0: OUTPUT 2539.60-2545.13: Well, I think there was a difference and thinking about the corporate loans that was lesser. 
+asr:0: OUTPUT 2545.81-2555.80: Even still, I think it is a bit low. So can you tell us about your growth after Q2? So I think your plan was 5%, but can you... 
+asr:0: OUTPUT 2555.82-2561.80: Tell us your forecast. Do you think it will be met in Q2, Q3 going forward or not? 
+asr:0: OUTPUT 2562.32-2572.27: My second question is about trust, which has gone up, which is quite encouraging, but there has been reinforcement of customer protection laws. 
+asr:0: OUTPUT 2572.55-2578.72: So at the tellers or the windows, it might be more difficult in the trust area. 
+asr:0: OUTPUT 2579.18-2588.11: So in late March and in April, can you tell us about the atmosphere at your banks physically? 
+asr:0: OUTPUT 2588.47-2593.03: So do you think it will have a negative impact, the strengthening of the law? Thank you. 
+asr:0: OUTPUT 2594.55-2598.80: Thank you for your questions. We will soon answer them. Please hold. 
+asr:0: OUTPUT 2609.01-2616.34: Thank you very much, Mr. Lee Byung-gun, for your insightful questions regarding loan growth. 
+asr:0: OUTPUT 2620.66-2629.57: I would like to talk about what we believe will happen after Q1, our forecast, and regarding the Consumer Protection Act. 
+asr:0: OUTPUT 2629.59-2633.81: Our CFO will answer your question. 
+asr:0: OUTPUT 2635.48-2644.46: As was aforementioned, in Q1, banks' loans in WON was a bit low at 0.4%. 
+asr:0: OUTPUT 2645.27-2651.43: And regarding the household loans and corporate loan status for this year,. 
+asr:0: OUTPUT 2651.71-2658.06: In the case of household loans, there was 0.6% growth by TD, which was 1 trillion won of growth. 
+asr:0: OUTPUT 2658.78-2666.25: And at our annual earnings release for the whole year,. 
+asr:0: OUTPUT 2666.83-2671.23: I mentioned mid-single-digit loan growth goal for this year. 
+asr:0: OUTPUT 2671.33-2680.14: And compared to that goal, Q1 growth was somewhat relatively low. 
+asr:0: OUTPUT 2681.34-2691.17: And for Jeonse loans, and for more because of the mortgage loan regulations, there were the demand for Jeonse which went down. 
+asr:0: OUTPUT 2691.39-2695.28: So 4.3% growth, YTD. 
+asr:0: OUTPUT 2695.64-2700.02: So there was a steadfast growth and there was. 
+asr:0: OUTPUT 2700.32-2705.69: 1.7% growth for unsecured loans as well for household loans. 
+asr:0: OUTPUT 2706.45-2713.05: But for the mortgage loans, there has been the regulations that were quite influential. 
+asr:0: OUTPUT 2713.41-2719.14: So we had about 1% decrease compared to the previous year end. 
+asr:0: OUTPUT 2719.74-2727.61: And there was 1.7% contraction for collective loans as well. So we had a downturn for household loans as a whole. 
+asr:0: OUTPUT 2731.93-2736.10: There have been policies to cut down or curb household loans. 
+asr:0: OUTPUT 2736.64-2744.04: And we believe that for the Jeonse loans and for the high quality unsecured loans,. 
+asr:0: OUTPUT 2744.30-2747.15: We believe that there is still a very strong demand. 
+asr:0: OUTPUT 2747.97-2755.70: And for our this year's goal, mid-single digit growth, we believe that it will be quite achievable. 
+asr:0: OUTPUT 2756.92-2758.70: And they will not be challenging. 
+asr:0: OUTPUT 2758.90-2760.94: And I talked about the... 
+asr:0: OUTPUT 2760.96-2767.79: Non-face-to-face or digital phase improvement and we will. 
+asr:0: OUTPUT 2767.81-2777.22: Improve our digital capability so that we will solidify our market position and for Jeonse loans and for the prime unsecured loans. 
+asr:0: OUTPUT 2777.44-2781.56: We are going to have appropriate roads that are quite profitable. 
+asr:0: OUTPUT 2781.82-2789.11: In the case of the corporate loans, there was 0.1% increase YTD and related to this,. 
+asr:0: OUTPUT 2791.03-2793.67: For the SOHO and SME loans. 
+asr:0: OUTPUT 2794.07-2801.70: Because of those that had large exposure to COVID-19, we had improvement in preemptive exposure. 
+asr:0: OUTPUT 2801.96-2805.69: And compared to other financial institutions,. 
+asr:0: OUTPUT 2806.07-2808.19: We had some repayments. 
+asr:0: OUTPUT 2810.05-2815.40: So that is why, YTD speaking, 1.2% growth for Soho loans. 
+asr:0: OUTPUT 2816.08-2823.34: And we had about 0.2% for SMEs and for the large corporates. 
+asr:0: OUTPUT 2823.42-2826.77: Because of the corporate loan situation. 
+asr:0: OUTPUT 2827.37-2832.61: We had a decrease of YTD as well. 
+asr:0: OUTPUT 2834.91-2841.60: And we had more repayments in March, so this also had an impact as well. 
+asr:0: OUTPUT 2841.96-2847.83: But for the SOHOs and SMEs, the loan demand is quite solid each year. 
+asr:0: OUTPUT 2847.99-2852.25: And in Q2 in April. 
+asr:0: OUTPUT 2853.39-2860.00: It seems that the numbers are quite different from the Q1 numbers. 
+asr:0: OUTPUT 2860.32-2862.48: If we... 
+asr:0: OUTPUT 2862.50-2870.79: Actually respond very flexibly and with resilience, we believe that we can have better performance. 
+asr:0: OUTPUT 2870.85-2880.56: So the mid-single digit goal that we have mentioned to you early this year is quite achievable. And I have been mentioning this. 
+asr:0: OUTPUT 2880.58-2883.46: Repeatedly and for KB. 
+asr:0: OUTPUT 2884.08-2893.89: We believe prudence and asset quality is of utmost importance. So that will be our steadfast direction going forward. 
+asr:0: OUTPUT 2898.82-2904.70: Thank you very much, Lee Byung Gun, and I am Jung Chul, the bank CFO. 
+asr:0: OUTPUT 2906.85-2913.33: In March, we had the Customer Protection Act that came into effect. 
+asr:0: OUTPUT 2913.71-2920.02: And it takes about 30 to 40 minutes to explain at the teller window, so there was some confusion. 
+asr:0: OUTPUT 2920.20-2924.54: And customers and employees had a hard time adjusting in the beginning. 
+asr:0: OUTPUT 2926.21-2933.39: That is why in the beginning we had lower numbers, but in April we are seeing that. 
+asr:0: OUTPUT 2933.41-2938.68: With mutual understanding and improvement, the numbers are improving. 
+asr:0: OUTPUT 2938.92-2947.49: So we believe that due to the Customer Protection Act, we will not have a negative impact on our performance. 
+asr:0: OUTPUT 2947.67-2957.24: And the government has given us a six-month grace period and the government said that they will receive opinions from the banks. 
+asr:0: OUTPUT 2957.44-2960.52: So that they can make this process. 
+asr:0: OUTPUT 2960.54-2964.14: More reasonable for everyone. 
+asr:0: OUTPUT 2964.22-2971.95: If that happens, we are sure that the Customer Protection Act will not have a negative impact on our performance compared to other banks. 
+asr:0: OUTPUT 2974.05-2981.34: For the last year and the year before that, we had less problems involving PF loans. 
+asr:0: OUTPUT 2981.70-2987.45: So we believe that we are seeing more fee income and for ELS as well. 
+asr:0: OUTPUT 2988.61-2995.12: You can see that we had almost 100% early redemption leading to new demand. 
+asr:0: OUTPUT 2995.44-3004.10: So taking that into consideration, the trust related fees for this year, we believe that it will not worsen compared to Q1 of this year. 
+asr:0: OUTPUT 3007.07-3014.29: Thank you very much. It is already 4.50. 
+asr:0: OUTPUT 3015.30-3023.70: Because we don't have enough time, we will take one last question. And please contact our IR team and we will answer your questions. Thank you. 
+asr:0: OUTPUT 3027.23-3029.53: From JP Morgan, George Young, please go ahead. 
+asr:0: OUTPUT 3031.61-3035.56: Thank you. I would like to ask three questions. 
+asr:0: OUTPUT 3036.48-3043.18: First question is because of COVID-19 things were quite difficult but if you look at credit card fee. 
+asr:0: OUTPUT 3044.22-3048.55: Because of the government provided support and benefits. 
+asr:0: OUTPUT 3049.65-3052.69: Was expecting that the number would be quite good. 
+asr:0: OUTPUT 3052.97-3060.74: If you look at credit card profit, basically is actually higher than my forecast. 
+asr:0: OUTPUT 3061.68-3066.59: Because the government has paid out the so-called disaster subsidies. 
+asr:0: OUTPUT 3066.79-3074.85: Via the credit card, would that be a one-off impact that had an upward impact? 
+asr:0: OUTPUT 3075.22-3084.88: You mentioned that CII 0.4% was driven by digitalization since you're doing ERP and you're doing digitalization, digital transformation. 
+asr:0: OUTPUT 3086.11-3094.81: It doesn't seem that the CIR improvement is all that significant. So the investment that you're making into digital transformation or digitalization. 
+asr:0: OUTPUT 3095.10-3100.08: In terms of the size and sustainability of this investment,. 
+asr:0: OUTPUT 3100.60-3107.97: How valid is that? What's your budget plan? And when can we see a more meaningful improvement in your CIR ratio? 
+asr:0: OUTPUT 3109.07-3110.35: My last question is... 
+asr:0: OUTPUT 3110.43-3118.00: Most recently at National Assembly, they've adopted a modification on providing support to the vulnerable class. 
+asr:0: OUTPUT 3118.28-3125.71: And basically, they have requested about 100 billion won of funding from the banking sector. 
+asr:0: OUTPUT 3125.73-3128.71: To provide financial support to a low-income class. 
+asr:0: OUTPUT 3129.77-3139.38: And it seems that the government may come up with additional requests or measures to engage the banking sector more. 
+asr:0: OUTPUT 3140.00-3148.89: So in terms of setting up the budget or needing to provide such financial support, what are your plans or measures to do so? 
+asr:0: OUTPUT 3154.53-3155.56: Just give us one minute. 
+asr:0: OUTPUT 3181.68-3183.60: You asked three questions. 
+asr:0: OUTPUT 3185.27-3189.47: Responding to your question on CIR, let me respond to that. 
+asr:0: OUTPUT 3189.91-3199.36: And we have CFO from KB, CARD, who will respond to that. And also we have the bank CFO who will respond to the third question. 
+asr:0: OUTPUT 3205.81-3211.85: Now overall, on a recurring basis, if you look at the trend of CIR,. 
+asr:0: OUTPUT 3213.79-3217.48: It is showing a downward stabilization trend. 
+asr:0: OUTPUT 3220.12-3226.73: Now in terms of the biggest factor, year end if you were to include the ERP expense. 
+asr:0: OUTPUT 3229.35-3234.39: We consider that ERP expense as an investment for the future. 
+asr:0: OUTPUT 3235.40-3241.78: And we believe that within five years time we will be able to recoup that investment. 
+asr:0: OUTPUT 3243.16-3246.83: And in terms of digitalization,. 
+asr:0: OUTPUT 3247.49-3251.71: And I've mentioned in my presentation if you were to exclude digitalization, but. 
+asr:0: OUTPUT 3251.75-3260.16: Basically, digitalization is an inevitable investment for us to respond to future changes. 
+asr:0: OUTPUT 3260.22-3264.86: If we miss out in the opportunities, then there will be bigger negative impact. 
+asr:0: OUTPUT 3265.15-3271.81: Hence, there needs to be a preemptive investment into digitalization and we will be bold at it. 
+asr:0: OUTPUT 3272.23-3280.44: However, we will be mindful of efficient investment. We want to rid ourselves of any redundant investment. 
+asr:0: OUTPUT 3280.50-3282.68: We will have internal process to allow for that. 
+asr:0: OUTPUT 3282.96-3284.50: From a mid to long-term perspective,. 
+asr:0: OUTPUT 3284.92-3287.03: The CIR ratio. 
+asr:0: OUTPUT 3287.77-3297.36: We believe we are going to have a target that is downward stabilizing and controlling that level at a steady state. 
+asr:0: OUTPUT 3300.04-3305.57: Thank you for the question. I'm from KB Card. I am the CFO. 
+asr:0: OUTPUT 3307.21-3314.98: You mentioned credit card fee income on an year-over-year basis. There's been a significant increase. 
+asr:0: OUTPUT 3315.62-3319.32: And you've asked whether there's any one-off, non-recurring impact. 
+asr:0: OUTPUT 3320.18-3325.49: And also the government provided COVID-19 related allowances and whether that had an impact. 
+asr:0: OUTPUT 3325.87-3328.43: Now, just to tackle those issues one by one. 
+asr:0: OUTPUT 3328.89-3335.22: Overall, the government allowances that were given last year, there was one that was done by the Gyeonggi province. 
+asr:0: OUTPUT 3335.52-3341.04: And the amount that was given out as an allowance was around 100,000 Korean won. 
+asr:0: OUTPUT 3343.62-3345.69: Of all of the credit card companies. 
+asr:0: OUTPUT 3346.07-3347.89: Our market share. 
+asr:0: OUTPUT 3347.91-3357.56: In terms of sending out or doling out those allowances, it was about 22%. So there's been just maybe a slight upward increase. 
+asr:0: OUTPUT 3358.00-3364.76: And one of the reasons why the credit card fee income had gone up is because compared to the previous year,. 
+asr:0: OUTPUT 3365.01-3368.23: Basically the total payment volume had gone up significantly. 
+asr:0: OUTPUT 3368.27-3376.56: Basically, there's 2.4 trillion increase in payment volume and as a result we've seen significant increase in terms of merchant fee income. 
+asr:0: OUTPUT 3377.40-3382.70: Aside from this, you also asked about any other one-off items. 
+asr:0: OUTPUT 3383.00-3387.95: But these are not one-off. We expect that this is going to be a recurring item going forward. 
+asr:0: OUTPUT 3389.17-3394.03: If you look at end of last year and if you were to compare with Q1 of 2020. 
+asr:0: OUTPUT 3395.98-3399.54: Basically, if you look at the reserves for credit loss,. 
+asr:0: OUTPUT 3399.96-3404.62: There has been a significant decline compared to Q1 of last year. 
+asr:0: OUTPUT 3405.43-3411.55: We did about 59 billion of additional reserving and we've been quite conservative in our reserving policies. 
+asr:0: OUTPUT 3411.95-3414.89: So, 37.2 billion, there's been a decline. 
+asr:0: OUTPUT 3415.84-3422.48: And also for substandard ratio as well as delinquencies for second and third cycle. 
+asr:0: OUTPUT 3423.24-3428.83: All of these soundness related indicators are showing an unprecedented level. 
+asr:0: OUTPUT 3429.55-3432.39: Q2, if you look at Q3 figures as well. 
+asr:0: OUTPUT 3433.29-3439.00: View, if we make the comparison in Q1, there is no bigger. 
+asr:0: OUTPUT 3439.08-3445.71: It's just that our asset quality and soundness is at a quite positive level. 
+asr:0: OUTPUT 3449.91-3452.45: I'm the CFO of the bank. I am Jong Moon-chul. 
+asr:0: OUTPUT 3453.61-3454.83: Thank you for your questions. 
+asr:0: OUTPUT 3456.58-3466.27: Now the government have tabled or had adopted a legislation on providing financial support to the low-income class. 
+asr:0: OUTPUT 3466.69-3472.79: And the article has said, the press article has said that the banking sector will bear about 100 billion Korean won. 
+asr:0: OUTPUT 3473.67-3480.00: And KB is expected to probably bear about 20% of that. 
+asr:0: OUTPUT 3481.06-3484.48: So these were featured in the press. 
+asr:0: OUTPUT 3486.41-3493.67: But since we are still in the process of improving our profitability and we are generating good earnings,. 
+asr:0: OUTPUT 3494.05-3498.54: So it's not a significant burden to our institution. 
+asr:0: OUTPUT 3498.80-3504.26: And as a member of this society as we live in this very difficult period. 
+asr:0: OUTPUT 3504.28-3511.91: During the COVID pandemic, we feel that we are a responsible entity and a member of this society. 
+asr:0: OUTPUT 3512.63-3516.94: We do a lot of social corporate responsibility activities. 
+asr:0: OUTPUT 3518.06-3520.44: And we also provide donations as well. 
+asr:0: OUTPUT 3520.64-3527.05: So we will consider all of these different elements thoroughly and come up with appropriate budget. 
+asr:0: OUTPUT 3527.33-3532.05: And going forward if there are more demand for our bank. 
+asr:0: OUTPUT 3532.21-3538.22: We will also, going forward, think hard as to how we could respond to those expectations. 
+asr:0: OUTPUT 3540.44-3546.87: Thank you. And if you have further questions, please contact our IR team and we would be more than happy to answer them. 
+asr:0: OUTPUT 3547.27-3551.87: With this, we will conclude our earnings presentation. Thank you for your participation. 
+asr:0: END

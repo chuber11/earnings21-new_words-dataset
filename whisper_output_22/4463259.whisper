@@ -1,0 +1,689 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 3.50-8.09: Hello and welcome to the Repsol's third quarter 2021 results conference call. 
+asr:0: OUTPUT 8.41-16.90: Today's conference will be conducted by Mr. Yossi Yoni-Mas, CEO, and a brief introduction will be given by Mr. Ramon Alvarez-Pedroza. 
+asr:0: OUTPUT 16.92-18.70: Head of Investor Relations. 
+asr:0: OUTPUT 19.08-22.10: I would now like to hand the call over to Mr. Alvarez-Pedroza. 
+asr:0: OUTPUT 25.83-31.67: Thank you, operator. Good afternoon and welcome to Repsol's third quarter 2021 results conference call. 
+asr:0: OUTPUT 32.43-40.14: Today's call will be hosted by Joshua Yonematsu, our Chief Executive Officer, with other members of the executive team joining us as well. 
+asr:0: OUTPUT 40.98-48.97: Before we start, I advise you to read our disclaimer carefully. During this presentation, we may make forward-looking statements based on estimates. 
+asr:0: OUTPUT 49.67-58.00: Actual results may differ materially depending on a number of factors, as indicated in the disclaimer. I will now hand the call over to Josue John. 
+asr:0: OUTPUT 60.00-69.09: And thanks to everyone joining us today. I hope that all of you are doing well. In today's call, I'd like to cover the following main topics. 
+asr:0: OUTPUT 69.65-75.86: Firstly, the key messages of the quarter. Secondly, the divisional highlights and financial results. 
+asr:0: OUTPUT 76.64-82.24: Thirdly, our capital allocation priorities in the current higher price scenario. 
+asr:0: OUTPUT 82.52-89.73: Namely our updated ambitions in low carbon and our proposal to increase shareholder remuneration. 
+asr:0: OUTPUT 90.61-93.65: I'll finalize with a revised outlook to the end of the year. 
+asr:0: OUTPUT 94.39-98.58: At the end of this presentation, we'll be available to answer your questions. 
+asr:0: OUTPUT 99.46-103.56: And let me start by reviewing the key messages. 
+asr:0: OUTPUT 103.82-113.67: In the third quarter, Repsol has delivered an outstanding set of results and cash generation that consolidates our recovery to pre-pandemic levels. 
+asr:0: OUTPUT 114.43-123.80: This performance has been supported by a positive market environment with all business segments benefiting from a higher demand for energy and petroleum products. 
+asr:0: OUTPUT 124.66-132.45: In this context, the adjusted net income reached 623 million euros, its highest level since 2018. 
+asr:0: OUTPUT 133.07-137.64: And a 19% improvement compared to the same period in 2019. 
+asr:0: OUTPUT 138.40-145.99: The accumulated result to September was 1.6 billion euros, 3% below the first nine months of 2019. 
+asr:0: OUTPUT 147.27-157.84: The underlying cash generation was strong across all businesses, with all the three divisions increasing their operating and free cash flow contributions compared to the previous quarter. 
+asr:0: OUTPUT 158.86-166.63: Cash flow from operations was 1.4 billion euros in the quarter, and 3.4 billion accumulated to September. 
+asr:0: OUTPUT 167.59-174.41: Experiencing working capital movements mainly related to an inventory build-up associated with higher prices. 
+asr:0: OUTPUT 175.00-178.58: The operating cash flow was 1.7 billion in the quarter. 
+asr:0: OUTPUT 179.18-187.57: And 4.8 billion to September, a 28.6% increase respectively compared to the same period in 2019. 
+asr:0: OUTPUT 189.01-193.53: Free cash flow amounted to 0.9 billion euros in the quarter. 
+asr:0: OUTPUT 193.55-201.02: And $1.9 billion up to September, more than covering investment, interest, shareholder remuneration. 
+asr:0: OUTPUT 201.04-204.00: And the purchase of treasury shares in both periods. 
+asr:0: OUTPUT 204.92-208.53: Net debt stood at 6.1 billion euros by the end of the quarter. 
+asr:0: OUTPUT 209.23-218.20: Roughly a €250 million reduction compared to June and around €650 million lower than in December. 
+asr:0: OUTPUT 219.18-228.23: At the authority level, upstream production was negatively impacted by issues in several assets, including the impact of Hurricane Ida in the Gulf of Mexico. 
+asr:0: OUTPUT 229.23-238.20: By quarter end, these issues have been solved and production has averaged around 575,000 net barrels per day in October. 
+asr:0: OUTPUT 239.32-245.99: Longer term, the value of our volume strategy remains intact, with our focus on operational efficiency. 
+asr:0: OUTPUT 246.65-250.33: Ruling break-evens and the regionalization of our portfolio. 
+asr:0: OUTPUT 251.43-257.66: In the industrial division, the performance of the refining business confirmed the inflection point that we anticipated in July. 
+asr:0: OUTPUT 258.42-266.03: In chemicals, the margins remain strong, partially softened from the maximums achieved in the first half of the year. 
+asr:0: OUTPUT 266.65-273.79: All in all, our strong performance year to date, together with our reinforced financial position and our better. 
+asr:0: OUTPUT 273.81-279.68: Commodity price outlook is allowing us to move into the next phase of our capital allocation framework. 
+asr:0: OUTPUT 280.82-284.66: Earlier this month, we announced increased ambitions for the energy transition. 
+asr:0: OUTPUT 285.45-291.31: Accelerating investments in green hydrogen, renewable power generation and e-mobility, among others. 
+asr:0: OUTPUT 292.09-298.66: And aligned with this ambition, we increased our intermediate decarbonization targets to 2050. 
+asr:0: OUTPUT 299.86-310.29: Now, the extra cash we expect to generate in a higher commodity price scenario has opened the possibility to improve the distributions for shareholders. 
+asr:0: OUTPUT 311.05-314.71: In that sense, the Board of Directors has agreed to propose. 
+asr:0: OUTPUT 315.22-322.00: To the next annual general meeting a 5% increase of the shareholder remuneration to be paid in 2022. 
+asr:0: OUTPUT 322.60-330.11: To 63 euro cents per share and a capital reduction through the redemption of 75. 
+asr:0: OUTPUT 330.13-335.44: Million treasury shares, equivalent to around 5% of our share capital. 
+asr:0: OUTPUT 337.08-342.48: Looking now very briefly to the evolution of the main macro indicators in the quarter. 
+asr:0: OUTPUT 343.24-351.23: Starting with oil, Brent crude averaged around $74, 7% higher quarter on quarter. 
+asr:0: OUTPUT 351.25-354.83: And 71% higher than a year ago. 
+asr:0: OUTPUT 355.56-360.00: In gas, global prices increased sharply through the quarter. 
+asr:0: OUTPUT 360.72-370.07: And we have average $4 per million BTU, 43% higher than in the second quarter, and 100% higher year over year. 
+asr:0: OUTPUT 370.79-379.66: Prices were, let me underline this point, particularly strong in Asia and Europe, multiplying by four or five times their levels in 2020. 
+asr:0: OUTPUT 380.66-389.81: The refining margin indicator benefits from the better market environment, more than doubling compared to the previous quarter. 
+asr:0: OUTPUT 390.99-400.42: Moving on now to the main divisional highlights, starting with the upstream. Production average, 530,000 net barrels of oil equivalent per day. 
+asr:0: OUTPUT 401.06-407.67: This was 6% lower than in the previous quarter and 14% below a year ago. 
+asr:0: OUTPUT 408.29-415.38: As explained earlier, quarterly volumes were negatively impacted by production shutdowns in the Gulf of Mexico. 
+asr:0: OUTPUT 416.28-425.79: Issues on the Peru LNG plant, delays in Trinidad and PSC effects due to the high prices of oil and gas. 
+asr:0: OUTPUT 426.47-435.40: Compared to the first nine months of 2020, the operating cash flow per barrel has increased by 110% since January. 
+asr:0: OUTPUT 436.00-438.80: The growth, the increase of oil and gas prices. 
+asr:0: OUTPUT 439.62-446.17: The level of production has been compensated by a higher share of oil in our mix. 
+asr:0: OUTPUT 446.19-449.95: And also by the contribution of Libya. 
+asr:0: OUTPUT 450.89-458.32: Roxanne's average gas realization price has increased by 77% in the first nine months of 2021. 
+asr:0: OUTPUT 458.90-460.20: The recent price. 
+asr:0: OUTPUT 460.22-470.17: Escalade has continued in October with some regional references achieving a soaring to record setting levels. 
+asr:0: OUTPUT 470.97-479.34: Gas accounts for around 60 to 65% of our production, so this price environment is beneficial for us. 
+asr:0: OUTPUT 480.08-485.00: In both terms, around 20% of our gas sales are referenced to oil. 
+asr:0: OUTPUT 485.75-493.89: 25% are on fixed contracts and 30% are exposed to North American export prices, mainly Hemi-Hat. 
+asr:0: OUTPUT 494.41-499.04: The reminder production is mostly linked to other regional sport references. 
+asr:0: OUTPUT 500.10-504.16: Looking into her development activity in Norway. 
+asr:0: OUTPUT 505.17-514.35: IMI has started production this week. At Plateau, the field is expected to produce 56,000 gross barrels per day. 
+asr:0: OUTPUT 515.62-523.38: In unconventionals, a second rig in Marcellus and another one in Eagle 4 will start drilling operations in November. 
+asr:0: OUTPUT 523.88-530.07: It is really expected to contribute 10,000 barrels per day of additional production in 2022. 
+asr:0: OUTPUT 531.31-536.64: In the Gulf of Mexico, we took the final investment decision for the development of Sunsea North. 
+asr:0: OUTPUT 536.98-543.64: The FIDs of Floracasillas in Colombia and Leon Castile in the Gulf of Mexico. 
+asr:0: OUTPUT 544.16-551.11: Are expected, these two FIDs, by year-end. 
+asr:0: OUTPUT 552.31-557.30: Moving on now to the industrial division, starting with refining. 
+asr:0: OUTPUT 557.90-567.49: Margins on utilizations benefit from the recovery of demand driven by the progress of vaccination strategies on the end of mobility restrictions. 
+asr:0: OUTPUT 568.29-576.06: The margin indicator averaged $3.20, a significant improvement from the $1.50 of the second quarter. 
+asr:0: OUTPUT 577.10-583.86: And on top of this, the flexibility of our system allows us to generate a half a dollar premium in the CCS margin. 
+asr:0: OUTPUT 584.74-593.63: The impact of higher energy costs and the increase in the price of CO2 were more than offset by wider product spreads. 
+asr:0: OUTPUT 593.65-597.76: And stronger heavy to light grid differentials. 
+asr:0: OUTPUT 598.34-602.24: Margins were particularly solid in September. 
+asr:0: OUTPUT 602.26-609.49: As the strengthening of Miller distillate differentials pushed the indicator to $4.6 per bar. 
+asr:0: OUTPUT 610.69-620.24: The utilization of distillation and conversion capacity increased to the highest level since the first quarter of 2020, pre-pandemic levels. 
+asr:0: OUTPUT 620.26-623.02: Driven by the better market dynamics. 
+asr:0: OUTPUT 623.88-628.37: Activity continues to be prioritized in the plants with the higher margins. 
+asr:0: OUTPUT 628.71-637.94: The recovery of demand has also allowed to end the temporary layoffs adopted earlier this year in response to the Greek market conditions. 
+asr:0: OUTPUT 638.06-647.09: In October, work has started in the multi-animal plant turnaround of Cartagena refinery that will last 45 days. 
+asr:0: OUTPUT 647.89-650.95: It will require a total investment of 70. 
+asr:0: OUTPUT 651.01-660.22: 5 million euros of which one third will be deployed on energy efficiency initiatives that are going to improve the competitiveness of. 
+asr:0: OUTPUT 660.24-661.84: Never find any from now on. 
+asr:0: OUTPUT 662.82-665.13: The chemicals business remains on track. 
+asr:0: OUTPUT 665.93-673.81: On track means that it's on track to surpass its one billion euros EBITDA guidance for the year. 
+asr:0: OUTPUT 675.44-680.38: So the petrochemical margin indicator was a 4% lower. 
+asr:0: OUTPUT 680.60-688.91: That in the second quarter, international margins remained at very healthy levels, partially eroded by the increase in the price of Fed stocks. 
+asr:0: OUTPUT 689.57-694.81: This was aligned with our expectation of a soft landing of Margie's towards the end of the year. 
+asr:0: OUTPUT 695.68-705.43: After a quarter-end, Rexall signed an agreement with the Portuguese government for the expansion of CIMIS, that includes tax incentives of up to 63 million euros. 
+asr:0: OUTPUT 705.83-709.25: Finally, let me highlight that the result of industrial settlement. 
+asr:0: OUTPUT 709.27-716.74: Was negatively impacted in the quarter by unmarked to market adjustments in the wholesale and gas trading business. 
+asr:0: OUTPUT 717.40-723.24: It is, let me explain that because this adjustment corresponds to an accounting mismatch. 
+asr:0: OUTPUT 723.26-729.31: Between the valuation of physical and financial positions on gas transactions. 
+asr:0: OUTPUT 730.13-738.72: We expect that this adjustment will be offset in the operating result in the coming months after the physical transactions materialize. 
+asr:0: OUTPUT 739.08-742.26: The negative impact in industrial segment was. 
+asr:0: OUTPUT 742.28-750.51: Partially offset at group level by a positive consolidation adjustment in the corporate and others line. 
+asr:0: OUTPUT 750.55-754.53: Also due to this gas position. 
+asr:0: OUTPUT 755.50-759.36: Moving now to the Commercial and Renewables Division. 
+asr:0: OUTPUT 759.72-761.08: Starting with Mobility. 
+asr:0: OUTPUT 761.84-771.53: Sales in our service station in Spain increased gradually through the quarter and were on average 10% lower than in the same quarter in 2019. 
+asr:0: OUTPUT 772.19-778.20: In renewables, we continue developing, assembling, and putting operational project pipelines. 
+asr:0: OUTPUT 778.90-782.30: In the U.S., we are making progress in our Jicarilla solar project. 
+asr:0: OUTPUT 782.86-790.67: In Spain, the Valdez Solar photovoltaic project started to generate electricity in July and is now fully operational. 
+asr:0: OUTPUT 791.51-800.90: In Chile, our JV completed the construction of Cabo Leon S3, our first wind farm in the country, and secured long-term project finance. 
+asr:0: OUTPUT 801.46-804.86: We also started the construction of the Atacama Wind Project. 
+asr:0: OUTPUT 805.51-813.93: Lastly, after quarter end, Repsol was awarded 138 megawatts of new wind capacity. 
+asr:0: OUTPUT 813.95-819.04: In Spain in the recent renewable option held last week. 
+asr:0: OUTPUT 820.06-823.44: Let me now review briefly the financial results. 
+asr:0: OUTPUT 823.96-832.37: The group suggested that income was 623 million euros, which compares to 7 million euros in the same period a year ago. 
+asr:0: OUTPUT 833.21-839.36: By division, the adjusted net income of the upstream was 385 million euros. 
+asr:0: OUTPUT 840.10-848.67: 334 million higher year on year, mostly due to higher realization prices, partially offset by the lower production. 
+asr:0: OUTPUT 849.59-857.46: In industrial, the adjusted net income was 100 million euros, 167 million higher than a year ago. 
+asr:0: OUTPUT 858.06-860.84: Mostly driven by chemicals and refining. 
+asr:0: OUTPUT 861.64-868.31: The resulting commercial and renewal growth was €169 million in line with the same period of 2020. 
+asr:0: OUTPUT 869.07-875.96: Better results in mobility and other segments were partially offset by the LPG. 
+asr:0: OUTPUT 875.98-892.33: Business due to the regulated price formula. You know that in case of an increase in commodity prices has a gap to be translated to this price formula. 
+asr:0: OUTPUT 892.83-902.76: In corporate and others, the adjusted net income was 31 million euros negative, a 115 million improvement over the same period a year ago. 
+asr:0: OUTPUT 903.82-909.55: The result was positively impacted by higher results from commercially stocked positions. 
+asr:0: OUTPUT 909.57-916.30: And the consolidation adjustment previously discussed associated to gas positions. 
+asr:0: OUTPUT 917.12-923.12: The group's EBITDA at CCS grew to 1.8 billion euros in a quarter. 
+asr:0: OUTPUT 923.70-927.25: 112% higher year on year. 
+asr:0: OUTPUT 927.53-934.33: For an accumulated 4.7 billion euros generated in the first nine months of the year. 
+asr:0: OUTPUT 935.24-940.24: At this point, I want to elaborate on the allocation of the extra cash. 
+asr:0: OUTPUT 940.28-945.59: That we expect to generate thanks to the positive evolution of the main macro indicators. 
+asr:0: OUTPUT 946.41-954.41: Our 2021 to 2025 self-finance strategic plan includes a clear capital allocation policy. 
+asr:0: OUTPUT 954.43-959.36: For the extra cash generated in scenarios of higher commodity prices. 
+asr:0: OUTPUT 959.38-968.51: Compared to our strategic price deck that, as you know, was set at $50 per ounce and $2.50 per ounce and a half. 
+asr:0: OUTPUT 969.35-974.11: In the first place, we invest in profitable growth opportunities within our portfolio. 
+asr:0: OUTPUT 975.10-980.94: Basically, in the development of the new low-carbon platforms, accelerating our plans or increasing our ambitions. 
+asr:0: OUTPUT 981.44-986.41: Aligned with this, we have increased our planned renewables capex in 2021 by. 
+asr:0: OUTPUT 986.51-995.46: 0.3 billion euros and the total low carbon investment between 2021 and 2025 by 1 billion euros. 
+asr:0: OUTPUT 995.54-1003.12: With that, the share of low-carbon capex until 2025 increases from 30 to 35%. 
+asr:0: OUTPUT 1003.28-1011.53: And its great inner capital employed is now expected to reach a figure close to 45% by 2030. 
+asr:0: OUTPUT 1011.89-1014.49: Evolved to 40% expected in the plan. 
+asr:0: OUTPUT 1015.64-1022.50: In the second place, we will improve the distribution to our shareholders, always searching for the most valuable choice for them. 
+asr:0: OUTPUT 1023.40-1029.03: Our delivery in 2021 and improved outlook, at least in the short term, opens this possibility. 
+asr:0: OUTPUT 1029.43-1038.20: Therefore, our board of directors has agreed to propose to the next annual general meeting an increase in the shareholder remuneration of 2022. 
+asr:0: OUTPUT 1038.22-1042.08: And a capital reduction through the redemption of treasury shares. 
+asr:0: OUTPUT 1042.88-1050.35: As a consequence, the cash dividend to be paid in 2022 will amount to 63 euros cents per share, of course. 
+asr:0: OUTPUT 1050.37-1053.77: 5% of all the commitments set in our strategic plan. 
+asr:0: OUTPUT 1054.57-1061.04: And we will redeem 75 million shares, launching in November. 
+asr:0: OUTPUT 1061.06-1065.51: A program to purchase 35 million shares. 
+asr:0: OUTPUT 1065.77-1069.07: With the rest coming from our treasury stock position. 
+asr:0: OUTPUT 1069.99-1071.13: Today. 
+asr:0: OUTPUT 1071.15-1075.70: With just two months to go to complete 2021. 
+asr:0: OUTPUT 1075.72-1082.72: We expect that the cash flow from operations is going to be at least 1 billion euros above our budget. 
+asr:0: OUTPUT 1082.92-1090.99: One third of this extra cash has been allocated, one third more or less, to each of the following areas. 
+asr:0: OUTPUT 1091.43-1096.12: Increase of our renewable capex, mainly the entrance in the US market. 
+asr:0: OUTPUT 1096.92-1103.06: Improve shareholder remuneration, building a treasury share position that will be available to redeem. 
+asr:0: OUTPUT 1103.10-1108.57: The 75 million shares once approved in the AGM. 
+asr:0: OUTPUT 1108.61-1116.42: Reinforce finally our balance sheet and financial flexibility, reducing our net debt as part of our current financial policy. 
+asr:0: OUTPUT 1116.44-1121.38: And keeping the giving below the average forecast in our strategic plan. 
+asr:0: OUTPUT 1122.20-1134.63: Before moving to our guidance, let me briefly review our update ambitions into the energy transition that were thoroughly discussed in our recent Low Carbon Day Health earlier this month of October. 
+asr:0: OUTPUT 1135.12-1139.92: The renewable hydrogen will increase our capacity objective by 40% in 2025. 
+asr:0: OUTPUT 1139.94-1146.53: To 550 megawatts equivalent and by a 60% in 2030 to 1.9 gigawatts. 
+asr:0: OUTPUT 1147.23-1152.87: In renewable generation, we have accelerated our capacity ambition by up 15% in 2025. 
+asr:0: OUTPUT 1152.89-1157.36: To 6 gigawatts and by 60 percent in 2030 to 20 years. 
+asr:0: OUTPUT 1158.22-1161.84: Finally, in the customer-centric business, we will reinforce. 
+asr:0: OUTPUT 1161.86-1172.13: In mobility offering with the installation of more than 1,000 public points of research in Spain and Portugal in Iberia by 2022. 
+asr:0: OUTPUT 1172.81-1181.02: Deploying either a fast or ultra-fast charger every 50 kilometers in Spain, delivering on the sites we already have. 
+asr:0: OUTPUT 1181.44-1189.57: Moreover, our enhanced ambitions in low carbon, together with a favorable regulatory environment and technological breakthrough,. 
+asr:0: OUTPUT 1189.59-1194.71: Allow us to increase our intermediate decarbonization targets to 2050. 
+asr:0: OUTPUT 1195.32-1201.44: The carbon intensity indicator reduction targets increase from 12 to 15% in 2025. 
+asr:0: OUTPUT 1201.46-1209.29: From 25 to 28 percent in 2030 and from 50 to 55 percent in 2014. 
+asr:0: OUTPUT 1210.97-1215.56: At this point, I want to take you through our update, our look to the end of the year. 
+asr:0: OUTPUT 1216.44-1225.39: Full-year production is expected to average around 580,000 net barrels per day, a 3% reduction compared to the previous guidance. 
+asr:0: OUTPUT 1225.73-1229.29: Due to longer operational issues already solved. 
+asr:0: OUTPUT 1230.25-1236.72: In the finding, we expect to beat our previous guidance of $2 per barrel average margin indicator in 2021. 
+asr:0: OUTPUT 1237.44-1246.43: The indicator has averaged $4.5 in October and we expect it to remain below $4 during the rest of the quarter. 
+asr:0: OUTPUT 1247.39-1252.07: The expected EBITDA CCS now stands at 6.7 billion euros. 
+asr:0: OUTPUT 1252.97-1260.02: A 0.6 billion euros increase compared to previous estimates and 65% above 2020. 
+asr:0: OUTPUT 1261.00-1269.69: And net debt is expected to close in 2021 at around 6 billion euros, less than one time a bit. 
+asr:0: OUTPUT 1270.35-1278.16: To wrap up, Repsol has delivered a remarkable third quarter performance, aligned with pre-pandemic levels. 
+asr:0: OUTPUT 1279.14-1286.77: Our results in the first nine months, together with unimproved commodity outlook, have allowed us to accelerate investment in low carbon. 
+asr:0: OUTPUT 1287.51-1293.11: And increase the remuneration to our shareholders, maintaining at the same time our financial discipline. 
+asr:0: OUTPUT 1293.49-1301.94: In the long term, the new opportunities generated this year, the support of favorable climate policies and a better environment,. 
+asr:0: OUTPUT 1301.98-1307.13: Have encouraged us to increase our ambitions towards the energy transition. 
+asr:0: OUTPUT 1307.95-1313.81: Going forward, we will maintain our focus and focus on the delivery of our commitments and strategic plan. 
+asr:0: OUTPUT 1313.87-1318.34: Transforming our operations and business to become. 
+asr:0: OUTPUT 1318.36-1321.32: More efficient and competitive. 
+asr:0: OUTPUT 1321.98-1327.51: Digitalization, technology and new ways of working will be key enablers of our transition. 
+asr:0: OUTPUT 1327.81-1334.99: Allowing us to remain leaders of our sector in our pathway to net zero emissions in 2050. 
+asr:0: OUTPUT 1335.88-1342.64: With that, I now hand the call back to Ramon, who will lead us through our question and answer session. Thank you. 
+asr:0: OUTPUT 1345.03-1354.13: Thank you very much, Joseon. Before moving on to the Q&A session, I'd like the operator to remind us of the process to ask a question. Please go ahead, operator. 
+asr:0: OUTPUT 1355.20-1364.86: Thank you. As a reminder, if you wish to ask a question, please press star and one on your telephone keypad and wait for your name to be announced. If you wish to... 
+asr:0: OUTPUT 1364.98-1369.17: To ask a question please press the. 
+asr:0: OUTPUT 1369.45-1371.33: Star and one. 
+asr:0: OUTPUT 1385.53-1393.27: Thanks for taking my question. The first one, I just want to clarify on the buyback front. So you have 75 million shares. 
+asr:0: OUTPUT 1393.57-1399.22: Some of which are already in hand. I was just wondering why you don't cancel the shares as and when you buy them. 
+asr:0: OUTPUT 1399.72-1402.18: What's the rationale for keeping some... 
+asr:0: OUTPUT 1402.20-1409.95: As treasury, because it maybe would be simpler to just announce the buyback that equates to what you're actually buying in the market. 
+asr:0: OUTPUT 1410.75-1419.62: And then the second question is on 2022 CapEx guidance. Should we assume a sort of modest increase from 2021 levels, and if so, how much? 
+asr:0: OUTPUT 1419.64-1420.96: And maybe. 
+asr:0: OUTPUT 1421.04-1430.73: You know if there is an increase can you talk about where the incremental capex is going in outside of renewables is it higher activity in the US onshore or anywhere else? Thank you. 
+asr:0: OUTPUT 1435.92-1437.12: The. 
+asr:0: OUTPUT 1437.96-1439.24: Of our. 
+asr:0: OUTPUT 1439.68-1442.14: Our proof yesterday is clear, is defined. 
+asr:0: OUTPUT 1442.44-1448.71: Is the redemption or the cancellation of these 75 million shares that is more or less. 
+asr:0: OUTPUT 1448.73-1454.21: A figure close to 5% of the number of shares of the total capital of Repsol. 
+asr:0: OUTPUT 1454.67-1464.02: But legally, this redemption, this cancellation has to be approved by the AGM this spring. 
+asr:0: OUTPUT 1464.04-1469.63: Is going to present this proposal to the AGM. 
+asr:0: OUTPUT 1469.79-1473.81: This sprint to be approved. 
+asr:0: OUTPUT 1475.16-1480.18: Going to your your point about the capex in the in the upstream. 
+asr:0: OUTPUT 1480.46-1484.42: I think that in 2023 we are going to recover in some way. 
+asr:0: OUTPUT 1484.80-1492.97: Let me say, a more normal or average capitalist level in the company and also in the young people. 
+asr:0: OUTPUT 1493.13-1502.56: It's true that some things, or some part of the capex is out, went away forever. 
+asr:0: OUTPUT 1502.64-1507.37: For instance, the exploratory effort we have in the past. 
+asr:0: OUTPUT 1507.43-1513.67: Because you know that we are going to invest at around $200-$150 million per year in the exploration. 
+asr:0: OUTPUT 1513.69-1521.86: Focus in our main production areas where we have competitive advantages, where we have. 
+asr:0: OUTPUT 1521.88-1523.38: Facilities. 
+asr:0: OUTPUT 1523.70-1531.47: Where we have a clear capacity to monetize these resources in the short term and so on. 
+asr:0: OUTPUT 1531.87-1536.22: But we are in some way in the process to go back to the normal. 
+asr:0: OUTPUT 1536.60-1542.14: In this sense, it seems to me that in the upstream we are going to invest. 
+asr:0: OUTPUT 1542.50-1549.15: A. 
+asr:0: OUTPUT 1549.17-1554.95: With what is going to be the CAPEX level in 2021. 
+asr:0: OUTPUT 1555.88-1562.84: The main drivers of this increase of capex are going to be, of course, the food, which. 
+asr:0: OUTPUT 1562.98-1570.27: We are doing now and we are going to develop in 2022 in the unconventional, we have two rigs in the Marcellus. 
+asr:0: OUTPUT 1570.57-1580.00: And we have two, three rigs already now, two rigs in D-Gal, and we are going to increase with our first rig, our fourth in D-Gal. 
+asr:0: OUTPUT 1583.44-1593.07: The first week is going to have 10,000 barrels per day more or less in every case, either four or more. 
+asr:0: OUTPUT 1594.51-1603.20: The second one is going to add more or less at around 5-6 thousand barrels per day in every day of this asset. 
+asr:0: OUTPUT 1603.58-1608.85: On top of that, we are taking FIDs. 
+asr:0: OUTPUT 1608.99-1613.67: We approve in the case of Baxton and Newell this summer. 
+asr:0: OUTPUT 1613.75-1620.00: We approved the FID of the San Signor Park. 
+asr:0: OUTPUT 1620.76-1622.90: Probably. 
+asr:0: OUTPUT 1623.80-1632.75: We are going to see new FIDs as Leon Castile in the Gulf of Mexico, the CPO-9 is going to come in the first quarter. 
+asr:0: OUTPUT 1633.07-1634.59: Of 20, 22. 
+asr:0: OUTPUT 1635.14-1640.06: About that I mean 2022 we are going to come with the DFID of. 
+asr:0: OUTPUT 1640.90-1649.19: A project, a pickup park in Alaska, and also we are working now. 
+asr:0: OUTPUT 1649.23-1657.18: To enter the Arctic in the Great Depression area in Canada, taking a. 
+asr:0: OUTPUT 1658.06-1659.44: I. 
+asr:0: OUTPUT 1660.00-1666.47: Situation in the area. So, all that is going to have a clear effect in production terms. 
+asr:0: OUTPUT 1667.01-1671.43: I know and I understand that production has been a concern for the market. 
+asr:0: OUTPUT 1671.51-1678.86: And in some moments, I mean, markets thought that we had an underinvestment in the E&P production. 
+asr:0: OUTPUT 1679.16-1689.15: Let me underline again that unfortunately this year we have suffered some one-shot effects, the 25 bottles per day. 
+asr:0: OUTPUT 1689.35-1693.01: We have lost this culture. 
+asr:0: OUTPUT 1693.11-1702.86: In Peru LNG, that fortunately has been solved and now is working in a normal way. 
+asr:0: OUTPUT 1702.88-1705.89: The 30,000 bottles per day. 
+asr:0: OUTPUT 1705.91-1710.29: We have lost over the whole year due to the decline of BPTT. 
+asr:0: OUTPUT 1710.49-1717.96: And unfortunately after the start-up process of MataPau,. 
+asr:0: OUTPUT 1718.14-1722.80: Has been recovering in 10, 12 bottles per day, more or less. 
+asr:0: OUTPUT 1723.38-1728.63: EME is in operation since this week. We are going to see a ramp up in coming weeks, months. 
+asr:0: OUTPUT 1729.03-1736.90: That we are going to achieve a peak of 50,000 barrels per day, more or less gross, over 2022. 
+asr:0: OUTPUT 1737.50-1743.70: And remember that we have a 55% of the stake of this asset. 
+asr:0: OUTPUT 1744.08-1753.05: All in all, we are quite comfortable about the guidance we have in the strategic plan for 2022. 
+asr:0: OUTPUT 1753.15-1760.08: And we are not going to recover some barrels. 
+asr:0: OUTPUT 1760.72-1763.84: That went because the divestment process in the company. 
+asr:0: OUTPUT 1765.67-1767.49: Is going to disappear from my life. 
+asr:0: OUTPUT 1769.65-1771.53: Going to reduce companies. 
+asr:0: OUTPUT 1771.63-1772.79: 2019. 
+asr:0: OUTPUT 1773.13-1775.58: The number of barrels in a field. 
+asr:0: OUTPUT 1775.72-1783.38: That could be close to more or less 35,000 barrels per day. 
+asr:0: OUTPUT 1783.94-1789.17: On top of that, we must give to higher prices. 
+asr:0: OUTPUT 1789.19-1794.21: 12-15 barrels per day due to the PSC contracts. 
+asr:0: OUTPUT 1794.71-1798.88: All in all, today we are comfortable with our production level. 
+asr:0: OUTPUT 1799.30-1804.76: At around 605,000 barrels per day for the whole 2022 period. 
+asr:0: OUTPUT 1805.27-1812.73: That fits with the figure we have in the strategic plan, taking into account the new prices, the PSC effect and the effect of the investment. 
+asr:0: OUTPUT 1812.93-1816.34: No concern about the production level of the company. 
+asr:0: OUTPUT 1816.74-1820.98: Because we are recovering the figures we had before. 
+asr:0: OUTPUT 1821.56-1824.00: And I don't know if I'm missing something, but... 
+asr:0: OUTPUT 1824.96-1825.99: Okay, thank you very much. 
+asr:0: OUTPUT 1828.81-1833.17: Thank you very much, Vidal. Next question comes from Oswald Klin at Bernstein. 
+asr:0: OUTPUT 1845.41-1851.49: As well. 
+asr:0: OUTPUT 1853.51-1861.96: Okay, sorry, I'm sorry. Thank you very much. Fantastic color there on the upstream. Thank you. Just finally, could you talk about. 
+asr:0: OUTPUT 1862.92-1867.81: You know, things like the Camasilla gas field in Peru, obviously some. 
+asr:0: OUTPUT 1867.83-1871.63: Potential issues coming up there. Obviously tricky to call but. 
+asr:0: OUTPUT 1871.65-1879.62: Any discussions you're having there with with the government around that field as it might affect Peru, but also unplanned. 
+asr:0: OUTPUT 1879.64-1882.08: Maintenance. You've talked about it there today. 
+asr:0: OUTPUT 1882.14-1889.73: Do you think you have this under control again for 2022 so that we don't see this unplanned maintenance popping up again next year? 
+asr:0: OUTPUT 1889.81-1895.28: And then secondly, could I ask you talked about LPGs and some of the margin being like,. 
+asr:0: OUTPUT 1895.58-1899.88: Could you also talk about lubricants and specialties? I think your feedstock. 
+asr:0: OUTPUT 1899.90-1907.87: Is putting a bit of margin pressure here in the quarter. When do we see that starting to normalize for you, please? Thank you. 
+asr:0: OUTPUT 1913.79-1914.93: Starting from the... 
+asr:0: OUTPUT 1917.70-1918.96: Of course, we have another. 
+asr:0: OUTPUT 1919.64-1928.65: An operator always have, or could have hypothetically, unplanned problems in their operations. 
+asr:0: OUTPUT 1928.79-1936.98: But let me underline that the two main problems, the big problems we have suffered over 2021. 
+asr:0: OUTPUT 1937.18-1941.18: They were not assets operated by the Soviet Union. 
+asr:0: OUTPUT 1941.90-1945.49: The first one was the LG. 
+asr:0: OUTPUT 1945.83-1954.59: We know that we don't have not even a mistake in the plant. We are not the operators. We suffer the consequences for the exports. 
+asr:0: OUTPUT 1954.61-1955.92: For the whole country. 
+asr:0: OUTPUT 1956.58-1959.76: And in BPTT we have a... 
+asr:0: OUTPUT 1959.78-1963.62: A mistake of 30% a good partner and a good operator, that's me. 
+asr:0: OUTPUT 1963.66-1971.31: We have unplanned problems in the country and a decline that was larger than expected. 
+asr:0: OUTPUT 1971.43-1972.75: That I've said before. 
+asr:0: OUTPUT 1972.95-1982.36: I prefer to see the positive part of the positive part is a multiple is a partially upsetting this reduction of production in BPTT. 
+asr:0: OUTPUT 1983.06-1990.05: Let me underline that in Peru we have seen different. 
+asr:0: OUTPUT 1990.07-1995.01: Different political scenarios over the last 20-25 years. 
+asr:0: OUTPUT 1995.70-2004.99: A very unstable country with solid institutions, and where I think that the rule of law works in the country. 
+asr:0: OUTPUT 2005.95-2014.73: I mean, in every country where we operate, there could be talks. 
+asr:0: OUTPUT 2014.75-2023.60: Conversations and potential negotiations with governments about the assets and revenues and so on. 
+asr:0: OUTPUT 2024.22-2031.17: And let me say, in Camisilla we have a 10% forest take, it's not even the main asset we have in Peru. 
+asr:0: OUTPUT 2031.73-2041.26: And we have of course ready as always to have a strong, close and good relationship with governments in countries where we operate. 
+asr:0: OUTPUT 2041.68-2046.57: And Peru, let me say, that is not an exception at all. 
+asr:0: OUTPUT 2048.33-2049.77: Going to the. 
+asr:0: OUTPUT 2049.89-2056.18: The lubricant business is true that by doing. 
+asr:0: OUTPUT 2056.20-2060.72: They were under pressure during the quarter. 
+asr:0: OUTPUT 2061.20-2065.99: By year end we might see. 
+asr:0: OUTPUT 2066.19-2072.63: Margins in a normal level, it's true that raw materials mainly. 
+asr:0: OUTPUT 2072.99-2074.03: The lubricant base. 
+asr:0: OUTPUT 2074.27-2079.06: Of raw material have increased due to commodity prices. 
+asr:0: OUTPUT 2079.58-2080.60: I mean, however. 
+asr:0: OUTPUT 2081.50-2089.33: Even in this situation, margins were, let me say, suffering a bit, comparing with the recent past. 
+asr:0: OUTPUT 2089.53-2095.44: A good epic and business and good piano. 
+asr:0: OUTPUT 2095.54-2098.40: Has happened. 
+asr:0: OUTPUT 2098.48-2104.62: We have had a good performance of the business even in this bad scenario. 
+asr:0: OUTPUT 2105.37-2106.49: The. 
+asr:0: OUTPUT 2106.51-2116.36: Is working in a way better than expected, even in this scenario, and seeing that margins are on track of being normalized. 
+asr:0: OUTPUT 2116.84-2121.02: Let me be a bit optimistic about the evolution of our lubricants. 
+asr:0: OUTPUT 2121.22-2122.82: Thank you as well. 
+asr:0: OUTPUT 2132.77-2137.20: Much for the time and thank you to John. I have two questions if I may. 
+asr:0: OUTPUT 2138.26-2139.56: Great news on the. 
+asr:0: OUTPUT 2139.62-2143.10: Percent increase in the dividend for DCR. 
+asr:0: OUTPUT 2143.14-2150.87: I was wondering how we should read that impact on the forward expectations for the dividend. 
+asr:0: OUTPUT 2150.99-2158.34: Should we expect that the whole curve that you showed, that the strategy presentation effectively moves up by 5%? 
+asr:0: OUTPUT 2158.44-2163.50: Or simply that we get more gradually to the 70 cents in 2024. 
+asr:0: OUTPUT 2164.00-2168.45: And then my second question is on your industrial operations. 
+asr:0: OUTPUT 2168.49-2178.22: Of. 
+asr:0: OUTPUT 2178.66-2181.94: And yet the beat that was down a hundred million q on q. 
+asr:0: OUTPUT 2181.96-2188.69: I was wondering if you could perhaps dissect some of that, how impactful were the gas derivatives? 
+asr:0: OUTPUT 2188.87-2199.86: And whether you think that with the further improvement in the refining margins we've seen in Q4 that we could see a material improvement in your industrial EBITDA. 
+asr:0: OUTPUT 2200.02-2203.62: Thank you, Mr. John. 
+asr:0: OUTPUT 2204.00-2210.53: I mean, starting by the first part, from the first part of your question,. 
+asr:0: OUTPUT 2211.63-2217.22: Let me say something that is evident, but I prefer to underline it. 
+asr:0: OUTPUT 2217.42-2223.50: What we are losing today is that we are going to increase 5% the 2020 cash dbd. 
+asr:0: OUTPUT 2224.48-2230.01: In addition, we are going to cancel 75 million of shares. 
+asr:0: OUTPUT 2230.03-2234.79: Without program to be launched this month. 
+asr:0: OUTPUT 2235.24-2240.48: I mean, November 2021 of 35 million of shares. 
+asr:0: OUTPUT 2241.18-2249.97: And the other 40 million of shares coming from the current treasury stock position, physical derivatives,. 
+asr:0: OUTPUT 2250.27-2254.67: Of. 
+asr:0: OUTPUT 2254.71-2261.60: We are going to launch this purchasing program of 35 million shares in November. 
+asr:0: OUTPUT 2263.08-2265.59: As I explained before to Viras,. 
+asr:0: OUTPUT 2265.97-2273.75: The annual General Assembly in spring will cancel or will redeem these 75 million of shares. 
+asr:0: OUTPUT 2274.13-2281.62: I mean, but I understand your point, Miquel. I mean, I'm not, let me say, rigid and closed in my mind. 
+asr:0: OUTPUT 2283.50-2290.73: I understand your point. Is this proposal the end of the road? I mean, my answer is definitely not. 
+asr:0: OUTPUT 2291.83-2300.54: Is our strategic plan distribution roadmap written on stone without any remote possibility to be modified or improved? 
+asr:0: OUTPUT 2300.96-2303.06: Of course, Michele not. 
+asr:0: OUTPUT 2303.58-2310.11: I mean, saying that, then again to be apparent, all that is defined in the framework of the. 
+asr:0: OUTPUT 2310.77-2317.36: But let me emphasize that providing a competitive shareholder remuneration has always been a pillar. 
+asr:0: OUTPUT 2317.56-2321.82: In WebSource strategy and we have traditionally been a good distribution player. 
+asr:0: OUTPUT 2322.70-2327.69: And remember, Michele, that as I said, when we presented our strategic plan last year,. 
+asr:0: OUTPUT 2328.43-2336.84: In a better prices scenario, the extra cash generated will be allocated either to project acceleration and growth,. 
+asr:0: OUTPUT 2336.86-2342.72: And also to increase shareholders' remuneration. 
+asr:0: OUTPUT 2343.54-2352.75: And that will be exactly what we'll do in the close future in case of seeing a pretty good macro scenario and a good. 
+asr:0: OUTPUT 2352.77-2354.27: Cash generation. 
+asr:0: OUTPUT 2355.16-2357.38: And that is exactly what we will do in case of Syria. 
+asr:0: OUTPUT 2357.44-2359.14: This is Trakash in the future. 
+asr:0: OUTPUT 2359.22-2363.74: But let me please be in private. 
+asr:0: OUTPUT 2363.76-2367.59: Taking today, the decisions we have to take today,. 
+asr:0: OUTPUT 2367.65-2374.13: And living for the future, the decisions that have to be taken in the future. 
+asr:0: OUTPUT 2374.57-2379.78: In case of course of seeing a sustainable cash improvement over the whole period of the plan. 
+asr:0: OUTPUT 2380.00-2385.65: And that, of course, keeping going our strong balance sheet. 
+asr:0: OUTPUT 2386.91-2391.09: Going to your question about the industrial area. 
+asr:0: OUTPUT 2391.73-2401.46: I mean, you are right, because refining is performing in the right way. 
+asr:0: OUTPUT 2401.96-2406.41: Margins, the fourth quarter, are going to be significantly better. 
+asr:0: OUTPUT 2406.83-2416.32: And then in the third one, I don't know, depending on 30 or 50% better than in, because we have experience 4.5. 
+asr:0: OUTPUT 2416.34-2417.44: There was no other. 
+asr:0: OUTPUT 2417.78-2427.01: In October. And being pliant, our expectation is that the average of coming two months are going to be about $4 per barrel. 
+asr:0: OUTPUT 2427.83-2429.31: What are we missing? 
+asr:0: OUTPUT 2429.89-2435.56: What we are missing, Michele, is that we have a negative. 
+asr:0: OUTPUT 2435.58-2444.16: Impact at around 90-100 million euros at adjusted income level in industrial segment. 
+asr:0: OUTPUT 2444.70-2453.51: What is the reason for this negative impact? I'm going to try to be clear and deductive. 
+asr:0: OUTPUT 2454.15-2455.42: September. 
+asr:0: OUTPUT 2455.44-2464.62: August and September, we bought a volume in the Spanish market for the month of December or January at a fixed price. 
+asr:0: OUTPUT 2465.31-2472.13: And we transform this volume to a price with a TTF reference. 
+asr:0: OUTPUT 2473.11-2480.24: We close on a small margin that is based on the differentials applied to the purchase and the sale with respect to the ticking. 
+asr:0: OUTPUT 2480.86-2487.45: The margins are going to be there and they are going to be positive at the end of the road. No doubt about that. 
+asr:0: OUTPUT 2488.19-2495.26: The physical purchase will be very positive since the market price that is correlated with TTF. 
+asr:0: OUTPUT 2495.28-2502.78: Has risen a lot, and the financial position that is the inverse of the previous one represents losses. 
+asr:0: OUTPUT 2503.06-2512.55: So the problem is that the first, the positive one, will be collected in the event of December or in January, and the second one,. 
+asr:0: OUTPUT 2512.61-2518.50: The market position is reflected in September. 
+asr:0: OUTPUT 2518.72-2521.34: In the piano of September. 
+asr:0: OUTPUT 2521.38-2530.73: And this 90 or 100 million euros negative in the industrial area are related to this mark to market position. 
+asr:0: OUTPUT 2531.49-2540.98: And it's true that in the opposite sense, we have an intragroup positive adjustment that is partially with 40, 45 million euros. 
+asr:0: OUTPUT 2541.10-2544.58: Offsetting this effect in the corporate system. 
+asr:0: OUTPUT 2545.27-2552.17: And all that is related to the intragroup activity between our... 
+asr:0: OUTPUT 2552.75-2556.56: Supply activity and electricity. 
+asr:0: OUTPUT 2556.98-2558.56: Retail business. 
+asr:0: OUTPUT 2558.90-2567.23: So, all in all, we have a negative effect in the adjusted wealth result of 100 million euros in the industrial side. 
+asr:0: OUTPUT 2567.75-2572.09: And we have a positive effect of 40 million euros that has... 
+asr:0: OUTPUT 2572.11-2578.44: The same nature, the same rationale in the corporate and financial side. 
+asr:0: OUTPUT 2579.18-2580.76: Let me underline again. 
+asr:0: OUTPUT 2581.14-2586.39: The negative part, I mean, this gap is going to appear in a positive way. 
+asr:0: OUTPUT 2586.47-2589.59: In fourth quarter and first quarter of the year. 
+asr:0: OUTPUT 2589.61-2597.52: And all that is going to depend, of course, the evolution of when it's going to appear, depending on the closing date. 
+asr:0: OUTPUT 2597.54-2602.44: Of the physical operation is going to appear in a positive way in the PMS. 
+asr:0: OUTPUT 2603.44-2608.99: And that is the rationale of what is happening in the industrial panel. 
+asr:0: OUTPUT 2609.19-2614.09: Nothing to do with the refining, nothing to do with the chemical that is performing in that great way. 
+asr:0: OUTPUT 2614.13-2620.36: It's a market to market position that is partially offset in the corporate and financial. 
+asr:0: OUTPUT 2625.97-2627.65: This question comes from South Africa. 
+asr:0: OUTPUT 2630.99-2640.76: Hi, thanks for taking my questions. I was just following up on the refining margins and wanted to check the impact of the higher energy costs and the higher hydrogen costs. 
+asr:0: OUTPUT 2641.66-2649.33: You highlighted $4.5 billion per barrel refining margin so far in 4Q. 
+asr:0: OUTPUT 2650.05-2655.00: Can you just confirm that this includes the increases in the energy prices? 
+asr:0: OUTPUT 2655.42-2661.26: And uh... It would be great if you can isolate the impact of higher hydrogen costs on refining margins at present. 
+asr:0: OUTPUT 2662.60-2669.53: My second question was related to the 2021 CapEx, which you have reiterated at 2.9 billion euros. 
+asr:0: OUTPUT 2670.31-2677.80: That kind of implies a very significant increase in CapEx for 4Q, almost more than double the quarterly run rate we have seen so far. 
+asr:0: OUTPUT 2678.72-2679.76: You can just. 
+asr:0: OUTPUT 2679.78-2683.82: Provide some guidance on where this higher capex is coming from. 
+asr:0: OUTPUT 2684.22-2691.69: And also apologies if you have already flagged this, but can you confirm what the guidance for ENP CAPEX is for 2021? Thanks. 
+asr:0: OUTPUT 2694.37-2698.86: Excuse me, excuse me. 
+asr:0: OUTPUT 2700.36-2706.91: All defect of the gas price that is a variable cost. 
+asr:0: OUTPUT 2706.93-2713.63: For a refining system is fully included in the refining margin indicator. 
+asr:0: OUTPUT 2713.97-2722.62: So, when we say that in the first quarter the refining market indicator was 3.3,. 
+asr:0: OUTPUT 2722.68-2725.57: 3.2, 3.3, dollars per barrel. 
+asr:0: OUTPUT 2725.97-2729.47: And in October has been $4.5 per bottle. 
+asr:0: OUTPUT 2729.71-2739.68: The negative effect of the cost increase of the gas to feed these refineries are fully included in this margin indicator. 
+asr:0: OUTPUT 2740.06-2748.93: Of course, I'm impacting in a negative way, comparing with our budget, and more or less, I have in mind the figure that we have experienced in October. 
+asr:0: OUTPUT 2749.05-2754.25: A negative effect of $0.7, $0.8 per barrel. 
+asr:0: OUTPUT 2754.47-2756.92: Did you, sorry, in the first quarter? 
+asr:0: OUTPUT 2757.40-2760.04: And in October due to this effect. 
+asr:0: OUTPUT 2760.28-2769.65: But all that is already included. When we say that the margin is $4.5 per barrel in October, the huge TTF prices. 
+asr:0: OUTPUT 2770.05-2778.32: And so on. In Europe, the cost of all that is included in this margin. 
+asr:0: OUTPUT 2778.68-2783.82: So, same thing of course, because we produce the hydrogen with gas, it's imputed. 
+asr:0: OUTPUT 2784.20-2789.25: And the CO2 prices at around, I can't remember the figure, but 60, 62 dollars, sorry, euros. 
+asr:0: OUTPUT 2789.57-2796.44: Per ton of CO2 in the third quarter and in October are included in this variable cost because. 
+asr:0: OUTPUT 2796.68-2805.37: The construction of a refining margin indicator is made taking oil prices and the slate of crude oils we use. 
+asr:0: OUTPUT 2805.45-2810.05: Plus the products and the spreads of the products, plus the... 
+asr:0: OUTPUT 2810.11-2811.75: The valuable cost we have. 
+asr:0: OUTPUT 2811.85-2819.74: That they are mainly the oil, gas and the hydrogen we use. 
+asr:0: OUTPUT 2819.84-2825.31: And on top of that, the CO2 this year is fully included as a valuable cost in the refining market. 
+asr:0: OUTPUT 2825.51-2827.69: So we are taking into account all that. 
+asr:0: OUTPUT 2827.89-2829.63: When we say that we have had a. 
+asr:0: OUTPUT 2829.65-2838.08: A refining margin of 3.2, 3.3 dollars per barrel in this first quarter of 4.5 dollars per barrel in October. 
+asr:0: OUTPUT 2839.12-2842.60: Going to your second point. 
+asr:0: OUTPUT 2842.94-2850.33: Yes, you are right. We are going to see a significant increase in the fourth quarter, 2021, for E&P Cup Expo. 
+asr:0: OUTPUT 2850.83-2858.96: That are going to come mainly from the investment effort we have developed in the unconventional, and I referred to this effort before. 
+asr:0: OUTPUT 2859.44-2863.94: And the progress of the FID of the projects I mentioned before. 
+asr:0: OUTPUT 2864.02-2865.71: But you are right, we are going to see. 
+asr:0: OUTPUT 2865.93-2866.97: I. 
+asr:0: OUTPUT 2867.05-2874.11: 2.9 billion euros. 
+asr:0: OUTPUT 2874.15-2877.16: A total capex guidance for the whole company. 
+asr:0: OUTPUT 2877.42-2883.20: In 2021 and 1.1 billion euros, 1.3. 
+asr:0: OUTPUT 2883.22-2884.86: Billion dollars more or less. 
+asr:0: OUTPUT 2885.29-2887.59: A. 
+asr:0: OUTPUT 2888.63-2895.30: I said before that what we are going to see in 2022 is going to be at around 1.9 billion dollars. 
+asr:0: OUTPUT 2895.50-2902.94: The case of almost $2 billion, in the case of the 1.9, 2.1, and the case of the 1.9,. 
+asr:0: OUTPUT 2903.00-2907.63: Is going also to depend on the exchange rates that I have in mind. 
+asr:0: OUTPUT 2907.77-2916.02: We are at around $2 billion is going to be the effort in CAPEX terms of the E&P in 2022. Thank you. 
+asr:0: OUTPUT 2917.72-2920.88: Thank you, Osasi. Next question comes from John Rigby at U.S. 
+asr:0: OUTPUT 2923.58-2926.65: Thank you for taking my question. 
+asr:0: OUTPUT 2927.27-2936.54: Can I just circle back on distributions again? First on the buyback, it always gets me confused and I think the point about the treasury shares, et cetera. 
+asr:0: OUTPUT 2937.68-2939.52: Always I stumble on. 
+asr:0: OUTPUT 2940.44-2945.53: Can we just go through some of the mechanics of this? Can you explain to me? 
+asr:0: OUTPUT 2946.31-2969.55: Do you have call options or anything sat in Treasury that you can use to buy back or to realize some of the buyback of these shares? And therefore, is there some sort of cost or lower cost in acquiring the shares and putting them into Treasury and just trying to understand what you have physically in Treasury and what you have in sort of synthetics or derivatives? 
+asr:0: OUTPUT 2970.15-2977.10: And is it the intention to buy back, I think, the $35 million through to the end of this year? 
+asr:0: OUTPUT 2977.98-2980.58: So that it's sort of cleaned out. 
+asr:0: OUTPUT 2981.36-2989.53: And then just one piece of sort of arithmetic I was a little puzzled about was, I think you say 40 million. 
+asr:0: OUTPUT 2989.63-2997.36: You see 75 million of shares to be cancelled. 
+asr:0: OUTPUT 2997.66-3001.36: That you are doing 35 million in the market. 
+asr:0: OUTPUT 3001.58-3003.86: But you have 45 million treasury shares. 
+asr:0: OUTPUT 3004.06-3007.83: Already, why not just take that all out and take the whole 80 million? 
+asr:0: OUTPUT 3008.41-3017.40: Treasury shares just clean the whole thing up. I don't quite understand why we we go backwards and forwards on this Partly in the market partly in Treasury, etc. 
+asr:0: OUTPUT 3017.86-3022.58: I'd say just on some mechanics of the buyback. Just secondly, on the dividend. 
+asr:0: OUTPUT 3023.82-3034.03: Is it your sort of sense that um... The dividend should reflect underlying performance the business not breaking performance for business and the buyback the sort of. 
+asr:0: OUTPUT 3034.05-3036.24: Macro surplus. 
+asr:0: OUTPUT 3036.64-3046.51: In which case I'm again a little puzzled why you've chosen to allocate this surplus partly to a recurring commitment, i.e. The dividend, and partly to the buyback. 
+asr:0: OUTPUT 3046.59-3048.91: Just sort of philosophically could you explain that please? 
+asr:0: OUTPUT 3051.15-3060.78: Thank you, John. I mean, I promise you that I'm going to do my best to explain all that, but I'm not guaranteeing the result because it's complex, but I'll do my best. 
+asr:0: OUTPUT 3062.00-3066.25: Today means at the end of September, at the end of the third quarter. 
+asr:0: OUTPUT 3067.21-3073.43: We have 49 million shares in cash that is part of our balance sheet. 
+asr:0: OUTPUT 3074.31-3078.82: And 74 million shares in equity derivative instruments. 
+asr:0: OUTPUT 3079.70-3082.14: 50 million shares in that color. 
+asr:0: OUTPUT 3082.42-3084.60: That I remember that time. 
+asr:0: OUTPUT 3084.62-3089.17: It was acquired at a price around $1,000. 
+asr:0: OUTPUT 3089.29-3094.91: I have to check the figure, but 8.2 euros per share more or less, but it's market to market. 
+asr:0: OUTPUT 3095.14-3097.52: Of course, as a derivative color. 
+asr:0: OUTPUT 3098.12-3106.43: And. 
+asr:0: OUTPUT 3106.57-3110.41: Equity derivative plus 4.9 million shares in cash. 
+asr:0: OUTPUT 3111.87-3114.35: What we are going to do now is. 
+asr:0: OUTPUT 3114.47-3121.88: We are going to take 40 million shares of these physical shares that are part of our balance. 
+asr:0: OUTPUT 3122.94-3125.69: And we are going to launch a new program. 
+asr:0: OUTPUT 3125.83-3132.99: Purchasing program, develop under the rules, to do this kind of thing that is going to be launched in November. 
+asr:0: OUTPUT 3133.03-3139.44: And it's going to last until the spring before. 
+asr:0: OUTPUT 3139.50-3144.02: The AGM to acquire 35 million shares in the market. 
+asr:0: OUTPUT 3144.42-3150.89: I mean, your question is right. Why are you doing that instead of taking what you have in your hands? 
+asr:0: OUTPUT 3151.45-3154.33: First of all, because that is not going to be the last shot. 
+asr:0: OUTPUT 3155.03-3163.04: That means that we are going to go on with the buyback policy of the companies. 
+asr:0: OUTPUT 3163.92-3164.98: 10 of 820. 
+asr:0: OUTPUT 3165.31-3169.91: On the debate about if we are going to redeem. 
+asr:0: OUTPUT 3169.93-3176.78: Only 200 million shares will commit in the strategic plan or more. 
+asr:0: OUTPUT 3176.98-3184.08: As I said before, we have to go step by step and today that is the step we have to develop. 
+asr:0: OUTPUT 3184.48-3191.09: And be sure that if we have room to do more things in the future, we'll do it again. 
+asr:0: OUTPUT 3191.59-3195.48: And I go to your last point. 
+asr:0: OUTPUT 3196.78-3200.18: Why distribute some in cash and some in buybacks? 
+asr:0: OUTPUT 3200.56-3209.79: First of all, I'm linking all that with the purchasing program because I think that the action, the share, is not reflecting the real value of the company. 
+asr:0: OUTPUT 3210.75-3219.84: I think that we have the opportunity to create value for the shareholders buying today shares of Repsol in the market. 
+asr:0: OUTPUT 3220.28-3228.21: And we are going to do that in the framework of our program under the law to redeem the shares and so on. 
+asr:0: OUTPUT 3228.55-3235.03: And we are going to stay, keep going these options that could come in the future. 
+asr:0: OUTPUT 3235.30-3242.08: That is the rationale behind the distribution combining cash and buybacks. 
+asr:0: OUTPUT 3242.10-3246.07: Buying shares today is a better option for shareholders. 
+asr:0: OUTPUT 3246.09-3255.50: Than paying the dividend in cash. Of course, we combine both options because for some shareholders cash is also an interesting. 
+asr:0: OUTPUT 3255.52-3256.52: Auction. 
+asr:0: OUTPUT 3257.16-3264.88: And if you take your models and you see the cash flow from operations we have had this year,. 
+asr:0: OUTPUT 3265.21-3267.29: What we expect in 2022. 
+asr:0: OUTPUT 3267.43-3269.81: And the fault we are developing. 
+asr:0: OUTPUT 3269.83-3278.54: Terms of distribution and combining buybacks and combining cash dividend. 
+asr:0: OUTPUT 3278.56-3284.90: And taking into account that we are going to use 40 million shares that were acquired in 2021. 
+asr:0: OUTPUT 3285.47-3291.53: You could see that all in all, we are more or less going back to a dividend. 
+asr:0: OUTPUT 3292.03-3299.76: That is close to 0.9, 0.87, 0.88 cents of euro per share. 
+asr:0: OUTPUT 3300.00-3307.41: All in all, the combination of both years, so every year 0.9 as I said. 
+asr:0: OUTPUT 3307.93-3309.91: And we are going to grow in the future. 
+asr:0: OUTPUT 3310.19-3319.26: We are almost a year after the pandemic, we are almost recovering the dividend we had before the pandemic in the past. 
+asr:0: OUTPUT 3319.70-3327.49: And we are going to go on improving this distribution policy, John, if we have room to do that. 
+asr:0: OUTPUT 3328.11-3331.13: Are always at the principle of financial privacy because they are not in the financial sphere. 
+asr:0: OUTPUT 3331.15-3339.96: Because if you take this figure, you can see that what we are applying in these two years,. 
+asr:0: OUTPUT 3340.00-3347.83: Is below 30 percent of the figure fitting the cash flow from operations. 
+asr:0: OUTPUT 3347.87-3356.82: That means that we are prudent, we are mainstream in the sector, in Europe, in our sector in terms of distribution policy. 
+asr:0: OUTPUT 3356.86-3370.07: And expecting that we have room to improve the cash flow from operations in the future, be sure that we have also room to increase and to improve the dividend distribution in the future. 
+asr:0: OUTPUT 3370.13-3379.66: But it's true that I prefer to be private because I have to go step by step taking into account the volatility we are seeing in the macro scenario. Thank you, John. 
+asr:0: OUTPUT 3387.57-3397.78: Hi, Gents, thanks for taking the questions. Two if I could please. First, following up from John's previous question on the cash return and specifically the buyback program. 
+asr:0: OUTPUT 3398.10-3404.24: I think the acceleration around the 200 million share program is welcome. 
+asr:0: OUTPUT 3404.74-3411.43: Thinking about it though in the context at this point of accelerating the program. I wonder if you could just expand on. 
+asr:0: OUTPUT 3411.45-3419.52: As we move forward, assuming that macro conditions remain above your $50 base plan, what would. 
+asr:0: OUTPUT 3419.54-3432.35: Make you think about expanding the scale of the program above 200 million shares as opposed to purely accelerating the time horizon of the program. 
+asr:0: OUTPUT 3432.55-3434.19: And then secondly,. 
+asr:0: OUTPUT 3434.21-3443.28: Coming back to the industrial business, in the context of the comments that you made earlier around the transitory nature of the derivative effecting,. 
+asr:0: OUTPUT 3443.30-3446.11: 3Q, could you just clarify. 
+asr:0: OUTPUT 3446.13-3457.70: EBITDA expectations that you have for the industrial business this year within the 6.7 total and how that compares to your strategic plan expectations. Thank you. 
+asr:0: OUTPUT 3463.14-3464.48: Thank you, Matt. 
+asr:0: OUTPUT 3465.31-3474.41: Let me say as I said before that nothing is written on stone. We have a guidance, the guidance is the strategic plan. 
+asr:0: OUTPUT 3474.45-3484.64: But be sure that we are going to follow the capital allocation policy I defined when we presented the strategic plan. 
+asr:0: OUTPUT 3485.05-3493.65: That means that any extra cash under the principle of financial prudency and strengthening the balance sheet. 
+asr:0: OUTPUT 3493.67-3503.78: It's going to be focused on growing in low-carbon platforms, anticipating the future, and increasing the shareholder distribution. 
+asr:0: OUTPUT 3503.80-3505.23: For our shareholders. 
+asr:0: OUTPUT 3505.87-3513.31: And I mean, today the framework is 200 million shares. That's clear. 
+asr:0: OUTPUT 3513.33-3522.74: But let me say that that is going to occur, potentially evolved, depending on the cash flow from the operations, the macro scenario. 
+asr:0: OUTPUT 3523.30-3530.49: And of course, the share price, because if we are talking about hypothesis, a disclaimer,. 
+asr:0: OUTPUT 3530.71-3532.57: If we are in one year. 
+asr:0: OUTPUT 3532.59-3535.56: 15 units per share, for instance, in WebSol. 
+asr:0: OUTPUT 3535.68-3538.30: In that case, or 16, perhaps could be. 
+asr:0: OUTPUT 3538.34-3548.27: A better option to increase the cash part of the distribution and reducing oil prices. 
+asr:0: OUTPUT 3548.29-3550.45: Limiting the. 
+asr:0: OUTPUT 3550.49-3551.71: They're sharing. 
+asr:0: OUTPUT 3552.61-3556.10: Because we are in some way preparing all these scenarios. 
+asr:0: OUTPUT 3556.68-3558.86: For that reason, we are content. 
+asr:0: OUTPUT 3558.90-3568.27: Keeping going this 74 million shares in equity derivative instruments that I mentioned before to John. 
+asr:0: OUTPUT 3568.97-3571.51: And that again, that is today. 
+asr:0: OUTPUT 3571.53-3572.65: It's difficult. 
+asr:0: OUTPUT 3572.67-3583.54: Coming from the extra cash we are having today and depending on the evolution of this cash flow from operations and the potential extra cash of the future,. 
+asr:0: OUTPUT 3583.62-3587.23: We could hypothetically take some other decisions. 
+asr:0: OUTPUT 3587.25-3590.31: In this line, as I said before. 
+asr:0: OUTPUT 3590.37-3591.83: Step by step. 
+asr:0: OUTPUT 3592.53-3601.46: Going to your question about the bid expectation for industrial business this year, what we. 
+asr:0: OUTPUT 3602.32-3608.57: This year is 2.2 billion EBITDA, 2021. 
+asr:0: OUTPUT 3609.67-3617.00: Let me underline that I'm talking about the Pure Abhidharma. 
+asr:0: OUTPUT 3617.54-3618.56: I go to a figure. 
+asr:0: OUTPUT 3618.84-3626.33: At CCS, the figure this year for the whole industrial business is going to be 1.5 billion euros. 
+asr:0: OUTPUT 3627.17-3632.13: If we compare with what we have in the industrial area,. 
+asr:0: OUTPUT 3632.37-3637.34: What we have in the strategic plan for this year. 
+asr:0: OUTPUT 3637.48-3646.79: To. 
+asr:0: OUTPUT 3647.29-3652.19: That means that the mid-forward CCS, it seems to me I have to check the figure. 
+asr:0: OUTPUT 3652.49-3659.20: But more or less will be the same in our forecast for 2021. 
+asr:0: OUTPUT 3659.66-3668.89: Let me say that the figure is more or less what we expected, we forecast in our industrial. 
+asr:0: OUTPUT 3669.61-3672.91: In 2021 in a restrictive plan. 
+asr:0: OUTPUT 3673.29-3695.94: The better chemical business is in some way offsetting what we are losing in the refining business because you know that over the last half of the year the margin has been due to a new expected waves of the pandemic in Europe has been significantly lower than expected and now. 
+asr:0: OUTPUT 3695.96-3697.94: We are starting to recover. 
+asr:0: OUTPUT 3698.48-3705.81: And let me say what we are seeing by 2022 in margin terms is probably better. 
+asr:0: OUTPUT 3706.21-3713.31: That the expectations we have in our strategic plan for 2022 are aligned with the expectations we have. 
+asr:0: OUTPUT 3713.65-3718.04: My point is we are recovering the pre-pandemic pathway. 
+asr:0: OUTPUT 3718.66-3734.75: And in some way, we have been punished in the first half of 2021 because the pandemic extended, unfortunately, longer than expected on the forecast we had last year when we presented the strategic plan in November. Thank you, Matt. 
+asr:0: OUTPUT 3735.72-3740.00: Thank you very much, Mark. The next question comes from Alejandro Vigil at BestiBus. 
+asr:0: OUTPUT 3742.16-3748.51: Hola, Jose Leon. Thank you for taking my question. I have a couple of questions about the low carbon strategy. 
+asr:0: OUTPUT 3749.29-3751.97: One is about your thoughts about the. 
+asr:0: OUTPUT 3751.99-3760.10: The. 
+asr:0: OUTPUT 3760.16-3762.42: If you can elaborate on that, please. 
+asr:0: OUTPUT 3763.06-3767.53: And the second question is about the European Union Next Generation Fund. 
+asr:0: OUTPUT 3767.87-3773.41: How important are these funds for your strategy in low carbon, particularly in hydrogen? 
+asr:0: OUTPUT 3773.77-3781.62: Which is the level of financial support you need from these funds to go ahead with your hydrogen projects. Thank you. 
+asr:0: OUTPUT 3789.79-3792.73: The question of low carbon... 
+asr:0: OUTPUT 3794.73-3797.40: Most important thing, Alejandro, is that we have to be able to. 
+asr:0: OUTPUT 3797.82-3799.20: A guru. 
+asr:0: OUTPUT 3799.32-3802.88: Performing developing projects over the last quarter. 
+asr:0: OUTPUT 3803.26-3809.91: We have launched the Bande Solar project in the southwest part of Spain. 
+asr:0: OUTPUT 3810.07-3820.06: The CAPA project, both solar, combining 400 megawatts of photovoltaic installed capacity, new capacity in Spain. 
+asr:0: OUTPUT 3820.88-3830.53: We are starting to put in operation parts of the Delta II project in the northeast part of Spain, in Aragón in this case. 
+asr:0: OUTPUT 3830.55-3838.90: Our green farms, I have in mind that we put in operation 80 MW more or less of a part. 
+asr:0: OUTPUT 3838.92-3841.42: Of this project over the last weeks. 
+asr:0: OUTPUT 3841.72-3848.85: So that means that we are on track of increasing what we are doing in the renewable business. 
+asr:0: OUTPUT 3849.51-3857.22: Cabo Leonés is now working with a project finance that was signed this quarter. 
+asr:0: OUTPUT 3857.56-3865.27: We are working on the Hikalinga project to get our reality from this potential. 
+asr:0: OUTPUT 3865.33-3867.99: Option that we are analyzing now. 
+asr:0: OUTPUT 3868.73-3869.73: All that is on track. 
+asr:0: OUTPUT 3870.75-3878.34: As I said before, when I presented the low-carbon strategy on the 1st of October,. 
+asr:0: OUTPUT 3878.58-3888.53: I mean, we have a period of time, we are not in a hurry to incorporate a partner to this division. We want to do that. 
+asr:0: OUTPUT 3889.01-3898.38: Because we think that it's important the entrance of an equity partner or an IPO in this business. 
+asr:0: OUTPUT 3898.92-3904.38: I think that that's important from the point of view of to crystallize the value we are creating. 
+asr:0: OUTPUT 3904.40-3913.67: In this business that would be important, but also to help us to find or to reduce the cost of capital of this business to be more competitive. 
+asr:0: OUTPUT 3913.75-3920.88: But in the meantime, I mean, we are improving our position. We are seeing opportunities. We are not in a hurry to do that because, I mean... 
+asr:0: OUTPUT 3920.96-3926.15: It's not a financial problem. We don't need, let me say, this cash to go on growing in this business. 
+asr:0: OUTPUT 3926.49-3928.91: That we are having opportunities. 
+asr:0: OUTPUT 3928.95-3936.58: I asked for 18 months to take a decision and I'm still in the framework of this period. 
+asr:0: OUTPUT 3936.98-3941.60: Going to the hydrogen, I think that for the hydrogen,. 
+asr:0: OUTPUT 3944.08-3952.35: The most important is the current and the development of the European regulation related to decarbonization of liquids. 
+asr:0: OUTPUT 3952.83-3956.36: That means that we could be... 
+asr:0: OUTPUT 3956.92-3959.62: Now, producing hydrogen in your refinery. 
+asr:0: OUTPUT 3959.78-3962.30: Because the other family is going to be used. 
+asr:0: OUTPUT 3962.32-3964.86: To our own. 
+asr:0: OUTPUT 3964.88-3973.71: Refining operations, building the hydrocarbon chain, and hydrogenating the oil we produce as feedstock. 
+asr:0: OUTPUT 3974.07-3981.58: That means that this hydrogen, green hydrogen, is not competing in price terms with the green hydrogen coming from the... 
+asr:0: OUTPUT 3981.64-3987.49: The reforming process of natural gas. 
+asr:0: OUTPUT 3987.67-3995.54: Instead of that, competes with the alternative of palm oil that is coming from Malaysia, from some other parts of the world. 
+asr:0: OUTPUT 3995.82-3999.98: So we have a clear, real... 
+asr:0: OUTPUT 4000.00-4004.76: And unique opportunity to develop this hydrogen business. 
+asr:0: OUTPUT 4004.82-4009.53: In coming two or three years, remember that... 
+asr:0: OUTPUT 4009.55-4015.92: Today consumes 62% of the total Spanish hydrogen consumption. 
+asr:0: OUTPUT 4016.20-4024.30: And on top of that, reducing capex in hydrogen through the next generation plants could be a way. 
+asr:0: OUTPUT 4024.34-4032.49: To reduce risk of this project, to reduce the CAPEX intensity, to accelerate the learning curve of this hydrogen. 
+asr:0: OUTPUT 4032.51-4035.28: And let me say what is important. 
+asr:0: OUTPUT 4035.30-4040.26: Of course for the people, but also for the Spanish society and for Spain. 
+asr:0: OUTPUT 4040.30-4047.15: To be a reference in Spain, leading the green hydrogen business in Europe. 
+asr:0: OUTPUT 4047.37-4050.71: We have the opportunity to do that. Repsol could be the player. 
+asr:0: OUTPUT 4051.25-4052.69: We are going to do it. 
+asr:0: OUTPUT 4052.71-4063.20: And in case of having, let me say, some kind of public support to that, what we could do is accelerate this process that is important not only for Repsol but also for the whole Spanish community. 
+asr:0: OUTPUT 4063.22-4064.88: Economy. 
+asr:0: OUTPUT 4067.13-4069.61: This question comes from Joshua Stone at Barclays. 
+asr:0: OUTPUT 4071.57-4077.06: Thanks, Ian. Good afternoon. I've got a couple of questions. I'm going to try and clarify on this buyback. 
+asr:0: OUTPUT 4077.68-4079.52: If I understand correctly, you're going to be buying back. 
+asr:0: OUTPUT 4080.00-4084.82: To. 
+asr:0: OUTPUT 4085.11-4090.35: At that point, you will get approval to cancel the 75 million shares. 
+asr:0: OUTPUT 4090.69-4094.93: But then over what time frame will you be cancelling the 75 million shares? 
+asr:0: OUTPUT 4094.99-4100.78: So will you be cancelling those at a faster rate than your 50 million per annum guidance? 
+asr:0: OUTPUT 4101.28-4109.03: So that's just a clarification. And the second question, maybe this is a stupid question, but why do you need AGM approval to cancel the shares from the buyback? 
+asr:0: OUTPUT 4109.65-4116.16: Who sets those rules? It does seem to be distracting from your investment case. Can you look to change those rules? 
+asr:0: OUTPUT 4118.52-4123.48: First of all, I can't give you the accurate answer, but you can see that there is a lot. 
+asr:0: OUTPUT 4123.60-4129.53: We say that are days, days could be one day, two days, three days, or some days. 
+asr:0: OUTPUT 4129.65-4137.30: After the AGM, we will proceed to cancel, to redeem the 75 million shares. 
+asr:0: OUTPUT 4137.48-4145.49: That is the technical process. 
+asr:0: OUTPUT 4146.31-4149.77: A couple of days or some days after the 8th year. 
+asr:0: OUTPUT 4151.11-4157.28: Why do we need the approval of the AGM? 
+asr:0: OUTPUT 4158.14-4163.16: Again, I'm not an expert, but be sure, it's Spanish regulation. 
+asr:0: OUTPUT 4163.34-4168.39: And I think it seems to me that I'm sure of that, that it's also a European Union regulation. 
+asr:0: OUTPUT 4168.67-4170.09: I'm pretty sure this last part. 
+asr:0: OUTPUT 4170.27-4172.23: That this Spanish regulation. 
+asr:0: OUTPUT 4172.25-4182.44: Ask for the approval of the AGM to redeem or to cancel such a significant part of the. 
+asr:0: OUTPUT 4182.46-4184.70: Of shares. 
+asr:0: OUTPUT 4186.53-4192.65: Excuse me, I have asked a member, a legal member of my team. Yes, okay. 
+asr:0: OUTPUT 4193.73-4198.86: Thank you. It's Spanish company law. Sorry, it's Spanish regulation. Thank you. 
+asr:0: OUTPUT 4202.24-4205.15: Thank you Joshua, next question comes from Peter Lowe of. 
+asr:0: OUTPUT 4207.87-4211.25: The first was just a question on the refining margin premium. 
+asr:0: OUTPUT 4211.43-4216.56: I think you said it was $0.5 a barrel in CQ, which was lower than 2Q. 
+asr:0: OUTPUT 4216.88-4221.82: Can you perhaps explain some of the moving parts there and what level you might expect for the fourth quarter? 
+asr:0: OUTPUT 4222.60-4227.45: And then secondly, and really sorry just for another clarifying question on the buyback. 
+asr:0: OUTPUT 4228.01-4234.97: But the existing $40 million of treasury shares that you already hold and that you plan to. 
+asr:0: OUTPUT 4236.10-4239.90: Can you just go over what time period you acquired those shares? 
+asr:0: OUTPUT 4253.05-4259.20: Starting by your first question related to refined margin premium, it's true,. 
+asr:0: OUTPUT 4261.02-4269.01: The second factor I have to check, first of all, $0.5 per barrel is a good premium over. 
+asr:0: OUTPUT 4271.21-4272.21: Okay. 
+asr:0: OUTPUT 4272.39-4281.28: The main factor, it seems to me, that is related to the power electricity prices in Spain. 
+asr:0: OUTPUT 4281.32-4283.78: And I'm going to try to develop the rationale. 
+asr:0: OUTPUT 4284.74-4290.55: We are even in our industrial assets. 
+asr:0: OUTPUT 4290.57-4296.96: I can't remember the exact figure, but we have 600 megawatts of cogeneration combining, refining and chemical. 
+asr:0: OUTPUT 4297.42-4301.24: And if we are, let me say, exporting to the system more or less... 
+asr:0: OUTPUT 4301.30-4308.57: 1.3, 1.4 percent of the total Spanish consumption, what we are buying for our own needs in industrial assets. 
+asr:0: OUTPUT 4308.59-4311.75: Are even with this exported. 
+asr:0: OUTPUT 4312.71-4315.84: In regulatory terms due to this. 
+asr:0: OUTPUT 4315.86-4319.64: That in the medium term we are not impacted in the long term. 
+asr:0: OUTPUT 4319.66-4327.41: In any way by this debate about the power prices because we are at the same time producers and consumers. 
+asr:0: OUTPUT 4327.95-4331.15: It's true that in regulatory terms we have some kind of cap. 
+asr:0: OUTPUT 4331.21-4337.08: In the short term to the tariffs of the co-generations and for that reason. 
+asr:0: OUTPUT 4337.36-4346.19: We have had a negative temporary effect that is going to be redressed in coming weeks, months. 
+asr:0: OUTPUT 4346.43-4352.79: So that's one of the factors. The other one is also that in the second quarter,. 
+asr:0: OUTPUT 4352.83-4360.32: We have an extra premium coming from the biofuels market that gave us opportunity to improve. 
+asr:0: OUTPUT 4360.46-4362.00: Imagine we have. 
+asr:0: OUTPUT 4363.76-4373.45: Going to the second part of the period. What we have more or less in mind is that the premium could be. 
+asr:0: OUTPUT 4375.70-4383.00: That is going to depend, that is not a commitment, because you could have operational problems, operational or market advantages. 
+asr:0: OUTPUT 4383.34-4387.21: That is going to make my actors dance today. 
+asr:0: OUTPUT 4387.55-4393.73: What I have in mind is that we could be at around $0.5 per bottle. 
+asr:0: OUTPUT 4394.11-4400.46: In the quarter, taking into account that we are going to have a penalty. 
+asr:0: OUTPUT 4400.62-4407.29: Coming from the maintenance program of our part of the refinery of Cartagena. 
+asr:0: OUTPUT 4407.51-4415.64: I want to say apart because that is impacting in a part of the destination and on the cocker of the refinery so all in all. 
+asr:0: OUTPUT 4415.76-4424.30: I think that $0.5 per barrel could be a quite reasonable period. 
+asr:0: OUTPUT 4424.76-4433.75: Going to your question, I mean, the buyback we have. 
+asr:0: OUTPUT 4433.77-4435.38: At the beginning of the year... 
+asr:0: OUTPUT 4435.40-4440.20: I mean, that blend of 2020 I have in mind. 
+asr:0: OUTPUT 4440.58-4445.59: We had at that time 18 or 19 million shares in our balance sheet. 
+asr:0: OUTPUT 4445.99-4455.48: So if we have at the end of September 39 million shares means that we have acquired 30 million shares over the whole period. 
+asr:0: OUTPUT 4456.58-4464.98: I don't have in mind the total cash applied to this purchase, but I mean... 
+asr:0: OUTPUT 4465.29-4474.39: But we could see that we have invested around 300 million euros over the whole year increasing the treasury stock of the company. Thank you. 
+asr:0: OUTPUT 4475.82-4483.42: Thank you, Peter. Well, that was our last question. At this point, I'll bring our third quarter conference call to an end. Thank you very much for your attention. 
+asr:0: OUTPUT 4486.65-4490.65: That does conclude our conference for today. Thank you for participating. You may all disconnect. 
+asr:0: END

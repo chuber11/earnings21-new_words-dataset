@@ -1,0 +1,430 @@
+asr:0: PROPERTIES: {'mode': 'SendStable', 'asr_server_default': 'http://192.168.0.60:5052/asr/infer/None,None', 'version': 'offline', 'segmenter': 'SHAS', 'stability_detection': 'True', 'max_segment_length': '10', 'min_segment_length': '1', 'language': 'en', 'SHAS_segmenter': 'http://192.168.0.60:5010/segmenter/{}/infer', 'LA2_chunk_size': 1, 'LA2_max_context': 20, 'LA2_max_words_unstable': 10, 'display_language': 'en', 'dummy_asr': 'False', 'asr_server_7eu': 'http://192.168.0.60:5052/asr/infer/None,None', 'asr_server_en': 'http://192.168.0.60:5008/asr/infer/en,en', 'asr_server_de': 'http://192.168.0.60:5053/asr/infer/de,de', 'asr_server_fr': 'http://192.168.0.60:5053/asr/infer/fr,fr', 'asr_server_es': 'http://192.168.0.60:5053/asr/infer/es,es', 'asr_server_it': 'http://192.168.0.60:5053/asr/infer/it,it', 'asr_server_pt': 'http://192.168.0.60:5053/asr/infer/pt,pt', 'asr_server_nl': 'http://192.168.0.60:5053/asr/infer/nl,nl', 'asr_server_en,de-de': 'http://192.168.0.60:5054/asr/infer/de,de', 'asr_server_en,de-en': 'http://192.168.0.60:5055/asr/infer/None,None', 'asr_server_version': 'Whisper'}
+asr:0: START
+asr:0: OUTPUT 4.12-13.07: Thank you very much for joining the conference call for financial briefing for the third quarter FY 2021 of Advantest Corporation despite your busy schedule. 
+asr:0: OUTPUT 15.72-19.42: Today's participants are President and CEO Mr. Yoshida,. 
+asr:0: OUTPUT 19.44-28.67: CFO Mr. Fujita, Chief Customer Relations Officer Mr. Sakamoto, and Court Chief Strategy Officer and Chief Stakeholder Officer Mr. Mihashi. 
+asr:0: OUTPUT 29.99-39.46: Today, Mr. Fujita will present the financial results for the third quarter FY 2021 first, followed by FY 2021 outlook by Mr. Yoshida. 
+asr:0: OUTPUT 40.00-48.03: And we will take your questions. We schedule to close our meeting 4.30 p.m. 
+asr:0: OUTPUT 50.13-55.50: The presentation material is available on TD-NET and in our website. 
+asr:0: OUTPUT 58.76-61.50: Let me go through disclaimer statement in advance. 
+asr:0: OUTPUT 62.74-70.55: This presentation contains four debugging statements based on the current estimates, and they contain risks and uncertainties. 
+asr:0: OUTPUT 72.09-78.22: Actual results may be different from the estimate, and we appreciate your acknowledgement in advance. 
+asr:0: OUTPUT 80.88-83.60: Now Mr. Fujita will lead the presentation. 
+asr:0: OUTPUT 86.31-93.47: Good afternoon everyone, this is Fujita. I'll present the financial results for the third quarter FY 2021. 
+asr:0: OUTPUT 96.76-102.90: Please turn to page four of the presentation material for the summary of the third quarter results. 
+asr:0: OUTPUT 105.67-108.53: Let me review the business environment in the side quarter. 
+asr:0: OUTPUT 110.23-116.20: As in the previous several quarters, our business environment in the third quarter continued to be favorable. 
+asr:0: OUTPUT 117.82-123.58: Aggressive tester investment was driven primarily by SOC semiconductor manufacturers. 
+asr:0: OUTPUT 123.60-130.93: Amid trends that are structurally boosting the level of tester demand, such as expanding data center investment. 
+asr:0: OUTPUT 130.95-136.02: Higher 5G smartphone functionality and SIM conductor performance gains. 
+asr:0: OUTPUT 136.04-138.46: Including further miniaturization. 
+asr:0: OUTPUT 139.88-144.54: On the other hand, the shortage of semiconductors remains unresolved. 
+asr:0: OUTPUT 145.11-153.97: And since semiconductor testers use a significant number of semiconductors, we continue to face production difficulties in the third quarter. 
+asr:0: OUTPUT 156.88-161.24: However, we made a company-wide effort to secure the necessary parts. 
+asr:0: OUTPUT 161.26-167.05: And were able to achieve sales and profits that exceeded our expectations three months ago. 
+asr:0: OUTPUT 168.55-177.18: As a result, third-quarter results include the record high quarterly sales and operating income since we began quarterly disclosure. 
+asr:0: OUTPUT 179.88-186.75: Details will be explained in the following slides. Please turn to page five. 
+asr:0: OUTPUT 189.45-191.39: Third quarter orders by segment. 
+asr:0: OUTPUT 192.75-200.24: In the second quarter, due to our extended product lead times, customers made production plans further in advance. 
+asr:0: OUTPUT 200.26-206.73: And we received many orders placed earlier than the conventional timing with respect to our lead times. 
+asr:0: OUTPUT 208.93-213.59: Although our product lead times have not come down in the third quarter. 
+asr:0: OUTPUT 213.65-219.82: The advance ordering trend that occurred in the second quarter has subsided considerably. 
+asr:0: OUTPUT 220.54-226.47: We believe this is the reason for the significant quarter-on-quarter decrease in orders in the third quarter. 
+asr:0: OUTPUT 228.21-231.63: Semiconductor and component test systems. 
+asr:0: OUTPUT 232.61-236.30: Orders were 102.5 billion yen. 
+asr:0: OUTPUT 236.32-239.66: Down 39.5% quarter on quarter. 
+asr:0: OUTPUT 239.90-247.93: Orders for SOC testers were 85.7 billion yen down by 62 billion yen, quote-unquote. 
+asr:0: OUTPUT 248.31-250.51: However, as shown in the graph on the right. 
+asr:0: OUTPUT 251.05-259.36: Demand for SOC testers is steadily increasing compared to last year and the year before last, mainly for high-end devices. 
+asr:0: OUTPUT 260.34-269.01: Orders achieved a level higher than our internal forecast three months ago, and we believe that customers' investment appetite is still strong. 
+asr:0: OUTPUT 270.35-276.40: Memory tester orders were 16.8 billion yen down by 5 billion yen quarter on quarter. 
+asr:0: OUTPUT 276.42-285.95: Orders for DRAM testers, which had been strong for some time through the second quarter, are taking a pause here, but this is in line with our expectations. 
+asr:0: OUTPUT 286.65-294.13: Mechatronics systems orders were 11.4 billion yen down by 35.3% quarter on quarter. 
+asr:0: OUTPUT 294.55-299.08: Mechatronics orders decreasing step with the fall off in test orders. 
+asr:0: OUTPUT 300.44-309.21: Service support and others orders were 22.4 billion yen up 34.8% quarter on quarter. 
+asr:0: OUTPUT 309.23-314.95: On top of continuing annual maintenance contract renewals, system-level test orders were strong. 
+asr:0: OUTPUT 317.88-321.78: Slide six shows the third quarter sales by segment. 
+asr:0: OUTPUT 323.20-328.65: Amidst continuing parts shortages, sales trended above our internal forecast. 
+asr:0: OUTPUT 330.65-337.44: For semiconductor and component test systems. Sales totals 80.2 billion yen. 
+asr:0: OUTPUT 337.46-341.34: Up 33.7% quarter on quarter. 
+asr:0: OUTPUT 342.78-351.77: Breaking that down, SoC tester sales were 63.1 billion yen and memory tester sales were 17.1 billion yen. 
+asr:0: OUTPUT 352.67-361.24: SoC tester sales were higher than expected, mainly for high-end SoC devices used in smartphones and servers. 
+asr:0: OUTPUT 363.84-370.01: Memory testers performed well overall in both the DRAM and non-volatile memory categories. 
+asr:0: OUTPUT 370.95-377.72: However, sales undershot expectations as some customers revised their investment plans. 
+asr:0: OUTPUT 379.30-385.89: Mechatronics systems totaled 10.9 billion yen, up 14.9% quarter and quarter. 
+asr:0: OUTPUT 386.97-393.37: Services, support and others totaled 21 billion yen, about the same as in the previous quarter. 
+asr:0: OUTPUT 394.89-398.32: Slide seven shows orders and sales by region. 
+asr:0: OUTPUT 400.44-401.98: First, the orders. 
+asr:0: OUTPUT 402.00-404.72: In Taiwan, South Korea. 
+asr:0: OUTPUT 404.92-414.39: Orders decreased in a reaction to the second quarter's surge, triggered by longer lead times for our products, which have now subsided. 
+asr:0: OUTPUT 415.30-423.28: China saw strong orders for testers for display driver ICs used in TVs and smartphones in the third quarter. 
+asr:0: OUTPUT 425.61-435.30: As for sales by region shown on the right, sales to South Korea declined slightly, but overall sales were on a growth trajectory. 
+asr:0: OUTPUT 438.54-441.66: Slide eight shows P&L related figures. 
+asr:0: OUTPUT 442.56-450.53: Gross margin was 57.9%. Our sales mix shifted towards more profitable products. 
+asr:0: OUTPUT 453.17-459.44: SG&A, including all other income and expenses, totaled 31.3 billion yen. 
+asr:0: OUTPUT 460.00-465.71: Support and other expenses increased fractionally following growth in revenues. 
+asr:0: OUTPUT 467.55-474.93: Operating income was 33.5 billion yen with operating margin at 29.9%. 
+asr:0: OUTPUT 477.80-485.97: Slide 9 shows the third quarter R&D expenses and others. R&D expenses totaled 11.8 billion yen. 
+asr:0: OUTPUT 486.47-490.43: R&D expenses to sales ratio was 10.5%. 
+asr:0: OUTPUT 491.25-494.39: CapEx amounted to 4.8 billion yen. 
+asr:0: OUTPUT 495.32-503.86: In the third quarter, we continue to steadily invest in the expansion of our US manufacturing base, which began in the second quarter. 
+asr:0: OUTPUT 505.21-512.85: Depreciation and amortization totaled 3.9 billion yen. Cash flow is shown on the right. 
+asr:0: OUTPUT 514.98-519.48: Free cash flow was net outflow of 16.6 billion yen. 
+asr:0: OUTPUT 520.90-525.29: Due to our acquisition of R&D Altenova in November,. 
+asr:0: OUTPUT 525.33-532.55: Cash flows from investing activities increased in the third quarter and free cash flow became negative. 
+asr:0: OUTPUT 535.46-543.72: Slide 10 shows the balance sheet as of December 31st. Total assets were 462.3 billion yen. 
+asr:0: OUTPUT 544.92-549.91: Cash and cash equivalents totaled 121.7 billion yen. 
+asr:0: OUTPUT 551.69-556.82: Goodwill and intangible assets amounted to 80.7 billion yen. 
+asr:0: OUTPUT 556.84-564.90: An increase of $26.6 billion quarter on quarter reflecting our acquisition of R&D Altenova. 
+asr:0: OUTPUT 565.95-571.45: As final figures for Purchase Price Allocation or PPA are not yet available. 
+asr:0: OUTPUT 571.95-576.70: We have booked goodwill and intangible assets based on provisional estimates. 
+asr:0: OUTPUT 577.34-582.68: Among liabilities, short-term borrowings totaled 28.7 billion yen. 
+asr:0: OUTPUT 583.14-592.25: As we continue to make aggressive investments in the U.S., such as the acquisition of R&D Altenova and expansion of our production base there,. 
+asr:0: OUTPUT 592.61-595.82: We have raised the necessary funds through short-term borrowings. 
+asr:0: OUTPUT 596.26-601.38: Equity accruable to owners of the parent was 281.5 billion yen. 
+asr:0: OUTPUT 601.64-607.69: Equity ratio was 60.9%, down 4.9 points quarter on quarter. 
+asr:0: OUTPUT 608.23-612.37: The progress of our share repurchase is disclosed in our filing. 
+asr:0: OUTPUT 612.57-619.56: By the end of December, 4.68 million shares of common stock had been acquired for 45.7 billion yen. 
+asr:0: OUTPUT 620.00-628.15: Accounting for 47% over upper limit of 10 million shares and 65% over upper limit of 70 billion yen. 
+asr:0: OUTPUT 628.79-631.95: That concludes my presentation on the third quarter results. 
+asr:0: OUTPUT 634.47-639.86: This is Yoshida. I present the outlook for FY 2021. 
+asr:0: OUTPUT 641.42-646.77: Please turn to page 12. Semiconductor tester market trends. 
+asr:0: OUTPUT 648.05-657.80: Ongoing semiconductor performance gains and growing production volumes made 2021 a very active year for the semiconductor tester market. 
+asr:0: OUTPUT 659.82-671.17: Although this is a preliminary figure, the value at the semiconductor test market in 2021 is thought to have been about 5.4 billion US dollars. 
+asr:0: OUTPUT 671.19-673.75: Increased of about 30% year-on-year. 
+asr:0: OUTPUT 676.44-685.83: Various changeable factors may affect the 2022 tester market, such as our lead time situation and visibility is poor. 
+asr:0: OUTPUT 687.21-696.10: But we expect SOC tester market growth to range from about 10% to slightly over 20% year on year. 
+asr:0: OUTPUT 698.56-707.43: Breaking this down, we expect that automotive, industrial, and consumer-related semiconductors will make further gains in 2022. 
+asr:0: OUTPUT 708.15-713.33: At the same time, leading-edge products will continue to play the role of growth driver. 
+asr:0: OUTPUT 715.76-719.82: For the past decade, smartphone application processors. 
+asr:0: OUTPUT 719.84-723.78: Have been the forefront of semiconductor performance gains. 
+asr:0: OUTPUT 723.94-729.93: But in 2022, we expect high-performance computing devices to take the lead. 
+asr:0: OUTPUT 732.03-740.82: Memory tester market growth is expected to range from slightly below 10% to 15% year-on-year in 2022. 
+asr:0: OUTPUT 743.14-752.77: The trend toward memory device performance gains, including greater density, faster speed, and higher bandwidth, is promoting the growth of the test market. 
+asr:0: OUTPUT 755.40-762.42: We still cannot make any clear and quantitative predictions about 2023 and beyond. 
+asr:0: OUTPUT 764.82-774.67: However, we believe even if the current theory's shortage of semiconductors resolved, structures demand for semiconductors will continue to grow. 
+asr:0: OUTPUT 775.70-780.58: Further miniaturization and further improvement in semiconductor integration. 
+asr:0: OUTPUT 780.60-789.19: Through the adoption of advanced packages, we generate demand for more sophisticated and more highly integrated test solutions. 
+asr:0: OUTPUT 791.25-796.18: We believe that the textile market will continue to grow over the medium to long term. 
+asr:0: OUTPUT 799.32-808.17: Despite minor adjustment. Please turn to page 13. FY 2021 forecast. 
+asr:0: OUTPUT 810.99-819.56: Based on our results through the third quarter and our outlook for the fourth quarter, we have revised our three-year forecast upward. 
+asr:0: OUTPUT 820.28-822.12: Orders are now expected. 
+asr:0: OUTPUT 822.14-835.88: To increase by 85 billion yen to 650 billion yen, sales and operating income are expected to increase by 10 billion yen to 410 billion yen and 115 billion yen respectively. 
+asr:0: OUTPUT 837.36-843.88: And net income is expected to increase by 7.5 billion to 86.3 billion. 
+asr:0: OUTPUT 846.23-852.89: Our current priority is parks procurement, and we cannot yet to be optimistic here. 
+asr:0: OUTPUT 854.45-858.10: Sudden delays in the delivery of parts may occur. 
+asr:0: OUTPUT 858.96-866.87: And we cannot assume this presents no risk to our achievement of our fourth quarter sales plan. 
+asr:0: OUTPUT 867.51-876.06: That said, we are working to secure necessary parts and expect to set new sales and profit records for the second consecutive year. 
+asr:0: OUTPUT 878.26-881.04: Gross profit margin is expected to be around. 
+asr:0: OUTPUT 881.08-888.41: 57% for the full year as our product mix in the second half is better than it was three months ago. 
+asr:0: OUTPUT 889.71-896.12: S, G, and A expenses in the fourth quarter are expected to be flat or slightly down from the third quarter. 
+asr:0: OUTPUT 897.78-899.00: Forecast. 
+asr:0: OUTPUT 899.02-908.01: Is based on the exchange rate assumptions of 1 US dollar to 115 Japanese yen and 1 euro to 130 Japanese yen. 
+asr:0: OUTPUT 908.03-910.71: For the fourth quarter FY 2021. 
+asr:0: OUTPUT 911.63-923.42: Our latest forecast for the impact of exchange rate fluctuation on FI21 operating income is plus 1 billion yen per 1 yen of Japanese yen depreciation versus US dollar. 
+asr:0: OUTPUT 923.48-927.23: And minus 150 million yen per. 
+asr:0: OUTPUT 927.25-931.23: Yen of Japanese yen depreciation versus the euro. 
+asr:0: OUTPUT 932.85-942.88: As announced in November 2021, we acquired R&D out and over and started financial consolidation from the middle of the third quarter. 
+asr:0: OUTPUT 942.90-947.95: The impact on our business results for the current fiscal year is expected to be minor. 
+asr:0: OUTPUT 950.91-953.63: Slide 14. 
+asr:0: OUTPUT 954.25-956.66: FY21 Outlook by Segment. 
+asr:0: OUTPUT 958.98-962.36: As for semiconductor and component test systems outlooks. 
+asr:0: OUTPUT 963.54-973.57: Our full year sales forecast for SoC testers is 218 billion yen, up 16 billion yen from our October forecast. 
+asr:0: OUTPUT 976.00-983.36: The increasing complexity of testing APU, application processors, HPC, high-performance computers,. 
+asr:0: OUTPUT 983.38-987.55: And other devices due to neutralization. 
+asr:0: OUTPUT 987.57-990.77: Continues to drive strong demand for testers. 
+asr:0: OUTPUT 992.71-999.62: Customer motivation to invest in automotive industrial and display tests has remained high. 
+asr:0: OUTPUT 999.64-1003.08: And strong orders for SOC testers continue. 
+asr:0: OUTPUT 1005.63-1014.83: Our full year sales forecast for memory testers is 62 billion yen, down 10 billion yen from our October forecast. 
+asr:0: OUTPUT 1018.00-1027.53: As you can see from our orders, demand for DDR5, the next generation DRAM, and non-volatile memory is solid as a whole. 
+asr:0: OUTPUT 1028.53-1036.60: But we lowered our sales forecast in light of certain customers revising their investment plans in the second half of the year. 
+asr:0: OUTPUT 1039.28-1049.47: Slide 15. Our full year sales forecast for mechatronics system is 45.5 billion yen. 
+asr:0: OUTPUT 1050.17-1052.93: Slightly lower than the October forecast. 
+asr:0: OUTPUT 1055.74-1064.80: We have raised our full-year sales forecast for the services and other segments by 6.6 billion yen to 84.6 billion yen. 
+asr:0: OUTPUT 1066.57-1072.43: Currently, our system level test business mainly targets high-end SOCs. 
+asr:0: OUTPUT 1072.45-1082.18: As seen in our FOC tester outlook, test demand in that area is growing more than expected, raising our expectations for the full year. 
+asr:0: OUTPUT 1084.00-1092.25: Also, in the system-level test business, we plan to strategically increase recurring revenue as a percentage of sales. 
+asr:0: OUTPUT 1092.27-1095.90: Through aggressive M&A and flexible capital investment. 
+asr:0: OUTPUT 1096.56-1103.66: We will continue to steadily implement business expansion measures and promote the diversification of our earnings base. 
+asr:0: OUTPUT 1107.23-1109.17: Slide 16 is the summary. 
+asr:0: OUTPUT 1111.77-1116.06: 2021 a very strong year for the tester market is over. 
+asr:0: OUTPUT 1116.12-1125.57: But our business discussions with semiconductor manufacturers indicate that there is currently no sign of demand declining anywhere. 
+asr:0: OUTPUT 1127.47-1141.94: The direction of the semiconductor market and the final product markets prefigures continued active investments in test capacity to improve the performance and reliability of semiconductors in 2022. 
+asr:0: OUTPUT 1143.68-1152.35: In order to keep up with our customers' appetite for investment, we will continue to make stabilizing parts to procurement a priority. 
+asr:0: OUTPUT 1153.81-1163.70: In view of future sustainable expansion of our business opportunities, we will steadily promote measures for medium to long-term business growth and greater resilience. 
+asr:0: OUTPUT 1165.93-1170.37: Our sales have almost doubled in the four years since 2017. 
+asr:0: OUTPUT 1171.07-1179.44: We see the need to steadily strengthen our internal control system in line with the expanding scale of our business. 
+asr:0: OUTPUT 1181.62-1190.93: We will improve operational excellence by responding to shifts such as changes in work styles and lifestyle triggered by COVID-19. 
+asr:0: OUTPUT 1190.95-1191.95: In. 
+asr:0: OUTPUT 1192.13-1197.42: ESG related changes in the capital markets and society, et cetera. 
+asr:0: OUTPUT 1198.82-1206.75: Demand is strong, but we are aware of the risk of new issues emerging just when everything seems to be going well. 
+asr:0: OUTPUT 1207.89-1216.68: We will work on early achievement of our mid-term management plan targets while being fully alert to such risks as. 
+asr:0: OUTPUT 1216.70-1221.96: Worsening of products' performance due to supply chain bottlenecks and logistical difficulties. 
+asr:0: OUTPUT 1222.24-1226.27: Declining demand due to slowdowns in the global economic recovery. 
+asr:0: OUTPUT 1226.35-1232.73: Potential impacts from US-China conflict and economic security policies on the semiconductor industry,. 
+asr:0: OUTPUT 1233.03-1238.78: As well as geopolitical risks such as the recent Ukraine-Russia tensions. 
+asr:0: OUTPUT 1239.80-1246.27: Thank you for your attention. We will proceed to Q&A session. 
+asr:0: OUTPUT 1249.33-1252.51: The question is from Mr. Wadaki of Nomura Securities. 
+asr:0: OUTPUT 1255.18-1257.90: Thank you for the striking financial results today. 
+asr:0: OUTPUT 1259.26-1265.69: One question per person, so firstly, I'd like to ask about the order forecast that you revised upward this time. 
+asr:0: OUTPUT 1267.49-1274.19: Let us know its content and would you have any concern for the slowdown that was presented by Teradyne? 
+asr:0: OUTPUT 1276.48-1277.54: This is Sakamoto. 
+asr:0: OUTPUT 1279.90-1286.29: As for the orders in the third quarter which showed upside, I'd like to make some comments. 
+asr:0: OUTPUT 1288.55-1295.98: Order was up by 36 billion yen and as for the breakdown, SOC tester was up 27 billion yen. 
+asr:0: OUTPUT 1297.26-1306.09: As mentioned before, the customer's demand for high-end devices, including APU and HPC, has been increasing. 
+asr:0: OUTPUT 1308.41-1311.33: And the demand for DDIC is also picking up. 
+asr:0: OUTPUT 1313.21-1318.16: And a mix of the SOC order. 
+asr:0: OUTPUT 1318.68-1328.49: In the third quarter is 70% by computer communication, 15% by automotive, industrial and consumer related, and 15% by DDI. 
+asr:0: OUTPUT 1329.27-1335.52: Memory was in line with expectation. Mechatronics was up 3 during then, boosted by device interface. 
+asr:0: OUTPUT 1336.10-1340.86: And service was up by 6 billion and half of the increase was by authority. 
+asr:0: OUTPUT 1342.60-1344.64: As for the three-year forecast. 
+asr:0: OUTPUT 1346.13-1355.48: It was revised up by 85 billion yen with 70 billion yen outside of SOC tester and 15 billion yen of service and others. 
+asr:0: OUTPUT 1357.36-1362.78: Not only for the leading-edge chips, but overall SoC testing is expected to grow. 
+asr:0: OUTPUT 1363.14-1371.01: Service and others growth will be driven mainly by the growth of SRT. Yoshida speaking. 
+asr:0: OUTPUT 1372.75-1377.64: You may have the impression of a slowdown due to the peers announcement. 
+asr:0: OUTPUT 1379.50-1387.63: But the difference between us and the peer is that we have extensive customer base for high-performance computing. 
+asr:0: OUTPUT 1388.37-1390.17: And these two marked dust tone grooves. 
+asr:0: OUTPUT 1392.81-1395.70: That is demonstrated by the grossing orders. 
+asr:0: OUTPUT 1398.90-1407.41: Test time is getting longer for the leading edge process. And this strength is a source of the differentiation. 
+asr:0: OUTPUT 1410.37-1418.80: Thank you very much. As a follow-up question, Mr. Yoshida now commented on HPC and it will be the future pillar of the business. 
+asr:0: OUTPUT 1419.02-1427.77: When you say HPC, do you mean GPU or ARM core? And if it is GPU, would you give us the background of the longer test time for GPU? 
+asr:0: OUTPUT 1431.01-1438.72: Thank you Mr. Wadaki, this is Mihashi. We categorized as HPC, High Performance Computing. 
+asr:0: OUTPUT 1440.34-1444.18: And that includes graphic processor unit, as we mentioned. 
+asr:0: OUTPUT 1446.17-1452.65: And diverse accelerators for processing and high-end FPGA. 
+asr:0: OUTPUT 1455.18-1458.66: High-end applications for data center are included here. 
+asr:0: OUTPUT 1461.40-1464.14: So this is not only for GPU. 
+asr:0: OUTPUT 1467.13-1472.31: We're understood. Thank you. Thank you very much. 
+asr:0: OUTPUT 1474.83-1476.02: Thank you for the question. 
+asr:0: OUTPUT 1480.56-1485.01: The next question is from Mr. Yoshida of CNSH Securities. 
+asr:0: OUTPUT 1486.91-1490.03: This is Yoshida of CLSA Securities. Do you hear me? 
+asr:0: OUTPUT 1493.01-1500.00: Yes, you presented the market estimate for this year, 4.525 billion. 
+asr:0: OUTPUT 1500.82-1509.79: For SLC and 1.4 to 1.5 billion U.S. Dollars for memory. And you talked about the difference between you and the competitors. 
+asr:0: OUTPUT 1511.95-1513.65: How do you see the shared dynamics? 
+asr:0: OUTPUT 1514.39-1523.44: Presumably, as you mentioned, your HPC customers will adopt more 5nano G, and I assume that will lead to your share gain. 
+asr:0: OUTPUT 1524.06-1529.41: We should comment on the shared dynamics of SOC and memory from the previous year to this year. 
+asr:0: OUTPUT 1532.07-1533.69: Mr. Yoshida, this is Mihashi. 
+asr:0: OUTPUT 1536.18-1546.11: I took that your question is about the comparison between the calendar year 2021 and the calendar year 2022. Is that right? Yes. 
+asr:0: OUTPUT 1549.01-1553.09: Share dynamics is clearly affected by Cosimo's business trend. 
+asr:0: OUTPUT 1556.30-1559.96: As for the next year according to our market forecast. 
+asr:0: OUTPUT 1562.92-1569.21: Though it is slightly hard to tell, competitors' customers' business trends will slow down. 
+asr:0: OUTPUT 1571.83-1574.71: And naturally it will lead to our share gain. 
+asr:0: OUTPUT 1576.02-1580.34: So next year, our share in computer communication will grow. 
+asr:0: OUTPUT 1582.48-1585.43: And besides the share gain in high-end products,. 
+asr:0: OUTPUT 1586.13-1592.59: We expect substantial market growth of automotive, industrial and consumer-related next year as well. 
+asr:0: OUTPUT 1594.67-1598.66: We included the share gain in those markets in our forecast for the year. 
+asr:0: OUTPUT 1600.50-1607.23: SO memory, I said before that HPC will push up the SOC business. 
+asr:0: OUTPUT 1609.39-1612.43: And with the growth of high-end performance computing. 
+asr:0: OUTPUT 1614.37-1615.62: Or memory fried. 
+asr:0: OUTPUT 1617.32-1623.96: HBM2, DDR6 full graphic or a DDR5. 
+asr:0: OUTPUT 1624.70-1627.65: Such DRAM application will be growing next year. 
+asr:0: OUTPUT 1629.37-1632.97: And based on these, we proved up the market estimate. 
+asr:0: OUTPUT 1633.77-1638.72: In these areas, we expect that our customers will move actively next year. 
+asr:0: OUTPUT 1640.68-1643.80: And that will result in our share gain. 
+asr:0: OUTPUT 1646.53-1652.81: Thank you. So we expect to gain, share both in SoC and memory in 2022, do you? 
+asr:0: OUTPUT 1655.56-1664.08: Sakamoto speaking, as Yoshida mentioned before, we expect in 2022 HPC will gain strong momentum. 
+asr:0: OUTPUT 1664.62-1671.67: We did have high share of visit and through customer engagement, we were getting share and boost sales. 
+asr:0: OUTPUT 1673.43-1681.72: Data center demand will grow, and the full-fledged mass production will launch for DRAM and DDR5. 
+asr:0: OUTPUT 1683.72-1688.49: As we have strong share in V-RAM, we regain share in this area as well. 
+asr:0: OUTPUT 1690.61-1694.57: And we achieve strong share gain in SOC and memory. 
+asr:0: OUTPUT 1696.12-1702.52: Thank you. As a follow-up question, you commented on the direction in 2022. 
+asr:0: OUTPUT 1703.48-1711.97: But farther down the road, toward 2023, you gave us some colors before that the growth will be sustained. 
+asr:0: OUTPUT 1712.31-1719.04: But toward 2023, with the rollout of 3NanoG, competitors' customers will increase investment. 
+asr:0: OUTPUT 1719.96-1723.18: How shall we see your business towards 2023? 
+asr:0: OUTPUT 1724.58-1729.91: For 3nanoG, you may have new customers who are not the customers of competitors. 
+asr:0: OUTPUT 1730.57-1738.26: But can you capture a new business at the launch of 3NanoG? How should we see your prospect for 2023? 
+asr:0: OUTPUT 1740.42-1746.53: Yesheetha speaking, given the 30% growth in 2021. 
+asr:0: OUTPUT 1747.01-1753.91: 20% in 2022, you may wonder the sustainability of the growth in 2023. 
+asr:0: OUTPUT 1756.34-1758.12: I'm not optimistic either. 
+asr:0: OUTPUT 1760.16-1764.28: Currently with a longer lead time, order levels have been high. 
+asr:0: OUTPUT 1766.37-1772.33: And when the leave time is shortened, the growth in orders will be slowing down. 
+asr:0: OUTPUT 1774.73-1780.12: But we have high expectations for the node development from 5 nano to 3 nano. 
+asr:0: OUTPUT 1782.74-1790.75: With the progress, the testing is technically getting more difficult and customers are also wondering how to test products. 
+asr:0: OUTPUT 1791.81-1797.94: This is the area where we can leverage our strengths with the strong appetite for technology buy. 
+asr:0: OUTPUT 1800.06-1806.95: We may observe overall slowdown, but in our prospect, demand for test for new technology. 
+asr:0: OUTPUT 1807.81-1817.72: Will be sustained in 2023, 2024, and 2025. I say thank you. 
+asr:0: OUTPUT 1819.84-1829.47: Thank you for the question. Next question is from Mr. Damien Thon of Macquarie Capital Securities. 
+asr:0: OUTPUT 1832.21-1835.74: This is Damian Sun of Macquarie Capital. 
+asr:0: OUTPUT 1836.04-1845.47: Do you hear me? In your guidance for the fourth quarter, OP margin is considerably high. 
+asr:0: OUTPUT 1847.99-1851.47: It might be the record high, 30.9%. 
+asr:0: OUTPUT 1853.61-1859.00: And your order backlog is high, and the ratio of SOC tests is also high. 
+asr:0: OUTPUT 1859.84-1865.31: As for the OP margin for the next year, will it be sustained or will it increase further? 
+asr:0: OUTPUT 1867.31-1871.17: Would you conceive any upside potential and downside risk? 
+asr:0: OUTPUT 1872.93-1880.46: The forecast on page 13 shows the operating margin for the full quarter as 30.9%. 
+asr:0: OUTPUT 1882.28-1885.45: This is supported by the favorable product mix. 
+asr:0: OUTPUT 1887.41-1891.03: And given the older backlog of SOC,. 
+asr:0: OUTPUT 1891.37-1899.06: I expect the similar level of OB merging is achievable in the process of working on the older backlog. 
+asr:0: OUTPUT 1901.48-1906.55: But we also expect the cost increase in parts, logistics, and labor. 
+asr:0: OUTPUT 1908.27-1911.15: So the actual situation is highly uncertain. 
+asr:0: OUTPUT 1913.71-1918.68: We have not secured all the parts for 2022 yet. 
+asr:0: OUTPUT 1920.44-1926.89: So given those concerns, if we can achieve the guidance for the fourth quarter,. 
+asr:0: OUTPUT 1927.97-1931.21: You can take the next year will be close to this level. 
+asr:0: OUTPUT 1933.17-1940.40: Thank you. Supply tightness of the semiconductor will continue everywhere. 
+asr:0: OUTPUT 1942.32-1943.92: But the abuse severity. 
+asr:0: OUTPUT 1945.71-1949.55: How much of your need for the next year is already secured? 
+asr:0: OUTPUT 1951.57-1959.12: With a growth of 20% for SOC tester, how much can you cover in your supply chain? 
+asr:0: OUTPUT 1961.90-1967.15: Are you asking about our supply chain, not about the entire semiconductor? 
+asr:0: OUTPUT 1968.61-1972.17: Your supply chain of semiconductor and non-semiconductor. 
+asr:0: OUTPUT 1973.59-1983.10: How far older backlog can you manage? Six months or nine months? How much remaining risks do you have now? 
+asr:0: OUTPUT 1985.29-1991.07: Even for the stairs in the fourth floor, I said in the presentation that I cannot say no risk. 
+asr:0: OUTPUT 1992.87-1997.08: In the very tight condition, we are negotiating with our suppliers. 
+asr:0: OUTPUT 1998.76-2006.99: And unfortunately, at this moment, we cannot comment about what is happening, what timing through the year. 
+asr:0: OUTPUT 2008.29-2014.59: This is not our unique issue, but automotive and many other companies share the same issue. 
+asr:0: OUTPUT 2017.04-2021.64: But for some product due to the economic slowdown in China. 
+asr:0: OUTPUT 2022.78-2031.49: Inventory built up will halt, and excess generated there might relieve pressure on other semiconductors. 
+asr:0: OUTPUT 2033.43-2036.56: And this might mitigate the supply-demand tightness. 
+asr:0: OUTPUT 2038.94-2042.48: I hope you understand that we cannot specify. 
+asr:0: OUTPUT 2042.50-2049.45: The timing and how it will be resolved clearly at this moment. Understood. Thank you. 
+asr:0: OUTPUT 2051.31-2054.69: However, our customers are also serving as suppliers. 
+asr:0: OUTPUT 2055.06-2062.24: So despite the strong customer's request for testers actually, we cannot produce due to the lack of semiconductor. 
+asr:0: OUTPUT 2063.08-2067.41: Such session has been ongoing so through various channels. 
+asr:0: OUTPUT 2068.21-2075.08: Now we are trying to build momentum to prioritize SPE in supply of semiconductor. 
+asr:0: OUTPUT 2077.00-2082.28: Thank you for your detailed explanation. Thank you for the question. 
+asr:0: OUTPUT 2085.65-2095.14: Next question is from Mr. Hirakawa of B of A Securities. Thank you. I'm Hirakawa of B of A. 
+asr:0: OUTPUT 2097.34-2099.84: I also would like to ask about the past procurement. 
+asr:0: OUTPUT 2100.34-2109.39: I'd like to hear about the current post-procurement environment compared to three months ago. Has it changed or remain unchanged or getting worse? 
+asr:0: OUTPUT 2111.39-2116.52: Has a part in short changed? Let us know the change from three months ago. 
+asr:0: OUTPUT 2118.38-2122.60: The issues visible three months ago remain unsolved. 
+asr:0: OUTPUT 2124.72-2130.91: In our case, the parts, in short, are very limited and they have not expanded. 
+asr:0: OUTPUT 2132.93-2139.70: And since they are semiconductor parts, for the sudden production increase demand,. 
+asr:0: OUTPUT 2142.28-2151.85: If FAS has extra capacity, that would be duly responded, but actually there is no such extra capacity and that's ongoing. 
+asr:0: OUTPUT 2151.87-2160.10: There is a demand for production increase. Priority in the FAB needs to be adjusted. As a result,. 
+asr:0: OUTPUT 2161.26-2166.11: Whether any improvement is observed from three months ago, we do not fear so. 
+asr:0: OUTPUT 2167.97-2170.69: But we did not see the aggravation either. 
+asr:0: OUTPUT 2172.01-2178.74: Orders have been increasing further, and we need to place additional orders for supply years. 
+asr:0: OUTPUT 2180.00-2183.18: But suppliers cannot respond immediately. 
+asr:0: OUTPUT 2184.99-2193.97: I see. Thank you. A follow-up question. I'm always impressed with Mr. Yoshida's cautious remarks. 
+asr:0: OUTPUT 2196.82-2203.08: Now you are expecting the SOC testing market to grow by 10-20%. 
+asr:0: OUTPUT 2203.10-2208.57: And you're expecting over 20% growth in your revenue. 
+asr:0: OUTPUT 2209.97-2215.24: True, you did say you haven't fully secured all of the necessary parts for that. 
+asr:0: OUTPUT 2215.48-2225.17: But I got the impression that you actually have a pretty good prospect for satisfying the procurement requirements. Can you elaborate on that? 
+asr:0: OUTPUT 2226.45-2235.88: We are providing our suppliers with a longer-term forecast together with purchase orders being placed early on. 
+asr:0: OUTPUT 2236.66-2243.40: So true, we believe that the volume of a secured part should increase from what it is today. 
+asr:0: OUTPUT 2244.32-2249.85: But the question is, can we really secure all the amounts for sure, with absolute certainty? 
+asr:0: OUTPUT 2250.09-2255.82: Well, many things could happen with semiconductor supplies, including some unexpected defects. 
+asr:0: OUTPUT 2256.26-2265.23: So in that sense, we do not have a full visibility. There are some wafers that have yet to be loaded, so there are risks in that sense. 
+asr:0: OUTPUT 2266.65-2273.13: But keep in mind that we will start from the Oda backlog of 360 billion yen. 
+asr:0: OUTPUT 2274.01-2280.80: And at the current rate that 350 billion yen worth should be shipped in less than a year. 
+asr:0: OUTPUT 2281.50-2286.13: And we do have actions in place to procure the necessary parts. 
+asr:0: OUTPUT 2286.75-2296.60: The point is we are taking action, but whether they would ensure the full amount is not 100% sure. I see. Thank you. 
+asr:0: OUTPUT 2299.42-2304.82: Next is Mr. Nakamura from Goldman Sachs. Thank you. 
+asr:0: OUTPUT 2306.87-2316.22: You said system level test demand at the present moment is very strong. Can you elaborate on the background? 
+asr:0: OUTPUT 2317.84-2323.86: I understand that it is in conjunction with strong demand for SoC testers. 
+asr:0: OUTPUT 2324.44-2331.01: But is it due to an increase in the number of customers or is it due to increase in applications? 
+asr:0: OUTPUT 2332.69-2334.37: This is Mihashi speaking. 
+asr:0: OUTPUT 2335.22-2341.48: The background for strong SLT demand is, as you indicated,. 
+asr:0: OUTPUT 2341.50-2344.20: The system market itself growing. 
+asr:0: OUTPUT 2344.42-2355.74: Basically, starting from APU and other mobility applications to high-end and or automotive applications. 
+asr:0: OUTPUT 2357.44-2359.32: In addition,. 
+asr:0: OUTPUT 2359.34-2368.25: We are focusing on recurring consumables business related to SLT hardware and system sales. 
+asr:0: OUTPUT 2369.55-2374.65: The combination of the two are driving the current strong order levels. 
+asr:0: OUTPUT 2376.36-2384.02: I see. So in that sense, it's not the increase in customers but increase in applications. Am I correct? 
+asr:0: OUTPUT 2385.01-2392.41: Yes, but increased applications also entail increased customers. 
+asr:0: OUTPUT 2393.75-2398.20: I see. A follow-up question on profitability. 
+asr:0: OUTPUT 2399.82-2407.19: Current profitability or the operating, the profit margin of a system level test is what I have a question on. 
+asr:0: OUTPUT 2407.71-2411.49: How does it compare to your overall company-wise profit margin? 
+asr:0: OUTPUT 2413.73-2422.24: Profit margin of system level tests is not very different from that of ATE profitability overall. 
+asr:0: OUTPUT 2423.20-2424.58: So pretty high. 
+asr:0: OUTPUT 2426.71-2430.13: The new acquisition has yet to be included. 
+asr:0: OUTPUT 2432.17-2440.00: But the profit margin of the two previous acquisitions as well as the business for SSDs. 
+asr:0: OUTPUT 2440.44-2446.11: It's not very different from that of SoC tester or ATE overall. 
+asr:0: OUTPUT 2448.75-2457.22: I see. So that means a margin of over 30%, correct? Do you mean gross margin? 
+asr:0: OUTPUT 2457.60-2459.16: No operating margin. 
+asr:0: OUTPUT 2460.82-2468.89: Actually, none of our businesses have reached over a 30% operating margin yet. It's a little less than that. 
+asr:0: OUTPUT 2470.41-2476.08: Our internal projection of 30% is overall for the fourth quarter. 
+asr:0: OUTPUT 2478.38-2483.72: So it could be close to 30%. Maybe ATE is a bit higher. 
+asr:0: OUTPUT 2484.82-2487.27: I see, that's helpful. Thank you, that's all. 
+asr:0: OUTPUT 2490.41-2494.67: Next is Mr. Hasegawa from Mitsubishi UFJ Morgan Stanley. 
+asr:0: OUTPUT 2496.58-2501.90: Thank you. I would like to ask further on memory testers. 
+asr:0: OUTPUT 2504.04-2511.51: I know it's a delicate subject, but you mentioned some customers revising their investment plans. 
+asr:0: OUTPUT 2512.75-2518.96: Can you elaborate on that to the extent possible? Also, what about other factors? 
+asr:0: OUTPUT 2521.54-2528.19: This is Sakamoto speaking. Yes, some customers revise their investment plans. 
+asr:0: OUTPUT 2529.43-2532.03: But I will refrain from giving specifics. 
+asr:0: OUTPUT 2533.51-2541.34: One thing I can say for sure is that while we revised the guidance downward by 10 billion yen,. 
+asr:0: OUTPUT 2541.68-2550.63: It is not due to order cancellations or competitors taking our market share or slowing down the market. 
+asr:0: OUTPUT 2553.15-2561.58: So we regard this as the postponement which shall contribute to the FY22 sales. 
+asr:0: OUTPUT 2564.60-2571.55: I see. So what about other customers or applications such as DRAM and NAND? 
+asr:0: OUTPUT 2574.43-2576.08: Market is very strong. 
+asr:0: OUTPUT 2576.30-2585.09: As for DRAM, as mentioned earlier, customers are investing to prepare for the mass production of DDR5. 
+asr:0: OUTPUT 2585.17-2588.09: The same for LP DGR5. 
+asr:0: OUTPUT 2588.83-2598.12: As for NAND, manufacturers are adding more layers. They have plans for that and are executing that. 
+asr:0: OUTPUT 2598.82-2606.89: Both DRAM and NAND-related investments are very active, so we will make sure we capture that momentum. I see. 
+asr:0: OUTPUT 2608.19-2613.53: So investment plan changes are limited only to specific customers. 
+asr:0: OUTPUT 2614.25-2622.58: And as far as other customers and applications are concerned, strong investment momentum continues. Am I correct? Yes. 
+asr:0: OUTPUT 2623.58-2632.47: You talked about gaining more market share next year. So is it fair to say that that should be carried over to FY22? Yes. 
+asr:0: OUTPUT 2633.97-2635.08: Thank you, that's all. 
+asr:0: OUTPUT 2637.92-2643.22: Next is Mr. Yoshikawa from Morgan Stanley MUFG Securities. 
+asr:0: OUTPUT 2646.15-2655.02: Thank you. I think my question has been generally answered by your previous comments, but just for clarification. 
+asr:0: OUTPUT 2656.64-2666.11: Your projection for 2022 SOC tester market is between 4.5 to 5 billion dollars. 
+asr:0: OUTPUT 2666.13-2670.23: With growth rate of 10% to over 20%. 
+asr:0: OUTPUT 2670.51-2672.39: That's a pretty wide range. 
+asr:0: OUTPUT 2672.97-2675.98: I take it that given a large order backlog. 
+asr:0: OUTPUT 2676.18-2684.18: This wide range is not due to demand, but that it depends on the parts procurement level. Am I correct? 
+asr:0: OUTPUT 2685.11-2687.59: Yes, we believe that will be a big factor. 
+asr:0: OUTPUT 2690.39-2698.58: Plus the investment level of semiconductor manufacturers where our exposure is small. 
+asr:0: OUTPUT 2698.60-2700.62: Which is not yet clear. 
+asr:0: OUTPUT 2701.88-2705.25: So it's a combination of those two factors. 
+asr:0: OUTPUT 2707.11-2714.07: I see. So let's use this midpoint as over 15% growth. 
+asr:0: OUTPUT 2714.91-2721.62: Based on what you said, your market share is expected to increase in 2022. 
+asr:0: OUTPUT 2722.30-2729.85: So it could be higher, closer to 20% or even higher on a calendar year basis. Am I correct? 
+asr:0: OUTPUT 2731.99-2736.30: For SoC overall, yes, that is our expectation. 
+asr:0: OUTPUT 2737.06-2738.98: I see. A follow-up question. 
+asr:0: OUTPUT 2740.26-2745.79: Regarding SOC, you said you have great expectation for HPC. 
+asr:0: OUTPUT 2746.67-2755.64: Maybe it's an awkward question, but looking at HVC, communication, and other automotive applications,. 
+asr:0: OUTPUT 2756.04-2759.20: How would you rank them in terms of growth rate? 
+asr:0: OUTPUT 2761.42-2766.53: This is Mihashi speaking. You mentioned HPC. 
+asr:0: OUTPUT 2768.19-2776.18: Communication applications, meaning mobile, and automotive and industrial equipment. 
+asr:0: OUTPUT 2778.20-2785.43: Automotive and industrial equipment are small in terms of TAM, but. 
+asr:0: OUTPUT 2785.45-2788.21: They have highest growth rates. 
+asr:0: OUTPUT 2790.59-2792.51: Followed by HPC. 
+asr:0: OUTPUT 2793.43-2803.38: Mobile market is still large, but in terms of growth, I think it's fair to say it's close to flat growth. I see, thank you. 
+asr:0: OUTPUT 2804.16-2805.63: What about display driver? 
+asr:0: OUTPUT 2808.29-2810.67: For display driver. 
+asr:0: OUTPUT 2810.69-2818.60: Slab to slight increase is what we project for calendar year 22. 
+asr:0: OUTPUT 2819.16-2820.52: Thank you. That's all. 
+asr:0: OUTPUT 2823.76-2826.89: Next is Mr. Maekawa from Credit Suisse. 
+asr:0: OUTPUT 2828.67-2833.81: Thank you. I have a question on your market share. 
+asr:0: OUTPUT 2835.86-2844.56: Earlier you mentioned as a factor, major semiconductor manufacturer where your current share is low. 
+asr:0: OUTPUT 2845.55-2852.37: I'm wondering if you'll be able to comment on that factor starting 2023. 
+asr:0: OUTPUT 2853.39-2863.34: I say that because right now that company is only doing APU, but most probably from next year it will start using its own modems. 
+asr:0: OUTPUT 2864.58-2871.05: And I believe you have a 100% market share in the conventional modem suppliers. 
+asr:0: OUTPUT 2871.53-2877.02: So I'm wondering if we can expect you to win that business next year. 
+asr:0: OUTPUT 2878.10-2885.79: Also, I don't know if we can call them the new customers, but I'm interested in hyperscalers. 
+asr:0: OUTPUT 2885.81-2889.65: Which are increasingly using their own chips. 
+asr:0: OUTPUT 2890.07-2896.46: Could they be added to your customer base? What's your expectation for this year and the next? 
+asr:0: OUTPUT 2898.18-2904.08: In terms of expectation, yes, we have a great expectation for hyperscalers. 
+asr:0: OUTPUT 2906.09-2909.79: But what will be the volume is still not clear. 
+asr:0: OUTPUT 2911.27-2917.72: And regarding the start of in-house production at the company where current exposure is low,. 
+asr:0: OUTPUT 2918.22-2922.02: Of course, we are making marketing efforts aggressively. 
+asr:0: OUTPUT 2922.24-2928.71: And similarly, our competitor, our peer, is approaching our customers aggressively. 
+asr:0: OUTPUT 2929.77-2936.60: Our current exposure is limited, but we are making efforts to increase that. 
+asr:0: OUTPUT 2938.96-2944.38: So what are our expectations for 23 and 24? 
+asr:0: OUTPUT 2945.97-2954.63: Since we are competing head to head, frankly, we wouldn't know until we actually see the results. 
+asr:0: OUTPUT 2956.84-2963.74: In terms of the market share, even for SOC testers, it's currently 50-50. 
+asr:0: OUTPUT 2964.74-2970.17: Evenly split between the peer and us. 
+asr:0: OUTPUT 2972.45-2981.38: And I believe that would continue for some time. I see. Thank you. Thank you for your detailed response. That's all. 
+asr:0: OUTPUT 2983.88-2988.15: Next is Mr. Hanaya from SNBC Niko Securities. 
+asr:0: OUTPUT 2989.61-2996.48: Thank you. I have one question regarding your production capacity. 
+asr:0: OUTPUT 2997.72-3002.80: For parts procurement, you have already explained in detail, so I understand. 
+asr:0: OUTPUT 3003.68-3012.53: Now, given the market outlook and projected increase in your market share for next fiscal year,. 
+asr:0: OUTPUT 3012.65-3020.74: If we assume that your revenue goes up by 20% from this fiscal year's 410 billion yen,. 
+asr:0: OUTPUT 3021.26-3027.03: On a quarterly basis, the sales would be over 120 billion yen. 
+asr:0: OUTPUT 3028.11-3030.69: My estimate is that. 
+asr:0: OUTPUT 3030.71-3041.94: Perhaps 120 billion yen level is the upper limit of your current capacity. It's the upper limit of what your current capacity can handle. 
+asr:0: OUTPUT 3042.60-3048.23: So I'm wondering if you see the need for additional capital expenditure going forward. 
+asr:0: OUTPUT 3048.25-3056.52: Or would you stick to your conventional policy of not increasing fixed costs and resort to external resources? 
+asr:0: OUTPUT 3056.72-3057.80: Can you comment on that? 
+asr:0: OUTPUT 3059.86-3062.84: In terms of the production capacity expansion. 
+asr:0: OUTPUT 3063.82-3072.59: Our basic policy is to handle incremental demand for systems through external resources outsourcing. 
+asr:0: OUTPUT 3074.65-3085.13: So we can respond to 120 billion sales with the current capacity, with the current system, as long as we can secure power supply. 
+asr:0: OUTPUT 3086.37-3095.04: We don't have any plans to drastically change our business model and switch to increasing in-house production capacity. 
+asr:0: OUTPUT 3096.40-3105.79: If there are incremental demands, we will respond by enhancing external production capacity. We will respond through outsourcing. 
+asr:0: OUTPUT 3106.75-3109.73: Having said that, for some of the consumables,. 
+asr:0: OUTPUT 3110.45-3118.26: It is more efficient to produce in-house, closer to customers, so for such some consumables. 
+asr:0: OUTPUT 3118.52-3122.00: There is a possibility of a capacity expansion. 
+asr:0: OUTPUT 3123.84-3133.21: But for the sales level of 120 billion yen per quarter, or 480 or 500 billion yen per year,. 
+asr:0: OUTPUT 3133.27-3136.76: I believe we can handle that with our current capacity. 
+asr:0: OUTPUT 3137.20-3144.44: And conversely even if they were to shrink to 400 or 350 billion yen for example. 
+asr:0: OUTPUT 3144.78-3148.07: We would not be affected because of this production style. 
+asr:0: OUTPUT 3149.69-3151.85: I see. Very clear. Thank you. That's all. 
+asr:0: OUTPUT 3153.39-3160.00: Thank you for your questions. With this, we end the Q&A session. Thank you for your participation. 
+asr:0: END
