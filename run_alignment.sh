@@ -1,5 +1,5 @@
 
-for year in 21 22
+for year in 21 #22
 do
     mkdir -p aligned_$year
     for file in whisper_output_$year/*.whisper
